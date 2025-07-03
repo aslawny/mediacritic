@@ -10,23 +10,18 @@
 </template>
 
 <script>
+import data from '/src/data.json'; 
+
+    /**
+     * Donn es du composant. Ici, c'est un tableau de podcasts.
+     * @type {Object}
+     */
 export default {
   name: 'PodcastsPage',
   data() {
     return {
-      podcasts: []
+      podcasts: data // Affectez les données du fichier data.json à la variable podcasts
     };
-  },
-  mounted() {
-    fetch("http://localhost:5000/podcasts")
-      .then(res => res.json())
-      .then(data => {
-        this.podcasts = data;
-      })
-      .catch(err => {
-        console.error("Erreur lors du fetch :", err);
-      });
   }
 }
 </script>
-
