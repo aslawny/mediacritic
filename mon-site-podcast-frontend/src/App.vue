@@ -62,6 +62,7 @@
 <script>
 import Footer from './Footer.vue'
 import { auth } from './auth'
+import data from '../src/data.json'; // Importation du fichier data.json
 import { onAuthStateChanged, signOut } from 'firebase/auth'
 
 export default {
@@ -96,12 +97,8 @@ export default {
     }
   },
   mounted() {
-    fetch("http://localhost:5000/podcasts")
-      .then(res => res.json())
-      .then(data => {
-        this.podcasts = data
-      })
-
+     this.podcasts = data; // Affectation des données du fichier data.json à la variable podcasts
+    
     onAuthStateChanged(auth, (user) => {
       this.user = user
       if (user) {
