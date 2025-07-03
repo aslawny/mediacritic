@@ -2,7 +2,7 @@
   <div class="about-page">
     <div class="about-container">
       <div class="about-header">
-        <h1>À propos de Podcaddict</h1>
+        <h1>À propos de MediaCritic</h1>
         <p class="about-subtitle">La passion des podcasts au cœur de notre mission</p>
       </div>
       
@@ -10,7 +10,7 @@
         <section class="about-section">
           <h2>Notre histoire</h2>
           <p>
-            Podcaddict est né de la passion de quelques amateurs de podcasts qui souhaitaient créer 
+            MediaCritic est né de la passion de quelques amateurs de podcasts qui souhaitaient créer 
             une plateforme dédiée à la découverte et au partage de contenus audio de qualité. 
             Nous croyons que chaque podcast a sa place et mérite d'être découvert par son public.
           </p>

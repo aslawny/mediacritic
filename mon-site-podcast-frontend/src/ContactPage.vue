@@ -11,7 +11,7 @@
           <h2>Nos coordonnées</h2>
           <div class="contact-item">
             <strong>Email :</strong>
-            <a href="mailto:contact@podcaddict.fr">contact@podcaddict.fr</a>
+            <a href="mailto:contact@MediaCritic.fr">contact@MediaCritic.fr</a>
           </div>
           <div class="contact-item">
             <strong>Réseaux sociaux :</strong>
