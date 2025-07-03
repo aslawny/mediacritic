@@ -4,8 +4,8 @@
       <div class="footer-content">
         <!-- Section À propos -->
         <div class="footer-section">
-          <h3>À propos de Podcaddict</h3>
-          <p>Podcaddict est une plateforme indépendante de recommandations de podcasts, créée par des passionnés pour des passionnés.</p>
+          <h3>À propos de MediaCritic</h3>
+          <p>MediaCritic est une plateforme indépendante de recommandations de podcasts, créée par des passionnés pour des passionnés.</p>
           <router-link to="/about" class="footer-link">En savoir plus</router-link>
         </div>
         
@@ -15,7 +15,7 @@
           <ul class="footer-links">
             <li><router-link to="/mentions-legales" class="footer-link">Mentions légales</router-link></li>
             <li><router-link to="/contact" class="footer-link">Contactez-nous</router-link></li>
-            <li><a href="mailto:contact@podcaddict.fr" class="footer-link">contact@podcaddict.fr</a></li>
+            <li><a href="mailto:contact@MediaCritic.fr" class="footer-link">contact@MediaCritic.fr</a></li>
           </ul>
         </div>
         
@@ -33,7 +33,7 @@
       
       <!-- Copyright -->
       <div class="footer-bottom">
-        <p>&copy; {{ currentYear }} Podcaddict. Tous droits réservés.</p>
+        <p>&copy; {{ currentYear }} MediaCritic. Tous droits réservés.</p>
         <p class="footer-tagline">Découvrez, écoutez, partagez vos podcasts préférés</p>
       </div>
     </div>

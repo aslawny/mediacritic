@@ -4,7 +4,7 @@
       <div class="nav-container">
         <!-- Logo + zone utilisateur -->
         <div class="logo-user">
-          <router-link to="/" class="logo">🎙️ Podcaddict</router-link>
+          <router-link to="/" class="logo">🎙️ MediaCritic</router-link>
           <div class="auth-zone">
             <div v-if="user">
               <div class="username" @click="toggleUserMenu">

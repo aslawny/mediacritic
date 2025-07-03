@@ -9,9 +9,9 @@
         <section class="mentions-section">
           <h2>Éditeur du site</h2>
           <p>
-            <strong>Podcaddict</strong><br>
+            <strong>MediaCritic</strong><br>
             Plateforme de recommandations de podcasts<br>
-            Email : contact@podcaddict.fr
+            Email : contact@MediaCritic.fr
           </p>
         </section>
         
