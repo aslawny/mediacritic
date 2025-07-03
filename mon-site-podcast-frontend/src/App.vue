@@ -71,7 +71,7 @@ export default {
   data() {
     return {
       searchQuery: '',
-      podcasts: [],
+      podcasts: data,
       showMenu: false,
       user: null,
       username: '',

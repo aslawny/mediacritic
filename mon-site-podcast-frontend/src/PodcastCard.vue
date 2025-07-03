@@ -26,6 +26,7 @@
 import { ref, computed, onMounted } from 'vue'
 import { doc, getDoc, updateDoc, arrayUnion, arrayRemove, setDoc } from 'firebase/firestore'
 import { getAuth, onAuthStateChanged } from 'firebase/auth'
+import data from '../src/data.json'; // Importation du fichier data.json
 import { db } from './firebase'
 
 const props = defineProps({

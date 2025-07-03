@@ -10,7 +10,7 @@
 </template>
 
 <script>
-import data from '/src/data.json'; 
+import data from '../src/data.json'; 
 
     /**
      * Donn es du composant. Ici, c'est un tableau de podcasts.
