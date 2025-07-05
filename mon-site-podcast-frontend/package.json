@@ -1,7 +1,7 @@
 {
-  "name": "mon-site-podcast",
+  "name": "mediacritic",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -16,5 +16,22 @@
   "devDependencies": {
     "@vitejs/plugin-vue": "^6.0.0",
     "vite": "^7.0.0"
-  }
+  },
+  "description": "This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aslawny/mediacritic.git#0eef9a51998cf983f0fcd713146e3cc043ca1f7a"
+  },
+  "keywords": [
+    "media",
+    "critic",
+    "podcast"
+  ],
+  "author": "aslawny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aslawny/mediacritic/issues"
+  },
+  "homepage": "https://github.com/aslawny/mediacritic/tree/0eef9a51998cf983f0fcd713146e3cc043ca1f7a#readme"
 }
