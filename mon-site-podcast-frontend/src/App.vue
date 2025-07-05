@@ -245,7 +245,6 @@ export default {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #222;
   border-radius: 25px;
   padding: 0.4rem;
   margin: 0 2rem;
@@ -258,7 +257,6 @@ export default {
   outline: none;
   padding: 0.5rem 1rem;
   border-radius: 20px;
-  width: 300px;
   font-size: 1rem;
   color: #fff;
 }
@@ -290,6 +288,7 @@ export default {
 }
 
 .dropdown-menu {
+  margin-right: 20px;
   position: absolute;
   top: 100%;
   right: 2rem;
