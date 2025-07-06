@@ -62,7 +62,7 @@
 <script>
 import Footer from './Footer.vue'
 import { auth } from './auth'
-import data from '../src/data.json'; // Importation du fichier data.json
+import data from './data.json'; // Importation du fichier data.json
 import { onAuthStateChanged, signOut } from 'firebase/auth'
 
 export default {
