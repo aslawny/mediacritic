@@ -24,7 +24,7 @@
     </div>
 
     <div v-else class="text-center py-10 text-gray-500 text-lg">
-      Aucun podcast trouvé pour cette catégorie.
+      Aucun podcast trouvé pour cette Categorie.
     </div>
   </div>
 </template>
@@ -47,11 +47,11 @@ export default {
     },
     categoryTitle() {
       const category = this.categories.find(c => c.slug === this.categorySlug)
-      return category ? category.name : 'Catégorie'
+      return category ? category.name : 'Categorie'
     },
     categoryPodcasts() {
       const result = this.podcasts.filter(p => {
-        const cat = p["Catégorie"] || p.category
+        const cat = p["Categorie"] || p.category
         const slug = this.slugify(cat?.toString().trim())
         return slug === this.categorySlug
       })
@@ -61,7 +61,7 @@ export default {
       return this.categoryPodcasts
         .map(p => ({
           ...p,
-          rating: this.estimateRatingFromDownloads(p["Téléchargements Monde"])
+          rating: this.estimateRatingFromDownloads(p["Monde"])
         }))
         .filter(p => p.rating !== null)
         .sort((a, b) => b.rating - a.rating)
@@ -100,11 +100,11 @@ export default {
     console.log("📍 Slug dans l'URL :", this.categorySlug)
 
     const categoriesBrutes = this.podcasts
-      .map(p => p["Catégorie"])
+      .map(p => p["Categorie"])
       .filter(Boolean)
       .map(cat => `"${cat}"`)
 
-    console.log("📚 Catégories trouvées dans les données :", [...new Set(categoriesBrutes)])
+    console.log("📚 Categories trouvées dans les données :", [...new Set(categoriesBrutes)])
   }
 }
 </script>

@@ -8,10 +8,10 @@
         <img :src="imageUrl" alt="Illustration du podcast" class="podcast-image" />
 
         <div class="details">
-          <p><strong>Catégorie :</strong> {{ podcast.Catégorie }}</p>
+          <p><strong>Categorie :</strong> {{ podcast.Categorie }}</p>
           <p><strong>Marque :</strong> {{ podcast.Marque }}</p>
-          <p><strong>Nombre d'épisodes :</strong> {{ podcast["Nombre d'épisodes"] }}</p>
-          <p><strong>Téléchargements :</strong> {{ podcast["Téléchargements Monde"] }}</p>
+          <p><strong>Episodes :</strong> {{ podcast["Episodes"] }}</p>
+          <p><strong>Téléchargements :</strong> {{ podcast["Monde"] }}</p>
         </div>
 
         <div v-if="rating !== null" class="rating-estimée">
@@ -127,7 +127,7 @@ export default {
       )
     },
     rating() {
-      const d = this.podcast?.["Téléchargements Monde"]
+      const d = this.podcast?.["Monde"]
       if (!d || isNaN(d)) return null
       const downloads = Number(d)
       if (downloads > 500000) return 95

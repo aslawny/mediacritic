@@ -3,7 +3,7 @@
     <h2>Classement des podcasts (mai 2025)</h2>
     <ul>
       <li v-for="podcast in podcasts" :key="podcast.id">
-        {{ podcast.Podcasts }} - {{ podcast.Catégorie }} - {{ podcast.Marque }}
+        {{ podcast.Podcasts }} - {{ podcast.Categorie }} - {{ podcast.Marque }}
       </li>
     </ul>
   </div>

@@ -4,7 +4,7 @@
     <!-- Image du podcast -->
     <img :src="podcast.image || 'https://via.placeholder.com/400x200?text=Podcast'" class="w-full h-full object-cover rounded-xl" />
 
-    <!-- Contenu de la carte (titre, catégorie, note) -->
+    <!-- Contenu de la carte (titre, Categorie, note) -->
     <div class="card-content absolute bottom-0 left-0 w-full p-3 bg-black/60 text-white">
       <h3 class="podcast-title text-lg font-bold truncate">{{ displayTitle }}</h3>
       <p class="podcast-category text-sm italic">{{ displayCategory }}</p>
@@ -83,7 +83,7 @@ const toggleFavorite = async () => {
 
 const displayTitle = computed(() => props.podcast.title || props.podcast.Podcasts || 'Sans titre')
 const displayCategory = computed(() => {
-  const slug = props.podcast.category || props.podcast.Catégorie
+  const slug = props.podcast.category || props.podcast.Categorie
   const categories = {
     'tech': 'Tech', 'culture': 'Culture', 'sport': 'Sport', 'musique': 'Musique',
     'histoire': 'Histoire', 'humour': 'Humour', 'true-crime': 'True Crime',
@@ -94,7 +94,7 @@ const displayCategory = computed(() => {
 
 const rating = computed(() => {
   if (props.podcast.rating != null) return props.podcast.rating
-  const downloads = props.podcast["Téléchargements Monde"]
+  const downloads = props.podcast["Monde"]
   const val = Number(downloads)
   if (!downloads || isNaN(val)) return null
   if (val > 500000) return 95
