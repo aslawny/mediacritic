@@ -70,12 +70,12 @@ export default {
     },
     mostListened() {
       return [...this.podcasts]
-        .sort((a, b) => b["Téléchargements Monde"] - a["Téléchargements Monde"])
+        .sort((a, b) => b["Monde"] - a["Monde"])
         .slice(0, 10)
     },
     trending() {
       return [...this.podcasts]
-        .filter(p => p["Téléchargements Monde"] > 1000)
+        .filter(p => p["Monde"] > 1000)
         .sort(() => Math.random() - 0.5)
         .slice(0, 10)
     }
@@ -88,10 +88,10 @@ export default {
         if (snap.exists()) {
           const favIds = snap.data().favorites || []
           this.favoritePodcasts = this.podcasts.filter(p => favIds.includes(p.id ?? p.Podcasts))
-          const favCategories = this.favoritePodcasts.map(p => p.category || p.Catégorie)
+          const favCategories = this.favoritePodcasts.map(p => p.category || p.Categorie)
           const uniqueCategories = [...new Set(favCategories)]
           this.recommendedPodcasts = this.podcasts.filter(p =>
-            uniqueCategories.includes(p.category || p.Catégorie) &&
+            uniqueCategories.includes(p.category || p.Categorie) &&
             !favIds.includes(p.id ?? p.Podcasts)
           ).slice(0, 10)
         }

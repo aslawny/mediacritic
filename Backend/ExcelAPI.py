@@ -14,7 +14,7 @@ def get_podcasts():
 
     # 🧠 Lecture + nettoyage
     df = pd.read_excel(filepath)
-    df = df[["Podcasts", "Téléchargements Monde", "Catégorie", "Marque", "Nombre d'épisodes"]]
+    df = df[["Podcasts", "Monde", "Categorie", "Marque", "Episodes"]]
 
     # 📤 Envoi des données au frontend
     podcasts = df.to_dict(orient="records")

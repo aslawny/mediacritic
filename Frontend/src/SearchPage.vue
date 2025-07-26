@@ -32,7 +32,7 @@ export default {
       return this.podcasts.filter(p => {
         const title = (p.Podcasts || '').toLowerCase()
         const brand = (p.Marque || '').toLowerCase()
-        const category = (p["Catégorie"] || '').toLowerCase()
+        const category = (p["Categorie"] || '').toLowerCase()
         return (
           title.includes(this.query) ||
           brand.includes(this.query) ||

@@ -82,7 +82,7 @@ export default {
     categories() {
       const slugs = new Set()
       return this.podcasts
-        .map(p => p["Catégorie"])
+        .map(p => p["Categorie"])
         .filter(c => !!c)
         .filter((cat) => {
           const slug = this.slugify(cat)
