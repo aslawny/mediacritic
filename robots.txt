@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /assets/
 
 Sitemap: https://www.mediacritic.fr/sitemap.xml
