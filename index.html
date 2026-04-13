@@ -1,0 +1,773 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MediaCritic — Le podcast qui donne son avis, même quand on ne lui a pas demandé</title>
+  <meta name="description" content="MediaCritic analyse et critique des formats audio et vidéo : podcasts, émissions, chaînes YouTube, streams Twitch. Chaque semaine, Alex et Lolo décortiquent un média avec méthode, passion et humour." />
+  <link rel="icon" href="assets/logo.png" type="image/png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Syne:wght@700;800&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg-dark:    #0c1624;
+      --bg-card:    #111f33;
+      --bg-card2:   #162036;
+      --orange:     #e05a2b;
+      --orange-light: #f5832a;
+      --gold:       #f0a500;
+      --cream:      #f0e8d8;
+      --muted:      #8a9bb5;
+      --border:     rgba(255,255,255,0.07);
+      --radius:     14px;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--bg-dark);
+      color: var(--cream);
+      font-family: 'Inter', sans-serif;
+      line-height: 1.6;
+      overflow-x: hidden;
+    }
+
+    a { color: inherit; text-decoration: none; }
+
+    /* ── NAV ── */
+    nav {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 16px 48px;
+      background: rgba(12, 22, 36, 0.88);
+      backdrop-filter: blur(14px);
+      border-bottom: 1px solid var(--border);
+    }
+    .nav-logo { display: flex; align-items: center; gap: 12px; }
+    .nav-logo img { height: 38px; width: auto; border-radius: 8px; }
+    .nav-logo span { font-family: 'Syne', sans-serif; font-size: 1.2rem; letter-spacing: .03em; }
+    .nav-links { display: flex; gap: 32px; font-size: .9rem; color: var(--muted); }
+    .nav-links a:hover { color: var(--cream); }
+    .nav-cta {
+      background: var(--orange); color: #fff;
+      padding: 9px 22px; border-radius: 8px; font-size: .9rem; font-weight: 600;
+      transition: background .2s;
+    }
+    .nav-cta:hover { background: var(--orange-light); }
+
+    /* ── HERO ── */
+    .hero {
+      min-height: 100vh;
+      display: flex; flex-direction: column; align-items: center; justify-content: center;
+      text-align: center;
+      padding: 120px 24px 80px;
+      background:
+        radial-gradient(ellipse 80% 60% at 50% 0%, rgba(224,90,43,.18) 0%, transparent 65%),
+        var(--bg-dark);
+      position: relative;
+      overflow: hidden;
+    }
+    .hero::before {
+      content: '';
+      position: absolute; inset: 0;
+      background: url('assets/banner.png') center/cover no-repeat;
+      opacity: .06;
+    }
+    .hero-badge {
+      display: inline-flex; align-items: center; gap: 8px;
+      background: rgba(224,90,43,.15); border: 1px solid rgba(224,90,43,.35);
+      color: var(--orange-light); padding: 6px 16px; border-radius: 20px;
+      font-size: .8rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase;
+      margin-bottom: 28px;
+    }
+    .hero-badge span { width: 7px; height: 7px; background: var(--orange-light); border-radius: 50%; animation: pulse 2s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity:1; } 50% { opacity:.3; } }
+
+    .hero-logo {
+      width: 130px; height: 130px; object-fit: contain;
+      border-radius: 24px; margin-bottom: 28px;
+      box-shadow: 0 0 60px rgba(224,90,43,.3);
+    }
+    .hero h1 {
+      font-family: 'Syne', sans-serif;
+      font-size: clamp(2.4rem, 6vw, 4.2rem);
+      font-weight: 800; line-height: 1.1;
+      letter-spacing: -.02em;
+      margin-bottom: 20px;
+    }
+    .hero h1 em { font-style: normal; color: var(--orange); }
+    .hero-tagline {
+      font-size: clamp(1rem, 2.5vw, 1.25rem);
+      color: var(--muted); max-width: 580px; margin: 0 auto 40px;
+    }
+    .hero-tagline strong { color: var(--cream); }
+
+    .listen-btns {
+      display: flex; flex-wrap: wrap; gap: 14px; justify-content: center;
+      margin-bottom: 60px;
+    }
+    .listen-btn {
+      display: flex; align-items: center; gap: 10px;
+      padding: 13px 24px; border-radius: 50px;
+      font-size: .9rem; font-weight: 600; letter-spacing: .02em;
+      transition: transform .2s, box-shadow .2s;
+      border: 1px solid rgba(255,255,255,.12);
+    }
+    .listen-btn:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(0,0,0,.35); }
+    .listen-btn.spotify  { background: #1db954; color: #fff; border-color: #1db954; }
+    .listen-btn.deezer   { background: #a238ff; color: #fff; border-color: #a238ff; }
+    .listen-btn.apple    { background: #fc3c44; color: #fff; border-color: #fc3c44; }
+    .listen-btn svg { width: 20px; height: 20px; flex-shrink: 0; }
+
+    .hero-scroll {
+      position: absolute; bottom: 36px; left: 50%; transform: translateX(-50%);
+      display: flex; flex-direction: column; align-items: center; gap: 6px;
+      color: var(--muted); font-size: .78rem;
+    }
+    .hero-scroll-arrow { width: 20px; height: 20px; border-right: 2px solid var(--muted); border-bottom: 2px solid var(--muted); transform: rotate(45deg); animation: bounce .8s ease-in-out infinite alternate; }
+    @keyframes bounce { from { transform: rotate(45deg) translateY(0); } to { transform: rotate(45deg) translateY(5px); } }
+
+    /* ── SECTIONS COMMON ── */
+    section { padding: 96px 24px; }
+    .container { max-width: 1100px; margin: 0 auto; }
+    .section-label {
+      display: inline-block;
+      color: var(--orange); font-size: .75rem; font-weight: 700;
+      letter-spacing: .12em; text-transform: uppercase;
+      margin-bottom: 14px;
+    }
+    .section-title {
+      font-family: 'Syne', sans-serif;
+      font-size: clamp(1.8rem, 4vw, 2.8rem);
+      font-weight: 800; line-height: 1.15;
+      margin-bottom: 16px;
+    }
+    .section-subtitle { color: var(--muted); max-width: 600px; margin-bottom: 56px; }
+    .divider { width: 48px; height: 3px; background: var(--orange); border-radius: 2px; margin: 16px 0 40px; }
+
+    /* ── ABOUT ── */
+    .about-grid {
+      display: grid; grid-template-columns: 1fr 1fr; gap: 48px; align-items: center;
+    }
+    .about-img-wrap { position: relative; }
+    .about-img-wrap img {
+      width: 100%; border-radius: var(--radius);
+      box-shadow: 0 20px 60px rgba(0,0,0,.5);
+    }
+    .about-badge {
+      position: absolute; bottom: -16px; right: -16px;
+      background: var(--orange); color: #fff;
+      padding: 16px 24px; border-radius: var(--radius);
+      font-weight: 700; font-size: 1rem; text-align: center;
+      box-shadow: 0 8px 24px rgba(224,90,43,.4);
+    }
+    .about-badge small { display: block; font-weight: 400; font-size: .75rem; opacity: .85; }
+    .about-text p { color: var(--muted); margin-bottom: 18px; }
+    .about-text p strong { color: var(--cream); }
+    .slogan-box {
+      background: var(--bg-card); border-left: 3px solid var(--orange);
+      padding: 18px 24px; border-radius: 0 var(--radius) var(--radius) 0;
+      font-style: italic; font-size: 1.05rem; color: var(--cream);
+      margin-top: 28px;
+    }
+
+    /* ── HOSTS ── */
+    .hosts { background: var(--bg-card); }
+    .hosts-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 32px; }
+    .host-card {
+      background: var(--bg-dark); border: 1px solid var(--border);
+      border-radius: var(--radius); padding: 36px;
+      position: relative; overflow: hidden;
+    }
+    .host-card::before {
+      content: ''; position: absolute; top: 0; left: 0; right: 0; height: 3px;
+      background: linear-gradient(90deg, var(--orange), var(--gold));
+    }
+    .host-initials {
+      width: 72px; height: 72px; border-radius: 50%;
+      display: flex; align-items: center; justify-content: center;
+      font-family: 'Syne', sans-serif; font-size: 1.5rem; font-weight: 800;
+      margin-bottom: 20px;
+    }
+    .host-a .host-initials { background: rgba(224,90,43,.2); color: var(--orange); }
+    .host-l .host-initials { background: rgba(240,165,0,.2); color: var(--gold); }
+    .host-name { font-family: 'Syne', sans-serif; font-size: 1.5rem; font-weight: 800; margin-bottom: 6px; }
+    .host-role { color: var(--orange); font-size: .82rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; margin-bottom: 16px; }
+    .host-desc { color: var(--muted); font-size: .92rem; }
+    .host-quotes { margin-top: 20px; display: flex; flex-direction: column; gap: 8px; }
+    .host-quote {
+      background: rgba(255,255,255,.04); border-radius: 8px;
+      padding: 9px 14px; font-size: .83rem; color: var(--cream); font-style: italic;
+    }
+
+    /* ── EPISODES ── */
+    .episodes-grid {
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px;
+    }
+    .ep-card {
+      background: var(--bg-card); border: 1px solid var(--border);
+      border-radius: var(--radius); padding: 22px 24px;
+      display: flex; flex-direction: column; gap: 10px;
+      transition: border-color .2s, transform .2s;
+      cursor: default;
+    }
+    .ep-card:hover { border-color: rgba(224,90,43,.4); transform: translateY(-3px); }
+    .ep-header { display: flex; align-items: center; justify-content: space-between; }
+    .ep-num { font-size: .75rem; font-weight: 700; color: var(--orange); letter-spacing: .06em; }
+    .ep-hosts { font-size: .72rem; color: var(--muted); }
+    .ep-title { font-weight: 700; font-size: 1rem; color: var(--cream); }
+    .ep-type {
+      display: inline-block; padding: 3px 10px; border-radius: 20px; font-size: .72rem; font-weight: 600;
+      background: rgba(255,255,255,.06); color: var(--muted);
+    }
+    .ep-card.featured { border-color: rgba(224,90,43,.35); }
+    .ep-card.featured .ep-num { color: var(--gold); }
+    .ep-links { display: flex; gap: 8px; margin-top: 8px; flex-wrap: wrap; }
+    .ep-link {
+      display: inline-flex; align-items: center; gap: 5px;
+      padding: 5px 12px; border-radius: 20px; font-size: .73rem; font-weight: 600;
+      transition: opacity .2s; border: 1px solid rgba(255,255,255,.12);
+    }
+    .ep-link:hover { opacity: .75; }
+    .ep-link.podcast { background: rgba(29,185,84,.12); color: #1db954; border-color: rgba(29,185,84,.3); }
+    .ep-link.episode { background: rgba(224,90,43,.12); color: var(--orange-light); border-color: rgba(224,90,43,.3); }
+
+    /* ── FORMAT ── */
+    .format { background: var(--bg-card); }
+    .format-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 24px; }
+    .format-item {
+      background: var(--bg-dark); border-radius: var(--radius); padding: 28px 24px;
+      border: 1px solid var(--border); text-align: center;
+    }
+    .format-icon { font-size: 2rem; margin-bottom: 14px; }
+    .format-item h3 { font-weight: 700; font-size: 1rem; margin-bottom: 8px; }
+    .format-item p { color: var(--muted); font-size: .85rem; }
+
+    /* ── LISTEN ── */
+    .listen-section {
+      background: linear-gradient(135deg, rgba(224,90,43,.15) 0%, rgba(240,165,0,.08) 100%);
+      border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);
+    }
+    .listen-inner { text-align: center; }
+    .listen-platforms { display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 40px; }
+    .platform-card {
+      display: flex; flex-direction: column; align-items: center; gap: 12px;
+      background: var(--bg-card); border: 1px solid var(--border);
+      border-radius: var(--radius); padding: 28px 36px;
+      transition: transform .2s, border-color .2s;
+    }
+    .platform-card:hover { transform: translateY(-4px); border-color: rgba(255,255,255,.18); }
+    .platform-card svg { width: 40px; height: 40px; }
+    .platform-card span { font-weight: 600; font-size: .9rem; }
+
+    /* ── FOOTER ── */
+    footer {
+      background: #070f1a; border-top: 1px solid var(--border);
+      padding: 60px 24px 40px;
+    }
+    .footer-inner {
+      max-width: 1100px; margin: 0 auto;
+      display: flex; justify-content: space-between; align-items: flex-start;
+      flex-wrap: wrap; gap: 40px;
+    }
+    .footer-brand { display: flex; flex-direction: column; gap: 12px; max-width: 300px; }
+    .footer-brand img { height: 52px; width: auto; border-radius: 10px; }
+    .footer-brand p { color: var(--muted); font-size: .85rem; }
+    .footer-links h4 { font-weight: 700; margin-bottom: 16px; font-size: .9rem; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+    .footer-links ul { list-style: none; display: flex; flex-direction: column; gap: 10px; }
+    .footer-links li a { color: var(--muted); font-size: .9rem; transition: color .2s; }
+    .footer-links li a:hover { color: var(--cream); }
+    .footer-bottom {
+      max-width: 1100px; margin: 40px auto 0;
+      border-top: 1px solid var(--border); padding-top: 24px;
+      display: flex; justify-content: space-between; align-items: center;
+      color: var(--muted); font-size: .82rem; flex-wrap: wrap; gap: 12px;
+    }
+
+    /* ── RESPONSIVE ── */
+    @media (max-width: 768px) {
+      nav { padding: 14px 20px; }
+      .nav-links { display: none; }
+      .about-grid, .hosts-grid { grid-template-columns: 1fr; }
+      .about-badge { position: static; margin-top: 20px; display: inline-block; }
+      .footer-inner { flex-direction: column; }
+      .footer-bottom { flex-direction: column; text-align: center; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav>
+  <div class="nav-logo">
+    <img src="assets/logo.png" alt="MediaCritic" />
+    <span>MediaCritic</span>
+  </div>
+  <div class="nav-links">
+    <a href="#about">À propos</a>
+    <a href="#animateurs">Les animateurs</a>
+    <a href="#episodes">Épisodes</a>
+    <a href="#ecouter">Écouter</a>
+  </div>
+  <a href="#ecouter" class="nav-cta">Écouter maintenant</a>
+</nav>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-badge"><span></span> Nouveau podcast francophone</div>
+  <img src="assets/logo.png" alt="Logo MediaCritic" class="hero-logo" />
+  <h1>Le podcast qui <em>dissèque</em><br/>les médias francophones</h1>
+  <p class="hero-tagline">
+    Chaque semaine, <strong>Alex et Lolo</strong> analysent un podcast, une émission ou une chaîne YouTube —
+    fond, forme, intentions. Comme on analyserait un film.
+  </p>
+  <div class="listen-btns">
+    <a href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener" class="listen-btn spotify">
+      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
+      Spotify
+    </a>
+    <a href="https://www.deezer.com/fr/show/1002376672" target="_blank" rel="noopener" class="listen-btn deezer">
+      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.81 4.16c0 .79-.9 1.43-2 1.43s-2-.64-2-1.43.9-1.43 2-1.43 2 .64 2 1.43zM6.27 19.84c0 .79-.9 1.43-2 1.43s-2-.64-2-1.43.9-1.43 2-1.43 2 .64 2 1.43zm12.54 0c0 .79-.9 1.43-2 1.43s-2-.64-2-1.43.9-1.43 2-1.43 2 .64 2 1.43zm-6.27 0c0 .79-.9 1.43-2 1.43s-2-.64-2-1.43.9-1.43 2-1.43 2 .64 2 1.43zM6.27 15.92c0 .79-.9 1.43-2 1.43s-2-.64-2-1.43.9-1.43 2-1.43 2 .64 2 1.43zm6.27 0c0 .79-.9 1.43-2 1.43s-2-.64-2-1.43.9-1.43 2-1.43 2 .64 2 1.43zm6.27 0c0 .79-.9 1.43-2 1.43s-2-.64-2-1.43.9-1.43 2-1.43 2 .64 2 1.43zm0-3.92c0 .79-.9 1.43-2 1.43s-2-.64-2-1.43.9-1.43 2-1.43 2 .64 2 1.43zm0-3.92c0 .79-.9 1.43-2 1.43s-2-.64-2-1.43.9-1.43 2-1.43 2 .64 2 1.43zm0-3.84c0 .79-.9 1.43-2 1.43s-2-.64-2-1.43.9-1.43 2-1.43 2 .64 2 1.43z"/></svg>
+      Deezer
+    </a>
+    <a href="https://podcasts.apple.com/fr/podcast/mediacritic/id1853247643" target="_blank" rel="noopener" class="listen-btn apple">
+      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12.152 6.896c-.948 0-2.415-1.078-3.96-1.04-2.04.027-3.91 1.183-4.961 3.014-2.117 3.675-.546 9.103 1.519 12.09 1.013 1.454 2.208 3.09 3.792 3.039 1.52-.065 2.09-.987 3.935-.987 1.831 0 2.35.987 3.96.948 1.637-.026 2.676-1.48 3.676-2.948 1.156-1.688 1.636-3.325 1.662-3.415-.039-.013-3.182-1.221-3.22-4.857-.026-3.04 2.48-4.494 2.597-4.559-1.429-2.09-3.623-2.324-4.39-2.376-2-.156-3.675 1.09-4.61 1.09zM15.53 3.83c.843-1.012 1.4-2.427 1.245-3.83-1.207.052-2.662.805-3.532 1.818-.78.896-1.454 2.338-1.273 3.714 1.338.104 2.715-.688 3.559-1.701"/></svg>
+      Apple Podcasts
+    </a>
+  </div>
+  <div class="hero-scroll">
+    <span>Défiler</span>
+    <div class="hero-scroll-arrow"></div>
+  </div>
+</section>
+
+<!-- À PROPOS -->
+<section id="about">
+  <div class="container">
+    <div class="about-grid">
+      <div class="about-img-wrap">
+        <img src="assets/banner.png" alt="MediaCritic banner" />
+        <div class="about-badge">
+          50+ épisodes<br/><small>Saison 1 en cours</small>
+        </div>
+      </div>
+      <div class="about-text">
+        <span class="section-label">À propos</span>
+        <h2 class="section-title">Analyser les médias<br/>comme on parle de cinéma</h2>
+        <div class="divider"></div>
+        <p>
+          <strong>MediaCritic</strong>, c'est le podcast francophone qui décortique les podcasts, émissions et chaînes YouTube avec la même rigueur qu'on analyserait un film ou une série.
+        </p>
+        <p>
+          Chaque épisode plonge dans un <strong>format audio ou vidéo</strong> pour en examiner la forme, le fond et les intentions éditoriales. Qu'est-ce qui fait la force d'une bonne émission ? Où se situent ses limites ?
+        </p>
+        <p>
+          Animé par <strong>Alex et Lolo</strong>, le podcast alterne les rôles chaque semaine — l'un présente, l'autre questionne — pour garder une dynamique toujours fraîche.
+        </p>
+        <div class="slogan-box">
+          « Le podcast qui donne son avis, même quand on ne lui a pas demandé »
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FORMAT -->
+<section class="format" id="format">
+  <div class="container">
+    <span class="section-label">Le format</span>
+    <h2 class="section-title">5 à 7 minutes. Chaque semaine.</h2>
+    <p class="section-subtitle">Un format court et dense, pensé pour être écouté n'importe où.</p>
+    <div class="format-grid">
+      <div class="format-item">
+        <div class="format-icon">🎙️</div>
+        <h3>Ouverture</h3>
+        <p>Présentation du podcast et accroche sur le média du jour</p>
+      </div>
+      <div class="format-item">
+        <div class="format-icon">🔍</div>
+        <h3>La Forme</h3>
+        <p>Format, production, rythme, qualité sonore et identité</p>
+      </div>
+      <div class="format-item">
+        <div class="format-icon">💡</div>
+        <h3>Le Fond</h3>
+        <p>Ligne éditoriale, valeurs, public cible, épisodes marquants</p>
+      </div>
+      <div class="format-item">
+        <div class="format-icon">⚖️</div>
+        <h3>Le Verdict</h3>
+        <p>Avis tranché, nuances et recommandation finale</p>
+      </div>
+      <div class="format-item">
+        <div class="format-icon">🔄</div>
+        <h3>L'Alternance</h3>
+        <p>Alex et Lolo échangent les rôles un épisode sur deux</p>
+      </div>
+      <div class="format-item">
+        <div class="format-icon">🎤</div>
+        <h3>Les Invités</h3>
+        <p>Des auditeurs ou experts analysent leurs coups de cœur</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ANIMATEURS -->
+<section id="animateurs">
+  <div class="container">
+    <span class="section-label">Les animateurs</span>
+    <h2 class="section-title">Alex & Lolo</h2>
+    <p class="section-subtitle">Deux regards différents, une même passion pour les médias francophones.</p>
+    <div class="hosts-grid">
+      <div class="host-card host-a">
+        <div class="host-initials">A</div>
+        <div class="host-name">Alex</div>
+        <div class="host-role">Co-animateur</div>
+        <p class="host-desc">
+          Analytique et enthousiaste, Alex structure ses présentations comme un chercheur.
+          Il crée des métaphores percutantes, donne des exemples précis et n'hésite pas à noter un média
+          « 9/10 sans hésiter ». Sa forte connexion personnelle avec les médias qu'il analyse
+          donne une sincérité rare à ses présentations.
+        </p>
+        <div class="host-quotes">
+          <div class="host-quote">« Franchement j'adore. Sans hésiter. »</div>
+          <div class="host-quote">« Mais est-ce que le fond suit ? »</div>
+          <div class="host-quote">« Et toi, tu en penses quoi ? »</div>
+        </div>
+      </div>
+      <div class="host-card host-l">
+        <div class="host-initials">L</div>
+        <div class="host-name">Lolo</div>
+        <div class="host-role">Co-animateur</div>
+        <p class="host-desc">
+          Narratif et bienveillant, Lolo raconte une histoire autour de chaque média.
+          Il apporte des anecdotes personnelles fortes et connecte les sujets à des enjeux
+          plus larges — éducation, société, tendances. Son autodérision humoristique
+          rend chaque épisode accessible.
+        </p>
+        <div class="host-quotes">
+          <div class="host-quote">« Prenez soin de vos oreilles ! »</div>
+          <div class="host-quote">« Eh bien, tu m'as donné envie d'aller écouter. »</div>
+          <div class="host-quote">« Car, oui, autant le dire tout de suite... »</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ÉPISODES -->
+<section id="episodes" style="background: var(--bg-card);">
+  <div class="container">
+    <span class="section-label">Catalogue</span>
+    <h2 class="section-title">Les épisodes</h2>
+    <p class="section-subtitle">Saison 1 — Médias analysés à ce jour.</p>
+    <div class="episodes-grid">
+
+      <div class="ep-card">
+        <div class="ep-header"><span class="ep-num">Ep. 1</span><span class="ep-hosts">Alex · Lolo</span></div>
+        <div class="ep-title">La 5e de Couv'</div>
+        <span class="ep-type">Podcast Manga</span>
+        <div class="ep-links">
+          <a class="ep-link podcast" href="https://open.spotify.com/show/0ggPPP6Ij67UeV5Rk7l1co" target="_blank" rel="noopener">🎙️ Le podcast</a>
+          <a class="ep-link episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        </div>
+      </div>
+
+      <div class="ep-card">
+        <div class="ep-header"><span class="ep-num">Ep. 2</span><span class="ep-hosts">Lolo · Alex</span></div>
+        <div class="ep-title">L'Esprit Critique</div>
+        <span class="ep-type">Pensée critique</span>
+        <div class="ep-links">
+          <a class="ep-link podcast" href="https://open.spotify.com/show/4SzSwkndi70OUfA7H5pzF3" target="_blank" rel="noopener">🎙️ Le podcast</a>
+          <a class="ep-link episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        </div>
+      </div>
+
+      <div class="ep-card">
+        <div class="ep-header"><span class="ep-num">Ep. 3</span><span class="ep-hosts">Alex · Lolo</span></div>
+        <div class="ep-title">Hardisk Stories</div>
+        <span class="ep-type">Podcast · YouTube</span>
+        <div class="ep-links">
+          <a class="ep-link podcast" href="https://open.spotify.com/show/3D4VBWomx5fRogCvG522sr" target="_blank" rel="noopener">🎙️ Le podcast</a>
+          <a class="ep-link episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        </div>
+      </div>
+
+      <div class="ep-card">
+        <div class="ep-header"><span class="ep-num">Ep. 4</span><span class="ep-hosts">Lolo · Alex</span></div>
+        <div class="ep-title">Le Podcast du Weekend</div>
+        <span class="ep-type">France Inter</span>
+        <div class="ep-links">
+          <a class="ep-link podcast" href="https://www.radiofrance.fr/franceinter/podcasts/le-podcast-du-week-end" target="_blank" rel="noopener">🎙️ Le podcast</a>
+          <a class="ep-link episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        </div>
+      </div>
+
+      <div class="ep-card">
+        <div class="ep-header"><span class="ep-num">Ep. 5</span><span class="ep-hosts">Alex · Lolo</span></div>
+        <div class="ep-title">La Story des Échos</div>
+        <span class="ep-type">Les Échos</span>
+        <div class="ep-links">
+          <a class="ep-link podcast" href="https://open.spotify.com/show/3OiGhrRIdqhorrpPhlfiFt" target="_blank" rel="noopener">🎙️ Le podcast</a>
+          <a class="ep-link episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        </div>
+      </div>
+
+      <div class="ep-card">
+        <div class="ep-header"><span class="ep-num">Ep. 6</span><span class="ep-hosts">Lolo · Alex</span></div>
+        <div class="ep-title">Blockbusters</div>
+        <span class="ep-type">Cinéma · Culture</span>
+        <div class="ep-links">
+          <a class="ep-link podcast" href="https://open.spotify.com/show/1KdvUs6nXe9BN0y2EuvtI0" target="_blank" rel="noopener">🎙️ Le podcast</a>
+          <a class="ep-link episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        </div>
+      </div>
+
+      <div class="ep-card">
+        <div class="ep-header"><span class="ep-num">Ep. 7</span><span class="ep-hosts">Alex · Lolo</span></div>
+        <div class="ep-title">Le Rendez-vous Tech</div>
+        <span class="ep-type">Tech</span>
+        <div class="ep-links">
+          <a class="ep-link podcast" href="https://open.spotify.com/show/390w6Ac9c2pLxCPyIjRWb4" target="_blank" rel="noopener">🎙️ Le podcast</a>
+          <a class="ep-link episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        </div>
+      </div>
+
+      <div class="ep-card">
+        <div class="ep-header"><span class="ep-num">Ep. 8</span><span class="ep-hosts">Lolo · Alex</span></div>
+        <div class="ep-title">Braincast</div>
+        <span class="ep-type">Sciences & neurosciences</span>
+        <div class="ep-links">
+          <a class="ep-link podcast" href="https://open.spotify.com/show/0LvIvCZfntBuZOpOEhTU0K" target="_blank" rel="noopener">🎙️ Le podcast</a>
+          <a class="ep-link episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        </div>
+      </div>
+
+      <div class="ep-card">
+        <div class="ep-header"><span class="ep-num">Ep. 9</span><span class="ep-hosts">Alex · Lolo</span></div>
+        <div class="ep-title">Fin du Game</div>
+        <span class="ep-type">Gaming</span>
+        <div class="ep-links">
+          <a class="ep-link podcast" href="https://open.spotify.com/show/12ujIDR1oBW5mzOWr6kazo" target="_blank" rel="noopener">🎙️ Le podcast</a>
+          <a class="ep-link episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        </div>
+      </div>
+
+      <div class="ep-card">
+        <div class="ep-header"><span class="ep-num">Ep. 10</span><span class="ep-hosts">Lolo · Alex</span></div>
+        <div class="ep-title">Floodcast</div>
+        <span class="ep-type">Culture · Humour</span>
+        <div class="ep-links">
+          <a class="ep-link podcast" href="https://open.spotify.com/show/0bmWonDp36VG0OpSYJwJHr" target="_blank" rel="noopener">🎙️ Le podcast</a>
+          <a class="ep-link episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        </div>
+      </div>
+
+      <div class="ep-card">
+        <div class="ep-header"><span class="ep-num">Ep. 11</span><span class="ep-hosts">Alex · Lolo</span></div>
+        <div class="ep-title">Émotions</div>
+        <span class="ep-type">Louie Media</span>
+        <div class="ep-links">
+          <a class="ep-link podcast" href="https://open.spotify.com/show/1D9CDBNZLICRUB6Z8i6sO2" target="_blank" rel="noopener">🎙️ Le podcast</a>
+          <a class="ep-link episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        </div>
+      </div>
+
+      <div class="ep-card">
+        <div class="ep-header"><span class="ep-num">Ep. 12</span><span class="ep-hosts">Lolo · Alex</span></div>
+        <div class="ep-title">SafePace</div>
+        <span class="ep-type">Podcast</span>
+        <div class="ep-links">
+          <a class="ep-link episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        </div>
+      </div>
+
+      <div class="ep-card">
+        <div class="ep-header"><span class="ep-num">Ep. 13</span><span class="ep-hosts">Gaëlle · Lolo</span></div>
+        <div class="ep-title">Entrez dans l'Histoire</div>
+        <span class="ep-type">RTL · Invitée Gaëlle</span>
+        <div class="ep-links">
+          <a class="ep-link podcast" href="https://open.spotify.com/show/7lcxzeC0jTbpU7jBDu5IyW" target="_blank" rel="noopener">🎙️ Le podcast</a>
+          <a class="ep-link episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        </div>
+      </div>
+
+      <div class="ep-card">
+        <div class="ep-header"><span class="ep-num">Ep. 14</span><span class="ep-hosts">Alex · Lolo</span></div>
+        <div class="ep-title">Seldell</div>
+        <span class="ep-type">YouTube</span>
+        <div class="ep-links">
+          <a class="ep-link podcast" href="https://www.youtube.com/@seldell" target="_blank" rel="noopener">🎙️ La chaîne</a>
+          <a class="ep-link episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        </div>
+      </div>
+
+      <div class="ep-card">
+        <div class="ep-header"><span class="ep-num">Ep. 15</span><span class="ep-hosts">Lolo · Alex</span></div>
+        <div class="ep-title">Passion Rénovation</div>
+        <span class="ep-type">YouTube</span>
+        <div class="ep-links">
+          <a class="ep-link podcast" href="https://www.youtube.com/@passionrenovation" target="_blank" rel="noopener">🎙️ La chaîne</a>
+          <a class="ep-link episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        </div>
+      </div>
+
+      <div class="ep-card">
+        <div class="ep-header"><span class="ep-num">Ep. 16</span><span class="ep-hosts">Alex · Lolo</span></div>
+        <div class="ep-title">Chef Otaku</div>
+        <span class="ep-type">YouTube</span>
+        <div class="ep-links">
+          <a class="ep-link podcast" href="https://www.youtube.com/@LeChefOtaku" target="_blank" rel="noopener">🎙️ La chaîne</a>
+          <a class="ep-link episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        </div>
+      </div>
+
+      <div class="ep-card">
+        <div class="ep-header"><span class="ep-num">Ep. 17</span><span class="ep-hosts">Steph · Alex</span></div>
+        <div class="ep-title">L'Heure du Crime</div>
+        <span class="ep-type">RTL · Invitée Steph</span>
+        <div class="ep-links">
+          <a class="ep-link podcast" href="https://open.spotify.com/show/3pYH5Kxw9IiznsPz0WoIn5" target="_blank" rel="noopener">🎙️ Le podcast</a>
+          <a class="ep-link episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        </div>
+      </div>
+
+      <div class="ep-card">
+        <div class="ep-header"><span class="ep-num">Ep. 18</span><span class="ep-hosts">Gaëlle · Lolo</span></div>
+        <div class="ep-title">On va déguster</div>
+        <span class="ep-type">France Inter · Invitée Gaëlle</span>
+        <div class="ep-links">
+          <a class="ep-link podcast" href="https://open.spotify.com/show/6KpFhDhZirqrDHPWxaUipc" target="_blank" rel="noopener">🎙️ Le podcast</a>
+          <a class="ep-link episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        </div>
+      </div>
+
+      <div class="ep-card">
+        <div class="ep-header"><span class="ep-num">Ep. 19</span><span class="ep-hosts">Alex · Lolo</span></div>
+        <div class="ep-title">Silicon Carne</div>
+        <span class="ep-type">Tech & humour</span>
+        <div class="ep-links">
+          <a class="ep-link podcast" href="https://open.spotify.com/show/4ZySO83XILSrFAINpUdb83" target="_blank" rel="noopener">🎙️ Le podcast</a>
+          <a class="ep-link episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        </div>
+      </div>
+
+      <div class="ep-card">
+        <div class="ep-header"><span class="ep-num">Ep. 20</span><span class="ep-hosts">Lolo · Alex</span></div>
+        <div class="ep-title">Extraterrien</div>
+        <span class="ep-type">Sport</span>
+        <div class="ep-links">
+          <a class="ep-link podcast" href="https://open.spotify.com/show/6rL54R4UG28OnyxHlj3PY8" target="_blank" rel="noopener">🎙️ Le podcast</a>
+          <a class="ep-link episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        </div>
+      </div>
+
+      <div class="ep-card featured">
+        <div class="ep-header"><span class="ep-num">Ep. 21</span><span class="ep-hosts">Alex · Lolo</span></div>
+        <div class="ep-title">L'After Foot</div>
+        <span class="ep-type">RMC Sport</span>
+        <div class="ep-links">
+          <a class="ep-link podcast" href="https://open.spotify.com/show/3ixMUAbmKEYcoRt62l48Zp" target="_blank" rel="noopener">🎙️ Le podcast</a>
+          <a class="ep-link episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        </div>
+      </div>
+
+      <div class="ep-card">
+        <div class="ep-header"><span class="ep-num">Ep. 22</span><span class="ep-hosts">Lolo · Alex</span></div>
+        <div class="ep-title">NotaBene</div>
+        <span class="ep-type">YouTube · Histoire</span>
+        <div class="ep-links">
+          <a class="ep-link podcast" href="https://www.youtube.com/@NotaBene" target="_blank" rel="noopener">🎙️ La chaîne</a>
+          <a class="ep-link episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        </div>
+      </div>
+
+      <div class="ep-card">
+        <div class="ep-header"><span class="ep-num">Ep. 23</span><span class="ep-hosts">Alex · Lolo</span></div>
+        <div class="ep-title">Re-Take</div>
+        <span class="ep-type">Podcast</span>
+        <div class="ep-links">
+          <a class="ep-link episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        </div>
+      </div>
+
+    </div>
+    <div style="text-align:center; margin-top: 40px;">
+      <a href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener"
+         style="display:inline-block; background: var(--orange); color:#fff; padding:14px 32px; border-radius:8px; font-weight:700;">
+        Voir tous les épisodes →
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- ÉCOUTER -->
+<section class="listen-section" id="ecouter">
+  <div class="container listen-inner">
+    <span class="section-label">Disponible sur</span>
+    <h2 class="section-title">Écouter MediaCritic</h2>
+    <p class="section-subtitle">Retrouvez tous les épisodes sur votre plateforme préférée.</p>
+    <div class="listen-platforms">
+      <a href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener" class="platform-card">
+        <svg viewBox="0 0 24 24" fill="#1db954"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
+        <span>Spotify</span>
+      </a>
+      <a href="https://www.deezer.com/fr/show/1002376672" target="_blank" rel="noopener" class="platform-card">
+        <svg viewBox="0 0 24 24" fill="#a238ff" width="40" height="40"><rect width="24" height="24" rx="4" fill="#a238ff"/><text x="4" y="18" font-size="14" fill="white" font-weight="bold">Dz</text></svg>
+        <span>Deezer</span>
+      </a>
+      <a href="https://podcasts.apple.com/fr/podcast/mediacritic/id1853247643" target="_blank" rel="noopener" class="platform-card">
+        <svg viewBox="0 0 24 24" fill="#fc3c44"><path d="M12.152 6.896c-.948 0-2.415-1.078-3.96-1.04-2.04.027-3.91 1.183-4.961 3.014-2.117 3.675-.546 9.103 1.519 12.09 1.013 1.454 2.208 3.09 3.792 3.039 1.52-.065 2.09-.987 3.935-.987 1.831 0 2.35.987 3.96.948 1.637-.026 2.676-1.48 3.676-2.948 1.156-1.688 1.636-3.325 1.662-3.415-.039-.013-3.182-1.221-3.22-4.857-.026-3.04 2.48-4.494 2.597-4.559-1.429-2.09-3.623-2.324-4.39-2.376-2-.156-3.675 1.09-4.61 1.09zM15.53 3.83c.843-1.012 1.4-2.427 1.245-3.83-1.207.052-2.662.805-3.532 1.818-.78.896-1.454 2.338-1.273 3.714 1.338.104 2.715-.688 3.559-1.701"/></svg>
+        <span>Apple Podcasts</span>
+      </a>
+      <a href="https://www.linkedin.com/in/mediacritic-inc-b890743a1/" target="_blank" rel="noopener" class="platform-card">
+        <svg viewBox="0 0 24 24" fill="#0077b5"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+        <span>LinkedIn</span>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <img src="assets/logo.png" alt="MediaCritic" />
+      <p>Le podcast francophone qui analyse et critique les médias audio et vidéo. Chaque semaine, avec méthode et passion.</p>
+    </div>
+    <div class="footer-links">
+      <h4>Écouter</h4>
+      <ul>
+        <li><a href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">Spotify</a></li>
+        <li><a href="https://www.deezer.com/fr/show/1002376672" target="_blank" rel="noopener">Deezer</a></li>
+        <li><a href="https://podcasts.apple.com/fr/podcast/mediacritic/id1853247643" target="_blank" rel="noopener">Apple Podcasts</a></li>
+      </ul>
+    </div>
+    <div class="footer-links">
+      <h4>Suivre</h4>
+      <ul>
+        <li><a href="https://www.linkedin.com/in/mediacritic-inc-b890743a1/" target="_blank" rel="noopener">LinkedIn</a></li>
+        <li><a href="#" target="_blank" rel="noopener">Instagram @MediaCritic</a></li>
+      </ul>
+    </div>
+    <div class="footer-links">
+      <h4>Navigation</h4>
+      <ul>
+        <li><a href="#about">À propos</a></li>
+        <li><a href="#animateurs">Les animateurs</a></li>
+        <li><a href="#episodes">Épisodes</a></li>
+        <li><a href="#ecouter">Écouter</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <span>© 2026 MediaCritic — Tous droits réservés</span>
+    <span>« Prenez soin de vos oreilles ! »</span>
+  </div>
+</footer>
+
+</body>
+</html>
