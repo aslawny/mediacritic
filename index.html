@@ -336,35 +336,47 @@
 
     /* ─── EPISODES ─── */
     .ep-grid {
-      display: grid; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); gap: 16px;
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px;
     }
     .ep-card {
-      padding: 22px 22px 18px; border-radius: var(--radius);
+      padding: 16px; border-radius: var(--radius);
       background: var(--c-glass); border: 1px solid var(--c-border);
-      display: flex; flex-direction: column; gap: 10px;
+      display: flex; flex-direction: row; gap: 14px; align-items: flex-start;
       transition: border-color .2s, transform .2s, background .2s;
     }
     .ep-card:hover { border-color: rgba(232,98,45,.35); transform: translateY(-3px); background: rgba(255,255,255,.05); }
     .ep-card.new { border-color: rgba(245,166,35,.25); }
-    .ep-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; }
-    .ep-num { font-size: .72rem; font-weight: 700; letter-spacing: .08em; color: var(--c-orange); }
+    .ep-cover {
+      width: 82px; height: 82px; flex-shrink: 0;
+      border-radius: 10px; overflow: hidden; background: var(--c-bg3);
+    }
+    .ep-cover img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .ep-cover-ph {
+      width: 100%; height: 100%;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 1.4rem; font-weight: 800; font-family: 'Syne', sans-serif;
+      color: rgba(255,255,255,.55);
+    }
+    .ep-info { flex: 1; display: flex; flex-direction: column; gap: 7px; min-width: 0; }
+    .ep-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 6px; }
+    .ep-num { font-size: .7rem; font-weight: 700; letter-spacing: .08em; color: var(--c-orange); white-space: nowrap; }
     .ep-card.new .ep-num { color: var(--c-gold); }
     .ep-hosts-tag {
-      font-size: .68rem; font-weight: 600; color: var(--c-muted);
+      font-size: .64rem; font-weight: 600; color: var(--c-muted);
       background: rgba(255,255,255,.05); border: 1px solid var(--c-border);
-      padding: 2px 9px; border-radius: 99px; white-space: nowrap;
+      padding: 2px 8px; border-radius: 99px; white-space: nowrap;
     }
-    .ep-name { font-weight: 700; font-size: .97rem; color: var(--c-text); line-height: 1.35; }
+    .ep-name { font-weight: 700; font-size: .93rem; color: var(--c-text); line-height: 1.3; }
     .ep-type-tag {
-      display: inline-block; font-size: .7rem; font-weight: 600;
+      display: inline-block; font-size: .67rem; font-weight: 600;
       color: var(--c-muted); background: rgba(255,255,255,.04);
       border: 1px solid var(--c-border); border-radius: 99px;
-      padding: 3px 10px; align-self: flex-start;
+      padding: 2px 9px; align-self: flex-start;
     }
-    .ep-actions { display: flex; gap: 7px; flex-wrap: wrap; margin-top: 2px; }
+    .ep-actions { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 2px; }
     .ep-action {
       display: inline-flex; align-items: center; gap: 5px;
-      font-size: .72rem; font-weight: 600; padding: 5px 13px;
+      font-size: .69rem; font-weight: 600; padding: 4px 11px;
       border-radius: 99px; transition: opacity .18s, transform .18s;
       border: 1px solid transparent;
     }
@@ -615,22 +627,12 @@
         <div class="host-name">Alex</div>
         <div class="host-role">Co-animateur</div>
         <p class="host-desc">Analytique et enthousiaste, Alex structure ses présentations comme un chercheur. Il crée des métaphores percutantes, cite des exemples précis et n'hésite pas à donner un 9/10 quand ça le mérite. Sa connexion personnelle aux médias qu'il analyse donne une sincérité rare.</p>
-        <div class="host-quotes">
-          <div class="hq">« Franchement j'adore. Sans hésiter. »</div>
-          <div class="hq">« Mais est-ce que le fond suit ? »</div>
-          <div class="hq">« Ton verdict ? »</div>
-        </div>
       </div>
       <div class="host-card host-l">
         <div class="host-av">L</div>
         <div class="host-name">Lolo</div>
         <div class="host-role">Co-animateur</div>
         <p class="host-desc">Narratif et bienveillant, Lolo raconte une histoire autour de chaque média. Il connecte les sujets à des enjeux plus larges — éducation, société, tendances — avec une autodérision qui rend chaque épisode accessible et chaleureux.</p>
-        <div class="host-quotes">
-          <div class="hq">« Prenez soin de vos oreilles ! »</div>
-          <div class="hq">« Tu m'as donné envie d'aller écouter. »</div>
-          <div class="hq">« Car, oui, autant le dire tout de suite… »</div>
-        </div>
       </div>
     </div>
   </div>
@@ -645,230 +647,299 @@
     <div class="ep-grid">
 
       <div class="ep-card">
-        <div class="ep-head"><span class="ep-num">Ep. 1</span><span class="ep-hosts-tag">Alex · Lolo</span></div>
-        <div class="ep-name">La 5e de Couv'</div>
-        <span class="ep-type-tag">Podcast Manga</span>
-        <div class="ep-actions">
-          <a class="ep-action podcast" href="https://open.spotify.com/show/0ggPPP6Ij67UeV5Rk7l1co" target="_blank" rel="noopener">🎙️ Le podcast</a>
-          <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        <div class="ep-cover"><img src="https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f2d48c5e002d40f029b613c79" alt="La 5e de Couv'" loading="lazy" onerror="this.parentElement.innerHTML='<div class=ep-cover-ph style=background:linear-gradient(135deg,#1a3a2a,#0d2018)>5C</div>'"></div>
+        <div class="ep-info">
+          <div class="ep-head"><span class="ep-num">Ep. 1</span><span class="ep-hosts-tag">Alex · Lolo</span></div>
+          <div class="ep-name">La 5e de Couv'</div>
+          <span class="ep-type-tag">Podcast Manga</span>
+          <div class="ep-actions">
+            <a class="ep-action podcast" href="https://open.spotify.com/show/0ggPPP6Ij67UeV5Rk7l1co" target="_blank" rel="noopener">🎙️ Le podcast</a>
+            <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+          </div>
         </div>
       </div>
 
       <div class="ep-card">
-        <div class="ep-head"><span class="ep-num">Ep. 2</span><span class="ep-hosts-tag">Lolo · Alex</span></div>
-        <div class="ep-name">L'Esprit Critique</div>
-        <span class="ep-type-tag">Pensée critique</span>
-        <div class="ep-actions">
-          <a class="ep-action podcast" href="https://open.spotify.com/show/4SzSwkndi70OUfA7H5pzF3" target="_blank" rel="noopener">🎙️ Le podcast</a>
-          <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        <div class="ep-cover"><img src="https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f750659b65ecaa9814f44a09e" alt="L'Esprit Critique" loading="lazy" onerror="this.parentElement.innerHTML='<div class=ep-cover-ph style=background:linear-gradient(135deg,#1a2a3a,#0d1828)>EC</div>'"></div>
+        <div class="ep-info">
+          <div class="ep-head"><span class="ep-num">Ep. 2</span><span class="ep-hosts-tag">Lolo · Alex</span></div>
+          <div class="ep-name">L'Esprit Critique</div>
+          <span class="ep-type-tag">Pensée critique</span>
+          <div class="ep-actions">
+            <a class="ep-action podcast" href="https://open.spotify.com/show/4SzSwkndi70OUfA7H5pzF3" target="_blank" rel="noopener">🎙️ Le podcast</a>
+            <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+          </div>
         </div>
       </div>
 
       <div class="ep-card">
-        <div class="ep-head"><span class="ep-num">Ep. 3</span><span class="ep-hosts-tag">Alex · Lolo</span></div>
-        <div class="ep-name">Hardisk Stories</div>
-        <span class="ep-type-tag">Podcast · YouTube</span>
-        <div class="ep-actions">
-          <a class="ep-action podcast" href="https://open.spotify.com/show/3D4VBWomx5fRogCvG522sr" target="_blank" rel="noopener">🎙️ Le podcast</a>
-          <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        <div class="ep-cover"><img src="https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1fce4e4109050e21c24b061f3b" alt="Hardisk Stories" loading="lazy" onerror="this.parentElement.innerHTML='<div class=ep-cover-ph style=background:linear-gradient(135deg,#2a1a3a,#180d28)>HS</div>'"></div>
+        <div class="ep-info">
+          <div class="ep-head"><span class="ep-num">Ep. 3</span><span class="ep-hosts-tag">Alex · Lolo</span></div>
+          <div class="ep-name">Hardisk Stories</div>
+          <span class="ep-type-tag">Podcast · YouTube</span>
+          <div class="ep-actions">
+            <a class="ep-action podcast" href="https://open.spotify.com/show/3D4VBWomx5fRogCvG522sr" target="_blank" rel="noopener">🎙️ Le podcast</a>
+            <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+          </div>
         </div>
       </div>
 
       <div class="ep-card">
-        <div class="ep-head"><span class="ep-num">Ep. 4</span><span class="ep-hosts-tag">Lolo · Alex</span></div>
-        <div class="ep-name">Le Podcast du Weekend</div>
-        <span class="ep-type-tag">France Inter</span>
-        <div class="ep-actions">
-          <a class="ep-action podcast" href="https://www.radiofrance.fr/franceinter/podcasts/le-podcast-du-week-end" target="_blank" rel="noopener">🎙️ Le podcast</a>
-          <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        <div class="ep-cover"><div class="ep-cover-ph" style="background:linear-gradient(135deg,#1a2040,#0e1530)">PW</div></div>
+        <div class="ep-info">
+          <div class="ep-head"><span class="ep-num">Ep. 4</span><span class="ep-hosts-tag">Lolo · Alex</span></div>
+          <div class="ep-name">Le Podcast du Weekend</div>
+          <span class="ep-type-tag">France Inter</span>
+          <div class="ep-actions">
+            <a class="ep-action podcast" href="https://www.radiofrance.fr/franceinter/podcasts/le-podcast-du-week-end" target="_blank" rel="noopener">🎙️ Le podcast</a>
+            <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+          </div>
         </div>
       </div>
 
       <div class="ep-card">
-        <div class="ep-head"><span class="ep-num">Ep. 5</span><span class="ep-hosts-tag">Alex · Lolo</span></div>
-        <div class="ep-name">La Story des Échos</div>
-        <span class="ep-type-tag">Les Échos</span>
-        <div class="ep-actions">
-          <a class="ep-action podcast" href="https://open.spotify.com/show/3OiGhrRIdqhorrpPhlfiFt" target="_blank" rel="noopener">🎙️ Le podcast</a>
-          <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        <div class="ep-cover"><img src="https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f9285eaf4430dcaaa5e04c0e6" alt="La Story des Échos" loading="lazy" onerror="this.parentElement.innerHTML='<div class=ep-cover-ph style=background:linear-gradient(135deg,#2a200a,#1a1408)>SE</div>'"></div>
+        <div class="ep-info">
+          <div class="ep-head"><span class="ep-num">Ep. 5</span><span class="ep-hosts-tag">Alex · Lolo</span></div>
+          <div class="ep-name">La Story des Échos</div>
+          <span class="ep-type-tag">Les Échos</span>
+          <div class="ep-actions">
+            <a class="ep-action podcast" href="https://open.spotify.com/show/3OiGhrRIdqhorrpPhlfiFt" target="_blank" rel="noopener">🎙️ Le podcast</a>
+            <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+          </div>
         </div>
       </div>
 
       <div class="ep-card">
-        <div class="ep-head"><span class="ep-num">Ep. 6</span><span class="ep-hosts-tag">Lolo · Alex</span></div>
-        <div class="ep-name">Blockbusters</div>
-        <span class="ep-type-tag">Cinéma · Culture</span>
-        <div class="ep-actions">
-          <a class="ep-action podcast" href="https://open.spotify.com/show/1KdvUs6nXe9BN0y2EuvtI0" target="_blank" rel="noopener">🎙️ Le podcast</a>
-          <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        <div class="ep-cover"><img src="https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f93ea6d580c21bdfca8fdf49e" alt="Blockbusters" loading="lazy" onerror="this.parentElement.innerHTML='<div class=ep-cover-ph style=background:linear-gradient(135deg,#2a1a0a,#1a1008)>BB</div>'"></div>
+        <div class="ep-info">
+          <div class="ep-head"><span class="ep-num">Ep. 6</span><span class="ep-hosts-tag">Lolo · Alex</span></div>
+          <div class="ep-name">Blockbusters</div>
+          <span class="ep-type-tag">Cinéma · Culture</span>
+          <div class="ep-actions">
+            <a class="ep-action podcast" href="https://open.spotify.com/show/1KdvUs6nXe9BN0y2EuvtI0" target="_blank" rel="noopener">🎙️ Le podcast</a>
+            <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+          </div>
         </div>
       </div>
 
       <div class="ep-card">
-        <div class="ep-head"><span class="ep-num">Ep. 7</span><span class="ep-hosts-tag">Alex · Lolo</span></div>
-        <div class="ep-name">Le Rendez-vous Tech</div>
-        <span class="ep-type-tag">Tech</span>
-        <div class="ep-actions">
-          <a class="ep-action podcast" href="https://open.spotify.com/show/390w6Ac9c2pLxCPyIjRWb4" target="_blank" rel="noopener">🎙️ Le podcast</a>
-          <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        <div class="ep-cover"><img src="https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1fa46717f8d96d4edb66a6abc7" alt="Le Rendez-vous Tech" loading="lazy" onerror="this.parentElement.innerHTML='<div class=ep-cover-ph style=background:linear-gradient(135deg,#0a2030,#061420)>RT</div>'"></div>
+        <div class="ep-info">
+          <div class="ep-head"><span class="ep-num">Ep. 7</span><span class="ep-hosts-tag">Alex · Lolo</span></div>
+          <div class="ep-name">Le Rendez-vous Tech</div>
+          <span class="ep-type-tag">Tech</span>
+          <div class="ep-actions">
+            <a class="ep-action podcast" href="https://open.spotify.com/show/390w6Ac9c2pLxCPyIjRWb4" target="_blank" rel="noopener">🎙️ Le podcast</a>
+            <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+          </div>
         </div>
       </div>
 
       <div class="ep-card">
-        <div class="ep-head"><span class="ep-num">Ep. 8</span><span class="ep-hosts-tag">Lolo · Alex</span></div>
-        <div class="ep-name">Braincast</div>
-        <span class="ep-type-tag">Sciences & neurosciences</span>
-        <div class="ep-actions">
-          <a class="ep-action podcast" href="https://open.spotify.com/show/0LvIvCZfntBuZOpOEhTU0K" target="_blank" rel="noopener">🎙️ Le podcast</a>
-          <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        <div class="ep-cover"><img src="https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f1e1b682a1d0c08d05f29d3ea" alt="Braincast" loading="lazy" onerror="this.parentElement.innerHTML='<div class=ep-cover-ph style=background:linear-gradient(135deg,#1a0a2a,#100618)>BC</div>'"></div>
+        <div class="ep-info">
+          <div class="ep-head"><span class="ep-num">Ep. 8</span><span class="ep-hosts-tag">Lolo · Alex</span></div>
+          <div class="ep-name">Braincast</div>
+          <span class="ep-type-tag">Sciences & neurosciences</span>
+          <div class="ep-actions">
+            <a class="ep-action podcast" href="https://open.spotify.com/show/0LvIvCZfntBuZOpOEhTU0K" target="_blank" rel="noopener">🎙️ Le podcast</a>
+            <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+          </div>
         </div>
       </div>
 
       <div class="ep-card">
-        <div class="ep-head"><span class="ep-num">Ep. 9</span><span class="ep-hosts-tag">Alex · Lolo</span></div>
-        <div class="ep-name">Fin du Game</div>
-        <span class="ep-type-tag">Gaming</span>
-        <div class="ep-actions">
-          <a class="ep-action podcast" href="https://open.spotify.com/show/12ujIDR1oBW5mzOWr6kazo" target="_blank" rel="noopener">🎙️ Le podcast</a>
-          <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        <div class="ep-cover"><img src="https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1fdccf5cd78bd803a3aa09c1f2" alt="Fin du Game" loading="lazy" onerror="this.parentElement.innerHTML='<div class=ep-cover-ph style=background:linear-gradient(135deg,#2a0a0a,#1a0808)>FG</div>'"></div>
+        <div class="ep-info">
+          <div class="ep-head"><span class="ep-num">Ep. 9</span><span class="ep-hosts-tag">Alex · Lolo</span></div>
+          <div class="ep-name">Fin du Game</div>
+          <span class="ep-type-tag">Gaming</span>
+          <div class="ep-actions">
+            <a class="ep-action podcast" href="https://open.spotify.com/show/12ujIDR1oBW5mzOWr6kazo" target="_blank" rel="noopener">🎙️ Le podcast</a>
+            <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+          </div>
         </div>
       </div>
 
       <div class="ep-card">
-        <div class="ep-head"><span class="ep-num">Ep. 10</span><span class="ep-hosts-tag">Lolo · Alex</span></div>
-        <div class="ep-name">Floodcast</div>
-        <span class="ep-type-tag">Culture · Humour</span>
-        <div class="ep-actions">
-          <a class="ep-action podcast" href="https://open.spotify.com/show/0bmWonDp36VG0OpSYJwJHr" target="_blank" rel="noopener">🎙️ Le podcast</a>
-          <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        <div class="ep-cover"><img src="https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f7436e8e10e39bac66ac48c72" alt="Floodcast" loading="lazy" onerror="this.parentElement.innerHTML='<div class=ep-cover-ph style=background:linear-gradient(135deg,#0a2a20,#061a14)>FC</div>'"></div>
+        <div class="ep-info">
+          <div class="ep-head"><span class="ep-num">Ep. 10</span><span class="ep-hosts-tag">Lolo · Alex</span></div>
+          <div class="ep-name">Floodcast</div>
+          <span class="ep-type-tag">Culture · Humour</span>
+          <div class="ep-actions">
+            <a class="ep-action podcast" href="https://open.spotify.com/show/0bmWonDp36VG0OpSYJwJHr" target="_blank" rel="noopener">🎙️ Le podcast</a>
+            <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+          </div>
         </div>
       </div>
 
       <div class="ep-card">
-        <div class="ep-head"><span class="ep-num">Ep. 11</span><span class="ep-hosts-tag">Alex · Lolo</span></div>
-        <div class="ep-name">Émotions</div>
-        <span class="ep-type-tag">Louie Media</span>
-        <div class="ep-actions">
-          <a class="ep-action podcast" href="https://open.spotify.com/show/1D9CDBNZLICRUB6Z8i6sO2" target="_blank" rel="noopener">🎙️ Le podcast</a>
-          <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        <div class="ep-cover"><img src="https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f7a091d89a9cdbb30571a6fd7" alt="Émotions" loading="lazy" onerror="this.parentElement.innerHTML='<div class=ep-cover-ph style=background:linear-gradient(135deg,#2a0a20,#180614)>EM</div>'"></div>
+        <div class="ep-info">
+          <div class="ep-head"><span class="ep-num">Ep. 11</span><span class="ep-hosts-tag">Alex · Lolo</span></div>
+          <div class="ep-name">Émotions</div>
+          <span class="ep-type-tag">Louie Media</span>
+          <div class="ep-actions">
+            <a class="ep-action podcast" href="https://open.spotify.com/show/1D9CDBNZLICRUB6Z8i6sO2" target="_blank" rel="noopener">🎙️ Le podcast</a>
+            <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+          </div>
         </div>
       </div>
 
       <div class="ep-card">
-        <div class="ep-head"><span class="ep-num">Ep. 12</span><span class="ep-hosts-tag">Lolo · Alex</span></div>
-        <div class="ep-name">SafePace</div>
-        <span class="ep-type-tag">Podcast</span>
-        <div class="ep-actions">
-          <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        <div class="ep-cover"><div class="ep-cover-ph" style="background:linear-gradient(135deg,#1e3020,#101c12)">SP</div></div>
+        <div class="ep-info">
+          <div class="ep-head"><span class="ep-num">Ep. 12</span><span class="ep-hosts-tag">Lolo · Alex</span></div>
+          <div class="ep-name">SafePace</div>
+          <span class="ep-type-tag">Podcast</span>
+          <div class="ep-actions">
+            <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+          </div>
         </div>
       </div>
 
       <div class="ep-card">
-        <div class="ep-head"><span class="ep-num">Ep. 13</span><span class="ep-hosts-tag">Gaëlle · Lolo</span></div>
-        <div class="ep-name">Entrez dans l'Histoire</div>
-        <span class="ep-type-tag">RTL · Invitée Gaëlle</span>
-        <div class="ep-actions">
-          <a class="ep-action podcast" href="https://open.spotify.com/show/7lcxzeC0jTbpU7jBDu5IyW" target="_blank" rel="noopener">🎙️ Le podcast</a>
-          <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        <div class="ep-cover"><img src="https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1fa805f790cf828fd0f4d7dc98" alt="Entrez dans l'Histoire" loading="lazy" onerror="this.parentElement.innerHTML='<div class=ep-cover-ph style=background:linear-gradient(135deg,#2a1800,#1a1000)>EH</div>'"></div>
+        <div class="ep-info">
+          <div class="ep-head"><span class="ep-num">Ep. 13</span><span class="ep-hosts-tag">Gaëlle · Lolo</span></div>
+          <div class="ep-name">Entrez dans l'Histoire</div>
+          <span class="ep-type-tag">RTL · Invitée Gaëlle</span>
+          <div class="ep-actions">
+            <a class="ep-action podcast" href="https://open.spotify.com/show/7lcxzeC0jTbpU7jBDu5IyW" target="_blank" rel="noopener">🎙️ Le podcast</a>
+            <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+          </div>
         </div>
       </div>
 
       <div class="ep-card">
-        <div class="ep-head"><span class="ep-num">Ep. 14</span><span class="ep-hosts-tag">Alex · Lolo</span></div>
-        <div class="ep-name">Seldell</div>
-        <span class="ep-type-tag">YouTube</span>
-        <div class="ep-actions">
-          <a class="ep-action podcast" href="https://www.youtube.com/@seldell" target="_blank" rel="noopener">🎙️ La chaîne</a>
-          <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        <div class="ep-cover"><div class="ep-cover-ph" style="background:linear-gradient(135deg,#2a0a0a,#1a0808)">▶</div></div>
+        <div class="ep-info">
+          <div class="ep-head"><span class="ep-num">Ep. 14</span><span class="ep-hosts-tag">Alex · Lolo</span></div>
+          <div class="ep-name">Seldell</div>
+          <span class="ep-type-tag">YouTube</span>
+          <div class="ep-actions">
+            <a class="ep-action podcast" href="https://www.youtube.com/@seldell" target="_blank" rel="noopener">🎙️ La chaîne</a>
+            <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+          </div>
         </div>
       </div>
 
       <div class="ep-card">
-        <div class="ep-head"><span class="ep-num">Ep. 15</span><span class="ep-hosts-tag">Lolo · Alex</span></div>
-        <div class="ep-name">Passion Rénovation</div>
-        <span class="ep-type-tag">YouTube</span>
-        <div class="ep-actions">
-          <a class="ep-action podcast" href="https://www.youtube.com/@passionrenovation" target="_blank" rel="noopener">🎙️ La chaîne</a>
-          <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        <div class="ep-cover"><div class="ep-cover-ph" style="background:linear-gradient(135deg,#1a2a0a,#101a06)">▶</div></div>
+        <div class="ep-info">
+          <div class="ep-head"><span class="ep-num">Ep. 15</span><span class="ep-hosts-tag">Lolo · Alex</span></div>
+          <div class="ep-name">Passion Rénovation</div>
+          <span class="ep-type-tag">YouTube</span>
+          <div class="ep-actions">
+            <a class="ep-action podcast" href="https://www.youtube.com/@passionrenovation" target="_blank" rel="noopener">🎙️ La chaîne</a>
+            <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+          </div>
         </div>
       </div>
 
       <div class="ep-card">
-        <div class="ep-head"><span class="ep-num">Ep. 16</span><span class="ep-hosts-tag">Alex · Lolo</span></div>
-        <div class="ep-name">Chef Otaku</div>
-        <span class="ep-type-tag">YouTube</span>
-        <div class="ep-actions">
-          <a class="ep-action podcast" href="https://www.youtube.com/@LeChefOtaku" target="_blank" rel="noopener">🎙️ La chaîne</a>
-          <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        <div class="ep-cover"><div class="ep-cover-ph" style="background:linear-gradient(135deg,#2a1a0a,#1a1006)">▶</div></div>
+        <div class="ep-info">
+          <div class="ep-head"><span class="ep-num">Ep. 16</span><span class="ep-hosts-tag">Alex · Lolo</span></div>
+          <div class="ep-name">Chef Otaku</div>
+          <span class="ep-type-tag">YouTube</span>
+          <div class="ep-actions">
+            <a class="ep-action podcast" href="https://www.youtube.com/@LeChefOtaku" target="_blank" rel="noopener">🎙️ La chaîne</a>
+            <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+          </div>
         </div>
       </div>
 
       <div class="ep-card">
-        <div class="ep-head"><span class="ep-num">Ep. 17</span><span class="ep-hosts-tag">Steph · Alex</span></div>
-        <div class="ep-name">L'Heure du Crime</div>
-        <span class="ep-type-tag">RTL · Invitée Steph</span>
-        <div class="ep-actions">
-          <a class="ep-action podcast" href="https://open.spotify.com/show/3pYH5Kxw9IiznsPz0WoIn5" target="_blank" rel="noopener">🎙️ Le podcast</a>
-          <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        <div class="ep-cover"><img src="https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1fdf32fa6ac48c0df3a64def52" alt="L'Heure du Crime" loading="lazy" onerror="this.parentElement.innerHTML='<div class=ep-cover-ph style=background:linear-gradient(135deg,#1a0a0a,#120606)>HC</div>'"></div>
+        <div class="ep-info">
+          <div class="ep-head"><span class="ep-num">Ep. 17</span><span class="ep-hosts-tag">Steph · Alex</span></div>
+          <div class="ep-name">L'Heure du Crime</div>
+          <span class="ep-type-tag">RTL · Invitée Steph</span>
+          <div class="ep-actions">
+            <a class="ep-action podcast" href="https://open.spotify.com/show/3pYH5Kxw9IiznsPz0WoIn5" target="_blank" rel="noopener">🎙️ Le podcast</a>
+            <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+          </div>
         </div>
       </div>
 
       <div class="ep-card">
-        <div class="ep-head"><span class="ep-num">Ep. 18</span><span class="ep-hosts-tag">Gaëlle · Lolo</span></div>
-        <div class="ep-name">On va déguster</div>
-        <span class="ep-type-tag">France Inter · Invitée Gaëlle</span>
-        <div class="ep-actions">
-          <a class="ep-action podcast" href="https://open.spotify.com/show/6KpFhDhZirqrDHPWxaUipc" target="_blank" rel="noopener">🎙️ Le podcast</a>
-          <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        <div class="ep-cover"><img src="https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f3607a93d0644a2b022e4a671" alt="On va déguster" loading="lazy" onerror="this.parentElement.innerHTML='<div class=ep-cover-ph style=background:linear-gradient(135deg,#2a2010,#1a160a)>OD</div>'"></div>
+        <div class="ep-info">
+          <div class="ep-head"><span class="ep-num">Ep. 18</span><span class="ep-hosts-tag">Gaëlle · Lolo</span></div>
+          <div class="ep-name">On va déguster</div>
+          <span class="ep-type-tag">France Inter · Invitée Gaëlle</span>
+          <div class="ep-actions">
+            <a class="ep-action podcast" href="https://open.spotify.com/show/6KpFhDhZirqrDHPWxaUipc" target="_blank" rel="noopener">🎙️ Le podcast</a>
+            <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+          </div>
         </div>
       </div>
 
       <div class="ep-card">
-        <div class="ep-head"><span class="ep-num">Ep. 19</span><span class="ep-hosts-tag">Alex · Lolo</span></div>
-        <div class="ep-name">Silicon Carne</div>
-        <span class="ep-type-tag">Tech & humour</span>
-        <div class="ep-actions">
-          <a class="ep-action podcast" href="https://open.spotify.com/show/4ZySO83XILSrFAINpUdb83" target="_blank" rel="noopener">🎙️ Le podcast</a>
-          <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        <div class="ep-cover"><img src="https://image-cdn-fa.spotifycdn.com/image/ab6772ab000015be18df4fb0ab98b5a0f96b5343" alt="Silicon Carne" loading="lazy" onerror="this.parentElement.innerHTML='<div class=ep-cover-ph style=background:linear-gradient(135deg,#0a1a2a,#060e1a)>SC</div>'"></div>
+        <div class="ep-info">
+          <div class="ep-head"><span class="ep-num">Ep. 19</span><span class="ep-hosts-tag">Alex · Lolo</span></div>
+          <div class="ep-name">Silicon Carne</div>
+          <span class="ep-type-tag">Tech & humour</span>
+          <div class="ep-actions">
+            <a class="ep-action podcast" href="https://open.spotify.com/show/4ZySO83XILSrFAINpUdb83" target="_blank" rel="noopener">🎙️ Le podcast</a>
+            <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+          </div>
         </div>
       </div>
 
       <div class="ep-card">
-        <div class="ep-head"><span class="ep-num">Ep. 20</span><span class="ep-hosts-tag">Lolo · Alex</span></div>
-        <div class="ep-name">Extraterrien</div>
-        <span class="ep-type-tag">Sport</span>
-        <div class="ep-actions">
-          <a class="ep-action podcast" href="https://open.spotify.com/show/6rL54R4UG28OnyxHlj3PY8" target="_blank" rel="noopener">🎙️ Le podcast</a>
-          <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        <div class="ep-cover"><img src="https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f6fa076652226f76a53476ea3" alt="Extraterrien" loading="lazy" onerror="this.parentElement.innerHTML='<div class=ep-cover-ph style=background:linear-gradient(135deg,#0a2a1a,#061a10)>EX</div>'"></div>
+        <div class="ep-info">
+          <div class="ep-head"><span class="ep-num">Ep. 20</span><span class="ep-hosts-tag">Lolo · Alex</span></div>
+          <div class="ep-name">Extraterrien</div>
+          <span class="ep-type-tag">Sport</span>
+          <div class="ep-actions">
+            <a class="ep-action podcast" href="https://open.spotify.com/show/6rL54R4UG28OnyxHlj3PY8" target="_blank" rel="noopener">🎙️ Le podcast</a>
+            <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+          </div>
         </div>
       </div>
 
       <div class="ep-card new">
-        <div class="ep-head"><span class="ep-num">Ep. 21</span><span class="ep-hosts-tag">Alex · Lolo</span></div>
-        <div class="ep-name">L'After Foot</div>
-        <span class="ep-type-tag">RMC Sport</span>
-        <div class="ep-actions">
-          <a class="ep-action podcast" href="https://open.spotify.com/show/3ixMUAbmKEYcoRt62l48Zp" target="_blank" rel="noopener">🎙️ Le podcast</a>
-          <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        <div class="ep-cover"><img src="https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1fd8b25c355ebfb839e0d87c66" alt="L'After Foot" loading="lazy" onerror="this.parentElement.innerHTML='<div class=ep-cover-ph style=background:linear-gradient(135deg,#1a2a0a,#101a06)>AF</div>'"></div>
+        <div class="ep-info">
+          <div class="ep-head"><span class="ep-num">Ep. 21</span><span class="ep-hosts-tag">Alex · Lolo</span></div>
+          <div class="ep-name">L'After Foot</div>
+          <span class="ep-type-tag">RMC Sport</span>
+          <div class="ep-actions">
+            <a class="ep-action podcast" href="https://open.spotify.com/show/3ixMUAbmKEYcoRt62l48Zp" target="_blank" rel="noopener">🎙️ Le podcast</a>
+            <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+          </div>
         </div>
       </div>
 
       <div class="ep-card">
-        <div class="ep-head"><span class="ep-num">Ep. 22</span><span class="ep-hosts-tag">Lolo · Alex</span></div>
-        <div class="ep-name">NotaBene</div>
-        <span class="ep-type-tag">YouTube · Histoire</span>
-        <div class="ep-actions">
-          <a class="ep-action podcast" href="https://www.youtube.com/@NotaBene" target="_blank" rel="noopener">🎙️ La chaîne</a>
-          <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        <div class="ep-cover"><div class="ep-cover-ph" style="background:linear-gradient(135deg,#1a1a2a,#0e0e1a)">▶</div></div>
+        <div class="ep-info">
+          <div class="ep-head"><span class="ep-num">Ep. 22</span><span class="ep-hosts-tag">Lolo · Alex</span></div>
+          <div class="ep-name">NotaBene</div>
+          <span class="ep-type-tag">YouTube · Histoire</span>
+          <div class="ep-actions">
+            <a class="ep-action podcast" href="https://www.youtube.com/@NotaBene" target="_blank" rel="noopener">🎙️ La chaîne</a>
+            <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+          </div>
         </div>
       </div>
 
       <div class="ep-card">
-        <div class="ep-head"><span class="ep-num">Ep. 23</span><span class="ep-hosts-tag">Alex · Lolo</span></div>
-        <div class="ep-name">Re-Take</div>
-        <span class="ep-type-tag">Podcast</span>
-        <div class="ep-actions">
-          <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+        <div class="ep-cover"><div class="ep-cover-ph" style="background:linear-gradient(135deg,#2a1a10,#1a100a)">RT</div></div>
+        <div class="ep-info">
+          <div class="ep-head"><span class="ep-num">Ep. 23</span><span class="ep-hosts-tag">Alex · Lolo</span></div>
+          <div class="ep-name">Re-Take</div>
+          <span class="ep-type-tag">Podcast</span>
+          <div class="ep-actions">
+            <a class="ep-action episode" href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener">🎧 Notre épisode</a>
+          </div>
         </div>
       </div>
 
