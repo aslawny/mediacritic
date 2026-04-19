@@ -359,6 +359,23 @@
     /* ─── HOSTS ─── */
     .hosts-section { background: var(--c-bg2); }
     .hosts-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; }
+    /* ─── GUESTS ─── */
+    .guests-section { background: var(--c-bg); }
+    .guests-grid { display: flex; flex-direction: column; gap: 16px; margin-top: 8px; }
+    .guest-card {
+      padding: 22px 28px; border-radius: var(--radius-lg);
+      background: var(--c-card); border: 1px solid var(--c-border);
+      display: flex; align-items: center; gap: 20px;
+      transition: border-color .25s, transform .25s;
+    }
+    .guest-card:hover { border-color: rgba(245,166,35,.3); transform: translateX(4px); }
+    .guest-card::before { content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 2px; background: linear-gradient(180deg, var(--c-gold), rgba(245,166,35,.2)); border-radius: 2px; }
+    .guest-av { width: 48px; height: 48px; border-radius: 50%; flex-shrink: 0; display: flex; align-items: center; justify-content: center; font-family: 'Syne', sans-serif; font-size: 1.1rem; font-weight: 800; background: linear-gradient(135deg, rgba(245,166,35,.15), rgba(255,207,110,.08)); color: var(--c-gold); }
+    .guest-info { flex: 1; }
+    .guest-name { font-family: 'Syne', sans-serif; font-size: 1rem; font-weight: 800; margin-bottom: 2px; }
+    .guest-role { font-size: .78rem; color: var(--c-muted); margin-bottom: 4px; }
+    .guest-eps { font-size: .8rem; color: var(--c-gold); font-weight: 600; }
+    .guest-empty { text-align: center; padding: 40px 20px; color: var(--c-muted); font-size: .9rem; line-height: 1.7; border: 1px dashed var(--c-border); border-radius: var(--radius-lg); }
     .host-card {
       padding: 36px; border-radius: var(--radius-lg);
       background: var(--c-card); border: 1px solid var(--c-border);
@@ -685,13 +702,28 @@
         <div class="host-av">A</div>
         <div class="host-name">Alex</div>
         <div class="host-role">Co-animateur</div>
-        <p class="host-desc">Alex a écouté tellement de podcasts qu'il analyse désormais les conversations de comptoir en termes de "fond, forme et intentions". Sa famille a arrêté de lui demander "t'as aimé ?" après un film — la réponse dure 25 minutes et se termine par une note sur 10. Chez Mediacritic, c'est lui qui gère l'écriture des épisodes, les réseaux sociaux et la tech, et cela explique beaucoup de chose sur la piètre qualité de l'ensemble mais comme pour ses cheveux, il se fait une raison et persevère</p>
+        <p class="host-desc">Alex a écouté tellement de podcasts qu'il analyse désormais les conversations de comptoir en termes de "fond, forme et intentions". Sa famille a arrêté de lui demander "t'as aimé ?" après un film — la réponse dure 25 minutes, se termine par une note sur 10, et inclut systématiquement une comparaison avec un épisode de podcast. Chez MediaCritic, c'est lui qui gère l'écriture des épisodes, les réseaux sociaux et la tech, ce qui explique beaucoup de choses sur la piètre qualité de l'ensemble — mais comme pour ses cheveux, il se fait une raison et persévère.</p>
       </div>
       <div class="host-card host-l">
         <div class="host-av">L</div>
         <div class="host-name">Lolo</div>
         <div class="host-role">Co-animateur</div>
-        <p class="host-desc">Lolo est le genre de personne qui commence une phrase par "pour faire court" et termine 8 minutes plus tard avec une analogie sur l'éducation nationale. Officiellement co-animateur. ingénieur son, créa, boucher, coupeur de bois, il est le doudou de l'émission, la caution sagesse, calme, tranquillité ..</p>
+        <p class="host-desc">Lolo est le genre de personne qui commence une phrase par "pour faire court" et termine 8 minutes plus tard avec une analogie sur l'éducation nationale. Il a répondu "ça dépend" à chaque question posée depuis 2009 — et il avait raison à chaque fois, ce qui est à la fois admirable et très difficile à vivre au quotidien. Officiellement co-animateur, ingénieur son, créa, boucher, coupeur de bois — il est le doudou de l'émission, la caution sagesse, calme, tranquillité.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ INVITÉS ═══ -->
+<section id="invites" class="guests-section">
+  <div class="container">
+    <div class="s-label">Ceux qui ont osé</div>
+    <h2 class="s-title">Les <span class="grad">invités</span></h2>
+    <p class="s-sub">De temps en temps, quelqu'un accepte de venir s'exprimer devant un micro tenu par deux personnes qui vont immédiatement analyser tout ce qu'il dit. On appelle ça du courage. Ou de l'inconscience.</p>
+    <div class="guests-grid">
+      <div class="guest-empty">
+        🎙️ Aucun invité pour l'instant — ils ont probablement lu les critiques d'abord.<br>
+        <span style="font-size:.8rem;color:var(--c-muted);margin-top:6px;display:block">Les prochains courageux apparaîtront ici avec l'épisode sur lequel ils interviennent.</span>
       </div>
     </div>
   </div>
