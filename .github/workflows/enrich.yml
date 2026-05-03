@@ -1,0 +1,77 @@
+name: Enrichissement catalogue
+
+on:
+  schedule:
+    - cron: '0 7 * * 1'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Mode de collecte'
+        required: false
+        default: 'auto'
+        type: choice
+        options:
+          - auto
+          - podcast
+          - youtube
+
+permissions:
+  contents: write
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout gh-pages into ./site
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: ./site
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Determine run mode
+        id: mode
+        run: |
+          MANUAL_MODE="${{ github.event.inputs.mode }}"
+          if [ -n "$MANUAL_MODE" ] && [ "$MANUAL_MODE" != "auto" ]; then
+            echo "mode=$MANUAL_MODE" >> "$GITHUB_OUTPUT"
+          elif [ -f "./site/.run_state" ]; then
+            LAST_MODE=$(cat ./site/.run_state)
+            if [ "$LAST_MODE" = "podcast" ]; then
+              echo "mode=youtube" >> "$GITHUB_OUTPUT"
+            else
+              echo "mode=podcast" >> "$GITHUB_OUTPUT"
+            fi
+          else
+            echo "mode=youtube" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Collect data
+        working-directory: ./site
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python scripts/collect_data.py --mode ${{ steps.mode.outputs.mode }}
+
+      - name: Generate fiches
+        working-directory: ./site
+        run: python scripts/generate_fiches.py
+
+      - name: Update .run_state
+        run: echo "${{ steps.mode.outputs.mode }}" > ./site/.run_state
+
+      - name: Commit and push to gh-pages
+        working-directory: ./site
+        run: |
+          git config user.name "MediaCritic Bot"
+          git config user.email "bot@mediacritic.fr"
+          git add -A
+          git diff --cached --quiet || git commit -m "auto: enrichissement ${{ steps.mode.outputs.mode }}s — $(date -u +%Y-%m-%d)"
+          git push origin gh-pages
