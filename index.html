@@ -437,7 +437,7 @@
 
   function buildFilters(cats){
     const existing=filtersCt.querySelectorAll('[data-cat]');
-    existing.forEach(b=>{if(b.dataset.cat!=='all'&&b.dataset.cat!=='mc')b.remove();});
+    existing.forEach(b=>{if(b.dataset.cat!=='all'&&b.dataset.cat!=='mc'&&!b.dataset.cat.startsWith('type:'))b.remove();});
     CATS_ORDER.filter(c=>cats.has(c)).concat([...cats].filter(c=>!CATS_ORDER.includes(c)).sort()).forEach(cat=>{
       const btn=document.createElement('button');
       btn.className='filter-btn'; btn.dataset.cat=cat; btn.textContent=cat;
