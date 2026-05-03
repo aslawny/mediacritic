@@ -164,6 +164,10 @@
     .filter-btn:hover { border-color:rgba(232,98,45,.35); color:var(--c-text); }
     .filter-btn.active { background:var(--c-orange); border-color:var(--c-orange); color:#fff; font-weight:600; }
     .filter-btn.mc-btn { color:var(--c-orange); border-color:rgba(232,98,45,.4); }
+    .filter-btn.type-podcast { color:#60a5fa; border-color:rgba(96,165,250,.4); }
+    .filter-btn.type-podcast.active { background:#2563eb; border-color:#2563eb; color:#fff; }
+    .filter-btn.type-youtube { color:#f87171; border-color:rgba(248,113,113,.4); }
+    .filter-btn.type-youtube.active { background:#dc2626; border-color:#dc2626; color:#fff; }
 
     .results-info { font-size:.78rem; color:var(--c-muted2); margin:8px 0 16px; min-height:18px; }
     .results-info strong { color:var(--c-orange); }
@@ -313,6 +317,8 @@
   <div class="filters" id="filters-container">
     <button class="filter-btn active" data-cat="all">Tous</button>
     <button class="filter-btn mc-btn" data-cat="mc">⭐ Analysés par MediaCritic</button>
+    <button class="filter-btn type-podcast" data-cat="type:podcast">🎙️ Podcasts</button>
+    <button class="filter-btn type-youtube" data-cat="type:youtube">📺 Chaînes YouTube</button>
   </div>
   <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;">
     <div class="results-info" id="results-info" style="margin:0;flex:1;"></div>
@@ -457,11 +463,23 @@
     let base=catalog;
     if(activeCats.size>0){
       const hasMc=activeCats.has('mc');
-      const cats=[...activeCats].filter(c=>c!=='mc');
+      const typeFilters=[...activeCats].filter(c=>c.startsWith('type:'));
+      const cats=[...activeCats].filter(c=>c!=='mc'&&!c.startsWith('type:'));
       base=base.filter(i=>{
-        if(hasMc && i.hasMediacritic) return true;
-        if(cats.length>0 && i.categories && cats.some(c=>i.categories.includes(c))) return true;
-        return false;
+        // Type filter: AND constraint (item must match selected type)
+        if(typeFilters.length>0){
+          const matchType=typeFilters.some(t=>
+            t==='type:youtube' ? i.type==='youtube' : i.type!=='youtube'
+          );
+          if(!matchType) return false;
+        }
+        // Category/MC filter: OR logic
+        if(hasMc||cats.length>0){
+          if(hasMc && i.hasMediacritic) return true;
+          if(cats.length>0 && i.categories && cats.some(c=>i.categories.includes(c))) return true;
+          return false;
+        }
+        return true;
       });
     }
     if(searchTerm.length>=2&&fuse){
