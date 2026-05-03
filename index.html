@@ -312,7 +312,10 @@
     <button class="filter-btn active" data-cat="all">Tous</button>
     <button class="filter-btn mc-btn" data-cat="mc">⭐ Analysés par MediaCritic</button>
   </div>
-  <div class="results-info" id="results-info"></div>
+  <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;">
+    <div class="results-info" id="results-info" style="margin:0;flex:1;"></div>
+    <button id="clear-filters" style="display:none;font-size:.73rem;font-weight:600;color:var(--c-orange);background:rgba(232,98,45,.08);border:1px solid rgba(232,98,45,.3);padding:4px 12px;border-radius:20px;cursor:pointer;white-space:nowrap;transition:background .2s;" onclick="clearAllFilters()">✕ Effacer les filtres</button>
+  </div>
 </div>
 
 <!-- GRID -->
@@ -401,13 +404,23 @@
   };
   const CATS_ORDER=['true crime','histoire','culture','tech','gaming','gastronomie','sciences','société','humour','sport','musique','actualité','enfants','éducation','cinéma','séries','livres','business','entrepreneuriat','psychologie','bien-être','géopolitique','international','anime','geek','numérique','culture geek','jeux indé','nostalgie','rétro','vulgarisation','news','économie','running','endurance','football','santé','DIY','maison','rénovation','comédie','critique'];
   const PAGE_SIZE=60;
-  let catalog=[],fuse=null,filtered=[],page=0,activecat='all',searchTerm='';
+  let catalog=[],fuse=null,filtered=[],page=0,searchTerm='';
+  // Multi-select: Set of active category keys. Empty = "Tous"
+  let activeCats=new Set();
   const grid=document.getElementById('grid');
   const empty=document.getElementById('empty-state');
   const loadBtn=document.getElementById('load-more-btn');
   const searchInput=document.getElementById('search-input');
   const resInfo=document.getElementById('results-info');
   const filtersCt=document.getElementById('filters-container');
+
+  function syncFilterUI(){
+    filtersCt.querySelectorAll('[data-cat]').forEach(btn=>{
+      const cat=btn.dataset.cat;
+      if(cat==='all') btn.classList.toggle('active', activeCats.size===0);
+      else btn.classList.toggle('active', activeCats.has(cat));
+    });
+  }
 
   function buildFilters(cats){
     const existing=filtersCt.querySelectorAll('[data-cat]');
@@ -417,19 +430,33 @@
       btn.className='filter-btn'; btn.dataset.cat=cat; btn.textContent=cat;
       filtersCt.appendChild(btn);
     });
+    syncFilterUI();
     filtersCt.addEventListener('click',e=>{
       const btn=e.target.closest('[data-cat]');
       if(!btn)return;
-      filtersCt.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('active'));
-      btn.classList.add('active');
-      activecat=btn.dataset.cat; page=0; applyFilters();
+      const cat=btn.dataset.cat;
+      if(cat==='all'){
+        activeCats.clear();
+      } else {
+        if(activeCats.has(cat)) activeCats.delete(cat);
+        else activeCats.add(cat);
+      }
+      syncFilterUI();
+      page=0; applyFilters();
     });
   }
 
   function applyFilters(){
     let base=catalog;
-    if(activecat==='mc') base=base.filter(i=>i.hasMediacritic);
-    else if(activecat!=='all') base=base.filter(i=>i.categories&&i.categories.includes(activecat));
+    if(activeCats.size>0){
+      const hasMc=activeCats.has('mc');
+      const cats=[...activeCats].filter(c=>c!=='mc');
+      base=base.filter(i=>{
+        if(hasMc && i.hasMediacritic) return true;
+        if(cats.length>0 && i.categories && cats.some(c=>i.categories.includes(c))) return true;
+        return false;
+      });
+    }
     if(searchTerm.length>=2&&fuse){
       const res=fuse.search(searchTerm,{limit:300});
       const slugs=new Set(res.map(r=>r.item.slug));
@@ -437,7 +464,11 @@
       const sm={};res.forEach(r=>sm[r.item.slug]=r.score);
       base=base.slice().sort((a,b)=>(sm[a.slug]||1)-(sm[b.slug]||1));
     }
-    filtered=base; renderPage(true);
+    filtered=base;
+    // Show/hide clear button
+    const clearBtn=document.getElementById('clear-filters');
+    if(clearBtn) clearBtn.style.display=activeCats.size>0?'inline-flex':'none';
+    renderPage(true);
   }
 
   function renderPage(reset){
@@ -478,6 +509,10 @@
     loadBtn.style.display=page*PAGE_SIZE>=filtered.length?'none':'block';
     loadBtn.disabled=false;
   }
+
+  window.clearAllFilters=function(){
+    activeCats.clear(); syncFilterUI(); page=0; applyFilters();
+  };
 
   loadBtn.addEventListener('click',()=>{loadBtn.disabled=true;renderPage(false);});
 
