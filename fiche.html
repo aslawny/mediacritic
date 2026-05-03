@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MediaCritic — Fiche contenu</title>
+  <meta name="robots" content="index, follow" />
+  <link rel="icon" href="assets/logo.png" type="image/png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Syne:wght@700;800&display=swap" rel="stylesheet" />
+  <style>
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    :root{--c-bg:#060b14;--c-bg2:#091220;--c-glass:rgba(255,255,255,.04);--c-border:rgba(255,255,255,.06);--c-border2:rgba(255,255,255,.10);--c-orange:#e8622d;--c-gold:#f5a623;--c-text:#f0e8d8;--c-muted:#7d93b0;--c-muted2:#a8bcd4}
+    body{font-family:'Inter',sans-serif;background:var(--c-bg);color:var(--c-text);line-height:1.7;min-height:100vh}
+    a{color:inherit;text-decoration:none}
+    body::before{content:'';position:fixed;inset:0;z-index:0;pointer-events:none;background:radial-gradient(ellipse 80% 50% at 20% -10%,rgba(232,98,45,.10) 0%,transparent 60%),radial-gradient(ellipse 60% 40% at 80% 10%,rgba(245,166,35,.06) 0%,transparent 55%)}
+    *{position:relative;z-index:1}
+    nav{position:sticky;top:0;z-index:100;background:rgba(6,11,20,.92);border-bottom:1px solid var(--c-border);backdrop-filter:blur(20px);padding:0 32px;display:flex;align-items:center;justify-content:space-between;height:64px}
+    .nav-left{display:flex;align-items:center;gap:16px}
+    .nav-back{color:var(--c-muted);font-size:.875rem;font-weight:500;display:flex;align-items:center;gap:6px;transition:color .2s}
+    .nav-back:hover{color:var(--c-orange)}
+    .nav-brand{font-family:'Syne',sans-serif;font-weight:800;font-size:1.05rem;background:linear-gradient(90deg,#e8622d,#f5a623);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+    .container{max-width:800px;margin:0 auto;padding:60px 24px 80px}
+    /* ── Header fiche ── */
+    .fiche-header{display:flex;gap:28px;align-items:flex-start;margin-bottom:40px}
+    .fiche-cover{width:140px;height:140px;flex-shrink:0;border-radius:16px;overflow:hidden;box-shadow:0 8px 32px rgba(0,0,0,.5)}
+    .fiche-cover img{width:100%;height:100%;object-fit:cover;display:block}
+    .fiche-cover-ph{width:100%;height:100%;display:flex;align-items:center;justify-content:center;font-size:2rem;font-weight:800;font-family:'Syne',sans-serif;color:rgba(255,255,255,.55);background:linear-gradient(135deg,#1a2030,#0d1220)}
+    .fiche-meta{flex:1}
+    .fiche-breadcrumb{font-size:.75rem;color:var(--c-muted);margin-bottom:10px}
+    .fiche-breadcrumb a{color:var(--c-orange)}
+    .fiche-badges{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:12px;align-items:center}
+    .badge{display:inline-block;font-size:.72rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:3px 12px;border-radius:99px}
+    .badge-type{color:var(--c-muted2);background:var(--c-glass);border:1px solid var(--c-border2)}
+    .badge-mc{color:var(--c-gold);background:rgba(245,166,35,.12);border:1px solid rgba(245,166,35,.3)}
+    .badge-cat{color:var(--c-muted);background:var(--c-glass);border:1px solid var(--c-border);font-size:.68rem}
+    h1{font-family:'Syne',sans-serif;font-size:clamp(1.5rem,4vw,2.2rem);font-weight:800;line-height:1.18;margin-bottom:6px}
+    .fiche-author{font-size:.85rem;color:var(--c-muted2);margin-bottom:16px}
+    .fiche-rating{display:flex;align-items:center;gap:8px;margin-bottom:16px}
+    .stars{color:var(--c-gold);font-size:1rem;letter-spacing:2px}
+    .rating-num{font-size:.9rem;font-weight:700;color:var(--c-text)}
+    .rating-count{font-size:.8rem;color:var(--c-muted)}
+    .fiche-actions{display:flex;gap:10px;flex-wrap:wrap}
+    .btn{display:inline-flex;align-items:center;gap:8px;padding:10px 20px;border-radius:99px;font-size:.85rem;font-weight:600;border:1px solid transparent;transition:transform .18s,opacity .18s;cursor:pointer}
+    .btn:hover{transform:translateY(-2px);opacity:.85}
+    .btn-platform{background:rgba(29,185,84,.12);color:#4ade80;border-color:rgba(29,185,84,.3)}
+    .btn-youtube{background:rgba(255,0,0,.1);color:#ff6b6b;border-color:rgba(255,0,0,.25)}
+    .btn-apple{background:rgba(255,255,255,.06);color:var(--c-muted2);border-color:var(--c-border2)}
+    .btn-mc{background:linear-gradient(135deg,var(--c-orange),var(--c-gold));color:#fff;box-shadow:0 4px 16px rgba(232,98,45,.3)}
+    /* ── Cards ── */
+    .card{padding:28px 32px;border-radius:16px;background:var(--c-glass);border:1px solid var(--c-border);margin-bottom:20px}
+    .card h2{font-family:'Syne',sans-serif;font-size:1rem;font-weight:700;color:var(--c-orange);margin-bottom:14px;padding-bottom:10px;border-bottom:1px solid var(--c-border)}
+    .card p{color:var(--c-muted2);font-size:.925rem;line-height:1.75}
+    .card p+p{margin-top:12px}
+    .highlight-box{background:rgba(245,166,35,.06);border:1px solid rgba(245,166,35,.2);border-radius:12px;padding:16px 20px;margin-top:16px}
+    .highlight-box p{color:var(--c-gold);font-size:.88rem;font-style:italic}
+    /* ── Stats plateforme ── */
+    .stats-row{display:flex;gap:20px;flex-wrap:wrap;margin-top:12px}
+    .stat-item{display:flex;flex-direction:column;gap:2px}
+    .stat-val{font-size:1.1rem;font-weight:700;color:var(--c-text)}
+    .stat-lbl{font-size:.72rem;color:var(--c-muted);text-transform:uppercase;letter-spacing:.08em}
+    /* ── MediaCritic block ── */
+    .mc-block{border:1px solid rgba(232,98,45,.3);background:rgba(232,98,45,.04);border-radius:16px;padding:28px 32px;margin-bottom:20px}
+    .mc-block h2{font-family:'Syne',sans-serif;font-size:1rem;font-weight:700;color:var(--c-orange);margin-bottom:14px;padding-bottom:10px;border-bottom:1px solid rgba(232,98,45,.2)}
+    .mc-block p{color:var(--c-muted2);font-size:.925rem;line-height:1.75}
+    /* ── Skeleton loader ── */
+    .skeleton{background:linear-gradient(90deg,rgba(255,255,255,.04) 25%,rgba(255,255,255,.08) 50%,rgba(255,255,255,.04) 75%);background-size:200% 100%;animation:shimmer 1.5s infinite;border-radius:8px}
+    @keyframes shimmer{0%{background-position:200% 0}100%{background-position:-200% 0}}
+    .sk-h{height:20px;margin-bottom:10px}
+    .sk-cover{width:140px;height:140px;border-radius:16px;flex-shrink:0}
+    /* ── Erreur ── */
+    .error-box{text-align:center;padding:80px 24px;color:var(--c-muted)}
+    .error-box h2{font-family:'Syne',sans-serif;font-size:1.5rem;color:var(--c-text);margin-bottom:12px}
+    footer{text-align:center;padding:24px;border-top:1px solid var(--c-border);color:var(--c-muted);font-size:.8rem}
+    footer a{color:var(--c-muted);transition:color .2s}
+    footer a:hover{color:var(--c-orange)}
+    @media(max-width:600px){.fiche-header{flex-direction:column}.fiche-cover{width:100%;height:200px}}
+  </style>
+</head>
+<body>
+<nav>
+  <div class="nav-left">
+    <a href="/" class="nav-back">← Accueil</a>
+    <span class="nav-brand">MediaCritic</span>
+  </div>
+  <span id="nav-type" style="font-size:.78rem;color:var(--c-muted);font-weight:500"></span>
+</nav>
+
+<div class="container" id="app">
+  <!-- Skeleton loader -->
+  <div class="fiche-header">
+    <div class="skeleton sk-cover"></div>
+    <div style="flex:1;padding-top:8px">
+      <div class="skeleton sk-h" style="width:60%;height:14px"></div>
+      <div class="skeleton sk-h" style="width:80%;height:28px;margin-top:8px"></div>
+      <div class="skeleton sk-h" style="width:40%;height:14px;margin-top:8px"></div>
+    </div>
+  </div>
+  <div class="card"><div class="skeleton sk-h" style="width:30%;height:14px;margin-bottom:14px"></div><div class="skeleton sk-h"></div><div class="skeleton sk-h"></div><div class="skeleton sk-h" style="width:70%"></div></div>
+</div>
+
+<footer>
+  <p>© 2026 <a href="/">MediaCritic</a> — <a href="/mentions-legales.html">Mentions légales</a> — <a href="mailto:mediacriticinc@gmail.com">mediacriticinc@gmail.com</a></p>
+</footer>
+
+<script>
+(function() {
+  // ── Helpers ──────────────────────────────────────────────────────────────
+  function esc(s) {
+    return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+  function fmtNum(n) {
+    if (!n) return null;
+    n = parseInt(n);
+    if (n >= 1e6) return (n/1e6).toFixed(1).replace('.0','') + 'M';
+    if (n >= 1e3) return (n/1e3).toFixed(0) + 'K';
+    return n.toString();
+  }
+  function stars(rating) {
+    if (!rating) return '';
+    var full = Math.floor(rating), half = (rating - full) >= 0.5 ? 1 : 0, empty = 5 - full - half;
+    return '★'.repeat(full) + (half ? '½' : '') + '☆'.repeat(empty);
+  }
+  function initials(title) {
+    return (title||'').split(/\s+/).slice(0,2).map(w=>w[0]||'').join('').toUpperCase() || '?';
+  }
+  function typeLabel(t) {
+    return t === 'youtube' ? 'Chaîne YouTube' : t === 'podcast' ? 'Podcast' : 'Podcast & YouTube';
+  }
+
+  // ── Lecture du slug depuis l'URL ─────────────────────────────────────────
+  var params = new URLSearchParams(location.search);
+  var slug   = params.get('id') || location.pathname.replace(/.*\//, '').replace('.html','');
+
+  if (!slug) { showError('Aucun contenu spécifié.'); return; }
+
+  // ── Chargement du fichier JSON ───────────────────────────────────────────
+  fetch('data/content/' + slug + '.json')
+    .then(function(r) {
+      if (!r.ok) throw new Error('not found');
+      return r.json();
+    })
+    .then(render)
+    .catch(function() { showError('Contenu introuvable : <strong>' + esc(slug) + '</strong>'); });
+
+  // ── Rendu de la fiche ────────────────────────────────────────────────────
+  function render(d) {
+    var p = d.platforms || {};
+    var apple = p.apple || {}, spotify = p.spotify || {}, yt = p.youtube || {};
+    var mc = d.mediacritic;
+
+    // Meta dynamiques
+    document.title = 'MediaCritic — ' + d.title;
+    var metaDesc = document.querySelector('meta[name="description"]');
+    if (!metaDesc) { metaDesc = document.createElement('meta'); metaDesc.name='description'; document.head.appendChild(metaDesc); }
+    metaDesc.content = (d.description || '').slice(0,160);
+    document.getElementById('nav-type').textContent = typeLabel(d.type);
+
+    // ── Cover ──
+    var coverHtml = d.image
+      ? '<img src="' + esc(d.image) + '" alt="' + esc(d.title) + '" loading="lazy" onerror="this.parentElement.innerHTML=\'<div class=fiche-cover-ph>' + esc(initials(d.title)) + '</div>\'">'
+      : '<div class="fiche-cover-ph">' + esc(initials(d.title)) + '</div>';
+
+    // ── Badges ──
+    var typeBadge  = '<span class="badge badge-type">' + esc(typeLabel(d.type)) + '</span>';
+    var mcBadge    = mc ? '<span class="badge badge-mc">✦ Analysé par MediaCritic</span>' : '';
+    var catBadges  = (d.categories||[]).slice(0,4).map(function(c){return '<span class="badge badge-cat">'+esc(c)+'</span>';}).join('');
+
+    // ── Rating ──
+    var ratingHtml = '';
+    if (apple.rating) {
+      ratingHtml = '<div class="fiche-rating">'
+        + '<span class="stars">' + stars(apple.rating) + '</span>'
+        + '<span class="rating-num">' + Number(apple.rating).toFixed(1) + '</span>'
+        + (apple.ratingCount ? '<span class="rating-count">(' + fmtNum(apple.ratingCount) + ' avis Apple Podcasts)</span>' : '')
+        + '</div>';
+    }
+
+    // ── Boutons plateformes ──
+    var btns = [];
+    if (spotify.url)  btns.push('<a href="' + esc(spotify.url) + '" target="_blank" rel="noopener" class="btn btn-platform">🎙️ Spotify</a>');
+    if (yt.url)       btns.push('<a href="' + esc(yt.url) + '" target="_blank" rel="noopener" class="btn btn-youtube">▶ YouTube</a>');
+    if (apple.url)    btns.push('<a href="' + esc(apple.url) + '" target="_blank" rel="noopener" class="btn btn-apple">🎧 Apple Podcasts</a>');
+    if (mc && mc.analyseUrl) btns.push('<a href="' + esc(mc.analyseUrl) + '" class="btn btn-mc">📖 Analyse MediaCritic</a>');
+
+    // ── Stats ──
+    var statsItems = [];
+    if (yt.subscribers) statsItems.push({val: fmtNum(yt.subscribers), lbl: 'Abonnés YouTube'});
+    if (yt.videoCount)  statsItems.push({val: fmtNum(yt.videoCount),   lbl: 'Vidéos'});
+    if (spotify.followers)    statsItems.push({val: fmtNum(spotify.followers),    lbl: 'Abonnés Spotify'});
+    if (spotify.episodeCount) statsItems.push({val: fmtNum(spotify.episodeCount), lbl: 'Épisodes'});
+    if (apple.episodeCount)   statsItems.push({val: fmtNum(apple.episodeCount),   lbl: 'Épisodes'});
+    var statsHtml = statsItems.length
+      ? '<div class="stats-row">' + statsItems.map(function(s){
+          return '<div class="stat-item"><span class="stat-val">'+esc(s.val)+'</span><span class="stat-lbl">'+esc(s.lbl)+'</span></div>';
+        }).join('') + '</div>'
+      : '';
+
+    // ── Bloc MediaCritic (si couvert) ──
+    var mcHtml = '';
+    if (mc) {
+      mcHtml = '<div class="mc-block">'
+        + '<h2>✦ L\'avis MediaCritic — Épisode ' + mc.episodeNumber + '</h2>'
+        + '<p>Alex, Lolo et leurs invité·e·s ont analysé ce contenu dans l\'épisode ' + mc.episodeNumber + ' de MediaCritic. Fond, forme, intentions — le verdict complet est disponible en écoute libre.</p>'
+        + '<div style="margin-top:16px"><a href="' + esc(mc.analyseUrl) + '" class="btn btn-mc">📖 Lire l\'analyse complète</a></div>'
+        + '</div>';
+    }
+
+    // ── Assemblage ──
+    document.getElementById('app').innerHTML =
+      '<div class="fiche-header">'
+        + '<div class="fiche-cover">' + coverHtml + '</div>'
+        + '<div class="fiche-meta">'
+          + '<div class="fiche-breadcrumb"><a href="/">MediaCritic</a> › Catalogue › ' + esc(d.title) + '</div>'
+          + '<div class="fiche-badges">' + typeBadge + mcBadge + catBadges + '</div>'
+          + '<h1>' + esc(d.title) + '</h1>'
+          + (d.author ? '<div class="fiche-author">par ' + esc(d.author) + '</div>' : '')
+          + ratingHtml
+          + '<div class="fiche-actions">' + btns.join('') + '</div>'
+        + '</div>'
+      + '</div>'
+      + mcHtml
+      + '<div class="card">'
+        + '<h2>À propos</h2>'
+        + '<p>' + esc(d.description || 'Description non disponible.') + '</p>'
+        + statsHtml
+      + '</div>'
+      + '<div class="card">'
+        + '<h2>📻 MediaCritic, c\'est quoi ?</h2>'
+        + '<p>MediaCritic est le podcast francophone indépendant qui analyse et critique des podcasts, émissions et chaînes YouTube. En 5 à 7 minutes chaque semaine, Alex et Lolo décortiquent un média avec méthode, passion et humour.</p>'
+        + '<div style="margin-top:14px"><a href="/" class="btn btn-mc">← Retour au catalogue</a></div>'
+      + '</div>';
+  }
+
+  function showError(msg) {
+    document.getElementById('app').innerHTML =
+      '<div class="error-box"><h2>Contenu introuvable</h2><p>' + msg + '</p>'
+      + '<div style="margin-top:24px"><a href="/" class="btn btn-mc">← Retour à l\'accueil</a></div></div>';
+  }
+})();
+</script>
+</body>
+</html>
