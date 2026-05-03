@@ -194,6 +194,18 @@
     }
     .nav-social-btn:hover { background: rgba(255,255,255,.08); border-color: var(--c-border2); }
     .nav-social-btn svg { width: 15px; height: 15px; }
+    .nav-search { position: relative; display: flex; align-items: center; }
+    .nav-search input {
+      background: var(--c-glass); border: 1px solid var(--c-border);
+      border-radius: 99px; padding: 7px 16px 7px 38px;
+      font-size: .82rem; color: var(--c-text); outline: none; width: 200px;
+      font-family: 'Inter', sans-serif; transition: border-color .2s, width .3s, background .2s;
+    }
+    .nav-search input::placeholder { color: var(--c-muted); }
+    .nav-search input:focus { border-color: var(--c-orange); background: rgba(255,255,255,.06); width: 260px; }
+    .nav-search svg { position: absolute; left: 12px; width: 15px; height: 15px; color: var(--c-muted); pointer-events: none; }
+    .search-no-results { display: none; text-align: center; padding: 40px 24px; color: var(--c-muted); font-size: .95rem; }
+    .search-no-results strong { color: var(--c-text); }
 
     /* ─── HERO ─── */
     .hero {
@@ -529,6 +541,8 @@
     @media (max-width: 900px) {
       nav { padding: 0 20px; }
       .nav-links { display: none; }
+      .nav-search input { width: 160px; }
+      .nav-search input:focus { width: 200px; }
       .about-grid, .hosts-grid { grid-template-columns: 1fr; }
       .format-bento { grid-template-columns: 1fr 1fr; }
       .bento-item:nth-child(1) { grid-column: span 1; }
@@ -540,6 +554,8 @@
       section { padding: 72px 18px; }
       .format-bento { grid-template-columns: 1fr; }
       .footer-grid { grid-template-columns: 1fr; }
+      .nav-search input { width: 120px; font-size: .75rem; }
+      .nav-search input:focus { width: 150px; }
       .platforms-grid, .platforms-grid-socials { grid-template-columns: repeat(2,1fr); }
       .about-stat { position: static; display: inline-block; margin-top: 18px; }
     }
@@ -558,6 +574,10 @@
     <a href="#animateurs">Animateurs</a>
     <a href="#episodes">Épisodes</a>
     <a href="#ecouter">Écouter</a>
+  </div>
+  <div class="nav-search">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    <input type="search" id="ep-search" placeholder="Rechercher un épisode…" autocomplete="off" aria-label="Rechercher un épisode" />
   </div>
   <div class="nav-socials">
     <a href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener" class="nav-social-btn" title="Spotify">
@@ -678,11 +698,6 @@
         <div class="bento-icon">⚖️</div>
         <h3>Le Verdict</h3>
         <p>Avis tranché, nuances, limites et recommandation finale claire.</p>
-      </div>
-      <div class="bento-item">
-        <div class="bento-icon">🔄</div>
-        <h3>L'alternance</h3>
-        <p>Alex et Lolo échangent leurs rôles un épisode sur deux — présentateur un coup, interviewer l'autre.</p>
       </div>
       <div class="bento-item">
         <div class="bento-icon">🎤</div>
@@ -1139,6 +1154,9 @@
       </div>
 
     </div>
+    <div id="search-no-results" class="search-no-results">
+      Aucun épisode ne correspond à <strong id="search-query-display"></strong>. Essaie un autre mot-clé.
+    </div>
     <div style="text-align:center;margin-top:40px;">
       <a href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener"
          style="display:inline-flex;align-items:center;gap:10px;background:linear-gradient(135deg,var(--c-orange),var(--c-gold));color:#fff;padding:14px 32px;border-radius:99px;font-weight:700;font-size:.95rem;box-shadow:0 8px 32px rgba(232,98,45,.35);transition:transform .2s,box-shadow .2s;"
@@ -1289,6 +1307,38 @@
     var consent = localStorage.getItem('mc_cookie_consent');
     if (consent === 'accepted') { loadGA(); }
     else if (!consent) { document.getElementById('cookie-banner').style.display = 'block'; }
+  })();
+</script>
+
+<script>
+  (function() {
+    var input = document.getElementById('ep-search');
+    var noResults = document.getElementById('search-no-results');
+    var queryDisplay = document.getElementById('search-query-display');
+    var episodesSection = document.getElementById('episodes');
+
+    input.addEventListener('input', function() {
+      var q = this.value.trim().toLowerCase();
+      var cards = document.querySelectorAll('.ep-card');
+      var visible = 0;
+
+      cards.forEach(function(card) {
+        var name = (card.querySelector('.ep-name') || {}).textContent || '';
+        var type = (card.querySelector('.ep-type-tag') || {}).textContent || '';
+        var num  = (card.querySelector('.ep-num')  || {}).textContent || '';
+        var match = !q || (name + ' ' + type + ' ' + num).toLowerCase().includes(q);
+        card.style.display = match ? '' : 'none';
+        if (match) visible++;
+      });
+
+      if (q) {
+        episodesSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        if (queryDisplay) queryDisplay.textContent = '"' + this.value.trim() + '"';
+        noResults.style.display = visible === 0 ? 'block' : 'none';
+      } else {
+        noResults.style.display = 'none';
+      }
+    });
   })();
 </script>
 
