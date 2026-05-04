@@ -10,7 +10,15 @@
   "description": "Le podcast qui démonte les mythes et idées reçues de l'Histoire — analysé par MediaCritic.",
   "image": null,
   "language": "fr",
-  "platforms": {},
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/cest-plus-compliqu%C3%A9-que-%C3%A7a/id1523441357?uo=4",
+      "trackId": 1523441357,
+      "rating": 4.7,
+      "ratingCount": 947,
+      "episodeCount": 71
+    }
+  },
   "mediacritic": {
     "episodeNumber": 24,
     "episodeSlug": "cest-plus-complique-que-ca",

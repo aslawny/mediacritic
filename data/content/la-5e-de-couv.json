@@ -10,7 +10,15 @@
   "description": "Critique et analyse du podcast manga La 5e de Couv&#39; par MediaCritic. Épisode 1 de la saison 1.",
   "image": null,
   "language": "fr",
-  "platforms": {},
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/podcast-manga-la-5e-de-couv-le-podcast-de-d%C3%A9bat/id1115310169?uo=4",
+      "trackId": 1115310169,
+      "rating": 4.9,
+      "ratingCount": 309,
+      "episodeCount": 460
+    }
+  },
   "mediacritic": {
     "episodeNumber": 1,
     "episodeSlug": "la-5e-de-couv",

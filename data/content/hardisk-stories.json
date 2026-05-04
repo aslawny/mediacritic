@@ -10,7 +10,15 @@
   "description": "Critique et analyse de Hardisk Stories par MediaCritic. Épisode 3 — podcast tech storytelling numérique.",
   "image": null,
   "language": "fr",
-  "platforms": {},
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/hardisk-stories/id1691389466?uo=4",
+      "trackId": 1691389466,
+      "rating": 4.8,
+      "ratingCount": 187,
+      "episodeCount": 148
+    }
+  },
   "mediacritic": {
     "episodeNumber": 3,
     "episodeSlug": "hardisk-stories",

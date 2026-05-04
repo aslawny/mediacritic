@@ -9,7 +9,15 @@
   "description": "Critique et analyse du podcast RTL Entrez dans l&#39;Histoire par MediaCritic. Épisode 13 — podcast histoire.",
   "image": null,
   "language": "fr",
-  "platforms": {},
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/entrez-dans-lhistoire/id1583548883?uo=4",
+      "trackId": 1583548883,
+      "rating": 4.7,
+      "ratingCount": 5233,
+      "episodeCount": 101
+    }
+  },
   "mediacritic": {
     "episodeNumber": 13,
     "episodeSlug": "entrez-dans-lhistoire",

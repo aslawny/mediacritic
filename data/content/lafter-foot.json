@@ -10,7 +10,15 @@
   "description": "Critique et analyse du podcast L&#39;After Foot de RMC Sport par MediaCritic. Épisode 21 — podcast football.",
   "image": null,
   "language": "fr",
-  "platforms": {},
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/lafter-foot/id140644703?uo=4",
+      "trackId": 140644703,
+      "rating": 4.0,
+      "ratingCount": 6439,
+      "episodeCount": 736
+    }
+  },
   "mediacritic": {
     "episodeNumber": 21,
     "episodeSlug": "lafter-foot",

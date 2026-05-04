@@ -11,7 +11,15 @@
   "description": "Critique et analyse du podcast SafePace par MediaCritic. Épisode 12 — podcast bien-être francophone.",
   "image": null,
   "language": "fr",
-  "platforms": {},
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/safe-pace-le-podcast-des-sports-dendurance-pr%C3%A9sent%C3%A9/id1813423407?uo=4",
+      "trackId": 1813423407,
+      "rating": 4.3,
+      "ratingCount": 324,
+      "episodeCount": 44
+    }
+  },
   "mediacritic": {
     "episodeNumber": 12,
     "episodeSlug": "safepace",

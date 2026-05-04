@@ -11,7 +11,15 @@
   "description": "Critique et analyse du podcast Quelle Histoire par MediaCritic. Épisode 26 — le podcast d'Histoire pour enfants… que les adultes écoutent en cachette.",
   "image": null,
   "language": "fr",
-  "platforms": {},
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/quelle-histoire-pr%C3%A9sente/id1573207208?uo=4",
+      "trackId": 1573207208,
+      "rating": 4.2,
+      "ratingCount": 2029,
+      "episodeCount": 53
+    }
+  },
   "mediacritic": {
     "episodeNumber": 26,
     "episodeSlug": "quelle-histoire",

@@ -10,7 +10,15 @@
   "description": "Critique et analyse du podcast La Story des Échos par MediaCritic. Épisode 5 — podcast économie Les Échos.",
   "image": null,
   "language": "fr",
-  "platforms": {},
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/la-story/id1460685072?uo=4",
+      "trackId": 1460685072,
+      "rating": 4.3,
+      "ratingCount": 1342,
+      "episodeCount": 1914
+    }
+  },
   "mediacritic": {
     "episodeNumber": 9,
     "episodeSlug": "la-story-des-echos",

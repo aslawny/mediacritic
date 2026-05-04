@@ -10,7 +10,15 @@
   "description": "Critique et analyse du podcast L&#39;Heure du Crime de RTL par MediaCritic. Épisode 17 — true crime francophone.",
   "image": null,
   "language": "fr",
-  "platforms": {},
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/lheure-du-crime/id389542173?uo=4",
+      "trackId": 389542173,
+      "rating": 3.7,
+      "ratingCount": 3628,
+      "episodeCount": 117
+    }
+  },
   "mediacritic": {
     "episodeNumber": 17,
     "episodeSlug": "lheure-du-crime",

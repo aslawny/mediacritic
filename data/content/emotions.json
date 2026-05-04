@@ -10,7 +10,15 @@
   "description": "Critique et analyse du podcast Émotions de Louie Media par MediaCritic. Épisode 11.",
   "image": null,
   "language": "fr",
-  "platforms": {},
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/%C3%A9motions-un-podcast-pour-mettre-des-mots-sur-vos/id1447653027?uo=4",
+      "trackId": 1447653027,
+      "rating": 4.7,
+      "ratingCount": 3329,
+      "episodeCount": 305
+    }
+  },
   "mediacritic": {
     "episodeNumber": 11,
     "episodeSlug": "emotions",

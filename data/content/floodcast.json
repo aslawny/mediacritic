@@ -10,7 +10,15 @@
   "description": "Critique et analyse du podcast Floodcast par MediaCritic. Épisode 10 — podcast culture et humour.",
   "image": null,
   "language": "fr",
-  "platforms": {},
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/floodcast/id1019768302?uo=4",
+      "trackId": 1019768302,
+      "rating": 4.9,
+      "ratingCount": 6351,
+      "episodeCount": 250
+    }
+  },
   "mediacritic": {
     "episodeNumber": 6,
     "episodeSlug": "floodcast",

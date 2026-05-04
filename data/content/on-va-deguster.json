@@ -10,7 +10,15 @@
   "description": "Critique et analyse du podcast On va déguster de France Inter par MediaCritic. Épisode 18 — podcast gastronomie.",
   "image": null,
   "language": "fr",
-  "platforms": {},
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/on-va-d%C3%A9guster/id382262093?uo=4",
+      "trackId": 382262093,
+      "rating": 4.5,
+      "ratingCount": 1032,
+      "episodeCount": 46
+    }
+  },
   "mediacritic": {
     "episodeNumber": 18,
     "episodeSlug": "on-va-deguster",
