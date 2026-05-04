@@ -8,8 +8,8 @@
     "enfants",
     "éducation"
   ],
-  "description": "Critique et analyse du podcast Quelle Histoire par MediaCritic. Épisode 26 — le podcast d'Histoire pour enfants… que les adultes écoutent en cachette.",
-  "image": null,
+  "description": "Quelle Histoire, vos enfants vont adorer l'Histoire ! \nDes livres, des jeux, un abonnement, une application, et plein d'autres surprises à découvrir ici.\n",
+  "image": "https://yt3.ggpht.com/ytc/AIdro_ljYTZq3Wu1f1_zV81hGSIw4I4MsZGipQVFpm5xafs5M7Y=s800-c-k-c0x00ffffff-no-rj",
   "language": "fr",
   "platforms": {
     "apple": {
@@ -18,6 +18,13 @@
       "rating": 4.2,
       "ratingCount": 2029,
       "episodeCount": 53
+    },
+    "youtube": {
+      "url": "https://www.youtube.com/@quellehistoire_podcast",
+      "channelId": "UCoejzfiaEjCusdpdX9W8jBQ",
+      "subscribers": 124000,
+      "totalViews": 16837801,
+      "videoCount": 118
     }
   },
   "mediacritic": {

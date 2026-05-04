@@ -8,10 +8,18 @@
     "anime",
     "culture"
   ],
-  "description": "Critique et analyse de la chaîne YouTube Chef Otaku par MediaCritic. Épisode 16 — cuisine et culture japonaise.",
-  "image": "https://image-cdn-ak.spotifycdn.com/image/ab6772ab000015be4a4d53584b4f07ace98e7212",
+  "description": "Chaîne sur les mangas et plein d'autres trucs.",
+  "image": "https://yt3.ggpht.com/ytc/AIdro_mlgbmmt7_YEvlH3CnnYGix5Scd2YANeVf6Z-DL82Jtmhs=s800-c-k-c0x00ffffff-no-rj",
   "language": "fr",
-  "platforms": {},
+  "platforms": {
+    "youtube": {
+      "url": "https://www.youtube.com/@ChefOtakuOfficial",
+      "channelId": "UC5sbGkJ_Fuzn_NCxFfX0zLw",
+      "subscribers": 1030000,
+      "totalViews": 278179412,
+      "videoCount": 1296
+    }
+  },
   "mediacritic": {
     "episodeNumber": 16,
     "episodeSlug": "chef-otaku",
