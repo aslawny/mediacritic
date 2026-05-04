@@ -6,6 +6,7 @@ Usage   : python collect_data.py [--mode podcast|youtube|all] [--youtube-key KEY
 """
 
 import json, os, re, time, urllib.request, urllib.parse, hashlib, argparse
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 try:
@@ -452,6 +453,69 @@ def collect_itunes_catalog():
         time.sleep(0.5)
     print(f"\n  Total nouvelles fiches : {total}")
 
+# --- Scraping notes Apple Podcasts -------------------------------------------
+def fetch_apple_rating_page(track_id):
+    """Scrape Apple Podcasts page to get aggregate rating and review count."""
+    url = f"https://podcasts.apple.com/fr/podcast/id{track_id}"
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "Accept-Language": "fr-FR,fr;q=0.9"
+    }
+    try:
+        r = _requests_lib.get(url, headers=headers, timeout=12) if _requests_lib else None
+        if r is None:
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req, timeout=12) as resp:
+                text = resp.read().decode("utf-8", errors="ignore")
+        else:
+            r.raise_for_status()
+            text = r.text
+        m = re.search(r'"ratingValue":([0-9.]+),"reviewCount":([0-9]+)', text)
+        if m:
+            rv = float(m.group(1))
+            rc = int(m.group(2))
+            return rv if rv > 0 else None, rc if rc > 0 else None
+    except Exception:
+        pass
+    return None, None
+
+def update_ratings_missing():
+    """Fetch Apple Podcasts ratings for entries that have trackId but no rating."""
+    print("
+-- Mise a jour des notes Apple Podcasts --")
+    needs_update = []
+    for path in DATA_DIR.glob("*.json"):
+        with open(path, encoding="utf-8") as f:
+            d = json.load(f)
+        apple = d.get("platforms", {}).get("apple", {})
+        tid = apple.get("trackId")
+        if tid and apple.get("rating") is None:
+            needs_update.append((path, d, tid))
+
+    if not needs_update:
+        print("  Toutes les notes sont deja renseignees.")
+        return
+
+    print(f"  {len(needs_update)} fiches sans note a recuperer...")
+    updated = 0
+
+    def _fetch(args):
+        path, d, tid = args
+        rating, count = fetch_apple_rating_page(tid)
+        return path, d, rating, count
+
+    with ThreadPoolExecutor(max_workers=20) as ex:
+        futures = [ex.submit(_fetch, args) for args in needs_update]
+        for fut in as_completed(futures):
+            path, d, rating, count = fut.result()
+            if rating is not None:
+                d["platforms"]["apple"]["rating"] = rating
+                d["platforms"]["apple"]["ratingCount"] = count
+                save_content(d)
+                updated += 1
+
+    print(f"  Notes mises a jour : {updated}/{len(needs_update)}")
+
 # --- Generation du catalog.json ----------------------------------------------
 def generate_catalog():
     print("\n-- Generation catalog.json --")
@@ -498,6 +562,8 @@ if __name__ == "__main__":
 
     if args.mode in ("youtube", "all"):
         collect_youtube_catalog(args.youtube_key)
+
+    update_ratings_missing()
 
     generate_catalog()
     print("\nTermine.")
