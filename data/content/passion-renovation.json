@@ -11,7 +11,15 @@
   "description": "Critique et analyse de la chaîne YouTube Passion Rénovation par MediaCritic. Épisode 15.",
   "image": "assets/passion_bgpng.jpg",
   "language": "fr",
-  "platforms": {},
+  "platforms": {
+    "youtube": {
+      "url": "https://www.youtube.com/@passionrenovation",
+      "channelId": "UCJNItGjNhUx3Zz6W4OCVfHA",
+      "subscribers": 391000,
+      "totalViews": 60319160,
+      "videoCount": 122
+    }
+  },
   "mediacritic": {
     "episodeNumber": 15,
     "episodeSlug": "passion-renovation",

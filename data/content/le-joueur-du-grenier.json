@@ -11,7 +11,15 @@
   "description": "Critique et analyse de la chaîne YouTube Le Joueur du Grenier par MediaCritic. 3,8M abonnés, 15 ans de nostalgie rétro gaming et d'humour décalé.",
   "image": "assets/ep25-jdg.jpg",
   "language": "fr",
-  "platforms": {},
+  "platforms": {
+    "youtube": {
+      "url": "https://www.youtube.com/@joueurdugrenier",
+      "channelId": "UC_yP2DpIgs5Y1uWC0T03Chw",
+      "subscribers": 3870000,
+      "totalViews": 1205306280,
+      "videoCount": 171
+    }
+  },
   "mediacritic": {
     "episodeNumber": 25,
     "episodeSlug": "le-joueur-du-grenier",

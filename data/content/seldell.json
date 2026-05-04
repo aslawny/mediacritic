@@ -10,7 +10,15 @@
   "description": "Critique et analyse de la chaîne YouTube Seldell par MediaCritic. Épisode 14.",
   "image": "assets/seldell.jpg",
   "language": "fr",
-  "platforms": {},
+  "platforms": {
+    "youtube": {
+      "url": "https://www.youtube.com/@seldell",
+      "channelId": "UC-OvBDfZGn1OdsqMBwkOI_A",
+      "subscribers": 28000,
+      "totalViews": 6537642,
+      "videoCount": 2213
+    }
+  },
   "mediacritic": {
     "episodeNumber": 14,
     "episodeSlug": "seldell",
