@@ -7,12 +7,16 @@
     "actualite",
     "news"
   ],
-  "description": "",
-  "image": null,
+  "description": "L'information n'est pas une opinion. Suivez franceinfo, l’offre d’information en continu du service public. Retrouvez toute l’info et l’actu en direct et accédez au direct et au replay.",
+  "image": "https://yt3.ggpht.com/ytc/AIdro_nHB3lxXh8PcGgMTgBPmFKovSbKRxBTavrjbjomHTg1HpFp=s800-c-k-c0x00ffffff-no-rj",
   "language": "fr",
   "platforms": {
     "youtube": {
-      "url": "https://www.youtube.com/@franceinfo"
+      "url": "https://www.youtube.com/@franceinfo",
+      "channelId": "UCO6K_kkdP-lnSCiO3tPx7WA",
+      "subscribers": 949000,
+      "totalViews": 335110960,
+      "videoCount": 22256
     }
   },
   "mediacritic": null,

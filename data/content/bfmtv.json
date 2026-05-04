@@ -7,12 +7,16 @@
     "actualite",
     "news"
   ],
-  "description": "",
-  "image": null,
+  "description": "Toute l'actualité avec la chaîne de la première chaîne d'information de France.",
+  "image": "https://yt3.ggpht.com/l5yh1ebjlfahsfKc48zmOeqU-QGi3EMRN2hQPcK5wfTJ7MheP1fB3hId08940ANl_AK1RtHt=s800-c-k-c0x00ffffff-no-rj",
   "language": "fr",
   "platforms": {
     "youtube": {
-      "url": "https://www.youtube.com/@BFMTV"
+      "url": "https://www.youtube.com/@BFMTV",
+      "channelId": "UCXwDLMDV86ldKoFVc_g8P0g",
+      "subscribers": 2630000,
+      "totalViews": 1744357929,
+      "videoCount": 80510
     }
   },
   "mediacritic": null,
