@@ -256,17 +256,26 @@ def itunes_to_content(item, categories):
     }
 
 # --- Collecte YouTube (API) ---------------------------------------------------
-def fetch_youtube_channel(handle_or_id, api_key):
+def fetch_youtube_channel(handle_or_id, api_key, name=None):
     if not api_key: return None
-    url = "https://www.googleapis.com/youtube/v3/channels"
-    params = {"part": "snippet,statistics", "forHandle": handle_or_id.lstrip("@"), "key": api_key}
+    base = "https://www.googleapis.com/youtube/v3/channels"
     try:
-        data = _http_get(url, params=params, timeout=15)
+        # 1. Try forHandle
+        data = _http_get(base, params={"part":"snippet,statistics","forHandle":handle_or_id.lstrip("@"),"key":api_key}, timeout=15)
         items = data.get("items", [])
         if not items:
-            params = {"part": "snippet,statistics", "id": handle_or_id, "key": api_key}
-            data = _http_get(url, params=params, timeout=15)
+            # 2. Try as channel ID
+            data = _http_get(base, params={"part":"snippet,statistics","id":handle_or_id,"key":api_key}, timeout=15)
             items = data.get("items", [])
+        if not items and name:
+            # 3. Fallback: search by channel name
+            sdata = _http_get("https://www.googleapis.com/youtube/v3/search",
+                params={"part":"snippet","type":"channel","q":name,"maxResults":1,"key":api_key}, timeout=15)
+            sitems = sdata.get("items", [])
+            if sitems:
+                cid = sitems[0]["id"]["channelId"]
+                data = _http_get(base, params={"part":"snippet,statistics","id":cid,"key":api_key}, timeout=15)
+                items = data.get("items", [])
         return items[0] if items else None
     except Exception as e:
         print(f"  ! YouTube API error for '{handle_or_id}': {e}")
@@ -311,7 +320,7 @@ def collect_youtube_catalog(api_key=None):
         }
 
         if api_key:
-            ch = fetch_youtube_channel(handle, api_key)
+            ch = fetch_youtube_channel(handle, api_key, name=title)
             if ch:
                 sn = ch.get("snippet", {})
                 st = ch.get("statistics", {})
@@ -413,7 +422,7 @@ def build_mediacritic_entries(youtube_key=None, spotify_token=None):
                     data["description"] = show.get("description", "")
 
         if ep.get("youtube") and youtube_key:
-            ch = fetch_youtube_channel(ep["youtube"], youtube_key)
+            ch = fetch_youtube_channel(ep["youtube"], youtube_key, name=ep.get("title"))
             if ch:
                 sn = ch.get("snippet", {})
                 st = ch.get("statistics", {})
