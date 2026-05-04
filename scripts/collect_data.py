@@ -290,8 +290,10 @@ def collect_youtube_catalog(api_key=None):
     for handle, slug, title, categories in YOUTUBE_CHANNELS:
         existing = load_existing(slug)
         if existing and existing.get("type") == "youtube":
-            skipped += 1
-            continue
+            # Skip only if already enriched with API data (has subscribers)
+            if existing.get("platforms", {}).get("youtube", {}).get("subscribers"):
+                skipped += 1
+                continue
 
         data = existing or {
             "slug":        slug,
