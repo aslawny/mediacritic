@@ -332,6 +332,7 @@ def update_catalog(all_data):
             "mcEpisode":      d.get("mediacritic", {}).get("episodeNumber") if d.get("mediacritic") else None,
             "rating":         d.get("platforms", {}).get("apple", {}).get("rating"),
             "ratingCount":    d.get("platforms", {}).get("apple", {}).get("ratingCount"),
+            "addedAt":        d.get("updatedAt", ""),
         })
     with open(CATALOG, "w", encoding="utf-8") as f:
         json.dump(catalog, f, ensure_ascii=False, separators=(",", ":"))

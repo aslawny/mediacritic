@@ -168,6 +168,11 @@
     .filter-btn.type-podcast.active { background:#2563eb; border-color:#2563eb; color:#fff; }
     .filter-btn.type-youtube { color:#f87171; border-color:rgba(248,113,113,.4); }
     .filter-btn.type-youtube.active { background:#dc2626; border-color:#dc2626; color:#fff; }
+    .sort-bar { display:flex; align-items:center; gap:8px; flex-wrap:wrap; margin-top:10px; }
+    .sort-lbl { font-size:.72rem; color:var(--c-muted2); flex-shrink:0; }
+    .sort-btn { font-size:.72rem; font-weight:500; padding:4px 11px; border-radius:20px; cursor:pointer; border:1px solid var(--c-border2); background:var(--c-glass); color:var(--c-muted); transition:all .18s; white-space:nowrap; }
+    .sort-btn:hover { border-color:rgba(232,98,45,.35); color:var(--c-text); }
+    .sort-btn.active { background:var(--c-orange); border-color:var(--c-orange); color:#fff; font-weight:600; }
 
     .results-info { font-size:.78rem; color:var(--c-muted2); margin:8px 0 16px; min-height:18px; }
     .results-info strong { color:var(--c-orange); }
@@ -324,6 +329,12 @@
     <div class="results-info" id="results-info" style="margin:0;flex:1;"></div>
     <button id="clear-filters" style="display:none;font-size:.73rem;font-weight:600;color:var(--c-orange);background:rgba(232,98,45,.08);border:1px solid rgba(232,98,45,.3);padding:4px 12px;border-radius:20px;cursor:pointer;white-space:nowrap;transition:background .2s;" onclick="clearAllFilters()">✕ Effacer les filtres</button>
   </div>
+  <div class="sort-bar">
+    <span class="sort-lbl">Tri :</span>
+    <button class="sort-btn active" data-sort="alpha">A → Z</button>
+    <button class="sort-btn" data-sort="recent">🕐 Plus récents</button>
+    <button class="sort-btn" data-sort="rating">⭐ Mieux notés</button>
+  </div>
 </div>
 
 <!-- GRID -->
@@ -420,6 +431,7 @@
   let catalog=[],fuse=null,filtered=[],page=0,searchTerm='';
   // Multi-select: Set of active category keys. Empty = "Tous"
   let activeCats=new Set();
+  let activeSort='alpha';
   const grid=document.getElementById('grid');
   const empty=document.getElementById('empty-state');
   const loadBtn=document.getElementById('load-more-btn');
@@ -444,6 +456,15 @@
       filtersCt.appendChild(btn);
     });
     syncFilterUI();
+    // Sort button click handler
+    document.querySelectorAll('[data-sort]').forEach(btn=>{
+      btn.addEventListener('click',()=>{
+        activeSort=btn.dataset.sort;
+        document.querySelectorAll('[data-sort]').forEach(b=>b.classList.toggle('active',b===btn));
+        page=0; applyFilters();
+      });
+    });
+
     filtersCt.addEventListener('click',e=>{
       const btn=e.target.closest('[data-cat]');
       if(!btn)return;
@@ -456,6 +477,26 @@
       }
       syncFilterUI();
       page=0; applyFilters();
+    });
+  }
+
+  function sortFiltered(arr){
+    return arr.slice().sort((a,b)=>{
+      // MC episodes always first (by episode number)
+      const ma=a.hasMediacritic, mb=b.hasMediacritic;
+      if(ma&&!mb)return -1; if(!ma&&mb)return 1;
+      if(ma&&mb){const ea=MC_EP[a.slug]?.ep||99,eb=MC_EP[b.slug]?.ep||99;return ea-eb;}
+      // Non-MC: apply user sort
+      if(activeSort==='recent'){
+        const da=a.addedAt||'0', db=b.addedAt||'0';
+        if(da!==db) return db.localeCompare(da); // newest first
+      }
+      if(activeSort==='rating'){
+        const ra=parseFloat(a.rating)||0, rb=parseFloat(b.rating)||0;
+        if(ra!==rb) return rb-ra; // highest first
+      }
+      // Default / tiebreak: A→Z
+      return (a.title||'').localeCompare(b.title||'','fr',{sensitivity:'base'});
     });
   }
 
@@ -489,7 +530,7 @@
       const sm={};res.forEach(r=>sm[r.item.slug]=r.score);
       base=base.slice().sort((a,b)=>(sm[a.slug]||1)-(sm[b.slug]||1));
     }
-    filtered=base;
+    filtered=sortFiltered(base);
     // Show/hide clear button
     const clearBtn=document.getElementById('clear-filters');
     if(clearBtn) clearBtn.style.display=activeCats.size>0?'inline-flex':'none';
@@ -550,14 +591,7 @@
   if(urlQ){searchInput.value=urlQ;searchTerm=urlQ.trim();}
 
   fetch('data/catalog.json').then(r=>r.json()).then(data=>{
-    // Sort: MC first (by episode number), then alphabetically
-    data.sort((a,b)=>{
-      const ma=a.hasMediacritic, mb=b.hasMediacritic;
-      if(ma&&!mb)return -1; if(!ma&&mb)return 1;
-      if(ma&&mb){const ea=MC_EP[a.slug]?.ep||99,eb=MC_EP[b.slug]?.ep||99;return ea-eb;}
-      return a.title.localeCompare(b.title,'fr');
-    });
-    catalog=data;
+    catalog=data;  // sort handled by sortFiltered()
     document.getElementById('stat-total').textContent=data.length.toLocaleString('fr-FR');
     fuse=new Fuse(catalog,{keys:[{name:'title',weight:.5},{name:'author',weight:.2},{name:'categories',weight:.2},{name:'description',weight:.1}],threshold:.35,includeScore:true,minMatchCharLength:2});
     const allCats=new Set();
