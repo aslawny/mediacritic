@@ -333,6 +333,7 @@ def update_catalog(all_data):
             "rating":         d.get("platforms", {}).get("apple", {}).get("rating"),
             "ratingCount":    d.get("platforms", {}).get("apple", {}).get("ratingCount"),
             "addedAt":        d.get("updatedAt", ""),
+            "subscribers":    d.get("platforms", {}).get("youtube", {}).get("subscribers"),
         })
     with open(CATALOG, "w", encoding="utf-8") as f:
         json.dump(catalog, f, ensure_ascii=False, separators=(",", ":"))

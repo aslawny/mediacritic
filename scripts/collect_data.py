@@ -481,8 +481,7 @@ def fetch_apple_rating_page(track_id):
 
 def update_ratings_missing():
     """Fetch Apple Podcasts ratings for entries that have trackId but no rating."""
-    print("
--- Mise a jour des notes Apple Podcasts --")
+    print("Mise a jour des notes Apple Podcasts")
     needs_update = []
     for path in DATA_DIR.glob("*.json"):
         with open(path, encoding="utf-8") as f:
@@ -536,6 +535,7 @@ def generate_catalog():
             "mcEpisode":     d.get("mediacritic", {}).get("episodeNumber") if d.get("mediacritic") else None,
             "rating":        d.get("platforms", {}).get("apple", {}).get("rating"),
             "ratingCount":   d.get("platforms", {}).get("apple", {}).get("ratingCount"),
+            "subscribers":   d.get("platforms", {}).get("youtube", {}).get("subscribers"),
         })
 
     with open(CATALOG_OUT, "w", encoding="utf-8") as f:
