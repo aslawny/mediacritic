@@ -2,7 +2,7 @@ name: Enrichissement catalogue
 
 on:
   schedule:
-    - cron: '0 7 * * 1'
+    - cron: '0 7 * * *'   # tous les jours à 7h UTC
   workflow_dispatch:
     inputs:
       mode:
@@ -12,6 +12,7 @@ on:
         type: choice
         options:
           - auto
+          - refresh
           - podcast
           - youtube
 
@@ -37,7 +38,7 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Determine run mode
+      - name: Determine run mode (cycle 3 jours - refresh - podcast - youtube)
         id: mode
         run: |
           MANUAL_MODE="${{ github.event.inputs.mode }}"
@@ -45,13 +46,15 @@ jobs:
             echo "mode=$MANUAL_MODE" >> "$GITHUB_OUTPUT"
           elif [ -f "./site/.run_state" ]; then
             LAST_MODE=$(cat ./site/.run_state)
-            if [ "$LAST_MODE" = "podcast" ]; then
+            if [ "$LAST_MODE" = "refresh" ]; then
+              echo "mode=podcast" >> "$GITHUB_OUTPUT"
+            elif [ "$LAST_MODE" = "podcast" ]; then
               echo "mode=youtube" >> "$GITHUB_OUTPUT"
             else
-              echo "mode=podcast" >> "$GITHUB_OUTPUT"
+              echo "mode=refresh" >> "$GITHUB_OUTPUT"
             fi
           else
-            echo "mode=youtube" >> "$GITHUB_OUTPUT"
+            echo "mode=refresh" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Collect data
@@ -73,5 +76,5 @@ jobs:
           git config user.name "MediaCritic Bot"
           git config user.email "bot@mediacritic.fr"
           git add -A
-          git diff --cached --quiet || git commit -m "auto: enrichissement ${{ steps.mode.outputs.mode }}s — $(date -u +%Y-%m-%d)"
+          git diff --cached --quiet || git commit -m "auto: enrichissement ${{ steps.mode.outputs.mode }} — $(date -u +%Y-%m-%d)"
           git push origin gh-pages
