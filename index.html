@@ -496,14 +496,22 @@
     });
   }
 
+  function isPristine(){
+    // Aucun filtre, aucun tri personnalisé, aucune recherche
+    return activeCats.size===0 && sortState.key==='alpha' && sortState.dir===1 && searchTerm.length<2;
+  }
+
   function sortFiltered(arr){
     const {key,dir}=sortState;
+    const pinMC=isPristine();
     return arr.slice().sort((a,b)=>{
-      // MC episodes always first (by episode number), regardless of sort
-      const ma=a.hasMediacritic, mb=b.hasMediacritic;
-      if(ma&&!mb)return -1; if(!ma&&mb)return 1;
-      if(ma&&mb){const ea=MC_EP[a.slug]?.ep||99,eb=MC_EP[b.slug]?.ep||99;return ea-eb;}
-      // Non-MC: apply user sort with direction
+      // MC en tête seulement si aucun filtre/tri/recherche actif
+      if(pinMC){
+        const ma=a.hasMediacritic, mb=b.hasMediacritic;
+        if(ma&&!mb)return -1; if(!ma&&mb)return 1;
+        if(ma&&mb){const ea=MC_EP[a.slug]?.ep||99,eb=MC_EP[b.slug]?.ep||99;return ea-eb;}
+      }
+      // Apply user sort with direction
       if(key==='recent'){
         const da=a.addedAt||'0', db=b.addedAt||'0';
         if(da!==db) return dir*(db.localeCompare(da)); // dir=1: newest first
