@@ -173,6 +173,8 @@
     .sort-btn { font-size:.72rem; font-weight:500; padding:4px 11px; border-radius:20px; cursor:pointer; border:1px solid var(--c-border2); background:var(--c-glass); color:var(--c-muted); transition:all .18s; white-space:nowrap; }
     .sort-btn:hover { border-color:rgba(232,98,45,.35); color:var(--c-text); }
     .sort-btn.active { background:var(--c-orange); border-color:var(--c-orange); color:#fff; font-weight:600; }
+    .sort-btn.active::after { content:' ↓'; font-size:.65em; opacity:.85; }
+    .sort-btn.active.asc::after { content:' ↑'; }
 
     .results-info { font-size:.78rem; color:var(--c-muted2); margin:8px 0 16px; min-height:18px; }
     .results-info strong { color:var(--c-orange); }
@@ -332,9 +334,10 @@
   </div>
   <div class="sort-bar">
     <span class="sort-lbl">Tri :</span>
-    <button class="sort-btn active" data-sort="alpha">A → Z</button>
-    <button class="sort-btn" data-sort="recent">🕐 Plus récents</button>
-    <button class="sort-btn" data-sort="rating">⭐ Mieux notés</button>
+    <button class="sort-btn active" data-sort="alpha">A–Z</button>
+    <button class="sort-btn" data-sort="recent">🕐 Date</button>
+    <button class="sort-btn" data-sort="rating">⭐ Note</button>
+    <button class="sort-btn" data-sort="subs">👥 Abonnés</button>
   </div>
 </div>
 
@@ -432,7 +435,7 @@
   let catalog=[],fuse=null,filtered=[],page=0,searchTerm='';
   // Multi-select: Set of active category keys. Empty = "Tous"
   let activeCats=new Set();
-  let activeSort='alpha';
+  let sortState={key:'alpha',dir:1}; // dir: 1=desc/Z→A/worst, -1=asc/A→Z/best
   const grid=document.getElementById('grid');
   const empty=document.getElementById('empty-state');
   const loadBtn=document.getElementById('load-more-btn');
@@ -457,11 +460,23 @@
       filtersCt.appendChild(btn);
     });
     syncFilterUI();
-    // Sort button click handler
+    // Sort button click handler — toggle direction if already active
     document.querySelectorAll('[data-sort]').forEach(btn=>{
       btn.addEventListener('click',()=>{
-        activeSort=btn.dataset.sort;
-        document.querySelectorAll('[data-sort]').forEach(b=>b.classList.toggle('active',b===btn));
+        const k=btn.dataset.sort;
+        if(sortState.key===k){
+          sortState.dir*=-1; // flip direction
+        } else {
+          sortState.key=k;
+          // Default direction is always 1 (A→Z, newest, best, most)
+          sortState.dir=1;
+        }
+        document.querySelectorAll('[data-sort]').forEach(b=>{
+          b.classList.toggle('active',b===btn);
+          b.classList.remove('asc');
+        });
+        // asc class = arrow up (ascending order for current sort)
+        if(sortState.dir===-1) btn.classList.add('asc');
         page=0; applyFilters();
       });
     });
@@ -482,22 +497,28 @@
   }
 
   function sortFiltered(arr){
+    const {key,dir}=sortState;
     return arr.slice().sort((a,b)=>{
-      // MC episodes always first (by episode number)
+      // MC episodes always first (by episode number), regardless of sort
       const ma=a.hasMediacritic, mb=b.hasMediacritic;
       if(ma&&!mb)return -1; if(!ma&&mb)return 1;
       if(ma&&mb){const ea=MC_EP[a.slug]?.ep||99,eb=MC_EP[b.slug]?.ep||99;return ea-eb;}
-      // Non-MC: apply user sort
-      if(activeSort==='recent'){
+      // Non-MC: apply user sort with direction
+      if(key==='recent'){
         const da=a.addedAt||'0', db=b.addedAt||'0';
-        if(da!==db) return db.localeCompare(da); // newest first
+        if(da!==db) return dir*(db.localeCompare(da)); // dir=1: newest first
       }
-      if(activeSort==='rating'){
+      if(key==='rating'){
         const ra=parseFloat(a.rating)||0, rb=parseFloat(b.rating)||0;
-        if(ra!==rb) return rb-ra; // highest first
+        if(ra!==rb) return dir*(rb-ra); // dir=1: highest first
       }
-      // Default / tiebreak: A→Z
-      return (a.title||'').localeCompare(b.title||'','fr',{sensitivity:'base'});
+      if(key==='subs'){
+        const sa=a.subscribers||0, sb=b.subscribers||0;
+        if(sa!==sb) return dir*(sb-sa); // dir=1: most subs first
+      }
+      // Default / tiebreak: alphabetical (respects dir for alpha sort)
+      const cmp=(a.title||'').localeCompare(b.title||'','fr',{sensitivity:'base'});
+      return key==='alpha'?dir*cmp:cmp;
     });
   }
 
@@ -528,8 +549,7 @@
       const res=fuse.search(searchTerm,{limit:300});
       const slugs=new Set(res.map(r=>r.item.slug));
       base=base.filter(i=>slugs.has(i.slug));
-      const sm={};res.forEach(r=>sm[r.item.slug]=r.score);
-      base=base.slice().sort((a,b)=>(sm[a.slug]||1)-(sm[b.slug]||1));
+      // No relevance re-sort: user sort applies after search filtering
     }
     filtered=sortFiltered(base);
     // Show/hide clear button
