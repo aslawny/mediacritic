@@ -492,7 +492,7 @@ def fetch_apple_rating_page(track_id):
 
 def update_ratings_missing():
     """Fetch Apple Podcasts ratings for entries that have trackId but no rating."""
-    print("Mise a jour des notes Apple Podcasts")
+    print("Mise a jour des notes Apple Podcasts (manquantes)")
     needs_update = []
     for path in DATA_DIR.glob("*.json"):
         with open(path, encoding="utf-8") as f:
@@ -526,6 +526,75 @@ def update_ratings_missing():
 
     print(f"  Notes mises a jour : {updated}/{len(needs_update)}")
 
+
+def refresh_all_ratings():
+    """Re-fetch Apple Podcasts ratings for ALL entries with a trackId (mode refresh)."""
+    print("\n-- Refresh notes Apple Podcasts (toutes les fiches) --")
+    needs_update = []
+    for path in DATA_DIR.glob("*.json"):
+        with open(path, encoding="utf-8") as f:
+            d = json.load(f)
+        apple = d.get("platforms", {}).get("apple", {})
+        tid = apple.get("trackId")
+        if tid:
+            needs_update.append((path, d, tid))
+
+    print(f"  {len(needs_update)} fiches podcasts a rafraichir...")
+    updated = 0
+
+    def _fetch(args):
+        path, d, tid = args
+        rating, count = fetch_apple_rating_page(tid)
+        return path, d, rating, count
+
+    with ThreadPoolExecutor(max_workers=20) as ex:
+        futures = [ex.submit(_fetch, args) for args in needs_update]
+        for fut in as_completed(futures):
+            path, d, rating, count = fut.result()
+            if rating is not None:
+                d.setdefault("platforms", {}).setdefault("apple", {})
+                d["platforms"]["apple"]["rating"] = rating
+                d["platforms"]["apple"]["ratingCount"] = count
+                d["updatedAt"] = today()
+                save_content(d)
+                updated += 1
+
+    print(f"  Notes mises a jour : {updated}/{len(needs_update)}")
+
+
+def refresh_all_youtube(api_key=None):
+    """Re-fetch YouTube subscriber counts and images for ALL existing YouTube channels."""
+    if not api_key:
+        print("\n-- Refresh YouTube ignoré (pas de clé API) --")
+        return
+    print("\n-- Refresh abonnés YouTube (toutes les chaînes) --")
+    updated = 0
+    skipped = 0
+    for handle, slug, title, _ in YOUTUBE_CHANNELS:
+        existing = load_existing(slug)
+        if not existing or existing.get("type") != "youtube":
+            skipped += 1
+            continue
+        ch = fetch_youtube_channel(handle, api_key, name=title)
+        if ch:
+            sn = ch.get("snippet", {})
+            st = ch.get("statistics", {})
+            existing["description"] = sn.get("description", existing.get("description", ""))
+            existing["image"] = sn.get("thumbnails", {}).get("high", {}).get("url") or existing.get("image")
+            existing.setdefault("platforms", {})["youtube"] = {
+                "url":         f"https://www.youtube.com/{handle}",
+                "channelId":   ch["id"],
+                "subscribers": int(st.get("subscriberCount", 0)),
+                "totalViews":  int(st.get("viewCount", 0)),
+                "videoCount":  int(st.get("videoCount", 0)),
+            }
+            existing["updatedAt"] = today()
+            save_content(existing)
+            updated += 1
+        else:
+            skipped += 1
+    print(f"  YouTube: {updated} mis a jour, {skipped} ignores (absents ou API ko)")
+
 # --- Generation du catalog.json ----------------------------------------------
 def generate_catalog():
     print("\n-- Generation catalog.json --")
@@ -556,7 +625,7 @@ def generate_catalog():
 # --- Main --------------------------------------------------------------------
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--mode",           choices=["podcast", "youtube", "all"], default="all")
+    parser.add_argument("--mode",           choices=["podcast", "youtube", "refresh", "all"], default="all")
     parser.add_argument("--youtube-key",    default=os.getenv("YOUTUBE_API_KEY"))
     parser.add_argument("--spotify-id",     default=os.getenv("SPOTIFY_CLIENT_ID"))
     parser.add_argument("--spotify-secret", default=os.getenv("SPOTIFY_CLIENT_SECRET"))
@@ -568,13 +637,21 @@ if __name__ == "__main__":
 
     build_mediacritic_entries(args.youtube_key, spotify_token)
 
-    if args.mode in ("podcast", "all"):
+    if args.mode == "refresh":
+        # Jour 1 : mettre à jour TOUTES les données existantes
+        refresh_all_ratings()
+        refresh_all_youtube(args.youtube_key)
+    elif args.mode == "podcast":
+        # Jour 2 : découvrir de nouveaux podcasts
         collect_itunes_catalog()
-
-    if args.mode in ("youtube", "all"):
+        update_ratings_missing()
+    elif args.mode == "youtube":
+        # Jour 3 : découvrir de nouvelles chaînes YouTube
         collect_youtube_catalog(args.youtube_key)
-
-    update_ratings_missing()
+    elif args.mode == "all":
+        collect_itunes_catalog()
+        collect_youtube_catalog(args.youtube_key)
+        update_ratings_missing()
 
     generate_catalog()
     print("\nTermine.")
