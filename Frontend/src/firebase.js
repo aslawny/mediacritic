@@ -4,7 +4,7 @@ import { getAuth } from 'firebase/auth'
 
 
 const firebaseConfig = {
-  apiKey: "REMOVED_API_KEY",
+  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
   authDomain: "MediaCritic.firebaseapp.com",
   projectId: "MediaCritic",
   storageBucket: "MediaCritic.firebasestorage.app",
