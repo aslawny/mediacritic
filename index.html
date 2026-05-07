@@ -175,6 +175,7 @@
     .sort-btn.active { background:var(--c-orange); border-color:var(--c-orange); color:#fff; font-weight:600; }
     .sort-btn.active::after { content:' ↓'; font-size:.65em; opacity:.85; }
     .sort-btn.active.asc::after { content:' ↑'; }
+    .sort-btn[data-sort="none"].active::after { content:''; }
 
     .results-info { font-size:.78rem; color:var(--c-muted2); margin:8px 0 16px; min-height:18px; }
     .results-info strong { color:var(--c-orange); }
@@ -334,7 +335,8 @@
   </div>
   <div class="sort-bar">
     <span class="sort-lbl">Tri :</span>
-    <button class="sort-btn active" data-sort="alpha">A–Z</button>
+    <button class="sort-btn active" data-sort="none">Aucun</button>
+    <button class="sort-btn" data-sort="alpha">A–Z</button>
     <button class="sort-btn" data-sort="recent">🕐 Date</button>
     <button class="sort-btn" data-sort="rating">⭐ Note</button>
     <button class="sort-btn" data-sort="subs">👥 Abonnés</button>
@@ -435,7 +437,7 @@
   let catalog=[],fuse=null,filtered=[],page=0,searchTerm='';
   // Multi-select: Set of active category keys. Empty = "Tous"
   let activeCats=new Set();
-  let sortState={key:'alpha',dir:1}; // dir: 1=desc/Z→A/worst, -1=asc/A→Z/best
+  let sortState={key:'none',dir:1}; // key='none' = ordre par défaut (MC en tête)
   const grid=document.getElementById('grid');
   const empty=document.getElementById('empty-state');
   const loadBtn=document.getElementById('load-more-btn');
@@ -464,12 +466,13 @@
     document.querySelectorAll('[data-sort]').forEach(btn=>{
       btn.addEventListener('click',()=>{
         const k=btn.dataset.sort;
-        if(sortState.key===k){
+        if(k==='none'){
+          // Bouton "Aucun" : retour à l'ordre par défaut, pas de toggle
+          sortState.key='none'; sortState.dir=1;
+        } else if(sortState.key===k){
           sortState.dir*=-1; // flip direction
         } else {
-          sortState.key=k;
-          // Default direction is always 1 (A→Z, newest, best, most)
-          sortState.dir=1;
+          sortState.key=k; sortState.dir=1;
         }
         document.querySelectorAll('[data-sort]').forEach(b=>{
           b.classList.toggle('active',b===btn);
@@ -497,8 +500,8 @@
   }
 
   function isPristine(){
-    // Aucun filtre, aucun tri personnalisé, aucune recherche
-    return activeCats.size===0 && sortState.key==='alpha' && sortState.dir===1 && searchTerm.length<2;
+    // MC en tête uniquement si le tri "Aucun" est sélectionné, sans filtre ni recherche
+    return sortState.key==='none' && activeCats.size===0 && searchTerm.length<2;
   }
 
   function sortFiltered(arr){
