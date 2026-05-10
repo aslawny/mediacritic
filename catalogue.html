@@ -4,14 +4,14 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Catalogue podcasts et chaînes YouTube francophones | MediaCritic</title>
-  <meta name="description" content="Découvrez 1 360+ podcasts et chaînes YouTube francophones référencés par MediaCritic. Filtrez par thème : true crime, histoire, culture, tech, gaming, gastronomie, sciences et plus encore." />
+  <meta name="description" id="meta-description" content="Découvrez 1 360+ podcasts et chaînes YouTube francophones référencés par MediaCritic. Filtrez par thème : true crime, histoire, culture, tech, gaming, gastronomie, sciences et plus encore." />
   <meta name="keywords" content="catalogue podcast francophone, liste podcasts français, meilleurs podcasts français, chaînes YouTube francophones, podcast true crime, podcast histoire, podcast tech, podcast gaming, MediaCritic catalogue" />
   <meta name="author" content="MediaCritic" />
   <meta name="robots" content="index, follow" />
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data: https://*.spotifycdn.com https://*.spotify.com https://*.googleusercontent.com https://*.mzstatic.com https://image-cdn-fa.spotifycdn.com https://image-cdn-ak.spotifycdn.com https://i.scdn.co https://is1-ssl.mzstatic.com; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://www.google-analytics.com https://analytics.google.com https://region1.google-analytics.com; frame-src 'none'; object-src 'none'; base-uri 'self'; form-action 'self' mailto:; frame-ancestors 'none';" />
   <meta name="referrer" content="strict-origin-when-cross-origin" />
   <meta http-equiv="Permissions-Policy" content="camera=(), microphone=(), geolocation=(), payment=(), usb=(), interest-cohort=()" />
-  <link rel="canonical" href="https://www.mediacritic.fr/catalogue.html" />
+  <link rel="canonical" id="canonical-tag" href="https://www.mediacritic.fr/catalogue.html" />
 
   <!-- Open Graph -->
   <meta property="og:type" content="website" />
@@ -428,6 +428,28 @@
   const resInfo    = document.getElementById('results-info');
   const filtersCt  = document.getElementById('filters-container');
 
+  const BASE_URL = 'https://www.mediacritic.fr/catalogue.html';
+  const DEFAULT_TITLE = 'Catalogue podcasts et chaînes YouTube francophones | MediaCritic';
+  const DEFAULT_DESC  = 'Découvrez 1 360+ podcasts et chaînes YouTube francophones référencés par MediaCritic. Filtrez par thème : true crime, histoire, culture, tech, gaming, gastronomie, sciences et plus encore.';
+
+  function updateMeta(cat) {
+    const canonicalEl = document.getElementById('canonical-tag');
+    const metaDescEl  = document.getElementById('meta-description');
+    if (cat === 'all' || cat === 'mc') {
+      document.title = DEFAULT_TITLE;
+      if (metaDescEl)  metaDescEl.setAttribute('content', DEFAULT_DESC);
+      if (canonicalEl) canonicalEl.href = BASE_URL;
+      history.replaceState(null, '', BASE_URL);
+    } else {
+      const catLabel = cat.charAt(0).toUpperCase() + cat.slice(1);
+      document.title = `Podcasts & chaînes YouTube ${catLabel} | Catalogue MediaCritic`;
+      if (metaDescEl)  metaDescEl.setAttribute('content', `Découvrez les meilleurs podcasts et chaînes YouTube francophones sur le thème "${cat}" — référencés et notés par MediaCritic.`);
+      const url = `${BASE_URL}?cat=${encodeURIComponent(cat)}`;
+      if (canonicalEl) canonicalEl.href = url;
+      history.replaceState(null, '', url);
+    }
+  }
+
   // Build category buttons
   function buildFilters(cats) {
     const existing = filtersCt.querySelectorAll('[data-cat]');
@@ -446,6 +468,7 @@
       btn.classList.add('active');
       activecat = btn.dataset.cat;
       page = 0;
+      updateMeta(activecat);
       applyFilters();
     });
   }
@@ -558,12 +581,15 @@
     }, 220);
   });
 
-  // Pre-fill search from URL ?q=
-  const urlQ = new URLSearchParams(location.search).get('q');
+  // Read URL params before catalog loads
+  const urlParams = new URLSearchParams(location.search);
+  const urlQ   = urlParams.get('q');
+  const urlCat = urlParams.get('cat');
   if (urlQ) {
     searchInput.value = urlQ;
     searchTerm = urlQ.trim();
   }
+  if (urlCat) activecat = urlCat;
 
   // Load catalog
   fetch('data/catalog.json')
@@ -593,13 +619,19 @@
       document.getElementById('stat-cats').textContent = allCats.size;
       buildFilters(allCats);
 
+      // Activate ?cat= button if present in URL
+      if (urlCat) {
+        filtersCt.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+        const target = filtersCt.querySelector(`[data-cat="${CSS.escape(urlCat)}"]`);
+        if (target) target.classList.add('active');
+        updateMeta(urlCat);
+      }
+
       applyFilters();
     })
     .catch(() => {
       grid.innerHTML = '<p style="color:var(--c-muted);text-align:center;padding:40px;grid-column:1/-1">Erreur lors du chargement du catalogue.</p>';
     });
-
-  // Handle ?q= pre-fill after fuse is ready (handled above via searchTerm)
 })();
 </script>
 
