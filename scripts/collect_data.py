@@ -144,6 +144,25 @@ YOUTUBE_CHANNELS = [
     ("@bde_france",           "bde-france",               "BDE France",                  ["societe","humour"]),
 ]
 
+# --- Requetes de decouverte YouTube -------------------------------------------
+YOUTUBE_DISCOVERY_QUERIES = [
+    ("chaine youtube histoire france",              ["histoire"]),
+    ("chaine youtube science vulgarisation france", ["sciences", "vulgarisation"]),
+    ("chaine youtube gaming france",                ["gaming"]),
+    ("chaine youtube cuisine gastronomie france",   ["gastronomie", "cuisine"]),
+    ("chaine youtube humour comedie france",        ["humour", "comedie"]),
+    ("chaine youtube actualite politique france",   ["actualite", "politique"]),
+    ("chaine youtube tech numerique france",        ["tech", "numerique"]),
+    ("chaine youtube cinema serie critique france", ["cinema", "series"]),
+    ("chaine youtube sport france",                 ["sport"]),
+    ("chaine youtube bien etre psychologie france", ["bien-etre", "psychologie"]),
+    ("chaine youtube environnement nature france",  ["environnement", "sciences"]),
+    ("chaine youtube musique culture france",       ["musique", "culture"]),
+    ("chaine youtube education enfants france",     ["enfants", "education"]),
+    ("chaine youtube voyage aventure france",       ["voyage", "culture"]),
+    ("chaine youtube geopolitique international",   ["geopolitique", "international"]),
+]
+
 # --- Requetes iTunes ----------------------------------------------------------
 ITUNES_QUERIES = [
     ("podcast histoire francais",           ["histoire"]),
@@ -351,6 +370,102 @@ def collect_youtube_catalog(api_key=None):
         time.sleep(0.2)
 
     print(f"  YouTube: {added} ajoutees, {skipped} deja presentes")
+
+
+def discover_youtube_channels(api_key, max_per_query=15, min_subscribers=5000):
+    """Decouvre de nouvelles chaines YouTube francophones via l'API de recherche."""
+    if not api_key:
+        print("\n-- Decouverte YouTube ignoree (pas de cle API) --")
+        return
+
+    print("\n-- Decouverte de nouvelles chaines YouTube --")
+
+    # Charge les channel IDs deja connus pour eviter les doublons
+    known_ids = set()
+    for path in DATA_DIR.glob("*.json"):
+        try:
+            with open(path, encoding="utf-8") as f:
+                d = json.load(f)
+            cid = d.get("platforms", {}).get("youtube", {}).get("channelId")
+            if cid:
+                known_ids.add(cid)
+        except Exception:
+            pass
+
+    added = 0
+    base_search = "https://www.googleapis.com/youtube/v3/search"
+    base_chan   = "https://www.googleapis.com/youtube/v3/channels"
+
+    for query, categories in YOUTUBE_DISCOVERY_QUERIES:
+        print(f"  -> {query}")
+        results = _http_get(base_search, params={
+            "part":              "snippet",
+            "type":              "channel",
+            "q":                 query,
+            "relevanceLanguage": "fr",
+            "regionCode":        "FR",
+            "maxResults":        max_per_query,
+            "key":               api_key,
+        })
+        for item in results.get("items", []):
+            channel_id = item.get("id", {}).get("channelId")
+            if not channel_id or channel_id in known_ids:
+                continue
+
+            # Recupere les details complets de la chaine
+            ch_data = _http_get(base_chan, params={
+                "part": "snippet,statistics",
+                "id":   channel_id,
+                "key":  api_key,
+            })
+            items = ch_data.get("items", [])
+            if not items:
+                continue
+            ch = items[0]
+            sn = ch.get("snippet", {})
+            st = ch.get("statistics", {})
+
+            subs = int(st.get("subscriberCount", 0))
+            if subs < min_subscribers:
+                continue  # ignore les petites chaines
+
+            title  = sn.get("title", "")
+            slug   = slugify(title)
+            handle = sn.get("customUrl") or f"@{channel_id}"
+
+            # Verifie que le slug n'existe pas deja
+            if load_existing(slug):
+                known_ids.add(channel_id)
+                continue
+
+            data = {
+                "slug":        slug,
+                "title":       title,
+                "author":      title,
+                "type":        "youtube",
+                "categories":  categories,
+                "description": (sn.get("description") or "")[:500],
+                "image":       sn.get("thumbnails", {}).get("high", {}).get("url"),
+                "language":    "fr",
+                "platforms":   {"youtube": {
+                    "url":         f"https://www.youtube.com/{handle}",
+                    "channelId":   channel_id,
+                    "subscribers": subs,
+                    "totalViews":  int(st.get("viewCount", 0)),
+                    "videoCount":  int(st.get("videoCount", 0)),
+                }},
+                "mediacritic": None,
+                "tags":        categories,
+                "updatedAt":   today(),
+            }
+            save_content(data)
+            known_ids.add(channel_id)
+            added += 1
+
+        time.sleep(0.3)
+
+    print(f"  Decouverte YouTube: {added} nouvelles chaines ajoutees")
+
 
 # --- Collecte Spotify (optionnel) ---------------------------------------------
 def get_spotify_token(client_id, client_secret):
@@ -647,10 +762,12 @@ if __name__ == "__main__":
         update_ratings_missing()
     elif args.mode == "youtube":
         # Jour 3 : découvrir de nouvelles chaînes YouTube
-        collect_youtube_catalog(args.youtube_key)
+        collect_youtube_catalog(args.youtube_key)   # liste statique connue
+        discover_youtube_channels(args.youtube_key)  # découverte dynamique via recherche
     elif args.mode == "all":
         collect_itunes_catalog()
         collect_youtube_catalog(args.youtube_key)
+        discover_youtube_channels(args.youtube_key)
         update_ratings_missing()
 
     generate_catalog()
