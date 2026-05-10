@@ -222,10 +222,8 @@
     .skel-card { aspect-ratio:.75; }
 
     /* ── LOAD MORE ── */
-    .load-more-wrap { text-align:center; margin-top:28px; }
-    #load-more-btn { background:var(--c-glass); border:1px solid var(--c-border2); color:var(--c-muted); font-size:.85rem; font-weight:500; padding:10px 28px; border-radius:10px; cursor:pointer; transition:all .2s; }
-    #load-more-btn:hover { border-color:rgba(232,98,45,.4); color:var(--c-text); }
-    #load-more-btn:disabled { opacity:.4; cursor:default; }
+    .load-more-wrap { text-align:center; margin-top:28px; height:48px; }
+    #load-more-sentinel { width:100%; height:48px; }
 
     /* ── EMPTY ── */
     .empty-state { text-align:center; padding:60px 20px; color:var(--c-muted); display:none; }
@@ -356,7 +354,7 @@
     <p>Aucun résultat. Essayez un autre terme ou changez de filtre.</p>
   </div>
   <div class="load-more-wrap">
-    <button id="load-more-btn" style="display:none">Charger plus</button>
+    <div id="load-more-sentinel"></div>
   </div>
 </section>
 
@@ -440,7 +438,7 @@
   let sortState={key:'none',dir:1}; // key='none' = ordre par défaut (MC en tête)
   const grid=document.getElementById('grid');
   const empty=document.getElementById('empty-state');
-  const loadBtn=document.getElementById('load-more-btn');
+  const sentinel=document.getElementById('load-more-sentinel');
   const searchInput=document.getElementById('search-input');
   const resInfo=document.getElementById('results-info');
   const filtersCt=document.getElementById('filters-container');
@@ -572,7 +570,7 @@
   function renderPage(reset){
     if(reset){grid.innerHTML='';page=0;}
     const slice=filtered.slice(page*PAGE_SIZE,(page+1)*PAGE_SIZE);
-    if(filtered.length===0){empty.style.display='block';loadBtn.style.display='none';resInfo.innerHTML='';return;}
+    if(filtered.length===0){empty.style.display='block';sentinel.style.display='none';resInfo.innerHTML='';return;}
     empty.style.display='none';
     const shown=Math.min((page+1)*PAGE_SIZE,filtered.length);
     resInfo.innerHTML=`<strong>${filtered.length.toLocaleString('fr-FR')}</strong> résultat${filtered.length>1?'s':''} — ${shown.toLocaleString('fr-FR')} affichés`;
@@ -606,15 +604,18 @@
     });
     grid.appendChild(frag);
     page++;
-    loadBtn.style.display=page*PAGE_SIZE>=filtered.length?'none':'block';
-    loadBtn.disabled=false;
+    sentinel.style.display=page*PAGE_SIZE>=filtered.length?'none':'block';
   }
 
   window.clearAllFilters=function(){
     activeCats.clear(); syncFilterUI(); page=0; applyFilters();
   };
 
-  loadBtn.addEventListener('click',()=>{loadBtn.disabled=true;renderPage(false);});
+  // Infinite scroll via IntersectionObserver
+  const scrollObserver=new IntersectionObserver(entries=>{
+    if(entries[0].isIntersecting) renderPage(false);
+  },{rootMargin:'200px'});
+  scrollObserver.observe(sentinel);
 
   let timer;
   searchInput.addEventListener('input',()=>{
