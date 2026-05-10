@@ -19,7 +19,11 @@
       "episodeCount": 708
     }
   },
-  "mediacritic": null,
+  "mediacritic": {
+    "episodeNumber": 27,
+    "episodeSlug": "ifttd-if-this-then-dev",
+    "analyseUrl": "/episodes/ifttd-if-this-then-dev.html"
+  },
   "tags": [
     "tech",
     "numérique"
