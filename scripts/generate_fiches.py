@@ -93,7 +93,7 @@ def type_label(t):
 
 
 def schema_type(t):
-    types = {"podcast": "PodcastSeries", "youtube": "VideoObject"}
+    types = {"podcast": "PodcastSeries", "youtube": "WebPage"}
     return types.get(t, "CreativeWork")
 
 
