@@ -144,53 +144,242 @@ YOUTUBE_CHANNELS = [
     ("@bde_france",           "bde-france",               "BDE France",                  ["societe","humour"]),
 ]
 
-# --- Requetes de decouverte YouTube -------------------------------------------
+# --- Requetes de decouverte YouTube (pool large, rotation par run) ------------
 YOUTUBE_DISCOVERY_QUERIES = [
-    ("chaine youtube histoire france",              ["histoire"]),
-    ("chaine youtube science vulgarisation france", ["sciences", "vulgarisation"]),
-    ("chaine youtube gaming france",                ["gaming"]),
-    ("chaine youtube cuisine gastronomie france",   ["gastronomie", "cuisine"]),
-    ("chaine youtube humour comedie france",        ["humour", "comedie"]),
-    ("chaine youtube actualite politique france",   ["actualite", "politique"]),
-    ("chaine youtube tech numerique france",        ["tech", "numerique"]),
-    ("chaine youtube cinema serie critique france", ["cinema", "series"]),
-    ("chaine youtube sport france",                 ["sport"]),
-    ("chaine youtube bien etre psychologie france", ["bien-etre", "psychologie"]),
-    ("chaine youtube environnement nature france",  ["environnement", "sciences"]),
-    ("chaine youtube musique culture france",       ["musique", "culture"]),
-    ("chaine youtube education enfants france",     ["enfants", "education"]),
-    ("chaine youtube voyage aventure france",       ["voyage", "culture"]),
-    ("chaine youtube geopolitique international",   ["geopolitique", "international"]),
+    # Histoire
+    ("chaine youtube histoire france",                 ["histoire"]),
+    ("chaine youtube revolution francaise guerre",     ["histoire"]),
+    ("chaine youtube antiquite rome grece",            ["histoire"]),
+    ("chaine youtube medieval moyen age",              ["histoire"]),
+    ("chaine youtube biographie historique france",    ["histoire"]),
+    ("chaine youtube mythologie greco romaine",        ["histoire"]),
+    ("chaine youtube histoire mondiale civilisation",  ["histoire", "geopolitique"]),
+    ("chaine youtube archeologie fouilles",            ["histoire", "sciences"]),
+    # Sciences
+    ("chaine youtube science vulgarisation france",    ["sciences", "vulgarisation"]),
+    ("chaine youtube espace astronomie cosmos",        ["sciences", "espace"]),
+    ("chaine youtube biologie nature animal",          ["sciences", "nature"]),
+    ("chaine youtube physique chimie experience",      ["sciences"]),
+    ("chaine youtube mathematiques maths",             ["sciences", "education"]),
+    ("chaine youtube environnement ecologie",          ["environnement", "sciences"]),
+    ("chaine youtube geologie mineraux",               ["sciences", "nature"]),
+    ("chaine youtube medecine sante corps humain",     ["sante", "sciences"]),
+    ("chaine youtube geographie pays carte",           ["sciences", "culture"]),
+    # Gaming
+    ("chaine youtube gaming jeux video france",        ["gaming"]),
+    ("chaine youtube retrogaming retro nostalgie",     ["gaming", "retro"]),
+    ("chaine youtube lets play gameplay fr",           ["gaming"]),
+    ("chaine youtube jeux independants indie game",    ["gaming", "jeux inde"]),
+    ("chaine youtube test critique jeu video",         ["gaming", "critique"]),
+    ("chaine youtube rpg jeu de role",                 ["gaming"]),
+    ("chaine youtube jeux de strategie",               ["gaming"]),
+    ("chaine youtube speedrun gaming",                 ["gaming"]),
+    # Cuisine
+    ("chaine youtube cuisine gastronomie france",      ["gastronomie", "cuisine"]),
+    ("chaine youtube recette facile rapide",           ["gastronomie", "cuisine"]),
+    ("chaine youtube patisserie boulangerie",          ["gastronomie", "cuisine"]),
+    ("chaine youtube vegan vegetarien cuisine",        ["gastronomie", "cuisine"]),
+    ("chaine youtube vin degustation sommelier",       ["gastronomie"]),
+    ("chaine youtube barbecue plancha grill",          ["gastronomie", "cuisine"]),
+    # Humour
+    ("chaine youtube humour comedie france",           ["humour", "comedie"]),
+    ("chaine youtube sketch comedie",                  ["humour"]),
+    ("chaine youtube stand up one man show",           ["humour"]),
+    ("chaine youtube parodie humour",                  ["humour"]),
+    # Actualite / Politique
+    ("chaine youtube actualite politique france",      ["actualite", "politique"]),
+    ("chaine youtube geopolitique monde",              ["geopolitique", "international"]),
+    ("chaine youtube media journalisme",               ["actualite", "culture"]),
+    ("chaine youtube economie finances france",        ["economie", "business"]),
+    ("chaine youtube ecologie politique sociale",      ["societe", "politique"]),
+    # Tech / Numerique
+    ("chaine youtube tech numerique france",           ["tech", "numerique"]),
+    ("chaine youtube intelligence artificielle ia",    ["tech", "numerique"]),
+    ("chaine youtube developpement web code",          ["tech", "numerique"]),
+    ("chaine youtube cybersecurite hacking",           ["tech", "numerique"]),
+    ("chaine youtube hardware composants pc",          ["tech", "numerique"]),
+    ("chaine youtube smartphone test telephone",       ["tech", "numerique"]),
+    ("chaine youtube linux open source",               ["tech", "numerique"]),
+    # Cinema / Series
+    ("chaine youtube cinema analyse film france",      ["cinema", "culture"]),
+    ("chaine youtube serie critique review",           ["series", "cinema"]),
+    ("chaine youtube documentaire societe",            ["cinema", "societe"]),
+    ("chaine youtube animation dessin anime",          ["cinema", "enfants"]),
+    # Sport
+    ("chaine youtube sport fitness france",            ["sport"]),
+    ("chaine youtube football foot france",            ["football", "sport"]),
+    ("chaine youtube trail running montagne",          ["sport", "running"]),
+    ("chaine youtube musculation fitness gym",         ["sport", "sante"]),
+    ("chaine youtube cyclisme velo",                   ["sport"]),
+    ("chaine youtube arts martiaux boxe",              ["sport"]),
+    ("chaine youtube yoga pilates bien etre",          ["sport", "bien-etre"]),
+    ("chaine youtube natation triathlon",              ["sport", "endurance"]),
+    ("chaine youtube escalade outdoor aventure",       ["sport", "nature"]),
+    # Bien-etre / Psychologie
+    ("chaine youtube psychologie developpement personnel", ["psychologie", "bien-etre"]),
+    ("chaine youtube meditation pleine conscience",    ["bien-etre"]),
+    ("chaine youtube sophrologie coaching vie",        ["bien-etre", "psychologie"]),
+    # DIY / Maison
+    ("chaine youtube bricolage renovation DIY",        ["renovation", "DIY"]),
+    ("chaine youtube jardinage potager plantes",       ["nature", "DIY"]),
+    ("chaine youtube decoration interieur maison",     ["maison", "culture"]),
+    ("chaine youtube van amenagement tiny house",      ["DIY", "voyage"]),
+    # Musique / Arts
+    ("chaine youtube musique culture france",          ["musique", "culture"]),
+    ("chaine youtube guitare instrument lecon",        ["musique", "education"]),
+    ("chaine youtube rap hip hop france",              ["musique"]),
+    ("chaine youtube peinture dessin art",             ["arts", "culture"]),
+    # Voyage
+    ("chaine youtube voyage aventure monde",           ["voyage", "culture"]),
+    ("chaine youtube van life road trip",              ["voyage"]),
+    ("chaine youtube expatrie expat vie",              ["voyage", "societe"]),
+    # Education / Enfants
+    ("chaine youtube education enfants famille",       ["enfants", "education"]),
+    ("chaine youtube langue apprentissage francais",   ["education", "culture"]),
+    ("chaine youtube philosophie vulgarisation",       ["philosophie", "culture"]),
+    # Manga / Anime
+    ("chaine youtube manga anime critique france",     ["anime", "culture geek"]),
+    ("chaine youtube japan japon culture otaku",       ["anime", "culture"]),
+    # Automobile / Moto
+    ("chaine youtube automobile voiture essai",        ["culture", "sport"]),
+    ("chaine youtube moto biker motocycle",            ["culture", "sport"]),
+    # Business
+    ("chaine youtube entrepreneuriat startup france",  ["business", "entrepreneuriat"]),
+    ("chaine youtube investissement bourse crypto",    ["economie", "business"]),
+    ("chaine youtube immobilier investir",             ["business", "economie"]),
+    # Livres / Litterature
+    ("chaine youtube livres lecture critique",         ["livres", "culture"]),
+    # Mode / Lifestyle
+    ("chaine youtube mode beaute cosmetique",          ["culture", "societe"]),
+    ("chaine youtube lifestyle vlog quotidien",        ["societe", "culture"]),
+    # Paranormal / Mystere
+    ("chaine youtube paranormal mystere enquete",      ["culture", "societe"]),
+    # Science-fiction / Geek
+    ("chaine youtube science fiction geek culture",    ["culture geek", "cinema"]),
+    ("chaine youtube comics super heros marvel",       ["culture geek", "cinema"]),
+    ("chaine youtube jeux de societe boardgame",       ["gaming", "culture geek"]),
+    # Francophonie
+    ("chaine youtube francophone afrique belgique",    ["culture", "international"]),
+    ("chaine youtube quebec canada francophone",       ["culture", "international"]),
+]
+YOUTUBE_QUERIES_PER_RUN = 20   # nombre de requetes utilisees par run
+
+# --- iTunes Top Charts genres (RSS gratuit, renouvelé chaque semaine) ---------
+ITUNES_GENRE_IDS = [
+    (1311, ["actualite", "news"]),
+    (1318, ["tech", "numerique"]),
+    (1314, ["sciences", "vulgarisation"]),
+    (1315, ["societe", "culture"]),
+    (1316, ["sport"]),
+    (1307, ["sante", "bien-etre"]),
+    (1320, ["true crime", "societe"]),
+    (1303, ["humour", "comedie"]),
+    (1304, ["education"]),
+    (1305, ["enfants", "famille"]),
+    (1309, ["cinema", "series"]),
+    (1310, ["musique", "culture"]),
+    (1301, ["arts", "culture"]),
+    (26,   ["business", "entrepreneuriat"]),
+    (1321, ["histoire"]),
 ]
 
-# --- Requetes iTunes ----------------------------------------------------------
+# --- Requetes iTunes (pool large, rotation par run) ---------------------------
 ITUNES_QUERIES = [
-    ("podcast histoire francais",           ["histoire"]),
-    ("podcast true crime francais",         ["true crime", "societe"]),
-    ("podcast tech numerique francais",     ["tech", "numerique"]),
-    ("podcast gaming jeux video francais",  ["gaming"]),
-    ("podcast cinema series francais",      ["cinema", "series"]),
-    ("podcast sport running francais",      ["sport", "running"]),
-    ("podcast football francais",           ["football", "sport"]),
-    ("podcast economie business francais",  ["economie", "business"]),
-    ("podcast bien etre psychologie",       ["bien-etre", "psychologie"]),
-    ("podcast culture societe francais",    ["culture", "societe"]),
-    ("podcast science vulgarisation",       ["sciences", "vulgarisation"]),
-    ("podcast gastronomie cuisine",         ["gastronomie", "cuisine"]),
-    ("podcast enfants education",           ["enfants", "education"]),
-    ("podcast geopolitique international",  ["geopolitique", "international"]),
-    ("podcast humour comedie francais",     ["humour", "comedie"]),
-    ("podcast actualite news francais",     ["actualite", "news"]),
-    ("podcast livres litterature",          ["livres", "culture"]),
-    ("podcast sante medecine",              ["sante"]),
-    ("podcast entrepreneuriat startup",     ["business", "entrepreneuriat"]),
-    ("podcast musique culture",             ["musique", "culture"]),
-    ("chaine youtube histoire francaise",   ["histoire"]),
-    ("chaine youtube science vulgarisation",["sciences", "vulgarisation"]),
-    ("chaine youtube gaming retrogaming",   ["gaming", "retro"]),
-    ("chaine youtube cuisine gastronomie",  ["gastronomie", "cuisine"]),
-    ("chaine youtube renovation bricolage", ["renovation", "DIY"]),
+    # Histoire
+    ("podcast histoire francais",                  ["histoire"]),
+    ("podcast revolution francaise",               ["histoire"]),
+    ("podcast deuxieme guerre mondiale",           ["histoire"]),
+    ("podcast antiquite rome grece",               ["histoire"]),
+    ("podcast moyen age medieval france",          ["histoire"]),
+    ("podcast biographies historiques france",     ["histoire"]),
+    # True crime
+    ("podcast true crime francais",                ["true crime", "societe"]),
+    ("podcast affaires criminelles france",        ["true crime", "societe"]),
+    ("podcast faits divers france",                ["true crime", "societe"]),
+    ("podcast enquete criminelle",                 ["true crime", "societe"]),
+    # Tech
+    ("podcast tech numerique francais",            ["tech", "numerique"]),
+    ("podcast intelligence artificielle ia",       ["tech", "numerique"]),
+    ("podcast startup innovation france",          ["tech", "entrepreneuriat"]),
+    ("podcast cybersecurite informatique",         ["tech", "numerique"]),
+    ("podcast developpement web programmation",    ["tech", "numerique"]),
+    # Gaming
+    ("podcast gaming jeux video francais",         ["gaming"]),
+    ("podcast retrogaming nostalgie jeux",         ["gaming", "retro"]),
+    ("podcast jeux independants indie",            ["gaming", "jeux inde"]),
+    ("podcast esport competitif france",           ["gaming", "sport"]),
+    # Cinema / Series
+    ("podcast cinema series francais",             ["cinema", "series"]),
+    ("podcast critique film analyse",              ["cinema", "culture"]),
+    ("podcast series netflix streaming",           ["series", "cinema"]),
+    ("podcast animation manga anime",              ["anime", "culture"]),
+    # Sport
+    ("podcast sport running francais",             ["sport", "running"]),
+    ("podcast football francais",                  ["football", "sport"]),
+    ("podcast trail montagne ultra",               ["sport", "running"]),
+    ("podcast cyclisme velo france",               ["sport"]),
+    ("podcast basketball nba france",              ["sport"]),
+    ("podcast rugby france",                       ["sport"]),
+    ("podcast tennis france",                      ["sport"]),
+    ("podcast natation triathlon",                 ["sport", "endurance"]),
+    # Economie / Business
+    ("podcast economie business francais",         ["economie", "business"]),
+    ("podcast bourse investissement finance",      ["economie", "business"]),
+    ("podcast entrepreneuriat startup founders",   ["entrepreneuriat", "business"]),
+    ("podcast management leadership",             ["business", "entrepreneuriat"]),
+    ("podcast immobilier investissement",          ["business", "economie"]),
+    ("podcast marketing digital",                  ["business", "numerique"]),
+    # Bien-etre / Sante
+    ("podcast bien etre psychologie",              ["bien-etre", "psychologie"]),
+    ("podcast meditation mindfulness",             ["bien-etre", "psychologie"]),
+    ("podcast developpement personnel",            ["bien-etre", "psychologie"]),
+    ("podcast sante medecine",                     ["sante"]),
+    ("podcast nutrition alimentation",             ["sante", "bien-etre"]),
+    ("podcast sante mentale anxiete",              ["sante", "psychologie"]),
+    # Sciences
+    ("podcast science vulgarisation",              ["sciences", "vulgarisation"]),
+    ("podcast espace astronomie",                  ["sciences", "espace"]),
+    ("podcast biologie nature environnement",      ["sciences", "nature"]),
+    ("podcast physique chimie sciences",           ["sciences"]),
+    ("podcast philosophie ethique",                ["philosophie", "culture"]),
+    # Gastronomie
+    ("podcast gastronomie cuisine",                ["gastronomie", "cuisine"]),
+    ("podcast vin oenologie",                      ["gastronomie"]),
+    ("podcast recette chef cuisinier",             ["gastronomie", "cuisine"]),
+    # Enfants / Education
+    ("podcast enfants education",                  ["enfants", "education"]),
+    ("podcast famille parentalite",                ["enfants", "famille"]),
+    ("podcast apprendre langue francais",          ["education", "culture"]),
+    # Geopolitique
+    ("podcast geopolitique international",         ["geopolitique", "international"]),
+    ("podcast politique france actualite",         ["actualite", "politique"]),
+    ("podcast diplomatie relations internationales",["geopolitique", "international"]),
+    # Humour / Divertissement
+    ("podcast humour comedie francais",            ["humour", "comedie"]),
+    ("podcast stand up comique france",            ["humour"]),
+    # Actualite / News
+    ("podcast actualite news francais",            ["actualite", "news"]),
+    ("podcast media journalisme presse",           ["actualite", "culture"]),
+    ("podcast enquete investigation",              ["actualite", "societe"]),
+    # Culture
+    ("podcast livres litterature",                 ["livres", "culture"]),
+    ("podcast musique culture",                    ["musique", "culture"]),
+    ("podcast arts theatre spectacle",             ["arts", "culture"]),
+    ("podcast voyage decouverte monde",            ["voyage", "culture"]),
+    # Societe
+    ("podcast societe feminisme",                  ["societe", "culture"]),
+    ("podcast environnement ecologie",             ["environnement", "sciences"]),
+    # Niches
+    ("podcast droit justice legal france",         ["societe", "culture"]),
+    ("podcast automobile moto",                    ["culture", "sport"]),
+    ("podcast mode beaute lifestyle",              ["culture", "societe"]),
+    ("podcast jeux de societe boardgame",          ["gaming", "culture geek"]),
+    ("podcast crypto blockchain",                  ["tech", "economie"]),
+    ("podcast spiritualite religion",              ["culture", "societe"]),
+    ("podcast sante feminine gynecologie",         ["sante", "societe"]),
+    ("podcast sciences politiques democratie",     ["geopolitique", "politique"]),
 ]
+ITUNES_QUERIES_PER_RUN = 15   # nombre de requetes utilisees par run
 
 # --- Helpers ------------------------------------------------------------------
 def slugify(text):
@@ -219,6 +408,28 @@ def save_content(data):
 def today():
     from datetime import date
     return date.today().isoformat()
+
+# --- Gestion de l'etat de rotation des requetes ------------------------------
+QUERY_STATE_PATH = ROOT / ".query_state.json"
+
+def load_query_state():
+    if QUERY_STATE_PATH.exists():
+        try:
+            with open(QUERY_STATE_PATH, encoding="utf-8") as f:
+                return json.load(f)
+        except Exception:
+            pass
+    return {"podcast_idx": 0, "youtube_idx": 0}
+
+def save_query_state(state):
+    with open(QUERY_STATE_PATH, "w", encoding="utf-8") as f:
+        json.dump(state, f)
+
+def get_query_slice(pool, idx, count):
+    """Retourne un sous-ensemble de `count` requetes depuis `pool` en commencant a idx (cyclique)."""
+    n = len(pool)
+    indices = [i % n for i in range(idx, idx + count)]
+    return [pool[i] for i in indices], (idx + count) % n
 
 # --- Collecte iTunes ----------------------------------------------------------
 def fetch_itunes(term, limit=200):
@@ -271,6 +482,7 @@ def itunes_to_content(item, categories):
         },
         "mediacritic": None,
         "tags":        categories,
+        "addedAt":     today(),
         "updatedAt":   today(),
     }
 
@@ -372,13 +584,129 @@ def collect_youtube_catalog(api_key=None):
     print(f"  YouTube: {added} ajoutees, {skipped} deja presentes")
 
 
-def discover_youtube_channels(api_key, max_per_query=15, min_subscribers=5000):
+def harvest_youtube_related(api_key):
+    """Recupere les chaines en vedette (featuredChannelsUrls) des chaines deja en base.
+    Chaque chaine peut en recommander d'autres — source tres fiable de nouvelles decouverts."""
+    if not api_key:
+        return
+    print("\n-- Harvest chaines liees (featuredChannels) --")
+
+    known_ids = set()
+    known_handles = set()
+    for path in DATA_DIR.glob("*.json"):
+        try:
+            with open(path, encoding="utf-8") as f:
+                d = json.load(f)
+            cid = d.get("platforms", {}).get("youtube", {}).get("channelId")
+            if cid:
+                known_ids.add(cid)
+        except Exception:
+            pass
+
+    # Recupere les featured channels de toutes les chaines connues avec un channelId
+    candidates = list(known_ids)[:80]  # limiter pour economiser le quota
+    related_ids = set()
+
+    base_chan = "https://www.googleapis.com/youtube/v3/channels"
+    try:
+        # Appel par lots de 50 (max autorise par l'API)
+        for i in range(0, len(candidates), 50):
+            batch = candidates[i:i+50]
+            data = _http_get(base_chan, params={
+                "part": "brandingSettings",
+                "id":   ",".join(batch),
+                "key":  api_key,
+            })
+            for item in data.get("items", []):
+                urls = item.get("brandingSettings", {}).get("channel", {}).get("featuredChannelsUrls", [])
+                for url in urls:
+                    # url est soit un channelId soit un handle
+                    cid = url.replace("https://www.youtube.com/channel/", "").strip()
+                    if cid not in known_ids:
+                        related_ids.add(cid)
+            time.sleep(0.3)
+    except Exception as e:
+        print(f"  ! Harvest error: {e}")
+        return
+
+    if not related_ids:
+        print("  Aucune chaine liee trouvee")
+        return
+
+    print(f"  {len(related_ids)} chaines candidates trouvees via featuredChannels")
+    added = 0
+
+    for i in range(0, len(related_ids), 50):
+        batch = list(related_ids)[i:i+50]
+        try:
+            data = _http_get(base_chan, params={
+                "part": "snippet,statistics",
+                "id":   ",".join(batch),
+                "key":  api_key,
+            })
+            for ch in data.get("items", []):
+                sn   = ch.get("snippet", {})
+                st   = ch.get("statistics", {})
+                subs = int(st.get("subscriberCount", 0))
+                if subs < 2000:
+                    continue
+                # Filtre langue : description ou pays francophone
+                country = sn.get("country", "")
+                desc    = (sn.get("description") or "").lower()
+                title   = sn.get("title", "")
+                # Heuristique simple : pays FR/BE/CH/CA ou description en francais
+                if country not in ("FR", "BE", "CH", "CA", "LU", "MG", "SN", "CI") and not any(
+                    w in desc for w in ["france", "francais", "français", "podcast", "bonjour", "bienvenue", "épisode"]
+                ):
+                    continue
+
+                slug = slugify(title)
+                if not slug or load_existing(slug):
+                    continue
+
+                handle = sn.get("customUrl") or f"@{ch['id']}"
+                categories = ["culture", "societe"]  # categorie par defaut, raffinee ulterieurement
+
+                new_entry = {
+                    "slug":        slug,
+                    "title":       title,
+                    "author":      title,
+                    "type":        "youtube",
+                    "categories":  categories,
+                    "description": (sn.get("description") or "")[:500],
+                    "image":       sn.get("thumbnails", {}).get("high", {}).get("url"),
+                    "language":    "fr",
+                    "platforms":   {"youtube": {
+                        "url":         f"https://www.youtube.com/{handle}",
+                        "channelId":   ch["id"],
+                        "subscribers": subs,
+                        "totalViews":  int(st.get("viewCount", 0)),
+                        "videoCount":  int(st.get("videoCount", 0)),
+                    }},
+                    "mediacritic": None,
+                    "tags":        categories,
+                    "addedAt":     today(),
+                    "updatedAt":   today(),
+                }
+                save_content(new_entry)
+                known_ids.add(ch["id"])
+                added += 1
+        except Exception as e:
+            print(f"  ! Harvest batch error: {e}")
+        time.sleep(0.3)
+
+    print(f"  Harvest: {added} nouvelles chaines ajoutees")
+    return added
+
+
+def discover_youtube_channels(api_key, query_list=None, max_per_query=15, min_subscribers=2000):
     """Decouvre de nouvelles chaines YouTube francophones via l'API de recherche."""
     if not api_key:
         print("\n-- Decouverte YouTube ignoree (pas de cle API) --")
         return
 
-    print("\n-- Decouverte de nouvelles chaines YouTube --")
+    queries_to_use = query_list or YOUTUBE_DISCOVERY_QUERIES
+    print(f"\n-- Decouverte de nouvelles chaines YouTube ({len(queries_to_use)} requetes) --")
 
     # Charge les channel IDs deja connus pour eviter les doublons
     known_ids = set()
@@ -396,7 +724,7 @@ def discover_youtube_channels(api_key, max_per_query=15, min_subscribers=5000):
     base_search = "https://www.googleapis.com/youtube/v3/search"
     base_chan   = "https://www.googleapis.com/youtube/v3/channels"
 
-    for query, categories in YOUTUBE_DISCOVERY_QUERIES:
+    for query, categories in queries_to_use:
         print(f"  -> {query}")
         results = _http_get(base_search, params={
             "part":              "snippet",
@@ -456,6 +784,7 @@ def discover_youtube_channels(api_key, max_per_query=15, min_subscribers=5000):
                 }},
                 "mediacritic": None,
                 "tags":        categories,
+                "addedAt":     today(),
                 "updatedAt":   today(),
             }
             save_content(data)
@@ -555,6 +884,64 @@ def build_mediacritic_entries(youtube_key=None, spotify_token=None):
 
         data["updatedAt"] = today()
         save_content(data)
+
+# --- iTunes Top Charts (RSS public, source principale) -----------------------
+def collect_itunes_top_charts():
+    """Recupere le top 100 podcasts par genre depuis les RSS Apple France.
+    Source sans quota, renouvelee chaque semaine — bien meilleure que la recherche."""
+    print("\n-- iTunes Top Charts par genre --")
+    added = 0
+    for genre_id, categories in ITUNES_GENRE_IDS:
+        url = f"https://itunes.apple.com/fr/rss/toppodcasts/limit=100/genre={genre_id}/json"
+        try:
+            data = _http_get(url, timeout=15)
+            entries = data.get("feed", {}).get("entry", [])
+            for entry in entries:
+                name     = entry.get("im:name", {}).get("label", "").strip()
+                artist   = entry.get("im:artist", {}).get("label", "").strip()
+                track_id = entry.get("id", {}).get("attributes", {}).get("im:id")
+                img_list = entry.get("im:image", [])
+                image    = img_list[-1].get("label") if img_list else None
+                ep_count = entry.get("im:contentType", {}).get("im:contentType", {}).get("im:count", {}).get("label")
+                link     = entry.get("link", {}).get("attributes", {}).get("href", "")
+
+                if not name: continue
+                slug = slugify(name)
+                if not slug: continue
+                if load_existing(slug): continue
+
+                new_entry = {
+                    "slug":        slug,
+                    "title":       name,
+                    "author":      artist,
+                    "type":        "podcast",
+                    "categories":  categories,
+                    "description": "",
+                    "image":       image,
+                    "language":    "fr",
+                    "platforms": {
+                        "apple": {
+                            "url":         link or f"https://podcasts.apple.com/fr/podcast/id{track_id}",
+                            "trackId":     int(track_id) if track_id else None,
+                            "rating":      None,
+                            "ratingCount": None,
+                            "episodeCount":int(ep_count) if ep_count else None,
+                        }
+                    },
+                    "mediacritic": None,
+                    "tags":        categories,
+                    "addedAt":     today(),
+                    "updatedAt":   today(),
+                }
+                save_content(new_entry)
+                added += 1
+            print(f"  Genre {genre_id}: {len(entries)} entrees, {added} nouvelles total")
+        except Exception as e:
+            print(f"  ! Top Charts genre {genre_id}: {e}")
+        time.sleep(0.4)
+    print(f"  Top Charts: {added} nouveaux podcasts ajoutes")
+    return added
+
 
 # --- Collecte iTunes en masse ------------------------------------------------
 def collect_itunes_catalog():
@@ -752,23 +1139,52 @@ if __name__ == "__main__":
 
     build_mediacritic_entries(args.youtube_key, spotify_token)
 
+    # Charge l'etat de rotation des requetes
+    qstate = load_query_state()
+
     if args.mode == "refresh":
-        # Jour 1 : mettre à jour TOUTES les données existantes
+        # Jour 1 : mettre a jour TOUTES les donnees existantes
         refresh_all_ratings()
         refresh_all_youtube(args.youtube_key)
+
     elif args.mode == "podcast":
-        # Jour 2 : découvrir de nouveaux podcasts
+        # Jour 2 : decouvrir de nouveaux podcasts
+        # Source 1 : iTunes Top Charts (renouvelé chaque semaine, sans quota)
+        collect_itunes_top_charts()
+        # Source 2 : Requetes de recherche iTunes (rotation dans le pool)
+        query_slice, next_idx = get_query_slice(ITUNES_QUERIES, qstate.get("podcast_idx", 0), ITUNES_QUERIES_PER_RUN)
+        print(f"\n-- Requetes iTunes (rotation : {qstate.get('podcast_idx',0)} → {next_idx}) --")
+        # Sauvegarde temporairement pour collect_itunes_catalog qui lit ITUNES_QUERIES globalement
+        _orig = ITUNES_QUERIES[:]
+        ITUNES_QUERIES.clear()
+        ITUNES_QUERIES.extend(query_slice)
         collect_itunes_catalog()
+        ITUNES_QUERIES.clear()
+        ITUNES_QUERIES.extend(_orig)
+        qstate["podcast_idx"] = next_idx
+        # Source 3 : notes manquantes
         update_ratings_missing()
+
     elif args.mode == "youtube":
-        # Jour 3 : découvrir de nouvelles chaînes YouTube
-        collect_youtube_catalog(args.youtube_key)   # liste statique connue
-        discover_youtube_channels(args.youtube_key)  # découverte dynamique via recherche
+        # Jour 3 : decouvrir de nouvelles chaines YouTube
+        collect_youtube_catalog(args.youtube_key)   # liste statique (nouvelles entrees si ajoutees)
+        # Source 1 : harvest depuis les chaines connues (featuredChannels)
+        harvest_youtube_related(args.youtube_key)
+        # Source 2 : requetes de recherche YouTube (rotation dans le pool)
+        yt_slice, next_yt_idx = get_query_slice(YOUTUBE_DISCOVERY_QUERIES, qstate.get("youtube_idx", 0), YOUTUBE_QUERIES_PER_RUN)
+        discover_youtube_channels(args.youtube_key, query_list=yt_slice)
+        qstate["youtube_idx"] = next_yt_idx
+
     elif args.mode == "all":
+        collect_itunes_top_charts()
         collect_itunes_catalog()
         collect_youtube_catalog(args.youtube_key)
+        harvest_youtube_related(args.youtube_key)
         discover_youtube_channels(args.youtube_key)
         update_ratings_missing()
+
+    # Sauvegarde l'etat de rotation
+    save_query_state(qstate)
 
     generate_catalog()
     print("\nTermine.")
