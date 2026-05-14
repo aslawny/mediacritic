@@ -90,7 +90,9 @@
     .nav-links a.active { color:var(--c-orange); }
     .nav-cta { background:var(--c-orange); color:#fff; font-size:.8rem; font-weight:700; padding:7px 16px; border-radius:8px; transition:opacity .2s; white-space:nowrap; flex-shrink:0; }
     .nav-cta:hover { opacity:.85; }
+    .nav-updated { font-size:.68rem; color:var(--c-muted2); white-space:nowrap; flex-shrink:0; letter-spacing:.01em; }
     @media(max-width:640px){ .nav-links { display:none; } }
+    @media(max-width:820px){ .nav-updated { display:none; } }
 
     /* ── HERO ── */
     .hero {
@@ -260,6 +262,7 @@
     <a href="contact.html">Contact</a>
   </div>
   <a href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener noreferrer" class="nav-cta">🎧 Écouter</a>
+  <span id="nav-updated" class="nav-updated"></span>
 </nav>
 
 <!-- HERO -->
@@ -624,7 +627,11 @@
   const urlQ=new URLSearchParams(location.search).get('q');
   if(urlQ){searchInput.value=urlQ;searchTerm=urlQ.trim();}
 
-  fetch('data/catalog.json').then(r=>r.json()).then(data=>{
+  fetch('data/catalog.json').then(r=>{
+    const lm=r.headers.get('Last-Modified');
+    if(lm){const d=new Date(lm),el=document.getElementById('nav-updated');if(el)el.textContent='↻ '+d.toLocaleDateString('fr-FR',{day:'2-digit',month:'2-digit',year:'2-digit'})+' '+d.toLocaleTimeString('fr-FR',{hour:'2-digit',minute:'2-digit'});}
+    return r.json();
+  }).then(data=>{
     catalog=data;  // sort handled by sortFiltered()
     document.getElementById('stat-total').textContent=data.length.toLocaleString('fr-FR');
     fuse=new Fuse(catalog,{keys:[{name:'title',weight:.5},{name:'author',weight:.2},{name:'categories',weight:.2},{name:'description',weight:.1}],threshold:.35,includeScore:true,minMatchCharLength:2});
