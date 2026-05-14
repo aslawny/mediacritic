@@ -397,7 +397,7 @@
   </div>
 </footer>
 
-<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.3.0/dist/fuse.min.js" integrity="sha384-P/y/5cwqUn6MDvJ9lCHJSaAi2EoH3JSeEdyaORsQMPgbpvA+NvvUqik7XH2YGBjb" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7/dist/fuse.min.js" integrity="sha384-P/y/5cwqUn6MDvJ9lCHJSaAi2EoH3JSeEdyaORsQMPgbpvA+NvvUqik7XH2YGBjb" crossorigin="anonymous"></script>
 <script>
 (function(){
   'use strict';
@@ -486,19 +486,6 @@
       });
     });
 
-    filtersCt.addEventListener('click',e=>{
-      const btn=e.target.closest('[data-cat]');
-      if(!btn)return;
-      const cat=btn.dataset.cat;
-      if(cat==='all'){
-        activeCats.clear();
-      } else {
-        if(activeCats.has(cat)) activeCats.delete(cat);
-        else activeCats.add(cat);
-      }
-      syncFilterUI();
-      page=0; applyFilters();
-    });
   }
 
   function isPristine(){
@@ -625,6 +612,16 @@
   searchInput.addEventListener('input',()=>{
     clearTimeout(timer);
     timer=setTimeout(()=>{searchTerm=searchInput.value.trim();page=0;applyFilters();},220);
+  });
+
+  filtersCt.addEventListener('click',e=>{
+    const btn=e.target.closest('[data-cat]');
+    if(!btn)return;
+    const cat=btn.dataset.cat;
+    if(cat==='all'){activeCats.clear();}
+    else{if(activeCats.has(cat))activeCats.delete(cat);else activeCats.add(cat);}
+    syncFilterUI();
+    page=0; applyFilters();
   });
 
   const urlQ=new URLSearchParams(location.search).get('q');
