@@ -629,7 +629,7 @@
 
   fetch('data/catalog.json').then(r=>{
     const lm=r.headers.get('Last-Modified');
-    if(lm){const d=new Date(lm),el=document.getElementById('nav-updated');if(el)el.textContent='↻ '+d.toLocaleDateString('fr-FR',{day:'2-digit',month:'2-digit',year:'2-digit'})+' '+d.toLocaleTimeString('fr-FR',{hour:'2-digit',minute:'2-digit'});}
+    if(lm){const d=new Date(lm),el=document.getElementById('nav-updated');if(el&&!isNaN(d)){const dd=String(d.getDate()).padStart(2,'0'),mm=String(d.getMonth()+1).padStart(2,'0'),yy=String(d.getFullYear()).slice(-2),hh=String(d.getHours()).padStart(2,'0'),mn=String(d.getMinutes()).padStart(2,'0');el.textContent='↻ '+dd+'/'+mm+'/'+yy+' '+hh+'h'+mn;}}
     return r.json();
   }).then(data=>{
     catalog=data;  // sort handled by sortFiltered()
