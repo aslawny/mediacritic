@@ -90,9 +90,10 @@
     .nav-links a.active { color:var(--c-orange); }
     .nav-cta { background:var(--c-orange); color:#fff; font-size:.8rem; font-weight:700; padding:7px 16px; border-radius:8px; transition:opacity .2s; white-space:nowrap; flex-shrink:0; }
     .nav-cta:hover { opacity:.85; }
-    .nav-updated { font-size:.68rem; color:var(--c-muted2); white-space:nowrap; flex-shrink:0; letter-spacing:.01em; }
-    @media(max-width:640px){ .nav-links { display:none; } }
+    .nav-center { flex:1; display:flex; align-items:center; justify-content:center; gap:6px; }
+    .nav-updated { font-size:.68rem; color:var(--c-muted2); white-space:nowrap; letter-spacing:.01em; padding:0 4px; }
     @media(max-width:820px){ .nav-updated { display:none; } }
+    @media(max-width:640px){ .nav-links { display:none; } .nav-center { flex:0; } }
 
     /* ── HERO ── */
     .hero {
@@ -256,12 +257,14 @@
     <img src="assets/logo.png" alt="MediaCritic" />
     <span>MediaCritic</span>
   </a>
-  <div class="nav-links">
-    <a href="/" class="active">Catalogue</a>
-    <a href="qui-sommes-nous.html">Qui sommes-nous</a>
-    <a href="contact.html">Contact</a>
+  <div class="nav-center">
+    <div class="nav-links">
+      <a href="/" class="active">Catalogue</a>
+      <a href="qui-sommes-nous.html">Qui sommes-nous</a>
+      <a href="contact.html">Contact</a>
+    </div>
+    <span id="nav-updated" class="nav-updated"></span>
   </div>
-  <span id="nav-updated" class="nav-updated"></span>
   <a href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener noreferrer" class="nav-cta">🎧 Écouter</a>
 </nav>
 
