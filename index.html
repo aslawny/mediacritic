@@ -518,7 +518,7 @@
         if(sa!==sb) return dir*(sb-sa); // dir=1: most subs first
       }
       // Default / tiebreak: alphabetical (respects dir for alpha sort)
-      const cmp=(a.title||'').localeCompare(b.title||'','fr',{sensitivity:'base'});
+      const cmp=(a.title||'').localeCompare(b.title||'');
       return key==='alpha'?dir*cmp:cmp;
     });
   }
@@ -565,7 +565,7 @@
     if(filtered.length===0){empty.style.display='block';sentinel.style.display='none';resInfo.innerHTML='';return;}
     empty.style.display='none';
     const shown=Math.min((page+1)*PAGE_SIZE,filtered.length);
-    resInfo.innerHTML=`<strong>${filtered.length.toLocaleString('fr-FR')}</strong> résultat${filtered.length>1?'s':''} — ${shown.toLocaleString('fr-FR')} affichés`;
+    resInfo.innerHTML=`<strong>${filtered.length.toLocaleString()}</strong> résultat${filtered.length>1?'s':''} — ${shown.toLocaleString()} affichés`;
     const frag=document.createDocumentFragment();
     slice.forEach(item=>{
       const mc=MC_EP[item.slug];
@@ -633,14 +633,12 @@
     if(lm){const d=new Date(lm);if(!isNaN(d)){const dd=String(d.getDate()).padStart(2,'0'),mm=String(d.getMonth()+1).padStart(2,'0'),yy=String(d.getFullYear()).slice(-2),hh=String(d.getHours()).padStart(2,'0'),mn=String(d.getMinutes()).padStart(2,'0'),txt='↻ '+dd+'/'+mm+'/'+yy+' '+hh+'h'+mn;['nav-updated','footer-updated'].forEach(id=>{const el=document.getElementById(id);if(el)el.textContent=txt;});}}
     return r.json();
   }).then(data=>{
-    catalog=data;  // sort handled by sortFiltered()
-    document.getElementById('stat-total').textContent=data.length.toLocaleString('fr-FR');
+    catalog=data;
+    try{document.getElementById('stat-total').textContent=data.length.toLocaleString();}catch(e){}
     try{fuse=new Fuse(catalog,{keys:[{name:'title',weight:.5},{name:'author',weight:.2},{name:'categories',weight:.2},{name:'description',weight:.1}],threshold:.35,includeScore:true,minMatchCharLength:2});}catch(e){fuse=null;}
-    const allCats=new Set();
-    data.forEach(i=>(i.categories||[]).forEach(c=>allCats.add(c)));
-    buildFilters(allCats);
+    try{const allCats=new Set();data.forEach(i=>(i.categories||[]).forEach(c=>allCats.add(c)));buildFilters(allCats);}catch(e){}
     applyFilters();
-  }).catch(()=>{grid.innerHTML='<p style="color:var(--c-muted);text-align:center;padding:40px;grid-column:1/-1">Erreur de chargement.</p>';});
+  }).catch(()=>{if(!catalog.length){grid.innerHTML='<p style="color:var(--c-muted);text-align:center;padding:40px;grid-column:1/-1">Erreur de chargement.</p>';}else{try{applyFilters();}catch(e){}}});
 })();
 </script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
