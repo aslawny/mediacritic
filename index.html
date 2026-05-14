@@ -635,7 +635,7 @@
   }).then(data=>{
     catalog=data;  // sort handled by sortFiltered()
     document.getElementById('stat-total').textContent=data.length.toLocaleString('fr-FR');
-    fuse=new Fuse(catalog,{keys:[{name:'title',weight:.5},{name:'author',weight:.2},{name:'categories',weight:.2},{name:'description',weight:.1}],threshold:.35,includeScore:true,minMatchCharLength:2});
+    try{fuse=new Fuse(catalog,{keys:[{name:'title',weight:.5},{name:'author',weight:.2},{name:'categories',weight:.2},{name:'description',weight:.1}],threshold:.35,includeScore:true,minMatchCharLength:2});}catch(e){fuse=null;}
     const allCats=new Set();
     data.forEach(i=>(i.categories||[]).forEach(c=>allCats.add(c)));
     buildFilters(allCats);
