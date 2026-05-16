@@ -102,7 +102,54 @@ jobs:
             echo "generate_fiches.py absent — ignoré"
           fi
 
-      # 7. Bilan : nombre de fichiers ajoutés / modifiés
+      # 7. Vérification et mise à jour automatique du hash SRI de Fuse.js
+      #    Si jsDelivr publie une nouvelle version de fuse.js@7, le hash est
+      #    recalculé et index.html + catalogue.html sont mis à jour automatiquement.
+      - name: Check and update Fuse.js SRI hash
+        working-directory: site
+        run: |
+          python3 - <<'PYEOF'
+          import hashlib, base64, urllib.request, re
+          from pathlib import Path
+
+          url = "https://cdn.jsdelivr.net/npm/fuse.js@7/dist/fuse.min.js"
+          print(f"Téléchargement de {url}...")
+          try:
+              with urllib.request.urlopen(url, timeout=15) as r:
+                  content = r.read()
+          except Exception as e:
+              print(f"Erreur téléchargement : {e}")
+              exit(0)
+
+          new_hash = "sha384-" + base64.b64encode(hashlib.sha384(content).digest()).decode()
+          version_match = re.search(rb'Fuse\.js v(\d+\.\d+\.\d+)', content)
+          version = version_match.group(1).decode() if version_match else "7"
+          print(f"Fuse.js version détectée : {version}")
+          print(f"Nouveau hash             : {new_hash}")
+
+          pattern = re.compile(
+              r'src="https://cdn\.jsdelivr\.net/npm/fuse\.js@[^"]+/dist/fuse\.min\.js"\s+integrity="[^"]+"'
+          )
+          replacement = (
+              f'src="https://cdn.jsdelivr.net/npm/fuse.js@{version}/dist/fuse.min.js" '
+              f'integrity="{new_hash}"'
+          )
+
+          for fname in ["index.html", "catalogue.html"]:
+              path = Path(fname)
+              if not path.exists():
+                  print(f"  {fname} introuvable — ignoré")
+                  continue
+              text = path.read_text(encoding="utf-8")
+              new_text = pattern.sub(replacement, text)
+              if new_text != text:
+                  path.write_text(new_text, encoding="utf-8")
+                  print(f"  ✓ {fname} mis à jour (hash + version)")
+              else:
+                  print(f"  = {fname} déjà à jour")
+          PYEOF
+
+      # 8. Bilan : nombre de fichiers ajoutés / modifiés
       - name: Count changes
         working-directory: site
         run: |
