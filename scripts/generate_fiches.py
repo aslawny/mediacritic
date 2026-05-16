@@ -120,7 +120,7 @@ def render_fiche(data):
 
     t_label = type_label(content_type)
     desc_meta = description[:160].replace('"', "'")
-    desc_200 = description[:200]
+    desc_full = description  # description complète pour la fiche
 
     # Cover block
     if image:
@@ -287,7 +287,7 @@ def render_fiche(data):
 {mc_block}
   <div class="card">
     <h2>À propos de {h(title)}</h2>
-    <p>{h(desc_200)}</p>{stats_html}{cats_html}
+    <p>{h(desc_full).replace(chr(10), '<br>')}</p>{stats_html}{cats_html}
   </div>
 
   <div class="card">
