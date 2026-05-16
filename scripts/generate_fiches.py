@@ -152,16 +152,25 @@ def render_fiche(data):
         )
 
     # Action buttons
+    import urllib.parse
     actions = []
     if mediacritic:
         ep_slug = mediacritic.get("episodeSlug", slug)
         actions.append(f'<a href="/episodes/{h(ep_slug)}.html" class="btn btn-mc">📖 Analyse MediaCritic</a>')
-    if platforms.get("spotify", {}).get("url"):
-        actions.append(f'<a href="{h(platforms["spotify"]["url"])}" target="_blank" rel="noopener" class="btn btn-spotify">🎧 Spotify</a>')
     if platforms.get("youtube", {}).get("url"):
         actions.append(f'<a href="{h(platforms["youtube"]["url"])}" target="_blank" rel="noopener" class="btn btn-youtube">▶ YouTube</a>')
-    if platforms.get("apple", {}).get("url"):
-        actions.append(f'<a href="{h(platforms["apple"]["url"])}" target="_blank" rel="noopener" class="btn btn-apple">🎵 Apple Podcasts</a>')
+    if content_type == "podcast":
+        # Apple Podcasts
+        if platforms.get("apple", {}).get("url"):
+            actions.append(f'<a href="{h(platforms["apple"]["url"])}" target="_blank" rel="noopener" class="btn btn-apple">🎵 Apple Podcasts</a>')
+        # Spotify : URL exacte si connue, sinon lien de recherche
+        spotify_url = platforms.get("spotify", {}).get("url") or \
+            f'https://open.spotify.com/search/{urllib.parse.quote(title)}'
+        actions.append(f'<a href="{h(spotify_url)}" target="_blank" rel="noopener" class="btn btn-spotify">🎧 Spotify</a>')
+        # Deezer : URL exacte si connue, sinon lien de recherche
+        deezer_url = platforms.get("deezer", {}).get("url") or \
+            f'https://www.deezer.com/search/{urllib.parse.quote(title)}'
+        actions.append(f'<a href="{h(deezer_url)}" target="_blank" rel="noopener" class="btn btn-deezer">🎵 Deezer</a>')
     actions_html = "\n      ".join(actions)
 
     # MC block
