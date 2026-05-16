@@ -1,80 +1,134 @@
 name: Enrichissement catalogue
 
+# ─── Déclencheurs ──────────────────────────────────────────────────────────────
 on:
   schedule:
-    - cron: '0 7 * * *'   # tous les jours à 7h UTC
+    - cron: '0 3 * * *'   # tous les jours à 3h UTC
   workflow_dispatch:
     inputs:
       mode:
-        description: 'Mode de collecte'
+        description: 'Mode de collecte (laisser vide = cycle automatique)'
         required: false
         default: 'auto'
         type: choice
         options:
           - auto
-          - refresh
           - podcast
           - youtube
+          - refresh
 
+# ─── Permissions ───────────────────────────────────────────────────────────────
 permissions:
   contents: write
 
+# ─── Job principal ─────────────────────────────────────────────────────────────
 jobs:
   enrich:
+    name: 'Enrichissement — cycle 3 jours (podcast → youtube → refresh)'
     runs-on: ubuntu-latest
+    timeout-minutes: 30
 
     steps:
-      - name: Checkout gh-pages into ./site
+
+      # 1. Checkout de la branche gh-pages (contenu du site + scripts)
+      - name: Checkout gh-pages
         uses: actions/checkout@v4
         with:
           ref: gh-pages
-          path: ./site
+          path: site
+          fetch-depth: 1
 
-      - name: Set up Python 3.11
+      # 2. Python
+      - name: Setup Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+          cache: 'pip'
 
+      # 3. Dépendances
       - name: Install dependencies
-        run: pip install requests
+        run: pip install --quiet requests
 
-      - name: Determine run mode (cycle 3 jours - refresh - podcast - youtube)
+      # 4. Détermination du mode — cycle : podcast → youtube → refresh → podcast …
+      #    Le fichier .run_state dans gh-pages mémorise le dernier mode exécuté.
+      - name: Determine run mode
         id: mode
         run: |
-          MANUAL_MODE="${{ github.event.inputs.mode }}"
-          if [ -n "$MANUAL_MODE" ] && [ "$MANUAL_MODE" != "auto" ]; then
-            echo "mode=$MANUAL_MODE" >> "$GITHUB_OUTPUT"
-          elif [ -f "./site/.run_state" ]; then
-            LAST_MODE=$(cat ./site/.run_state)
-            if [ "$LAST_MODE" = "refresh" ]; then
-              echo "mode=podcast" >> "$GITHUB_OUTPUT"
-            elif [ "$LAST_MODE" = "podcast" ]; then
-              echo "mode=youtube" >> "$GITHUB_OUTPUT"
-            else
-              echo "mode=refresh" >> "$GITHUB_OUTPUT"
-            fi
+          MANUAL="${{ github.event.inputs.mode }}"
+          if [ -n "$MANUAL" ] && [ "$MANUAL" != "auto" ]; then
+            MODE="$MANUAL"
+            echo "Source: manuel"
+          elif [ -f "site/.run_state" ]; then
+            LAST=$(cat site/.run_state | tr -d '[:space:]')
+            echo "Dernier mode : $LAST"
+            case "$LAST" in
+              podcast)  MODE="youtube"  ;;
+              youtube)  MODE="refresh"  ;;
+              *)        MODE="podcast"  ;;   # refresh ou inconnu → podcast
+            esac
           else
-            echo "mode=refresh" >> "$GITHUB_OUTPUT"
+            MODE="podcast"
+            echo ".run_state absent — démarrage du cycle par podcast"
           fi
+          echo "Mode sélectionné : $MODE"
+          echo "mode=$MODE" >> "$GITHUB_OUTPUT"
 
-      - name: Collect data
-        working-directory: ./site
+      # 5. Collecte — Jour 1 : ≥ 20 nouveaux podcasts (iTunes Top Charts + recherche)
+      #              Jour 2 : ≥ 20 nouvelles chaînes YouTube (harvest + recherche API)
+      #              Jour 3 : refresh notes + abonnés sur TOUTES les entrées existantes
+      - name: Run collect_data.py
+        working-directory: site
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-        run: python scripts/collect_data.py --mode ${{ steps.mode.outputs.mode }}
-
-      - name: Generate fiches
-        working-directory: ./site
-        run: python scripts/generate_fiches.py
-
-      - name: Update .run_state
-        run: echo "${{ steps.mode.outputs.mode }}" > ./site/.run_state
-
-      - name: Commit and push to gh-pages
-        working-directory: ./site
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
         run: |
-          git config user.name "MediaCritic Bot"
+          MODE="${{ steps.mode.outputs.mode }}"
+          echo "=== Démarrage collect_data.py --mode $MODE ==="
+          python scripts/collect_data.py \
+            --mode "$MODE" \
+            --youtube-key "${YOUTUBE_API_KEY:-}" \
+            --spotify-id "${SPOTIFY_CLIENT_ID:-}" \
+            --spotify-secret "${SPOTIFY_CLIENT_SECRET:-}"
+
+      # 6. Régénération des fiches HTML individuelles
+      - name: Generate fiches HTML
+        working-directory: site
+        run: |
+          if [ -f "scripts/generate_fiches.py" ]; then
+            echo "=== Génération des fiches HTML ==="
+            python scripts/generate_fiches.py
+          else
+            echo "generate_fiches.py absent — ignoré"
+          fi
+
+      # 7. Bilan : nombre de fichiers ajoutés / modifiés
+      - name: Count changes
+        working-directory: site
+        run: |
+          NEW=$(git diff --name-only --diff-filter=A | grep "^data/content/" | wc -l)
+          UPD=$(git diff --name-only --diff-filter=M | grep "^data/content/" | wc -l)
+          echo "Nouvelles fiches  : $NEW"
+          echo "Fiches mises à jour : $UPD"
+          echo "new_count=$NEW" >> "$GITHUB_ENV"
+          echo "upd_count=$UPD" >> "$GITHUB_ENV"
+
+      # 8. Mise à jour de .run_state
+      - name: Update .run_state
+        run: echo "${{ steps.mode.outputs.mode }}" > site/.run_state
+
+      # 9. Commit + push vers gh-pages (uniquement s'il y a des changements)
+      - name: Commit and push
+        working-directory: site
+        run: |
+          git config user.name  "MediaCritic Bot"
           git config user.email "bot@mediacritic.fr"
           git add -A
-          git diff --cached --quiet || git commit -m "auto: enrichissement ${{ steps.mode.outputs.mode }} — $(date -u +%Y-%m-%d)"
-          git push origin gh-pages
+          if git diff --cached --quiet; then
+            echo "Aucun changement — pas de commit."
+          else
+            MSG="auto: enrichissement ${{ steps.mode.outputs.mode }} — $(date -u +%Y-%m-%d)"
+            git commit -m "$MSG"
+            git push origin gh-pages
+            echo "✅ Commit effectué : $MSG"
+          fi
