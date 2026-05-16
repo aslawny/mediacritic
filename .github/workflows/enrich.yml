@@ -21,6 +21,10 @@ on:
 permissions:
   contents: write
 
+# ─── Forcer Node.js 24 (Node 20 deprecated juin 2026) ─────────────────────────
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 # ─── Job principal ─────────────────────────────────────────────────────────────
 jobs:
   enrich:
@@ -43,7 +47,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-          cache: 'pip'
+          # Pas de cache pip : aucun requirements.txt dans ce repo (évite le warning)
 
       # 3. Dépendances
       - name: Install dependencies
