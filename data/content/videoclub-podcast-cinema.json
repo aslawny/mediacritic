@@ -1,0 +1,29 @@
+{
+  "slug": "videoclub-podcast-cinema",
+  "title": "VidéoClub - Podcast Cinéma",
+  "author": "VidéoClub",
+  "type": "podcast",
+  "categories": [
+    "cinema",
+    "series"
+  ],
+  "description": "",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/91/fd/c5/91fdc547-f65d-9a96-70af-50d9a5085fac/mza_4969339670311636590.jpg/170x170bb.png",
+  "language": "fr",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/vid%C3%A9oclub-podcast-cin%C3%A9ma/id1730503852?uo=2",
+      "trackId": 1730503852,
+      "rating": 3.3,
+      "ratingCount": 12,
+      "episodeCount": null
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "cinema",
+    "series"
+  ],
+  "addedAt": "2026-05-16",
+  "updatedAt": "2026-05-16"
+}

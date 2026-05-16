@@ -1,0 +1,29 @@
+{
+  "slug": "cacaocast",
+  "title": "CacaoCast",
+  "author": "Philippe Guitard et Philippe Casgrain",
+  "type": "podcast",
+  "categories": [
+    "tech",
+    "numerique"
+  ],
+  "description": "",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/35/1c/74/351c7419-a6df-1131-2d3f-f4e1d619e7f8/mza_11926951535476895499.png/600x600bb.jpg",
+  "language": "Technologies",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/cacaocast/id305272104?uo=4",
+      "trackId": 305272104,
+      "rating": 4.9,
+      "ratingCount": 89,
+      "episodeCount": 302
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "tech",
+    "numerique"
+  ],
+  "addedAt": "2026-05-16",
+  "updatedAt": "2026-05-16"
+}
