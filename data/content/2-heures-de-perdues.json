@@ -1,28 +1,32 @@
 {
   "slug": "2-heures-de-perdues",
   "title": "2 Heures De Perdues",
-  "author": "2 Heures de Perdues",
+  "author": "Antoine Piombino - Mickael Moretto - Greg Cook",
   "type": "podcast",
   "categories": [
-    "humour",
-    "comedie"
+    "cinéma",
+    "humour"
   ],
-  "description": "",
+  "description": "2 Heures de Perdues (alias 2HDP), c'est le podcast cinéma entre potes qui a duré 10 ans, 10 saisons et 339 épisodes. Le concept : choisir au sort un film parmi les suggestions des auditeurs et le décortiquer scène par scène avec humour, mauvaise foi et zéro filtre. Inspiré de l'américain 'How Did This Get Made?', 2HDP a grandi de studios amateurs jusqu'à remplir le Bataclan et l'Olympia. Une aventure purement passionnelle, terminée en 2024, mais dont l'archive reste culte.",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/09/5b/a3/095ba339-ddf6-b6e1-3f89-f03c0b0ba647/mza_12032860853505086471.jpeg/600x600bb.jpg",
-  "language": "Cinéma : les critiques",
+  "language": "fr",
   "platforms": {
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/2-heures-de-perdues/id949530802?uo=4",
       "trackId": 949530802,
       "rating": 4.8,
       "ratingCount": 5395,
-      "episodeCount": 349
+      "episodeCount": 339
     }
   },
-  "mediacritic": null,
+  "mediacritic": {
+    "episodeNumber": 28,
+    "episodeSlug": "2-heures-de-perdues",
+    "analyseUrl": "/episodes/2-heures-de-perdues.html"
+  },
   "tags": [
-    "humour",
-    "comedie"
+    "cinéma",
+    "humour"
   ],
-  "updatedAt": "2026-05-16"
+  "updatedAt": "2026-05-17"
 }
