@@ -1,0 +1,29 @@
+{
+  "slug": "pokemon-podcast",
+  "title": "Pokémon Podcast",
+  "author": "Emily",
+  "type": "podcast",
+  "categories": [
+    "anime",
+    "culture"
+  ],
+  "description": "",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/27/0a/88/270a8809-37fc-62c1-ed16-9a1c62d0b8cb/mza_1388430753506898108.jpg/600x600bb.jpg",
+  "language": "Animation et manga",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/pok%C3%A9mon-podcast/id1568842586?uo=4",
+      "trackId": 1568842586,
+      "rating": 5.0,
+      "ratingCount": 2,
+      "episodeCount": 103
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "anime",
+    "culture"
+  ],
+  "addedAt": "2026-05-17",
+  "updatedAt": "2026-05-17"
+}

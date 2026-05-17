@@ -1,0 +1,29 @@
+{
+  "slug": "sequence-podcast",
+  "title": "Séquence Podcast",
+  "author": "Séquence Podcast",
+  "type": "podcast",
+  "categories": [
+    "cinema",
+    "series"
+  ],
+  "description": "",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9e/1d/0f/9e1d0fc4-d679-3c3a-d533-f65249dd6fc2/mza_17750249877177264499.png/170x170bb.png",
+  "language": "fr",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/s%C3%A9quence-podcast/id1774231674?uo=2",
+      "trackId": 1774231674,
+      "rating": 4.9,
+      "ratingCount": 8,
+      "episodeCount": null
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "cinema",
+    "series"
+  ],
+  "addedAt": "2026-05-17",
+  "updatedAt": "2026-05-17"
+}

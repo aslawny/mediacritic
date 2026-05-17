@@ -1,0 +1,29 @@
+{
+  "slug": "the-movie-podcast",
+  "title": "The Movie Podcast",
+  "author": "The Movie Podcast",
+  "type": "podcast",
+  "categories": [
+    "series",
+    "cinema"
+  ],
+  "description": "",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/21/b3/79/21b379cf-07f8-b60b-916d-f19f547c1cfe/mza_13121853454218803321.jpeg/600x600bb.jpg",
+  "language": "Cinéma : les critiques",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/the-movie-podcast/id1452428025?uo=4",
+      "trackId": 1452428025,
+      "rating": 3.5,
+      "ratingCount": 2,
+      "episodeCount": 1003
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "series",
+    "cinema"
+  ],
+  "addedAt": "2026-05-17",
+  "updatedAt": "2026-05-17"
+}
