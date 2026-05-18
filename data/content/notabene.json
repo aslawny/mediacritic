@@ -1,32 +1,32 @@
 {
-    "slug":  "notabene",
-    "title":  "NotaBene",
-    "author":  "MediaCritic",
-    "type":  "youtube",
-    "categories":  [
-                       "histoire",
-                       "géopolitique"
-                   ],
-    "description":  "Histoire d\u0027Europe et du monde, de l\u0027antiquité à nos jours, Histoire militaire, scientifique, sociale, politique, économique...Nota Bene, c\u0027est ma façon de vous montrer que l\u0027Histoire est partout, tout le temps !",
-    "image":  "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f743d461f5cde520348784677",
-    "language":  "fr",
-    "platforms":  {
-                      "youtube":  {
-                                      "url":  "https://www.youtube.com/@nota.bene",
-                                      "channelId":  "UCP46_MXP_WG_auH88FnfS1A",
-                                      "subscribers":  2730000,
-                                      "totalViews":  494372238,
-                                      "videoCount":  1016
-                                  }
-                  },
-    "mediacritic":  {
-                        "episodeNumber":  22,
-                        "episodeSlug":  "notabene",
-                        "analyseUrl":  "/episodes/notabene.html"
-                    },
-    "tags":  [
-                 "histoire",
-                 "géopolitique"
-             ],
-    "updatedAt":  "2026-05-18"
+  "slug": "notabene",
+  "title": "NotaBene",
+  "author": "MediaCritic",
+  "type": "youtube",
+  "categories": [
+    "histoire",
+    "géopolitique"
+  ],
+  "description": "Histoire d'Europe et du monde, de l'antiquité à nos jours, Histoire militaire, scientifique, sociale, politique, économique...Nota Bene, c'est ma façon de vous montrer que l'Histoire est partout, tout le temps !",
+  "image": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f743d461f5cde520348784677",
+  "language": "fr",
+  "platforms": {
+    "youtube": {
+      "url": "https://www.youtube.com/@nota.bene",
+      "channelId": "UCP46_MXP_WG_auH88FnfS1A",
+      "subscribers": 2730000,
+      "totalViews": 494372238,
+      "videoCount": 1016
+    }
+  },
+  "mediacritic": {
+    "episodeNumber": 22,
+    "episodeSlug": "notabene",
+    "analyseUrl": "/episodes/notabene.html"
+  },
+  "tags": [
+    "histoire",
+    "géopolitique"
+  ],
+  "updatedAt": "2026-05-18"
 }
