@@ -213,7 +213,7 @@ def render_fiche(data):
 
     # Categories links
     cat_links = " · ".join(
-        f'<a href="../catalogue.html?cat={h(cat)}" style="color:var(--c-orange);font-weight:600">{h(cat)}</a>'
+        f'<a href="../catalogue.html?cat={urllib.parse.quote(cat)}" style="color:var(--c-orange);font-weight:600">{h(cat)}</a>'
         for cat in categories
     )
     cats_html = f'\n    <p style="margin-top:14px;font-size:.85rem;color:var(--c-muted)">Catégories : {cat_links}</p>' if cat_links else ""
