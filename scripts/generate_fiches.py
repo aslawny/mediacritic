@@ -169,12 +169,6 @@ def render_fiche(data):
             f'https://www.deezer.com/search/{urllib.parse.quote(title)}'
         platform_actions.append(f'<a href="{h(deezer_url)}" target="_blank" rel="noopener" class="btn btn-deezer">🎵 Deezer</a>')
 
-    # Bouton MediaCritic sur une ligne séparée en dessous des plateformes
-    mc_action_html = ""
-    if mediacritic:
-        ep_slug_btn = mediacritic.get("episodeSlug", slug)
-        mc_action_html = f'\n      <div class="actions" style="margin-top:8px"><a href="/episodes/{h(ep_slug_btn)}.html" class="btn btn-mc">📖 Analyse MediaCritic</a></div>'
-
     actions_html = "\n      ".join(platform_actions)
 
     # MC block
@@ -294,7 +288,7 @@ def render_fiche(data):
       <h1>{h(title)}</h1>
       <div class="author">par {h(author or "MediaCritic")}</div>
       {rating_html}
-      <div class="actions">{actions_html}</div>{mc_action_html}
+      <div class="actions">{actions_html}</div>
     </div>
   </div>
 {mc_block}
