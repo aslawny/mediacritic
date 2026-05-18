@@ -1,32 +1,32 @@
 {
-  "slug": "silicon-carne",
-  "title": "Silicon Carne",
-  "author": "MediaCritic",
-  "type": "podcast",
-  "categories": [
-    "tech",
-    "humour"
-  ],
-  "description": "Critique et analyse du podcast Silicon Carne par MediaCritic. Épisode 19 — podcast tech humour francophone.",
-  "image": null,
-  "language": "fr",
-  "platforms": {
-    "apple": {
-      "url": "https://podcasts.apple.com/fr/podcast/silicon-carne-un-peu-de-picante-dans-un-monde-de-tech/id1485527777?uo=4",
-      "trackId": 1485527777,
-      "rating": 4.8,
-      "ratingCount": 424,
-      "episodeCount": 280
-    }
-  },
-  "mediacritic": {
-    "episodeNumber": 19,
-    "episodeSlug": "silicon-carne",
-    "analyseUrl": "/episodes/silicon-carne.html"
-  },
-  "tags": [
-    "tech",
-    "humour"
-  ],
-  "updatedAt": "2026-05-17"
+    "slug":  "silicon-carne",
+    "title":  "Silicon Carne",
+    "author":  "MediaCritic",
+    "type":  "podcast",
+    "categories":  [
+                       "tech",
+                       "humour"
+                   ],
+    "description":  "Silicon Carne – Le seul talk-show Tech qui parle de la Silicon Valley depuis la Silicon Valley… en français 🇫🇷 🇺🇸 Chaque semaine, El Gringo (aka Carlos Diaz) et sa bande de chroniqueurs décryptent sans langue de bois l’actu Tech, entre vision, clashs et good vibes. Un format 🌶️ sans bullshit, pour comprendre ce qui se passe vraiment dans le berceau de l’innovation. 👉 Vous voulez sponsoriser une émission ? Parlons-en. ⸻ Qui est El Gringo ? Carlos Diaz est un entrepreneur et investisseur franco-am",
+    "image":  "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fd/1e/21/fd1e216b-4922-e7fb-3cee-c596e812f4b3/mza_16127903943988940379.jpg/600x600bb.jpg",
+    "language":  "fr",
+    "platforms":  {
+                      "apple":  {
+                                    "url":  "https://podcasts.apple.com/fr/podcast/silicon-carne-un-peu-de-picante-dans-un-monde-de-tech/id1485527777?uo=4",
+                                    "trackId":  1485527777,
+                                    "rating":  4.8,
+                                    "ratingCount":  424,
+                                    "episodeCount":  280
+                                }
+                  },
+    "mediacritic":  {
+                        "episodeNumber":  19,
+                        "episodeSlug":  "silicon-carne",
+                        "analyseUrl":  "/episodes/silicon-carne.html"
+                    },
+    "tags":  [
+                 "tech",
+                 "humour"
+             ],
+    "updatedAt":  "2026-05-18"
 }
