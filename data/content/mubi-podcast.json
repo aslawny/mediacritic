@@ -1,0 +1,29 @@
+{
+  "slug": "mubi-podcast",
+  "title": "MUBI Podcast",
+  "author": "MUBI",
+  "type": "podcast",
+  "categories": [
+    "cinema",
+    "series"
+  ],
+  "description": "",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/67/0c/8f/670c8f4b-ed55-3f39-5dc3-98a12a61b423/mza_245544539580130499.jpg/170x170bb.png",
+  "language": "fr",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/mubi-podcast/id1569229544?uo=2",
+      "trackId": 1569229544,
+      "rating": 5.0,
+      "ratingCount": 8,
+      "episodeCount": null
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "cinema",
+    "series"
+  ],
+  "addedAt": "2026-05-20",
+  "updatedAt": "2026-05-20"
+}
