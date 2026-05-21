@@ -92,6 +92,13 @@ def type_label(t):
     return labels.get(t, t.capitalize() if t else "Média")
 
 
+def clean_author(author, title):
+    """Retourne un nom d'auteur propre — remplace les emails par le titre du média."""
+    if author and "@" in author:
+        return title
+    return author or "MediaCritic"
+
+
 def schema_type(t):
     types = {"podcast": "PodcastSeries", "youtube": "WebPage"}
     return types.get(t, "CreativeWork")
@@ -119,8 +126,14 @@ def render_fiche(data):
     mediacritic = data.get("mediacritic")
 
     t_label = type_label(content_type)
-    desc_meta = description[:160].replace('"', "'")
-    desc_full = description  # description complète pour la fiche
+    author_display = clean_author(author, title)
+
+    # Description : fallback si vide pour éviter content=""
+    if description.strip():
+        desc_meta = description[:160].replace('"', "'")
+    else:
+        desc_meta = f"{title} — {t_label} francophone référencé sur MediaCritic."[:160]
+    desc_full = description  # description complète pour la fiche (peut rester vide)
 
     # Cover block
     if image:
@@ -221,7 +234,7 @@ def render_fiche(data):
         "url": f"{BASE_URL}/fiches/{slug}.html",
         "image": image or f"{BASE_URL}/assets/banner.png",
         "inLanguage": "fr",
-        "author": {"@type": "Person", "name": author or "MediaCritic"},
+        "author": {"@type": "Person", "name": author_display},
     }
     breadcrumb_schema = {
         "@context": "https://schema.org",
@@ -286,7 +299,7 @@ def render_fiche(data):
       </nav>
       <div class="badges">{badges_html}</div>
       <h1>{h(title)}</h1>
-      <div class="author">par {h(author or "MediaCritic")}</div>
+      <div class="author">par {h(author_display)}</div>
       {rating_html}
       <div class="actions">{actions_html}</div>
     </div>
