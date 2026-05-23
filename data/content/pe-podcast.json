@@ -1,0 +1,27 @@
+{
+  "slug": "pe-podcast",
+  "title": "pe.podcast",
+  "author": "ANGIE",
+  "type": "podcast",
+  "categories": [
+    "sciences"
+  ],
+  "description": "",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fe/1c/18/fe1c18d1-d8a2-10f2-24af-c697c8c9668a/mza_9904126620805307934.jpeg/600x600bb.jpg",
+  "language": "Éducation",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/pe-podcast/id1765950113?uo=4",
+      "trackId": 1765950113,
+      "rating": 4.9,
+      "ratingCount": 148,
+      "episodeCount": 42
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "sciences"
+  ],
+  "addedAt": "2026-05-23",
+  "updatedAt": "2026-05-23"
+}
