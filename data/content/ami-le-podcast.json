@@ -1,0 +1,28 @@
+{
+  "slug": "ami-le-podcast",
+  "title": "AMI le podcast",
+  "author": "Guillaume RICHARDOT",
+  "type": "podcast",
+  "categories": [
+    "tech",
+    "numérique"
+  ],
+  "description": "",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/98/69/12/98691264-dae2-da63-100f-18645479fbf6/mza_12178217596189762279.jpeg/600x600bb.jpg",
+  "language": "Technologies",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/ami-le-podcast/id1606630083?uo=4",
+      "trackId": 1606630083,
+      "rating": null,
+      "ratingCount": null,
+      "episodeCount": 305
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "tech",
+    "numérique"
+  ],
+  "updatedAt": "2026-05-03"
+}

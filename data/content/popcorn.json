@@ -1,0 +1,28 @@
+{
+  "slug": "popcorn",
+  "title": "Popcorn",
+  "author": "Popcorn",
+  "type": "podcast",
+  "categories": [
+    "cinéma",
+    "séries"
+  ],
+  "description": "",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/57/2f/e7/572fe7e1-e55e-1aea-47fd-8fe0ec6267fa/mza_14655758830360167132.png/600x600bb.jpg",
+  "language": "Actualité du divertissement",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/popcorn/id1479696455?uo=4",
+      "trackId": 1479696455,
+      "rating": null,
+      "ratingCount": null,
+      "episodeCount": 688
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "cinéma",
+    "séries"
+  ],
+  "updatedAt": "2026-05-03"
+}

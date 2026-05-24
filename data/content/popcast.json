@@ -1,0 +1,28 @@
+{
+  "slug": "popcast",
+  "title": "Popcast",
+  "author": "Popcast",
+  "type": "podcast",
+  "categories": [
+    "cinéma",
+    "séries"
+  ],
+  "description": "",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c8/1f/1a/c81f1a3d-8063-c776-ba60-a33a3d90e383/mza_1253212106732965255.jpeg/600x600bb.jpg",
+  "language": "Cinéma : les critiques",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/popcast/id1772448068?uo=4",
+      "trackId": 1772448068,
+      "rating": null,
+      "ratingCount": null,
+      "episodeCount": 79
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "cinéma",
+    "séries"
+  ],
+  "updatedAt": "2026-05-03"
+}

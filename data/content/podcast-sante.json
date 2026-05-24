@@ -1,0 +1,26 @@
+{
+  "slug": "podcast-sante",
+  "title": "Podcast santé",
+  "author": "obadia",
+  "type": "podcast",
+  "categories": [
+    "santé"
+  ],
+  "description": "",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/94/44/40/94444060-b04c-8acd-4deb-f8aa2b33539f/mza_10171519965305690458.jpg/600x600bb.jpg",
+  "language": "Médecine",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/podcast-sant%C3%A9/id1561081775?uo=4",
+      "trackId": 1561081775,
+      "rating": null,
+      "ratingCount": null,
+      "episodeCount": 3
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "santé"
+  ],
+  "updatedAt": "2026-05-03"
+}
