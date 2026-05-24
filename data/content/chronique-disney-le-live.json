@@ -7,15 +7,15 @@
     "cinéma",
     "séries"
   ],
-  "description": "",
+  "description": "Ce podcast est constitué de captations audios de l'émission regulière que l'équipe de Chronique Disney diffuse sur Twitch autour de thèmes différents avec des interlocuteurs variés et spécialisés pour en apprendre toujours plus sur l'empire Disney : The Walt Disney Company, Disneyland Paris, Disneyland Resort, Walt Disney World Resort, Tokyo Disney Resort, Hong Kong Disneyland Resort, Shanghai Disney Resort, Disney Cruise Line, Disney+, Pixar, Marvel, Star Wars, 20th Century Studios, Searchlight",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/b1/ce/88/b1ce88b5-8188-09eb-89e3-6061f5a2e22d/mza_485577510706551090.jpeg/600x600bb.jpg",
   "language": "Loisirs",
   "platforms": {
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/chronique-disney-le-live/id1711994137?uo=4",
       "trackId": 1711994137,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 3.3,
+      "ratingCount": 10,
       "episodeCount": 45
     }
   },
@@ -24,5 +24,5 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-22"
 }

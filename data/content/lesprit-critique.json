@@ -7,10 +7,18 @@
     "sciences",
     "société"
   ],
-  "description": "",
+  "description": "Critique et analyse du podcast L&#39;Esprit Critique par MediaCritic. Épisode 2 — pensée rationnelle et scepticisme.",
   "image": null,
   "language": "fr",
-  "platforms": {},
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/lesprit-critique-le-podcast/id1695160584?uo=4",
+      "trackId": 1695160584,
+      "rating": 4.8,
+      "ratingCount": 1403,
+      "episodeCount": 7
+    }
+  },
   "mediacritic": {
     "episodeNumber": 2,
     "episodeSlug": "lesprit-critique",
@@ -20,5 +28,5 @@
     "sciences",
     "société"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-24"
 }

@@ -7,15 +7,15 @@
     "tech",
     "numérique"
   ],
-  "description": "",
+  "description": "Retrouvez chaque jour l&apos;actualité professionnelle sur la Radio et le Podcast automatisée par l&apos;IA depuis nos articles quotidiens sur notre site. La voix de l&apos;hôte est clonée et chaque soir à 19h découvrez un résumé de l&apos;actu du jour en audio.",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1c/41/74/1c417419-ec0b-fba6-baa1-ae5e38a9ffbc/mza_17100474194334194687.jpg/600x600bb.jpg",
   "language": "Actualité économique",
   "platforms": {
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/la-lettre-pro-le-podcast-ia/id1752286114?uo=4",
       "trackId": 1752286114,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 1.0,
+      "ratingCount": 1,
       "episodeCount": 472
     }
   },
@@ -24,5 +24,5 @@
     "tech",
     "numérique"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-22"
 }

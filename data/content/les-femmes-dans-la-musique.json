@@ -7,15 +7,15 @@
     "musique",
     "culture"
   ],
-  "description": "",
+  "description": "Ouest Track est partie à la rencontre de plusieurs femmes travaillant dans le milieu de la musique pour connaitre leur point de vue sur la place de la femme dans ce milieu.",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3a/03/e6/3a03e61c-efde-1e95-8230-7d557d35c0da/mza_13738900362979498681.jpg/600x600bb.jpg",
   "language": "Culture et société",
   "platforms": {
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/les-femmes-dans-la-musique/id1693627678?uo=4",
       "trackId": 1693627678,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": 6
     }
   },
@@ -24,5 +24,5 @@
     "musique",
     "culture"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-22"
 }

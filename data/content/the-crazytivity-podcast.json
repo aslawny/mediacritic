@@ -7,15 +7,15 @@
     "business",
     "entrepreneuriat"
   ],
-  "description": "",
+  "description": "Podcast by The Crazytivity Podcast",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/23/07/b6/2307b652-ba89-2964-5057-0a0512962424/mza_3860814075603914398.jpg/600x600bb.jpg",
   "language": "Affaires",
   "platforms": {
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/the-crazytivity-podcast/id1514736811?uo=4",
       "trackId": 1514736811,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": 21
     }
   },
@@ -24,5 +24,5 @@
     "business",
     "entrepreneuriat"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-22"
 }

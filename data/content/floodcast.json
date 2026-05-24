@@ -7,12 +7,20 @@
     "gaming",
     "culture geek"
   ],
-  "description": "",
+  "description": "Critique et analyse du podcast Floodcast par MediaCritic. Épisode 10 — podcast culture et humour.",
   "image": null,
   "language": "fr",
-  "platforms": {},
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/floodcast/id1019768302?uo=4",
+      "trackId": 1019768302,
+      "rating": 4.9,
+      "ratingCount": 6358,
+      "episodeCount": 250
+    }
+  },
   "mediacritic": {
-    "episodeNumber": 6,
+    "episodeNumber": 10,
     "episodeSlug": "floodcast",
     "analyseUrl": "/episodes/floodcast.html"
   },
@@ -20,5 +28,5 @@
     "gaming",
     "culture geek"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-24"
 }

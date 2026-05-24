@@ -8,10 +8,25 @@
     "enfants",
     "éducation"
   ],
-  "description": "",
-  "image": null,
+  "description": "Quelle Histoire, vos enfants vont adorer l'Histoire ! \nDes livres, des jeux, un abonnement, une application, et plein d'autres surprises à découvrir ici.\n",
+  "image": "https://yt3.ggpht.com/ytc/AIdro_ljYTZq3Wu1f1_zV81hGSIw4I4MsZGipQVFpm5xafs5M7Y=s800-c-k-c0x00ffffff-no-rj",
   "language": "fr",
-  "platforms": {},
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/quelle-histoire-pr%C3%A9sente/id1573207208?uo=4",
+      "trackId": 1573207208,
+      "rating": 4.2,
+      "ratingCount": 2058,
+      "episodeCount": 53
+    },
+    "youtube": {
+      "url": "https://www.youtube.com/@quellehistoire_podcast",
+      "channelId": "UCoejzfiaEjCusdpdX9W8jBQ",
+      "subscribers": 124000,
+      "totalViews": 16837801,
+      "videoCount": 118
+    }
+  },
   "mediacritic": {
     "episodeNumber": 26,
     "episodeSlug": "quelle-histoire",
@@ -22,5 +37,5 @@
     "enfants",
     "éducation"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-24"
 }

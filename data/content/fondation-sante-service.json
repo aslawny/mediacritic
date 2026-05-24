@@ -6,15 +6,15 @@
   "categories": [
     "santé"
   ],
-  "description": "",
+  "description": "Découvrez les podcasts de la Fondation Santé Service, premier établissement d'hospitalisation et soins à domicile en France. Hébergé par Ausha. Visitez ausha.co/fr/politique-de-confidentialite pour plus d'informations.",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fa/ea/26/faea26dc-b990-f939-bb91-879d87bfc44d/mza_1983893767552731897.jpeg/600x600bb.jpg",
   "language": "Médecine",
   "platforms": {
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/fondation-sant%C3%A9-service/id1874230488?uo=4",
       "trackId": 1874230488,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 2,
       "episodeCount": 13
     }
   },
@@ -22,5 +22,5 @@
   "tags": [
     "santé"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-22"
 }

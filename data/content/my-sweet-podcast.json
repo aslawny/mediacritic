@@ -1,0 +1,29 @@
+{
+  "slug": "my-sweet-podcast",
+  "title": "My Sweet Podcast",
+  "author": "My Sweet Discoveries",
+  "type": "podcast",
+  "categories": [
+    "gastronomie",
+    "cuisine"
+  ],
+  "description": "",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/3e/dd/70/3edd70ed-d879-95a5-224d-3255d5f6e0f1/mza_17286321120883982907.jpg/600x600bb.jpg",
+  "language": "Gastronomie",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/my-sweet-podcast/id1571270037?uo=4",
+      "trackId": 1571270037,
+      "rating": 5.0,
+      "ratingCount": 8,
+      "episodeCount": 60
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "gastronomie",
+    "cuisine"
+  ],
+  "addedAt": "2026-05-23",
+  "updatedAt": "2026-05-23"
+}

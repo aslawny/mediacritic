@@ -7,15 +7,15 @@
     "cinéma",
     "séries"
   ],
-  "description": "",
+  "description": "Le média de la transition www.nouveaudepart.co",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/40/46/91/404691f9-1a6f-47e4-3214-9ddbb32300ec/mza_13090948060513074521.jpg/600x600bb.jpg",
   "language": "Actualité : analyses",
   "platforms": {
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/nouveau-d%C3%A9part/id1674745109?uo=4",
       "trackId": 1674745109,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": 245
     }
   },
@@ -24,5 +24,5 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-22"
 }

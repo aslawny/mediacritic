@@ -7,15 +7,15 @@
     "cinéma",
     "séries"
   ],
-  "description": "",
+  "description": "L'émission de conso propose 4 ou 5 sujets par jour. Fichiers disponibles durant 30 jours après diffusion.",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/04/6c/f8/046cf8db-4ba8-7419-de6b-e247bb88cf5d/mza_1879372875724037876.jpg/600x600bb.jpg",
   "language": "Culture et société",
   "platforms": {
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/on-en-parle-rts-premi%C3%A8re/id81347754?uo=4",
       "trackId": 81347754,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": 35
     }
   },
@@ -24,5 +24,5 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-22"
 }

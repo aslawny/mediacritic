@@ -7,15 +7,15 @@
     "gastronomie",
     "cuisine"
   ],
-  "description": "",
+  "description": "Podcast hebdomadaire animé et produit par Mounir alias Maire de Laval",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/1c/ae/2b/1cae2bac-d6fe-5de3-81db-e079c9e0f5de/mza_16057145733790379565.jpg/600x600bb.jpg",
   "language": "Culture et société",
   "platforms": {
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/faits-divers/id1467785367?uo=4",
       "trackId": 1467785367,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": 61
     }
   },
@@ -24,5 +24,5 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-22"
 }

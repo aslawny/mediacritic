@@ -6,15 +6,15 @@
   "categories": [
     "gaming"
   ],
-  "description": "",
+  "description": "Votre émission de culture Geek sur l&apos;antenne de Graf&apos;Hit tous les mercredis de 14 heures à 15 heures !",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/bf/5f/c1/bf5fc1cd-08d9-7876-064a-2bd51983cd13/mza_4713171193498335488.jpg/600x600bb.jpg",
   "language": "Jeux vidéo",
   "platforms": {
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/geekhit/id1449269841?uo=4",
       "trackId": 1449269841,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 2,
       "episodeCount": 20
     }
   },
@@ -22,5 +22,5 @@
   "tags": [
     "gaming"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-22"
 }

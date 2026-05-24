@@ -7,15 +7,15 @@
     "sport",
     "running"
   ],
-  "description": "",
+  "description": "De temps à autre, j'ouvre le micro et je partage mes impressions, mes découvertes sur mes écoutes de podcasts et tout l'univers qui l'accompagne. Parfois seule, parfois accompagnée parfois sérieuse ou pas...",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/32/d9/44/32d94412-4202-4844-9beb-f52ec7639b53/mza_14696585495571466198.jpg/600x600bb.jpg",
   "language": "Technologies",
   "platforms": {
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/une-fille-un-podcast/id1440449930?uo=4",
       "trackId": 1440449930,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.5,
+      "ratingCount": 4,
       "episodeCount": 52
     }
   },
@@ -24,5 +24,5 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-22"
 }

@@ -5,24 +5,25 @@
   "type": "podcast",
   "categories": [
     "tech",
-    "numérique"
+    "numerique"
   ],
   "description": "",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fd/1e/21/fd1e216b-4922-e7fb-3cee-c596e812f4b3/mza_16127903943988940379.jpg/600x600bb.jpg",
-  "language": "Technologies",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fd/1e/21/fd1e216b-4922-e7fb-3cee-c596e812f4b3/mza_16127903943988940379.jpg/170x170bb.png",
+  "language": "fr",
   "platforms": {
     "apple": {
-      "url": "https://podcasts.apple.com/fr/podcast/silicon-carne-un-peu-de-picante-dans-un-monde-de-tech/id1485527777?uo=4",
+      "url": "https://podcasts.apple.com/fr/podcast/silicon-carne-un-peu-de-picante-dans-un-monde-de-tech/id1485527777?uo=2",
       "trackId": 1485527777,
-      "rating": null,
-      "ratingCount": null,
-      "episodeCount": 280
+      "rating": 4.8,
+      "ratingCount": 426,
+      "episodeCount": null
     }
   },
   "mediacritic": null,
   "tags": [
     "tech",
-    "numérique"
+    "numerique"
   ],
-  "updatedAt": "2026-05-03"
+  "addedAt": "2026-05-20",
+  "updatedAt": "2026-05-22"
 }

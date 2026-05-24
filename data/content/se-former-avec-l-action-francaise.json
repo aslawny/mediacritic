@@ -7,15 +7,15 @@
     "culture",
     "société"
   ],
-  "description": "",
+  "description": "Podcast by Action française",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/85/ea/97/85ea9707-a4b2-1c9b-21e2-fd17de87a00d/mza_2771351999938489718.jpg/600x600bb.jpg",
   "language": "Culture et société",
   "platforms": {
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/se-former-avec-laction-fran%C3%A7aise/id1510237274?uo=4",
       "trackId": 1510237274,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.3,
+      "ratingCount": 9,
       "episodeCount": 9
     }
   },
@@ -24,5 +24,5 @@
     "culture",
     "société"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-22"
 }

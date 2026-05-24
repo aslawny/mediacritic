@@ -7,15 +7,15 @@
     "sport",
     "running"
   ],
-  "description": "",
+  "description": "La french trail, c’est le podcast qui plonge au cœur du trail et de l’ultra, du quotidien des coureurs aux coulisses des grands rendez-vous comme l’utmb. Avec Stan Van Kemmel au micro, découvre la culture trail sous toutes ses formes.",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/45/3f/0e/453f0e15-77ac-7c61-3eed-8fadda3bbddb/mza_15710427446427486484.jpg/600x600bb.jpg",
   "language": "Course à pied",
   "platforms": {
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/la-french-trail/id1834448353?uo=4",
       "trackId": 1834448353,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": 25
     }
   },
@@ -24,5 +24,5 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-22"
 }

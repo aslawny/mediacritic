@@ -5,9 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>MediaCritic — Fiche contenu</title>
   <meta name="robots" content="index, follow" />
-  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data: https://*.spotifycdn.com https://image-cdn-fa.spotifycdn.com https://image-cdn-ak.spotifycdn.com https://i.scdn.co https://is1-ssl.mzstatic.com; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://www.google-analytics.com https://analytics.google.com https://region1.google-analytics.com; frame-src 'none'; object-src 'none'; base-uri 'self'; form-action 'self' mailto:; frame-ancestors 'none';" />
-  <meta name="referrer" content="strict-origin-when-cross-origin" />
-  <meta http-equiv="Permissions-Policy" content="camera=(), microphone=(), geolocation=(), payment=(), usb=(), interest-cohort=()" />
   <link rel="icon" href="assets/logo.png" type="image/png" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Syne:wght@700;800&display=swap" rel="stylesheet" />
@@ -110,9 +107,7 @@
 (function() {
   // ── Helpers ──────────────────────────────────────────────────────────────
   function esc(s) {
-    const d=document.createElement('div');
-    d.appendChild(document.createTextNode(String(s||'')));
-    return d.innerHTML;
+    return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
   }
   function fmtNum(n) {
     if (!n) return null;
@@ -163,7 +158,7 @@
 
     // ── Cover ──
     var coverHtml = d.image
-      ? '<img src="' + esc(d.image) + '" alt="' + esc(d.title) + '" loading="lazy" id="fiche-img">'
+      ? '<img src="' + esc(d.image) + '" alt="' + esc(d.title) + '" loading="lazy" onerror="this.parentElement.innerHTML=\'<div class=fiche-cover-ph>' + esc(initials(d.title)) + '</div>\'">'
       : '<div class="fiche-cover-ph">' + esc(initials(d.title)) + '</div>';
 
     // ── Badges ──
@@ -183,9 +178,9 @@
 
     // ── Boutons plateformes ──
     var btns = [];
-    if (spotify.url)  btns.push('<a href="' + esc(spotify.url) + '" target="_blank" rel="noopener noreferrer" class="btn btn-platform">🎙️ Spotify</a>');
-    if (yt.url)       btns.push('<a href="' + esc(yt.url) + '" target="_blank" rel="noopener noreferrer" class="btn btn-youtube">▶ YouTube</a>');
-    if (apple.url)    btns.push('<a href="' + esc(apple.url) + '" target="_blank" rel="noopener noreferrer" class="btn btn-apple">🎧 Apple Podcasts</a>');
+    if (spotify.url)  btns.push('<a href="' + esc(spotify.url) + '" target="_blank" rel="noopener" class="btn btn-platform">🎙️ Spotify</a>');
+    if (yt.url)       btns.push('<a href="' + esc(yt.url) + '" target="_blank" rel="noopener" class="btn btn-youtube">▶ YouTube</a>');
+    if (apple.url)    btns.push('<a href="' + esc(apple.url) + '" target="_blank" rel="noopener" class="btn btn-apple">🎧 Apple Podcasts</a>');
     if (mc && mc.analyseUrl) btns.push('<a href="' + esc(mc.analyseUrl) + '" class="btn btn-mc">📖 Analyse MediaCritic</a>');
 
     // ── Stats ──
@@ -235,19 +230,6 @@
         + '<p>MediaCritic est le podcast francophone indépendant qui analyse et critique des podcasts, émissions et chaînes YouTube. En 5 à 7 minutes chaque semaine, Alex et Lolo décortiquent un média avec méthode, passion et humour.</p>'
         + '<div style="margin-top:14px"><a href="/" class="btn btn-mc">← Retour au catalogue</a></div>'
       + '</div>';
-
-    // Attach onerror via JS to avoid inline event handler in HTML attribute
-    var ficheImg = document.getElementById('fiche-img');
-    if (ficheImg) {
-      var ph = esc(initials(d.title));
-      ficheImg.onerror = function() {
-        this.parentElement.textContent = '';
-        var div = document.createElement('div');
-        div.className = 'fiche-cover-ph';
-        div.textContent = initials(d.title);
-        this.parentElement.appendChild(div);
-      };
-    }
   }
 
   function showError(msg) {
@@ -257,9 +239,5 @@
   }
 })();
 </script>
-
-<!-- Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXWRG9YYNQ"></script>
-<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-XXWRG9YYNQ');</script>
 </body>
 </html>

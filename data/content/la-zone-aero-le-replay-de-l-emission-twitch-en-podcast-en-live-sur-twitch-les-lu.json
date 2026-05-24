@@ -7,15 +7,15 @@
     "gaming",
     "rétro"
   ],
-  "description": "",
+  "description": "Podcast replay de l'émission LA ZONE AERO, l'émission en direct les lundis, mercredi ou vendredi soirs sur Twitch, consacrée à l'aviation et aux pilotes. Vous êtes passionné.e d'aviation, vous y rencontrerez des pilotes, des profils, des métiers et des carrières. Le programme se veut diversifié dans les rencontres et dans les sujets proposés dans chaque émission. Le programme est publié chaque mois sur les réseaux sociaux. Un serveur Discord permet de prolonger les échanges au delà des émissions",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/03/00/dc/0300dc44-76e5-0e46-54f8-73d81dba4d5d/mza_16775132454875067081.jpeg/600x600bb.jpg",
   "language": "Aviation",
   "platforms": {
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/la-zone-a%C3%A9ro-le-replay-de-l%C3%A9mission-twitch-en/id1689345396?uo=4",
       "trackId": 1689345396,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 2,
       "episodeCount": 165
     }
   },
@@ -24,5 +24,5 @@
     "gaming",
     "rétro"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-22"
 }

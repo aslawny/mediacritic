@@ -7,12 +7,20 @@
     "tech",
     "numérique"
   ],
-  "description": "",
+  "description": "Critique et analyse du podcast Le Rendez-vous Tech par MediaCritic. Épisode 7 — meilleur podcast tech francophone.",
   "image": null,
   "language": "fr",
-  "platforms": {},
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/le-rendez-vous-tech-rdv-tech/id303492600?uo=4",
+      "trackId": 303492600,
+      "rating": 4.7,
+      "ratingCount": 2163,
+      "episodeCount": 693
+    }
+  },
   "mediacritic": {
-    "episodeNumber": 10,
+    "episodeNumber": 7,
     "episodeSlug": "le-rendez-vous-tech",
     "analyseUrl": "/episodes/le-rendez-vous-tech.html"
   },
@@ -20,5 +28,5 @@
     "tech",
     "numérique"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-24"
 }

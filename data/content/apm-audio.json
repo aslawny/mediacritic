@@ -7,15 +7,15 @@
     "sport",
     "running"
   ],
-  "description": "",
+  "description": "Retrouvez toutes les rubriques de vos podcasts Apm Audio 📻 Hébergé par Ausha. Visitez ausha.co/fr/politique-de-confidentialite pour plus d'informations.",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3b/9f/7f/3b9f7f36-4bf7-edc8-bdc3-49c07528f124/mza_11116560814939657917.jpeg/600x600bb.jpg",
   "language": "Actus du jour",
   "platforms": {
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/apm-audio/id1711170823?uo=4",
       "trackId": 1711170823,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.2,
+      "ratingCount": 5,
       "episodeCount": 665
     }
   },
@@ -24,5 +24,5 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-22"
 }

@@ -7,15 +7,15 @@
     "sport",
     "running"
   ],
-  "description": "",
+  "description": "L&apos;émission RMC Sport sur le Running avec Benoît Boutron.",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/96/11/e1/9611e129-063c-cbd1-7316-e675d50ca2b4/mza_3507054217142148025.jpg/600x600bb.jpg",
   "language": "Course à pied",
   "platforms": {
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/rmc-running/id1479168719?uo=4",
       "trackId": 1479168719,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.9,
+      "ratingCount": 654,
       "episodeCount": 100
     }
   },
@@ -24,5 +24,5 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-22"
 }

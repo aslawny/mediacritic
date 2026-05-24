@@ -7,15 +7,15 @@
     "gastronomie",
     "cuisine"
   ],
-  "description": "",
+  "description": "Podcast de groupe co-animé par le trio Knack, Jules et Benoît à Strasbourg. Motivé par l'envie de créer une Dream Team pour rocker la scène alors que personne n'est dessus! Des actus improbables, des invités fantastiques, des guest-stars et un jeu fait maison. L'idée de “Passe à la maison” est d'avoir des invités mais aussi de laisser des micros volontairement libres pour laisser les copains et les copines participer au pied levé à l'expérience.",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ed/40/c7/ed40c7ca-f875-12ed-1bac-44a418bf5bc5/mza_14375113595347298380.jpg/600x600bb.jpg",
   "language": "Humour",
   "platforms": {
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/passe-%C3%A0-la-maison/id1607054779?uo=4",
       "trackId": 1607054779,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": 23
     }
   },
@@ -24,5 +24,5 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-22"
 }

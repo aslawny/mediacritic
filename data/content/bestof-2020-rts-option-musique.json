@@ -7,15 +7,15 @@
     "musique",
     "culture"
   ],
-  "description": "",
+  "description": "Fabien Honsberger a tendu l'oreille tout au long de l'année 2020 et nous propose une sélection des meilleurs moments d'Option Musique. Fichiers disponibles durant 30 jours après diffusion.",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/a7/bc/cb/a7bccba2-671c-e332-ace9-8f315eabe891/mza_4418106772536543771.png/600x600bb.jpg",
   "language": "Culture et société",
   "platforms": {
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/bestof-2020-rts-option-musique/id1544034621?uo=4",
       "trackId": 1544034621,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": 1
     }
   },
@@ -24,5 +24,5 @@
     "musique",
     "culture"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-22"
 }

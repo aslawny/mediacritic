@@ -6,15 +6,15 @@
   "categories": [
     "gaming"
   ],
-  "description": "",
+  "description": "Un podcast qui parle de jeux vidéo à travers des tests, retours d’expérience, dossiers et interviews. PlayStation 5, Xbox, Nintendo Switch 2, PC, Meta Quest et Steam Deck : quelle que soit la plateforme, on cherche à comprendre et à partager l’impact qu’un jeu peut avoir, autant chez les joueurs que dans l’industrie. 🎮🎙️",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ca/7e/a7/ca7ea77a-6613-ba44-4f2d-ef5aa82b9ec6/mza_10759351293924408606.jpeg/600x600bb.jpg",
   "language": "Jeux vidéo",
   "platforms": {
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/les-darons-du-game-podcast-jeux-vid%C3%A9o-tests-actu-et/id1149816709?uo=4",
       "trackId": 1149816709,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.5,
+      "ratingCount": 19,
       "episodeCount": 127
     }
   },
@@ -22,5 +22,5 @@
   "tags": [
     "gaming"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-22"
 }

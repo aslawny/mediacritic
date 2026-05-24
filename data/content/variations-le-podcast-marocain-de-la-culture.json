@@ -7,15 +7,15 @@
     "gastronomie",
     "cuisine"
   ],
-  "description": "",
+  "description": "VARIATIONS est un magazine culturel, un podcast marocain produit par Mehdi El Kindi et Layal Rhanem et diffusé depuis septembre 2019 tous les samedis à 10h30 sur Radio 2M au Maroc.",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/5a/66/81/5a6681b7-6fec-e372-1e3b-58ca1c942384/mza_17127355461293014640.png/600x600bb.jpg",
   "language": "Arts",
   "platforms": {
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/variations-le-podcast-marocain-de-la-culture/id1554721884?uo=4",
       "trackId": 1554721884,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 2,
       "episodeCount": 126
     }
   },
@@ -24,5 +24,5 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-22"
 }

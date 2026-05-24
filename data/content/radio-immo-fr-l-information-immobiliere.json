@@ -7,15 +7,15 @@
     "géopolitique",
     "international"
   ],
-  "description": "",
+  "description": "Radio Immo, première webradio d'information immobilière",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/06/22/a2/0622a248-6a39-fa94-d199-43ee00f774f2/mza_745267754035922488.png/600x600bb.jpg",
   "language": "Affaires",
   "platforms": {
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/radio-immo-fr-linformation-immobili%C3%A8re/id1341587739?uo=4",
       "trackId": 1341587739,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.7,
+      "ratingCount": 3,
       "episodeCount": 205
     }
   },
@@ -24,5 +24,5 @@
     "géopolitique",
     "international"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-22"
 }

@@ -7,15 +7,15 @@
     "sport",
     "running"
   ],
-  "description": "",
+  "description": "Un regard quotidien sur la vie associative de la ville, les événements de la région mais également un décryptage des actualités nationales et internationales qui bousculent notre monde. Écoutez La Méridienne avec Enzo.",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/d7/f3/d7/d7f3d77d-3db8-14f8-b07c-3598a5f7c1c7/mza_15171209520801034849.jpg/600x600bb.jpg",
   "language": "Actualités",
   "platforms": {
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/la-m%C3%A9ridienne/id1542604400?uo=4",
       "trackId": 1542604400,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 2,
       "episodeCount": 337
     }
   },
@@ -24,5 +24,5 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-22"
 }

@@ -7,12 +7,20 @@
     "sciences",
     "vulgarisation"
   ],
-  "description": "",
+  "description": "Critique et analyse du podcast Braincast par MediaCritic. Épisode 8 — podcast neurosciences et sciences.",
   "image": null,
   "language": "fr",
-  "platforms": {},
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/braincast/id1489940775?uo=4",
+      "trackId": 1489940775,
+      "rating": 4.9,
+      "ratingCount": 57,
+      "episodeCount": 27
+    }
+  },
   "mediacritic": {
-    "episodeNumber": 5,
+    "episodeNumber": 8,
     "episodeSlug": "braincast",
     "analyseUrl": "/episodes/braincast.html"
   },
@@ -20,5 +28,5 @@
     "sciences",
     "vulgarisation"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-24"
 }

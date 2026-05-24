@@ -7,15 +7,15 @@
     "gastronomie",
     "cuisine"
   ],
-  "description": "",
+  "description": "La voix des femmes qui font la gastronomie aujourd‘hui",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/91/7c/58/917c5859-513d-cea7-fbc8-2281788f1592/mza_7246060000992467355.jpg/600x600bb.jpg",
   "language": "Gastronomie",
   "platforms": {
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/girls-in-food/id1501981372?uo=4",
       "trackId": 1501981372,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.9,
+      "ratingCount": 175,
       "episodeCount": 117
     }
   },
@@ -24,5 +24,5 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-22"
 }

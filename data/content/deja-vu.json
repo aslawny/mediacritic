@@ -7,15 +7,15 @@
     "sport",
     "running"
   ],
-  "description": "",
+  "description": "Podcast cinéma à propos des films et de leurs remakes. Peu connus, meilleurs que l’original ou carrément inutiles, à chaque épisode de ce podcast, Maxime, Mélissa, Vincent et Géraldine comparent deux films, et tranchent… LEQUEL EST MEILLEUR ?",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/9b/e1/9e/9be19eae-4c93-03bc-123e-7922f0f3ea08/mza_16039342737149668460.jpg/600x600bb.jpg",
   "language": "Cinéma : les critiques",
   "platforms": {
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/d%C3%A9j%C3%A0-vu/id1587883284?uo=4",
       "trackId": 1587883284,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.0,
+      "ratingCount": 6,
       "episodeCount": 47
     }
   },
@@ -24,5 +24,5 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-22"
 }

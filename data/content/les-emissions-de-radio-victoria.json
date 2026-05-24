@@ -7,15 +7,15 @@
     "gastronomie",
     "cuisine"
   ],
-  "description": "",
+  "description": "Radio Victoria est l'unique radio communautaire francophone à l'ouest des Rocheuses. Ecoutez Radio Victoria sur le 107,9 FM. Venez visiter les studios au 637 rue Head à Victoria, Colombie-Britannique (Canada).",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts128/v4/c4/6c/9f/c46c9f26-88a9-6c13-e7dd-623f62b9f45a/mza_9187224809898826800.jpg/600x600bb.jpg",
   "language": "Actualités",
   "platforms": {
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/les-%C3%A9missions-de-radio-victoria/id1435940488?uo=4",
       "trackId": 1435940488,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": 500
     }
   },
@@ -24,5 +24,5 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-22"
 }

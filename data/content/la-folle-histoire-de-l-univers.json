@@ -7,15 +7,15 @@
     "sciences",
     "vulgarisation"
   ],
-  "description": "",
+  "description": "Podcast d'une passionnée des sciences de l'Univers",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/32/5f/3b/325f3b07-bca5-629f-f541-2939f6383f13/mza_1517953844655904393.jpeg/600x600bb.jpg",
   "language": "Sciences naturelles",
   "platforms": {
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/la-folle-histoire-de-lunivers/id564587024?uo=4",
       "trackId": 564587024,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.7,
+      "ratingCount": 437,
       "episodeCount": 75
     }
   },
@@ -24,5 +24,5 @@
     "sciences",
     "vulgarisation"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-22"
 }

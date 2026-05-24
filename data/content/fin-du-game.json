@@ -6,17 +6,25 @@
   "categories": [
     "gaming"
   ],
-  "description": "",
+  "description": "Critique et analyse du podcast gaming Fin du Game par MediaCritic. Épisode 9 — podcast jeux vidéo francophone.",
   "image": null,
   "language": "fr",
-  "platforms": {},
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/fin-du-game/id1445142854?uo=4",
+      "trackId": 1445142854,
+      "rating": 4.8,
+      "ratingCount": 1558,
+      "episodeCount": 174
+    }
+  },
   "mediacritic": {
-    "episodeNumber": 7,
+    "episodeNumber": 9,
     "episodeSlug": "fin-du-game",
     "analyseUrl": "/episodes/fin-du-game.html"
   },
   "tags": [
     "gaming"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-24"
 }

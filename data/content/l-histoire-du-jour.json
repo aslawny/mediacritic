@@ -6,15 +6,15 @@
   "categories": [
     "histoire"
   ],
-  "description": "",
+  "description": "Chaque soir, Camille Combal et son équipe vous raconte l’histoire qu’il faut absolument avoir entendu aujourd’hui.",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/95/b0/ca/95b0ca97-d491-a72c-e3c6-b248f735bbdd/mza_7190003502735637041.jpg/600x600bb.jpg",
   "language": "Humour",
   "platforms": {
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/lhistoire-du-jour/id1782317499?uo=4",
       "trackId": 1782317499,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.3,
+      "ratingCount": 6,
       "episodeCount": 42
     }
   },
@@ -22,5 +22,5 @@
   "tags": [
     "histoire"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-22"
 }
