@@ -23,6 +23,18 @@ DATA_DIR.mkdir(parents=True, exist_ok=True)
 
 BASE_URL = "https://www.mediacritic.fr"
 
+# ─── Blocklist ────────────────────────────────────────────────────────────────
+def load_blocklist():
+    bl_path = ROOT / "data" / "blocklist.json"
+    if bl_path.exists():
+        try:
+            return set(json.load(open(bl_path, encoding="utf-8")))
+        except Exception:
+            pass
+    return set()
+
+BLOCKLIST = load_blocklist()
+
 # ─── CSS bloc (extrait de braincast.html) ─────────────────────────────────────
 CSS_BLOCK = """\
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
@@ -429,6 +441,13 @@ def main():
 
         slug = data.get("slug")
         if not slug:
+            continue
+
+        # Slug blackliste : supprimer le JSON et ignorer
+        if slug in BLOCKLIST:
+            json_path.unlink(missing_ok=True)
+            fiche = FICHES_DIR / f"{slug}.html"
+            fiche.unlink(missing_ok=True)
             continue
 
         all_data.append(data)

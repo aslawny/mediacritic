@@ -28,7 +28,20 @@ except ImportError:
 ROOT        = Path(__file__).parent.parent
 DATA_DIR    = ROOT / "data" / "content"
 CATALOG_OUT = ROOT / "data" / "catalog.json"
+BLOCKLIST_PATH = ROOT / "data" / "blocklist.json"
 DATA_DIR.mkdir(parents=True, exist_ok=True)
+
+# --- Blocklist : slugs a ne jamais creer/recreer -----------------------------
+def load_blocklist():
+    if BLOCKLIST_PATH.exists():
+        try:
+            with open(BLOCKLIST_PATH, encoding="utf-8") as f:
+                return set(json.load(f))
+        except Exception:
+            pass
+    return set()
+
+BLOCKLIST = load_blocklist()
 
 # --- Episodes MediaCritic -----------------------------------------------------
 MEDIACRITIC_EPISODES = [
@@ -68,15 +81,15 @@ YOUTUBE_CHANNELS = [
     ("@BFMTV",                "bfmtv",                    "BFMTV",                       ["actualite","news"]),
     ("@franceinter",          "france-inter-yt",          "France Inter",                ["actualite","culture"]),
     ("@LCP",                  "lcp",                      "LCP",                         ["actualite","politique"]),
-    ("@LeMonde",              "le-monde-video",           "Le Monde Video",              ["actualite","societe"]),
+    # "@LeMonde" -> "le-monde-video" supprime (doublon de le-monde, slug blackliste)
     ("@mediapart",            "mediapart",                "Mediapart",                   ["actualite","societe"]),
     ("@nota.bene",            "notabene",                 "NotaBene",                    ["histoire","geopolitique"]),
-    ("@Nota.Bene.History",    "notabene-history",         "NotaBene History",            ["histoire"]),
-    ("@AstronoGeek",          "astronomgeek",             "AstronoGeek",                 ["sciences","espace"]),
+    # "@Nota.Bene.History" -> "notabene-history" supprime (doublon de notabene, slug blackliste)
+    ("@AstronoGeek",          "astronogeek",              "AstronoGeek",                 ["sciences","espace"]),
     ("@scienceetonnante",     "science-etonnante",        "Science Etonnante",           ["sciences","vulgarisation"]),
     ("@cestpassorcier",       "cest-pas-sorcier",         "C'est pas sorcier",          ["sciences","education"]),
     ("@e-penser",             "e-penser",                 "e-penser",                    ["sciences","philosophie"]),
-    ("@Kurzgesagt",           "kurzgesagt-fr",            "Kurzgesagt FR",               ["sciences","vulgarisation"]),
+    # "@Kurzgesagt" -> "kurzgesagt-fr" supprime (chaine anglaise, slug blackliste)
     ("@dirtybiology",         "dirty-biology",            "DirtyBiology",                ["sciences","biologie"]),
     ("@LeReveilleur",         "le-revilleur",             "Le Revilleur",                ["sciences","energie"]),
     ("@Hygiene_Mentale",      "hygiene-mentale",          "Hygiene Mentale",             ["sciences","philosophie"]),
@@ -90,7 +103,7 @@ YOUTUBE_CHANNELS = [
     ("@Axolot",               "axolot",                   "Axolot",                      ["culture","curiosites"]),
     ("@LaCinetek",            "la-cinetek",               "La Cinetek",                  ["cinema","culture"]),
     ("@CritiquePlusCinema",   "critique-plus",            "Critique +",                  ["cinema","series"]),
-    ("@PresentationNight",    "presentation-night",       "Presentation Night",          ["cinema","animation"]),
+    # "@PresentationNight" -> "presentation-night" supprime (chaine anglaise, slug blackliste)
     ("@PassionRenovation",    "passion-renovation",       "Passion Renovation",          ["renovation","DIY","maison"]),
     ("@ChefOtakuOfficial",    "chef-otaku",               "Chef Otaku",                  ["cuisine","anime"]),
     ("@750g",                 "750g",                     "750g",                        ["gastronomie","cuisine"]),
@@ -99,7 +112,7 @@ YOUTUBE_CHANNELS = [
     ("@Osons_Causer",         "osons-causer",             "Osons Causer",                ["politique","societe"]),
     ("@LaPrimaire",           "la-primaire",              "La Primaire",                 ["politique","societe"]),
     ("@Blast_info",           "blast",                    "Blast",                       ["actualite","societe"]),
-    ("@Bricevido",            "brice-vido",               "Brice Vido",                  ["sport","football"]),
+    # "@Bricevido" -> "brice-vido" supprime (contenu anglais, slug blackliste)
     ("@Thibaud_Velo",         "thibaud-velo",             "Thibaud Velo",                ["sport","cyclisme"]),
     ("@AthleteFactory",       "athlete-factory",          "Athlete Factory",             ["sport","running"]),
     ("@HistoireEtCivilisation","histoire-et-civilisation","Histoire et Civilisation",    ["histoire"]),
@@ -138,9 +151,9 @@ YOUTUBE_CHANNELS = [
     ("@Suricate",             "suricate",                 "Suricate",                    ["humour","comedie"]),
     ("@WandaProductions",     "wanda-productions",        "Wanda Productions",           ["humour","comedie"]),
     ("@RoflCopter2110",       "roflcopter",               "RoflCopter",                  ["gaming","humour"]),
-    ("@XiaoMaNiuFan",         "xiao-ma-niu",              "Xiao Ma Niu",                 ["culture","international"]),
+    # "@XiaoMaNiuFan" -> "xiao-ma-niu" supprime (contenu anglais, slug blackliste)
     ("@ChefSimon",            "chef-simon",               "Chef Simon",                  ["gastronomie","cuisine"]),
-    ("@SportVsChampions",     "sport-vs-champions",       "Sport vs Champions",          ["sport"]),
+    # "@SportVsChampions" -> "sport-vs-champions" supprime (contenu anglais, slug blackliste)
     ("@bde_france",           "bde-france",               "BDE France",                  ["societe","humour"]),
 ]
 
@@ -400,6 +413,8 @@ def load_existing(slug):
 
 def save_content(data):
     slug = data["slug"]
+    if slug in BLOCKLIST:
+        return  # slug blackliste, on ne cree/modifie jamais ce fichier
     path = DATA_DIR / f"{slug}.json"
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
