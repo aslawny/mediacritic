@@ -186,6 +186,12 @@ YOUTUBE_CHANNELS = [
     ("@PalmashowOfficiel",    "palmashow",                "Palmashow",                   ["humour","comedie"]),
     ("@PierreCroce",          "pierre-croce",             "Pierre Croce",                ["humour","comedie"]),
     ("@legrandjd",            "le-grand-jd",              "Le Grand JD",                 ["humour","comedie"]),
+    # --- Classement Woo.paris Top chaines YouTube France (complement) ---
+    ("@Jeanfils",             "jeanfils",                 "Jeanfils",                    ["gaming","humour"]),
+    ("@GamixTreize",          "gamemixtreize",            "GameMixTreize",               ["humour","gaming"]),
+    ("@EnjoyPhoenix",         "enjoyphoenix",             "EnjoyPhoenix",                ["lifestyle","beaute"]),
+    ("@lenasituations",       "lena-situations",          "Lena Situations",             ["lifestyle","mode"]),
+    ("@SEB",                  "seb",                      "SEB",                         ["humour","musique"]),
 ]
 
 # --- Requetes de decouverte YouTube (pool large, rotation par run) ------------
