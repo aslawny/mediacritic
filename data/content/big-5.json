@@ -3,9 +3,12 @@
   "title": "Big 5",
   "author": "L'Équipe",
   "type": "podcast",
-  "categories": ["sport", "football"],
+  "categories": [
+    "sport",
+    "football"
+  ],
   "description": "Le décodeur des grandes ligues européennes de football. Tactique, modèles économiques des clubs, dynamiques de fond.",
-  "image": null,
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/d3/4c/ce/d34ccef7-f47e-d161-66af-c9f24c564b01/mza_11960291202269019479.jpeg/600x600bb.jpg",
   "language": "fr",
   "platforms": {},
   "mediacritic": {
@@ -13,6 +16,15 @@
     "episodeSlug": "les-podcasts-de-lequipe",
     "analyseUrl": "/episodes/les-podcasts-de-lequipe.html"
   },
-  "tags": ["sport", "football", "grandes ligues", "Europe", "Premier League", "Liga"],
-  "updatedAt": "2026-05-24"
+  "tags": [
+    "sport",
+    "football",
+    "grandes ligues",
+    "Europe",
+    "Premier League",
+    "Liga"
+  ],
+  "updatedAt": "2026-05-24",
+  "rating": "4.6",
+  "ratingCount": 278
 }

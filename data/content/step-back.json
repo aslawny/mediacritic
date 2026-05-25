@@ -3,9 +3,12 @@
   "title": "Step Back",
   "author": "L'Équipe",
   "type": "podcast",
-  "categories": ["sport", "basketball"],
+  "categories": [
+    "sport",
+    "basketball"
+  ],
   "description": "Le podcast basket de L'Équipe. NBA, Euroligue, équipe de France — une analyse profonde qui va bien au-delà du simple résumé de match.",
-  "image": null,
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/f9/08/30/f9083080-9300-b3b1-95f4-26693aed30be/mza_4857776169805500015.jpeg/600x600bb.jpg",
   "language": "fr",
   "platforms": {},
   "mediacritic": {
@@ -13,6 +16,14 @@
     "episodeSlug": "les-podcasts-de-lequipe",
     "analyseUrl": "/episodes/les-podcasts-de-lequipe.html"
   },
-  "tags": ["sport", "basketball", "NBA", "Euroligue", "Wembanyama"],
-  "updatedAt": "2026-05-24"
+  "tags": [
+    "sport",
+    "basketball",
+    "NBA",
+    "Euroligue",
+    "Wembanyama"
+  ],
+  "updatedAt": "2026-05-24",
+  "rating": "4.4",
+  "ratingCount": 177
 }

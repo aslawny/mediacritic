@@ -3,9 +3,12 @@
   "title": "L'Avenir leur appartient",
   "author": "L'Équipe",
   "type": "podcast",
-  "categories": ["sport", "football"],
+  "categories": [
+    "sport",
+    "football"
+  ],
   "description": "Les jeunes talents et les tendances du football à venir. Format prospectif tenu par des journalistes sportifs experts.",
-  "image": null,
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/56/7c/70/567c70c2-d347-6285-5399-07fa799f9b14/mza_6341399063783641444.jpeg/600x600bb.jpg",
   "language": "fr",
   "platforms": {},
   "mediacritic": {
@@ -13,6 +16,13 @@
     "episodeSlug": "les-podcasts-de-lequipe",
     "analyseUrl": "/episodes/les-podcasts-de-lequipe.html"
   },
-  "tags": ["sport", "football", "jeunes talents", "prospectif"],
-  "updatedAt": "2026-05-24"
+  "tags": [
+    "sport",
+    "football",
+    "jeunes talents",
+    "prospectif"
+  ],
+  "updatedAt": "2026-05-24",
+  "rating": "4.1",
+  "ratingCount": 10
 }
