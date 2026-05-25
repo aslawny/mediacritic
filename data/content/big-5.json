@@ -10,7 +10,15 @@
   "description": "Le décodeur des grandes ligues européennes de football. Tactique, modèles économiques des clubs, dynamiques de fond.",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/d3/4c/ce/d34ccef7-f47e-d161-66af-c9f24c564b01/mza_11960291202269019479.jpeg/600x600bb.jpg",
   "language": "fr",
-  "platforms": {},
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/big-5-le-podcast-foot-de-l%C3%A9quipe/id1478425288?uo=4",
+      "trackId": 1478425288,
+      "rating": 4.6,
+      "ratingCount": 278,
+      "episodeCount": 275
+    }
+  },
   "mediacritic": {
     "episodeNumber": 29,
     "episodeSlug": "les-podcasts-de-lequipe",
