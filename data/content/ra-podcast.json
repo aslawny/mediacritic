@@ -1,0 +1,29 @@
+{
+  "slug": "ra-podcast",
+  "title": "RA Podcast",
+  "author": "Resident Advisor",
+  "type": "podcast",
+  "categories": [
+    "musique",
+    "culture"
+  ],
+  "description": "",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/4b/22/3f/4b223f76-72fa-fa02-7b5e-10bb1634a874/mza_16827208712053350544.jpg/170x170bb.png",
+  "language": "fr",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/ra-podcast/id129673441?uo=2",
+      "trackId": 129673441,
+      "rating": 4.7,
+      "ratingCount": 61,
+      "episodeCount": null
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "musique",
+    "culture"
+  ],
+  "addedAt": "2026-05-25",
+  "updatedAt": "2026-05-25"
+}
