@@ -445,7 +445,7 @@
       document.title = `Podcasts & chaînes YouTube ${catLabel} | Catalogue MediaCritic`;
       if (metaDescEl)  metaDescEl.setAttribute('content', `Découvrez les meilleurs podcasts et chaînes YouTube francophones sur le thème "${cat}" — référencés et notés par MediaCritic.`);
       const url = `${BASE_URL}?cat=${encodeURIComponent(cat)}`;
-      if (canonicalEl) canonicalEl.href = url;
+      if (canonicalEl) canonicalEl.href = BASE_URL;  // canonical toujours sur la page de base
       history.replaceState(null, '', url);
     }
   }
