@@ -1,14 +1,16 @@
 {
   "slug": "le-grand-recit",
-  "title": "Le grand récit",
+  "title": "Le Grand Récit",
   "author": "RTL",
   "type": "podcast",
   "categories": [
-    "actualite",
-    "news"
+    "culture",
+    "histoire",
+    "radio",
+    "recit"
   ],
-  "description": "",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/39/4c/c6/394cc667-8a03-b352-d410-5b4b43f54b08/mza_14641787123627626979.jpg/170x170bb.png",
+  "description": "André Dussollier raconte les grands destins qui ont marqué notre époque — Jacqueline Maillan, Jean Gabin, Madonna… Une voix, une histoire, une double couche récit + analyse avec la journaliste Isabelle Choquet.",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/39/4c/c6/394cc667-8a03-b352-d410-5b4b43f54b08/mza_14641787123627626979.jpg/600x600bb.jpg",
   "language": "fr",
   "platforms": {
     "apple": {
@@ -19,10 +21,12 @@
       "episodeCount": null
     }
   },
-  "mediacritic": null,
+  "mediacritic": {"ep": 30, "url": "https://www.mediacritic.fr/episodes/le-grand-recit.html"},
   "tags": [
-    "actualite",
-    "news"
+    "culture",
+    "histoire",
+    "recit",
+    "radio"
   ],
   "addedAt": "2026-05-16",
   "updatedAt": "2026-05-30"
