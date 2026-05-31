@@ -581,7 +581,7 @@
       const mc=MC_EP[item.slug];
       const a=document.createElement('a');
       a.className='c-card'+(item.hasMediacritic?' mc':'');
-      a.href=`fiches/${item.slug}.html`;
+      a.href=mc?mc.analyse:`fiches/${item.slug}.html`;
       const emoji=item.type==='youtube'?'📺':'🎙️';
       const cat1=item.categories&&item.categories[0]?esc(item.categories[0]):'';
       const badge=item.hasMediacritic?`<span class="mc-badge">MC Ép.${esc(mc?mc.ep:item.mcEpisode)}</span>`:'';
