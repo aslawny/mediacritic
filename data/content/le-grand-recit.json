@@ -17,11 +17,14 @@
       "url": "https://podcasts.apple.com/fr/podcast/le-grand-r%C3%A9cit/id1834670628?uo=2",
       "trackId": 1834670628,
       "rating": 4.5,
-      "ratingCount": 197,
+      "ratingCount": 198,
       "episodeCount": null
     }
   },
-  "mediacritic": {"ep": 30, "url": "https://www.mediacritic.fr/episodes/le-grand-recit.html"},
+  "mediacritic": {
+    "ep": 30,
+    "url": "https://www.mediacritic.fr/episodes/le-grand-recit.html"
+  },
   "tags": [
     "culture",
     "histoire",
@@ -29,5 +32,5 @@
     "radio"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-05-30"
+  "updatedAt": "2026-06-02"
 }
