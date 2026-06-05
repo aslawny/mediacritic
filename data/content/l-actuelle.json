@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/lactuelle/id1755992314?uo=4",
       "trackId": 1755992314,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": 34
     }
   },
@@ -25,5 +25,5 @@
     "societe"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-05-25"
+  "updatedAt": "2026-06-05"
 }
