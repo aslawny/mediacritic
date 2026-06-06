@@ -1,0 +1,29 @@
+{
+  "slug": "openai-podcast",
+  "title": "OpenAI Podcast",
+  "author": "OpenAI",
+  "type": "podcast",
+  "categories": [
+    "tech",
+    "numerique"
+  ],
+  "description": "",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d9/1b/91/d91b91c1-7b1a-0d84-7702-da8c4abb8c39/mza_12872078543701307403.jpeg/170x170bb.png",
+  "language": "fr",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/openai-podcast/id1820330260?uo=2",
+      "trackId": 1820330260,
+      "rating": 3.0,
+      "ratingCount": 2,
+      "episodeCount": null
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "tech",
+    "numerique"
+  ],
+  "addedAt": "2026-06-06",
+  "updatedAt": "2026-06-06"
+}
