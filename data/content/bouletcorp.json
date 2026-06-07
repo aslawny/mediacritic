@@ -1,0 +1,35 @@
+{
+  "slug": "bouletcorp",
+  "title": "BouletCorp",
+  "author": "Boulet (Gilles Roussel)",
+  "type": "youtube",
+  "categories": [
+    "dessin",
+    "humour",
+    "creation",
+    "culture geek"
+  ],
+  "description": "Boulet dessine en direct sur Twitch — improvisation totale, sans croquis préliminaire. Un atelier ouvert où l'auteur-illustrateur partage son processus créatif, ses doutes, son humour geek et ses réflexions sur la vie d'artiste.",
+  "image": "https://yt3.googleusercontent.com/ytc/AIdro_lDsGC4hKoBqYDkJ03Lc4seskT7UYJHpstksY=s800-c-k-c0x00ffffff-no-rj",
+  "language": "fr",
+  "platforms": {
+    "youtube": {
+      "url": "https://www.youtube.com/@bouletcorp",
+      "channelId": null,
+      "subscribers": null
+    },
+    "twitch": {
+      "url": "https://www.twitch.tv/bouletcorp"
+    }
+  },
+  "mediacritic": {"ep": 31, "url": "https://www.mediacritic.fr/episodes/bouletcorp.html"},
+  "tags": [
+    "dessin",
+    "bd",
+    "humour",
+    "twitch",
+    "creation"
+  ],
+  "addedAt": "2026-06-07",
+  "updatedAt": "2026-06-07"
+}
