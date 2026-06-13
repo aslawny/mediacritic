@@ -388,7 +388,11 @@ def update_sitemap(slugs):
                 if loc_el is not None:
                     existing_urls.add(loc_el.text)
         except ET.ParseError:
-            pass
+            # Sitemap malformé (ex. marqueurs de conflit git) : on récupère
+            # quand même les <loc> via regex pour ne PAS tout ré-ajouter en double.
+            import re as _re
+            raw = SITEMAP.read_text(encoding="utf-8")
+            existing_urls.update(_re.findall(r"<loc>([^<]+)</loc>", raw))
 
     new_urls = []
     for slug in slugs:
