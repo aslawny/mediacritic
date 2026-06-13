@@ -33,10 +33,33 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Organization",
+        "@id": "https://www.mediacritic.fr/#organization",
+        "name": "MediaCritic",
+        "alternateName": "MediaCritic — Le Podcast",
+        "url": "https://www.mediacritic.fr/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.mediacritic.fr/assets/logo.png"
+        },
+        "description": "MediaCritic est le podcast francophone indépendant qui analyse et critique podcasts, émissions et chaînes YouTube — le Metacritic francophone des podcasts.",
+        "email": "mediacriticinc@gmail.com",
+        "sameAs": [
+          "https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV",
+          "https://www.youtube.com/@MediaCriticInc",
+          "https://www.instagram.com/mediacritic.inc/",
+          "https://x.com/MediaCriticInc",
+          "https://www.linkedin.com/in/mediacritic-le-podcast-b890743a1/",
+          "https://www.tiktok.com/@user9173370996311"
+        ]
+      },
+      {
         "@type": "WebSite",
+        "@id": "https://www.mediacritic.fr/#website",
         "name": "MediaCritic",
         "url": "https://www.mediacritic.fr/",
         "description": "Catalogue des podcasts et chaînes YouTube francophones, avec analyses par MediaCritic.",
+        "publisher": { "@id": "https://www.mediacritic.fr/#organization" },
         "potentialAction": {
           "@type": "SearchAction",
           "target": "https://www.mediacritic.fr/?q={search_term_string}",
@@ -366,6 +389,51 @@
   </div>
 </section>
 
+<!-- SEO STATIC : présentation + index des épisodes (lisible sans JavaScript) -->
+<section aria-label="Les épisodes de MediaCritic" style="max-width:1100px;margin:0 auto;padding:clamp(40px,6vw,72px) clamp(16px,4vw,48px);border-top:1px solid var(--c-border);">
+  <h2 style="font-family:'Syne',sans-serif;font-size:clamp(1.4rem,3vw,2rem);font-weight:800;margin-bottom:16px;">Le podcast <span style="color:var(--c-orange);">MediaCritic</span></h2>
+  <p style="font-size:.95rem;color:var(--c-muted);max-width:720px;line-height:1.7;margin-bottom:12px;">
+    <strong>MediaCritic</strong> est le podcast francophone indépendant qui analyse et critique des podcasts, des émissions et des chaînes YouTube — un peu le <em>Metacritic francophone des podcasts</em>, en moins condescendant et avec bien plus d'humour. Chaque semaine, Alex et Lolo (et parfois leurs invité·e·s) décortiquent un média audio ou vidéo comme on analyserait un film : la forme, le fond et les intentions.
+  </p>
+  <p style="font-size:.95rem;color:var(--c-muted);max-width:720px;line-height:1.7;margin-bottom:24px;">
+    À côté du podcast, MediaCritic référence un catalogue de plus de 1 400 podcasts et chaînes YouTube francophones, filtrables par thème : true crime, histoire, culture, tech, gaming, gastronomie, sciences, sport et bien d'autres.
+  </p>
+  <h3 style="font-family:'Syne',sans-serif;font-size:1.1rem;font-weight:700;margin-bottom:14px;">Tous les épisodes analysés</h3>
+  <ul style="list-style:none;display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:8px 24px;padding:0;">
+    <li><a href="episodes/bouletcorp.html" style="color:var(--c-muted2);font-size:.88rem;">Ép. 31 — BouletCorp</a></li>
+    <li><a href="episodes/le-grand-recit.html" style="color:var(--c-muted2);font-size:.88rem;">Ép. 30 — Le Grand Récit</a></li>
+    <li><a href="episodes/les-podcasts-de-lequipe.html" style="color:var(--c-muted2);font-size:.88rem;">Ép. 29 — Les podcasts de L'Équipe</a></li>
+    <li><a href="episodes/2-heures-de-perdues.html" style="color:var(--c-muted2);font-size:.88rem;">Ép. 28 — 2 Heures de Perdues</a></li>
+    <li><a href="episodes/ifttd-if-this-then-dev.html" style="color:var(--c-muted2);font-size:.88rem;">Ép. 27 — IFTTD - If This Then Dev</a></li>
+    <li><a href="episodes/quelle-histoire.html" style="color:var(--c-muted2);font-size:.88rem;">Ép. 26 — Quelle Histoire</a></li>
+    <li><a href="episodes/le-joueur-du-grenier.html" style="color:var(--c-muted2);font-size:.88rem;">Ép. 25 — Le Joueur du Grenier</a></li>
+    <li><a href="episodes/cest-plus-complique-que-ca.html" style="color:var(--c-muted2);font-size:.88rem;">Ép. 24 — C'est plus compliqué que ça</a></li>
+    <li><a href="episodes/re-take.html" style="color:var(--c-muted2);font-size:.88rem;">Ép. 23 — Re-Take</a></li>
+    <li><a href="episodes/notabene.html" style="color:var(--c-muted2);font-size:.88rem;">Ép. 22 — Nota Bene</a></li>
+    <li><a href="episodes/lafter-foot.html" style="color:var(--c-muted2);font-size:.88rem;">Ép. 21 — L'After Foot</a></li>
+    <li><a href="episodes/extraterrien.html" style="color:var(--c-muted2);font-size:.88rem;">Ép. 20 — Extraterrien</a></li>
+    <li><a href="episodes/silicon-carne.html" style="color:var(--c-muted2);font-size:.88rem;">Ép. 19 — Silicon Carne</a></li>
+    <li><a href="episodes/on-va-deguster.html" style="color:var(--c-muted2);font-size:.88rem;">Ép. 18 — On va déguster</a></li>
+    <li><a href="episodes/lheure-du-crime.html" style="color:var(--c-muted2);font-size:.88rem;">Ép. 17 — L'Heure du Crime</a></li>
+    <li><a href="episodes/chef-otaku.html" style="color:var(--c-muted2);font-size:.88rem;">Ép. 16 — Chef Otaku</a></li>
+    <li><a href="episodes/passion-renovation.html" style="color:var(--c-muted2);font-size:.88rem;">Ép. 15 — Passion Rénovation</a></li>
+    <li><a href="episodes/seldell.html" style="color:var(--c-muted2);font-size:.88rem;">Ép. 14 — Seldell</a></li>
+    <li><a href="episodes/entrez-dans-lhistoire.html" style="color:var(--c-muted2);font-size:.88rem;">Ép. 13 — Entrez dans l'Histoire</a></li>
+    <li><a href="episodes/safepace.html" style="color:var(--c-muted2);font-size:.88rem;">Ép. 12 — Safepace</a></li>
+    <li><a href="episodes/emotions.html" style="color:var(--c-muted2);font-size:.88rem;">Ép. 11 — Émotions</a></li>
+    <li><a href="episodes/floodcast.html" style="color:var(--c-muted2);font-size:.88rem;">Ép. 10 — Floodcast</a></li>
+    <li><a href="episodes/fin-du-game.html" style="color:var(--c-muted2);font-size:.88rem;">Ép. 9 — Fin du Game</a></li>
+    <li><a href="episodes/braincast.html" style="color:var(--c-muted2);font-size:.88rem;">Ép. 8 — Braincast</a></li>
+    <li><a href="episodes/le-rendez-vous-tech.html" style="color:var(--c-muted2);font-size:.88rem;">Ép. 7 — Le Rendez-vous Tech</a></li>
+    <li><a href="episodes/blockbusters.html" style="color:var(--c-muted2);font-size:.88rem;">Ép. 6 — BlockBusters</a></li>
+    <li><a href="episodes/la-story-des-echos.html" style="color:var(--c-muted2);font-size:.88rem;">Ép. 5 — La Story des Échos</a></li>
+    <li><a href="episodes/le-podcast-du-weekend.html" style="color:var(--c-muted2);font-size:.88rem;">Ép. 4 — Le Podcast du Week-end</a></li>
+    <li><a href="episodes/hardisk-stories.html" style="color:var(--c-muted2);font-size:.88rem;">Ép. 3 — Hardisk Stories</a></li>
+    <li><a href="episodes/lesprit-critique.html" style="color:var(--c-muted2);font-size:.88rem;">Ép. 2 — L'Esprit Critique</a></li>
+    <li><a href="episodes/la-5e-de-couv.html" style="color:var(--c-muted2);font-size:.88rem;">Ép. 1 — La 5e de Couv'</a></li>
+  </ul>
+</section>
+
 <!-- FOOTER -->
 <footer>
   <div class="footer-inner">
@@ -396,7 +464,7 @@
         <svg viewBox="0 0 24 24" fill="#0a66c2"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
       </a>
     </div>
-    <p class="footer-copy">© 2025 MediaCritic — <a href="contact.html" style="color:var(--c-muted)">mediacriticinc@gmail.com</a></p>
+    <p class="footer-copy">© 2026 MediaCritic — <a href="contact.html" style="color:var(--c-muted)">mediacriticinc@gmail.com</a></p>
     <p id="footer-updated" class="footer-updated"></p>
   </div>
 </footer>
