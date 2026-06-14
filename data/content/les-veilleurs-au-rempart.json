@@ -4,11 +4,13 @@
   "author": "La Garde de Nuit",
   "type": "podcast",
   "categories": [
-    "cinema",
-    "series"
+    "series",
+    "litterature",
+    "culture geek",
+    "communaute"
   ],
-  "description": "",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7c/ee/d1/7ceed19c-6541-0e59-b060-557c7a19a384/mza_9544740905858821522.jpg/170x170bb.png",
+  "description": "Le podcast de la communauté La Garde de Nuit, dédié à l'œuvre de George R.R. Martin (Le Trône de Fer), à Game of Thrones et House of the Dragon. Analyse des romans, théories, lignées et écarts d'adaptation — entre initiés, avec une rigueur quasi universitaire.",
+  "image": "https://uploads.podcloud.fr/uploads/covers/e2/3e/medium_e23e3f5b5ca0644c70488dd01a7aa2e8ab6cc737.jpg",
   "language": "fr",
   "platforms": {
     "apple": {
@@ -17,12 +19,23 @@
       "rating": 4.0,
       "ratingCount": 10,
       "episodeCount": null
+    },
+    "spotify": {
+      "url": "https://open.spotify.com/show/3UpSimjb9e7BVrJIRH5jnX"
+    },
+    "deezer": {
+      "url": "https://www.deezer.com/fr/show/5240067"
+    },
+    "youtube": {
+      "url": "https://youtube.com/channel/UCheSpTo5bdRcP8fBBnEqBOQ"
     }
   },
-  "mediacritic": null,
+  "mediacritic": {"ep": 32, "url": "https://www.mediacritic.fr/episodes/les-veilleurs-au-rempart.html"},
   "tags": [
-    "cinema",
-    "series"
+    "series",
+    "litterature",
+    "game of thrones",
+    "communaute"
   ],
   "addedAt": "2026-05-31",
   "updatedAt": "2026-06-11"
