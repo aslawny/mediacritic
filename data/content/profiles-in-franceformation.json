@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/profiles-in-franceformation/id1545185804?uo=2",
       "trackId": 1545185804,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": null
     }
   },
@@ -25,5 +25,5 @@
     "societe"
   ],
   "addedAt": "2026-06-12",
-  "updatedAt": "2026-06-12"
+  "updatedAt": "2026-06-14"
 }

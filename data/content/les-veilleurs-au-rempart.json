@@ -30,7 +30,10 @@
       "url": "https://youtube.com/channel/UCheSpTo5bdRcP8fBBnEqBOQ"
     }
   },
-  "mediacritic": {"ep": 32, "url": "https://www.mediacritic.fr/episodes/les-veilleurs-au-rempart.html"},
+  "mediacritic": {
+    "ep": 32,
+    "url": "https://www.mediacritic.fr/episodes/les-veilleurs-au-rempart.html"
+  },
   "tags": [
     "series",
     "litterature",
@@ -38,5 +41,5 @@
     "communaute"
   ],
   "addedAt": "2026-05-31",
-  "updatedAt": "2026-06-11"
+  "updatedAt": "2026-06-14"
 }
