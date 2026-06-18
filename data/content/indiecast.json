@@ -1,0 +1,29 @@
+{
+  "slug": "indiecast",
+  "title": "Indiecast",
+  "author": "Amazon Music",
+  "type": "podcast",
+  "categories": [
+    "musique",
+    "culture"
+  ],
+  "description": "",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4f/6e/21/4f6e213a-8c32-2be1-0976-1a2b4763bb74/mza_5507078087473251208.jpeg/170x170bb.png",
+  "language": "fr",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/indiecast/id1524940951?uo=2",
+      "trackId": 1524940951,
+      "rating": null,
+      "ratingCount": null,
+      "episodeCount": null
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "musique",
+    "culture"
+  ],
+  "addedAt": "2026-06-18",
+  "updatedAt": "2026-06-18"
+}
