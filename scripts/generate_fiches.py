@@ -23,6 +23,23 @@ DATA_DIR.mkdir(parents=True, exist_ok=True)
 
 BASE_URL = "https://www.mediacritic.fr"
 
+# ─── Pages catégories statiques (SEO) ──────────────────────────────────────────
+# Liens des fiches → page catégorie dédiée quand elle existe, sinon fallback
+# vers catalogue.html?cat= (qui est Disallow dans robots.txt).
+# Tenir à jour quand on ajoute une page dans categories/.
+CATEGORY_PAGES = {"histoire", "gaming", "tech", "sport", "cuisine-gastronomie"}
+CATEGORY_ALIASES = {  # catégorie du catalogue → nom de la page
+    "cuisine": "cuisine-gastronomie",
+    "gastronomie": "cuisine-gastronomie",
+}
+
+def category_href(cat):
+    import urllib.parse
+    page = CATEGORY_ALIASES.get(cat, cat)
+    if page in CATEGORY_PAGES:
+        return f"../categories/{page}.html"
+    return f"../catalogue.html?cat={urllib.parse.quote(cat)}"
+
 # ─── Blocklist ────────────────────────────────────────────────────────────────
 def load_blocklist():
     bl_path = ROOT / "data" / "blocklist.json"
@@ -232,7 +249,7 @@ def render_fiche(data):
 
     # Categories links
     cat_links = " · ".join(
-        f'<a href="../catalogue.html?cat={urllib.parse.quote(cat)}" style="color:var(--c-orange);font-weight:600">{h(cat)}</a>'
+        f'<a href="{category_href(cat)}" style="color:var(--c-orange);font-weight:600">{h(cat)}</a>'
         for cat in categories
     )
     cats_html = f'\n    <p style="margin-top:14px;font-size:.85rem;color:var(--c-muted)">Catégories : {cat_links}</p>' if cat_links else ""
@@ -343,6 +360,8 @@ def render_fiche(data):
 
 def needs_update(json_path, html_path):
     """Return True if HTML doesn't exist or JSON is newer than HTML."""
+    if os.environ.get("MC_FORCE_REGEN") == "1":
+        return True
     if not html_path.exists():
         return True
     json_mtime = json_path.stat().st_mtime
