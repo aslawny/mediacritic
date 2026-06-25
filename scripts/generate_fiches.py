@@ -27,10 +27,23 @@ BASE_URL = "https://www.mediacritic.fr"
 # Liens des fiches → page catégorie dédiée quand elle existe, sinon fallback
 # vers catalogue.html?cat= (qui est Disallow dans robots.txt).
 # Tenir à jour quand on ajoute une page dans categories/.
-CATEGORY_PAGES = {"histoire", "gaming", "tech", "sport", "cuisine-gastronomie"}
+CATEGORY_PAGES = {
+    "histoire", "gaming", "tech", "sport", "cuisine-gastronomie",
+    "true-crime", "sciences", "business", "cinema-series",
+    "culture-societe", "musique", "humour",
+}
 CATEGORY_ALIASES = {  # catégorie du catalogue → nom de la page
     "cuisine": "cuisine-gastronomie",
     "gastronomie": "cuisine-gastronomie",
+    "true crime": "true-crime",
+    "vulgarisation": "sciences",
+    "entrepreneuriat": "business",
+    "economie": "business",
+    "cinema": "cinema-series",
+    "series": "cinema-series",
+    "culture": "culture-societe",
+    "societe": "culture-societe",
+    "comedie": "humour",
 }
 
 def category_href(cat):
