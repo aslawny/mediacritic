@@ -1,28 +1,31 @@
 {
   "slug": "laurent-baffie",
-  "title": "Laurent Baffie",
-  "author": "/influx",
+  "title": "Coloscopie",
+  "author": "Laurent Baffie",
   "type": "podcast",
   "categories": [
-    "actualite",
-    "news"
+    "humour",
+    "comedie",
+    "culture"
   ],
-  "description": "",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/73/62/55/7362558f-a9d6-8e4c-60ca-0ccd5a76bd22/mza_10919477329776395536.jpeg/170x170bb.png",
+  "description": "Le podcast d'entretiens de Laurent Baffie : il reçoit artistes et personnalités pour leur « faire leur coloscopie » — des conversations longues, sincères et drôles, entre punchlines et confessions intimes. Production léchée (générique signé Bob Sinclar), diffusion audio et vidéo.",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/73/62/55/7362558f-a9d6-8e4c-60ca-0ccd5a76bd22/mza_10919477329776395536.jpeg/600x600bb.jpg",
   "language": "fr",
   "platforms": {
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/laurent-baffie/id1752843346?uo=2",
       "trackId": 1752843346,
       "rating": 4.5,
-      "ratingCount": 355,
-      "episodeCount": null
+      "ratingCount": 356,
+      "episodeCount": 88
     }
   },
-  "mediacritic": null,
+  "mediacritic": {"ep": 34, "url": "https://www.mediacritic.fr/episodes/coloscopie.html"},
   "tags": [
-    "actualite",
-    "news"
+    "humour",
+    "comedie",
+    "interview",
+    "culture"
   ],
   "addedAt": "2026-05-16",
   "updatedAt": "2026-06-26"

@@ -229,13 +229,18 @@ def render_fiche(data):
     # MC block
     mc_block = ""
     if mediacritic:
-        ep_num = mediacritic.get("episodeNumber", "")
-        ep_slug = mediacritic.get("episodeSlug", slug)
+        ep_num = mediacritic.get("episodeNumber") or mediacritic.get("ep") or ""
+        # URL de l'analyse : supporte analyseUrl/url (absolue) ou episodeSlug
+        analyse_url = mediacritic.get("analyseUrl") or mediacritic.get("url")
+        if analyse_url:
+            href = analyse_url.replace("https://www.mediacritic.fr", "")
+        else:
+            href = f"/episodes/{mediacritic.get('episodeSlug', slug)}.html"
         mc_block = f"""
   <div class="mc-block">
   <h2>✦ L'avis MediaCritic — Épisode {ep_num}</h2>
   <p>Alex, Lolo et leurs invité·e·s ont analysé <strong>{h(title)}</strong> dans l'épisode&nbsp;{ep_num} de MediaCritic. Fond, forme, intentions — le verdict complet est disponible en écoute libre.</p>
-  <div style="margin-top:16px"><a href="/episodes/{h(ep_slug)}.html" class="btn btn-mc">📖 Lire l'analyse complète</a></div>
+  <div style="margin-top:16px"><a href="{h(href)}" class="btn btn-mc">📖 Lire l'analyse complète</a></div>
 </div>
 """
 
@@ -395,7 +400,7 @@ def update_catalog(all_data):
             "image":          d.get("image"),
             "description":    (d.get("description") or "")[:200],
             "hasMediacritic": bool(d.get("mediacritic")),
-            "mcEpisode":      d.get("mediacritic", {}).get("episodeNumber") if d.get("mediacritic") else None,
+            "mcEpisode":      (d.get("mediacritic") or {}).get("episodeNumber") or (d.get("mediacritic") or {}).get("ep"),
             "rating":         d.get("platforms", {}).get("apple", {}).get("rating"),
             "ratingCount":    d.get("platforms", {}).get("apple", {}).get("ratingCount"),
             "addedAt":        d.get("updatedAt", ""),
