@@ -16,11 +16,14 @@
       "url": "https://podcasts.apple.com/fr/podcast/laurent-baffie/id1752843346?uo=2",
       "trackId": 1752843346,
       "rating": 4.5,
-      "ratingCount": 356,
+      "ratingCount": 357,
       "episodeCount": 88
     }
   },
-  "mediacritic": {"ep": 34, "url": "https://www.mediacritic.fr/episodes/coloscopie.html"},
+  "mediacritic": {
+    "ep": 34,
+    "url": "https://www.mediacritic.fr/episodes/coloscopie.html"
+  },
   "tags": [
     "humour",
     "comedie",
@@ -28,5 +31,5 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-06-26"
+  "updatedAt": "2026-06-29"
 }

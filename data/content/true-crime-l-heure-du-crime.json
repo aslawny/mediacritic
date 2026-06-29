@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/true-crime-lheure-du-crime/id1884710404?uo=4",
       "trackId": 1884710404,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": 87
     }
   },
@@ -25,5 +25,5 @@
     "societe"
   ],
   "addedAt": "2026-06-12",
-  "updatedAt": "2026-06-12"
+  "updatedAt": "2026-06-29"
 }
