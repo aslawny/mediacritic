@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/make-it-happen/id6785538591?uo=2",
       "trackId": 6785538591,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 2,
       "episodeCount": null
     }
   },
@@ -25,5 +25,5 @@
     "culture"
   ],
   "addedAt": "2026-06-30",
-  "updatedAt": "2026-06-30"
+  "updatedAt": "2026-07-02"
 }
