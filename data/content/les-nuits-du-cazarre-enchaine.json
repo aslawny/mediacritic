@@ -4,11 +4,13 @@
   "author": "RMC",
   "type": "podcast",
   "categories": [
-    "actualite",
-    "news"
+    "humour",
+    "sport",
+    "football",
+    "radio"
   ],
-  "description": "",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/75/7b/3f/757b3f09-83fa-ffc6-7b76-00ef18cd2afe/mza_14401212762433404421.jpg/170x170bb.png",
+  "description": "La libre antenne nocturne de Julien Cazarre sur RMC, avec Jean-Christophe Drouet. Humour sur l'actualité foot, imitations, débats absurdes, mauvaise foi assumée et joutes verbales avec les auditeurs — un fouillis savamment organisé, après les grands matchs ou en pleine nuit.",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/75/7b/3f/757b3f09-83fa-ffc6-7b76-00ef18cd2afe/mza_14401212762433404421.jpg/600x600bb.jpg",
   "language": "fr",
   "platforms": {
     "apple": {
@@ -19,10 +21,12 @@
       "episodeCount": null
     }
   },
-  "mediacritic": null,
+  "mediacritic": {"ep": 35, "url": "https://www.mediacritic.fr/episodes/les-nuits-du-cazarre-enchaine.html"},
   "tags": [
-    "actualite",
-    "news"
+    "humour",
+    "sport",
+    "football",
+    "radio"
   ],
   "addedAt": "2026-05-16",
   "updatedAt": "2026-07-05"
