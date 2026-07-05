@@ -13,8 +13,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/follow-back/id6785844036?uo=2",
       "trackId": 6785844036,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 3,
       "episodeCount": null
     }
   },
@@ -23,5 +23,5 @@
     "histoire"
   ],
   "addedAt": "2026-07-03",
-  "updatedAt": "2026-07-03"
+  "updatedAt": "2026-07-05"
 }
