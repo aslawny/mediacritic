@@ -17,11 +17,14 @@
       "url": "https://podcasts.apple.com/fr/podcast/les-nuits-du-cazarre-encha%C3%AEn%C3%A9/id1482611627?uo=2",
       "trackId": 1482611627,
       "rating": 4.6,
-      "ratingCount": 618,
+      "ratingCount": 619,
       "episodeCount": null
     }
   },
-  "mediacritic": {"ep": 35, "url": "https://www.mediacritic.fr/episodes/les-nuits-du-cazarre-enchaine.html"},
+  "mediacritic": {
+    "ep": 35,
+    "url": "https://www.mediacritic.fr/episodes/les-nuits-du-cazarre-enchaine.html"
+  },
   "tags": [
     "humour",
     "sport",
@@ -29,5 +32,5 @@
     "radio"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-07-05"
+  "updatedAt": "2026-07-08"
 }
