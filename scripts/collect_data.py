@@ -192,6 +192,8 @@ YOUTUBE_CHANNELS = [
     ("@EnjoyPhoenix",         "enjoyphoenix",             "EnjoyPhoenix",                ["lifestyle","beaute"]),
     ("@lenasituations",       "lena-situations",          "Lena Situations",             ["lifestyle","mode"]),
     ("@SEB",                  "seb",                      "SEB",                         ["humour","musique"]),
+    # --- Episode MC 36 ---
+    ("@TrashTalkProduction",  "trashtalk",                "TrashTalk",                   ["sport","basket","nba","humour"]),
 ]
 
 # --- Requetes de decouverte YouTube (pool large, rotation par run) ------------
