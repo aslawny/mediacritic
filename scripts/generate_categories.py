@@ -28,6 +28,19 @@ _model = subprocess.run(
 ).stdout
 CSS = re.search(r"<style>.*?</style>", _model, re.DOTALL).group(0)
 
+BURGER_BTN = ('<button class="nav-burger" aria-label="Ouvrir le menu" aria-expanded="false" '
+              'onclick="var l=document.querySelector(\'.nav-links\');l.classList.toggle(\'open\');'
+              'this.setAttribute(\'aria-expanded\',l.classList.contains(\'open\'));">☰</button>')
+
+BURGER_CSS = """<style>/* mc-burger : menu mobile */
+.nav-burger{display:none;background:none;border:1px solid rgba(255,255,255,.15);color:inherit;font-size:1.05rem;line-height:1;padding:6px 11px;border-radius:8px;cursor:pointer}
+@media(max-width:640px){
+.nav-burger{display:block}
+.nav-links{display:none;position:absolute;top:100%;left:0;right:0;background:rgba(6,11,20,.98);backdrop-filter:blur(20px);border-bottom:1px solid rgba(255,255,255,.08);flex-direction:column;align-items:stretch;padding:10px 16px 14px;gap:4px;z-index:400}
+.nav-links.open{display:flex}
+.nav-links a{padding:10px 12px;font-size:.92rem}
+}</style>"""
+
 def h(s):
     return html.escape(str(s or ""), quote=True)
 
@@ -213,14 +226,17 @@ def build_page(cfg, catalog):
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Syne:wght@600;700;800&display=swap" rel="stylesheet" />
 {CSS}
+{BURGER_CSS}
 <script async src="https://www.googletagmanager.com/gtag/js?id={GA}"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments);}}gtag("js",new Date());gtag("config","{GA}");</script>
 </head>
 <body>
 <nav>
 <a href="../" class="nav-logo"><img src="../assets/logo.png" alt="MediaCritic" /><span>MediaCritic</span></a>
+{BURGER_BTN}
 <div class="nav-links">
 <a href="../">Catalogue</a>
+<a href="../palmares.html">Palmarès</a>
 <a href="../qui-sommes-nous.html">Qui sommes-nous</a>
 <a href="../contact.html">Contact</a>
 </div>

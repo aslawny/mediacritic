@@ -362,9 +362,7 @@ def render_fiche(data):
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Syne:wght@700;800&display=swap" rel="stylesheet" />
-  <style>
-{CSS_BLOCK}
-</style>
+  <link rel="stylesheet" href="../assets/fiche.css" />
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-3W2VTTEWG8"></script>
   <script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments);}}gtag('js',new Date());gtag('config','G-3W2VTTEWG8');</script>
 </head>
@@ -450,6 +448,19 @@ def update_catalog(all_data):
         json.dump(catalog, f, ensure_ascii=False, separators=(",", ":"))
     print(f"  catalog.json → {len(catalog)} entrées")
 
+    # catalog-lite.json : sous-ensemble prioritaire chargé en premier par la
+    # home (perf mobile). Contenus MC d'abord, puis les mieux notés/suivis.
+    mc_items = [c for c in catalog if c["hasMediacritic"]]
+    others = sorted(
+        (c for c in catalog if not c["hasMediacritic"]),
+        key=lambda c: (c.get("rating") or 0, c.get("subscribers") or 0),
+        reverse=True,
+    )
+    lite = mc_items + others[: max(0, 300 - len(mc_items))]
+    with open(CATALOG.with_name("catalog-lite.json"), "w", encoding="utf-8") as f:
+        json.dump(lite, f, ensure_ascii=False, separators=(",", ":"))
+    print(f"  catalog-lite.json → {len(lite)} entrées")
+
 
 def update_sitemap(slugs):
     today_str = date.today().isoformat()
@@ -507,6 +518,13 @@ def main():
     if not json_files:
         print("Aucun fichier JSON trouvé dans data/content/")
         return
+
+    # CSS partagé des fiches (externe : mis en cache par le navigateur,
+    # au lieu d'être dupliqué inline dans chaque fiche)
+    css_path = ROOT / "assets" / "fiche.css"
+    if not css_path.exists() or css_path.read_text(encoding="utf-8") != CSS_BLOCK:
+        css_path.write_text(CSS_BLOCK, encoding="utf-8")
+        print("  assets/fiche.css mis à jour")
 
     generated = 0
     skipped = 0

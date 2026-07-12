@@ -274,6 +274,14 @@
     .footer-socials svg { width:16px; height:16px; }
     .footer-copy { font-size:.72rem; color:var(--c-muted2); }
   </style>
+<style>/* mc-burger : menu mobile */
+.nav-burger{display:none;background:none;border:1px solid rgba(255,255,255,.15);color:inherit;font-size:1.05rem;line-height:1;padding:6px 11px;border-radius:8px;cursor:pointer}
+@media(max-width:640px){
+.nav-burger{display:block}
+.nav-links{display:none;position:absolute;top:100%;left:0;right:0;background:rgba(6,11,20,.98);backdrop-filter:blur(20px);border-bottom:1px solid rgba(255,255,255,.08);flex-direction:column;align-items:stretch;padding:10px 16px 14px;gap:4px;z-index:400}
+.nav-links.open{display:flex}
+.nav-links a{padding:10px 12px;font-size:.92rem}
+}</style>
 </head>
 <body>
 
@@ -284,7 +292,8 @@
     <span>MediaCritic</span>
   </a>
   <div class="nav-center">
-    <div class="nav-links">
+    <button class="nav-burger" aria-label="Ouvrir le menu" aria-expanded="false" onclick="var l=document.querySelector('.nav-links');l.classList.toggle('open');this.setAttribute('aria-expanded',l.classList.contains('open'));">☰</button>
+<div class="nav-links">
       <a href="/" class="active">Catalogue</a>
       <a href="palmares.html">🏆 Palmarès</a>
       <a href="qui-sommes-nous.html">Qui sommes-nous</a>
@@ -751,17 +760,29 @@
   const urlQ=new URLSearchParams(location.search).get('q');
   if(urlQ){searchInput.value=urlQ;searchTerm=urlQ.trim();}
 
-  fetch('data/catalog.json').then(r=>{
-    const lm=r.headers.get('Last-Modified');
-    if(lm){const d=new Date(lm);if(!isNaN(d)){const dd=String(d.getDate()).padStart(2,'0'),mm=String(d.getMonth()+1).padStart(2,'0'),yy=String(d.getFullYear()).slice(-2),hh=String(d.getHours()).padStart(2,'0'),mn=String(d.getMinutes()).padStart(2,'0'),txt='↻ '+dd+'/'+mm+'/'+yy+' '+hh+'h'+mn;['nav-updated','footer-updated'].forEach(id=>{const el=document.getElementById(id);if(el)el.textContent=txt;});}}
-    return r.json();
-  }).then(data=>{
+  // Hydratation : d'abord catalog-lite.json (léger, rendu immédiat),
+  // puis le catalogue complet en différé (interaction ou idle).
+  function hydrate(data,isFull){
     catalog=data;
-    try{document.getElementById('stat-total').textContent=data.length.toLocaleString();}catch(e){}
+    if(isFull){try{document.getElementById('stat-total').textContent=data.length.toLocaleString();}catch(e){}}
     try{fuse=new Fuse(catalog,{keys:[{name:'title',weight:.5},{name:'author',weight:.2},{name:'categories',weight:.2},{name:'description',weight:.1}],threshold:.35,includeScore:true,minMatchCharLength:2});}catch(e){fuse=null;}
     try{const allCats=new Set();data.forEach(i=>(i.categories||[]).forEach(c=>allCats.add(c)));buildFilters(allCats);}catch(e){}
     applyFilters();
-  }).catch(()=>{if(!catalog.length){grid.innerHTML='<p style="color:var(--c-muted);text-align:center;padding:40px;grid-column:1/-1">Erreur de chargement.</p>';}else{try{applyFilters();}catch(e){}}});
+  }
+  let fullLoaded=false,fullLoading=false;
+  function loadFull(){
+    if(fullLoaded||fullLoading)return;
+    fullLoading=true;
+    fetch('data/catalog.json').then(r=>r.json()).then(data=>{fullLoaded=true;hydrate(data,true);}).catch(()=>{fullLoading=false;});
+  }
+  ['pointerdown','keydown','scroll'].forEach(ev=>window.addEventListener(ev,loadFull,{once:true,passive:true}));
+  setTimeout(loadFull,4000);
+  fetch('data/catalog-lite.json').then(r=>{
+    const lm=r.headers.get('Last-Modified');
+    if(lm){const d=new Date(lm);if(!isNaN(d)){const dd=String(d.getDate()).padStart(2,'0'),mm=String(d.getMonth()+1).padStart(2,'0'),yy=String(d.getFullYear()).slice(-2),hh=String(d.getHours()).padStart(2,'0'),mn=String(d.getMinutes()).padStart(2,'0'),txt='↻ '+dd+'/'+mm+'/'+yy+' '+hh+'h'+mn;['nav-updated','footer-updated'].forEach(id=>{const el=document.getElementById(id);if(el)el.textContent=txt;});}}
+    if(!r.ok)throw new Error('lite absent');
+    return r.json();
+  }).then(data=>{if(!fullLoaded)hydrate(data,false);}).catch(()=>{loadFull();if(!catalog.length){grid.innerHTML='<p style="color:var(--c-muted);text-align:center;padding:40px;grid-column:1/-1">Chargement du catalogue…</p>';}});
 })();
 </script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-3W2VTTEWG8"></script>
