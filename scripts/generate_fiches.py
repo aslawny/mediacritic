@@ -65,6 +65,18 @@ def load_blocklist():
 
 BLOCKLIST = load_blocklist()
 
+# Notes MediaCritic par numéro d'épisode (note /10 + verdict)
+def load_mc_reviews():
+    p = ROOT / "data" / "mc_reviews.json"
+    if p.exists():
+        try:
+            return json.loads(p.read_text(encoding="utf-8"))
+        except json.JSONDecodeError:
+            pass
+    return {}
+
+MC_REVIEWS = load_mc_reviews()
+
 # ─── CSS bloc (extrait de braincast.html) ─────────────────────────────────────
 CSS_BLOCK = """\
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
@@ -228,6 +240,7 @@ def render_fiche(data):
 
     # MC block
     mc_block = ""
+    mc_review_ld = ""
     if mediacritic:
         ep_num = mediacritic.get("episodeNumber") or mediacritic.get("ep") or ""
         # URL de l'analyse : supporte analyseUrl/url (absolue) ou episodeSlug
@@ -236,9 +249,36 @@ def render_fiche(data):
             href = analyse_url.replace("https://www.mediacritic.fr", "")
         else:
             href = f"/episodes/{mediacritic.get('episodeSlug', slug)}.html"
+        # Note MediaCritic (data/mc_reviews.json, clé = numéro d'épisode)
+        review = MC_REVIEWS.get(str(ep_num), {})
+        note_html = ""
+        if review.get("note") is not None:
+            note_str = str(review["note"]).replace(".", ",").replace(",0", "")
+            note_html = (
+                '\n  <div style="display:flex;align-items:center;gap:18px;margin-bottom:14px;">'
+                f'<div style="font-family:\'Syne\',sans-serif;font-size:2.2rem;font-weight:800;line-height:1;'
+                'background:linear-gradient(90deg,#e8622d,#f5a623);-webkit-background-clip:text;'
+                f'-webkit-text-fill-color:transparent;white-space:nowrap;">{note_str}<span style="font-size:1rem;">/10</span></div>'
+                f'<p style="color:var(--c-muted2);font-size:.9rem;line-height:1.6;font-style:italic;">{h(review.get("verdict",""))}</p>'
+                "</div>"
+            )
+            review_data = {
+                "@context": "https://schema.org",
+                "@type": "Review",
+                "itemReviewed": {"@type": "PodcastSeries", "name": title,
+                                 "url": f"{BASE_URL}/fiches/{slug}.html"},
+                "reviewRating": {"@type": "Rating", "ratingValue": review["note"],
+                                 "bestRating": 10, "worstRating": 0},
+                "author": {"@type": "Organization", "name": "MediaCritic", "url": BASE_URL + "/"},
+                "publisher": {"@type": "Organization", "name": "MediaCritic"},
+                "reviewBody": review.get("verdict", ""),
+                "inLanguage": "fr",
+            }
+            mc_review_ld = ('\n  <script type="application/ld+json">'
+                            + json.dumps(review_data, ensure_ascii=False) + "</script>")
         mc_block = f"""
   <div class="mc-block">
-  <h2>✦ L'avis MediaCritic — Épisode {ep_num}</h2>
+  <h2>✦ L'avis MediaCritic — Épisode {ep_num}</h2>{note_html}
   <p>Alex, Lolo et leurs invité·e·s ont analysé <strong>{h(title)}</strong> dans l'épisode&nbsp;{ep_num} de MediaCritic. Fond, forme, intentions — le verdict complet est disponible en écoute libre.</p>
   <div style="margin-top:16px"><a href="{h(href)}" class="btn btn-mc">📖 Lire l'analyse complète</a></div>
 </div>
@@ -318,7 +358,7 @@ def render_fiche(data):
   <meta name="twitter:image" content="{h(image) if image else BASE_URL + '/assets/banner.png'}" />
 
   <script type="application/ld+json">{json.dumps(schema, ensure_ascii=False)}</script>
-  <script type="application/ld+json">{json.dumps(breadcrumb_schema, ensure_ascii=False)}</script>
+  <script type="application/ld+json">{json.dumps(breadcrumb_schema, ensure_ascii=False)}</script>{mc_review_ld}
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Syne:wght@700;800&display=swap" rel="stylesheet" />
