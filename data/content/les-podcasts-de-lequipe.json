@@ -1,0 +1,28 @@
+{
+  "slug": "les-podcasts-de-lequipe",
+  "title": "Les podcasts de L'Équipe",
+  "author": "L'Équipe",
+  "type": "podcast",
+  "categories": [
+    "sport",
+    "football",
+    "basket"
+  ],
+  "description": "Le catalogue de 50 podcasts du quotidien sportif de référence : NBA (Step Back), football européen (Big 5), jeunes talents (L'Avenir leur appartient), cyclisme, F1, esport… Des dizaines de formats produits par des journalistes qui ont fait de l'analyse leur marque de fabrique.",
+  "image": "https://www.mediacritic.fr/assets/lequipe-logo.png",
+  "language": "fr",
+  "platforms": {
+    "web": {
+      "url": "https://www.lequipe.fr/Podcast/"
+    }
+  },
+  "mediacritic": {"ep": 29, "url": "https://www.mediacritic.fr/episodes/les-podcasts-de-lequipe.html"},
+  "tags": [
+    "sport",
+    "football",
+    "basket",
+    "nba"
+  ],
+  "addedAt": "2026-05-24",
+  "updatedAt": "2026-07-18"
+}

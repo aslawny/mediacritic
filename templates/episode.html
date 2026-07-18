@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MediaCritic Ép. __EP__ — __TITLE__ | __TAGLINE__</title>
+  <meta name="description" content="__META_DESC__" />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://www.mediacritic.fr/episodes/__PAGE__" />
+  <link rel="icon" href="../assets/logo.png" type="image/png" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://www.mediacritic.fr/episodes/__PAGE__" />
+  <meta property="og:title" content="MediaCritic analyse __TITLE__" />
+  <meta property="og:description" content="__META_DESC__" />
+  <meta property="og:image" content="__COVER__" />
+  <meta property="og:site_name" content="MediaCritic" />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "PodcastEpisode",
+    "episodeNumber": __EP__,
+    "name": "__TITLE__",
+    "description": "__META_DESC__",
+    "url": "https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV",
+    "partOfSeries": {"@type":"PodcastSeries","name":"MediaCritic","url":"https://www.mediacritic.fr/"},
+    "author": [__AUTHORS_LD__]
+  }
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Syne:wght@700;800&display=swap" rel="stylesheet" />
+  <style>
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    :root{--c-bg:#060b14;--c-bg2:#091220;--c-glass:rgba(255,255,255,.04);--c-border:rgba(255,255,255,.06);--c-border2:rgba(255,255,255,.10);--c-orange:#e8622d;--c-gold:#f5a623;--c-text:#f0e8d8;--c-muted:#7d93b0;--c-muted2:#a8bcd4}
+    body{font-family:'Inter',sans-serif;background:var(--c-bg);color:var(--c-text);line-height:1.7;min-height:100vh}
+    a{color:inherit;text-decoration:none}
+    body::before{content:'';position:fixed;inset:0;z-index:0;pointer-events:none;background:radial-gradient(ellipse 80% 50% at 20% -10%,rgba(232,98,45,.10) 0%,transparent 60%),radial-gradient(ellipse 60% 40% at 80% 10%,rgba(245,166,35,.06) 0%,transparent 55%)}
+    *{position:relative;z-index:1}
+    nav{position:sticky;top:0;z-index:100;background:rgba(6,11,20,.92);border-bottom:1px solid var(--c-border);backdrop-filter:blur(20px);padding:0 32px;display:flex;align-items:center;justify-content:space-between;height:64px}
+    .nav-left{display:flex;align-items:center;gap:16px}
+    .nav-back{color:var(--c-muted);font-size:.875rem;font-weight:500;display:flex;align-items:center;gap:6px;transition:color .2s}
+    .nav-back:hover{color:var(--c-orange)}
+    .nav-brand{font-family:'Syne',sans-serif;font-weight:800;font-size:1.05rem;background:linear-gradient(90deg,#e8622d,#f5a623);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+    .nav-ep{font-size:.78rem;color:var(--c-muted);font-weight:500}
+    .container{max-width:800px;margin:0 auto;padding:60px 24px 80px}
+    .ep-header{display:flex;gap:28px;align-items:flex-start;margin-bottom:40px}
+    .ep-cover-lg{width:140px;height:140px;flex-shrink:0;border-radius:16px;overflow:hidden;box-shadow:0 8px 32px rgba(0,0,0,.5)}
+    .ep-cover-lg img{width:100%;height:100%;object-fit:cover;display:block}
+    .ep-cover-ph-lg{width:100%;height:100%;display:flex;align-items:center;justify-content:center;font-size:2rem;font-weight:800;font-family:'Syne',sans-serif;color:rgba(255,255,255,.55);background:linear-gradient(135deg,#1a2a3a,#0d1a28)}
+    .ep-meta{flex:1}
+    .ep-breadcrumb{font-size:.75rem;color:var(--c-muted);margin-bottom:10px}
+    .ep-breadcrumb a{color:var(--c-orange)}
+    .ep-num-badge{display:inline-block;font-size:.72rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--c-orange);background:rgba(232,98,45,.1);border:1px solid rgba(232,98,45,.25);padding:3px 12px;border-radius:99px;margin-bottom:12px}
+    .ep-new-badge{display:inline-block;font-size:.68rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--c-gold);background:rgba(245,166,35,.12);border:1px solid rgba(245,166,35,.3);padding:3px 10px;border-radius:99px;margin-left:8px}
+    h1{font-family:'Syne',sans-serif;font-size:clamp(1.6rem,4vw,2.4rem);font-weight:800;line-height:1.18;margin-bottom:10px}
+    .ep-type{font-size:.8rem;color:var(--c-muted);margin-bottom:6px}
+    .ep-hosts{font-size:.82rem;color:var(--c-muted2)}
+    .ep-hosts strong{color:var(--c-text)}
+    .ep-actions-row{display:flex;gap:10px;flex-wrap:wrap;margin-top:20px}
+    .ep-btn{display:inline-flex;align-items:center;gap:8px;padding:10px 20px;border-radius:99px;font-size:.85rem;font-weight:600;border:1px solid transparent;transition:transform .18s,opacity .18s}
+    .ep-btn:hover{transform:translateY(-2px);opacity:.85}
+    .ep-btn-podcast{background:rgba(255,255,255,.06);color:var(--c-muted2);border-color:var(--c-border2)}
+    .ep-btn-episode{background:linear-gradient(135deg,var(--c-orange),var(--c-gold));color:#fff;box-shadow:0 4px 16px rgba(232,98,45,.3)}
+    .card{padding:28px 32px;border-radius:16px;background:var(--c-glass);border:1px solid var(--c-border);margin-bottom:20px}
+    .card h2{font-family:'Syne',sans-serif;font-size:1rem;font-weight:700;color:var(--c-orange);margin-bottom:14px;padding-bottom:10px;border-bottom:1px solid var(--c-border)}
+    .card p{color:var(--c-muted2);font-size:.925rem;line-height:1.75}
+    .card p+p{margin-top:12px}
+    .trait-list{list-style:none;margin-top:16px;display:flex;flex-direction:column;gap:12px}
+    .trait-list li{background:rgba(255,255,255,.03);border:1px solid var(--c-border);border-radius:10px;padding:14px 18px}
+    .trait-list li strong{color:var(--c-text);font-size:.95rem}
+    .trait-list li p{color:var(--c-muted2);font-size:.87rem;line-height:1.6;margin-top:4px}
+    .highlight-box{background:rgba(245,166,35,.06);border:1px solid rgba(245,166,35,.2);border-radius:12px;padding:16px 20px;margin-top:16px}
+    .highlight-box p{color:var(--c-gold);font-size:.88rem;font-style:italic}
+    .nav-episodes{display:flex;gap:12px;justify-content:space-between;margin-top:40px}
+    .nav-ep-btn{flex:1;padding:14px 18px;border-radius:12px;background:var(--c-glass);border:1px solid var(--c-border);font-size:.82rem;color:var(--c-muted2);transition:border-color .2s,color .2s;display:flex;flex-direction:column;gap:4px}
+    .nav-ep-btn:hover{border-color:var(--c-border2);color:var(--c-text)}
+    .nav-ep-btn span{font-size:.7rem;color:var(--c-muted)}
+    .nav-ep-btn.next{text-align:right}
+    footer{text-align:center;padding:24px;border-top:1px solid var(--c-border);color:var(--c-muted);font-size:.8rem}
+    footer a{color:var(--c-muted);transition:color .2s}
+    footer a:hover{color:var(--c-orange)}
+    @media(max-width:600px){.ep-header{flex-direction:column}.ep-cover-lg{width:100%;height:200px}}
+  </style>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-3W2VTTEWG8"></script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-3W2VTTEWG8');</script>
+</head>
+<body>
+<nav>
+  <div class="nav-left">
+    <a href="../" class="nav-back">← Accueil</a>
+    <span class="nav-brand">MediaCritic</span>
+  </div>
+  <span class="nav-ep">Épisode __EP__</span>
+</nav>
+
+<div class="container">
+  <div class="ep-header">
+    <div class="ep-cover-lg">
+      <img src="__COVER__" alt="__TITLE__" loading="lazy" onerror="this.parentElement.innerHTML='<div class=ep-cover-ph-lg>__INITIALS__</div>'">
+    </div>
+    <div class="ep-meta">
+      <div class="ep-breadcrumb"><a href="../">MediaCritic</a> › Saison 1 › Épisode __EP__</div>
+      <div class="ep-num-badge">Épisode __EP__ — Saison 1</div><span class="ep-new-badge">✨ Nouveau</span>
+      <h1>__TITLE__</h1>
+      <div class="ep-type">__TYPE_LINE__</div>
+      <div class="ep-hosts">__HOSTS_LINE__</div>
+      <div class="ep-actions-row">
+        __BUTTONS__
+        <a href="https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV" target="_blank" rel="noopener noreferrer" class="ep-btn ep-btn-episode">🎧 Écouter notre épisode</a>
+      </div>
+    </div>
+  </div>
+
+__CONTENT_CARDS__
+
+  <div class="card">
+    <h2>📻 MediaCritic, c'est quoi ?</h2>
+    <p>MediaCritic est le podcast francophone indépendant qui analyse, critique et note des podcasts, émissions et chaînes YouTube. Chaque semaine, Alex et Lolo (et parfois leurs invité·e·s) décortiquent un média comme on analyserait un film — avec méthode, passion et humour. Retrouvez toutes nos notes au <a href="../palmares.html" style="color:var(--c-orange)">Palmarès</a>. Disponible sur Spotify, Deezer, Apple Podcasts et YouTube.</p>
+  </div>
+
+  <nav class="nav-episodes">
+    <a href="__PREV_PAGE__" class="nav-ep-btn prev"><span>← Précédent</span>Ép. __PREV_EP__ — __PREV_TITLE__</a>
+  </nav>
+</div>
+
+<footer>
+  <p>© 2026 <a href="../">MediaCritic</a> — <a href="../mentions-legales.html">Mentions légales</a> — <a href="mailto:mediacriticinc@gmail.com">mediacriticinc@gmail.com</a></p>
+</footer>
+</body>
+</html>
