@@ -1,38 +1,261 @@
 {
-  "1":  {"slug": "la-5e-de-couv",                 "page": "la-5e-de-couv.html",                 "title": "La 5e de Couv'",                  "note": 7.5, "verdict": "Une plongée exigeante dans la BD, portée par une vraie qualité d'écriture — la niche assumée jusqu'au bout."},
-  "2":  {"slug": "lesprit-critique",              "page": "lesprit-critique.html",              "title": "L'Esprit Critique",               "note": 8,   "verdict": "La zététique en podcast, méthodique et nécessaire — une autorité qui se construit épisode après épisode."},
-  "3":  {"slug": "hardisk-stories",               "page": "hardisk-stories.html",               "title": "Hardisk Stories",                 "note": 8,   "verdict": "Des histoires vraies transformées en récits quasi cinématographiques — ça accroche dès la première minute."},
-  "4":  {"slug": "le-podcast-du-weekend",         "page": "le-podcast-du-weekend.html",         "title": "Le Podcast du Weekend",           "note": 7.5, "verdict": "Trois minutes chaque samedi qui donnent envie d'écouter ce qu'on n'aurait jamais découvert seul."},
-  "5":  {"slug": "la-story-des-echos",            "page": "la-story-des-echos.html",            "title": "La Story des Échos",              "note": 8,   "verdict": "L'actu économique analysée avec rigueur et clarté — comprendre sans jargon, chaque jour."},
-  "6":  {"slug": "blockbusters",                  "page": "blockbusters.html",                  "title": "Blockbusters",                    "note": 8.5, "verdict": "La culture populaire décortiquée avec intelligence, des blockbusters à Victor Hugo — brillant."},
-  "7":  {"slug": "le-rendez-vous-tech",           "page": "le-rendez-vous-tech.html",           "title": "Le Rendez-vous Tech",             "note": 8,   "verdict": "La tech remise en contexte avec rigueur et équilibre, loin du simple relais d'annonces."},
-  "8":  {"slug": "braincast",                     "page": "braincast.html",                     "title": "Braincast",                       "note": 8,   "verdict": "Les neurosciences vulgarisées avec sérieux et accessibilité — comprendre son cerveau, enfin."},
-  "9":  {"slug": "fin-du-game",                   "page": "fin-du-game.html",                   "title": "Fin du Game",                     "note": 9,   "verdict": "Le podcast qui prend le jeu vidéo au sérieux : sens, histoire, impact culturel. Une référence."},
-  "10": {"slug": "floodcast",                     "page": "floodcast.html",                     "title": "Floodcast",                       "note": 8.5, "verdict": "De l'humour sincère et générationnel enregistré avec des bouts de ficelle — et le charme opère."},
-  "11": {"slug": "emotions",                      "page": "emotions.html",                      "title": "Émotions",                        "note": 8.5, "verdict": "Immersif, intime, troublant de justesse : une vraie introspection en quelques dizaines de minutes."},
-  "12": {"slug": "safepace",                      "page": "safepace.html",                      "title": "SafePace",                        "note": 7.5, "verdict": "L'endurance racontée par ceux qui la vivent — un rendez-vous solide pour les passionnés d'effort."},
-  "13": {"slug": "entrez-dans-lhistoire",         "page": "entrez-dans-lhistoire.html",         "title": "Entrez dans l'Histoire",          "note": 8.5, "verdict": "L'Histoire racontée comme une fiction, de Churchill à Solitude — captivant de bout en bout."},
-  "14": {"slug": "seldell",                       "page": "seldell.html",                       "title": "Seldell",                         "note": 8.5, "verdict": "La référence absolue du jeu indé francophone : une veille passionnée que personne d'autre ne fait."},
-  "15": {"slug": "passion-renovation",            "page": "passion-renovation.html",            "title": "Passion Rénovation",              "note": 7.5, "verdict": "Une rénovation documentée avec sincérité et méthode — le projet perso qui inspire des milliers d'amateurs."},
-  "16": {"slug": "chef-otaku",                    "page": "chef-otaku.html",                    "title": "Chef Otaku",                      "note": 8,   "verdict": "La chaîne fondatrice de la vulgarisation manga en France — un apport immense à la culture francophone."},
-  "17": {"slug": "lheure-du-crime",               "page": "lheure-du-crime.html",               "title": "L'Heure du Crime",                "note": 8.5, "verdict": "Le true crime sans sensationnalisme : rigoureux, respectueux, addictif."},
-  "18": {"slug": "on-va-deguster",                "page": "on-va-deguster.html",                "title": "On va déguster",                  "note": 8.5, "verdict": "La cuisine replacée dans l'histoire et la société — l'érudition gourmande de Gaudry fait mouche."},
-  "19": {"slug": "silicon-carne",                 "page": "silicon-carne.html",                 "title": "Silicon Carne",                   "note": 8,   "verdict": "Le contrepoint critique à la mythologie de la Silicon Valley : incarné, constant, nécessaire."},
-  "20": {"slug": "extraterrien",                  "page": "extraterrien.html",                  "title": "Extraterrien",                    "note": 8,   "verdict": "Le dépassement de soi sans stats ni tactique : uniquement l'état d'esprit des sportifs de l'extrême."},
-  "21": {"slug": "lafter-foot",                   "page": "lafter-foot.html",                   "title": "L'After Foot",                    "note": 8.5, "verdict": "Le pionnier du débat sportif français : une école entière de journalisme… avec ses excès assumés."},
-  "22": {"slug": "notabene",                      "page": "notabene.html",                      "title": "NotaBene",                        "note": 9,   "verdict": "Monument de la vulgarisation historique : sérieux sans être austère, original sans se forcer."},
-  "23": {"slug": "re-take",                       "page": "re-take.html",                       "title": "Re-Take",                         "note": 8,   "verdict": "Un OVNI à la croisée de l'animation, du doublage et de la parodie — singulier et exécuté avec talent."},
-  "24": {"slug": "cest-plus-complique-que-ca",    "page": "cest-plus-complique-que-ca.html",    "title": "C'est plus compliqué que ça",     "note": 8,   "verdict": "Des arguments solides pour comprendre pourquoi les légendes trop simples sont fausses — salutaire."},
-  "25": {"slug": "le-joueur-du-grenier",          "page": "le-joueur-du-grenier.html",          "title": "Le Joueur du Grenier",            "note": 9,   "verdict": "Le doudou générationnel du gaming français : une chaîne qui a grandi avec sa communauté sans se trahir."},
-  "26": {"slug": "quelle-histoire",               "page": "quelle-histoire.html",               "title": "Quelle Histoire",                 "note": 8.5, "verdict": "L'Histoire pour enfants si bien racontée qu'on jalouse les enfants."},
-  "27": {"slug": "ifttd-if-this-then-dev",        "page": "ifttd-if-this-then-dev.html",        "title": "IFTTD – If This Then Dev",        "note": 8.5, "verdict": "Le podcast dev préféré de ceux qui jurent ne plus avoir le temps d'écouter des podcasts."},
-  "28": {"slug": "2-heures-de-perdues",           "page": "2-heures-de-perdues.html",           "title": "2 Heures de Perdues",             "note": 8,   "verdict": "Le podcast zombie par excellence : terminé, mais immortel — comme les nanars qu'il critiquait."},
-  "29": {"slug": "les-podcasts-de-lequipe",       "page": "les-podcasts-de-lequipe.html",       "title": "Les podcasts de L'Équipe",        "note": 7.5, "verdict": "Sur 50 formats, la qualité est inégale — mais Step Back, Big 5 et L'Avenir leur appartient sont excellents."},
-  "30": {"slug": "le-grand-recit",                "page": "le-grand-recit.html",                "title": "Le Grand Récit",                  "note": 9,   "verdict": "Une voix, une histoire : Dussollier transforme le récit radiophonique en confidence. Magistral."},
-  "31": {"slug": "bouletcorp",                    "page": "bouletcorp.html",                    "title": "BouletCorp",                      "note": 8.5, "verdict": "Un journal de création en direct, drôle et lucide — l'improvisation totale comme mise en danger publique."},
-  "32": {"slug": "les-veilleurs-au-rempart",      "page": "les-veilleurs-au-rempart.html",      "title": "Les Veilleurs au Rempart",        "note": 7.5, "verdict": "Amateur dans la production, expert dans le fond : la passion structurée d'une vraie communauté."},
-  "33": {"slug": "kombo",                         "page": "kombo.html",                         "title": "Kombo",                           "note": 8,   "verdict": "Pertinent, clivant, mystérieux — le fantôme le plus cohérent de YouTube gaming."},
-  "34": {"slug": "laurent-baffie",                "page": "coloscopie.html",                    "title": "Coloscopie",                      "note": 8,   "verdict": "Baffie en grand interviewer : l'humour sans en abuser, et de vrais morceaux d'émotion."},
-  "35": {"slug": "les-nuits-du-cazarre-enchaine", "page": "les-nuits-du-cazarre-enchaine.html", "title": "Les Nuits du Cazarre enchaîné",   "note": 8.5, "verdict": "Du comique en temps réel, imprévisible et baroque — le bar d'après-match dont on rêvait."},
-  "36": {"slug": "trashtalk",                     "page": "trashtalk.html",                     "title": "TrashTalk",                       "note": 9,   "verdict": "La référence NBA francophone : une tribu qui remplit le Grand Rex à 2h du matin."}
+  "1": {
+    "slug": "la-5e-de-couv",
+    "page": "la-5e-de-couv.html",
+    "title": "La 5e de Couv'",
+    "note": 7.5,
+    "verdict": "Une plongée exigeante dans la BD, portée par une vraie qualité d'écriture — la niche assumée jusqu'au bout."
+  },
+  "2": {
+    "slug": "lesprit-critique",
+    "page": "lesprit-critique.html",
+    "title": "L'Esprit Critique",
+    "note": 8,
+    "verdict": "La zététique en podcast, méthodique et nécessaire — une autorité qui se construit épisode après épisode."
+  },
+  "3": {
+    "slug": "hardisk-stories",
+    "page": "hardisk-stories.html",
+    "title": "Hardisk Stories",
+    "note": 8,
+    "verdict": "Des histoires vraies transformées en récits quasi cinématographiques — ça accroche dès la première minute."
+  },
+  "4": {
+    "slug": "le-podcast-du-weekend",
+    "page": "le-podcast-du-weekend.html",
+    "title": "Le Podcast du Weekend",
+    "note": 7.5,
+    "verdict": "Trois minutes chaque samedi qui donnent envie d'écouter ce qu'on n'aurait jamais découvert seul."
+  },
+  "5": {
+    "slug": "la-story-des-echos",
+    "page": "la-story-des-echos.html",
+    "title": "La Story des Échos",
+    "note": 8,
+    "verdict": "L'actu économique analysée avec rigueur et clarté — comprendre sans jargon, chaque jour."
+  },
+  "6": {
+    "slug": "blockbusters",
+    "page": "blockbusters.html",
+    "title": "Blockbusters",
+    "note": 8.5,
+    "verdict": "La culture populaire décortiquée avec intelligence, des blockbusters à Victor Hugo — brillant."
+  },
+  "7": {
+    "slug": "le-rendez-vous-tech",
+    "page": "le-rendez-vous-tech.html",
+    "title": "Le Rendez-vous Tech",
+    "note": 8,
+    "verdict": "La tech remise en contexte avec rigueur et équilibre, loin du simple relais d'annonces."
+  },
+  "8": {
+    "slug": "braincast",
+    "page": "braincast.html",
+    "title": "Braincast",
+    "note": 8,
+    "verdict": "Les neurosciences vulgarisées avec sérieux et accessibilité — comprendre son cerveau, enfin."
+  },
+  "9": {
+    "slug": "fin-du-game",
+    "page": "fin-du-game.html",
+    "title": "Fin du Game",
+    "note": 9,
+    "verdict": "Le podcast qui prend le jeu vidéo au sérieux : sens, histoire, impact culturel. Une référence."
+  },
+  "10": {
+    "slug": "floodcast",
+    "page": "floodcast.html",
+    "title": "Floodcast",
+    "note": 8.5,
+    "verdict": "De l'humour sincère et générationnel enregistré avec des bouts de ficelle — et le charme opère."
+  },
+  "11": {
+    "slug": "emotions",
+    "page": "emotions.html",
+    "title": "Émotions",
+    "note": 8.5,
+    "verdict": "Immersif, intime, troublant de justesse : une vraie introspection en quelques dizaines de minutes."
+  },
+  "12": {
+    "slug": "safepace",
+    "page": "safepace.html",
+    "title": "SafePace",
+    "note": 7.5,
+    "verdict": "L'endurance racontée par ceux qui la vivent — un rendez-vous solide pour les passionnés d'effort."
+  },
+  "13": {
+    "slug": "entrez-dans-lhistoire",
+    "page": "entrez-dans-lhistoire.html",
+    "title": "Entrez dans l'Histoire",
+    "note": 8.5,
+    "verdict": "L'Histoire racontée comme une fiction, de Churchill à Solitude — captivant de bout en bout."
+  },
+  "14": {
+    "slug": "seldell",
+    "page": "seldell.html",
+    "title": "Seldell",
+    "note": 8.5,
+    "verdict": "La référence absolue du jeu indé francophone : une veille passionnée que personne d'autre ne fait."
+  },
+  "15": {
+    "slug": "passion-renovation",
+    "page": "passion-renovation.html",
+    "title": "Passion Rénovation",
+    "note": 7.5,
+    "verdict": "Une rénovation documentée avec sincérité et méthode — le projet perso qui inspire des milliers d'amateurs."
+  },
+  "16": {
+    "slug": "chef-otaku",
+    "page": "chef-otaku.html",
+    "title": "Chef Otaku",
+    "note": 8,
+    "verdict": "La chaîne fondatrice de la vulgarisation manga en France — un apport immense à la culture francophone."
+  },
+  "17": {
+    "slug": "lheure-du-crime",
+    "page": "lheure-du-crime.html",
+    "title": "L'Heure du Crime",
+    "note": 8.5,
+    "verdict": "Le true crime sans sensationnalisme : rigoureux, respectueux, addictif."
+  },
+  "18": {
+    "slug": "on-va-deguster",
+    "page": "on-va-deguster.html",
+    "title": "On va déguster",
+    "note": 8.5,
+    "verdict": "La cuisine replacée dans l'histoire et la société — l'érudition gourmande de Gaudry fait mouche."
+  },
+  "19": {
+    "slug": "silicon-carne",
+    "page": "silicon-carne.html",
+    "title": "Silicon Carne",
+    "note": 8,
+    "verdict": "Le contrepoint critique à la mythologie de la Silicon Valley : incarné, constant, nécessaire."
+  },
+  "20": {
+    "slug": "extraterrien",
+    "page": "extraterrien.html",
+    "title": "Extraterrien",
+    "note": 8,
+    "verdict": "Le dépassement de soi sans stats ni tactique : uniquement l'état d'esprit des sportifs de l'extrême."
+  },
+  "21": {
+    "slug": "lafter-foot",
+    "page": "lafter-foot.html",
+    "title": "L'After Foot",
+    "note": 8.5,
+    "verdict": "Le pionnier du débat sportif français : une école entière de journalisme… avec ses excès assumés."
+  },
+  "22": {
+    "slug": "notabene",
+    "page": "notabene.html",
+    "title": "NotaBene",
+    "note": 9,
+    "verdict": "Monument de la vulgarisation historique : sérieux sans être austère, original sans se forcer."
+  },
+  "23": {
+    "slug": "re-take",
+    "page": "re-take.html",
+    "title": "Re-Take",
+    "note": 8,
+    "verdict": "Un OVNI à la croisée de l'animation, du doublage et de la parodie — singulier et exécuté avec talent."
+  },
+  "24": {
+    "slug": "cest-plus-complique-que-ca",
+    "page": "cest-plus-complique-que-ca.html",
+    "title": "C'est plus compliqué que ça",
+    "note": 8,
+    "verdict": "Des arguments solides pour comprendre pourquoi les légendes trop simples sont fausses — salutaire."
+  },
+  "25": {
+    "slug": "le-joueur-du-grenier",
+    "page": "le-joueur-du-grenier.html",
+    "title": "Le Joueur du Grenier",
+    "note": 9,
+    "verdict": "Le doudou générationnel du gaming français : une chaîne qui a grandi avec sa communauté sans se trahir."
+  },
+  "26": {
+    "slug": "quelle-histoire",
+    "page": "quelle-histoire.html",
+    "title": "Quelle Histoire",
+    "note": 8.5,
+    "verdict": "L'Histoire pour enfants si bien racontée qu'on jalouse les enfants."
+  },
+  "27": {
+    "slug": "ifttd-if-this-then-dev",
+    "page": "ifttd-if-this-then-dev.html",
+    "title": "IFTTD – If This Then Dev",
+    "note": 8.5,
+    "verdict": "Le podcast dev préféré de ceux qui jurent ne plus avoir le temps d'écouter des podcasts."
+  },
+  "28": {
+    "slug": "2-heures-de-perdues",
+    "page": "2-heures-de-perdues.html",
+    "title": "2 Heures de Perdues",
+    "note": 8,
+    "verdict": "Le podcast zombie par excellence : terminé, mais immortel — comme les nanars qu'il critiquait."
+  },
+  "29": {
+    "slug": "les-podcasts-de-lequipe",
+    "page": "les-podcasts-de-lequipe.html",
+    "title": "Les podcasts de L'Équipe",
+    "note": 7.5,
+    "verdict": "Sur 50 formats, la qualité est inégale — mais Step Back, Big 5 et L'Avenir leur appartient sont excellents."
+  },
+  "30": {
+    "slug": "le-grand-recit",
+    "page": "le-grand-recit.html",
+    "title": "Le Grand Récit",
+    "note": 9,
+    "verdict": "Une voix, une histoire : Dussollier transforme le récit radiophonique en confidence. Magistral."
+  },
+  "31": {
+    "slug": "bouletcorp",
+    "page": "bouletcorp.html",
+    "title": "BouletCorp",
+    "note": 8.5,
+    "verdict": "Un journal de création en direct, drôle et lucide — l'improvisation totale comme mise en danger publique."
+  },
+  "32": {
+    "slug": "les-veilleurs-au-rempart",
+    "page": "les-veilleurs-au-rempart.html",
+    "title": "Les Veilleurs au Rempart",
+    "note": 7.5,
+    "verdict": "Amateur dans la production, expert dans le fond : la passion structurée d'une vraie communauté."
+  },
+  "33": {
+    "slug": "kombo",
+    "page": "kombo.html",
+    "title": "Kombo",
+    "note": 8,
+    "verdict": "Pertinent, clivant, mystérieux — le fantôme le plus cohérent de YouTube gaming."
+  },
+  "34": {
+    "slug": "laurent-baffie",
+    "page": "coloscopie.html",
+    "title": "Coloscopie",
+    "note": 8,
+    "verdict": "Baffie en grand interviewer : l'humour sans en abuser, et de vrais morceaux d'émotion."
+  },
+  "35": {
+    "slug": "les-nuits-du-cazarre-enchaine",
+    "page": "les-nuits-du-cazarre-enchaine.html",
+    "title": "Les Nuits du Cazarre enchaîné",
+    "note": 8.5,
+    "verdict": "Du comique en temps réel, imprévisible et baroque — le bar d'après-match dont on rêvait."
+  },
+  "36": {
+    "slug": "trashtalk",
+    "page": "trashtalk.html",
+    "title": "TrashTalk",
+    "note": 9,
+    "verdict": "La référence NBA francophone : une tribu qui remplit le Grand Rex à 2h du matin."
+  },
+  "37": {
+    "slug": "l-entretien-geopolitique",
+    "page": "l-entretien-geopolitique.html",
+    "title": "L'Entretien géopolitique",
+    "note": 8.5,
+    "verdict": "Des questions posées par quelqu'un qui connaît son sujet, à des experts qui maîtrisent le leur — l'interview qui informe vraiment. Kazakhstan compris."
+  }
 }

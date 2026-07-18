@@ -1,0 +1,39 @@
+{
+  "ep": 37,
+  "slug": "l-entretien-geopolitique",
+  "page": "l-entretien-geopolitique.html",
+  "title": "L'Entretien géopolitique",
+  "tagline": "Le podcast des Échos qui fait comprendre le monde",
+  "meta_desc": "MediaCritic analyse L'Entretien géopolitique, le podcast des Échos animé par Christophe Jakubyszyn. 20 minutes, un expert, un sujet — rivalités entre puissances, ressources stratégiques, Kazakhstan compris. Le verdict complet.",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fd/e7/03/fde70357-4b98-715c-d802-95fb33e04813/mza_3038756984941292871.jpeg/600x600bb.jpg",
+  "initials": "EG",
+  "type_line": "Podcast · Géopolitique · Économie · Les Échos",
+  "hosts_line": "Animé par <strong>Alex · Lolo</strong>",
+  "authors": ["Alex", "Lolo"],
+  "buttons": [
+    {"href": "https://podcasts.apple.com/fr/podcast/lentretien-g%C3%A9opolitique/id1846372243?uo=4", "label": "🎙️ Le podcast"}
+  ],
+  "note": 8.5,
+  "verdict": "Des questions posées par quelqu'un qui connaît son sujet, à des experts qui maîtrisent le leur — l'interview qui informe vraiment. Kazakhstan compris.",
+  "content_file": "manifests/ep37-content.html",
+  "content": {
+    "slug": "l-entretien-geopolitique",
+    "title": "L'Entretien géopolitique",
+    "author": "Les Echos",
+    "type": "podcast",
+    "categories": ["geopolitique", "economie", "actualite", "international"],
+    "description": "Le podcast géopolitique des Échos animé par Christophe Jakubyszyn, directeur de la rédaction. Chaque semaine, un expert décortique un sujet d'actualité internationale — rivalités entre puissances, ressources stratégiques, tensions — en 20 à 25 minutes d'interview directe et documentée.",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fd/e7/03/fde70357-4b98-715c-d802-95fb33e04813/mza_3038756984941292871.jpeg/600x600bb.jpg",
+    "language": "fr",
+    "platforms": {
+      "apple": {
+        "url": "https://podcasts.apple.com/fr/podcast/lentretien-g%C3%A9opolitique/id1846372243?uo=4",
+        "trackId": 1846372243,
+        "rating": null,
+        "ratingCount": null,
+        "episodeCount": 36
+      }
+    },
+    "tags": ["geopolitique", "economie", "international", "interview"]
+  }
+}
