@@ -106,6 +106,26 @@ jobs:
             echo "generate_fiches.py absent — ignoré"
           fi
 
+      # 6bis. Régénération du palmarès (notes MediaCritic)
+      - name: Generate palmares
+        working-directory: site
+        run: |
+          if [ -f "scripts/generate_palmares.py" ]; then
+            python scripts/generate_palmares.py
+          else
+            echo "generate_palmares.py absent — ignoré"
+          fi
+
+      # 6ter. Validation avant push (JSON-LD, sitemap, compteurs, cohérence)
+      - name: Validate site
+        working-directory: site
+        run: |
+          if [ -f "scripts/ci_validate.py" ]; then
+            python scripts/ci_validate.py
+          else
+            echo "ci_validate.py absent — ignoré"
+          fi
+
       # 7. Vérification et mise à jour automatique du hash SRI de Fuse.js
       #    Si jsDelivr publie une nouvelle version de fuse.js@7, le hash est
       #    recalculé et index.html + catalogue.html sont mis à jour automatiquement.
