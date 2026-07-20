@@ -7,14 +7,16 @@
     "humour",
     "comedie"
   ],
-  "description": "Sketchs, humour et vlogs avec Natoo, l'une des YouTubeuses françaises les plus appréciées.",
-  "image": "https://yt3.googleusercontent.com/ytc/AIdro_msLVK6044zoB8MYTJVH-v5B2VgK23SVRt7UzxNFpYRcxGK=s800-c-k-c0x00ffffff-no-rj",
+  "description": "",
+  "image": "https://yt3.ggpht.com/ytc/AIdro_msLVK6044zoB8MYTJVH-v5B2VgK23SVRt7UzxNFpYRcxGK=s800-c-k-c0x00ffffff-no-rj",
   "language": "fr",
   "platforms": {
     "youtube": {
       "url": "https://www.youtube.com/@natoo",
-      "subscribers": 5800000,
-      "channelId": "UCrHnRHJF7HIXS3XKa2yqfMg"
+      "channelId": "UCpGYnA2UNuDrurDt3iCe3VA",
+      "subscribers": 12,
+      "totalViews": 0,
+      "videoCount": 0
     }
   },
   "mediacritic": null,
@@ -22,5 +24,5 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-05-25"
+  "updatedAt": "2026-07-20"
 }

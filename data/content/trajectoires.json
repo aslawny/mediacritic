@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/trajectoires/id6789862584?uo=2",
       "trackId": 6789862584,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": null
     }
   },
@@ -25,5 +25,5 @@
     "societe"
   ],
   "addedAt": "2026-07-12",
-  "updatedAt": "2026-07-12"
+  "updatedAt": "2026-07-20"
 }

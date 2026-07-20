@@ -7,13 +7,16 @@
     "humour",
     "gaming"
   ],
-  "description": "Humour et gaming avec GameMixTreize.",
-  "image": "https://yt3.googleusercontent.com/ytc/AIdro_lo4kzRLk0AA_e5KG4S7yt186oItCakfJM3izUwxMY=s800-c-k-c0x00ffffff-no-rj",
+  "description": "",
+  "image": "https://yt3.ggpht.com/ytc/AIdro_lo4kzRLk0AA_e5KG4S7yt186oItCakfJM3izUwxMY=s800-c-k-c0x00ffffff-no-rj",
   "language": "fr",
   "platforms": {
     "youtube": {
       "url": "https://www.youtube.com/@GamixTreize",
-      "subscribers": 3670000
+      "channelId": "UCJKTyuoZT5da0iCRgAueMCw",
+      "subscribers": 0,
+      "totalViews": 0,
+      "videoCount": 0
     }
   },
   "mediacritic": null,
@@ -21,5 +24,5 @@
     "humour",
     "gaming"
   ],
-  "updatedAt": "2026-05-25"
+  "updatedAt": "2026-07-20"
 }

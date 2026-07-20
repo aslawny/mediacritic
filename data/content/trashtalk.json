@@ -9,20 +9,25 @@
     "nba",
     "humour"
   ],
-  "description": "La référence NBA francophone depuis 2014 : Apéros TrashTalk, Top 100 all-time, Week Pass… Un écosystème complet (YouTube, podcast, Twitch, X, livres) porté par Bastien Fontanieu et Alexandre Martin — de l'analyse solide racontée avec chambrage, second degré et une communauté qui remplit le Grand Rex pour les playoffs.",
-  "image": "https://yt3.googleusercontent.com/ytc/AIdro_kklac4QXhZbInitsme7e2SA5UsioN23nte0SAA5I64nw=s800-c-k-c0x00ffffff-no-rj",
+  "description": "Des Apéros sur les plus grands sujets, des émissions sur l'histoire du basketball, des invités et des concepts originaux, bienvenue sur TrashTalkProduction ! Toute l'actualité de la NBA est à retrouver, chaque semaine, sur la chaîne YouTube de TrashTalk.\n\n❤️ RETROUVEZ TOUT L'UNIVERS DE TRASHTALK CI-DESSOUS ! ❤️\n\n💻 Site : http://trashtalk.co/​\n🎁 Shop en ligne : http://trashtalk.shop/​\n🏀 TrashTalk Fantasy League (TTFL) : http://fantasy.trashtalk.co​\n📘 Le plus grand Livre de Basketball de tous les temps (selon TrashTalk) : https://tidd.ly/34C1JDb​\n\n💯 Twitter : @TrashTalk_fr\n📸 Instagram : @trashtalk.co\n☕️ Twitch : https://twitch.tv/trashtalkfr​\n👨‍🦳 Facebook : https://www.facebook.com/trashtalk.fr/​\n🔫 Discord : https://discord.gg/VGmWrstKMq\n\nVOUS ÊTES D'ACCORD ? PAS D'ACCORD ? REAGISSEZ SUR TWITTER : \n\n➡️ Bastien : @TrashTalk_fr\n➡️ Alex : @ABallNeverLies\n➡️ Léonce : @LBallNeverLies\n",
+  "image": "https://yt3.ggpht.com/ytc/AIdro_kklac4QXhZbInitsme7e2SA5UsioN23nte0SAA5I64nw=s800-c-k-c0x00ffffff-no-rj",
   "language": "fr",
   "platforms": {
     "youtube": {
       "url": "https://www.youtube.com/@TrashTalkProduction",
       "channelId": "UCK4YnDjmmMySzXSYYiHQDxw",
-      "subscribers": 830000
+      "subscribers": 219000,
+      "totalViews": 164755034,
+      "videoCount": 2495
     },
     "web": {
       "url": "https://trashtalk.co/"
     }
   },
-  "mediacritic": {"ep": 36, "url": "https://www.mediacritic.fr/episodes/trashtalk.html"},
+  "mediacritic": {
+    "ep": 36,
+    "url": "https://www.mediacritic.fr/episodes/trashtalk.html"
+  },
   "tags": [
     "nba",
     "basket",
@@ -30,5 +35,5 @@
     "humour"
   ],
   "addedAt": "2026-07-11",
-  "updatedAt": "2026-07-11"
+  "updatedAt": "2026-07-20"
 }
