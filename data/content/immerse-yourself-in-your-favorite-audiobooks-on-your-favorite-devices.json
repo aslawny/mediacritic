@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/immerse-yourself-in-your-favorite-audiobooks-on-your/id1896928285?uo=2",
       "trackId": 1896928285,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": null
     }
   },
@@ -25,5 +25,5 @@
     "culture"
   ],
   "addedAt": "2026-07-21",
-  "updatedAt": "2026-07-21"
+  "updatedAt": "2026-07-23"
 }
