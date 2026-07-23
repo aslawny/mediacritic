@@ -19,7 +19,10 @@
       "episodeCount": 402
     }
   },
-  "mediacritic": null,
+  "mediacritic": {
+    "ep": 38,
+    "url": "https://www.mediacritic.fr/episodes/tech-45.html"
+  },
   "tags": [
     "tech",
     "numérique"

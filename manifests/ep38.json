@@ -1,0 +1,19 @@
+{
+  "ep": 38,
+  "slug": "tech-45",
+  "page": "tech-45.html",
+  "title": "Tech 45'",
+  "tagline": "La French Tech racontée par ceux qui la dirigent",
+  "meta_desc": "MediaCritic analyse Tech 45', le podcast de Sébastien Couasnon : chaque semaine, un dirigeant de la tech française en 45 minutes chrono. Format immuable, ego absent, retours d'expérience concrets. Le verdict complet.",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/03/a8/f4/03a8f473-8b41-202b-c4c1-89d80fee17fc/mza_9028200658506539725.jpg/600x600bb.jpg",
+  "initials": "T45",
+  "type_line": "Podcast · Tech · Entrepreneuriat · French Tech",
+  "hosts_line": "Animé par <strong>Alex · Lolo</strong>",
+  "authors": ["Alex", "Lolo"],
+  "buttons": [
+    {"href": "https://podcasts.apple.com/fr/podcast/tech-45/id1577207767?uo=4", "label": "🎙️ Le podcast"}
+  ],
+  "note": 8.5,
+  "verdict": "Le format immuable au service du fond : la tech française racontée par ceux qui la dirigent, sans ego et sans boule de cristal.",
+  "content_file": "manifests/ep38-content.html"
+}
