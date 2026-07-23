@@ -439,6 +439,7 @@ def update_catalog(all_data):
             "description":    (d.get("description") or "")[:200],
             "hasMediacritic": bool(d.get("mediacritic")),
             "mcEpisode":      (d.get("mediacritic") or {}).get("episodeNumber") or (d.get("mediacritic") or {}).get("ep"),
+            "mcNote":         MC_REVIEWS.get(str((d.get("mediacritic") or {}).get("episodeNumber") or (d.get("mediacritic") or {}).get("ep")), {}).get("note"),
             "rating":         d.get("platforms", {}).get("apple", {}).get("rating"),
             "ratingCount":    d.get("platforms", {}).get("apple", {}).get("ratingCount"),
             "addedAt":        d.get("updatedAt", ""),
