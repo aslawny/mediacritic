@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/waxx-friends/id1863725820?uo=2",
       "trackId": 1863725820,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": null
     }
   },
@@ -25,5 +25,5 @@
     "culture"
   ],
   "addedAt": "2026-07-12",
-  "updatedAt": "2026-07-12"
+  "updatedAt": "2026-07-29"
 }
