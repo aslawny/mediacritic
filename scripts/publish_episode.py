@@ -32,6 +32,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).parent.parent
 BASE = "https://www.mediacritic.fr"
+SHOW_SPOTIFY = "https://open.spotify.com/show/5JuffYLQq1q6l7Vh2zvkrV"
 
 def run(cmd, check=True, capture=False):
     r = subprocess.run(cmd, cwd=ROOT, capture_output=capture, text=True, encoding="utf-8")
@@ -67,6 +68,28 @@ def main():
         f'<a href="{b["href"]}" target="_blank" rel="noopener noreferrer" class="ep-btn ep-btn-podcast"'
         + (f' style="{b["style"]}"' if b.get("style") else "") + f'>{b["label"]}</a>'
         for b in m["buttons"])
+
+    # Liens d'écoute de NOTRE épisode. Renseignés dans le manifest (bloc
+    # "listen") le jour de la publication, une fois l'épisode en ligne sur les
+    # plateformes. Tant qu'ils manquent : bouton générique vers l'émission.
+    listen = m.get("listen") or {}
+    listen_specs = [
+        ("spotify", "🎧 Écouter sur Spotify", 'class="ep-btn ep-btn-episode"'),
+        ("apple", "🎵 Apple Podcasts",
+         'class="ep-btn" style="background:rgba(255,255,255,.06);color:var(--c-muted2);border-color:var(--c-border2);"'),
+        ("deezer", "🎵 Deezer",
+         'class="ep-btn" style="background:rgba(162,89,255,.10);color:#c084fc;border-color:rgba(162,89,255,.3);"'),
+        ("youtube", "▶ YouTube",
+         'class="ep-btn" style="background:rgba(255,0,0,.10);color:#ff6b6b;border-color:rgba(255,0,0,.25);"'),
+    ]
+    if any(listen.get(k) for k, _, _ in listen_specs):
+        listen_buttons = "\n        ".join(
+            f'<a href="{listen[k]}" target="_blank" rel="noopener noreferrer" {attrs}>{label}</a>'
+            for k, label, attrs in listen_specs if listen.get(k))
+    else:
+        listen_buttons = (f'<a href="{SHOW_SPOTIFY}" target="_blank" rel="noopener noreferrer" '
+                          f'class="ep-btn ep-btn-episode">🎧 Écouter notre épisode</a>')
+        print("  ! liens d'écoute absents du manifest → bouton générique (à compléter au go)")
     content_cards = Path(m["content_file"]).read_text(encoding="utf-8")
     subs = {
         "__EP__": str(ep), "__TITLE__": title, "__TAGLINE__": m["tagline"],
@@ -74,6 +97,8 @@ def main():
         "__INITIALS__": m["initials"], "__TYPE_LINE__": m["type_line"],
         "__HOSTS_LINE__": m["hosts_line"], "__AUTHORS_LD__": authors_ld,
         "__BUTTONS__": buttons, "__CONTENT_CARDS__": content_cards,
+        "__LISTEN_BUTTONS__": listen_buttons,
+        "__EPISODE_URL__": listen.get("spotify") or SHOW_SPOTIFY,
         "__PREV_EP__": str(prev_ep), "__PREV_TITLE__": prev["title"],
         "__PREV_PAGE__": prev["page"],
     }
