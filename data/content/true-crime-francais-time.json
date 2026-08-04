@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/true-crime-fran%C3%A7ais-time/id6786299345?uo=4",
       "trackId": 6786299345,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": 11
     }
   },
@@ -25,5 +25,5 @@
     "societe"
   ],
   "addedAt": "2026-07-12",
-  "updatedAt": "2026-07-12"
+  "updatedAt": "2026-08-04"
 }

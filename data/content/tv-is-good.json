@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/tv-is-good/id1896659803?uo=2",
       "trackId": 1896659803,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": null
     }
   },
@@ -25,5 +25,5 @@
     "series"
   ],
   "addedAt": "2026-05-28",
-  "updatedAt": "2026-05-28"
+  "updatedAt": "2026-08-04"
 }
