@@ -1,0 +1,37 @@
+{
+  "ep": 40,
+  "slug": "the-first-take",
+  "page": "the-first-take.html",
+  "title": "THE FIRST TAKE",
+  "tagline": "Un micro, un studio blanc, une seule prise",
+  "meta_desc": "MediaCritic analyse THE FIRST TAKE, la chaîne YouTube japonaise aux 12 millions d'abonnés : un micro, un studio blanc, une seule prise. L'anti-industrie musicale décortiquée — le verdict complet.",
+  "cover": "https://yt3.googleusercontent.com/_PoRJpwlHmc2i2gQgXliEJ3HvgrspH3enTCuAfRrBFZE1ziCIfpcB8wdWuvkbGQ_K4sAA7vX28A=s800-c-k-c0x00ffffff-no-rj",
+  "initials": "FT",
+  "type_line": "Chaîne YouTube · Musique · Live · Japon",
+  "hosts_line": "Animé par <strong>Alex · Lolo</strong>",
+  "authors": ["Alex", "Lolo"],
+  "buttons": [
+    {"href": "https://www.youtube.com/@The_FirstTake", "label": "▶ La chaîne", "style": "background:rgba(255,0,0,.1);color:#ff6b6b;border-color:rgba(255,0,0,.25);"}
+  ],
+  "note": 9,
+  "verdict": "Enlever tout le superflu jusqu'à ce qu'il ne reste que l'essentiel — et obtenir souvent la meilleure version de la chanson.",
+  "content_file": "manifests/ep40-content.html",
+  "content": {
+    "slug": "the-first-take",
+    "title": "THE FIRST TAKE",
+    "author": "THE FIRST TAKE",
+    "type": "youtube",
+    "categories": ["musique", "culture", "live"],
+    "description": "Un micro, un studio blanc, une règle : une seule prise. La chaîne japonaise qui filme des artistes en session unique, sans filet ni seconde chance — LiSA, YOASOBI, Creepy Nuts, Harry Styles, Avril Lavigne. L'anti-industrie musicale devenue phénomène mondial.",
+    "image": "https://yt3.googleusercontent.com/_PoRJpwlHmc2i2gQgXliEJ3HvgrspH3enTCuAfRrBFZE1ziCIfpcB8wdWuvkbGQ_K4sAA7vX28A=s800-c-k-c0x00ffffff-no-rj",
+    "language": "ja",
+    "platforms": {
+      "youtube": {
+        "url": "https://www.youtube.com/@The_FirstTake",
+        "channelId": "UC9zY_E8mcAo_Oq772LEZq8Q",
+        "subscribers": 12300000
+      }
+    },
+    "tags": ["musique", "live", "japon", "one take"]
+  }
+}

@@ -194,6 +194,8 @@ YOUTUBE_CHANNELS = [
     ("@SEB",                  "seb",                      "SEB",                         ["humour","musique"]),
     # --- Episode MC 36 ---
     ("@TrashTalkProduction",  "trashtalk",                "TrashTalk",                   ["sport","basket","nba","humour"]),
+    # --- Episode MC 40 ---
+    ("@The_FirstTake",        "the-first-take",           "THE FIRST TAKE",              ["musique","culture","live"]),
 ]
 
 # --- Requetes de decouverte YouTube (pool large, rotation par run) ------------
