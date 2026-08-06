@@ -48,6 +48,57 @@ def h(s):
 # slug = nom de fichier ; cats = catégories du catalogue à inclure
 CATEGORIES = [
     {
+        "slug": "histoire", "cats": ["histoire"], "name": "Histoire", "emoji": "📜",
+        "title": "Meilleurs podcasts d'histoire francophones — 2026",
+        "h1": "Les meilleurs podcasts d'histoire francophones",
+        "lede": "L'histoire est l'une des catégories les plus saturées du podcast francophone — et l'une des plus inégales. Entre les vulgarisateurs YouTube qui passent au podcast, les historiens de métier qui s'essaient au micro et les médias publics qui produisent des séries léchées, comment faire le tri ? MediaCritic a écouté et analysé en détail plusieurs références du genre.",
+        "faq": [
+            ("Quel est le meilleur podcast d'histoire francophone pour débuter ?", "Pour s'initier, Nota Bene et Quelle Histoire sont accessibles, bien produits, et adoptent un ton vulgarisateur sans être condescendants. Entrez dans l'Histoire offre une approche plus immersive, et C'est plus compliqué que ça pousse plus loin la nuance pour les auditeurs déjà familiers du genre."),
+            ("Les podcasts d'histoire sont-ils fiables historiquement ?", "Cela dépend du créateur. Les podcasts d'historiens diplômés (Nota Bene a un comité scientifique, certaines productions Radio France collaborent avec des chercheurs) sont en général solides. Méfiez-vous des podcasts qui ne citent jamais leurs sources."),
+        ],
+    },
+    {
+        "slug": "gaming", "cats": ["gaming"], "name": "Gaming", "emoji": "🎮",
+        "title": "Meilleurs podcasts gaming et chaînes YouTube jeu vidéo francophones — 2026",
+        "h1": "Les meilleurs podcasts et chaînes YouTube gaming francophones",
+        "lede": "Le gaming est la catégorie où l'audio et la vidéo se mélangent le plus : entre les podcasts de discussion long-format, les chaînes YouTube qui font de l'analyse pure, et les hybrides en live sur Twitch reuploadés en podcast, il y a de tout — et beaucoup de redondance. MediaCritic a analysé plusieurs références du paysage français.",
+        "faq": [
+            ("Quelle est la meilleure chaîne YouTube gaming française ?", "Le Joueur du Grenier reste la référence sans équivalent en termes de longévité (depuis 2009) et d'audience. Mais pour l'analyse pure, des chaînes plus récentes offrent une approche éditoriale différente."),
+            ("Comment MediaCritic note-t-il les podcasts gaming ?", "Comme tous les autres : fond (qualité de l'analyse, des sources, des opinions), forme (montage, rythme, son), intentions (clarté du positionnement éditorial). Le format YouTube est traité avec les mêmes critères que le podcast audio."),
+        ],
+    },
+    {
+        "slug": "tech", "cats": ["tech", "numerique"], "name": "Tech", "emoji": "💻",
+        "title": "Meilleurs podcasts tech francophones — 2026",
+        "h1": "Les meilleurs podcasts tech francophones",
+        "lede": "Le podcast tech francophone se partage entre trois familles : les podcasts d'actualité (Le Rendez-vous Tech), les podcasts d'opinion (Silicon Carne), et les podcasts métier pour développeurs (IFTTD, Hardisk Stories). MediaCritic a analysé les références de chaque famille.",
+        "faq": [
+            ("Quel podcast tech écouter pour rester à jour ?", "Pour l'actualité large et grand public, Le Rendez-vous Tech reste la référence. Pour un ton plus tranché et une vraie opinion éditoriale, Silicon Carne. Pour le détail technique côté dev, IFTTD - If This Then Dev."),
+            ("MediaCritic est-il un podcast tech ?", "Non. MediaCritic est un podcast de méta-analyse qui décortique d'autres podcasts et chaînes YouTube — toutes catégories confondues. Le tech est l'une des nombreuses verticales qu'on analyse régulièrement."),
+        ],
+    },
+    {
+        "slug": "sport", "cats": ["sport", "football", "basket", "nba", "running", "endurance", "fitness"],
+        "name": "Sport", "emoji": "🏅",
+        "title": "Meilleurs podcasts sport francophones — 2026",
+        "h1": "Les meilleurs podcasts sport francophones",
+        "lede": "Le podcast sport francophone, c'est encore largement le football. Mais des formats émergent autour du trail, du running, des sports outdoor, et des conversations plus larges sur la performance et la santé sportive. MediaCritic a analysé plusieurs références complémentaires.",
+        "faq": [
+            ("Quel est le meilleur podcast football en français ?", "L'After Foot (RMC) reste la référence par sa longévité et son audience, mais le format radio peut peser. Pour du long-format plus posé, des podcasts indépendants émergent — le catalogue MediaCritic en référence plusieurs."),
+            ("Y a-t-il des podcasts running ou trail à recommander ?", "Oui. SafePace propose un format accessible autour du running. Extraterrien creuse les disciplines d'ultra-endurance avec des interviews approfondies d'athlètes."),
+        ],
+    },
+    {
+        "slug": "cuisine-gastronomie", "cats": ["cuisine", "gastronomie"], "name": "Cuisine &amp; gastronomie", "emoji": "🍽️",
+        "title": "Meilleurs podcasts cuisine et gastronomie francophones — 2026",
+        "h1": "Les meilleurs podcasts cuisine et gastronomie francophones",
+        "lede": "La cuisine est la catégorie qui a le plus explosé sur les plateformes audio ces trois dernières années. Entre les chefs qui se lancent, les food writers qui réfléchissent l'alimentation, et les podcasts conversationnels autour de la table, il y a de quoi trier. MediaCritic a décortiqué Chef Otaku (la passion technique) et On va déguster (l'institution France Inter).",
+        "faq": [
+            ("Quel est le meilleur podcast pour apprendre la cuisine ?", "Pour l'apprentissage technique, les podcasts de chefs comme Chef Otaku sont précieux car ils expliquent les gestes, les choix, les erreurs à éviter. Pour la culture culinaire générale, On va déguster reste une référence — moins technique, plus contextuelle."),
+            ("Y a-t-il des podcasts gastronomie indépendants à découvrir ?", "Oui, beaucoup. Le catalogue MediaCritic référence de nombreux podcasts cuisine et gastronomie, incluant des indépendants méconnus mais excellents."),
+        ],
+    },
+    {
         "slug": "true-crime", "cats": ["true crime"], "name": "True Crime", "emoji": "🔍",
         "title": "Meilleurs podcasts true crime francophones — 2026",
         "h1": "Les meilleurs podcasts true crime francophones",
@@ -189,8 +240,13 @@ def build_page(cfg, catalog):
                       f'<span class="pill">{len(mc)} épisode{"s" if len(mc)>1 else ""}</span></h2>'
                       f'<div class="grid">{"".join(card(x) for x in mc)}</div></section>')
 
-    others_section = (f'<section class="podcast-section"><h2>Tous les podcasts {cfg["name"].lower()} référencés '
-                      f'<span class="pill">{len(shown_others)} contenus</span></h2>'
+    # Libellé honnête : on affiche au plus MAX_OTHERS contenus sur le total référencé
+    nb_shown = len(mc) + len(shown_others)
+    pill = (f"{nb_shown} contenus" if nb_shown >= total
+            else f"{nb_shown} affichés sur {total}")
+    heading = ("Tous les podcasts" if nb_shown >= total else "Une sélection de podcasts")
+    others_section = (f'<section class="podcast-section"><h2>{heading} {cfg["name"].lower()} '
+                      f'<span class="pill">{pill}</span></h2>'
                       f'<div class="grid">{"".join(card(x) for x in shown_others)}</div></section>')
 
     faq = "".join(
@@ -268,6 +324,7 @@ def build_page(cfg, catalog):
 <p class="footer-tagline">Le podcast qui donne son avis, même quand on ne lui a pas demandé.</p>
 <div class="footer-links">
 <a href="../">Catalogue</a>
+<a href="../palmares.html">Palmarès</a>
 <a href="../qui-sommes-nous.html">Qui sommes-nous</a>
 <a href="../contact.html">Contact</a>
 </div>

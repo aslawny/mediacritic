@@ -371,6 +371,7 @@ def render_fiche(data):
   <div class="nav-left">
     <a href="../" class="nav-back">← Accueil</a>
     <span class="nav-brand">MediaCritic</span>
+    <a href="../palmares.html" class="nav-back" style="color:var(--c-gold)">🏆 Palmarès</a>
   </div>
   <span class="nav-tag">{h(t_label)}</span>
 </nav>
@@ -461,6 +462,35 @@ def update_catalog(all_data):
     with open(CATALOG.with_name("catalog-lite.json"), "w", encoding="utf-8") as f:
         json.dump(lite, f, ensure_ascii=False, separators=(",", ":"))
     print(f"  catalog-lite.json → {len(lite)} entrées")
+    update_counters(len(catalog))
+
+
+def update_counters(total):
+    """Synchronise les compteurs du catalogue affichés sur index.html et
+    catalogue.html (meta, OG, Twitter, JSON-LD, bloc statique). Arrondi à la
+    centaine inférieure pour rester vrai entre deux régénérations."""
+    rounded = (total // 100) * 100
+    disp = f"{rounded:,}".replace(",", " ")          # 9 400
+    for name in ("index.html", "catalogue.html"):
+        path = ROOT / name
+        if not path.exists():
+            continue
+        txt = orig = path.read_text(encoding="utf-8")
+        # « 7 400+ » / « 7 400 + » sous toutes leurs formes
+        txt = re.sub(r"\d[\d   ]*\d\s*\+(?=\s*(?:podcasts|contenus))",
+                     disp + "+", txt)
+        # « parmi 7 400+ », « Découvrez 7 400+ »
+        # (une balise peut s'intercaler : « Plus de <strong>1 360 contenus</strong> »)
+        txt = re.sub(r"(parmi|Découvrez|Plus de|plus de)(\s+(?:<[^>]+>)?\s*)\d[\d\s\u00a0\u202f]*\d(\s*\+)?",
+                     lambda m: f"{m.group(1)}{m.group(2)}{disp}" + ("+" if m.group(3) else ""), txt)
+        # JSON-LD
+        txt = re.sub(r'("numberOfItems"\s*:\s*)\d+', r"\g<1>" + str(rounded), txt)
+        # valeur initiale du compteur héros (le JS la recalcule ensuite)
+        txt = re.sub(r'(<div class="num" id="stat-total">)[^<]*(</div>)',
+                     r"\g<1>" + disp + "+" + r"\g<2>", txt)
+        if txt != orig:
+            path.write_text(txt, encoding="utf-8")
+            print(f"  {name} → compteurs synchronisés ({disp}+)")
 
 
 def update_sitemap(slugs):
