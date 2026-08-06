@@ -240,8 +240,14 @@
     .card-author { font-size:.7rem; color:var(--c-muted); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     .card-meta { display:flex; align-items:center; gap:5px; margin-top:5px; flex-wrap:wrap; }
     .card-cat { font-size:.63rem; background:rgba(255,255,255,.06); border:1px solid var(--c-border); padding:2px 6px; border-radius:4px; color:var(--c-muted); }
-    .card-rating { font-size:.67rem; color:#f5c542; margin-left:auto; }
-    .card-subs { font-size:.67rem; color:var(--c-muted); margin-left:auto; }
+    .card-rating { font-size:.67rem; color:#f5c542; }
+    .card-subs { font-size:.67rem; color:var(--c-muted); }
+    .card-scores { margin-left:auto; display:flex; align-items:center; gap:5px; flex-shrink:0; }
+    .card-mcnote {
+      font-size:.64rem; font-weight:700; color:var(--c-orange);
+      background:rgba(232,98,45,.12); border:1px solid rgba(232,98,45,.3);
+      padding:1px 6px; border-radius:20px; white-space:nowrap;
+    }
     .card-analyse { font-size:.68rem; color:var(--c-orange); margin-top:6px; font-weight:600; display:inline-flex; align-items:center; gap:3px; }
     .card-analyse:hover { text-decoration:underline; }
 
@@ -752,11 +758,15 @@
       const cat1=item.categories&&item.categories[0]?esc(item.categories[0]):'';
       const badge=item.hasMediacritic?`<span class="mc-badge">MC Ép.${esc(mc?mc.ep:item.mcEpisode)}</span>`:'';
       function fmtSubs(n){if(!n)return'';if(n>=1e6)return(n/1e6).toFixed(1).replace('.0','')+'M abon.';if(n>=1e3)return Math.round(n/1e3)+'k abon.';return n+' abon.';}
-      const rating=item.mcNote
-        ?`<span class="card-rating" title="Note MediaCritic">★ ${String(item.mcNote).replace('.',',')}/10</span>`
-        :(item.type==='youtube'
-          ?(item.subscribers?`<span class="card-subs">👥 ${fmtSubs(item.subscribers)}</span>`:'')
-          :(item.rating?`<span class="card-rating">⭐ ${parseFloat(item.rating).toFixed(1)}</span>`:''));
+      // Note de la plateforme (Apple ou abonnés YouTube) ET note MediaCritic
+      const platformRating=item.type==='youtube'
+        ?(item.subscribers?`<span class="card-subs">👥 ${fmtSubs(item.subscribers)}</span>`:'')
+        :(item.rating?`<span class="card-rating">⭐ ${parseFloat(item.rating).toFixed(1)}</span>`:'');
+      const mcRating=item.mcNote
+        ?`<span class="card-mcnote" title="Note MediaCritic">★ ${String(item.mcNote).replace('.',',')}/10</span>`
+        :'';
+      const rating=(platformRating||mcRating)
+        ?`<span class="card-scores">${platformRating}${mcRating}</span>` : '';
       const analyse=mc?`<a class="card-analyse" href="${esc(mc.analyse)}" onclick="event.stopPropagation()">📖 Lire l'analyse</a>`:'';      // Use MC lookup image if catalog has no image
       const imgSrc = item.image || (mc && mc.img) || '';
       a.innerHTML=`
