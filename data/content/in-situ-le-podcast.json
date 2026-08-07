@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/in-situ-le-podcast/id6788767948?uo=2",
       "trackId": 6788767948,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 2,
       "episodeCount": null
     }
   },
@@ -25,5 +25,5 @@
     "culture"
   ],
   "addedAt": "2026-08-05",
-  "updatedAt": "2026-08-05"
+  "updatedAt": "2026-08-07"
 }
