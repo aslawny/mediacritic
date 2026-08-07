@@ -168,6 +168,16 @@ CATEGORIES = [
             ("Podcast ou chaîne YouTube pour l'humour ?", "Les deux formats sont représentés ici. Les contenus analysés par MediaCritic apparaissent en premier."),
         ],
     },
+    {
+        "slug": "voyage", "cats": ["voyage"], "name": "Voyage", "emoji": "🌍",
+        "title": "Meilleurs podcasts de voyage francophones — 2026",
+        "h1": "Les meilleurs podcasts de voyage francophones",
+        "lede": "Récits d'aventure, carnets de route, conseils pratiques, portraits de grands voyageurs… Le voyage est l'une des catégories les plus vivantes du podcast francophone, et l'une des plus inégales : entre le journal de bord bricolé et le documentaire sonore ciselé, l'écart est immense. Voici les formats qui donnent vraiment envie de partir.",
+        "faq": [
+            ("Quel podcast de voyage écouter avant de partir ?", "Selon ce que vous cherchez : les podcasts de récit racontent une aventure de bout en bout, les formats pratiques préparent un itinéraire précis. Cette page référence les deux familles, notées et classées."),
+            ("Des podcasts sur une destination précise ?", "Beaucoup se consacrent à une région ou à un type de voyage (randonnée, tour du monde, voyage en famille…). Le catalogue complet permet d'affiner."),
+        ],
+    },
 ]
 
 # Liens croisés : toutes les pages catégories (existantes + nouvelles)
@@ -176,7 +186,7 @@ ALL_PAGES = [
     ("sport", "Sport"), ("cuisine-gastronomie", "Cuisine &amp; gastronomie"),
     ("true-crime", "True Crime"), ("sciences", "Sciences"), ("business", "Business"),
     ("cinema-series", "Cinéma &amp; séries"), ("culture-societe", "Culture &amp; société"),
-    ("musique", "Musique"), ("humour", "Humour"),
+    ("musique", "Musique"), ("humour", "Humour"), ("voyage", "Voyage"),
 ]
 
 def card(item):

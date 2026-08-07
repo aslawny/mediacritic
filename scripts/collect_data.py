@@ -5,9 +5,12 @@ Sources : iTunes Search API (gratuit), YouTube Data API v3, Spotify API
 Usage   : python collect_data.py [--mode podcast|youtube|all] [--youtube-key KEY]
 """
 
-import json, os, re, time, urllib.request, urllib.parse, hashlib, argparse
+import json, os, re, sys, time, urllib.request, urllib.parse, hashlib, argparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from apple_genre_map import categories_from_apple
 
 try:
     import requests as _requests_lib
@@ -498,6 +501,12 @@ def fetch_itunes(term, limit=200):
         return []
 
 def itunes_to_content(item, categories):
+    # La requete de decouverte ne dit PAS de quoi parle le podcast : chercher
+    # "podcast true crime francais" remonte aussi des podcasts de voyage. La
+    # source de verite est le champ genres d'Apple ; la requete ne sert que de
+    # repli quand Apple ne renvoie rien.
+    categories = categories_from_apple(item.get("genres") or []) or categories
+
     name   = item.get("collectionName", "").strip()
     artist = item.get("artistName", "").strip()
     if not name: return None
@@ -966,12 +975,17 @@ def collect_itunes_top_charts():
                 if not slug: continue
                 if load_existing(slug): continue
 
+                # Le classement dit dans quel genre Apple range le podcast, mais
+                # l'entree porte son genre principal, souvent plus precis.
+                own = entry.get("category", {}).get("attributes", {}).get("label")
+                cats = categories_from_apple([own]) if own else []
+
                 new_entry = {
                     "slug":        slug,
                     "title":       name,
                     "author":      artist,
                     "type":        "podcast",
-                    "categories":  categories,
+                    "categories":  cats or categories,
                     "description": "",
                     "image":       image,
                     "language":    "fr",
@@ -985,7 +999,7 @@ def collect_itunes_top_charts():
                         }
                     },
                     "mediacritic": None,
-                    "tags":        categories,
+                    "tags":        cats or categories,
                     "addedAt":     today(),
                     "updatedAt":   today(),
                 }
