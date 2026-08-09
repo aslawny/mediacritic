@@ -57,9 +57,19 @@
         "@type": "WebSite",
         "@id": "https://www.mediacritic.fr/#website",
         "name": "MediaCritic",
+        "alternateName": ["MediaCritic.fr", "MediaCritic Le Podcast"],
         "url": "https://www.mediacritic.fr/",
+        "inLanguage": "fr-FR",
         "description": "Catalogue des podcasts et chaînes YouTube francophones, avec analyses par MediaCritic.",
-        "publisher": { "@id": "https://www.mediacritic.fr/#organization" }
+        "publisher": { "@id": "https://www.mediacritic.fr/#organization" },
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.mediacritic.fr/catalogue.html?q={search_term_string}"
+          },
+          "query-input": "required name=search_term_string"
+        }
       },
       {
         "@type": "BreadcrumbList",
@@ -334,7 +344,7 @@
 <!-- HERO -->
 <div class="hero">
   <div class="hero-left">
-    <div class="hero-eyebrow">🗂️ Catalogue de référence</div>
+    <div class="hero-eyebrow">🗂️ MediaCritic — le catalogue de référence</div>
     <h1>Trouvez votre prochain<br><span>podcast</span> francophone</h1>
     <p>Chaque semaine des dizaines de nouveaux contenus référencés, filtrés et notés. Les épisodes analysés par MediaCritic apparaissent en premier.</p>
     <div class="hero-stats">
@@ -348,7 +358,7 @@
       </div>
       <div class="hstat">
         <div class="num">40</div>
-        <div class="lbl">analysés par MC</div>
+        <div class="lbl">épisodes publiés</div>
       </div>
     </div>
   </div>

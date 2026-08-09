@@ -353,8 +353,8 @@
       <div class="lbl">contenus référencés</div>
     </div>
     <div class="hero-stat">
-      <div class="num">27</div>
-      <div class="lbl">analysés par MediaCritic</div>
+      <div class="num" id="stat-mc">43</div>
+      <div class="lbl">contenus analysés par MediaCritic</div>
     </div>
     <div class="hero-stat">
       <div class="num" id="stat-cats">44</div>
@@ -622,9 +622,27 @@
         minMatchCharLength: 2
       });
 
-      // Build filters from available categories
-      const allCats = new Set();
-      data.forEach(i => (i.categories || []).forEach(c => allCats.add(c)));
+      // Ce compteur était figé à 27 : il ne suivait pas les publications.
+      const nbMc = data.filter(i => i.mcNote || i.mcEpisode).length;
+      const elMc = document.getElementById('stat-mc');
+      if (elMc) elMc.textContent = nbMc;
+
+      // Filtres : une catégorie par bouton produisait 115 boutons, dont
+      // beaucoup pour un seul contenu (golf, catch, chimie…). On ne garde
+      // que celles qui pèsent vraiment ; les autres restent accessibles
+      // par la recherche, qui interroge déjà le champ categories.
+      const SEUIL_FILTRE = 100;
+      const poids = new Map();
+      data.forEach(i => (i.categories || []).forEach(
+        c => poids.set(c, (poids.get(c) || 0) + 1)));
+      const allCats = new Set(
+        [...poids.entries()].filter(([, n]) => n >= SEUIL_FILTRE)
+                            .sort((a, b) => b[1] - a[1])
+                            .map(([c]) => c));
+      // 5 871 fiches pointent vers catalogue.html?cat=… : si la catégorie
+      // demandée est sous le seuil, on l'ajoute quand même, sinon le lien
+      // profond retomberait sur un catalogue non filtré.
+      if (urlCat && poids.has(urlCat)) allCats.add(urlCat);
       document.getElementById('stat-cats').textContent = allCats.size;
       buildFilters(allCats);
 
