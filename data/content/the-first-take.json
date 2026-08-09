@@ -20,7 +20,10 @@
       "videoCount": 1829
     }
   },
-  "mediacritic": null,
+  "mediacritic": {
+    "ep": 40,
+    "url": "https://www.mediacritic.fr/episodes/the-first-take.html"
+  },
   "tags": [
     "musique",
     "culture",
