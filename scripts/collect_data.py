@@ -11,6 +11,8 @@ from pathlib import Path
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from apple_genre_map import categories_from_apple
+from lang_filter import (podcast_francophone, chaine_youtube_francophone,
+                         langue_du_flux, est_code_francophone, ecriture_non_latine)
 
 try:
     import requests as _requests_lib
@@ -512,8 +514,19 @@ def itunes_to_content(item, categories):
     if not name: return None
     slug = slugify(name)
     if not slug: return None
+    # Teste AVANT le filtre langue : la blocklist memorise les rejets, il serait
+    # absurde de re-interroger chaque nuit le flux d'un podcast deja ecarte.
+    if slug in BLOCKLIST: return None
 
     existing = load_existing(slug)
+    if not existing:
+        # Le site ne reference que du francophone. Le classement francais ne
+        # garantit rien : on lit la langue declaree dans le flux RSS. Controle
+        # fait ici, apres load_existing, pour n'interroger que les nouveautes.
+        garder, code = podcast_francophone(item)
+        if not garder:
+            return None
+
     if existing:
         if not existing.get("platforms", {}).get("apple"):
             existing.setdefault("platforms", {})["apple"] = {
@@ -535,7 +548,9 @@ def itunes_to_content(item, categories):
         "categories":  categories,
         "description": item.get("description") or item.get("shortDescription") or "",
         "image":       item.get("artworkUrl600") or item.get("artworkUrl100"),
-        "language":    item.get("primaryGenreName", ""),
+        # Langue REELLE (flux RSS). Ce champ contenait le genre Apple, ce qui
+        # rendait tout filtrage linguistique impossible.
+        "language":    code or "",
         "platforms": {
             "apple": {
                 "url":         item.get("collectionViewUrl"),
@@ -715,14 +730,13 @@ def harvest_youtube_related(api_key):
                 subs = int(st.get("subscriberCount", 0))
                 if subs < 2000:
                     continue
-                # Filtre langue : description ou pays francophone
-                country = sn.get("country", "")
-                desc    = (sn.get("description") or "").lower()
-                title   = sn.get("title", "")
-                # Heuristique simple : pays FR/BE/CH/CA ou description en francais
-                if country not in ("FR", "BE", "CH", "CA", "LU", "MG", "SN", "CI") and not any(
-                    w in desc for w in ["france", "francais", "français", "podcast", "bonjour", "bienvenue", "épisode"]
-                ):
+                # Filtre langue centralise (scripts/lang_filter.py).
+                # L'ancien filtre acceptait toute chaine dont la description
+                # contenait « podcast » — mot international : c'est par la que
+                # les chaines anglophones entraient.
+                title = sn.get("title", "")
+                garder, code_langue = chaine_youtube_francophone(sn)
+                if not garder:
                     continue
 
                 slug = slugify(title)
@@ -740,7 +754,7 @@ def harvest_youtube_related(api_key):
                     "categories":  categories,
                     "description": (sn.get("description") or "")[:500],
                     "image":       sn.get("thumbnails", {}).get("high", {}).get("url"),
-                    "language":    "fr",
+                    "language":    code_langue or "fr",
                     "platforms":   {"youtube": {
                         "url":         f"https://www.youtube.com/{handle}",
                         "channelId":   ch["id"],
@@ -973,7 +987,25 @@ def collect_itunes_top_charts():
                 if not name: continue
                 slug = slugify(name)
                 if not slug: continue
+                if slug in BLOCKLIST: continue   # avant tout appel reseau
                 if load_existing(slug): continue
+
+                # Filtre langue : le classement est francais, pas les podcasts
+                # qu'il contient. Le flux du classement ne porte pas de feedUrl,
+                # on le resout via un lookup sur le trackId.
+                if ecriture_non_latine(f"{name} {artist}"):
+                    continue
+                code = None
+                if track_id:
+                    try:
+                        lk = _http_get("https://itunes.apple.com/lookup?country=fr"
+                                       f"&id={track_id}", timeout=15)
+                        r0 = (lk.get("results") or [{}])[0]
+                        code = langue_du_flux(r0.get("feedUrl"))
+                    except Exception:
+                        code = None
+                if est_code_francophone(code) is False:
+                    continue
 
                 # Le classement dit dans quel genre Apple range le podcast, mais
                 # l'entree porte son genre principal, souvent plus precis.
@@ -988,7 +1020,7 @@ def collect_itunes_top_charts():
                     "categories":  cats or categories,
                     "description": "",
                     "image":       image,
-                    "language":    "fr",
+                    "language":    code or "",
                     "platforms": {
                         "apple": {
                             "url":         link or f"https://podcasts.apple.com/fr/podcast/id{track_id}",
