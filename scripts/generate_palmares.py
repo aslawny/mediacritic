@@ -106,10 +106,12 @@ def build():
     months = ["janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"]
     updated = f"{months[today.month-1]} {today.year}"
 
-    title = f"Palmarès MediaCritic — Les meilleurs podcasts et chaînes YouTube francophones notés ({today.year})"
-    desc = (f"Le classement officiel MediaCritic : {len(rows)} podcasts et chaînes YouTube francophones "
-            f"écoutés, analysés et notés sur 10. En tête : "
-            + ", ".join(f'{r["title"]} ({fmt_note(r["note"])}/10)' for r in rows[:3]) + ".")
+    # Google tronque les titres au-dela de ~60 caracteres et les descriptions
+    # vers 160 : au-dela, la fin du texte n'est jamais lue en resultat.
+    title = f"Palmarès MediaCritic — les meilleurs podcasts francophones {today.year}"
+    desc = (f"Le classement officiel MediaCritic : {len(rows)} podcasts et chaînes "
+            f"YouTube francophones notés sur 10. En tête : "
+            + ", ".join(r["title"] for r in rows[:3]) + ".")
 
     # Podium
     medals = ["🥇", "🥈", "🥉"]
@@ -161,6 +163,7 @@ def build():
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data: https://*.spotifycdn.com https://*.spotify.com https://*.googleusercontent.com https://yt3.ggpht.com https://yt3.googleusercontent.com https://*.ytimg.com https://*.mzstatic.com https://i.scdn.co https://*.podcloud.fr; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://www.google-analytics.com https://analytics.google.com https://region1.google-analytics.com; frame-src 'none'; object-src 'none'; base-uri 'self'; form-action 'self' mailto:; frame-ancestors 'none';" />
 <title>{h(title)}</title>
 <meta name="description" content="{h(desc)}" />
 <meta name="robots" content="index, follow" />

@@ -513,6 +513,24 @@ def update_sitemap(slugs):
             raw = SITEMAP.read_text(encoding="utf-8")
             existing_urls.update(_re.findall(r"<loc>([^<]+)</loc>", raw))
 
+    # Purge des URLs devenues mortes. Ce generateur n'ajoutait jamais que des
+    # URLs : les fiches supprimees (blocklist, purge linguistique) laissaient
+    # leur <loc> derriere elles, et Google recoltait des 404. Toute URL locale
+    # dont le fichier n'existe plus est retiree.
+    if SITEMAP.exists():
+        raw = SITEMAP.read_text(encoding="utf-8")
+        gardees, retirees = [], 0
+        for ligne in raw.splitlines(keepends=True):
+            m = re.search(r"<loc>" + re.escape(BASE_URL) + r"/([^<]*)</loc>", ligne)
+            if m and m.group(1) and not (ROOT / m.group(1)).exists():
+                retirees += 1
+                existing_urls.discard(f"{BASE_URL}/{m.group(1)}")
+                continue
+            gardees.append(ligne)
+        if retirees:
+            SITEMAP.write_text("".join(gardees), encoding="utf-8")
+            print(f"  sitemap.xml → {retirees} URL(s) morte(s) retirée(s)")
+
     new_urls = []
     for slug in slugs:
         fiche_url = f"{BASE_URL}/fiches/{slug}.html"
