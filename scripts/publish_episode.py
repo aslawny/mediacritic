@@ -105,8 +105,12 @@ def main():
     out = tpl
     for k, v in subs.items():
         out = out.replace(k, v)
-    if "__" in re.sub(r"<!--.*?-->", "", out):
-        leftover = sorted(set(re.findall(r"__[A-Z_]+__", out)))
+    # On cherche les VRAIS placeholders (__NOM_EN_MAJUSCULES__), pas n'importe
+    # quel « __ » : un identifiant de vidéo YouTube peut en contenir un
+    # (7gnhv6o__yI), ce qui faisait échouer la publication avec une liste vide.
+    sans_commentaires = re.sub(r"<!--.*?-->", "", out, flags=re.S)
+    leftover = sorted(set(re.findall(r"__[A-Z][A-Z0-9_]*__", sans_commentaires)))
+    if leftover:
         die(f"placeholders non remplacés : {leftover}")
     (ROOT / "episodes" / page).write_text(out, encoding="utf-8")
     print(f"  ✓ episodes/{page}")
