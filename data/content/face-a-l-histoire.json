@@ -18,7 +18,10 @@
       "episodeCount": 226
     }
   },
-  "mediacritic": null,
+  "mediacritic": {
+    "ep": 41,
+    "url": "https://www.mediacritic.fr/episodes/face-a-l-histoire.html"
+  },
   "tags": [
     "histoire"
   ],

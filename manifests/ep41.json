@@ -1,0 +1,30 @@
+{
+  "ep": 41,
+  "slug": "face-a-l-histoire",
+  "page": "face-a-l-histoire.html",
+  "title": "Face à l'histoire",
+  "tagline": "Le podcast documentaire de Philippe Collin sur France Inter",
+  "meta_desc": "MediaCritic analyse Face à l'histoire, le podcast documentaire de Philippe Collin sur France Inter. Dreyfus, Leclerc, les déportés. Le verdict.",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b7/2e/bd/b72ebd5b-5c0b-7c0e-18cd-be4b2e8a573b/mza_11222570539150347298.jpg/600x600bb.jpg",
+  "initials": "FH",
+  "type_line": "Podcast · Documentaire · Histoire · France Inter",
+  "hosts_line": "Animé par <strong>Alex · Lolo</strong>",
+  "authors": [
+    "Alex",
+    "Lolo"
+  ],
+  "buttons": [
+    {
+      "href": "https://podcasts.apple.com/fr/podcast/face-%C3%A0-lhistoire/id1688993204?uo=4",
+      "label": "🎙️ Le podcast"
+    }
+  ],
+  "note": 9,
+  "verdict": "L'enquête journalistique appliquée à l'Histoire : un podcast qui se mérite, et dont on ressort en ayant compris plutôt que récité.",
+  "content_file": "manifests/ep41-content.html",
+  "listen": {
+    "spotify": "https://open.spotify.com/episode/7Iv04ts0Xyh7FoVqXa4KbB",
+    "apple": "https://podcasts.apple.com/fr/podcast/s01-ep41-face-%C3%A0-lhistoire/id1853247643?i=1000783557968",
+    "deezer": "https://www.deezer.com/fr/episode/917547992"
+  }
+}
