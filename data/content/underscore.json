@@ -19,10 +19,13 @@
       "episodeCount": 230
     }
   },
-  "mediacritic": null,
+  "mediacritic": {
+    "ep": 42,
+    "url": "https://www.mediacritic.fr/episodes/underscore.html"
+  },
   "tags": [
     "sciences",
     "vulgarisation"
   ],
-  "updatedAt": "2026-08-22"
+  "updatedAt": "2026-08-23"
 }

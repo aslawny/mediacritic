@@ -1,0 +1,35 @@
+{
+  "ep": 42,
+  "slug": "underscore",
+  "page": "underscore.html",
+  "title": "Underscore_",
+  "tagline": "Le talk-show tech de Micode, entre Twitch, YouTube et podcast",
+  "meta_desc": "MediaCritic analyse Underscore_, le talk-show tech de Micode. Twitch, YouTube, podcast : 90 minutes par émission. Le verdict complet.",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/49/1b/52/491b523c-404c-9d8e-f810-beedcdd2d8b1/mza_12879556782584196351.jpeg/600x600bb.jpg",
+  "initials": "U_",
+  "type_line": "Talk-show · Tech · Twitch, YouTube & podcast",
+  "hosts_line": "Animé par <strong>Lolo · Alex</strong>",
+  "authors": [
+    "Lolo",
+    "Alex"
+  ],
+  "buttons": [
+    {
+      "href": "https://podcasts.apple.com/fr/podcast/underscore/id1556250107?uo=4",
+      "label": "🎙️ Le podcast"
+    },
+    {
+      "href": "https://www.youtube.com/@Underscore_",
+      "label": "▶ La chaîne"
+    }
+  ],
+  "note": 8.5,
+  "verdict": "De la vulgarisation avec de la matière : 90 minutes qui font vraiment comprendre — à condition de savoir quelle version on regarde.",
+  "content_file": "manifests/ep42-content.html",
+  "listen": {
+    "spotify": "https://open.spotify.com/episode/0I2aL6TgPf78dYYSr4lZkO",
+    "apple": "https://podcasts.apple.com/fr/podcast/s01-ep42-underscore/id1853247643?i=1000785194063",
+    "deezer": "https://www.deezer.com/fr/episode/923155932",
+    "youtube": "https://www.youtube.com/watch?v=UewVPyyiQLs"
+  }
+}
