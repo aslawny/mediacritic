@@ -660,6 +660,22 @@
   };
   const CATS_ORDER=['true crime','histoire','culture','tech','gaming','gastronomie','sciences','espace','societe','humour','sport','musique','actualite','enfants','education','cinema','series','livres','business','entrepreneuriat','psychologie','bien-etre','geopolitique','international','anime','geek','numerique','culture geek','jeux inde','nostalgie','retro','vulgarisation','news','economie','running','endurance','football','sante','DIY','maison','renovation','comedie','critique'];
   const PAGE_SIZE=60;
+  // Vitrine de l'accueil : seuls les N épisodes les plus récents sont épinglés
+  // en tête. Sans plafond, les 45 contenus analysés occupaient 75 % de la
+  // première page — et vers décembre ils l'auraient remplie entièrement, le
+  // catalogue disparaissant du premier écran. Les autres épisodes restent
+  // présents dans la grille (avec badge et note), accessibles en un clic via
+  // le filtre « ⭐ Analysés par MediaCritic », et tous sont référencés en liens
+  // HTML dans la liste statique plus bas ainsi que sur le palmarès.
+  const VITRINE_MAX=12;
+  let vitrine=new Set();
+  function calcVitrine(){
+    vitrine=new Set(Object.entries(MC_EP)
+      .sort((a,b)=>(b[1].ep||0)-(a[1].ep||0))
+      .slice(0,VITRINE_MAX)
+      .map(([slug])=>slug));
+  }
+  calcVitrine();
   let catalog=[],fuse=null,filtered=[],page=0,searchTerm='';
   // Multi-select: Set of active category keys. Empty = "Tous"
   let activeCats=new Set();
@@ -723,9 +739,12 @@
     return arr.slice().sort((a,b)=>{
       // MC en tête seulement si aucun filtre/tri/recherche actif
       if(pinMC){
-        const ma=a.hasMediacritic, mb=b.hasMediacritic;
+        // Épinglage limité à la vitrine, du plus RÉCENT au plus ancien :
+        // le dernier épisode publié se trouvait auparavant en position 45,
+        // tout en bas de la première page.
+        const ma=vitrine.has(a.slug), mb=vitrine.has(b.slug);
         if(ma&&!mb)return -1; if(!ma&&mb)return 1;
-        if(ma&&mb){const ea=MC_EP[a.slug]?.ep||99,eb=MC_EP[b.slug]?.ep||99;return ea-eb;}
+        if(ma&&mb){const ea=MC_EP[a.slug]?.ep||0,eb=MC_EP[b.slug]?.ep||0;return eb-ea;}
       }
       // Apply user sort with direction
       if(key==='recent'){
