@@ -668,7 +668,17 @@
       if (urlCat) {
         filtersCt.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
         const target = filtersCt.querySelector(`[data-cat="${CSS.escape(urlCat)}"]`);
-        if (target) target.classList.add('active');
+        if (target) {
+          target.classList.add('active');
+          // Sur mobile la barre est une ligne défilante : le bouton actif peut
+          // se trouver plusieurs centaines de pixels hors écran, et l'arrivée
+          // par un lien profond donne alors l'impression qu'aucun filtre n'est
+          // appliqué. On le ramène au centre — sans scrollIntoView, qui ferait
+          // aussi défiler la page verticalement.
+          const decalage = target.offsetLeft - filtersCt.clientWidth / 2
+                           + target.offsetWidth / 2;
+          filtersCt.scrollLeft = Math.max(0, decalage);
+        }
         updateMeta(urlCat);
       }
 
