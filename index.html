@@ -267,19 +267,6 @@
     .skel-card { aspect-ratio:.75; }
 
     /* ── LOAD MORE ── */
-    /* Bande des pages catégories, sous les filtres */
-    .theme-band {
-      max-width:900px; margin:0 auto 22px; padding:0 clamp(16px,4vw,48px);
-      display:flex; align-items:center; gap:7px; flex-wrap:wrap;
-    }
-    .theme-band-lbl { font-size:.72rem; font-weight:700; letter-spacing:.06em; text-transform:uppercase; color:var(--c-muted2); margin-right:2px; }
-    .theme-band a {
-      font-size:.76rem; font-weight:600; color:var(--c-muted); padding:5px 12px;
-      border-radius:20px; background:var(--c-glass); border:1px solid var(--c-border);
-      transition:color .2s, border-color .2s, background .2s;
-    }
-    .theme-band a:hover { color:var(--c-text); border-color:rgba(232,98,45,.4); background:rgba(232,98,45,.07); }
-    @media(max-width:640px){ .theme-band-lbl { width:100%; margin-bottom:2px; } }
 
     .load-more-wrap { text-align:center; margin:28px 0 8px; }
     #load-more-btn {
@@ -457,24 +444,6 @@
     <button class="sort-btn" data-sort="subs">👥 Abonnés</button>
   </div>
 </div>
-
-<!-- PAGES CATÉGORIES : accessibles sans avoir à atteindre le footer -->
-<nav class="theme-band" aria-label="Explorer par thème">
-  <span class="theme-band-lbl">Nos sélections par thème :</span>
-  <a href="categories/histoire.html">📜 Histoire</a>
-  <a href="categories/true-crime.html">🔍 True Crime</a>
-  <a href="categories/gaming.html">🎮 Gaming</a>
-  <a href="categories/tech.html">💻 Tech</a>
-  <a href="categories/sciences.html">🔬 Sciences</a>
-  <a href="categories/sport.html">🏅 Sport</a>
-  <a href="categories/cinema-series.html">🎬 Cinéma &amp; séries</a>
-  <a href="categories/culture-societe.html">🌍 Culture &amp; société</a>
-  <a href="categories/musique.html">🎵 Musique</a>
-  <a href="categories/humour.html">😄 Humour</a>
-  <a href="categories/business.html">💼 Business</a>
-  <a href="categories/cuisine-gastronomie.html">🍽️ Cuisine</a>
-  <a href="categories/voyage.html">🌍 Voyage</a>
-</nav>
 
 <!-- GRID -->
 <section class="catalogue-section" aria-label="Catalogue">
