@@ -13,6 +13,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from apple_genre_map import categories_from_apple
 from lang_filter import (podcast_francophone, chaine_youtube_francophone,
                          langue_du_flux, est_code_francophone, ecriture_non_latine)
+from enrich_descriptions import enrich as enrich_descriptions
 
 try:
     import requests as _requests_lib
@@ -1287,6 +1288,14 @@ if __name__ == "__main__":
 
     # Sauvegarde l'etat de rotation
     save_query_state(qstate)
+
+    # Descriptions manquantes, par petits lots : 71 % des fiches n'en avaient
+    # aucune, leur page affichait « A propos de X » suivi de rien. Budget
+    # volontairement modeste pour etaler la charge sur plusieurs nuits.
+    try:
+        enrich_descriptions(limit=400)
+    except Exception as e:
+        print(f"  ! enrichissement des descriptions ignore : {e}")
 
     generate_catalog()
     print("\nTermine.")
