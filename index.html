@@ -317,7 +317,25 @@
 .nav-links{display:none;position:absolute;top:100%;left:0;right:0;background:rgba(6,11,20,.98);backdrop-filter:blur(20px);border-bottom:1px solid rgba(255,255,255,.08);flex-direction:column;align-items:stretch;padding:10px 16px 14px;gap:4px;z-index:400}
 .nav-links.open{display:flex}
 .nav-links a{padding:10px 12px;font-size:.92rem}
-}</style>
+}
+    /* Mobile : la barre de filtres passe sur UNE ligne défilante.
+       En wrap, 43 boutons empilaient 400 px (catalogue) à 990 px (accueil)
+       avant le premier contenu. Le bouton partiellement visible à droite
+       signale qu'on peut faire défiler. */
+    @media(max-width:640px){
+      .filters{
+        flex-wrap:nowrap;
+        overflow-x:auto;
+        overflow-y:hidden;
+        scroll-snap-type:x proximity;
+        -webkit-overflow-scrolling:touch;
+        scrollbar-width:none;
+        padding-bottom:2px;
+      }
+      .filters::-webkit-scrollbar{display:none}
+      .filters>*{flex:0 0 auto;scroll-snap-align:start}
+    }
+  </style>
 </head>
 <body>
 
@@ -635,7 +653,7 @@
     "face-a-l-histoire":{ep:41,analyse:"episodes/face-a-l-histoire.html",img:"https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b7/2e/bd/b72ebd5b-5c0b-7c0e-18cd-be4b2e8a573b/mza_11222570539150347298.jpg/600x600bb.jpg"},
     "underscore":{ep:42,analyse:"episodes/underscore.html",img:"https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/49/1b/52/491b523c-404c-9d8e-f810-beedcdd2d8b1/mza_12879556782584196351.jpeg/600x600bb.jpg"}
   };
-  const CATS_ORDER=['true crime','histoire','culture','tech','gaming','gastronomie','sciences','espace','société','humour','sport','musique','actualité','enfants','éducation','cinéma','séries','livres','business','entrepreneuriat','psychologie','bien-être','géopolitique','international','anime','geek','numérique','culture geek','jeux indé','nostalgie','rétro','vulgarisation','news','économie','running','endurance','football','santé','DIY','maison','rénovation','comédie','critique'];
+  const CATS_ORDER=['true crime','histoire','culture','tech','gaming','gastronomie','sciences','espace','societe','humour','sport','musique','actualite','enfants','education','cinema','series','livres','business','entrepreneuriat','psychologie','bien-etre','geopolitique','international','anime','geek','numerique','culture geek','jeux inde','nostalgie','retro','vulgarisation','news','economie','running','endurance','football','sante','DIY','maison','renovation','comedie','critique'];
   const PAGE_SIZE=60;
   let catalog=[],fuse=null,filtered=[],page=0,searchTerm='';
   // Multi-select: Set of active category keys. Empty = "Tous"
@@ -842,7 +860,24 @@
     catalog=data;
     if(isFull){try{document.getElementById('stat-total').textContent=data.length.toLocaleString();}catch(e){}}
     try{fuse=new Fuse(catalog,{keys:[{name:'title',weight:.5},{name:'author',weight:.2},{name:'categories',weight:.2},{name:'description',weight:.1}],threshold:.35,includeScore:true,minMatchCharLength:2});}catch(e){fuse=null;}
-    try{const allCats=new Set();data.forEach(i=>(i.categories||[]).forEach(c=>allCats.add(c)));buildFilters(allCats);}catch(e){}
+    // Filtres : un bouton par catégorie produisait 119 boutons, soit près de
+    // 1 000 px de haut sur mobile — le premier contenu n'arrivait qu'après deux
+    // écrans. On ne garde que les catégories les plus fournies ; les autres
+    // restent accessibles par la recherche, qui interroge déjà `categories`.
+    // Un plafond (et non un seuil absolu) car hydrate() tourne deux fois :
+    // d'abord sur catalog-lite (300 entrées), puis sur le catalogue complet.
+    try{
+      const MAX_FILTRES=24, poids=new Map();
+      data.forEach(i=>(i.categories||[]).forEach(c=>poids.set(c,(poids.get(c)||0)+1)));
+      // Priorité à l'ordre éditorial (gaming, true crime, gastronomie… pèsent
+      // moins que « religion » ou « spiritualité » en volume brut, mais ce sont
+      // nos catégories), puis complété par les plus fournies.
+      const prioritaires=CATS_ORDER.filter(c=>poids.has(c));
+      const reste=[...poids.entries()].sort((a,b)=>b[1]-a[1]).map(([c])=>c)
+                    .filter(c=>!CATS_ORDER.includes(c));
+      const allCats=new Set([...prioritaires,...reste].slice(0,MAX_FILTRES));
+      buildFilters(allCats);
+    }catch(e){}
     applyFilters();
   }
   let fullLoaded=false,fullLoading=false;

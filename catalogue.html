@@ -321,7 +321,25 @@
 .nav-links{display:none;position:absolute;top:100%;left:0;right:0;background:rgba(6,11,20,.98);backdrop-filter:blur(20px);border-bottom:1px solid rgba(255,255,255,.08);flex-direction:column;align-items:stretch;padding:10px 16px 14px;gap:4px;z-index:400}
 .nav-links.open{display:flex}
 .nav-links a{padding:10px 12px;font-size:.92rem}
-}</style>
+}
+    /* Mobile : la barre de filtres passe sur UNE ligne défilante.
+       En wrap, 43 boutons empilaient 400 px (catalogue) à 990 px (accueil)
+       avant le premier contenu. Le bouton partiellement visible à droite
+       signale qu'on peut faire défiler. */
+    @media(max-width:640px){
+      .filters{
+        flex-wrap:nowrap;
+        overflow-x:auto;
+        overflow-y:hidden;
+        scroll-snap-type:x proximity;
+        -webkit-overflow-scrolling:touch;
+        scrollbar-width:none;
+        padding-bottom:2px;
+      }
+      .filters::-webkit-scrollbar{display:none}
+      .filters>*{flex:0 0 auto;scroll-snap-align:start}
+    }
+  </style>
 </head>
 <body>
 
