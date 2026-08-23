@@ -329,6 +329,11 @@
     @media(max-width:640px){
       .filters{
         flex-wrap:nowrap;
+        /* Indispensable : la barre est centrée en mode wrap. En nowrap, un
+           conteneur centré déborde des DEUX côtés et le débordement gauche
+           devient inatteignable au défilement — les premiers boutons se
+           retrouvaient à -1595 px, hors de portée. */
+        justify-content:flex-start;
         overflow-x:auto;
         overflow-y:hidden;
         scroll-snap-type:x proximity;
@@ -675,9 +680,12 @@
           // par un lien profond donne alors l'impression qu'aucun filtre n'est
           // appliqué. On le ramène au centre — sans scrollIntoView, qui ferait
           // aussi défiler la page verticalement.
-          const decalage = target.offsetLeft - filtersCt.clientWidth / 2
-                           + target.offsetWidth / 2;
-          filtersCt.scrollLeft = Math.max(0, decalage);
+          // Mesure par rects : offsetLeft est relatif au premier ancêtre
+          // positionné (ici BODY, la barre étant en position:static), pas à
+          // la barre elle-même.
+          const rb = target.getBoundingClientRect();
+          const rf = filtersCt.getBoundingClientRect();
+          filtersCt.scrollLeft += (rb.left - rf.left) - (rf.width - rb.width) / 2;
         }
         updateMeta(urlCat);
       }
