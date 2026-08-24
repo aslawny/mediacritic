@@ -1,0 +1,10 @@
+{
+  "_lecture": "Paires de fiches portant le meme titre mais VERIFIEES comme des contenus distincts. Sans cette liste, le controle anti-doublon de ci_validate.py bloquerait a chaque passage sur un homonyme legitime, et finirait par etre desactive. N ajouter une entree qu apres verification manuelle, en indiquant le motif.",
+  "verifies": [
+    {
+      "analyse": "re-take",
+      "autre": "retake",
+      "motif": "Homonymes. L episode 23 porte sur la chaine YouTube Re-Take, « un OVNI a la croisee de l animation, du doublage et de la parodie ». Le podcast Apple « Retake » de Kev & Nathan refait le CINEMA. Identifiants de plateforme differents, sujets differents."
+    }
+  ]
+}

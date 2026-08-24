@@ -458,10 +458,45 @@ def load_existing(slug):
         with open(path, encoding="utf-8") as f: return json.load(f)
     return None
 
+_TITRES_MC = None
+
+
+def _fold_titre(s):
+    import unicodedata as _ud
+    s = _ud.normalize("NFD", str(s or "").lower())
+    s = "".join(c for c in s if _ud.category(c) != "Mn")
+    return re.sub(r"[^a-z0-9]+", "", s)
+
+
+def titres_analyses():
+    """Titres des contenus analyses par MediaCritic, sous forme normalisee."""
+    global _TITRES_MC
+    if _TITRES_MC is None:
+        _TITRES_MC = {}
+        for f in DATA_DIR.glob("*.json"):
+            try:
+                d = json.load(open(f, encoding="utf-8-sig"))
+            except Exception:
+                continue
+            if d.get("mediacritic") and d.get("title"):
+                _TITRES_MC[_fold_titre(d["title"])] = d.get("slug")
+    return _TITRES_MC
+
+
 def save_content(data):
     slug = data["slug"]
     if slug in BLOCKLIST:
         return  # slug blackliste, on ne cree/modifie jamais ce fichier
+
+    # Jamais de fiche jumelle d'un contenu analyse. Sans ce garde-fou, le bot
+    # recreait une seconde fiche pour un podcast deja analyse (« L Heure du
+    # Crime » apparaissait deux fois sur la page d accueil) des que le titre
+    # etait slugifie differemment ou que le podcast se renommait.
+    if not data.get("mediacritic"):
+        jumeau = titres_analyses().get(_fold_titre(data.get("title")))
+        if jumeau and jumeau != slug:
+            print(f"  = {slug} ignore : jumeau de {jumeau} (analyse par MediaCritic)")
+            return
     path = DATA_DIR / f"{slug}.json"
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)

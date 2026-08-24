@@ -89,6 +89,46 @@ for ep, r in reviews.items():
     elif c.get("mcEpisode") != int(ep):
         err(f"catalogue : {r['slug']} mcEpisode={c.get('mcEpisode')} ≠ {ep}")
 
+# 6. Aucun contenu analyse ne doit avoir de fiche jumelle
+#    L Heure du Crime apparaissait deux fois sur la page d accueil : deux
+#    fiches pour un meme podcast, une seule portant la marque MediaCritic.
+#    Ce controle rend la situation impossible a re-installer sans que la CI
+#    echoue -- il tourne a chaque publication et a chaque passage du bot.
+import unicodedata as _ud
+
+
+def _fold(s):
+    s = _ud.normalize("NFD", str(s or "").lower())
+    s = "".join(c for c in s if _ud.category(c) != "Mn")
+    return re.sub(r"[^a-z0-9]+", "", s)
+
+
+_par_titre = {}
+for _x in data.get("catalog.json", []):
+    _par_titre.setdefault(_fold(_x.get("title")), []).append(_x)
+
+# Homonymes verifies a la main : contenus distincts portant le meme titre.
+# Sans cette soupape, le controle bloquerait a chaque passage sur un cas
+# legitime et finirait par etre desactive.
+_ok = set()
+_hp = ROOT / "data" / "homonymes_verifies.json"
+if _hp.exists():
+    for _v in json.loads(_hp.read_text(encoding="utf-8")).get("verifies", []):
+        _ok.add((_v["analyse"], _v["autre"]))
+
+_jumelles = 0
+for _ep, _r in reviews.items():
+    _autres = [x for x in _par_titre.get(_fold(_r.get("title")), [])
+               if x.get("slug") != _r["slug"]
+               and (_r["slug"], x.get("slug")) not in _ok]
+    if _autres:
+        _jumelles += 1
+        err(f"doublon : « {_r['title']} » (ep{_ep}) a une fiche jumelle "
+            f"{[x['slug'] for x in _autres]} — supprimer celle qui n'est pas "
+            f"analysée (scripts/dedupe_catalogue.py)")
+if not _jumelles:
+    print(f"  ✓ aucun doublon sur les {len(reviews)} contenus analysés")
+
 if errors:
     print(f"\n{len(errors)} erreur(s).")
     sys.exit(1)
