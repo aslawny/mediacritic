@@ -21,7 +21,8 @@ from pathlib import Path
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from lang_filter import (langue_du_flux, est_code_francophone,
-                         ecriture_non_latine, texte_manifestement_francais)
+                         ecriture_non_latine, texte_manifestement_francais,
+                         langue_chaine_youtube)
 
 ROOT = Path(__file__).parent.parent
 CACHE = ROOT / "data" / "_feed_langs.json"
@@ -71,6 +72,75 @@ def completer_cache(fiches, cache):
     return cache
 
 
+CACHE_YT = ROOT / "data" / "_yt_langs.json"
+
+
+def langues_youtube(fiches, cache_seulement=False):
+    """Langue de chaque chaine, deduite des titres de ses dernieres videos.
+
+    Les chaines YouTube n'ont pas de flux RSS declarant une langue. Leur flux
+    de videos, lui, est public : 15 titres forment un corpus fiable. Resultat
+    mis en cache pour ne pas reinterroger a chaque passage."""
+    import re, urllib.request
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+
+    cache = (json.loads(CACHE_YT.read_text(encoding="utf-8"))
+             if CACHE_YT.exists() else {})
+    if cache_seulement:
+        return cache
+
+    UA = {"User-Agent": "Mozilla/5.0 (compatible; MediaCriticBot/1.0)"}
+
+    import html as _html, unicodedata
+
+    def _fold(s):
+        s = _html.unescape(str(s or ""))
+        s = unicodedata.normalize("NFD", s.lower())
+        s = "".join(c for c in s if unicodedata.category(c) != "Mn")
+        return re.sub(r"[^a-z0-9]+", "", s)
+
+    def sonder(slug, cid, desc, titre_fiche):
+        url = f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}"
+        try:
+            req = urllib.request.Request(url, headers=UA)
+            xml = urllib.request.urlopen(req, timeout=25).read().decode("utf-8", "replace")
+        except Exception:
+            return slug, "?"          # injoignable -> on conserve
+        titres = re.findall(r"<media:title>(.*?)</media:title>", xml, re.S)[:15]
+        if not titres:
+            return slug, "?"
+
+        # Controle d'identite : certains channelId stockes pointent vers une
+        # AUTRE chaine (« Lama Fâché » menait a Tom Scott, « Micka Breizh » a
+        # Alex Silver Bedel). Le verdict porterait alors sur le mauvais
+        # contenu : on ne supprime pas, on conserve et on signale.
+        m = re.search(r"<author>\s*<name>(.*?)</name>", xml, re.S)
+        reel, annonce = _fold(m.group(1) if m else ""), _fold(titre_fiche)
+        if reel and annonce and not (reel == annonce or reel in annonce
+                                     or annonce in reel):
+            return slug, "?identite"
+
+        return slug, (langue_chaine_youtube(titres, desc) or "?")
+
+    todo = []
+    for slug, (_, d) in fiches.items():
+        if d.get("type") != "youtube" or slug in cache:
+            continue
+        cid = ((d.get("platforms") or {}).get("youtube") or {}).get("channelId")
+        if cid:
+            todo.append((slug, cid, d.get("description") or "", d.get("title") or ""))
+
+    if todo:
+        print(f"  {len(todo)} chaine(s) YouTube a sonder…")
+        with ThreadPoolExecutor(max_workers=10) as ex:
+            futs = [ex.submit(sonder, s, c, de, ti) for s, c, de, ti in todo]
+            for fu in as_completed(futs):
+                slug, verdict = fu.result()
+                cache[slug] = verdict
+        CACHE_YT.write_text(json.dumps(cache, ensure_ascii=False), encoding="utf-8")
+    return cache
+
+
 def nettoyer_sitemap(slugs):
     """Retire les URLs des fiches supprimees (le generateur ajoute, il ne retire pas)."""
     p = ROOT / "sitemap.xml"
@@ -99,6 +169,7 @@ def main():
             fiches[d["slug"]] = (Path(f), d)
 
     cache = completer_cache({s: d for s, (p, d) in fiches.items()}, charger_cache())
+    cache_yt = langues_youtube(fiches)
 
     a_supprimer = []
     conserves = {"mc": 0, "fr": 0, "inconnu": 0, "youtube": 0, "rattrape": 0}
@@ -121,7 +192,12 @@ def main():
             continue
 
         if d.get("type") == "youtube":
-            conserves["youtube"] += 1
+            # Chaine etrangere reperee -> on la retire au passage. Un verdict
+            # « ? » (flux injoignable, titres sans marqueur) conserve.
+            if cache_yt.get(slug) == "etrangere":
+                a_supprimer.append((slug, path, "chaine etrangere"))
+            else:
+                conserves["youtube"] += 1
             continue
 
         verdict = est_code_francophone(cache.get(slug))

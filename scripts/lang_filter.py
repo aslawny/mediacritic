@@ -162,3 +162,42 @@ def chaine_youtube_francophone(snippet):
     # Pays non renseigne : s'appuyer sur la description
     blob = f" {titre.lower()} {desc.lower()} "
     return (sum(1 for m in MARQUEURS_FR if m in blob) >= 2), code
+
+
+# ── Chaines YouTube : langue deduite des titres de videos ─────────────────────
+# Les chaines n'ont pas de flux RSS declarant une langue, mais leur flux de
+# videos est public et 15 titres forment un corpus bien plus fiable qu'une
+# description de deux lignes.
+#
+# Regle d'or, identique au reste du module : on ne supprime JAMAIS faute de
+# preuve. Il faut des marqueurs etrangers POSITIFS. Remi Gaillard, francais,
+# publie des titres quasi sans texte (« EPILOGUE (Rémi Gaillard) 💡 ») :
+# l'absence de francais ne doit pas suffire a le condamner.
+_MOTS_EN = [" the ", " and ", " you ", " your ", " with ", " this ", " that ",
+            " what ", " why ", " how ", " we ", " our ", " is ", " are ",
+            " was ", " were ", " has ", " have ", " of ", " for ", " from ",
+            " they ", " their ", " about ", " when ", " where ", " which ",
+            " been ", " will ", " would ", " should ", " every ", " never ",
+            " always ", " best ", " new ", " my ", " get ", " make "]
+
+
+def langue_chaine_youtube(titres, description=""):
+    """Verdict sur une chaine a partir des titres de ses dernieres videos.
+
+    Retourne 'fr', 'etrangere', ou None quand rien ne permet de trancher.
+    None signifie CONSERVER."""
+    blob = " " + " ".join(list(titres) + [description or ""]).lower() + " "
+    if ecriture_non_latine(blob, seuil=4):
+        return "etrangere"
+
+    fr = sum(1 for m in _MOTS_FR if m in blob)
+    if fr >= 2:
+        return "fr"
+
+    en = sum(1 for m in _MOTS_EN if m in blob)
+    autres = sum(1 for m in _MOTS_AUTRES if m in blob)
+    etranger = max(en, autres)
+    # marqueurs etrangers francs ET aucun marqueur francais
+    if etranger >= 3 and fr == 0:
+        return "etrangere"
+    return None
