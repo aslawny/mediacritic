@@ -643,6 +643,32 @@
       .map(([slug])=>slug));
   }
   calcVitrine();
+
+  // Popularité : les deux signaux ne sont pas comparables (11 633 avis Apple
+  // au maximum face à 58,7 millions d'abonnés YouTube). Un classement brut
+  // ferait remonter toutes les chaînes devant tous les podcasts. On classe
+  // donc chacun DANS SON TYPE et on compare les rangs : un podcast dans le
+  // top 5 % des podcasts vaut une chaîne dans le top 5 % des chaînes.
+  // Les 19 % d'entrées sans aucun signal reçoivent -1 et passent en dernier.
+  function calcPopularite(data){
+    const pods=[], yts=[];
+    data.forEach(i=>{
+      if(i.type==='youtube'){ if(i.subscribers) yts.push(+i.subscribers); }
+      else if(i.ratingCount){ pods.push(+i.ratingCount); }
+    });
+    pods.sort((x,y)=>x-y); yts.sort((x,y)=>x-y);
+    const rang=(arr,v)=>{
+      if(!arr.length) return 0;
+      let lo=0,hi=arr.length;
+      while(lo<hi){ const m=(lo+hi)>>1; if(arr[m]<v) lo=m+1; else hi=m; }
+      return lo/arr.length;
+    };
+    data.forEach(i=>{
+      const yt=i.type==='youtube';
+      const v=yt?(+i.subscribers||0):(+i.ratingCount||0);
+      i._pop = v ? rang(yt?yts:pods, v) : -1;
+    });
+  }
   let catalog=[],fuse=null,filtered=[],page=0,searchTerm='';
   // Multi-select: Set of active category keys. Empty = "Tous"
   let activeCats=new Set();
@@ -725,6 +751,16 @@
       if(key==='subs'){
         const sa=a.subscribers||0, sb=b.subscribers||0;
         if(sa!==sb) return dir*(sb-sa); // dir=1: most subs first
+      }
+      // Ordre par défaut : popularité décroissante. Sans cela le catalogue
+      // s'ouvrait par ordre alphabétique, donc sur « 0 calorie Talk Show »
+      // et « 01net » — mauvaise vitrine. L'alphabétique reste le départage
+      // final, et les tris explicites de l'utilisateur ne sont pas touchés.
+      if(key==='none'){
+        const pa=(a._pop==null?-1:a._pop), pb=(b._pop==null?-1:b._pop);
+        if(pa!==pb) return pb-pa;
+        const ra=parseFloat(a.rating)||0, rb=parseFloat(b.rating)||0;
+        if(ra!==rb) return rb-ra;
       }
       // Default / tiebreak: alphabetical (respects dir for alpha sort)
       const cmp=(a.title||'').localeCompare(b.title||'');
@@ -849,6 +885,7 @@
   // puis le catalogue complet en différé (interaction ou idle).
   function hydrate(data,isFull){
     catalog=data;
+    calcPopularite(catalog);
     if(isFull){try{document.getElementById('stat-total').textContent=data.length.toLocaleString();}catch(e){}}
     try{fuse=new Fuse(catalog,{keys:[{name:'title',weight:.5},{name:'author',weight:.2},{name:'categories',weight:.2},{name:'description',weight:.1}],threshold:.35,includeScore:true,minMatchCharLength:2});}catch(e){fuse=null;}
     // Filtres : un bouton par catégorie produisait 119 boutons, soit près de
