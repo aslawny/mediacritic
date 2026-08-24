@@ -95,6 +95,28 @@ jobs:
             --spotify-id "${SPOTIFY_CLIENT_ID:-}" \
             --spotify-secret "${SPOTIFY_CLIENT_SECRET:-}"
 
+      # 5bis. Nettoyage du catalogue AVANT regeneration, sinon les fiches et le
+      #       sitemap seraient reconstruits a partir d un catalogue sale.
+      #       Les deux scripts s appuient sur des caches (data/_feed_langs.json,
+      #       data/_yt_langs.json) : seules les nouveautes du jour sont sondees.
+      - name: Purge du contenu non francophone
+        working-directory: site
+        run: |
+          if [ -f "scripts/prune_non_francophone.py" ]; then
+            python scripts/prune_non_francophone.py
+          else
+            echo "prune_non_francophone.py absent — ignoré"
+          fi
+
+      - name: Suppression des fiches en double
+        working-directory: site
+        run: |
+          if [ -f "scripts/dedupe_catalogue.py" ]; then
+            python scripts/dedupe_catalogue.py
+          else
+            echo "dedupe_catalogue.py absent — ignoré"
+          fi
+
       # 6. Régénération des fiches HTML individuelles
       - name: Generate fiches HTML
         working-directory: site
@@ -104,6 +126,19 @@ jobs:
             python scripts/generate_fiches.py
           else
             echo "generate_fiches.py absent — ignoré"
+          fi
+
+      # 6a. Pages categories. Elles n etaient regenerees qu a la main : le bot
+      #     ajoutant ~50 entrees par nuit, leurs compteurs derivaient. C est
+      #     exactement l incoherence relevee en relecture (« 94 contenus
+      #     référencés » puis « 80 contenus »).
+      - name: Generate categories
+        working-directory: site
+        run: |
+          if [ -f "scripts/generate_categories.py" ]; then
+            python scripts/generate_categories.py
+          else
+            echo "generate_categories.py absent — ignoré"
           fi
 
       # 6bis. Régénération du palmarès (notes MediaCritic)
