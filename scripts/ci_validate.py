@@ -129,6 +129,59 @@ for _ep, _r in reviews.items():
 if not _jumelles:
     print(f"  ✓ aucun doublon sur les {len(reviews)} contenus analysés")
 
+# 7. Regles SEO du skill mediacritic-site, verifiees a chaque passage du bot
+#    Bloquant : ce qui expose a une sanction ou degrade mesurablement le site.
+#    Simple rapport : les longueurs de titres et descriptions, qui relevent du
+#    texte editorial de l utilisateur et ne doivent pas casser le job de nuit.
+
+# 7a. Balisage Review UNIQUEMENT sur les contenus reellement analyses.
+#     En declarer un sur les 8 200 autres fiches serait du spam de donnees
+#     structurees, passible d une action manuelle Google.
+_analyses = set()
+for _f in (ROOT / "data" / "content").glob("*.json"):
+    try:
+        if json.loads(open(_f, encoding="utf-8-sig").read()).get("mediacritic"):
+            _analyses.add(_f.stem)
+    except Exception:
+        pass
+_abusifs = [f.stem for f in (ROOT / "fiches").glob("*.html")
+            if f.stem not in _analyses
+            and '"Review"' in f.read_text(encoding="utf-8")]
+if _abusifs:
+    err(f"Review declare sur {len(_abusifs)} fiche(s) NON analysee(s) "
+        f"{_abusifs[:5]} — spam de donnees structurees")
+else:
+    print(f"  ✓ Review limite aux {len(_analyses)} contenus analysés")
+
+# 7b. Budget des images locales. Un favicon de 175 Ko servi sur 8 000 pages
+#     coute plus cher que n importe quelle micro-optimisation de balise.
+_lourdes = []
+for _a in (ROOT / "assets").glob("*"):
+    if _a.suffix.lower() not in (".png", ".jpg", ".jpeg"):
+        continue
+    _ko = _a.stat().st_size / 1024
+    if _ko > 320:
+        _lourdes.append(f"{_a.name} ({_ko:.0f} Ko)")
+if _lourdes:
+    err(f"images hors budget (>320 Ko) : {_lourdes} — "
+        f"lancer scripts/optimise_assets.py")
+else:
+    print("  ✓ images locales dans le budget")
+
+# 7c. Longueurs de titres et descriptions : rapport, non bloquant.
+_lt = _ld = 0
+for _f in list(ROOT.glob("*.html")) + list((ROOT / "categories").glob("*.html")):
+    _x = _f.read_text(encoding="utf-8")
+    _m = re.search(r"<title>(.*?)</title>", _x, re.S)
+    _d = re.search(r'name="description"[^>]*content="([^"]*)"', _x)
+    if _m and len(_m.group(1).strip()) > 60:
+        _lt += 1
+    if _d and len(_d.group(1)) > 160:
+        _ld += 1
+if _lt or _ld:
+    print(f"  ! {_lt} titre(s) > 60 car. et {_ld} description(s) > 160 car. "
+          f"seront tronqués par Google (texte éditorial, non bloquant)")
+
 if errors:
     print(f"\n{len(errors)} erreur(s).")
     sys.exit(1)
