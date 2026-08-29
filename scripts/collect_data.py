@@ -14,6 +14,7 @@ from apple_genre_map import categories_from_apple
 from lang_filter import (podcast_francophone, chaine_youtube_francophone,
                          langue_du_flux, est_code_francophone, ecriture_non_latine)
 from enrich_descriptions import enrich as enrich_descriptions
+from snapshot_metrics import enregistrer as snapshot_metriques
 
 try:
     import requests as _requests_lib
@@ -1336,6 +1337,13 @@ if __name__ == "__main__":
         enrich_descriptions(limit=400)
     except Exception as e:
         print(f"  ! enrichissement des descriptions ignore : {e}")
+
+    # Releve d'audience du jour. Sans historique, « les contenus qui montent »
+    # est impossible -- et chaque nuit sans capture est perdue pour toujours.
+    try:
+        snapshot_metriques()
+    except Exception as e:
+        print(f"  ! releve des metriques ignore : {e}")
 
     generate_catalog()
     print("\nTermine.")
