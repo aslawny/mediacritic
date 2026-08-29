@@ -91,6 +91,22 @@ def main():
                           f'class="ep-btn ep-btn-episode">🎧 Écouter notre épisode</a>')
         print("  ! liens d'écoute absents du manifest → bouton générique (à compléter au go)")
     content_cards = Path(m["content_file"]).read_text(encoding="utf-8")
+    # Boucle podcast -> site : les 42 pages episodes ne pointaient vers AUCUNE
+    # fiche. L auditeur arrivait sur la critique et repartait, alors que la
+    # fiche du contenu analyse -- plateformes, note, contenus similaires --
+    # est juste a cote.
+    import html as _html
+    _t = _html.escape(title, quote=True)
+    fiche_block = (
+        '  <div class="card">'
+        '<h2>🗂️ La fiche de ' + _t + '</h2>'
+        '<p>Retrouvez ' + _t + ' dans notre annuaire : plateformes, note, '
+        'catégories, et les contenus similaires à découvrir.</p>'
+        '<div style="margin-top:14px">'
+        '<a class="ep-btn ep-btn-episode" href="../fiches/' + slug + '.html">'
+        'Voir la fiche complète →</a></div>'
+        '</div>')
+
     subs = {
         "__EP__": str(ep), "__TITLE__": title, "__TAGLINE__": m["tagline"],
         "__META_DESC__": m["meta_desc"], "__PAGE__": page, "__COVER__": m["cover"],
@@ -99,6 +115,7 @@ def main():
         "__BUTTONS__": buttons, "__CONTENT_CARDS__": content_cards,
         "__LISTEN_BUTTONS__": listen_buttons,
         "__EPISODE_URL__": listen.get("spotify") or SHOW_SPOTIFY,
+        "__FICHE_BLOCK__": fiche_block,
         "__PREV_EP__": str(prev_ep), "__PREV_TITLE__": prev["title"],
         "__PREV_PAGE__": prev["page"],
     }
