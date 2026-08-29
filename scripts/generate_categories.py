@@ -41,6 +41,29 @@ BURGER_CSS = """<style>/* mc-burger : menu mobile */
 .nav-links a{padding:10px 12px;font-size:.92rem}
 }</style>"""
 
+TOP_CSS = """<style>/* mc-top : classement de categorie */
+.top-list{list-style:none;counter-reset:none;display:flex;flex-direction:column;gap:2px;margin:0;padding:0}
+.top-item{display:flex;align-items:center;gap:14px;padding:9px 12px;border-radius:10px;transition:background .15s}
+.top-item:hover{background:rgba(255,255,255,.04)}
+.top-rang{flex:0 0 26px;text-align:center;font-weight:700;font-size:.95rem;color:rgba(240,244,250,.35);font-variant-numeric:tabular-nums}
+.top-item:nth-child(-n+3) .top-rang{color:#e8622d}
+.top-lien{display:flex;align-items:center;gap:12px;flex:1;min-width:0;text-decoration:none;color:inherit}
+.top-cover{flex:0 0 44px;height:44px;border-radius:8px;overflow:hidden;background:rgba(255,255,255,.05);display:flex;align-items:center;justify-content:center}
+.top-cover img{width:100%;height:100%;object-fit:cover;display:block}
+.top-ph{font-size:.75rem;font-weight:700;color:rgba(240,244,250,.4)}
+.top-txt{min-width:0;display:flex;flex-direction:column;gap:2px}
+.top-titre{font-weight:600;font-size:.94rem;line-height:1.25;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.top-auteur{font-size:.78rem;color:rgba(240,244,250,.45);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.top-val{flex:0 0 auto;text-align:right;font-weight:700;font-size:1rem;font-variant-numeric:tabular-nums}
+.top-leg{display:block;font-weight:400;font-size:.7rem;color:rgba(240,244,250,.4)}
+.top-mc{display:inline-block;margin-left:7px;font-size:.7rem;font-weight:700;color:#e8622d;vertical-align:middle}
+.top-note{font-size:.82rem;color:rgba(240,244,250,.5);margin:-4px 0 14px}
+@media(max-width:640px){
+.top-item{gap:10px;padding:8px 6px}
+.top-cover{flex:0 0 38px;height:38px}
+.top-titre{font-size:.88rem}
+}</style>"""
+
 def h(s):
     return html.escape(str(s or ""), quote=True)
 
@@ -212,9 +235,89 @@ def sort_key(x):
     return (1 if x.get("rating") else 0, x.get("rating") or 0,
             x.get("subscribers") or 0, x.get("ratingCount") or 0)
 
-def build_page(cfg, catalog):
+
+# ── Top 10 de la catégorie ────────────────────────────────────────────────
+# Le tri par note brute était intenable : le haut de « voyage » affichait six
+# podcasts à 5,0 sur 74 avis pendant que Les Baladeurs (4,9 sur 3 443) n'y
+# figurait pas. Un plancher d'avis + une moyenne bayésienne corrigent ça.
+# Le plancher est adaptatif : 200 partout où c'est possible, sinon on
+# redescend, parce que gaming ou voyage n'ont pas la profondeur de
+# culture-societe. Le seuil retenu est affiché sur la page — on ne cache pas
+# la règle du jeu.
+PLANCHERS = (200, 100, 50)
+M_BAYES = 200
+TOP_N = 10
+
+
+def _moyenne_globale(catalog):
+    notes = [float(x["rating"]) for x in catalog
+             if x.get("rating") and x.get("ratingCount")]
+    return sum(notes) / len(notes) if notes else 0.0
+
+
+def top_categorie(items, moyenne):
+    """Renvoie (classement, plancher_retenu). Liste vide si la catégorie
+    n'a pas assez de contenus notés pour qu'un classement ait un sens."""
+    notes = [x for x in items if x.get("rating") and x.get("ratingCount")]
+    for plancher in PLANCHERS:
+        eligibles = [x for x in notes if int(x["ratingCount"]) >= plancher]
+        if len(eligibles) >= TOP_N:
+            break
+    else:
+        return [], 0
+    def bayes(x):
+        v = int(x["ratingCount"])
+        return (v / (v + M_BAYES)) * float(x["rating"]) + (M_BAYES / (v + M_BAYES)) * moyenne
+    return sorted(eligibles, key=lambda x: -bayes(x))[:TOP_N], plancher
+
+
+def bloc_top(cfg, classement, plancher, nb_eligibles):
+    if not classement:
+        return "", None
+    lignes = []
+    for i, x in enumerate(classement, 1):
+        img = x.get("image")
+        if img:
+            vign = f'<img src="{h(img)}" alt="{h(x.get("title"))}" loading="lazy" decoding="async">'
+        else:
+            ini = "".join(w[0].upper() for w in (x.get("title") or "?").split()[:2])
+            vign = f'<span class="top-ph">{h(ini)}</span>'
+        mc = ""
+        if x.get("hasMediacritic") and x.get("mcEpisode"):
+            mc = f'<span class="top-mc">MC Ép.{h(x["mcEpisode"])}</span>'
+        auteur = h((x.get("author") or "")[:40])
+        note = f'{float(x["rating"]):.1f}'.replace(".", ",")
+        lignes.append(
+            f'<li class="top-item"><span class="top-rang">{i}</span>'
+            f'<a class="top-lien" href="../fiches/{h(x["slug"])}.html">'
+            f'<span class="top-cover">{vign}</span>'
+            f'<span class="top-txt"><span class="top-titre">{h(x.get("title"))}{mc}</span>'
+            f'<span class="top-auteur">{auteur}</span></span></a>'
+            f'<span class="top-val">{note}<span class="top-leg">sur 5</span></span></li>')
+
+    nom = cfg["name"].lower()
+    bloc = (f'<section class="podcast-section" id="top"><h2>Les {TOP_N} meilleurs podcasts {nom}</h2>'
+            f'<p class="top-note">Note Apple Podcasts pondérée, parmi les {nb_eligibles} podcasts '
+            f'{nom} comptant au moins {plancher} avis. En dessous de ce seuil, une moyenne '
+            f'parfaite ne veut rien dire. '
+            f'<a href="../classement.html">Voir le classement général →</a></p>'
+            f'<ol class="top-list">{"".join(lignes)}</ol></section>')
+
+    ld = {"@type": "ItemList", "name": f"Les {TOP_N} meilleurs podcasts {nom}",
+          "numberOfItems": len(classement),
+          "itemListElement": [
+              {"@type": "ListItem", "position": i + 1,
+               "url": f'{BASE}/fiches/{x["slug"]}.html', "name": x.get("title")}
+              for i, x in enumerate(classement)]}
+    return bloc, ld
+
+def build_page(cfg, catalog, moyenne):
     cats = set(cfg["cats"])
     items = [x for x in catalog if cats & set(x.get("categories") or [])]
+    classement, plancher = top_categorie(items, moyenne)
+    nb_eligibles = sum(1 for x in items if x.get("rating") and x.get("ratingCount")
+                       and int(x["ratingCount"]) >= plancher) if plancher else 0
+    top_section, top_ld = bloc_top(cfg, classement, plancher, nb_eligibles)
     mc = sorted([x for x in items if x.get("hasMediacritic")],
                 key=lambda x: x.get("mcEpisode") or 999)
     others = sorted([x for x in items if not x.get("hasMediacritic")],
@@ -239,7 +342,7 @@ def build_page(cfg, catalog):
                 for i, x in enumerate(ld_items)]
     # isPartOf rattache la page a l annuaire declare sur l accueil : sans ce
     # lien, chaque page categorie n est qu une liste isolee aux yeux d un moteur.
-    itemlist = {"@context": "https://schema.org", "@graph": [
+    itemlist = {"@context": "https://schema.org", "@graph": ([top_ld] if top_ld else []) + [
         {"@type": "ItemList", "name": cfg["h1"], "numberOfItems": len(elements),
          "itemListElement": elements,
          "isPartOf": {"@id": BASE + "/#annuaire"}},
@@ -305,6 +408,7 @@ def build_page(cfg, catalog):
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Syne:wght@600;700;800&display=swap" rel="stylesheet" />
 {CSS}
 {BURGER_CSS}
+{TOP_CSS}
 <script async src="https://www.googletagmanager.com/gtag/js?id={GA}"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments);}}gtag("js",new Date());gtag("config","{GA}");</script>
 </head>
@@ -332,6 +436,7 @@ def build_page(cfg, catalog):
 </div>
 </header>
 {mc_section}
+{top_section}
 {others_section}
 <section class="faq">
 <h2>Questions fréquentes</h2>
@@ -362,8 +467,9 @@ def build_page(cfg, catalog):
 def main():
     catalog = json.loads(CATALOG.read_text(encoding="utf-8"))
     OUT.mkdir(exist_ok=True)
+    moyenne = _moyenne_globale(catalog)
     for cfg in CATEGORIES:
-        page = build_page(cfg, catalog)
+        page = build_page(cfg, catalog, moyenne)
         (OUT / f'{cfg["slug"]}.html').write_text(page, encoding="utf-8")
         n = sum(1 for x in catalog if set(cfg["cats"]) & set(x.get("categories") or []))
         print(f'  {cfg["slug"]}.html  ({n} contenus)')
