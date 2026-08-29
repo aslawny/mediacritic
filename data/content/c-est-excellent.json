@@ -24,5 +24,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "C'est excellent - Émission du 5 juillet 2026",
+      "date": "2026-07-05"
+    },
+    {
+      "titre": "C'est excellent",
+      "date": "2026-06-28"
+    },
+    {
+      "titre": "C'est excellent - Émission du 21 juin 2026",
+      "date": "2026-06-21"
+    },
+    {
+      "titre": "C'est excellent - C'est excellent - Émission du 13 juin 2026",
+      "date": "2026-06-13"
+    },
+    {
+      "titre": "C'est excellent - Émission du 7 Juin 2026",
+      "date": "2026-06-07"
+    }
+  ],
+  "derniere_activite": "2026-07-05",
+  "frequence_jours": 7
 }

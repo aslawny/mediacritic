@@ -15,6 +15,7 @@ from lang_filter import (podcast_francophone, chaine_youtube_francophone,
                          langue_du_flux, est_code_francophone, ecriture_non_latine)
 from enrich_descriptions import enrich as enrich_descriptions
 from snapshot_metrics import enregistrer as snapshot_metriques
+from enrich_episodes import enrich as enrich_episodes
 
 try:
     import requests as _requests_lib
@@ -1344,6 +1345,12 @@ if __name__ == "__main__":
         snapshot_metriques()
     except Exception as e:
         print(f"  ! releve des metriques ignore : {e}")
+
+    # Derniers episodes, frequence et derniere activite, par petits lots.
+    try:
+        enrich_episodes(limit=300)
+    except Exception as e:
+        print(f"  ! enrichissement des episodes ignore : {e}")
 
     generate_catalog()
     print("\nTermine.")

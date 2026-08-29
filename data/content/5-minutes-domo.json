@@ -25,5 +25,29 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Home Assistant Green, RPi 5 ou Proxmox pour votre domotique ? La réponse est dans ce podcast",
+      "date": "2026-08-13"
+    },
+    {
+      "titre": "Home Assistant 2026.8 : Décryptage express de la MAJ du mois d'aout 2026",
+      "date": "2026-08-06"
+    },
+    {
+      "titre": "Le protocole Z-Wave face à Zigbee et Matter : Le match de la fiabilité",
+      "date": "2026-07-29"
+    },
+    {
+      "titre": "ZLinky TIC : Connecter son compteur à Home Assistant en Zigbee pour maîtriser sa conso",
+      "date": "2026-07-23"
+    },
+    {
+      "titre": "Le module contact sec, le couteau suisse de votre domotique",
+      "date": "2026-07-08"
+    }
+  ],
+  "derniere_activite": "2026-08-13",
+  "frequence_jours": 8
 }

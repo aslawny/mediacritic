@@ -24,5 +24,29 @@
     "cuisine"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Samir, Mademoiselle Moustache",
+      "date": "2025-01-01"
+    },
+    {
+      "titre": "Joseph Lasserre, Groupe Doumer",
+      "date": "2024-11-29"
+    },
+    {
+      "titre": "Sophie Herbinet, So Many Stars Production",
+      "date": "2024-08-05"
+    },
+    {
+      "titre": "Margaux Kirat, avocate en droit social",
+      "date": "2024-05-31"
+    },
+    {
+      "titre": "Valentin Neraudeau, Chef privé",
+      "date": "2023-12-29"
+    }
+  ],
+  "derniere_activite": "2025-01-01",
+  "frequence_jours": 66
 }

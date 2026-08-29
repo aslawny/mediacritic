@@ -24,5 +24,29 @@
     "education"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Lesson 009",
+      "date": "2007-03-27"
+    },
+    {
+      "titre": "Lesson 008",
+      "date": "2007-03-25"
+    },
+    {
+      "titre": "Mini-Lesson 03",
+      "date": "2007-03-22"
+    },
+    {
+      "titre": "Lesson 007",
+      "date": "2007-03-20"
+    },
+    {
+      "titre": "Lesson 006",
+      "date": "2007-03-18"
+    }
+  ],
+  "derniere_activite": "2007-03-27",
+  "frequence_jours": 2
 }

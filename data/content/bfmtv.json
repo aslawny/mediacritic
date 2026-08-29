@@ -24,5 +24,29 @@
     "actualite",
     "news"
   ],
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Au moins 37 morts dans une frappe russe près de Kiev",
+      "date": "2026-08-29"
+    },
+    {
+      "titre": "Olivier Faure, premier secrétaire du PS, s'exprimait aux universités d'été du Parti socialiste",
+      "date": "2026-08-29"
+    },
+    {
+      "titre": "Présidentielle, budget: Raphaël Glucksmann s'exprime aux journées d'été du PS à Blois",
+      "date": "2026-08-29"
+    },
+    {
+      "titre": "Au Népal, la course contre la montre pour retrouver des survivants des crues dévastatrices",
+      "date": "2026-08-29"
+    },
+    {
+      "titre": "Céline Dion de retour à Paris avant sa série de concerts très attendus à Paris La Défense Arena",
+      "date": "2026-08-29"
+    }
+  ],
+  "derniere_activite": "2026-08-29",
+  "frequence_jours": 0
 }

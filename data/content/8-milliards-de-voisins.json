@@ -25,5 +25,29 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Vivre dans une ville expérimentale : Detroit",
+      "date": "2026-08-07"
+    },
+    {
+      "titre": "Vivre dans une ville confidentielle : Kobe",
+      "date": "2026-08-06"
+    },
+    {
+      "titre": "Vivre dans une ville frénétique : Buenos Aires",
+      "date": "2026-08-05"
+    },
+    {
+      "titre": "Vivre dans une ville hybride : Bangalore",
+      "date": "2026-08-04"
+    },
+    {
+      "titre": "Vivre dans une ville en guerre : Kiev",
+      "date": "2026-08-03"
+    }
+  ],
+  "derniere_activite": "2026-08-07",
+  "frequence_jours": 1
 }

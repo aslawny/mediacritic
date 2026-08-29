@@ -24,5 +24,29 @@
     "education"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "📎 La méthode pour réussir l'explication de texte",
+      "date": "2026-04-02"
+    },
+    {
+      "titre": "Le bonheur (avec Into the Wild)",
+      "date": "2025-10-01"
+    },
+    {
+      "titre": "Le devoir (avec Tu ne tueras point)",
+      "date": "2025-09-01"
+    },
+    {
+      "titre": "La science (avec Jurassic Park)",
+      "date": "2025-06-06"
+    },
+    {
+      "titre": "La raison (avec La Planète des singes)",
+      "date": "2025-06-05"
+    }
+  ],
+  "derniere_activite": "2026-04-02",
+  "frequence_jours": 13
 }

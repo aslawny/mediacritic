@@ -26,5 +26,29 @@
     "economie"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Découverte des Smart Contracts (Véronique Rondeau-Abouly)",
+      "date": "2023-08-17"
+    },
+    {
+      "titre": "L'art ultracontemporain (Cécile Agu)",
+      "date": "2023-08-03"
+    },
+    {
+      "titre": "DAO et structuration juridique (Arnaud Touati)",
+      "date": "2023-07-20"
+    },
+    {
+      "titre": "La Blockchain au service de la protection de la propriété intellectuelle (Antoine Roux)",
+      "date": "2023-07-06"
+    },
+    {
+      "titre": "La DeFi, économie de la blockchain et cas d'usage (Sébastien Praicheux)",
+      "date": "2023-06-22"
+    }
+  ],
+  "derniere_activite": "2023-08-17",
+  "frequence_jours": 13
 }

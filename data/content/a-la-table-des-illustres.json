@@ -26,5 +26,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "À la table d'Auguste Escoffier, sculpteur de la cuisine française - Podcast d'histoire et de gastronomie",
+      "date": "2026-06-30"
+    },
+    {
+      "titre": "À la table de Josephine Baker, fan des spaghettis au poivre - Podcast d'histoire et de gastronomie",
+      "date": "2026-06-23"
+    },
+    {
+      "titre": "À la table de Claude Monet, fan du gâteau vert vert - Podcast d'histoire et de gastronomie",
+      "date": "2026-06-16"
+    },
+    {
+      "titre": "La Mère Brazier, cheffe 6 étoiles - Podcast d'histoire et de gastronomie",
+      "date": "2026-06-09"
+    },
+    {
+      "titre": "À la table de Gustave Flaubert, fou des huîtres - Podcast d'histoire et de gastronomie",
+      "date": "2026-06-02"
+    }
+  ],
+  "derniere_activite": "2026-06-30",
+  "frequence_jours": 7
 }

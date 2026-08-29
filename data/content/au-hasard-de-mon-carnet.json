@@ -26,5 +26,29 @@
     "cuisine"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Au hasard de mon carnet #28, Axel Carion, explorateur métabolique",
+      "date": "2022-07-22"
+    },
+    {
+      "titre": "Au hasard de mon carnet #27, Sophie Malaponti, horticultrice",
+      "date": "2022-07-15"
+    },
+    {
+      "titre": "Au hasard de mon carnet #26, Jenn Armand, collaboratrice d'élus",
+      "date": "2022-07-09"
+    },
+    {
+      "titre": "Au hasard de mon carnet #25, Isabelle Defay, Responsable commerciale des agences Winbound-MV Group",
+      "date": "2022-07-01"
+    },
+    {
+      "titre": "Au hasard de mon carnet #24, Aurore Macon, kinésithérapeute du sport",
+      "date": "2022-06-24"
+    }
+  ],
+  "derniere_activite": "2022-07-22",
+  "frequence_jours": 7
 }

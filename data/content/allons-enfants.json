@@ -25,5 +25,29 @@
     "cuisine"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Allons Enfants avec Chicandier",
+      "date": "2023-07-01"
+    },
+    {
+      "titre": "Allons Enfants avec Oxmo Puccino",
+      "date": "2023-05-01"
+    },
+    {
+      "titre": "Allons Enfants avec Grégoire Margotton",
+      "date": "2023-03-27"
+    },
+    {
+      "titre": "Allons Enfants avec Frédéric Chau",
+      "date": "2023-02-01"
+    },
+    {
+      "titre": "Allons Enfants avec Mélanie Doutey",
+      "date": "2023-01-02"
+    }
+  ],
+  "derniere_activite": "2023-07-01",
+  "frequence_jours": 17
 }

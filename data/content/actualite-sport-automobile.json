@@ -25,5 +25,29 @@
     "sport"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Épisode 8 : Grand Prix d'Espagne",
+      "date": "2025-06-04"
+    },
+    {
+      "titre": "Épisode 7 : Grand Prix de Monaco",
+      "date": "2025-05-28"
+    },
+    {
+      "titre": "Épisode 6 : Grand Prix d'Imola 2025",
+      "date": "2025-05-20"
+    },
+    {
+      "titre": "Épisode 5 : WEC, 6h de spa 2025",
+      "date": "2025-05-13"
+    },
+    {
+      "titre": "Épisode 4 : MotoGP France 2025",
+      "date": "2025-05-13"
+    }
+  ],
+  "derniere_activite": "2025-06-04",
+  "frequence_jours": 6
 }

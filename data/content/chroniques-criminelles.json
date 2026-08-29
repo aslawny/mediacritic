@@ -25,5 +25,29 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "L’affaire Chantal de Chillou : 19 ans après, la vérité au bout de l’enquête ?",
+      "date": "2026-08-26"
+    },
+    {
+      "titre": "L’affaire Anne-Marie Richy : Les secrets du cadavre sans tête",
+      "date": "2026-08-19"
+    },
+    {
+      "titre": "Feuilleton mortel à Dallas",
+      "date": "2026-08-15"
+    },
+    {
+      "titre": "L’affaire Julien Thévenet : Complot mortel pour mari trompé",
+      "date": "2026-08-12"
+    },
+    {
+      "titre": "L’affaire Bertrand Cantat : Star et meurtrier",
+      "date": "2026-08-05"
+    }
+  ],
+  "derniere_activite": "2026-08-26",
+  "frequence_jours": 7
 }

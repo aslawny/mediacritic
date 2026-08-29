@@ -27,5 +27,29 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "HORS-SÉRIE #2 - Mission en Égypte",
+      "date": "2026-08-18"
+    },
+    {
+      "titre": "HORS-SÉRIE #1 - Mission en Égypte",
+      "date": "2026-08-11"
+    },
+    {
+      "titre": "#35 - Balaam et son ânesse",
+      "date": "2026-08-04"
+    },
+    {
+      "titre": "#34 - Le serpent d’airain",
+      "date": "2026-07-21"
+    },
+    {
+      "titre": "#33 - La traversée du désert",
+      "date": "2026-07-07"
+    }
+  ],
+  "derniere_activite": "2026-08-18",
+  "frequence_jours": 14
 }

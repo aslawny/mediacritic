@@ -26,5 +26,29 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "La plus jeune Danseuse Etoile de l’histoire me parle de sa vie",
+      "date": "2026-06-21"
+    },
+    {
+      "titre": "Anouk me raconte comment elle s’est reconstruite après une relation toxique",
+      "date": "2026-06-06"
+    },
+    {
+      "titre": "Victime d'un AVC à 19 ans, Emma me raconte son histoire",
+      "date": "2026-05-23"
+    },
+    {
+      "titre": "Chloé me parle de ses dons de voyance",
+      "date": "2026-05-09"
+    },
+    {
+      "titre": "Pascal a pris 11 coups de couteau, il me raconte son histoire",
+      "date": "2026-04-25"
+    }
+  ],
+  "derniere_activite": "2026-06-21",
+  "frequence_jours": 14
 }

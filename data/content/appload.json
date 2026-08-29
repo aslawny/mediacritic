@@ -27,5 +27,29 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "AppLoad 267 - L'esprit d'AppLoad ne vous quittera jamais",
+      "date": "2017-12-28"
+    },
+    {
+      "titre": "AppLoad 266 - AppLoad, c'est bon pour la santé",
+      "date": "2017-12-14"
+    },
+    {
+      "titre": "AppLoad 265 - Un vecteur d'expérience",
+      "date": "2017-11-30"
+    },
+    {
+      "titre": "AppLoad 264 - C'est joli mais ça m'reloute",
+      "date": "2017-11-16"
+    },
+    {
+      "titre": "AppLoad 263 - AppLoad communautaire",
+      "date": "2017-10-19"
+    }
+  ],
+  "derniere_activite": "2017-12-28",
+  "frequence_jours": 14
 }

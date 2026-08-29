@@ -26,5 +26,29 @@
     "societe"
   ],
   "addedAt": "2026-07-06",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Escapades dans les îles du Nord",
+      "date": "2022-06-14"
+    },
+    {
+      "titre": "À pied dans les Alpes bavaroises",
+      "date": "2022-05-10"
+    },
+    {
+      "titre": "Cyclo rando en duo",
+      "date": "2022-04-12"
+    },
+    {
+      "titre": "Berlin en mode urbex",
+      "date": "2022-03-15"
+    },
+    {
+      "titre": "C'est parti en combi !",
+      "date": "2022-02-02"
+    }
+  ],
+  "derniere_activite": "2022-06-14",
+  "frequence_jours": 34
 }

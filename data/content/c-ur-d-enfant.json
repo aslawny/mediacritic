@@ -26,5 +26,29 @@
     "famille"
   ],
   "addedAt": "2026-07-15",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Renard, Marcel et les poulettes",
+      "date": "2026-08-09"
+    },
+    {
+      "titre": "La revanche des ombres",
+      "date": "2026-06-21"
+    },
+    {
+      "titre": "Panique au potager",
+      "date": "2026-06-07"
+    },
+    {
+      "titre": "La place de l’autre",
+      "date": "2026-05-24"
+    },
+    {
+      "titre": "Papillon et fier de l’être",
+      "date": "2026-05-11"
+    }
+  ],
+  "derniere_activite": "2026-08-09",
+  "frequence_jours": 14
 }

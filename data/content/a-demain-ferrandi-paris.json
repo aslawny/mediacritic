@@ -23,5 +23,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Quand l'hôtel devient une destination artistique",
+      "date": "2026-05-12"
+    },
+    {
+      "titre": "La salle en pleine métamorphose !",
+      "date": "2026-01-22"
+    },
+    {
+      "titre": "La mer à table : plaisir éphémère ou futur durable ?",
+      "date": "2025-11-25"
+    },
+    {
+      "titre": "Comment les hôtels deviennent des marques ?",
+      "date": "2025-09-29"
+    },
+    {
+      "titre": "Exercer en hôtellerie-restauration dans des lieux insolites",
+      "date": "2025-07-08"
+    }
+  ],
+  "derniere_activite": "2026-05-12",
+  "frequence_jours": 46
 }

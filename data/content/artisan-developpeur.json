@@ -25,5 +25,29 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Demandez le programme avec Samuel Retiere",
+      "date": "2026-03-29"
+    },
+    {
+      "titre": "Aux sources de notre industrie avec Yannick Grenzinger",
+      "date": "2026-03-25"
+    },
+    {
+      "titre": "Gérer du (gros) legacy avec Kevin Platel",
+      "date": "2026-03-15"
+    },
+    {
+      "titre": "L'architecte avec David Berthier",
+      "date": "2026-03-08"
+    },
+    {
+      "titre": "Construire le programme d'une conf avec Yannick Grenzinger",
+      "date": "2026-02-04"
+    }
+  ],
+  "derniere_activite": "2026-03-29",
+  "frequence_jours": 30
 }

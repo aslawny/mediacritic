@@ -27,5 +27,29 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Adieu tétine !",
+      "date": "2026-08-23"
+    },
+    {
+      "titre": "Trop chouette le tricycle !",
+      "date": "2026-08-16"
+    },
+    {
+      "titre": "Des mains toutes propres",
+      "date": "2026-08-09"
+    },
+    {
+      "titre": "Même pas peur du docteur !",
+      "date": "2026-08-02"
+    },
+    {
+      "titre": "Tu me prêtes ton jouet ?",
+      "date": "2026-07-29"
+    }
+  ],
+  "derniere_activite": "2026-08-23",
+  "frequence_jours": 7
 }

@@ -27,5 +27,29 @@
     "famille"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Un chien peut-être raciste ?",
+      "date": "2023-04-07"
+    },
+    {
+      "titre": "Passer d'une maison à un appart, comment s'organiser ?",
+      "date": "2023-03-30"
+    },
+    {
+      "titre": "Mon chien est têtu ! Que faire ?",
+      "date": "2023-03-27"
+    },
+    {
+      "titre": "Comment CARESSER un chien qu'on ne CONNAÎT PAS ?",
+      "date": "2023-03-24"
+    },
+    {
+      "titre": "Une chose importante : LA GESTUELLE",
+      "date": "2023-03-20"
+    }
+  ],
+  "derniere_activite": "2023-04-07",
+  "frequence_jours": 4
 }

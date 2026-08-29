@@ -26,5 +26,29 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-05-08"
+  "updatedAt": "2026-05-08",
+  "episodes_recents": [
+    {
+      "titre": "2 Tickets pour Maestro",
+      "date": "2026-05-31"
+    },
+    {
+      "titre": "2 Tickets pour Together",
+      "date": "2026-05-26"
+    },
+    {
+      "titre": "2 Tickets pour Une bataille après l'autre",
+      "date": "2026-05-20"
+    },
+    {
+      "titre": "2 Tickets pour Equalizer",
+      "date": "2026-05-05"
+    },
+    {
+      "titre": "2 Tickets pour Kubo et l'Armure magique",
+      "date": "2026-04-18"
+    }
+  ],
+  "derniere_activite": "2026-05-31",
+  "frequence_jours": 11
 }

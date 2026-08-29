@@ -25,5 +25,29 @@
     "tech",
     "numérique"
   ],
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Envole-moi: la corneille noire (6/6)",
+      "date": "2026-08-25"
+    },
+    {
+      "titre": "Envole-moi: l'alouette des champs (5/6)",
+      "date": "2026-08-18"
+    },
+    {
+      "titre": "Envole-moi : le martinet noir (4/6)",
+      "date": "2026-08-11"
+    },
+    {
+      "titre": "Envole-moi : la tourterelle des bois (3/6)",
+      "date": "2026-07-28"
+    },
+    {
+      "titre": "Envole-moi : la mésange bleue (2/6)",
+      "date": "2026-07-21"
+    }
+  ],
+  "derniere_activite": "2026-08-25",
+  "frequence_jours": 14
 }

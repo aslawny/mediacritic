@@ -23,5 +23,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Épisode 44 - Disney Village - Histoire, Évolution et Critique",
+      "date": "2025-04-17"
+    },
+    {
+      "titre": "Épisode 43 - Blanche Neige - Histoire et Critique du film",
+      "date": "2025-03-27"
+    },
+    {
+      "titre": "Épisode 42 - Disney+ - Évolution et Faits Marquants 2025",
+      "date": "2025-03-13"
+    },
+    {
+      "titre": "Épisode 41 - Star Wars: Galaxy's Edge - Analyse et Critique",
+      "date": "2025-02-27"
+    },
+    {
+      "titre": "Épisode 40 - L'Amour chez Disney - Spéciale Saint-Valentin",
+      "date": "2025-02-13"
+    }
+  ],
+  "derniere_activite": "2025-04-17",
+  "frequence_jours": 13
 }

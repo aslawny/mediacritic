@@ -25,5 +25,29 @@
     "comedie"
   ],
   "addedAt": "2026-06-24",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "BDLG #4 - Le temps file, collins",
+      "date": "2026-08-12"
+    },
+    {
+      "titre": "BDLG #3 - On tombe et on se relève",
+      "date": "2026-07-21"
+    },
+    {
+      "titre": "EXTRAIT - Manon vous photobombe en vacances",
+      "date": "2026-07-06"
+    },
+    {
+      "titre": "BDLG #2 - T'es une pizza froide",
+      "date": "2026-06-29"
+    },
+    {
+      "titre": "EXTRAIT - Yann doit supprimer chess.com",
+      "date": "2026-06-22"
+    }
+  ],
+  "derniere_activite": "2026-08-12",
+  "frequence_jours": 6
 }

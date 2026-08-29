@@ -25,5 +25,29 @@
   "tags": [
     "santé"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "Episode spécial : IA & Oncologie",
+      "date": "2022-03-25"
+    },
+    {
+      "titre": "Télémédecine",
+      "date": "2021-12-13"
+    },
+    {
+      "titre": "Information",
+      "date": "2021-11-15"
+    },
+    {
+      "titre": "Optimisation",
+      "date": "2021-09-27"
+    },
+    {
+      "titre": "Organisation hospitalière",
+      "date": "2021-06-23"
+    }
+  ],
+  "derniere_activite": "2022-03-25",
+  "frequence_jours": 63
 }

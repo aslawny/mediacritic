@@ -26,5 +26,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Philosophie du voyage selon Jean-Paul Labourdette",
+      "date": "2026-08-19"
+    },
+    {
+      "titre": "Le guide papier face à l'ère numérique",
+      "date": "2026-08-19"
+    },
+    {
+      "titre": "Recrutement des guides du Petit Futé : une approche locale",
+      "date": "2026-08-19"
+    },
+    {
+      "titre": "Voyage et découverte : la passion de Jean-Paul Labourdette",
+      "date": "2026-08-19"
+    },
+    {
+      "titre": "Jean-Paul Labourdette : naissance du Petit Futé",
+      "date": "2026-08-19"
+    }
+  ],
+  "derniere_activite": "2026-08-19",
+  "frequence_jours": 0
 }

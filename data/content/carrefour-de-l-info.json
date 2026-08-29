@@ -23,5 +23,29 @@
     "humour"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-05-23"
+  "updatedAt": "2026-05-23",
+  "episodes_recents": [
+    {
+      "titre": "Émission du 2 July 2026",
+      "date": "2026-07-02"
+    },
+    {
+      "titre": "Émission du 1 July 2026",
+      "date": "2026-07-01"
+    },
+    {
+      "titre": "Émission du 2 June 2026",
+      "date": "2026-06-02"
+    },
+    {
+      "titre": "Émission du 1 June 2026",
+      "date": "2026-06-01"
+    },
+    {
+      "titre": "Émission du 2 April 2026",
+      "date": "2026-04-02"
+    }
+  ],
+  "derniere_activite": "2026-07-02",
+  "frequence_jours": 58
 }

@@ -25,5 +25,29 @@
     "cuisine"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "C'est mon métier, le podcast",
+      "date": "2025-05-20"
+    },
+    {
+      "titre": "Anne L'Huillier, physicienne et lauréate du prix Nobel de physique 2023",
+      "date": "2025-05-01"
+    },
+    {
+      "titre": "Fatima Belarouci, assistante sociale",
+      "date": "2025-04-09"
+    },
+    {
+      "titre": "Clio, Alice & Angéline, Erasmus à Budapest",
+      "date": "2025-03-19"
+    },
+    {
+      "titre": "Ingrid Cadoret, attachée de presse",
+      "date": "2025-02-26"
+    }
+  ],
+  "derniere_activite": "2025-05-20",
+  "frequence_jours": 20
 }

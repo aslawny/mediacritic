@@ -24,5 +24,29 @@
     "culture",
     "société"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "Les sorties culturelles",
+      "date": "2024-07-10"
+    },
+    {
+      "titre": "Dans un immeuble haussmannien",
+      "date": "2024-06-14"
+    },
+    {
+      "titre": "Le skatepark",
+      "date": "2024-05-30"
+    },
+    {
+      "titre": "Les boutiques de la rue Saint-Antoine",
+      "date": "2024-05-06"
+    },
+    {
+      "titre": "Un musée pour les enfants",
+      "date": "2024-04-15"
+    }
+  ],
+  "derniere_activite": "2024-07-10",
+  "frequence_jours": 17
 }

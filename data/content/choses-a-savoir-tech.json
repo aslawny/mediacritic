@@ -24,5 +24,29 @@
     "tech",
     "numérique"
   ],
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Des neurones humains pour faire fonctionner l’IA ?",
+      "date": "2026-08-27"
+    },
+    {
+      "titre": "Le passeport numérique des produits débarque en Europe ?",
+      "date": "2026-08-26"
+    },
+    {
+      "titre": "Pub dans ChatGPT, que cache OpenAI avec cette décision ?",
+      "date": "2026-08-25"
+    },
+    {
+      "titre": "AliExpress trace ses clients à leur insu ?",
+      "date": "2026-08-24"
+    },
+    {
+      "titre": "Amazon entraine son IA avec le contenu de Twitch ?",
+      "date": "2026-08-23"
+    }
+  ],
+  "derniere_activite": "2026-08-27",
+  "frequence_jours": 1
 }

@@ -26,5 +26,29 @@
     "humour"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Les secrets d’une vie de couple réussie",
+      "date": "2018-04-04"
+    },
+    {
+      "titre": "Un plan de vol revu à la hausse",
+      "date": "2018-03-20"
+    },
+    {
+      "titre": "Relevée de la dépression",
+      "date": "2018-03-14"
+    },
+    {
+      "titre": "Le livre d’Orient",
+      "date": "2018-02-06"
+    },
+    {
+      "titre": "Affranchie du passé",
+      "date": "2018-01-30"
+    }
+  ],
+  "derniere_activite": "2018-04-04",
+  "frequence_jours": 15
 }

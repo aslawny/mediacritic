@@ -25,5 +25,29 @@
     "cuisine"
   ],
   "addedAt": "2026-07-19",
-  "updatedAt": "2026-07-19"
+  "updatedAt": "2026-07-19",
+  "episodes_recents": [
+    {
+      "titre": "LE TOUR DU MONDE DES BARBECUES",
+      "date": "2026-05-29"
+    },
+    {
+      "titre": "On est allé sur la lune grâce au barbecue !",
+      "date": "2026-05-10"
+    },
+    {
+      "titre": "D'où vient barbecue ?",
+      "date": "2026-05-06"
+    },
+    {
+      "titre": "Brasero chez Louvel !",
+      "date": "2026-03-30"
+    },
+    {
+      "titre": "Mmmmmmm",
+      "date": "2026-03-30"
+    }
+  ],
+  "derniere_activite": "2026-05-29",
+  "frequence_jours": 3
 }

@@ -27,5 +27,29 @@
     "comedie"
   ],
   "addedAt": "2026-06-21",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Y'a photo",
+      "date": "2025-01-10"
+    },
+    {
+      "titre": "Vol postal",
+      "date": "2025-01-09"
+    },
+    {
+      "titre": "Vendredi quoi",
+      "date": "2025-01-08"
+    },
+    {
+      "titre": "Vaudou",
+      "date": "2025-01-07"
+    },
+    {
+      "titre": "Un petit coucou",
+      "date": "2025-01-06"
+    }
+  ],
+  "derniere_activite": "2025-01-10",
+  "frequence_jours": 0
 }

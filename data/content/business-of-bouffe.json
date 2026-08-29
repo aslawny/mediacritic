@@ -26,5 +26,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "[Replay] Entrez Plat Dessert - Maslow | Le végétarien qui n’en fait pas tout un plat",
+      "date": "2026-08-26"
+    },
+    {
+      "titre": "[Replay] Bruno Doucet | L’histoire d’une figure incontournable de la bistronomie parisienne",
+      "date": "2026-08-23"
+    },
+    {
+      "titre": "[Replay] Entrez Plat Dessert - Newrest | Quand la gastronomie prend de l’altitude",
+      "date": "2026-08-19"
+    },
+    {
+      "titre": "[Replay] Franco Fubini - Natoora | L'histoire d'un entrepreneur pragmatique qui veut réparer le système agroal",
+      "date": "2026-08-16"
+    },
+    {
+      "titre": "[Replay] Entrez Plat Dessert - Exalt | Une exceptionnelle cantine d’entreprise",
+      "date": "2026-08-12"
+    }
+  ],
+  "derniere_activite": "2026-08-26",
+  "frequence_jours": 4
 }

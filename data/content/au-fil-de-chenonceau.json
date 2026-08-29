@@ -25,5 +25,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "8. L'histoire de la gastronomie à Chenonceau depuis les cuisines de L'Orangerie",
+      "date": "2024-08-18"
+    },
+    {
+      "titre": "7. Le Cabinet des Sciences, témoin de l'effervescence scientifique du Siècle des Lumières",
+      "date": "2024-06-18"
+    },
+    {
+      "titre": "6. L'apothicairerie de la Reine, comme à l'époque de Catherine de Médicis",
+      "date": "2024-04-18"
+    },
+    {
+      "titre": "5. Visite guidée des jardins de Chenonceau",
+      "date": "2024-02-19"
+    },
+    {
+      "titre": "4. Chenonceau, l'histoire d'une architecture unique",
+      "date": "2023-12-19"
+    }
+  ],
+  "derniere_activite": "2024-08-18",
+  "frequence_jours": 61
 }

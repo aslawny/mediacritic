@@ -24,5 +24,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Le Pen. Et maintenant ? - S11E95 - Mardi 08 Juillet 2026",
+      "date": "2026-07-08"
+    },
+    {
+      "titre": "L’homme “nouveau”, nouvelle arnaque du patriarcat ? - S11E94 - Mardi 30 Juin 2026",
+      "date": "2026-07-01"
+    },
+    {
+      "titre": "Bouffe de l’art - S11E93 - Jeudi 25 Juin 2026",
+      "date": "2026-06-25"
+    },
+    {
+      "titre": "A qui profite la protection de la nature ? - S11E92 - Mercredi 24 Juin 2026",
+      "date": "2026-06-25"
+    },
+    {
+      "titre": "2027 Faire mieux ? Mais comment et avec qui ? Mathilde Panot convoquée Au Poste - S11E91 - MErcredi 24 Juin 20",
+      "date": "2026-06-24"
+    }
+  ],
+  "derniere_activite": "2026-07-08",
+  "frequence_jours": 1
 }

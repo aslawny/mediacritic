@@ -26,5 +26,29 @@
     "societe"
   ],
   "addedAt": "2026-05-28",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Épisode 22 : crise de panique dans le parc de Tayrona",
+      "date": "2026-08-02"
+    },
+    {
+      "titre": "Épisode 21 : en mode Pékin express dans la Vallée de Cocora",
+      "date": "2026-07-26"
+    },
+    {
+      "titre": "Épisode 20 : attaque d'anaconda dans la forêt amazonienne",
+      "date": "2026-07-19"
+    },
+    {
+      "titre": "Épisode 19 : on escalade le volcan Rumiñahui dans le parc du Cotopaxi",
+      "date": "2026-07-12"
+    },
+    {
+      "titre": "Episode 18 : on nage avec des lions de mer aux Galapagos",
+      "date": "2026-07-05"
+    }
+  ],
+  "derniere_activite": "2026-08-02",
+  "frequence_jours": 7
 }

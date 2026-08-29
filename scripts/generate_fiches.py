@@ -266,6 +266,41 @@ def bloc_similaires(data):
             % ("".join(cartes), lien))
 
 
+
+def bloc_episodes(data):
+    """Derniers episodes, frequence et derniere activite. Rien n'est affiche
+    si la donnee manque : certains flux ne l'exposent pas."""
+    eps = data.get("episodes_recents") or []
+    freq = data.get("frequence_jours")
+    derniere = data.get("derniere_activite")
+    if not eps and not freq and not derniere:
+        return ""
+    meta = []
+    if freq is not None:
+        if freq <= 2:
+            meta.append("Publie quotidiennement")
+        elif freq <= 9:
+            meta.append("Publie chaque semaine environ")
+        elif freq <= 20:
+            meta.append("Publie tous les 15 jours environ")
+        else:
+            meta.append("Publie environ tous les %d jours" % freq)
+    if derniere:
+        try:
+            j = date.fromisoformat(derniere)
+            meta.append("dernier contenu le %s" % j.strftime("%d/%m/%Y"))
+        except ValueError:
+            pass
+    lignes = "".join(
+        '<li><span class="ep-date">%s</span>%s</li>'
+        % (h(e.get("date") or ""), h(e.get("titre") or ""))
+        for e in eps)
+    liste = '<ul class="ep-list">%s</ul>' % lignes if lignes else ""
+    intro = '<p>%s.</p>' % h(" — ".join(meta)) if meta else ""
+    return ('  <div class="card"><h2>Derniers contenus publies</h2>%s%s</div>'
+            % (intro, liste))
+
+
 def render_fiche(data):
     slug = data["slug"]
     title = data.get("title", slug)
@@ -512,6 +547,7 @@ def render_fiche(data):
     <p>{h(desc_full).replace(chr(10), '<br>')}</p>{stats_html}{cats_html}
   </div>
 
+{bloc_episodes(data)}
 {bloc_similaires(data)}
   <div class="card">
     <h2>📻 MediaCritic, c'est quoi ?</h2>

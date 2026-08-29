@@ -27,5 +27,29 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Ariol et les dragons de bibliothèque : La jument de Muybridge",
+      "date": "2025-11-07"
+    },
+    {
+      "titre": "Ariol et les dragons de bibliothèque : Le Carnaval des animaux",
+      "date": "2025-10-31"
+    },
+    {
+      "titre": "Ariol et les dragons de bibliothèque : Le centaure du globe céleste",
+      "date": "2025-10-24"
+    },
+    {
+      "titre": "Ariol et les dragons de bibliothèque : Les renards d’Oji",
+      "date": "2025-10-17"
+    },
+    {
+      "titre": "Ariol et les dragons de bibliothèque : Les dragons de Marco Polo",
+      "date": "2025-10-10"
+    }
+  ],
+  "derniere_activite": "2025-11-07",
+  "frequence_jours": 6
 }

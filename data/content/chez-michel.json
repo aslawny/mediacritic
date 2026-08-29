@@ -26,5 +26,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Chez Michel #19 - En direct du Nancy Jazz Pulsations",
+      "date": "2024-10-14"
+    },
+    {
+      "titre": "Chez Michel #18 - Le Name 2024 - Inclusion et diversité. Comment se taper la cloche de manière responsable ?",
+      "date": "2024-10-07"
+    },
+    {
+      "titre": "Chez Michel #17 - en direct du NAME festival avec Sarika Sor, Moonwine, Peo watson..",
+      "date": "2023-10-09"
+    },
+    {
+      "titre": "Chez Michel #16 - En direct du Bistrot St So' pour le NAME Festival",
+      "date": "2022-10-04"
+    },
+    {
+      "titre": "Chez Michel #15 - Avec Juliette Brunet au Restaurant Ventrus",
+      "date": "2021-12-08"
+    }
+  ],
+  "derniere_activite": "2024-10-14",
+  "frequence_jours": 59
 }

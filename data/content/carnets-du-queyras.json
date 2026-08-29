@@ -26,5 +26,29 @@
     "societe"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Le Randonneur",
+      "date": "2025-12-24"
+    },
+    {
+      "titre": "Le Mont Viso, le géant bienveillant",
+      "date": "2025-12-22"
+    },
+    {
+      "titre": "Les Gabelous, un gîte pas comme les autres",
+      "date": "2025-12-15"
+    },
+    {
+      "titre": "Dans le brouillard, la salamandre",
+      "date": "2025-12-08"
+    },
+    {
+      "titre": "Boris, l'homme qui marche",
+      "date": "2025-12-01"
+    }
+  ],
+  "derniere_activite": "2025-12-24",
+  "frequence_jours": 7
 }

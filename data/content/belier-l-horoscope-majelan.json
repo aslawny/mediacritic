@@ -27,5 +27,29 @@
     "societe"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-05-23"
+  "updatedAt": "2026-05-23",
+  "episodes_recents": [
+    {
+      "titre": "Semaine du 26 septembre",
+      "date": "2022-09-26"
+    },
+    {
+      "titre": "Semaine du 19 septembre",
+      "date": "2022-09-19"
+    },
+    {
+      "titre": "Semaine du 12 septembre",
+      "date": "2022-09-12"
+    },
+    {
+      "titre": "Semaine du 5 septembre",
+      "date": "2022-09-05"
+    },
+    {
+      "titre": "Semaine du 29 août",
+      "date": "2022-08-29"
+    }
+  ],
+  "derniere_activite": "2022-09-26",
+  "frequence_jours": 7
 }

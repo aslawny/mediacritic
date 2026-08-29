@@ -26,5 +26,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "18H Yves Calvi du dimanche 23 août 2026",
+      "date": "2026-08-22"
+    },
+    {
+      "titre": "18H Yves Calvi du samedi 22 août 2026",
+      "date": "2026-08-22"
+    },
+    {
+      "titre": "18H Yves Calvi du samedi 15 août 2026",
+      "date": "2026-08-15"
+    },
+    {
+      "titre": "18H Yves Calvi du dimanche 16 août 2026",
+      "date": "2026-08-15"
+    },
+    {
+      "titre": "18H Week-end du samedi 8 août 2026",
+      "date": "2026-08-08"
+    }
+  ],
+  "derniere_activite": "2026-08-22",
+  "frequence_jours": 6
 }

@@ -26,5 +26,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "À Table avec... Tom Meyer (La Chèvre d'Or), étoilé et MOF avant 30 ans",
+      "date": "2026-07-03"
+    },
+    {
+      "titre": "À Table avec… Diego Delbecq, doublement étoilé et jeune prodige de la gastronomie nordiste",
+      "date": "2026-06-01"
+    },
+    {
+      "titre": "À Table avec... Gilles Goujon, trois étoiles et Meilleur Ouvrier de France",
+      "date": "2026-04-28"
+    },
+    {
+      "titre": "À Table avec... Gwendal Poullennec après la cérémonie Michelin 2026!",
+      "date": "2026-03-27"
+    },
+    {
+      "titre": "À Table avec...Mallory Gabsi",
+      "date": "2026-02-12"
+    }
+  ],
+  "derniere_activite": "2026-07-03",
+  "frequence_jours": 31
 }

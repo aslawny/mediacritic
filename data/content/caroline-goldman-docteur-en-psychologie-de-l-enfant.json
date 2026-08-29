@@ -26,5 +26,29 @@
     "enfants",
     "éducation"
   ],
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "POURQUOI - Le Bonheur",
+      "date": "2024-11-25"
+    },
+    {
+      "titre": "Les mensonges des enfants",
+      "date": "2024-10-17"
+    },
+    {
+      "titre": "Les écrans",
+      "date": "2024-10-10"
+    },
+    {
+      "titre": "Le bébé",
+      "date": "2024-10-03"
+    },
+    {
+      "titre": "Les activités extrascolaires",
+      "date": "2023-01-23"
+    }
+  ],
+  "derniere_activite": "2024-11-25",
+  "frequence_jours": 8
 }

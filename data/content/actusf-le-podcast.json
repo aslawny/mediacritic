@@ -26,5 +26,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Et voici toute l''actu de la science-fiction et de la fantasy pour le 26 août 2026 !",
+      "date": "2026-08-26"
+    },
+    {
+      "titre": "Quelques news de science-fiction pour le 25 août 2026... On parle d'Insidious, d'un appel à texte, d'un Bouffo",
+      "date": "2026-08-25"
+    },
+    {
+      "titre": "L'Interview de Thibault Lafargue pour la sortie du Bouffon de la couronne 2 !",
+      "date": "2026-08-25"
+    },
+    {
+      "titre": "Quelques news de science-fiction pour le 24 août 2026... Dark Matter, Jack Vance, Ridley Scott",
+      "date": "2026-08-24"
+    },
+    {
+      "titre": "Sense of Wonder : Fils de l'espace d'Edwin Charles Tubb (1958)",
+      "date": "2026-08-20"
+    }
+  ],
+  "derniere_activite": "2026-08-26",
+  "frequence_jours": 1
 }

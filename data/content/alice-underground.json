@@ -25,5 +25,29 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Rideau ! Avec Panayotis Pascot",
+      "date": "2026-05-27"
+    },
+    {
+      "titre": "Quelque part en Alsace avec Hakim Jemili",
+      "date": "2026-05-20"
+    },
+    {
+      "titre": "Perdu au Portugal avec David castello-lopes",
+      "date": "2026-05-13"
+    },
+    {
+      "titre": "Le casse du siècle avec Vimala Pons",
+      "date": "2026-05-06"
+    },
+    {
+      "titre": "Attention au départ avec Kalika",
+      "date": "2026-04-29"
+    }
+  ],
+  "derniere_activite": "2026-05-27",
+  "frequence_jours": 7
 }

@@ -26,5 +26,29 @@
     "famille"
   ],
   "addedAt": "2026-07-27",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Découvrez Même pas vrai !",
+      "date": "2022-02-28"
+    },
+    {
+      "titre": "Pourquoi les footballeurs sont riches ?",
+      "date": "2021-06-06"
+    },
+    {
+      "titre": "Pourquoi les oiseaux ne migrent plus comme avant ?",
+      "date": "2021-05-09"
+    },
+    {
+      "titre": "Qui décide ce qu’on mange à la cantine ?",
+      "date": "2021-04-26"
+    },
+    {
+      "titre": "Pourquoi on détruit la forêt amazonienne ?",
+      "date": "2021-02-28"
+    }
+  ],
+  "derniere_activite": "2022-02-28",
+  "frequence_jours": 7
 }

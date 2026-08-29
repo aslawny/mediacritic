@@ -26,5 +26,29 @@
     "famille"
   ],
   "addedAt": "2026-06-30",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Episode 9 - Quand s'inquiéter pour le langage de son enfant ?",
+      "date": "2026-08-04"
+    },
+    {
+      "titre": "Episode 8 - Pourquoi et comment lire à votre bébé ?",
+      "date": "2026-07-08"
+    },
+    {
+      "titre": "Episode 7 - La vérité sur les écrans et le développement du bébé",
+      "date": "2026-05-10"
+    },
+    {
+      "titre": "Episode 6 - Que comprend votre bébé (0 - 3 ans) ?",
+      "date": "2026-05-03"
+    },
+    {
+      "titre": "Episode 5 - Communiquer avec son bébé (2 - 3 ans)",
+      "date": "2026-03-08"
+    }
+  ],
+  "derniere_activite": "2026-08-04",
+  "frequence_jours": 8
 }

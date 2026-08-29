@@ -23,5 +23,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Chapitre 6 : Le point commun entre Nutella, Star Wars et Vilebrequin ?",
+      "date": "2024-11-15"
+    },
+    {
+      "titre": "Chapitre 5 : Le vendeur de vin qui vend peu de vin",
+      "date": "2024-05-23"
+    },
+    {
+      "titre": "Chapitre 4 : B comme Balthaz et Bricolage",
+      "date": "2024-03-12"
+    },
+    {
+      "titre": "Chapitre 3 : Créer un média en étant introverti ?",
+      "date": "2024-02-18"
+    },
+    {
+      "titre": "Chapitre 2 : Vendre du vin sur internet",
+      "date": "2024-02-10"
+    }
+  ],
+  "derniere_activite": "2024-11-15",
+  "frequence_jours": 34
 }

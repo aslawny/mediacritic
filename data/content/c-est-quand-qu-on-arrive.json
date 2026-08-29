@@ -27,5 +27,29 @@
     "famille"
   ],
   "addedAt": "2026-07-09",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "L'océan",
+      "date": "2026-08-07"
+    },
+    {
+      "titre": "Poisson d'avril",
+      "date": "2026-04-01"
+    },
+    {
+      "titre": "Les véhicules",
+      "date": "2026-02-25"
+    },
+    {
+      "titre": "La montagne",
+      "date": "2026-02-11"
+    },
+    {
+      "titre": "Le sport",
+      "date": "2026-01-28"
+    }
+  ],
+  "derniere_activite": "2026-08-07",
+  "frequence_jours": 14
 }

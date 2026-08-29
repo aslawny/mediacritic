@@ -26,5 +26,29 @@
     "gaming",
     "rétro"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "Je veux une juste une dernière danse...",
+      "date": "2025-04-15"
+    },
+    {
+      "titre": "Une quinzaine de petites et de grosses annonces",
+      "date": "2025-04-01"
+    },
+    {
+      "titre": "Salon, Pégase, IA et plombier moustachu",
+      "date": "2025-03-19"
+    },
+    {
+      "titre": "Des monstres, des smartphones et du fun?",
+      "date": "2025-03-04"
+    },
+    {
+      "titre": "Du rétro, des films et des séries",
+      "date": "2025-02-11"
+    }
+  ],
+  "derniere_activite": "2025-04-15",
+  "frequence_jours": 14
 }

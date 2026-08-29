@@ -27,5 +27,29 @@
     "societe"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Japon - La forêt des suicides",
+      "date": "2025-01-26"
+    },
+    {
+      "titre": "Italie - Pourquoi la Tour de Pise est-elle penchée ?",
+      "date": "2025-01-13"
+    },
+    {
+      "titre": "Portugal - La chapelle des os d'Évora",
+      "date": "2022-08-22"
+    },
+    {
+      "titre": "Pays basque - L'île des Faisans coupe la poire en deux",
+      "date": "2022-07-09"
+    },
+    {
+      "titre": "Océan Atlantique - Le triangle des Bermudes, danger de mort ?",
+      "date": "2022-06-10"
+    }
+  ],
+  "derniere_activite": "2025-01-26",
+  "frequence_jours": 20
 }

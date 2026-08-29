@@ -26,5 +26,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Chef 2 étoiles et amoureux de Chartreuse, Patrick Henriroux de la Pyramide à Vienne, autour d’un Last Word",
+      "date": "2026-06-17"
+    },
+    {
+      "titre": "Le whisky français, avec Pascal Harder, autour d’un Ardèche Mule",
+      "date": "2026-05-05"
+    },
+    {
+      "titre": "Distillation et absinthe, avec Matthieu Frécon, autour d’un Absinthe Champagne",
+      "date": "2026-04-01"
+    },
+    {
+      "titre": "[EXTRAIT] Distillation et absinthe, avec Matthieu Frécon, autour d’un Absinthe Champagne",
+      "date": "2026-04-01"
+    },
+    {
+      "titre": "Le rhum en amphore, en poirier, en châtaignier? Avec Nicolas Petit de Vagabonds Spirits, autour d’un Ester Daï",
+      "date": "2026-03-04"
+    }
+  ],
+  "derniere_activite": "2026-06-17",
+  "frequence_jours": 28
 }
