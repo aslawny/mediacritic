@@ -30,7 +30,7 @@ BASE_URL = "https://www.mediacritic.fr"
 CATEGORY_PAGES = {
     "histoire", "gaming", "tech", "sport", "cuisine-gastronomie",
     "true-crime", "sciences", "business", "cinema-series",
-    "culture-societe", "musique", "humour",
+    "culture-societe", "musique", "humour", "voyage",
 }
 CATEGORY_ALIASES = {  # catégorie du catalogue → nom de la page
     "cuisine": "cuisine-gastronomie",
@@ -44,6 +44,8 @@ CATEGORY_ALIASES = {  # catégorie du catalogue → nom de la page
     "culture": "culture-societe",
     "societe": "culture-societe",
     "comedie": "humour",
+    "numerique": "tech",
+    "arts": "culture-societe",
 }
 
 def category_href(cat):
@@ -166,6 +168,102 @@ def stars_html(rating):
     half = 1 if (r - full) >= 0.5 else 0
     empty = 5 - full - half
     return "★" * full + ("½" if half else "") + "☆" * empty
+
+
+# ─── Maillage latéral ─────────────────────────────────────────────────────────
+# 88 % des fiches n'étaient atteignables que par le sitemap ou le JS, et aucune
+# ne pointait vers une autre : chaque page était un cul-de-sac, pour le visiteur
+# comme pour le crawl. Cet index alimente le bloc « à découvrir aussi ».
+INDEX_SIMILAIRES = {}
+ANNEAU = {}
+
+
+def construire_index(all_data):
+    INDEX_SIMILAIRES.clear()
+    for d in all_data:
+        pf = d.get("platforms") or {}
+        pop = (int((pf.get("apple") or {}).get("ratingCount") or 0)
+               or int((pf.get("youtube") or {}).get("subscribers") or 0) // 1000)
+        fiche = {"slug": d.get("slug"), "title": d.get("title", ""),
+                 "image": d.get("image"), "type": d.get("type", "podcast"),
+                 "auteur": d.get("author", ""), "pop": pop,
+                 "mc": bool(d.get("mediacritic"))}
+        for c in (d.get("categories") or [])[:3]:
+            INDEX_SIMILAIRES.setdefault(c, []).append(fiche)
+    for lst in INDEX_SIMILAIRES.values():
+        # Les contenus analysés d'abord : ce sont nos pages les plus
+        # qualitatives, et elles ramènent vers le podcast.
+        lst.sort(key=lambda f: (not f["mc"], -f["pop"], f["title"].lower()))
+    # Anneau alphabétique : les recommandations par popularité ramènent
+    # toujours les mêmes fiches, laissant les autres orphelines (11 % → 16 %
+    # d'atteignabilité seulement). En liant chaque fiche à ses deux voisines
+    # alphabétiques, on ferme une chaîne qui parcourt toute la catégorie et
+    # rend chaque page joignable par un lien HTML.
+    ANNEAU.clear()
+    for c, lst in INDEX_SIMILAIRES.items():
+        ordonne = sorted(lst, key=lambda f: (f["title"].lower(), f["slug"]))
+        for i, f in enumerate(ordonne):
+            ANNEAU.setdefault(f["slug"], []).append(ordonne[(i + 1) % len(ordonne)])
+
+
+def similaires(data, maxi=6):
+    """Même catégorie, même type de préférence, les plus consultés d'abord.
+    Jamais de recommandation inventée : uniquement des fiches existantes."""
+    vus = {data.get("slug")}
+    choix = []
+    # Au plus 2 contenus analyses : au-dela, une categorie large comme
+    # « culture » ne remontait QUE nos propres critiques, au detriment de la
+    # pertinence. Deux suffisent a ramener vers le podcast.
+    MAX_MC = 2
+    nb_mc = 0
+    for meme_type in (True, False):
+        for c in (data.get("categories") or []):
+            for f in INDEX_SIMILAIRES.get(c, []):
+                if f["slug"] in vus:
+                    continue
+                if meme_type and f["type"] != data.get("type", "podcast"):
+                    continue
+                if f["mc"] and nb_mc >= MAX_MC:
+                    continue
+                vus.add(f["slug"])
+                choix.append(f)
+                nb_mc += f["mc"]
+                if len(choix) >= maxi:
+                    return choix
+    return choix
+
+
+def bloc_similaires(data):
+    items = similaires(data)
+    # Voisins de l'anneau : garantissent qu'aucune fiche ne reste orpheline.
+    # A ajouter AVANT la construction des cartes, sinon ils ne sont pas rendus.
+    deja = {f["slug"] for f in items} | {data.get("slug")}
+    for v in ANNEAU.get(data.get("slug"), []):
+        if v["slug"] not in deja:
+            items.append(v)
+            deja.add(v["slug"])
+    if not items:
+        return ""
+    cartes = []
+    for f in items:
+        if f["image"]:
+            vign = '<img src="%s" alt="%s" loading="lazy" />' % (h(f["image"]), h(f["title"]))
+        else:
+            ini = "".join(w[0].upper() for w in f["title"].split()[:2]) or "?"
+            vign = '<span class="sim-ph">%s</span>' % h(ini)
+        etoile = '<span class="sim-mc" title="Analysé par MediaCritic">★</span>' if f["mc"] else ""
+        cartes.append(
+            '<a class="sim-item" href="%s.html"><span class="sim-cover">%s%s</span>'
+            '<span class="sim-title">%s</span><span class="sim-author">%s</span></a>'
+            % (h(f["slug"]), vign, etoile, h(f["title"]), h(f["auteur"][:30])))
+    cats = data.get("categories") or []
+    lien = ""
+    if cats:
+        lien = ('<div style="margin-top:18px"><a class="btn btn-mc" href="%s">'
+                'Tout voir en %s →</a></div>' % (category_href(cats[0]), h(cats[0])))
+    return ('  <div class="card">    <h2>À découvrir aussi</h2>'
+            '    <div class="sim-grid">%s</div>%s  </div>'
+            % ("".join(cartes), lien))
 
 
 def render_fiche(data):
@@ -398,6 +496,7 @@ def render_fiche(data):
     <p>{h(desc_full).replace(chr(10), '<br>')}</p>{stats_html}{cats_html}
   </div>
 
+{bloc_similaires(data)}
   <div class="card">
     <h2>📻 MediaCritic, c'est quoi ?</h2>
     <p>MediaCritic est le podcast francophone indépendant qui analyse et critique des podcasts, émissions et chaînes YouTube. Chaque semaine, Alex et Lolo décortiquent un média avec méthode, passion et humour.</p>
@@ -579,6 +678,7 @@ def main():
     skipped = 0
     updated = 0
     all_data = []
+    a_rendre = []
     processed_slugs = []
 
     for json_path in json_files:
@@ -601,17 +701,20 @@ def main():
             continue
 
         all_data.append(data)
-        html_path = FICHES_DIR / f"{slug}.html"
         processed_slugs.append(slug)
+        a_rendre.append((json_path, data))
 
+    # Le bloc « similaires » a besoin de TOUT le corpus : impossible de rendre
+    # une fiche avant d'avoir lu les autres. D'ou ces deux passes.
+    construire_index(all_data)
+    for json_path, data in a_rendre:
+        html_path = FICHES_DIR / f"{data['slug']}.html"
         if not needs_update(json_path, html_path):
             skipped += 1
             continue
-
         html = render_fiche(data)
         existed = html_path.exists()
         html_path.write_text(html, encoding="utf-8")
-
         if existed:
             updated += 1
         else:
