@@ -11,6 +11,7 @@ FAQ et un JSON-LD ItemList. Le CSS/nav/footer sont repris d'une page modèle.
 Usage : python scripts/generate_categories.py
 """
 import json, re, html, subprocess
+from datetime import date
 from pathlib import Path
 
 ROOT = Path(__file__).parent.parent
@@ -18,7 +19,13 @@ CATALOG = ROOT / "data" / "catalog.json"
 OUT = ROOT / "categories"
 BASE = "https://www.mediacritic.fr"
 GA = "G-3W2VTTEWG8"
-MONTH = "juin 2026"
+# Calcule, jamais fige : la valeur en dur affichait encore « juin 2026 » fin
+# aout. Une page d annuaire qui se declare perimee perd la confiance du
+# lecteur et le signal de fraicheur.
+_MOIS = ("janvier", "février", "mars", "avril", "mai", "juin", "juillet",
+         "août", "septembre", "octobre", "novembre", "décembre")
+_aujourdhui = date.today()
+MONTH = f"{_MOIS[_aujourdhui.month - 1]} {_aujourdhui.year}"
 MAX_OTHERS = 80
 
 # CSS partagé : extrait d'une page modèle (déterministe, via git)
