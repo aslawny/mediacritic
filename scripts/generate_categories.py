@@ -223,7 +223,9 @@ def build_page(cfg, catalog):
     shown_others = others
 
     mc_titles = ", ".join(x["title"] for x in mc[:5])
-    desc = f'{total}+ podcasts et chaînes YouTube {cfg["name"].lower()} francophones'
+    # « Annuaire » en tete : ces 13 pages sont indexees et portent, elles aussi,
+    # l identite d annuaire -- pas seulement celle d un blog de critiques.
+    desc = f'Annuaire de {total}+ podcasts et chaînes YouTube {cfg["name"].lower()} francophones'
     if mc:
         desc += f', dont {len(mc)} analysé{"s" if len(mc)>1 else ""} par MediaCritic : {mc_titles}.'
     else:
@@ -235,9 +237,19 @@ def build_page(cfg, catalog):
                  "item": {"@type": "PodcastSeries", "name": x["title"],
                           "url": f'{BASE}/fiches/{x["slug"]}.html'}}
                 for i, x in enumerate(ld_items)]
+    # isPartOf rattache la page a l annuaire declare sur l accueil : sans ce
+    # lien, chaque page categorie n est qu une liste isolee aux yeux d un moteur.
     itemlist = {"@context": "https://schema.org", "@graph": [
         {"@type": "ItemList", "name": cfg["h1"], "numberOfItems": len(elements),
-         "itemListElement": elements},
+         "itemListElement": elements,
+         "isPartOf": {"@id": BASE + "/#annuaire"}},
+        {"@type": "DataCatalog", "@id": BASE + "/#annuaire",
+         "name": "Annuaire MediaCritic des podcasts et chaînes YouTube francophones",
+         "alternateName": ["Annuaire podcast francophone",
+                           "Répertoire collaboratif de podcasts",
+                           "Le guide des podcasts indépendants"],
+         "url": BASE + "/catalogue.html",
+         "inLanguage": "fr-FR", "isAccessibleForFree": True},
         {"@type": "BreadcrumbList", "itemListElement": [
             {"@type": "ListItem", "position": 1, "name": "MediaCritic", "item": BASE + "/"},
             {"@type": "ListItem", "position": 2, "name": cfg["name"],

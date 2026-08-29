@@ -182,6 +182,32 @@ if _lt or _ld:
     print(f"  ! {_lt} titre(s) > 60 car. et {_ld} description(s) > 160 car. "
           f"seront tronqués par Google (texte éditorial, non bloquant)")
 
+# 8. Double identite : annuaire ET critiques
+#    Les moteurs generatifs ne percevaient le site que comme un blog de
+#    critiques. Ce controle empeche l identite d annuaire de disparaitre
+#    silencieusement a la prochaine refonte de balises.
+for _page, _url in (("index.html", "accueil"), ("catalogue.html", "catalogue")):
+    _t = (ROOT / _page).read_text(encoding="utf-8")
+    _m = re.search(r"<title>(.*?)</title>", _t, re.S)
+    if not _m or "annuaire" not in _m.group(1).lower():
+        err(f"{_page} : le <title> ne contient plus « Annuaire » — "
+            f"l'identité d'annuaire disparaît des résultats de recherche")
+    if '"DataCatalog"' not in _t:
+        err(f"{_page} : nœud JSON-LD DataCatalog absent — sans lui une IA ne "
+            f"comprend pas que le site est un annuaire et non un blog")
+    if not re.search(r"<h2[^>]*>", _t):
+        err(f"{_page} : aucun H2, la hiérarchie sémantique est incomplète")
+
+# Les pages categories doivent etre rattachees a l entite annuaire
+_orphelines = [f.name for f in (ROOT / "categories").glob("*.html")
+               if "#annuaire" not in f.read_text(encoding="utf-8")]
+if _orphelines:
+    err(f"{len(_orphelines)} page(s) catégorie sans isPartOf vers l'annuaire : "
+        f"{_orphelines[:4]} — relancer generate_categories.py")
+if not errors:
+    print("  ✓ identité d'annuaire présente (title, DataCatalog, H2, "
+          f"{len(list((ROOT / 'categories').glob('*.html')))} pages catégories rattachées)")
+
 if errors:
     print(f"\n{len(errors)} erreur(s).")
     sys.exit(1)
