@@ -314,6 +314,7 @@ def build_page(cfg, catalog):
 {BURGER_BTN}
 <div class="nav-links">
 <a href="../">Catalogue</a>
+<a href="../classement.html">Classement</a>
 <a href="../palmares.html">Palmarès</a>
 <a href="../qui-sommes-nous.html">Qui sommes-nous</a>
 <a href="../contact.html">Contact</a>
@@ -346,6 +347,7 @@ def build_page(cfg, catalog):
 <p class="footer-tagline">Le podcast qui donne son avis, même quand on ne lui a pas demandé.</p>
 <div class="footer-links">
 <a href="../">Catalogue</a>
+<a href="../classement.html">Classement</a>
 <a href="../palmares.html">Palmarès</a>
 <a href="../qui-sommes-nous.html">Qui sommes-nous</a>
 <a href="../contact.html">Contact</a>
