@@ -988,7 +988,9 @@
     fetch('data/catalog.json').then(r=>r.json()).then(data=>{fullLoaded=true;hydrate(data,true);}).catch(()=>{fullLoading=false;});
   }
   ['pointerdown','keydown','scroll'].forEach(ev=>window.addEventListener(ev,loadFull,{once:true,passive:true}));
-  setTimeout(loadFull,4000);
+  // Plus de chargement aveugle apres 4 s : un visiteur qui lit le hero et
+  // repart ne telecharge plus 1,5 Mo pour rien. Le catalogue complet arrive
+  // au premier scroll, clic ou frappe — donc avant tout besoin reel.
   fetch('data/catalog-lite.json').then(r=>{
     const lm=r.headers.get('Last-Modified');
     if(lm){const d=new Date(lm);if(!isNaN(d)){const dd=String(d.getDate()).padStart(2,'0'),mm=String(d.getMonth()+1).padStart(2,'0'),yy=String(d.getFullYear()).slice(-2),hh=String(d.getHours()).padStart(2,'0'),mn=String(d.getMinutes()).padStart(2,'0'),txt='↻ '+dd+'/'+mm+'/'+yy+' '+hh+'h'+mn;['nav-updated','footer-updated'].forEach(id=>{const el=document.getElementById(id);if(el)el.textContent=txt;});}}

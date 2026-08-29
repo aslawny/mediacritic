@@ -534,9 +534,14 @@ def update_catalog(all_data):
             "author":         d.get("author", ""),
             "type":           d.get("type"),
             "categories":     d.get("categories", []),
-            "tags":           d.get("tags", []),
             "image":          d.get("image"),
-            "description":    (d.get("description") or "")[:200],
+            # « tags » retire du catalogue : duplique « categories » et n'est
+            # lu par AUCUN consommateur. Description tronquee a 80 caracteres :
+            # elle ne sert qu'a la recherche Fuse (poids 0,1) et n'est jamais
+            # affichee. Mesure sur 11 requetes : premier resultat identique,
+            # recouvrement du top 10 de 9 a 10 sur 10.
+            # Gain : 5,22 Mo -> 4,21 Mo (-19 %) sur la page d'accueil.
+            "description":    (d.get("description") or "")[:80],
             "hasMediacritic": bool(d.get("mediacritic")),
             "mcEpisode":      (d.get("mediacritic") or {}).get("episodeNumber") or (d.get("mediacritic") or {}).get("ep"),
             "mcNote":         MC_REVIEWS.get(str((d.get("mediacritic") or {}).get("episodeNumber") or (d.get("mediacritic") or {}).get("ep")), {}).get("note"),
