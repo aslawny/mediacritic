@@ -145,6 +145,24 @@ footer a:hover{color:var(--c-orange)}
 .sim-mc{position:absolute;top:5px;right:5px;font-size:.7rem;color:var(--c-gold);background:rgba(6,11,20,.82);border-radius:99px;padding:1px 5px;line-height:1.4}
 .sim-title{font-size:.82rem;font-weight:600;line-height:1.3;transition:color .2s;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .sim-author{font-size:.72rem;color:var(--c-muted)}
+/* Sous-notes et points forts / faibles d'une critique */
+.crit-bloc{margin-top:18px;padding-top:16px;border-top:1px solid rgba(232,98,45,.2)}
+.crit-list{list-style:none;display:flex;flex-direction:column;gap:9px;margin-bottom:16px}
+.crit-list li{display:flex;align-items:center;gap:12px;font-size:.85rem}
+.crit-nom{flex:0 0 40%;color:var(--c-muted2)}
+.crit-jauge{flex:1;height:6px;border-radius:99px;background:rgba(255,255,255,.07);overflow:hidden}
+.crit-jauge span{display:block;height:100%;border-radius:99px;background:linear-gradient(90deg,#e8622d,#f5a623)}
+.crit-note{flex:0 0 34px;text-align:right;font-weight:700;color:var(--c-text)}
+.pts{margin-top:14px}
+.pts h3{font-size:.78rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;margin-bottom:7px}
+.pts.pf h3{color:#4ade80}
+.pts.pw h3{color:#f5a623}
+.pts ul{list-style:none;display:flex;flex-direction:column;gap:5px}
+.pts li{font-size:.875rem;color:var(--c-muted2);padding-left:16px;position:relative}
+.pts li::before{content:'';position:absolute;left:0;top:.6em;width:6px;height:6px;border-radius:50%;background:currentColor;opacity:.5}
+.pts.pf li::before{background:#4ade80}
+.pts.pw li::before{background:#f5a623}
+@media(max-width:520px){.crit-nom{flex:0 0 34%;font-size:.8rem}}
 /* Derniers contenus publies */
 .ep-list{list-style:none;margin-top:12px;display:flex;flex-direction:column;gap:8px}
 .ep-list li{display:flex;gap:12px;align-items:baseline;font-size:.88rem;color:var(--c-muted2);padding-bottom:8px;border-bottom:1px solid var(--c-border)}
@@ -289,6 +307,36 @@ def bloc_similaires(data):
 
 
 
+
+def bloc_criteres(review):
+    """Sous-notes et points forts / faibles d'une critique MediaCritic.
+
+    Tout est OPTIONNEL : les 42 episodes publies avant l'introduction de ce
+    modele n'ont qu'une note globale et un verdict. Rien ne s'affiche quand la
+    donnee manque -- on ne fabrique pas un detail qu'on n'a pas."""
+    criteres = review.get("criteres") or {}
+    forts = review.get("points_forts") or []
+    faibles = review.get("points_faibles") or []
+    if not criteres and not forts and not faibles:
+        return ""
+    out = []
+    if criteres:
+        barres = ""
+        for nom, val in criteres.items():
+            pct = max(0, min(100, float(val) * 10))
+            note = str(val).replace(".", ",").replace(",0", "")
+            barres += ('<li><span class="crit-nom">%s</span>'
+                       '<span class="crit-jauge"><span style="width:%.0f%%"></span></span>'
+                       '<span class="crit-note">%s</span></li>' % (h(nom), pct, h(note)))
+        out.append('<ul class="crit-list">%s</ul>' % barres)
+    for titre, items, cls in (("Points forts", forts, "pf"),
+                              ("Points faibles", faibles, "pw")):
+        if items:
+            li = "".join("<li>%s</li>" % h(x) for x in items)
+            out.append('<div class="pts %s"><h3>%s</h3><ul>%s</ul></div>' % (cls, titre, li))
+    return '<div class="crit-bloc">%s</div>' % "".join(out)
+
+
 def bloc_episodes(data):
     """Derniers episodes, frequence et derniere activite. Rien n'est affiche
     si la donnee manque : certains flux ne l'exposent pas."""
@@ -416,6 +464,7 @@ def render_fiche(data):
                 f'-webkit-text-fill-color:transparent;white-space:nowrap;">{note_str}<span style="font-size:1rem;">/10</span></div>'
                 f'<p style="color:var(--c-muted2);font-size:.9rem;line-height:1.6;font-style:italic;">{h(review.get("verdict",""))}</p>'
                 "</div>"
+                + bloc_criteres(review)
             )
             review_data = {
                 "@context": "https://schema.org",
@@ -429,6 +478,17 @@ def render_fiche(data):
                 "reviewBody": review.get("verdict", ""),
                 "inLanguage": "fr",
             }
+            # positiveNotes / negativeNotes : types prevus par schema.org pour
+            # detailler un avis. Ajoutes seulement s'ils existent reellement.
+            for cle, champ in (("points_forts", "positiveNotes"),
+                               ("points_faibles", "negativeNotes")):
+                if review.get(cle):
+                    review_data[champ] = {
+                        "@type": "ItemList",
+                        "itemListElement": [
+                            {"@type": "ListItem", "position": i + 1, "name": x}
+                            for i, x in enumerate(review[cle])],
+                    }
             mc_review_ld = ('\n  <script type="application/ld+json">'
                             + json.dumps(review_data, ensure_ascii=False) + "</script>")
         mc_block = f"""

@@ -133,8 +133,17 @@ def main():
     print(f"  ✓ episodes/{page}")
 
     # ── 2. Note + injection ─────────────────────────────────────────────────
-    reviews[str(ep)] = {"slug": slug, "page": page, "title": title,
-                        "note": m["note"], "verdict": m["verdict"]}
+    # On PART de l'entree existante : une relance idempotente sans criteres
+    # dans le manifest effacerait sinon des sous-notes deja saisies a la main.
+    entree = dict(reviews.get(str(ep)) or {})
+    entree.update({"slug": slug, "page": page, "title": title,
+                   "note": m["note"], "verdict": m["verdict"]})
+    # Sous-notes et points forts / faibles : facultatifs. Un episode qui ne les
+    # fournit pas garde une note globale et un verdict, comme les 42 premiers.
+    for cle in ("criteres", "points_forts", "points_faibles"):
+        if m.get(cle):
+            entree[cle] = m[cle]
+    reviews[str(ep)] = entree
     reviews_path.write_text(json.dumps(reviews, ensure_ascii=False, indent=2), encoding="utf-8")
     run([sys.executable, "scripts/inject_reviews.py"])
     print(f"  ✓ note {m['note']}/10 injectée")

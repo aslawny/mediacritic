@@ -291,6 +291,21 @@
     "page": "underscore.html",
     "title": "Underscore_",
     "note": 8.5,
-    "verdict": "De la vulgarisation avec de la matière : 90 minutes qui font vraiment comprendre — à condition de savoir quelle version on regarde."
+    "verdict": "De la vulgarisation avec de la matière : 90 minutes qui font vraiment comprendre — à condition de savoir quelle version on regarde.",
+    "criteres": {
+      "Qualité du contenu": 9.0,
+      "Accessibilité": 9.5,
+      "Originalité du format": 8.3,
+      "Gestion du replay": 6.7
+    },
+    "points_forts": [
+      "La question bête posée à voix haute : quand un invité part dans le jargon, Micode le ramène sans complexe",
+      "Des invités qu'on paie 200 euros pour écouter en conférence — ici, gratuitement",
+      "Quatre-vingt-dix minutes qui font comprendre quelque chose de vrai, pas un résumé Wikipédia maquillé"
+    ],
+    "points_faibles": [
+      "Le replay en quatre couches : direct Twitch, replay, montage YouTube, puis extraction audio",
+      "Selon la plateforme, ni la même durée ni la même version — on ne sait jamais quelle émission on regarde"
+    ]
   }
 }
