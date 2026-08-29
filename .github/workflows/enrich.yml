@@ -117,6 +117,23 @@ jobs:
             echo "dedupe_catalogue.py absent — ignoré"
           fi
 
+      # 5ter. Le champ `author` des fiches analysees naissait a "MediaCritic"
+      #       (valeur de depart de build_mediacritic_entries) et n etait jamais
+      #       corrige : 24 fiches attribuaient a MediaCritic le podcast d autrui.
+      #       Passe ici, avant la regeneration, sinon le catalogue reprendrait
+      #       la valeur fausse. Les 6 chaines YouTube restantes ont besoin de la
+      #       cle API, d ou sa presence dans l environnement.
+      - name: Reparation des auteurs
+        working-directory: site
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: |
+          if [ -f "scripts/repair_authors.py" ]; then
+            python scripts/repair_authors.py
+          else
+            echo "repair_authors.py absent — ignoré"
+          fi
+
       # 6. Régénération des fiches HTML individuelles
       - name: Generate fiches HTML
         working-directory: site
@@ -140,6 +157,20 @@ jobs:
           else
             echo "generate_categories.py absent — ignoré"
           fi
+
+      # 6b. Classements et comparateur. Le classement depend du catalogue
+      #     (notes, avis, abonnes) et bouge donc chaque nuit ; le comparateur
+      #     ne depend que des paires suggerees, mais suit les memes nav/CSS.
+      - name: Generate classement et comparateur
+        working-directory: site
+        run: |
+          for s in generate_classement generate_comparateur; do
+            if [ -f "scripts/$s.py" ]; then
+              python "scripts/$s.py"
+            else
+              echo "$s.py absent — ignoré"
+            fi
+          done
 
       # 6bis. Régénération du palmarès (notes MediaCritic)
       - name: Generate palmares
