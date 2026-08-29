@@ -421,6 +421,22 @@ def render_fiche(data):
         "inLanguage": "fr",
         "author": {"@type": "Person", "name": author_display},
     }
+    # Note agregee de la plateforme. Condition posee par Google : la note doit
+    # etre VISIBLE sur la page -- elle l'est, dans le bloc .rating-row.
+    # C'est la note APPLE du podcast, pas celle de MediaCritic : la notre est
+    # portee separement par le noeud Review, avec MediaCritic comme auteur.
+    # Seuil de 3 avis : en dessous, une moyenne n'a aucune valeur statistique
+    # et Google considere ces balisages comme trompeurs.
+    _apple = platforms.get("apple") or {}
+    _note, _nb = _apple.get("rating"), _apple.get("ratingCount")
+    if _note and _nb and int(_nb) >= 3:
+        schema["aggregateRating"] = {
+            "@type": "AggregateRating",
+            "ratingValue": round(float(_note), 1),
+            "ratingCount": int(_nb),
+            "bestRating": 5,
+            "worstRating": 1,
+        }
     breadcrumb_schema = {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
