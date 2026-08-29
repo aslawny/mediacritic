@@ -426,6 +426,7 @@ def build_page(cfg, catalog, moyenne):
 <div class="nav-links">
 <a href="../">Catalogue</a>
 <a href="../classement.html">Classement</a>
+<a href="../comparer.html">Comparateur</a>
 <a href="../palmares.html">Palmarès</a>
 <a href="../qui-sommes-nous.html">Qui sommes-nous</a>
 <a href="../contact.html">Contact</a>
@@ -460,6 +461,7 @@ def build_page(cfg, catalog, moyenne):
 <div class="footer-links">
 <a href="../">Catalogue</a>
 <a href="../classement.html">Classement</a>
+<a href="../comparer.html">Comparateur</a>
 <a href="../palmares.html">Palmarès</a>
 <a href="../qui-sommes-nous.html">Qui sommes-nous</a>
 <a href="../contact.html">Contact</a>

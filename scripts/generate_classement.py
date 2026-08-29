@@ -157,6 +157,7 @@ def main():
            '<div class="nav-links">'
            '<a href="catalogue.html">Annuaire</a>'
            '<a href="classement.html" class="active">Classement</a>'
+           '<a href="comparer.html">Comparateur</a>'
            '<a href="palmares.html">🏆 Palmarès</a></div></nav>')
 
     page = f"""<!DOCTYPE html>
@@ -167,6 +168,11 @@ def main():
 <title>{h(titre)}</title>
 <meta name="description" content="{h(desc)}" />
 <meta name="robots" content="index, follow" />
+<!-- Meme politique de securite que l'accueil et l'annuaire : une page
+     generee ne doit pas etre le maillon faible. -->
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data: https://*.spotifycdn.com https://*.spotify.com https://*.googleusercontent.com https://yt3.ggpht.com https://yt3.googleusercontent.com https://*.ytimg.com https://*.mzstatic.com https://image-cdn-fa.spotifycdn.com https://image-cdn-ak.spotifycdn.com https://i.scdn.co https://is1-ssl.mzstatic.com https://*.podcloud.fr; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://www.google-analytics.com https://analytics.google.com https://region1.google-analytics.com; frame-src 'none'; object-src 'none'; base-uri 'self'; form-action 'self' mailto:; frame-ancestors 'none';" />
+<meta name="referrer" content="strict-origin-when-cross-origin" />
+<meta http-equiv="Permissions-Policy" content="camera=(), microphone=(), geolocation=(), payment=(), usb=(), interest-cohort=()" />
 <link rel="canonical" href="{BASE}/classement.html" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{BASE}/classement.html" />
