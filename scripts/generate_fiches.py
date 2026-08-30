@@ -10,6 +10,7 @@ import re
 import xml.etree.ElementTree as ET
 from datetime import date, datetime
 from pathlib import Path
+from urllib.parse import quote
 
 # ─── Chemins ──────────────────────────────────────────────────────────────────
 ROOT       = Path(__file__).parent.parent
@@ -120,6 +121,16 @@ h1{font-family:'Syne',sans-serif;font-size:clamp(1.5rem,4vw,2.2rem);font-weight:
 .btn-apple{background:rgba(255,255,255,.06);color:var(--c-muted2);border-color:var(--c-border2)}
 .btn-deezer{background:rgba(162,89,255,.10);color:#c084fc;border-color:rgba(162,89,255,.3)}
 .btn-mc{background:linear-gradient(135deg,#e8622d,#f5a623);color:#fff;box-shadow:0 4px 16px rgba(232,98,45,.3)}
+/* mc-partage */
+.pt-card h2{margin-bottom:12px}
+.pt-row{display:flex;gap:8px;flex-wrap:wrap}
+.pt-btn{display:inline-block;padding:8px 15px;border-radius:9px;border:1px solid rgba(255,255,255,.10);font-size:.85rem;font-weight:600;text-decoration:none;cursor:pointer;font-family:inherit;line-height:1.4;transition:border-color .15s}
+.pt-btn:hover{border-color:#e8622d}
+.pt-x,.pt-copie{background:rgba(255,255,255,.05);color:#e8eaed}
+.pt-li{background:rgba(10,102,194,.14);color:#6aa9e0}
+.pt-fb{background:rgba(24,119,242,.12);color:#7ab0f5}
+.pt-wa{background:rgba(37,211,102,.12);color:#5fd68f}
+@media(max-width:520px){.pt-btn{padding:8px 12px;font-size:.8rem}}
 .card{padding:28px 32px;border-radius:16px;background:var(--c-glass);border:1px solid var(--c-border);margin-bottom:20px}
 .card h2{font-family:'Syne',sans-serif;font-size:1rem;font-weight:700;color:var(--c-orange);margin-bottom:14px;padding-bottom:10px;border-bottom:1px solid var(--c-border)}
 .card p{color:var(--c-muted2);font-size:.925rem;line-height:1.75}
@@ -371,6 +382,62 @@ def bloc_episodes(data):
             % (intro, liste))
 
 
+
+# ── Partage social ───────────────────────────────────────────────────────────
+# Aucun widget tiers : les boutons officiels de X, LinkedIn ou Facebook sont
+# des traceurs, ils pesent plusieurs dizaines de Ko et la CSP du site les
+# bloquerait de toute facon. Ici : quatre liens <a> et un bouton qui copie
+# l'URL. Zero requete reseau, zero cookie, ~700 octets par page.
+RESEAUX = (
+    ("X", "https://twitter.com/intent/tweet?text={texte}&url={url}", "x"),
+    ("LinkedIn", "https://www.linkedin.com/sharing/share-offsite/?url={url}", "li"),
+    ("Facebook", "https://www.facebook.com/sharer/sharer.php?u={url}", "fb"),
+    ("WhatsApp", "https://wa.me/?text={texte}%20{url}", "wa"),
+)
+
+
+def note_mc(data):
+    """Note MediaCritic d'une fiche, ou None. Gere les DEUX formes du champ
+    `mediacritic` qui coexistent dans les donnees : 31 fiches en
+    `episodeNumber`, 14 en `ep`. Tant que la normalisation n'est pas faite,
+    lire une seule des deux formes perdrait un tiers des notes."""
+    mc = data.get("mediacritic")
+    if not isinstance(mc, dict):
+        return None
+    ep = mc.get("episodeNumber", mc.get("ep"))
+    if ep is None:
+        return None
+    return (MC_REVIEWS.get(str(ep)) or {}).get("note")
+
+
+def bloc_partage(data):
+    """Rangee de partage. Le texte pre-rempli porte la note quand elle existe :
+    « Floodcast : 8,5/10 sur MediaCritic » se partage, « Floodcast » non."""
+    titre = data.get("title") or data["slug"]
+    url = quote(f"{BASE_URL}/fiches/{data['slug']}.html", safe="")
+    n = note_mc(data)
+    if n is not None:
+        texte = f"{titre} : {str(n).replace('.', ',')}/10 sur MediaCritic"
+    else:
+        texte = f"{titre} — dans l'annuaire MediaCritic"
+    texte = quote(texte, safe="")
+
+    liens = "".join(
+        '<a class="pt-btn pt-%s" href="%s" target="_blank" '
+        'rel="noopener noreferrer nofollow" aria-label="Partager sur %s">%s</a>'
+        % (cls, gabarit.format(texte=texte, url=url), nom, nom)
+        for nom, gabarit, cls in RESEAUX)
+
+    # onclick inline plutot qu'un <script> : une balise de moins sur 8 300 pages.
+    copie = ('<button type="button" class="pt-btn pt-copie" '
+             "onclick=\"navigator.clipboard.writeText(location.href).then("
+             "()=&gt;{this.textContent='Lien copié';"
+             "setTimeout(()=&gt;{this.textContent='Copier le lien'},2000)},()=&gt;{this.textContent='Copie impossible'})\">"
+             "Copier le lien</button>")
+
+    return ('  <div class="card pt-card"><h2>🔗 Partager cette fiche</h2>'
+            '<div class="pt-row">' + liens + copie + "</div></div>")
+
 def render_fiche(data):
     slug = data["slug"]
     title = data.get("title", slug)
@@ -602,6 +669,9 @@ def render_fiche(data):
   <div class="nav-left">
     <a href="../" class="nav-back">← Accueil</a>
     <span class="nav-brand">MediaCritic</span>
+    <a href="../catalogue.html" class="nav-back">Annuaire</a>
+    <a href="../classement.html" class="nav-back">Classement</a>
+    <a href="../comparer.html" class="nav-back">Comparateur</a>
     <a href="../palmares.html" class="nav-back" style="color:var(--c-gold)">🏆 Palmarès</a>
   </div>
   <span class="nav-tag">{h(t_label)}</span>
@@ -631,6 +701,7 @@ def render_fiche(data):
 
 {bloc_episodes(data)}
 {bloc_similaires(data)}
+{bloc_partage(data)}
   <div class="card">
     <h2>📻 MediaCritic, c'est quoi ?</h2>
     <p>MediaCritic est le podcast francophone indépendant qui analyse et critique des podcasts, émissions et chaînes YouTube. Chaque semaine, Alex et Lolo décortiquent un média avec méthode, passion et humour.</p>

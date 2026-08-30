@@ -12,8 +12,11 @@ publiees, et reste idempotent : une page deja a jour n'est pas retouchee.
 
 Usage : python scripts/patch_nav_episodes.py episodes/*.html templates/episode.html
 """
+import re
 import sys
 from pathlib import Path
+
+ROOT = Path(__file__).parent.parent
 
 TROPHEE = "\U0001f3c6"
 LIENS = (
@@ -32,11 +35,24 @@ PALMARES = ('<a href="../palmares.html" class="nav-back" '
 MARQUE = '<span class="nav-brand">MediaCritic</span>'
 
 
+def sans_total(txt):
+    """« Épisode 10 / 23 » -> « Épisode 10 ».
+
+    Le total etait fige a la date de publication de chaque page : 21 pages
+    annonçaient 23 episodes, une 24, une 25, alors qu'il y en a 43. Un total
+    ecrit en dur derive chaque semaine -- le corriger ne ferait que repousser
+    le probleme d'une publication. Les pages recentes ne l'affichent deja
+    plus : on s'aligne sur elles."""
+    return re.sub(r"(Épisode\s+\d+)\s*/\s*\d+", "\g<1>", txt)
+
+
 def patch(txt):
     """Renvoie (texte, etat) ou etat vaut True (modifie), False (deja a jour)
     ou None (nav non reconnue -- on ne touche a rien plutot que de casser)."""
-    if "../classement.html" in txt:
-        return txt, False
+    txt2 = sans_total(txt)
+    if "../classement.html" in txt2:
+        return txt2, (txt2 != txt)
+    txt = txt2
     if PALMARES in txt:
         return txt.replace(PALMARES, LIENS + "    " + PALMARES, 1), True
     if MARQUE in txt:
@@ -46,8 +62,11 @@ def patch(txt):
 
 def main():
     faits = deja = rates = 0
-    for arg in sys.argv[1:]:
-        f = Path(arg)
+    # Sans argument : toutes les pages episodes + le gabarit. C'est ce qui
+    # permet de l'appeler apres chaque publication sans rien lui passer.
+    cibles = [Path(a) for a in sys.argv[1:]] or (
+        sorted((ROOT / "episodes").glob("*.html")) + [ROOT / "templates" / "episode.html"])
+    for f in cibles:
         out, etat = patch(f.read_text(encoding="utf-8"))
         if etat is None:
             rates += 1

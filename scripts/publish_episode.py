@@ -53,6 +53,8 @@ REGENERATEURS = [
     "scripts/generate_palmares.py",     # palmares
     "scripts/generate_classement.py",   # classements (depend des notes)
     "scripts/generate_comparateur.py",  # comparateur (paires suggerees)
+    "scripts/patch_nav_episodes.py",     # nav des pages episodes + badge
+    "scripts/patch_partage_episodes.py", # rangee de partage
 ]
 
 
