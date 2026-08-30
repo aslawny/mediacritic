@@ -43,6 +43,29 @@ def run(cmd, check=True, capture=False):
 def die(msg):
     raise SystemExit(f"✗ {msg}")
 
+# Pages derivees a regenerer apres toute modification du catalogue ou des notes.
+# UNE seule liste : elle sert a la publication ET au rattrapage apres rebase.
+# ⚠️ Toute nouvelle page generee du site doit etre ajoutee ICI, sinon elle se
+# fige a sa date de creation des la publication d'un episode.
+REGENERATEURS = [
+    "scripts/generate_fiches.py",       # fiches + catalog.json + catalog-lite
+    "scripts/generate_categories.py",   # 13 pages categories + Top 10
+    "scripts/generate_palmares.py",     # palmares
+    "scripts/generate_classement.py",   # classements (depend des notes)
+    "scripts/generate_comparateur.py",  # comparateur (paires suggerees)
+]
+
+
+def regenerer():
+    """Relance chaque generateur present. Un script absent est ignore : le
+    depot peut etre en retard sur les scripts sans que la publication echoue."""
+    for s in REGENERATEURS:
+        if (ROOT / s).exists():
+            run([sys.executable, s])
+        else:
+            print(f"  ! {s} absent — ignoré")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("manifest")
@@ -52,6 +75,14 @@ def main():
 
     m = json.loads(Path(args.manifest).read_text(encoding="utf-8"))
     ep, slug, page, title = m["ep"], m["slug"], m["page"], m["title"]
+    # Hors-serie : FAQ, bilan de saison, episode « sur nous ». Il n'analyse
+    # aucun contenu, donc pas de note, pas de fiche, pas d'entree au catalogue
+    # ni au palmares. Lui inventer une note pour faire tourner la chaine
+    # produirait un balisage Review sur un contenu inexistant -- exactement le
+    # spam de donnees structurees qu'on s'interdit.
+    hors_serie = bool(m.get("hors_serie"))
+    if hors_serie:
+        print("  → épisode hors-série : ni note, ni fiche, ni palmarès")
     reviews_path = ROOT / "data" / "mc_reviews.json"
     reviews = json.loads(reviews_path.read_text(encoding="utf-8"))
 
@@ -97,7 +128,7 @@ def main():
     # est juste a cote.
     import html as _html
     _t = _html.escape(title, quote=True)
-    fiche_block = (
+    fiche_block = "" if hors_serie else (
         '  <div class="card">'
         '<h2>🗂️ La fiche de ' + _t + '</h2>'
         '<p>Retrouvez ' + _t + ' dans notre annuaire : plateformes, note, '
@@ -136,8 +167,15 @@ def main():
     # On PART de l'entree existante : une relance idempotente sans criteres
     # dans le manifest effacerait sinon des sous-notes deja saisies a la main.
     entree = dict(reviews.get(str(ep)) or {})
-    entree.update({"slug": slug, "page": page, "title": title,
-                   "note": m["note"], "verdict": m["verdict"]})
+    entree.update({"slug": slug, "page": page, "title": title})
+    if hors_serie:
+        entree["hors_serie"] = True
+        # On purge une eventuelle note laissee par une relance precedente :
+        # elle remonterait dans le palmares et dans les pepites du classement.
+        for cle in ("note", "verdict", "criteres", "points_forts", "points_faibles"):
+            entree.pop(cle, None)
+    else:
+        entree.update({"note": m["note"], "verdict": m["verdict"]})
     # Sous-notes et points forts / faibles : facultatifs. Un episode qui ne les
     # fournit pas garde une note globale et un verdict, comme les 42 premiers.
     for cle in ("criteres", "points_forts", "points_faibles"):
@@ -146,11 +184,15 @@ def main():
     reviews[str(ep)] = entree
     reviews_path.write_text(json.dumps(reviews, ensure_ascii=False, indent=2), encoding="utf-8")
     run([sys.executable, "scripts/inject_reviews.py"])
-    print(f"  ✓ note {m['note']}/10 injectée")
+    print("  ✓ hors-série : aucune note à injecter" if hors_serie
+          else f"  ✓ note {m['note']}/10 injectée")
 
     # ── 3. data/content ─────────────────────────────────────────────────────
     cpath = ROOT / "data" / "content" / f"{slug}.json"
-    if cpath.exists():
+    if hors_serie:
+        print("  ✓ hors-série : pas de fiche catalogue")
+        cdata = None
+    elif cpath.exists():
         cdata = json.loads(cpath.read_text(encoding="utf-8"))
     elif "content" in m:
         cdata = m["content"]
@@ -158,15 +200,18 @@ def main():
         cdata.setdefault("addedAt", date.today().isoformat())
     else:
         die(f"data/content/{slug}.json absent et pas de bloc 'content' dans le manifest")
-    cdata["mediacritic"] = {"ep": ep, "url": f"{BASE}/episodes/{page}"}
-    cdata["updatedAt"] = date.today().isoformat()
-    cpath.write_text(json.dumps(cdata, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"  ✓ data/content/{slug}.json")
+    if cdata is not None:
+        cdata["mediacritic"] = {"ep": ep, "url": f"{BASE}/episodes/{page}"}
+        cdata["updatedAt"] = date.today().isoformat()
+        cpath.write_text(json.dumps(cdata, ensure_ascii=False, indent=2), encoding="utf-8")
+        print(f"  ✓ data/content/{slug}.json")
 
     # ── 4. index.html ───────────────────────────────────────────────────────
     idx_path = ROOT / "index.html"
     idx = idx_path.read_text(encoding="utf-8")
-    if f'"{slug}":{{ep:{ep}' not in idx:
+    if hors_serie:
+        pass   # MC_EP associe un CONTENU a son analyse : un hors-série n'en a pas
+    elif f'"{slug}":{{ep:{ep}' not in idx:
         pos = idx.find("const MC_EP")
         end = idx.find("\n  };", pos)
         if pos < 0 or end < 0:
@@ -234,9 +279,9 @@ def main():
     print("  ✓ sitemap.xml")
 
     # ── 8. Régénérations ────────────────────────────────────────────────────
-    run([sys.executable, "scripts/generate_fiches.py"])
-    run([sys.executable, "scripts/generate_palmares.py"])
-    print("  ✓ fiches + catalogue + palmarès régénérés")
+    regenerer()
+    print("  ✓ pages dérivées régénérées (fiches, catégories, palmarès, "
+          "classement, comparateur)")
 
     # ── 9. Validations ──────────────────────────────────────────────────────
     new_html = (ROOT / "episodes" / page).read_text(encoding="utf-8")
@@ -247,7 +292,9 @@ def main():
         die("doublons dans le sitemap !")
     cat = json.loads((ROOT / "data" / "catalog.json").read_text(encoding="utf-8"))
     entry = next((x for x in cat if x["slug"] == slug), None)
-    if not entry or entry.get("mcEpisode") != ep:
+    if hors_serie:
+        entry = None   # rien a verifier : aucun contenu analyse
+    elif not entry or entry.get("mcEpisode") != ep:
         die(f"catalogue : {slug} sans mcEpisode={ep}")
     print("  ✓ validations OK (JSON-LD, sitemap, catalogue)")
 
@@ -255,8 +302,10 @@ def main():
     run(["git", "add", "-A"])
     msg = (f"feat: publication episode {ep} - {title}\n\n"
            f"Genere par scripts/publish_episode.py depuis {Path(args.manifest).name}.\n"
-           f"Note MediaCritic : {m['note']}/10.\n\n"
-           f"Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>\n")
+           + ("Hors-serie : aucun contenu analyse, donc ni note, ni fiche,"
+              " ni entree au palmares.\n\n" if hors_serie
+              else f"Note MediaCritic : {m['note']}/10.\n\n")
+           + "Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>\n")
     r = run(["git", "commit", "-m", msg], check=False, capture=True)
     print("  ✓ commit" if r.returncode == 0 else "  = rien à commiter (déjà fait)")
 
@@ -274,8 +323,7 @@ def main():
                                  capture=True).stdout.split()
                 for f in conflicted:
                     run(["git", "checkout", "--theirs", f])
-                run([sys.executable, "scripts/generate_fiches.py"])
-                run([sys.executable, "scripts/generate_palmares.py"])
+                regenerer()
                 run(["git", "add", "-A"])
                 if run(["git", "-c", "core.editor=true", "rebase", "--continue"],
                        check=False).returncode != 0:

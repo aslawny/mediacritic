@@ -1,0 +1,28 @@
+{
+  "ep": 43,
+  "hors_serie": true,
+  "slug": "faq-saison-1",
+  "page": "faq-saison-1.html",
+  "title": "La FAQ de la mort — final de la saison 1",
+  "tagline": "39 podcasts et chaînes passés au crible, et cette fois c'est nous qu'on interroge",
+  "meta_desc": "Final de la saison 1 de MediaCritic : Alex et Lolo répondent à vos questions. Épisode préféré, heures de montage, vrais prénoms, et ce qui change en saison 2.",
+  "cover": "https://www.mediacritic.fr/assets/ep43-faq.jpg",
+  "initials": "FAQ",
+  "type_line": "Hors-série · Final de saison · Questions-réponses",
+  "hosts_line": "Avec <strong>Alex · Lolo</strong>",
+  "authors": [
+    "Alex",
+    "Lolo"
+  ],
+  "buttons": [
+    {
+      "href": "../palmares.html",
+      "label": "🏆 Les notes de la saison 1"
+    },
+    {
+      "href": "../classement.html",
+      "label": "📊 Les classements"
+    }
+  ],
+  "content_file": "manifests/ep43-content.html"
+}

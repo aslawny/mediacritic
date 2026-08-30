@@ -91,6 +91,12 @@ def family_of(cats):
 def build():
     rows = []
     for ep, r in REVIEWS.items():
+        # Un episode hors-serie (FAQ, bilan de saison) n'analyse aucun contenu :
+        # il n'a ni note, ni fiche, ni entree au catalogue. Lui inventer une note
+        # pour faire tourner la chaine polluerait le palmares et produirait un
+        # balisage Review sur un contenu inexistant.
+        if r.get("hors_serie") or r.get("note") is None:
+            continue
         c = CATALOG.get(r["slug"], {})
         rows.append({
             "ep": int(ep), "slug": r["slug"], "title": r["title"],

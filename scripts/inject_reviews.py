@@ -57,6 +57,12 @@ def review_ld(title, slug, note, verdict):
 
 updated = 0
 for ep, r in sorted(REVIEWS.items(), key=lambda kv: int(kv[0])):
+    # Un episode hors-serie (FAQ, bilan de saison) n'analyse aucun contenu :
+    # il n'a ni note, ni fiche, ni entree au catalogue. Lui inventer une note
+    # pour faire tourner la chaine polluerait le palmares et produirait un
+    # balisage Review sur un contenu inexistant.
+    if r.get("hors_serie") or r.get("note") is None:
+        continue
     path = ROOT / "episodes" / r["page"]
     if not path.exists():
         print(f"  ! page absente : {r['page']}")

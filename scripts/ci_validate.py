@@ -76,13 +76,22 @@ if reviews:
     if f"Saison 1 · {last} épisodes" not in idx:
         err(f"index : 'Saison 1 · {last} épisodes' introuvable")
     mc_ep_entries = len(re.findall(r'\{ep:\d+,analyse:', idx))
-    if mc_ep_entries < last:
-        err(f"index : MC_EP n'a que {mc_ep_entries} entrées pour {last} épisodes")
-    print(f"  ✓ cohérence épisodes (dernier : {last}, MC_EP : {mc_ep_entries} entrées)")
+    # Un hors-serie (FAQ, bilan de saison) n'analyse aucun contenu : il n'a pas
+    # d'entree MC_EP. Le seuil porte donc sur les episodes qui analysent
+    # vraiment quelque chose, pas sur le dernier numero.
+    analyses = sum(1 for r in reviews.values()
+                   if not r.get("hors_serie") and r.get("note") is not None)
+    if mc_ep_entries < analyses:
+        err(f"index : MC_EP n'a que {mc_ep_entries} entrées pour {analyses} épisodes analysés")
+    hs = last - analyses
+    print(f"  ✓ cohérence épisodes (dernier : {last}, MC_EP : {mc_ep_entries} entrées"
+          + (f", {hs} hors-série" if hs else "") + ")")
 
 # 5. Catalogue : les slugs notés ont bien mcEpisode
 cat = {x["slug"]: x for x in data.get("catalog.json", [])}
 for ep, r in reviews.items():
+    if r.get("hors_serie") or r.get("note") is None:
+        continue          # pas de contenu analyse, donc pas de fiche attendue
     c = cat.get(r["slug"])
     if not c:
         err(f"catalogue : slug {r['slug']} (ep{ep}) absent")
