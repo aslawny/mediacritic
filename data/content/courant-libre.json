@@ -26,5 +26,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "BENOIT (CHAUMONT) : LE GRAND REPORTER QUI S'EST INFILTRÉ DANS LES DICTATURES ET LES COMMUNAUTÉS FERMÉES DE NOT",
+      "date": "2021-03-26"
+    },
+    {
+      "titre": "JULIEN - UN PHOTOGRAPHE ITINÉRANT AU PARCOURS ATYPIQUE ET ATTACHANT",
+      "date": "2021-02-24"
+    },
+    {
+      "titre": "VINCENT (FIRELIFE) : ANCIEN POMPIER DE PARIS IL VOYAGE ET FAIT DES REPORTAGES SUR L'UNIVERS DES POMPIERS",
+      "date": "2021-01-27"
+    },
+    {
+      "titre": "MORGAN (CAPITAINE MORGAN) : IL FAIT 20 000 KMS POUR UNE ÉCHARPE. RENCONTRE AVEC UN SACRÉ VOYAGEUR.",
+      "date": "2020-12-19"
+    },
+    {
+      "titre": "PERRINE : UNE CHAMPIONNE D'ULTRA ENDURANCE QUE RIEN N'ARRÊTE !",
+      "date": "2020-11-07"
+    }
+  ],
+  "derniere_activite": "2021-03-26",
+  "frequence_jours": 30
 }

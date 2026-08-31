@@ -7,7 +7,7 @@
     "football",
     "sport"
   ],
-  "description": "",
+  "description": "Retrouvez les meilleures histoires, les plus beaux destins du football africain, racontés par nos experts Nabil Djellit et Hervé Penot, accompagnés de Marie-Amélie Motte. Hébergé par Ausha. Visitez ausha.co/fr/politique-de-confidentialite pour plus d'informations.",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/86/62/d7/8662d7e1-5dc2-bf14-6c9d-bea0a02e2818/mza_8074151539819820355.jpeg/600x600bb.jpg",
   "language": "fr",
   "platforms": {
@@ -24,5 +24,29 @@
     "sport"
   ],
   "addedAt": "2026-05-24",
-  "updatedAt": "2026-08-30"
+  "updatedAt": "2026-08-30",
+  "episodes_recents": [
+    {
+      "titre": "L’Algérie prête pour son grand retour en Coupe du monde ?",
+      "date": "2026-06-05"
+    },
+    {
+      "titre": "Diomandé, Sadiki, Maza : ces nouveaux visages du foot africain",
+      "date": "2026-05-01"
+    },
+    {
+      "titre": "Le Maroc seul au milieu du chaos ?",
+      "date": "2026-03-25"
+    },
+    {
+      "titre": "Nos reporters racontent comment la CAN a basculé dans l'irrationnel",
+      "date": "2026-01-20"
+    },
+    {
+      "titre": "Sénégal-Maroc, le sommet que le monde attendait",
+      "date": "2026-01-15"
+    }
+  ],
+  "derniere_activite": "2026-06-05",
+  "frequence_jours": 25
 }

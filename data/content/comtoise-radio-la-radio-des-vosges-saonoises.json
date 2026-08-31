@@ -23,5 +23,29 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "IA: bientôt dans notre téléphone",
+      "date": "2026-08-28"
+    },
+    {
+      "titre": "Emploi: Trouver sa voie",
+      "date": "2026-08-28"
+    },
+    {
+      "titre": "Immobilier: état des lieux non signé",
+      "date": "2026-08-28"
+    },
+    {
+      "titre": "Vie courante: Assurance scolaire",
+      "date": "2026-08-28"
+    },
+    {
+      "titre": "Cybersécurité: Piratage de la webcam",
+      "date": "2026-08-28"
+    }
+  ],
+  "derniere_activite": "2026-08-28",
+  "frequence_jours": 0
 }

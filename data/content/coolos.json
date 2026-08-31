@@ -26,5 +26,29 @@
     "comedie"
   ],
   "addedAt": "2026-07-06",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Jérémy Nadeau et Kevin Ozgoz",
+      "date": "2025-07-02"
+    },
+    {
+      "titre": "Emma Bojean et Hugo Pêcheur",
+      "date": "2024-12-18"
+    },
+    {
+      "titre": "Kino et Basile",
+      "date": "2024-12-11"
+    },
+    {
+      "titre": "Hugo Tout Seul et Rodrigue",
+      "date": "2024-12-04"
+    },
+    {
+      "titre": "Adel Fugazi et Félix Junier",
+      "date": "2024-11-27"
+    }
+  ],
+  "derniere_activite": "2025-07-02",
+  "frequence_jours": 7
 }

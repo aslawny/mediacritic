@@ -26,5 +26,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Clap ! - 29/08/2026",
+      "date": "2026-08-29"
+    },
+    {
+      "titre": "Clap ! Avec Kad Merad et Timsit ainsi que Louane.",
+      "date": "2026-07-04"
+    },
+    {
+      "titre": "Clap! Avec Jérémie Renier pour son documentaire d'un monde à l'autre",
+      "date": "2026-06-13"
+    },
+    {
+      "titre": "Clap ! Avec Romain Duris pour \"Fils de personne\"",
+      "date": "2026-06-06"
+    },
+    {
+      "titre": "Clap ! Avec Juliette Binoche pour \"Entre Nous\".",
+      "date": "2026-05-30"
+    }
+  ],
+  "derniere_activite": "2026-08-29",
+  "frequence_jours": 7
 }

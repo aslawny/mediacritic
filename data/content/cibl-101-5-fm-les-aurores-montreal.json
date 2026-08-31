@@ -24,5 +24,29 @@
     "cuisine"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-06-06"
+  "updatedAt": "2026-06-06",
+  "episodes_recents": [
+    {
+      "titre": "Les aurores Montréal : 08/27/2026 09:00",
+      "date": "2026-08-27"
+    },
+    {
+      "titre": "Les aurores Montréal : 08/26/2026 09:00",
+      "date": "2026-08-26"
+    },
+    {
+      "titre": "Les aurores Montréal : 08/25/2026 09:00",
+      "date": "2026-08-25"
+    },
+    {
+      "titre": "Les aurores Montréal : 08/24/2026 09:00",
+      "date": "2026-08-24"
+    },
+    {
+      "titre": "Les aurores Montréal : 08/20/2026 09:00",
+      "date": "2026-08-20"
+    }
+  ],
+  "derniere_activite": "2026-08-27",
+  "frequence_jours": 1
 }

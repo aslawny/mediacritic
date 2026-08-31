@@ -23,5 +23,29 @@
     "humour",
     "comédie"
   ],
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Yanis est mort… enfin presque",
+      "date": "2026-05-21"
+    },
+    {
+      "titre": "The Grave Digger - il creuse trop loin",
+      "date": "2026-05-13"
+    },
+    {
+      "titre": "Enfants de chômeurs - affrontement explosif entre Gilles et un maire",
+      "date": "2026-05-09"
+    },
+    {
+      "titre": "Van Damme rencontre Issa - choc frontal",
+      "date": "2026-05-06"
+    },
+    {
+      "titre": "Adelaïde Troptard - l'invitée qui déstabilise tout",
+      "date": "2026-04-13"
+    }
+  ],
+  "derniere_activite": "2026-05-21",
+  "frequence_jours": 0
 }

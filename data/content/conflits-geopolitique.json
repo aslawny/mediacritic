@@ -24,5 +24,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "La Chine aujourd'hui - Alex Wang",
+      "date": "2026-08-28"
+    },
+    {
+      "titre": "Caucase : le cordon ombilical de l'Europe",
+      "date": "2026-08-25"
+    },
+    {
+      "titre": "Les drones : une nouvelle industrie",
+      "date": "2026-08-21"
+    },
+    {
+      "titre": "Les engrais, l'agriculture et Ormuz",
+      "date": "2026-08-18"
+    },
+    {
+      "titre": "La Méditerranée sous la coupe des barbaresques. Reportage en Corse",
+      "date": "2026-08-14"
+    }
+  ],
+  "derniere_activite": "2026-08-28",
+  "frequence_jours": 3
 }

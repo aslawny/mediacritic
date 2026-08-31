@@ -27,5 +27,29 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "LE MYSTÈRE DE LA FONTAINE AU CENTAURE",
+      "date": "2025-10-22"
+    },
+    {
+      "titre": "LE MYSTÈRE DES PIERRES DE MACHIN BIDULE",
+      "date": "2025-10-17"
+    },
+    {
+      "titre": "LE MYSTÈRE DES SYMBOLES",
+      "date": "2025-10-09"
+    },
+    {
+      "titre": "LE MYSTÈRE DU PARCHEMIN",
+      "date": "2025-10-02"
+    },
+    {
+      "titre": "LE MYSTÈRE DU COFFRE",
+      "date": "2025-09-25"
+    }
+  ],
+  "derniere_activite": "2025-10-22",
+  "frequence_jours": 7
 }

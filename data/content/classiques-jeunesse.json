@@ -27,5 +27,29 @@
     "famille"
   ],
   "addedAt": "2026-06-15",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "L'Ile au trésor E6/6 - La Découverte du trésor",
+      "date": "2025-06-25"
+    },
+    {
+      "titre": "L'Ile au trésor E5/6 - Jim capturé",
+      "date": "2025-06-18"
+    },
+    {
+      "titre": "L'Ile au trésor E4/6 - Deux capitaines s'affrontent",
+      "date": "2025-06-11"
+    },
+    {
+      "titre": "L'Ile au trésor E3/6 - Secrets à bord de la goélette l'Hispaniola",
+      "date": "2025-06-04"
+    },
+    {
+      "titre": "L'Ile au trésor E2/6 - En route pour l'aventure !",
+      "date": "2025-05-28"
+    }
+  ],
+  "derniere_activite": "2025-06-25",
+  "frequence_jours": 7
 }

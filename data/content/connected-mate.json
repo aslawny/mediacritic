@@ -25,5 +25,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Intelligence Marketing Day : de l’usage à la valeur IA avec Mick Levy",
+      "date": "2026-08-29"
+    },
+    {
+      "titre": "Intelligence Marketing Day : le prix fait partie du produit",
+      "date": "2026-08-22"
+    },
+    {
+      "titre": "Quand une IA parle de votre marque, comprend-elle réellement ce que vous faites ?",
+      "date": "2026-08-15"
+    },
+    {
+      "titre": "Intelligence Marketing Day : Un prix expliqué change tout",
+      "date": "2026-08-08"
+    },
+    {
+      "titre": "Nvidia challenge l'Europe en demandant si elle veut être spectatrice ou protagoniste",
+      "date": "2026-08-01"
+    }
+  ],
+  "derniere_activite": "2026-08-29",
+  "frequence_jours": 7
 }

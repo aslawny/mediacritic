@@ -23,5 +23,29 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "S08E11 - Cet épisode est en fromage",
+      "date": "2025-12-11"
+    },
+    {
+      "titre": "S08E10 - Cet épisode est en circuit court",
+      "date": "2025-11-05"
+    },
+    {
+      "titre": "S08E09 - Cet épisode a de la gouaille",
+      "date": "2025-10-27"
+    },
+    {
+      "titre": "S08E08 - Cet épisode vous présente le calendrier de l'Avent des cancels",
+      "date": "2025-10-21"
+    },
+    {
+      "titre": "S08E07 - Cet épisode est un énorme clin d'oeil à la comédie",
+      "date": "2025-10-14"
+    }
+  ],
+  "derniere_activite": "2025-12-11",
+  "frequence_jours": 12
 }

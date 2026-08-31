@@ -24,5 +24,29 @@
     "business"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "De 0 à 10M€ sans lever : Le CTO de l'ombre balance tout (Argent, Échecs, IA) - François Lecroart",
+      "date": "2026-05-01"
+    },
+    {
+      "titre": "Transformez votre vie : apprenez à gagner du temps et de l'argent - Romain Bailleul",
+      "date": "2026-03-24"
+    },
+    {
+      "titre": "Expert en financement : Pourquoi la majorité des Startups échouent - Anthony Beaudier",
+      "date": "2025-12-22"
+    },
+    {
+      "titre": "95% Abandonnent : La Méthode d'un Créateur à 600k pour Durer - Maxence Tison ex Google/Tiktok",
+      "date": "2025-11-16"
+    },
+    {
+      "titre": "Expert en IA : Les erreurs à éviter quand on lance une startup dans l'IA",
+      "date": "2025-10-05"
+    }
+  ],
+  "derniere_activite": "2026-05-01",
+  "frequence_jours": 31
 }

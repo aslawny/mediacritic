@@ -27,5 +27,29 @@
     "famille"
   ],
   "addedAt": "2026-07-06",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Amar Kant et la naissance du tabla | Saison 5 épisode 7",
+      "date": "2026-03-04"
+    },
+    {
+      "titre": "La cavale de Compère Singe | Saison 5 - Épisode 6",
+      "date": "2026-02-25"
+    },
+    {
+      "titre": "La soupe Ovoi | Saison 5 - Épisode 5",
+      "date": "2025-10-21"
+    },
+    {
+      "titre": "L'héritière de la Kora | Saison 5 - Épisode 4",
+      "date": "2025-06-18"
+    },
+    {
+      "titre": "Le vieux Guembri | Saison 5 - Épisode 3",
+      "date": "2025-06-11"
+    }
+  ],
+  "derniere_activite": "2026-03-04",
+  "frequence_jours": 8
 }

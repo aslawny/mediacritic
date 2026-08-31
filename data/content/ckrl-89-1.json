@@ -24,5 +24,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "Les matins éphémères - Chronique Jean Drouin 16 Octobre 2023",
+      "date": "2023-10-17"
+    },
+    {
+      "titre": "Entrevue avec Sofiane Pamart aux Francos de Montréal 2022",
+      "date": "2023-04-27"
+    },
+    {
+      "titre": "Publicité Radiothon 2023 CKRL - Lou-Adriane Cassidy",
+      "date": "2023-03-30"
+    },
+    {
+      "titre": "Publicité - Radiothon 2023 CKRL - Paule-Andrée Cassidy",
+      "date": "2023-03-30"
+    },
+    {
+      "titre": "Dans quel contexte social et médiatique est née CKRL en 1973?",
+      "date": "2023-03-14"
+    }
+  ],
+  "derniere_activite": "2023-10-17",
+  "frequence_jours": 28
 }

@@ -27,5 +27,29 @@
     "famille"
   ],
   "addedAt": "2026-06-09",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "SPÉCIAL Biodiversité 4/4 : Renouer avec le Vivant",
+      "date": "2026-08-28"
+    },
+    {
+      "titre": "SPÉCIAL Biodiversité 3/4 : Est-il encore temps ?",
+      "date": "2026-08-25"
+    },
+    {
+      "titre": "SPÉCIAL Biodiversité 2/4 : Focus sur les 5 grandes causes de l'éradication",
+      "date": "2026-08-21"
+    },
+    {
+      "titre": "SPÉCIAL Biodiversité 1/4 : Cri d’alerte du Vivant",
+      "date": "2026-08-18"
+    },
+    {
+      "titre": "SPÉCIAL Auxiliaires 12/12 : Sans Guêpes, pas de vin !",
+      "date": "2026-08-14"
+    }
+  ],
+  "derniere_activite": "2026-08-28",
+  "frequence_jours": 3
 }

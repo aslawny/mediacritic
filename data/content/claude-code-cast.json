@@ -25,5 +25,29 @@
     "numerique"
   ],
   "addedAt": "2026-07-03",
-  "updatedAt": "2026-07-03"
+  "updatedAt": "2026-07-03",
+  "episodes_recents": [
+    {
+      "titre": "Same Model, 70x the Tokens—Your Harness Sets the Bill",
+      "date": "2026-08-28"
+    },
+    {
+      "titre": "Your Coding Agent Passed the Benchmark—Then Failed the Refactor",
+      "date": "2026-08-25"
+    },
+    {
+      "titre": "Passing Tests Isn't Enough for Your Next Coding Agent",
+      "date": "2026-08-14"
+    },
+    {
+      "titre": "Your OpenClaw Updates Need a Canary, Not Courage",
+      "date": "2026-08-02"
+    },
+    {
+      "titre": "Claude Code Changed Engines—Your Evals Just Broke",
+      "date": "2026-07-24"
+    }
+  ],
+  "derniere_activite": "2026-08-28",
+  "frequence_jours": 8
 }

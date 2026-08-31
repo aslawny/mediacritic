@@ -26,5 +26,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "Cité de la gastronomie : nature et culture",
+      "date": "2022-09-12"
+    },
+    {
+      "titre": "Cité de la gastronomie : conte d’apothicaire",
+      "date": "2022-08-08"
+    },
+    {
+      "titre": "Cité de la gastronomie : découvrez la cuisine expérientielle",
+      "date": "2022-07-01"
+    },
+    {
+      "titre": "Cité de la gastronomie : métamorphose urbaine",
+      "date": "2022-05-31"
+    },
+    {
+      "titre": "Cité de la gastronomie : découvrez \"le village gastronomique\"",
+      "date": "2022-05-04"
+    }
+  ],
+  "derniere_activite": "2022-09-12",
+  "frequence_jours": 31
 }

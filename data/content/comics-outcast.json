@@ -26,5 +26,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "268 - Répétition de la discord",
+      "date": "2026-07-17"
+    },
+    {
+      "titre": "267 - En freestyle et on est content",
+      "date": "2026-06-20"
+    },
+    {
+      "titre": "266 - Blake et Mort de soif",
+      "date": "2026-06-12"
+    },
+    {
+      "titre": "265 - Puni de dessert",
+      "date": "2026-05-22"
+    },
+    {
+      "titre": "264 - Quoi la baize ?!",
+      "date": "2026-05-08"
+    }
+  ],
+  "derniere_activite": "2026-07-17",
+  "frequence_jours": 14
 }

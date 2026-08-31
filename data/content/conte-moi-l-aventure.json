@@ -27,5 +27,29 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Vassilissa et Baba Yaga - d'après un conte russe",
+      "date": "2026-08-19"
+    },
+    {
+      "titre": "Sans Famille (Partie 2) - d'après le roman d'Hector Malot",
+      "date": "2026-08-04"
+    },
+    {
+      "titre": "Sans Famille (Partie 1) - d'après le roman d'Hector Malot",
+      "date": "2026-07-22"
+    },
+    {
+      "titre": "Perceval et le Graal - d'après le roman de Chrétien de Troyes",
+      "date": "2026-07-08"
+    },
+    {
+      "titre": "La fille de l'empereur - d'après un conte hassidique",
+      "date": "2026-06-23"
+    }
+  ],
+  "derniere_activite": "2026-08-19",
+  "frequence_jours": 7
 }

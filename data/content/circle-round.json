@@ -25,5 +25,29 @@
     "famille"
   ],
   "addedAt": "2026-07-27",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Summer Camp: Top Banana",
+      "date": "2026-08-25"
+    },
+    {
+      "titre": "Summer Camp: Crocus-Pocus",
+      "date": "2026-08-18"
+    },
+    {
+      "titre": "Summer Camp: The Salmon Famine",
+      "date": "2026-08-11"
+    },
+    {
+      "titre": "Summer Camp: The Bird of a Different Feather",
+      "date": "2026-08-04"
+    },
+    {
+      "titre": "Summer Camp: The Salmon Famine",
+      "date": "2026-07-28"
+    }
+  ],
+  "derniere_activite": "2026-08-25",
+  "frequence_jours": 7
 }

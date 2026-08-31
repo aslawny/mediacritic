@@ -24,5 +24,29 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Femmes et addictions - Des Jours Meilleurs - Semaine du cerveau 2026 (Mars 2026)",
+      "date": "2026-03-23"
+    },
+    {
+      "titre": "I Love Peru avec Hugo David - Rencontre de LUX (Juillet 2025)",
+      "date": "2025-07-16"
+    },
+    {
+      "titre": "Dans la cuisine des Nguyen avec Stéphane Ly-Cuong et Clotilde Chevalier - Rencontre de LUX (Février 2025)",
+      "date": "2025-03-08"
+    },
+    {
+      "titre": "Au Boulot ! avec François Ruffin - Rencontre de LUX (Septembre 2024)",
+      "date": "2024-11-06"
+    },
+    {
+      "titre": "Le Roman de Jim avec Karim Leklou - Rencontre de LUX (Août 2024)",
+      "date": "2024-08-08"
+    }
+  ],
+  "derniere_activite": "2026-03-23",
+  "frequence_jours": 65
 }

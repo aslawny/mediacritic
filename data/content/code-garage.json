@@ -25,5 +25,29 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-08-28",
+  "episodes_recents": [
+    {
+      "titre": "Comprendre le principe SOLID en programmation",
+      "date": "2026-07-17"
+    },
+    {
+      "titre": "IBM a-t'il vraiment inventé le papier bulle ?",
+      "date": "2026-07-09"
+    },
+    {
+      "titre": "Le marché du dev en 2026 : catastrophe ou illusion ?",
+      "date": "2026-06-29"
+    },
+    {
+      "titre": "GemPlus, où quand la CIA infiltre une entreprise française",
+      "date": "2026-06-18"
+    },
+    {
+      "titre": "Le monde merveilleux des ADR !",
+      "date": "2026-06-03"
+    }
+  ],
+  "derniere_activite": "2026-07-17",
+  "frequence_jours": 8
 }

@@ -25,5 +25,29 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-05-08"
+  "updatedAt": "2026-05-08",
+  "episodes_recents": [
+    {
+      "titre": "Ciné-Rédemption #85: Knock-out !",
+      "date": "2026-08-04"
+    },
+    {
+      "titre": "Ciné-Rédemption #84: Slam Dunk !",
+      "date": "2026-07-28"
+    },
+    {
+      "titre": "Ciné-Rédemption #83: Carton Rouge !",
+      "date": "2026-07-21"
+    },
+    {
+      "titre": "Ciné-Rédemption #82: Compte Complet",
+      "date": "2026-06-09"
+    },
+    {
+      "titre": "Ciné-Rédemption #81: Snappe pis Bourdonne",
+      "date": "2026-05-26"
+    }
+  ],
+  "derniere_activite": "2026-08-04",
+  "frequence_jours": 7
 }
