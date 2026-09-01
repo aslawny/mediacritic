@@ -25,5 +25,29 @@
     "numerique"
   ],
   "addedAt": "2026-07-22",
-  "updatedAt": "2026-07-22"
+  "updatedAt": "2026-07-22",
+  "episodes_recents": [
+    {
+      "titre": "OpenBSD : Post-Installation officielle et guidée (outils et fichiers essentiels)",
+      "date": "2024-04-07"
+    },
+    {
+      "titre": "OpenBSD : Installation guidée et facile",
+      "date": "2024-03-29"
+    },
+    {
+      "titre": "GIT : Comment mettre à jour en local l'url / uri du dépôt distant ?",
+      "date": "2024-03-21"
+    },
+    {
+      "titre": "GIT : Comment résoudre un conflit ? (vimdiff, mergetool)",
+      "date": "2024-03-21"
+    },
+    {
+      "titre": "GIT : Comment sauvegarder mes modifications avec \"git stash\" ?",
+      "date": "2024-03-21"
+    }
+  ],
+  "derniere_activite": "2024-04-07",
+  "frequence_jours": 0
 }

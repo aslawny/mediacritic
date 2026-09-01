@@ -27,5 +27,29 @@
     "cuisine"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-05-23"
+  "updatedAt": "2026-05-23",
+  "episodes_recents": [
+    {
+      "titre": "Dessus de Tables - 31/01/24 - Enfants, comment savoir si c'est urgent (Dr Jules Fougère)",
+      "date": "2024-01-31"
+    },
+    {
+      "titre": "Dessus de Tables - 29/04/23 - Yazid Ichemrahen, champion du monde de desserts glacés !",
+      "date": "2023-04-29"
+    },
+    {
+      "titre": "Dessus de Tables - 18/03/23 - Le tour du monde en 60 pâtisseries",
+      "date": "2023-03-18"
+    },
+    {
+      "titre": "Dessus de Tables - 11/03/23 - Les femmes cheffes à l'honneur",
+      "date": "2023-03-11"
+    },
+    {
+      "titre": "Dessus de Tables - 04/03/23 - C'est meilleur quand c'est bon (Emmanuelle Jary)",
+      "date": "2023-03-04"
+    }
+  ],
+  "derniere_activite": "2024-01-31",
+  "frequence_jours": 7
 }

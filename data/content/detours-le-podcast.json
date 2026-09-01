@@ -26,5 +26,29 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-05-17"
+  "updatedAt": "2026-05-17",
+  "episodes_recents": [
+    {
+      "titre": "La voiture de demain (est déjà là)",
+      "date": "2021-09-10"
+    },
+    {
+      "titre": "La trottinette : roulez jeunesse !",
+      "date": "2021-09-10"
+    },
+    {
+      "titre": "Le métro : chantier (toujours) en cours",
+      "date": "2021-09-10"
+    },
+    {
+      "titre": "Le vélo : tout simplement culte",
+      "date": "2021-09-10"
+    },
+    {
+      "titre": "L’avion : la fin du rêve ?",
+      "date": "2021-05-31"
+    }
+  ],
+  "derniere_activite": "2021-09-10",
+  "frequence_jours": 0
 }

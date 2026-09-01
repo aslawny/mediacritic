@@ -25,5 +25,29 @@
     "cuisine"
   ],
   "addedAt": "2026-07-19",
-  "updatedAt": "2026-07-19"
+  "updatedAt": "2026-07-19",
+  "episodes_recents": [
+    {
+      "titre": "Mélangez tout et enfournez ! Ce gâteau au citron est si doux qu’il fond dans la bouche",
+      "date": "2026-08-29"
+    },
+    {
+      "titre": "Le gâteau le plus doux et parfumé ! La recette facile que tout le monde me demande",
+      "date": "2026-08-26"
+    },
+    {
+      "titre": "Arrêtez de faire le gâteau classique ! 😍 Essayez CELUI-CI, ultra moelleux et fondant",
+      "date": "2026-08-23"
+    },
+    {
+      "titre": "Le gâteau le plus léger du monde ! Il fond dans la bouche 😍",
+      "date": "2026-08-20"
+    },
+    {
+      "titre": "3 œufs, du lait et de la farine ! 😍 Ce gâteau moelleux est incroyablement facile",
+      "date": "2026-08-16"
+    }
+  ],
+  "derniere_activite": "2026-08-29",
+  "frequence_jours": 2
 }

@@ -14,7 +14,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/daily-freeski-podcast/id1788522466?uo=4",
       "trackId": 1788522466,
       "rating": 4.9,
-      "ratingCount": 41,
+      "ratingCount": 42,
       "episodeCount": 12
     }
   },
@@ -23,5 +23,29 @@
     "rénovation",
     "DIY"
   ],
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "Ep.12 - Bruno Compagnet - Daily Freeski Podcast",
+      "date": "2026-04-14"
+    },
+    {
+      "titre": "Ep.11 - Flo Bastien - Daily Freeski Podcast",
+      "date": "2026-03-31"
+    },
+    {
+      "titre": "Ep.10 - Elisabeth Gerritzen - Daily Freeski Podcast",
+      "date": "2026-03-01"
+    },
+    {
+      "titre": "Ep.9 - Julien Lopez - Daily Freeski Podcast",
+      "date": "2026-01-31"
+    },
+    {
+      "titre": "Ep.8 - Richard Permin - Daily Freeski Podcast",
+      "date": "2025-12-31"
+    }
+  ],
+  "derniere_activite": "2026-04-14",
+  "frequence_jours": 29
 }

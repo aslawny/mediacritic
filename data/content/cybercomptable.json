@@ -25,5 +25,25 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-05-16"
+  "updatedAt": "2026-05-16",
+  "episodes_recents": [
+    {
+      "titre": "Débuter avec Django et devenir un cybercomptable",
+      "date": "2019-11-12"
+    },
+    {
+      "titre": "Changement de paradigme en comptabilité",
+      "date": "2019-10-19"
+    },
+    {
+      "titre": "Le big data et son impact au Québec",
+      "date": "2019-09-29"
+    },
+    {
+      "titre": "Agriculture de précision et le colloque agriculture numérique et robotique agricole",
+      "date": "2019-09-19"
+    }
+  ],
+  "derniere_activite": "2019-11-12",
+  "frequence_jours": 20
 }

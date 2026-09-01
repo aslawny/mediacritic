@@ -25,5 +25,29 @@
     "numerique"
   ],
   "addedAt": "2026-08-26",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "Dev'Obs #33 / Bootstrapping",
+      "date": "2024-10-28"
+    },
+    {
+      "titre": "Dev'Obs #32 / Qovery",
+      "date": "2023-12-29"
+    },
+    {
+      "titre": "Dev'Obs #31 / OpenStack",
+      "date": "2023-10-13"
+    },
+    {
+      "titre": "Dev'Obs #30 / IAM @ Scaleway",
+      "date": "2023-01-12"
+    },
+    {
+      "titre": "Dev'Obs #29 / Table Ronde DevOps",
+      "date": "2022-12-20"
+    }
+  ],
+  "derniere_activite": "2024-10-28",
+  "frequence_jours": 35
 }

@@ -25,5 +25,29 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "Les langages informatiques",
+      "date": "2020-08-09"
+    },
+    {
+      "titre": "Progresser dans le développement web",
+      "date": "2020-07-19"
+    },
+    {
+      "titre": "Le métier de développeur web",
+      "date": "2020-07-05"
+    },
+    {
+      "titre": "La Femme en minorité ?",
+      "date": "2020-06-21"
+    },
+    {
+      "titre": "Introduction Dev & Moi",
+      "date": "2020-06-14"
+    }
+  ],
+  "derniere_activite": "2020-08-09",
+  "frequence_jours": 14
 }

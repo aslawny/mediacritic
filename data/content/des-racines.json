@@ -26,5 +26,29 @@
     "cuisine"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-06-06"
+  "updatedAt": "2026-06-06",
+  "episodes_recents": [
+    {
+      "titre": "Justine - Paris comme deuxième maison",
+      "date": "2022-04-12"
+    },
+    {
+      "titre": "Karamoko - Comme Samba Diallo dans L'Aventure ambiguë",
+      "date": "2022-03-29"
+    },
+    {
+      "titre": "Mayuresh - De Mumbai à la France, un nouveau quotidien",
+      "date": "2022-03-15"
+    },
+    {
+      "titre": "Maura - La Guadeloupe, trait d'union entre l'Allemagne et Cuba",
+      "date": "2022-03-08"
+    },
+    {
+      "titre": "Illyes - Grandir en France",
+      "date": "2022-03-01"
+    }
+  ],
+  "derniere_activite": "2022-04-12",
+  "frequence_jours": 7
 }

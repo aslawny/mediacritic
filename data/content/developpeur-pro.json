@@ -25,5 +25,29 @@
     "numerique"
   ],
   "addedAt": "2026-07-22",
-  "updatedAt": "2026-07-22"
+  "updatedAt": "2026-07-22",
+  "episodes_recents": [
+    {
+      "titre": "Comment Ignorer les Fichiers avec Gitignore ( Node ) ?",
+      "date": "2026-06-02"
+    },
+    {
+      "titre": "Comment Supprimer des Clés et des Valeurs aux Objets Javascript ?",
+      "date": "2026-05-26"
+    },
+    {
+      "titre": "Quelles Sont Les Méthodes Pour Les Nombres ( Numbers ) En JavaScript ?",
+      "date": "2026-05-19"
+    },
+    {
+      "titre": "Comment Changer La Police En Css ?",
+      "date": "2026-05-12"
+    },
+    {
+      "titre": "Comment Installer Nodemon Node ?",
+      "date": "2026-05-05"
+    }
+  ],
+  "derniere_activite": "2026-06-02",
+  "frequence_jours": 7
 }

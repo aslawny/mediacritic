@@ -25,5 +25,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "Et le cyclope il presse les brebis - S03E01",
+      "date": "2026-08-25"
+    },
+    {
+      "titre": "Ils ont chaud et ne comprennent rien - L'hebdo #75",
+      "date": "2026-06-23"
+    },
+    {
+      "titre": "Des démos, des films, de la musique et un livre - L'hebdo #74",
+      "date": "2026-06-16"
+    },
+    {
+      "titre": "Spécial \"The Four Seasons\" (Série et Film)",
+      "date": "2026-06-09"
+    },
+    {
+      "titre": "All you need is kill l'Obsession de Westworld - L'hebdo #73",
+      "date": "2026-06-02"
+    }
+  ],
+  "derniere_activite": "2026-08-25",
+  "frequence_jours": 6
 }

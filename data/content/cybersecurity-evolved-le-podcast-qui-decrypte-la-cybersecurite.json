@@ -25,5 +25,29 @@
     "numerique"
   ],
   "addedAt": "2026-05-31",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "Le rapport des menaces 2023 : quelles grandes tendances façonne le paysage de la cybersécurité ?",
+      "date": "2023-03-02"
+    },
+    {
+      "titre": "L'état des ransonwares en 2022",
+      "date": "2022-10-12"
+    },
+    {
+      "titre": "Les cybermenaces en 2022",
+      "date": "2022-03-04"
+    },
+    {
+      "titre": "Plongée au coeur d'une entreprise : le témoignage d'un RSSI",
+      "date": "2021-12-17"
+    },
+    {
+      "titre": "Le bug bounty ou les secrets de la sécurité collaborative",
+      "date": "2021-09-21"
+    }
+  ],
+  "derniere_activite": "2023-03-02",
+  "frequence_jours": 77
 }

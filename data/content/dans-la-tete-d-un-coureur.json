@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/dans-la-t%C3%AAte-dun-coureur/id1444365160?uo=4",
       "trackId": 1444365160,
       "rating": 4.8,
-      "ratingCount": 2700,
+      "ratingCount": 2701,
       "episodeCount": 380
     }
   },
@@ -26,5 +26,29 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "Ben Dhiman : après les échecs, comment il a réussi un UTMB historique en 18h16",
+      "date": "2026-08-31"
+    },
+    {
+      "titre": "Théo Detienne « Je sais que ça finira par payer » - Retour sur son UTMB 2026",
+      "date": "2026-08-31"
+    },
+    {
+      "titre": "UTMB 2026, Le Grand Débriefing avec Joseph Mestrallet, Vincent Viet & Julien Absalon",
+      "date": "2026-08-31"
+    },
+    {
+      "titre": "Ce que le Trail fait vraiment à votre couple ! W. Alix Noblat, Justine Carrel et Mathieu Masbernard",
+      "date": "2026-08-26"
+    },
+    {
+      "titre": "Comment ne plus être perdu en nutrition sportive ? W. Marine Leleu",
+      "date": "2026-07-31"
+    }
+  ],
+  "derniere_activite": "2026-08-31",
+  "frequence_jours": 3
 }

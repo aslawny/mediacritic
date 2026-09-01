@@ -26,5 +26,29 @@
     "numerique"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "Dans les coulisses des grands événements cyber : ce qui inquiète vraiment les entreprises",
+      "date": "2026-05-26"
+    },
+    {
+      "titre": "Cybermenaces : comment convaincre sa direction d’augmenter le budget sécurité",
+      "date": "2026-04-28"
+    },
+    {
+      "titre": "Hacking éthique : où est la ligne ? Du bug bounty à la divulgation responsable",
+      "date": "2026-03-31"
+    },
+    {
+      "titre": "Cybersécurité managée : est-ce que le MDR vaut vraiment le coup ?",
+      "date": "2026-03-10"
+    },
+    {
+      "titre": "La plus grande faille de votre cybersécurité ? Votre messagerie.",
+      "date": "2026-02-24"
+    }
+  ],
+  "derniere_activite": "2026-05-26",
+  "frequence_jours": 20
 }

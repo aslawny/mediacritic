@@ -25,5 +25,29 @@
     "numerique"
   ],
   "addedAt": "2026-07-22",
-  "updatedAt": "2026-07-22"
+  "updatedAt": "2026-07-22",
+  "episodes_recents": [
+    {
+      "titre": "Symfony 8 : Enregistrer les données d’un formulaire en base (Doctrine)",
+      "date": "2026-05-04"
+    },
+    {
+      "titre": "Symfony 8 : Modifier un élément en base de données (update)",
+      "date": "2026-04-26"
+    },
+    {
+      "titre": "Symfony 8 : Supprimer un élément de la base de données avec remove()",
+      "date": "2026-04-19"
+    },
+    {
+      "titre": "Symfony 8 : Afficher un seul élément avec Doctrine (find)",
+      "date": "2026-04-16"
+    },
+    {
+      "titre": "Symfony 8 : Afficher les données de la base dans Twig (findAll)",
+      "date": "2026-04-13"
+    }
+  ],
+  "derniere_activite": "2026-05-04",
+  "frequence_jours": 2
 }

@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/curieux-de-sciences/id1637455352?uo=2",
       "trackId": 1637455352,
       "rating": 4.4,
-      "ratingCount": 897,
+      "ratingCount": 900,
       "episodeCount": null
     }
   },
@@ -27,5 +27,29 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "Est-ce que les plantes ont un cerveau ?",
+      "date": "2026-08-28"
+    },
+    {
+      "titre": "Y-a-t-il des montagnes au fond des mers ?",
+      "date": "2026-08-21"
+    },
+    {
+      "titre": "Pourquoi les hommes ont domestiqué les chevaux et pas les zèbres ?",
+      "date": "2026-08-14"
+    },
+    {
+      "titre": "Pourquoi il y a plus de pigeons que d’autres oiseaux dans les villes ?",
+      "date": "2026-08-07"
+    },
+    {
+      "titre": "Est-ce que les bébés escargots naissent avec leur coquille ?",
+      "date": "2026-07-31"
+    }
+  ],
+  "derniere_activite": "2026-08-28",
+  "frequence_jours": 7
 }

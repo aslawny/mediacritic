@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/culture-g/id1440467605?uo=2",
       "trackId": 1440467605,
       "rating": 4.7,
-      "ratingCount": 365,
+      "ratingCount": 367,
       "episodeCount": null
     }
   },
@@ -26,5 +26,29 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-08-28"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "L'école ou le bagne ? Victor Hugo accuse ! ⛓️",
+      "date": "2026-08-31"
+    },
+    {
+      "titre": "Un MacGuffin ? L’astuce narrative derrière vos films préférés ! 🎥",
+      "date": "2026-08-24"
+    },
+    {
+      "titre": "Pourquoi la mer est-elle salée (et non sucrée) ? 🧂",
+      "date": "2026-08-17"
+    },
+    {
+      "titre": "Les roses de Saâdi : quand elles s’envolent, leur parfum demeure... 🌹",
+      "date": "2026-08-10"
+    },
+    {
+      "titre": "Phylloxéra : le fléau qui a failli détruire le vignoble français ! 🍇",
+      "date": "2026-08-03"
+    }
+  ],
+  "derniere_activite": "2026-08-31",
+  "frequence_jours": 7
 }
