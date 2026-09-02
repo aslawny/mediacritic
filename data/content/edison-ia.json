@@ -26,5 +26,29 @@
     "cuisine"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "Comment l'IA redessine le e-commerce et les parcours d'achat ? avec Yves Le Grouyer de iAdvize",
+      "date": "2026-04-29"
+    },
+    {
+      "titre": "L'IA peut-elle transformer un métier ancré dans le produit physique et le savoir-faire local ? avec Pierre Tuc",
+      "date": "2026-04-13"
+    },
+    {
+      "titre": "Comment l'IA transforme un métier de service dans l'univers du voyage ? avec Sébastien Couix de Visamundi",
+      "date": "2026-03-16"
+    },
+    {
+      "titre": "Comment déployer l’IA dans une collectivité territoriale ? avec Aymeric de Maussion de la Région Pays de la Lo",
+      "date": "2026-03-02"
+    },
+    {
+      "titre": "Comment une PME e-commerce peut utiliser l’IA pour améliorer l’expérience client ? avec Jean-Philippe Braud de",
+      "date": "2026-02-13"
+    }
+  ],
+  "derniere_activite": "2026-04-29",
+  "frequence_jours": 16
 }

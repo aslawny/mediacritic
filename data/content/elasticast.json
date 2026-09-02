@@ -25,5 +25,25 @@
     "numerique"
   ],
   "addedAt": "2026-08-08",
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "Comment la recherche est-elle devenue le socle de l’IA générative ?",
+      "date": "2026-06-30"
+    },
+    {
+      "titre": "ElasticON Paris : Pourquoi les experts de la Data font le déplacement ?",
+      "date": "2026-06-23"
+    },
+    {
+      "titre": "Comment une banque déploie l’IA à grande échelle ?",
+      "date": "2026-06-18"
+    },
+    {
+      "titre": "Comment l’armée a-t-il industrialisé l’IA générative ?",
+      "date": "2026-06-16"
+    }
+  ],
+  "derniere_activite": "2026-06-30",
+  "frequence_jours": 5
 }

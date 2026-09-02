@@ -26,5 +26,29 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-05-16"
+  "updatedAt": "2026-05-16",
+  "episodes_recents": [
+    {
+      "titre": "Dupont le matin du 1 septembre 2026 - 9h-10h",
+      "date": "2026-09-01"
+    },
+    {
+      "titre": "Dupont le matin du 1 septembre 2026 - 8h-9h",
+      "date": "2026-09-01"
+    },
+    {
+      "titre": "Dupont le matin du 1 septembre 2026 - 7h-8h",
+      "date": "2026-09-01"
+    },
+    {
+      "titre": "Dupont le matin du 1 septembre 2026 - 6h-7h",
+      "date": "2026-09-01"
+    },
+    {
+      "titre": "Dupont le matin du 31 août 2026 - 9h-10h",
+      "date": "2026-08-31"
+    }
+  ],
+  "derniere_activite": "2026-09-01",
+  "frequence_jours": 0
 }

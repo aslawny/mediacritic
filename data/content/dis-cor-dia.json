@@ -24,5 +24,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "Les Intégrales : Peter Weir, 1ère partie",
+      "date": "2026-08-30"
+    },
+    {
+      "titre": "Les Intégrales : Takeshi Kitano, 3e partie",
+      "date": "2026-08-09"
+    },
+    {
+      "titre": "Pendant ce temps, en Inde : Satluj",
+      "date": "2026-08-02"
+    },
+    {
+      "titre": "Discordia épisode 114 : La Malédiction du Point sur l'Horreur",
+      "date": "2026-07-26"
+    },
+    {
+      "titre": "Discordia épisode 113 : Le suicide français",
+      "date": "2026-07-19"
+    }
+  ],
+  "derniere_activite": "2026-08-30",
+  "frequence_jours": 7
 }

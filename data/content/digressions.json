@@ -26,5 +26,29 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "Pierre-Éric Leibovici : avec Daphni et We Are, investir autrement, la créativité comme moteur",
+      "date": "2026-01-13"
+    },
+    {
+      "titre": "Stéphane Colineau : enquêter, filmer, raconter le sport",
+      "date": "2025-12-17"
+    },
+    {
+      "titre": "Fabienne Cammas : du design au coaching, l’art de faire éclore les talents",
+      "date": "2025-12-11"
+    },
+    {
+      "titre": "Gaëlle Millon : 20 ans dans les médias sportifs, entre passion et transmission",
+      "date": "2025-12-03"
+    },
+    {
+      "titre": "Christophe Carniel : l'entrepreneur montpelliérain qui fait briller la SporTech",
+      "date": "2025-07-07"
+    }
+  ],
+  "derniere_activite": "2026-01-13",
+  "frequence_jours": 21
 }

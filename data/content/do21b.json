@@ -27,5 +27,25 @@
     "societe"
   ],
   "addedAt": "2026-06-27",
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "#03 - 15-19",
+      "date": "2026-07-23"
+    },
+    {
+      "titre": "#02 - La CCC by Corsica",
+      "date": "2026-06-26"
+    },
+    {
+      "titre": "#01 - Martin Assistance",
+      "date": "2026-05-26"
+    },
+    {
+      "titre": "#00 - Le Tour de Manège",
+      "date": "2026-05-09"
+    }
+  ],
+  "derniere_activite": "2026-07-23",
+  "frequence_jours": 27
 }

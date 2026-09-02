@@ -26,5 +26,29 @@
     "cuisine"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "Se relever après le passage des incendies",
+      "date": "2026-08-18"
+    },
+    {
+      "titre": "Contribuer au rayonnement du terroir provençal",
+      "date": "2026-07-14"
+    },
+    {
+      "titre": "Pourquoi pas moi ? Oser prendre sa place dans le machinisme agricole",
+      "date": "2026-06-16"
+    },
+    {
+      "titre": "À la rencontre d'agricultrices engagées",
+      "date": "2026-06-02"
+    },
+    {
+      "titre": "Manger sain, local et durable : et si la cantine devenait meilleure ?",
+      "date": "2026-03-17"
+    }
+  ],
+  "derniere_activite": "2026-08-18",
+  "frequence_jours": 28
 }

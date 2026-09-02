@@ -23,5 +23,29 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-05-08"
+  "updatedAt": "2026-05-08",
+  "episodes_recents": [
+    {
+      "titre": "La Dinguerie Room de Mustapha El Atrassi.",
+      "date": "2023-03-29"
+    },
+    {
+      "titre": "La Dinguerie Room de Pierre Thevenoux.",
+      "date": "2023-03-08"
+    },
+    {
+      "titre": "La Dinguerie Room de Tahnee.",
+      "date": "2023-02-22"
+    },
+    {
+      "titre": "La Dinguerie Room de Merwane Benlazar.",
+      "date": "2023-02-08"
+    },
+    {
+      "titre": "La Dinguerie Room de R. Jonathan Lambert.",
+      "date": "2023-01-25"
+    }
+  ],
+  "derniere_activite": "2023-03-29",
+  "frequence_jours": 14
 }

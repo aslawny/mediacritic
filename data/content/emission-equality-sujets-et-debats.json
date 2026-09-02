@@ -25,5 +25,29 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-05-08"
+  "updatedAt": "2026-05-08",
+  "episodes_recents": [
+    {
+      "titre": "EQUALITY - 28 Aout 2024 - Chacun son look",
+      "date": "2024-08-28"
+    },
+    {
+      "titre": "EQUALITY - 28 Aout 2024 - Arthroses et Dermatite",
+      "date": "2024-08-28"
+    },
+    {
+      "titre": "EQUALITY - 24 Aout 2024 - Langage des cités",
+      "date": "2024-08-24"
+    },
+    {
+      "titre": "EQUALITY - 24 Aout 2024 - Le Monde d'aujourd'hui",
+      "date": "2024-08-24"
+    },
+    {
+      "titre": "EQUALITY - 21 Aout 2024 - Témoignage SDF",
+      "date": "2024-08-21"
+    }
+  ],
+  "derniere_activite": "2024-08-28",
+  "frequence_jours": 0
 }

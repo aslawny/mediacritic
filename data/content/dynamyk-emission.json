@@ -23,5 +23,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "Standby by FG | 22-06-2026 | Saison 5 | EP. 30",
+      "date": "2026-06-23"
+    },
+    {
+      "titre": "Standby by FG | 15-06-2026 | Saison 5 | EP. 29",
+      "date": "2026-06-16"
+    },
+    {
+      "titre": "Standby by FG | 08-06-2026 | Saison 5 | EP. 28",
+      "date": "2026-06-09"
+    },
+    {
+      "titre": "Standby by FG | 01-06-2026 | Saison 5 | EP. 27",
+      "date": "2026-06-02"
+    },
+    {
+      "titre": "Standby by FG | 11-05-2026 | Saison 5 | EP. 26",
+      "date": "2026-05-12"
+    }
+  ],
+  "derniere_activite": "2026-06-23",
+  "frequence_jours": 7
 }

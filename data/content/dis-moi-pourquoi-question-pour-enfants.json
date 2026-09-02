@@ -26,5 +26,29 @@
     "enfants",
     "éducation"
   ],
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "Dis-moi pourquoi on dit le Roi Soleil.",
+      "date": "2026-09-02"
+    },
+    {
+      "titre": "Dis-moi pourquoi on a des points de côté.",
+      "date": "2026-08-31"
+    },
+    {
+      "titre": "Dis-moi pourquoi on dort.",
+      "date": "2026-08-26"
+    },
+    {
+      "titre": "Dis-moi pourquoi les chats détestent l'eau.",
+      "date": "2026-08-24"
+    },
+    {
+      "titre": "Dis-moi pourquoi la glace flotte sur l'eau.",
+      "date": "2026-08-19"
+    }
+  ],
+  "derniere_activite": "2026-09-02",
+  "frequence_jours": 2
 }

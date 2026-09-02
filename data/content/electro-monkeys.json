@@ -24,5 +24,29 @@
     "gaming",
     "rétro"
   ],
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "Kestra, le petit dernier mais pas moins le plus prometteur des orchestrateurs",
+      "date": "2024-03-27"
+    },
+    {
+      "titre": "Cloud native security & Kubernetes",
+      "date": "2023-10-13"
+    },
+    {
+      "titre": "Dagger, un moteur CI/CD programmable pour faire tourner vos pipelines dans des containers",
+      "date": "2023-07-17"
+    },
+    {
+      "titre": "WebAssembly avec Philippe Charrière",
+      "date": "2023-05-29"
+    },
+    {
+      "titre": "R2DEVOPS - Make your GitLab CI/CD simple and reusable",
+      "date": "2023-05-20"
+    }
+  ],
+  "derniere_activite": "2024-03-27",
+  "frequence_jours": 48
 }

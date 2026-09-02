@@ -26,5 +26,21 @@
     "societe"
   ],
   "addedAt": "2026-05-28",
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "Episode 3 -« Ecoute moi bien ! »",
+      "date": "2021-03-07"
+    },
+    {
+      "titre": "Episode 2 - « N’envahis pas mon espace »",
+      "date": "2021-03-07"
+    },
+    {
+      "titre": "Episode 1 - « Premier contact »",
+      "date": "2021-03-01"
+    }
+  ],
+  "derniere_activite": "2021-03-07",
+  "frequence_jours": 6
 }

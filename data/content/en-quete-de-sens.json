@@ -24,5 +24,29 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "Faut-il être en quête de sens pour être heureux ?",
+      "date": "2026-07-02"
+    },
+    {
+      "titre": "Et si les dirigeants travaillaient trop ?",
+      "date": "2026-07-01"
+    },
+    {
+      "titre": "Et si on emmenait nos enfants au musée cet été ?",
+      "date": "2026-07-01"
+    },
+    {
+      "titre": "Et si on emmenait nos enfants au musée cet été ?",
+      "date": "2026-06-30"
+    },
+    {
+      "titre": "Comment remédier à la solitude quand on est jeune parent ?",
+      "date": "2026-06-29"
+    }
+  ],
+  "derniere_activite": "2026-07-02",
+  "frequence_jours": 1
 }

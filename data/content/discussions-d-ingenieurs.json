@@ -24,5 +24,29 @@
     "sciences",
     "vulgarisation"
   ],
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "Une Bonne Stratégie IA, c'est quoi ? (avec Directeur IA & Data de Kyndryl) | s4e12",
+      "date": "2026-02-18"
+    },
+    {
+      "titre": "Pourquoi une IA qui te surveille dans ta voiture? (avec VP Ingénieur) | s4e11",
+      "date": "2026-02-04"
+    },
+    {
+      "titre": "Comment te protéger des attaques par IA ? (cybersécurité) | s4e10",
+      "date": "2025-10-29"
+    },
+    {
+      "titre": "Comment l'IA Sauve le Réseau Électrique Français de la Panne Totale ? | s4e9",
+      "date": "2025-08-20"
+    },
+    {
+      "titre": "Le Vrai Coût de l'IA : Discussion Honnête avec une Pointure (Directeur AWS) | s4e8",
+      "date": "2025-08-04"
+    }
+  ],
+  "derniere_activite": "2026-02-18",
+  "frequence_jours": 12
 }

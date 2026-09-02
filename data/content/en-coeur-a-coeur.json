@@ -27,5 +27,29 @@
     "societe"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "Nina M.",
+      "date": "2022-11-09"
+    },
+    {
+      "titre": "Amelle Z.",
+      "date": "2022-11-02"
+    },
+    {
+      "titre": "Manue C.",
+      "date": "2022-10-26"
+    },
+    {
+      "titre": "Nelly L.",
+      "date": "2022-10-19"
+    },
+    {
+      "titre": "Bastos (Bastien G.)",
+      "date": "2022-10-12"
+    }
+  ],
+  "derniere_activite": "2022-11-09",
+  "frequence_jours": 7
 }

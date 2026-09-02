@@ -25,5 +25,29 @@
     "numerique"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "Domotiser un logement étudiant sans travaux et 100 % réversible",
+      "date": "2026-08-27"
+    },
+    {
+      "titre": "La domotique en vacances - Checklist et simulation de présence intelligente",
+      "date": "2026-07-16"
+    },
+    {
+      "titre": "L'IA prend de contrôle de Home Assistant pour tout faire simplement avec HA MCP",
+      "date": "2026-06-29"
+    },
+    {
+      "titre": "Piscine Intelligente 2.0 : Pilotage domotique infaillible et nettoyage par l'IA",
+      "date": "2026-05-28"
+    },
+    {
+      "titre": "Z-Wave, Zigbee et Matter : Le point sur les protocoles domotiques en 2026",
+      "date": "2026-04-29"
+    }
+  ],
+  "derniere_activite": "2026-08-27",
+  "frequence_jours": 33
 }

@@ -26,5 +26,29 @@
     "famille"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "Le Chat Botté",
+      "date": "2026-08-30"
+    },
+    {
+      "titre": "Les 3 petits cochons",
+      "date": "2026-06-16"
+    },
+    {
+      "titre": "La Belle au bois dormant",
+      "date": "2026-05-24"
+    },
+    {
+      "titre": "Cendrillon, épisode 2",
+      "date": "2026-05-09"
+    },
+    {
+      "titre": "Cendrillon, épisode 1",
+      "date": "2026-05-08"
+    }
+  ],
+  "derniere_activite": "2026-08-30",
+  "frequence_jours": 15
 }

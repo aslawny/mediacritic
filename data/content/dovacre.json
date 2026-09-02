@@ -25,5 +25,29 @@
     "numerique"
   ],
   "addedAt": "2026-08-18",
-  "updatedAt": "2026-08-18"
+  "updatedAt": "2026-08-18",
+  "episodes_recents": [
+    {
+      "titre": "Un pdf ça peut contenir des textes que tu ne vois pas ! #informatique",
+      "date": "2026-09-01"
+    },
+    {
+      "titre": "Bien avant l'informatique, quelqu'un a inventé un moyen de réaliser automatiquement des calculs",
+      "date": "2026-08-31"
+    },
+    {
+      "titre": "Tu savais que quand tu copies du texte tu peux prendre plein de choses ?",
+      "date": "2026-08-30"
+    },
+    {
+      "titre": "Ton navigateur n’est pas utile qu’à aller sur Internet #informatique",
+      "date": "2026-08-29"
+    },
+    {
+      "titre": "127.0.0.1 ce n'est pas une adresse comme les autres ! #informatique",
+      "date": "2026-08-28"
+    }
+  ],
+  "derniere_activite": "2026-09-01",
+  "frequence_jours": 0
 }

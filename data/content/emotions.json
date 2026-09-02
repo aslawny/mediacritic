@@ -30,5 +30,29 @@
     "bien-être",
     "psychologie"
   ],
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-02",
+  "episodes_recents": [
+    {
+      "titre": "Pourquoi parle-t-on de nos ami·es derrière leur dos ?",
+      "date": "2026-08-30"
+    },
+    {
+      "titre": "Sur les traces du monastère invisible",
+      "date": "2026-08-17"
+    },
+    {
+      "titre": "Le mystère de la chambre secrète",
+      "date": "2026-08-09"
+    },
+    {
+      "titre": "Le fantôme d'Yvette",
+      "date": "2026-07-26"
+    },
+    {
+      "titre": "Un trésor sur le sable",
+      "date": "2026-07-21"
+    }
+  ],
+  "derniere_activite": "2026-08-30",
+  "frequence_jours": 13
 }
