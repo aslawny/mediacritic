@@ -26,5 +26,29 @@
     "societe"
   ],
   "addedAt": "2026-06-30",
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "Épisode 5 : Terre d’événement - Avec Tiffenn Lannou et Juliette Marti",
+      "date": "2026-04-22"
+    },
+    {
+      "titre": "La gastronomie avec Ludovic Gambini et Jean-Philippe Gazan",
+      "date": "2026-01-22"
+    },
+    {
+      "titre": "Art et Culture : Partie 1 - Avec Guillaume Cavalier et Jen Miller",
+      "date": "2025-10-21"
+    },
+    {
+      "titre": "Le sport en montagne, avec Yannis Pelé et Maxime Montaggioni",
+      "date": "2025-08-08"
+    },
+    {
+      "titre": "En mer, avec Arthur Guérin-Boëri",
+      "date": "2025-06-25"
+    }
+  ],
+  "derniere_activite": "2026-04-22",
+  "frequence_jours": 90
 }

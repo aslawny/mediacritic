@@ -26,5 +26,29 @@
     "enfants",
     "éducation"
   ],
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "Tu dirais quoi pour te faire élire ?",
+      "date": "2020-03-11"
+    },
+    {
+      "titre": "Et toi tu ferais quoi si tu étais maire ?",
+      "date": "2020-03-11"
+    },
+    {
+      "titre": "Tu trouverais ça intéressant d'être maire ?",
+      "date": "2020-03-11"
+    },
+    {
+      "titre": "Comment le choisit on ?",
+      "date": "2020-03-11"
+    },
+    {
+      "titre": "Il fait quoi ?",
+      "date": "2020-03-11"
+    }
+  ],
+  "derniere_activite": "2020-03-11",
+  "frequence_jours": 0
 }

@@ -23,5 +23,29 @@
     "business",
     "entrepreneuriat"
   ],
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "#90 - Réda Berrehili - Rachat de Squarebreak par le groupe Accor",
+      "date": "2023-09-15"
+    },
+    {
+      "titre": "#89 - Philippe Gelis - Rachat de Kantox par la BNP Paribas",
+      "date": "2023-06-16"
+    },
+    {
+      "titre": "#88 - Nicolas Guirao - Rachat de Testapic par UserZoom",
+      "date": "2023-05-12"
+    },
+    {
+      "titre": "#87 - Hors Série Banque d'Affaires avec Michael Azencot (Cambon Partners)",
+      "date": "2023-03-16"
+    },
+    {
+      "titre": "#86 - Martin Ohannessian - Rachat du Petit Ballon par COGIP",
+      "date": "2023-02-23"
+    }
+  ],
+  "derniere_activite": "2023-09-15",
+  "frequence_jours": 28
 }

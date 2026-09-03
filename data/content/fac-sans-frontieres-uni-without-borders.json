@@ -25,5 +25,29 @@
     "culture"
   ],
   "addedAt": "2026-08-23",
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "Voyage à Tahiti avec Kiaora",
+      "date": "2026-04-27"
+    },
+    {
+      "titre": "Voyage aux USA avec Caroline",
+      "date": "2026-03-23"
+    },
+    {
+      "titre": "voyage en Inde avec Shreya",
+      "date": "2026-02-23"
+    },
+    {
+      "titre": "Voyage au Sri Lanka avec Anuruddha",
+      "date": "2026-02-02"
+    },
+    {
+      "titre": "Un voyage au Vanuatu et en Nouvelle-Zélande avec Louis",
+      "date": "2025-12-22"
+    }
+  ],
+  "derniere_activite": "2026-04-27",
+  "frequence_jours": 28
 }

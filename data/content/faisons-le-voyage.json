@@ -26,5 +26,29 @@
     "societe"
   ],
   "addedAt": "2026-06-12",
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "Tenerife : l’île volcanique entre nature et élégance",
+      "date": "2026-03-31"
+    },
+    {
+      "titre": "Le Costa Rica : la musique de la nature",
+      "date": "2025-12-24"
+    },
+    {
+      "titre": "Oman : voyage sensoriel sur la route de l’encens",
+      "date": "2025-12-24"
+    },
+    {
+      "titre": "Le Japon à travers ses saveurs",
+      "date": "2025-05-30"
+    },
+    {
+      "titre": "Le Botswana : le joyau sauvage de l’Afrique australe",
+      "date": "2025-05-16"
+    }
+  ],
+  "derniere_activite": "2026-03-31",
+  "frequence_jours": 14
 }

@@ -24,5 +24,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "Cyclades : la France aux origines d'internet",
+      "date": "2026-06-20"
+    },
+    {
+      "titre": "L'interactivité sous toutes ses formes",
+      "date": "2026-05-23"
+    },
+    {
+      "titre": "Minitel : le terminal qui mis la France en ligne",
+      "date": "2026-04-25"
+    },
+    {
+      "titre": "Le jeu vidéo à la télévision française",
+      "date": "2026-02-28"
+    },
+    {
+      "titre": "Quand la télévision faisait rêver les enfants",
+      "date": "2026-01-31"
+    }
+  ],
+  "derniere_activite": "2026-06-20",
+  "frequence_jours": 28
 }

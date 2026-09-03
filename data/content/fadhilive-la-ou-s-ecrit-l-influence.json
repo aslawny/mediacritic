@@ -24,5 +24,29 @@
     "tech",
     "numérique"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "Ton boulot va-t-il survivre à l'IA ?",
+      "date": "2025-09-18"
+    },
+    {
+      "titre": "Ton identité numérique t’appartient-elle encore ?",
+      "date": "2025-07-24"
+    },
+    {
+      "titre": "Chine Tech: et si l'Europe avait tort ?",
+      "date": "2025-07-17"
+    },
+    {
+      "titre": "Crypto : entre braquage et fichage ?",
+      "date": "2025-07-01"
+    },
+    {
+      "titre": "Bitcoin: arme, illusion.. ou choc géopolitique ?",
+      "date": "2025-06-26"
+    }
+  ],
+  "derniere_activite": "2025-09-18",
+  "frequence_jours": 6
 }

@@ -24,5 +24,29 @@
     "sciences",
     "vulgarisation"
   ],
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "[Rediffusion] Écosystème 7/7 : Numérique sobre, numérique démocratique",
+      "date": "2026-09-02"
+    },
+    {
+      "titre": "[Rediffusion] Écosystème 6/7 : Démonter, remonter, recycler",
+      "date": "2026-08-26"
+    },
+    {
+      "titre": "[Rediffusion] Écosystème 5/7 : Des services numériques légers comme l’air",
+      "date": "2026-08-19"
+    },
+    {
+      "titre": "[Rediffusion] Écosystème 4/7 : Numérique électrique, numérique responsable",
+      "date": "2026-08-12"
+    },
+    {
+      "titre": "[Rediffusion] Écosystème 3/7 : Dans les usines de données",
+      "date": "2026-08-05"
+    }
+  ],
+  "derniere_activite": "2026-09-02",
+  "frequence_jours": 7
 }

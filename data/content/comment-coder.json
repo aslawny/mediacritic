@@ -1,0 +1,53 @@
+{
+  "slug": "comment-coder",
+  "title": "Comment Coder",
+  "author": "Comment Coder",
+  "type": "youtube",
+  "categories": [
+    "tech",
+    "numerique"
+  ],
+  "description": "Salut c'est Thomas 👋\n\nIci tu trouveras des vidéos, cours complets et tutoriels sur la programmation principalement en Python, Web (HTML, CSS, JS) et C.\n\nCe que tu vas apprendre :\n1. Poser de vraies fondations dans plusieurs langages\n2. Construire des projets concrets pour progresser rapidement\n3. T'orienter vers ce qui t'intéresse : dev web, automatisation, data, IA...",
+  "image": "https://yt3.ggpht.com/t54xEo0eJvAK_Up4BAV-ARkK6RXYACZxYfwxJ1_mowpjWfFcV5g_-A1dupfZlZB_9bAKR-HM1g=s800-c-k-c0x00ffffff-no-rj",
+  "language": "fr",
+  "platforms": {
+    "youtube": {
+      "url": "https://www.youtube.com/@commentcoder",
+      "channelId": "UCEztUC2WwKEDkVl9c6oUoTw",
+      "subscribers": 40100,
+      "totalViews": 2401250,
+      "videoCount": 265
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "tech",
+    "numerique"
+  ],
+  "addedAt": "2026-09-03",
+  "updatedAt": "2026-09-03",
+  "episodes_recents": [
+    {
+      "titre": "APPRENDRE PYTHON EN 1 HEURE : cours complet pour débutants",
+      "date": "2026-09-01"
+    },
+    {
+      "titre": "Comment installer MySQL sur Windows ? Serveur, Workbench & Shell",
+      "date": "2026-07-20"
+    },
+    {
+      "titre": "Apprendre Git & GitHub en 13 minutes - Tutoriel débutant 2026",
+      "date": "2026-07-12"
+    },
+    {
+      "titre": "Vos premiers pas sur GitHub (Tutoriel 2026)",
+      "date": "2026-06-30"
+    },
+    {
+      "titre": "Les bases de Git : git init, add, commit et log (Tutoriel 2026)",
+      "date": "2026-06-29"
+    }
+  ],
+  "derniere_activite": "2026-09-01",
+  "frequence_jours": 1
+}

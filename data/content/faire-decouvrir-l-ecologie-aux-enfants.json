@@ -25,5 +25,29 @@
     "enfants",
     "éducation"
   ],
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "Méditation en forêt",
+      "date": "2026-08-18"
+    },
+    {
+      "titre": "Julien Perrot : parcours d’un enfant passionné de nature",
+      "date": "2026-07-07"
+    },
+    {
+      "titre": "Infantisme et écologie : écouter les enfants changerait tout",
+      "date": "2026-03-27"
+    },
+    {
+      "titre": "Le sac à dos écologique",
+      "date": "2025-02-10"
+    },
+    {
+      "titre": "Faire classe dehors : l’avenir de l’éducation ?",
+      "date": "2024-10-07"
+    }
+  ],
+  "derniere_activite": "2026-08-18",
+  "frequence_jours": 35
 }

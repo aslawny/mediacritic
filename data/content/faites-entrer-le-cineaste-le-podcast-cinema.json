@@ -26,5 +26,25 @@
     "comedie"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "Faites Entrer Le Cinéaste #4 - Jean-Jacques Annaud",
+      "date": "2024-04-30"
+    },
+    {
+      "titre": "Faites Entrer Le Cinéaste #3 - Céline Sciamma",
+      "date": "2024-03-26"
+    },
+    {
+      "titre": "Faites Entrer Le Cinéaste #2 - Paul Thomas Anderson",
+      "date": "2024-02-27"
+    },
+    {
+      "titre": "Faites Entrer Le Cinéaste #1 - Rob Zombie",
+      "date": "2024-01-28"
+    }
+  ],
+  "derniere_activite": "2024-04-30",
+  "frequence_jours": 30
 }

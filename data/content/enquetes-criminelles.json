@@ -26,5 +26,29 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "Affaire Colette Deromme (1/2) : une meurtrière dans la famille",
+      "date": "2026-09-03"
+    },
+    {
+      "titre": "Affaire Colette Deromme (2/2) : une meurtrière dans la famille",
+      "date": "2026-09-03"
+    },
+    {
+      "titre": "Affaire Nathalie Villermet (1/2) : l'hôtel aux 10 suspects",
+      "date": "2026-08-27"
+    },
+    {
+      "titre": "Affaire Nathalie Villermet (2/2) : l'hôtel aux 10 suspects",
+      "date": "2026-08-27"
+    },
+    {
+      "titre": "Affaire Gomis (2/2) : vrais jumeaux faux coupable",
+      "date": "2026-08-20"
+    }
+  ],
+  "derniere_activite": "2026-09-03",
+  "frequence_jours": 0
 }

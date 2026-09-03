@@ -25,5 +25,29 @@
     "business"
   ],
   "addedAt": "2026-07-22",
-  "updatedAt": "2026-07-22"
+  "updatedAt": "2026-07-22",
+  "episodes_recents": [
+    {
+      "titre": "La cotation au fixing - Explique-moi l'économie",
+      "date": "2026-04-18"
+    },
+    {
+      "titre": "La réindustrialisation - Explique-moi l'économie",
+      "date": "2026-03-24"
+    },
+    {
+      "titre": "Comment savoir si une commune est trop endettée ? - Le budget d'une commune (10/10)",
+      "date": "2026-03-05"
+    },
+    {
+      "titre": "Taux élevé ne veut pas dire impôt plus élevé - Le budget d'une commune (9/10)",
+      "date": "2026-03-02"
+    },
+    {
+      "titre": "Comment sont calculés les impôts locaux - Le budget d'une commune (8/10)",
+      "date": "2026-02-28"
+    }
+  ],
+  "derniere_activite": "2026-04-18",
+  "frequence_jours": 2
 }

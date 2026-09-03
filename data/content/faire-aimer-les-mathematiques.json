@@ -25,5 +25,29 @@
     "education"
   ],
   "addedAt": "2026-07-31",
-  "updatedAt": "2026-07-31"
+  "updatedAt": "2026-07-31",
+  "episodes_recents": [
+    {
+      "titre": "Calculer la vitesse de l'avion et celle du vent",
+      "date": "2026-01-03"
+    },
+    {
+      "titre": "À quelle distance de Paris et à quelle heure nos deux trains se croisent-ils ?",
+      "date": "2026-01-02"
+    },
+    {
+      "titre": "Calculer l'aire du carré",
+      "date": "2026-01-01"
+    },
+    {
+      "titre": "Calculer l'aire du demi-disque rouge",
+      "date": "2025-12-31"
+    },
+    {
+      "titre": "Calculer x et y",
+      "date": "2025-12-30"
+    }
+  ],
+  "derniere_activite": "2026-01-03",
+  "frequence_jours": 0
 }

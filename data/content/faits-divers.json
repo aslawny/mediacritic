@@ -24,5 +24,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "Shahin - Faits Divers #57",
+      "date": "2025-09-15"
+    },
+    {
+      "titre": "Félix Lévesque - Faits Divers #56",
+      "date": "2024-12-21"
+    },
+    {
+      "titre": "Ruba Ghazal - Faits Divers #55",
+      "date": "2024-11-28"
+    },
+    {
+      "titre": "Farnell Morisset - Faits Divers #54",
+      "date": "2024-11-20"
+    },
+    {
+      "titre": "Marianne Plaisance - Faits Divers #53",
+      "date": "2024-11-13"
+    }
+  ],
+  "derniere_activite": "2025-09-15",
+  "frequence_jours": 34
 }

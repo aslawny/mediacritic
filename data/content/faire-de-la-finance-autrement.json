@@ -25,5 +25,29 @@
     "business"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "La finance engagée avec Olivier Hamant",
+      "date": "2026-07-05"
+    },
+    {
+      "titre": "La finance engagée chez Colam Impact",
+      "date": "2026-06-08"
+    },
+    {
+      "titre": "La finance engagée chez Asterion Ventures",
+      "date": "2026-03-11"
+    },
+    {
+      "titre": "La finance engagée chez Arrago",
+      "date": "2026-02-02"
+    },
+    {
+      "titre": "La finance engagée par Christopher Guerin",
+      "date": "2026-01-07"
+    }
+  ],
+  "derniere_activite": "2026-07-05",
+  "frequence_jours": 30
 }

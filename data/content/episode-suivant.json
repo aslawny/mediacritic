@@ -24,5 +24,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "\"Lost\", \"Succession\", \"Buffy\"… Quelle est la meilleure fin de série de l'histoire ?",
+      "date": "2026-07-15"
+    },
+    {
+      "titre": "\"House of the Dragon\" : l'héritière de \"Game of Thrones\" se réveille (enfin)",
+      "date": "2026-07-08"
+    },
+    {
+      "titre": "Avec \"Zodiaque\", le grand retour des sagas de l'été",
+      "date": "2026-06-17"
+    },
+    {
+      "titre": "Flop de \"The Mandalorian & Grogu\" : une claque pour le streaming",
+      "date": "2026-06-04"
+    },
+    {
+      "titre": "\"Emprise\" de Vincent Bolloré : la grande famille du cinéma français se déchire",
+      "date": "2026-05-20"
+    }
+  ],
+  "derniere_activite": "2026-07-15",
+  "frequence_jours": 14
 }

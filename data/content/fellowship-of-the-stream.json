@@ -25,5 +25,29 @@
     "cinema"
   ],
   "addedAt": "2026-05-31",
-  "updatedAt": "2026-05-31"
+  "updatedAt": "2026-05-31",
+  "episodes_recents": [
+    {
+      "titre": "Jurassic World Dominion (2022)",
+      "date": "2023-01-01"
+    },
+    {
+      "titre": "Van Helsing (2004)",
+      "date": "2022-12-27"
+    },
+    {
+      "titre": "Flubber (1997)",
+      "date": "2021-07-30"
+    },
+    {
+      "titre": "Jumanji (1995)",
+      "date": "2021-07-23"
+    },
+    {
+      "titre": "Hook (1991)",
+      "date": "2021-06-17"
+    }
+  ],
+  "derniere_activite": "2023-01-01",
+  "frequence_jours": 14
 }

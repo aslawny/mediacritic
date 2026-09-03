@@ -26,5 +26,29 @@
     "societe"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-01",
+  "episodes_recents": [
+    {
+      "titre": "Grèce, où la mer raconte l'Histoire",
+      "date": "2026-08-28"
+    },
+    {
+      "titre": "Luxembourg, de la capitale aux vallées secrètes",
+      "date": "2026-07-26"
+    },
+    {
+      "titre": "Ouzbékistan, sur les routes de la soie",
+      "date": "2026-06-06"
+    },
+    {
+      "titre": "Californie: escales sur la côte ouest",
+      "date": "2026-05-25"
+    },
+    {
+      "titre": "Lumières du Nord: Helsinki, Porkkala, Tallinn",
+      "date": "2026-04-22"
+    }
+  ],
+  "derniere_activite": "2026-08-28",
+  "frequence_jours": 32
 }
