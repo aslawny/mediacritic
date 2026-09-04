@@ -25,5 +25,29 @@
     "cuisine"
   ],
   "addedAt": "2026-08-15",
-  "updatedAt": "2026-08-15"
+  "updatedAt": "2026-08-15",
+  "episodes_recents": [
+    {
+      "titre": "Brochettes de poulet aux herbes et au citron à la Grecque",
+      "date": "2026-07-29"
+    },
+    {
+      "titre": "La salade de poulet -- équilibrée et très facile",
+      "date": "2026-07-18"
+    },
+    {
+      "titre": "Les Fèves pour un repas économique mais nutritif",
+      "date": "2026-07-11"
+    },
+    {
+      "titre": "Pilons de poulet à l’Indienne addictifs et faciles à préparer",
+      "date": "2026-07-01"
+    },
+    {
+      "titre": "Mon fish burger – Filet o fish en PLS",
+      "date": "2026-06-20"
+    }
+  ],
+  "derniere_activite": "2026-07-29",
+  "frequence_jours": 6
 }

@@ -26,5 +26,29 @@
     "societe"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-06-06"
+  "updatedAt": "2026-06-06",
+  "episodes_recents": [
+    {
+      "titre": "[Place] Parvis Notre-Dame",
+      "date": "2026-01-31"
+    },
+    {
+      "titre": "[Quartier] Montmartre",
+      "date": "2025-10-09"
+    },
+    {
+      "titre": "[Place] Palais Royal",
+      "date": "2025-09-20"
+    },
+    {
+      "titre": "[Quartier] Bastille",
+      "date": "2025-09-20"
+    },
+    {
+      "titre": "Bienvenue sur Flâneurs !",
+      "date": "2025-09-18"
+    }
+  ],
+  "derniere_activite": "2026-01-31",
+  "frequence_jours": 19
 }

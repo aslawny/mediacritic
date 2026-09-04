@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/fleurons/id1877689552?uo=2",
       "trackId": 1877689552,
       "rating": 4.8,
-      "ratingCount": 235,
+      "ratingCount": 237,
       "episodeCount": null
     }
   },
@@ -26,5 +26,29 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "DASSAULT",
+      "date": "2026-07-25"
+    },
+    {
+      "titre": "[EXTRAIT] Marcel Dassault et la politique des petits pas",
+      "date": "2026-07-25"
+    },
+    {
+      "titre": "PSG",
+      "date": "2026-05-23"
+    },
+    {
+      "titre": "[EXTRAIT] PSG-OM : une rivalité créée de toute pièce par Canal+ ?",
+      "date": "2026-05-23"
+    },
+    {
+      "titre": "HERMÈS",
+      "date": "2026-04-25"
+    }
+  ],
+  "derniere_activite": "2026-07-25",
+  "frequence_jours": 1
 }

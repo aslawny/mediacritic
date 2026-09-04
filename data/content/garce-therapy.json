@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/garce-therapy/id1651459880?uo=4",
       "trackId": 1651459880,
       "rating": 4.9,
-      "ratingCount": 915,
+      "ratingCount": 917,
       "episodeCount": 192
     }
   },
@@ -27,5 +27,29 @@
     "psychologie"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "Paris est-elle vraiment la ville de l'amour ? (Avec Jean Paul Gaultier)",
+      "date": "2026-09-01"
+    },
+    {
+      "titre": "Comment devenir La Favorite en 10 leçons (Avec Jean Paul Gaultier)",
+      "date": "2026-08-25"
+    },
+    {
+      "titre": "Garce In The City #23 - Bye New York, hello Paris",
+      "date": "2026-08-17"
+    },
+    {
+      "titre": "Garce In The City #22 - Les hommes aussi ont besoin d’une personnalité",
+      "date": "2026-08-16"
+    },
+    {
+      "titre": "Garce In The City #21 - Être amoureuse de l’amour veut rien dire",
+      "date": "2026-08-14"
+    }
+  ],
+  "derniere_activite": "2026-09-01",
+  "frequence_jours": 2
 }

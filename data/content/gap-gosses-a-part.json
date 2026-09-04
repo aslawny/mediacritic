@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/gap-gosses-%C3%A0-part/id1855585077?uo=2",
       "trackId": 1855585077,
       "rating": 5.0,
-      "ratingCount": 13,
+      "ratingCount": 14,
       "episodeCount": null
     }
   },
@@ -26,5 +26,29 @@
     "famille"
   ],
   "addedAt": "2026-06-12",
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "#9 : Augustin Paluel-Mamont : Ma fille est ma boussole de discernement",
+      "date": "2026-06-12"
+    },
+    {
+      "titre": "#8- Lou Garagnani : le Gap entre l'effondrement et l'entreprenariat, son fils lui inspire le Monde d'Ayden",
+      "date": "2026-05-10"
+    },
+    {
+      "titre": "#7 : Olivier Tran : Quitter son job pour construire un avenir pour son fils autiste",
+      "date": "2026-04-13"
+    },
+    {
+      "titre": "#6 - Audrey Ismaël, maman de Cassius : \"Le pire n'est jamais certain\"",
+      "date": "2026-02-25"
+    },
+    {
+      "titre": "#5 – Père d’un enfant DYS avec TDAH et TOP : Lénaïc Lebrun face au handicap invisible",
+      "date": "2026-02-06"
+    }
+  ],
+  "derniere_activite": "2026-06-12",
+  "frequence_jours": 18
 }

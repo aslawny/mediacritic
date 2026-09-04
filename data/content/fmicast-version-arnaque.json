@@ -24,5 +24,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "The END VS le FMICast.",
+      "date": "2020-04-28"
+    },
+    {
+      "titre": "Le Tonton Sam maison VS La hot à Françou",
+      "date": "2020-03-19"
+    },
+    {
+      "titre": "Les news c'est plus ce que c'était VS ...",
+      "date": "2017-11-06"
+    },
+    {
+      "titre": "...VS La Trilogie en Duo d’Amstramgram",
+      "date": "2017-10-16"
+    },
+    {
+      "titre": "La Reprise de la Quenotte Apple VS...",
+      "date": "2017-10-02"
+    }
+  ],
+  "derniere_activite": "2020-04-28",
+  "frequence_jours": 17
 }

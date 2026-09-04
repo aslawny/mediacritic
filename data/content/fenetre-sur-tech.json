@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/fen%C3%AAtre-sur-tech/id6783000882?uo=2",
       "trackId": 6783000882,
       "rating": 5.0,
-      "ratingCount": 21,
+      "ratingCount": 22,
       "episodeCount": null
     }
   },
@@ -25,5 +25,29 @@
     "numerique"
   ],
   "addedAt": "2026-06-24",
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "005-John, souviens-toi de Dame Nature !",
+      "date": "2026-08-27"
+    },
+    {
+      "titre": "004-Faut sortir de sa caverne, quand-même !",
+      "date": "2026-08-12"
+    },
+    {
+      "titre": "003-C'est pour se muscler la nuque",
+      "date": "2026-07-24"
+    },
+    {
+      "titre": "002-Lui, il l’emmène pas à la plage!",
+      "date": "2026-07-07"
+    },
+    {
+      "titre": "001-Qu’est-ce que ça change pour ta belle-mère…",
+      "date": "2026-06-22"
+    }
+  ],
+  "derniere_activite": "2026-08-27",
+  "frequence_jours": 16
 }

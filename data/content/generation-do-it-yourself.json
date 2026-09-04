@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/g%C3%A9n%C3%A9ration-do-it-yourself/id1209142994?uo=4",
       "trackId": 1209142994,
       "rating": 4.7,
-      "ratingCount": 5240,
+      "ratingCount": 5244,
       "episodeCount": 995
     }
   },
@@ -26,5 +26,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "#563 - Benoit Bazin - Saint-Gobain - Tripler la valorisation de la plus vieille entreprise du CAC 40",
+      "date": "2026-09-02"
+    },
+    {
+      "titre": "[EXTRAIT] Benoit Bazin - Repenser de A à Z l’organisation d’un groupe de 160 000 collaborateurs",
+      "date": "2026-09-02"
+    },
+    {
+      "titre": "#562 - Rafaèle Tordjman - Jeito Capital - Le vrai prix de l'innovation médicale",
+      "date": "2026-08-30"
+    },
+    {
+      "titre": "[EXTRAIT] Rafaèle Tordjman - Les brevets valent plus cher que le médicament",
+      "date": "2026-08-30"
+    },
+    {
+      "titre": "[REDIFF] Alexandre Boucheix (Casquette Verte) - “Je suis jamais le meilleur mais j’adore briller”",
+      "date": "2026-08-26"
+    }
+  ],
+  "derniere_activite": "2026-09-02",
+  "frequence_jours": 2
 }

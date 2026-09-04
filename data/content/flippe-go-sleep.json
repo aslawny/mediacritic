@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/flippe-go-sleep/id1777832941?uo=2",
       "trackId": 1777832941,
       "rating": 4.9,
-      "ratingCount": 986,
+      "ratingCount": 990,
       "episodeCount": null
     }
   },
@@ -26,5 +26,29 @@
     "news"
   ],
   "addedAt": "2026-06-09",
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "Flippe & Go Sleep #20 avec Bilal",
+      "date": "2026-07-06"
+    },
+    {
+      "titre": "Flippe & Go Sleep #19 avec Hoshi",
+      "date": "2026-06-08"
+    },
+    {
+      "titre": "Flippe & Go Sleep #18 avec Théo Juice",
+      "date": "2026-05-05"
+    },
+    {
+      "titre": "Flippe & Go Sleep #17 avec Yamê",
+      "date": "2026-04-07"
+    },
+    {
+      "titre": "Flippe & Go Sleep #16 avec Liv",
+      "date": "2026-03-08"
+    }
+  ],
+  "derniere_activite": "2026-07-06",
+  "frequence_jours": 29
 }

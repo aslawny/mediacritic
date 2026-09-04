@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/fr%C3%A9quence-9-3-4-le-podcast-harry-potter-chapitre-par/id1481558724?uo=2",
       "trackId": 1481558724,
       "rating": 4.8,
-      "ratingCount": 1112,
+      "ratingCount": 1116,
       "episodeCount": null
     }
   },
@@ -27,5 +27,29 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "Au-delà du voile (Harry Potter 5, chapitre 35)",
+      "date": "2026-07-26"
+    },
+    {
+      "titre": "Le Département des mystères (Harry Potter 5, chapitre 34)",
+      "date": "2026-07-11"
+    },
+    {
+      "titre": "Lutte et fugue (Harry Potter 5, chapitre 33)",
+      "date": "2026-06-27"
+    },
+    {
+      "titre": "Hors du feu (Harry Potter 5, chapitre 32)",
+      "date": "2026-06-13"
+    },
+    {
+      "titre": "Buse (Harry Potter 5, chapitre 31)",
+      "date": "2026-05-30"
+    }
+  ],
+  "derniere_activite": "2026-07-26",
+  "frequence_jours": 14
 }

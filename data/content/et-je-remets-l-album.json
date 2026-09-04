@@ -13,8 +13,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/et-je-remets-lalbum/id6807075977?uo=2",
       "trackId": 6807075977,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": null
     }
   },
@@ -23,5 +23,5 @@
     "musique"
   ],
   "addedAt": "2026-09-02",
-  "updatedAt": "2026-09-02"
+  "updatedAt": "2026-09-04"
 }

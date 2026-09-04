@@ -26,5 +26,29 @@
     "sport"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-05-25"
+  "updatedAt": "2026-05-25",
+  "episodes_recents": [
+    {
+      "titre": "Gagarin: (31-07-26)",
+      "date": "2026-07-31"
+    },
+    {
+      "titre": "Gagarin: (30-07-26)",
+      "date": "2026-07-30"
+    },
+    {
+      "titre": "Gagarin: (29-07-26)",
+      "date": "2026-07-29"
+    },
+    {
+      "titre": "Gagarin: (28-07-26)",
+      "date": "2026-07-28"
+    },
+    {
+      "titre": "Gagarin: (27-07-26)",
+      "date": "2026-07-27"
+    }
+  ],
+  "derniere_activite": "2026-07-31",
+  "frequence_jours": 1
 }

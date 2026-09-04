@@ -25,5 +25,21 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "La cuisine et la gastronomie française",
+      "date": "2021-02-24"
+    },
+    {
+      "titre": "Arsène Lupin",
+      "date": "2021-02-24"
+    },
+    {
+      "titre": "Francofonia e Lusofonia",
+      "date": "2021-02-24"
+    }
+  ],
+  "derniere_activite": "2021-02-24",
+  "frequence_jours": 0
 }

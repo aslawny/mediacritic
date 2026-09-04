@@ -25,5 +25,29 @@
     "numerique"
   ],
   "addedAt": "2026-07-22",
-  "updatedAt": "2026-07-22"
+  "updatedAt": "2026-07-22",
+  "episodes_recents": [
+    {
+      "titre": "On vous ment sur les métiers de la cybersécurité",
+      "date": "2026-09-03"
+    },
+    {
+      "titre": "La réalité du marché des fuites de données",
+      "date": "2026-08-16"
+    },
+    {
+      "titre": "Comment hacker 43 % du web ?",
+      "date": "2026-07-26"
+    },
+    {
+      "titre": "Faut-il commencer le bug bounty en 2026 ? (IA, argent, solitude)",
+      "date": "2026-07-16"
+    },
+    {
+      "titre": "Comment retrouver quelqu'un qui se croit intraçable ? (Sensibilisation OSINT)",
+      "date": "2026-06-25"
+    }
+  ],
+  "derniere_activite": "2026-09-03",
+  "frequence_jours": 14
 }

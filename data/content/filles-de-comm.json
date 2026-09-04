@@ -24,5 +24,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "Comment les médias et les médias sociaux influencent nos habitudes de vie avec Isabelle Huot et Josée Lavigueu",
+      "date": "2026-08-10"
+    },
+    {
+      "titre": "Quand l'intelligence artificielle s'invite dans le quotidien des journalistes",
+      "date": "2026-07-10"
+    },
+    {
+      "titre": "Avoir du style dans les médias et sur les médias sociaux",
+      "date": "2026-06-10"
+    },
+    {
+      "titre": "À la découverte de l'ACRÉA et du Gala influenceCréation 2026",
+      "date": "2026-05-10"
+    },
+    {
+      "titre": "Les nouveaux influenceurs de l’information",
+      "date": "2026-04-10"
+    }
+  ],
+  "derniere_activite": "2026-08-10",
+  "frequence_jours": 30
 }

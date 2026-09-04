@@ -25,5 +25,29 @@
     "numerique"
   ],
   "addedAt": "2026-07-22",
-  "updatedAt": "2026-07-22"
+  "updatedAt": "2026-07-22",
+  "episodes_recents": [
+    {
+      "titre": "Transforme un vieux PC en serveur avec YunoHost #linux #homelab",
+      "date": "2026-08-29"
+    },
+    {
+      "titre": "YunoHost expliqué simplement : ton serveur à la maison #cloud #yunohost",
+      "date": "2026-08-28"
+    },
+    {
+      "titre": "YunoHost : crée ton serveur facilement chez toi ! #homelab #linux",
+      "date": "2026-08-27"
+    },
+    {
+      "titre": "Le moyen le plus simple d’auto-héberger tes services #linux #serveur #cloud",
+      "date": "2026-08-26"
+    },
+    {
+      "titre": "Auto-héberge ton serveur en 5 minutes avec YunoHost #yunohost #serveur #homelab",
+      "date": "2026-08-26"
+    }
+  ],
+  "derniere_activite": "2026-08-29",
+  "frequence_jours": 1
 }

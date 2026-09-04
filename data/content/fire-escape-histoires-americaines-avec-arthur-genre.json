@@ -25,5 +25,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "Mark Zuckerberg a-t-il détruit l'humanité ? (Les secrets d'Instagram et Facebook)",
+      "date": "2025-02-10"
+    },
+    {
+      "titre": "Comment Wall Street a dominé (et ruiné) les USA",
+      "date": "2025-01-27"
+    },
+    {
+      "titre": "Road trips américains incroyables et tournages improbables, avec Ludoc",
+      "date": "2025-01-20"
+    },
+    {
+      "titre": "Conversation à Central Park avec Elisabeth, diplomate à l'ONU et maman à New York",
+      "date": "2024-07-24"
+    },
+    {
+      "titre": "Pourquoi les vieilles voitures américaines nous font rêver (et comment en acheter une), avec Jordan de SoapCar",
+      "date": "2024-07-08"
+    }
+  ],
+  "derniere_activite": "2025-02-10",
+  "frequence_jours": 14
 }

@@ -26,5 +26,29 @@
     "societe"
   ],
   "addedAt": "2026-07-27",
-  "updatedAt": "2026-07-27"
+  "updatedAt": "2026-07-27",
+  "episodes_recents": [
+    {
+      "titre": "A Visit to HQ",
+      "date": "2026-02-12"
+    },
+    {
+      "titre": "The Daily Rag",
+      "date": "2025-08-15"
+    },
+    {
+      "titre": "Best-Laid Plans",
+      "date": "2025-08-08"
+    },
+    {
+      "titre": "More Schedules, More Conflicts",
+      "date": "2025-08-01"
+    },
+    {
+      "titre": "Tacoma Pride",
+      "date": "2025-07-25"
+    }
+  ],
+  "derniere_activite": "2026-02-12",
+  "frequence_jours": 7
 }

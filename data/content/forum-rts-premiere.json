@@ -23,5 +23,29 @@
     "actualite"
   ],
   "addedAt": "2026-08-08",
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "Forum - Présenté par Renaud Malik et Anne Fournier",
+      "date": "2026-09-03"
+    },
+    {
+      "titre": "Forum - Présenté par Thibaut Schaller et Renaud Malik",
+      "date": "2026-09-02"
+    },
+    {
+      "titre": "Forum - Présenté par Coralie Claude et Thibaut Schaller",
+      "date": "2026-09-01"
+    },
+    {
+      "titre": "Forum - Présenté par Thibaut Schaller et Coralie Claude",
+      "date": "2026-08-31"
+    },
+    {
+      "titre": "Forum - Présenté par Coraline Pauchard et Mehmet Gultas",
+      "date": "2026-08-30"
+    }
+  ],
+  "derniere_activite": "2026-09-03",
+  "frequence_jours": 1
 }

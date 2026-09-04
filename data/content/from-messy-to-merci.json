@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/from-messy-to-merci/id1793445333?uo=2",
       "trackId": 1793445333,
       "rating": 4.9,
-      "ratingCount": 258,
+      "ratingCount": 260,
       "episodeCount": null
     }
   },
@@ -25,5 +25,29 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "Les 4 types de contenu et comment les utiliser",
+      "date": "2026-08-30"
+    },
+    {
+      "titre": "Ces dépenses qui valent chaque centime (version business)",
+      "date": "2026-08-23"
+    },
+    {
+      "titre": "Marketing : 4 marques qui ont dominé l'été",
+      "date": "2026-08-09"
+    },
+    {
+      "titre": "Leçon business : se renouveler ou mourir",
+      "date": "2026-08-02"
+    },
+    {
+      "titre": "Levi's : comment la marque a battu des sponsors à 200M$ sans payer un centime",
+      "date": "2026-07-05"
+    }
+  ],
+  "derniere_activite": "2026-08-30",
+  "frequence_jours": 14
 }
