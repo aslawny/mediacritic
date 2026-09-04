@@ -9,6 +9,7 @@ Validation CI du site (aucun secret requis). Échoue (exit 1) si :
 - catalog.json / catalog-lite.json / mc_reviews.json sont invalides
 - un marqueur de conflit git traîne dans un fichier publié
 """
+import html as _html
 import json, re, sys
 from pathlib import Path
 
@@ -184,9 +185,13 @@ for _f in list(ROOT.glob("*.html")) + list((ROOT / "categories").glob("*.html"))
     _x = _f.read_text(encoding="utf-8")
     _m = re.search(r"<title>(.*?)</title>", _x, re.S)
     _d = re.search(r'name="description"[^>]*content="([^"]*)"', _x)
-    if _m and len(_m.group(1).strip()) > 60:
+    # On mesure la longueur RENDUE, pas la source : « &amp; » occupe cinq
+    # caracteres dans le fichier mais un seul dans l'onglet du navigateur et
+    # dans les resultats Google. Sans desechappement, ce controle signalait
+    # 1 550 titres trop longs dont l'immense majorite tenait dans la limite.
+    if _m and len(_html.unescape(_m.group(1).strip())) > 60:
         _lt += 1
-    if _d and len(_d.group(1)) > 160:
+    if _d and len(_html.unescape(_d.group(1))) > 160:
         _ld += 1
 if _lt or _ld:
     print(f"  ! {_lt} titre(s) > 60 car. et {_ld} description(s) > 160 car. "

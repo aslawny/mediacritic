@@ -114,7 +114,9 @@ def build():
 
     # Google tronque les titres au-dela de ~60 caracteres et les descriptions
     # vers 160 : au-dela, la fin du texte n'est jamais lue en resultat.
-    title = f"Palmarès MediaCritic — les meilleurs podcasts francophones {today.year}"
+    # 63 caracteres avec l'annee : Google tronquait. « les » saute, le
+    # mot-cle et l'annee restent.
+    title = f"Palmarès MediaCritic — meilleurs podcasts francophones {today.year}"
     # « analyses » et non « contenus » : l'annuaire marque 45 contenus alors que
     # le palmares en liste 42, parce que l'episode 29 couvre a lui seul quatre
     # podcasts de L'Equipe. Deux chiffres justes, deux libelles distincts.

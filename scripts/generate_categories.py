@@ -71,6 +71,18 @@ TOP_CSS = """<style>/* mc-top : classement de categorie */
 .top-titre{font-size:.88rem}
 }</style>"""
 
+def couper(txt, limite=160):
+    """Tronque sur une frontiere de mot. La description enumerait jusqu'a cinq
+    titres analyses et depassait 160 caracteres sur 8 des 13 pages, donc Google
+    la coupait au milieu d'un nom de podcast."""
+    txt = " ".join(txt.split())
+    if len(txt) <= limite:
+        return txt
+    bout = txt[:limite - 1]
+    esp = bout.rfind(" ")
+    return (bout[:esp] if esp > limite * 0.6 else bout).rstrip(" ,;:—-") + "…"
+
+
 def h(s):
     return html.escape(str(s or ""), quote=True)
 
@@ -89,7 +101,7 @@ CATEGORIES = [
     },
     {
         "slug": "gaming", "cats": ["gaming"], "name": "Gaming", "emoji": "🎮",
-        "title": "Meilleurs podcasts gaming et chaînes YouTube jeu vidéo francophones — 2026",
+        "title": "Meilleurs podcasts et chaînes gaming francophones — 2026",
         "h1": "Les meilleurs podcasts et chaînes YouTube gaming francophones",
         "lede": "Le gaming est la catégorie où l'audio et la vidéo se mélangent le plus : entre les podcasts de discussion long-format, les chaînes YouTube qui font de l'analyse pure, et les hybrides en live sur Twitch reuploadés en podcast, il y a de tout — et beaucoup de redondance. MediaCritic a analysé plusieurs références du paysage français.",
         "faq": [
@@ -120,7 +132,7 @@ CATEGORIES = [
     },
     {
         "slug": "cuisine-gastronomie", "cats": ["cuisine", "gastronomie"], "name": "Cuisine &amp; gastronomie", "emoji": "🍽️",
-        "title": "Meilleurs podcasts cuisine et gastronomie francophones — 2026",
+        "title": "Meilleurs podcasts cuisine francophones — 2026",
         "h1": "Les meilleurs podcasts cuisine et gastronomie francophones",
         "lede": "La cuisine est la catégorie qui a le plus explosé sur les plateformes audio ces trois dernières années. Entre les chefs qui se lancent, les food writers qui réfléchissent l'alimentation, et les podcasts conversationnels autour de la table, il y a de quoi trier. MediaCritic a décortiqué Chef Otaku (la passion technique) et On va déguster (l'institution France Inter).",
         "faq": [
@@ -140,7 +152,7 @@ CATEGORIES = [
     },
     {
         "slug": "sciences", "cats": ["sciences", "vulgarisation"], "name": "Sciences", "emoji": "🔬",
-        "title": "Meilleurs podcasts sciences et vulgarisation francophones — 2026",
+        "title": "Meilleurs podcasts de sciences francophones — 2026",
         "h1": "Les meilleurs podcasts sciences et vulgarisation francophones",
         "lede": "Physique, biologie, espace, climat, neurosciences… La vulgarisation scientifique francophone est riche, du grand format pédagogique aux pastilles courtes. Voici les podcasts et chaînes qui rendent la science accessible et passionnante.",
         "faq": [
@@ -150,7 +162,7 @@ CATEGORIES = [
     },
     {
         "slug": "business", "cats": ["business", "entrepreneuriat", "economie"], "name": "Business", "emoji": "💼",
-        "title": "Meilleurs podcasts business, entrepreneuriat et économie francophones — 2026",
+        "title": "Meilleurs podcasts business et économie francophones — 2026",
         "h1": "Les meilleurs podcasts business et entrepreneuriat francophones",
         "lede": "Entrepreneuriat, finance, stratégie, économie, parcours de fondateurs… Le business est l'une des catégories les plus fournies du podcast francophone. Voici les formats de référence pour apprendre, s'inspirer et décrypter le monde de l'entreprise.",
         "faq": [
@@ -340,6 +352,7 @@ def build_page(cfg, catalog, moyenne):
         desc += f', dont {len(mc)} analysé{"s" if len(mc)>1 else ""} par MediaCritic : {mc_titles}.'
     else:
         desc += ', référencés, notés et classés par MediaCritic.'
+    desc = couper(desc, 160)
 
     # JSON-LD ItemList (MC d'abord, puis autres, max 30)
     ld_items = (mc + shown_others)[:30]

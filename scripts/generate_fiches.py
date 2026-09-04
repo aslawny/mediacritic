@@ -207,8 +207,50 @@ def clean_author(author, title):
 
 
 def schema_type(t):
-    types = {"podcast": "PodcastSeries", "youtube": "WebPage"}
+    # Une chaine YouTube etait declaree « WebPage » : le type le plus generique
+    # du vocabulaire, qui ne dit rien de la nature du contenu. schema.org n'a
+    # pas de type « chaine YouTube » ; CreativeWorkSeries est le plus proche
+    # (une serie d'oeuvres publiees), et c'est le pendant exact de
+    # PodcastSeries cote video. 1 237 fiches concernees.
+    types = {"podcast": "PodcastSeries", "youtube": "CreativeWorkSeries"}
     return types.get(t, "CreativeWork")
+
+
+def couper(txt, limite):
+    """Tronque sur une frontiere de mot et ajoute une ellipse. Couper au
+    caractere pres produisait « ...neuroscien » en fin de description."""
+    txt = " ".join(txt.split())
+    if len(txt) <= limite:
+        return txt
+    bout = txt[:limite - 1]
+    espace = bout.rfind(" ")
+    return (bout[:espace] if espace > limite * 0.6 else bout).rstrip(" ,;:—-") + "…"
+
+
+def titre_page(titre, t_label, analyse):
+    """Titre <= 60 caracteres, sinon Google tronque.
+
+    « Avis & Critique » n'est appose QUE sur les 45 fiches reellement analysees :
+    l'annoncer sur les 8 400 autres promettrait un avis qui n'existe pas. C'est
+    la meme regle que pour le balisage Review.
+
+    Degradation progressive : titre complet, puis sans « | MediaCritic », puis
+    nom tronque. On ne sacrifie jamais le nom du contenu, qui est le mot-cle."""
+    suffixe = ("Avis & Critique " + ("YouTube" if t_label != "Podcast" else "Podcast")
+               if analyse else t_label)
+    for essai in (f"{titre} — {suffixe} | MediaCritic",
+                  f"{titre} — {suffixe}",
+                  f"{titre} | MediaCritic",
+                  titre):
+        if len(essai) <= 60:
+            return essai
+    # Nom trop long meme seul : on tronque par le MILIEU, jamais par la fin.
+    # Couper la fin faisait collapser trois fiches distinctes sur le meme
+    # titre (« Le talisman brise: le podcast en... ») : c'est justement le
+    # suffixe -- la langue -- qui les distingue.
+    garde_fin = 18
+    tete = 60 - garde_fin - 1
+    return titre[:tete].rstrip() + "…" + titre[-garde_fin:].lstrip()
 
 
 def stars_html(rating):
@@ -444,7 +486,12 @@ def render_fiche(data):
     author = data.get("author", "")
     content_type = data.get("type", "podcast")
     categories = data.get("categories", [])
-    description = data.get("description") or ""
+    # Certains flux RSS laissent un retour chariot isole, sans saut de ligne.
+    # Ecrit dans le HTML puis relu, Python le convertit : le fichier ne
+    # correspondait jamais a ce qu'on venait de generer, et deux fiches
+    # (verino, melan-officiel) etaient reecrites a chaque passage du bot.
+    _d = data.get("description") or ""
+    description = _d.replace(chr(13) + chr(10), chr(10)).replace(chr(13), chr(10))
     image = data.get("image")
     platforms = data.get("platforms", {})
     mediacritic = data.get("mediacritic")
@@ -452,11 +499,23 @@ def render_fiche(data):
     t_label = type_label(content_type)
     author_display = clean_author(author, title)
 
-    # Description : fallback si vide pour éviter content=""
-    if description.strip():
-        desc_meta = description[:160].replace('"', "'")
+    # Description de la META. Elle doit differer de celle de la page episode :
+    # pour 20 contenus analyses, la fiche avait herite mot pour mot de la
+    # description de l'episode (le champ `description` des donnees a ete rempli
+    # avec elle). Deux URL du site se disputaient alors la meme requete.
+    # La fiche parle annuaire (plateformes, note, similaires), l'episode parle
+    # critique. On ne reecrit pas les donnees : seule la meta change.
+    _note = note_mc(data)
+    if _note is not None:
+        _n = str(_note).replace(".", ",").replace(",0", "")
+        desc_meta = couper(
+            f"{title} : note {_n}/10 par MediaCritic. Plateformes d'écoute, "
+            f"catégories et contenus similaires dans notre annuaire.", 160)
+    elif description.strip():
+        desc_meta = couper(description.replace('"', "'"), 160)
     else:
-        desc_meta = f"{title} — {t_label} francophone référencé sur MediaCritic."[:160]
+        desc_meta = couper(f"{title} — {t_label} francophone référencé dans "
+                           f"l'annuaire MediaCritic.", 160)
     desc_full = description  # description complète pour la fiche (peut rester vide)
 
     # Cover block
@@ -636,7 +695,7 @@ def render_fiche(data):
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>{h(title)} — {h(t_label)} | MediaCritic</title>
+  <title>{h(titre_page(title, t_label, note_mc(data) is not None))}</title>
   <meta name="description" content="{h(desc_meta)}" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="{BASE_URL}/fiches/{slug}.html" />
@@ -802,7 +861,16 @@ def update_counters(total):
             print(f"  {name} → compteurs synchronisés ({disp}+)")
 
 
-def update_sitemap(slugs):
+def update_sitemap(slugs, modifies=None):
+    """`modifies` : slugs dont la page HTML a reellement change lors de ce
+    passage. Leur <lastmod> est rafraichi ; celui des autres ne bouge pas.
+
+    Avant, le lastmod etait fige a la date de CREATION de l'URL : 1 296 fiches
+    annonçaient le 03/05 alors qu'elles avaient change depuis (nav, partage,
+    Top 10, notes). A l'inverse, le caler sur `updatedAt` l'aurait fait bouger
+    pour 5 672 fiches par nuit sur de simples variations de compteurs d'avis --
+    un signal que Google finit par ignorer quand il le juge peu fiable.
+    Se fier au HTML reellement reecrit est le seul critere honnete."""
     today_str = date.today().isoformat()
     existing_urls = set()
 
@@ -839,6 +907,19 @@ def update_sitemap(slugs):
         if retirees:
             SITEMAP.write_text("".join(gardees), encoding="utf-8")
             print(f"  sitemap.xml → {retirees} URL(s) morte(s) retirée(s)")
+
+    if modifies:
+        raw = SITEMAP.read_text(encoding="utf-8") if SITEMAP.exists() else ""
+        if raw:
+            n = 0
+            for slug in modifies:
+                url = f"{BASE_URL}/fiches/{slug}.html"
+                motif = re.compile(r"(<loc>" + re.escape(url) + r"</loc><lastmod>)[^<]*")
+                raw, k = motif.subn(lambda m: m.group(1) + today_str, raw)
+                n += k
+            if n:
+                SITEMAP.write_text(raw, encoding="utf-8")
+                print(f"  sitemap.xml → {n} lastmod rafraîchi(s)")
 
     new_urls = []
     for slug in slugs:
@@ -917,6 +998,7 @@ def main():
     # Le bloc « similaires » a besoin de TOUT le corpus : impossible de rendre
     # une fiche avant d'avoir lu les autres. D'ou ces deux passes.
     construire_index(all_data)
+    slugs_modifies = set()
     for json_path, data in a_rendre:
         html_path = FICHES_DIR / f"{data['slug']}.html"
         if not needs_update(json_path, html_path):
@@ -924,7 +1006,14 @@ def main():
             continue
         html = render_fiche(data)
         existed = html_path.exists()
+        # On compare avant d'ecrire : `needs_update` se fie aux dates de
+        # fichiers, donc un simple `touch` du JSON declenchait une reecriture
+        # a contenu identique. Le sitemap ne doit pas s'en emouvoir.
+        if existed and html_path.read_text(encoding="utf-8") == html:
+            skipped += 1
+            continue
         html_path.write_text(html, encoding="utf-8")
+        slugs_modifies.add(data["slug"])
         if existed:
             updated += 1
         else:
@@ -936,7 +1025,7 @@ def main():
     update_catalog(all_data)
 
     # Update sitemap.xml
-    update_sitemap(processed_slugs)
+    update_sitemap(processed_slugs, slugs_modifies)
 
     print("\n✅ Terminé.")
 
