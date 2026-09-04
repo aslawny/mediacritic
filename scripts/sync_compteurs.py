@@ -59,12 +59,14 @@ def compter():
 def regles(c):
     a = fmt(c["arrondi"])
     return [
-        # « 8 300+ podcasts... » / « 8 300+ contenus... »
-        (re.compile(r"\d{1,2}%s\d{3}\+(?= (?:podcasts|contenus))" % FINE), a + "+"),
-        # « Plus de 8 300 podcasts » / « catalogue de plus de 8 300 podcasts »
-        (re.compile(r"(?<=lus de )\d{1,2}%s\d{3}(?= (?:podcasts|contenus))" % FINE), a),
-        # « Répertoire de 8 300 contenus » sans « plus de »
-        (re.compile(r"(?<=de )\d{1,2}%s\d{3}(?= (?:podcasts|contenus))" % FINE), a),
+        # Un millier suivi de « podcasts » ou « contenus » : c'est toujours le
+        # compteur du catalogue. Pas d'ancrage arriere sur « Plus de » -- une
+        # balise <strong> s'intercale parfois et le faisait echouer
+        # silencieusement, laissant un « 8 300 » perime dans le H1 du catalogue.
+        # Sur ces deux pages, aucun autre nombre n'est suivi de ces deux mots :
+        # « 11 633 avis » et « 5 871 fiches » ne bougent pas.
+        (re.compile(r"\d{1,2}%s\d{3}(\+?)(?= (?:podcasts|contenus))" % FINE),
+         lambda m: a + m.group(1)),
         # Compteur visible de l'accueil et du catalogue
         (re.compile(r'(?<=id="stat-total">)[^<]*'), a + "+"),
         # Compteur « contenus analysés » du catalogue. Le HTML servi affichait 43
