@@ -21,11 +21,14 @@
       "episodeCount": null
     }
   },
-  "mediacritic": null,
+  "mediacritic": {
+    "ep": 44,
+    "url": "https://www.mediacritic.fr/episodes/un-bon-moment.html"
+  },
   "tags": [
     "actualite",
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-04"
 }

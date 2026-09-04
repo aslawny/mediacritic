@@ -77,6 +77,10 @@ def main():
 
     m = json.loads(Path(args.manifest).read_text(encoding="utf-8"))
     ep, slug, page, title = m["ep"], m["slug"], m["page"], m["title"]
+    # La saison etait ecrite en dur (« Saison 1 ») dans le gabarit, l'accueil,
+    # ce script et ci_validate. Elle vient desormais du manifest : le site
+    # numerote les episodes en continu (44, 45...) mais affiche la bonne saison.
+    saison = int(m.get("saison", 1))
     # Hors-serie : FAQ, bilan de saison, episode « sur nous ». Il n'analyse
     # aucun contenu, donc pas de note, pas de fiche, pas d'entree au catalogue
     # ni au palmares. Lui inventer une note pour faire tourner la chaine
@@ -149,6 +153,7 @@ def main():
         "__LISTEN_BUTTONS__": listen_buttons,
         "__EPISODE_URL__": listen.get("spotify") or SHOW_SPOTIFY,
         "__FICHE_BLOCK__": fiche_block,
+        "__SAISON__": f"Saison {saison}",
         "__PREV_EP__": str(prev_ep), "__PREV_TITLE__": prev["title"],
         "__PREV_PAGE__": prev["page"],
     }
@@ -220,12 +225,17 @@ def main():
             die("bloc MC_EP introuvable dans index.html")
         entry = f'    "{slug}":{{ep:{ep},analyse:"episodes/{page}",img:"{m["cover"]}"}}'
         idx = idx[:end] + ",\n" + entry + idx[end:]
-    for old, new in ((f'<div class="num">{prev_ep}</div>', f'<div class="num">{ep}</div>'),
-                     (f'Saison 1 · {prev_ep} épisodes', f'Saison 1 · {ep} épisodes')):
-        if old in idx:
-            idx = idx.replace(old, new)
-        elif new not in idx:
-            die(f"compteur introuvable : {old}")
+    old_num, new_num = f'<div class="num">{prev_ep}</div>', f'<div class="num">{ep}</div>'
+    if old_num in idx:
+        idx = idx.replace(old_num, new_num)
+    elif new_num not in idx:
+        die(f"compteur introuvable : {old_num}")
+    # Regex plutot qu'un remplacement litteral : au passage en saison 2, la
+    # chaine « Saison 1 · 43 épisodes » n'existe plus telle quelle.
+    libelle = f'Saison {saison} · {ep} épisodes'
+    idx, n = re.subn(r'Saison \d+ · \d+ épisodes', libelle, idx, count=1)
+    if n == 0 and libelle not in idx:
+        die("compteur de saison introuvable dans index.html")
     li = (f'    <li><a href="episodes/{page}" style="color:var(--c-muted2);'
           f'font-size:.88rem;">Ép. {ep} — {title}</a></li>')
     anchor = f'<li><a href="episodes/{prev["page"]}"'

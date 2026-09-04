@@ -73,8 +73,9 @@ if reviews:
     idx = (ROOT / "index.html").read_text(encoding="utf-8")
     if f'<div class="num">{last}</div>' not in idx:
         err(f"index : compteur 'analysés par MC' ≠ {last}")
-    if f"Saison 1 · {last} épisodes" not in idx:
-        err(f"index : 'Saison 1 · {last} épisodes' introuvable")
+    # La saison n'est plus figee a 1 : on controle le compte, pas le numero.
+    if not re.search(rf"Saison \d+ · {last} épisodes", idx):
+        err(f"index : 'Saison N · {last} épisodes' introuvable")
     mc_ep_entries = len(re.findall(r'\{ep:\d+,analyse:', idx))
     # Un hors-serie (FAQ, bilan de saison) n'analyse aucun contenu : il n'a pas
     # d'entree MC_EP. Le seuil porte donc sur les episodes qui analysent
