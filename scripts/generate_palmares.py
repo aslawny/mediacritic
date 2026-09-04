@@ -115,7 +115,10 @@ def build():
     # Google tronque les titres au-dela de ~60 caracteres et les descriptions
     # vers 160 : au-dela, la fin du texte n'est jamais lue en resultat.
     title = f"Palmarès MediaCritic — les meilleurs podcasts francophones {today.year}"
-    desc = (f"Le classement officiel MediaCritic : {len(rows)} podcasts et chaînes "
+    # « analyses » et non « contenus » : l'annuaire marque 45 contenus alors que
+    # le palmares en liste 42, parce que l'episode 29 couvre a lui seul quatre
+    # podcasts de L'Equipe. Deux chiffres justes, deux libelles distincts.
+    desc = (f"Le palmarès MediaCritic : {len(rows)} analyses de podcasts et chaînes "
             f"YouTube francophones notés sur 10. En tête : "
             + ", ".join(r["title"] for r in rows[:3]) + ".")
 
@@ -211,7 +214,7 @@ def build():
 <header class="page-header" style="text-align:center;max-width:760px;">
 <div class="breadcrumb"><a href="./">MediaCritic</a> · <strong>Palmarès</strong></div>
 <h1>🏆 Le Palmarès MediaCritic</h1>
-<p class="lede" style="margin:0 auto;">{len(rows)} podcasts et chaînes YouTube francophones écoutés, décortiqués et <strong>notés sur 10</strong> par Alex, Lolo et leurs invité·e·s. Pas d'algorithme, pas de sponsor — juste des oreilles exigeantes et des avis assumés. Mis à jour {updated}.</p>
+<p class="lede" style="margin:0 auto;">{len(rows)} analyses publiées : autant de podcasts et chaînes YouTube francophones écoutés, décortiqués et <strong>notés sur 10</strong> par Alex, Lolo et leurs invité·e·s. Pas d'algorithme, pas de sponsor — juste des oreilles exigeantes et des avis assumés. Mis à jour {updated}.</p>
 </header>
 <div class="podium">{podium}</div>
 <div class="pal-filters">{filters}</div>
