@@ -172,6 +172,19 @@ jobs:
             fi
           done
 
+      # 6c. Compteurs : source unique. Les chiffres de marque etaient ecrits en
+      #     dur dans index.html et catalogue.html ; le bot ajoutant des contenus
+      #     chaque nuit, ils derivaient (accueil 8 300+, classement 8 400+,
+      #     fichier 8 442). Ils sont desormais recalcules a chaque passage.
+      - name: Synchronisation des compteurs
+        working-directory: site
+        run: |
+          if [ -f "scripts/sync_compteurs.py" ]; then
+            python scripts/sync_compteurs.py
+          else
+            echo "sync_compteurs.py absent — ignoré"
+          fi
+
       # 6bis. Régénération du palmarès (notes MediaCritic)
       - name: Generate palmares
         working-directory: site
