@@ -27,5 +27,29 @@
     "famille"
   ],
   "addedAt": "2026-06-18",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "Tressy, nouvelle abonnée",
+      "date": "2026-06-29"
+    },
+    {
+      "titre": "Marion, l'amour old school",
+      "date": "2026-06-22"
+    },
+    {
+      "titre": "Kim, au jour le jour",
+      "date": "2026-06-15"
+    },
+    {
+      "titre": "Nathalie, vie de nomade",
+      "date": "2026-04-06"
+    },
+    {
+      "titre": "Jennifer, un jour mon prince viendra",
+      "date": "2026-03-30"
+    }
+  ],
+  "derniere_activite": "2026-06-29",
+  "frequence_jours": 7
 }

@@ -25,5 +25,29 @@
     "numerique"
   ],
   "addedAt": "2026-05-28",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "0x38 Mizu | Recherche de 0days et XSS dans dompurify",
+      "date": "2026-08-24"
+    },
+    {
+      "titre": "0x37 lgandx (Laurent Gaffié) | De l'IA pour le pentest, whatsapp IA, un conseil (partie 2)",
+      "date": "2026-06-26"
+    },
+    {
+      "titre": "0x36 lgandx (Laurent Gaffié) | Responder, Secorizon, de l'IA (partie1)",
+      "date": "2026-06-26"
+    },
+    {
+      "titre": "0x35 Podalirius (Rémi GASCOU) | L'open source, SpecterOps, l'IA",
+      "date": "2026-03-27"
+    },
+    {
+      "titre": "0x34 Workshop NetExec LeHack 2025 (3/4)",
+      "date": "2026-02-27"
+    }
+  ],
+  "derniere_activite": "2026-08-24",
+  "frequence_jours": 33
 }

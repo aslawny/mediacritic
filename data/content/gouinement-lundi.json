@@ -25,5 +25,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "Musique Classique : Au diapason Queer",
+      "date": "2026-06-01"
+    },
+    {
+      "titre": "Éducation à la sexualité - laquelle ?",
+      "date": "2026-05-10"
+    },
+    {
+      "titre": "Dykecauserie #13 - Humour et Mousqueton avec Audrey Baldassare et Soizic Floch",
+      "date": "2026-03-12"
+    },
+    {
+      "titre": "Politiser nos assiettes",
+      "date": "2026-02-13"
+    },
+    {
+      "titre": "Des queers en coulisses",
+      "date": "2025-12-21"
+    }
+  ],
+  "derniere_activite": "2026-06-01",
+  "frequence_jours": 30
 }

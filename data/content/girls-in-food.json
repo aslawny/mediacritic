@@ -26,5 +26,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "Marielle Droisneau (La Villa Madie) - Construire une maison 3 étoiles Michelin & concilier vies pro et perso",
+      "date": "2023-07-16"
+    },
+    {
+      "titre": "Cathy Paraschiv (Ibrik Paris) juriste devenue cheffe: une histoire de reconversion et de retour aux racines",
+      "date": "2023-06-11"
+    },
+    {
+      "titre": "Lucie Berthier Gembara - cheffe et voyageuse dans l’âme",
+      "date": "2023-05-28"
+    },
+    {
+      "titre": "Andrea Rocagel (Luna Creation) : tout quitter pour devenir pâtissière à Hong Kong puis entrepreneure food en F",
+      "date": "2023-04-09"
+    },
+    {
+      "titre": "Dominika Zielinska (Zielinska Fournil), boulangère autodidacte et engagée",
+      "date": "2023-03-26"
+    }
+  ],
+  "derniere_activite": "2023-07-16",
+  "frequence_jours": 14
 }

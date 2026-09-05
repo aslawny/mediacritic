@@ -25,5 +25,29 @@
     "livres",
     "culture"
   ],
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "GRAND - IMAGINAIRE ET CROYANCES : Pourquoi les enfants ont-ils besoin de croire ?",
+      "date": "2021-12-16"
+    },
+    {
+      "titre": "GRAND - Pourquoi et comment l'estime de soi est-elle mise à mal à l'adolescence ?",
+      "date": "2021-12-01"
+    },
+    {
+      "titre": "GRAND - Quel rôle joue l’amitié dans le développement de l’enfant ?",
+      "date": "2021-11-05"
+    },
+    {
+      "titre": "GRAND - Les enfants ont-ils besoin de connaître la peur pour se construire ?",
+      "date": "2021-10-13"
+    },
+    {
+      "titre": "GRAND - Une Maison, des auteurs",
+      "date": "2021-09-24"
+    }
+  ],
+  "derniere_activite": "2021-12-16",
+  "frequence_jours": 19
 }

@@ -22,5 +22,29 @@
   "tags": [
     "histoire"
   ],
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "Louis XVI",
+      "date": "2026-04-18"
+    },
+    {
+      "titre": "Vincent Van Gogh",
+      "date": "2025-09-15"
+    },
+    {
+      "titre": "La Rafle du Vel d’Hiv",
+      "date": "2025-04-21"
+    },
+    {
+      "titre": "Affaire Dreyfus",
+      "date": "2025-02-07"
+    },
+    {
+      "titre": "Cardinal de Richelieu",
+      "date": "2024-11-27"
+    }
+  ],
+  "derniere_activite": "2026-04-18",
+  "frequence_jours": 40
 }

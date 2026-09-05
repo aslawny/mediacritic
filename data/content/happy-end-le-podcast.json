@@ -27,5 +27,29 @@
     "news"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "Episode 13 : L'inattendu",
+      "date": "2026-08-31"
+    },
+    {
+      "titre": "Après la chute",
+      "date": "2026-07-27"
+    },
+    {
+      "titre": "La résilience",
+      "date": "2026-07-13"
+    },
+    {
+      "titre": "Le seuil",
+      "date": "2026-06-29"
+    },
+    {
+      "titre": "Finalement la vie",
+      "date": "2026-06-15"
+    }
+  ],
+  "derniere_activite": "2026-08-31",
+  "frequence_jours": 14
 }

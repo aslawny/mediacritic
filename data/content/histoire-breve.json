@@ -22,5 +22,29 @@
   "tags": [
     "histoire"
   ],
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "La Brève Histoire de la Belgique",
+      "date": "2026-08-05"
+    },
+    {
+      "titre": "La Brève Histoire des Pays-Bas",
+      "date": "2026-05-02"
+    },
+    {
+      "titre": "La Brève Histoire du Maroc",
+      "date": "2026-02-28"
+    },
+    {
+      "titre": "La Brève Histoire de l'Autriche",
+      "date": "2026-01-31"
+    },
+    {
+      "titre": "La Brève Histoire de la Suisse",
+      "date": "2025-12-06"
+    }
+  ],
+  "derniere_activite": "2026-08-05",
+  "frequence_jours": 35
 }

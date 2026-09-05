@@ -27,5 +27,21 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-05-16"
+  "updatedAt": "2026-05-16",
+  "episodes_recents": [
+    {
+      "titre": "002 - Git Push - Programmation événementielle (event driven) en Java et Agile Fall",
+      "date": "2022-02-17"
+    },
+    {
+      "titre": "001 - Git Push - Tester c'est douter",
+      "date": "2022-01-28"
+    },
+    {
+      "titre": "Promo podcast Git Push",
+      "date": "2022-01-07"
+    }
+  ],
+  "derniere_activite": "2022-02-17",
+  "frequence_jours": 20
 }

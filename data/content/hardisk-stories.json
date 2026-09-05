@@ -30,5 +30,29 @@
     "tech",
     "geek"
   ],
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-05",
+  "episodes_recents": [
+    {
+      "titre": "L'évasion la plus folle de l'histoire d'Alcatraz",
+      "date": "2026-08-29"
+    },
+    {
+      "titre": "Le hacker russe le plus recherché des États-Unis",
+      "date": "2026-08-16"
+    },
+    {
+      "titre": "L’histoire de téléportation la plus convaincante",
+      "date": "2026-08-01"
+    },
+    {
+      "titre": "[HORS-SERIE] On répare sa chaîne @doniabnr",
+      "date": "2026-07-20"
+    },
+    {
+      "titre": "Le plus gros trafic de dr*gue de l’histoire de France",
+      "date": "2026-07-18"
+    }
+  ],
+  "derniere_activite": "2026-08-29",
+  "frequence_jours": 13
 }

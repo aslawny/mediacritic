@@ -25,5 +25,29 @@
     "cuisine"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "Le tartare de saumon de Yoan Berloger, Nouvelle Ere à Metz",
+      "date": "2026-09-04"
+    },
+    {
+      "titre": "Mille-feuille d'abricots rotis et chocolat blanc au Haras à Cheminot",
+      "date": "2026-08-28"
+    },
+    {
+      "titre": "La poêlée de Saint-Jacques et son risotto de Bruno Faure au Haras à Cheminot",
+      "date": "2026-08-21"
+    },
+    {
+      "titre": "La souris d'agneau gratin de macaroni de Bruno Faure au Haras à Cheminot",
+      "date": "2026-08-07"
+    },
+    {
+      "titre": "Le canneloni de confit de canard de Bruno Faure au Haras à Cheminot",
+      "date": "2026-07-31"
+    }
+  ],
+  "derniere_activite": "2026-09-04",
+  "frequence_jours": 7
 }

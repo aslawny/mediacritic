@@ -26,5 +26,29 @@
     "cuisine"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-06-06"
+  "updatedAt": "2026-06-06",
+  "episodes_recents": [
+    {
+      "titre": "Frank Schiesl der Weisenburger über seine Lebkuchen, den Glauben und die Vergangenheit",
+      "date": "2026-09-01"
+    },
+    {
+      "titre": "Harald Bergmann (Geschäftsführer Gewobau) macht Schwabach zur Heimat!",
+      "date": "2026-07-31"
+    },
+    {
+      "titre": "Aline Bogner - von Samba und Tango, die Schwabacher Tanzschule Bogner",
+      "date": "2026-06-30"
+    },
+    {
+      "titre": "Klaus Neunhoeffer über 125 Jahre Geschichts und Heimatverein Schwabach und Umgebung",
+      "date": "2026-05-31"
+    },
+    {
+      "titre": "Uwe Feser - vom Schwabacher Kfz Mechaniker zu Deutschlands größtem Autohändler",
+      "date": "2026-04-30"
+    }
+  ],
+  "derniere_activite": "2026-09-01",
+  "frequence_jours": 30
 }

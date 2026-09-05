@@ -23,5 +23,29 @@
     "gaming",
     "rétro"
   ],
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "La triste histoire de Topo le robot",
+      "date": "2025-01-16"
+    },
+    {
+      "titre": "Les hippopotames de Pablo Escobar",
+      "date": "2024-11-24"
+    },
+    {
+      "titre": "1984 : la folle année du cinéma américain",
+      "date": "2024-09-25"
+    },
+    {
+      "titre": "AHL se raconte à Julien Chièze ! Tu le crois ça ?",
+      "date": "2024-01-11"
+    },
+    {
+      "titre": "Le retour de Gaston Lagaffe sans André Franquin",
+      "date": "2024-01-06"
+    }
+  ],
+  "derniere_activite": "2025-01-16",
+  "frequence_jours": 12
 }

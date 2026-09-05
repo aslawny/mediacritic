@@ -25,5 +25,25 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "L'IA dans la main de l'humain.",
+      "date": "2026-05-23"
+    },
+    {
+      "titre": "C'est quoi l'idée ?",
+      "date": "2026-02-10"
+    },
+    {
+      "titre": "L'univers de Cozy Space.",
+      "date": "2025-09-07"
+    },
+    {
+      "titre": "De l'Équateur à Genève.",
+      "date": "2025-04-09"
+    }
+  ],
+  "derniere_activite": "2026-05-23",
+  "frequence_jours": 151
 }

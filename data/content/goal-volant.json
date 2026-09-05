@@ -23,5 +23,29 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "Goal-Volant || Sport & blessures 🚑",
+      "date": "2025-10-11"
+    },
+    {
+      "titre": "Goal-Volant || Sport & fringues 👕",
+      "date": "2025-07-19"
+    },
+    {
+      "titre": "[Bonus] Entretien avec Maxime Schertenleib",
+      "date": "2025-03-29"
+    },
+    {
+      "titre": "Goal-Volant || Jeu, set et match 🎾",
+      "date": "2025-03-01"
+    },
+    {
+      "titre": "Goal-Volant || Sport & compétition 🏆",
+      "date": "2025-02-01"
+    }
+  ],
+  "derniere_activite": "2025-10-11",
+  "frequence_jours": 28
 }

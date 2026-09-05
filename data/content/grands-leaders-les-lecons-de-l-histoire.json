@@ -25,5 +25,29 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "Sun Tzu ou l'art de la stratégie",
+      "date": "2026-07-14"
+    },
+    {
+      "titre": "Karl Marx le théoricien",
+      "date": "2026-07-07"
+    },
+    {
+      "titre": "Magellan ou la revanche (comme moteur)",
+      "date": "2026-06-30"
+    },
+    {
+      "titre": "Abraham Lincoln ou la cohérence",
+      "date": "2026-06-23"
+    },
+    {
+      "titre": "La Fayette ou la plasticité",
+      "date": "2026-06-16"
+    }
+  ],
+  "derniere_activite": "2026-07-14",
+  "frequence_jours": 7
 }

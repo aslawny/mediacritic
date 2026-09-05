@@ -26,5 +26,29 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "Histoires criminelles du dimanche 23 août 2026 : Affaire Jubillar, ni corps, ni aveux, les raisons d’une conda",
+      "date": "2026-08-23"
+    },
+    {
+      "titre": "Histoires criminelles du dimanche 16 août 2026 : Affaire Émile, le test ADN, un tournant dans l’enquête ?",
+      "date": "2026-08-16"
+    },
+    {
+      "titre": "Histoires criminelles du dimanche 9 août 2026 : Dupont de Ligonnès : quinze ans de mystère",
+      "date": "2026-08-09"
+    },
+    {
+      "titre": "Histoires criminelles du dimanche 19 juillet 2026 : Jubillar, des ossements qui changent tout",
+      "date": "2026-07-19"
+    },
+    {
+      "titre": "Histoires criminelles du dimanche 12 juillet 2026 : Jubillar, les dessous d’un coup de théâtre",
+      "date": "2026-07-12"
+    }
+  ],
+  "derniere_activite": "2026-08-23",
+  "frequence_jours": 7
 }

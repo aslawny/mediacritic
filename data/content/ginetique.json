@@ -27,5 +27,29 @@
     "cuisine"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-05-23"
+  "updatedAt": "2026-05-23",
+  "episodes_recents": [
+    {
+      "titre": "Ginétique – EP10: Florida Snowbird de Wabasso",
+      "date": "2021-07-15"
+    },
+    {
+      "titre": "Ginétique – EP09: Mugo de Mitis",
+      "date": "2021-05-13"
+    },
+    {
+      "titre": "Ginétique – EP08: Beemer Gin",
+      "date": "2021-04-22"
+    },
+    {
+      "titre": "Ginétique – EP07: Api Gin d’Intermiel",
+      "date": "2021-04-08"
+    },
+    {
+      "titre": "Ginétique – EP06: Km12 de la Distillerie du Fjord",
+      "date": "2021-03-25"
+    }
+  ],
+  "derniere_activite": "2021-07-15",
+  "frequence_jours": 14
 }

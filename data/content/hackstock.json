@@ -24,5 +24,29 @@
     "tech",
     "numérique"
   ],
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "Bilan",
+      "date": "2021-06-04"
+    },
+    {
+      "titre": "Manifestations",
+      "date": "2020-06-12"
+    },
+    {
+      "titre": "Coronavirus",
+      "date": "2020-04-23"
+    },
+    {
+      "titre": "Mitnick",
+      "date": "2020-03-10"
+    },
+    {
+      "titre": "Esthétique",
+      "date": "2019-11-03"
+    }
+  ],
+  "derniere_activite": "2021-06-04",
+  "frequence_jours": 100
 }

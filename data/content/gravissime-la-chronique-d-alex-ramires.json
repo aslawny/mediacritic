@@ -24,5 +24,29 @@
     "comedie"
   ],
   "addedAt": "2026-06-30",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "GRAVISSIME : La Psy - Alex Ramirès",
+      "date": "2026-06-29"
+    },
+    {
+      "titre": "GRAVISSIME : La Radio - Alex Ramirès",
+      "date": "2026-06-22"
+    },
+    {
+      "titre": "GRAVISSIME : Le Pique-Nique - Alex Ramirès",
+      "date": "2026-06-15"
+    },
+    {
+      "titre": "GRAVISSIME : La Grande surface - Alex Ramirès",
+      "date": "2026-06-08"
+    },
+    {
+      "titre": "GRAVISSIME : Le concert - Alex Ramirès",
+      "date": "2026-06-01"
+    }
+  ],
+  "derniere_activite": "2026-06-29",
+  "frequence_jours": 7
 }
