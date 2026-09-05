@@ -372,7 +372,13 @@ def build_page(cfg, catalog, moyenne):
                            "Répertoire collaboratif de podcasts",
                            "Le guide des podcasts indépendants"],
          "url": BASE + "/catalogue.html",
-         "inLanguage": "fr-FR", "isAccessibleForFree": True},
+         "inLanguage": "fr-FR", "isAccessibleForFree": True,
+         # Search Console signale « Champ license manquant » sur les
+         # Dataset. On pointe la clause de propriete intellectuelle du site
+         # plutot qu'une licence Creative Commons : les metadonnees viennent
+         # d'Apple, Spotify et des podcasteurs, on n'a pas le droit d'accorder
+         # sur elles des permissions qu'on ne detient pas.
+         "license": "https://www.mediacritic.fr/mentions-legales.html#propriete-intellectuelle"},
         {"@type": "BreadcrumbList", "itemListElement": [
             {"@type": "ListItem", "position": 1, "name": "MediaCritic", "item": BASE + "/"},
             {"@type": "ListItem", "position": 2, "name": cfg["name"],

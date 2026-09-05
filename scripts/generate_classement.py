@@ -148,7 +148,13 @@ def main():
         {"@type": "DataCatalog", "@id": BASE + "/#annuaire",
          "name": "Annuaire MediaCritic des podcasts et chaînes YouTube francophones",
          "url": f"{BASE}/catalogue.html", "inLanguage": "fr-FR",
-         "isAccessibleForFree": True},
+         "isAccessibleForFree": True,
+         # Search Console signale « Champ license manquant » sur les
+         # Dataset. On pointe la clause de propriete intellectuelle du site
+         # plutot qu'une licence Creative Commons : les metadonnees viennent
+         # d'Apple, Spotify et des podcasteurs, on n'a pas le droit d'accorder
+         # sur elles des permissions qu'on ne detient pas.
+         "license": "https://www.mediacritic.fr/mentions-legales.html#propriete-intellectuelle"},
     ]}
 
     nav = ('<nav><div class="nav-left">'

@@ -197,6 +197,32 @@ if _lt or _ld:
     print(f"  ! {_lt} titre(s) > 60 car. et {_ld} description(s) > 160 car. "
           f"seront tronqués par Google (texte éditorial, non bloquant)")
 
+# 7d. Champ `license` des donnees structurees.
+#     Search Console a signale « Champ license manquant » sur les Dataset.
+#     Le controle empeche qu'une refonte du JSON-LD le fasse disparaitre sans
+#     qu'on s'en apercoive -- l'alerte ne reviendrait que des semaines plus tard.
+_sans_licence = []
+for _f in list(ROOT.glob("*.html")) + list((ROOT / "categories").glob("*.html")):
+    _x = _f.read_text(encoding="utf-8")
+    for _b in re.findall(r'<script type="application/ld\+json"[^>]*>(.*?)</script>', _x, re.S):
+        try:
+            _d = json.loads(_b)
+        except Exception:
+            continue
+        for _n in (_d.get("@graph") or [_d]):
+            if not isinstance(_n, dict):
+                continue
+            _cibles = [_n] if _n.get("@type") in ("DataCatalog", "Dataset") else []
+            if isinstance(_n.get("dataset"), dict):
+                _cibles.append(_n["dataset"])
+            for _c in _cibles:
+                if not _c.get("license"):
+                    _sans_licence.append(f"{_f.name} ({_c.get('@type')})")
+if _sans_licence:
+    err("données structurées sans `license` : " + ", ".join(sorted(set(_sans_licence))[:4]))
+else:
+    print("  ✓ `license` présent sur tous les nœuds Dataset / DataCatalog")
+
 # 8. Double identite : annuaire ET critiques
 #    Les moteurs generatifs ne percevaient le site que comme un blog de
 #    critiques. Ce controle empeche l identite d annuaire de disparaitre
