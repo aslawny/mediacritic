@@ -23,7 +23,8 @@ Usage :
   python scripts/enrich_descriptions.py --dry-run
   python scripts/enrich_descriptions.py --limit 400
 """
-import argparse, glob, html as _html, json, os, re, sys, time, urllib.request
+import argparse, glob, html as _html, json, os, re, sys, time, unicodedata
+import urllib.parse, urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import date, timedelta
 from pathlib import Path
@@ -50,9 +51,17 @@ def nettoyer(brut):
     for _ in range(2):                      # &amp;amp; -> &amp; -> &
         t = _html.unescape(t)
     t = re.sub(r"\s+", " ", t).strip()
-    # les flux collent souvent une mention d'hebergeur en fin de description
+    # les flux collent souvent une mention d'hebergeur en fin de description.
+    # Ausha est aussi frequent qu'Acast et son tail ("Hebergé par Ausha.
+    # Visitez ausha.co/fr/politique-de-confidentialite...") se retrouvait mot
+    # pour mot sur des milliers de fiches : texte duplique depuis la source,
+    # sans aucune valeur pour le lecteur.
     t = re.split(r"\s*(?:---\s*)?H[ée]berg[ée] par Acast|"
-                 r"\s*Hosted on Acast|\s*Visitez acast\.com", t)[0].strip()
+                 r"\s*Hosted on Acast|\s*Visitez acast\.com|"
+                 r"\s*(?:---\s*)?H[ée]berg[ée] par Ausha|"
+                 r"\s*Visitez ausha\.co|"
+                 r"\s*(?:---\s*)?H[ée]berg[ée] par Audiomeans|"
+                 r"\s*Visitez audiomeans\.fr", t)[0].strip()
     if len(t) > MAX_LONGUEUR:
         coupe = t[:MAX_LONGUEUR]
         point = max(coupe.rfind(". "), coupe.rfind(" ! "), coupe.rfind(" ? "))
@@ -80,14 +89,73 @@ def description_du_flux(feed_url, timeout=20):
     return None
 
 
+def _norm_titre(s):
+    """Titre comparable : sans accents, sans ponctuation, casse ignoree."""
+    t = unicodedata.normalize("NFD", s or "")
+    t = "".join(c for c in t if unicodedata.category(c) != "Mn").lower()
+    return re.sub(r"[^a-z0-9]+", " ", t).strip()
+
+
+def description_deezer(titre, timeout=15):
+    """Repli quand le flux RSS est inaccessible.
+
+    Beaucoup d'editeurs (Radio France en tete) n'exposent AUCUN feedUrl via le
+    lookup iTunes : `resoudre_feeds()` ne les retient pas, et ces fiches
+    restaient vides indefiniment. L'API publique Deezer, elle, porte une
+    description et ne demande pas de cle.
+
+    Garde-fou d'ambiguite : on n'accepte qu'une correspondance de titre
+    EXACTE, et on refuse si plusieurs podcasts portent ce titre exact. Sans
+    ce controle, un titre generique attrape le mauvais podcast -- la reparation
+    des fiches L'Equipe (voir le journal du 30/08) avait failli referencer un
+    podcast de jazz sous le nom « Swing ».
+    """
+    if not titre:
+        return None
+    url = ("https://api.deezer.com/search/podcast?q="
+           + urllib.parse.quote(titre))
+    try:
+        req = urllib.request.Request(url, headers=UA)
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            res = json.loads(r.read().decode("utf-8", "replace"))
+    except Exception:
+        return None
+    cible = _norm_titre(titre)
+    exacts = [x for x in (res.get("data") or [])
+              if _norm_titre(x.get("title")) == cible]
+    if len(exacts) != 1:                    # 0 = introuvable, >1 = ambigu
+        return None
+    txt = nettoyer(exacts[0].get("description") or "")
+    return txt if len(txt) >= MIN_UTILE else None
+
+
+SOURCE_VERSION = 2      # 1 = flux RSS seul ; 2 = + repli Deezer
+
+
 def charger_etat():
-    return json.loads(ETAT.read_text(encoding="utf-8")) if ETAT.exists() else {}
+    """Etat des fiches deja traitees, purge quand les sources changent.
+
+    Sans cette purge, le repli Deezer serait reste inoperant pendant 30 jours
+    sur exactement les fiches qu'il debloque : les 815 echecs enregistres
+    l'ont ete par la version qui ne savait lire que le flux RSS, et
+    `RETENTER_APRES` les aurait tenus hors de portee. Un echec constate sans
+    une source n'est pas un echec de cette source.
+
+    Les succes sont conserves : une description deja ecrite reste valable.
+    """
+    if not ETAT.exists():
+        return {}
+    etat = json.loads(ETAT.read_text(encoding="utf-8"))
+    if int(etat.pop("_version", 1) or 1) < SOURCE_VERSION:
+        etat = {k: v for k, v in etat.items() if v == "ok"}
+    return etat
 
 
 def resoudre_feeds(cibles):
     """trackId -> feedUrl, par lots de 100 (1 appel pour 100 fiches)."""
-    feeds, ids = {}, [t for _, t in cibles]
-    par_id = {t: s for s, t in cibles}
+    feeds = {}
+    ids = [t for _, t in cibles if t]       # certaines fiches n'ont pas de trackId
+    par_id = {t: s for s, t in cibles if t}
     for i in range(0, len(ids), 100):
         url = ("https://itunes.apple.com/lookup?country=fr&id="
                + ",".join(str(x) for x in ids[i:i + 100]))
@@ -122,10 +190,16 @@ def enrich(limit=400, dry_run=False, verbose=True):
         marque = etat.get(slug)
         if marque == "ok" or (isinstance(marque, str) and marque > seuil):
             continue                        # deja traite, ou echec recent
+        # Les chaines YouTube n'ont ni flux RSS de podcast ni fiche Deezer :
+        # les collecter ne ferait que consommer le budget de l'execution sans
+        # jamais aboutir. Leur description releve d'un autre job.
+        if d.get("type") == "youtube":
+            continue
         tid = ((d.get("platforms") or {}).get("apple") or {}).get("trackId")
-        if tid:
-            cibles.append((slug, int(tid)))
-            fiches[slug] = (Path(f), d)
+        # Le trackId n'est plus obligatoire : sans lui le flux RSS est hors
+        # de portee, mais le repli Deezer travaille a partir du titre seul.
+        cibles.append((slug, int(tid) if tid else None))
+        fiches[slug] = (Path(f), d)
         if len(cibles) >= limit:
             break
 
@@ -138,7 +212,16 @@ def enrich(limit=400, dry_run=False, verbose=True):
         print(f"  descriptions : {len(cibles)} fiche(s) a completer")
     feeds = resoudre_feeds(cibles)
 
-    remplies = vides = 0
+    def _ecrire(slug, txt):
+        """Marque la fiche comme traitee et ecrit la description."""
+        etat[slug] = "ok"
+        if not dry_run:
+            path, d = fiches[slug]
+            d["description"] = txt
+            path.write_text(json.dumps(d, ensure_ascii=False, indent=2),
+                            encoding="utf-8")
+
+    remplies = 0
     with ThreadPoolExecutor(max_workers=12) as ex:
         futs = {ex.submit(description_du_flux, u): s for s, u in feeds.items()}
         for fut in as_completed(futs):
@@ -146,25 +229,45 @@ def enrich(limit=400, dry_run=False, verbose=True):
             txt = fut.result()
             if txt:
                 remplies += 1
-                etat[slug] = "ok"
-                if not dry_run:
-                    path, d = fiches[slug]
-                    d["description"] = txt
-                    path.write_text(json.dumps(d, ensure_ascii=False, indent=2),
-                                    encoding="utf-8")
-            else:
-                vides += 1
-                etat[slug] = aujourd_hui.isoformat()
-    for slug, _ in cibles:                  # feedUrl introuvable
-        etat.setdefault(slug, aujourd_hui.isoformat())
+                _ecrire(slug, txt)
+
+    # Repli Deezer sur tout ce que le flux RSS n'a pas rempli -- soit parce
+    # qu'aucun feedUrl n'existe (cas de Radio France : 0 feedUrl expose), soit
+    # parce que le flux est muet ou injoignable. Mesure sur echantillon avant
+    # ecriture : 9 fiches sur 12 recuperent ainsi une description reelle.
+    restants = [s for s, _ in cibles if etat.get(s) != "ok"]
+    par_deezer = 0
+    if restants:
+        # 6 threads seulement : l'API Deezer est tolerante mais pas illimitee,
+        # et ce repli n'est jamais dans le chemin critique du job.
+        with ThreadPoolExecutor(max_workers=6) as ex:
+            futs = {ex.submit(description_deezer,
+                              (fiches[s][1].get("title") or "")): s
+                    for s in restants}
+            for fut in as_completed(futs):
+                slug = futs[fut]
+                txt = fut.result()
+                if txt:
+                    par_deezer += 1
+                    _ecrire(slug, txt)
+
+    for slug in restants:                   # ni flux ni Deezer : on retentera
+        if etat.get(slug) != "ok":
+            etat[slug] = aujourd_hui.isoformat()
 
     if not dry_run:
+        etat["_version"] = SOURCE_VERSION
         ETAT.write_text(json.dumps(etat, ensure_ascii=False), encoding="utf-8")
 
     if verbose:
+        # Compte apres coup plutot qu'en incrementant : une fiche sans feedUrl
+        # n'entrait dans aucun compteur du tour RSS, et le total affichait
+        # « 0 sans source » alors que la moitie du lot n'avait rien recu.
+        sans_source = sum(1 for s, _ in cibles if etat.get(s) != "ok")
         suffixe = " (simulation)" if dry_run else ""
-        print(f"  descriptions : {remplies} remplie(s), "
-              f"{vides} flux muet(s) ou injoignable(s){suffixe}")
+        print(f"  descriptions : {remplies} par flux RSS, "
+              f"{par_deezer} par repli Deezer, "
+              f"{sans_source} sans source{suffixe}")
         restant = sum(1 for f in glob.glob(str(DATA / "*.json"))
                       if _est_vide(f) and etat.get(Path(f).stem) != "ok")
         print(f"  descriptions : ~{restant} fiche(s) encore a traiter")

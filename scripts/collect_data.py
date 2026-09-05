@@ -14,6 +14,7 @@ from apple_genre_map import categories_from_apple
 from lang_filter import (podcast_francophone, chaine_youtube_francophone,
                          langue_du_flux, est_code_francophone, ecriture_non_latine)
 from enrich_descriptions import enrich as enrich_descriptions
+from enrich_avis import enrich as enrich_avis
 from snapshot_metrics import enregistrer as snapshot_metriques
 from enrich_episodes import enrich as enrich_episodes
 
@@ -1338,6 +1339,15 @@ if __name__ == "__main__":
         enrich_descriptions(limit=400)
     except Exception as e:
         print(f"  ! enrichissement des descriptions ignore : {e}")
+
+    # Avis publics des auditeurs, sur les fiches NON analysees par MediaCritic
+    # uniquement : la ou nous n'avons pas d'avis, ce sont les seules voix que
+    # la page peut offrir. Avis reels cites et attribues, jamais de synthese
+    # redigee -- voir l'en-tete de enrich_avis.py.
+    try:
+        enrich_avis(limit=300)
+    except Exception as e:
+        print(f"  ! collecte des avis publics ignoree : {e}")
 
     # Releve d'audience du jour. Sans historique, « les contenus qui montent »
     # est impossible -- et chaque nuit sans capture est perdue pour toujours.

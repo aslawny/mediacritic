@@ -179,6 +179,17 @@ footer a:hover{color:var(--c-orange)}
 .ep-list li{display:flex;gap:12px;align-items:baseline;font-size:.88rem;color:var(--c-muted2);padding-bottom:8px;border-bottom:1px solid var(--c-border)}
 .ep-list li:last-child{border-bottom:0;padding-bottom:0}
 .ep-date{flex:0 0 84px;font-size:.75rem;color:var(--c-muted);font-variant-numeric:tabular-nums}
+/* Avis publics : extraits reels cites, jamais de texte redige ni de
+   repartition de notes (voir bloc_avis) */
+.av-liste{list-style:none;display:flex;flex-direction:column;gap:12px;margin-top:14px}
+.av-item{background:rgba(255,255,255,.03);border:1px solid var(--c-border);border-radius:10px;padding:13px 16px}
+.av-tete{display:flex;align-items:baseline;gap:9px;flex-wrap:wrap;margin-bottom:5px}
+.av-note{color:var(--c-gold);font-size:.82rem;letter-spacing:.06em}
+.av-titre{font-weight:600;font-size:.9rem;color:var(--c-text)}
+.av-auteur{font-size:.75rem;color:var(--c-muted)}
+.av-texte{font-size:.87rem;line-height:1.65;color:var(--c-muted2)}
+.av-source{margin-top:14px;font-size:.75rem;color:var(--c-muted)}
+.av-source a{color:var(--c-orange);font-weight:600}
 @media(max-width:520px){
 .sim-grid{grid-template-columns:repeat(auto-fill,minmax(104px,1fr));gap:11px}
 .ep-list li{flex-direction:column;gap:2px}
@@ -422,6 +433,67 @@ def bloc_episodes(data):
     intro = '<p>%s.</p>' % h(" — ".join(meta)) if meta else ""
     return ('  <div class="card"><h2>Derniers contenus publiés</h2>%s%s</div>'
             % (intro, liste))
+
+
+def bloc_avis(data):
+    """Ce qu'en pense le public : avis REELS, cites et attribues.
+
+    Rien n'est redige ici : le texte cite est celui de l'auditeur, tronque et
+    attribue. Alimente par scripts/enrich_avis.py.
+
+    AUCUNE repartition de notes n'est affichee, et c'est deliberé : voir
+    avis_apple() dans enrich_avis.py. Le flux plafonne a 50 avis, ce qui ne
+    represente pas un podcast qui en compte 10 000 -- la moyenne, elle, est
+    deja affichee en haut de fiche. On ajoute ici des voix, pas des chiffres.
+
+    La source est nommee et liee, parce qu'on cite les mots d'autrui.
+
+    Ne s'affiche jamais sur une fiche analysee par MediaCritic : enrich_avis.py
+    les exclut a la collecte, et ce garde-fou ici evite qu'un reste de donnee
+    ancienne ne reapparaisse si une fiche devient MC apres coup.
+    """
+    if data.get("mediacritic"):
+        return ""
+    av = data.get("avis_publics") or {}
+    extraits = av.get("extraits") or []
+    if not extraits:
+        return ""
+
+    items = []
+    for e in extraits:
+        note = int(e.get("note") or 0)
+        etoiles = "★" * note + "☆" * (5 - note)
+        titre = h(e.get("titre") or "")
+        items.append(
+            '<li class="av-item"><div class="av-tete">'
+            '<span class="av-note">%s</span>'
+            '%s<span class="av-auteur">— %s</span></div>'
+            '<p class="av-texte">%s</p></li>'
+            % (etoiles,
+               '<span class="av-titre">%s</span>' % titre if titre else "",
+               h(e.get("auteur") or "Auditeur"),
+               h(e.get("texte") or "")))
+
+    # Cast entier plutot qu'echappement : le trackId part dans un attribut
+    # href, seul endroit du bloc ou une valeur inattendue pourrait compter.
+    # Un entier ne peut rien casser ; une valeur non numerique degrade
+    # proprement en texte sans lien.
+    try:
+        tid = int(((data.get("platforms") or {}).get("apple") or {})
+                  .get("trackId"))
+    except (TypeError, ValueError):
+        tid = None
+    lien = ('<a href="https://podcasts.apple.com/fr/podcast/id%d" '
+            'target="_blank" rel="noopener">Apple Podcasts</a>' % tid
+            if tid else "Apple Podcasts")
+
+    return ('  <div class="card"><h2>Ce qu\'en pense le public</h2>'
+            '<p>Quelques avis d\'auditeurs, repris tels quels :</p>'
+            '<ul class="av-liste">%s</ul>'
+            '<p class="av-source">Avis publiés par des auditeurs sur %s et '
+            'reproduits sans modification. MediaCritic n\'a analysé ce contenu '
+            'dans aucun de ses épisodes.</p></div>'
+            % ("".join(items), lien))
 
 
 
@@ -759,6 +831,7 @@ def render_fiche(data):
   </div>
 
 {bloc_episodes(data)}
+{bloc_avis(data)}
 {bloc_similaires(data)}
 {bloc_partage(data)}
   <div class="card">
