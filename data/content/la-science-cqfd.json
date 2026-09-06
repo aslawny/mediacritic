@@ -23,5 +23,31 @@
   "tags": [
     "gaming"
   ],
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mosthelpful",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "candice.mtl",
+        "titre": "Génial 🤩",
+        "texte": "Toujours hâte à l’épisode du jour ! Merci Natacha et toute l’équipe pour ce travail méticuleux, les invités de qualité et les sujets toujours passionnants. Bonjour depuis le Canada 🇨🇦"
+      },
+      {
+        "note": 3,
+        "auteur": "nick nadigo",
+        "titre": "Ouach ce nom d'emission",
+        "texte": "Serieusement \"la science CQFD\" qu'est ce que ça veut dire, je sais ce que CQFD veut dire mais l'ensemble me laisse pantois.."
+      },
+      {
+        "note": 5,
+        "auteur": "Faberger25",
+        "titre": "Super émission ;-)",
+        "texte": "J’adore votre émission aux sujets toujours variés et pertinents (et aussi j’aime beaucoup vos choix musicaux) Bonjour, du Québec !"
+      }
+    ]
+  }
 }

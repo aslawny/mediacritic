@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-29",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ch",
+    "tri": "mosthelpful",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pascale_with_an_e",
+        "titre": "Doublages excellents",
+        "texte": "Merci pour les doublages des langues étrangères. Vous laissez passez la version originale qui nous permet de capter le ton et les mots clés. Ça donne un ton très authentique et véridique aux interviewés."
+      },
+      {
+        "note": 1,
+        "auteur": "SarzFadsy",
+        "titre": "Autrefois émission préférée, plus maintenant",
+        "texte": "Émission majoritairement biaisée: les présentateurs, le choix des invités ainsi que les opinions avec un parti pris notamment sur les sujets politiques laissent à désirer. Un manque de pluralité dangereux."
+      },
+      {
+        "note": 5,
+        "auteur": "Jb3456745",
+        "titre": "Peut on récupérer l’intégrale?",
+        "texte": "Depuis quelques jours vous n’uploadez plus la version complète de l’émission, pourriez vous poster l’intégrale (incluant les questions de téléspectateurs) en un seul épisode svp, merci"
+      }
+    ]
+  }
 }

@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-06-30",
-  "frequence_jours": 38
+  "frequence_jours": 38,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Polo Mins",
+        "titre": "Partage",
+        "texte": "En tant que kiné du sport et passionné par la santé, je dévore tous les épisodes qui sont d’une richesse incroyable. Tout cela m’inspire énormément.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Soraya1448",
+        "titre": "Très inspirant",
+        "texte": "Je viens d’écouter ton interview avec Hugo Philip, c’était génial, très instructif, très inspirant et surtout très motivant, il donne envie de faire un métier qui a du sens et surtout de prendre soin de soi avec une bonne hygiène de vie.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Michel Xh",
+        "titre": "Très bien",
+        "texte": "Chaque épisode est différent mais toujours très intéressant et enrichissant. De plus cela permet de procéder à une réflexion personnelle suivant les interviews des invités tellement ils interpellent dans leurs propos. Bonne continuation!"
+      }
+    ]
+  }
 }

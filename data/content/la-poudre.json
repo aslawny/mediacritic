@@ -25,5 +25,31 @@
     "culture"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mosthelpful",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Cornymeg",
+        "titre": "Toujours un merveilleux moment",
+        "texte": "Écouter La poudre est pour moi synonyme de culture, d’identité, de découverte et de détente. Émission tout d’abord animée par une femme pleine de talent ayant un parlé doux, mesuré et pourtant authentique abordant des sujets variés présentés par des femmes aux histoires les plus…"
+      },
+      {
+        "note": 5,
+        "auteur": "simonemaroney",
+        "titre": "J’adore",
+        "texte": "Les entrevues me permettent de découvrir des femmes, des mondes, des idées qui ne m’avaient jamais effleuré l’esprit et que j’écoute avec délice.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Raphaëlle 84",
+        "titre": "Merci!",
+        "texte": "Un podcast qui m’aide et qui me sauve parfois de la détresse psychique. Un podcast qui fait du bien par son humanisme. Merci Lauren Bastide. Une femme sensible , intelligente et à l’écoute ! ( ps: qualité indispensable pour être une psychologue de qualité …"
+      }
+    ]
+  }
 }

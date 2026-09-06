@@ -26,5 +26,25 @@
     "education"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mostrecent",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Abduminu",
+        "titre": "Abdou Imane Aïcha depuis mtr",
+        "texte": "On aimerai un série sur le soccer et une autre sur la gymnastique mercccccccci!!!!"
+      },
+      {
+        "note": 5,
+        "auteur": "MNS Marco",
+        "titre": "Trop bien",
+        "texte": "Je trouve que c’est podcast sont très bien pour apprendre au enfant"
+      }
+    ]
+  }
 }

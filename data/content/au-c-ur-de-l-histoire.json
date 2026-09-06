@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-29",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ArlyFAI",
+        "titre": "Passionnant !",
+        "texte": "Depuis que ma meilleure amie m'a fait découvrir ce podcast, je découvre de nouvelles choses toutes les semaines ! C'est une manière amusante d'apprendre tout en restant concis. J'apprécie énormément la variété des sujets et des périodes traitées …"
+      },
+      {
+        "note": 1,
+        "auteur": "Thecunda",
+        "titre": "Trop de pubs",
+        "texte": "Sujets souvent intéressants, mais podcasts interrompus toutes les 3-4 minutes par la publicité, c’est insoutenable"
+      },
+      {
+        "note": 5,
+        "auteur": "RoxaneMi",
+        "titre": "Tous les titres",
+        "texte": "Merci , Madame , d’accompagner de façon si intéressante et cultivée, mes moments d’activités ménagères. Une vaisselle , en votre compagnie, prend tout à coup un charme certain! Ne vous méprenez pas: vos récits , excellemment documentés , me ravissent et je vous en suis très recon…"
+      }
+    ]
+  }
 }

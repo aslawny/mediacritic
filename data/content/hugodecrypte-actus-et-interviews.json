@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-09-05",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "CAMI_SMF",
+        "titre": "Encouragement et félicitations pour Hugo",
+        "texte": "Salut Hugo je voulais t’encourager à continuer ce que tu fait , tu donne un bon exemple de culture et tu m’as fait redécouvrir le plaisir de connaître toutes les infos du moment.…"
+      },
+      {
+        "note": 1,
+        "auteur": "jibess",
+        "titre": "Pub pub pub pub",
+        "texte": "Pub avant pub pendant pub après. Trop c’est trop tanpis. Dommage"
+      },
+      {
+        "note": 5,
+        "auteur": "Un auditeur fidèle.😆",
+        "titre": "Génial 👍",
+        "texte": "Ce podcast est incroyable ! Il parle de sujet divers, de l’actualité dans le monde, et aussi nous rassure 😆 bref tout est parfait, continuez comme ça !!!!👍 (et pour les gens qui se plaignent ils mettent seulement une étoile, vous n’aimez pas vous n’écoutez pas)"
+      }
+    ]
+  }
 }

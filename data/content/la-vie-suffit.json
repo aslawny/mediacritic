@@ -26,5 +26,31 @@
     "education"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Laurie Savoie",
+        "titre": "Merci !",
+        "texte": "Bonjour Chloé J’ai écouté le dernier podcast lors de ma course à pied hier j’ai adoré. Au départ en voyant l’intitulé j’ai hésité. Mais au final quel Sujet ! Et MERCI! C’est tellement un sujet non abordé. Et particulièrement les cheveux blancs….…"
+      },
+      {
+        "note": 1,
+        "auteur": "Plein sud !",
+        "titre": "Quelqu’un peut vérifier si Chris va bien ?",
+        "texte": "Après plusieurs épisodes, je commence à me demander si Chris n’est pas l’otage le plus poli de l’histoire du podcasting. Entre les théories de “flatline”, les protocoles ésotériques et les corrections spirituelles à chaque phrase, on dirait un documentaire sur la déradicalisation…"
+      },
+      {
+        "note": 5,
+        "auteur": "Bourbie",
+        "titre": "Merci",
+        "texte": "Je viens d'écouter le podcast sur les 30 mythes sur le personnal branding, mon premier podcast (ce n'est pas un format que j'utilise, à tort 😅) et je suis en pleine construction pour ma reconversion, et on entend effectivement tout ça comme préambule au lancement de son projet.…"
+      }
+    ]
+  }
 }

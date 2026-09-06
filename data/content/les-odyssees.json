@@ -24,5 +24,31 @@
     "culture",
     "société"
   ],
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ch",
+    "tri": "mostrecent",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Kimi ♍️",
+        "titre": "Incroyable,excellent 🫵🏻",
+        "texte": "Je n’ai jamais entendu d’histoire aussi incroyable et excellente. Vous êtes surtout fort pour mettre de l’émotion dans l’histoire et c’est ce que je préfère.…"
+      },
+      {
+        "note": 1,
+        "auteur": "je adorre",
+        "titre": "8-0",
+        "texte": "1. Bananza 2. belly danser 3. if i was you i want at be me too 4. blod blod blod 5. blod water 6. Siren 7. Lucky 8. Lisa money 9. pull up 10. fly away 11. runaway"
+      },
+      {
+        "note": 5,
+        "auteur": "Thaïs,8 ans",
+        "titre": "❤️❤️❤️❤️❤️❤️❤️",
+        "texte": "Bonjour ! J’adore votre podcast plein de ressources incroyables. Mais, j’avoue, ça me fais quelques fois peur. Mon histoire préferée est Jeanne de Brigue. Mais j’aimerais devenir une sorcière moderne. Bref, j’adore aussi l’humour de ce podcast.…"
+      }
+    ]
+  }
 }

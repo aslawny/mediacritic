@@ -25,5 +25,31 @@
   "tags": [
     "histoire"
   ],
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "quentdeuv",
+        "titre": "Indispensable",
+        "texte": "Une source d’informations indispensable dans le paysage médiatique francophone. Un peu plus de diversité dans la couleur politique, de peau et de sexe serait néanmoins la bienvenue !"
+      },
+      {
+        "note": 1,
+        "auteur": "Romain Beyne",
+        "titre": "Complotiste",
+        "texte": "Il y a quelques années c’était vraiment bien car assez neutre mais maintenant ce monsieur verse dans le complotisme avec un discours pro Kremlin, nauséabond."
+      },
+      {
+        "note": 5,
+        "auteur": "iBenDo",
+        "titre": "Un regard différent...",
+        "texte": "Des sujets intéressants, des intervenants compétents et des questions parfois impertinentes... Bref, des heures d’érudition en libre circulation ! On en redemande."
+      }
+    ]
+  }
 }

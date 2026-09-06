@@ -24,5 +24,31 @@
     "culture",
     "société"
   ],
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Fatiha55",
+        "titre": "Une émission intéressante et bienveillante",
+        "texte": "Certaines personnes aiment à se plaindre (référence à pourquoi faire moins bien quand c’était bien….), je reconnais là l’esprit grincheux et toujours pas content du français : il pleut, fais trop chaud, c’est plus remboursé 😡.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Morin35",
+        "titre": "Insuffisant",
+        "texte": "Un peu plus d’exigence, un peu moins de pensée unique et de démagogie. Merci"
+      },
+      {
+        "note": 5,
+        "auteur": "Karinette&mela",
+        "titre": "Émission tres intéressante et qu’elle bienveillance",
+        "texte": "Que cette émission fait du bien ! Très intéressante, riche, et quelles bienveillances des animateurs et des intervenants Les sujets sont variés et souvent non abordés ailleurs - vraiment j’adore C’est une découverte récente et je suis ravie Merci pour cet enrichissement …"
+      }
+    ]
+  }
 }

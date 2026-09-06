@@ -27,5 +27,31 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Undistractedmind",
+        "titre": "Podcast sur le Wokisme ⭐️⭐️⭐️⭐️",
+        "texte": "Je suis tombé sur ce compte, car je cherchais à m’informer sur le wokisme. Je ne peux que souligner le travail et les recherches réalisées ainsi quel la pertinence des propos évoqués sur le podcast dédié au wokisme qui m’a permis d’en connaître davantage les spécificités et les l…"
+      },
+      {
+        "note": 1,
+        "auteur": "denisc3fi46",
+        "titre": "Mauvaise vulgarisation",
+        "texte": "Approximations en veux-tu en voilà. Absence de maîtrise des sujets abordés."
+      },
+      {
+        "note": 5,
+        "auteur": "David Berton",
+        "titre": "La philo accessible à tous",
+        "texte": "Super podcast de philo qui décortique de façon simple et illustrée tous les grands courants de pensés. Le style est bien rythmé, la voix posée et nuancée, tout comme le fond d’ailleurs ! À écouter puis ré-écouter en prenant des notes afin de mieux assimiler les concepts.…"
+      }
+    ]
+  }
 }

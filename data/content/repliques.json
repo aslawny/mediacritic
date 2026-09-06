@@ -24,5 +24,31 @@
     "culture",
     "société"
   ],
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ch",
+    "tri": "mostrecent",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "louise de Clèves",
+        "titre": "Réplique",
+        "texte": "Je me réjouis toujours de vous retrouver le samedi, même lorsque le sujet ne m’inspire pas voir m’ennuie, vous savez m’emmener par votre enthousiasme. Je crois que je vous aime, j’aime tout chez vous.…"
+      },
+      {
+        "note": 5,
+        "auteur": "la vieille dame !",
+        "titre": "Tous !",
+        "texte": "Un grand merci pour votre émission ; J’ai 88 ans et je vous écoute avec plaisir ; Tout d’abord votre voix ... tranquille , et comme soucieuse de vouloir bien nous expliquer je sujet ; Ensuite le choix de vos invités , toujours questionnés avec respect .…"
+      },
+      {
+        "note": 5,
+        "auteur": "Adainville",
+        "titre": "Répliques",
+        "texte": "J’aime le courage que vous avez à aborder des sujets sensibles : l’islam, Israël, la laïcité, le wokisme, et tant d’autres . Avec Michel Onfray, qui malheureusement a « disparu » de France Culture, votre émission est un moment rare, où peuvent s’exprimer le talent, la liberté d’e…"
+      }
+    ]
+  }
 }

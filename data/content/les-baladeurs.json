@@ -27,5 +27,31 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Luc dip",
+        "titre": "Une vraie bouffée d’air",
+        "texte": "Un podcast qui fait découvrir des personnalité et des lieux uniques! Les invités et les récits sont variés et très bien choisis, et en plus de ça toute l’équipe fait un boulot formidable pour créer une immersion totale et l’envie de partir à l’aventure! C’est un des meilleurs pod…"
+      },
+      {
+        "note": 1,
+        "auteur": "mmjjbbccnn",
+        "titre": "Inintéressant",
+        "texte": "Les ouf et les kif rendent l'épisode 9 de La face cachée de L'Europe inécoutable et la voyageuse est totalement inculte."
+      },
+      {
+        "note": 5,
+        "auteur": "Jo63636363",
+        "titre": "Fabuleux",
+        "texte": "Écouter un épisode de ce podcast , quelle qu’il soit , c’est rentrer dans une bulle , un monde fabuleux , et rêver pendant 45 min environ . Le retour au réel est dur , mais l’attente de l’écoute d’un nouvel épisode nourrit cette excitation que j’ai de remettre mes écouteurs et re…"
+      }
+    ]
+  }
 }

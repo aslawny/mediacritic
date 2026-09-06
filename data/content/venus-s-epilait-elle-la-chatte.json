@@ -25,5 +25,31 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Zozschoenaerts",
+        "titre": "Un podcast insane!! Tout le monde devrait l'écouter !!",
+        "texte": "J'ai découvert ce podcast il y a 2 jours et j'ai binge écouter quasi tous les épisodes🥹il est ouf ce podcast, tellement intéressant et important surtout tout le monde devrait l'écouter🫶même si on connaît pas grand chose à l'art on le ressent pas du tout.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Phil (@nthrope)",
+        "titre": "Impressionnant !",
+        "texte": "Très intéressant. Pour celles et ceux qui apprécient les remises en question. Je recommande particulièrement l’épisode sur Picasso. Au delà du moralisme qui sous-tend parfois certaines remises en question féministe (et qui permet à certains d’affirmer « not all men …"
+      },
+      {
+        "note": 5,
+        "auteur": "EliTbks",
+        "titre": "J’adore !",
+        "texte": "Je n’ai écouté que le première épisode pour l’instant et je ne compte pas m’arrêter la ! Le tout est extrêmement bien construit, bien documenté et explicité de manière claire …"
+      }
+    ]
+  }
 }

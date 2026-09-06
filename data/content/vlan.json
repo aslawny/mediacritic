@@ -25,5 +25,31 @@
     "societe"
   ],
   "addedAt": "2026-08-20",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mostrecent",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "KarineK15",
+        "titre": "Enrichissant",
+        "texte": "Je suis toujours a la recherche du plaisir par les mots. Cela m’enrichit tellement. Je voulais vous remercier du partage que vous nous faites. Cela nous nourrit. Un petit « shout out » sur l’épisode avec Fred Lopez. J’étais déjà fan. Je le suis encore plus.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Jeremie Mani",
+        "titre": "Devenu fan sur le tard",
+        "texte": "Je connaissais Vlan de nom, pour avoir croisé Gregory une ou deux fois dans ma vie et le suivre sur LinkedIn. Mais je ne me suis décidé à écouter le podcast que récemment, pour écouter un de ses invités. Depuis je rattrape mon retard …"
+      },
+      {
+        "note": 5,
+        "auteur": "AloMoreno82",
+        "titre": "Lumière",
+        "texte": "Bravo pour encourager la communication profonde avec les invités dont la réflexion individuelle répercute leur rayonnement au public qui est prêt à recevoir. Ainsi plusieurs révéleront leur capacité à accueillir le changement positif."
+      }
+    ]
+  }
 }

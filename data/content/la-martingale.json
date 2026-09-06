@@ -25,5 +25,31 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "UStart UCL",
+        "titre": "Hyper instructif et accessible 🙏",
+        "texte": "J’ai découvert La Martingale en début d’année 2020, et il s’est rapidement glissé parmi mes podcasts préférés ! Le sujet des finances personnelles est trendy, il y a beaucoup d’informations et de contenus qui sont créés autour de cette thématique et il n’est pas toujours facile d…"
+      },
+      {
+        "note": 5,
+        "auteur": "NicoVA001",
+        "titre": "Instructif et accessible à tous",
+        "texte": "La variété des sujets, la qualité des intervenants et la pertinence des questions (et des réponses) en font un podcast très instructif. Agréable à l’écoute grâce au ton de l’interview et à un juste équilibre dans la technicité du contenu.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Maxevr",
+        "titre": "Une nouvelle Martingale… Les NFTs",
+        "texte": "Excellent épisode avec John sur les NFTs, son approche démystifie ce concept assez abstrait. Après cet épisode, un nouvel objectif: … acheter un premier NFT avant la fin de l’année Merci Matthieu pour tous ces échanges et découvertes!"
+      }
+    ]
+  }
 }

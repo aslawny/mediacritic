@@ -26,5 +26,31 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "gb",
+    "tri": "mostrecent",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "CéliaJaneSuzy",
+        "titre": "Magnifique",
+        "texte": "Un podcast magnifique qui prend le temps d’aller au fond des sujets qu’il aborde, notamment par le choix de témoignages très beaux, justes et sincères, la paroles des personnes concernées et qu’on laisse se déployer, et le choix de textes entrecoupant ces témoignages et qui sont…"
+      },
+      {
+        "note": 5,
+        "auteur": "From London N1",
+        "titre": "Un autre homme est possible",
+        "texte": "Je découvre ce podcast - ai seulement écouté l’épisode « un autre homme est possible » que j’ai envoyé tout de suite à plusieurs de mes ami(e)s tant je l’ai trouvé pertinent et bien monté. Bravo et Merci Arte"
+      },
+      {
+        "note": 5,
+        "auteur": "Marie1803Lond",
+        "titre": "Épisodes bien documentés et très bien montés",
+        "texte": "Très beau travail des journalistes sur les témoignages et les intervenants. Les épisodes sont bien montés et très enrichissants. Super !"
+      }
+    ]
+  }
 }

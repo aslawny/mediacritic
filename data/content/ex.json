@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-02",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Evad_be",
+        "titre": "Ex..excellent exercice de raconter sa vie",
+        "texte": "Magnifiques témoignages qui peuvent nous aider à comprendre certains de nos choix. On devrait tous pouvoir se raconter comme cela. J’attends avec impatience avec les prochains épisodes."
+      },
+      {
+        "note": 1,
+        "auteur": "alicantine",
+        "titre": "Ennui",
+        "texte": "Je viens d’écouter l’épisode avec Marie... pfff hyper ennuyeux"
+      },
+      {
+        "note": 5,
+        "auteur": "Jess2810",
+        "titre": "Exceptionnel",
+        "texte": "J’adore ces histoires de vie qui nous rassurent dans notre propre vie et peuvent nous faire comprendre certaines choses ! Vite le prochain épisode 😀je n’ai plus de patience hihi"
+      }
+    ]
+  }
 }

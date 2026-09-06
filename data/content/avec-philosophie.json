@@ -26,5 +26,31 @@
     "news"
   ],
   "addedAt": "2026-07-24",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "us",
+    "tri": "mosthelpful",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "p. sonne",
+        "titre": "p. sonne",
+        "texte": "Great, thought-provoking perspective via discussions on important, fundamental, far-reaching philosophical topics"
+      },
+      {
+        "note": 2,
+        "auteur": "…in’",
+        "titre": "Pénible présentatrice",
+        "texte": "Ce podcast est une de mes émissions favorites depuis une dizaine d’années mais je me trouve bien dans l’embarras depuis que Géraldine Muhlmann présente l’émission ; elle est souvent désagréable voire méchante avec les invités, les interrompt sans grande pertinence, les discrédite…"
+      },
+      {
+        "note": 5,
+        "auteur": "Totollli",
+        "titre": "Indispensable",
+        "texte": "Magnifique de profondeur et d’accessibilité. La philosophie qui parle !"
+      }
+    ]
+  }
 }

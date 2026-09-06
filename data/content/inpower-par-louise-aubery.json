@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-09-06",
-  "frequence_jours": 2
+  "frequence_jours": 2,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mostrecent",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Calypso 🐞",
+        "titre": "Un bonheur",
+        "texte": "Il est vrai que je viens à peine de te connaître grâce au podcast avec Natacha Birds. Et depuis 3jours je m’éclate en écoutant tes podcasts le matin et le soir en rentrant de mes longues journées de révision à l’université (période d’examens toi même tu sais 😂).…"
+      },
+      {
+        "note": 5,
+        "auteur": "Circé L",
+        "titre": "Génial !",
+        "texte": "Super podcast que je recommande à toutes les personnes curieuses, ce podcast est plein d’inspirations. On y retrouve des conversations naturelles, enrichissantes et intéressantes avec des personnes de divers milieux.…"
+      },
+      {
+        "note": 5,
+        "auteur": "OcéaneTouillon",
+        "titre": "MERCI",
+        "texte": "Merci pour ce podcast Louise, c'est un plaisir de d'écouter, en courant, en mangeant, ou dès le matin. Bref, j'adore, les sujets sont variés et toujours plus motivants pour aller de l'avant et poursuivre nos rêves et envies !"
+      }
+    ]
+  }
 }

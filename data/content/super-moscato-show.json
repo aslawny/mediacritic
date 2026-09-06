@@ -26,5 +26,31 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pÿ",
+        "titre": "Oui mais…",
+        "texte": "Fan de l’émission depuis des années (10 ans+), je ne m’explique pas la participation de Marion Bartoli, rien contre elle, mais mauvais casting, le Moscato Show ce n’est pas censé être « trop » studieux, on attend l’oeil aiguisé et la verve acerbe des experts sur un ton décalé….…"
+      },
+      {
+        "note": 1,
+        "auteur": "bkmjr19",
+        "titre": "#BoycottRMC",
+        "texte": "La meilleure bande d’RMC malheureusement mon entourage et moi ne vous écouteront plus tant qu’il y aura Barba Lefèbre à l’antenne des GG…"
+      },
+      {
+        "note": 5,
+        "auteur": "BRDrPh",
+        "titre": "Message de la NASA",
+        "texte": "Je mettais 20/20 jusque là mais le passage TV amène des erreurs techniques qui ne font pas pro pour une telle émission. Le passage de certains invités complètent désintéressés du sport (ou rattachez celui par un prétexte incroyable : Cornillac, Yann’s etc.), recrutes uniquement p…"
+      }
+    ]
+  }
 }

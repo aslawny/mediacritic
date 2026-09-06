@@ -26,5 +26,31 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "LN-Ripley",
+        "titre": "Merci!",
+        "texte": "Un an à vous écouter et quel immense plaisir j’ai eu à découvrir ces classiques de la littérature ! Vous savez transmettre avec passion et enthousiasme ce qui vous a touché ou ému dans un livre.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Foularf",
+        "titre": "Merci",
+        "texte": "Bonjour Ambre, je voulais juste vous dire merci pour vos podcasts, pour tout ce que vous faites sur Quotidien, et pour qui vous êtes carrément! Votre fraîcheur, votre simplicité, votre douce intelligence et votre manière de dire les choses de manière entière, ouverte, vraie, et s…"
+      },
+      {
+        "note": 5,
+        "auteur": "Marjorie Elich",
+        "titre": "Challengeant",
+        "texte": "Ravie de ce ton frais et inspirant. Je lis déjà beaucoup mais \"au hasard\", comme on tombe sur une série Netflix. J'aime ici la contextualisation des œuvres et l'explication de \"pourquoi il faut les lire\".…"
+      }
+    ]
+  }
 }

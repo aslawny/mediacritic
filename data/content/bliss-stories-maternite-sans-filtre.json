@@ -27,5 +27,31 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Anao.o",
+        "titre": "LE podcast que j’attends chaque semaine",
+        "texte": "Ça fait maintenant des années que j écoute Bliss religieusement chaque lundi. Je pense n’avoir loupé aucun épisode tellement j’adore ce podcast et pourtant je suis bien loin d’être mère ou de vouloir le devenir bientôt.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Mpom88",
+        "titre": "Stop les pubs",
+        "texte": "J’écoute Bliss depuis le début, je crois n’avoir raté aucun épisode… En revanche je trouve absolument irrespectueux les pubs en plein milieu du temps de parole des invités, parfois en cours de récit d’un drame… Vraiment c’est d’une maladresse… Et alors la pub pour MSC croisières……"
+      },
+      {
+        "note": 5,
+        "auteur": "Jill 🏃‍♀️🏃‍♀️",
+        "titre": "J’adore!!",
+        "texte": "Depuis 6 ans je suis ce podcast. Il m’accompagne dans mes sorties running depuis longtemps 😍 autant dire qu’il fait partie intégrante de notre famille, nous échangeons souvent avec mon compagnon, suite aux sujets abordés lors des épisodes.…"
+      }
+    ]
+  }
 }

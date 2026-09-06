@@ -25,5 +25,31 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Félicie parfumeur",
+        "titre": "Marmotte power",
+        "texte": "Merci Pauline pour ta spontanéité et ta franchise. J’ai le plaisir de t’écouter les jours où je suis à l’orgue à parfum en solitaire. Ta fluidité et ta vision me parlent. Le retour de ta version solo est super et ramener de l’humain dans tes interviews est pour moi essentiel.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Romane Romy",
+        "titre": "Vrai intérêt mais …",
+        "texte": "Sujets intéressants … Pauline garde de plus en plus la parole … par exemple sur le podcast qui aborde l utilisation de ChatGPT … c est un monologue ! 😒😒 Aucune place pour l’invitée … moi je … moi je … moi je …"
+      },
+      {
+        "note": 5,
+        "auteur": "Estelle Photographe",
+        "titre": "L'incontournable source d'inspiration",
+        "texte": "Un grand merci Pauline pour tout ce que tu livres à chaque fois, autant dans tes formations que dans les interviews que tu fais ￼dans ce podcast …"
+      }
+    ]
+  }
 }

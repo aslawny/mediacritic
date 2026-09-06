@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-01",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ch",
+    "tri": "mostrecent",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Une hotitriste 🩷",
+        "titre": "Hellooo",
+        "texte": "Franchement je vous aime trop les filles ❤️ vous êtes mon moment de bonheur dans la semaine !! Déjà la hotline est un super concept c’est intéressant et croustillant et très sympa de votre part d’aider les gens et les conseiller.…"
+      },
+      {
+        "note": 5,
+        "auteur": "UNE_FILLETAPEURRRR",
+        "titre": "Just incroyable 😻",
+        "texte": "Franchement c incroyable vous faites que slay je surkiff vraiment vous parlez de tout et de rien sans gêne je ne vois jamais les heures passé c vrm dans la même DA que sip and gossip (un podcast que je vous conseille) enfin bref des bisous et continuez à slay juste love kiss 😘"
+      },
+      {
+        "note": 5,
+        "auteur": "#lepetitcrumble",
+        "titre": "Merciiiiii",
+        "texte": "Merci beaucoup pour ce super podcast c’est vraiment mon petit moment à moi de la semaine. Des fois des amies me voient avec mes écouteurs en train de rigoler et là elles savent ce que j’écoute"
+      }
+    ]
+  }
 }

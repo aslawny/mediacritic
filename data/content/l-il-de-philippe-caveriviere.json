@@ -26,5 +26,31 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Monsieur_V",
+        "titre": "Stop aux mélanges !",
+        "texte": "Si je me suis abonné à ce podcast c’est pour suivre un sujet précis. Pas pour découvrir d’autres choses de RTL !"
+      },
+      {
+        "note": 3,
+        "auteur": "Ericniv",
+        "titre": "podcast coupes",
+        "texte": "merci de diffuser en entier et non coupes avant la fin ! tres desagreable"
+      },
+      {
+        "note": 4,
+        "auteur": "Tatie Maggie",
+        "titre": "Si vous voulez couper quelque chose, coupez là pub !!!",
+        "texte": "Super chronique même si un peu trop recyclée le samedi soir dans Quelle Époque. En revanche, les coupures sont insupportables ! Si vous voulez couper quelque chose, coupez là pub !!!"
+      }
+    ]
+  }
 }

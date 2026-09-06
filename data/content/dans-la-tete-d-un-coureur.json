@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-31",
-  "frequence_jours": 3
+  "frequence_jours": 3,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "CanisTeddyUrsidae",
+        "titre": "Ouvert à tous et pour tous",
+        "texte": "Premier podcast que j’ai commencé à écouter (maintenant j’en suis une dizaine) grâce à la découverte d’un programme d’entraînement DLTDC. Ce qui est génial avec ce Podcast, s’est qu’il convient à tous; confirmés comme néophytes (comme moi); les inconditionnels du running ou encor…"
+      },
+      {
+        "note": 1,
+        "auteur": "lhola2",
+        "titre": "Alimentation et course à pied",
+        "texte": "Bonjour Je suis adepte de votre podcast très intéressant et motivant ... par contre j’ai l’impression de m’être fait arnaque par l’achat du livre ! 35 euros pour un simple folder extrêmement simpliste et quelques recettes accessibles sur internet ...…"
+      },
+      {
+        "note": 5,
+        "auteur": "Jott88",
+        "titre": "🎧 Un podcast qui donne autant envie de courir que de réfléchir",
+        "texte": "Voilà que je reviens d’une sortie en basse intensité de 25 km sur la neige 🌨️ J’ai écouté le podcast du 21 décembre – “On répond aux questions running les plus posées à ChatGPT !” avec le légendaire Guillaume ✨, accompagné pour cet épisode de Tristan, la véritable encyclopédie du…"
+      }
+    ]
+  }
 }

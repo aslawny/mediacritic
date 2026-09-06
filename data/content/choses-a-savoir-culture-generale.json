@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-06-05",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ฅ⁠^⁠•⁠ﻌ⁠•⁠^⁠ฅ",
+        "titre": "C’et cool",
+        "texte": "Il est cool ce podcast, trés intéressant !!!! Sinon rien à voir mais « la brioche 🍞 » va voir dans les commentaires du podcast askip si tu veux voir ton « Hamid_180 » … D’ailleurs pourquoi tu le cherches partout …"
+      },
+      {
+        "note": 1,
+        "auteur": "degrignon",
+        "titre": "Pub",
+        "texte": "Quand il y aura un peu moins de pub ! Pub qui a un effet contraire à l’objectif poursuivi !"
+      },
+      {
+        "note": 5,
+        "auteur": "6hfrbdgbfvdfbbdjg",
+        "titre": "Wow c’est trop bien",
+        "texte": "Tout mes condoléances pour les problèmes de santé mais on espère que tu vas aller mieux et ton podcast est vraiment vraiment trop BIEN !!!!!!! COURAGE ET MERCI BEAUCOUP POUR LE PODCAST !!!😁😁"
+      }
+    ]
+  }
 }

@@ -24,5 +24,31 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ch",
+    "tri": "mosthelpful",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "C’est troqou",
+        "titre": "Je me marre🤣🤣🤣",
+        "texte": "Je je trouve que c’est trop bien, c’est la meilleure émission que j’ai écouté"
+      },
+      {
+        "note": 1,
+        "auteur": "VegiSunMove",
+        "titre": "Pub insupportablement longue !!!!",
+        "texte": "La pub est beaucoup trop longue et est insupportable. Franchement couper là…"
+      },
+      {
+        "note": 5,
+        "auteur": "Andrew_Vaudano#9",
+        "titre": "Rire est chanson",
+        "texte": "Mdr incroyable Martin hilarant sa m’apprends a bien faire des canular 🤫"
+      }
+    ]
+  }
 }

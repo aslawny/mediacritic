@@ -27,5 +27,31 @@
     "news"
   ],
   "addedAt": "2026-06-09",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Fredhelle",
+        "titre": "L’histoire de l’homme au caleçon",
+        "texte": "J’ai trouvé ce podcast très intéressant et riche. Bravo à tous ceux qui ont participé à sa création ! Sur la conclusion j’aimerais ajouter qu’il y a d’autre options que d’arrêter les relations hétéro ou se comporter de la même façon que cet homme.…"
+      },
+      {
+        "note": 1,
+        "auteur": "jeanbiche",
+        "titre": "Inaudible dès l’intro !",
+        "texte": "Je m’attendais à un podcast détente traitant de l’amour. Dès l’intro, énorme douche froide. Ça part en combat politique dès le départ. Ça se veut ouvert et à l’écoute, mais visiblement la personne qui s’adresse à nous n’a jamais eu la curiosité de s’adresser à un homme normal, av…"
+      },
+      {
+        "note": 5,
+        "auteur": "123krob",
+        "titre": "Episode amitiés",
+        "texte": "J'écoute ce podcast depuis ses débuts, depuis le choc de King Kong théorie dans ma vie de femme hetero élevée par une mère homo. Je suis très solidaire du constat désespérant voir rageant du carnage du patriarcat et comprends bien la joie et l'épanouissement de la nouvelle généra…"
+      }
+    ]
+  }
 }

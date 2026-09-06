@@ -25,5 +25,31 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ch",
+    "tri": "mosthelpful",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "papitomiam",
+        "titre": "Une vraie pépite ❤️",
+        "texte": "Le podcast Legend est une véritable pépite ! Il propose des sujets très variés, toujours traités avec beaucoup de profondeur et de qualité. Les épisodes sont captivants et bien structurés, ce qui permet de rester accroché du début à la fin.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Chyvy",
+        "titre": "Detestable",
+        "texte": "Guillaume veut parler toujours plus que sont invité , coupe sans cesse la parole…."
+      },
+      {
+        "note": 5,
+        "auteur": "Miss couscous jambon",
+        "titre": "Super podcast, un peu perdue lors de l’épisode sur le livre sur l’existence de Dieu",
+        "texte": "J’écoute avec bonheur ce podcast et apprécie les divers invités et sujets. J’ai été perdue lors de l’épisode sur le livre sur l’existence de Dieu. Les interviewés n’ont peut-être pas suffisamment vulgarisé, et leur vitesse de parole n’aidait pas.…"
+      }
+    ]
+  }
 }

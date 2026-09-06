@@ -25,5 +25,19 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "us",
+    "tri": "mostrecent",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "cricket3788",
+        "titre": "Très intéressant",
+        "texte": "J’aime écouter les histoires mais j’aimerais que vous ajoutiez des transcriptions !"
+      }
+    ]
+  }
 }

@@ -22,5 +22,31 @@
   "tags": [
     "histoire"
   ],
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "@regnieri2",
+        "titre": "Génial",
+        "texte": "J'adore écouter Stephanie Duncan. Ses récits sont très bien écrits et récités . Il y a même des histoires audios pour mieux cerner les personnages historiques , à leur époque.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Xochipili75",
+        "titre": "Autant en emporte l’histoire",
+        "texte": "Impossible de lire les Podcasts sur l’application radio France"
+      },
+      {
+        "note": 5,
+        "auteur": "Glb22",
+        "titre": "Bravo",
+        "texte": "Cette émission, n'en déplaise à M Vidard et la \"Terre au carré \" excellente émission au demeurant aurait dû rester à 14h14. Ce changement horaire , dont n'est sans doute pas étranger M Vidard ( il n'est que d'écouter sa légère morgue au transition ) .…"
+      }
+    ]
+  }
 }

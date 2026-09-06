@@ -27,5 +27,31 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Matthieu from Belgium",
+        "titre": "Des histoires géniales, un générique d’anthologie !",
+        "texte": "Découvert par hasard, nos deux filles sont devenues immédiatement fans de cette série d’histoires inventives et bien pensées... et nous aussi!! Les thèmes abordés sont supers et adaptés sans jamais être moralisateurs.…"
+      },
+      {
+        "note": 2,
+        "auteur": "un truc5000",
+        "titre": "Trop de pubs",
+        "texte": "J’écoute depuis plus d’un an c’est super mais c’est trop cher et il y a trop de pubs.😱😰😤😭👍🏽👍🏽👍🏽👍🏽"
+      },
+      {
+        "note": 5,
+        "auteur": "Christel_LM",
+        "titre": "Plein de rebondissements",
+        "texte": "Les enfants adorent les aventures de Rodolphe et Gala ! Rodolphe nous fait bien rire, surtout lorsqu’il se dispute avec sa sœur, Rodolphine."
+      }
+    ]
+  }
 }

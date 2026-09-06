@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-08-28",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Plouple",
+        "titre": "Sylvia…",
+        "texte": "Attention Marc, le système de réductions de peines ne sont plus automatiques depuis le 1er janvier : le JAP examine en commission d’application des peines la situation de chaque détenu condamné pour apprécier l’octroi ou non de remises de peines en fonction de son comportement en…"
+      },
+      {
+        "note": 1,
+        "auteur": "*{S}*",
+        "titre": "Insupportable",
+        "texte": "Insupportable de mièvrerie et de (fausse) bienveillance. Racoleur et inutile. Marre du testimonial Intermarché."
+      },
+      {
+        "note": 5,
+        "auteur": "Courgette2021",
+        "titre": "Merci pour tous ces partages",
+        "texte": "Merci pour cette émission enrichissante, émouvante, et intéressante. Les invités viennent partager leurs expériences ; sur des sujets divers et variés ; ce qui me permet d’apprendre, de comprendre, de m’émerveiller parfois ou de me révolter contre les injustices qui nous sont rap…"
+      }
+    ]
+  }
 }

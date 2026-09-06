@@ -27,5 +27,31 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "discrète",
+        "titre": "Intégrale du jeudi 19 Février",
+        "texte": "Je suis une grande fidèle des Grosses Têtes depuis 45 ans , et très peu de choses me choquent. C’est la 1ère fois que je fais un commentaire pour vous dire que j’ai été extrêmement mal à l’aise et même peinée d’entendre Baffie faire une remarque odieuse à Paul El Kharrat.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Frankleboeuf",
+        "titre": "C’est quoi ton problème ???",
+        "texte": "T’as fait un test de personnalité pour savoir si tu étais positif"
+      },
+      {
+        "note": 5,
+        "auteur": "MartinJOURNET",
+        "titre": "Suuuuuuper",
+        "texte": "Trop bien J’écoute tous les jours vos émissions des Grosses Têtes, pourtant je n’ai que 13 ans et je ne suis pas d’accord avec ceux qui disent que c’est pour les vieux.…"
+      }
+    ]
+  }
 }

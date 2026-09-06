@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-22",
-  "frequence_jours": 13
+  "frequence_jours": 13,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mosthelpful",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Bibileo",
+        "titre": "On ne savait pas tout...",
+        "texte": "Comment rapporter les faits à propos d’une affaire aussi triste que ces meurtres de femmes âgées ? À travers les rencontres des témoins qui ont croisé les meurtriers, Cerno dévoile des faits et des détails des « tueurs de vieilles dames » rarement repris dans la presse.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Bluegen71",
+        "titre": "Accès gratuit ????",
+        "texte": "Avant j’étais fan mais maintenant il est impossible de suivre le podcast car il est devenu totalement payant ? Désolant, je le suis depuis des années et maintenant je n’ai accès à rien."
+      },
+      {
+        "note": 5,
+        "auteur": "Ange-Roy",
+        "titre": "Commentaires de Montréal",
+        "texte": "Excellent travail, c’est intéressant j’aime beaucoup le côté très personnel de cette quête. Les rencontres avec vos voisins parisiens sont touchantes. Le format me convient (pas trop long). Continuez le beau travail monsieur Julien.…"
+      }
+    ]
+  }
 }

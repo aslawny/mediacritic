@@ -24,5 +24,31 @@
     "culture",
     "société"
   ],
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "MANOU DE CHAMBERY",
+        "titre": "Émission du JEUDI 08 JANVIER 2026",
+        "texte": "Merci , Sonia. Le reportage que l’on entend aujourd’hui est TRÈS IMPORTANT: il est plus efficace, surtout à 13h30 (cette heure que je suppose de grande écoute), que toutes les grèves sur RadioFrance.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Ecoutepodcast",
+        "titre": "Voix insupportable",
+        "texte": "La voix qui présente est insupportable, je me suis arrêtée aux 3 premières secondes."
+      },
+      {
+        "note": 5,
+        "auteur": "Anna Trechko",
+        "titre": "Incontournable pour moi",
+        "texte": "Bonjour, j’apprécie énormément ce podcast, la qualité du traitement des sujets par les journalistes, et puis, du fond de mon lit de patiente, la voix de Sonia Kronlund, son ton toujours aussi proche que si nous étions en train de partager un thé dans mon salon, l’absence de jugem…"
+      }
+    ]
+  }
 }

@@ -25,5 +25,31 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Fernand2",
+        "titre": "Merci Adrien ,",
+        "texte": "J’aime ton podcast et les rencontres d’entrepreneurs(euses)- créateurs (trices) que tu nous offres depuis 5 ans. Ta bienveillance, ton écoute active ,ton humilité ,ta compétence et cette capacité à mettre en valeur ton interlocuteur en intervenant qu’à bon escient, permettent d’e…"
+      },
+      {
+        "note": 3,
+        "auteur": "Lea Klind",
+        "titre": "Super invités interviews loupées",
+        "texte": "Des invités variés d’un excellent niveau. C’est un plaisir d’écouter leur parcours, leurs valeurs, leur vision. Hélas, les questions ne sont pas assez préparées en amont … Et cela se ressent dans la conduite des entretiens : Décalage net entre niveau des questions d’Adrien et rép…"
+      },
+      {
+        "note": 5,
+        "auteur": "rodzal",
+        "titre": "Ultra quali et terriblement inspirant",
+        "texte": "J’adore écouter ces épisodes. Je découvre des personnalités atypiques et ultra créatives, des métiers et des parcours inspirants, et des marques pointues …"
+      }
+    ]
+  }
 }

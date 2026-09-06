@@ -24,5 +24,31 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lou.Al",
+        "titre": "Passionnant!",
+        "texte": "Vous écouter, c voyager ds le temps. Mais ce qui est fantastique c’est que vous racontez avec passion et ça se transmet sur les ondes. C un vrai bonheur. J’écoute J.Claude Ameisen également, mais l’Histoire me passionne beaucoup plus. Le seul petit défaut c’est que c trop court.…"
+      },
+      {
+        "note": 1,
+        "auteur": "JenG1974",
+        "titre": "Gros bug",
+        "texte": "Plus moyen d’écouter les podcasts Vous pouvez lancer n’importe quel épisode, c’est toujours le dernier épisode lu qui re-passe J’ai supprimé, re-suivi, re-lancé, rien n’y fait ☹️"
+      },
+      {
+        "note": 5,
+        "auteur": "âge 2 pierre",
+        "titre": "Franck Ferrand",
+        "texte": "J’adore Franck Ferrand c’est mon parrain qui me l’a fait écouter et j’ai de suite accroché (j’avais 10ans ) il racontait tellement bien que je me plongeais directement dans l’histoire. Je vous le conseille énormément."
+      }
+    ]
+  }
 }

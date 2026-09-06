@@ -24,5 +24,31 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "jean noël 34",
+        "titre": "Nos AVENGERS à nous",
+        "texte": "Bonjour les amis oui les amis ,on se connaît pas mais moi je vous écoutez tout les jours. J’espère que vous allez toutes et tous bien , vous m’avez manqué, en parlant de manquer j’espère que pour cette nouvelle année on va pouvoir retrouver Notre chérie à tous, j’ai nommé CONSTAN…"
+      },
+      {
+        "note": 1,
+        "auteur": "pi-314",
+        "titre": "Du Inter",
+        "texte": "Humour France Inter. Faut aimer l’humour gauchiste assumé. Un entre-soi qui ne cherche pas à être bon, mais ça tombe bien, c’est mauvais."
+      },
+      {
+        "note": 5,
+        "auteur": "Dounemo",
+        "titre": "👂 Ça fait du bien par où ça passe 👂",
+        "texte": "Au fond de mes tiroirs, on peut trouver des CD gravés avec vos émissions depuis le septante-cinq minutes. De là à dire qu’une certaine fidélité est de mise … Question : Laelia Véron pourrait-elle à l’occasion se pencher sur ce phénomène développé dans notre société depuis quelque…"
+      }
+    ]
+  }
 }

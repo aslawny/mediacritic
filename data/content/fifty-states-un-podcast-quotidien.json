@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-06-15",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mosthelpful",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Nickridiculous",
+        "titre": "C’est un tout bon podcast",
+        "texte": "Je apprends le français est je ne peux pas suivre les podcasts tout improvisé ou des interviews. Les podcasts qui sont scripté sont parfait pour moi. Et j’aime les petits blagues et les effets sonores, peut-être parce qu’ils sont souvent en anglais!"
+      },
+      {
+        "note": 3,
+        "auteur": "Fyba",
+        "titre": "Très intéressant, mais trop de bruitages !",
+        "texte": "Voici un podcast des plus intéressant : à la la fois éducatif et distrayant. Le seul problème, et il est de taille, est la réalisation : des bruits, des extraits sonores de pertinence nulle, sont ajoutés pour illustrer chaque phrase. Si dommage !"
+      },
+      {
+        "note": 5,
+        "auteur": "Nath407",
+        "titre": "Super !",
+        "texte": "Contrairement à beaucoup de ressources existantes sur ce sujet, l’humour qui ponctue les podcasts grâce à des effets sonores en fait toute son originalité et sa modernité. C’est très instructif et jamais ennuyeux. Bravo !"
+      }
+    ]
+  }
 }

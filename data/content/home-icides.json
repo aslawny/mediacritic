@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-09-06",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "jean-je",
+        "titre": "Affaire Grégory",
+        "texte": "Je vais certainement dire une bêtise mais dans cette affaire n’y avait il pas la possibilité de retracer les appels du corbeau? Aujourd’hui on appelle ça des fadettes mais à l’époque il s’agissait sûrement d’un téléphone fixe ou d’une cabine, et vu le nombre d’appels réalisés par…"
+      },
+      {
+        "note": 1,
+        "auteur": "XXX_8785",
+        "titre": "Episode 4 josacyne",
+        "texte": "L’épisode 4 sur la Josacyne n’a rien à voir avec le sujet ???"
+      },
+      {
+        "note": 5,
+        "auteur": "Mafersen",
+        "titre": "Accro",
+        "texte": "Un de mes podcasts préférés, sérieux, avec une narration qui tient en haleine. Beaucoup de bienveillance aussi quand la journaliste reçoit des victimes ou des familles.…"
+      }
+    ]
+  }
 }

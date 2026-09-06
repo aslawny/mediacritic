@@ -26,5 +26,31 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mosthelpful",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "noushka13526",
+        "titre": "Ça coupe!!!",
+        "texte": "Je suis folle de Transfer! J’ai écouté plus de 250 épisodes et je crains de terminer plus vite que l’arrivée des futurs podcasts. Je suis pour votre abonnement, ça vaut bien cela! Par contre, depuis que je suis abonnée, le son coupe aux 7 secondes puis ça reprend, ce qui rend l’é…"
+      },
+      {
+        "note": 5,
+        "auteur": "un chinois quebecois",
+        "titre": "collage",
+        "texte": "Si l’amour de deux amants peut durer toujours, nul besoin de passer ensemble chaque instant de la vie!"
+      },
+      {
+        "note": 4,
+        "auteur": "Bluegen71",
+        "titre": "Déçue de la version payante",
+        "texte": "J’adorais votre podcast, c’était l’un de mes préférés… Mais maintenant il faut payer l’abonnement pour pouvoir écouter la majorité des podcasts et c’est très décevant."
+      }
+    ]
+  }
 }

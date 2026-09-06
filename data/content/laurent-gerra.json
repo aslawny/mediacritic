@@ -27,5 +27,31 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Gavroche1973",
+        "titre": "Excellentissime Laurent GERRA",
+        "texte": "Que talent d'imitateur, sans exagérer c'est certainement le maître absolu en la matière, et extrêmement drôle au point de m'arracher quelques larmes. C'est vrai qu'il faut suivre pour comprendre parfois les développements de certains personnages ou sketchs ...…"
+      },
+      {
+        "note": 1,
+        "auteur": "Galak Fyarr",
+        "titre": "Arrêtez d’ajouter les “Meiulleurs du Jour\"",
+        "texte": "ça n’a aucun sens d’ajouter les “meilleurs du jour” en podcasts. On est abonnés au podcast, donc on a pas besoin de rediffusions!"
+      },
+      {
+        "note": 5,
+        "auteur": "Nounoursette 62",
+        "titre": "Trop génial !",
+        "texte": "Cher Laurent, nous t'adorons ! Aujourd'hui, une fois de plus, tu étais trop génial ! On pleure de rire, on regarde tes émissions, on t'a vu à l'Olympia ... Tu voles de loin au-dessus des autres ...…"
+      }
+    ]
+  }
 }

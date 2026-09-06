@@ -26,5 +26,31 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pazair04",
+        "titre": "La preuve que le génie humain n a pas de limites",
+        "texte": "Un podcast rare qui n’ existe assurément nulle part ailleurs, des informations high-tech à la pointe et plus fraiches que le poisson de la criée de la trinité. Des infos juridiques rendues captivantes par LTP. Des personnages d’ une crédibilité sans faille de Mannox.…"
+      },
+      {
+        "note": 3,
+        "auteur": "hokuto-no-Ben",
+        "titre": "Sympa pendant un moment",
+        "texte": "J’ai déjà beaucoup rigolé en écoutant ce podcast mais depuis 2-3 saisons je trouve que la dynamique n’y est plus et on a fait le tour de ce qu’il y’avait à écouter , belle longévité en tous cas ."
+      },
+      {
+        "note": 5,
+        "auteur": "Nick62510",
+        "titre": "Nicolas B",
+        "texte": "J’ai recommencé les podcasts depuis l’épisode 1 et je suis déjà au 51. Mais vais-je réussir a tous les écouter et en combien de temps? Mon esprit ne va-t-il pas craquer …"
+      }
+    ]
+  }
 }

@@ -25,5 +25,31 @@
     "education"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mazegw",
+        "titre": "encore 👏🏼 !!!",
+        "texte": "enfin un podcast qui permet d’apprendre ou réapprendre et compléter ses connaissances en histoire, sans que ce soit ennuyeux et fastidieux. Depuis que je suis à la retraite, j’enchaîne les épisodes en me promenant et redécouvre le bonheur du conte en même temps que j’apprends enf…"
+      },
+      {
+        "note": 5,
+        "auteur": "Gabocoko",
+        "titre": "Excellent podcast",
+        "texte": "C'est un super format, j'en ai dévoré 150 en 1 mois je pense, en courant, roulant ou meme au boulot. Une petite remarque quand meme, il y a au moins une 10aine d'épisodes qui sont coupés avant la fin, je ne sais pas s'il manque un mot, une phrase ou tout un pan du podcast, je pen…"
+      },
+      {
+        "note": 5,
+        "auteur": "Nico4256",
+        "titre": "Podcast pour tous",
+        "texte": "J’ai adoré ce podcast, j’ai commencé avec celui pour réviser le brevet alors que j’ai 42 ans, histoire de voir ce que faisais les jeunes de 3eme et j’ai accroché de suite! C’est simple, ça va au but, pas de parti pris. Idéal pour s’instruire quand on a bcp de route notamment …"
+      }
+    ]
+  }
 }

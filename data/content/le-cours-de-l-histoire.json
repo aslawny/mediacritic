@@ -22,5 +22,25 @@
   "tags": [
     "histoire"
   ],
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 4,
+        "auteur": "Eliot D.",
+        "titre": "Bravo à l’équipe",
+        "texte": "Je pense que Xavier Mauduit ne comprend pas lui-même ce qu’il dit. À part ça, très bonne émission, continuez le bon boulot, un grand merci !"
+      },
+      {
+        "note": 3,
+        "auteur": "mynicknameisDS",
+        "titre": "épisode provoque crash iphone",
+        "texte": "l’épisode « il faut nourrir le peuple 4/4 » fait crasher mon iphone à 6mn de la fin. devriez examiner ce bug..."
+      }
+    ]
+  }
 }

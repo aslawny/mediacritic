@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-02",
-  "frequence_jours": 2
+  "frequence_jours": 2,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mostrecent",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "paintlight_",
+        "titre": "Incroyable !!",
+        "texte": "Un podcast vraiment intéressant, quelque soit les sujets et qui nous fait réfléchir sur beaucoup de choses que l’on ne penserait pas dans la vie du quotidien ! Et il y a encore quelques mois, je ne connaissais pas et maintenant c’est mon activité pendant mes heures de voiture !"
+      },
+      {
+        "note": 5,
+        "auteur": "Kelly Barich",
+        "titre": "Merci",
+        "texte": "J’ai adoré écouter ce podcast car il m’a donné un bon coût de boost! Merci pour ce partage d’expérience! Hâte d’écouter le deuxième en espérant rentrer un peu plus dans les détails (tu as vécu avec quoi pendant deux ans? Budget dépense? Convaincre les banques? Et autre...)"
+      },
+      {
+        "note": 5,
+        "auteur": "Instaemilyy",
+        "titre": "Merci, bravo et encore !!",
+        "texte": "Mathieu, ton podcast est tellement inspirant, frais, intéressant ! C’est toujours un plaisir de partager ce moment avec toi et tes invités. Ne change rien ! Continues à nous enrichir humainement ! Une expatriée au fin fond du Québec !"
+      }
+    ]
+  }
 }

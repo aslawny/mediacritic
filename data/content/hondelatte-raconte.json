@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-06",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "gb",
+    "tri": "mosthelpful",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "J Pilger",
+        "titre": "Meilleur podcast de la planète tout language confondu",
+        "texte": "Hondelatte est monumental - Juste un reproche à la production- Je ne veux pas enlever une étoile mais arrêter de gâcher son travail avec vos rediffusions- vous avez assez de matériel pour varier les récits!"
+      },
+      {
+        "note": 3,
+        "auteur": "Mom's31",
+        "titre": "Très bonnes émissions mais trop de bugs dans le podcast",
+        "texte": "Épisodes comme toujours très intéressants mais il y a beaucoup trop de bugs dans certains podcast (retour en arrière de 20 secondes, passages qui coupent…)"
+      },
+      {
+        "note": 5,
+        "auteur": "Remy.ff00",
+        "titre": "C’est de la drogue",
+        "texte": "Je ne pourrais m’en passer. Les interviews sont exceptionnelles et on ne dit pas assez à quel point monsieur Hondelatte excelle dans ce domaine. Merci."
+      }
+    ]
+  }
 }

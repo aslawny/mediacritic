@@ -25,5 +25,25 @@
     "tech",
     "numérique"
   ],
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "samlylucas",
+        "titre": "Merci!",
+        "texte": "Coucou:) Je vous découvre il y’a peu grâce à une copine :) En quelques semaines, j’ai rattrapé mon retard ! Merci à vous toutes pour ce travail d’une intelligence et d’une qualité incroyable et pour tous vos efforts pour le rendre intelligible ! Je vous envoie pleins d’étoiles 😍"
+      },
+      {
+        "note": 5,
+        "auteur": "Ispaey",
+        "titre": "Merci - si gai de vous écouter",
+        "texte": "Merci merci merci pour vos recherches vos sensibilisations, pour nous partager vos rires aussi, j’adore vous écouter"
+      }
+    ]
+  }
 }

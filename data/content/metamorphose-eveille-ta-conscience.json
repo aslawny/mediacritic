@@ -27,5 +27,31 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "éveil et moi",
+        "titre": "Merci pour ces magnifiques podcasts",
+        "texte": "Heureuse de vous écouter vous et vos invités Heureuse d’apprendre que nous sommes nombreux à être très sensibles Heureuse de comprendre que nous éveillons les consciences Heureuse de faire partie de ce monde pour le faire évoluer vers le meilleur !"
+      },
+      {
+        "note": 2,
+        "auteur": "Audibi1982",
+        "titre": "Mitigé",
+        "texte": "Belle initiative, quelques intervenants supers, d’autres bien trop superficiels dans leurs théories et qui semblent s’adresser à quelques parisiens du 5eme qui traversent un moment de démotivation.…"
+      },
+      {
+        "note": 5,
+        "auteur": "valerieA10",
+        "titre": "Prise de conscience",
+        "texte": "Éveil ou réveil ? Une prise de conscience évidente. Je ne métamorphose, certainement un début…. Une chrysalide en plein travail J’ai parcouru beaucoup de podcast sur le chemin des vacances Une belle épopée avec mon compagnon ! Merci de tout cœur!"
+      }
+    ]
+  }
 }

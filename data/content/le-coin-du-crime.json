@@ -27,5 +27,31 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Coconut 🥥🥥🥥",
+        "titre": "Si cool",
+        "texte": "Yo les gens Je trouve que ce podcast est super cool je l’écoute avec ma sœur perso je suis fan 🤩🤩 Et puis je suis justement en train d’écouter un de ces podcasts 😅 «la veuve noire » 🤩 c’est trop cool Allez bizz je continue mon podcast 😘 PS : vites de nouveaux épisodes svp je suis…"
+      },
+      {
+        "note": 1,
+        "auteur": "Teletebise",
+        "titre": "Nul",
+        "texte": "Claquer au sooooooooooool trisomique :( :( :{ !( Nuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu…"
+      },
+      {
+        "note": 5,
+        "auteur": "Tofwel",
+        "titre": "Christophe",
+        "texte": "Excellent podcast! Déjà super dans la première version d’une dizaine de minutes, il est vraiment génial dans sa version de 40 minutes! Si vous savez, faites comme moi, devenez patreon pour les soutenir!😉👍"
+      }
+    ]
+  }
 }

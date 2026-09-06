@@ -24,5 +24,31 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "us",
+    "tri": "mostrecent",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Trance Crazy",
+        "titre": "Un podcast qui éveille nos lueurs intérieures",
+        "texte": "Un podcast excellent, à ne pas manquer. Les questions que posent Jonathan sont si bien ciblées, réfléchies, profondes, qu’elles apportent toujours des réponses qui nous aident à mieux comprendre des sujets qui nous tiennent tous à cœur et qui éveillent nos lueurs intérieures.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Nickchicago",
+        "titre": "À écouter sans hésiter! Et à réécouter!",
+        "texte": "Des beaux dialogues, beaucoup de profondeur, des invités aux profils très divers, un podcast qui éclaire nos vies professionnelles et nous aide à mieux comprendre notre raison de vivre."
+      },
+      {
+        "note": 5,
+        "auteur": "Chloé éclairée",
+        "titre": "Édifiant, fait du bien à l’âme",
+        "texte": "Ce podcast m’apporte beaucoup de sérénité, je me sens invitée à me pencher sur ma propre spiritualité, à croire en quelque chose, à me poser des questions et me centrer sur mon âme."
+      }
+    ]
+  }
 }

@@ -26,5 +26,31 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Karaage44",
+        "titre": "Merci",
+        "texte": "Merci pour ce travail de réflexion. Merci de prendre le temps dans le rythme. A cette injonction permanente d’aller vite, d’être efficace vous contre-proposez la lenteur du propos, la longueur du récit.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Yevgueny",
+        "titre": "Les femmes / les hommes",
+        "texte": "Les femmes sont des gentilles et les hommes des méchants. Bon… cela ne va pas bien loin."
+      },
+      {
+        "note": 5,
+        "auteur": "Mama240379",
+        "titre": "interesting feel good",
+        "texte": "Delphine je t’adore, j’ai l’impression de t’écouter depuis l’apparition des podcasts ds ma vie il y a 17 ans. De mémoire tu as dû faire qqs episodes des pieds sur terre. Le dernier Vivons heureux avec Rose Lamy était grandiose.…"
+      }
+    ]
+  }
 }

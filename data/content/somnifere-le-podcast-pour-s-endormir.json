@@ -26,5 +26,31 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ch",
+    "tri": "mostrecent",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Playero33",
+        "titre": "Un vrai pendule",
+        "texte": "Ce podcast porte bien son nom! Depuis ma naissance j’ai toujours eu du mal à trouver le sommeil. J’ai essayé, les huiles essentielles, la melatonine et un tas de trucs.. c’était très aléatoire.…"
+      },
+      {
+        "note": 2,
+        "auteur": "soso014",
+        "titre": "Bon dodo",
+        "texte": "J’aime beaucoup ce podcast. Habituée à faire des insomnies, il m’a vraiment aidé à trouver le sommeil. La relaxation est très apaisante et les histoires très bien trouvées. Merci beaucoup au réalisateur!"
+      },
+      {
+        "note": 5,
+        "auteur": "Dioude01",
+        "titre": "🙏🙏🙏",
+        "texte": "Grande insomniaque depuis des années votre podcast est un 🎁. J’en suis devenue « addict», de plus, cela m’a fait à nouveau découvrir les contes de Maupassant avec joie.🙏🙏🙏🙏 pour votre dévouement."
+      }
+    ]
+  }
 }
