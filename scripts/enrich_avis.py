@@ -47,6 +47,7 @@ RAFRAICHIR_APRES = 60   # jours avant de recollecter une fiche deja traitee
 RETENTER_APRES = 30     # jours avant de retenter une fiche sans avis
 MIN_AVIS = 3            # en dessous, la section ne vaut pas d'etre affichee
 MAX_EXTRAITS = 3        # on cite peu : ce sont les mots d'autrui
+SEUIL_BRIDAGE = 12      # vides d'affilee au-dela desquels on conclut au bridage
 LONG_EXTRAIT = 280      # caracteres, au-dela on coupe proprement
 MIN_EXTRAIT = 60        # un « super ! » n'apprend rien au lecteur
 
@@ -233,13 +234,21 @@ def enrich(limit=300, dry_run=False, verbose=True):
         print("  avis publics : %d fiche(s) a traiter" % len(cibles))
 
     remplies = vides = 0
-    with ThreadPoolExecutor(max_workers=8) as ex:
+    vides_daffilee = 0
+    bride = False
+    # Apple bride SILENCIEUSEMENT : HTTP 200, flux valide, zero avis -- pour des
+    # podcasts qui en renvoyaient cinquante une heure plus tot. Sans coupe-circuit,
+    # une seance bridee marque des centaines de fiches « sans avis » et
+    # `RETENTER_APRES` les gele 30 jours : on inscrirait une panne reseau comme
+    # une verite sur le contenu. Constate le 06/09 en mesurant les sources.
+    with ThreadPoolExecutor(max_workers=3) as ex:
         futs = {ex.submit(avis_apple, tid): slug for slug, tid in cibles}
         for fut in as_completed(futs):
             slug = futs[fut]
             bloc = fut.result()
             if bloc:
                 remplies += 1
+                vides_daffilee = 0
                 etat[slug] = "ok:" + aujourd_hui.isoformat()
                 if not dry_run:
                     path, d = fiches[slug]
@@ -247,9 +256,16 @@ def enrich(limit=300, dry_run=False, verbose=True):
                     path.write_text(
                         json.dumps(d, ensure_ascii=False, indent=2),
                         encoding="utf-8")
-            else:
-                vides += 1
-                etat[slug] = aujourd_hui.isoformat()
+                continue
+            vides += 1
+            vides_daffilee += 1
+            if vides_daffilee >= SEUIL_BRIDAGE:
+                bride = True
+            if bride:
+                # On ne conclut RIEN : la fiche reste vierge dans l'etat et
+                # repassera a la prochaine seance.
+                continue
+            etat[slug] = aujourd_hui.isoformat()
 
     if not dry_run:
         ETAT.write_text(json.dumps(etat, ensure_ascii=False), encoding="utf-8")
@@ -258,6 +274,10 @@ def enrich(limit=300, dry_run=False, verbose=True):
         suffixe = " (simulation)" if dry_run else ""
         print("  avis publics : %d collecte(s), %d sans avis exploitable%s"
               % (remplies, vides, suffixe))
+        if bride:
+            print("  avis publics : ! source bridee (%d vides d'affilee) — "
+                  "seance ecourtee, aucune fiche marquee en echec"
+                  % SEUIL_BRIDAGE)
     return remplies
 
 
