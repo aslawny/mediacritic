@@ -41,6 +41,7 @@ from pathlib import Path
 ROOT = Path(__file__).parent.parent
 DATA = ROOT / "data" / "content"
 ETAT = ROOT / "data" / "_avis_state.json"
+RAPPORT = ROOT / "data" / "_avis_epuises.json"
 UA = {"User-Agent": "Mozilla/5.0 (compatible; MediaCriticBot/1.0)"}
 
 RAFRAICHIR_APRES = 60   # jours avant de recollecter une fiche deja traitee
@@ -48,6 +49,26 @@ RETENTER_APRES = 30     # jours avant de retenter une fiche sans avis
 MIN_AVIS = 3            # en dessous, la section ne vaut pas d'etre affichee
 MAX_EXTRAITS = 3        # on cite peu : ce sont les mots d'autrui
 SEUIL_BRIDAGE = 12      # vides d'affilee au-dela desquels on conclut au bridage
+
+# La cascade : 8 boutiques x 2 tris = 16 tentatives avant de conclure a
+# l'absence. Les boutiques francophones d'abord, puis GB/US/MC ou des
+# auditeurs expatries laissent parfois les seuls avis existants -- verifie le
+# 06/09 : « Affaires sensibles » n'a d'avis citables qu'en FR et en GB.
+BOUTIQUES = ["fr", "be", "ch", "ca", "lu", "gb", "us", "mc"]
+TRIS = ["mosthelpful", "mostrecent"]
+
+# Sources ecartees, et pourquoi -- pour ne pas refaire l'essai :
+#   Reddit  : l'API JSON publique renvoie HTTP 403 depuis le verrouillage de
+#             2023 (teste le 06/09 sur www et old.reddit.com). Il faudrait
+#             enregistrer une application et gerer OAuth.
+#   Discord : rien n'est indexable publiquement, y acceder suppose d'etre dans
+#             le serveur et de contredire les conditions d'utilisation.
+#   4chan   : republier ce contenu sous la signature du site, sans moderation,
+#             sur des milliers de pages -- le risque n'a aucun rapport avec le
+#             gain.
+#   Presse  : legitime, mais c'est de la critique professionnelle sous droit
+#             d'auteur, pas l'avis du public. Merite sa propre section, et une
+#             API de recherche qu'on n'a pas.
 LONG_EXTRAIT = 280      # caracteres, au-dela on coupe proprement
 MIN_EXTRAIT = 60        # un « super ! » n'apprend rien au lecteur
 
@@ -69,10 +90,10 @@ def tronquer(t):
             else coupe.rstrip()) + "…"
 
 
-def _lire_flux(track_id, tri, timeout):
-    """Un tri du flux d'avis Apple -> liste d'avis normalises."""
-    url = ("https://itunes.apple.com/fr/rss/customerreviews/"
-           "id=%s/sortby=%s/json" % (track_id, tri))
+def _lire_flux(track_id, tri, timeout, pays="fr"):
+    """Un tri d'une boutique Apple -> liste d'avis normalises."""
+    url = ("https://itunes.apple.com/%s/rss/customerreviews/"
+           "id=%s/sortby=%s/json" % (pays, track_id, tri))
     try:
         req = urllib.request.Request(url, headers=UA)
         with urllib.request.urlopen(req, timeout=timeout) as r:
@@ -102,37 +123,46 @@ def _lire_flux(track_id, tri, timeout):
 
 
 def avis_apple(track_id, timeout=20):
-    """Flux d'avis clients Apple -> extraits reels, cites et attribues.
+    """Cascade de sources -> extraits reels, cites et attribues.
 
-    DEUX tris essayes, car leur disponibilite est differente et partiellement
-    disjointe : mesure faite sur 4 podcasts, `mosthelpful` repond pour l'un
-    quand `mostrecent` ne repond pas, et l'inverse pour deux autres. N'en
-    interroger qu'un seul laisserait la moitie des fiches sans avis.
-    `mosthelpful` d'abord : moins sensible aux vagues d'humeur passageres.
+    On essaie 16 combinaisons boutique x tri avant de conclure a l'absence.
+    Ce n'est pas de la superstition : mesure du 06/09 sur trois temoins,
+      - « Affaires sensibles » ne repond qu'en FR/recent et en GB/helpful ;
+      - « Hondelatte Raconte » ne repond qu'en CH/recent -- alors qu'il
+        renvoyait 50 avis en FR une heure plus tot ;
+      - le meme podcast donne 0 puis 45 avis selon le tri, sur la meme boutique.
+    Les reponses d'Apple sont erratiques et le bridage s'applique par boutique :
+    un « rien » sur une seule combinaison n'est pas une preuve d'absence.
 
-    On ne renvoie AUCUNE distribution de notes, et c'est deliberé. Le flux
-    plafonne a 50 avis : sur « Affaires sensibles » (4,3 de moyenne sur 10 849
-    avis), les 50 plus recents donnaient 29 notes de 1 contre 15 de 5. Afficher
-    cette repartition sous le badge « 4,3 » aurait affiche une statistique
-    fausse et visiblement contradictoire. La moyenne representative existe
-    deja en haut de fiche ; ce qu'on ajoute ici, ce sont des VOIX, pas des
-    chiffres.
+    L'ordre va du plus probable au plus exotique, et on S'ARRETE AU PREMIER
+    SUCCES : la grande majorite des fiches se resout en une ou deux requetes,
+    seules les difficiles descendent la cascade.
+
+    Renvoie (bloc, sources_tentees). `bloc` vaut None si tout a echoue --
+    l'appelant enregistre alors l'epuisement, pour que l'absence soit visible
+    et exploitable plutot que silencieuse.
+
+    On ne renvoie AUCUNE distribution de notes, et c'est deliberé : voir
+    l'en-tete du module.
     """
-    avis = _lire_flux(track_id, "mosthelpful", timeout)
-    if len(avis) < MIN_AVIS:
-        avis = _lire_flux(track_id, "mostrecent", timeout)
-    if len(avis) < MIN_AVIS:
-        return None
-
-    extraits = choisir_extraits(avis)
-    if not extraits:
-        return None
-
-    return {
-        "source": "apple",
-        "releve": date.today().isoformat(),
-        "extraits": extraits,
-    }
+    tentees = []
+    for pays in BOUTIQUES:
+        for tri in TRIS:
+            tentees.append("apple:%s/%s" % (pays, tri))
+            avis = _lire_flux(track_id, tri, timeout, pays=pays)
+            if len(avis) < MIN_AVIS:
+                continue
+            extraits = choisir_extraits(avis)
+            if not extraits:
+                continue
+            return {
+                "source": "apple",
+                "boutique": pays,
+                "tri": tri,
+                "releve": date.today().isoformat(),
+                "extraits": extraits,
+            }, tentees
+    return None, tentees
 
 
 def choisir_extraits(avis):
@@ -241,17 +271,18 @@ def enrich(limit=300, dry_run=False, verbose=True):
     # une seance bridee marque des centaines de fiches « sans avis » et
     # `RETENTER_APRES` les gele 30 jours : on inscrirait une panne reseau comme
     # une verite sur le contenu. Constate le 06/09 en mesurant les sources.
+    epuisees = []
     with ThreadPoolExecutor(max_workers=3) as ex:
         futs = {ex.submit(avis_apple, tid): slug for slug, tid in cibles}
         for fut in as_completed(futs):
             slug = futs[fut]
-            bloc = fut.result()
+            bloc, tentees = fut.result()
+            path, d = fiches[slug]
             if bloc:
                 remplies += 1
                 vides_daffilee = 0
                 etat[slug] = "ok:" + aujourd_hui.isoformat()
                 if not dry_run:
-                    path, d = fiches[slug]
                     d["avis_publics"] = bloc
                     path.write_text(
                         json.dumps(d, ensure_ascii=False, indent=2),
@@ -263,12 +294,52 @@ def enrich(limit=300, dry_run=False, verbose=True):
                 bride = True
             if bride:
                 # On ne conclut RIEN : la fiche reste vierge dans l'etat et
-                # repassera a la prochaine seance.
+                # repassera a la prochaine seance. Un bridage n'est pas une
+                # absence d'avis.
                 continue
             etat[slug] = aujourd_hui.isoformat()
+            # Epuisement enregistre SUR LA FICHE : les 16 sources ont ete
+            # essayees et n'ont rien donne. C'est une information exploitable
+            # -- elle alimente data/_avis_epuises.json, d'ou l'utilisateur peut
+            # partir chercher une alternative, au lieu de deviner quelles fiches
+            # sont muettes parmi huit mille.
+            epuisees.append({
+                "slug": slug,
+                "titre": d.get("title"),
+                "notes_apple": ((d.get("platforms") or {}).get("apple")
+                                or {}).get("ratingCount") or 0,
+                "fiche": "fiches/%s.html" % slug,
+            })
+            if not dry_run:
+                d["avis_publics"] = {
+                    "epuise": True,
+                    "releve": aujourd_hui.isoformat(),
+                    "sources_tentees": tentees,
+                }
+                path.write_text(json.dumps(d, ensure_ascii=False, indent=2),
+                                encoding="utf-8")
 
     if not dry_run:
         ETAT.write_text(json.dumps(etat, ensure_ascii=False), encoding="utf-8")
+        # Rapport cumulatif des fiches epuisees : la liste de travail de
+        # l'utilisateur pour aller chercher un avis ailleurs a la main.
+        if epuisees:
+            ancien = []
+            if RAPPORT.exists():
+                try:
+                    ancien = json.loads(RAPPORT.read_text(encoding="utf-8")).get(
+                        "fiches", [])
+                except Exception:
+                    ancien = []
+            connus = {f.get("slug") for f in ancien}
+            fusion = ancien + [e for e in epuisees if e["slug"] not in connus]
+            fusion.sort(key=lambda f: -(f.get("notes_apple") or 0))
+            RAPPORT.write_text(json.dumps(
+                {"maj": aujourd_hui.isoformat(),
+                 "total": len(fusion),
+                 "sources_essayees_par_fiche": len(BOUTIQUES) * len(TRIS),
+                 "fiches": fusion}, ensure_ascii=False, indent=2),
+                encoding="utf-8")
 
     if verbose:
         suffixe = " (simulation)" if dry_run else ""
@@ -278,6 +349,10 @@ def enrich(limit=300, dry_run=False, verbose=True):
             print("  avis publics : ! source bridee (%d vides d'affilee) — "
                   "seance ecourtee, aucune fiche marquee en echec"
                   % SEUIL_BRIDAGE)
+        if epuisees:
+            print("  avis publics : %d fiche(s) epuisee(s) apres %d sources — "
+                  "voir data/_avis_epuises.json"
+                  % (len(epuisees), len(BOUTIQUES) * len(TRIS)))
     return remplies
 
 
