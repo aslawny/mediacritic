@@ -48,5 +48,23 @@
     }
   ],
   "derniere_activite": "2012-02-17",
-  "frequence_jours": 20
+  "frequence_jours": 20,
+  "avis_publics": {
+    "source": "apple",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "T-Brutus",
+        "titre": "J'aime",
+        "texte": "Publication très irrégulière mais d'assez bonne facture. Rare pour les podcasteurs amateurs."
+      },
+      {
+        "note": 4,
+        "auteur": "Azameba",
+        "titre": "Un ton nouveau!",
+        "texte": "Voilà un ton rafraichissant pour un tour d'horizon de l'actualité qui décoiffe. Vivement le prochain!"
+      }
+    ]
+  }
 }

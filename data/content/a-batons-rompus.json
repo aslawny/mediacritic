@@ -51,5 +51,29 @@
     }
   ],
   "derniere_activite": "2026-08-28",
-  "frequence_jours": 37
+  "frequence_jours": 37,
+  "avis_publics": {
+    "source": "apple",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Sebastien Fr",
+        "titre": "Bonne découverte, podcast de qualité",
+        "texte": "J’ai découvert ce podcast en 2021 grâce à la sérendipité. J’ai pris plaisir à remonter dans les épisodes, en ordre inverse de sortie, et à toujours écouter des discussions souvent critiques, constructives, et surtout qui donnent un bon point de départ pour des échanges plus longs…"
+      },
+      {
+        "note": 2,
+        "auteur": "Toinoux50",
+        "titre": "Intéressant mais",
+        "texte": "Découvert aujourd’hui intéressant mais je ne me sens pas du tout impliqué j’ai vraiment l’impression d’écouter une conversation entre 2 personnes pas fan."
+      },
+      {
+        "note": 5,
+        "auteur": "Performat",
+        "titre": "Le meilleur podcast de technologie",
+        "texte": "À la croisée des humanités et de la technologie, Arnaud et Anthony discutent avec détours (c’est ce qu’on aime) de la manière dont la technologie et ses developments affecte profondément notre rapport à la réalité. Chaque épisode est un délice, c’est mon podcast préféré."
+      }
+    ]
+  }
 }

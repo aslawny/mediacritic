@@ -26,5 +26,29 @@
     "famille"
   ],
   "addedAt": "2026-06-30",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "LA FONTAINE - La Laitière et le Pot au Lait",
+      "date": "2026-09-06"
+    },
+    {
+      "titre": "LA FONTAINE - Le Héron",
+      "date": "2026-09-05"
+    },
+    {
+      "titre": "LA FONTAINE - Le Lièvre et la Tortue",
+      "date": "2026-09-04"
+    },
+    {
+      "titre": "LA FONTAINE - La Poule Aux Oeufs d'Or",
+      "date": "2026-09-03"
+    },
+    {
+      "titre": "LA FONTAINE - Le Chat, la Belette et le Petit Lapin",
+      "date": "2026-09-02"
+    }
+  ],
+  "derniere_activite": "2026-09-06",
+  "frequence_jours": 1
 }

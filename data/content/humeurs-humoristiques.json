@@ -23,5 +23,29 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "Régis Canon : l'humoriste qui fait le bilan de sa saison",
+      "date": "2026-08-28"
+    },
+    {
+      "titre": "Conseils de standup | Episode 4: le booking (se faire programmer)",
+      "date": "2026-08-17"
+    },
+    {
+      "titre": "Râleries de standup (1) - La bouffe, les rats du chapeau et bon courage !",
+      "date": "2026-08-06"
+    },
+    {
+      "titre": "Antony Giuliani : l'humoriste en bande",
+      "date": "2026-07-13"
+    },
+    {
+      "titre": "Carole Matagne et Sum",
+      "date": "2026-05-07"
+    }
+  ],
+  "derniere_activite": "2026-08-28",
+  "frequence_jours": 24
 }

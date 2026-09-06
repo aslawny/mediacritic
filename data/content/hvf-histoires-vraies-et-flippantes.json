@@ -26,5 +26,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "Le FILS DE FLIC devenu l'un des PIRES TUEURS de France : Le cas Patrice Alègre",
+      "date": "2026-08-17"
+    },
+    {
+      "titre": "DANNY ROLLING, le MONSTRE qui a plongé TOUT un CAMPUS dans l'HORREUR",
+      "date": "2026-08-10"
+    },
+    {
+      "titre": "Le TUEUR SANS VISAGE qui a fait trembler TOUTE une ville : le cas du Phantom Killer",
+      "date": "2026-08-03"
+    },
+    {
+      "titre": "Derrière ce FERMIER de 21 ANS se cachait un MONSTRE : L’affaire Justine Vayrac",
+      "date": "2026-07-27"
+    },
+    {
+      "titre": "Derrière ce VOISIN PARFAIT se cachait un PSYCHOPATHE : L’affaire Schoen",
+      "date": "2026-07-20"
+    }
+  ],
+  "derniere_activite": "2026-08-17",
+  "frequence_jours": 7
 }

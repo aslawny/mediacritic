@@ -27,5 +27,29 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "IA COGNITO - EP09 - La Recherche Opérationelle",
+      "date": "2022-03-17"
+    },
+    {
+      "titre": "IA COGNITO - EP08 - L'Analyse Prédictive",
+      "date": "2022-02-15"
+    },
+    {
+      "titre": "IA COGNITO - EP07 - Le NLP",
+      "date": "2021-12-16"
+    },
+    {
+      "titre": "IA COGNITO - EP06 - La Computer Vision",
+      "date": "2021-11-16"
+    },
+    {
+      "titre": "IA COGNITO - EP05 - Les composants du Machine Learning",
+      "date": "2021-09-07"
+    }
+  ],
+  "derniere_activite": "2022-03-17",
+  "frequence_jours": 30
 }

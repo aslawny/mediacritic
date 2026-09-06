@@ -24,5 +24,29 @@
     "rénovation",
     "DIY"
   ],
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "E199 Et si on se rencontrait ?",
+      "date": "2026-08-31"
+    },
+    {
+      "titre": "E198 Pourquoi regardons-nous ailleurs ?",
+      "date": "2026-08-10"
+    },
+    {
+      "titre": "E197 L'amitié, un lien révolutionnaire ?",
+      "date": "2026-07-01"
+    },
+    {
+      "titre": "E196 En France, le nucléaire à tout prix ?",
+      "date": "2026-05-06"
+    },
+    {
+      "titre": "E195 L'égalité en France, une illusion ?",
+      "date": "2026-04-22"
+    }
+  ],
+  "derniere_activite": "2026-08-31",
+  "frequence_jours": 14
 }

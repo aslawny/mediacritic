@@ -25,5 +25,29 @@
     "cuisine"
   ],
   "addedAt": "2026-07-19",
-  "updatedAt": "2026-07-19"
+  "updatedAt": "2026-07-19",
+  "episodes_recents": [
+    {
+      "titre": "Oursons au cœur de Nutella pour le goûter #recette #oursons #gouter #nutella",
+      "date": "2026-09-03"
+    },
+    {
+      "titre": "Le gâteau nantais : facile et ultra-moelleux ! #recette #gateau #gateaunantais #recettefacile",
+      "date": "2026-09-01"
+    },
+    {
+      "titre": "La recette des biscuits façon BN à la confiture #recette #BN #gouter",
+      "date": "2026-08-31"
+    },
+    {
+      "titre": "Tartelettes rustiques aux mûres - sans moule #recette #mure #patisserie #dessert",
+      "date": "2026-08-21"
+    },
+    {
+      "titre": "Bouchées glacées cookie dough façon Ben & Jerry’s #recette #glace",
+      "date": "2026-08-17"
+    }
+  ],
+  "derniere_activite": "2026-09-03",
+  "frequence_jours": 5
 }

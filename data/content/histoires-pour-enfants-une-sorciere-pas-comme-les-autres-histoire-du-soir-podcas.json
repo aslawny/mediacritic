@@ -25,5 +25,25 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "Épisode 3",
+      "date": "2022-12-06"
+    },
+    {
+      "titre": "Épisode 4",
+      "date": "2022-12-06"
+    },
+    {
+      "titre": "Épisode 2",
+      "date": "2022-12-06"
+    },
+    {
+      "titre": "Épisode 1",
+      "date": "2022-12-06"
+    }
+  ],
+  "derniere_activite": "2022-12-06",
+  "frequence_jours": 0
 }

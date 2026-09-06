@@ -26,5 +26,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "J+7 - 29/06/2026 - Biraben qui rira le dernier",
+      "date": "2026-06-30"
+    },
+    {
+      "titre": "J+200 - 19/06/2026 - Fiers 200 (en studio)",
+      "date": "2026-06-23"
+    },
+    {
+      "titre": "J+7 - 15/06/2026 - Chassée Lemoine ?",
+      "date": "2026-06-16"
+    },
+    {
+      "titre": "J+7 - 08/06/2026 - Ciao NRJ",
+      "date": "2026-06-09"
+    },
+    {
+      "titre": "J+7 - 01/06/2026 - nivuniconnu.tv",
+      "date": "2026-06-02"
+    }
+  ],
+  "derniere_activite": "2026-06-30",
+  "frequence_jours": 7
 }

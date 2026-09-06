@@ -24,5 +24,29 @@
     "musique",
     "culture"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "Home sweet Home avec Anne Marie",
+      "date": "2026-06-21"
+    },
+    {
+      "titre": "Home sweet Home avec Elie",
+      "date": "2026-06-14"
+    },
+    {
+      "titre": "Home sweet Home avec Carlos",
+      "date": "2026-06-07"
+    },
+    {
+      "titre": "Home sweet Home avec Maria",
+      "date": "2026-05-31"
+    },
+    {
+      "titre": "Home sweet Home avec Jocelyne",
+      "date": "2026-05-24"
+    }
+  ],
+  "derniere_activite": "2026-06-21",
+  "frequence_jours": 7
 }

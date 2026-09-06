@@ -25,5 +25,29 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "Le grand débrief post-vacances",
+      "date": "2026-09-01"
+    },
+    {
+      "titre": "Oui ou non sans débattre",
+      "date": "2026-07-28"
+    },
+    {
+      "titre": "On fête les 100 épisodes !",
+      "date": "2026-07-21"
+    },
+    {
+      "titre": "On teste notre culture générale avec Etoiles",
+      "date": "2026-07-14"
+    },
+    {
+      "titre": "On essaie d'aimer ce qu'on déteste",
+      "date": "2026-07-07"
+    }
+  ],
+  "derniere_activite": "2026-09-01",
+  "frequence_jours": 7
 }

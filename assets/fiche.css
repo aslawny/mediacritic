@@ -95,6 +95,17 @@ footer a:hover{color:var(--c-orange)}
 .ep-list li{display:flex;gap:12px;align-items:baseline;font-size:.88rem;color:var(--c-muted2);padding-bottom:8px;border-bottom:1px solid var(--c-border)}
 .ep-list li:last-child{border-bottom:0;padding-bottom:0}
 .ep-date{flex:0 0 84px;font-size:.75rem;color:var(--c-muted);font-variant-numeric:tabular-nums}
+/* Avis publics : extraits reels cites, jamais de texte redige ni de
+   repartition de notes (voir bloc_avis) */
+.av-liste{list-style:none;display:flex;flex-direction:column;gap:12px;margin-top:14px}
+.av-item{background:rgba(255,255,255,.03);border:1px solid var(--c-border);border-radius:10px;padding:13px 16px}
+.av-tete{display:flex;align-items:baseline;gap:9px;flex-wrap:wrap;margin-bottom:5px}
+.av-note{color:var(--c-gold);font-size:.82rem;letter-spacing:.06em}
+.av-titre{font-weight:600;font-size:.9rem;color:var(--c-text)}
+.av-auteur{font-size:.75rem;color:var(--c-muted)}
+.av-texte{font-size:.87rem;line-height:1.65;color:var(--c-muted2)}
+.av-source{margin-top:14px;font-size:.75rem;color:var(--c-muted)}
+.av-source a{color:var(--c-orange);font-weight:600}
 @media(max-width:520px){
 .sim-grid{grid-template-columns:repeat(auto-fill,minmax(104px,1fr));gap:11px}
 .ep-list li{flex-direction:column;gap:2px}

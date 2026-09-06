@@ -51,5 +51,29 @@
     }
   ],
   "derniere_activite": "2026-07-02",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Caroline_0710",
+        "titre": "Une belle rencontre",
+        "texte": "J’ai découvert Mounia au détour d’un post LinkedIn. Son ton et son propos, à la fois très humains, très accessibles et très profonds, m’ont donné envie de découvrir son podcast, 108 milliards. Je suis une grosse consommatrice de podcasts et le sien figure parmi mes favoris.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Anne8675",
+        "titre": "Podcast génial pour se comprendre et reprendre les rênes de sa vie !",
+        "texte": "J’ai découvert Mounia par hasard au détour d’un post LinkedIn. J’ai alors écouté tous les épisodes de son podcast et j’ai trouvé cela passionnant.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Raph_T",
+        "titre": "Simple, pratique et efficace",
+        "texte": "Je triche : j’ai eu Mounia en coach direct, et je le dis sans rougir, ca a contribuer à changer ma vie. Après un passage psy, j’avais compris le pourquoi j’étais comme je suis, mais rien sur le comment changer, il me manquait des actions concrètes a mettre en places Elle m’a tout…"
+      }
+    ]
+  }
 }

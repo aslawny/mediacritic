@@ -50,5 +50,29 @@
     }
   ],
   "derniere_activite": "2026-08-28",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Moz Austrian",
+        "titre": "De la qualité et du débat",
+        "texte": "Un programme de qualité, traitant des sujets d'actualité. Parfois consensuels, les débats audont toujours le mérite d'aborder en des termes clairs des sujets qui ne sont pas toujours simples."
+      },
+      {
+        "note": 1,
+        "auteur": "charlottealarcon",
+        "titre": "Aléatoire",
+        "texte": "Il serait bien de régler le problème de publication aléatoire Plus de podcast pendant deux semaines puis publication de l’ensemble des épisodes d’un coup… on parle d’actualité, on ne va pas écouter 2 semaines après…."
+      },
+      {
+        "note": 5,
+        "auteur": "mathfrançais",
+        "titre": "Qualité des invités",
+        "texte": "Les invités ont toujours un avis intéressant. Mais pourquoi ne pas inviter un enseignant pour parler de l’école? Une fois de plus, nous sommes dépossédés de notre expertise."
+      }
+    ]
+  }
 }

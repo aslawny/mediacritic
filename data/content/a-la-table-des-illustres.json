@@ -50,5 +50,29 @@
     }
   ],
   "derniere_activite": "2026-06-30",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "globephil",
+        "titre": "Sublime surprise 🥰",
+        "texte": "Merveilleuse petite douceur que ce podcast ! Très bien écrit, parfaitement réalisé, tout est juste et goûtu. Anne Inquimbert nous ravi les oreilles autant que les papilles."
+      },
+      {
+        "note": 5,
+        "auteur": "LaurentLauMa",
+        "titre": "Amuse bouche 🍽️",
+        "texte": "Si le midi vous avez quelques pas à faire pour aller déjeuner, profitez-en pour écouter l’un de ces alléchants épisodes et savourez-le."
+      },
+      {
+        "note": 5,
+        "auteur": "123jufred",
+        "titre": "Très chouette ce podcast !",
+        "texte": "J adore ce podcast qui allie gastronomie , art et littérature !"
+      }
+    ]
+  }
 }

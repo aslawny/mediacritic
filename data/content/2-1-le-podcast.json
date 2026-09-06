@@ -48,5 +48,23 @@
     }
   ],
   "derniere_activite": "2025-11-14",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "TOM BAC",
+        "titre": "Magnifique!",
+        "texte": "L’émission la plus inutile de toute la sphère Podcast… l’orthophoniste de Rabah doit rouler en Bentley tellement il a de taf mais bordel que c’est bon! Un duo fort sympathique, des punchlines sans concession, continuez comme ça mes p’tit lardons! (Enfin je me comprends)"
+      },
+      {
+        "note": 5,
+        "auteur": "laina_jones",
+        "titre": "Très bonne découverte",
+        "texte": "Il y a toujours un moment dans chaque épisode où je pouffe littéralement de rire. Le duo Greg / Rabath fonctionne super bien !"
+      }
+    ]
+  }
 }

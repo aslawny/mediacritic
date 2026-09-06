@@ -23,5 +23,29 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "La Team RMC en route pour les JO du dimanche 18 août 2024",
+      "date": "2024-08-18"
+    },
+    {
+      "titre": "La Team RMC en route pour les JO du samedi 17 août 2024",
+      "date": "2024-08-17"
+    },
+    {
+      "titre": "Intégrale JO Paris 2024 du 12 août - 15h/18h",
+      "date": "2024-08-12"
+    },
+    {
+      "titre": "La matinale olympique du lundi 12 août 2024 - 6h30/9h",
+      "date": "2024-08-12"
+    },
+    {
+      "titre": "La matinale olympique du 12 août - 8h/9h",
+      "date": "2024-08-12"
+    }
+  ],
+  "derniere_activite": "2024-08-18",
+  "frequence_jours": 0
 }

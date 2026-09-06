@@ -24,5 +24,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "1486e émission - Camille Joliet et Louis Lienhart",
+      "date": "2026-09-05"
+    },
+    {
+      "titre": "1485e émission - Paroles de vignerons : construire la filière vin de demain",
+      "date": "2026-07-06"
+    },
+    {
+      "titre": "1484e émission - Du vignoble à la bouteille : l’aventure du bouchon en Pyrénées-Orientales",
+      "date": "2026-07-06"
+    },
+    {
+      "titre": "1483e émission - Cyril Laudet et Sonia Ozanne",
+      "date": "2026-06-28"
+    },
+    {
+      "titre": "1482e émission - Véronique Bourrigaud et Elise Gaillard",
+      "date": "2026-06-27"
+    }
+  ],
+  "derniere_activite": "2026-09-05",
+  "frequence_jours": 6
 }

@@ -28,5 +28,29 @@
     "tech",
     "numérique"
   ],
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "#348.exe - Digital Substrate: Au-delà du framework : quand l'infrastructure devient un Data OS par Gabriel de ",
+      "date": "2026-09-04"
+    },
+    {
+      "titre": "#372.src - Dev AI: Les bests practices pour construire un modèle avec Gabriel de Marmiesse",
+      "date": "2026-09-02"
+    },
+    {
+      "titre": "#347.exe - Vibe Coding: Coder, c'est valider : prototyper, jeter, recommencer par Sébastien Deleuze",
+      "date": "2026-08-28"
+    },
+    {
+      "titre": "#371.src - Everyone can build: La révolution du code ouvert chez Alan avec Alexandre Gerlic",
+      "date": "2026-08-26"
+    },
+    {
+      "titre": "#370.bin - Intelligence(s): Apprentissage: Stocker la bonne information au bon endroit avec Mathieu Hainselin",
+      "date": "2026-08-19"
+    }
+  ],
+  "derniere_activite": "2026-09-04",
+  "frequence_jours": 6
 }

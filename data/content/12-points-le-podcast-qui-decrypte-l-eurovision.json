@@ -51,5 +51,29 @@
     }
   ],
   "derniere_activite": "2026-06-10",
-  "frequence_jours": 4
+  "frequence_jours": 4,
+  "avis_publics": {
+    "source": "apple",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Baby Boy 24",
+        "titre": "Eurovision toute l’année !",
+        "texte": "Enfin, une émission dédiée à l’Eurovision et en français!!! Entre petite anecdote, info sur ce qu’il va se passer dans l’avenir du concours, des fous-rires et j’en passe; si vous êtes fan du concours ou si vous voulez en apprendre plus sur l’histoire de l’Eurovision et bien ce po…"
+      },
+      {
+        "note": 1,
+        "auteur": "natsparis",
+        "titre": "Waterloo",
+        "texte": "Quand une bande de joyeux drilles se mettent à faire de la politique et mènent ce podcast rempli d’étoiles vers Waterloo. Mes chers amis je vous dis merci pour tout, et au revoir 🥂"
+      },
+      {
+        "note": 5,
+        "auteur": "Bertwee",
+        "titre": "Très drôle et instructif !",
+        "texte": "Je ne pensais pas qu’il y aurait autant à dire sur l’Eurovision, ni avec autant d’humour ! Les chroniqueurs abordent des sujets très divers (les règles du concours, les enjeux géopolitiques, la mode…), et on découvre aussi des performances et artistes qui ont… plus ou moins bien…"
+      }
+    ]
+  }
 }

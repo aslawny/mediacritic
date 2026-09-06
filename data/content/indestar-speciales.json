@@ -25,5 +25,29 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-05-08"
+  "updatedAt": "2026-05-08",
+  "episodes_recents": [
+    {
+      "titre": "SPECIALE - Libre antenne",
+      "date": "2025-04-09"
+    },
+    {
+      "titre": "SPECIALE - Emission noel",
+      "date": "2024-12-23"
+    },
+    {
+      "titre": "SPECIALE - Le Debat sante",
+      "date": "2024-11-24"
+    },
+    {
+      "titre": "SPECIALE - Libre antenne",
+      "date": "2024-04-10"
+    },
+    {
+      "titre": "SPECIALE - Noel",
+      "date": "2023-12-16"
+    }
+  ],
+  "derniere_activite": "2025-04-09",
+  "frequence_jours": 27
 }

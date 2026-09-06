@@ -27,5 +27,29 @@
     "cuisine"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "La fin du podcast et le renouveau: merci à tous !",
+      "date": "2023-12-19"
+    },
+    {
+      "titre": "Richard Branson - Virgin: la conquête du ciel - Ep 2",
+      "date": "2023-12-12"
+    },
+    {
+      "titre": "Richard Branson - Virgin: une création folle - Ep 1",
+      "date": "2023-12-12"
+    },
+    {
+      "titre": "Pierre Castel: après le vin, la bière africaine - Ep 2",
+      "date": "2023-11-28"
+    },
+    {
+      "titre": "Pierre Castel: l'empire du négociant en vin - Ep 1",
+      "date": "2023-11-28"
+    }
+  ],
+  "derniere_activite": "2023-12-19",
+  "frequence_jours": 7
 }

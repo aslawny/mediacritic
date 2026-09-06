@@ -26,5 +26,25 @@
     "famille"
   ],
   "addedAt": "2026-06-18",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "Kangoo le petit kangourou australien",
+      "date": "2021-01-13"
+    },
+    {
+      "titre": "Pinpin, le petit lapin qui déménage",
+      "date": "2021-01-12"
+    },
+    {
+      "titre": "Gigi la petite girafe qui voulait gagner la course",
+      "date": "2021-01-11"
+    },
+    {
+      "titre": "Coco la coccinelle qui voulait déployer ses ailes",
+      "date": "2021-01-08"
+    }
+  ],
+  "derniere_activite": "2021-01-13",
+  "frequence_jours": 1
 }

@@ -23,5 +23,29 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "Vendredi 3 Juillet 2026",
+      "date": "2026-07-03"
+    },
+    {
+      "titre": "Samedi 27 Juin 2026",
+      "date": "2026-06-27"
+    },
+    {
+      "titre": "Vendredi 19 Juin 2026",
+      "date": "2026-06-19"
+    },
+    {
+      "titre": "Vendredi 12 Juin 2026",
+      "date": "2026-06-12"
+    },
+    {
+      "titre": "Vendredi 5 Juin 2026",
+      "date": "2026-06-05"
+    }
+  ],
+  "derniere_activite": "2026-07-03",
+  "frequence_jours": 7
 }

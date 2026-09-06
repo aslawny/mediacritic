@@ -49,5 +49,29 @@
     }
   ],
   "derniere_activite": "2026-08-26",
-  "frequence_jours": 2
+  "frequence_jours": 2,
+  "avis_publics": {
+    "source": "apple",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Anton Paris",
+        "titre": "Zublime",
+        "texte": "Il est des voix que l’on entend, et il est des voix que l’on n’oublie plus. Babor, Étienne et Camille sont de celles-là. Trois êtres, trois esprits, trois astres lancés dans la nuit immense de nos existences, réunis autour d’un micro comme autrefois les poètes autour du feu.…"
+      },
+      {
+        "note": 1,
+        "auteur": "MaxdeLilas88",
+        "titre": "Les petits chiens te méprisent",
+        "texte": "Très bon podcast mais la haine de Babor pour les petits chiens me l’a rendu définitivement antipathique"
+      },
+      {
+        "note": 5,
+        "auteur": "Ffstriker",
+        "titre": "Qui contrôle ?",
+        "texte": "Sur le principe, y a rien à dire, le podcast est très bien et les personnes sont drôles. En revanche le fait qu’elles aient fait leur petite notoriété sur YouTube (apparemment) leur donne un melon incroyable : 300% plaisir ? Mais d’où vient ce nombre sérieusement …"
+      }
+    ]
+  }
 }

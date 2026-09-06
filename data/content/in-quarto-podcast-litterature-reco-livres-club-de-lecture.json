@@ -26,5 +26,29 @@
     "livres",
     "culture"
   ],
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "Ex Libris : Le métier d'éditrice - on vole le travail des auteurices ?",
+      "date": "2026-08-02"
+    },
+    {
+      "titre": "FAQ - des reco juste pour vous !",
+      "date": "2026-07-23"
+    },
+    {
+      "titre": "Ex Libris : Les formats - audiobook, liseuse, papier",
+      "date": "2026-07-19"
+    },
+    {
+      "titre": "CES LECTURES SANS PRISE DE TÊTE - pour glander au soleil",
+      "date": "2026-07-09"
+    },
+    {
+      "titre": "BILAN LECTURE DE MI-ANNÉE - 6 mois de coups de cœur livresques",
+      "date": "2026-06-25"
+    }
+  ],
+  "derniere_activite": "2026-08-02",
+  "frequence_jours": 10
 }

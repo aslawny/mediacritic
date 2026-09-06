@@ -49,5 +49,29 @@
     }
   ],
   "derniere_activite": "2025-07-27",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "DenisTheLion",
+        "titre": "Le plus motivant des Poscasts",
+        "texte": "Un podcast sans chichi, juste un gars qui vous parle. Simple, percutant, marrant, motivant. Le meilleur Podcast pour réfléchir un peu à tout (la vie, l’actu, la santé, le sport,…), se prendre des pieds au cu*, se réveiller et arrêter d’être une grosse merd*.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Cassandra.brd",
+        "titre": "A fuir",
+        "texte": "Il est misogyne et grossophobe c’est propos sont intolérables"
+      },
+      {
+        "note": 5,
+        "auteur": "Sébastien Gyt",
+        "titre": "3 ans de régal",
+        "texte": "Pour répondre à une note d’un pnj qui se sent viser dans les critiques du raptor: prend ta vie en main, devient une meilleur version de toi même et tout va bien se passer! Si tu te sent insulter, il faut se remettre en question je pense.…"
+      }
+    ]
+  }
 }

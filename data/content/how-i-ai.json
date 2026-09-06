@@ -25,5 +25,29 @@
     "numerique"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-04",
+  "episodes_recents": [
+    {
+      "titre": "GPT-6 Astra is a banger - here’s everything I’ve built",
+      "date": "2026-09-03"
+    },
+    {
+      "titre": "Grok Bot vs. OpenClaw: How I replaced my entire agent stack",
+      "date": "2026-09-02"
+    },
+    {
+      "titre": "How I turned Claude into a self-improving PM assistant | Daniel Blum (PM, Melio)",
+      "date": "2026-08-31"
+    },
+    {
+      "titre": "I spent $20,000 on Devin in a month. Here’s what I learned | Ryan Carson (solo founder)",
+      "date": "2026-08-24"
+    },
+    {
+      "titre": "I tested Grok Bot, Grok 4.6, and Cursor Origin - here’s my honest take",
+      "date": "2026-08-18"
+    }
+  ],
+  "derniere_activite": "2026-09-03",
+  "frequence_jours": 2
 }

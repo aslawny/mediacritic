@@ -51,5 +51,29 @@
     }
   ],
   "derniere_activite": "2025-10-23",
-  "frequence_jours": 41
+  "frequence_jours": 41,
+  "avis_publics": {
+    "source": "apple",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "thie. L",
+        "titre": "Bravo",
+        "texte": "Merci Julie pour tous ces podcasts surtout ce dernier avec Bertrand et Théo de septime. Une véritable immersion dans leur univers en plein confinement ! Top. Du plaisir de l’émotion de la transparence . Deux personnage très engagés que j’admire ... continuez thierry"
+      },
+      {
+        "note": 5,
+        "auteur": "JulesU4",
+        "titre": "Mon rêve",
+        "texte": "C’est super cette idée d’interroger des chefs et d’autres personnes. Cela donne des idées pour plus tard, si on veut avoir notre propre restaurant. J’espère que dans quelques années vous continuerez à interroger les chefs comme ça je pourrais parler moi aussi..."
+      },
+      {
+        "note": 5,
+        "auteur": "MarineNoret",
+        "titre": "MERCI JULIE",
+        "texte": "Merci Julie pour ce super podcast, toujours un plaisir de t’écouter épisode après épisode ! Inspirant et qui nous fait saliver .... j’ai adoré également l’expérience de l’episode avec public chez Maison Plisson ! 🙂"
+      }
+    ]
+  }
 }

@@ -8,7 +8,7 @@
     "culture geek",
     "loisirs"
   ],
-  "description": "",
+  "description": "Ein Podcast von drei Typen die behaupten sie kennen sich mit Animes, Mangas und allem was dazu gehört aus. Naja wir geben unser Bestes. Wie wir uns anstellen könnt ihr selber herausfinden. Ein muss für alle Anime Fans und die, die es werden wollen.",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/32/55/9a/32559a22-542a-ccd8-2677-d363618a95fd/mza_2240845986194970210.png/600x600bb.jpg",
   "language": "Animation et manga",
   "platforms": {
@@ -26,5 +26,29 @@
     "culture"
   ],
   "addedAt": "2026-07-15",
-  "updatedAt": "2026-07-15"
+  "updatedAt": "2026-07-15",
+  "episodes_recents": [
+    {
+      "titre": "Folge 247 - Fate Strange Fake",
+      "date": "2026-09-05"
+    },
+    {
+      "titre": "Folge 246 - The Beginning After The End Staffel 2",
+      "date": "2026-08-29"
+    },
+    {
+      "titre": "Folge 245 - Marriagetoxin",
+      "date": "2026-08-22"
+    },
+    {
+      "titre": "Folge 244 - JoJo's Bizzare Adventure: Phantom Blood",
+      "date": "2026-08-15"
+    },
+    {
+      "titre": "Folge 243 - Baki-Dou Teil 2",
+      "date": "2026-08-08"
+    }
+  ],
+  "derniere_activite": "2026-09-05",
+  "frequence_jours": 7
 }

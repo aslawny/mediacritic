@@ -49,5 +49,29 @@
     }
   ],
   "derniere_activite": "2026-04-27",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "releve": "2026-09-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Johny AimeUn de Srouji",
+        "titre": "Tout simplement excellent !",
+        "texte": "Podcast très intéressant et varié. Les sujets sont bons, le son est de qualité et l'ambiance musicale soignée et agréable. A écouter donc régulièrement car c'est du bel ouvrage. Bravo Rémi et tu as toute mon admiration devant le travail accompli.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Akhcheeese",
+        "titre": "Inspirant et enrichissant !",
+        "texte": "Les meilleures success story de la Tech sont sur 135 grammes avec des intervenants de qualité et un traitement éditorial analytique sans langue de bois. 135 grammes est le podcast d’information incontournable pour les professionnels IT les plus exigeants …"
+      },
+      {
+        "note": 5,
+        "auteur": "FredPerl",
+        "titre": "Génial ! 👍 ",
+        "texte": "J’ai découvert l’auteur du podcast sur ClubHouse par hasard et je suis vraiment heureux qu’un tel podcast existe. C’est La bonne nouvelle de la semaine et je vous conseille vivement cette mine d’information et de retour d’expériences ! Bravo 🎉"
+      }
+    ]
+  }
 }
