@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/radio-paillettes/id1641328244?uo=2",
       "trackId": 1641328244,
       "rating": 4.9,
-      "ratingCount": 1041,
+      "ratingCount": 1042,
       "episodeCount": null
     }
   },
@@ -26,5 +26,31 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "us",
+    "tri": "mosthelpful",
+    "releve": "2026-09-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "benebenusa",
+        "titre": "Bon… ils disent pas bonjour … mais on les adore !!!",
+        "texte": "😆😆😆 Blague à part… C’était pas facile de couper le lien avec eux quand leur émission a pris fin … grosse grosse tristesse …. mais par bonheur, ils ont continué à tisser le lien avec leurs paillettes ou avec de nouvelles paillettes …"
+      },
+      {
+        "note": 5,
+        "auteur": "Sourele de Miami",
+        "titre": "Paillettes dans nos oreilles",
+        "texte": "Mais non ça n est pas Kevin!!!! Ce sont nos paillettes, Manu, Mélanie,Nico, Clémen et Ginger qui sont là pour faire déborder nos cœurs!!!! Si vous aimez la bibine, si vous aimez la mauvaise foi, si vous voulez vous décrocher la mâchoire rdv ici!!!!! Bon si vous aimez les poules,…"
+      },
+      {
+        "note": 5,
+        "auteur": "Oliliparis",
+        "titre": "Meilleur podcast de potes!",
+        "texte": "Bienveillance, humour and vérité. On adore les écouter à longueur de journée!"
+      }
+    ]
+  }
 }

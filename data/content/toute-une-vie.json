@@ -26,5 +26,31 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Chick_habit",
+        "titre": "Excellente série de 5 épisodes",
+        "texte": "Excellente série de 5 épisodes avec des commentateurs de très grande qualité (pontes universitaires, médecins légistes, etc). J’ai appris plein de choses sur ce personnage admirable de notre histoire occidentale.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Chabrol24",
+        "titre": "Cléopatre joue du piano",
+        "texte": "L’émission sur Cléopatre est en fait une émission de musique classique 😎😎"
+      },
+      {
+        "note": 5,
+        "auteur": "Juliemeric",
+        "titre": "Merveilleuse émission",
+        "texte": "Cette émission permet de découvrir (ou redécouvrir) chaque semaine la vie d'une personne \"ayant marqué son temps\". Le format d'1h laisse place aux silences, aux citations et crée un rythme lent très agréable à suivre.…"
+      }
+    ]
+  }
 }

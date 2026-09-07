@@ -27,7 +27,7 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04",
+  "updatedAt": "2026-09-07",
   "episodes_recents": [
     {
       "titre": "Comment éviter que votre chien devienne agressif ? 😰",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-08-24",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-09-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Chien etna",
+        "titre": "Parfait",
+        "texte": "C’est le premier episode que j’écoute seulement maintenant et je suis bien dégouté de ne pas l’avoir entendu plus tot! Je l’ai vu au pif en cherchant CHIEN dans podcast et je me suis souvenue de la video youtube que j’avais vu par rapport a un jeune chiot qui ne voulait pas appro…"
+      },
+      {
+        "note": 5,
+        "auteur": "Cafouillon",
+        "titre": "Chien au resto",
+        "texte": "Je ne prendrai plus jamais mon chien au resto car j’ai bien vu que c’était inconfortable pour lui . Alors pourquoi lui imposer ça ! Par contre j’en ai vu qui pouvait passer deux heures sous une table sans broncher. Donc oui évidemment ça dépend du chien.…"
+      },
+      {
+        "note": 5,
+        "auteur": "kiosaku",
+        "titre": "Des pros",
+        "texte": "Voilà des gars qui vont droit à l’essentiel sans faire de show ! Ils sont top. Si plus de pseudos experts pouvaient avoir le même niveau et la même compréhension des binômes chiens/maîtres, il y aurait beaucoup moins de drames ! Merci à vous ."
+      }
+    ]
+  }
 }

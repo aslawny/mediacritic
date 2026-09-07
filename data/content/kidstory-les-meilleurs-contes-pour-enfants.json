@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/kidstory-les-meilleurs-contes-pour-enfants/id1489621162?uo=2",
       "trackId": 1489621162,
       "rating": 3.6,
-      "ratingCount": 754,
+      "ratingCount": 755,
       "episodeCount": null
     }
   },
@@ -25,5 +25,29 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "Frérot et Soeurette, de Jacob et Wilhelm Grimm",
+      "date": "2026-09-07"
+    },
+    {
+      "titre": "Les Voisins, de Hans Christian Andersen",
+      "date": "2026-09-07"
+    },
+    {
+      "titre": "Aglaé la chèvre prétentieuse, de Benjamin Rabier",
+      "date": "2026-09-06"
+    },
+    {
+      "titre": "Perpétue, de Benjamin Rabier",
+      "date": "2026-09-06"
+    },
+    {
+      "titre": "Sidonie la Radoteuse, de Benjamin Rabier",
+      "date": "2026-09-05"
+    }
+  ],
+  "derniere_activite": "2026-09-07",
+  "frequence_jours": 0
 }

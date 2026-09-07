@@ -25,7 +25,7 @@
     "histoire"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-09-04",
+  "updatedAt": "2026-09-07",
   "episodes_recents": [
     {
       "titre": "#45 LE RETOUR DE LA VENGEANCE DE BUSINESS EN BAGNOLE (je réponds à vos questions)",
@@ -49,5 +49,27 @@
     }
   ],
   "derniere_activite": "2026-06-01",
-  "frequence_jours": 125
+  "frequence_jours": 125,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-09-07",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

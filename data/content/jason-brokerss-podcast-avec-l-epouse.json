@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/jason-brokerss-podcast-avec-l%C3%A9pouse/id1780833447?uo=2",
       "trackId": 1780833447,
       "rating": 4.8,
-      "ratingCount": 284,
+      "ratingCount": 285,
       "episodeCount": null
     }
   },
@@ -27,5 +27,29 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "Surprise",
+      "date": "2026-08-10"
+    },
+    {
+      "titre": "En détente",
+      "date": "2026-08-03"
+    },
+    {
+      "titre": "Les activités",
+      "date": "2026-07-27"
+    },
+    {
+      "titre": "Les maîtresses",
+      "date": "2026-07-20"
+    },
+    {
+      "titre": "Dans 10 ans",
+      "date": "2026-06-22"
+    }
+  ],
+  "derniere_activite": "2026-08-10",
+  "frequence_jours": 7
 }

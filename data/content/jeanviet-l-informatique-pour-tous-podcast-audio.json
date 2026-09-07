@@ -24,5 +24,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "Comment parler d'IA en public sans raconter n'importe quoi ? avec Mick Levy (iA MANiA)",
+      "date": "2026-05-27"
+    },
+    {
+      "titre": "Comment gagner de l'argent sur YouTube en 2026 grâce à l'IA ? avec Boris et Marko du Labo des Réseaux",
+      "date": "2026-04-07"
+    },
+    {
+      "titre": "Comment devenir CEO ? D'expert SEO à PDG d'une boîte à 90M€ (avec Sébastien Venturini)",
+      "date": "2026-03-31"
+    },
+    {
+      "titre": "Créer un clip vidéo Full IA : Le Making-Of de Coeur Galactique avec Etienne Auger (Vzeeble)",
+      "date": "2025-09-28"
+    },
+    {
+      "titre": "ChatGPT, Claude, Mistral : Le DRH d'Orange Business, Laurent Aufils, révèle son usage des IA",
+      "date": "2025-05-26"
+    }
+  ],
+  "derniere_activite": "2026-05-27",
+  "frequence_jours": 35
 }

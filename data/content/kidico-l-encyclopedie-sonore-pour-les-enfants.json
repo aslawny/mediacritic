@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/kidico-lencyclop%C3%A9die-sonore-pour-les-enfants/id1479198522?uo=2",
       "trackId": 1479198522,
       "rating": 4.4,
-      "ratingCount": 1312,
+      "ratingCount": 1313,
       "episodeCount": null
     }
   },
@@ -25,5 +25,55 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-09-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lars&Arno",
+        "titre": "Arno et Lars d’Anvers",
+        "texte": "On adore votre podcast et mes parents aussi 😉, petite suggestion pour un future sujet: l’Égypte ancienne et ses pharaons ou alors La Musique 🧡"
+      },
+      {
+        "note": 5,
+        "auteur": "suzten",
+        "titre": "Super",
+        "texte": "Mes enfants aiment beaucoup. Et les parents aussi d’ailleurs. Très bien fait. Assez interactif!"
+      },
+      {
+        "note": 5,
+        "auteur": "ketjep",
+        "titre": "Bravo",
+        "texte": "Après avoir essayé plein de podcasts sans succès ma fille a accroché tout de suite"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "A comme Araignée",
+      "date": "2026-09-06"
+    },
+    {
+      "titre": "A comme Amour",
+      "date": "2026-09-05"
+    },
+    {
+      "titre": "L comme Lune",
+      "date": "2026-09-03"
+    },
+    {
+      "titre": "B comme Beyblade",
+      "date": "2026-09-02"
+    },
+    {
+      "titre": "J comme Japon",
+      "date": "2026-08-30"
+    }
+  ],
+  "derniere_activite": "2026-09-06",
+  "frequence_jours": 1
 }

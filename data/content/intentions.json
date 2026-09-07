@@ -25,7 +25,7 @@
     "culture"
   ],
   "addedAt": "2026-06-24",
-  "updatedAt": "2026-09-04",
+  "updatedAt": "2026-09-07",
   "episodes_recents": [
     {
       "titre": "N°75 - Bilan : Un an après la fermeture de notre entreprise (argent, santé mentale et futurs projets)",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2023-07-13",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lauremi2005",
+        "titre": "D’utilité publique",
+        "texte": "Bonjour Isadora et Marisa! Je vous suis depuis quelques années, sur YouTube, Insta, et ce podcast, c’est une mine d’or! C’est l’épisode sur le capitalisme intériorisé qui m’a poussé à écrire un commentaire.…"
+      },
+      {
+        "note": 1,
+        "auteur": "sunsbh",
+        "titre": "Decevant",
+        "texte": "D’habitude j’aime beaucoup ce podcast mais l épisode 54 est vraiment désagréable à écouter, too much ( intonation, phrases de dev perso bateau, les « ok » clichés… bref j ‘ai tenu 15mn…"
+      },
+      {
+        "note": 5,
+        "auteur": "Stefoccitanie",
+        "titre": "Un podcast passionnant",
+        "texte": "J’ai été passionnée par ce sujet. Je suis concernée par ce capitalisme intégré. De salariée j’ai ouvert un cabinet en libéral et peu à peu tous les points se sont manifestés jusqu’au burn-out.…"
+      }
+    ]
+  }
 }

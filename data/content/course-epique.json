@@ -26,7 +26,7 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-09-04",
+  "updatedAt": "2026-09-07",
   "episodes_recents": [
     {
       "titre": "Le grand débrief de l'UTMB avec Adrien Séguret, Marie Goncalves, Frédéric Tranchand, Virgile Moriset, Yannick ",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-30",
-  "frequence_jours": 2
+  "frequence_jours": 2,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mostrecent",
+    "releve": "2026-09-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Jelly jell-o",
+        "titre": "J’adore ce podcast!",
+        "texte": "Belle variété d’invités, super animateur, vivre tous les événements intéressants!"
+      },
+      {
+        "note": 5,
+        "auteur": "CharlesM1976",
+        "titre": "A écouter si vous aimez la course à pied",
+        "texte": "Très bon podcast qui accompagne de façon agréable nos sorties en course à pied."
+      },
+      {
+        "note": 5,
+        "auteur": "quentquent",
+        "titre": "Merci",
+        "texte": "Super podcast motivant de rencontrer ces athlètes avec autant d’intimité"
+      }
+    ]
+  }
 }

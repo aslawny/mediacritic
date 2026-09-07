@@ -25,5 +25,29 @@
     "cuisine"
   ],
   "addedAt": "2026-07-19",
-  "updatedAt": "2026-07-19"
+  "updatedAt": "2026-07-19",
+  "episodes_recents": [
+    {
+      "titre": "Les croissants à la fraise #croissant #fraise #baking",
+      "date": "2026-04-25"
+    },
+    {
+      "titre": "Les cookies au matcha et chocolat blanc - recette en description #cookies #matcha #baking",
+      "date": "2026-04-16"
+    },
+    {
+      "titre": "La pâte à tartiner au matcha - recette en description #matcha #chocolat #amande",
+      "date": "2026-04-10"
+    },
+    {
+      "titre": "Le croissant sandwich au saumon - recette en description #croissant #croissantsandwich",
+      "date": "2026-04-03"
+    },
+    {
+      "titre": "Le lapin croissant pour Pâques #bonnecuisine #pâques #croissant",
+      "date": "2026-03-22"
+    }
+  ],
+  "derniere_activite": "2026-04-25",
+  "frequence_jours": 13
 }

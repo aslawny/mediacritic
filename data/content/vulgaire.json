@@ -26,5 +26,31 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-09-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "fpizo",
+        "titre": "Super podcast",
+        "texte": "Bonjour, Je vous ecoute depuis quelque semaines et je vous avoue au titre du podcast “vulgaire” j’étais un peu dubitative. En laissant place à ma curiosité, j ai écouté et je fus surprise.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Vic 🏑",
+        "titre": "👎🏽",
+        "texte": "C’est nuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuul"
+      },
+      {
+        "note": 5,
+        "auteur": "piaanoheeart",
+        "titre": "Les francs-maçons",
+        "texte": "J’ai trop ri avec ton podcast sur les Francs-maçons 😂 je suis moi-même franc-maçon et je peux confirmer que c’est exactement comme tu l’as décrit xD (à quelques détails près, c’est du sang d’agneau qu’on boit en réunion) Et sinon, ça m’a fait trop rire car ce fameux Franck Masson…"
+      }
+    ]
+  }
 }

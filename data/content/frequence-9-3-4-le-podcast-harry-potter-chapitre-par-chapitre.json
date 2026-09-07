@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/fr%C3%A9quence-9-3-4-le-podcast-harry-potter-chapitre-par/id1481558724?uo=2",
       "trackId": 1481558724,
       "rating": 4.8,
-      "ratingCount": 1116,
+      "ratingCount": 1117,
       "episodeCount": null
     }
   },
@@ -27,7 +27,7 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04",
+  "updatedAt": "2026-09-07",
   "episodes_recents": [
     {
       "titre": "Au-delà du voile (Harry Potter 5, chapitre 35)",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-07-26",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ch",
+    "tri": "mosthelpful",
+    "releve": "2026-09-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "la fille des livre",
+        "titre": "👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻petit hibou 🦉🦉🦉🦉",
+        "texte": "Je viens d’écouter le chapitre 18 de la chambre des secrets et ça m’a bien fait rire quand Arthur Wesley gronde Ginnie car apparemment il ne faut pas faire confiance à quelques chose capable de penser par lui même …mais n’est ce pas lui qui fait total confiance à la voiture volan…"
+      },
+      {
+        "note": 2,
+        "auteur": "Loulou nutélat 23",
+        "titre": "Pour là voilier",
+        "texte": "Bonjour à vous, je me demandais si les elfes pouvaient à leur mort se transformer en fantôme ou aller dans des tableaux. Je vous adore continuez comme ça ( désoler pour les fautes d’orthographe)"
+      },
+      {
+        "note": 5,
+        "auteur": "Pinkcappuccino",
+        "titre": "Explications, nostalgie et re-lecture",
+        "texte": "Bonjour Je voulais vous dire que j’apprécie beaucoup vos épisodes! J’ai commencé à lire Harry Potter quand il n’y avait que le premier sorti et j’avais 11 ans. Chaque année, j’attendais la sortie du prochain.…"
+      }
+    ]
+  }
 }

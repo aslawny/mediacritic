@@ -23,5 +23,31 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-09-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Anne Mini Waffle",
+        "titre": "Tout simplement le meilleur podcast de tous les temps!",
+        "texte": "Après des heures d'écoute, Henry Michel et ses acolytes (Patrick Patrick, Raphaël Cadum, Marie de Saint-Clair, Bertrand...) sont un peu devenus nos potes, même si eux ne le savent pas.…"
+      },
+      {
+        "note": 5,
+        "auteur": "xylane",
+        "titre": "Fous rires garantis...et ça fait du bien!!!",
+        "texte": "J’adore! Je viens d’écouter tous les épisodes en quelques semaines tout en travaillant et je me demande bien ce que je vais pouvoir écouter à la suite de cet excellent podcast qui m’a fait rire aux éclats plus d’une fois (au risque de paraître pour une débile qui rit toute seule)…"
+      },
+      {
+        "note": 5,
+        "auteur": "Yann Ownymous",
+        "titre": "Agamemnon",
+        "texte": "Plus qu'un podcast, une religion. J'ai en effet un petit autel dans mon salon dédié à Henry Michel et tout le Rivieraverse : Riviera Détente, Ref. Nécessaire, Player Lambda, Spoiler Arrière...…"
+      }
+    ]
+  }
 }

@@ -8,7 +8,7 @@
     "philosophie",
     "societe"
   ],
-  "description": "",
+  "description": "Les dieux et les déesses qui rôdaient autrefois sur la terre de Grèce sont morts depuis longtemps, mais ils ont laissé des traces toujours vives, reprises, choyées. Vous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/81/42/19/8142199a-389f-6764-ced8-0ddf2a2285f1/mza_6393217182210483822.jpg/170x170bb.png",
   "language": "fr",
   "platforms": {
@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/quand-les-dieux-r%C3%B4daient-sur-la-terre/id1643553784?uo=2",
       "trackId": 1643553784,
       "rating": 4.7,
-      "ratingCount": 965,
+      "ratingCount": 967,
       "episodeCount": null
     }
   },
@@ -26,5 +26,27 @@
     "news"
   ],
   "addedAt": "2026-07-21",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-09-07",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

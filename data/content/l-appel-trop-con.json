@@ -14,7 +14,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/lappel-trop-con/id1038934072?uo=2",
       "trackId": 1038934072,
       "rating": 4.6,
-      "ratingCount": 1503,
+      "ratingCount": 1504,
       "episodeCount": null
     }
   },
@@ -24,7 +24,7 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04",
+  "updatedAt": "2026-09-07",
   "avis_publics": {
     "source": "apple",
     "boutique": "ch",
@@ -50,5 +50,29 @@
         "texte": "Mdr incroyable Martin hilarant sa m’apprends a bien faire des canular 🤫"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "PV de bar",
+      "date": "2026-06-26"
+    },
+    {
+      "titre": "Frites fraîches",
+      "date": "2026-06-25"
+    },
+    {
+      "titre": "Remplaçage d’été",
+      "date": "2026-06-24"
+    },
+    {
+      "titre": "Frigo anti–canicule",
+      "date": "2026-06-23"
+    },
+    {
+      "titre": "Dépôt vente partagé",
+      "date": "2026-06-22"
+    }
+  ],
+  "derniere_activite": "2026-06-26",
+  "frequence_jours": 1
 }

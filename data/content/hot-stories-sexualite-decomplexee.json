@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/hot-stories-sexualit%C3%A9-d%C3%A9complex%C3%A9e/id1730034166?uo=2",
       "trackId": 1730034166,
       "rating": 4.7,
-      "ratingCount": 940,
+      "ratingCount": 941,
       "episodeCount": null
     }
   },
@@ -27,5 +27,27 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-09-07",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

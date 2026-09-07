@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/espions-une-histoire-vraie/id1520686401?uo=4",
       "trackId": 1520686401,
       "rating": 4.6,
-      "ratingCount": 1326,
+      "ratingCount": 1327,
       "episodeCount": 13
     }
   },
@@ -24,5 +24,27 @@
   "tags": [
     "histoire"
   ],
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-09-07",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

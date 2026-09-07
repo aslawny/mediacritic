@@ -25,5 +25,29 @@
     "cuisine"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "#21. Margot Lacker - Du bois, du cran et des étoiles",
+      "date": "2026-04-16"
+    },
+    {
+      "titre": "#20. Cédric FASSENET – Mettre le territoire en scène",
+      "date": "2026-03-10"
+    },
+    {
+      "titre": "#19. Xavier THÉVENARD – Courir haut, vivre juste",
+      "date": "2026-01-23"
+    },
+    {
+      "titre": "#18. Jean-Charles ARNAUD – Du Fort des Rousses aux podiums mondiaux : le destin visionnaire de Juraflore",
+      "date": "2025-09-17"
+    },
+    {
+      "titre": "#17. Alexis DELORME – SMOBY, le Jura au cœur du jeu",
+      "date": "2025-06-26"
+    }
+  ],
+  "derniere_activite": "2026-04-16",
+  "frequence_jours": 45
 }

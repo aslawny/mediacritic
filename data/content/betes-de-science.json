@@ -27,7 +27,7 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04",
+  "updatedAt": "2026-09-07",
   "episodes_recents": [
     {
       "titre": "Le chien, fin détecteur... de menteurs REDIFF",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-08-26",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Shadow le hérrison immortel",
+        "titre": "Épisode",
+        "texte": "vous pouvez faire un épisode sur Sonic, Tails, Knukles et Shadow s'il vous plait après tout ce sont des animaux extraterrestres non et vos commentaires négatifs gardez les pour vous et les commentaire des podcasts c'est fait pour parler aux gens des podcasts pas aux commentateurs…"
+      },
+      {
+        "note": 1,
+        "auteur": "Rafa_elygj g du Guy Guy",
+        "titre": "Commentaires",
+        "texte": "Bonjour, je m’appelle Rafaël et j’ai 11 ans je voulais vous dire que j’adorais vos podcast. Vous pouvez faire un podcast sur le panda roux ou le panda. 🩵❤️🩷 🧡💛💚 💙💜🖤"
+      },
+      {
+        "note": 5,
+        "auteur": "Nanoo77",
+        "titre": "Top!!",
+        "texte": "Depuis que nous avons découvert ces podcast nous nous endormons tout les soir avec mon fils de 5 ans en en écoutant un! Mention spéciale pour la baleine qui est juste magnifique ! Seul bémol le bruit de fin quànd « on récapitule « ça me réveil toujours .…"
+      }
+    ]
+  }
 }

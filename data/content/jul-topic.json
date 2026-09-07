@@ -23,5 +23,29 @@
     "musique"
   ],
   "addedAt": "2026-09-06",
-  "updatedAt": "2026-09-06"
+  "updatedAt": "2026-09-06",
+  "episodes_recents": [
+    {
+      "titre": "On oublie pas",
+      "date": "2026-07-16"
+    },
+    {
+      "titre": "Les soucis",
+      "date": "2026-07-16"
+    },
+    {
+      "titre": "J'ai pas d'associé",
+      "date": "2026-05-14"
+    },
+    {
+      "titre": "Le monde est à moi",
+      "date": "2026-05-14"
+    },
+    {
+      "titre": "Coucher du soleil",
+      "date": "2026-05-14"
+    }
+  ],
+  "derniere_activite": "2026-07-16",
+  "frequence_jours": 0
 }

@@ -27,7 +27,7 @@
     "societe"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-09-04",
+  "updatedAt": "2026-09-07",
   "episodes_recents": [
     {
       "titre": "BILAN ÉTÉ 2026 : le point sur ma vie, mon business et mon activité !",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-07-19",
-  "frequence_jours": 20
+  "frequence_jours": 20,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-09-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Thomas Fromwood",
+        "titre": "Masculinité moderne",
+        "texte": "Merci à tous les deux et à tous vos invités pour ce podcast qui fait tellement de bien à écouter! Toutes ces interviews permettent vraiment de se rendre compte que l'on est pas seul, de trouver des solutions pour soi et pour faire avancer les choses en général! Le monde avance en…"
+      },
+      {
+        "note": 5,
+        "auteur": "Yuribelomay",
+        "titre": "À écouter MAIN-TE-NANT",
+        "texte": "Le meilleur podcast que j'ai pu trouver. Je ne peux que le recommander. Merci aux deux merveilleuses personnes qui encadrent ce concentré de bonnes paroles qui sonne comme une mélodie à mes oreilles."
+      },
+      {
+        "note": 5,
+        "auteur": "thibaudd",
+        "titre": "J’adore ce podcast !",
+        "texte": "Merci pour votre boulot à tous les deux pour ce fantastique podcast que j’écoute avec un immense plaisir chaque semaine. Et gros cœur pour Tanguy le Viking dont j’ai rattrapé toutes les vidéos."
+      }
+    ]
+  }
 }

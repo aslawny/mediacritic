@@ -26,5 +26,31 @@
     "histoire"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "PSanto",
+        "titre": "Podcast d’utilité public",
+        "texte": "Ce podcast mériterait d’être d’entendue par toutes les femmes car chacune mérite d’avoir des ambitions dans la vie qu’elle soient familiales professionnelles personnelles.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Oreille attentive",
+        "titre": "Perte de temps",
+        "texte": "Quel dommage d’avoir perdu 15 min en écoutant une épisode listant des problèmes et enjeux dans une situation donnée, sans évoquer des solutions ou, au moins, des questions utiles dans ce cas là. Enfin si ! A la fin il y a une pub pour une formation à acheter de l’autrice.…"
+      },
+      {
+        "note": 5,
+        "auteur": "MaLec83",
+        "titre": "À écouter absolument!!",
+        "texte": "J’ai découvert le podcast de Jenny Chammas pendant le confinement, cela a été une révélation!! J’ai beaucoup appris grâce à ces enseignements riches et puissants.…"
+      }
+    ]
+  }
 }

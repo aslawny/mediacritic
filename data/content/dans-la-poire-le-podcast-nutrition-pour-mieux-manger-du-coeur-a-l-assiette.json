@@ -27,7 +27,7 @@
     "bien-etre"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-09-04",
+  "updatedAt": "2026-09-07",
   "episodes_recents": [
     {
       "titre": "ORGA REPAS : Toujours à court d’idées de repas simples et équilibrés ? Faites plutôt ça",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-01",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "us",
+    "tri": "mostrecent",
+    "releve": "2026-09-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "guletch",
+        "titre": "Mais quel plaisir!",
+        "texte": "Que c’est bon d’écouter ce podcast ! cest du bon sens, des blagues sympas, des extraits de classiques français. C’est vraiment super et ça change de tout ce qu’on entend du type « le meilleur ci, le pire ça... » MERCI D’exister!"
+      },
+      {
+        "note": 5,
+        "auteur": "PaulinehBilly",
+        "titre": "Wouah",
+        "texte": "Merci Charles pour votre façon si simple et agréable d’aborder les sujets importants sur la nourriture. Il n’y a ni culpabilité ni jugement, simplement la présentation objective des notions. J’adore!!!"
+      },
+      {
+        "note": 5,
+        "auteur": "famille Wiest",
+        "titre": "Tellement utile",
+        "texte": "Le podcast qu’il me fallait pour retrouver le goût de manger avec goût plutôt que de gloutonner sans faim ! Merci"
+      }
+    ]
+  }
 }

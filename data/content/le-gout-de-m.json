@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/le-go%C3%BBt-de-m/id1480837383?uo=4",
       "trackId": 1480837383,
       "rating": 4.4,
-      "ratingCount": 948,
+      "ratingCount": 949,
       "episodeCount": 197
     }
   },
@@ -26,5 +26,27 @@
     "cuisine"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-09-07",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

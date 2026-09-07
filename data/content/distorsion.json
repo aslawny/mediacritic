@@ -26,7 +26,7 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04",
+  "updatedAt": "2026-09-07",
   "episodes_recents": [
     {
       "titre": "🎙️Terreur dans la maison Onlyfans [Hors-saison]",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-26",
-  "frequence_jours": 10
+  "frequence_jours": 10,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mostrecent",
+    "releve": "2026-09-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "FunnyGirl_97",
+        "titre": "Merci les gars!",
+        "texte": "Votre podcast se démarque clairement des autres en matière de true crime. Votre préparation impeccable, votre façon bien à vous de présenter et de discuter des cas, votre respect envers les victimes et leurs familles, ainsi que vos analyses toujours pertinentes sont vraiment appr…"
+      },
+      {
+        "note": 1,
+        "auteur": "TeacherMme",
+        "titre": "Copyright? Histoire traduite d’un podcast anglais",
+        "texte": "L’histoire de Baska est racontée EXACTEMENT comme le podcast anglais de Rotten mango, avec les mêmes histoires dans l’ordre, mêmes explications dans le même ordre… traduire un podcast de l’anglais au français, c’est du copyright non …"
+      },
+      {
+        "note": 5,
+        "auteur": "Carolanefortin",
+        "titre": "Un bonjour de l’Est 🩵",
+        "texte": "Coucou les gars, en direct de la Gaspésie (plus précisément Saint-Georges de Malbaie) je me suis fais recommander votre podcast par ma coloc et meilleure amie Audrey Anne Côté, qui est, si je ne me trompe pas, la cousine d’Émile.…"
+      }
+    ]
+  }
 }

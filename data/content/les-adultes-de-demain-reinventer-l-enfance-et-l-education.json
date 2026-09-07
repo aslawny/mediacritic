@@ -27,5 +27,31 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "stef3075",
+        "titre": "Un magnifique podcast",
+        "texte": "Pas toujours facile d’être parent, on se pose tellement de questions au quotidien. Alors ça fait du bien d’écouter un podcast comme celui-ci ! J’y ai trouvé tellement d’idées, d’inspiration et d’informations grâce à la qualité des personnes interviewées et des intervieweuses auss…"
+      },
+      {
+        "note": 5,
+        "auteur": "maman parfaitement imparfaite",
+        "titre": "Une rencontre incroyable",
+        "texte": "Wahouu j’ai du mal à trouver les mots pour dire à quel point j’ai trouvé ce podcast exceptionnel, extraordinaire. Je suis à la fois émue par ces mots, cette réflexion, cette démarche et enthousiaste car je me sens alignée, sur le bon chemin et même si je le sais avec mes tripes e…"
+      },
+      {
+        "note": 5,
+        "auteur": "paulineNicolini",
+        "titre": "Un rendez-vous précieux",
+        "texte": "Ce podcast est une véritable bouffée d’air pour tous ceux qui s’interrogent sur l’éducation, le respect de l’enfant et la place qu’on veut laisser à l’humain dans notre monde. Chaque épisode m’apporte son lot d’émotions, de réflexions et de prises de conscience.…"
+      }
+    ]
+  }
 }

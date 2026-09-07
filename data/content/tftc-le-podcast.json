@@ -27,5 +27,31 @@
     "series"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-09-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Parzival_Flo",
+        "titre": "Un podcast croustillant",
+        "texte": "Grand fan de JB et guiguiguipop depuis les premiers vidéostore sur TFTC, ces podcasts m’enjaillent toujours et me font découvrir des artistes et humoristes géniaux tels que Flore Maquin ou Joe Hume.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Death-Chris",
+        "titre": "Stop les podchiasses",
+        "texte": "C’est plus un podcast de cinéma depuis les podchiasse sont devenu récurrents"
+      },
+      {
+        "note": 5,
+        "auteur": "Bwayne.1",
+        "titre": "Épisode 3",
+        "texte": "Y-a-t-il un pilote dans l’avion ? est bien une référence humoristique à la série Airport des années 70. Il y a cependant un premier film daté de 1957 qui s’intitule « Zéro jour ! », ancêtre des Airport, en ligne directe puisque le même scénariste."
+      }
+    ]
+  }
 }

@@ -25,5 +25,31 @@
     "news"
   ],
   "addedAt": "2026-05-31",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pascale Filosa",
+        "titre": "Excellent Renaud de toi !",
+        "texte": "J’ai beaucoup mais vraiment beaucoup aimé ce texte. Je le fais partager autour de moi avec les gens de ma génération et avec mes enfants car Renault nous a fait aimer la rébellion comme Maxime le Forestier l'avait fait dans les années 70.J’aurais tellement préféré qu’il arrête av…"
+      },
+      {
+        "note": 1,
+        "auteur": "Nknine",
+        "titre": "Bug",
+        "texte": "Impossible à écouter, cela bloque toujours sur le même épisode ! Dommage ."
+      },
+      {
+        "note": 5,
+        "auteur": "(caleidoscope)6",
+        "titre": "caucheMAR",
+        "texte": "et donc en Bretagne le petit lutin qui te grimpe sur le ventre pour te faire faire des cauchemars il à besoin de mettre tes chaussons le pauvre il a froid aux pieds sinon donc si tu mets tes chaussons vers toi, il grimpe sur ton ventre et tu fais eds cauchemars si tu mets tes cha…"
+      }
+    ]
+  }
 }

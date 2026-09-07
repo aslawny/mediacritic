@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/gribouilles/id6807437900?uo=2",
       "trackId": 6807437900,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": null
     }
   },
@@ -25,7 +25,7 @@
     "culture"
   ],
   "addedAt": "2026-09-05",
-  "updatedAt": "2026-09-05",
+  "updatedAt": "2026-09-07",
   "episodes_recents": [
     {
       "titre": "Un carré et un triangle sur une colline",

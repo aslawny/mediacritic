@@ -26,5 +26,31 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "RaphaelXT",
+        "titre": "Au revoir Pomme d’Api",
+        "texte": "Salut Pomme d’Api, j’adore votre podcast et je l’écoute tout les jours mais, je pense que ça y’est, je ne pourrait plus, voyez vous bien, je suis à l’âge de maturité, et j’ai 12 ans. Je pense que je le recommanderais à tout ce qui lis ce message.…"
+      },
+      {
+        "note": 1,
+        "auteur": "La meilleure du 57",
+        "titre": "Chose importante",
+        "texte": "J’ai un copain de classe qui est sexi bah là c’est pareil 🤢🤢🤢🤢🤢🤢🤮🤮🤮🤮🤮🤮"
+      },
+      {
+        "note": 5,
+        "auteur": "11 14",
+        "titre": "Salut à tous !",
+        "texte": "Coucou je m’appelle Amélia et je suis là maman de Clémentine 3ans d’Amanda 8ans et de Stéphanie 11ans. Mes filles aimes beaucoup vos histoires tout les soirs Clémentine me demande de mettre ces histoires en boucle …"
+      }
+    ]
+  }
 }

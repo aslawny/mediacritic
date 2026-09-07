@@ -18,7 +18,10 @@
       "subscribers": 769000
     }
   },
-  "mediacritic": {"ep": 33, "url": "https://www.mediacritic.fr/episodes/kombo.html"},
+  "mediacritic": {
+    "ep": 33,
+    "url": "https://www.mediacritic.fr/episodes/kombo.html"
+  },
   "tags": [
     "gaming",
     "critique",
@@ -26,5 +29,29 @@
     "analyse"
   ],
   "addedAt": "2026-06-21",
-  "updatedAt": "2026-06-21"
+  "updatedAt": "2026-06-21",
+  "episodes_recents": [
+    {
+      "titre": "Le FPS qui devrait être illégal",
+      "date": "2026-07-18"
+    },
+    {
+      "titre": "Il n’y aura jamais un jeu aussi toxique que Dead By Daylight",
+      "date": "2026-05-16"
+    },
+    {
+      "titre": "Le plus grand exploit de l’histoire de World of Warcraft",
+      "date": "2026-03-01"
+    },
+    {
+      "titre": "Le jeu qui a lavé le cerveau de 359 597 personnes",
+      "date": "2026-01-24"
+    },
+    {
+      "titre": "Le jeu qui transforme la routine en PARANOÏA",
+      "date": "2025-11-08"
+    }
+  ],
+  "derniere_activite": "2026-07-18",
+  "frequence_jours": 61
 }

@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/ana%C3%AFs-se-fait-des-films/id1543154650?uo=2",
       "trackId": 1543154650,
       "rating": 4.8,
-      "ratingCount": 1104,
+      "ratingCount": 1105,
       "episodeCount": null
     }
   },
@@ -27,7 +27,7 @@
     "series"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04",
+  "updatedAt": "2026-09-07",
   "episodes_recents": [
     {
       "titre": "[AMIES] Celui où Anaïs découvre l'épisode préféré de Marie",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2021-02-12",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "MatiKiJu",
+        "titre": "Un podcast doudou",
+        "texte": "Tout comme vous avez vos séries/films doudous, vous êtes un de mes podcasts doudou (avec 2hdp et Floodcast. Et peak TV bien sûr !). J’adore, j’aime vous écouter, même lorsque je n’ai pas vu les séries ou les films.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Noujoude-Aida",
+        "titre": "Trop d’informations perso, pas assez de critiques sur les films ou séries.",
+        "texte": "Trop de pubs, de sponsors et d’infos sur la vie personnelle des acteurs plutôt que sur leurs films."
+      },
+      {
+        "note": 5,
+        "auteur": "Anna-Gretta",
+        "titre": "Informatives et récréatives Amies, merci pour vos podcasts !",
+        "texte": "Je vous ai découvertes grâce à votre saison sur le cultissime Friends, que comme Anaïs je n’avais jamais vu. Depuis j’ai presque tout écouté de vous et j’apprends beaucoup sur les fictions abordées par vous.…"
+      }
+    ]
+  }
 }

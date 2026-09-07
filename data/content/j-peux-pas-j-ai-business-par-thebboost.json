@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/jpeux-pas-jai-business-par-thebboost/id1444922726?uo=2",
       "trackId": 1444922726,
       "rating": 4.9,
-      "ratingCount": 1545,
+      "ratingCount": 1546,
       "episodeCount": null
     }
   },
@@ -25,7 +25,7 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04",
+  "updatedAt": "2026-09-07",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-06",
@@ -47,5 +47,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "381. Les 8 tendances réseaux sociaux de la rentrée 2026",
+      "date": "2026-09-07"
+    },
+    {
+      "titre": "[BDF#154] Quand on démarre, on copie tout le monde (et c'est normal)",
+      "date": "2026-09-04"
+    },
+    {
+      "titre": "31 AOÛT - 31 jours de podcasts quotidiens : le bilan et les chiffres",
+      "date": "2026-08-31"
+    },
+    {
+      "titre": "30 AOÛT - D'où viennent vraiment mes clients en 2026 (les coulisses de mon business)",
+      "date": "2026-08-30"
+    },
+    {
+      "titre": "29 AOÛT - Les 3 choses que je ferais si je voulais plus de visibilité en 30 jours (même avec une mini audience",
+      "date": "2026-08-29"
+    }
+  ],
+  "derniere_activite": "2026-09-07",
+  "frequence_jours": 1
 }

@@ -24,5 +24,19 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ch",
+    "tri": "mostrecent",
+    "releve": "2026-09-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "l'alieva",
+        "titre": "Que du bonheur",
+        "texte": "Mieux qu’un shoot de n’importe quoi ces trois minutes , j’adore. Merci"
+      }
+    ]
+  }
 }

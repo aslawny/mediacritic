@@ -13,8 +13,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/la-chronique-de-fiona-g/id6805403004?uo=2",
       "trackId": 6805403004,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": null
     }
   },
@@ -23,5 +23,5 @@
     "humour"
   ],
   "addedAt": "2026-09-02",
-  "updatedAt": "2026-09-02"
+  "updatedAt": "2026-09-07"
 }

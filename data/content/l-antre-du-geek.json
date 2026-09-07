@@ -27,5 +27,29 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-05-17"
+  "updatedAt": "2026-05-17",
+  "episodes_recents": [
+    {
+      "titre": "L'Antre du Geek - 02/09/2026",
+      "date": "2026-09-02"
+    },
+    {
+      "titre": "L'Antre du Geek - 24/06/2026",
+      "date": "2026-06-24"
+    },
+    {
+      "titre": "L'Antre du Geek - 17/06/2026",
+      "date": "2026-06-17"
+    },
+    {
+      "titre": "L'Antre du Geek - 10/06/2026",
+      "date": "2026-06-11"
+    },
+    {
+      "titre": "L'Antre du Geek - 03/06/2026",
+      "date": "2026-06-04"
+    }
+  ],
+  "derniere_activite": "2026-09-02",
+  "frequence_jours": 21
 }

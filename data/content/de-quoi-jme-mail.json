@@ -25,7 +25,7 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04",
+  "updatedAt": "2026-09-07",
   "episodes_recents": [
     {
       "titre": "De Quoi J'me Mail du vendredi 28 août",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-28",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Maxime Chatain",
+        "titre": "Super en version audio",
+        "texte": "Ce potcast m’accompagne depuis longtemps et j’adore la version audio car le contenu bien que filmé est super adapté à ce format et on pense toujours à ceux qui suivent seulement avec leurs oreilles …"
+      },
+      {
+        "note": 1,
+        "auteur": "RoueArrière",
+        "titre": "Variez vos sujets",
+        "texte": "Il y a chose qu’Elon Musk, Apple et Chat GPT dans la vie. Arriveriez vous à ne pas en parler pendant 6 mois?"
+      },
+      {
+        "note": 5,
+        "auteur": "Micka55",
+        "titre": "Passionnés et passionnants",
+        "texte": "Super podcast pour tous ceux qui s’intéressent aux nouvelles technologies et à la « tech ». Un seul défaut : nos animateurs pour faire moderne ne peuvent pas s’empêcher de coller des anglicismes partout même quand les mots français qui existent depuis toujours sont disponibles (e…"
+      }
+    ]
+  }
 }

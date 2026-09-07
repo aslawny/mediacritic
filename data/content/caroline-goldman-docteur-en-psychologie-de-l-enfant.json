@@ -26,7 +26,7 @@
     "enfants",
     "éducation"
   ],
-  "updatedAt": "2026-09-04",
+  "updatedAt": "2026-09-07",
   "episodes_recents": [
     {
       "titre": "POURQUOI - Le Bonheur",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2024-11-25",
-  "frequence_jours": 8
+  "frequence_jours": 8,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "us",
+    "tri": "mostrecent",
+    "releve": "2026-09-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "CoVare",
+        "titre": "Excellent et merci",
+        "texte": "J’aime énormément vos podcasts et je vous remercie énormément. Tout est clair, profond, plein de bon sens, détaillé et vous avez la générosité de partager avec nous des stratégies concrètes que nous pouvons mettre en place sans nécessairement consulter.…"
+      },
+      {
+        "note": 5,
+        "auteur": "AmberKD",
+        "titre": "Transcript/English translation",
+        "texte": "I appreciate your thoughts on parenting, and am interested in the French perspective. As a montessori teacher, I see a growing need for structure and limits in parenting children.…"
+      },
+      {
+        "note": 5,
+        "auteur": "deniskdr",
+        "titre": "Merci beaucoup",
+        "texte": "Bonjour, Vos podcasts nous sont très utiles. Ils ont en 2 semaines fait une différence pour nous et certains de nos amis. Comprendre l’adolescence est un grand pas. Merci Quels sont les épisodes à écouter avec des enfants 10-12 ans selon vous ? Merci."
+      }
+    ]
+  }
 }

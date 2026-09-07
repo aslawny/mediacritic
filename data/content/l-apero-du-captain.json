@@ -26,7 +26,7 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04",
+  "updatedAt": "2026-09-07",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -52,5 +52,29 @@
         "texte": "J’ai recommencé les podcasts depuis l’épisode 1 et je suis déjà au 51. Mais vais-je réussir a tous les écouter et en combien de temps? Mon esprit ne va-t-il pas craquer …"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "[Exclu VIC] ADC #436 : Hadopi et le capteur météo de la grosse poucave",
+      "date": "2026-08-17"
+    },
+    {
+      "titre": "#435 : Le marathon robotique de la facturation electronique",
+      "date": "2026-08-10"
+    },
+    {
+      "titre": "ADC #434 : Projet dernière chance pour les lunettes d'Artemis",
+      "date": "2026-07-27"
+    },
+    {
+      "titre": "ADC #433 : Fin de parcours pour l'oeuf Tenga du metaverse",
+      "date": "2026-05-23"
+    },
+    {
+      "titre": "ADC #432 : Trop de vibrafion pour le futur du SLS",
+      "date": "2026-05-22"
+    }
+  ],
+  "derniere_activite": "2026-08-17",
+  "frequence_jours": 12
 }

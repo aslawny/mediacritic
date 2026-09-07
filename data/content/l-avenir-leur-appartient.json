@@ -30,7 +30,31 @@
     "jeunes talents",
     "prospectif"
   ],
-  "updatedAt": "2026-09-04",
+  "updatedAt": "2026-09-07",
   "rating": "4.1",
-  "ratingCount": 10
+  "ratingCount": 10,
+  "episodes_recents": [
+    {
+      "titre": "Jalen Foucan, une promesse à la nantaise",
+      "date": "2026-03-04"
+    },
+    {
+      "titre": "Tidiane Devernois, la Bourgogne tient un grand cru",
+      "date": "2026-02-04"
+    },
+    {
+      "titre": "David Boly, l'après Hakimi a un nom",
+      "date": "2025-11-05"
+    },
+    {
+      "titre": "Alexis Vossah, le tube de l’année",
+      "date": "2025-10-03"
+    },
+    {
+      "titre": "Goffi, et si Lille avait le nouveau Yoro ?",
+      "date": "2025-09-19"
+    }
+  ],
+  "derniere_activite": "2026-03-04",
+  "frequence_jours": 42
 }

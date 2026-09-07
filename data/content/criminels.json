@@ -15,8 +15,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/criminels/id1571491157?uo=4",
       "trackId": 1571491157,
-      "rating": 4.3,
-      "ratingCount": 1230,
+      "rating": 4.4,
+      "ratingCount": 1231,
       "episodeCount": 577
     }
   },
@@ -26,7 +26,7 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04",
+  "updatedAt": "2026-09-07",
   "episodes_recents": [
     {
       "titre": "[REDIFFUSION] Une enquête dans la peau - Seul contre tous (2/2)",
@@ -50,5 +50,27 @@
     }
   ],
   "derniere_activite": "2026-08-31",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-09-07",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

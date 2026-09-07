@@ -26,5 +26,31 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mostrecent",
+    "releve": "2026-09-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "AxelQuébec",
+        "titre": "Depuis 14 ans!",
+        "texte": "Vos avis et connaissances façonnent ma lecture des événements dans notre complexe monde! Merci encore! Je vous écoute aussi depuis le Québec, malgré mon émigration il y a 10 ans :)"
+      },
+      {
+        "note": 5,
+        "auteur": "L Hubert",
+        "titre": "Le nouvel esprit public",
+        "texte": "Enfin, je pensais avoir perdu Philippe Meyer pour toujours. Du Québec, heureuse d'entendre de nouveau sa voix et ses commentaires toujours pertinents."
+      },
+      {
+        "note": 5,
+        "auteur": "J. Lessard",
+        "titre": "Excellente émission",
+        "texte": "Heureux de retrouver et d’écouter depuis le Québec, Philippe Meyer à nouveau tous les dimanches grâce au podcast!"
+      }
+    ]
+  }
 }

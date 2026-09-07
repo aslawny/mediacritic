@@ -25,5 +25,31 @@
     "comedie"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-09-04"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mangloos",
+        "titre": "❤️🤩",
+        "texte": "François Kevi et Mélanie ont réussi créer un véritable espace dans lequel on prend plaisir à s’évader. Non seulement on ressort après chaque épisode avec de belles découvertes musicales /cinématographiques /littéraires, mais aussi avec une réflexion sans cesse alimentée par des s…"
+      },
+      {
+        "note": 1,
+        "auteur": "rapha1967",
+        "titre": "La Divers-joisie",
+        "texte": "C’est une joie de vous écouter, parce que l’on se dit que l’on comprend votre référentiel infographique- filmographique- vannique . Vos parcours diver-joies .À aucun moment je n’aimerais être à la place de quelqu’un de racisés vous écoutant et que vous semblez défendre (une femme…"
+      },
+      {
+        "note": 5,
+        "auteur": "KukraPookie",
+        "titre": "Le meilleur podcast du genre",
+        "texte": "Frais, pertinent, actuel, terriblement branché, cool et surtout, tellement nécessaire ... Le Tchip ne manque pas de qualités. C’est le podcast que j’aurais aimé avoir quand j’étais ado et que j’adore aujourd’hui.…"
+      }
+    ]
+  }
 }

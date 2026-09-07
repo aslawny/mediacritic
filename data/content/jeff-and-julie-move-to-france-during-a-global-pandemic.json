@@ -26,5 +26,29 @@
     "societe"
   ],
   "addedAt": "2026-07-21",
-  "updatedAt": "2026-07-21"
+  "updatedAt": "2026-07-21",
+  "episodes_recents": [
+    {
+      "titre": "The Last Night Market",
+      "date": "2026-09-04"
+    },
+    {
+      "titre": "European Drought",
+      "date": "2026-08-28"
+    },
+    {
+      "titre": "Watt Machine",
+      "date": "2026-08-21"
+    },
+    {
+      "titre": "Solar eclipse",
+      "date": "2026-08-14"
+    },
+    {
+      "titre": "Montpezat de Quercy",
+      "date": "2026-08-07"
+    }
+  ],
+  "derniere_activite": "2026-09-04",
+  "frequence_jours": 7
 }
