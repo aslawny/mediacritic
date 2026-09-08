@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2017-12-28",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ch",
+    "tri": "mostrecent",
+    "releve": "2026-09-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "jerome.lorenzetti",
+        "titre": "EXCELLENTISSIME",
+        "texte": "Mon année très chargée en examens venant enfin de s'achever, j'en profite pour vous remercier pour votre podcast. Il mérite amplement ses 5 étoiles synonymes d'exception.…"
+      },
+      {
+        "note": 2,
+        "auteur": "Sébastien45",
+        "titre": "Y en a marre de numéricable",
+        "texte": "Salut à toutes la fine équipe de AppLoad cela fait depuis le 1er épisode que je vous suit avec un grand plaisir. Je me permet de vous dire ce que j'ai sur le coeur au sujet de votre pub pour Numéricable qui est saoulante du faite que vous la faite en plein milieux de podcast.…"
+      },
+      {
+        "note": 5,
+        "auteur": "ioda_photo",
+        "titre": "Indispensable !",
+        "texte": "Ayant été conquis par « Le rendez-vous Tech », j'ai téléchargé AppLoad alors que je n'avais pas encore de smartphone ou iPhone Touch. Ayant fait l'acquisition d'un tel appareil récemment, j'ai (enfin pu) écouté les précieux conseils prodigués par Patrick et ses acolytes.…"
+      }
+    ]
+  }
 }

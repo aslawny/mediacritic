@@ -26,5 +26,25 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mosthelpful",
+    "releve": "2026-09-08",
+    "extraits": [
+      {
+        "note": 1,
+        "auteur": "ssinghi_oi",
+        "titre": "Insupportable",
+        "texte": "L’hôte devrait arrêter d’être aussi vulgaire et ses apartés inutiles en anglais."
+      },
+      {
+        "note": 1,
+        "auteur": "ssinghi_oi",
+        "titre": "Insupportable",
+        "texte": "L’hôte devrait arrêter d’être aussi vulgaire et ses apartés inutiles en anglais."
+      }
+    ]
+  }
 }

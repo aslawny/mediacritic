@@ -25,5 +25,29 @@
     "societe"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "L'Invité de la Semaine - Patrick Carret, Former les Jeunes en Décrochage",
+      "date": "2022-12-30"
+    },
+    {
+      "titre": "L'Invitée de la Semaine - Clémence Bruggeman, Noël écologique",
+      "date": "2022-12-23"
+    },
+    {
+      "titre": "L'Invitée de la Semaine - Céline Devinoy, Carte de Voeux aux Personnes en Précarité avec Fat'coeur",
+      "date": "2022-12-16"
+    },
+    {
+      "titre": "L'Invité de la Semaine - Lucas Munoz, Distribution de Bibles pour la Fête des Lumières à Lyon",
+      "date": "2022-12-09"
+    },
+    {
+      "titre": "L'Invité de la Semaine - Patrick Villemont, Rapport Annuel du Secours Catholique du Rhône sur l'État de la Pau",
+      "date": "2022-12-02"
+    }
+  ],
+  "derniere_activite": "2022-12-30",
+  "frequence_jours": 7
 }

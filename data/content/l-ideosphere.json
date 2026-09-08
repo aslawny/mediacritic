@@ -26,5 +26,29 @@
     "cuisine"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-05-23"
+  "updatedAt": "2026-05-23",
+  "episodes_recents": [
+    {
+      "titre": "#27 - Jean-Michel Letendre-Veilleux",
+      "date": "2023-05-17"
+    },
+    {
+      "titre": "#26 - Olivier Dupont",
+      "date": "2023-04-13"
+    },
+    {
+      "titre": "#25 - Marie-Christine Bélanger",
+      "date": "2023-03-23"
+    },
+    {
+      "titre": "#24 - Vincent Cossette",
+      "date": "2023-02-25"
+    },
+    {
+      "titre": "#23 - Maxime Laurin",
+      "date": "2023-02-09"
+    }
+  ],
+  "derniere_activite": "2023-05-17",
+  "frequence_jours": 14
 }

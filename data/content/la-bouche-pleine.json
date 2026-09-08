@@ -27,5 +27,29 @@
     "cuisine"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "[À EMPORTER] Kem CoBa : crème glacée et feng shui",
+      "date": "2020-05-15"
+    },
+    {
+      "titre": "[EN CONFINEMENT] Des nouvelles de Paris avec Julien Pham",
+      "date": "2020-04-22"
+    },
+    {
+      "titre": "[EN CONFINEMENT] Des nouvelles de Stephanie Labelle",
+      "date": "2020-04-17"
+    },
+    {
+      "titre": "[EN CONFINEMENT] Des nouvelles de Luca Cianciulli",
+      "date": "2020-04-15"
+    },
+    {
+      "titre": "[EN CONFINEMENT] Des nouvelles de Martin Juneau",
+      "date": "2020-04-13"
+    }
+  ],
+  "derniere_activite": "2020-05-15",
+  "frequence_jours": 23
 }

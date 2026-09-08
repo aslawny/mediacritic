@@ -45,5 +45,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Dans le vallon d'âne",
+      "date": "2026-09-04"
+    },
+    {
+      "titre": "Dans le Bois Rond",
+      "date": "2026-09-03"
+    },
+    {
+      "titre": "A la verticale de Soi",
+      "date": "2026-09-02"
+    },
+    {
+      "titre": "Vingt Mille Lieues sous les mers",
+      "date": "2026-08-26"
+    },
+    {
+      "titre": "De la terre à la lune",
+      "date": "2026-08-19"
+    }
+  ],
+  "derniere_activite": "2026-09-04",
+  "frequence_jours": 7
 }

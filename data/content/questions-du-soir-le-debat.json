@@ -23,5 +23,31 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-09-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "AlexandreClavecin",
+        "titre": "Du débat, du vrai !",
+        "texte": "Anciennement nommée « du grain à moudre », le Temps du débat constitue la meilleure émission rationnelle traitant de sujets important avec une grande diversité des intervenants (notons l’absence des éternels éditorialistes des chaînes INFO qui nous fait du bien).…"
+      },
+      {
+        "note": 1,
+        "auteur": "GoranVDP",
+        "titre": "ou se joue la bataille des idées",
+        "texte": "il est fatigant d’avoir des débats avec des gens qui ne s’écoutent pas et qui s’interrompent sans cesse c’est un manque de respect y compris vis à vis des auditeurs"
+      },
+      {
+        "note": 1,
+        "auteur": "nico in BXL",
+        "titre": "Ils sont toujours du même avis",
+        "texte": "C est une émission frustrante On espère toujours et on en tire peu En effet les invités ne se disputent pas car les invités sont pratiquement toujours du même avis à quelques nuances près Et l animateur ne challenge que rarement les invités et encore moins fact check.…"
+      }
+    ]
+  }
 }

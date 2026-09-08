@@ -24,5 +24,31 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Twittart10",
+        "titre": "Episode head",
+        "texte": "Super idée de creuser le matos. Très intéressant et merci encore pour tout ce que tu fais pour notre sport. Pour les prochaines marques, voici quelques propositions : - un interlocuteur un peu plus opérationnel, plus près des joueurs et du quotidien du tennis pour plus d’anecdote…"
+      },
+      {
+        "note": 5,
+        "auteur": "Une légendre dans votre coeur",
+        "titre": "Incontournable !!!",
+        "texte": "Aujourd’hui, j’ai l’impression d’avoir terminé la meilleure série ou le meilleur jeux vidéo au monde : j’ai passé tous les trajets en tram de ces derniers mois a écouter les témoignages de tous ces acteurs du tennis et me délecter de leurs réponses aux questions de Max …"
+      },
+      {
+        "note": 5,
+        "auteur": "risami 2",
+        "titre": "Arthur V",
+        "texte": "Merci Max pour ce super épisode avec ce jeune Arthur Van Assche qui assume si bien son originalité !! C’est top d’entendre aussi cette évolution sur la gestion des objectifs, où ce qui devient le plus important c’est le chemin et le progrès et non un objectif de résultat, qui mon…"
+      }
+    ]
+  }
 }

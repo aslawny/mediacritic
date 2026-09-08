@@ -25,5 +25,31 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Kaiser Sauzee",
+        "titre": "Un peu par hasard, mais surtout heureux",
+        "texte": "La serendipité, comme sa définition l’indique vous fait découvrir des choses inattendues au détour d’un hasard complètement aléatoire.... Je dis merci à l’émission « laissez vous guider » qui m’a fait découvrir entre autre Virginie Giroud qui est intervenu dans votre émission …"
+      },
+      {
+        "note": 1,
+        "auteur": "The GRIMM REAPER ☠️",
+        "titre": "Bof",
+        "texte": "Trop de pub c’est impossible de l’écouter tranquillement sans que une pub te déconcentre."
+      },
+      {
+        "note": 5,
+        "auteur": "ailyza12",
+        "titre": "Vercingerorix",
+        "texte": "J’ai écouté en podcast, l’émission sur Vercingerorix que j’ai trouvé passionnante. Vraiment bravo pour cette émission. Votre intervenant est genial dans sa connaissance de cette epoque, c est clair et tres bien expliqué.…"
+      }
+    ]
+  }
 }

@@ -26,5 +26,29 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "Un couple grimpe l'Empire State Building pour célébrer l'amour",
+      "date": "2026-07-03"
+    },
+    {
+      "titre": "L'histoire dingue d'un campeur américain… tombé dans une fosse septique",
+      "date": "2026-07-02"
+    },
+    {
+      "titre": "Un stylo magique pour écouter les matchs au travail par ostéophonie",
+      "date": "2026-07-01"
+    },
+    {
+      "titre": "Un garçon de 12 ans conduit seul sur l'autoroute, se fait arrêter, et ment à la police !",
+      "date": "2026-06-30"
+    },
+    {
+      "titre": "Un homme cri aussi fort que le bruit d'un avion au décollage",
+      "date": "2026-06-29"
+    }
+  ],
+  "derniere_activite": "2026-07-03",
+  "frequence_jours": 1
 }

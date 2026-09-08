@@ -27,5 +27,29 @@
     "societe"
   ],
   "addedAt": "2026-06-12",
-  "updatedAt": "2026-06-12"
+  "updatedAt": "2026-06-12",
+  "episodes_recents": [
+    {
+      "titre": "La traversée du Québec à pied : 3000km en 100 jours avec Alexandre",
+      "date": "2025-12-10"
+    },
+    {
+      "titre": "La diagonale de l’engagement avec Ludovic Hubler : De la pointe de Corsen à Eze en France",
+      "date": "2025-11-27"
+    },
+    {
+      "titre": "De Tokyo aux trésors nippons : 3 mois au Japon avec Fiona",
+      "date": "2025-11-12"
+    },
+    {
+      "titre": "De San Sebastián à Saint-Jacques de Compostelle à pied : la traversée de l'Espagne du Nord avec Pierre-Louis",
+      "date": "2025-10-29"
+    },
+    {
+      "titre": "De la France à la Croatie en vélo : la traversée de l'Europe en solo d'Oscar",
+      "date": "2025-10-15"
+    }
+  ],
+  "derniere_activite": "2025-12-10",
+  "frequence_jours": 14
 }

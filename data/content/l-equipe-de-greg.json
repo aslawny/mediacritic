@@ -23,5 +23,29 @@
     "sport"
   ],
   "addedAt": "2026-05-24",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "L'Équipe de Greg du 7 septembre",
+      "date": "2026-09-07"
+    },
+    {
+      "titre": "L'Équipe de Greg du 4 septembre",
+      "date": "2026-09-04"
+    },
+    {
+      "titre": "L'Équipe de Greg du 3 septembre",
+      "date": "2026-09-03"
+    },
+    {
+      "titre": "L'Équipe de Greg du 2 septembre",
+      "date": "2026-09-02"
+    },
+    {
+      "titre": "L'Équipe de Greg du 1er septembre",
+      "date": "2026-09-01"
+    }
+  ],
+  "derniere_activite": "2026-09-07",
+  "frequence_jours": 1
 }

@@ -49,5 +49,25 @@
     }
   ],
   "derniere_activite": "2026-08-25",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "us",
+    "tri": "mosthelpful",
+    "releve": "2026-09-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Wiga Wawa",
+        "titre": "Excellent podcast, génialement animé",
+        "texte": "Bravo Nabil et votre équipe pour la conception et la réalisation de ce podcast. Sujets divers et toujours intéressants, invités clairs et pertinents, animation très professionnelle et très chaleureuse. J’attends le mardi avec impatience."
+      },
+      {
+        "note": 5,
+        "auteur": "Matlab17",
+        "titre": "Chaleur Humaine",
+        "texte": "Excellent podcast sur les enjeux climatiques étayé d’interviews d’experts bien menées, précises et didactiques. Vivement la saison 3 ."
+      }
+    ]
+  }
 }

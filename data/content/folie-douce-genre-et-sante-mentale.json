@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-03",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "La Laiterie du Gontey",
+        "titre": "Merci à vous Lauren",
+        "texte": "Merci à vous ainsi qu’à Édouard Louis pour ce si riche échange… Je vais l’écouter à nouveau immédiatement tellement je ressens à quel point il me fait du bien.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Sophiemrs",
+        "titre": "Enfin un podcast utile et agréable à écouter",
+        "texte": "Un espace bienveillant où la santé mentale est abordée sans tabou, avec simplicité et humilité. Ici on démystifie, on ouvre des conversations nécessaires. Un podcast précieux, sans jugement, qui change notre regard sur la santé mentale et nous fait nous sentir moins seul(e).…"
+      },
+      {
+        "note": 5,
+        "auteur": "Loa enid",
+        "titre": "D’une douceur folle ☁️",
+        "texte": "C’est mon moment à moi quand je l’écoute. J’apprends, je comprends, j’ouvre mon esprit, et ça m’apaise ! Bravo pour ce podcast inspirant et d’une grande qualité.…"
+      }
+    ]
+  }
 }

@@ -27,5 +27,29 @@
     "famille"
   ],
   "addedAt": "2026-06-27",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "La Lampe Magique (histoire du soir) 🌙",
+      "date": "2025-09-24"
+    },
+    {
+      "titre": "La Cabane Enchantée (histoire du soir) ✨",
+      "date": "2025-09-24"
+    },
+    {
+      "titre": "Le Journal des Mercis (histoire du soir) 🌟",
+      "date": "2025-08-23"
+    },
+    {
+      "titre": "Le Voyage de la Luciole (histoire du soir) ✨",
+      "date": "2025-07-24"
+    },
+    {
+      "titre": "La Montgolfière des Rêves (histoire du soir) 🌟",
+      "date": "2025-06-24"
+    }
+  ],
+  "derniere_activite": "2025-09-24",
+  "frequence_jours": 30
 }

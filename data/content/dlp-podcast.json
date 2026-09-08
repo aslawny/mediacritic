@@ -1,0 +1,53 @@
+{
+  "slug": "dlp-podcast",
+  "title": "DLP PODCAST",
+  "author": "Maxime",
+  "type": "podcast",
+  "categories": [
+    "voyage",
+    "culture"
+  ],
+  "description": "DLP Podcast est un podcast sur Disneyland Paris animé par Max et Benji dans lequel nous discutons d'un sujet bien précis en rapport avec l'actualité ou non, le tout entrecoupé de défis !",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/35/a3/67/35a36718-31ba-8755-e6cc-446fd23b2d9a/mza_13863539549945283772.jpg/170x170bb.png",
+  "language": "",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/dlp-podcast/id1363305380?uo=2",
+      "trackId": 1363305380,
+      "rating": 3.8,
+      "ratingCount": 9,
+      "episodeCount": null
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "voyage",
+    "culture"
+  ],
+  "addedAt": "2026-09-08",
+  "updatedAt": "2026-09-08",
+  "episodes_recents": [
+    {
+      "titre": "[Hors Série] - Replay du live 100% Star Wars - Episode 2",
+      "date": "2021-10-19"
+    },
+    {
+      "titre": "Saison 3 - Episode 3 - Le tour complet des snacks à Disneyland Paris (avec Pauline) !",
+      "date": "2021-07-21"
+    },
+    {
+      "titre": "Saison 3 - Episode 2 - Au cœur de la musique de Disneyland Paris (avec C3Dreams) !",
+      "date": "2021-06-20"
+    },
+    {
+      "titre": "[Hors Série] - Replay du live spécial Marvel avec des invités, des défis, de l'actu et le debrief de Loki !",
+      "date": "2021-06-13"
+    },
+    {
+      "titre": "[Hors Série] - Replay du live spécial Star Wars avec des invités, des défis, de l'actu et le debrief de The Ba",
+      "date": "2021-05-09"
+    }
+  ],
+  "derniere_activite": "2021-10-19",
+  "frequence_jours": 49
+}

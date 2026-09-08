@@ -23,5 +23,31 @@
     "humour",
     "comédie"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ch",
+    "tri": "mosthelpful",
+    "releve": "2026-09-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Kikeo",
+        "titre": "Super !",
+        "texte": "Avec Nora Hamzawi 😍, Alex Vizorek, Thomas VDB, Chris Esquerre et tous les autres, on est sûr de passer un bon moment chaque matin sur le trajet du boulot !"
+      },
+      {
+        "note": 5,
+        "auteur": "Blabla🥎",
+        "titre": "👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻",
+        "texte": "BRAVO !!! J’adore votre podcast !!! Vous êtes dans mon top trois des meilleurs podcast !! Bonne continuation !"
+      },
+      {
+        "note": 5,
+        "auteur": "Rose de Damas",
+        "titre": "Merci",
+        "texte": "Super les podcasts. Pas toujours possible d’écouter les podcasts de 2018. Merci pour la mise en ligne :-)"
+      }
+    ]
+  }
 }

@@ -24,5 +24,25 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "Le métier de maire : SimCity versus réalité",
+      "date": "2020-02-26"
+    },
+    {
+      "titre": "Plongée dans la schizophrenie d’Hellblade",
+      "date": "2019-11-13"
+    },
+    {
+      "titre": "L’Égypte antique à travers Assassin’s Creed Origins",
+      "date": "2019-03-27"
+    },
+    {
+      "titre": "Bande annonce",
+      "date": "2019-03-18"
+    }
+  ],
+  "derniere_activite": "2020-02-26",
+  "frequence_jours": 104
 }

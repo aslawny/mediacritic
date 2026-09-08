@@ -25,5 +25,31 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Sale zeub",
+        "titre": "L’intello",
+        "texte": "C’est un bon trimestre dans la classe qui a su faire des progrès dans l’ensemble mais qui a su être très régulier dans l’ensemble malgré des résultats très satisfaisants en cours ce semestre il faudra continuer à participer en cours en participant à l’écrit pour mieux réussir ses…"
+      },
+      {
+        "note": 5,
+        "auteur": "Capu capuch",
+        "titre": "J’adore 🥰",
+        "texte": "Je te kiffe Laure, j’aime ta façon dynamique de mener l’enquête ou de garder le suspens. C’est vraiment trop chouette! Ce qui est bien aussi c’est que tu fais des petits changements de sujets comme quand tu mange un sandwich ou autres ce qui ne nous lasse pas de l’histoire.…"
+      },
+      {
+        "note": 5,
+        "auteur": "choudi-choubi",
+        "titre": "INCROYABLE 😨😍",
+        "texte": "J’adore 😍 dans certains épisodes je me demande si c’est bien vrais tellement que ça fait peur 😨 Quand j’ai lu un des commentaires qui parler de ne pas l’écouter avant d’aller se coucher et bien je vous le conseille fortement à tous se qui écouter se podcast Je l’ai fait pendant u…"
+      }
+    ]
+  }
 }

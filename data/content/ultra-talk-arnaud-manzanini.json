@@ -26,5 +26,31 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "thomas.tlfilms",
+        "titre": "Excellent",
+        "texte": "Excellent podcast, j’ai écouté les épisodes de Killian Jornet et Marine Leleu, je craignais écouter un podcast élitiste (on ne va pas se mentir les spirts d’ultra-endurance sont assez exclusifs et élitistes, j’ai travaillé dans le secteur de l’ultra-trail et pu l’apercevoir) mais…"
+      },
+      {
+        "note": 1,
+        "auteur": "Canet682",
+        "titre": "Sacré bobo gaucho qui fatigue",
+        "texte": "Vraiment nul !!!! Je ne le conseil pas ce podcast!! présentateur parisien ou lyonnais BOBO fatiguant qui nous bassine avec son vélo longue distance À éviter"
+      },
+      {
+        "note": 5,
+        "auteur": "Flyninnin",
+        "titre": "Quel régal",
+        "texte": "Merci Arnaud , je prends un réel plaisir à écouter tes podcasts pendant mes déplacements pro . Je suis un jeune cycliste de 60 ans et j´ai hâte de me préparer pour une premiere expérience ultra en vélo .j’aime beaucoup ton approche , ta simplicité et en plus ta voix apaisante pou…"
+      }
+    ]
+  }
 }

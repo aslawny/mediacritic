@@ -26,5 +26,31 @@
     "series"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "azertyfrompau",
+        "titre": "J’aime / J’aime pas.",
+        "texte": "J’aime L’ambiance générale sans prise de tête. L’humour et les bons mots de Simon, qui me confirme chaque semaine que la drogue devrait être à minima légalisée. La culture ahurissante de Marc en termes de cinéma.…"
+      },
+      {
+        "note": 1,
+        "auteur": "RileyPBCG",
+        "titre": "Pardon le podcast",
+        "texte": "2h de pub et 5 minutes de cinéma par des intervenants qui n’ont pas de goût."
+      },
+      {
+        "note": 5,
+        "auteur": "ChloeBouchet",
+        "titre": "Deux heures de bonheur par semaine.",
+        "texte": "Je suis une fervente auditrice depuis la toute première édition ! 🤩 Eh oui, j’étais même déjà présente avant que le Podcast ne prenne vie. C’est dire ! 👵🏼 D’ailleurs, je revois encore ce cher Inthepanda expliquer qu’il se lançait dans l’aventure Podcast.…"
+      }
+    ]
+  }
 }

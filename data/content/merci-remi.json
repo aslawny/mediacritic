@@ -27,5 +27,31 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Îûytreé",
+        "titre": "Roxanne CUNY 10 ans",
+        "texte": "Écoute Rémi 5 étoile c’est pas assez je vais en remettre un peut.⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐…"
+      },
+      {
+        "note": 1,
+        "auteur": "#lafandegym",
+        "titre": "Bravo😈",
+        "texte": "Nan mais ce rieur c’est quoi ton délire avec les intrus? T pas sérieux a m’être ça sur tout les podcast"
+      },
+      {
+        "note": 5,
+        "auteur": "Alis le baud",
+        "titre": "Trop déçu des restrictions",
+        "texte": "Quand j’étais toute petite quand j’avais genre trois ans ou quatre ans, et ben j’écoutais les podcasts sur le téléphone de ma maman, mais maintenant j’en ai un à moi toute seule et je ne peux pas écouter ton podcast Rémi parce qu’il y a des restrictions dessus, je suis vraiment t…"
+      }
+    ]
+  }
 }

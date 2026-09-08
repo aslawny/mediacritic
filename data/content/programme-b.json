@@ -26,5 +26,31 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-09-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Keltia3",
+        "titre": "Très instructif",
+        "texte": "Toujours intéressant ! J’adore la variété des sujets traités. Bravo !"
+      },
+      {
+        "note": 3,
+        "auteur": "John-Cl",
+        "titre": "Vivre (avec les) vieux",
+        "texte": "C’est le premier que j’écoute et je trouve ça très limite. Je me disais que ça devait être un chouette sujet, vous prenez des trucs très intéressant. Mais l’intervenant, ça va pas du tout. Il donne qu’un seul point de vu et garde l’idée qu’il faut respecter les vieux.…"
+      },
+      {
+        "note": 5,
+        "auteur": "p4nda20",
+        "titre": "Un vent de fraîcheur",
+        "texte": "Merci à vous les boug.ette.s, continuez de nous khalass comme ça."
+      }
+    ]
+  }
 }

@@ -24,5 +24,29 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "Apprendre à aimer la douleur",
+      "date": "2025-05-17"
+    },
+    {
+      "titre": "Flavie Bruyneel - À la conquête du Grand Raid de la Réunion",
+      "date": "2024-10-23"
+    },
+    {
+      "titre": "Sylvain Perrin - La Restonica : L'enfer des cailloux Corse",
+      "date": "2024-07-09"
+    },
+    {
+      "titre": "Gabriel Puissant - UTHG ! Il s'est fait très peur...",
+      "date": "2024-06-23"
+    },
+    {
+      "titre": "Renaud Rouanet - La force tranquille !",
+      "date": "2024-06-22"
+    }
+  ],
+  "derniere_activite": "2025-05-17",
+  "frequence_jours": 14
 }

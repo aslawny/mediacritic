@@ -25,5 +25,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "#92 - Spécial blockbusters de l'été",
+      "date": "2026-08-22"
+    },
+    {
+      "titre": "#91 @ EAJ Sablettes avec le Commis des Comics",
+      "date": "2026-08-01"
+    },
+    {
+      "titre": "#90 @ médiathèque d'Hyères - Les jeunes & la lecture",
+      "date": "2026-07-25"
+    },
+    {
+      "titre": "#89 @ médiathèque d'Hyères - BD & gastronomie",
+      "date": "2026-07-04"
+    },
+    {
+      "titre": "#88 - Rencontre avec Olivier Dutto (Les P'tits Diables)",
+      "date": "2026-06-27"
+    }
+  ],
+  "derniere_activite": "2026-08-22",
+  "frequence_jours": 21
 }

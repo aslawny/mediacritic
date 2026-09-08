@@ -25,5 +25,31 @@
     "actualite"
   ],
   "addedAt": "2026-08-11",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Talaek",
+        "titre": "Super podcast",
+        "texte": "Je passe souvent de très bon moment. Pour les cryptomonnaies par contre un peu déçu des échanges avec Anastasia. Je trouve que son discours manque d’ouverture et de compréhension des implications sociales que cela offre.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Titanium31",
+        "titre": "L’extrême gauche qui en veut au câble …",
+        "texte": "Et hop un petit coup sur la gauche. J’espère au moins que vous en tirez une satisfaction…."
+      },
+      {
+        "note": 5,
+        "auteur": "Angelo PHI",
+        "titre": "Exceptionnel",
+        "texte": "Vos documentaires sont géniaux ! J’aime beaucoup l’épisode sur les crétins digitaux =>Par contre dans cet épisode vous omettez de préciser que nous sommes des êtres vivants et que nous avons un corps fait pour être en mouvement et ce pour le bien de notre santé physique et psychi…"
+      }
+    ]
+  }
 }

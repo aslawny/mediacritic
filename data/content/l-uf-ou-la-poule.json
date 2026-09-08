@@ -26,5 +26,29 @@
     "sciences",
     "vulgarisation"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "Chimie verte",
+      "date": "2020-02-17"
+    },
+    {
+      "titre": "Vaccin anti-cancer",
+      "date": "2020-01-20"
+    },
+    {
+      "titre": "Actions climatiques",
+      "date": "2019-12-16"
+    },
+    {
+      "titre": "Les émotions du bonheur",
+      "date": "2019-11-25"
+    },
+    {
+      "titre": "Les émotions du bonheur",
+      "date": "2019-11-25"
+    }
+  ],
+  "derniere_activite": "2020-02-17",
+  "frequence_jours": 14
 }

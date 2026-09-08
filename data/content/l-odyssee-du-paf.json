@@ -25,5 +25,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "Philippe Vandel, journaliste, auteur du livre \"Les pourquoi de la Coupe du Monde\"",
+      "date": "2026-06-27"
+    },
+    {
+      "titre": "Abel Mestre, journaliste au Monde, co-auteur du documentaire « Libre Antenne » sur france.tv",
+      "date": "2026-04-25"
+    },
+    {
+      "titre": "François Sorel, journaliste sur BFM Business",
+      "date": "2026-01-24"
+    },
+    {
+      "titre": "Jérôme Florin, journaliste sur RTL",
+      "date": "2025-12-27"
+    },
+    {
+      "titre": "Francis Zégut, animateur sur RTL2",
+      "date": "2025-11-22"
+    }
+  ],
+  "derniere_activite": "2026-06-27",
+  "frequence_jours": 62
 }

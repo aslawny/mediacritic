@@ -26,5 +26,31 @@
     "tech",
     "numérique"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "boufduchien",
+        "titre": "Un ton espiègle rafraîchissant",
+        "texte": "J’ai commencé par écouter Patrick Béja en podcast du temps de l’iPad 2( 2012-2015). Guillaume Vendé a fait un passage dans son podcast comme récemment, et j’écoutais tech café vraiment occasionnellement, plus par curiosité, fidèle à la réflexion de Patrick.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Lithium73fr",
+        "titre": "Bon contenu mais trop de Musk bashing",
+        "texte": "J’aime bien ce podcast pour son contenu et les connaissances techniques des intervenants. Par contre le Musk bashing à répétition, c’est vraiment insupportable 😣"
+      },
+      {
+        "note": 5,
+        "auteur": "MICHELR33FR",
+        "titre": "Un podcast d’excellence et des animateurs",
+        "texte": "Je n’ai pas changé d’avis sur ce podcast d’excellence avec des animateurs toujours aussi brillants au fur des années qui s’écoulent. J’ai néanmoins un petit reproche à faire sur le néanmoins excellent épisode sur Genius Scan, excellente App dont j’ai été utilisateur pro dès sa so…"
+      }
+    ]
+  }
 }

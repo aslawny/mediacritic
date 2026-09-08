@@ -26,5 +26,29 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "L'Heure d'en Finir",
+      "date": "2021-04-16"
+    },
+    {
+      "titre": "Le Fabuleux Destin d'Amélie Poulain",
+      "date": "2021-01-29"
+    },
+    {
+      "titre": "En Confinement - Spécial Noël",
+      "date": "2020-12-18"
+    },
+    {
+      "titre": "En Confinement - Spécial Cinéma",
+      "date": "2020-12-04"
+    },
+    {
+      "titre": "En Confinement - Spécial Musique",
+      "date": "2020-11-27"
+    }
+  ],
+  "derniere_activite": "2021-04-16",
+  "frequence_jours": 14
 }

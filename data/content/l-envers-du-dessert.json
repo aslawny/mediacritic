@@ -27,5 +27,29 @@
     "cuisine"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "Zéledernier !",
+      "date": "2023-03-10"
+    },
+    {
+      "titre": "81. Thomas Chisholm : Inventer sa cuisine d’auteur : liberté, structure et recherche de l’équilibre",
+      "date": "2022-12-21"
+    },
+    {
+      "titre": "80. Victoire Finaz : Toutes les portes qu'ouvre le chocolat !",
+      "date": "2022-12-07"
+    },
+    {
+      "titre": "79. Hélène Pietrini : La Liste, le classement des classements !",
+      "date": "2022-11-23"
+    },
+    {
+      "titre": "78. Stéphane Méjanès - La food crédibilité en décalage : une plume mi experte / mi ingénue",
+      "date": "2022-11-09"
+    }
+  ],
+  "derniere_activite": "2023-03-10",
+  "frequence_jours": 14
 }

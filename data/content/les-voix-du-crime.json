@@ -25,5 +25,31 @@
     "news"
   ],
   "addedAt": "2026-07-03",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Little macaroon",
+        "titre": "Génial!",
+        "texte": "Podcast super, avec une autre vision de la police/justice, ça change. Âgée de 22 ans, je connais quelques affaires mais en découvre beaucoup d’autres et j’enrichis vraiment la culture judiciaire, alors merci! Par contre, j’ai écouté le n*13 de la saison 2 et le procureur affirme…"
+      },
+      {
+        "note": 1,
+        "auteur": "TaoCrow",
+        "titre": "La pub qui surgit à n’importe quel moment",
+        "texte": "C’est juste pas possible. Dommage parce que cn est souvent bon."
+      },
+      {
+        "note": 5,
+        "auteur": "jerome barthelemy",
+        "titre": "Patrick tremeau",
+        "texte": "Magnifique justice ., Il fait presque moins de prison qu’il a violé .. A croire que les lois sont faites par les politiques au cas où ils se fassent choper comme DSK lol Le viole c’est pas grave en France mais braque pas de banque .. zéro crédibilité..…"
+      }
+    ]
+  }
 }

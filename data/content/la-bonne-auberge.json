@@ -27,5 +27,29 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "Cyberpunk - Choomba Night",
+      "date": "2025-12-15"
+    },
+    {
+      "titre": "Alien Seneca - Partie 03",
+      "date": "2025-09-07"
+    },
+    {
+      "titre": "Alien Seneca - Partie 02",
+      "date": "2025-09-01"
+    },
+    {
+      "titre": "Alien Seneca - Partie 01",
+      "date": "2025-08-28"
+    },
+    {
+      "titre": "Les Derniers Remparts de Carcassonne",
+      "date": "2025-06-23"
+    }
+  ],
+  "derniere_activite": "2025-12-15",
+  "frequence_jours": 10
 }

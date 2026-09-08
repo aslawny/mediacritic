@@ -27,5 +27,25 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-09-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "MissCarotte1985",
+        "titre": "Génial",
+        "texte": "Je pense que l’épisode préféré de mes enfants est celui de Marie Curie. Particulièrement le passage où Amélia pense que Mme Grany va lui annoncer qu’elle était amoureuse de Papy Charly. Bref continuez ils adorent les aventures d’Amelia"
+      },
+      {
+        "note": 5,
+        "auteur": "Alba Dumont",
+        "titre": "C’est trop chouette",
+        "texte": "C’est trop chouette à écouter et je ne veux pas que vous arrêtiez. Je suis sûre que tout le monde adore. Alba 9 ans"
+      }
+    ]
+  }
 }

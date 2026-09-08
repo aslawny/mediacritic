@@ -27,5 +27,31 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "paulette isa",
+        "titre": "Merci",
+        "texte": "Bonjour Merci pour l’épisode sur le don de gamètes. Pour avoir donné moi-même il y a des choses qui m’ont un peu choqué durant le don. Déjà je suis indépendante donc c’est compliqué de faire entendre que ce n’est pas mon employeur qui perd de l’argent mais moi même.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Gilles Devise",
+        "titre": "Déçu",
+        "texte": "Je partais avec un a priori favorable. Mais j’ai été déçu. Je trouve que vous parlez comme un gourou et surtout je vous sens en colère, tout en prônant l’inverse. La bienveillance. C est étrange. Intellectuellement ce podcast est assez limité.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Nadiagty",
+        "titre": "Passionnant",
+        "texte": "A chaque épisode les interlocuteurs sont percutants, de nombreuses références sont citées et permettent d’approfondir les sujets qui sont abordés, les questions sont pertinentes et recherchées, formulées avec douceur et respect.…"
+      }
+    ]
+  }
 }

@@ -24,5 +24,29 @@
     "cinema",
     "culture"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "Une émouvante surprise des Restos du Cœur pour Mimie Mathy",
+      "date": "2026-09-04"
+    },
+    {
+      "titre": "Jarry EN LARMES après cette surprise de son ami",
+      "date": "2026-09-01"
+    },
+    {
+      "titre": "Les images ÉMOUVANTES de la première télé de Cyril Féraud",
+      "date": "2026-08-28"
+    },
+    {
+      "titre": "Francis Perrin BOULVERSÉ par ce message de Julien Clerc",
+      "date": "2026-08-25"
+    },
+    {
+      "titre": "Best-of Kendji Girac : ses plus belles émotions dans La Boîte à Secrets",
+      "date": "2026-08-21"
+    }
+  ],
+  "derniere_activite": "2026-09-04",
+  "frequence_jours": 3
 }

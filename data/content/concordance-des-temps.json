@@ -23,5 +23,31 @@
     "culture",
     "société"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mosthelpful",
+    "releve": "2026-09-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Fredorakis@v",
+        "titre": "Très bon, un plaisir à renouveler",
+        "texte": "Très instructif. Certains thèmes nous touchent davantage, ceci est toujours au gré des intéressés et personnel, mais les invités sont toujours éloquents et la vivacité d'esprit et l'humour de l'interviewer sont des plaisirs subtils à découvrir."
+      },
+      {
+        "note": 5,
+        "auteur": "Mill.bro",
+        "titre": "L’Histoire au service",
+        "texte": "Excellente émission sur l’Histoire et sa pertinence dans notre présent. Bien expliqué, avec des extraits sonores très intéressant et des invités de qualité"
+      },
+      {
+        "note": 5,
+        "auteur": "Marie-Piou",
+        "titre": "Histoire et présent",
+        "texte": "Émission d’une grande pertinence qui lie l’Histoire à nos réalités actuelles , lui donnant tout son sens ."
+      }
+    ]
+  }
 }

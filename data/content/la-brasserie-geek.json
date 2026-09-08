@@ -26,5 +26,29 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "S03E03 : C'est l'histoire de deux mecs dans une BRASSERIE !",
+      "date": "2025-07-20"
+    },
+    {
+      "titre": "S03E02 : Un épisode plein de nostalgie et de philosophie de vie ! Avec Nico",
+      "date": "2025-07-20"
+    },
+    {
+      "titre": "S03E01 - Le RETOUR de la BRASSERIE GEEK",
+      "date": "2025-05-28"
+    },
+    {
+      "titre": "S02E10 : Deviant Prod trinque avec nous à la Brasserie !",
+      "date": "2024-11-26"
+    },
+    {
+      "titre": "S02E09 - Avec Jules et Nico, c'est double dose pour la rentrée !",
+      "date": "2024-09-22"
+    }
+  ],
+  "derniere_activite": "2025-07-20",
+  "frequence_jours": 35
 }

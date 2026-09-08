@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-01",
-  "frequence_jours": 2
+  "frequence_jours": 2,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "jlie mrtn",
+        "titre": "Une véritable safe place 💥",
+        "texte": "J’ai découvert le poadcast d’Amal il y a deux semaines et depuis je le dévore. Mes trajets pour aller au boulot sont beaucoup plus cools depuis que j’ai rejoint la Garce therapy ! Elle est la copine badasse qu’on devrait toutes avoir.…"
+      },
+      {
+        "note": 2,
+        "auteur": "Siana siana 007",
+        "titre": "Sympa mais trop de caricaturale",
+        "texte": "Le contenu est pas mal. C est cool. Mais Il faut vraiment arrêter avec les mots anglais c est too much et en plus on comprend rien car l accent est à ch***"
+      },
+      {
+        "note": 5,
+        "auteur": "louisadz",
+        "titre": "La copine honnête",
+        "texte": "Le podcast est vraiment sympa, il aborde pas mal de sujets interessants et des questions existentielles importantes, le tout dans la bonne humeur et la rigolade comme si on était entre copines. Quand je t’écoute je me reconnecte systématiquement à mon énergie féminine.…"
+      }
+    ]
+  }
 }

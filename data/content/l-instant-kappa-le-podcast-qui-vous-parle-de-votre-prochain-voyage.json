@@ -26,5 +26,29 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "Andalousie, la quintessence de l'Espagne",
+      "date": "2025-06-06"
+    },
+    {
+      "titre": "La Thaïlande, le royaume du zen",
+      "date": "2025-04-25"
+    },
+    {
+      "titre": "L'île Maurice, ce paradis...",
+      "date": "2025-01-10"
+    },
+    {
+      "titre": "Le Sénégal, le pays de la teranga",
+      "date": "2024-11-08"
+    },
+    {
+      "titre": "Zanzibar, l'île aux épices",
+      "date": "2024-09-27"
+    }
+  ],
+  "derniere_activite": "2025-06-06",
+  "frequence_jours": 55
 }

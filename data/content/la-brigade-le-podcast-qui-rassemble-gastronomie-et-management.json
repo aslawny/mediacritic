@@ -25,5 +25,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "EPISODE 5 - Killian Guillotin : gérer l’échec d'un collègue sans plomber toute la brigade",
+      "date": "2025-03-25"
+    },
+    {
+      "titre": "EPISODE 4 - Les confidences croustillantes d'un ancien Executive Pastry chef sur le dessous des cuisines des é",
+      "date": "2024-11-04"
+    },
+    {
+      "titre": "Bande Annonce : La Brigade",
+      "date": "2024-06-21"
+    },
+    {
+      "titre": "EPISODE 3 - LA BRIGADE : Jean \"le chien fou, le chien jaune!\"",
+      "date": "2024-06-20"
+    },
+    {
+      "titre": "EPISODE 2 - LA BRIGADE - Au petit jardin, pas de problème de recrutement !",
+      "date": "2024-06-20"
+    }
+  ],
+  "derniere_activite": "2025-03-25",
+  "frequence_jours": 0
 }

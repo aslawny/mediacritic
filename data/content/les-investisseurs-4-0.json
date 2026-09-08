@@ -25,5 +25,31 @@
     "rénovation",
     "DIY"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-09-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "bijours0010",
+        "titre": "10/10",
+        "texte": "Je suis tes épisodes depuis 3/4 mois. J’apprends vraiment beaucoup. L’épisode 105 m’a particulièrement parlé! Très clair, très précis, beaucoup d’informations de qualités. Clairement le meilleur épisode selon moi! Bonne continuation!"
+      },
+      {
+        "note": 5,
+        "auteur": "vye.dumont",
+        "titre": "Très instructif",
+        "texte": "Le panel très diversifié des invités permet une meilleure compréhension du cadre économique et offre une meilleure accessibilité aux investissements autant pour les investisseurs amateurs comme chevronnés"
+      },
+      {
+        "note": 5,
+        "auteur": "M-axime",
+        "titre": "Mine d’or",
+        "texte": "Conseils concrets et accessibles, de personnes très intéressantes aux profils différents. Top !"
+      }
+    ]
+  }
 }

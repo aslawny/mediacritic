@@ -25,5 +25,29 @@
     "cuisine"
   ],
   "addedAt": "2026-09-05",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "EP10 : Martin Darondeau et Enya Baroux viennent prendre le goûter",
+      "date": "2026-06-18"
+    },
+    {
+      "titre": "EP09 : Alexandre Cammas et Marine Bidaud viennent prendre le goûter",
+      "date": "2026-05-21"
+    },
+    {
+      "titre": "EP08 : Marion Graux invite Jennifer Hart-Smith à prendre le goûter",
+      "date": "2026-04-16"
+    },
+    {
+      "titre": "EP07 : Julia Sammut invite Nicolas Rouvière à prendre le goûter",
+      "date": "2026-03-19"
+    },
+    {
+      "titre": "EP06 : Antoine Villard invite Tatiana Levha à prendre le goûter",
+      "date": "2026-02-19"
+    }
+  ],
+  "derniere_activite": "2026-06-18",
+  "frequence_jours": 28
 }

@@ -25,5 +25,29 @@
     "societe"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "A bord du Bateau atelier : balade enchantée sur la Seine",
+      "date": "2024-12-06"
+    },
+    {
+      "titre": "Château Gaillard : le joyeux médiéval de la Normandie",
+      "date": "2024-10-16"
+    },
+    {
+      "titre": "Le Musée Blanche Hoschedé-Monet : De Monet à Bonnard, sur les traces des impressionnistes",
+      "date": "2024-08-22"
+    },
+    {
+      "titre": "Bienvenue au château de Bizy",
+      "date": "2024-07-27"
+    },
+    {
+      "titre": "Echappée belle dans la vallée de l'Eure",
+      "date": "2024-06-05"
+    }
+  ],
+  "derniere_activite": "2024-12-06",
+  "frequence_jours": 26
 }

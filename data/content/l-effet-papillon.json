@@ -25,5 +25,29 @@
     "bien-etre"
   ],
   "addedAt": "2026-09-05",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "Ce que la marche change en nous",
+      "date": "2026-09-04"
+    },
+    {
+      "titre": "Le mythe des 3 amours",
+      "date": "2026-06-08"
+    },
+    {
+      "titre": "Ce que ça fait de grandir",
+      "date": "2026-06-01"
+    },
+    {
+      "titre": "Le voyage et le moment présent",
+      "date": "2026-02-09"
+    },
+    {
+      "titre": "Se faire de vrais amis à la trentaine",
+      "date": "2026-01-17"
+    }
+  ],
+  "derniere_activite": "2026-09-04",
+  "frequence_jours": 13
 }
