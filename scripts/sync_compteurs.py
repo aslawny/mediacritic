@@ -92,8 +92,11 @@ def stat_par_libelle(txt, libelle, valeur):
     return motif.subn(lambda m: m.group(1) + str(valeur) + m.group(3), txt)
 
 
-def main():
-    sec = "--dry-run" in sys.argv
+def appliquer(sec=False):
+    """Applique les compteurs. Appelable depuis un autre script :
+    generate_fiches.py avait sa propre copie de cette logique, qui
+    ecrivait l'ARRONDI dans numberOfItems la ou il faut le compte exact.
+    Celui qui tournait en dernier gagnait."""
     c = compter()
     print("  Vérité calculée :")
     print("    %s contenus (%s podcasts, %s chaînes) → texte de marque « %s+ »"
@@ -128,6 +131,10 @@ def main():
             print("  %-18s déjà à jour" % nom)
 
     print("\n%d remplacement(s)%s" % (total_modifs, "  [essai à blanc]" if sec else ""))
+
+
+def main():
+    appliquer("--dry-run" in sys.argv)
 
 
 if __name__ == "__main__":

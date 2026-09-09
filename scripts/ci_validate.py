@@ -223,6 +223,19 @@ if _sans_licence:
 else:
     print("  ✓ `license` présent sur tous les nœuds Dataset / DataCatalog")
 
+# 7e. numberOfItems doit porter le compte EXACT du catalogue.
+#     generate_fiches.py avait une copie de la logique des compteurs qui y
+#     ecrivait l'ARRONDI : selon le script lance en dernier, le site servait
+#     8 600 ou 8 613 dans ses donnees structurees. Le doublon est supprime,
+#     ce controle empeche qu'il revienne.
+_cat_html = (ROOT / "catalogue.html").read_text(encoding="utf-8")
+_m_noi = re.search(r'"numberOfItems": (\d+)', _cat_html)
+_attendu = len(data.get("catalog.json", []))
+if _m_noi and _attendu and int(_m_noi.group(1)) != _attendu:
+    err(f"catalogue.html : numberOfItems={_m_noi.group(1)} ≠ {_attendu} contenus réels")
+else:
+    print(f"  ✓ numberOfItems = {_attendu} (compte exact du catalogue)")
+
 # 8. Double identite : annuaire ET critiques
 #    Les moteurs generatifs ne percevaient le site que comme un blog de
 #    critiques. Ce controle empeche l identite d annuaire de disparaitre
