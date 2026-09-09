@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "J’ai fait 2 découvertes sur l’endométriose qui m’ont fait halluciner ! (Facetime avec ta Paulette)",
+      "date": "2026-09-07"
+    },
+    {
+      "titre": "L'astuce toute simple qui marche VRAIMENT pour se sentir plus heureux au quotidien !",
+      "date": "2026-08-31"
+    },
+    {
+      "titre": "Le nouveau jingle des Facetime avec ta Paulette (et storytime !)",
+      "date": "2026-08-25"
+    },
+    {
+      "titre": "TOUT comprendre sur l’affaire Lindsay Clancy",
+      "date": "2026-08-23"
+    },
+    {
+      "titre": "Comment reconnaître un narcissique dans les moments qui comptent vraiment ! (Facetime avec ta Paulette)",
+      "date": "2026-08-16"
+    }
+  ],
+  "derniere_activite": "2026-09-07",
+  "frequence_jours": 2
 }

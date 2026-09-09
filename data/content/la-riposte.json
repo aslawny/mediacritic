@@ -25,5 +25,51 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-09-09",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "Voile Islamique, gagner plus et chanter plus ! - L'intégrale du 7 septembre",
+      "date": "2026-09-08"
+    },
+    {
+      "titre": "La Riposte : Le retour ! - La chronique d'Akim Omiri dans \"La riposte\"",
+      "date": "2026-09-08"
+    },
+    {
+      "titre": "Marie la mytho - La chronique de Marie Desroles dans \"La riposte\"",
+      "date": "2026-09-08"
+    },
+    {
+      "titre": "Les scientifiques sont NULS - La chronique de Merlin dans \"La riposte\"",
+      "date": "2026-09-08"
+    },
+    {
+      "titre": "Matrix : Écologie - La chanson du Roi Borgne dans \"La riposte\"",
+      "date": "2026-09-08"
+    }
+  ],
+  "derniere_activite": "2026-09-08",
+  "frequence_jours": 0
 }

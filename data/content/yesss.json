@@ -26,5 +26,31 @@
     "rénovation",
     "DIY"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Marie-fi",
+        "titre": "Merci",
+        "texte": "Pas pour les grosses larmes que je viens de verser en écoutant les dernières secondes du dernier épisode (dans le RER avec le masque trempé sur le nez), mais merci pour ce podcast qui m’a fait un bien fou depuis le premier épisode.…"
+      },
+      {
+        "note": 5,
+        "auteur": "cg75003",
+        "titre": "Énergie++++++++",
+        "texte": "Les filles, vous êtes jubilatoires ... jamais rien entendu de plus stimulant! Merci de nous faire autant de bien. Je ne loupe aucunes de vos éditions, toutes mes copines ont été mises au parfum et attendent, elles aussi, votre dernière émission avidement.…"
+      },
+      {
+        "note": 5,
+        "auteur": "MargauxCasa",
+        "titre": "Une bulle de bien-être !",
+        "texte": "YESSS c’est vraiment un podcast qui fait du bien. C’est celui que je recommande toujours à mes copines ! On se reconnaît toutes dans les différentes situations, alors chaque victoire des warriors me fait un grand bien.…"
+      }
+    ]
+  }
 }

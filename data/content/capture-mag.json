@@ -49,5 +49,25 @@
     }
   ],
   "derniere_activite": "2026-08-28",
-  "frequence_jours": 12
+  "frequence_jours": 12,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-09-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tofwel",
+        "titre": "Vive le cinéma!",
+        "texte": "Un des meilleurs podcasts cinéma! Drôle, intelligent, hyper complet. Continuez comme ça!❤️❤️❤️"
+      },
+      {
+        "note": 5,
+        "auteur": "Swirvluca",
+        "titre": "Super intéréessant",
+        "texte": "Podcast très intéressant fait par des personnes qui savent de quoi elles parlent. C'est rare"
+      }
+    ]
+  }
 }

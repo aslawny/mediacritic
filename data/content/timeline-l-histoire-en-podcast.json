@@ -26,5 +26,31 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Toda raba",
+        "titre": "Génial et agréable",
+        "texte": "Bonsoir , J’ai chargé votre application podcast il y a un an semble t il . Vu le temps à tous les écouter car ils sont tous hyper intéressants . Je vous écoute en faisant du sport . J’ai d’écouté celui sur la déportation des juifs en France que je ne connaissais pas ...…"
+      },
+      {
+        "note": 1,
+        "auteur": "fabien735",
+        "titre": "Où sont les podcasts ?",
+        "texte": "Je viens de m’abonner mais aucun podcasts supplémentaires ???"
+      },
+      {
+        "note": 5,
+        "auteur": "Yvoned",
+        "titre": "Probablement le meilleur podcast d’histoire indépendant français",
+        "texte": "Un énorme travail a été réalisé pendant plus d’une décennie et ce, gratuitement, pour rendre le savoir accessible à tous. Maintenant, il faut payer une somme modique pour continuer à de profiter de ce précieux labeur. Merci Richard et Prem.…"
+      }
+    ]
+  }
 }

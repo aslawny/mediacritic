@@ -25,5 +25,29 @@
     "enfants",
     "éducation"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "Le vrai-faux reportage à Ankara des Bizzwizz",
+      "date": "2025-10-10"
+    },
+    {
+      "titre": "Le vrai-faux reportage à Melbourne des Super Kangourous",
+      "date": "2025-09-09"
+    },
+    {
+      "titre": "Le vrai-faux reportage à Nairobi des Super Journalistes",
+      "date": "2025-08-25"
+    },
+    {
+      "titre": "Le vrai-faux reportage à Lisbonne des Ferraris Rapides",
+      "date": "2025-08-21"
+    },
+    {
+      "titre": "Le vrai-faux reportage à Winnipeg des Vrais-Faux Reporters",
+      "date": "2025-08-12"
+    }
+  ],
+  "derniere_activite": "2025-10-10",
+  "frequence_jours": 5
 }

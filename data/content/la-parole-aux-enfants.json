@@ -25,5 +25,29 @@
     "enfants",
     "éducation"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "L'alimentation",
+      "date": "2025-04-01"
+    },
+    {
+      "titre": "Les métiers",
+      "date": "2025-03-09"
+    },
+    {
+      "titre": "Les loisirs",
+      "date": "2025-02-12"
+    },
+    {
+      "titre": "Le respect",
+      "date": "2025-02-02"
+    },
+    {
+      "titre": "Le harcèlement",
+      "date": "2025-01-23"
+    }
+  ],
+  "derniere_activite": "2025-04-01",
+  "frequence_jours": 9
 }

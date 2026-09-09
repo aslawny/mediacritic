@@ -24,5 +24,31 @@
     "education"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "JessyShakir",
+        "titre": "The Perfect Podcast to Start with English",
+        "texte": "Parlez Anglais avec Ben was the first podcast I listened to in English, and it really helped me understand spoken English more easily. The podcast is very well structured, with short but dense episodes that are interesting and full of useful content, especially vocabulary and gra…"
+      },
+      {
+        "note": 1,
+        "auteur": "ça mérite plein d'étoile",
+        "titre": "Je comprend pas",
+        "texte": "Je comprend pas les commentaire il sont en anglais donc je peux pas savoir si c’est bien ou pas je n’ai pas envie d’ écouter par ce que je n’aime pas l’anglais"
+      },
+      {
+        "note": 5,
+        "auteur": "cecile_lyon",
+        "titre": "The perfect teacher",
+        "texte": "I am a fan from lyon france ! And do you know Ben answered once my email in a very short Time. Incredible. I understand Ben exercises and really appreciate listening to him! I learn at times or just find useful to practice.…"
+      }
+    ]
+  }
 }

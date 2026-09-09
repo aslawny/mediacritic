@@ -49,5 +49,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "VINTAGE WEDNESDAY - J'ai perdu mon bébé de 16 mois, d'un cancer",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "Gluten, lactose, FODMAPs : ce qu'on vous a mal expliqué sur votre ventre",
+      "date": "2026-09-08"
+    },
+    {
+      "titre": "EP327 - L'amour est-il sexiste ? Ce que la théorie de l'attachement révèle sur les couples, Nela Klimcik",
+      "date": "2026-09-04"
+    },
+    {
+      "titre": "VINTAGE WEDNESDAY - Comment apprendre efficacement à l'école ?",
+      "date": "2026-09-02"
+    },
+    {
+      "titre": "326 - 3 choses à faire pour attaquer la rentrée du bon pied",
+      "date": "2026-09-01"
+    }
+  ],
+  "derniere_activite": "2026-09-09",
+  "frequence_jours": 2
 }

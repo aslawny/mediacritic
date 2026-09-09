@@ -25,5 +25,31 @@
   "tags": [
     "gaming"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-09-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Hicham X",
+        "titre": "Super satisfait",
+        "texte": "Super podcast, très agréable à écouter et intéressant dans son contenu sur un ton très chouettes et des blagues qui m’ont parfois fait passer pour un abruti dans le métro ( a sourire tout seul ). Merci Hicham"
+      },
+      {
+        "note": 5,
+        "auteur": "Kalment",
+        "titre": "Très bon",
+        "texte": "Certainement le meilleur podcast de jeux vidéo de tout les temps ... merci"
+      },
+      {
+        "note": 5,
+        "auteur": "Ganz2269",
+        "titre": "Excellent.",
+        "texte": "Merci Erwan pour ce très bon podcast, tes invités sont très bien choisis."
+      }
+    ]
+  }
 }

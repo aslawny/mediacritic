@@ -26,5 +26,31 @@
     "gaming",
     "rétro"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-09-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Verdoy Mgx",
+        "titre": "Super complet",
+        "texte": "Je les écoute tous les matins et parfois même le week-end quand j'ai raté un épisode. Super contenu, super intervenants, vraiment au top ! je recommande ps : ça peut-etre un peu d'intervenantEs ?"
+      },
+      {
+        "note": 5,
+        "auteur": "M.evasion",
+        "titre": "Essentiel !",
+        "texte": "Je suis CM et créatrice de contenu, ce podcast c’est l’assurance d’avoir les nouveautés de façon fun mais surtout brève en allant à l’essentiel , j’adore !"
+      },
+      {
+        "note": 5,
+        "auteur": "Nam.Aste",
+        "titre": "Une pépite !",
+        "texte": "Un boost d’informations pertinentes, super bien articulé et agréable à écouter ! Merci pour ce travail de dingue 😊"
+      }
+    ]
+  }
 }

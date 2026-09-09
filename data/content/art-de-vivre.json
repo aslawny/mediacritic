@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-27",
-  "frequence_jours": 13
+  "frequence_jours": 13,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "us",
+    "tri": "mostrecent",
+    "releve": "2026-09-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Goli kia",
+        "titre": "Parfait",
+        "texte": "Je vous adore, votre podcast est vraiment enrichissant. Je suis une nouvelle auditrice qui a beaucoup bénéficié de plusieurs épisodes de votre podcast.…"
+      },
+      {
+        "note": 5,
+        "auteur": "JuliePNW",
+        "titre": "Coup de coeur!",
+        "texte": "This is one of my favorite podcasts! I love Daphné’s positive energy, enthusiasm and practical advice. C’est un podcast qui m’aide à améliorer mon français tout en améliorant ma vie. Merci Daphné!"
+      },
+      {
+        "note": 5,
+        "auteur": "Lpinkcheeks",
+        "titre": "Love!",
+        "texte": "I love your podcast so much! You have such a great way to break down things to make them simple and easy to understand. Thank you! Bisous!"
+      }
+    ]
+  }
 }

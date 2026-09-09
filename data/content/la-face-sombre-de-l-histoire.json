@@ -27,5 +27,29 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "Robert Mugabe, du héros de l'indépendance au tyran du Zimbabwe",
+      "date": "2026-09-03"
+    },
+    {
+      "titre": "Hermann Göring, du fidèle d'Hitler au maréchal déchu",
+      "date": "2026-08-27"
+    },
+    {
+      "titre": "Cixi, la redoutable impératrice qui a dirigé la Chine \"cachée derrière un rideau\"",
+      "date": "2026-08-20"
+    },
+    {
+      "titre": "Agrippine la Jeune, l'ambitieuse mère de Néron au cœur des intrigues de Rome",
+      "date": "2026-08-13"
+    },
+    {
+      "titre": "Élisabeth Báthory, la \"comtesse sanglante\" derrière la légende de Dracula",
+      "date": "2026-08-06"
+    }
+  ],
+  "derniere_activite": "2026-09-03",
+  "frequence_jours": 7
 }

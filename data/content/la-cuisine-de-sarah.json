@@ -25,5 +25,29 @@
     "cuisine"
   ],
   "addedAt": "2026-08-03",
-  "updatedAt": "2026-08-03"
+  "updatedAt": "2026-08-03",
+  "episodes_recents": [
+    {
+      "titre": "Fish and Chips Gourmand : LA RECETTE à ne pas Manquer pour des Saveurs à Chaque Bouchée!",
+      "date": "2023-10-13"
+    },
+    {
+      "titre": "Poulet coréen CROUSTILLANT qui Fait Craquer Tout le Monde",
+      "date": "2023-10-06"
+    },
+    {
+      "titre": "Gâteau GÉNÉREUX en pomme - Rapide et facile",
+      "date": "2023-09-29"
+    },
+    {
+      "titre": "Samoussa végétarien CURRY",
+      "date": "2023-09-14"
+    },
+    {
+      "titre": "Msemen rond 100% SEMOULE",
+      "date": "2022-12-01"
+    }
+  ],
+  "derniere_activite": "2023-10-13",
+  "frequence_jours": 65
 }

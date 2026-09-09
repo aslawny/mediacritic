@@ -27,5 +27,55 @@
     "series"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Phoenixx7",
+        "titre": "Que du bonheur 🤩",
+        "texte": "Merci Sofiane !! Au-delà de vos analyses à tes invités et toi, subjectives et factuelles à la fois, on adore l’ambiance qui se dégage de tes podcasts. On aimerait être auprès de vous pour partager ces moments.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Étoilerose74⚡️",
+        "titre": "HARRY POTTER",
+        "texte": "Pour la saga d’Harry Potter, je trouve qu’elle joue super bien Emma Watson ça lui va parfaitement Hermione Granger"
+      },
+      {
+        "note": 5,
+        "auteur": "Pikachumario 2",
+        "titre": "Top ! Mais parlez de Star Wars continue comme ca",
+        "texte": "Belle imitation de watoo ! Très bien expliqué , très intéressant ! J’adore les épisodes sur le Seigneur des Anneaux et Le Hobbit j ai tout vu et c mes deux trilogies préférés avec la saga dont on ne doit pas parler .…"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "La saga Psychose",
+      "date": "2026-06-15"
+    },
+    {
+      "titre": "Scream 7",
+      "date": "2026-06-08"
+    },
+    {
+      "titre": "La saga Sonic",
+      "date": "2026-06-01"
+    },
+    {
+      "titre": "Dune, deuxième partie",
+      "date": "2026-05-13"
+    },
+    {
+      "titre": "Dune (2021)",
+      "date": "2026-04-20"
+    }
+  ],
+  "derniere_activite": "2026-06-15",
+  "frequence_jours": 19
 }

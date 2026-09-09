@@ -27,5 +27,29 @@
     "cuisine"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "Welsh Cakes avec Charlotte",
+      "date": "2026-06-04"
+    },
+    {
+      "titre": "Fortnum and Mason with Justin Hayden Miller",
+      "date": "2026-05-05"
+    },
+    {
+      "titre": "L'Entente Cordiale avec Alastair Ross in English",
+      "date": "2026-04-07"
+    },
+    {
+      "titre": "Le Lemon Meringue Pie de Keda Black",
+      "date": "2025-05-01"
+    },
+    {
+      "titre": "Le Cumberland Sauce du chef de l'Elysée Bernard Vaussion",
+      "date": "2025-03-21"
+    }
+  ],
+  "derniere_activite": "2026-06-04",
+  "frequence_jours": 29
 }

@@ -25,5 +25,31 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-09-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Rachistic",
+        "titre": "Plaisir d'écoute",
+        "texte": "Holà, J'habite à Arequipa au Pérou depuis 2 ans après avoir bourlingué une année dans plusieurs pays sudaméricains. Je taf dans le tourisme ce qui est plutôt agréable mais mon envie de bouger me démange sans arrêt.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Valentin Gentil",
+        "titre": "Une bombe",
+        "texte": "Grâce à ses deux gars, j’ai découvert des stratégies incroyablement puissantes. J’ai pris des barres de rire dans la rue où les gens se demandaient pourquoi je riais tout seul. Un podcast qui a changé ma vie.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Gillesan",
+        "titre": "Merci pour ce partage",
+        "texte": "Je laisse une évaluation sur l’app Podcasts. J’espère que ça marche quand même pour Stan. Stan super talent oratoire. Félicitations ! Paul, Super talent d’analyste (et anecdotes sympas) Félicitations …"
+      }
+    ]
+  }
 }

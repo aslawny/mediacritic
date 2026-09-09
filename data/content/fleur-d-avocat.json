@@ -49,5 +49,25 @@
     }
   ],
   "derniere_activite": "2026-05-30",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-09-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "gaetan noel",
+        "titre": "Un podcast qui ouvre l’esprit !",
+        "texte": "Un podcast découvert par hasard, mais qui fait beaucoup de bien. Des invités intéressants, qui se bougent pour trouver des solutions innovantes. Très chouette, à recommander. Merci !"
+      },
+      {
+        "note": 5,
+        "auteur": "Sonia-B.",
+        "titre": "Inspirant",
+        "texte": "Un podcast qui fait du bien! On ne voit pas le temps passer tellement l’ambiance y est bienveillante, instructive et chaleureuse! Un must pour les juristes ET non-juristes!"
+      }
+    ]
+  }
 }

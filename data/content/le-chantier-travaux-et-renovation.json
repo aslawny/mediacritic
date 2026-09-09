@@ -25,5 +25,31 @@
     "rénovation",
     "DIY"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "House in the Gers",
+        "titre": "Merci vous",
+        "texte": "Je viens de découvrir Le Chantier, et c’est une vraie révélation ! Ce podcast est une mine d’or pour tous ceux qui se lancent dans une rénovation, avec des histoires inspirantes, des conseils précieux et une énergie ultra motivante.…"
+      },
+      {
+        "note": 5,
+        "auteur": "amandine_rgvdb",
+        "titre": "Ma dose de motivation pour avancer mes travaux !",
+        "texte": "Ce podcast est incroyable, à chaque session travaux je me met un épisode (ou 2 ou 3...) dans les oreilles et j'avance à une vitesse folle. J’ai l’impression d’avoir du renfort 😁 J’ai adoré l'épisode #21 avec Marie Guédon qui donne des astuces pour apporter du charme à une maison…"
+      },
+      {
+        "note": 5,
+        "auteur": "bbkdo",
+        "titre": "J’adore ce podcast",
+        "texte": "J’adore ce podcast. Je l’écoute super régulièrement (je ré-écoute même des épisodes déjà écoutés). Je trouve les histoires inspirantes et j’aime beaucoup voir les photos des maisons ou appartements rénovés.…"
+      }
+    ]
+  }
 }

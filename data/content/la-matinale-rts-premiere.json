@@ -23,5 +23,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "L'invitée de La Matinale - Barbara Fouquet-Chauprade, sociologue, sur la modernisation de l’école",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "L'invitée de La Matinale - La conseillère nationale Brenda Tuosto (PS/VD)",
+      "date": "2026-09-08"
+    },
+    {
+      "titre": "La Matinale - Présenté par Yann Amedro",
+      "date": "2026-09-08"
+    },
+    {
+      "titre": "L'invité de La Matinale - Olivier Feller, conseiller national PLR vaudois",
+      "date": "2026-09-07"
+    },
+    {
+      "titre": "L'invité de La Matinale - Jean-François de Saussure, directeur général de Genève Aéroport",
+      "date": "2026-09-04"
+    }
+  ],
+  "derniere_activite": "2026-09-09",
+  "frequence_jours": 0
 }

@@ -25,5 +25,29 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "La semaine de l’UTMB vue par un fan de trail",
+      "date": "2026-09-03"
+    },
+    {
+      "titre": "Pourquoi j’ai hâte d’être à l’UTMB — 6 raisons",
+      "date": "2026-08-21"
+    },
+    {
+      "titre": "Grenoble–Gap en courant avec Olivier Crouvizier — Podcast immersif",
+      "date": "2026-08-13"
+    },
+    {
+      "titre": "Les marques indé de trail sont les plus intéressantes — Épisode enregistré en courant",
+      "date": "2026-08-03"
+    },
+    {
+      "titre": "Construire son propre FKT / Loïc Preghenella et Jason Costa",
+      "date": "2026-07-29"
+    }
+  ],
+  "derniere_activite": "2026-09-03",
+  "frequence_jours": 12
 }

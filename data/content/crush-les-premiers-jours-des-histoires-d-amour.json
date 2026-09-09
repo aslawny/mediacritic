@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-25",
-  "frequence_jours": 5
+  "frequence_jours": 5,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "La Cheftaine",
+        "titre": "Spécial épisode 100",
+        "texte": "Tu dois ABSOLUMENT écouter les 99 premiers épisodes, pour ensuite écouter ce merveilleux épisode 100 ❤️ Bouffée de bonne humeur, de lumière dans la pénombre et d’espoir, c’est GARANTIE ! J’ai découvert CRUSH en pleine période down, et MC m’a aussi servi de thérapie.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Tara Izarra",
+        "titre": "WaouW",
+        "texte": "J’écoute un épisode et je dis Waouw quelle histoire. Du coup j’en écoute une autre puis je bingelisten (je sais pas si ce mot existe mais c’est exactement ce que je fais j’enchaîne les épisodes) et ce sont des histoires incroyables touchantes émouvantes avec des personnes inspira…"
+      },
+      {
+        "note": 5,
+        "auteur": "La Nell 42",
+        "titre": "Complètement fan",
+        "texte": "J’écoute énormément de podcast a longueur de journée. Je suis tombée par hasard sur celui ci, et je l’adore je dévore les épisodes, MC est vraiment géniale ses interviews sont passionnantes.…"
+      }
+    ]
+  }
 }

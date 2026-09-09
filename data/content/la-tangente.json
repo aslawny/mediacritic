@@ -25,5 +25,29 @@
     "culture"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "Hugo Lassiège (CTO de Malt) #2: IA, freelancing, Europe, Japon : les vraies tensions de la tech",
+      "date": "2026-03-26"
+    },
+    {
+      "titre": "Partie 1 - De développeur à CTO de Malt : carrière, staff et impact",
+      "date": "2025-11-25"
+    },
+    {
+      "titre": "SRE, Falco, Go : la tech vue de l’intérieur avec Thomas Labarussias",
+      "date": "2025-08-21"
+    },
+    {
+      "titre": "Il crée Docker et révolutionne l’infrastructure – Solomon Hykes",
+      "date": "2025-05-20"
+    },
+    {
+      "titre": "Une tasse de fiabilité : Discussion avec un SRE - Quentin Joly",
+      "date": "2025-04-16"
+    }
+  ],
+  "derniere_activite": "2026-03-26",
+  "frequence_jours": 42
 }

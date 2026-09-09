@@ -27,5 +27,51 @@
     "series"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-09-09",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "Spider-Man, Obsession, L'Odyssée... que retenir du box-office de l'été 2026 ?",
+      "date": "2026-09-03"
+    },
+    {
+      "titre": "La Fin d'Oak Street : pourquoi le film de dinosaures divise (et énerve) autant ?",
+      "date": "2026-08-20"
+    },
+    {
+      "titre": "SPIDER-MAN : BRAND NEW DAY mérite-t-il son succès ?",
+      "date": "2026-08-06"
+    },
+    {
+      "titre": "L'ODYSSÉE : le meilleur (et le pire) de Christopher Nolan en un film",
+      "date": "2026-07-23"
+    },
+    {
+      "titre": "Rachat de Warner : pourquoi ça devrait inquiéter tout le monde (et vous aussi)",
+      "date": "2026-06-18"
+    }
+  ],
+  "derniere_activite": "2026-09-03",
+  "frequence_jours": 14
 }

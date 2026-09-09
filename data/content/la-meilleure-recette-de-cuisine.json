@@ -25,5 +25,29 @@
     "cuisine"
   ],
   "addedAt": "2026-08-03",
-  "updatedAt": "2026-08-03"
+  "updatedAt": "2026-08-03",
+  "episodes_recents": [
+    {
+      "titre": "Ce gâteau est tellement délicieux qu'il disparaît en quelques minutes !",
+      "date": "2026-08-10"
+    },
+    {
+      "titre": "Ce plat est tellement savoureux que vous allez le préparer chaque semaine !",
+      "date": "2026-08-10"
+    },
+    {
+      "titre": "La confiture de fraises maison la plus délicieuse !",
+      "date": "2026-08-10"
+    },
+    {
+      "titre": "Le dessert au chocolat parfait : facile, rapide et incroyablement gourmand !",
+      "date": "2026-08-10"
+    },
+    {
+      "titre": "Ce dessert est tellement bon que tout le monde en redemande !",
+      "date": "2026-08-10"
+    }
+  ],
+  "derniere_activite": "2026-08-10",
+  "frequence_jours": 0
 }

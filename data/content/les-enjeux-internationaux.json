@@ -23,5 +23,25 @@
     "géopolitique",
     "international"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ch",
+    "tri": "mosthelpful",
+    "releve": "2026-09-09",
+    "extraits": [
+      {
+        "note": 2,
+        "auteur": "Monocalvo",
+        "titre": "Décevant",
+        "texte": "Et toujours les mêmes profils socio-économiques qui sont interviewés, pour conforter le prisme anti-libéral de Radio-France; pour qui vit en Amérique latine depuis de nombreuses années, leurs analyses sont souvent confondantes de conformisme universitaire bien-pensant."
+      },
+      {
+        "note": 2,
+        "auteur": "Fageneva",
+        "titre": "Qualité en déclin",
+        "texte": "Et la chute continue, avec la ligne éditoriale pro-gauchiste toujours plus affirmée au point de devenir caricatural."
+      }
+    ]
+  }
 }

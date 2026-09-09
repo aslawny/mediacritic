@@ -24,5 +24,31 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ch",
+    "tri": "mostrecent",
+    "releve": "2026-09-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Caspersamer",
+        "titre": "Mortel",
+        "texte": "Vous m'aidez à survivre ma vie merdique et déprimante de papa de 3 enfants travaillant en plus dans l'éducation nationale, merci les gars. Voilà, un petit commentaire positif, j'ai fait mon taf, par contre je vous filerai pas 1 centime, plutôt crever Ps le format vocalcast en mes…"
+      },
+      {
+        "note": 5,
+        "auteur": "Omeima_ha",
+        "titre": "Je surkiffe",
+        "texte": "J’écoute votre podcast pendant mes trajets en train et je ne fais que de glousser comme une dinde. Merci les gars!"
+      },
+      {
+        "note": 5,
+        "auteur": "bitevolante",
+        "titre": "Cristalline",
+        "texte": "Bonjour, les bouteilles de cristalline des yo mec sont des mélanges, alcool + soft"
+      }
+    ]
+  }
 }

@@ -23,5 +23,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "La Revue de Presse du 9 Septembre 2026",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "US Open : Les joueurs de tennis dénoncent le bruit des influenceurs en tribune",
+      "date": "2026-09-08"
+    },
+    {
+      "titre": "D'où vient l'écriture ?",
+      "date": "2026-09-07"
+    },
+    {
+      "titre": "La première photographie de l'histoire",
+      "date": "2026-09-04"
+    },
+    {
+      "titre": "Le projet Panama, un plan secret pour dévorer tous les livres du monde",
+      "date": "2026-09-03"
+    }
+  ],
+  "derniere_activite": "2026-09-09",
+  "frequence_jours": 0
 }

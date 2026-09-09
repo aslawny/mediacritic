@@ -25,5 +25,31 @@
     "bien-être",
     "psychologie"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ttitouuu",
+        "titre": "Nouvelle",
+        "texte": "Coucou Je suis nouvelle sur la plate-forme Je tenais à te féliciter pour ton travail Je ne sais pas trop comment ça fonctionne, j’aimerais commenter et donner un avis sous chaque podcast mais je ne sais pas faire As tu un compte Instagram ?"
+      },
+      {
+        "note": 1,
+        "auteur": "Tzouz",
+        "titre": "LE SON !",
+        "texte": "Le son est horrible..... dommage car les sujets sont intéressants."
+      },
+      {
+        "note": 5,
+        "auteur": "Je vous adore 🏇🏼",
+        "titre": "Désolée",
+        "texte": "Désolé pour le message oû je demande à quelle potcast il y a Ghuter Lepoutre parce que c’est dans ce podcast mes je voulais dire que j’adore ce podcast grâce a Ghuter Lepoutre bisous 💋 à bientôt ✌️"
+      }
+    ]
+  }
 }

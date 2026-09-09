@@ -27,5 +27,29 @@
     "comedie"
   ],
   "addedAt": "2026-07-21",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "Les Menhirs de C'ARNAQUE",
+      "date": "2025-02-05"
+    },
+    {
+      "titre": "Un serpent en supermarché, une baby shower et une migraine ophtalmique !",
+      "date": "2025-01-30"
+    },
+    {
+      "titre": "Un \"épisode\" bien particulier ! Et à demain !",
+      "date": "2025-01-29"
+    },
+    {
+      "titre": "Un rêve lucide avec une chauve souris canadienne",
+      "date": "2025-01-22"
+    },
+    {
+      "titre": "Au coeur de la grippe ! Et vive la Bretagne !",
+      "date": "2025-01-15"
+    }
+  ],
+  "derniere_activite": "2025-02-05",
+  "frequence_jours": 7
 }

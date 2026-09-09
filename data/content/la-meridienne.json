@@ -23,5 +23,29 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "Institution judiciaire en difficulté: les revendications de l’Union syndicale des magistrats",
+      "date": "2026-07-07"
+    },
+    {
+      "titre": "Les Quais d’été",
+      "date": "2026-07-02"
+    },
+    {
+      "titre": "Le mois des fiertés à Caen",
+      "date": "2026-06-30"
+    },
+    {
+      "titre": "Vivre la coupe du monde à Caen",
+      "date": "2026-06-18"
+    },
+    {
+      "titre": "Ouverture d’une troisième librairie solidaire Saperlotte",
+      "date": "2026-05-28"
+    }
+  ],
+  "derniere_activite": "2026-07-07",
+  "frequence_jours": 2
 }

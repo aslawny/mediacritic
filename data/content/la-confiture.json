@@ -25,5 +25,29 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "Ep. 41 - Everything Everywhere All at Once",
+      "date": "2026-09-04"
+    },
+    {
+      "titre": "Ep. 40 - Pulp Fiction",
+      "date": "2026-07-06"
+    },
+    {
+      "titre": "Ep. 39 - La Valse des pantins",
+      "date": "2026-04-24"
+    },
+    {
+      "titre": "Ep. 38 - Les Anges déchus",
+      "date": "2025-04-21"
+    },
+    {
+      "titre": "Ep. 37 - Joker : Folie à deux",
+      "date": "2024-10-14"
+    }
+  ],
+  "derniere_activite": "2026-09-04",
+  "frequence_jours": 51
 }

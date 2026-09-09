@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-01",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ch",
+    "tri": "mostrecent",
+    "releve": "2026-09-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Chausette123456",
+        "titre": "Implicite en plus",
+        "texte": "Je trouve ça actuellement toujours très difficile de trouver des contenus audio, audio-visuels ou même juste visuels qui soient anti-sexistes/divers/inclusifs de façon IMPLICITE …"
+      },
+      {
+        "note": 5,
+        "auteur": "MarieAudrey27",
+        "titre": "Incroyables histoires",
+        "texte": "Ce podcast est juste magnifique, les voix, les histoires, la magie…Définitivement notre podcast préféré de tous les podcasts d’histoires pour enfants !"
+      },
+      {
+        "note": 5,
+        "auteur": "Sylvaine44",
+        "titre": "Trop bien",
+        "texte": "Salut ici Antonin 5 ans adore écouter vos histoires...... et je dois dire que moi aussi 😉 salutation depuis la Suisse Sylvaine"
+      }
+    ]
+  }
 }

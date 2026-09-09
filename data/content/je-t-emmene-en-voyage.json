@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2023-08-04",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tifenn_Donna",
+        "titre": "Inspiration",
+        "texte": "Un podcast qui m’accompagne dès la sédentarité, A accueillir des femmes aventurières, tu motives à ne pas cultiver cette peur de voyager seule en tant que femme, A écouter des récits d’hommes qui ont quitté un chemin qui pouvait être tracé, vers l’école de la vie, et se sont form…"
+      },
+      {
+        "note": 1,
+        "auteur": "Crisnice43",
+        "titre": "Problème de son",
+        "texte": "Gros problème d’égalisation du niveau sonore, c’est pénible à écouter"
+      },
+      {
+        "note": 5,
+        "auteur": "BigEdison",
+        "titre": "Grosse claque",
+        "texte": "La grosse découverte podcastique de 2020, je dévore les épisodes dès qu’un nouveau sort. Aussi bien que l’invité et que Alex me sont voyager a chaque fois.…"
+      }
+    ]
+  }
 }

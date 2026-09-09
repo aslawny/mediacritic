@@ -25,5 +25,29 @@
     "musique",
     "culture"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "Axel de Bourbon Parme, un prince en boutique… et en Champagne",
+      "date": "2026-04-12"
+    },
+    {
+      "titre": "Gastronomie à Paris : les adresses “coup de cœur” de Côme de Chérisey",
+      "date": "2026-04-05"
+    },
+    {
+      "titre": "Du cockpit aux vignes : l’incroyable trajectoire de Martial Mignet",
+      "date": "2026-03-29"
+    },
+    {
+      "titre": "Marguerite Courtois, l’art du chapeau entre Paris et Honfleur",
+      "date": "2026-03-22"
+    },
+    {
+      "titre": "Gabriel Gaultier, l’art de trouver la bonne phrase",
+      "date": "2026-03-15"
+    }
+  ],
+  "derniere_activite": "2026-04-12",
+  "frequence_jours": 7
 }

@@ -26,5 +26,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "#29 Émilie Franzo",
+      "date": "2025-04-30"
+    },
+    {
+      "titre": "#28 François Blanc",
+      "date": "2025-03-26"
+    },
+    {
+      "titre": "#27 Marine @activebymarine",
+      "date": "2025-02-19"
+    },
+    {
+      "titre": "#26 Pascale Weeks",
+      "date": "2025-01-29"
+    },
+    {
+      "titre": "#25 Micro-trottoir de Noël au Salon du chocolat",
+      "date": "2024-12-11"
+    }
+  ],
+  "derniere_activite": "2025-04-30",
+  "frequence_jours": 21
 }

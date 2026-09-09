@@ -24,5 +24,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "Quand on bâtissait une cathédrale au Moyen Âge",
+      "date": "2024-11-06"
+    },
+    {
+      "titre": "Rites funéraires et pratiques mortuaires en Occident",
+      "date": "2023-11-01"
+    },
+    {
+      "titre": "Rites funéraires et pratiques mortuaires en Occident",
+      "date": "2023-11-01"
+    },
+    {
+      "titre": "Saint Augustin de la philosophie à la foi",
+      "date": "2023-09-02"
+    },
+    {
+      "titre": "La reine Victoria",
+      "date": "2023-09-01"
+    }
+  ],
+  "derniere_activite": "2024-11-06",
+  "frequence_jours": 6
 }

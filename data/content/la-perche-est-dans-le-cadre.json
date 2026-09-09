@@ -25,5 +25,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "UN GRAND RACCOURCI",
+      "date": "2026-09-04"
+    },
+    {
+      "titre": "JUSTE POUR UNE NUIT (ONE NIGHT ONLY)",
+      "date": "2026-08-24"
+    },
+    {
+      "titre": "LA FIN D'OAK STREET",
+      "date": "2026-08-20"
+    },
+    {
+      "titre": "DE LA COMÉDIE FRANÇAISE",
+      "date": "2026-08-13"
+    },
+    {
+      "titre": "SPIDER-MAN : BRAND NEW DAY",
+      "date": "2026-08-08"
+    }
+  ],
+  "derniere_activite": "2026-09-04",
+  "frequence_jours": 7
 }

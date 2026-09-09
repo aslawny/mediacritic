@@ -25,5 +25,29 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "episodes_recents": [
+    {
+      "titre": "HORS SERIE #2",
+      "date": "2024-01-24"
+    },
+    {
+      "titre": "S2EP02 : Django Unchained x Spider-Man : Into the Spider-Verse",
+      "date": "2023-12-13"
+    },
+    {
+      "titre": "S2EP01 : Bullet Train x Ready Player One",
+      "date": "2023-11-08"
+    },
+    {
+      "titre": "S1EP07 : LES AMIS",
+      "date": "2023-05-09"
+    },
+    {
+      "titre": "S1EP06 : LES CHIENS",
+      "date": "2023-04-11"
+    }
+  ],
+  "derniere_activite": "2024-01-24",
+  "frequence_jours": 32
 }

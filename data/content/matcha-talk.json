@@ -26,5 +26,31 @@
     "education"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-09-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lisa🌞🌊🪸🌴",
+        "titre": "Je t’adore 😍",
+        "texte": "j’adore écouter ton podcast chaque semaine. J’attends avec impatiente que tu le sortes. Continue comme ça. J’adore ce petit moment. Bisous"
+      },
+      {
+        "note": 5,
+        "auteur": "Summer@17",
+        "titre": "Trop fan 😍",
+        "texte": "Coucou, j’adore ton podcast, je suis vrm trop fan de tout ce que tu fais ( video, shorts, etc… ) continue comme ça tu es incroyable 🥰"
+      },
+      {
+        "note": 5,
+        "auteur": "Louise _ Gnt",
+        "titre": "Trop bien",
+        "texte": "Tes podcasts sont trop bien Je t’adore et tu a énormément de courage Continue comme ça"
+      }
+    ]
+  }
 }
