@@ -562,6 +562,9 @@ def render_fiche(data):
     # Ecrit dans le HTML puis relu, Python le convertit : le fichier ne
     # correspondait jamais a ce qu'on venait de generer, et deux fiches
     # (verino, melan-officiel) etaient reecrites a chaque passage du bot.
+    # Porte son propre saut de ligne : vide, il ne doit rien laisser.
+    _avis = bloc_avis(data)
+    _avis = _avis + chr(10) if _avis else ""
     _d = data.get("description") or ""
     description = _d.replace(chr(13) + chr(10), chr(10)).replace(chr(13), chr(10))
     image = data.get("image")
@@ -831,8 +834,7 @@ def render_fiche(data):
   </div>
 
 {bloc_episodes(data)}
-{bloc_avis(data)}
-{bloc_similaires(data)}
+{_avis}{bloc_similaires(data)}
 {bloc_partage(data)}
   <div class="card">
     <h2>📻 MediaCritic, c'est quoi ?</h2>
@@ -1082,11 +1084,17 @@ def main():
         # On compare avant d'ecrire : `needs_update` se fie aux dates de
         # fichiers, donc un simple `touch` du JSON declenchait une reecriture
         # a contenu identique. Le sitemap ne doit pas s'en emouvoir.
-        if existed and html_path.read_text(encoding="utf-8") == html:
+        ancien = html_path.read_text(encoding="utf-8") if existed else None
+        if ancien == html:
             skipped += 1
             continue
         html_path.write_text(html, encoding="utf-8")
-        slugs_modifies.add(data["slug"])
+        # Un ecart qui ne porte QUE sur des espaces ne change rien pour un
+        # lecteur ni pour un moteur. On ecrit pour converger, mais on ne
+        # touche pas au lastmod : une ligne blanche en trop avait fait
+        # rafraichir 6 496 URLs du sitemap sans qu'aucun contenu ne bouge.
+        if ancien is None or " ".join(ancien.split()) != " ".join(html.split()):
+            slugs_modifies.add(data["slug"])
         if existed:
             updated += 1
         else:
