@@ -140,7 +140,13 @@
   }
 
   function replier(nav) {
-    var menuNav = nav.querySelector(".nav-links");
+    var burger = nav.querySelector(".nav-burger");
+    // Le menu burger n'accueille le bouton QUE s'il est reellement actif.
+    // Sinon .nav-links est une rangee horizontale : y poser un menu en flux
+    // normal deplie les six options DANS la barre de navigation. Vu en ligne
+    // a 1280 px, ou la nav est plus large qu'en local (elle porte la date).
+    var enBurger = burger && getComputedStyle(burger).display !== "none";
+    var menuNav = enBurger ? nav.querySelector(".nav-links") : null;
     boite.style.marginLeft = "";
     boite.style.position = "";
     boite.style.right = boite.style.top = boite.style.transform = "";
@@ -156,11 +162,14 @@
       menu.style.minWidth = "0";
       menuNav.appendChild(boite);
     } else {
-      boite.style.position = "fixed";
-      boite.style.top = "10px";
-      boite.style.right = "10px";
-      boite.style.zIndex = "700";
-      document.body.appendChild(boite);
+      // Hors mode burger : on sort le bouton du flux pour qu'il ne coute
+      // aucune largeur a la barre, tout en gardant son menu deroulant.
+      if (getComputedStyle(nav).position === "static") nav.style.position = "relative";
+      boite.style.position = "absolute";
+      boite.style.right = "14px";
+      boite.style.top = "50%";
+      boite.style.transform = "translateY(-50%)";
+      nav.appendChild(boite);
     }
   }
 
