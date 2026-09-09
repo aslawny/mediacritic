@@ -236,6 +236,19 @@ if _m_noi and _attendu and int(_m_noi.group(1)) != _attendu:
 else:
     print(f"  ✓ numberOfItems = {_attendu} (compte exact du catalogue)")
 
+# 7f. Bouton « Partager » : present sur toutes les pages.
+#     La balise vit dans les cinq generateurs ET dans patch_partage_global.py.
+#     Ce controle attrape une page creee par un chemin qu'on n'aurait pas prevu.
+_sans_partage = []
+for _f in (list(ROOT.glob("*.html")) + list((ROOT / "categories").glob("*.html"))
+           + list((ROOT / "episodes").glob("*.html"))):
+    if "partage.js" not in _f.read_text(encoding="utf-8"):
+        _sans_partage.append(_f.name)
+if _sans_partage:
+    err("bouton Partager absent : " + ", ".join(sorted(_sans_partage)[:5]))
+else:
+    print("  ✓ bouton « Partager » présent sur toutes les pages")
+
 # 8. Double identite : annuaire ET critiques
 #    Les moteurs generatifs ne percevaient le site que comme un blog de
 #    critiques. Ce controle empeche l identite d annuaire de disparaitre

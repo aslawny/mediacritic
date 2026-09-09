@@ -56,6 +56,7 @@ REGENERATEURS = [
     "scripts/patch_nav_episodes.py",     # nav des pages episodes + badge
     "scripts/patch_partage_episodes.py", # rangee de partage
     "scripts/patch_meta_episodes.py",    # titres/descriptions/twitter:card
+    "scripts/patch_partage_global.py",   # bouton « Partager » en tete de page
     "scripts/sync_compteurs.py",         # compteurs : source unique
 ]
 

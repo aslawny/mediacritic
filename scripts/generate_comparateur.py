@@ -432,6 +432,10 @@ l&rsquo;&eacute;pisode consacr&eacute; au contenu. Le rythme de publication est 
 %(js)s
 <script async src="https://www.googletagmanager.com/gtag/js?id=%(ga)s"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','%(ga)s');</script>
+<!-- Bouton « Partager » en tete de page. Composant autonome : il lit
+     document.title et location.href, donc rien a regenerer quand un
+     titre change. Voir assets/partage.js. -->
+<script defer src="/assets/partage.js"></script>
 </body>
 </html>""" % {
         "titre": h(titre), "desc": h(desc), "base": BASE,

@@ -251,6 +251,10 @@ document.querySelectorAll('.pal-btn').forEach(function(b){{
   }});
 }});
 </script>
+<!-- Bouton « Partager » en tete de page. Composant autonome : il lit
+     document.title et location.href, donc rien a regenerer quand un
+     titre change. Voir assets/partage.js. -->
+<script defer src="/assets/partage.js"></script>
 </body>
 </html>
 """

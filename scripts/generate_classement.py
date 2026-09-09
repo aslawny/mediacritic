@@ -245,6 +245,10 @@ def main():
 </footer>
 <script async src="https://www.googletagmanager.com/gtag/js?id={GA}"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments);}}gtag('js',new Date());gtag('config','{GA}');</script>
+<!-- Bouton « Partager » en tete de page. Composant autonome : il lit
+     document.title et location.href, donc rien a regenerer quand un
+     titre change. Voir assets/partage.js. -->
+<script defer src="/assets/partage.js"></script>
 </body>
 </html>"""
 
