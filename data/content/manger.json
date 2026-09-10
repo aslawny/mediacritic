@@ -27,5 +27,31 @@
     "culture"
   ],
   "addedAt": "2026-07-24",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-10",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Neïla adjali",
+        "titre": "Très bon contenu",
+        "texte": "Merci pour ce contenu qui est très enrichissant, j’aime beaucoup la démarche sociologique ainsi que les intervenants qui viennent apporter des réponses claires et précises sur chaque épisode. Bravo pour votre travail …"
+      },
+      {
+        "note": 1,
+        "auteur": "Nick_Carraway",
+        "titre": "Trop de blabla",
+        "texte": "Les sujets sont intéressants et les intervenants de grande qualité, mais je n’aime pas toute cette narration à la Balzac autour. Qu’une chercheuse soit grande ou petite, avec les cheveux courts ou longs, quel intérêt ? J’aimerais que ce podcast aille plus à l’essentiel."
+      },
+      {
+        "note": 5,
+        "auteur": "Mouth37",
+        "titre": "Mon plat fétiche",
+        "texte": "C’est le complet chaud au saucisson Pain Beurre Saucisson Cornichon Tomates Éventuellement piment Et gruyère Sous la rôtissoire du four quelques minutes Je ne sais pas pourquoi je raffole de ce sandwich découvert dans un bar tourangeau en 1987 Je suis pourtant plutôt un aventurie…"
+      }
+    ]
+  }
 }

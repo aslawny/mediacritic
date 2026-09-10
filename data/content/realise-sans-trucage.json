@@ -26,5 +26,31 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-10",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tilbaika",
+        "titre": "J’adoore",
+        "texte": "Merci. J’aime vraiment énormément ce podcast. J’ai retrouvé goût au cinéma (oui carrément j’ai eu quelques années de vide cinématographique et là je me note tous les films conseillés et j’ai repris une carte illimitée !) et j’attends avec impatience chaque nouvel épisode.…"
+      },
+      {
+        "note": 1,
+        "auteur": "FrelonPizza",
+        "titre": "Désolant",
+        "texte": "L’entre-soi dans toute sa splendeur,ont pourrait croire à une parodie mais non c’est bien réel."
+      },
+      {
+        "note": 5,
+        "auteur": "Rockandmovies33",
+        "titre": "Juste le plaisir de parler cinéma",
+        "texte": "Je ne laisse que très rarement des commentaires mais, sortant de plusieurs films recommandés par vous, il était temps de vous remercier! Je vous écoute depuis votre podcast précédent sans louper un épisode car ça me fait du bien d’entendre parler cinéma ce qui est rare autour de…"
+      }
+    ]
+  }
 }

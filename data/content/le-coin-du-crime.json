@@ -27,7 +27,7 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-07",
+  "updatedAt": "2026-09-10",
   "avis_publics": {
     "source": "apple",
     "boutique": "be",
@@ -53,5 +53,29 @@
         "texte": "Excellent podcast! Déjà super dans la première version d’une dizaine de minutes, il est vraiment génial dans sa version de 40 minutes! Si vous savez, faites comme moi, devenez patreon pour les soutenir!😉👍"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Repost : Marc Dutroux, l'ogre belge",
+      "date": "2025-12-07"
+    },
+    {
+      "titre": "Repost : Dr. Death et la glaçante histoire d'un médecin criminel",
+      "date": "2025-11-09"
+    },
+    {
+      "titre": "Repost : Robert Pickton, le tueur de prostituées",
+      "date": "2025-11-02"
+    },
+    {
+      "titre": "Repost : La mystérieuse cassette vidéo de Stockton",
+      "date": "2025-10-26"
+    },
+    {
+      "titre": "Repost : Deux Histoires Paranormales Arabes",
+      "date": "2025-10-19"
+    }
+  ],
+  "derniere_activite": "2025-12-07",
+  "frequence_jours": 7
 }

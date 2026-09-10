@@ -27,7 +27,7 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-07",
+  "updatedAt": "2026-09-10",
   "episodes_recents": [
     {
       "titre": "Cyberpunk - Choomba Night",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2025-12-15",
-  "frequence_jours": 10
+  "frequence_jours": 10,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Oeil-de-nuit",
+        "titre": "A écouter (ou à voir) d’urgence !",
+        "texte": "Super podcast pour tout amateur de JdR (ici D&D) ou de simple curieux. L’équipe complète et au top, les décors (visibles sur la version YouTube), les musiques et bruitages, le matériel, tout est vraiment super bien calibré.…"
+      },
+      {
+        "note": 5,
+        "auteur": "turboceviche",
+        "titre": "A découvrir de toute urgence !",
+        "texte": "Vous ne connaissez pas le JDR ? Je vous conseille alors de découvrir ce loisir qui fais mon passe-temps depuis des années. A la bonne auberge, vous rencontrerez des gens passionnés qui s’implique au maximum dans leur aventures, sous le joug des fameuses règles de Dungeons et Drag…"
+      },
+      {
+        "note": 5,
+        "auteur": "MaélieMélo",
+        "titre": "👍🏻👍🏻👍🏻",
+        "texte": "Je vous recommande la bonne auberge. Une séance de rattrapage va vous occuper pendant le confinement 😉 Pour les parents, commencez une épopée fantastique avec vos enfants vous permettra d’aborder la motricité fine avec la gestion des dés et les additions.…"
+      }
+    ]
+  }
 }

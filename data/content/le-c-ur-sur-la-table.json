@@ -27,7 +27,7 @@
     "news"
   ],
   "addedAt": "2026-06-09",
-  "updatedAt": "2026-09-07",
+  "updatedAt": "2026-09-10",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -53,5 +53,29 @@
         "texte": "J'écoute ce podcast depuis ses débuts, depuis le choc de King Kong théorie dans ma vie de femme hetero élevée par une mère homo. Je suis très solidaire du constat désespérant voir rageant du carnage du patriarcat et comprends bien la joie et l'épanouissement de la nouvelle généra…"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Pourquoi tu m’aimes pas ? | Tout va bien se passer (5/5)",
+      "date": "2026-08-12"
+    },
+    {
+      "titre": "Pourquoi tu m’aimes pas ? | “Une histoire de timing” ? (4/5)",
+      "date": "2026-08-05"
+    },
+    {
+      "titre": "Pourquoi tu m’aimes pas ? | Devenir : folle ? (3/5)",
+      "date": "2026-07-29"
+    },
+    {
+      "titre": "Pourquoi tu m’aimes pas ? | Le flou artistique (2/5)",
+      "date": "2026-07-22"
+    },
+    {
+      "titre": "Pourquoi tu m’aimes pas ? | L’homme de ma vie (1/5)",
+      "date": "2026-07-15"
+    }
+  ],
+  "derniere_activite": "2026-08-12",
+  "frequence_jours": 7
 }

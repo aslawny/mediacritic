@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/le-club-de-lulu/id1725321887?uo=2",
       "trackId": 1725321887,
       "rating": 3.9,
-      "ratingCount": 579,
+      "ratingCount": 581,
       "episodeCount": null
     }
   },
@@ -27,5 +27,51 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-10",
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-09-10",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "Lulu veut un portable",
+      "date": "2024-12-07"
+    },
+    {
+      "titre": "Lulu se perd au centre commercial",
+      "date": "2024-11-23"
+    },
+    {
+      "titre": "Théo se fait harceler",
+      "date": "2024-11-06"
+    },
+    {
+      "titre": "Lulu a la flemme",
+      "date": "2024-10-26"
+    },
+    {
+      "titre": "Lulu en a marre de la cantine",
+      "date": "2024-10-05"
+    }
+  ],
+  "derniere_activite": "2024-12-07",
+  "frequence_jours": 14
 }

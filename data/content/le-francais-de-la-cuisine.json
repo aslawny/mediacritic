@@ -23,5 +23,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "Nouvelles tendances alimentaires: le flexitarisme.",
+      "date": "2019-05-30"
+    },
+    {
+      "titre": "Cartes et menus, en Italie et en France.",
+      "date": "2019-05-20"
+    },
+    {
+      "titre": "Gastronomie et cuisine moléculaires",
+      "date": "2019-05-17"
+    },
+    {
+      "titre": "Le tourisme gastronomique, c'est quoi?",
+      "date": "2019-05-17"
+    },
+    {
+      "titre": "La bistronomie",
+      "date": "2019-05-16"
+    }
+  ],
+  "derniere_activite": "2019-05-30",
+  "frequence_jours": 2
 }

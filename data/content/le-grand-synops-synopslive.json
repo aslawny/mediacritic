@@ -23,5 +23,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-10",
+  "episodes_recents": [
+    {
+      "titre": "SynopsLive : Jusqu'au Bout De l'Année",
+      "date": "2011-12-31"
+    },
+    {
+      "titre": "Le Grand Synops 55 : Noël 2011",
+      "date": "2011-12-24"
+    },
+    {
+      "titre": "Le Grand Synops 54",
+      "date": "2011-12-10"
+    },
+    {
+      "titre": "Le Grand Synops 53",
+      "date": "2011-11-12"
+    },
+    {
+      "titre": "Le Grand Synops 52 : Tostaky et Yamakii",
+      "date": "2011-10-22"
+    }
+  ],
+  "derniere_activite": "2011-12-31",
+  "frequence_jours": 14
 }

@@ -26,5 +26,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-10",
+  "episodes_recents": [
+    {
+      "titre": "Le Grand Pastis 2026-05-16 20 Ans des Grandes table pt2",
+      "date": "2026-05-27"
+    },
+    {
+      "titre": "Le Grand Pastis 2026-05-02 20 Ans des Grandes table pt1",
+      "date": "2026-05-27"
+    },
+    {
+      "titre": "Le Grand Pastis 2026-04-18 Rhumerie Le Vieux Foyal",
+      "date": "2026-04-19"
+    },
+    {
+      "titre": "Le Grand Pastis 2026-04-04 Patisserie Sylvain Depuichaffray",
+      "date": "2026-04-10"
+    },
+    {
+      "titre": "Le Grand Pastis 2026-03-21 Sylvain Touati",
+      "date": "2026-04-10"
+    }
+  ],
+  "derniere_activite": "2026-05-27",
+  "frequence_jours": 8
 }

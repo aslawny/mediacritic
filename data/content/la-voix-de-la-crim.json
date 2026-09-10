@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/la-voix-de-la-crim/id1743766624?uo=2",
       "trackId": 1743766624,
       "rating": 5.0,
-      "ratingCount": 30,
+      "ratingCount": 31,
       "episodeCount": null
     }
   },
@@ -25,5 +25,29 @@
     "education"
   ],
   "addedAt": "2026-07-12",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-10",
+  "episodes_recents": [
+    {
+      "titre": "La Voix de la Crim’ N° 10 – juillet 2026",
+      "date": "2026-07-08"
+    },
+    {
+      "titre": "La Voix de la Crim’ N°9 – Mars 2026 | Pas de violence parentale",
+      "date": "2026-03-27"
+    },
+    {
+      "titre": "La Voix de la Crim’ – n°8 – janvier 2026 | Fusion d’établissements publics et transfert du risque pénal",
+      "date": "2026-01-07"
+    },
+    {
+      "titre": "La voix de la crim’ | N°7 – Octobre 2025 | Accident de la route et assurance du passager victime",
+      "date": "2025-10-07"
+    },
+    {
+      "titre": "La Voix de la Crim’ n°6 – Juillet 2025 | L’exploitation de données informatiques captées à l’étranger",
+      "date": "2025-07-03"
+    }
+  ],
+  "derniere_activite": "2026-07-08",
+  "frequence_jours": 92
 }

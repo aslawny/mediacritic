@@ -25,7 +25,7 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-07",
+  "updatedAt": "2026-09-10",
   "episodes_recents": [
     {
       "titre": "Paul B. Preciado : l’opération du langage (3/3)",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-19",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Drogue dure",
+        "titre": "Manotti au top",
+        "texte": "Je profite de ce podcast pour vous féliciter. Je suis fidèle au poste mais j’ai adoré Manotti. Déjà découvrir que c’est une femme m’a fait éclater de rire. J’avais lu Or Noir en 2025. Du coup j’ai acheté Racket. Écrivain en herbe, J’adore écouter votre podcast.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Zéro J.",
+        "titre": "Épisode manquant",
+        "texte": "Dommage que l’épisode 1/3 avec Philippe Jaenada ait disparu 🙁"
+      },
+      {
+        "note": 5,
+        "auteur": "ALBATROS_",
+        "titre": "Merci",
+        "texte": "Quel plaisir d'entendre toutes ces visions de l'écriture, du combat, de l'acharnement. J'ai écrit roman, réalisé sa version audio. 5 ans de ma vie, 2 points de moins à chaque œil et un combat titanesque contre moi-même.…"
+      }
+    ]
+  }
 }

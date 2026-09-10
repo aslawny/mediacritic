@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/laviedeschats/id1776645443?uo=2",
       "trackId": 1776645443,
       "rating": 4.9,
-      "ratingCount": 11,
+      "ratingCount": 12,
       "episodeCount": null
     }
   },
@@ -27,5 +27,29 @@
     "famille"
   ],
   "addedAt": "2026-06-09",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-10",
+  "episodes_recents": [
+    {
+      "titre": "VOTRE CHAT RESTE PRÈS DE VOUS SANS VOUS TOUCHER, VOICI POURQUOI",
+      "date": "2026-09-08"
+    },
+    {
+      "titre": "Quand vos deux chats commencent à S'ACCEPTER ? Les premiers signes",
+      "date": "2026-08-29"
+    },
+    {
+      "titre": "MON CHAT CHARLY S'ENFUIT EN PLEINE NUIT ET CE QUE SACHA A RÉUSSI",
+      "date": "2026-07-24"
+    },
+    {
+      "titre": "VOTRE DEUXIÈME CHAT EST ARRIVÉ ? CE QUE VOTRE PREMIER CHAT RESSENT VRAIMENT",
+      "date": "2026-07-24"
+    },
+    {
+      "titre": "CETTE CHATTE ROUSSE CACHE UN SECRET QUE JE N'AVAIS JAMAIS VU",
+      "date": "2026-07-18"
+    }
+  ],
+  "derniere_activite": "2026-09-08",
+  "frequence_jours": 7
 }

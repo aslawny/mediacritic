@@ -13,8 +13,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/la-chronique-de-ngiraan-fall/id6807063757?uo=2",
       "trackId": 6807063757,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": null
     }
   },
@@ -23,5 +23,5 @@
     "humour"
   ],
   "addedAt": "2026-09-05",
-  "updatedAt": "2026-09-05"
+  "updatedAt": "2026-09-10"
 }

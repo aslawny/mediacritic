@@ -26,7 +26,7 @@
     "cuisine"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-09-07",
+  "updatedAt": "2026-09-10",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-07",
@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "REDIFF Ibeyi, musiciennes : « La musique, ça a toujours été un moyen de se soigner et de se faire plaisir »",
+      "date": "2026-08-27"
+    },
+    {
+      "titre": "REDIFF Panayotis Pascot, comédien : « J’ai commencé à écrire mon spectacle en pensant que j’étais hétérosexuel",
+      "date": "2026-08-20"
+    },
+    {
+      "titre": "REDIFF Camille Cottin, actrice : « L’expression de la puissance féminine me plaît »",
+      "date": "2026-08-13"
+    },
+    {
+      "titre": "REDIFF (LA)HORDE, collectif d’artistes et de chorégraphes : « Grâce à TikTok, grâce à ses challenges, on n’a j",
+      "date": "2026-08-06"
+    },
+    {
+      "titre": "REDIFF Laurent Lafitte, acteur : « L’ennui est l’ennemi ultime »",
+      "date": "2026-07-30"
+    }
+  ],
+  "derniere_activite": "2026-08-27",
+  "frequence_jours": 7
 }

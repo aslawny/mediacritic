@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/le-fil-mental-fabien-olicard/id1815037355?uo=2",
       "trackId": 1815037355,
       "rating": 4.8,
-      "ratingCount": 883,
+      "ratingCount": 886,
       "episodeCount": null
     }
   },
@@ -27,7 +27,7 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-07",
+  "updatedAt": "2026-09-10",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-08",
@@ -49,5 +49,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Gagner du Temps n'a jamais Donné de Temps en Plus",
+      "date": "2026-09-07"
+    },
+    {
+      "titre": "Pouvons-nous encore avoir des Avis Différents ?",
+      "date": "2026-09-04"
+    },
+    {
+      "titre": "Le Bonheur est à portée de Cerveau - C'est la Reprise !",
+      "date": "2026-08-31"
+    },
+    {
+      "titre": "Se Connaître, mais se Juger... [ REDIFF ÉTÉ ]",
+      "date": "2026-08-28"
+    },
+    {
+      "titre": "Ce qu’on ne Dit pas… finit toujours par Sortir autrement [ REDIFF ÉTÉ ]",
+      "date": "2026-08-24"
+    }
+  ],
+  "derniere_activite": "2026-09-07",
+  "frequence_jours": 3
 }

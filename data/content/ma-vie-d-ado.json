@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/ma-vie-dado/id1467885397?uo=2",
       "trackId": 1467885397,
       "rating": 4.5,
-      "ratingCount": 604,
+      "ratingCount": 608,
       "episodeCount": null
     }
   },
@@ -26,5 +26,31 @@
     "famille"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-10",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ch",
+    "tri": "mosthelpful",
+    "releve": "2026-09-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "S’il vous plais ?",
+        "titre": "Question",
+        "texte": "Bonjour je voudrais beaucoup être dans le magazine, J’ai une question concernant beaucoup de garçons de ma classe. J’ai 11ans et personne dans ma classe met du déodorant tout les filles en mette met aucun garçon et moi aussi.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Malikoka",
+        "titre": "à",
+        "texte": "J’adore mais je pense que ce serait mieux avec des épisodes toute les deux semaines"
+      },
+      {
+        "note": 5,
+        "auteur": "💙LYA",
+        "titre": "Super 👍🏾",
+        "texte": "Je trouve ce podcast vraiment incroyable 😻 j’aime beaucoup 👌🏾🥰"
+      }
+    ]
+  }
 }

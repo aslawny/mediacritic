@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/le-cab/id1896615915?uo=2",
       "trackId": 1896615915,
       "rating": 5.0,
-      "ratingCount": 12,
+      "ratingCount": 13,
       "episodeCount": null
     }
   },
@@ -25,5 +25,29 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-10",
+  "episodes_recents": [
+    {
+      "titre": "Nos meilleurs investissements en tant que kiné",
+      "date": "2026-09-02"
+    },
+    {
+      "titre": "Créer ton cabinet de kiné en 2026 : boost ou piège ?",
+      "date": "2026-08-19"
+    },
+    {
+      "titre": "Kiné libéral : pourquoi les ETF sont votre meilleur allié",
+      "date": "2026-08-05"
+    },
+    {
+      "titre": "Combien gagne VRAIMENT un kiné libéral ?",
+      "date": "2026-07-22"
+    },
+    {
+      "titre": "Débuter en kiné libéral : Le plan complet de 0 à ton premier cabinet (avec 10 000€)",
+      "date": "2026-07-08"
+    }
+  ],
+  "derniere_activite": "2026-09-02",
+  "frequence_jours": 14
 }

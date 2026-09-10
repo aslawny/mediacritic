@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/le-droit-en-3-minutes/id1534532033?uo=2",
       "trackId": 1534532033,
       "rating": 3.7,
-      "ratingCount": 43,
+      "ratingCount": 44,
       "episodeCount": null
     }
   },
@@ -26,5 +26,29 @@
     "education"
   ],
   "addedAt": "2026-07-06",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-10",
+  "episodes_recents": [
+    {
+      "titre": "Le Second Empire (1852-1870)",
+      "date": "2025-12-19"
+    },
+    {
+      "titre": "La IIe République (1848-1851)",
+      "date": "2025-12-18"
+    },
+    {
+      "titre": "La Monarchie de Juillet (1830-1848)",
+      "date": "2025-12-17"
+    },
+    {
+      "titre": "La Charte de 1814 et la Restauration",
+      "date": "2025-12-16"
+    },
+    {
+      "titre": "La Naissance et la Personnalité Juridique",
+      "date": "2025-12-15"
+    }
+  ],
+  "derniere_activite": "2025-12-19",
+  "frequence_jours": 1
 }

@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/le-collimateur/id1449461859?uo=2",
       "trackId": 1449461859,
       "rating": 4.8,
-      "ratingCount": 1405,
+      "ratingCount": 1406,
       "episodeCount": null
     }
   },
@@ -25,7 +25,7 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-07",
+  "updatedAt": "2026-09-10",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-06",
@@ -47,5 +47,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Golden dome : le bouclier en toc",
+      "date": "2026-09-08"
+    },
+    {
+      "titre": "Sarisse de faire mal. Reconstituer pour comprendre le combat grec antique [Le Fil de l'épée #60]",
+      "date": "2026-09-04"
+    },
+    {
+      "titre": "Ukraine : retour sur un été mouvementé [Zone d'opérations #23]",
+      "date": "2026-09-01"
+    },
+    {
+      "titre": "Unpopular opinions #24 : les dynasties militaires",
+      "date": "2026-08-28"
+    },
+    {
+      "titre": "Les États-Unis et leur paranoïa stratégique [Rétro-Collimateur]",
+      "date": "2026-08-25"
+    }
+  ],
+  "derniere_activite": "2026-09-08",
+  "frequence_jours": 3
 }

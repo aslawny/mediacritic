@@ -22,7 +22,7 @@
   "tags": [
     "histoire"
   ],
-  "updatedAt": "2026-09-07",
+  "updatedAt": "2026-09-10",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-08",
@@ -44,5 +44,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "#185 - Yannifique !",
+      "date": "2026-07-28"
+    },
+    {
+      "titre": "#184 - Sugar rush",
+      "date": "2026-07-14"
+    },
+    {
+      "titre": "#183 - Un milliard virgule cinq",
+      "date": "2026-06-30"
+    },
+    {
+      "titre": "#182 - Clone François",
+      "date": "2026-06-02"
+    },
+    {
+      "titre": "#181 - Comme une petite souris",
+      "date": "2026-05-20"
+    }
+  ],
+  "derniere_activite": "2026-07-28",
+  "frequence_jours": 14
 }

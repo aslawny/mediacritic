@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/le-debut-de-la-fin/id1844568452?uo=2",
       "trackId": 1844568452,
       "rating": 5.0,
-      "ratingCount": 77,
+      "ratingCount": 78,
       "episodeCount": null
     }
   },
@@ -25,5 +25,29 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-10",
+  "episodes_recents": [
+    {
+      "titre": "Cergy-Pontoise est il le détroit d'Ormuz de la Junk Food?",
+      "date": "2026-09-04"
+    },
+    {
+      "titre": "où trouvent-ils toute cette energie drink?",
+      "date": "2026-06-05"
+    },
+    {
+      "titre": "Canicule, Belzebuth et bonheur performatif",
+      "date": "2026-05-30"
+    },
+    {
+      "titre": "L'arnaque à l'Argent magique Australien. Tout est vrai.",
+      "date": "2026-05-29"
+    },
+    {
+      "titre": "L'homme qui voulait inventer le Jus de fruit",
+      "date": "2026-05-29"
+    }
+  ],
+  "derniere_activite": "2026-09-04",
+  "frequence_jours": 4
 }

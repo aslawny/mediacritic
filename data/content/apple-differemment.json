@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/apple-diff%C3%A9remment/id1439580752?uo=4",
       "trackId": 1439580752,
       "rating": 4.7,
-      "ratingCount": 619,
+      "ratingCount": 618,
       "episodeCount": 85
     }
   },
@@ -24,7 +24,7 @@
     "rénovation",
     "DIY"
   ],
-  "updatedAt": "2026-09-07",
+  "updatedAt": "2026-09-10",
   "episodes_recents": [
     {
       "titre": "Nouveautés iOS 27, iPadOS 27 et macOS 27 : le meilleur est à venir (ou pas)",
@@ -48,5 +48,27 @@
     }
   ],
   "derniere_activite": "2026-07-31",
-  "frequence_jours": 33
+  "frequence_jours": 33,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-09-10",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/le-divan-des-patronnes/id1809136685?uo=2",
       "trackId": 1809136685,
       "rating": 4.9,
-      "ratingCount": 36,
+      "ratingCount": 37,
       "episodeCount": null
     }
   },
@@ -24,5 +24,29 @@
     "histoire"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-10",
+  "episodes_recents": [
+    {
+      "titre": "Standardiser pour grandir sans recruter",
+      "date": "2026-09-08"
+    },
+    {
+      "titre": "Comment j’ai surmonté la honte d’être une mauvaise mère",
+      "date": "2026-09-01"
+    },
+    {
+      "titre": "Déléguer pour récupérer du temps et de l'énergie",
+      "date": "2026-08-25"
+    },
+    {
+      "titre": "Comment ta vie amoureuse plafonne ton chiffre d'affaires",
+      "date": "2026-08-18"
+    },
+    {
+      "titre": "La ligne de douleur : quand ta croissance se retourne contre toi",
+      "date": "2026-08-11"
+    }
+  ],
+  "derniere_activite": "2026-09-08",
+  "frequence_jours": 7
 }

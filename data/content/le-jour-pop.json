@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/le-jour-pop/id1539266224?uo=2",
       "trackId": 1539266224,
       "rating": 4.8,
-      "ratingCount": 133,
+      "ratingCount": 132,
       "episodeCount": null
     }
   },
@@ -25,5 +25,29 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-10",
+  "episodes_recents": [
+    {
+      "titre": "Maëlle : l'ère de l'affirmation - Interview",
+      "date": "2026-09-10"
+    },
+    {
+      "titre": "Christina Aguilera : le jour où elle est Back to Basics",
+      "date": "2026-08-23"
+    },
+    {
+      "titre": "Adrien Gallo : toujours rock depuis 20 ans - Interview",
+      "date": "2026-08-14"
+    },
+    {
+      "titre": "Gwen Stefani : le jour où elle n'a plus été Cool",
+      "date": "2026-08-07"
+    },
+    {
+      "titre": "Madonna : je classe les titres de Confessions II - OFF 17",
+      "date": "2026-07-09"
+    }
+  ],
+  "derniere_activite": "2026-09-10",
+  "frequence_jours": 14
 }

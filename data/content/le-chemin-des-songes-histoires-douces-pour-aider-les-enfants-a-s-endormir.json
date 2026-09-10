@@ -25,5 +25,29 @@
     "enfants",
     "éducation"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-10",
+  "episodes_recents": [
+    {
+      "titre": "Le sentier arc-en-ciel",
+      "date": "2026-09-10"
+    },
+    {
+      "titre": "L'arbre aux mille feuilles dorées",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "La grotte de cristaux lumineux",
+      "date": "2026-09-08"
+    },
+    {
+      "titre": "Le collier magique des respirations",
+      "date": "2026-09-07"
+    },
+    {
+      "titre": "Le lit nuage moelleux",
+      "date": "2026-09-06"
+    }
+  ],
+  "derniere_activite": "2026-09-10",
+  "frequence_jours": 1
 }

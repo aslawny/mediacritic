@@ -25,7 +25,7 @@
     "rénovation",
     "DIY"
   ],
-  "updatedAt": "2026-09-07",
+  "updatedAt": "2026-09-10",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -51,5 +51,29 @@
         "texte": "J’adore ce podcast. Je l’écoute super régulièrement (je ré-écoute même des épisodes déjà écoutés). Je trouve les histoires inspirantes et j’aime beaucoup voir les photos des maisons ou appartements rénovés.…"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Écoutez la nouvelle musique du Chantier 🎵",
+      "date": "2026-08-22"
+    },
+    {
+      "titre": "#104 Julie et Victor - Rénover et ouvrir un restaurant à Essaouira 🌞",
+      "date": "2026-08-19"
+    },
+    {
+      "titre": "#103 Marie Uzeel - Créer un lieu esprit maison de vacances 🌞",
+      "date": "2026-08-10"
+    },
+    {
+      "titre": "#102 Camille @cosyhomebycamille - Donner le style de l’ancien à une maison neuve",
+      "date": "2026-08-04"
+    },
+    {
+      "titre": "PAROLE DE PRO #37 - Bien choisir son matelas et sa literie après un chantier, avec Kipli",
+      "date": "2026-07-30"
+    }
+  ],
+  "derniere_activite": "2026-08-22",
+  "frequence_jours": 5
 }

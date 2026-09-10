@@ -24,7 +24,7 @@
     "societe"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-09-07",
+  "updatedAt": "2026-09-10",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-06",
@@ -46,5 +46,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "S9E5 - Le pouvoir de l'amitié (et du 3ème âge)",
+      "date": "2024-12-12"
+    },
+    {
+      "titre": "S9E4 - « On est world wild ! »",
+      "date": "2024-11-28"
+    },
+    {
+      "titre": "S9E3 - « On a ligaturé ! » (avec Sibylle)",
+      "date": "2024-11-07"
+    },
+    {
+      "titre": "S9E2 - « Arrête ou je mets Taylor Swift ! »",
+      "date": "2024-10-10"
+    },
+    {
+      "titre": "S9E1 - On est de retour, avec Swann Perissé !",
+      "date": "2024-09-26"
+    }
+  ],
+  "derniere_activite": "2024-12-12",
+  "frequence_jours": 14
 }

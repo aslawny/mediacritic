@@ -18,7 +18,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/le-grand-r%C3%A9cit/id1834670628?uo=2",
       "trackId": 1834670628,
       "rating": 4.5,
-      "ratingCount": 249,
+      "ratingCount": 253,
       "episodeCount": null
     }
   },
@@ -33,5 +33,29 @@
     "radio"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-10",
+  "episodes_recents": [
+    {
+      "titre": "L'INTÉGRALE - Bokassa, le diamant dans la chaussure de Valéry Giscard d'Estaing",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "RÉCIT - Les diamants de Bokassa, la chute de Giscard",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "L'INTÉGRALE - Steve McQueen, le côté obscur du \"roi du cool\"",
+      "date": "2026-09-08"
+    },
+    {
+      "titre": "RÉCIT - Steve McQueen, le rebelle d'Hollywood",
+      "date": "2026-09-08"
+    },
+    {
+      "titre": "L'INTÉGRALE - Téléphone, autopsie d'une séparation",
+      "date": "2026-09-07"
+    }
+  ],
+  "derniere_activite": "2026-09-09",
+  "frequence_jours": 0
 }

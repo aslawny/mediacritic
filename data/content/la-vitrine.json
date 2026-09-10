@@ -24,5 +24,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-10",
+  "episodes_recents": [
+    {
+      "titre": "#17 Nathan Menou - n°5",
+      "date": "2023-05-05"
+    },
+    {
+      "titre": "#16 Jade et Maël - La MiFA",
+      "date": "2023-04-14"
+    },
+    {
+      "titre": "#15 Jérôme Biaggi - Mr Sun Bell Store",
+      "date": "2023-03-03"
+    },
+    {
+      "titre": "#14 Antoine Filiatre et Benjamin Didier - Orto",
+      "date": "2023-02-16"
+    },
+    {
+      "titre": "#13 Emil et Julien - Canopée Coffee House",
+      "date": "2022-12-23"
+    }
+  ],
+  "derniere_activite": "2023-05-05",
+  "frequence_jours": 21
 }

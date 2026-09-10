@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/laurent-gerra/id290152576?uo=2",
       "trackId": 290152576,
       "rating": 4.2,
-      "ratingCount": 4985,
+      "ratingCount": 4986,
       "episodeCount": null
     }
   },
@@ -27,7 +27,7 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-07",
+  "updatedAt": "2026-09-10",
   "avis_publics": {
     "source": "apple",
     "boutique": "be",
@@ -53,5 +53,29 @@
         "texte": "Cher Laurent, nous t'adorons ! Aujourd'hui, une fois de plus, tu étais trop génial ! On pleure de rire, on regarde tes émissions, on t'a vu à l'Olympia ... Tu voles de loin au-dessus des autres ...…"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "MOMENTS CULTES - Dion, Ardant, Lavilliers... Le meilleur de Laurent Gerra",
+      "date": "2026-09-10"
+    },
+    {
+      "titre": "IL Y A 10 ANS - La chronique du 9 septembre 2016",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "L'INTÉGRALE - Raphaël Glucksmann, Patrick Sébastien, Philippe Manœuvre... La chronique du 9 septembre 2026",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "PÉPITE - Quand Laurent Delahousse part à la chasse aux naturistes",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "IL Y A 10 ANS - La chronique du 8 septembre 2016",
+      "date": "2026-09-08"
+    }
+  ],
+  "derniere_activite": "2026-09-10",
+  "frequence_jours": 0
 }

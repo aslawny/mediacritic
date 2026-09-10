@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/business-of-bouffe/id1485563744?uo=4",
       "trackId": 1485563744,
       "rating": 4.9,
-      "ratingCount": 595,
+      "ratingCount": 596,
       "episodeCount": 570
     }
   },
@@ -26,7 +26,7 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-09-07",
+  "updatedAt": "2026-09-10",
   "episodes_recents": [
     {
       "titre": "[Replay] Entrez Plat Dessert - Maslow | Le végétarien qui n’en fait pas tout un plat",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-26",
-  "frequence_jours": 4
+  "frequence_jours": 4,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Gilles Verot",
+        "titre": "Enfin la note",
+        "texte": "Je viens de découvrir le message de Mercotte et par la même occasion la possibilité de mettre 5 ⭐️à ce podcast dont je ne rate pas un épisode depuis près de 6 mois.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Le_LotusBleu",
+        "titre": "Revue de presse",
+        "texte": "Fin de la revue de presse hebdo ? Quel dommage !! J’adorais…"
+      },
+      {
+        "note": 5,
+        "auteur": "Guillaume@pat",
+        "titre": "Podcast en croûte !!",
+        "texte": "Fantastique ce podcast avec la famille Verot ! Intenable de vous entendre vous délecter de leur les charcuteries 🤣!! J’aurais aimé avoir leur avis sur le recrutement et la formation d’apprentis, vu leur position d’avant-gardistes et d’outsiders vis à vis de la charcuterie « tradi…"
+      }
+    ]
+  }
 }

@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/moralit%C3%A9/id1703476468?uo=2",
       "trackId": 1703476468,
       "rating": 4.9,
-      "ratingCount": 615,
+      "ratingCount": 616,
       "episodeCount": null
     }
   },
@@ -26,5 +26,27 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-10",
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-09-10",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

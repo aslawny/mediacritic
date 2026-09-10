@@ -24,7 +24,7 @@
     "histoire"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-09-07",
+  "updatedAt": "2026-09-10",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-09",
@@ -46,5 +46,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "ARRÊTE DE CHERCHER LA RECETTE MAGIQUE - BAZCAST Ep.78",
+      "date": "2026-08-30"
+    },
+    {
+      "titre": "Est-ce que tu le ferais si personne te regardait ? - BAZCAST Ep.77",
+      "date": "2026-08-23"
+    },
+    {
+      "titre": "ARRÊTE D'HÉSITER ET LANCE TOI - BAZCAST Ep.76",
+      "date": "2026-07-11"
+    },
+    {
+      "titre": "Devenir Père : Tout ce que j'ai appris en 1 an - BAZCAST Ep.75",
+      "date": "2026-06-21"
+    },
+    {
+      "titre": "6 MOIS POUR CHANGER TA VIE - BAZCAST Ep.74",
+      "date": "2026-06-06"
+    }
+  ],
+  "derniere_activite": "2026-08-30",
+  "frequence_jours": 13
 }

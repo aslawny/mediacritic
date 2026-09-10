@@ -25,5 +25,29 @@
     "cuisine"
   ],
   "addedAt": "2026-07-19",
-  "updatedAt": "2026-07-19"
+  "updatedAt": "2026-07-19",
+  "episodes_recents": [
+    {
+      "titre": "Bon week-end à tous!",
+      "date": "2026-06-19"
+    },
+    {
+      "titre": "Ils sont de retour ! Les chaussons aux pommes 🤩🤩🤩",
+      "date": "2026-06-17"
+    },
+    {
+      "titre": "Bon au moins, ça confirme une chose : il manque quelque chose au levain 🤔",
+      "date": "2026-06-14"
+    },
+    {
+      "titre": "Bon petit déjeuner à tous!",
+      "date": "2026-06-12"
+    },
+    {
+      "titre": "Tresse à deux branches (forme haute, forme basse et forme alternative) 😎",
+      "date": "2026-06-10"
+    }
+  ],
+  "derniere_activite": "2026-06-19",
+  "frequence_jours": 2
 }

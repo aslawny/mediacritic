@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/le-d%C3%A9clic-podcast-par-alec-henry/id1643093754?uo=4",
       "trackId": 1643093754,
       "rating": 4.9,
-      "ratingCount": 969,
+      "ratingCount": 968,
       "episodeCount": 421
     }
   },
@@ -24,7 +24,7 @@
     "business",
     "entrepreneuriat"
   ],
-  "updatedAt": "2026-09-07",
+  "updatedAt": "2026-09-10",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-07",
@@ -46,5 +46,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Une seule entreprise contrôle le ciel au-dessus de vous (et aucun État ne peut l’arrêter) | Michel Friedling |",
+      "date": "2026-09-10"
+    },
+    {
+      "titre": "Du RSA à Multimillionnaire: Créer un Empire à +150M$, l’incroyable histoire de Guillaume | Guillaume Moubeche ",
+      "date": "2026-09-07"
+    },
+    {
+      "titre": "Les pires décisions d'un entrepreneur se prennent dans cet état",
+      "date": "2026-09-05"
+    },
+    {
+      "titre": "La faille neuro-émotionnelle qui sabote 90% des entrepreneurs | Astrid Deballon | Déclic 421",
+      "date": "2026-09-03"
+    },
+    {
+      "titre": "1,5M d’abonnés, +250 000 clients : influenceur ou entrepreneur ? La vérité sur Thibault Geoffray | Thibault Ge",
+      "date": "2026-08-31"
+    }
+  ],
+  "derniere_activite": "2026-09-10",
+  "frequence_jours": 2
 }

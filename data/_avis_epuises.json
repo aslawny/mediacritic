@@ -1,6 +1,6 @@
 {
-  "maj": "2026-09-09",
-  "total": 118,
+  "maj": "2026-09-10",
+  "total": 154,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -710,6 +710,222 @@
       "titre": "La Réu' d'Écran Large",
       "notes_apple": 625,
       "fiche": "fiches/la-reu-d-ecran-large.html"
+    },
+    {
+      "slug": "apple-differemment",
+      "titre": "Apple, différemment",
+      "notes_apple": 618,
+      "fiche": "fiches/apple-differemment.html"
+    },
+    {
+      "slug": "moralite",
+      "titre": "Moralité",
+      "notes_apple": 616,
+      "fiche": "fiches/moralite.html"
+    },
+    {
+      "slug": "meres",
+      "titre": "Mères",
+      "notes_apple": 615,
+      "fiche": "fiches/meres.html"
+    },
+    {
+      "slug": "podcast-enfant-nemrod-une-histoire-pour-les-enfants-et-leurs-parents",
+      "titre": "Podcast enfant - Nemrod, une histoire pour les enfants et leurs parents",
+      "notes_apple": 612,
+      "fiche": "fiches/podcast-enfant-nemrod-une-histoire-pour-les-enfants-et-leurs-parents.html"
+    },
+    {
+      "slug": "le-rendez-vous-jeux-rdv-jeux",
+      "titre": "Le rendez-vous Jeux - RDV Jeux",
+      "notes_apple": 604,
+      "fiche": "fiches/le-rendez-vous-jeux-rdv-jeux.html"
+    },
+    {
+      "slug": "les-locomotives",
+      "titre": "Les Locomotives",
+      "notes_apple": 601,
+      "fiche": "fiches/les-locomotives.html"
+    },
+    {
+      "slug": "emotions-au-travail",
+      "titre": "Émotions (au travail)",
+      "notes_apple": 600,
+      "fiche": "fiches/emotions-au-travail.html"
+    },
+    {
+      "slug": "lovecare-en-consultation-avec-therese",
+      "titre": "LOVECARE, en consultation avec Thérèse.",
+      "notes_apple": 587,
+      "fiche": "fiches/lovecare-en-consultation-avec-therese.html"
+    },
+    {
+      "slug": "les-meditations-de-coelia",
+      "titre": "Les méditations de Coelia",
+      "notes_apple": 586,
+      "fiche": "fiches/les-meditations-de-coelia.html"
+    },
+    {
+      "slug": "les-chroniques-de-daniel-morin",
+      "titre": "Les chroniques de Daniel Morin",
+      "notes_apple": 585,
+      "fiche": "fiches/les-chroniques-de-daniel-morin.html"
+    },
+    {
+      "slug": "pardon-gpt",
+      "titre": "Pardon GPT",
+      "notes_apple": 585,
+      "fiche": "fiches/pardon-gpt.html"
+    },
+    {
+      "slug": "le-club-de-lulu",
+      "titre": "Le Club de Lulu",
+      "notes_apple": 581,
+      "fiche": "fiches/le-club-de-lulu.html"
+    },
+    {
+      "slug": "featuring-rap-conversation-avec-driver",
+      "titre": "Featuring : Rap & Conversation avec Driver",
+      "notes_apple": 574,
+      "fiche": "fiches/featuring-rap-conversation-avec-driver.html"
+    },
+    {
+      "slug": "la-face-sombre-de-l-histoire",
+      "titre": "La face sombre de l'Histoire",
+      "notes_apple": 574,
+      "fiche": "fiches/la-face-sombre-de-l-histoire.html"
+    },
+    {
+      "slug": "hellosolos-les-mamans-solos-racontent-leurs-histoires",
+      "titre": "HelloSolos - les mamans solos racontent leurs histoires",
+      "notes_apple": 572,
+      "fiche": "fiches/hellosolos-les-mamans-solos-racontent-leurs-histoires.html"
+    },
+    {
+      "slug": "je-medite-tous-les-jours",
+      "titre": "Je médite tous les jours",
+      "notes_apple": 570,
+      "fiche": "fiches/je-medite-tous-les-jours.html"
+    },
+    {
+      "slug": "peak-tv",
+      "titre": "Peak TV",
+      "notes_apple": 568,
+      "fiche": "fiches/peak-tv.html"
+    },
+    {
+      "slug": "faites-des-gosses",
+      "titre": "Faites des gosses",
+      "notes_apple": 564,
+      "fiche": "fiches/faites-des-gosses.html"
+    },
+    {
+      "slug": "continue-tu-m-interesses",
+      "titre": "Continue tu m'intéresses",
+      "notes_apple": 563,
+      "fiche": "fiches/continue-tu-m-interesses.html"
+    },
+    {
+      "slug": "zack-en-roue-libre-by-zack-nani",
+      "titre": "Zack en Roue Libre by Zack Nani",
+      "notes_apple": 559,
+      "fiche": "fiches/zack-en-roue-libre-by-zack-nani.html"
+    },
+    {
+      "slug": "un-jour-une-vie",
+      "titre": "Un jour, une vie",
+      "notes_apple": 558,
+      "fiche": "fiches/un-jour-une-vie.html"
+    },
+    {
+      "slug": "game-of-roles",
+      "titre": "Game of Roles",
+      "notes_apple": 548,
+      "fiche": "fiches/game-of-roles.html"
+    },
+    {
+      "slug": "les-pires-moments-de-l-histoire",
+      "titre": "Les Pires Moments de l'Histoire",
+      "notes_apple": 546,
+      "fiche": "fiches/les-pires-moments-de-l-histoire.html"
+    },
+    {
+      "slug": "mylene-farmer-histoires-de",
+      "titre": "Mylène Farmer : histoires de...",
+      "notes_apple": 545,
+      "fiche": "fiches/mylene-farmer-histoires-de.html"
+    },
+    {
+      "slug": "french-expat-un-podcast-de-french-morning-par-anne-fleur-andrle",
+      "titre": "French Expat, un podcast de French Morning par Anne-Fleur Andrle",
+      "notes_apple": 544,
+      "fiche": "fiches/french-expat-un-podcast-de-french-morning-par-anne-fleur-andrle.html"
+    },
+    {
+      "slug": "les-30-glorieuses",
+      "titre": "Les 30 Glorieuses",
+      "notes_apple": 536,
+      "fiche": "fiches/les-30-glorieuses.html"
+    },
+    {
+      "slug": "journal-intime-du-succes-l-oasis-mindset-1-pour-les-femmes-ambitieuses-qui-veule",
+      "titre": "Journal Intime du Succès | L’oasis Mindset #1 pour les Femmes Ambitieuses qui veulent le Bonheur, l'Amour, le Succès et l",
+      "notes_apple": 533,
+      "fiche": "fiches/journal-intime-du-succes-l-oasis-mindset-1-pour-les-femmes-ambitieuses-qui-veule.html"
+    },
+    {
+      "slug": "on-faisait-comment-avant",
+      "titre": "On faisait comment avant ?",
+      "notes_apple": 526,
+      "fiche": "fiches/on-faisait-comment-avant.html"
+    },
+    {
+      "slug": "nouvel-il",
+      "titre": "Nouvel Œil",
+      "notes_apple": 525,
+      "fiche": "fiches/nouvel-il.html"
+    },
+    {
+      "slug": "histoires-de-doudou",
+      "titre": "Histoires de doudou",
+      "notes_apple": 524,
+      "fiche": "fiches/histoires-de-doudou.html"
+    },
+    {
+      "slug": "monde-numerique-actu-tech-ia",
+      "titre": "Monde Numérique - Actu tech & IA",
+      "notes_apple": 522,
+      "fiche": "fiches/monde-numerique-actu-tech-ia.html"
+    },
+    {
+      "slug": "les-collections-de-l-heure-du-crime",
+      "titre": "Les collections de l'heure du crime",
+      "notes_apple": 517,
+      "fiche": "fiches/les-collections-de-l-heure-du-crime.html"
+    },
+    {
+      "slug": "remede-a-la-melancolie",
+      "titre": "Remède à la mélancolie",
+      "notes_apple": 516,
+      "fiche": "fiches/remede-a-la-melancolie.html"
+    },
+    {
+      "slug": "radio-sexe",
+      "titre": "Radio Sexe",
+      "notes_apple": 514,
+      "fiche": "fiches/radio-sexe.html"
+    },
+    {
+      "slug": "l-espace-du-couple",
+      "titre": "L’Espace du Couple",
+      "notes_apple": 510,
+      "fiche": "fiches/l-espace-du-couple.html"
+    },
+    {
+      "slug": "legend-ladies",
+      "titre": "Legend Ladies",
+      "notes_apple": 507,
+      "fiche": "fiches/legend-ladies.html"
     }
   ]
 }

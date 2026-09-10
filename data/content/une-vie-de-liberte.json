@@ -26,5 +26,31 @@
     "rénovation",
     "DIY"
   ],
-  "updatedAt": "2026-09-07"
+  "updatedAt": "2026-09-10",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ch",
+    "tri": "mostrecent",
+    "releve": "2026-09-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pauline_Camille",
+        "titre": "Inspirant et riche de liberté",
+        "texte": "Des podcasts où l’on apprend toujours quelque chose. Très intéressant de découvrir le parcours de Tony et super de faire des podcasts accompagnés. Un mouvement de positivité à écouter et partager pour garder le cap vers la liberté Merci 🙏"
+      },
+      {
+        "note": 5,
+        "auteur": "Loïc R.",
+        "titre": "GÉNIALISSIME",
+        "texte": "Tony est une personne extraordinaire qui donne de sa personne toutes les semaines ! C’est toujours instructif, poussé, documenté...."
+      },
+      {
+        "note": 5,
+        "auteur": "kiphta",
+        "titre": "Un podcast parfait",
+        "texte": "Écouter tes podcasts, c’est un réel bonheur ! Merci De très bons sujets, opinions et surtout d’enseignements"
+      }
+    ]
+  }
 }

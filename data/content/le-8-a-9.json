@@ -23,5 +23,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "Le 8 à 9 - 14 juin 2024",
+      "date": "2024-06-14"
+    },
+    {
+      "titre": "Le 8 à 9 - 13 juin 2024",
+      "date": "2024-06-13"
+    },
+    {
+      "titre": "Le 8 à 9 - 11 juin 2024",
+      "date": "2024-06-11"
+    },
+    {
+      "titre": "Le 8 à 9 - 10 juin 2024",
+      "date": "2024-06-10"
+    },
+    {
+      "titre": "Novorama - 07 juin 2024",
+      "date": "2024-06-07"
+    }
+  ],
+  "derniere_activite": "2024-06-14",
+  "frequence_jours": 1
 }
