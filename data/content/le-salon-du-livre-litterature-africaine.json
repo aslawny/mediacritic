@@ -25,5 +25,29 @@
     "livres",
     "culture"
   ],
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-10",
+  "episodes_recents": [
+    {
+      "titre": "#89 Stéphanie Noupoué : Une voix pour l'estime de soi des enfants",
+      "date": "2023-06-30"
+    },
+    {
+      "titre": "#88 Donald Kapyouo : Impact de l'intelligence artificielle sur l'industrie du livre",
+      "date": "2023-06-23"
+    },
+    {
+      "titre": "#87 Joël Glèlè : Poésie, festivals et clubs littéraires au Bénin",
+      "date": "2023-06-16"
+    },
+    {
+      "titre": "#86 Selma Guettaf : L'écriture à multiples facettes",
+      "date": "2023-06-09"
+    },
+    {
+      "titre": "#85 Arian Samba : Parcelle à vendre",
+      "date": "2023-06-02"
+    }
+  ],
+  "derniere_activite": "2023-06-30",
+  "frequence_jours": 7
 }

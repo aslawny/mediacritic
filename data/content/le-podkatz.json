@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Veuve à 27 ans - teaser",
+      "date": "2026-09-10"
+    },
+    {
+      "titre": "Il m’a fallu 10 ans pour faire ça",
+      "date": "2026-09-08"
+    },
+    {
+      "titre": "Ma mère m'a volé mon ex",
+      "date": "2026-09-01"
+    },
+    {
+      "titre": "Ma mère m'a volé mon ex - teaser",
+      "date": "2026-08-27"
+    },
+    {
+      "titre": "La prostitution",
+      "date": "2026-08-25"
+    }
+  ],
+  "derniere_activite": "2026-09-10",
+  "frequence_jours": 7
 }

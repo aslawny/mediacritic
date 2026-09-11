@@ -27,5 +27,29 @@
     "numerique"
   ],
   "addedAt": "2026-07-30",
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-10",
+  "episodes_recents": [
+    {
+      "titre": "85 % des données de santé dorment dans nos hôpitaux - Montaine Marteau",
+      "date": "2026-09-10"
+    },
+    {
+      "titre": "\"Lancez-vous\" : le seul conseil qui compte pour un premier talk - Clément De Tastes",
+      "date": "2026-08-28"
+    },
+    {
+      "titre": "Faut-il encore savoir coder pour vibe coder ? - Nicolas Grenié",
+      "date": "2026-07-29"
+    },
+    {
+      "titre": "Faut-il vraiment découper son IA en agents spécialisés ?",
+      "date": "2026-06-25"
+    },
+    {
+      "titre": "12 ans pour une feature ! Rémi Forax sur les Value Class en Java 28",
+      "date": "2026-06-19"
+    }
+  ],
+  "derniere_activite": "2026-09-10",
+  "frequence_jours": 12
 }

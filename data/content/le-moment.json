@@ -24,5 +24,29 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-10",
+  "episodes_recents": [
+    {
+      "titre": "#21 - Nathanaël Sapey / Explorer, filmer, garder une trace",
+      "date": "2026-06-02"
+    },
+    {
+      "titre": "#20 - Sébastien & Mia Raichon / Transmettre et inspiré par l'ultra endurance !",
+      "date": "2026-04-15"
+    },
+    {
+      "titre": "#19 - Boris Ghirardi / Trailer amputé tibial - Se battre pour un accès inclusif au sport",
+      "date": "2025-09-30"
+    },
+    {
+      "titre": "#18 - Elise Poncet et Mélanie Cannac / Athlète et photographe - La montagne dans la peau",
+      "date": "2025-08-21"
+    },
+    {
+      "titre": "#17 - Louis Derrien / Un tour de France en courant pour briser le tabou de la dépression",
+      "date": "2025-06-30"
+    }
+  ],
+  "derniere_activite": "2026-06-02",
+  "frequence_jours": 45
 }

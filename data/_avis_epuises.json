@@ -1,6 +1,6 @@
 {
-  "maj": "2026-09-10",
-  "total": 154,
+  "maj": "2026-09-11",
+  "total": 175,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -538,6 +538,12 @@
       "fiche": "fiches/kidstory-les-meilleurs-contes-pour-enfants.html"
     },
     {
+      "slug": "votre-cerveau",
+      "titre": "Votre cerveau",
+      "notes_apple": 754,
+      "fiche": "fiches/votre-cerveau.html"
+    },
+    {
       "slug": "histoires-de-succes",
       "titre": "Histoires de Succès",
       "notes_apple": 753,
@@ -926,6 +932,126 @@
       "titre": "Legend Ladies",
       "notes_apple": 507,
       "fiche": "fiches/legend-ladies.html"
+    },
+    {
+      "slug": "studio404",
+      "titre": "Studio404",
+      "notes_apple": 501,
+      "fiche": "fiches/studio404.html"
+    },
+    {
+      "slug": "habitudes",
+      "titre": "HABITUDES",
+      "notes_apple": 500,
+      "fiche": "fiches/habitudes.html"
+    },
+    {
+      "slug": "let-s-trail-podcast",
+      "titre": "Let's Trail Podcast",
+      "notes_apple": 500,
+      "fiche": "fiches/let-s-trail-podcast.html"
+    },
+    {
+      "slug": "montreux-comedy-edition-audio",
+      "titre": "Montreux Comedy Edition Audio",
+      "notes_apple": 500,
+      "fiche": "fiches/montreux-comedy-edition-audio.html"
+    },
+    {
+      "slug": "nocine",
+      "titre": "NoCiné",
+      "notes_apple": 500,
+      "fiche": "fiches/nocine.html"
+    },
+    {
+      "slug": "secrets-d-info",
+      "titre": "Secrets d'info",
+      "notes_apple": 498,
+      "fiche": "fiches/secrets-d-info.html"
+    },
+    {
+      "slug": "leadercast",
+      "titre": "LeaderCast",
+      "notes_apple": 497,
+      "fiche": "fiches/leadercast.html"
+    },
+    {
+      "slug": "kiffe-ta-race",
+      "titre": "Kiffe ta race",
+      "notes_apple": 493,
+      "fiche": "fiches/kiffe-ta-race.html"
+    },
+    {
+      "slug": "pourquoi-pas-moi-le-developpement-personnel-sans-filtre",
+      "titre": "Pourquoi pas moi - Le développement personnel sans filtre",
+      "notes_apple": 493,
+      "fiche": "fiches/pourquoi-pas-moi-le-developpement-personnel-sans-filtre.html"
+    },
+    {
+      "slug": "ton-quotidien-avec-pablo-mira",
+      "titre": "Ton Quotidien avec Pablo Mira",
+      "notes_apple": 491,
+      "fiche": "fiches/ton-quotidien-avec-pablo-mira.html"
+    },
+    {
+      "slug": "la-traque",
+      "titre": "La Traque",
+      "notes_apple": 489,
+      "fiche": "fiches/la-traque.html"
+    },
+    {
+      "slug": "wild-le-podcast-animalier",
+      "titre": "Wild, le podcast animalier",
+      "notes_apple": 488,
+      "fiche": "fiches/wild-le-podcast-animalier.html"
+    },
+    {
+      "slug": "marrakech-du-rire",
+      "titre": "Marrakech du Rire",
+      "notes_apple": 486,
+      "fiche": "fiches/marrakech-du-rire.html"
+    },
+    {
+      "slug": "nouvelles-heroines-le-podcast-d-histoires-vraies-pour-inspirer-la-generation-fut",
+      "titre": "Nouvelles Héroïnes, le podcast d'histoires vraies pour inspirer la génération future (à partir de 8 ans)",
+      "notes_apple": 486,
+      "fiche": "fiches/nouvelles-heroines-le-podcast-d-histoires-vraies-pour-inspirer-la-generation-fut.html"
+    },
+    {
+      "slug": "marc-geiger-justice",
+      "titre": "Marc Geiger : Justice",
+      "notes_apple": 480,
+      "fiche": "fiches/marc-geiger-justice.html"
+    },
+    {
+      "slug": "investir-avec-xavier",
+      "titre": "Investir avec Xavier",
+      "notes_apple": 478,
+      "fiche": "fiches/investir-avec-xavier.html"
+    },
+    {
+      "slug": "en-apparence",
+      "titre": "En apparence",
+      "notes_apple": 477,
+      "fiche": "fiches/en-apparence.html"
+    },
+    {
+      "slug": "j-ai-peur-donc-j-y-vais",
+      "titre": "J'ai peur, donc j'y vais",
+      "notes_apple": 474,
+      "fiche": "fiches/j-ai-peur-donc-j-y-vais.html"
+    },
+    {
+      "slug": "la-chronique-de-guillaume-meurice",
+      "titre": "La chronique de Guillaume Meurice",
+      "notes_apple": 472,
+      "fiche": "fiches/la-chronique-de-guillaume-meurice.html"
+    },
+    {
+      "slug": "on-s-tient-au-jus",
+      "titre": "On s'tient au jus",
+      "notes_apple": 472,
+      "fiche": "fiches/on-s-tient-au-jus.html"
     }
   ]
 }

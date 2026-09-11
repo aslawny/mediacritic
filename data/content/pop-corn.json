@@ -1,0 +1,29 @@
+{
+  "slug": "pop-corn",
+  "title": "Pop Corn",
+  "author": "Radio Nova",
+  "type": "podcast",
+  "categories": [
+    "cinema",
+    "series"
+  ],
+  "description": "Chaque semaine, Nova fait le tri pour vous dans les sorties en salles, et sélectionne les deux films de la semaine.",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c2/e7/32/c2e73260-627d-69ad-6d94-8357223c3249/mza_16925718875090848735.jpg/170x170bb.png",
+  "language": "fr",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/pop-corn/id1444051465?uo=2",
+      "trackId": 1444051465,
+      "rating": 5.0,
+      "ratingCount": 3,
+      "episodeCount": null
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "cinema",
+    "series"
+  ],
+  "addedAt": "2026-09-11",
+  "updatedAt": "2026-09-11"
+}

@@ -25,5 +25,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-10",
+  "episodes_recents": [
+    {
+      "titre": "Le Journal Inattendu de Michel-Édouard Leclerc",
+      "date": "2026-09-05"
+    },
+    {
+      "titre": "Le Journal Inattendu de Franck Dubosc, Camille Cottin et Dominique Besnehard",
+      "date": "2026-08-29"
+    },
+    {
+      "titre": "Présidentielle 2027 : Jordan Bardella confiant dans son rôle de n°2 de Marine Le Pen",
+      "date": "2026-08-29"
+    },
+    {
+      "titre": "Présidentielle 2027 : à l'approche de la primaire de la gauche, Ségolène Royal compte bien bousculer le jeu de",
+      "date": "2026-08-29"
+    },
+    {
+      "titre": "Le Journal Inattendu spécial Grand départ du Tour de France à Barcelone",
+      "date": "2026-07-04"
+    }
+  ],
+  "derniere_activite": "2026-09-05",
+  "frequence_jours": 6
 }

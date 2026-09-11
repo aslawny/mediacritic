@@ -49,5 +49,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Guillaume Fosko : un daron fragile ?",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "Alexandre Mulliez : quand les enfants redéfinissent le succès",
+      "date": "2026-07-17"
+    },
+    {
+      "titre": "Yann Couvreur, un papatissier",
+      "date": "2026-07-06"
+    },
+    {
+      "titre": "Scandale du périscolaire : le maire de Paris répond aux questions des parents",
+      "date": "2026-06-29"
+    },
+    {
+      "titre": "Combien de Lyhanna faudra-t-il encore ?",
+      "date": "2026-06-25"
+    }
+  ],
+  "derniere_activite": "2026-09-09",
+  "frequence_jours": 4
 }

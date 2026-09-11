@@ -24,5 +24,29 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-10",
+  "episodes_recents": [
+    {
+      "titre": "Louise Laborie, autrice, nous donne ses trois refs !",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "Todiefor, producteur, nous donne ses trois refs ! (Forrest Gump, Dofus...)",
+      "date": "2026-09-04"
+    },
+    {
+      "titre": "Sixtine Dano, autrice, nous donne ses trois refs ! (Miyazaki, Mustang...)",
+      "date": "2026-09-01"
+    },
+    {
+      "titre": "Rémy Golo, humoriste, nous donne ses trois refs !",
+      "date": "2026-07-27"
+    },
+    {
+      "titre": "Stand High Patrol, groupe mythique, nous donnent leur 3 refs !",
+      "date": "2026-07-25"
+    }
+  ],
+  "derniere_activite": "2026-09-09",
+  "frequence_jours": 2
 }

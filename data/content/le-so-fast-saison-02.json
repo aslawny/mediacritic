@@ -25,5 +25,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "Le So'Fast - S02E32",
+      "date": "2023-09-14"
+    },
+    {
+      "titre": "Le So'Fast - S02E31",
+      "date": "2023-09-14"
+    },
+    {
+      "titre": "Le So'Fast - S02E30",
+      "date": "2023-09-14"
+    },
+    {
+      "titre": "Le So'Fast - S02E29",
+      "date": "2023-09-14"
+    },
+    {
+      "titre": "Le So'Fast - S02E28",
+      "date": "2023-09-14"
+    }
+  ],
+  "derniere_activite": "2023-09-14",
+  "frequence_jours": 0
 }

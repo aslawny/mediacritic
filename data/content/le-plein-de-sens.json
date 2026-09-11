@@ -26,5 +26,29 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-10",
+  "episodes_recents": [
+    {
+      "titre": "LPDS Anne So et Greg #The last one... Ou pas!",
+      "date": "2024-05-28"
+    },
+    {
+      "titre": "LPDS Changer de vie, avec Anne Ferrier",
+      "date": "2024-04-30"
+    },
+    {
+      "titre": "LPDS L'enfant intérieur, avec Bénédicte Sillon",
+      "date": "2024-04-09"
+    },
+    {
+      "titre": "LPDS L'école dehors, avec Marie Petit",
+      "date": "2024-03-26"
+    },
+    {
+      "titre": "LPDS Humour et sens 4 avec Matthieu Nina",
+      "date": "2024-03-19"
+    }
+  ],
+  "derniere_activite": "2024-05-28",
+  "frequence_jours": 7
 }

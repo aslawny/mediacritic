@@ -25,5 +25,29 @@
     "sciences",
     "vulgarisation"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "Stratégie et IA : vers une nouvelle ère du pilotage en entreprise",
+      "date": "2025-06-24"
+    },
+    {
+      "titre": "Data & IA : comment allier performance et sécurité ?",
+      "date": "2025-06-03"
+    },
+    {
+      "titre": "Réinventer la communication avec l'IA : le défi d'Anne Kerdi",
+      "date": "2025-05-15"
+    },
+    {
+      "titre": "L'IA en entreprise : que dit la loi ?",
+      "date": "2025-04-14"
+    },
+    {
+      "titre": "L'IA au service des RH : automatiser sans déshumaniser",
+      "date": "2025-03-25"
+    }
+  ],
+  "derniere_activite": "2025-06-24",
+  "frequence_jours": 30
 }

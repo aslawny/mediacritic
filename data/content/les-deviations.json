@@ -25,5 +25,31 @@
     "rénovation",
     "DIY"
   ],
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-10",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Charl0oo",
+        "titre": "Super idée ce podcast!",
+        "texte": "Merci pour tous ces témoignages qui parfois me font rêver, parfois réfléchir et parfois confirme mes certitudes. Concernant l’emission philo, j’ai pu constaté que j'étais pas mal intelligente en fait... ha en toute modestie bien-sûr.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Ouam2020",
+        "titre": "Épisode 5 décembre",
+        "texte": "Madame a bien fait d’arrêter l’enseignement. Mieux pour nos enfants."
+      },
+      {
+        "note": 5,
+        "auteur": "Aurélie Mojo",
+        "titre": "Bravo",
+        "texte": "Un plaisir de découvrir ces histoires qui me font sentir un peu moins seule dans ma propre deviation. Les changements de vie sont compliqués a vivre.…"
+      }
+    ]
+  }
 }

@@ -24,5 +24,55 @@
     "histoire"
   ],
   "addedAt": "2026-07-15",
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-10",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-09-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "slurps7700",
+        "titre": "Un podcast qui fait plaisir aux oreilles mais pas que",
+        "texte": "Un plaisir à écouter tant par le fond que par la forme. Hyper dynamique et positif. Lokan nous partage aussi ses réflexions et nous pousse à notre tour à cette réflexion. C’est ça aussi le plaisir de partager! 👍💪"
+      },
+      {
+        "note": 2,
+        "auteur": "Targan82",
+        "titre": "Bonne technique mais…",
+        "texte": "…fort approximatif et comme il le reconnaît se coince lui même avec des questions sans connaître la réponse."
+      },
+      {
+        "note": 5,
+        "auteur": "Nicdm81",
+        "titre": "Top podcast!",
+        "texte": "Salut Lokan, super que tu aies relancé les podcasts ! Félicitations pour l'ultra marathon de San Francisco, et j'ai hâte de découvrir le nouveau contenu sur les différentes plateformes."
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "040 - Moins d'algorithmes, plus de voyages (avec Manon)",
+      "date": "2026-08-19"
+    },
+    {
+      "titre": "039 - Comment travaille une coach de coachs ? (avec Déborah Valdeavero)",
+      "date": "2026-08-06"
+    },
+    {
+      "titre": "038 - L'IA m'aide à faire ce que je repousse depuis des années",
+      "date": "2026-07-22"
+    },
+    {
+      "titre": "037 - Reprendre le contrôle et retrouver le plaisir de partager",
+      "date": "2026-07-12"
+    },
+    {
+      "titre": "036 - En 2026, je change tout (ou presque)",
+      "date": "2025-12-29"
+    }
+  ],
+  "derniere_activite": "2026-08-19",
+  "frequence_jours": 13
 }

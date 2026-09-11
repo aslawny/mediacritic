@@ -24,5 +24,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-10",
+  "episodes_recents": [
+    {
+      "titre": "La sainteté est-elle réellement accessible ? Mode d'emploi !!!",
+      "date": "2025-08-28"
+    },
+    {
+      "titre": "Migrants, demandeurs d'asile, réfugiés : comment comprendre leur quotidien ?",
+      "date": "2025-08-27"
+    },
+    {
+      "titre": "Les vertus chrétiennes : une trésor pour notre temps.... mode d'emploi!!!",
+      "date": "2025-08-26"
+    },
+    {
+      "titre": "Femmes en 2025 : et si on célébrait nos imperfections ? avec Priscille Prétot",
+      "date": "2025-08-25"
+    },
+    {
+      "titre": "C'est quoi être un bon parent ? comment être juste et cohérent?",
+      "date": "2025-08-24"
+    }
+  ],
+  "derniere_activite": "2025-08-28",
+  "frequence_jours": 1
 }

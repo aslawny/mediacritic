@@ -23,5 +23,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-10",
+  "episodes_recents": [
+    {
+      "titre": "S03E02 : le kiff de Game Of Thrones (la série) avec Eddy et Nils",
+      "date": "2026-09-01"
+    },
+    {
+      "titre": "S03E01 : le kiff de lécriture avec Scythe Owens et Guillaume",
+      "date": "2026-08-15"
+    },
+    {
+      "titre": "S02E21 : le grand quizzz de fin de saison !",
+      "date": "2026-07-15"
+    },
+    {
+      "titre": "S02E20 : le kiff des séries avec Loïc et Loris",
+      "date": "2026-07-01"
+    },
+    {
+      "titre": "S02E19 : le kiff de l'univers Warhammer avec Romain (Xeno Life)",
+      "date": "2026-06-15"
+    }
+  ],
+  "derniere_activite": "2026-09-01",
+  "frequence_jours": 16
 }

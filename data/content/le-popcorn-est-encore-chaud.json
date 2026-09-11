@@ -26,5 +26,29 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-10",
+  "episodes_recents": [
+    {
+      "titre": "Le Seigneur des Anneaux : Le Retour du Roi",
+      "date": "2024-07-08"
+    },
+    {
+      "titre": "Parasite",
+      "date": "2024-06-17"
+    },
+    {
+      "titre": "Mad Max : Fury Road",
+      "date": "2024-05-27"
+    },
+    {
+      "titre": "The Lobster",
+      "date": "2024-05-06"
+    },
+    {
+      "titre": "Vice-versa",
+      "date": "2024-04-15"
+    }
+  ],
+  "derniere_activite": "2024-07-08",
+  "frequence_jours": 21
 }

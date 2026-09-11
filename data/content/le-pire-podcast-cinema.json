@@ -46,5 +46,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Je suis d'accord... AVEC MACRON ?! (sur le cinéma) 💔",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "MAYDAY : Le film le plus SOUS CÔTÉ de 2026 ? 🪆",
+      "date": "2026-09-07"
+    },
+    {
+      "titre": "Il faut arrêter avec OBSESSION... 💥",
+      "date": "2026-09-04"
+    },
+    {
+      "titre": "LANTERNS : La MEILLEURE série de 2026 ? ⚡",
+      "date": "2026-09-02"
+    },
+    {
+      "titre": "Le SCANDALE de la MOSTRA 2026 ? 🔥 (+ des films fous)",
+      "date": "2026-08-31"
+    }
+  ],
+  "derniere_activite": "2026-09-09",
+  "frequence_jours": 2
 }

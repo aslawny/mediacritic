@@ -27,5 +27,29 @@
     "cuisine"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-10",
+  "episodes_recents": [
+    {
+      "titre": "Sous les projecteurs - Rencontre avec Grégory Cuilleron, cuisinier et conférencier découvert dans Un dîner Pre",
+      "date": "2025-06-09"
+    },
+    {
+      "titre": "Sous les projecteurs - Rencontre avec la tatoueuse Alyson Dacher",
+      "date": "2025-06-03"
+    },
+    {
+      "titre": "Sous les projecteurs - Rencontre avec le rappeur El Bobby",
+      "date": "2025-05-27"
+    },
+    {
+      "titre": "Derrière les fourneaux - Maxime Périer, gérant du Café du Peintre",
+      "date": "2025-05-13"
+    },
+    {
+      "titre": "Derrière les fourneaux - Jean-François Têtedoie, co-fondateur du Café Terroir et de Monsieur P",
+      "date": "2025-05-07"
+    }
+  ],
+  "derniere_activite": "2025-06-09",
+  "frequence_jours": 7
 }

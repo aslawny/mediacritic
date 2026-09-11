@@ -24,5 +24,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-10",
+  "episodes_recents": [
+    {
+      "titre": "Quickie #3 - Mission Impossible, Lalo Schifrin",
+      "date": "2021-04-23"
+    },
+    {
+      "titre": "Quickie #2 - Retour vers le Futur, Alan Silvestri",
+      "date": "2021-01-31"
+    },
+    {
+      "titre": "Quickie #1 - Basic Instinct, Jerry Goldsmith",
+      "date": "2021-01-15"
+    },
+    {
+      "titre": "Hors Série - Interview de Jimmy Tillier, Compositeur du Visiteur du Futur",
+      "date": "2021-01-08"
+    },
+    {
+      "titre": "#05 - Danny Elfman (Avec Mathis Bouveret-Akengin)",
+      "date": "2020-12-25"
+    }
+  ],
+  "derniere_activite": "2021-04-23",
+  "frequence_jours": 15
 }

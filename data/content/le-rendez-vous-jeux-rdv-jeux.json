@@ -47,5 +47,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Dawnwalker, pari osé et réussi – RDV Jeux",
+      "date": "2026-09-10"
+    },
+    {
+      "titre": "[20 ans] Ouverture billetterie (j'ai fait une connerie)",
+      "date": "2026-09-07"
+    },
+    {
+      "titre": "Summer Solo Fiesta - RDV Jeux",
+      "date": "2026-09-03"
+    },
+    {
+      "titre": "Gamescom Theft Auto (202)6 – RDV Jeux",
+      "date": "2026-08-27"
+    },
+    {
+      "titre": "Save the date - 24 octobre",
+      "date": "2026-08-18"
+    }
+  ],
+  "derniere_activite": "2026-09-10",
+  "frequence_jours": 6
 }
