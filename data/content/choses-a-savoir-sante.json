@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-06-05",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "h.foreva",
+        "titre": "Merci ! C’est un super podcast",
+        "texte": "Podcast qui apporte énormément chaque jours. Le fait d’acquérir de nouvelles connaissances en quelques minutes est très enrichissant et je suis très heureuse de l'avoir découvert ! En se préparant, en faisant la vaisselle ou en faisant le ménage, Choses à savoir EST le podcast …"
+      },
+      {
+        "note": 1,
+        "auteur": "Philooray",
+        "titre": "Lecture",
+        "texte": "La lecture des podcasts non lus ne s’enchaîne plus automatiquement ! Pourquoi ?"
+      },
+      {
+        "note": 5,
+        "auteur": "Max$",
+        "titre": "Depuis, je ne suis plus malade !!!",
+        "texte": ";) Format parfait. Contenu excellent ! La série complète vaut le coup, le format se prête très bien aux transitions de la journée : bus, trajet, auto, pause café :) Faites le tour des autres podcasts de la série !"
+      }
+    ]
+  }
 }

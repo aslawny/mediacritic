@@ -26,5 +26,25 @@
     "societe"
   ],
   "addedAt": "2026-05-31",
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-10",
+  "episodes_recents": [
+    {
+      "titre": "Les mystères des profondeurs du lac du Bourget",
+      "date": "2026-08-31"
+    },
+    {
+      "titre": "La vie sur le lac du Bourget",
+      "date": "2026-07-06"
+    },
+    {
+      "titre": "Quand la campagne d’Aix Riviera se dévoile",
+      "date": "2026-04-17"
+    },
+    {
+      "titre": "Un nouveau regard sur la ville d'Aix-les-Bains",
+      "date": "2026-02-16"
+    }
+  ],
+  "derniere_activite": "2026-08-31",
+  "frequence_jours": 60
 }

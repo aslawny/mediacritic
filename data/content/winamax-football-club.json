@@ -25,5 +25,19 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-10",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ch",
+    "tri": "mosthelpful",
+    "releve": "2026-09-12",
+    "extraits": [
+      {
+        "note": 4,
+        "auteur": "goodtim24",
+        "titre": "Profondément partagé",
+        "texte": "Les avis sont pertinents souvent, des débats intéressant, une bonne ambiance… Mais certains épisodes sont gâchés par le fait que les chroniqueurs se coupent sans arrêt la parole, vous gagneriez vraiment à essayer de corriger ça… Bonne suite!"
+      }
+    ]
+  }
 }

@@ -47,5 +47,25 @@
     }
   ],
   "derniere_activite": "2026-06-05",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-09-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Un utilisateur Googleee",
+        "titre": "Incroyable",
+        "texte": "J’écoute chaque jour ce podcast très complet et très passionnant ✨✨✨"
+      },
+      {
+        "note": 1,
+        "auteur": "Meurtrie",
+        "titre": "Munich 1972: vous appelez cela un incident!",
+        "texte": "Quelle honte. C’est une catastrophe. Vous vous devez de corriger."
+      }
+    ]
+  }
 }

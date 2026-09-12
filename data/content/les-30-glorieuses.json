@@ -46,5 +46,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "C’est pas vaudou",
+      "date": "2025-05-09"
+    },
+    {
+      "titre": "FITNA PARK",
+      "date": "2025-04-24"
+    },
+    {
+      "titre": "Best ouf du lundi",
+      "date": "2025-04-14"
+    },
+    {
+      "titre": "Best of du jour",
+      "date": "2025-03-11"
+    },
+    {
+      "titre": "Assurance tous rires",
+      "date": "2025-01-10"
+    }
+  ],
+  "derniere_activite": "2025-05-09",
+  "frequence_jours": 14
 }

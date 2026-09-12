@@ -25,5 +25,29 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-10",
+  "episodes_recents": [
+    {
+      "titre": "L'original",
+      "date": "2026-01-16"
+    },
+    {
+      "titre": "L'écrivaillon",
+      "date": "2025-12-16"
+    },
+    {
+      "titre": "L'iconoclaste",
+      "date": "2025-10-16"
+    },
+    {
+      "titre": "La persévérante",
+      "date": "2025-09-30"
+    },
+    {
+      "titre": "Le curieux",
+      "date": "2025-09-17"
+    }
+  ],
+  "derniere_activite": "2026-01-16",
+  "frequence_jours": 16
 }

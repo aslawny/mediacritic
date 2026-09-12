@@ -24,5 +24,31 @@
   "tags": [
     "gaming"
   ],
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-10",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mosthelpful",
+    "releve": "2026-09-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "GyomYo",
+        "titre": "À ne pas manquer dans vos oreilles de gamer",
+        "texte": "Le podcast Red Alert de l’équipe Third Edition est une vraie réussite. Mehdi et Nico proposent des analyses passionnées, pertinentes et toujours super agréables à écouter. Leur complicité fait tout le charme du podcast.…"
+      },
+      {
+        "note": 5,
+        "auteur": "QC_Syl",
+        "titre": "Fin, Focus, Fun",
+        "texte": "3 F comme la fédération française de funk, ce podcast est parmi les plus agréables et intéressants à écouter. Éloquent quant à la qualité des ouvrages édités par cette maison d’édition !"
+      },
+      {
+        "note": 5,
+        "auteur": "MatthieuBagna",
+        "titre": "Thumbs Up!",
+        "texte": "Belle équipe de passionnés qui ose faire de l’analyse sur de l’actu et on sait que c’est pas facile. Meilleure émission hebdo du JV francophone."
+      }
+    ]
+  }
 }

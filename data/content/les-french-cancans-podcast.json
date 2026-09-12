@@ -24,5 +24,29 @@
     "cuisine"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-10",
+  "episodes_recents": [
+    {
+      "titre": "#36 JR l'Artiste",
+      "date": "2024-01-08"
+    },
+    {
+      "titre": "#34 Nicolas Hulot",
+      "date": "2024-01-08"
+    },
+    {
+      "titre": "#33 La Marianne",
+      "date": "2024-01-08"
+    },
+    {
+      "titre": "#32 Victor Hugo",
+      "date": "2024-01-08"
+    },
+    {
+      "titre": "#31 Vanessa Paradis",
+      "date": "2024-01-08"
+    }
+  ],
+  "derniere_activite": "2024-01-08",
+  "frequence_jours": 0
 }

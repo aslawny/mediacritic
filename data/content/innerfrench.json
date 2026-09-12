@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-08-31",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mosthelpful",
+    "releve": "2026-09-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Kevin Cdn",
+        "titre": "Magnifique!",
+        "texte": "If you’re at an intermediate level, this podcast is a REVELATION. You *can* actually listen to a full 30 minutes of spoken French and understand nearly everything! I recommend starting from the beginning (the episodes get progressively more advanced as you go on).…"
+      },
+      {
+        "note": 1,
+        "auteur": "Queso2111",
+        "titre": "The new episodes are not as good",
+        "texte": "I have followed this channel for quite some time and I really liked it. It pains me to say that the last episodes are more like tedious history lessons. I have forced myself to listen to them… and no, sorry. Please take it back to what it was"
+      },
+      {
+        "note": 5,
+        "auteur": "Lake of Ontario",
+        "titre": "féliciter le jour mondial du podcast",
+        "texte": "Salut Hugo, Je suis Saeed et j'ai commencé à écouter des podcasts il y a deux semaines. J'apprécie ta façon d'enseigner le Français parce que c'est énormément motivant. En fait, j'avais utilisé certains podcasts pour apprendre anglais et je les trouve très intéressants.…"
+      }
+    ]
+  }
 }

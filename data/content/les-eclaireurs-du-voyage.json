@@ -26,5 +26,29 @@
     "societe"
   ],
   "addedAt": "2026-07-30",
-  "updatedAt": "2026-07-30"
+  "updatedAt": "2026-07-30",
+  "episodes_recents": [
+    {
+      "titre": "Le voyage de Giovanni Caboto",
+      "date": "2026-06-24"
+    },
+    {
+      "titre": "Voyage au Pérou : Inti Raymi, fête du Dieu Soleil inca",
+      "date": "2026-06-17"
+    },
+    {
+      "titre": "Le voyage d'Amerigo Vespucci",
+      "date": "2026-06-10"
+    },
+    {
+      "titre": "Les Famadihana - Voyage à Madagascar",
+      "date": "2026-06-03"
+    },
+    {
+      "titre": "Apollo 11",
+      "date": "2026-05-27"
+    }
+  ],
+  "derniere_activite": "2026-06-24",
+  "frequence_jours": 7
 }

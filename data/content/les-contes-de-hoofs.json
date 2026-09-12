@@ -27,5 +27,51 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-10",
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-09-12",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "Il était une Hoof La princesse au petit pois",
+      "date": "2021-06-25"
+    },
+    {
+      "titre": "Il était une Hoof Un vilain petit coin coin",
+      "date": "2021-06-25"
+    },
+    {
+      "titre": "Il était une Hoof Pierre et le loup",
+      "date": "2021-06-25"
+    },
+    {
+      "titre": "Il était une Hoof Maître chat",
+      "date": "2021-06-24"
+    },
+    {
+      "titre": "Il était une Hoof Hansel et Gretel",
+      "date": "2021-06-24"
+    }
+  ],
+  "derniere_activite": "2021-06-25",
+  "frequence_jours": 0
 }

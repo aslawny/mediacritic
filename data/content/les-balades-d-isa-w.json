@@ -25,5 +25,29 @@
     "cuisine"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-10",
+  "episodes_recents": [
+    {
+      "titre": "Beauséjour, du Gouda au lait cru en sud gironde",
+      "date": "2026-08-30"
+    },
+    {
+      "titre": "Thierry Welhoff, organisateur et programmateur du Festival : Les Nuits d'Hure en Gironde",
+      "date": "2026-07-09"
+    },
+    {
+      "titre": "A vélo depuis le sud Gironde jusqu'en Irlande : Le défi de Patrick 70 ans",
+      "date": "2026-07-02"
+    },
+    {
+      "titre": "Un premier ouvrage captivant : Anne Valden présente La Lisière, livre I depuis la bordure",
+      "date": "2026-06-30"
+    },
+    {
+      "titre": "Les Granges de Sauternes dans le Sauternais",
+      "date": "2026-05-25"
+    }
+  ],
+  "derniere_activite": "2026-08-30",
+  "frequence_jours": 14
 }

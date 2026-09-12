@@ -27,5 +27,29 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-10",
+  "episodes_recents": [
+    {
+      "titre": "Le Petit Nicolas - Mes vacances de Pâques",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "Le Petit Nicolas - La tondeuse à gazon",
+      "date": "2026-09-02"
+    },
+    {
+      "titre": "Le Petit Nicolas - Le miroir",
+      "date": "2026-08-26"
+    },
+    {
+      "titre": "Le Petit Nicolas - La pétanque",
+      "date": "2026-08-19"
+    },
+    {
+      "titre": "Le Petit Nicolas - Le réfrigérateur",
+      "date": "2026-08-12"
+    }
+  ],
+  "derniere_activite": "2026-09-09",
+  "frequence_jours": 7
 }

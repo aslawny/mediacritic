@@ -47,5 +47,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "L'alerte du jour - Moïse Mitterrand, petit-neveu de l'ancien président : \"L'État, sous son propre poids, est e",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "Le candidat du jour - Charles Consigny : \"Moi, je dis aux Français : si je suis élu, je n'aurai pas besoin de ",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "La boulette du jour - Sandrine Pégand : \"Ça pourrait faire sourire s'il était humoriste... C'est lunaire ! S'i",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "La suppression du jour - Charles Consigny : \"Je pense que tout le monde vous dit la même chose. Si c'est pour ",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "La rumeur du jour - Jean-Loup Bonnamy : \"Il est capable de tout et n'importe quoi... Avec notre ami, qui est p",
+      "date": "2026-09-11"
+    }
+  ],
+  "derniere_activite": "2026-09-11",
+  "frequence_jours": 0
 }

@@ -46,5 +46,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "#10 SAISON 16: SOPHIE IBORRA - ITINÉRAIRE D'UNE ENTREPRENEURE ENGAGÉE",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "#9 SAISON 16: HORTENSE LE GENTIL: LE COURAGE DE REDESSINER SA VIE",
+      "date": "2026-09-02"
+    },
+    {
+      "titre": "#8 SAISON 16: ESTHER ABRAMI - VIOLONISTE ET COMPOSITRICE : LA MUSIQUE EST AUSSI UNE AFFAIRE DE FEMMES",
+      "date": "2026-08-26"
+    },
+    {
+      "titre": "REDIFFUSION #16 SAISON 15: CHARLOTTE CASIRAGHI - FAIRE DE SES FÊLURES DES SOURCES DE CRÉATIVITÉ",
+      "date": "2026-08-05"
+    },
+    {
+      "titre": "#7 SAISON 16: ROSELYNE BACHELOT - LE COURAGE DES CONVICTIONS",
+      "date": "2026-07-15"
+    }
+  ],
+  "derniere_activite": "2026-09-09",
+  "frequence_jours": 7
 }

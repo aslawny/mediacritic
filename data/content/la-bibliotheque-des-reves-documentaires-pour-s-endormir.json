@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-06",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "us",
+    "tri": "mosthelpful",
+    "releve": "2026-09-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Winnie1021",
+        "titre": "Wow! A+++++",
+        "texte": "If you are studying French and you want to get the cadence and the accent, I think the best time to really absorb it is when you have ended all the distractions of the day and begun relaxing your body and your mind for falling asleep.…"
+      },
+      {
+        "note": 1,
+        "auteur": "K8gur",
+        "titre": "Horribly loud MAGA ads",
+        "texte": "If listening to screaming MAGA ads is your jam for relaxing then I guess this is the podcast for you. For me - not so much. It’s too bad cause I loved The French Whisperer."
+      },
+      {
+        "note": 5,
+        "auteur": "Lili_LFS",
+        "titre": "Merci beaucoup!",
+        "texte": "J’adore ces histoires et la manière dont vous les racontez. J’arrive toujours à m’endormir !"
+      }
+    ]
+  }
 }

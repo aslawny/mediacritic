@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-31",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "debo6433",
+        "titre": "Merci",
+        "texte": "Je me suis lancée dans les podcasts samedi dernier, le premier que j’ai écouté, c’était « ne laisse pas les autres te définir » et je me suis tellement retrouvée dans ce podcast.…"
+      },
+      {
+        "note": 5,
+        "auteur": "léonie :)",
+        "titre": "incroyable",
+        "texte": "Je me sens bénie d’avoir découvert mimo et l’énergie qu’elle apporte !! Que ça soit les podcasts, les tiktoks, le compte insta, je suis trop trop fan de tout ce que tu crées …"
+      },
+      {
+        "note": 5,
+        "auteur": "your.safe.place.a",
+        "titre": "Un podcast où on se retrouve 🫧",
+        "texte": "Je viens d’écouter le podcast sur la dépendance affective après la recommendation d’un ami. Franchement je me suis jamais autant trouvée comprise 🥹 J’aime pas trop les longs contenus mais là j’ai pas vu le temps passer et c’était tellement bien.…"
+      }
+    ]
+  }
 }

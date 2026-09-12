@@ -26,5 +26,29 @@
     "societe"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-05-20"
+  "updatedAt": "2026-05-20",
+  "episodes_recents": [
+    {
+      "titre": "Episode 5 - Trip to Asia",
+      "date": "2024-07-09"
+    },
+    {
+      "titre": "Épisode 4 - Vive la Vélorution",
+      "date": "2024-03-28"
+    },
+    {
+      "titre": "Épisode 3 - Voyage initiatique",
+      "date": "2024-02-29"
+    },
+    {
+      "titre": "Episode 2 - Faire sa vie dans le mouvement.",
+      "date": "2024-01-11"
+    },
+    {
+      "titre": "Episode 1 - Premier voyage à bord d'un bateau",
+      "date": "2023-12-18"
+    }
+  ],
+  "derniere_activite": "2024-07-09",
+  "frequence_jours": 49
 }

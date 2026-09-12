@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-07-10",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Jeanlou666",
+        "titre": "Émission 5 / Gestion du contenu 0",
+        "texte": "Rien a redire sur l’émission que j’écoute depuis des années. Par contre la gestion des podcasts est juste incroyable... Tous les podcasts sont divisés en 5/6 parties, pourquoi ? Personne ne fait ça. Mais il y a pire : il y a des erreurs de montage sur tous les épisodes.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Ubique33",
+        "titre": "Actualisation podcast",
+        "texte": "Plus rien depuis le 13 mars. Pourquoi ce podcast ne s actualise-t-il pas ?"
+      },
+      {
+        "note": 5,
+        "auteur": "jagwarcmj",
+        "titre": "Vraiment éclairant et bien animé",
+        "texte": "C’est vraiment très bien construit comme émission et particulièrement bien animé. Très éclairant et acculturant. Des intervenants dynamiques et variés. Surtout continuez.…"
+      }
+    ]
+  }
 }

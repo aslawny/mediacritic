@@ -27,5 +27,29 @@
     "societe"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-05-20"
+  "updatedAt": "2026-05-20",
+  "episodes_recents": [
+    {
+      "titre": "La traversée de l'Europe et de la Scandinavie à vélo",
+      "date": "2026-06-15"
+    },
+    {
+      "titre": "Traversée de l'Europe à vélo : France - Iran",
+      "date": "2026-06-01"
+    },
+    {
+      "titre": "La traversée des Etats-Unis en vélo couché : Montréal-Miami",
+      "date": "2026-05-18"
+    },
+    {
+      "titre": "Ténérife en VTT",
+      "date": "2026-05-04"
+    },
+    {
+      "titre": "La traversée à vélo et à pied de l'Australie par David",
+      "date": "2026-04-20"
+    }
+  ],
+  "derniere_activite": "2026-06-15",
+  "frequence_jours": 14
 }

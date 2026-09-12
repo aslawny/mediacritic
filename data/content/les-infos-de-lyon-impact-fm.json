@@ -24,5 +24,29 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-05-16"
+  "updatedAt": "2026-05-16",
+  "episodes_recents": [
+    {
+      "titre": "08:00 - Lyon",
+      "date": "2026-09-12"
+    },
+    {
+      "titre": "18:00 - Lyon",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "16:00 - Lyon",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "12:00 - Lyon",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "11:00 - Lyon",
+      "date": "2026-09-11"
+    }
+  ],
+  "derniere_activite": "2026-09-12",
+  "frequence_jours": 0
 }

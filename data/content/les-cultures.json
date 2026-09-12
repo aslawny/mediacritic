@@ -23,5 +23,21 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "Les culturés Episode 7",
+      "date": "2018-04-12"
+    },
+    {
+      "titre": "Les culturés Episode 6",
+      "date": "2018-03-16"
+    },
+    {
+      "titre": "Episode 5 du du 22 février",
+      "date": "2018-02-24"
+    }
+  ],
+  "derniere_activite": "2018-04-12",
+  "frequence_jours": 27
 }

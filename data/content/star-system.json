@@ -25,5 +25,31 @@
     "societe"
   ],
   "addedAt": "2026-08-08",
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-10",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ch",
+    "tri": "mosthelpful",
+    "releve": "2026-09-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lynyla",
+        "titre": "🍭",
+        "texte": "Un petit bonbon de podcast, j’adore merci! Les analyses de livres sont passionnantes, les réponses aux rubriques aussi et les histoires sont passionnantes! En plus tu as un vrai don de conteuse 😍"
+      },
+      {
+        "note": 5,
+        "auteur": "Nel'sss",
+        "titre": "Incroyable",
+        "texte": "J’adore j’adore et j’adore ! Je viens de découvrir tes podcast et comment dire que je peux plus m’en passer ! Les histoires sont si bien racontées !"
+      },
+      {
+        "note": 5,
+        "auteur": "Kavinsaleh",
+        "titre": "Top👍",
+        "texte": "J’écoute tous les jours vos podcast et j’adore. Je vous trouve super drôle et sympa et j’ai beaucoup de plaisir à vous écouter. Continuez ainsi 🫶🏻💪"
+      }
+    ]
+  }
 }

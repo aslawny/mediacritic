@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-02",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Sarah_92_15",
+        "titre": "Très instructif !!",
+        "texte": "Super podcast sur l’éducation financière. Je recommande à tous le monde. Ça m’a aidé à changer d’état d’esprit. Tout le monde peut (et devrait) mettre en place une stratégie et cela quelque soit son revenu …"
+      },
+      {
+        "note": 3,
+        "auteur": "Clovis1511",
+        "titre": "Holdings",
+        "texte": "Dans le podcast, concernant les holdings, je trouve que de comparer ce qu’il reste du bénéfice de 100 000 euros, après versement en REM ou dividende à un dirigeant de Societe avec ce que la holding peut percevoir est inutile et donne une fausse impression. .…"
+      },
+      {
+        "note": 5,
+        "auteur": "ElitaHkj",
+        "titre": "Très interessant et accessible",
+        "texte": "Je suis arrivée sur le podcast pour un sujet immobilier et finalement, je me suis prise au jeu et j’ai découvert énormément de choses sur pleins d’autres sujets, le pacs, la fiscalité ! Tres bon podcast que je recommande a tous pour apprendre pleins de choses bien utiles"
+      }
+    ]
+  }
 }

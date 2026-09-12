@@ -23,5 +23,29 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-10",
+  "episodes_recents": [
+    {
+      "titre": "Voyage dans le corps de la vache",
+      "date": "2021-07-09"
+    },
+    {
+      "titre": "Un trou dans le ventre",
+      "date": "2021-07-08"
+    },
+    {
+      "titre": "Monsieur Ordouilli",
+      "date": "2021-07-07"
+    },
+    {
+      "titre": "Le Tour de France",
+      "date": "2021-07-06"
+    },
+    {
+      "titre": "Le mot de passe du FBI",
+      "date": "2021-07-05"
+    }
+  ],
+  "derniere_activite": "2021-07-09",
+  "frequence_jours": 1
 }

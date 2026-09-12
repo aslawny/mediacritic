@@ -26,5 +26,29 @@
     "famille"
   ],
   "addedAt": "2026-07-09",
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-10",
+  "episodes_recents": [
+    {
+      "titre": "Annonce - Participation au Salon de Bizy - 24 mai 2026",
+      "date": "2026-05-09"
+    },
+    {
+      "titre": "Thor et Loki chez les Géants (1) - La traversée de la Vimur",
+      "date": "2026-04-25"
+    },
+    {
+      "titre": "Les enfants de Loki et en particulier l'Histoire de Fenrir le Loup Géant",
+      "date": "2026-04-11"
+    },
+    {
+      "titre": "Loki et l'or maudit d'Andvari ou Comment le Nain Fafnir se transforma en Dragon",
+      "date": "2026-03-21"
+    },
+    {
+      "titre": "Thor et Loki au Château d'Utgard : le berceau de toutes les Illusions",
+      "date": "2026-03-07"
+    }
+  ],
+  "derniere_activite": "2026-05-09",
+  "frequence_jours": 20
 }

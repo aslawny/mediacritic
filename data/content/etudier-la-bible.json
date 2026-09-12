@@ -50,5 +50,25 @@
     }
   ],
   "derniere_activite": "2026-08-29",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-09-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "iphanu",
+        "titre": "Une vraie bénédiction 🙏🏾✨",
+        "texte": "Cher frère en Christ, Cela fait maintenant 1 an que j’écoute quasi tous les jours ce podcast. Je suis vraiment édifié par lui. Je remercie vraiment le Seigneur pour ce projet qu’il a mis sur votre cœur ! Qu’il vous donne de lui rester fidèlement attaché. Bien fraternellement 🤍✨"
+      },
+      {
+        "note": 5,
+        "auteur": "aline ingabire",
+        "titre": "Merci beaucoup",
+        "texte": "Merci pour ce podcast qui me fait découvrir la parole de Dieu, merci pour votre travail qui essaie d’expliquer et de décortiquer la parole en tout modestie."
+      }
+    ]
+  }
 }

@@ -26,5 +26,29 @@
     "famille"
   ],
   "addedAt": "2026-06-27",
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-10",
+  "episodes_recents": [
+    {
+      "titre": "Le fort Sarah Bernhardt",
+      "date": "2026-06-11"
+    },
+    {
+      "titre": "L'observatoire Philippe le Bon",
+      "date": "2026-06-11"
+    },
+    {
+      "titre": "Le Château de Chenonceau",
+      "date": "2026-06-11"
+    },
+    {
+      "titre": "Le phare de Cordouan",
+      "date": "2026-06-11"
+    },
+    {
+      "titre": "L'Abbaye Royale de Fontevraud",
+      "date": "2026-06-11"
+    }
+  ],
+  "derniere_activite": "2026-06-11",
+  "frequence_jours": 0
 }

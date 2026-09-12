@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2025-11-29",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-09-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "MkD_1990",
+        "titre": "Excellent podcast #1 en France",
+        "texte": "Personnellement cela ne fait pas longtemps que j'ai découvert Antoine (moins d'une semaine). Si comme moi vous aviez l'habitude de lire, écouter et regarder (autrement dit de consommer) du Tim Ferris, Gary Vaynerchuck, Ryan Holiday,... Antoine sera votre référence en français.…"
+      },
+      {
+        "note": 5,
+        "auteur": "alessiof.com",
+        "titre": "Intéressant",
+        "texte": "J'aimais déjà tes vidéos YouTube mais je préfère vraiment ce format dont le contenu est tout aussi inspirant qu'intéressant. Bonne continuation !"
+      },
+      {
+        "note": 5,
+        "auteur": "Louka_LB",
+        "titre": "Inspirant",
+        "texte": "Merci de m'avoir répondu j'ai enfin trouvé 😀 Sinon continue les podcasts, ils m'inspirent quand je fais mes devoirs ou mes révisions!"
+      }
+    ]
+  }
 }

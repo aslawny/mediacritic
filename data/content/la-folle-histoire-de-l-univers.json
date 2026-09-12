@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2018-02-03",
-  "frequence_jours": 17
+  "frequence_jours": 17,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Léo Comiti",
+        "titre": "Merci",
+        "texte": "Je voulais juste vous dire merci !!! Du fond du cœur je vous y adresse un grand merci. Mais pourquoi me diriez vous ? (même si il y a peu de chance que vous lisez se comantaire) Car vous avez reussi a me faire redecouvrire l'astrophysique.…"
+      },
+      {
+        "note": 1,
+        "auteur": "WW76",
+        "titre": "Insupportable Florence",
+        "texte": "Comment font les auditeurs pour supporter le cabotinage incessant de l'animatrice.... Le ton se veut décalé pour une émission de vulgarisation scientifique mais la forme m'empêche d'apprécier le fond. Elle en fait des caisses et des caisses.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Koumanoy37",
+        "titre": "Admiratif",
+        "texte": "Est-ce que le fait d'avoir découvert \"La folle histoire de l'univers\" il y a 3 jours et d'avoir déjà fini de visionner les 51 épisodes suffit à décrire à quel point j'ai adoré …"
+      }
+    ]
+  }
 }

@@ -27,5 +27,55 @@
     "sport"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-10",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "judge696",
+        "titre": "Merci",
+        "texte": "J’écoute le podcast depuis ses débuts alors que j’étais un diéséliste depuis des années (+35k/an). D’abord par curiosité et interêt pour la tech du domaine, j’ai ensuite découvert la réalité du VE au delà des idées reçues.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Zeross",
+        "titre": "Régularité",
+        "texte": "Le podcast est génial mais franchement un épisode tout les 36 du mois c’est pas possible et tellement dommage…"
+      },
+      {
+        "note": 5,
+        "auteur": "ourson22140",
+        "titre": "A mettre entre toutes les oreilles !",
+        "texte": "Un super podcast pour les conquis de l’électrique en bagnole mais surtout un super podcast pour ceux sui ne le sont pas …encore ! LDDLP explique, décortique, analyse, s’interroge, s’intéresse sans à priori , sans concessions non plus …"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "La nouvelle suprématie de la “watture” [S05E01]",
+      "date": "2026-09-07"
+    },
+    {
+      "titre": "Tesla et la magie (autonome) de Noël",
+      "date": "2025-12-31"
+    },
+    {
+      "titre": "\"Ils sont forts ces Chinois !\"",
+      "date": "2025-08-21"
+    },
+    {
+      "titre": "Quand Tesla dépasse le \"boss level\"",
+      "date": "2025-06-01"
+    },
+    {
+      "titre": "\"Je l'ai achetée avant qu'Elon ne devienne fou\"",
+      "date": "2025-05-06"
+    }
+  ],
+  "derniere_activite": "2026-09-07",
+  "frequence_jours": 131
 }

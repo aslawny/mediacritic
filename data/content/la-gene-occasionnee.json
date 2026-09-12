@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2025-04-12",
-  "frequence_jours": 21
+  "frequence_jours": 21,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Canard WC the Slayer",
+        "titre": "Le plaisir occasionné",
+        "texte": "Merci. Pour ces moments, pour ce podcast. Begaudeau signe et confirme à chaque épisode qu’il est un de nos intellectuels « multi facettes » les plus excitants du paysage média français. J’avais adoré son essai sur la bourgeoisie et (quasi) toute ses interventions télé-radios.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Tonaie",
+        "titre": "Analyse de cinéma ???",
+        "texte": "Podcast effectivement gênant ! M. Bégaudeau est insupportable. Il a réponse à tout, s’écoute parler et déroule des analyses balourdes. Fuyé !"
+      },
+      {
+        "note": 5,
+        "auteur": "Mère de dragons",
+        "titre": "Des armes pour réfléchir",
+        "texte": "Merci à vous deux pour ce podcast plein de finesse, de réflexions, de références et d’humour (même si parfois je reste sur le bas côté). Il y a là non seulement un partage de personnes passionnées, mais aussi, j’en soupçonne lourdement M.…"
+      }
+    ]
+  }
 }

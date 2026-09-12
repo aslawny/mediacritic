@@ -26,5 +26,55 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-10",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Guilain Zarkov",
+        "titre": "Indispensable",
+        "texte": "Émission que j’écoute depuis 2008. Nicolas Doze, son énergie et sa candeur (depuis le temps, il connaît ses sujets), les experts, c’est indispensable pour savoir ce qu’il se passe dans le monde.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Mariopodcast",
+        "titre": "Découpage émission",
+        "texte": "L’émission est top mais le découpage du podcast est catastrophique.Certaines semaines on n’a même pas l’émission en entier."
+      },
+      {
+        "note": 5,
+        "auteur": "Poupart F 61",
+        "titre": "Très instructif",
+        "texte": "Pourquoi multiplier les podcasts en découpant les experts en plusieurs parties ? On ne s’y retrouve plus. Un fichier par jour, c’est beaucoup mieux et beaucoup plus clair. Là, c’est le bordel ! Ancien avis L’émission est souvent excellente.…"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "L'intégrale des Experts du vendredi 11 septembre",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "Les Experts : Chômage, inflation, pouvoir d'achat... la douche froide - 11/09",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "Les Experts : L'Insee alerte sur le décrochage de la France - 11/09",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "L'intégrale des Experts du jeudi 10 septembre",
+      "date": "2026-09-10"
+    },
+    {
+      "titre": "Les Experts : Midterms, Trump promet 5 000 dollars par Américain s'il gagne - 10/09",
+      "date": "2026-09-10"
+    }
+  ],
+  "derniere_activite": "2026-09-11",
+  "frequence_jours": 0
 }

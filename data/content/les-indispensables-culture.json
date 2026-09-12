@@ -23,5 +23,29 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-10",
+  "episodes_recents": [
+    {
+      "titre": "Le bilan cinéma de cet été 2026",
+      "date": "2026-08-26"
+    },
+    {
+      "titre": "L'origine du canular téléphonique",
+      "date": "2026-08-26"
+    },
+    {
+      "titre": "Le quiz de la rentrée sur Europe 1",
+      "date": "2026-08-26"
+    },
+    {
+      "titre": "L'hommage à Dolly Parton",
+      "date": "2026-08-26"
+    },
+    {
+      "titre": "Blind test : les chansons de la radio",
+      "date": "2026-08-26"
+    }
+  ],
+  "derniere_activite": "2026-08-26",
+  "frequence_jours": 0
 }

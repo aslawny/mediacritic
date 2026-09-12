@@ -25,5 +25,29 @@
     "cuisine"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-05-23"
+  "updatedAt": "2026-05-23",
+  "episodes_recents": [
+    {
+      "titre": "Bruno Delmas",
+      "date": "2024-03-21"
+    },
+    {
+      "titre": "Bruno Delmas",
+      "date": "2024-03-21"
+    },
+    {
+      "titre": "Cyrille Thiers",
+      "date": "2024-02-15"
+    },
+    {
+      "titre": "Jean Pierre Alaux",
+      "date": "2024-01-09"
+    },
+    {
+      "titre": "Pascal Dessaint",
+      "date": "2023-12-19"
+    }
+  ],
+  "derniere_activite": "2024-03-21",
+  "frequence_jours": 35
 }

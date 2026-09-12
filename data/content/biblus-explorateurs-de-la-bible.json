@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-08-18",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "EloïseQ",
+        "titre": "La Bible pour petits et grands",
+        "texte": "Je trouve ce Podcast vraiment très bien fait. Je l’ai découvert par hasard via une publicité Instagram et j’ai eu envie de le découvrir et le faire découvrir à mon fils de 4 ans.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Petit Érable LOVE🐾",
+        "titre": "Nul",
+        "texte": "Ça doit être bien pour les plus petits mais moi je n’aime pas L’image par IA par contre 😕 Manon 12ans"
+      },
+      {
+        "note": 5,
+        "auteur": "Rampi Popo",
+        "titre": "Un podcast ludique et immersif pour découvrir la Bible en famille",
+        "texte": "Très bon podcast qui fait découvrir la Bible aux enfants de façon dynamique et ludique. Même les parents apprécient. Mes enfants écoutent les épisodes en boucle.…"
+      }
+    ]
+  }
 }

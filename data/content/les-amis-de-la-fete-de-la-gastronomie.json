@@ -26,5 +26,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "Episode - 51 - Ceci est une annonce des amis de la fête de la gastronomie",
+      "date": "2022-07-16"
+    },
+    {
+      "titre": "Episode - 50 - Soufflé, mousse, eaton mess, glacés aux fraises par Guy",
+      "date": "2022-06-21"
+    },
+    {
+      "titre": "Episode - 49 - Nouveau cuisinier(e), ancien esclave, débat par Guy et Claude",
+      "date": "2022-06-14"
+    },
+    {
+      "titre": "Episode - 48 - Duo d'asperges en éventail au saumon fumé par Guy",
+      "date": "2022-06-07"
+    },
+    {
+      "titre": "Episode - 47 - Le Potage Asperges par Guy",
+      "date": "2022-05-31"
+    }
+  ],
+  "derniere_activite": "2022-07-16",
+  "frequence_jours": 7
 }

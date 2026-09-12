@@ -24,5 +24,29 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-10",
+  "episodes_recents": [
+    {
+      "titre": "S3 - Ep14 - Félix Forissier",
+      "date": "2025-11-21"
+    },
+    {
+      "titre": "S3 - Ep13 - Léo Ouabdesselam",
+      "date": "2025-11-14"
+    },
+    {
+      "titre": "S3 - Ep12 - Justine Guerard",
+      "date": "2025-10-02"
+    },
+    {
+      "titre": "S3 - Ep11 - Tom Lerno",
+      "date": "2025-09-25"
+    },
+    {
+      "titre": "S3 - Ep10 - Nathan Guerbeur, 11eme des Monde IRONMAN",
+      "date": "2025-09-18"
+    }
+  ],
+  "derniere_activite": "2025-11-21",
+  "frequence_jours": 8
 }

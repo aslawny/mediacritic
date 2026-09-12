@@ -26,5 +26,51 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-10",
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-09-12",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "Tim Henman, le héros inachevé [REDIFFUSION]",
+      "date": "2024-06-26"
+    },
+    {
+      "titre": "De débutant à champion du monde en 18 mois : l'incroyable ascension de Donald Thomas [REDIFFUSION]",
+      "date": "2024-05-01"
+    },
+    {
+      "titre": "Et Raquil surgit de nulle part... [REDIFFUSION]",
+      "date": "2024-04-24"
+    },
+    {
+      "titre": "Lou Gehrig, vie et mort d’un immortel [REDIFFUSION]",
+      "date": "2024-04-17"
+    },
+    {
+      "titre": "Guy Stéphan, la bonne étoile de Deschamps [REDIFFUSION]",
+      "date": "2024-04-10"
+    }
+  ],
+  "derniere_activite": "2024-06-26",
+  "frequence_jours": 7
 }

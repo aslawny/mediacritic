@@ -24,5 +24,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-10",
+  "episodes_recents": [
+    {
+      "titre": "Les clefs d'une vie - Les clefs d'une vie d'Alain Genestar",
+      "date": "2026-09-10"
+    },
+    {
+      "titre": "Les clefs d'une vie - Les clefs d'une vie de Jean-Michel Guenassia",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "Les clefs d'une vie - Les clefs d'une vie d'André Marcon",
+      "date": "2026-09-08"
+    },
+    {
+      "titre": "Les clefs d'une vie - Les clefs d'une vie d'Anne Roumanoff",
+      "date": "2026-09-07"
+    },
+    {
+      "titre": "Les clefs d'une vie - Les clefs d'une vie de Louis Giscard d’Estaing",
+      "date": "2026-09-03"
+    }
+  ],
+  "derniere_activite": "2026-09-10",
+  "frequence_jours": 1
 }

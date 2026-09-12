@@ -26,5 +26,29 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-05-16"
+  "updatedAt": "2026-05-16",
+  "episodes_recents": [
+    {
+      "titre": "Émission du 3 septembre 2026",
+      "date": "2026-09-03"
+    },
+    {
+      "titre": "Émission du 20 août 2026",
+      "date": "2026-08-20"
+    },
+    {
+      "titre": "Émission du 6 août 2026",
+      "date": "2026-08-06"
+    },
+    {
+      "titre": "Émission du 23 juillet 2026",
+      "date": "2026-07-23"
+    },
+    {
+      "titre": "Émission du 11 juin 2026",
+      "date": "2026-06-11"
+    }
+  ],
+  "derniere_activite": "2026-09-03",
+  "frequence_jours": 14
 }

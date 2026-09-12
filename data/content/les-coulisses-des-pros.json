@@ -23,5 +23,29 @@
     "business",
     "entrepreneuriat"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "Les coulisses du métier de coiffeur·se",
+      "date": "2022-10-04"
+    },
+    {
+      "titre": "Les coulisses du métier de libraire",
+      "date": "2022-03-01"
+    },
+    {
+      "titre": "Les coulisses de la photographie argentique professionnelle",
+      "date": "2022-01-03"
+    },
+    {
+      "titre": "Les coulisses de la boxe : le monde du sport professionnel",
+      "date": "2021-09-13"
+    },
+    {
+      "titre": "Les coulisses du métier de chaudronnier",
+      "date": "2021-08-06"
+    }
+  ],
+  "derniere_activite": "2022-10-04",
+  "frequence_jours": 37
 }

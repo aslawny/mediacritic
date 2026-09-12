@@ -25,5 +25,31 @@
     "sciences"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-10",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-09-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "SuperDogWTF",
+        "titre": "Question",
+        "texte": "Bonjour, je vous suis depuis l'euro et j'aime beaucoup vos analyses. J'ai deux questions. D'abord, vous avez dit l'épisode 35 saison 2 de mettre des commentaires, est-ce cette emplacement …"
+      },
+      {
+        "note": 5,
+        "auteur": "b-ket",
+        "titre": "Incontournable.",
+        "texte": "Incontournable podcast. Ca parle tellement bien de foot. C'est fin, c'est simple. C'est juste, argumenté et factuel. Pas de jeu de rôles entre différents intervenants. C'est posé et dénué de subjectivité. C'est pertinent. C'est excellent.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Eyanthis",
+        "titre": "Saison 2019-2020",
+        "texte": "On compte sur vous ! Avec des invités Foot - Avec vos paris - Avec vos analyses précises - Avec vos épisodes pédagogiques - Et surtout pour encore plus de Foot !"
+      }
+    ]
+  }
 }

@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Farid Ouzzane : le mystère de la momie dans la valise",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "Yannis Moré : le petit disparu de Ganagobie",
+      "date": "2026-09-10"
+    },
+    {
+      "titre": "Léa Petitgas : une si étrange disparition",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "Xavier Philippe & associés : l'homme qui portait malheur",
+      "date": "2026-09-08"
+    },
+    {
+      "titre": "Amandine Estrabaud : la disparue du hameau de Cantegaline",
+      "date": "2026-09-07"
+    }
+  ],
+  "derniere_activite": "2026-09-11",
+  "frequence_jours": 1
 }

@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Sourate Al-Ankaboot",
+      "date": "2023-11-16"
+    },
+    {
+      "titre": "Sourate Al-Qasas",
+      "date": "2023-11-16"
+    },
+    {
+      "titre": "Sourate An-Naml",
+      "date": "2020-12-28"
+    },
+    {
+      "titre": "Sourate As-shu3ra'",
+      "date": "2020-12-28"
+    },
+    {
+      "titre": "Sourate Al-Furqan",
+      "date": "2020-10-07"
+    }
+  ],
+  "derniere_activite": "2023-11-16",
+  "frequence_jours": 0
 }

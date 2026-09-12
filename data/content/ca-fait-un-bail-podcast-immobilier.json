@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-23",
-  "frequence_jours": 4
+  "frequence_jours": 4,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Serge Guma",
+        "titre": "5000 de cash-flow mensuel grace a ce podcast",
+        "texte": "J’ai commencé à écouté le podcast quand j’ai commencé à m’intéresser a l’immobilier, je comprenais difficilement le principe et je n’avais pas envie d’acheter de formation immo alors j’ai écouté tout les épisodes un par un.…"
+      },
+      {
+        "note": 2,
+        "auteur": "joker et fredo",
+        "titre": "Bof",
+        "texte": "J’aimerais profiter des infos et des conseils mais c’est tellement long à écouter, il y a tellement de blabla. Je reste dans l’attente d’un podcast sur le sujet mais avec un thème par épisode de manière concise plutôt que des conversations entre potes un peu autosatisfaits.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Bartboy83",
+        "titre": "Enrichissant et captivant",
+        "texte": "Le problème avec toi Jeremy c’est qu’en t’écoutant, je me rends compte que j’ai 10 ans de retard !! Pour être plus sérieux merci pour ce contenu très riche et surtout pour ton approche très simple et fun qui m’a rendu fan dés la première écoute! J’en profite pour te dire que si t…"
+      }
+    ]
+  }
 }

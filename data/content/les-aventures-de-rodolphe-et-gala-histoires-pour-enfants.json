@@ -53,5 +53,29 @@
         "texte": "Les enfants adorent les aventures de Rodolphe et Gala ! Rodolphe nous fait bien rire, surtout lorsqu’il se dispute avec sa sœur, Rodolphine."
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "S02 ▪ EP04 ▪ L'incroyable découverte",
+      "date": "2020-07-08"
+    },
+    {
+      "titre": "S02 ▪ EP03 ▪ Une porte vers l'inconnu",
+      "date": "2020-07-01"
+    },
+    {
+      "titre": "S02 ▪ EP02 ▪ Le mystère de la grotte",
+      "date": "2020-06-24"
+    },
+    {
+      "titre": "S02 ▪ EP01 ▪ La Planète inconnue",
+      "date": "2020-06-17"
+    },
+    {
+      "titre": "S01 ▪ EP08 ▪ Il faut sauver Gala !",
+      "date": "2020-05-13"
+    }
+  ],
+  "derniere_activite": "2020-07-08",
+  "frequence_jours": 6
 }

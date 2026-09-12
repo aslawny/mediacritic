@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-06-26",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "TomTom from Paris",
+        "titre": "Débats steriles",
+        "texte": "La premiere saison de cette emission etait prometteuse: analyser l’actualité avec un seul invité, 2 tout au plus, et prendre le temps de réfléchir. Echanger des idees de lecture.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Hapax n2",
+        "titre": "Discussion de salon",
+        "texte": "Il y a tellement de savants qui peuvent nous apporter de vraies analyses et il y a vos invités têtes de gondoles vides … le vide sidéral !!"
+      },
+      {
+        "note": 5,
+        "auteur": "maritch",
+        "titre": "Bravo",
+        "texte": "Émission de débat d’une grande qualité. La seule à ma connaissance qui invite des personnes compétentes, légitimes et qui ne sont pas unanimes mais qui s’écoutent pourtant. Enfin… généralement …"
+      }
+    ]
+  }
 }
