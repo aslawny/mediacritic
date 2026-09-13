@@ -1,0 +1,36 @@
+{
+  "ep": 45,
+  "saison": 2,
+  "slug": "silence-on-joue",
+  "page": "silence-on-joue.html",
+  "title": "Silence on joue !",
+  "tagline": "Libération, 19 ans",
+  "meta_desc": "MediaCritic analyse Silence on joue !, le podcast jeu vidéo de Libération depuis 2007. Dix-neuf ans, une bande, un point de vue assumé. Le verdict complet.",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/27/17/ad/2717adc1-8423-feb8-15ab-0e5d1c361bf1/mza_4414625268468485582.jpg/600x600bb.jpg",
+  "initials": "SOJ",
+  "type_line": "Podcast · Jeu vidéo · Hebdomadaire · Depuis 2007",
+  "hosts_line": "Animé par <strong>Lolo · Alex</strong>",
+  "authors": [
+    "Lolo",
+    "Alex"
+  ],
+  "buttons": [
+    {
+      "href": "https://podcasts.apple.com/fr/podcast/silence-on-joue/id327230089",
+      "label": "🎙️ Le podcast"
+    },
+    {
+      "href": "https://podcasts.apple.com/fr/podcast/silence-on-joue-la-chronique-jeux-de-soci%C3%A9t%C3%A9/id1643888568",
+      "label": "🎲 La chronique jeux de société"
+    }
+  ],
+  "note": 8.5,
+  "verdict": "Dix-neuf ans sans se renier et une bande qu'on reconnaît en trois secondes : ils ont préféré avoir un goût plutôt qu'un maximum d'auditeurs.",
+  "content_file": "manifests/ep45-content.html",
+  "listen": {
+    "spotify": "https://open.spotify.com/episode/0isIdzaB5kz8vfmpGt4PGZ",
+    "apple": "https://podcasts.apple.com/fr/podcast/s02-ep45-silence-on-joue/id1853247643?i=1000789260184",
+    "deezer": "https://www.deezer.com/fr/episode/933687302",
+    "youtube": "https://www.youtube.com/watch?v=y5SN5yqEsgU"
+  }
+}

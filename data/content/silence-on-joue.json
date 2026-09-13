@@ -21,7 +21,10 @@
       "episodeCount": 914
     }
   },
-  "mediacritic": null,
+  "mediacritic": {
+    "ep": 45,
+    "url": "https://www.mediacritic.fr/episodes/silence-on-joue.html"
+  },
   "tags": [
     "gaming"
   ],
