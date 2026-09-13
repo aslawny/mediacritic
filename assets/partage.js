@@ -36,6 +36,8 @@
     ".mc-part-replie{display:block;width:100%}",
     ".mc-part-replie .mc-part-btn{width:100%;justify-content:flex-start;background:none;border:0;padding:10px 12px;font-size:.92rem}",
     ".mc-part-replie .mc-lib{display:inline !important}",
+    ".mc-part-compact .mc-lib{display:none}",
+    ".mc-part-compact .mc-part-btn{padding:6px 9px}",
     "@media(max-width:640px){.mc-part-btn span.mc-lib{display:none}",
     ".mc-part-btn{padding:6px 9px}.mc-part-menu{min-width:170px}}"
   ].join("");
@@ -139,68 +141,86 @@
     return avec > sans;
   }
 
-  function replier(nav) {
+  // Remet la boite et le menu dans leur etat neutre : chaque placement repart
+  // de zero, ce qui permet de re-placer apres chargement ou redimensionnement.
+  function neutre() {
+    boite.className = "mc-part";
+    boite.removeAttribute("style");
+    menu.removeAttribute("style");
+  }
+
+  // Deuxieme version corrigee, apres deux defauts vus sur l'episode 46 :
+  //  1. le repli se declenchait a tort -- la mesure tournait avant que les
+  //     polices soient chargees, la nav semblait deborder un instant ;
+  //  2. le repli superposait le bouton a un element de la nav (« Episode 46 »
+  //     sur les pages episodes, « Ecouter » sur l'accueil a 1 024 px).
+  // Desormais : on re-place a chaque evenement de mise en page, et on ne
+  // superpose JAMAIS le bouton a la barre -- par ordre de preference : en
+  // flux avec libelle, en flux icone seule, dans le burger s'il est actif,
+  // et en dernier recours sous la barre, hors de toute zone de texte.
+  function placer() {
+    if (menu.classList.contains("ouvert")) return;   // ne pas bouger sous le doigt
+    var nav = document.querySelector("nav");
+    neutre();
+    if (!nav) {
+      boite.style.position = "fixed";
+      boite.style.top = "12px";
+      boite.style.right = "14px";
+      boite.style.zIndex = "700";
+      document.body.appendChild(boite);
+      return;
+    }
+    var enFlex = getComputedStyle(nav).display.indexOf("flex") >= 0;
+
+    if (enFlex) {
+      boite.style.marginLeft = "auto";
+      nav.appendChild(boite);
+      if (!deborde(nav)) return;
+      boite.classList.add("mc-part-compact");      // icone seule
+      if (!deborde(nav)) return;
+      boite.classList.remove("mc-part-compact");
+    }
+
     var burger = nav.querySelector(".nav-burger");
-    // Le menu burger n'accueille le bouton QUE s'il est reellement actif.
-    // Sinon .nav-links est une rangee horizontale : y poser un menu en flux
-    // normal deplie les six options DANS la barre de navigation. Vu en ligne
-    // a 1280 px, ou la nav est plus large qu'en local (elle porte la date).
     var enBurger = burger && getComputedStyle(burger).display !== "none";
     var menuNav = enBurger ? nav.querySelector(".nav-links") : null;
-    boite.style.marginLeft = "";
-    boite.style.position = "";
-    boite.style.right = boite.style.top = boite.style.transform = "";
     if (menuNav) {
       // Le menu burger accueille deja les liens secondaires : le bouton y est
       // a sa place et ne coute aucune largeur a la barre.
+      boite.removeAttribute("style");
       boite.classList.add("mc-part-replie");
-      boite.style.width = "100%";
       menu.style.position = "static";
       menu.style.background = "none";
       menu.style.border = "0";
       menu.style.boxShadow = "none";
       menu.style.minWidth = "0";
       menuNav.appendChild(boite);
-    } else {
-      // Hors mode burger : on sort le bouton du flux pour qu'il ne coute
-      // aucune largeur a la barre, tout en gardant son menu deroulant.
-      if (getComputedStyle(nav).position === "static") nav.style.position = "relative";
-      boite.style.position = "absolute";
-      boite.style.right = "14px";
-      boite.style.top = "50%";
-      boite.style.transform = "translateY(-50%)";
-      nav.appendChild(boite);
+      return;
     }
+
+    // Dernier recours : sous la barre, aligne a droite. Jamais par-dessus.
+    if (getComputedStyle(nav).position === "static") nav.style.position = "relative";
+    boite.removeAttribute("style");
+    boite.style.position = "absolute";
+    boite.style.top = "calc(100% + 6px)";
+    boite.style.right = "14px";
+    boite.style.zIndex = "600";
+    nav.appendChild(boite);
   }
 
-  function poser() {
-    var nav = document.querySelector("nav");
-    if (nav) {
-      var st = getComputedStyle(nav);
-      // Une nav en flex accueille le bouton sans deranger la mise en page ;
-      // sinon on le pose en absolu dans la nav, qui devient le repere.
-      if (st.display.indexOf("flex") < 0) {
-        nav.style.position = nav.style.position || "relative";
-        boite.style.position = "absolute";
-        boite.style.right = "16px";
-        boite.style.top = "50%";
-        boite.style.transform = "translateY(-50%)";
-      } else {
-        boite.style.marginLeft = "auto";
-      }
-      nav.appendChild(boite);
-      if (deborde(nav)) replier(nav);
-    } else {
-      boite.style.position = "fixed";
-      boite.style.top = "12px";
-      boite.style.right = "14px";
-      boite.style.zIndex = "700";
-      document.body.appendChild(boite);
-    }
+  var minuterie = null;
+  function replacerBientot() {
+    clearTimeout(minuterie);
+    minuterie = setTimeout(placer, 150);
   }
   if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", poser);
+    document.addEventListener("DOMContentLoaded", placer);
   } else {
-    poser();
+    placer();
   }
+  // Les polices web elargissent la nav apres coup : on re-mesure une fois
+  // tout charge, puis a chaque redimensionnement.
+  window.addEventListener("load", placer);
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(placer);
+  window.addEventListener("resize", replacerBientot);
 })();
