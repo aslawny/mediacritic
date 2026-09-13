@@ -27,7 +27,7 @@
     "running"
   ],
   "addedAt": "2026-07-30",
-  "updatedAt": "2026-09-10",
+  "updatedAt": "2026-09-13",
   "episodes_recents": [
     {
       "titre": "Maigrir avant de commencer à courir ? Le Conseil 152",
@@ -51,5 +51,25 @@
     }
   ],
   "derniere_activite": "2026-09-05",
-  "frequence_jours": 4
+  "frequence_jours": 4,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-09-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "_w_e_s_i_",
+        "titre": "Je recommande !",
+        "texte": "J’ai découvert ce podcast suite à la recherche d’un contenu pouvant casser la monotonie et remplacer la récurrente écoute de musique lors de mes sorties longues.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Tanguy2007",
+        "titre": "Lorsque que le commun des mortels nous parle de notre sport..",
+        "texte": "Un podcast pour Mr et Mme tout le monde qui aime la course à pied, qui ne se prend la tête. Bertrand répond de manière simple aux questions que nous nous sommes tous posées un jour. Pour cela MERCI! En plus très agréable à écouter pendant les sorties…"
+      }
+    ]
+  }
 }

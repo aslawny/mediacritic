@@ -25,7 +25,7 @@
     "culture",
     "société"
   ],
-  "updatedAt": "2026-09-10",
+  "updatedAt": "2026-09-13",
   "episodes_recents": [
     {
       "titre": "Jane Goodall, la pionnière qui a révolutionné le monde animal (4/4)",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-12",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ch",
+    "tri": "mostrecent",
+    "releve": "2026-09-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "snic1101_",
+        "titre": "Idées",
+        "texte": "Bonjour et merci pour ce podcast que j’écoute toujours avec plaisir! J’ai une suggestion: Blanche Peyron. Je viens de lire le livre les victorieuses et je pense que cette femme mérite d’être connue! D’avance merci!"
+      },
+      {
+        "note": 3,
+        "auteur": "JoliJoliJolie",
+        "titre": "Moyen",
+        "texte": "Des petites histoires qui donnent envie d’en apprendre plus. Un peu trop « lu », et surtout jingle beaucoup trop long pour ce format."
+      },
+      {
+        "note": 5,
+        "auteur": "Lynyla",
+        "titre": "Histoires courtes",
+        "texte": "Temps d’écoute idéal et histoires très intéressantes! Merci 🤩"
+      }
+    ]
+  }
 }

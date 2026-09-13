@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/les-podcasts-okoo/id1694538921?uo=2",
       "trackId": 1694538921,
       "rating": 4.1,
-      "ratingCount": 318,
+      "ratingCount": 319,
       "episodeCount": null
     }
   },
@@ -27,5 +27,29 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-13",
+  "episodes_recents": [
+    {
+      "titre": "ASKIP c'est les vacances ! - Eté 2026",
+      "date": "2026-07-06"
+    },
+    {
+      "titre": "Belfort et Lupin - La maison perruque",
+      "date": "2026-03-10"
+    },
+    {
+      "titre": "Les Moodz - Trois fois merci !",
+      "date": "2026-03-07"
+    },
+    {
+      "titre": "Askip c'est les vacances ! - Hiver 2026",
+      "date": "2026-02-18"
+    },
+    {
+      "titre": "Askip c'est les vacances ! - Noël 2025",
+      "date": "2025-12-22"
+    }
+  ],
+  "derniere_activite": "2026-07-06",
+  "frequence_jours": 16
 }

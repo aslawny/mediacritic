@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/les-lueurs/id1677352708?uo=4",
       "trackId": 1677352708,
       "rating": 4.9,
-      "ratingCount": 1639,
+      "ratingCount": 1651,
       "episodeCount": 150
     }
   },
@@ -24,7 +24,7 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-09-10",
+  "updatedAt": "2026-09-13",
   "avis_publics": {
     "source": "apple",
     "boutique": "us",
@@ -50,5 +50,29 @@
         "texte": "Ce podcast m’apporte beaucoup de sérénité, je me sens invitée à me pencher sur ma propre spiritualité, à croire en quelque chose, à me poser des questions et me centrer sur mon âme."
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Laurent Ruquier : Où trouver l'amour qu'on n'a jamais reçu ?",
+      "date": "2026-09-13"
+    },
+    {
+      "titre": "☕️ Conseillère des puissants : jusqu’où peut-on les influencer ? Avec Anne Méaux",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "Peut-on vraiment guérir de ses angoisses ? Avec le Dr Philippe Presles",
+      "date": "2026-09-06"
+    },
+    {
+      "titre": "☕️ Faut-il cacher ses faiblesses pour réussir ? Avec le producteur Thierry Bizot",
+      "date": "2026-09-02"
+    },
+    {
+      "titre": "Laurent Voulzy : Faut-il être aimé pour avoir le droit d'exister ?",
+      "date": "2026-08-30"
+    }
+  ],
+  "derniere_activite": "2026-09-13",
+  "frequence_jours": 3
 }

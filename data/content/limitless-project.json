@@ -26,5 +26,29 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-13",
+  "episodes_recents": [
+    {
+      "titre": "Pourquoi tu es épuisé alors que tu fais tout bien - Robin Malmasson",
+      "date": "2026-08-08"
+    },
+    {
+      "titre": "Tu te blesses parce que ton corps est FAIBLE - Valentin Copin",
+      "date": "2026-07-25"
+    },
+    {
+      "titre": "La pyramide de la longévité : par quoi commencer ? - Vincent Foulonneau",
+      "date": "2026-07-11"
+    },
+    {
+      "titre": "Réparer ton microbiote : les 3 étapes - Marion Kaplan",
+      "date": "2026-06-27"
+    },
+    {
+      "titre": "Peut-on transformer un sédentaire en ultra-traileur? - Guillaume Millet",
+      "date": "2026-06-14"
+    }
+  ],
+  "derniere_activite": "2026-08-08",
+  "frequence_jours": 14
 }

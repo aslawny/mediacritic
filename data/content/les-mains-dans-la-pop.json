@@ -25,7 +25,7 @@
     "tech",
     "numérique"
   ],
-  "updatedAt": "2026-09-10",
+  "updatedAt": "2026-09-13",
   "avis_publics": {
     "source": "apple",
     "boutique": "be",
@@ -45,5 +45,29 @@
         "texte": "Merci merci merci pour vos recherches vos sensibilisations, pour nous partager vos rires aussi, j’adore vous écouter"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Découvrez \"À Brûler Sans Ouvrir\"",
+      "date": "2025-06-26"
+    },
+    {
+      "titre": "À nos humanités révoltées par Audrey (22 décembre)",
+      "date": "2023-12-22"
+    },
+    {
+      "titre": "Après l’été des ruptures, la montée du quiet breakup (22 décembre)",
+      "date": "2023-12-22"
+    },
+    {
+      "titre": "La 94ème élection Miss France (22 décembre)",
+      "date": "2023-12-22"
+    },
+    {
+      "titre": "Les winners et loosers de la semaine (22 décembre)",
+      "date": "2023-12-22"
+    }
+  ],
+  "derniere_activite": "2025-06-26",
+  "frequence_jours": 0
 }

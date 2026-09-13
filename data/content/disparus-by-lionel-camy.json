@@ -24,7 +24,7 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-10",
+  "updatedAt": "2026-09-13",
   "episodes_recents": [
     {
       "titre": "Le plus gros mystère criminel en Australie : la disparition de William Tyrrell",
@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2021-11-23",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-09-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Victor pour La Fraîche Gazette",
+        "titre": "Un must en termes de podcast dédié aux disparitions",
+        "texte": "S’il existe de plus en plus de medias traitant de true crime, le podcast de Lionel Camy est un must. Plutôt que de tremper dans le sensationnalisme, l’auteur installe une ambiance d’enquête teintée de mystère.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Sylvie Vers Malaga",
+        "titre": "Fascinant et addictif",
+        "texte": "Tout est dans le titre! Je n’arrive pas à m’arrêter d’écouter! J’aime l’ambiance que tu instaures à chaque épisode et les histoires sont tantôt passionnantes, tantôt incroyables. Un grand bravo à toi!"
+      },
+      {
+        "note": 5,
+        "auteur": "Amandine Fabry",
+        "titre": "Natation calme et posée, j aime beaucoup",
+        "texte": "Je t’ai découvert grâce à ta chaîne YouTube, j ai acheté deux de tes livres. Et là je découvre que tu fais aussi des podcast. Le rêve :)! Je t’encourage vivement a continuer."
+      }
+    ]
+  }
 }

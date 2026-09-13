@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/les-pires-moments-de-lhistoire/id1455639655?uo=4",
       "trackId": 1455639655,
       "rating": 4.8,
-      "ratingCount": 546,
+      "ratingCount": 549,
       "episodeCount": 49
     }
   },
@@ -24,7 +24,7 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-10",
+  "updatedAt": "2026-09-13",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-10",
@@ -46,5 +46,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Napoléon",
+      "date": "2025-12-19"
+    },
+    {
+      "titre": "Le voyage de Magellan",
+      "date": "2025-12-19"
+    },
+    {
+      "titre": "Tchernobyl",
+      "date": "2025-12-19"
+    },
+    {
+      "titre": "L'assassinat de Jules César",
+      "date": "2025-12-19"
+    },
+    {
+      "titre": "Le Cardinal de Richelieu",
+      "date": "2025-12-19"
+    }
+  ],
+  "derniere_activite": "2025-12-19",
+  "frequence_jours": 0
 }

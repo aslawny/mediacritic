@@ -26,7 +26,7 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-10",
+  "updatedAt": "2026-09-13",
   "avis_publics": {
     "source": "apple",
     "boutique": "be",
@@ -52,5 +52,29 @@
         "texte": "Ravie de ce ton frais et inspirant. Je lis déjà beaucoup mais \"au hasard\", comme on tombe sur une série Netflix. J'aime ici la contextualisation des œuvres et l'explication de \"pourquoi il faut les lire\".…"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "L'Amie prodigieuse d'Elena Ferrante",
+      "date": "2026-06-17"
+    },
+    {
+      "titre": "Un homme sans titre de Xavier Le Clerc",
+      "date": "2026-06-03"
+    },
+    {
+      "titre": "Moon Palace de Paul Auster",
+      "date": "2026-05-20"
+    },
+    {
+      "titre": "Champion de Maria Pourchet",
+      "date": "2026-05-06"
+    },
+    {
+      "titre": "Les Hommes qui n'aimaient pas les femmes de Stieg Larsson",
+      "date": "2026-04-15"
+    }
+  ],
+  "derniere_activite": "2026-06-17",
+  "frequence_jours": 14
 }

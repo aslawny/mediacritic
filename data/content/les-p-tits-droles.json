@@ -27,5 +27,29 @@
     "famille"
   ],
   "addedAt": "2026-06-24",
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-13",
+  "episodes_recents": [
+    {
+      "titre": "La pollution",
+      "date": "2023-09-02"
+    },
+    {
+      "titre": "L'eau",
+      "date": "2023-08-26"
+    },
+    {
+      "titre": "Les oiseaux",
+      "date": "2023-08-19"
+    },
+    {
+      "titre": "La nourriture du Sud-Ouest",
+      "date": "2023-08-12"
+    },
+    {
+      "titre": "Les poissons",
+      "date": "2023-08-05"
+    }
+  ],
+  "derniere_activite": "2023-09-02",
+  "frequence_jours": 6
 }

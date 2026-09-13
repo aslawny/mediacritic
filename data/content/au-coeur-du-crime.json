@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/au-coeur-du-crime/id1773924080?uo=2",
       "trackId": 1773924080,
       "rating": 4.6,
-      "ratingCount": 369,
+      "ratingCount": 370,
       "episodeCount": null
     }
   },
@@ -27,7 +27,7 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-10",
+  "updatedAt": "2026-09-13",
   "episodes_recents": [
     {
       "titre": "Les auditeurs mènent l'enquête - La poule aux oeufs de chocolat [1/2]",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-08-29",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Prosacsopicsàe",
+        "titre": "Lolo",
+        "texte": "Bonjour à tous et toutes , c’est pas bien de critiquer franchement ça sert à que dalle. Bon bref pas besoin de critiquer en mettant 50 milliards d’emoji un emoji et en comprend vraiment je comprends pas les gens qui font ça arrêter les critiques là moi je trouve ça bien et je sui…"
+      },
+      {
+        "note": 1,
+        "auteur": "384ar",
+        "titre": "Fallacieux !",
+        "texte": "Quand \"Au cœur du crime\" diffuse -sans qu'on l'ait choisi- \"Au coeur de l'histoire\" avec une zozoteuse incapable de prononcer correctement \"Blücher\" et que Europe1 déverse à flots des émissions non désirées, c'est insupportable."
+      },
+      {
+        "note": 5,
+        "auteur": "ValouBZH56",
+        "titre": "Perte d’une étoile",
+        "texte": "Quel dommage, aucun faux pas depuis le début…mais il suffit d’un épisode mal placé, pour me faire douter du sérieux du podcast…nous sommes des centaines voir des milliers à attendre de la bonne suite… on vous adore pourtant ❤️❤️❤️"
+      }
+    ]
+  }
 }

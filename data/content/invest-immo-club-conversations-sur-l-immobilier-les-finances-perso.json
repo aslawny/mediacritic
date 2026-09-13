@@ -24,7 +24,7 @@
     "business"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-09-10",
+  "updatedAt": "2026-09-13",
   "episodes_recents": [
     {
       "titre": "Ep42 – Investir dans le Locatif à Saint Nazaire et Nantes avec David",
@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2018-10-11",
-  "frequence_jours": 19
+  "frequence_jours": 19,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Free.deric",
+        "titre": "Très instructif !!!",
+        "texte": "1. Pourquoi tes podcasts s’arrêtent depuis Novembre 2017 ? Il faut nous en remettre stp Bruno !. 🙏🏼🙏🏼🙏🏼 De loin le meilleur Podcast Immo que j’ai écouté jusqu’alors !.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Thomas Gu.",
+        "titre": "INDISPENSABLE !",
+        "texte": "J'ai écouté tout les épisodes plusieurs fois, j'ai lu son livre, et suivie ses conseils. Originaire de l'île-De-France, j'ai grâce à Bruno dévellopé mon patrimoine immobilier en province, en prenant conscience qu'on peut également gagner de l'argent en zone détendue …"
+      },
+      {
+        "note": 5,
+        "auteur": "Gael C.",
+        "titre": "Super!!!",
+        "texte": "On m’a parlé de ce poadcast et depuis que j’ai commencé, je dévore les épisodes. Cela fait plusieurs mois que je me renseigne sérieusement sur l’investissement immobilier: livres, formations, blogs,...…"
+      }
+    ]
+  }
 }

@@ -25,7 +25,7 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-10",
+  "updatedAt": "2026-09-13",
   "avis_publics": {
     "source": "apple",
     "boutique": "ch",
@@ -45,5 +45,29 @@
         "texte": "Un vrai bonheur que d’écouter ces histoires extraordinaires, et un saut personnel dans le temps et les souvenirs… un grand merci pour cette initiative!"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Il était gentil papa",
+      "date": "2026-09-13"
+    },
+    {
+      "titre": "Le gangster amoureux",
+      "date": "2026-09-13"
+    },
+    {
+      "titre": "Les sept crimes de l’adolescent timide",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "Le rémouleur",
+      "date": "2026-09-10"
+    },
+    {
+      "titre": "L’audacieux kidnapping d’une mère de famille anéantie",
+      "date": "2026-09-09"
+    }
+  ],
+  "derniere_activite": "2026-09-13",
+  "frequence_jours": 1
 }

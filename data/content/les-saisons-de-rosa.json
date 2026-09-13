@@ -26,7 +26,7 @@
     "humour"
   ],
   "addedAt": "2026-07-09",
-  "updatedAt": "2026-09-10",
+  "updatedAt": "2026-09-13",
   "avis_publics": {
     "source": "apple",
     "boutique": "ch",
@@ -52,5 +52,29 @@
         "texte": "Mon épisode préféré celui de Mister Poulpe ! Peut-être parce que vivant en Suisse, je profite des Spas de la région 😊"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Une énigme dans la vie de Blandine Lehout 🐍",
+      "date": "2026-09-06"
+    },
+    {
+      "titre": "Les soeurs jumelles et récit de l'été 🐍 Audios jaloux",
+      "date": "2026-08-30"
+    },
+    {
+      "titre": "Celui qui n'était pas jaloux 🐍 Louis Cattelat",
+      "date": "2026-08-23"
+    },
+    {
+      "titre": "Mariage & chemise magique 🐍 Audios jaloux",
+      "date": "2026-08-16"
+    },
+    {
+      "titre": "Jalousie & rupture amicale 🐍 Sofia Belabbes",
+      "date": "2026-08-09"
+    }
+  ],
+  "derniere_activite": "2026-09-06",
+  "frequence_jours": 7
 }

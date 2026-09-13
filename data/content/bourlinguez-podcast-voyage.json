@@ -27,7 +27,7 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-10",
+  "updatedAt": "2026-09-13",
   "episodes_recents": [
     {
       "titre": "Bourlinguez #155 - Stéphane x Clipperton",
@@ -51,5 +51,19 @@
     }
   ],
   "derniere_activite": "2026-06-23",
-  "frequence_jours": 13
+  "frequence_jours": 13,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mosthelpful",
+    "releve": "2026-09-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "armelipat",
+        "titre": "De belles découvertes",
+        "texte": "Toujours beaucoup de plaisir à écouter ces récits de voyages variés et si riches."
+      }
+    ]
+  }
 }

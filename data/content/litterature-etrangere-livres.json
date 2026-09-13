@@ -25,5 +25,29 @@
     "livres",
     "culture"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "Laurence Sterne, Voyage sentimental, traduction de Jules Janin, illustrations de Tony Johannot et Jacque, 1841",
+      "date": "2012-03-11"
+    },
+    {
+      "titre": "Johann Wolfgang von Goethe, Faust , traduction d'Albert Stapfer, illustrations de Delacroix, 1828",
+      "date": "2012-03-11"
+    },
+    {
+      "titre": "Bürger, Kärstner et Lichtenberg, Aventures du baron de Münchhausen, traduction de Théophile Gautier, illustrat",
+      "date": "2012-03-11"
+    },
+    {
+      "titre": "William Shakespeare, Jules César, traduction de l'abbé Daguzé, 1884",
+      "date": "2012-03-11"
+    },
+    {
+      "titre": "Uvan Turgenev, Nouvelles moscovites, 1880",
+      "date": "2012-03-11"
+    }
+  ],
+  "derniere_activite": "2012-03-11",
+  "frequence_jours": 0
 }

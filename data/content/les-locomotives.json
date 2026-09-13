@@ -26,7 +26,7 @@
     "education"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-09-10",
+  "updatedAt": "2026-09-13",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-10",
@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "07/21 - Qu’est-ce que tu voudrais si personne ne pouvait te juger ?",
+      "date": "2026-09-13"
+    },
+    {
+      "titre": "06/21 - Tu ne détestes peut-être pas ton métier. Tu détestes la vie qu’il t’impose",
+      "date": "2026-09-12"
+    },
+    {
+      "titre": "05/21 - Et si les indices étaient là depuis ton enfance ?",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "04/21 - Arrête de chercher ta passion.",
+      "date": "2026-09-10"
+    },
+    {
+      "titre": "03/21 - Le meilleur investissement de ta vie n’est pas financier",
+      "date": "2026-09-09"
+    }
+  ],
+  "derniere_activite": "2026-09-13",
+  "frequence_jours": 1
 }

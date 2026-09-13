@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/les-vid%C3%A9opreneurs-le-podcast-des-vid%C3%A9astes-entrepreneurs/id1547464718?uo=4",
       "trackId": 1547464718,
       "rating": 4.9,
-      "ratingCount": 101,
+      "ratingCount": 102,
       "episodeCount": 211
     }
   },
@@ -25,5 +25,29 @@
     "sport"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-13",
+  "episodes_recents": [
+    {
+      "titre": "#228 Je fais la différence avec la proposition commerciale - Avec Thibault Vanhoutte",
+      "date": "2026-09-10"
+    },
+    {
+      "titre": "#227 Dépasser ses blocages et révéler son potentiel en développant son mindset - Avec Deborah Valdeavero",
+      "date": "2026-09-03"
+    },
+    {
+      "titre": "#226 [REDIFF] On vous dit que votre prix est excessif, comment réagir ?",
+      "date": "2026-08-27"
+    },
+    {
+      "titre": "#225 [REDIFF] Trouve ton premier client en 30 jours",
+      "date": "2026-08-20"
+    },
+    {
+      "titre": "#224 [REDIFF] Il est urgent pour toi de prospecter",
+      "date": "2026-08-13"
+    }
+  ],
+  "derniere_activite": "2026-09-10",
+  "frequence_jours": 7
 }

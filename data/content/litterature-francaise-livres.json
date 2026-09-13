@@ -25,5 +25,29 @@
     "livres",
     "culture"
   ],
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-13",
+  "episodes_recents": [
+    {
+      "titre": "Alfred de Musset, Lettres d'amour à Aimée d'Alton, 1910",
+      "date": "2012-03-11"
+    },
+    {
+      "titre": "Raymond Radiguet, Bal du comte d'Orgel, 1924",
+      "date": "2012-03-11"
+    },
+    {
+      "titre": "Tony Johannot, Alfred de Musset et P.-J. Stahl, Voyage où il vous plaira, 1843",
+      "date": "2012-03-11"
+    },
+    {
+      "titre": "Paul Féval, Douze femmes, 1878",
+      "date": "2012-03-11"
+    },
+    {
+      "titre": "Anatole France, L'Affaire Crainquebille, illustrations de Steinlen, 1901",
+      "date": "2012-03-11"
+    }
+  ],
+  "derniere_activite": "2012-03-11",
+  "frequence_jours": 0
 }

@@ -24,5 +24,29 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "#15 Run for the Future x Les Apprêtés",
+      "date": "2020-03-11"
+    },
+    {
+      "titre": "#14 Run for the Future x Fondation Goodplanet",
+      "date": "2020-03-03"
+    },
+    {
+      "titre": "#13 Run for the Future x FAVA",
+      "date": "2020-03-03"
+    },
+    {
+      "titre": "#12 Run for the Future x La ruche qui dit oui",
+      "date": "2020-03-03"
+    },
+    {
+      "titre": "#11 Run for the Future x MakeSense",
+      "date": "2020-03-03"
+    }
+  ],
+  "derniere_activite": "2020-03-11",
+  "frequence_jours": 0
 }

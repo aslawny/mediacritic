@@ -25,5 +25,31 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-13",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Alexandra 70",
+        "titre": "Personnalité et langage",
+        "texte": "Hyper édifiant 🥂✨👍👍👍 Je suis professeur d’anglais et il y a fort longtemps que j’ai remarqué une construction d’identité d’anglophones chez mes chers élèves. C’est trés positif dans le développement de leur personnalité Merci de me confirmer ce que je savais intuitivement.…"
+      },
+      {
+        "note": 1,
+        "auteur": "xeltrus",
+        "titre": "Trop de pub",
+        "texte": "En effet, contenu interessant mais gâché par la pub trop présente"
+      },
+      {
+        "note": 5,
+        "auteur": "Macfly29",
+        "titre": "Très bon podcast",
+        "texte": "Rythmé avec des sujets variés. Ce podcast est de très bonne qualité. Pour les grincheux critiquant les pubs, vous avez l’option avance rapide 30s ça vous amène directement au début du podcast.…"
+      }
+    ]
+  }
 }

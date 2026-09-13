@@ -25,5 +25,29 @@
     "famille"
   ],
   "addedAt": "2026-09-02",
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-13",
+  "episodes_recents": [
+    {
+      "titre": "La Petite Baleine Qui Apprenait à Chuchoter",
+      "date": "2025-11-30"
+    },
+    {
+      "titre": "La petite étoile qui avait peur du noir",
+      "date": "2025-11-30"
+    },
+    {
+      "titre": "La Course de Vaisseaux en Bonbons : Une Aventure Sucrée dans l'Espace",
+      "date": "2024-04-10"
+    },
+    {
+      "titre": "La Chasse aux oeufs de Pâques du Lapin Magique",
+      "date": "2024-03-22"
+    },
+    {
+      "titre": "Flambo et la Course Étincelante des Dragons",
+      "date": "2024-01-04"
+    }
+  ],
+  "derniere_activite": "2025-11-30",
+  "frequence_jours": 27
 }

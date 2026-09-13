@@ -26,7 +26,7 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-09-10",
+  "updatedAt": "2026-09-13",
   "episodes_recents": [
     {
       "titre": "#376 - Encuentro : Créer un produit que les clients rachètent 100 fois",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-03-20",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "aurl445449",
+        "titre": "Ma source d’inspiration 💙",
+        "texte": "J’apprends tellement avec ce podcast que je prends le temps de rédiger cet avis ! Une vraie source d’inspiration qui m’aide à me poser les bonnes questions pour mon business.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Le Hic",
+        "titre": "Arrêtez les extraits INUTILES",
+        "texte": "C’est PÉNIBLE ça n’a aucun intérêt sauf gonfler artificiellement vos statistiques d’écoute pour berner les annonceurs et tricher pour gagner des places dans les classements mais vous cassez les pieds de vos auditeurs avec ces épisodes inutiles… PS : on peut mentir à tout le monde…"
+      },
+      {
+        "note": 5,
+        "auteur": "Mimi59erggh",
+        "titre": "Le podcast qui m’a aidé à lancer et vendre ma boîte",
+        "texte": "C'est en écoutant et en notant tous les conseils de Laurent et ses invités que j'ai fait grandir ma première boite PEAULETTE. J'ai choisi les outils que les invités recommandaient pour mon E-commerce et quand la question de la vente s'est présentée, j'ai appliqué les recommandati…"
+      }
+    ]
+  }
 }

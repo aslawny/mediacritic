@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/les-investisseurs-4-0/id1536194135?uo=4",
       "trackId": 1536194135,
       "rating": 4.9,
-      "ratingCount": 856,
+      "ratingCount": 857,
       "episodeCount": 429
     }
   },
@@ -25,7 +25,7 @@
     "rénovation",
     "DIY"
   ],
-  "updatedAt": "2026-09-10",
+  "updatedAt": "2026-09-13",
   "avis_publics": {
     "source": "apple",
     "boutique": "be",
@@ -51,5 +51,29 @@
         "texte": "Conseils concrets et accessibles, de personnes très intéressantes aux profils différents. Top !"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Quelle place occuper dans une opération ? (en locatif ou MDB)",
+      "date": "2026-09-10"
+    },
+    {
+      "titre": "306 - La marge ne se fait pas à l’achat, avec Cindy Portier",
+      "date": "2026-09-03"
+    },
+    {
+      "titre": "305 — La fissure qui peut coûter 400 000 €, avec Fabrice Tony",
+      "date": "2026-08-27"
+    },
+    {
+      "titre": "Regarde le risque avant la marge, avec Sebastien Velu (Les Fondations)",
+      "date": "2026-08-20"
+    },
+    {
+      "titre": "304 - TVA Immobilière : le piège qui tue ta marge avec Jennifer Juillard",
+      "date": "2026-08-13"
+    }
+  ],
+  "derniere_activite": "2026-09-10",
+  "frequence_jours": 7
 }

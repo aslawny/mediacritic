@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/les-ptites-histoires/id1407689929?uo=2",
       "trackId": 1407689929,
       "rating": 4.4,
-      "ratingCount": 2570,
+      "ratingCount": 2576,
       "episodeCount": null
     }
   },
@@ -26,7 +26,7 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-10",
+  "updatedAt": "2026-09-13",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -52,5 +52,29 @@
         "texte": "C’est trop cool, moi aussi j’aimerais quand je serai plus grande créer des podcast c’est incroyable c’est du jamais vu et en plus vous allez devenir connu dans toutes les langues tout le monde pourra vous écouter et toutes les langues que vous voulez comme en chinois en espagnol…"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Le cerf-volant géant - la nouvelle vie de Baptiste",
+      "date": "2026-09-10"
+    },
+    {
+      "titre": "Lila et les sales gosses - Le moral dans les sandales",
+      "date": "2026-09-03"
+    },
+    {
+      "titre": "Découvrez le programme de la rentrée !",
+      "date": "2026-09-01"
+    },
+    {
+      "titre": "La zizanie - Un été incroyable - S07E09",
+      "date": "2026-08-27"
+    },
+    {
+      "titre": "Histoire mijotée n°65 - La dernière licorne",
+      "date": "2026-08-25"
+    }
+  ],
+  "derniere_activite": "2026-09-10",
+  "frequence_jours": 5
 }

@@ -26,5 +26,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-13",
+  "episodes_recents": [
+    {
+      "titre": "Diaty Diallo - Darya & Dounya",
+      "date": "2026-09-10"
+    },
+    {
+      "titre": "Bernard Benoliel et Jean-Baptiste Thoret - Road Movie, USA",
+      "date": "2026-07-08"
+    },
+    {
+      "titre": "Thierry-Dominique Humbrecht - Dieu ou Comment s'en débarrasser. L'inquisiteur : pièce en un acte",
+      "date": "2026-07-06"
+    },
+    {
+      "titre": "Sophie Barthélémy et Margaux Wymbs - Jean Dupas & Co. Le grand Art déco",
+      "date": "2026-07-03"
+    },
+    {
+      "titre": "Soirée santé - Les cancers cutanés : quels enjeux en 2026 ?",
+      "date": "2026-07-02"
+    }
+  ],
+  "derniere_activite": "2026-09-10",
+  "frequence_jours": 1
 }

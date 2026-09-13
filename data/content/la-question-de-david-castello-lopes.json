@@ -24,5 +24,25 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-13",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-09-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Iris 2012",
+        "titre": "Génial !",
+        "texte": "Merci pour ces chroniques, David. Les thèmes sont toujours bien choisis et tes vannes me font toujours mourir de rire !"
+      },
+      {
+        "note": 5,
+        "auteur": "(🤷🏼‍♀️)",
+        "titre": "🤌",
+        "texte": "Très drôle, blagues bien choisies qui font rire même quand on n’a pas trop le moral! Juste incroyable 🤏 merci David!"
+      }
+    ]
+  }
 }

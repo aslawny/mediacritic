@@ -23,7 +23,7 @@
     "education"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-10",
+  "updatedAt": "2026-09-13",
   "episodes_recents": [
     {
       "titre": "Pr. Henri Joyeux : Le cancérologue qu’on veut faire TAIRE ! Cette mode augmente le risque de cancer ?",
@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2026-07-26",
-  "frequence_jours": 12
+  "frequence_jours": 12,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "us",
+    "tri": "mostrecent",
+    "releve": "2026-09-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Eclipstary",
+        "titre": "🤩",
+        "texte": "Tu es la meilleure dans ce que tu fais bravo à toi à tes réalisations à ton parcours tu m’inspires tu me surprends tu me donnes de l’énergie positive t’écouter me donne des frissons.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Yoyotoyoto",
+        "titre": "Fantastic for entrepreneurs and anyone with the entrepreneurial spirit",
+        "texte": "Le Manal Show is a must listen! Manal brings so much insight and her topics are so relevant to entrepreneurs and really to anyone in the workforce! You can really tell she puts a lot of thought in the quality of work and finding the right expertise in her guests! Brava!"
+      },
+      {
+        "note": 5,
+        "auteur": "Herby Charles",
+        "titre": "Félicitations Manal",
+        "texte": "Le podcast est très très motivant. Je suis haïtien et ce podcast est mon préféré."
+      }
+    ]
+  }
 }

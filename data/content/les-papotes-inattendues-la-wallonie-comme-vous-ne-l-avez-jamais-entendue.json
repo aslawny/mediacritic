@@ -27,5 +27,29 @@
     "societe"
   ],
   "addedAt": "2026-06-09",
-  "updatedAt": "2026-06-09"
+  "updatedAt": "2026-06-09",
+  "episodes_recents": [
+    {
+      "titre": "Adrien et le RAVeL",
+      "date": "2025-11-24"
+    },
+    {
+      "titre": "Maureen et les sentiers d'arts",
+      "date": "2025-06-25"
+    },
+    {
+      "titre": "Alain et la Butte du Lion",
+      "date": "2025-06-25"
+    },
+    {
+      "titre": "Eric et ses alpagas",
+      "date": "2025-06-25"
+    },
+    {
+      "titre": "Ludovic et son triporteur",
+      "date": "2025-06-24"
+    }
+  ],
+  "derniere_activite": "2025-11-24",
+  "frequence_jours": 0
 }

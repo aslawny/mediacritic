@@ -24,5 +24,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-13",
+  "episodes_recents": [
+    {
+      "titre": "Les Décrotteurs - 21 - Législatives 2024: Le jour d'après....",
+      "date": "2024-07-15"
+    },
+    {
+      "titre": "Les Décrotteurs - 20 - Législatives 2024: A pleine vitesse sur la route des extrêmes ?",
+      "date": "2024-07-04"
+    },
+    {
+      "titre": "Le Jugement 03 - Batman Vs Superman: Qui est le GOAT?",
+      "date": "2024-05-14"
+    },
+    {
+      "titre": "Les Décrotteurs - 19 - La Trentaine : Quand nos rêves d'enfant rencontrent nos factures d'adultes",
+      "date": "2024-03-29"
+    },
+    {
+      "titre": "AASK - 38 - La Ligue 1- 1/2: Mbappe, légende du Championnat ?",
+      "date": "2024-03-11"
+    }
+  ],
+  "derniere_activite": "2024-07-15",
+  "frequence_jours": 30
 }

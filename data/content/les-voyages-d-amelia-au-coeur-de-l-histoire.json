@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/les-voyages-dam%C3%A9lia-au-coeur-de-lhistoire/id1719924094?uo=2",
       "trackId": 1719924094,
       "rating": 4.6,
-      "ratingCount": 918,
+      "ratingCount": 923,
       "episodeCount": null
     }
   },
@@ -27,7 +27,7 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-10",
+  "updatedAt": "2026-09-13",
   "avis_publics": {
     "source": "apple",
     "boutique": "be",
@@ -47,5 +47,29 @@
         "texte": "C’est trop chouette à écouter et je ne veux pas que vous arrêtiez. Je suis sûre que tout le monde adore. Alba 9 ans"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "[Épisode 5, saison 2] Jean-Corentin Carré, le plus jeune “Poilu”, la suite",
+      "date": "2024-04-04"
+    },
+    {
+      "titre": "[Épisode 5, saison 2] Jean-Corentin Carré, le plus jeune “Poilu”",
+      "date": "2024-04-04"
+    },
+    {
+      "titre": "[Episode 6, saison 2] Anne Frank, le journal secret, la suite",
+      "date": "2024-04-04"
+    },
+    {
+      "titre": "[Episode 6, saison 2] Anne Frank, le journal secret",
+      "date": "2024-04-04"
+    },
+    {
+      "titre": "[Episode 7, saison 2] La double vie de Jean Moulin, la suite",
+      "date": "2024-04-04"
+    }
+  ],
+  "derniere_activite": "2024-04-04",
+  "frequence_jours": 0
 }

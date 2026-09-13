@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/les-mez-cast/id1713003481?uo=2",
       "trackId": 1713003481,
       "rating": 4.3,
-      "ratingCount": 94,
+      "ratingCount": 95,
       "episodeCount": null
     }
   },
@@ -25,5 +25,29 @@
     "culture"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-13",
+  "episodes_recents": [
+    {
+      "titre": "MEZONE -100% DRUM AND BASS vol 4",
+      "date": "2026-08-28"
+    },
+    {
+      "titre": "MEZ ONE - 100% SHATTA VOL°3",
+      "date": "2026-08-22"
+    },
+    {
+      "titre": "MEZ ONE - 100% SHATTA vol 2",
+      "date": "2026-07-29"
+    },
+    {
+      "titre": "MEZ ONE - MAINSTAGE AFTERSHOCK ( ANTHEM )",
+      "date": "2026-06-27"
+    },
+    {
+      "titre": "MEZONE - 100% AFRO REMIX 2026",
+      "date": "2026-06-25"
+    }
+  ],
+  "derniere_activite": "2026-08-28",
+  "frequence_jours": 12
 }

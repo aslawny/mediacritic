@@ -25,5 +25,29 @@
     "cuisine"
   ],
   "addedAt": "2026-08-03",
-  "updatedAt": "2026-08-03"
+  "updatedAt": "2026-08-03",
+  "episodes_recents": [
+    {
+      "titre": "Moelleux au chocolat inratable, un délice | Les recettes de Camille",
+      "date": "2022-03-27"
+    },
+    {
+      "titre": "Gâteau au yaourt simple, rapide et inratable | Les recettes de Camille",
+      "date": "2020-05-23"
+    },
+    {
+      "titre": "Recette crème de marrons facile, rapide et inratable | Les recettes de Camille",
+      "date": "2020-05-17"
+    },
+    {
+      "titre": "Recette Mugcookie facile, rapide et inratable | Cookie express | Les recettes de Camille",
+      "date": "2020-05-09"
+    },
+    {
+      "titre": "Recette cookies avoine banane chocolat facile et rapide | Les recettes de Camille",
+      "date": "2020-04-29"
+    }
+  ],
+  "derniere_activite": "2022-03-27",
+  "frequence_jours": 6
 }

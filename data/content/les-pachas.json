@@ -27,7 +27,7 @@
     "news"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-09-10",
+  "updatedAt": "2026-09-13",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -53,5 +53,29 @@
         "texte": "J adore ce podcast il m aide a me détendre et a rigoler je me tape des barres toutes seules 🤣 Vous êtes trop mignon et j adore votre concept allo les pachas mais les meilleurs épisodes sont quand vous raconter vos aventures c trop drôle 😊 Vous êtes un couple adorable enfin un tro…"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Est-ce qu’on se lasse l’un de l’autre ? (FAQ)",
+      "date": "2026-07-13"
+    },
+    {
+      "titre": "HOT PACHAS SUMMER - Comment survivre à l'été ?",
+      "date": "2026-06-22"
+    },
+    {
+      "titre": "Les pires phobies...",
+      "date": "2026-06-15"
+    },
+    {
+      "titre": "Les dessous de Cannes",
+      "date": "2026-06-01"
+    },
+    {
+      "titre": "LES HOT PACHAS - Thérapie de couple avec Chloë Gervais et Louise Fradin",
+      "date": "2026-05-25"
+    }
+  ],
+  "derniere_activite": "2026-07-13",
+  "frequence_jours": 7
 }

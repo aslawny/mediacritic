@@ -26,5 +26,31 @@
     "comedie"
   ],
   "addedAt": "2026-07-18",
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-13",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "SithJ",
+        "titre": "La bande son !!!",
+        "texte": "J’étais parti pour écouter juste quelques minutes pour bien l’écouter par la suite. Résultat : j’ai enchainé 4 épisode et fini la série en 3 jours. C’est juste ouf, tu as l’impression de voir une série mais c’est juste de l’audio. Et la bande son...…"
+      },
+      {
+        "note": 1,
+        "auteur": "Supertri6578",
+        "titre": "Mauvais, soyons honnêtes",
+        "texte": "Franchement je ne comprends pas les avis, l’histoire est plus que bof, les personnages principaux sont surjoués et insupportables. Un tas de mauvaises idées et de clichés mis bout à bout. Ce n’est pas par ce qu’il y a peu de choix qu’il faut s’en contenter.…"
+      },
+      {
+        "note": 5,
+        "auteur": "IngridMtr",
+        "titre": "Immersif et addictif",
+        "texte": "Je découvre les podcasts de nouvelles/romans audio et celui-ci est très bien fait! Le son est excellent, c’est assez déroutant quand on l’écoute au casque/écouteurs. Et l’histoire est originale et rondement menée."
+      }
+    ]
+  }
 }

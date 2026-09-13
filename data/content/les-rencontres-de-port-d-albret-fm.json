@@ -25,5 +25,29 @@
     "cuisine"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-06-06"
+  "updatedAt": "2026-06-06",
+  "episodes_recents": [
+    {
+      "titre": "Jules et Jean mi, la passion du son",
+      "date": "2026-08-23"
+    },
+    {
+      "titre": "Sandie, association des commerçants de Moliets",
+      "date": "2026-08-03"
+    },
+    {
+      "titre": "Michael Tempette, musicien du groupe Nadau",
+      "date": "2026-07-23"
+    },
+    {
+      "titre": "Chez Manu, à l'Emporté",
+      "date": "2026-07-15"
+    },
+    {
+      "titre": "Mon ancêtre DANTON",
+      "date": "2026-07-15"
+    }
+  ],
+  "derniere_activite": "2026-08-23",
+  "frequence_jours": 9
 }

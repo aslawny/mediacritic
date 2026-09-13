@@ -15,8 +15,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/livres-audio-gratuits/id1543612289?uo=2",
       "trackId": 1543612289,
-      "rating": 3.4,
-      "ratingCount": 130,
+      "rating": 3.3,
+      "ratingCount": 131,
       "episodeCount": null
     }
   },
@@ -26,5 +26,12 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-10"
+  "updatedAt": "2026-09-13",
+  "episodes_recents": [
+    {
+      "titre": "Émile Zola, J'accuse - Livre audio gratuit",
+      "date": "2020-12-06"
+    }
+  ],
+  "derniere_activite": "2020-12-06"
 }

@@ -26,7 +26,7 @@
     "societe"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-09-10",
+  "updatedAt": "2026-09-13",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-10",
@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Enfant intérieur : Cultiver la paix",
+      "date": "2025-11-28"
+    },
+    {
+      "titre": "La page blanche",
+      "date": "2025-09-11"
+    },
+    {
+      "titre": "L'appel de l'instinct",
+      "date": "2025-06-25"
+    },
+    {
+      "titre": "Sous l'olivier",
+      "date": "2025-05-12"
+    },
+    {
+      "titre": "The garden of Rest",
+      "date": "2025-05-12"
+    }
+  ],
+  "derniere_activite": "2025-11-28",
+  "frequence_jours": 13
 }

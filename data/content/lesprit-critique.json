@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/lesprit-critique-le-podcast/id1695160584?uo=4",
       "trackId": 1695160584,
       "rating": 4.8,
-      "ratingCount": 1425,
+      "ratingCount": 1426,
       "episodeCount": 7
     }
   },
@@ -30,5 +30,29 @@
     "sciences",
     "société"
   ],
-  "updatedAt": "2026-09-12"
+  "updatedAt": "2026-09-13",
+  "episodes_recents": [
+    {
+      "titre": "Le savoir, Jordan Bardella et la laïcité",
+      "date": "2024-02-09"
+    },
+    {
+      "titre": "Le sophisme de l'homme de paille",
+      "date": "2023-12-28"
+    },
+    {
+      "titre": "Aller à l'essentiel",
+      "date": "2023-11-10"
+    },
+    {
+      "titre": "Le choix des mots en politique",
+      "date": "2023-10-10"
+    },
+    {
+      "titre": "Reconnaître un faux dilemme",
+      "date": "2023-09-04"
+    }
+  ],
+  "derniere_activite": "2024-02-09",
+  "frequence_jours": 38
 }

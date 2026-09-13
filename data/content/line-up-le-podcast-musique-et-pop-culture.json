@@ -25,5 +25,29 @@
     "musique",
     "culture"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "Vous êtes peut-être passé à côté de cet album culte",
+      "date": "2026-04-20"
+    },
+    {
+      "titre": "Zoom sur un classique incontournable",
+      "date": "2026-04-13"
+    },
+    {
+      "titre": "Let England Shake, portraits de femmes",
+      "date": "2026-04-06"
+    },
+    {
+      "titre": "The Battle of Britpop",
+      "date": "2026-03-30"
+    },
+    {
+      "titre": "Irish Blood, English Heart",
+      "date": "2026-03-23"
+    }
+  ],
+  "derniere_activite": "2026-04-20",
+  "frequence_jours": 7
 }
