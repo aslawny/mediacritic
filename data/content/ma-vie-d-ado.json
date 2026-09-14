@@ -52,5 +52,29 @@
         "texte": "Je trouve ce podcast vraiment incroyable 😻 j’aime beaucoup 👌🏾🥰"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Ma vie en classe ULIS",
+      "date": "2026-06-23"
+    },
+    {
+      "titre": "Moi et ma classe...",
+      "date": "2025-09-12"
+    },
+    {
+      "titre": "La pression scolaire... ça fait mal !",
+      "date": "2025-06-18"
+    },
+    {
+      "titre": "Prendre soin de moi ? Facile !",
+      "date": "2025-06-11"
+    },
+    {
+      "titre": "Mes parents et leur autorité !",
+      "date": "2025-05-20"
+    }
+  ],
+  "derniere_activite": "2026-06-23",
+  "frequence_jours": 22
 }

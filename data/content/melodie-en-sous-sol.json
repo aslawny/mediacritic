@@ -26,5 +26,29 @@
     "series"
   ],
   "addedAt": "2026-07-30",
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-13",
+  "episodes_recents": [
+    {
+      "titre": "César et Rosalie",
+      "date": "2020-06-10"
+    },
+    {
+      "titre": "Uncut Gems",
+      "date": "2020-03-23"
+    },
+    {
+      "titre": "Little Women",
+      "date": "2020-03-10"
+    },
+    {
+      "titre": "1917",
+      "date": "2020-02-21"
+    },
+    {
+      "titre": "La 50e",
+      "date": "2020-02-03"
+    }
+  ],
+  "derniere_activite": "2020-06-10",
+  "frequence_jours": 20
 }

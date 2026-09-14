@@ -26,5 +26,29 @@
     "cuisine"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-05-23"
+  "updatedAt": "2026-05-23",
+  "episodes_recents": [
+    {
+      "titre": "Ma Bohème – Émission du 09/09/2026",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "Ma Bohème#32 (12/08/2026) La poésie des laissés-pour-compte",
+      "date": "2026-08-12"
+    },
+    {
+      "titre": "Ma Bohème#31 (08/07/2026) Dans la surdité, que reste-il de la poésie lorsqu’elle est privée de sons ?",
+      "date": "2026-07-08"
+    },
+    {
+      "titre": "Ma Bohème#30 (10/06/2026) La poésie érotique n’est-elle qu’une affaire de sens?",
+      "date": "2026-06-10"
+    },
+    {
+      "titre": "Ma Bohème#29 (13/05/2026) Le lâcher prise en poésie dans la vie et à l’écran",
+      "date": "2026-05-13"
+    }
+  ],
+  "derniere_activite": "2026-09-09",
+  "frequence_jours": 28
 }

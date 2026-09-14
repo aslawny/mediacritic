@@ -24,5 +24,29 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-13",
+  "episodes_recents": [
+    {
+      "titre": "En escrime, vous êtes plutôt marathon, demi fond ou sprint ? Avec Cécilia Berder",
+      "date": "2026-08-11"
+    },
+    {
+      "titre": "HYROX : Un sport pour tous les âges ? Avec Joffrey Voisin",
+      "date": "2026-06-16"
+    },
+    {
+      "titre": "MAMAN, ENTREPRENEUSE, RUNNEUSE, comment tout mener de front avec Goodtimeswithanna ?",
+      "date": "2026-05-13"
+    },
+    {
+      "titre": "Débat GOAT : qui est la chèvre du cyclisme masculin ?",
+      "date": "2026-04-13"
+    },
+    {
+      "titre": "En route vers l'UTMB 2026 avec Mouhamed Diop - Partie 1 - Comment décrocher son dossard ?",
+      "date": "2026-04-06"
+    }
+  ],
+  "derniere_activite": "2026-08-11",
+  "frequence_jours": 9
 }

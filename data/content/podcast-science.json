@@ -25,5 +25,31 @@
     "sciences",
     "vulgarisation"
   ],
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-13",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "_Quenton",
+        "titre": "J’adore!",
+        "texte": "Quand mon prof de math me faisait cours, je n’avais pas envie d’écouter! Quand mon prof de physique me faisait cours, je n’avais d’écouter non plus! Depuis j’aime la science mais c’est toujours difficile de parcourir le net, les articles sont rarement abordables! Podcast Science…"
+      },
+      {
+        "note": 1,
+        "auteur": "Ethan37 lol",
+        "titre": "Déclinant",
+        "texte": "Ce fut un très bon podcast. Varié, les intervenants faisaient un réel effort de vulgarisation (et non simplification). Malheureusement, la routine faisant, ces mêmes intervenants deviennent hautains, se permettent des avis tranchés mais non argumentés, les échanges sont brouillon…"
+      },
+      {
+        "note": 5,
+        "auteur": "Hloic",
+        "titre": "Merci !!!!!!",
+        "texte": "3 heures de RER par jour que je ne savais pas occuper avant de découvrir podcast sciences... Je peux enfin réveiller mes neurones de banlieusard francilien, faire remonter la pulpe qui était tombé au fond du crâne depuis la fac !!! L'émission sur la relativité générale justifie à…"
+      }
+    ]
+  }
 }

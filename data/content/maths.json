@@ -25,5 +25,29 @@
     "education"
   ],
   "addedAt": "2026-07-31",
-  "updatedAt": "2026-07-31"
+  "updatedAt": "2026-07-31",
+  "episodes_recents": [
+    {
+      "titre": "Random Graphs and Coupling - A mathematical journey",
+      "date": "2024-08-27"
+    },
+    {
+      "titre": "Algèbre linéaire - 9 - Multiplication des matrices",
+      "date": "2024-07-10"
+    },
+    {
+      "titre": "Algèbre linéaire - 08 - Les Matrices",
+      "date": "2024-06-27"
+    },
+    {
+      "titre": "Théorie de Galois - 17 - Le théorème de l'élément primitif",
+      "date": "2024-06-26"
+    },
+    {
+      "titre": "Représentations - 07 - La base des caractères",
+      "date": "2024-05-13"
+    }
+  ],
+  "derniere_activite": "2024-08-27",
+  "frequence_jours": 5
 }

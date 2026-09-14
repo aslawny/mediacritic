@@ -1,0 +1,53 @@
+{
+  "slug": "culture-club",
+  "title": "Culture Club",
+  "author": "Jack",
+  "type": "podcast",
+  "categories": [
+    "musique",
+    "histoire"
+  ],
+  "description": "Culture Club, c'est une série de podcasts narratifs et immersifs qui vous ouvrent les portes des clubs de légende et retracent leur histoire. Que ce soit au Studio 54 en 1977 ou au Berghain au début des années 2000, dans le monde entier, des clubs emblématiques prisés par les noctambules ont participé à l’éclosion de mouvements musicaux tout en étant le reflet de leur époque et de leur ville. Alors, en attendant que les néons se rallument sur les dancefloors, Culture Club rappelle à quel point nos vies ont besoin de rythme(s). Une série de podcasts de 10x12 minutes Écrite et racontée par Jean-Pierre Montal Réalisée par Anna Buy Mixée par Gilles Paco Produite par Mael Buron et Thomas Ducres pour JACK / CANAL+",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/06/28/69/0628698b-b107-74e3-059d-80e01771fce2/mza_7264381034804331541.jpeg/170x170bb.png",
+  "language": "fr",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/culture-club/id1566900465?uo=2",
+      "trackId": 1566900465,
+      "rating": 4.9,
+      "ratingCount": 30,
+      "episodeCount": null
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "musique",
+    "histoire"
+  ],
+  "addedAt": "2026-09-14",
+  "updatedAt": "2026-09-14",
+  "episodes_recents": [
+    {
+      "titre": "Le Keur Samba : l'étoile noire de la nuit parisienne",
+      "date": "2022-03-22"
+    },
+    {
+      "titre": "Le B 018 : Beyrouth danse sous les bombes",
+      "date": "2022-02-07"
+    },
+    {
+      "titre": "Le Village Vanguard : mélodie en sous-sol",
+      "date": "2022-01-04"
+    },
+    {
+      "titre": "La Concrete : les nuits barges",
+      "date": "2021-12-07"
+    },
+    {
+      "titre": "Le Berghain : le club qui a su dire « nein » !",
+      "date": "2021-06-14"
+    }
+  ],
+  "derniere_activite": "2022-03-22",
+  "frequence_jours": 15
+}

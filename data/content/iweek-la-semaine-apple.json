@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-03",
-  "frequence_jours": 20
+  "frequence_jours": 20,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "karimattieh",
+        "titre": "Royal !",
+        "texte": "Cher équipe d'iWeek, Je voulais prendre un moment pour vous exprimer ma gratitude et mon enthousiasme pour votre podcast incroyable. Chaque semaine, vous résumez de manière brillante et captivante toute l'actualité Apple, ce qui me permet de rester à jour avec mes sujets préférés…"
+      },
+      {
+        "note": 1,
+        "auteur": "Nico14510",
+        "titre": "Dommage",
+        "texte": "Vous avez un intervenant qui est inaudible Malheureusement il faut savoir prendre sa retraite Désolé"
+      },
+      {
+        "note": 5,
+        "auteur": "broutelune",
+        "titre": "L’actu l’Apple dans la bonne humeur",
+        "texte": "Un bien bon podcast, parfait pour suivre l’actualité d’Apple. Petite remarque quand vous parlez des chiffres d’Apple TV qui progressent: je me suis abonné à Apple music il y a environ 7-8 mois, et à Apple TV il y a 2 mois pour la même raison, l’essai gratuit.…"
+      }
+    ]
+  }
 }

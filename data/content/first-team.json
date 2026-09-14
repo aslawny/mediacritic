@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-09-02",
-  "frequence_jours": 3
+  "frequence_jours": 3,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "24 secondes",
+        "titre": "Un peu d’Euroleague, please",
+        "texte": "J’ai découvert ce Podcast à la suite des JO, et j’aime beaucoup merci c’est top. Nous partageons donc une énorme passion pour le basket, mais si vos podcast sont uniquement sur la NBA, ça va vite me souler. Sachant que je vis en France (Europe) et pas à Los Angeles.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Lelapinrose",
+        "titre": "C’est QUI ceux qui interviennent sur le podcast !!!",
+        "texte": "J’adore le Podcast, je l’écoute uniquement pour la NBA et j’adore car dans ma tête je participe au débat. Le seul point négatif qui n’en est pas vraiment un, c’est qu’il me manque quelques refs sur vous, votre niveau de basket, votre ville et sur votre entourage qui apparaît sur…"
+      },
+      {
+        "note": 5,
+        "auteur": "FredGM22",
+        "titre": "Podcast référence",
+        "texte": "Merci à vous pour ce podcast référence pour les fans de basket. Du sérieux, de la pertinence mais, également, des bonnes petites vannes et des fous rires. Un mélange au top avec Erwan et Thomas en tête de gondole. Longue vie à la First team."
+      }
+    ]
+  }
 }

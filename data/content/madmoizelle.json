@@ -46,5 +46,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Laisse Moi Kiffer - S9E5 - Le pouvoir de l'amitié (et du 3ème âge)",
+      "date": "2024-12-13"
+    },
+    {
+      "titre": "Laisse Moi Kiffer - S9E4 - « On est world wild ! »",
+      "date": "2024-12-12"
+    },
+    {
+      "titre": "Laisse Moi Kiffer : S9E3 - « On a ligaturé ! » (avec Sibylle)",
+      "date": "2024-11-07"
+    },
+    {
+      "titre": "Le sport pour prendre soin de sa santé mentale",
+      "date": "2024-10-11"
+    },
+    {
+      "titre": "Laisse Moi Kiffer - S9E2 - « Arrête ou je mets Taylor Swift ! »",
+      "date": "2024-10-10"
+    }
+  ],
+  "derniere_activite": "2024-12-13",
+  "frequence_jours": 10
 }

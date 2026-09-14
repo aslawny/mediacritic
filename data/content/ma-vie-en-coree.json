@@ -26,5 +26,29 @@
     "societe"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-13",
+  "episodes_recents": [
+    {
+      "titre": "#5 Marion - étudiante en traduction littéraire",
+      "date": "2020-04-01"
+    },
+    {
+      "titre": "#4 François - trois parcours en Corée",
+      "date": "2020-02-24"
+    },
+    {
+      "titre": "#3 Précillia - de l'ébénisterie à la Corée",
+      "date": "2019-11-30"
+    },
+    {
+      "titre": "#2 Nicolas - chercheur et futur papa",
+      "date": "2019-10-21"
+    },
+    {
+      "titre": "#1 Camille - volontariats et PVT",
+      "date": "2019-09-18"
+    }
+  ],
+  "derniere_activite": "2020-04-01",
+  "frequence_jours": 40
 }

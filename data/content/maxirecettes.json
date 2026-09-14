@@ -25,5 +25,29 @@
     "cuisine"
   ],
   "addedAt": "2026-07-19",
-  "updatedAt": "2026-07-19"
+  "updatedAt": "2026-07-19",
+  "episodes_recents": [
+    {
+      "titre": "Blanquette de Poisson Recette Facile et Rapide",
+      "date": "2026-09-13"
+    },
+    {
+      "titre": "Cake aux Abricots et Amandes Recette Facile et Rapide",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "Pinsa Tomate Mozza Recette Facile et Rapide",
+      "date": "2026-09-06"
+    },
+    {
+      "titre": "Carré aux Pommes Express Recette Facile et Gourmande",
+      "date": "2026-09-02"
+    },
+    {
+      "titre": "Haricots Plats à la Sauce Tomate Recette Facile et Rapide",
+      "date": "2026-08-30"
+    }
+  ],
+  "derniere_activite": "2026-09-13",
+  "frequence_jours": 3
 }

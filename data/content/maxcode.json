@@ -25,5 +25,29 @@
     "numerique"
   ],
   "addedAt": "2026-08-06",
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-06",
+  "episodes_recents": [
+    {
+      "titre": "Apprendre la Programmation Orientée Objets (POO) Python",
+      "date": "2024-07-31"
+    },
+    {
+      "titre": "Fonctions Python - Maîtrisez les fonctions en Python",
+      "date": "2024-07-10"
+    },
+    {
+      "titre": "Tutoriel PIP - Gérer Facilement vos Paquets Python",
+      "date": "2024-07-03"
+    },
+    {
+      "titre": "Installer et Configurer Visual Studio Code (VS Code) pour Python",
+      "date": "2024-06-26"
+    },
+    {
+      "titre": "Télécharger et Installer Python sur Windows (10 & 11)",
+      "date": "2024-06-19"
+    }
+  ],
+  "derniere_activite": "2024-07-31",
+  "frequence_jours": 42
 }

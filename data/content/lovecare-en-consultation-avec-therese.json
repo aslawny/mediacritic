@@ -49,5 +49,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Laurent de l'épisode 74 nous donne de ses nouvelles...",
+      "date": "2026-09-14"
+    },
+    {
+      "titre": "Louise de l'épisode 78 nous donne de ses nouvelles...",
+      "date": "2026-09-13"
+    },
+    {
+      "titre": "Antoine de l'épisode 47 nous donne de ses nouvelles...",
+      "date": "2026-09-12"
+    },
+    {
+      "titre": "Charlotte de l'épisode 50 nous donne de ses nouvelles...",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "Camille de l'épisode 29 nous donne de ses nouvelles...",
+      "date": "2026-09-10"
+    }
+  ],
+  "derniere_activite": "2026-09-14",
+  "frequence_jours": 7
 }

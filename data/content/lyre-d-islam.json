@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Les 10 dernières nuits du Ramadan",
+      "date": "2026-03-10"
+    },
+    {
+      "titre": "Message à Allah",
+      "date": "2025-12-30"
+    },
+    {
+      "titre": "Loin d'Allah",
+      "date": "2025-12-05"
+    },
+    {
+      "titre": "Le Jardin de la Foi",
+      "date": "2025-09-26"
+    },
+    {
+      "titre": "Oummah, où es-tu ?",
+      "date": "2025-09-21"
+    }
+  ],
+  "derniere_activite": "2026-03-10",
+  "frequence_jours": 24
 }

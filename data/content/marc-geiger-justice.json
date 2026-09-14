@@ -47,5 +47,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Séverine : ma mère, cette meurtrière",
+      "date": "2026-03-19"
+    },
+    {
+      "titre": "Nathalie : le mariage de l’horreur",
+      "date": "2026-03-05"
+    },
+    {
+      "titre": "Laurence : pour sauver sa nièce, elle dénonce le frère de son mari",
+      "date": "2026-02-19"
+    },
+    {
+      "titre": "Hager : son combat contre les violences faites aux femmes",
+      "date": "2026-02-05"
+    },
+    {
+      "titre": "Monique : le meurtrier était son fils",
+      "date": "2026-01-22"
+    }
+  ],
+  "derniere_activite": "2026-03-19",
+  "frequence_jours": 14
 }

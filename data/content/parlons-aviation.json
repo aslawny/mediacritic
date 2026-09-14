@@ -24,5 +24,25 @@
     "sciences"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-13",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-09-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Thecunda",
+        "titre": "Grand fan",
+        "texte": "J’adore écouter ce podcast, les sujets sont variés et intéressants, les intervenants passionnés et passionnants !"
+      },
+      {
+        "note": 5,
+        "auteur": "nilouis",
+        "titre": "Vos podcasts",
+        "texte": "Bonjour Antoine, Très belle initiative. Merci pour le boulot. Bon courage. Nico. Pilote ULM"
+      }
+    ]
+  }
 }

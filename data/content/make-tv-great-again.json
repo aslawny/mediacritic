@@ -24,5 +24,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "Make TV Great Again - Today Christian Jungen (Frame Zürich)",
+      "date": "2023-06-27"
+    },
+    {
+      "titre": "Make TV Great Again - Tonight Lecture Tapuscrit V",
+      "date": "2023-05-03"
+    },
+    {
+      "titre": "Make TV Great Again - Tonight Christian Kellenberger",
+      "date": "2023-04-27"
+    },
+    {
+      "titre": "Make TV Great Again - Tonight Jean-Paul Cardinaux",
+      "date": "2023-04-20"
+    },
+    {
+      "titre": "Make TV Great Again - Tonight Bettina Hofmann & Steven Artels",
+      "date": "2023-04-13"
+    }
+  ],
+  "derniere_activite": "2023-06-27",
+  "frequence_jours": 7
 }

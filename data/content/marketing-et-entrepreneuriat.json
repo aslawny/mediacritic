@@ -25,5 +25,29 @@
     "business",
     "entrepreneuriat"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "Veesual : Quand Mode, Technologie et IA Fusionnent pour Révolutionner l'E-commerce",
+      "date": "2023-10-02"
+    },
+    {
+      "titre": "S3E4 : Edouard Schlumberger a fait du RGPD une opportunité de business avec Leto.",
+      "date": "2023-07-03"
+    },
+    {
+      "titre": "Growth Hacking : Denis Cohen (Dropcontact) livre ses secrets",
+      "date": "2023-06-05"
+    },
+    {
+      "titre": "S3E3 : Alvo a trouvé ses premiers clients avec une newsletter",
+      "date": "2023-05-22"
+    },
+    {
+      "titre": "Création de contenu : quel avenir avec chatGPT ?",
+      "date": "2023-05-08"
+    }
+  ],
+  "derniere_activite": "2023-10-02",
+  "frequence_jours": 16
 }

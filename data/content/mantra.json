@@ -47,5 +47,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "[ANNONCE] Comment faire de la croissance dans une économie en forte inflation.",
+      "date": "2023-05-02"
+    },
+    {
+      "titre": "Clap de fin sur GrowthMakers",
+      "date": "2023-03-14"
+    },
+    {
+      "titre": "#20 - De Stanford à Blablacar, la success story à 2 Milliards de dollars",
+      "date": "2022-11-08"
+    },
+    {
+      "titre": "[Extrait] - Frédéric Mazzella sur l’importance d’écouter ses clients pour améliorer son service",
+      "date": "2022-11-07"
+    },
+    {
+      "titre": "#19 - La communauté privée des 430 meilleurs entrepreneurs français",
+      "date": "2022-10-25"
+    }
+  ],
+  "derniere_activite": "2023-05-02",
+  "frequence_jours": 13
 }

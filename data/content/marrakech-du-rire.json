@@ -49,5 +49,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Florence Foresti et Jamel Debbouze - La danse du Marrakech du rire - Marrakech du rire 2014",
+      "date": "2024-06-07"
+    },
+    {
+      "titre": "Kad Merad - Disco painting - Marrakech du rire 2014",
+      "date": "2024-05-31"
+    },
+    {
+      "titre": "Jamel Debbouze, Zinedine Zidane et Omar Sy - Le tour de magie - Marrakech du Rire 2011",
+      "date": "2024-05-24"
+    },
+    {
+      "titre": "Jamel, Jarry, Booder, Caroline Vignault, Bun Hay Mean - La pièce de théâtre - Marrakech du Rire 2019",
+      "date": "2024-05-17"
+    },
+    {
+      "titre": "Jeff Panacloc - Embrouilles entre Jean-Marc et Jamel - Marrakech du Rire 2018",
+      "date": "2024-05-10"
+    }
+  ],
+  "derniere_activite": "2024-06-07",
+  "frequence_jours": 7
 }

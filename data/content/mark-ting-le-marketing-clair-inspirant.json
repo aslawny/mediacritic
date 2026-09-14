@@ -24,5 +24,29 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-13",
+  "episodes_recents": [
+    {
+      "titre": "#443 - [INTERVIEW] - Jean-Christophe Garbino - Président Grain de Malice",
+      "date": "2026-06-10"
+    },
+    {
+      "titre": "#442 - [ACTUS] - Le produit n'est plus le point de départ. C'est la communauté !",
+      "date": "2026-06-08"
+    },
+    {
+      "titre": "#441 - [HISTOIRE DE MARQUE] Gallimard : de Proust à Harry Potter, l'art de transformer l'édition en marque",
+      "date": "2026-06-05"
+    },
+    {
+      "titre": "#440 - [INTERVIEW] Sylvie Garcelon, Directrice Générale de la BPACA",
+      "date": "2026-06-03"
+    },
+    {
+      "titre": "#439 - [ACTUS] - IA, Meta vs Google & le retour à l'authenticité : ce qu'il ne fallait pas manquer",
+      "date": "2026-06-01"
+    }
+  ],
+  "derniere_activite": "2026-06-10",
+  "frequence_jours": 2
 }
