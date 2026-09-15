@@ -26,5 +26,31 @@
     "education"
   ],
   "addedAt": "2026-06-09",
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-13",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Kelly Barich",
+        "titre": "Un de mes podcasts préférés",
+        "texte": "Chaque épisode est une source d’inspiration. Des témoignages puissants, des retours d’expérience qui nous font réfléchir et un Nico qui mène l’échange avec un vrai professionnalisme et sans tabou …"
+      },
+      {
+        "note": 5,
+        "auteur": "rosalia1315",
+        "titre": "Une révélation !",
+        "texte": "J’ai découvert le podcast de Nico au cours de ma quête de sens depuis plusieurs mois maintenant et je ne suis pas déçue ! Chaque interview est réalisée avec une personnalité de choix, authentique et instructive.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Tatiana 💎⭐️🙏",
+        "titre": "Kiff 🙏",
+        "texte": "Merci Nico pour ces prises de consciences , partages & ces enrichissements . Tjs un plaisir de les écouter ! Je les attends avec impatience 🤗 mais aussi patience ☺️ Gratitude 🙏🙏 Faire le vide …"
+      }
+    ]
+  }
 }

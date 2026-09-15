@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "#131 : Encore plus de rêves bizarres",
+      "date": "2026-09-14"
+    },
+    {
+      "titre": "#130 : Le conseil de classe de Moralité",
+      "date": "2026-09-07"
+    },
+    {
+      "titre": "#129 - STORY TIME : Mon mec est (presque) un chauffard",
+      "date": "2026-08-31"
+    },
+    {
+      "titre": "#128 - STORY TIME : Ceci aurait pu être un épisode de Transfert",
+      "date": "2026-08-17"
+    },
+    {
+      "titre": "#127 - STORY TIME : Une voyante avait tout prédit",
+      "date": "2026-08-03"
+    }
+  ],
+  "derniere_activite": "2026-09-14",
+  "frequence_jours": 7
 }

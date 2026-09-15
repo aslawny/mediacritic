@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Histoires de... Mylène Farmer : Nevermore",
+      "date": "2026-01-11"
+    },
+    {
+      "titre": "Histoires de... L'emprise",
+      "date": "2024-10-20"
+    },
+    {
+      "titre": "Histoires de... 40 ans de carrière",
+      "date": "2024-03-24"
+    },
+    {
+      "titre": "Les vacances de Clément et Ludo",
+      "date": "2020-12-20"
+    },
+    {
+      "titre": "Histoires de... Mylène Farmer 2019",
+      "date": "2020-11-01"
+    }
+  ],
+  "derniere_activite": "2026-01-11",
+  "frequence_jours": 21
 }

@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-07-24",
-  "frequence_jours": 21
+  "frequence_jours": 21,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Vio2023",
+        "titre": "Précieuse, actuelle, évidente",
+        "texte": "Je te découvre Jenna, une amie m’a partagé un des épisodes de ton podcast. Pour moi qui suis née en 1967, c’est une grande joie que d’observer à travers ton exemple l’évolution et l’ouverture des consciences actuelle, si bien incarnée par la très lumineuse jeune personne que tu e…"
+      },
+      {
+        "note": 1,
+        "auteur": "laprunelledetesyeux",
+        "titre": "Newagy",
+        "texte": "Il est peut-être temps d’arrêter avec cette positivité toxique et la spiritualité coloniale"
+      },
+      {
+        "note": 5,
+        "auteur": "LAJs3008",
+        "titre": "Jenna Blossoms est tout simplement brillante",
+        "texte": "Jenna est inspirante, elle s’exprime avec sérénité, douceur et générosité en donnant beaucoup de contenus gratuits. J’adore sa belle énergie qu’elle diffuse autour d’elle mais aussi sa lumière, sa bienveillance, l’excellence de sa communication catalysée par son charisme qui nous…"
+      }
+    ]
+  }
 }

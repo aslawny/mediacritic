@@ -50,5 +50,25 @@
     }
   ],
   "derniere_activite": "2022-07-25",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ch",
+    "tri": "mosthelpful",
+    "releve": "2026-09-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Banana Müller",
+        "titre": "Merci d’avance",
+        "texte": "C’est trop cool, j’adore, j’aimerais bien que vous sortez de nouveaux épisodes Faudrait faire les petits mythos avec la mythologie nordique Banana Müller"
+      },
+      {
+        "note": 5,
+        "auteur": "Dracaufei",
+        "titre": "❤️",
+        "texte": "j’aime bien ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️⚽️⚽️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️⚽️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️"
+      }
+    ]
+  }
 }

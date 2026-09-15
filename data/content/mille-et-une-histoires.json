@@ -25,5 +25,29 @@
     "education"
   ],
   "addedAt": "2026-07-18",
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-13",
+  "episodes_recents": [
+    {
+      "titre": "Flambeau, une histoire qui a du chien",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "Le lièvre et la tortue",
+      "date": "2026-09-06"
+    },
+    {
+      "titre": "Le géant des mers",
+      "date": "2026-09-02"
+    },
+    {
+      "titre": "La fée des bois",
+      "date": "2026-08-30"
+    },
+    {
+      "titre": "Cadichon le petit âne",
+      "date": "2026-08-26"
+    }
+  ],
+  "derniere_activite": "2026-09-11",
+  "frequence_jours": 4
 }

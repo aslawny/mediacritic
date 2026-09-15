@@ -24,5 +24,29 @@
     "culture",
     "société"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "Dernier épisode",
+      "date": "2022-01-25"
+    },
+    {
+      "titre": "Youth For Climate Partie 2",
+      "date": "2021-11-30"
+    },
+    {
+      "titre": "Youth For Climate",
+      "date": "2021-11-16"
+    },
+    {
+      "titre": "Greta Thunberg",
+      "date": "2021-11-08"
+    },
+    {
+      "titre": "Le bouddhisme",
+      "date": "2021-10-19"
+    }
+  ],
+  "derniere_activite": "2022-01-25",
+  "frequence_jours": 14
 }

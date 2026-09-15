@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-08",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tradevador",
+        "titre": "Naturel et spontané",
+        "texte": "Bonjour Xavier, Fidèle sur tes morning mood depuis cinq ans, mais silencieux la majeure partie du temps, je souhaitais prendre un petit peu de mon temps précieux pour te dire combien ils sont bénéfiques et formateurs en complément de ta chaîne YouTube et d’IVT, merci pour le décl…"
+      },
+      {
+        "note": 1,
+        "auteur": "Papay0u",
+        "titre": "Donner son avis, ça devient compliqué en 2026",
+        "texte": "Proposer des améliorations pour ton podcast, sans méchanceté, dans l’intérêt de ton contenu, et se faire catégoriser d’égoïste, qui ne pense qu’à son intérêt, c’est vraiment moyen.…"
+      },
+      {
+        "note": 5,
+        "auteur": "ufoman41",
+        "titre": "Podcast Indispensable !!!",
+        "texte": "Je mets à jour mon avis tous les deux trois mois pour motiver Xav à publier ses podcast quotidiennenement. Xavier est indispensable pour les personnes qui souhaitent progresser sur les marchés.…"
+      }
+    ]
+  }
 }

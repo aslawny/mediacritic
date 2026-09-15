@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2024-11-07",
-  "frequence_jours": 2
+  "frequence_jours": 2,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Matthieu Godet",
+        "titre": "Une matinale dans la bonne humeur",
+        "texte": "Techscope, ça fait environ un an et demi que je le suis, plutôt en replay et en podcast ! Même si on peut parfois reprocher un contenu répétitif, la diversité et le soin pris à la sélection de la revue de presse font qu'on s'y retrouve toujours et c'est le plus important, on est…"
+      },
+      {
+        "note": 1,
+        "auteur": "PrinceVicious",
+        "titre": "Critique",
+        "texte": "Tire à boulets rouge sur la culture judéo-chrétiennes. Propagande transhumaniste. J’ai arrêté."
+      },
+      {
+        "note": 5,
+        "auteur": "crlbtn76",
+        "titre": "Le Mug j’adore, la gestion de la diffusion un peu moins",
+        "texte": "Podcast pour lequel j’ai beaucoup d’affection. Je suis Nowtech depuis des années et Jérôme et Marion m’accompagnent sur mes trajets métro/boulot/dodo 3 fois par semaine. Les analyses sont souvent pertinentes et forcent à prendre du recul.…"
+      }
+    ]
+  }
 }

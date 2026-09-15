@@ -23,5 +23,29 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-13",
+  "episodes_recents": [
+    {
+      "titre": "Tennis : balle de match à New York, bilan de l'US Open!",
+      "date": "2026-09-13"
+    },
+    {
+      "titre": "La flamme des JOJ à Dakar : le padel, nouveau phénomène!",
+      "date": "2026-09-12"
+    },
+    {
+      "titre": "MMA : l'UFC Fight Night Paris enflamme de nouveau la ville lumière!",
+      "date": "2026-09-06"
+    },
+    {
+      "titre": "F1 : le bilan à mi-saison !",
+      "date": "2026-09-05"
+    },
+    {
+      "titre": "Esports World Cup : retour sur l'autre Coupe du monde événement de l'été!",
+      "date": "2026-08-30"
+    }
+  ],
+  "derniere_activite": "2026-09-13",
+  "frequence_jours": 5
 }

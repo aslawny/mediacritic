@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-05-05",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Le mec qui a pas d’idee.",
+        "titre": "Y’a pas de 6ème étoile parce que tu la mérite ?!",
+        "texte": "Salut Quentin, Ça va ? On se DM souvent sur Instagram mais j’ai cru comprendre au hasard (ou pas) que t’aimais bien les reviews… 😉 Du coup, j’apprécie beaucoup ton podcast car j’ai d’une certaine l’impression d’écouter une « autobiographie » de toi même… Je mets autobiographie en…"
+      },
+      {
+        "note": 5,
+        "auteur": "Lou_desages",
+        "titre": "MERCI",
+        "texte": "Dans un monde où tout va bien trop vite, où les contenus proposés sont toujours plus courts, plus rapides, dénués de sens et de fond, où les applications deviennent des drogues pour satisfaire notre besoin de dopamine, où tout est fait pour répondre à un plaisir immédiat, sans ef…"
+      },
+      {
+        "note": 5,
+        "auteur": "Mateo-01-2022",
+        "titre": "Un rendez-vous toujours plus exaltant !! 🔥",
+        "texte": "Heyy Quentin ! À mon tour de te laisser une review, depuis le temps que je t’écoute, avant même d’avoir rejoint la team Hybrids ! Alors vois-tu où ton podcast nous mène ?! Du bonheur en barre (meilleur que les Sync même) de retrouver tes épisodes quasis hebdomadaires (t’inquiète…"
+      }
+    ]
+  }
 }

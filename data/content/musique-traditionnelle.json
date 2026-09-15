@@ -24,5 +24,29 @@
     "musique",
     "culture"
   ],
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-13",
+  "episodes_recents": [
+    {
+      "titre": "Guilaume Shilling 2/3",
+      "date": "2026-06-22"
+    },
+    {
+      "titre": "Guilaume Shilling 1/3",
+      "date": "2026-06-15"
+    },
+    {
+      "titre": "Kattel Kloared 3/3",
+      "date": "2026-06-08"
+    },
+    {
+      "titre": "Kattel Kloared 2/3",
+      "date": "2026-06-01"
+    },
+    {
+      "titre": "Kattel Kloared 1/3",
+      "date": "2026-05-25"
+    }
+  ],
+  "derniere_activite": "2026-06-22",
+  "frequence_jours": 7
 }

@@ -25,5 +25,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "Hors-Série #BlackLivesMatter : quid de la France ? (partie 1/2)",
+      "date": "2020-07-01"
+    },
+    {
+      "titre": "Plat doudou 6 - Le dosai cari cojumbu de Selva (Inde du sud)",
+      "date": "2020-05-16"
+    },
+    {
+      "titre": "Plat doudou 5 - Le samlor kari de Stéphanie (Cambodge)",
+      "date": "2020-05-03"
+    },
+    {
+      "titre": "Plat doudou 4 - Le houmous de Melie (Liban)",
+      "date": "2020-04-26"
+    },
+    {
+      "titre": "(REDIFF) Le ramadan sans clichés",
+      "date": "2020-04-24"
+    }
+  ],
+  "derniere_activite": "2020-07-01",
+  "frequence_jours": 6
 }

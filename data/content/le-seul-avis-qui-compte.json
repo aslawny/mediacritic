@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2024-06-20",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "jonsnow'sbutt<3",
+        "titre": "Jean neige + mymy = combo parfait",
+        "texte": "In love de ce podcast jusqu’à présent, même si le dernier avec Marion Seclin m’a un peu frustré, je l’adore hein mais venir parler de Game of Thrones sans se rappeler la moitié des persos c’est quand même chaud (oui Lyanna Mormont c’est bon BB ok comment on peut l’oublier ? x’).…"
+      },
+      {
+        "note": 1,
+        "auteur": "AmelieD59800",
+        "titre": "🙄",
+        "texte": "Kalindi est insupportable dans l’épisode sur Love Actually : « du fion » « du cul » toutes les phrases, c’est juste pas possible, impossible à écouter..."
+      },
+      {
+        "note": 5,
+        "auteur": "Romane L.",
+        "titre": "J'adore 😍📽",
+        "texte": "Il y a un an, quand je me suis mise à écouter les podcasts de Mad : J'aime trop (LMK en particulier), mais j'ai déjà écouté tous les épisodes de Derrière l'écran, ça manquerait quand même d'un nouveau petit podcast Ciné-Séries 🤔 Au mois d'Avril : Trop bien des podcasts sur GOT av…"
+      }
+    ]
+  }
 }

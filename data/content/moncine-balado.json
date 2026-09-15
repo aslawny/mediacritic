@@ -26,5 +26,29 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-05-08"
+  "updatedAt": "2026-05-08",
+  "episodes_recents": [
+    {
+      "titre": "Spécial L'Arracheuse de temps",
+      "date": "2021-11-22"
+    },
+    {
+      "titre": "19 novembre: L'Arracheuse de temps, SOS Fantômes: l'au-delà et King Richard",
+      "date": "2021-11-19"
+    },
+    {
+      "titre": "12 novembre: Belfast, Boîte noire et Seuls",
+      "date": "2021-11-12"
+    },
+    {
+      "titre": "5 novembre: The French Dispatch, Spencer, Une révision, Éternels et France",
+      "date": "2021-11-05"
+    },
+    {
+      "titre": "29 octobre: Brain Freeze, Une dernière nuit à Soho, Antlers et Un triomphe",
+      "date": "2021-10-29"
+    }
+  ],
+  "derniere_activite": "2021-11-22",
+  "frequence_jours": 7
 }

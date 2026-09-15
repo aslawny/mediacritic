@@ -25,5 +25,29 @@
     "cuisine"
   ],
   "addedAt": "2026-07-19",
-  "updatedAt": "2026-07-19"
+  "updatedAt": "2026-07-19",
+  "episodes_recents": [
+    {
+      "titre": "Le Poulet Rôti du dimanche au Barbecue",
+      "date": "2026-06-04"
+    },
+    {
+      "titre": "Traeger Day 2026 avec une sacrée équipe !",
+      "date": "2026-05-28"
+    },
+    {
+      "titre": "Les meilleures Sauces Piquantes du Game !",
+      "date": "2026-05-23"
+    },
+    {
+      "titre": "Première Brisket à l'IronWood XL de chez @TraegerGrills",
+      "date": "2026-04-30"
+    },
+    {
+      "titre": "Le Charbon le plus Français du Game !",
+      "date": "2026-04-24"
+    }
+  ],
+  "derniere_activite": "2026-06-04",
+  "frequence_jours": 9
 }

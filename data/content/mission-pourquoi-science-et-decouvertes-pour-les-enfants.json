@@ -27,5 +27,29 @@
     "famille"
   ],
   "addedAt": "2026-06-15",
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-13",
+  "episodes_recents": [
+    {
+      "titre": "Est-ce que les poissons dorment sous l'eau ?",
+      "date": "2026-09-15"
+    },
+    {
+      "titre": "Pourquoi on flotte dans l'eau ?",
+      "date": "2026-09-14"
+    },
+    {
+      "titre": "Pourquoi les feuilles tombent en automne ?",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "Pourquoi le ciel est bleu ?",
+      "date": "2026-09-10"
+    },
+    {
+      "titre": "Pourquoi la lune change de forme ?",
+      "date": "2026-09-09"
+    }
+  ],
+  "derniere_activite": "2026-09-15",
+  "frequence_jours": 1
 }

@@ -24,5 +24,29 @@
     "gaming",
     "rétro"
   ],
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-13",
+  "episodes_recents": [
+    {
+      "titre": "MACI #164 - PHP, Événements Tech & Watermarking Anthropic - Avec Cédric Mourizard et Nathan Boiron",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "MACI #163 - PHP, cybersécurité et IA - Avec Cédric Mourizard et Nathan Boiron",
+      "date": "2026-09-04"
+    },
+    {
+      "titre": "MACI #162 - Java et IA à Riviera DEV - Avec Antoine Sabot-Durand, Emmanuel Bernard et Yann Blazart",
+      "date": "2026-07-31"
+    },
+    {
+      "titre": "MACI #161 - Open source, IA et business model - Avec Graven",
+      "date": "2026-06-18"
+    },
+    {
+      "titre": "MACI #160 - Asynconf, Nostr et open source - Avec Graven",
+      "date": "2026-06-12"
+    }
+  ],
+  "derniere_activite": "2026-09-11",
+  "frequence_jours": 14
 }

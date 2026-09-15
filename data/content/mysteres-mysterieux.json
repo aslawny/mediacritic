@@ -26,5 +26,29 @@
     "societe"
   ],
   "addedAt": "2026-07-30",
-  "updatedAt": "2026-07-30"
+  "updatedAt": "2026-07-30",
+  "episodes_recents": [
+    {
+      "titre": "Le cimetière central",
+      "date": "2021-07-31"
+    },
+    {
+      "titre": "La prision de Gorgona",
+      "date": "2021-07-31"
+    },
+    {
+      "titre": "La Prison de la Fin du Monde",
+      "date": "2021-06-01"
+    },
+    {
+      "titre": "Le Grand Hôtel de Vienne",
+      "date": "2021-05-31"
+    },
+    {
+      "titre": "Le Panthéon de Bethléem",
+      "date": "2021-05-01"
+    }
+  ],
+  "derniere_activite": "2021-07-31",
+  "frequence_jours": 13
 }

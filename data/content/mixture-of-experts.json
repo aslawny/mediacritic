@@ -26,5 +26,29 @@
     "numerique"
   ],
   "addedAt": "2026-06-27",
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-13",
+  "episodes_recents": [
+    {
+      "titre": "OpenAI talks GPT-6 Astra and Millenium Prize, researchers create WeWorm exploit & IBM’s US Open app",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "Anthropic reveals Claude updates and new hardware guidelines, OpenAI talks rogue agents, and Runway debuts Sol",
+      "date": "2026-09-04"
+    },
+    {
+      "titre": "IBM’s mainframe chip collab, NVIDIA’s Poolside deal & Ox Alpha’s reveal",
+      "date": "2026-08-28"
+    },
+    {
+      "titre": "Stripe buys OpenRouter, Ramp’s AI Index & IBM’s OpenAI deal",
+      "date": "2026-08-21"
+    },
+    {
+      "titre": "IBM’s cloud collab, Meta’s Muse Glimmer & OpenAI’s upcoming Astra model",
+      "date": "2026-08-14"
+    }
+  ],
+  "derniere_activite": "2026-09-11",
+  "frequence_jours": 7
 }

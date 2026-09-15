@@ -26,5 +26,31 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-13",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Victoire-Marie",
+        "titre": "Suggestion",
+        "texte": "J’aime beaucoup ce podcast! Merci pour votre travail. Ce serait selon moi intéressant de parler dans un bonus de la thérapie EFT qui permet de se remettre des traumatismes.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Gazoline@",
+        "titre": "Pub",
+        "texte": "Insupportable trop de publicité J’ai arrêté dès la première écoute Dommage 🫤"
+      },
+      {
+        "note": 5,
+        "auteur": "dovahkiine",
+        "titre": "Précis, complet et rythme agréable",
+        "texte": "Une émission bien construite. On prend le temps de tout détailler, j’ai appris des choses. Les interventions d’Alain BAUER sont toujours appréciées, n’hésitez pas à creuser les questions que vous lui posez pour aller encore plus loin !"
+      }
+    ]
+  }
 }

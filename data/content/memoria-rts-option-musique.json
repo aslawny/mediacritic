@@ -24,5 +24,29 @@
     "musique",
     "culture"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "Memoria 1978",
+      "date": "2022-06-24"
+    },
+    {
+      "titre": "Memoria 2002",
+      "date": "2022-06-23"
+    },
+    {
+      "titre": "Memoria 2007",
+      "date": "2022-06-22"
+    },
+    {
+      "titre": "Memoria 2005",
+      "date": "2022-06-21"
+    },
+    {
+      "titre": "Memoria 1977",
+      "date": "2022-06-20"
+    }
+  ],
+  "derniere_activite": "2022-06-24",
+  "frequence_jours": 1
 }

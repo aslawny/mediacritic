@@ -24,5 +24,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-13",
+  "episodes_recents": [
+    {
+      "titre": "Il est la VOIX des Minions (et le réalisateur) - La carrière de Pierre Coffin avec Samuel Etienne",
+      "date": "2026-07-06"
+    },
+    {
+      "titre": "L'IA va remplacer les créateurs de contenus ! - Emission VivaTech avec Estherium, Just Riadh, Atom",
+      "date": "2026-06-29"
+    },
+    {
+      "titre": "Pas de CDI une fois diplômé ? - Samuel Etienne, Marie Palot, Laurène Levy et Ludovic B",
+      "date": "2026-06-08"
+    },
+    {
+      "titre": "Les français ne sont-ils plus motivés au travail ? - Samuel Etienne, Charlotte Vautier, Jean Massiet",
+      "date": "2026-05-26"
+    },
+    {
+      "titre": "La communication au travail est devenue plus chill ? Samuel Etienne, Simon Puech, Mymy Haegel",
+      "date": "2026-05-20"
+    }
+  ],
+  "derniere_activite": "2026-07-06",
+  "frequence_jours": 6
 }

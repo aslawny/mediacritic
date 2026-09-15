@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2020-08-25",
-  "frequence_jours": 13
+  "frequence_jours": 13,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Jmozel",
+        "titre": "Toujours au top !",
+        "texte": "Je suis tombé par hasard sur le podcast dans la tête d’un coureur en janvier 2020 ( début de ma ma prépa marathon...) et j’ai adoré de suite . Les conseils sont simple efficace et c’est toujours bienveillant ! Du coût j’ai rattrapé mon retard comme une bonne série Netflix...…"
+      },
+      {
+        "note": 3,
+        "auteur": "Interlulu",
+        "titre": "Plutôt bien mais pas top",
+        "texte": "Comme le dit Alain Chabat dans la cité de la peur : c’est plutôt bien mais pas top"
+      },
+      {
+        "note": 5,
+        "auteur": "Lea Trsin",
+        "titre": "Tellement heureuse de voir ce nouveau projet naître !",
+        "texte": "Le podcast sort pile au moment où je surmonte mes peurs et craintes pour enfin me mettre au triathlon ! Ça fait au moins 1 an que j’y pense, que je regarde toutes le vidéos de Tristan, mais je trouvais toujours des excuses/peurs pour ne pas me lancer, et la, ce podcast apparaît 🙌…"
+      }
+    ]
+  }
 }

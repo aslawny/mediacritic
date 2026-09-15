@@ -47,5 +47,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "PV - Dinopeck : le soutif des bonhommes (Montreux Comedy Festival 2025)",
+      "date": "2026-09-14"
+    },
+    {
+      "titre": "Pierre Thevenoux - L'écologie, c'est joli (Montreux Comedy Festival 2023)",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "Oriane Garcia - Je suis (pas) agressive (Montreux Comedy Festival 2025)",
+      "date": "2026-09-07"
+    },
+    {
+      "titre": "Charles Nouveau - Les français : les arabes de la Suisse (Montreux Comedy Festival 2023)",
+      "date": "2026-09-04"
+    },
+    {
+      "titre": "Yellow Mic # 81 – Matthieu Nina",
+      "date": "2026-09-02"
+    }
+  ],
+  "derniere_activite": "2026-09-14",
+  "frequence_jours": 2
 }

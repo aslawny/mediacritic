@@ -26,5 +26,29 @@
     "enfants",
     "éducation"
   ],
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-13",
+  "episodes_recents": [
+    {
+      "titre": "Le Best Of !",
+      "date": "2022-05-09"
+    },
+    {
+      "titre": "On fait quoi pour les enfants ?",
+      "date": "2022-04-22"
+    },
+    {
+      "titre": "On fait quoi contre la guerre ?",
+      "date": "2022-04-13"
+    },
+    {
+      "titre": "On fait quoi pour Internet ?",
+      "date": "2022-04-06"
+    },
+    {
+      "titre": "On fait quoi pour la culture ?",
+      "date": "2022-03-29"
+    }
+  ],
+  "derniere_activite": "2022-05-09",
+  "frequence_jours": 7
 }

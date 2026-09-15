@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Shadow transforme n’importe quel PC en machine puissante grâce au cloud (🎤 Bruno Pennes et Boris Lecoeur, Shad",
+      "date": "2026-09-15"
+    },
+    {
+      "titre": "L'IA peut-elle vraiment anéantir l'humanité ? (📆 L'HEBDO 12/09/26)",
+      "date": "2026-09-12"
+    },
+    {
+      "titre": "Apple fera-t-il décoller le pliant ? (🇫🇷🇨🇦 Debrief Transat 11/09/26)",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "L’iPhone pliant arrive, mais à quel prix ? (Keynote Apple 09/09)",
+      "date": "2026-09-10"
+    },
+    {
+      "titre": "Une main robotique faite… à la main (🎤 Didier Vançon, inventeur indépendant)",
+      "date": "2026-09-09"
+    }
+  ],
+  "derniere_activite": "2026-09-15",
+  "frequence_jours": 1
 }

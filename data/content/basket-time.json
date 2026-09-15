@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-06-16",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "davdavlin37",
+        "titre": "Un vrai régal",
+        "texte": "Je ne suivais pas le basket et toute l'équipe m'a transmis cette nouvelle passion. Expertise sans pédanterie. Camaraderie sincère. Stephen Brun est de loin la meilleure recrue de la radio depuis longtemps.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Ad_the_foxx",
+        "titre": "Mouais",
+        "texte": "Vous voulez du basket ? Allez écouter le podcast de NBA Extra. Au moins ils savent de quoi ils parlent et évitent des blagues pas drôles toutes les 2 secondes"
+      },
+      {
+        "note": 5,
+        "auteur": "spidjoun",
+        "titre": "Durée",
+        "texte": "L’émission est top , on se régale à vous écouter, entre l’euroleague, la NBA , le championnat les JO avec les deux équipes de France 30 minutes c’est bien trop court , si ça avait été du Ping Pong d’accord, mais la envoyer vous un peu plus !!"
+      }
+    ]
+  }
 }

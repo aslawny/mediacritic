@@ -26,5 +26,25 @@
     "societe"
   ],
   "addedAt": "2026-06-15",
-  "updatedAt": "2026-06-15"
+  "updatedAt": "2026-06-15",
+  "episodes_recents": [
+    {
+      "titre": "Épisode 4 (et fin): Un écureuil dans les cocotiers",
+      "date": "2025-04-15"
+    },
+    {
+      "titre": "Épisode 3: A la poursuite du soleil",
+      "date": "2025-04-06"
+    },
+    {
+      "titre": "Épisode 2: 1300 km dans le Nord et quelques chinois",
+      "date": "2025-03-31"
+    },
+    {
+      "titre": "Épisode 1: Hanoï - impénétrable",
+      "date": "2025-03-24"
+    }
+  ],
+  "derniere_activite": "2025-04-15",
+  "frequence_jours": 6
 }

@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-02",
-  "frequence_jours": 4
+  "frequence_jours": 4,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Realchica",
+        "titre": "Génial!!",
+        "texte": "Merci Patricia ! Ça fait un an que ma fille (de 4 ans maintenant) s’endort paisiblement avec vos histoires, et j’avoue que je m’endors souvent à côté d’elle aussi en vous écoutant ☺️ Vos histoires sont très jolies, pleines de magie, bienveillantes, douces et réconfortantes comme…"
+      },
+      {
+        "note": 2,
+        "auteur": "Rhaff75",
+        "titre": "Pubs",
+        "texte": "Dommage, depuis qu’il y a des pubs avant les histoires cela ne fonctionne plus. La pub se termine et l’histoire s’arrête… je comprend qu’il faut payer les factures, mais là pour le coup ça ne fonctionne plus."
+      },
+      {
+        "note": 5,
+        "auteur": "Cris97211",
+        "titre": "Mon Secret pour des Nuits Paisibles : les Histoires de Patricia",
+        "texte": "Depuis que j’ai découvert ce podcast, les soirées avec mes enfants sont devenues un moment magique. Chaque histoire, racontée avec douceur, les emmène dans des mondes imaginaires où le calme règne. Les récits captivants aident à se détendre et à s’endormir sereinement.…"
+      }
+    ]
+  }
 }

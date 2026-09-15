@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "#152 - Jessica Fauveau, @ladaronnietmtc : dessiner la maternité brute, joyeuse et chaotique",
+      "date": "2026-05-05"
+    },
+    {
+      "titre": "EXTRAIT #151 - Comment préparer son couple avant d'être parents ? Avec @crocomaman",
+      "date": "2026-04-28"
+    },
+    {
+      "titre": "#151 - Clara, @crocomaman : « choyer son couple, c’est le noyau, les enfants gravitent autour »",
+      "date": "2026-04-21"
+    },
+    {
+      "titre": "EXTRAIT #150 - Leçon d'indépendance financière avec Héloïse Bolle",
+      "date": "2026-04-14"
+    },
+    {
+      "titre": "EXTRAIT #150 - Héloïse Bolle : \"La répartition genrée des dépenses est dangereuse dans le couple\"",
+      "date": "2026-04-06"
+    }
+  ],
+  "derniere_activite": "2026-05-05",
+  "frequence_jours": 7
 }

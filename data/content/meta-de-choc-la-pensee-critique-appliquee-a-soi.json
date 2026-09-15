@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "L’esprit critique, ça s’apprend ? 1/4, avec Christophe Adourian — SHOCKING #32",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "L’esprit critique, ça s’apprend ? (Teaser), avec Christophe Adourian — SHOCKING #32",
+      "date": "2026-09-04"
+    },
+    {
+      "titre": "Emprise psychologique : mode d’emploi — STREAM #24",
+      "date": "2026-08-14"
+    },
+    {
+      "titre": "Emprise psychologique : mode d’emploi (Teaser) — STREAM #24",
+      "date": "2026-08-07"
+    },
+    {
+      "titre": "MLM ou arnaque pyramidale ? 4/4, avec Manon Lasne — SHOCKING #31",
+      "date": "2026-07-31"
+    }
+  ],
+  "derniere_activite": "2026-09-11",
+  "frequence_jours": 7
 }

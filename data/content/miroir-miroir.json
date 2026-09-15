@@ -47,5 +47,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Faire la paix avec son assiette",
+      "date": "2019-12-03"
+    },
+    {
+      "titre": "Le maquillage, une affaire de classe",
+      "date": "2019-11-19"
+    },
+    {
+      "titre": "Y a pas que la taille qui compte",
+      "date": "2019-11-05"
+    },
+    {
+      "titre": "Drague, échec et match",
+      "date": "2019-10-22"
+    },
+    {
+      "titre": "Beauté colonisée, corps domestiqués",
+      "date": "2019-10-15"
+    }
+  ],
+  "derniere_activite": "2019-12-03",
+  "frequence_jours": 14
 }

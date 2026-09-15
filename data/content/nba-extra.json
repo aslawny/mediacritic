@@ -46,5 +46,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Giannis au Heat, l'analyse de la Team NBA Extra",
+      "date": "2026-06-24"
+    },
+    {
+      "titre": "Comment les Knicks ont su vaincre la malédiction - EP 174",
+      "date": "2026-06-14"
+    },
+    {
+      "titre": "Game 4 : le plus grand come-back du sport ? - EP 173",
+      "date": "2026-06-11"
+    },
+    {
+      "titre": "Wemby et les Spurs : la remontada est lancée ! - EP 172",
+      "date": "2026-06-09"
+    },
+    {
+      "titre": "Brunson - Towns, le double problème des Spurs - EP 171",
+      "date": "2026-06-04"
+    }
+  ],
+  "derniere_activite": "2026-06-24",
+  "frequence_jours": 2
 }
