@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/on-vit-dans-une-saucisse/id1848731689?uo=4",
       "trackId": 1848731689,
       "rating": 4.8,
-      "ratingCount": 16,
+      "ratingCount": 18,
       "episodeCount": 3
     }
   },
@@ -25,5 +25,29 @@
     "societe"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-16",
+  "episodes_recents": [
+    {
+      "titre": "Baignade à quel prix (2/2) : La mer est-elle devenue victime de son propre succès ?",
+      "date": "2026-08-14"
+    },
+    {
+      "titre": "Baignade à tout prix (1/2) : Quand le droit de se rafraîchir devient un privilège",
+      "date": "2026-07-28"
+    },
+    {
+      "titre": "Success Story : Comment la téléréalité a-t-elle bâti son succès sur la caricature des classes populaires ?",
+      "date": "2026-06-09"
+    },
+    {
+      "titre": "Seul.es ensemble : Peut-on encore faire communauté à l'ère numérique ?",
+      "date": "2026-03-10"
+    },
+    {
+      "titre": "Culture de la trouille : Comment le true crime transforme nos peurs en divertissement de masse?",
+      "date": "2025-12-27"
+    }
+  ],
+  "derniere_activite": "2026-08-14",
+  "frequence_jours": 61
 }

@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/nuage-de-mots/id1676847168?uo=2",
       "trackId": 1676847168,
       "rating": 4.9,
-      "ratingCount": 125,
+      "ratingCount": 126,
       "episodeCount": null
     }
   },
@@ -26,5 +26,29 @@
     "education"
   ],
   "addedAt": "2026-07-06",
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-16",
+  "episodes_recents": [
+    {
+      "titre": "Ces questions existentielles",
+      "date": "2026-09-13"
+    },
+    {
+      "titre": "Sois toi-même avec tes amis",
+      "date": "2026-08-18"
+    },
+    {
+      "titre": "Toi aussi tu scrolles trop ?",
+      "date": "2026-08-02"
+    },
+    {
+      "titre": "Story time : mon 1er job d'été",
+      "date": "2026-07-19"
+    },
+    {
+      "titre": "Ras le bol d'être trop gentille",
+      "date": "2026-07-02"
+    }
+  ],
+  "derniere_activite": "2026-09-13",
+  "frequence_jours": 16
 }

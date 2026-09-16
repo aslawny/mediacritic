@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/le-go%C3%BBt-du-mal/id6801127415?uo=2",
       "trackId": 6801127415,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": null
     }
   },
@@ -25,7 +25,7 @@
     "series"
   ],
   "addedAt": "2026-09-14",
-  "updatedAt": "2026-09-14",
+  "updatedAt": "2026-09-16",
   "episodes_recents": [
     {
       "titre": "ÉPISODE 1 - ÉGYPTE : Quand les morts refusent de se taire",

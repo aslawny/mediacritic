@@ -24,7 +24,7 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-13",
+  "updatedAt": "2026-09-16",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-12",
@@ -46,5 +46,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Les disques de la rentrée : Erykah Badu, LA Priest, FKJ, Turnstile, Adélia et plus !",
+      "date": "2026-09-13"
+    },
+    {
+      "titre": "Le retour du nova club : hommage à Kavinsky",
+      "date": "2026-09-08"
+    },
+    {
+      "titre": "Le retour du nova club : les disques de l'été (Steve Lacy, Nirosta Steel, Charli xcx, Ariana Grande, The Strok",
+      "date": "2026-09-06"
+    },
+    {
+      "titre": "La dernière ! Avec plein de gens et plein de sons !",
+      "date": "2026-07-08"
+    },
+    {
+      "titre": "Gaspard Augé et Bernardino Femminielli sont nos invités + quelques news !",
+      "date": "2026-07-06"
+    }
+  ],
+  "derniere_activite": "2026-09-13",
+  "frequence_jours": 4
 }

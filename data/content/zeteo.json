@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/zeteo/id1491326863?uo=2",
       "trackId": 1491326863,
       "rating": 4.8,
-      "ratingCount": 267,
+      "ratingCount": 268,
       "episodeCount": null
     }
   },
@@ -26,5 +26,31 @@
     "vulgarisation"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-16",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Julia Margaux",
+        "titre": "Quel cadeau Zeteo!!!!",
+        "texte": "Je rejoins Marguerite Kardos, vous faites une contribution très précieuse au monde , avec Zeteo… en beau en juste et en bon, ce podcast m’est toujours une aide précieuse , une boussole et un rappel au cœur à l’espoir et aux trésors cachés pour vivre et traverser les épreuves.…"
+      },
+      {
+        "note": 1,
+        "auteur": "bourguillon",
+        "titre": "Déception",
+        "texte": "Très décevant, les sujets et les intervenants sont très militants, loin du souffle spirituel qui animait les premiers épisodes."
+      },
+      {
+        "note": 5,
+        "auteur": "FredyGuyon",
+        "titre": "Un chemin vers la grâce…",
+        "texte": "Quelle grâces auxquelles Zeteo et Guillaume nous permettent d’accéder…. Quelles richesses surabondantes présentes, si puissantes, profondes et pourtant méconnues dans un monde tant pollué par le bruit ambiant … Merci Guillaume pour ces rencontres qui nous touchent au coeur, et no…"
+      }
+    ]
+  }
 }

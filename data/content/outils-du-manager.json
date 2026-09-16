@@ -25,7 +25,7 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-13",
+  "updatedAt": "2026-09-16",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-07",
@@ -47,5 +47,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "\"Manager\" sans système est une perte de temps - En vrai c'est quoi diriger ? avec Céline Macedo",
+      "date": "2026-09-15"
+    },
+    {
+      "titre": "Ton entreprise te pousse à être toxique ? - avec Loïc Blandel",
+      "date": "2026-09-08"
+    },
+    {
+      "titre": "\"Je croyais que le problème c'était moi.\" (en vrai c'était mon management) - avec Robin Trolez",
+      "date": "2026-08-24"
+    },
+    {
+      "titre": "9 principes pour éviter une descente aux enfers d'entrepreneur - avec Maxime Delcourt (2/2)",
+      "date": "2026-08-17"
+    },
+    {
+      "titre": "La descente aux enfers d'un entrepreneur - avec Maxime Delcourt (1/2)",
+      "date": "2026-08-10"
+    }
+  ],
+  "derniere_activite": "2026-09-15",
+  "frequence_jours": 7
 }

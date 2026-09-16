@@ -29,7 +29,7 @@
     "entrepreneuriat"
   ],
   "addedAt": "2026-09-02",
-  "updatedAt": "2026-09-13",
+  "updatedAt": "2026-09-16",
   "episodes_recents": [
     {
       "titre": "500 000 € d'ETF, 15 minutes par an : le portefeuille cible de l'investisseur immobilier pour être libre",
@@ -53,5 +53,27 @@
     }
   ],
   "derniere_activite": "2026-09-02",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-09-16",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

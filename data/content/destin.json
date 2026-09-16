@@ -24,7 +24,7 @@
     "culture",
     "societe"
   ],
-  "updatedAt": "2026-09-13",
+  "updatedAt": "2026-09-16",
   "episodes_recents": [
     {
       "titre": "Episode 4 - Objectif Vendée Globe 2024",
@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2025-09-29",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-16",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Veggy_Cat",
+        "titre": "Grand Corps Malade (GCM)",
+        "texte": "J’adore ce podcast. Il est parfois dramatique et triste mais cela fait ce qui est bien car nous ne vivons pas dans un monde de Bisounours. Grand Corps Malade je t’adore 😍 ! J’adore ta musique et Pendant 24h. Je t’aime 🫶 ! Signé : Un Fan"
+      },
+      {
+        "note": 1,
+        "auteur": "gtdfgfc",
+        "titre": "Étrange",
+        "texte": "Difficile de savoir si il s’agit d’un modèle … des débuts pas très glorieux, pas beaucoup de remords, un podcast bien actuel, finalement assez vulgaire."
+      },
+      {
+        "note": 5,
+        "auteur": "#HAKU44",
+        "titre": "Ma Tamara Horacek… ❤️",
+        "texte": "J’adore votre podcast !!!! Notamment celui qui tourne autour d’une joueuse de handball !!!! 🤾🏼 Car je suis moi même une joueuse de handball, et je veux passer pro. Bref ça fait rêver !!! 🔆🔆"
+      }
+    ]
+  }
 }

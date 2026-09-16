@@ -25,5 +25,29 @@
     "rénovation",
     "DIY"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "Nouveau format d'émission - Notre voyage à la rentrée",
+      "date": "2021-09-11"
+    },
+    {
+      "titre": "Nouvelles aventures en Roumanie et nouveaux projets - Semaine 25",
+      "date": "2021-07-10"
+    },
+    {
+      "titre": "Trois jours au garage et canicule en Bulgarie - Semaine 24",
+      "date": "2021-07-03"
+    },
+    {
+      "titre": "En ville en Bulgarie, de Sofia à Plovdiv",
+      "date": "2021-06-26"
+    },
+    {
+      "titre": "Première semaine en Bulgarie : pyramides de Melnik, randonnée au Mont Vikhren – Semaine 22",
+      "date": "2021-06-19"
+    }
+  ],
+  "derniere_activite": "2021-09-11",
+  "frequence_jours": 6
 }

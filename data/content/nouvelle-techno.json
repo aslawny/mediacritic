@@ -25,5 +25,29 @@
     "numerique"
   ],
   "addedAt": "2026-08-06",
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-06",
+  "episodes_recents": [
+    {
+      "titre": "AI Act : ce que l’Europe change pour l’Intelligence Artificielle",
+      "date": "2026-08-01"
+    },
+    {
+      "titre": "Et si une seule méthode JavaScript permettait d’animer les changements d’état de votre interface ?",
+      "date": "2026-07-25"
+    },
+    {
+      "titre": "SEO, AEO, GEO : faut-il désormais développer pour les moteurs de recherche ou pour les IA ?",
+      "date": "2026-07-18"
+    },
+    {
+      "titre": "Développeur web en 2026 : la fin de l’eldorado ou le début d’un métier plus mature ?",
+      "date": "2026-07-11"
+    },
+    {
+      "titre": "Le client HTTP de PhpStorm : tester une API sans quitter l’IDE",
+      "date": "2026-04-04"
+    }
+  ],
+  "derniere_activite": "2026-08-01",
+  "frequence_jours": 7
 }

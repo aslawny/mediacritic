@@ -24,5 +24,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-16",
+  "episodes_recents": [
+    {
+      "titre": "Montréal: capitale mondiale de l’agriculture urbaine",
+      "date": "2026-09-08"
+    },
+    {
+      "titre": "Philippe Legendre : « La plus belle des recettes, c’est le sourire »",
+      "date": "2026-08-25"
+    },
+    {
+      "titre": "Pivotapp : l’application québécoise qui veut simplifier la gestion des restaurants",
+      "date": "2026-08-11"
+    },
+    {
+      "titre": "Oncle Lee fait une cuisine chinoise...montréalaise",
+      "date": "2026-07-28"
+    },
+    {
+      "titre": "Une nouvelle étoile au Québec, avec Vincent Baronnat",
+      "date": "2026-07-14"
+    }
+  ],
+  "derniere_activite": "2026-09-08",
+  "frequence_jours": 14
 }

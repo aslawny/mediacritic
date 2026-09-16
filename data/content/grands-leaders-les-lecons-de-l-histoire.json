@@ -25,7 +25,7 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-13",
+  "updatedAt": "2026-09-16",
   "episodes_recents": [
     {
       "titre": "Sun Tzu ou l'art de la stratégie",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-07-14",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-16",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Vida_Bella",
+        "titre": "J’ai adoré le podcast ! Enfin un leadership qui a du sens",
+        "texte": "Je ne m’y attendais pas car honnêtement l’histoire et moi, nous avons rompu après le baccalauréat 😊 Moi qui me passionne pour le sujet de la vie professionnelle et le future du travail, j’ai aimé mettre le leadership d’Alexandre en parallèle du cadre pragmatique et quotidien de l…"
+      },
+      {
+        "note": 1,
+        "auteur": "Lecorbusier Bis",
+        "titre": "Récit réussi, merci !",
+        "texte": "Intéressante sélection de personnages bien présentée à deux voix. Le concept de leadership au sens où nous l’entendons aujourd’hui est parfois plaqué sur l’histoire avec une économie de nuances, au détriment de l’immersion dans l’époque.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Daniel G77",
+        "titre": "Formidable !",
+        "texte": "Podcast FORMIDABLE ! Sur le fond, on retrouve le style et force de Franck Ferrand avec le point de vue de Gérald Karsenti à propos du personnage et du contexte. Pour l’auditeur c’est une belle mise en perspective de la tranche d histoire évoquée.…"
+      }
+    ]
+  }
 }

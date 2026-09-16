@@ -24,7 +24,7 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-09-13",
+  "updatedAt": "2026-09-16",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-11",
@@ -46,5 +46,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Flashback - Titanic",
+      "date": "2021-03-24"
+    },
+    {
+      "titre": "Flashback - Lost",
+      "date": "2021-03-17"
+    },
+    {
+      "titre": "Flashback - How I met your mother",
+      "date": "2021-03-10"
+    },
+    {
+      "titre": "Flashback - Scrubs",
+      "date": "2021-03-03"
+    },
+    {
+      "titre": "Xtra - Panic sur Florida Beach",
+      "date": "2020-01-27"
+    }
+  ],
+  "derniere_activite": "2021-03-24",
+  "frequence_jours": 7
 }

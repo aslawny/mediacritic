@@ -26,5 +26,31 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-16",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "jonescoppola",
+        "titre": "Agréable surprise",
+        "texte": "Franchement j’ai écouté le premier épisode avec beaucoup d’apriori vis à vis d’Anne que je ne suis plus sur Instagram depuis très longtemps (elle m’a bloqué suite à un avis négatif sur un partenariat avec une marque de voiture ...) bref le côté trop business et ego centré ne m’in…"
+      },
+      {
+        "note": 1,
+        "auteur": "MadreDeDios",
+        "titre": "De la rigolade",
+        "texte": "Épisode Débuter le cyclisme : Prône les grands trajets en avion (la réunion) Dis « premier triathlon en touriste » avec un vélo full carbone Je ne peux pas aller plus loin… c’est se moquer du monde"
+      },
+      {
+        "note": 5,
+        "auteur": "Daddy The Beat",
+        "titre": "Bienvenu au nouveau né !",
+        "texte": "Super content que vous vous lanciez dans l’aventure podcast. Amusez-vous bien ! Au plaisir de vous écouter en courant, A LA SAL, au travail, dans mon canapé, quand je fais ma vidange, chez le kiné pendant les ondes de choc, au ciné, dans le train (en mode ampli), dans mon intimit…"
+      }
+    ]
+  }
 }

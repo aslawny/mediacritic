@@ -25,5 +25,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-16",
+  "episodes_recents": [
+    {
+      "titre": "📈 Réflexion stratégique : la transformation du métier d'avocat à l'ère de l’IA",
+      "date": "2025-12-11"
+    },
+    {
+      "titre": "👨‍💼 PORTRAIT - Gilles August revient sur la genèse du cabinet August Debouzy",
+      "date": "2025-11-13"
+    },
+    {
+      "titre": "📈 E-reputation et gestion de crise",
+      "date": "2025-10-09"
+    },
+    {
+      "titre": "🎯 PRATIQUE - Mobilité internationale et régime fiscal : comment faire les bons choix ?",
+      "date": "2025-09-11"
+    },
+    {
+      "titre": "🎯 PRATIQUE - Distributeurs / fournisseurs : quelles relations contractuelles ?",
+      "date": "2025-06-19"
+    }
+  ],
+  "derniere_activite": "2025-12-11",
+  "frequence_jours": 28
 }

@@ -23,7 +23,7 @@
     "sciences",
     "vulgarisation"
   ],
-  "updatedAt": "2026-09-13",
+  "updatedAt": "2026-09-16",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -49,5 +49,29 @@
         "texte": "J’aime bien ce podcast, les interviews sont assez intéressantes mais le présentateur ne laisse pas tout le temps le confort à l’interviewés de parler. C’est pas dérangeant selon moi mais des fois ça peut être un peu frustrant.…"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Au revoir et merci !",
+      "date": "2018-10-29"
+    },
+    {
+      "titre": "#85 - Gringe : En quête de vérité",
+      "date": "2018-10-22"
+    },
+    {
+      "titre": "#84 - ElkY : Pas peur de prendre des risques",
+      "date": "2018-10-15"
+    },
+    {
+      "titre": "#83 - Pedro Winter : Entretenir sa naïveté",
+      "date": "2018-10-08"
+    },
+    {
+      "titre": "#82 - Monsieur Poulpe : Tout le monde est artiste",
+      "date": "2018-10-01"
+    }
+  ],
+  "derniere_activite": "2018-10-29",
+  "frequence_jours": 6
 }

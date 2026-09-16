@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/un-dimanche-%C3%A0-la-campagne/id1696992628?uo=2",
       "trackId": 1696992628,
       "rating": 4.8,
-      "ratingCount": 179,
+      "ratingCount": 180,
       "episodeCount": null
     }
   },
@@ -27,5 +27,31 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-16",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Titedod",
+        "titre": "Une parenthèse dans mon quotidien",
+        "texte": "Un rendez-vous qui me tient à cœur, des rencontres et des histoires de vie qui me font vibrer, m’ouvrant sur l’autre et ses expériences de vie, et pendant lesquels je peux passer du rire aux larmes et inversement! Tout ça encadré par un animateur au grand cœur, talentueux et plei…"
+      },
+      {
+        "note": 1,
+        "auteur": "aure2108",
+        "titre": "Choquée : un violeur invité",
+        "texte": "Quelle déception que vous ayez invité Ary Abittan. Moins de 1% des hommes sont condamnés. Et pourtant il y avait de sérieuses preuves contre lui. Du sang, des hématomes… J’aurais pensé que vous feriez parti de nos soutiens et non pas du soutien de l’impunité."
+      },
+      {
+        "note": 5,
+        "auteur": "pagalou59",
+        "titre": "Top ! Je les ai pratiquement tous regardé",
+        "texte": "J’adoore ! Frederic Lopez mène la petite virée campagne avec beaucoup de bienveillance Auprès des 3 invités 👍 Franchement on découvre les différentes personnalités de façon différente et très sympathique tout en apprenant bcp des différents parcours … Bravo ! 🌻Pascale"
+      }
+    ]
+  }
 }

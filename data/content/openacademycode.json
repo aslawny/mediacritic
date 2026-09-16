@@ -25,5 +25,29 @@
     "numerique"
   ],
   "addedAt": "2026-08-18",
-  "updatedAt": "2026-08-18"
+  "updatedAt": "2026-08-18",
+  "episodes_recents": [
+    {
+      "titre": "CRUD Django Complet : Créer, Modifier et Supprimer des Données avec DaisyUI & TailwindCSS",
+      "date": "2026-06-23"
+    },
+    {
+      "titre": "Django + Tailwind CSS : Le Setup PRO que personne ne t’explique 🔥",
+      "date": "2026-05-01"
+    },
+    {
+      "titre": "Architecture MVT Django : Comprendre enfin Model View Template simplement !",
+      "date": "2026-04-18"
+    },
+    {
+      "titre": "Apprendre Django de A à Z: Projet, Apps et Structure expliqués simplement",
+      "date": "2026-04-13"
+    },
+    {
+      "titre": "UV le gestionnaire Python ultra rapide qui remplace pip, poetry, pipenv, virtualenv, 100x plus rapid",
+      "date": "2026-04-03"
+    }
+  ],
+  "derniere_activite": "2026-06-23",
+  "frequence_jours": 10
 }

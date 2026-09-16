@@ -26,5 +26,31 @@
     "famille"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-09-16",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "TokyoSarOu",
+        "titre": "Podcast avec Delphine maman solo et heureuse",
+        "texte": "Ce podcast est absolument génial Mention spéciale pour Delphine qui nous parle en tant que maman heureuse et solo ! Elle me redonne confiance, elle me dit que demain il fera jour et que le meilleur reste à venir …"
+      },
+      {
+        "note": 5,
+        "auteur": "JulieMP2601",
+        "titre": "Mon rituel du lundi matin",
+        "texte": "Le podcast à écouter quand on vit en famille recomposée, ça fait tellement du bien d’entendre des histoires similaires aux nôtre et de voir la vérité vraie sur la vie de famille recomposée pas seulement ce qu’on veut bien montrer à l’extérieur mais ce que l’on vit à l’intérieur,…"
+      },
+      {
+        "note": 5,
+        "auteur": "Fannygeorges",
+        "titre": "Pépite addictive",
+        "texte": "Une petite pépite ce podcast! Dans chaque épisode on ressort des éléments qui nous parlent. À chaque fois, au moins à 2 reprises on se dit « ha oui tiens, moi aussi ». Et puis on s’inspire, on se rassure.. et ça fait du bien!"
+      }
+    ]
+  }
 }

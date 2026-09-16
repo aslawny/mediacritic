@@ -23,5 +23,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-16",
+  "episodes_recents": [
+    {
+      "titre": "Episode 157: S04E32 - Une dernière question",
+      "date": "2020-01-09"
+    },
+    {
+      "titre": "Episode 156: S04E31 - AnaCrim Skywalker contre les fourmis cannibales",
+      "date": "2019-11-20"
+    },
+    {
+      "titre": "Episode 155: S04E30 - Requiem pour un Snickers",
+      "date": "2019-11-13"
+    },
+    {
+      "titre": "Episode 154: S04E29 - News, science et amour #17",
+      "date": "2019-10-30"
+    },
+    {
+      "titre": "Episode 153: S04E28 - News, science et amour #16",
+      "date": "2019-10-22"
+    }
+  ],
+  "derniere_activite": "2020-01-09",
+  "frequence_jours": 14
 }

@@ -25,5 +25,51 @@
     "tech",
     "numérique"
   ],
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-09-16",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "iPhone Duo, le GRAND debrief⎜ORLM-597",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "TOUT SAVOIR SUR L’APP MOTS DE PASSE D’APPLE⎜ORLMexpress-43",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "iPhone, Roaming, pourquoi il faut passer à l’eSim ?⎜ORLMexpress-42",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "APPLE EVENT iPhone 2026 ORLM 596",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "Mac Mini M6, Mac Studio M5 Max, Ultra⎜ORLM-595",
+      "date": "2026-09-11"
+    }
+  ],
+  "derniere_activite": "2026-09-11",
+  "frequence_jours": 1
 }

@@ -27,5 +27,31 @@
     "cuisine"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-16",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Looouuuveee",
+        "titre": "Excellent mais … des pourquoi(s)",
+        "texte": "Excellent podcast qui interroge et permet de connaître les points de vue sensibles des interviewés sans rien cacher de leurs émotions. Des questions franches, simples, directes posées avec délicatesse.…"
+      },
+      {
+        "note": 1,
+        "auteur": "zazaGS",
+        "titre": "Imblerable",
+        "texte": "Elle est très désagréable !! Alors que Stéphane de G est un invité agréable. Interviewé c’est écouter l’autre et non pas SOI SOI SOI On ne m’y reprendra pas …"
+      },
+      {
+        "note": 5,
+        "auteur": "Stpfr34",
+        "titre": "TQUJ",
+        "texte": "Tant qu’il y aura une Julia pour nous faire découvrir (ou re découvrir) des talents, connus ou moins connus, des personnalités , des parcours, des fêlures, et toutes ces choses qui font d’un humain un humain intéressant, nous serons protégés à la fois des anathèmes et des lieux c…"
+      }
+    ]
+  }
 }

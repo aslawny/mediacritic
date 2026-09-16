@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/numbers/id1896928707?uo=2",
       "trackId": 1896928707,
       "rating": 3.6,
-      "ratingCount": 137,
+      "ratingCount": 141,
       "episodeCount": null
     }
   },
@@ -25,5 +25,21 @@
     "culture"
   ],
   "addedAt": "2026-06-18",
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-16",
+  "episodes_recents": [
+    {
+      "titre": "Ebony ne s'attendait pas à ça après la Star Ac'",
+      "date": "2026-08-25"
+    },
+    {
+      "titre": "Cette idée de Fianso a fait basculer sa carrière",
+      "date": "2026-08-06"
+    },
+    {
+      "titre": "Orelsan : peut-on être rappeur après 50 ans ?",
+      "date": "2026-06-15"
+    }
+  ],
+  "derniere_activite": "2026-08-25",
+  "frequence_jours": 52
 }

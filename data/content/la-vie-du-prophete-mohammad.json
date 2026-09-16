@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/la-vie-du-proph%C3%A8te-mohammad-%EF%B7%BA/id1804853747?uo=2",
       "trackId": 1804853747,
       "rating": 4.8,
-      "ratingCount": 238,
+      "ratingCount": 240,
       "episodeCount": null
     }
   },
@@ -26,12 +26,34 @@
     "vulgarisation"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-13",
+  "updatedAt": "2026-09-16",
   "episodes_recents": [
     {
       "titre": "1. Pourquoi apprendre sa vie ?",
       "date": "2025-03-21"
     }
   ],
-  "derniere_activite": "2025-03-21"
+  "derniere_activite": "2025-03-21",
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-09-16",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

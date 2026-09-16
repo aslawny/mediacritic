@@ -24,5 +24,29 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-16",
+  "episodes_recents": [
+    {
+      "titre": "Sérotonine : la molécule qui décide si vous mordez ou si vous encaissez",
+      "date": "2026-09-14"
+    },
+    {
+      "titre": "Seniors et pollution : les risques invisibles qui menacent la santé",
+      "date": "2026-06-08"
+    },
+    {
+      "titre": "Santé masculine : les pollutions qui passent sous les radars",
+      "date": "2026-06-01"
+    },
+    {
+      "titre": "La pollution qui affecte les femmes.",
+      "date": "2026-05-18"
+    },
+    {
+      "titre": "Comment protéger les adolescents des toxiques modernes",
+      "date": "2026-05-11"
+    }
+  ],
+  "derniere_activite": "2026-09-14",
+  "frequence_jours": 7
 }

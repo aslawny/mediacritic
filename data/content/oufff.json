@@ -24,5 +24,29 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-16",
+  "episodes_recents": [
+    {
+      "titre": "20 ans de l'UTMB - Inside UTMB des premiers aux derniers",
+      "date": "2023-09-04"
+    },
+    {
+      "titre": "20 ans de l'UTMB - 31 août - Au coeur de la semaine UTMB",
+      "date": "2023-09-01"
+    },
+    {
+      "titre": "20 ans de l'UTMB - 30 août - Au coeur de la semaine UTMB",
+      "date": "2023-08-31"
+    },
+    {
+      "titre": "20 ans de l'UTMB - 29 août - Au coeur de la semaine UTMB",
+      "date": "2023-08-30"
+    },
+    {
+      "titre": "20 ans de l'UTMB - 28 août - Au coeur de la semaine UTMB",
+      "date": "2023-08-29"
+    }
+  ],
+  "derniere_activite": "2023-09-04",
+  "frequence_jours": 14
 }

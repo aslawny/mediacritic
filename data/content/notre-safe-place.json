@@ -25,7 +25,7 @@
     "education"
   ],
   "addedAt": "2026-07-06",
-  "updatedAt": "2026-09-13",
+  "updatedAt": "2026-09-16",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-06",
@@ -47,5 +47,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "SEPTEMBRE RESET : Deviens la meilleure version de toi avant 2027",
+      "date": "2026-09-06"
+    },
+    {
+      "titre": "Disparais, travaille sur tes objectifs et choque-les tous",
+      "date": "2026-07-21"
+    },
+    {
+      "titre": "Al Mujib - Allah Répond à toutes tes duaas",
+      "date": "2026-07-05"
+    },
+    {
+      "titre": "Al Wadud - augmente ton amour pour Allah",
+      "date": "2026-05-31"
+    },
+    {
+      "titre": "Le guide ultime pour glow up en 2025 : routine, islam, santé, beauté, argent...",
+      "date": "2025-01-20"
+    }
+  ],
+  "derniere_activite": "2026-09-06",
+  "frequence_jours": 16
 }

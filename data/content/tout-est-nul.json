@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/tout-est-nul/id1585562023?uo=4",
       "trackId": 1585562023,
       "rating": 4.5,
-      "ratingCount": 242,
+      "ratingCount": 244,
       "episodeCount": 53
     }
   },
@@ -24,5 +24,27 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-09-16",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

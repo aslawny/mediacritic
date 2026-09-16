@@ -26,5 +26,25 @@
     "culture"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mosthelpful",
+    "releve": "2026-09-16",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Leo enaff",
+        "titre": "Parfait :)",
+        "texte": "Et j’ose même dire que c’est tip top! Bravo à toute l’équipe d’Antenne 2 :p"
+      },
+      {
+        "note": 5,
+        "auteur": "MiniKim_BD",
+        "titre": "Podcast passionnant",
+        "texte": "À recommander à toute personne qui s’intéresse à l’écriture de scénario."
+      }
+    ]
+  }
 }

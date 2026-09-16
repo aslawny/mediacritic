@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/sumimasen-turbo/id1663668908?uo=4",
       "trackId": 1663668908,
       "rating": 5.0,
-      "ratingCount": 266,
+      "ratingCount": 267,
       "episodeCount": 94
     }
   },
@@ -26,5 +26,31 @@
     "gaming",
     "rétro"
   ],
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-16",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "wongchu68",
+        "titre": "Un avis comme un autre…",
+        "texte": "C’est simple depuis quelques années j’ai un jeu. Quand Mr Andreyev nous fait la promo de sa parentalité exemplaire au yeux du monde,(j’appelle ça le point-mon fils) je lève les yeux au ciel je souffle et je coupe le podcast. Parfois ça dure 2minutes après le générique.…"
+      },
+      {
+        "note": 3,
+        "auteur": "hokuto-no-Ben",
+        "titre": "On s’écarte du sujet",
+        "texte": "J’étais tres heureux de retrouver l’équipe au début mais je peine a retrouver de l’intérêt a l’emission, trop de divagations, de sujets OSEF ( Sidonie au Japon !! ) , Greg est parfois à l’ouest complet tant en présence que sur ces avis, Daniel peut se montrer aussi interessant pa…"
+      },
+      {
+        "note": 5,
+        "auteur": "FedorTMS",
+        "titre": "L’événement JV de 2023",
+        "texte": "Après des années compliqués avec gamekult que j’adorais initialement (pendant quasiment 20 ans) puis qui a lentement dérivé en raison de la présence de personnalités néfastes (certains diront perfides…) plus intéressé par le signalement de vertu que par le JV, bref je m’égare … Q…"
+      }
+    ]
+  }
 }

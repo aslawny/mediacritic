@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/la-collection-georges-lang/id896652353?uo=2",
       "trackId": 896652353,
       "rating": 4.6,
-      "ratingCount": 266,
+      "ratingCount": 267,
       "episodeCount": null
     }
   },
@@ -25,7 +25,7 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-13",
+  "updatedAt": "2026-09-16",
   "episodes_recents": [
     {
       "titre": "La Collection Soft-Rock du dimanche 6 septembre 2026",
@@ -49,5 +49,27 @@
     }
   ],
   "derniere_activite": "2026-09-05",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-09-16",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

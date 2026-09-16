@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/ouvrez-les-guillemets/id1895414154?uo=2",
       "trackId": 1895414154,
       "rating": 4.7,
-      "ratingCount": 85,
+      "ratingCount": 86,
       "episodeCount": null
     }
   },
@@ -27,5 +27,29 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-16",
+  "episodes_recents": [
+    {
+      "titre": "DÉBAT LITTÉRAIRE : François-Henri Désérable, Victor Dumiot",
+      "date": "2026-09-13"
+    },
+    {
+      "titre": "DÉBAT LITTÉRAIRE : Douglas Kennedy, Laetitia Colombani, Annie Ernaux",
+      "date": "2026-07-05"
+    },
+    {
+      "titre": "cycle 1 : l'absurde d’Albert Camus par le goat Ramsès Parent",
+      "date": "2026-06-28"
+    },
+    {
+      "titre": "DÉBAT LITTÉRAIRE : Michaël Dichter, Jacqueline Harpman, Herman Hesse",
+      "date": "2026-06-21"
+    },
+    {
+      "titre": "Quatre romans pour survivre à l'avenir",
+      "date": "2026-06-13"
+    }
+  ],
+  "derniere_activite": "2026-09-13",
+  "frequence_jours": 7
 }

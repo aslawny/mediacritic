@@ -27,5 +27,31 @@
     "culture"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-16",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "alicenewton",
+        "titre": "Du petit lait dans les oreilles (ne tentez pas ça chez vous)",
+        "texte": "Bon, j'ai quelques petits points pour justifier mes 5 étoiles, même si c'est long vous allez kiffer. C'est à la fois un podcast pose-cerveau (genre pour faire le ménage) et à la fois y a des ptites connaissances balancées par ci, par là pour montrer que quand même vous êtes pas d…"
+      },
+      {
+        "note": 1,
+        "auteur": "SaitoChizue",
+        "titre": "Dispensable",
+        "texte": "Contenu que l’on peut entendre partout, fait par une équipe de glands."
+      },
+      {
+        "note": 5,
+        "auteur": "Oliv Wood",
+        "titre": "Je vous aime tous",
+        "texte": "La critique et l’humour sont subjectifs, et je vois dans certains commentaires que ça ne plaît pas à tout le monde. Alors oui, parfois les avis et les blagues des membres de ce podcast peuvent choquer. Mais c’est ce que j’apprécie.…"
+      }
+    ]
+  }
 }

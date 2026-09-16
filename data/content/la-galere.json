@@ -25,7 +25,7 @@
     "entrepreneuriat"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-13",
+  "updatedAt": "2026-09-16",
   "episodes_recents": [
     {
       "titre": "Matthieu Burin – Hemea : 10 ans de construction, 5000 chantiers, 15M€ levés, et une marketplace que personne n",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-06-17",
-  "frequence_jours": 43
+  "frequence_jours": 43,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-16",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "sandor47",
+        "titre": "Merci et bravo",
+        "texte": "Ce postcast est très intéressant et leur aventure est très enrichissante. Je retiens qu’au travers leurs expériences, il faut oser et se lancer! Bravo à ces entrepreneurs qui ont su prendre des risques et surtout nous donner envie d’en prendre …"
+      },
+      {
+        "note": 5,
+        "auteur": "cng-n",
+        "titre": "Une belle découverte !",
+        "texte": "Je viens de tomber sur ce podcast d’abord avec l’épisode sur Heetch et ensuite celui avec Jean-David Benichou. J’ai beaucoup apprécié le ton du podcast, la façon dont les personnes qui interrogent les invités mènent l’échange et arrive à bien cadencer pour que nous puissions comp…"
+      },
+      {
+        "note": 5,
+        "auteur": "PanniDit",
+        "titre": "Super intéressant",
+        "texte": "C’est comme avoir un échange privilégier avec plein d’entrepreneurs différents. C’est aussi la pertinence des questions qui donne l’impression du one to one, c’est celles que tu aurais envie de poser si tu les avais en face de toi.…"
+      }
+    ]
+  }
 }

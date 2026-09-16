@@ -23,7 +23,7 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-13",
+  "updatedAt": "2026-09-16",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-10",
@@ -45,5 +45,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "[CLÉ DE VIE] - La liberté selon Christophe Galfard",
+      "date": "2026-09-16"
+    },
+    {
+      "titre": "\"Comprendre les mystères de l’Univers\" avec Christophe Galfard",
+      "date": "2026-09-14"
+    },
+    {
+      "titre": "[EXTRAIT] - Interview de Maud Ventura",
+      "date": "2026-09-07"
+    },
+    {
+      "titre": "[CLÉ DE VIE] - La liberté selon Maud Ventura",
+      "date": "2026-09-02"
+    },
+    {
+      "titre": "\"Trouver son bonheur dans le contraire de la liberté\" avec Maud Ventura",
+      "date": "2026-08-31"
+    }
+  ],
+  "derniere_activite": "2026-09-16",
+  "frequence_jours": 5
 }

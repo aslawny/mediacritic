@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/l%C3%A9vangile-au-jour-le-jour-commentaires-quotidiens/id1738682647?uo=2",
       "trackId": 1738682647,
       "rating": 4.9,
-      "ratingCount": 272,
+      "ratingCount": 275,
       "episodeCount": null
     }
   },
@@ -27,7 +27,7 @@
     "vulgarisation"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-13",
+  "updatedAt": "2026-09-16",
   "episodes_recents": [
     {
       "titre": "Nativité de la Bienheureuse Vierge Marie • mardi 08 septembre • Lecture & commentaire",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-08",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-16",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Cédricandrea",
+        "titre": "Lumière quotidienne de l’évangile",
+        "texte": "Rien de mieux que de commencer sa journée avec une méditation d’évangile inspirante et équilibré entre catéchisme débutant et plus avancé sur certaines lectures. Merci pour cette dose d’esprit saint partagé au quotidien mon père. Ad majorem dei gloriam !"
+      },
+      {
+        "note": 5,
+        "auteur": "AngBo5",
+        "titre": "Merci !",
+        "texte": "Merci pour ce podcast, c’est un plaisir à chaque écoute et j’adore le moment du commentaire qui ouvre une porte dans la réflexion. Grace à vous, je me rapproche de notre Créateur et je comprends mieux le rôle et l’importance de Jésus dans notre chemin."
+      },
+      {
+        "note": 5,
+        "auteur": "DenisTheLion",
+        "titre": "Merci Frère Paul Adrien",
+        "texte": "Merci à vous de m’accompagner, sans le savoir, dans mon initiation à la foi. Depuis maintenant une année je vous écoute tous les jours avec plaisir. Continuez cet apostolat moderne, il porte ses fruits. Je prie pour vous."
+      }
+    ]
+  }
 }

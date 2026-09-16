@@ -24,5 +24,51 @@
     "comedie"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-09-16",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "37. il demande le divorce à ses parents, et c’est okay",
+      "date": "2026-07-29"
+    },
+    {
+      "titre": "36. tutoriel : se faire chier dessus par son idole",
+      "date": "2026-05-21"
+    },
+    {
+      "titre": "35. comment dire à son partenaire qu’il pue du cul [spécial conseils relationnels]",
+      "date": "2026-01-27"
+    },
+    {
+      "titre": "34. 4 mariages pour 1 lune de merde",
+      "date": "2025-11-17"
+    },
+    {
+      "titre": "33. le vrai visage des stars : Gilles Bouleau m’a vu chier",
+      "date": "2025-09-16"
+    }
+  ],
+  "derniere_activite": "2026-07-29",
+  "frequence_jours": 36
 }

@@ -24,7 +24,7 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-13",
+  "updatedAt": "2026-09-16",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-12",
@@ -46,5 +46,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Rencontres économiques d'Aix : défilé des candidats à l'élection présidentielle, que proposent-ils en matière ",
+      "date": "2026-07-02"
+    },
+    {
+      "titre": "Crise du pouvoir d'achat : quelles conséquences sur les vacances des Français ?",
+      "date": "2026-07-01"
+    },
+    {
+      "titre": "Coupe du monde : les choses sérieuses commencent pour les Bleus",
+      "date": "2026-06-30"
+    },
+    {
+      "titre": "Au moins 1.000 morts de la canicule : où a-t-on failli ?",
+      "date": "2026-06-29"
+    },
+    {
+      "titre": "Congé climatique, droit de retrait, tenue décontractée... Faut-il - et comment - adapter le droit du travail d",
+      "date": "2026-06-25"
+    }
+  ],
+  "derniere_activite": "2026-07-02",
+  "frequence_jours": 1
 }

@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/oser-briller/id1736715652?uo=2",
       "trackId": 1736715652,
       "rating": 5.0,
-      "ratingCount": 1,
+      "ratingCount": 2,
       "episodeCount": null
     }
   },
@@ -25,5 +25,29 @@
     "bien-etre"
   ],
   "addedAt": "2026-09-14",
-  "updatedAt": "2026-09-14"
+  "updatedAt": "2026-09-16",
+  "episodes_recents": [
+    {
+      "titre": "Tu ne seras jamais prête - ep 01",
+      "date": "2026-09-13"
+    },
+    {
+      "titre": "#7 - Manon : de la Corée du sud au Japon, le voyage qui a changé sa vie",
+      "date": "2024-05-22"
+    },
+    {
+      "titre": "#6 - Le blues post vacances : 3 clés pour retrouver la motivation",
+      "date": "2024-05-09"
+    },
+    {
+      "titre": "#5 - 5 raisons de commencer à voyager solo",
+      "date": "2024-04-11"
+    },
+    {
+      "titre": "#4 - Violaine : Partir 1 an en PVT en Australie",
+      "date": "2024-04-03"
+    }
+  ],
+  "derniere_activite": "2026-09-13",
+  "frequence_jours": 8
 }

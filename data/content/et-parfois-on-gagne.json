@@ -14,7 +14,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/et-parfois-on-gagne/id1837649771?uo=2",
       "trackId": 1837649771,
       "rating": 4.8,
-      "ratingCount": 242,
+      "ratingCount": 245,
       "episodeCount": null
     }
   },
@@ -23,7 +23,7 @@
     "histoire"
   ],
   "addedAt": "2026-09-08",
-  "updatedAt": "2026-09-13",
+  "updatedAt": "2026-09-16",
   "episodes_recents": [
     {
       "titre": "France : Comment renverser la monarchie absolue (quand on n'a aucun pouvoir)",
@@ -47,5 +47,27 @@
     }
   ],
   "derniere_activite": "2026-06-17",
-  "frequence_jours": 27
+  "frequence_jours": 27,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-09-16",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/il-%C3%A9tait-une-premi%C3%A8re-fois-le-podcast-dhistoires/id1689015821?uo=2",
       "trackId": 1689015821,
       "rating": 4.3,
-      "ratingCount": 245,
+      "ratingCount": 246,
       "episodeCount": null
     }
   },
@@ -27,7 +27,7 @@
     "news"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-09-13",
+  "updatedAt": "2026-09-16",
   "episodes_recents": [
     {
       "titre": "Éternel éphémère",
@@ -51,5 +51,27 @@
     }
   ],
   "derniere_activite": "2026-08-26",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-09-16",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

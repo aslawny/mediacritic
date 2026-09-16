@@ -24,5 +24,31 @@
     "comedie"
   ],
   "addedAt": "2026-06-12",
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-16",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Elodie BG",
+        "titre": "Un des meilleurs comiques, vraiment drôle. MAIS les rires empêchent de suivre ce !!!",
+        "texte": "MAIS les rires couvrent les gags, on a du mal à suivre. Idem pour tous les autres comiques drôles qu’on a du mal à entendre sous les rires. coupez les micros des autres serait une bonne idée ? Je parle pas des pubs pour 2 mn de rires"
+      },
+      {
+        "note": 1,
+        "auteur": "Veryniceday",
+        "titre": "Pourquoi ces rires forcés?",
+        "texte": "J’adore l’humour de benjamin mais ne supporte plus les rires forcés du reste de l’équipe… désolé"
+      },
+      {
+        "note": 5,
+        "auteur": "Ipornito08",
+        "titre": "Coup de cœur",
+        "texte": "Hummmm l’humour qui pique, qui pue comme on l’aime , on en a le sif qui suinte. Benjamin Tranié c’est comme une bouteille de Suze, c’est degueu mais on le savoure. Et n’oubliez pas on est tous le beauf de quelqu’un."
+      }
+    ]
+  }
 }

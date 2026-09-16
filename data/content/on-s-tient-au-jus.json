@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/on-stient-au-jus/id1572421484?uo=2",
       "trackId": 1572421484,
       "rating": 4.7,
-      "ratingCount": 472,
+      "ratingCount": 473,
       "episodeCount": null
     }
   },
@@ -26,7 +26,7 @@
     "comedie"
   ],
   "addedAt": "2026-07-30",
-  "updatedAt": "2026-09-13",
+  "updatedAt": "2026-09-16",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-11",
@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "BD et masculinistes - Rencontre avec Laurie Agusti",
+      "date": "2026-01-23"
+    },
+    {
+      "titre": "Drag Race, Les yeux fermés et Mamari (Top/flop #67)",
+      "date": "2024-07-12"
+    },
+    {
+      "titre": "#67 Andréa Bescond",
+      "date": "2024-07-09"
+    },
+    {
+      "titre": "Mirion Malle et Furiosa (Top/flop #66)",
+      "date": "2024-07-04"
+    },
+    {
+      "titre": "#66 Morgan Noam",
+      "date": "2024-07-01"
+    }
+  ],
+  "derniere_activite": "2026-01-23",
+  "frequence_jours": 4
 }

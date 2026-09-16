@@ -25,5 +25,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-16",
+  "episodes_recents": [
+    {
+      "titre": "Les plus jeunes enfants sont-ils capables de ressentir des émotions face à la nature ? Rencontre avec Fanny Hu",
+      "date": "2026-07-06"
+    },
+    {
+      "titre": "Rencontre avec Michel Delmas, président des Réserves Naturelles de France",
+      "date": "2026-06-28"
+    },
+    {
+      "titre": "Des plantes pour dépolluer les sols endommagés par des munitions ? Rencontre avec Thierry Dutoit",
+      "date": "2026-06-21"
+    },
+    {
+      "titre": "Singes gibbons d'Indonésie : rencontre avec Chanee Kalaweit",
+      "date": "2026-06-14"
+    },
+    {
+      "titre": "Gendarmerie nationale : rencontre avec le général Fabrice Bouillé, commandant du Cesan",
+      "date": "2026-06-07"
+    }
+  ],
+  "derniere_activite": "2026-07-06",
+  "frequence_jours": 7
 }

@@ -27,7 +27,7 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-13",
+  "updatedAt": "2026-09-16",
   "episodes_recents": [
     {
       "titre": "La terrible chute de OnePlus",
@@ -51,5 +51,25 @@
     }
   ],
   "derniere_activite": "2026-08-27",
-  "frequence_jours": 4
+  "frequence_jours": 4,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mosthelpful",
+    "releve": "2026-09-16",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Charlie0748",
+        "titre": "C’est ce qui manquait",
+        "texte": "J’adore regarder vos vidéos et là en plus un podcast c’est vraiment cool et aussi c’est calme et j’aime vraiment qu’on peut faire quelque chose d’autre en même temps de vous écouter parler de tech! C’est aussi vraiment intéressant d’entendre de votre point de vue sur plein de suj…"
+      },
+      {
+        "note": 5,
+        "auteur": "darkysaiyan",
+        "titre": "C’est trop bien",
+        "texte": "C’est juste trop bien d écouter ça en transport en commun en plus je regarde les vidéo de Quentin sur YouTube début très longtemps."
+      }
+    ]
+  }
 }

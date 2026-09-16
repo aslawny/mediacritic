@@ -25,7 +25,7 @@
   "tags": [
     "histoire"
   ],
-  "updatedAt": "2026-09-13",
+  "updatedAt": "2026-09-16",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-08",
@@ -47,5 +47,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "le mythe des belles-soeurs",
+      "date": "2026-09-14"
+    },
+    {
+      "titre": "sommes-nous que des clichés?",
+      "date": "2026-09-10"
+    },
+    {
+      "titre": "détruisons le star system",
+      "date": "2026-09-07"
+    },
+    {
+      "titre": "politisez-vous PAR PITIÉ",
+      "date": "2026-09-03"
+    },
+    {
+      "titre": "t'as confiance en toi? w/ Dakeez",
+      "date": "2026-08-31"
+    }
+  ],
+  "derniere_activite": "2026-09-14",
+  "frequence_jours": 4
 }

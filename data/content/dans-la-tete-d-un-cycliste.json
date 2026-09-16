@@ -26,7 +26,7 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-09-13",
+  "updatedAt": "2026-09-16",
   "episodes_recents": [
     {
       "titre": "Yoann Stuck, comment integrer du cyclisme dans sa préparation running !",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-28",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-09-16",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "antoinewatelet",
+        "titre": "Génial.",
+        "texte": "Merci pour ce très chouette podcast. Je suis très grand fan de cyclisme et ça faisait longtemps que je cherchais un podcast sur le sujet. Hâte d’entendre la suite."
+      },
+      {
+        "note": 5,
+        "auteur": "Chris_cameron",
+        "titre": "Très intéressant",
+        "texte": "Excellent podcast qui permet d’élargir la connaissance liée à notre passion. Impatient d’écouter les suivants."
+      },
+      {
+        "note": 4,
+        "auteur": "Norbert Flow",
+        "titre": "Super podcast mais lourd …",
+        "texte": "Top sujets, Top interviews… mais de grâce laissez la vidéo super lourde à charger pour YouTube et réservez l’audio au podcast 😉"
+      }
+    ]
+  }
 }

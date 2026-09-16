@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/nouvelles-h%C3%A9ro%C3%AFnes-le-podcast-dhistoires-vraies-pour/id1561941208?uo=2",
       "trackId": 1561941208,
       "rating": 4.6,
-      "ratingCount": 489,
+      "ratingCount": 490,
       "episodeCount": null
     }
   },
@@ -27,7 +27,7 @@
     "famille"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-09-13",
+  "updatedAt": "2026-09-16",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-11",
@@ -49,5 +49,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "160. Chloé Carrière : elle rêvait d’être astronaute, elle est devenue ingénieure aérospatiale & vulgarisatrice",
+      "date": "2026-09-16"
+    },
+    {
+      "titre": "[COUP DE 💜 ] Dua Lipa, la fille humiliée et moquée à cause de sa voix grave devenue superstar",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "159. Lila, 14 ans, championne de robotique & Rim Boudaoud, lead developer : de la robotique à l’IA, elles imag",
+      "date": "2026-09-02"
+    },
+    {
+      "titre": "[COUP DE 💜 ] Tatiana Brillant, la fille qui était négociatrice au RAID pour sauver des vies",
+      "date": "2026-08-26"
+    },
+    {
+      "titre": "⚽️ Cœur de foot - le terrain de football t'appartient - 7/7",
+      "date": "2026-08-22"
+    }
+  ],
+  "derniere_activite": "2026-09-16",
+  "frequence_jours": 4
 }
