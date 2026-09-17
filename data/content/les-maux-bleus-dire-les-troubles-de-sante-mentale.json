@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-01-26",
-  "frequence_jours": 35
+  "frequence_jours": 35,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "E-O-L",
+        "titre": "Un podcast essentiel pour briser les tabous et soutenir les personnes concernées",
+        "texte": "Ce podcast est une véritable bouffée d'oxygène mais surtout une ressource inestimable pour quiconque s'intéresse, de près ou de loin, aux troubles mentaux. Dès les premières minutes, j'ai été frappé par le ton : à la fois profondément respectueux et incroyablement accessible.…"
+      },
+      {
+        "note": 2,
+        "auteur": "7Vivie",
+        "titre": "Le deuil",
+        "texte": "OMG Mais qui est cette personne qui ne sait pas s’exprimer sans mots grossiers ? Horrible Très déçue"
+      },
+      {
+        "note": 5,
+        "auteur": "Pauline t'encre",
+        "titre": "Merci ❤️",
+        "texte": "Je viens de perdre ma maman par suicide ce Noël. Après avoir été submergée par toutes sortes d’émotions, j’ai réussi à rassembler un peu mes idées pour mettre mon cerveau un peu plus en ordre. Et l’envie d’écouter sur le sujet.…"
+      }
+    ]
+  }
 }

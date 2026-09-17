@@ -24,5 +24,31 @@
     "sciences",
     "vulgarisation"
   ],
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Rikkoo_____",
+        "titre": "J’adore !",
+        "texte": "Podcasts abordant de nombreux sujets divers et variés, à consommer sans modération (dans les transports en commun, en voiture ou n’importe où dès qu’on a 15/20 min de dispo !) Merci à toute l’équipe, et aux intervenants forts sympathiques ! 😉"
+      },
+      {
+        "note": 1,
+        "auteur": "Rusarderenée",
+        "titre": "Pseudo sixième science",
+        "texte": "J’ai écouté l’épisode sur alimentation et cancer et les journalistes avancent des hypothèses qui ne sont absolument pas validés par la science, font des raccourcis très dangereux.…"
+      },
+      {
+        "note": 5,
+        "auteur": "MademoiselleXX",
+        "titre": "Très bonne émission de vulgarisation scientifique",
+        "texte": "Enfin une très bonne émission de vulgarisation scientifique : de très bons spécialistes, des sujets variés, concis et malgré tout bien développés. Et surtout un très bon animateur. Ne changez rien, c’est parfait, bravo et bonne continuation ."
+      }
+    ]
+  }
 }

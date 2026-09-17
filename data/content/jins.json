@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-07-09",
-  "frequence_jours": 48
+  "frequence_jours": 48,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "rapha1967",
+        "titre": "Connaissance",
+        "texte": "A une jeune personne qui se posait la question sur la connaissance des autres religions que la sienne je luis réponds que c’est plus le désir de connaissance que par comparaison. J’ai assouvi ce désir et Je le partage bien volontiers. Merci à vous et vos invité.es."
+      },
+      {
+        "note": 1,
+        "auteur": "asma_li",
+        "titre": "Dommage",
+        "texte": "Dommage d’inviter des personnes qui ne connaissent pas l’islam. Houria Abdelouahed ne connaît pas son sujet et le fantasme. Elle mélange culture et islam. En islam, à aucun moment le Prophète n’est supérieur à Dieu. Elle mélange paroles du prophète et versets coraniques.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Sam_Paul",
+        "titre": "Un podcast de qualité",
+        "texte": "Un invité de qualité (un universitaire et pas un chroniqueur), un débat sérieux et accessible qui repose sur une véritable connaissance. Bravo. On n’était pas dans une discussion de comptoir comme ce qui est le cas régulièrement dans d’autres émissions."
+      }
+    ]
+  }
 }

@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2026-09-11",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Emilie75010",
+        "titre": "Un podcast au top",
+        "texte": "Merci Jacob pour la qualité des sujets que vous traitez. Mais je suis certaines que vous pourriez faire un effort en faveur de la parité, car il n’y a que trop peu de femme (je n’en ai pas encore entendu) alors qu’il y a des milliers d’expertes sur les sujets que vous traitez.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Choupinata",
+        "titre": "Il ne faut jamais perdre une occasion d’apprendre!",
+        "texte": "Que vous soyez juriste ou aspiriez à le devenir, ou même encore pour votre culture personnelle, ne ratez pas l’occasion de vous cultiver, de découvrir ou redécouvrir des thèmes d’actualité et avec de réelles problématiques.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Lucas Dgdz",
+        "titre": "Très bon",
+        "texte": "Thèmes assez variés, s’écoute facilement. Les conversations ne sont pas très naturelles, à la manière d’un colloque mais personnellement ça me va très bien. On ne peut faire des sujets aussi compliqués sans préparation."
+      }
+    ]
+  }
 }

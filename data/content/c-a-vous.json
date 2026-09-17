@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-07-12",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "smek73",
+        "titre": "Traduction des interviews en langue étrangère",
+        "texte": "Bonjour. Je suis un grand fan de votre émission. Cependant, je n’ai pas la possibilité de la regarder en direct. Du coup je l’écoute dans la voiture tous les jours. Serait-il possible de traduire vos reportages et interviews en langue étrangère, s’il vous plaît …"
+      },
+      {
+        "note": 1,
+        "auteur": "Coca 12",
+        "titre": "Ras le bol de cette équipe",
+        "texte": "Non pas encore . Mme Lemoine avec son rire idiot et les moqueries inappropriées des deux jeunes ."
+      },
+      {
+        "note": 5,
+        "auteur": "Nodesign",
+        "titre": "Service publique pour tous",
+        "texte": "Contrairement a CceSoir vraiment militant, on retrouve ici un esprit de concorde, curiosité et de decouverte . Patrick Cohen est brillant.. ses analyses fines … Pierre Lescure, indispensable et B Chameroy drole, mathieu Beillard attachant et Mohamed Bouafsi petillant …!"
+      }
+    ]
+  }
 }

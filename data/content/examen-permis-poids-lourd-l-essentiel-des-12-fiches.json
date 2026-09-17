@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2019-10-14",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Enirep",
+        "titre": "Super support pour le permis C",
+        "texte": "Plateau obtenu en partie grâce à ce podcast qui résume bien les 12 fiches. Attention petite erreur dans la fiche 8: sur le risque d’accidents si cannabis + alcool x 14 et non x 29!"
+      },
+      {
+        "note": 5,
+        "auteur": "Fredinho93",
+        "titre": "Top",
+        "texte": "En partant le matin je mettais les fiches en audio. Serieux ca rentre tout seul, j’ai réussis mon plateau grâce au fiche audio. Merci"
+      },
+      {
+        "note": 5,
+        "auteur": "sspaari",
+        "titre": "Plateau",
+        "texte": "J’ai obtenue mon plateau ce jour en partie grâce à vous 😃 résumé de qualité 👍"
+      }
+    ]
+  }
 }

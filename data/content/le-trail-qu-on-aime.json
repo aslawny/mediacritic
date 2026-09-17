@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-09-03",
-  "frequence_jours": 13
+  "frequence_jours": 13,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Camille888888888888888",
+        "titre": "Au top.",
+        "texte": "Très très impressionnant mais surtout appréciable le niveau des points de vu, connaissances et argumentaires. En plus de ça dans une diversité de domaines larges.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Laurent87600",
+        "titre": "Ça glisse …",
+        "texte": "Le podcast avait quelque chose de rafraîchissant à ses débuts, mais j’ai l’impression que ça glisse pas à pas vers de la frustration bourré de jugement passif-agressif sous couverture de belles valeurs et de moraline. Dommage pour l’esprit de départ."
+      },
+      {
+        "note": 5,
+        "auteur": "Maxou941",
+        "titre": "Dommage, j’arrête d’écouter…",
+        "texte": "J’écoutais ce podcast avec plaisir pour le contenu trail, mais je me désabonne à regret. L’un des hôtes, Mathieu Delpeuch, prend trop souvent la parole pour faire la morale sur l’écologie, avec des positions que je trouve plus idéologiques que constructives et parfois même incohé…"
+      }
+    ]
+  }
 }

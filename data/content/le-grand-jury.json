@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-06",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Daphiy",
+        "titre": "Interview de Michel Barbier",
+        "texte": "Bravo pour l’émission de ce jour ; elle m’a donné une impression très favorable de Michel Barnier, j’espère qu’il se présentera à la Présidentielle et dans ce cas je voterai pour lui ; j’espère que vous le réinviterez. Danielle"
+      },
+      {
+        "note": 1,
+        "auteur": "jackpote",
+        "titre": "Pas de grand jury ?",
+        "texte": "On est mardi & il y a toujours rien sur le rangerais de dimanche dernier"
+      },
+      {
+        "note": 5,
+        "auteur": "an'o'nyme",
+        "titre": "Exellent Podcast",
+        "texte": "Pour les t... Du c.. Qui disent que Europe 1 et RMC mettent en ligne tout de suite après l'émission, qui arrêtent de dire des conneries puis on verra après"
+      }
+    ]
+  }
 }

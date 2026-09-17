@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-15",
-  "frequence_jours": 2
+  "frequence_jours": 2,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Thib1971",
+        "titre": "Hyper utile",
+        "texte": "Le meilleur podcast que je connaisse avec les autres petits frères de la même « famille »: Baleine sous la navire : une encyclopédie amoureuse et hyper bien racontée des espèces, du plus rares et méconnues aux plus connues, avec des infos rares et précieuses.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Aliceortolan",
+        "titre": "Hyper intéressant",
+        "texte": "Ces podcasts sont les plus beaux que je connaisse sur le vivant: Baleine sous gravillon, qui raconte les espèces et leur secrets leurs comportements. Nomen le plus culturel de la bande, qui explique l’origine du nom des espèces.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Emilie_H",
+        "titre": "On adore",
+        "texte": "Ce podcast est une petite pépite. Il permet des découvertes et des réflexions tout en élargissant notre horizon de réflexion. Chaque épisode nous rappelle que, petits humains que nous sommes, nous faisons partie de la grande équipe du vivant et que ce serait super si on prenait u…"
+      }
+    ]
+  }
 }

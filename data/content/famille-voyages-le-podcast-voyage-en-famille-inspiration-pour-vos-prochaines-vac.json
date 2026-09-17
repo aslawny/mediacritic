@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-03",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "DaphneeB44",
+        "titre": "Que du bonheur",
+        "texte": "Bonjour, J’adore vos podcasts, le seul problème c’est qu’il me donne envie d’aller partout 😅 Votre proposition des tops 5 et vraiment top et synthétique. Nous partons à Londres fin juillet voir les studios HP et je vais m’en inspirer.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Camder82",
+        "titre": "Épisodes IA comme sur les Landes",
+        "texte": "Les épisodes faits par l’IA sont très très désagréable à écouter"
+      },
+      {
+        "note": 5,
+        "auteur": "Kakamouloxrien",
+        "titre": "En fait, tout est possible en famille !",
+        "texte": "J’ai découvert ce podcast il y a peu, pour mon plus grand plaisir ! Je dévore les épisodes les uns après les autres. J’aime la facilité des échanges, les profils variés des voyageurs, les destinations abordées….…"
+      }
+    ]
+  }
 }

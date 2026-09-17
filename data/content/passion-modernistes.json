@@ -25,5 +25,55 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Sun_a39",
+        "titre": "De l’histoire dépoussiérée !",
+        "texte": "Un excellent podcast. Des sujets variés, des angles originaux, et Fanny fait très bien son travail de journaliste pour rendre le contenu accessible mais pointu néanmoins. Je recommande ce podcast et ses deux autres à tous mes proches, avec beaucoup de succès à chaque fois.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Sosha Myla",
+        "titre": "Passionnant",
+        "texte": "Bravo pour ce travail très intéressant et enrichissant. Entre les trois podcasts je suis comblée. Un petit reproche sur l’épisode 31 de Passion Modernistes, les innombrables \"du coup\" de Merwan ont DU COUP ;-) rendu l’épisode insupportable à écouter, le seul que je n’ai pas écout…"
+      },
+      {
+        "note": 5,
+        "auteur": "Fukushima Kamacrazy Warboy",
+        "titre": "Passionnant !",
+        "texte": "Après avoir découvert Passion médiéviste, et dévoré en un peu plus d’un mois cette référence médiéviste - je marche beaucoup - je me lance dans l’époque moderne, toujours aussi bien accompagné …"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "Épisode 48 – Carla et les collectionneuses au XVIIIème siècle (Passion Modernistes)",
+      "date": "2026-05-29"
+    },
+    {
+      "titre": "Bonus du hors-série 5 de Passion Modernistes",
+      "date": "2026-03-15"
+    },
+    {
+      "titre": "Hors-série 5 – Hubert Robert et Fragonard au Musée de Valence",
+      "date": "2026-03-13"
+    },
+    {
+      "titre": "Super Joute Modernistes #3 – Les rois du XVIIème siècle (partie 1)",
+      "date": "2026-02-27"
+    },
+    {
+      "titre": "Épisode 47 – Geoffrey et la cartographie au XVIIème siècle (Passion Modernistes)",
+      "date": "2026-01-15"
+    }
+  ],
+  "derniere_activite": "2026-05-29",
+  "frequence_jours": 59
 }

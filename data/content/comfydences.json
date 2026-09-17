@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-07-20",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Aly.mlt",
+        "titre": "Merci 🙏🏼",
+        "texte": "Franchement je n’ai jamais compris pourquoi les gens aimaient écouter des gens parler, jusqu’à aujourd’hui, je me suis laissé tenter, après tout il ne faut pas mourir bête.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Lila.s26",
+        "titre": "Merci !",
+        "texte": "Coucou Elise, j’ai voulu mettre un commentaire suite à ton dernier épisode « les raisons pour lesquelles tu ne peux pas être jaloux de moi » sache que je corresponds à tous les points que tu as mentionné, et le fait que tu en parles de manière aussi libre m’aide beaucoup car on a…"
+      },
+      {
+        "note": 5,
+        "auteur": "la_libellule",
+        "titre": "🤩",
+        "texte": "Le podcast sur la confiance en soi et le regard des autres, est mon préféré. Il est vraiment top à écouter. Élise nous apporte de nombreux conseils inspirants !! Je vous conseille de l’écouter ;) Merci Élise pour ce partage.…"
+      }
+    ]
+  }
 }

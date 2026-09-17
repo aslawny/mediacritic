@@ -42,5 +42,31 @@
     }
   ],
   "derniere_activite": "2025-07-30",
-  "frequence_jours": 33
+  "frequence_jours": 33,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Gatotto",
+        "titre": "Bravo à toute l’équipe",
+        "texte": "Je suis tombée sur ce podcast tout à fait par hasard…enfin presque : je l’ai aperçu sur la page d’accueil de l’appli, et je n’ai pas pu m’empêcher de cliquer sur cette cover hilarante (franchement bravo), qui m’a rappelé quelques lointains souvenirs !! J’ai bien fait de m’être la…"
+      },
+      {
+        "note": 1,
+        "auteur": "Sebteo0307",
+        "titre": "Affligeant",
+        "texte": "J’ai arrêté au bout de 10 min d’écoute. C’est vraiment pas pour moi."
+      },
+      {
+        "note": 5,
+        "auteur": "Anne-Snow",
+        "titre": "Quel retour",
+        "texte": "Fervente auditrice de 2 heures de perdues je retrouve avec plaisir le duo Antoine et Djédjé… sans surprise c’est toujours aussi drôle. Un grand merci aussi à Nico, Laura et Agathe, cette fine équipe m’a fait découvrir le jeu de rôle de la meilleure manière et tous ont incarné des…"
+      }
+    ]
+  }
 }

@@ -27,5 +27,31 @@
     "culture"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "alphonsinette",
+        "titre": "Merci !",
+        "texte": "Une histoire pour s'endormir, ça fait toujours plaisir, merci beaucoup :-) Personnellement je préfère cette version à celle de Somnifère (même lecteur), dont j'ai fait le tour des séances de relaxation et dont la voix qui dit les intertitres est difficilement supportable.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Difdor",
+        "titre": "Money",
+        "texte": "Oh yeah ! Pubs américaines bien fortes, nasillardes, rapides et stressantes au début et à la fin auxquelles on ne comprend rien, c’est bien pour encadrer la belle littérature française ! Cher lecteur !"
+      },
+      {
+        "note": 5,
+        "auteur": "Momo Ham",
+        "titre": "Super calme et agréable",
+        "texte": "De loin, la voix la plus agréable de trouver en podcast. Une voix douce et calme, très agréable à écouter. Pas si simple de bien lire à haute voix dans un micro. Lecture impeccable, avec le respect des styles et des ponctuation. Souvent trop court, malheureusement.…"
+      }
+    ]
+  }
 }

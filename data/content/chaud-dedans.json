@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-08-19",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Rodami81",
+        "titre": "Merci pour ces informations qui manquent cruellement",
+        "texte": "Bonjour et bonne année a vous et a Chaud devant. Je viens de vous découvrir aujourd’hui et j’ai deja tout dévorée :). Je n’ai pas encore 45 ans mais depuis 2 ans mon syndrome prémenstruel reviens au galop, comme par hazard après l’arrêt de la pilule… Cela fait beaucoup de bien de…"
+      },
+      {
+        "note": 1,
+        "auteur": "rad_mere",
+        "titre": "Dr Linet est un mauvais casting : il prescrit de la testostérone à des jeunes filles hors AMM",
+        "texte": "Quelle violence pour les femmes: demander à ce Dr qui est une femme trans de nous conseiller sur un traitement hormonal ou alternatif. Ce Dr est connu sur la place de paris pour prescrire de la testostérone aux jeunes filles vulnérables et qui ne se sentant pas en phase avec leur…"
+      },
+      {
+        "note": 5,
+        "auteur": "Mag 42",
+        "titre": "Bravo !!",
+        "texte": "Bonjour Claire, j’ai découvert votre Podcast il y a 1 mois. J’adore tous vos épisodes !! C’est un sujet quasi tabou. J’ai appris beaucoup de choses sur la ménopause qui vont m’ aidé à appréhender de façon plus détendue la pré-ménopause qui va bientôt me concerner.…"
+      }
+    ]
+  }
 }

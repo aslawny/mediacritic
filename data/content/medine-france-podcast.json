@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2023-05-29",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Adeline.alm",
+        "titre": "Un échange très inspirant",
+        "texte": "Ce jeu de rôle est passionnant, les échanges qu’on a pu entendre jusqu’à présent permettent de découvrir Médine et ses invités sous un regard différent que sur scène ! Un vrai plaisir à écouter, bravo à l’équipe pour ce travail …"
+      },
+      {
+        "note": 1,
+        "auteur": "wysperrrr",
+        "titre": "Décevant et prévisible",
+        "texte": "Encore un podcast qui donne la parole à ceux qui l’ont déjà (trop) et qui ne la méritent pas."
+      },
+      {
+        "note": 5,
+        "auteur": "Tonio-88",
+        "titre": "À faire découvrir",
+        "texte": "Podcasts très agréable à écouter et instructifs. La diversité des invités et la présentation de Médine rend ce Podcast vraiment très intéressant.…"
+      }
+    ]
+  }
 }

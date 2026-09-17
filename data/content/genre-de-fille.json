@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2024-09-24",
-  "frequence_jours": 5
+  "frequence_jours": 5,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "SarahSarah75",
+        "titre": "Merci pour ce moment",
+        "texte": "Merci Anne Laure Baratin de m’avoir reçue dans ton podcast « Genre de fille ». On a parlé de choses intimes assez naturellement grâce à ta bienveillance.…"
+      },
+      {
+        "note": 1,
+        "auteur": "jemappelleHélène",
+        "titre": "Les valeurs de Lili Barbery-Coulon",
+        "texte": "Tout d’abord merci pour votre podcast. J’ai découvert le Kundalini un peu avant le confinement l’ai pratiqué avec Lili Barbery-Coulon et j’ai surtout fait l’expérience d’une retraite en Corse avec elle en novembre 2021.…"
+      },
+      {
+        "note": 5,
+        "auteur": "perrine.paran",
+        "titre": "Un podcast à écouter et ré-écouter",
+        "texte": "Merci Anne-Laure pour tes partages, ce podcast est une mine d’inspirations pour moi. Dernière en date, l’interview d’Axelle Tessandier, une discussion franche et profonde comme d’habitude. Cela m’a tellement parlé …"
+      }
+    ]
+  }
 }

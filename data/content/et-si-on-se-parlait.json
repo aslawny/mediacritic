@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2021-11-18",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "HeyClaire!",
+        "titre": "Indispensable à tous les parents bienveillants",
+        "texte": "Des sujets variés mais toujours très à propos dans nos vies de parents, parfois pleine de doutes. Une bienveillance et du partage qui font extrêmement du bien. Des experts de qualité qui apportent des outils très concrets.…"
+      },
+      {
+        "note": 1,
+        "auteur": "zazaGS",
+        "titre": "…",
+        "texte": "Je trouve que c’est à nous parents de dire ou de juger quand et comment parler à nos enfants. L’écouter oui mais pas directement à nos enfants…"
+      },
+      {
+        "note": 5,
+        "auteur": "MLI83¨¨",
+        "titre": "Très complet !",
+        "texte": "C’est sans doute l’épisode le plus efficace, précis et complet écouté sur l’hypersensibilité (vaste sujet) des enfants, des parents mais surtout sur les solutions données au quotidien pour égarer toutes ces émotions. Merci de nous aider concrètement et bravo !"
+      }
+    ]
+  }
 }

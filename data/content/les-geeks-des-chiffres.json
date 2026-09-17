@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-09-10",
-  "frequence_jours": 4
+  "frequence_jours": 4,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Kn@@rf",
+        "titre": "Au top 👌",
+        "texte": "J’écoute ce podcast depuis ses débuts : Inspirant, dynamique, passionnant, sérieux mais détendu, réflexions de fonds. Tu aimes les métiers du chiffre, la compta Tech et tout cet univers …"
+      },
+      {
+        "note": 1,
+        "auteur": "Runner de lyon",
+        "titre": "Usant",
+        "texte": "« Masterclass »… à force de le répéter, tout devient une « masterclass » même quand on parle de banalités. C’est dommage car le reste est bon, mais cette fausse hype est usante à écouter."
+      },
+      {
+        "note": 5,
+        "auteur": "2nise",
+        "titre": "Qualité au rendez-vous",
+        "texte": "J'ai fais la connaissance de la chaine YouTube de Les Geeks des Chiffres au détour d'une formation. J'ai pu valider le titre que je visais grâce à leurs cours en ligne. Je me suis abonnée aux podcasts. Nicolas Piatkowski donne la parole à des invités passionnants."
+      }
+    ]
+  }
 }

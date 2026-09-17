@@ -26,5 +26,31 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "cam9333",
+        "titre": "Podcast inspirant",
+        "texte": "Quel bonheur de pouvoir écouter tous ses danseurs pleins de vies en quête de nouvelle aventure, de scène, d’expériences et de renouveau. Ça donne envie de les suivre le temps d’une barre, d’une arabesque, d’un show..…"
+      },
+      {
+        "note": 3,
+        "auteur": "Cléash",
+        "titre": "Problème de mixage",
+        "texte": "Les personnes interviewées sont très intéressantes. Mais il y a des problèmes mixage : le son est tour à tour très fort ou très bas. Et la personne qui interview ne laisse pas le temps aux pauses, au silence. Quel dommage!"
+      },
+      {
+        "note": 5,
+        "auteur": "chrisvenasque",
+        "titre": "Podcast 5 étoiles",
+        "texte": "Des interviews passionnantes menées par une passionnée ! Je les écoute avec bonheur pendant mes trajets en voiture et découvre des acteurs amoureux de la danse.…"
+      }
+    ]
+  }
 }

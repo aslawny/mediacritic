@@ -26,5 +26,29 @@
     "psychologie"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-05-20"
+  "updatedAt": "2026-05-20",
+  "episodes_recents": [
+    {
+      "titre": "La dépression",
+      "date": "2021-05-01"
+    },
+    {
+      "titre": "Stress, anxiété et angoisse",
+      "date": "2021-04-17"
+    },
+    {
+      "titre": "Le TSA",
+      "date": "2021-04-03"
+    },
+    {
+      "titre": "Le narcissisme",
+      "date": "2021-03-20"
+    },
+    {
+      "titre": "Les TOC",
+      "date": "2021-03-06"
+    }
+  ],
+  "derniere_activite": "2021-05-01",
+  "frequence_jours": 14
 }

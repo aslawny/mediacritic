@@ -26,5 +26,31 @@
     "business"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Jeannibiche",
+        "titre": "Inspiration, pragmatisme et good tips !",
+        "texte": "Découverte du printemps, les jeunes branches, c’est le blog des entrepreneurs, intrapreneurs, managers où l’on trouve des retours d’expériences inspirants, des tips et des conseils très utiles et vraiment malins.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Sarah_frcs",
+        "titre": "Tellement riche d’apprentissages",
+        "texte": "À chaque épisode, j’apprends ! C’est rare là où je trouve que d’autres émissions peuvent tourner en rond… et bien bravo pour ce podcast qui amène un vent de fraîcheur ! J’admire le fait qu’on arrive ici à allier « temps long » et conseils activables"
+      },
+      {
+        "note": 5,
+        "auteur": "TichN",
+        "titre": "Des pépites sur le marketing/growth",
+        "texte": "Trop cool ce podcast ! J’ai essayé pas mal d’autres podcasts business ou marketing sans vraiment en tirer grand choses.. Autant avec les jeunes pousses je repars à chaque fois avec des bons outils/conseils/methedos et ça c’est tooop ! Merci :)"
+      }
+    ]
+  }
 }

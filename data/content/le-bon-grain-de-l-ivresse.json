@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-08-25",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "rsalambe",
+        "titre": "Extrêmement instructif et positif",
+        "texte": "L’échange avec les vigneron(ne)s est toujours très intéressant lorsque l’on veut aller au delà de la pure dégustation. Ce podcast, avec des sessions suffisamment longues pour laisser les professionnels s’exprimer, nous permet de découvrir quand on n’a pas nécessairement le temps…"
+      },
+      {
+        "note": 5,
+        "auteur": "grancoihhshhh",
+        "titre": "Comme si vous y étiez",
+        "texte": "Des immersions totales dans les domaines viticoles. On a les bruits des parcelles et des chais, on peut presque sentir les odeurs de raisin pressé, et entendre le vent dans les vignes.…"
+      },
+      {
+        "note": 5,
+        "auteur": "tuturw7",
+        "titre": "Un podcast vin d’émotion et de précision!",
+        "texte": "Un grand bravo aux producteurs de ce podcast qui reçoivent des invités de marque sur des formats inventifs : c’est à la fois pédagogique, rythmé, jouissif et émotionnel! Il m’arrive parfois même de réécouter les épisodes! Merci beaucoup pour votre travail et de mettre en lumière…"
+      }
+    ]
+  }
 }

@@ -25,5 +25,31 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Cat. kars",
+        "titre": "Denis Lavant",
+        "texte": "Vous dire que j'aime Denis Lavant, est trop faible....il m'envoûte, m'enchante et je fonds de délices. Sa voix, son sourire, sa gestuelle, lui dans sa belle intégrité.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Drogue dure",
+        "titre": "Marie Hélène Lafon",
+        "texte": "Je viens d’écouter son passage à Masterclasses. J’ai une fois de plus adoré. Je l’ai découverte. Elle est drôle , intéressante. Bravo à l’intervieweuse. Et la conclusion si vous voulez écrire “faites les gestes” est très vraie.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Andree-Marcelle",
+        "titre": "Formidable émission, juste une demande à formuler",
+        "texte": "J’adore vos masterclasses et j'essaye de toutes les écouter. Toutefois je n’arrive pas à distinguer les inédits des rediffusions (qui perdent de leur actualité à défaut de leur intérêt).…"
+      }
+    ]
+  }
 }

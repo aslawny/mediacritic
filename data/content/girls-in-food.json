@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2023-07-16",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "marko_hr",
+        "titre": "À écouter de toute urgence",
+        "texte": "Excellent concept, excellente réalisation ! Le choix des invitées, les questions, la discussion, tout est passionnant. On découvre énormément sur la gastronomie à travers ces expériences et le point de vue des femmes interviwées.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Djee Dc",
+        "titre": "Excellente émission mais..",
+        "texte": "Énorme problème de son. Le volume est extrêmement bas en comparaison avec tous les autres podcasts que j’écoute (avec le même appareil, ceci ne vient donc du matériel dont je me sers). C’est dommage.…"
+      },
+      {
+        "note": 5,
+        "auteur": "bertichoux",
+        "titre": "Merci",
+        "texte": "Vraiment merci pour ces podcasts super intéressants et très représentatifs des intervenants et acteurs tout autour de notre magnifique métier Je ne m’arrête plus de vous écouter J’ai moi même un établissement de cuisine à emporter et suis cheffe de cuisine .…"
+      }
+    ]
+  }
 }

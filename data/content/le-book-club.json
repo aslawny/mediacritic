@@ -26,5 +26,31 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "LeedeLyon",
+        "titre": "Pur régal !",
+        "texte": "Découverte aujourd’hui, cette émission me ravit complètement ! Quelle façon intimement brillante d’aborder la littérature ! Je m’abonne immédiatement aux podcast …"
+      },
+      {
+        "note": 1,
+        "auteur": "tticar",
+        "titre": "Marie Richeux",
+        "texte": "J’apprécie le book club; pourtant j’ai très mal ressenti les échanges sur la nouvelle traduction de \"La Mort à Venise\". Marie Richeux a été déplaisante et tendue avec l’invitée. Ne prenant pas le temps d’entrer dans son analyse très aboutie."
+      },
+      {
+        "note": 5,
+        "auteur": "lexlelou",
+        "titre": "Les hasards de la vie",
+        "texte": "C'est complètement par hasard que je découvre ce podcast mais aussi ma cop's du lycée !!!! Marie !!! J'adore! Bisou si jamais tu lis ce commentaire"
+      }
+    ]
+  }
 }

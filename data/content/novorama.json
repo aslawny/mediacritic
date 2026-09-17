@@ -1,0 +1,51 @@
+{
+  "slug": "novorama",
+  "title": "Novorama",
+  "author": "Novorama",
+  "type": "podcast",
+  "categories": [
+    "musique"
+  ],
+  "description": "Chaque dimanche de 23h à minuit Chaque semaine une sélection de nouveaux albums indie rock, pop électro avec des chroniques + une interview d'un groupe ou artiste émergent. A retrouver également sur le webzine du même nom : novorama.com",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b2/3e/df/b23edf5c-67f7-cdc3-e150-9b5cf2e7f258/mza_5366048508171656371.jpg/170x170bb.png",
+  "language": "fr-fr",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/novorama/id395512880?uo=2",
+      "trackId": 395512880,
+      "rating": null,
+      "ratingCount": null,
+      "episodeCount": null
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "musique"
+  ],
+  "addedAt": "2026-09-17",
+  "updatedAt": "2026-09-17",
+  "episodes_recents": [
+    {
+      "titre": "Novorama 14 sept 2026 - Nouveautés Été 2026 (2eme partie)",
+      "date": "2026-09-14"
+    },
+    {
+      "titre": "Novorama 7 sept 2026 - Nouveautés Été 2026 (1ere partie)",
+      "date": "2026-09-07"
+    },
+    {
+      "titre": "Retrospective Novorama 1er semestre 2026",
+      "date": "2026-06-29"
+    },
+    {
+      "titre": "Novorama du 22 juin 2026",
+      "date": "2026-06-22"
+    },
+    {
+      "titre": "Novorama du 15 juin 2026",
+      "date": "2026-06-15"
+    }
+  ],
+  "derniere_activite": "2026-09-14",
+  "frequence_jours": 7
+}

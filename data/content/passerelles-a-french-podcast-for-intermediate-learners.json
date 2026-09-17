@@ -24,5 +24,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "episodes_recents": [
+    {
+      "titre": "Arco, un film pour rêver d'un futur lumineux",
+      "date": "2026-08-29"
+    },
+    {
+      "titre": "L'IA, comment elle transforme le monde du livre ?",
+      "date": "2026-07-25"
+    },
+    {
+      "titre": "Nos journées, ce qu'on en fait et ce qu'on en retient",
+      "date": "2026-06-30"
+    },
+    {
+      "titre": "Être mère, une plongée au cœur de la maternité",
+      "date": "2026-05-30"
+    },
+    {
+      "titre": "L'amitié, un apprentissage de la liberté",
+      "date": "2026-04-26"
+    }
+  ],
+  "derniere_activite": "2026-08-29",
+  "frequence_jours": 29
 }

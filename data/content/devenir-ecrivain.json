@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-26",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "FranceBouyrou",
+        "titre": "Une pépite",
+        "texte": "Un format audio pour parler du métier de l’écriture. Un concept novateur et ingénieux dont je suis totalement fan. Reposez vos yeux abîmés par l’écran en écoutant la douce voix posée de Lucie Castel.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Viviradob",
+        "titre": "Des conseils utiles et du partage",
+        "texte": "Beaucoup d'honnêteté dans ces astuces et de partage. Merci pour ce fantastique travail."
+      },
+      {
+        "note": 5,
+        "auteur": "Furiousfab",
+        "titre": "La dose d’adrénaline pour s’y remettre !",
+        "texte": "Merci pour ces podcasts très instructifs. Mes préférés : « Les 5 erreurs.... » L’angoisse à chaque item, d’être tombé dedans.... Gain en confiance en soi quand on y a échappé.…"
+      }
+    ]
+  }
 }

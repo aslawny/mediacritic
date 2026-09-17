@@ -24,5 +24,31 @@
     "culture"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "hardbonelolo",
+        "titre": "Une pépite !",
+        "texte": "Superbe podcast à l’équilibre entre l’accessible et l’intelligent parfait, une belle réalisation qui a « scotché » toute la famille tout au long des épisodes, d’une petite de 8 ans aux grands parents.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Paul@22",
+        "titre": "Margot",
+        "texte": "Je suis désolée mais je n’ai rien compris sur les derniers épisodes il se trouve que vous parlez trop vite pour les enfants."
+      },
+      {
+        "note": 5,
+        "auteur": "Mila Y love you de Funes",
+        "titre": "I love you Amélia 💗💗💗",
+        "texte": "Bonjour je m’appelle Mila j’ai 11 ans et j’écoute beaucoup les podcasts d’Amelia. Mon préféré épisode c’est celui de la conquête de l’espace. Les voyage d’Amelia(et de Marguerite grani )m’on fait apprendre plein de choses.…"
+      }
+    ]
+  }
 }

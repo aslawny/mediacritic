@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2016-03-28",
-  "frequence_jours": 63
+  "frequence_jours": 63,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Djowood",
+        "titre": "Wahou",
+        "texte": "Alors voilà, mon premier commentaire ITunes sera pour vous =) Ayant découvert votre podcast grâce à la grotte du barbue, j'ai tout de suite adhérer.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Adamaster93799",
+        "titre": "Mouais...",
+        "texte": "Les thèmes sont moyens, l'équipe veut tenter des trolls toutes les 5 minutes mais bon... Assez brouillon (même l'ADC est plus structuré). Et surtout ce qui m'a dérangé c'est les blagues de mauvais goût (pire que celles du captainweb) disons de tendance politique opposée à celle d…"
+      },
+      {
+        "note": 5,
+        "auteur": "Tanguy3597",
+        "titre": "Parfait!",
+        "texte": "Comme l'indique la description ce podcast pourra facilement remplacer un bon film du soir! Oublier la télé, sortez votre iPod, branchez le casque et laissez-vous emporter dans une émission qui est intéressante dans tous les sujets traités! La qualité du podcast est grandissante e…"
+      }
+    ]
+  }
 }

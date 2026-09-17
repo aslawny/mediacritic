@@ -25,5 +25,31 @@
     "education"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "claclakombucha",
+        "titre": "Riche d’informations",
+        "texte": "Excellent podcast !!!! Néanmoins, un débit de parole un peu plus lent, avec quelques pauses, me semblerait bénéfique pour que l’on puisse bien saisir chacune des notions abordées ! J’ai dû parfois reprendre certains passages."
+      },
+      {
+        "note": 3,
+        "auteur": "Équinoxe 69",
+        "titre": "Doux amer",
+        "texte": "Sophie nous berce de sa voix douce pour faire passer des messages forts. De la tendresse dans un monde de bruts. Alors on écoute, on écrit, on réfléchit, on fait des liens. La partie psychologie est donc très bonne.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Val écoute",
+        "titre": "Passionnants!!",
+        "texte": "J’attends toujours avec impatience la sortie de nouveaux podcasts. Éclairants et si bien expliqués, ces notions parlent à tous. Votre voix nous transporte et nous éclaire sur nos chemins de vie. Votre livre, un régal !MERCI"
+      }
+    ]
+  }
 }

@@ -25,5 +25,31 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Leledol",
+        "titre": "C’est pas l’âge qui fait la différence du podcast",
+        "texte": "J’ai bien aimé ce podcast, même si j’ai 11 ans je vois sont marrantes drôles vous avez plein d’imagination j’ai adoré vos Podcasts n’écoutez pas les avis méchant ils savent pas c’est quoi les vrais Podcasts👏😍🤪😜"
+      },
+      {
+        "note": 1,
+        "auteur": "coucoucoucoul",
+        "titre": "Nul",
+        "texte": "J’ai jamais écouté ce podcast mais ça à l’air trop nul 😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈"
+      },
+      {
+        "note": 5,
+        "auteur": "cacouta",
+        "titre": "Plutôt bien",
+        "texte": "Hello c super mon petit frère adoré il rigole à chaque épisode c vraiment super merci continuez Merci 🍑♥️❤️♥️❤️♥️❤️♥️❤️♥️🍑"
+      }
+    ]
+  }
 }

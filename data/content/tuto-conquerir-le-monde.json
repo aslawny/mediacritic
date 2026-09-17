@@ -25,5 +25,31 @@
     "bien-etre"
   ],
   "addedAt": "2026-08-08",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Elfishs",
+        "titre": "Ah oui effectivement, ces podcasts sont superbes",
+        "texte": "Les podcasts commencent bien, toujours intéressants et inspirants mais très ancrés dans la réalité en prenant en compte que tout le monde ne part pas du même point de départ dans notre cher monde de ... Pour réagir sur séparer l’artiste de l’individu.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Ghjuvan45",
+        "titre": "Navrant",
+        "texte": "On dirait des textes écrits par une étudiante de première L qui essaie d’attirer l’attention de son prof de philo pedophile."
+      },
+      {
+        "note": 5,
+        "auteur": "98237830293",
+        "titre": "À découvrir absolument !",
+        "texte": "Les contenus de Clémence sont d’une qualité incroyable, avec une approche novatrice qu’on ne trouve pas dans d’autres contenus. Que ce soit sur l’aspect pur et dur « conquête du monde » ou sur l’actualité avec ses chroniques J’ai pas d’avis mais j’en veux un, Clémence sait faire…"
+      }
+    ]
+  }
 }

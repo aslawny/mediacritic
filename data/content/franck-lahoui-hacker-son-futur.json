@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-01",
-  "frequence_jours": 8
+  "frequence_jours": 8,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Jojo.dsv",
+        "titre": "Des vérités qu’on devrait tous entendre au moins une fois",
+        "texte": "Il y a des contenus qu’on écoute et d’autres qui nous réveillent. Ce podcast fait clairement partie de la deuxième catégorie. Des réflexions justes, sans filtre qui donnent envie de se remettre en question et d’avancer. Excellent mentor."
+      },
+      {
+        "note": 5,
+        "auteur": "LvyAka",
+        "titre": "Super podcast",
+        "texte": "Je suivais déjà le podcast sur les réseaux mais ici c’est beaucoup plus calme et on est moins distraits donc plus propice à analyser et ingérer les propos. Merci pour toute la valeur ajoutée, Franck !"
+      },
+      {
+        "note": 5,
+        "auteur": "Ziggyfloow",
+        "titre": "Une mine d’or",
+        "texte": "J’adore ce Podcast, Lahoui est un puits sans fin de connaissances. Nombreuses citations et informations précieuses venant de son expérience. Chaque podcast me grandit. Merci !"
+      }
+    ]
+  }
 }

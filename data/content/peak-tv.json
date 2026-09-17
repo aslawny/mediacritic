@@ -49,5 +49,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Les séries TV, plan B doré des stars du ciné",
+      "date": "2020-02-26"
+    },
+    {
+      "titre": "Pourquoi les couples des séries TV sont si importants pour nous",
+      "date": "2020-02-12"
+    },
+    {
+      "titre": "Pourquoi les meurtriers et stalkers de séries TV nous fascinent",
+      "date": "2020-01-29"
+    },
+    {
+      "titre": "À quoi ressembleront les séries de demain?",
+      "date": "2020-01-15"
+    },
+    {
+      "titre": "Comment choisir les 20 meilleures séries des 20 dernières années?",
+      "date": "2019-12-18"
+    }
+  ],
+  "derniere_activite": "2020-02-26",
+  "frequence_jours": 14
 }

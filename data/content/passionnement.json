@@ -25,5 +25,21 @@
     "cuisine"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-05-23"
+  "updatedAt": "2026-05-23",
+  "episodes_recents": [
+    {
+      "titre": "Passionnément #3 Devenir Chef",
+      "date": "2021-02-05"
+    },
+    {
+      "titre": "Passionnément #2 Ce film qui m'a marqué.",
+      "date": "2021-01-20"
+    },
+    {
+      "titre": "Passionnément #1 La cuisine de grand mère : entre tradition et transmission.",
+      "date": "2020-12-14"
+    }
+  ],
+  "derniere_activite": "2021-02-05",
+  "frequence_jours": 36
 }

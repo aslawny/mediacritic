@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-09",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Emmy755",
+        "titre": "Top mais…",
+        "texte": "Top mais … grosse erreur apparente : comment peuvent-ils affirmer que Kavinski et les ayants droits de Nightcall n’ont touché qu’un fixe pour tout droit sur le film Drive …"
+      },
+      {
+        "note": 3,
+        "auteur": "Kin_177",
+        "titre": "Bon mais mériterait d’être plus varié",
+        "texte": "Salman et Daz sont bons dans leurs approche et les conversations sont toujours intéressantes mais je constate tout de même un tropisme vers le l’electro et le rap alors qu’il existe d’autres genres et sous-genres dans la veine rock ici sous-représentés.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Fredolavabo",
+        "titre": "THE podcast",
+        "texte": "Que dire de ce duo Salman et Daz ! Deux approches différentes et un podcast hyper intéressant sur la musique, abordée sous tous les angles. On se régale et on attend avec impatience chaque nouvel épisode.…"
+      }
+    ]
+  }
 }

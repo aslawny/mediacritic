@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-09",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "DAVE.V",
+        "titre": "Lancer son podcast ne sert à rien sans ça #23",
+        "texte": "Bonjour, J’ai apprécié cette épisode qui m’a éclairé sur certaine questions que je me posais. Mais il y a une question qui me taraude l’esprit au sujet du podcast vidéo.…"
+      },
+      {
+        "note": 5,
+        "auteur": "IP conseil",
+        "titre": "Des conseils concrets",
+        "texte": "J’ai écouté la série « solo beginner » avec 24 conseils pour stabiliser tes revenus de free-lance » et j’ai adoré. - Les épisodes sont courts, factuels, concerts, efficaces - c’est une mine d’or en terme de conseils, d’outils, de tips pour aller plus vite dans le développement de…"
+      },
+      {
+        "note": 5,
+        "auteur": "Srou12",
+        "titre": "Trop top",
+        "texte": "En plus d’être une super podcasteuse, Flavy a trouvé le format qui matche à fond sur les besoins des auditeurs. 10 minutes max pour comprendre un sujet et l’approfondir de son côté ensuite, avec des conseils et astuces super importants et time-savers …"
+      }
+    ]
+  }
 }

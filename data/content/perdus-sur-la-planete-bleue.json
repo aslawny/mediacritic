@@ -26,5 +26,29 @@
     "famille"
   ],
   "addedAt": "2026-07-21",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "episodes_recents": [
+    {
+      "titre": "Épisode 10 : Des vacances sur une autre planète",
+      "date": "2026-07-07"
+    },
+    {
+      "titre": "Épisode 9 : Opération Stellarisoleum !",
+      "date": "2026-07-07"
+    },
+    {
+      "titre": "Épisode 8 : Un génie nommé Ada",
+      "date": "2026-07-07"
+    },
+    {
+      "titre": "Épisode 7 : Le gros chagrin de Zilou",
+      "date": "2026-07-07"
+    },
+    {
+      "titre": "Épisode 6 : Cache-cache à la station-service",
+      "date": "2026-07-07"
+    }
+  ],
+  "derniere_activite": "2026-07-07",
+  "frequence_jours": 0
 }

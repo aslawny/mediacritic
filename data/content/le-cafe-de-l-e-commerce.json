@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-07-31",
-  "frequence_jours": 3
+  "frequence_jours": 3,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "sylvainafr",
+        "titre": "Excellent mais ...",
+        "texte": "Une bonne synthèse de l actualité du e commerce, une très bonne connaissance du marché et un ton sympathique MAIS arrêtez d utiliser des mots anglais quand ils existent en français exemples en 5 minutes d écoute du podcast : Business lunch : déjeuner d affaire Christmas : Noel Gd…"
+      },
+      {
+        "note": 5,
+        "auteur": "RGazou",
+        "titre": "Super podcast pour la veille e-commerce",
+        "texte": "Ça fait plus d’un an que j’écoute assidûment ce podcast depuis les 4 coins du monde (actuellement depuis Goa) car je suis nomade digital et c’est parfait pour suivre les dernières news de l’écosystème e-commerce …"
+      },
+      {
+        "note": 5,
+        "auteur": "Nenkia",
+        "titre": "Podcast fun, pertinent et pro !",
+        "texte": "Très rythmé, accessible et pointu à la fois, à l’affût des dernières News et décryptage des tendances/technos avec prises de positions sans langue de bois, ce duo est un vrai plaisir à écouter …"
+      }
+    ]
+  }
 }

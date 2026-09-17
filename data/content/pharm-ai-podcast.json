@@ -27,5 +27,29 @@
     "numerique"
   ],
   "addedAt": "2026-07-12",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "episodes_recents": [
+    {
+      "titre": "6 - IA en pharma : pourquoi 95 % des projets ne sortent jamais du pilote",
+      "date": "2026-09-15"
+    },
+    {
+      "titre": "5 - La visite médicale à l'heure de l'IA : entre promesses et réalité du terrain.",
+      "date": "2026-07-02"
+    },
+    {
+      "titre": "4-Le RAG expliqué simplement : comment rendre l'IA fiable en environnement Pharma",
+      "date": "2026-05-11"
+    },
+    {
+      "titre": "3 - Tokens, coûts, limites des LLMS : ce que les équipes sous-estiment",
+      "date": "2026-04-07"
+    },
+    {
+      "titre": "2 - IA et RSE - Construire une Innovation Responsable en Santé",
+      "date": "2026-03-12"
+    }
+  ],
+  "derniere_activite": "2026-09-15",
+  "frequence_jours": 37
 }

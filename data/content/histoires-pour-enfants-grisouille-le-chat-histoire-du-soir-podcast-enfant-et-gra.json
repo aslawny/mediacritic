@@ -45,5 +45,31 @@
     }
   ],
   "derniere_activite": "2022-12-06",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ÉricVV",
+        "titre": "Très bien",
+        "texte": "Excellent posdcast et très heureux de trouver enfin des histoires pour enfants qui soient rédigées en bon français avec un language de bon niveau ! Cela change des histoires simplistes remplies de fautes de français."
+      },
+      {
+        "note": 1,
+        "auteur": "Akiuzui",
+        "titre": "Cool",
+        "texte": "Mettez plus d’épisode s’il vous plais mais sinon j’adore le fait d’avoir plusieurs voix"
+      },
+      {
+        "note": 5,
+        "auteur": "LaBrancheOrange",
+        "titre": "Cool",
+        "texte": "J’adore J’adore J’adore ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️"
+      }
+    ]
+  }
 }

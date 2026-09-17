@@ -27,5 +27,31 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Gotothemoon",
+        "titre": "Pour prendre une nouvelle perspective !",
+        "texte": "J’ai écouté trois épisodes du podcast et je trouve le concept intéressant. Bon… « torchon » le titre est un peu fort. Un point d’interrogation pourrait être bienvenue dans le titre.…"
+      },
+      {
+        "note": 1,
+        "auteur": "detendux",
+        "titre": "Ça spoil des livres 👌",
+        "texte": "Ça pourrais donner envie de lire, ça a juste l’effet inverse"
+      },
+      {
+        "note": 5,
+        "auteur": "lddebb",
+        "titre": "J’adore !",
+        "texte": "Petite réponse à l’avis qui accorde seulement une étoile parce que « ça spoil les livres donc ne donne pas envie de lire », c’est littéralement le but du podcast de décortiquer, c’est dit et écrit.…"
+      }
+    ]
+  }
 }

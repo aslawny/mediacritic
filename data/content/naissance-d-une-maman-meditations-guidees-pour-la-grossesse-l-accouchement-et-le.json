@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-07",
-  "frequence_jours": 28
+  "frequence_jours": 28,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Grxszizis",
+        "titre": "Merci 🤍",
+        "texte": "Tout au long de ma grossesse j’ai suivi les méditations et podcasts de Sandra, et cela m’a permit de vraiment vivre ce parcours initiatique sereinement, de me connecter à ma puissance intérieure, à mon côté louve, et surtout à la princesse qui grandissait au creux de mon ventre.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Helo972",
+        "titre": "Sans musique",
+        "texte": "Olala quel dommage ! Le piano est largement de trop pour moi… la voix est parfaite mais la musique me distrait trop (voire m’énerve). Un peu trop long également pour celles habituées à la méditation."
+      },
+      {
+        "note": 5,
+        "auteur": "Caro diet",
+        "titre": "Super podcast",
+        "texte": "Tu es merveilleuse, on ressent toute ta douceur et bienveillance dans ta voix. Ma sage-femme m’a conseillé tes podcasts et je suis ravie de cette découverte que je repartage avec mes amies et patientes enceintes.…"
+      }
+    ]
+  }
 }

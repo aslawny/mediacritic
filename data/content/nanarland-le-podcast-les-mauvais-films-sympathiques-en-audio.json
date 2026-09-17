@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-04-14",
-  "frequence_jours": 68
+  "frequence_jours": 68,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Bullist",
+        "titre": "Un son nanar produit par la Cannon",
+        "texte": "Toujours un plaisir de découvrir ou redécouvrir ces mauvais films chroniqués qu’on adore sur un autre support que le site. On passe de bons moments en voiture à se remémorer des films plus approximatifs les uns que les autres.…"
+      },
+      {
+        "note": 1,
+        "auteur": "KLAATU",
+        "titre": "Sympa mais…",
+        "texte": "Aïe ! Un podcast et un site que j’aime beaucoup. Mais avec le dernier épisode, on frôle le nanar du podcast : blancs à répétition, son moisi… Que se passe-t-il ? Revenez plus en forme svp (non, pas en forme de quoi mais avec plus d’énergie)."
+      },
+      {
+        "note": 5,
+        "auteur": "Roro490",
+        "titre": "Que de joyeuseté",
+        "texte": "Votre podcast est, pour moi, indispensable. Chaque diffusion est attendue comme certains attendent le messie. La rareté des épisodes ne les rendent que plus précieux …"
+      }
+    ]
+  }
 }

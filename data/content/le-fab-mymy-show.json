@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-07-24",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Ambre_1",
+        "titre": "Un plaisir de retrouver Fab et Mymy ensemble",
+        "texte": "J’ai découvert Fab et Mymy aux débuts de LMK et avec le boys club. C’est un plaisir de les retrouver ensemble, ça manquait vraiment ! Pour la petite histoire, j’écoute les épisodes la nuit quand je m’occupe de mon bébé qui est née au même moment que le lancement du podcast.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Indo38690",
+        "titre": "Au secours",
+        "texte": "3 mn. C’est le temps que j’ai tenu… désolé mais ennuyeux au possible"
+      },
+      {
+        "note": 5,
+        "auteur": "Mat2long",
+        "titre": "En effet, PASCAL !",
+        "texte": "Rohhh Mymy… nooon pas toi ! Donnez son avis sur un contenu qu’on a juste pas voulu regarder :( chaque argument est justement présent dans le docu, c’est vraiment dommage car ça participe aux clichés et critiques non fondées sur cette aventure.…"
+      }
+    ]
+  }
 }

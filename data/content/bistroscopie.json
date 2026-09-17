@@ -24,5 +24,31 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Carophilos",
+        "titre": "Bien",
+        "texte": "Des échanges se voulant affranchis des conventions habituellement en vigueur, orchestrés par « notre » Charline tant appréciée. Mais attention à ne pas être trop gentille avec celles et ceux avec qui on a des affinités, ni à insister sur l’originalité du lieu et l’alcoolémie des…"
+      },
+      {
+        "note": 5,
+        "auteur": "Chocolate is fun",
+        "titre": "Décroître en rigolant !",
+        "texte": "Merci Charline pour cet épisode avec Thimotée Parrique. Merci d’y mettre de la rigolade, du sourire, sur un sujet qui est pas simple, difficile parfois à entendre et qui est tellement vrai. Merci de nous redonner de l’espoir."
+      },
+      {
+        "note": 5,
+        "auteur": "blok 76",
+        "titre": "Félicitations",
+        "texte": "Merci Charline pour ton émission , je te suis dans tes aventures depuis le début sur France Inter . J’ai découvert grâce à l’émission l’excellent acteur Reda kateb que je suis allé voir au cinéma dans l’affaire Bojarski ."
+      }
+    ]
+  }
 }

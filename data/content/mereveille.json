@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-14",
-  "frequence_jours": 5
+  "frequence_jours": 5,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Liiloù04",
+        "titre": "Top !",
+        "texte": "Qu’il est agréable de vous écouter tous les matins ! Merci de nous donner des armes pour mieux affronter des situations que l’on est en train de vivre ou alors que l’on va vivre et pour celles que l’on a déjà vécue et que c’est « trop tard » et bien on ferra mieux la prochaine fo…"
+      },
+      {
+        "note": 1,
+        "auteur": "Rulito92",
+        "titre": "Lol",
+        "texte": "Mohamed couscous quand il pete il fait de la mousse c d la merddddeee"
+      },
+      {
+        "note": 5,
+        "auteur": "Ion_HQ",
+        "titre": "J’adore",
+        "texte": "On traite des sujets sérieux avec légèreté, ça fait du bien ! Enrichissant, intéressant et déculpabilisant à l’heure où les parents devraient tous être parfaits ! Ça nous donne des clés et ça nous fait du bien au moral ☺️"
+      }
+    ]
+  }
 }

@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-15",
-  "frequence_jours": 5
+  "frequence_jours": 5,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Cookiebossbitch",
+        "titre": "Le meilleur podcast marketing",
+        "texte": "Un podcast concret, sans jargon inutile, avec des conseils immédiatement applicables et une énergie communicative. On sent qu’elles parlent d’expérience et qu’elles partagent avec beaucoup de générosité.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Thibault Ducrot 78",
+        "titre": "Complet et varié",
+        "texte": "J’ai d’abord découvert les sœurs Giacobi sur LinkedIn avec leur excellent contenu pour entrepreneurs et marketeurs et je suis ravis de retrouver la même expertise ici sous un autre format. C’est complet et varié.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Jeanviet",
+        "titre": "Une masterclass en marketing à chaque invité(e)",
+        "texte": "Podcast très sympa que j’écoute pendant mon running en sélectionnant les épisodes en lien avec le marketing de contenus : linkedin, vidéo, relation presse, storytelling, outils d’IA, stratégie édito… Les hôtes Sandie et Laurie sont généreuses en conseils et leurs invités partagen…"
+      }
+    ]
+  }
 }

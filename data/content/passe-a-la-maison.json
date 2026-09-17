@@ -23,5 +23,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "episodes_recents": [
+    {
+      "titre": "Passe à la maison - Épisode 22 - Maqmanolo Avoir un trait d'avance",
+      "date": "2025-11-10"
+    },
+    {
+      "titre": "Passe à la maison - Épisode 21 - L'instrumentiste de la Knack",
+      "date": "2025-11-10"
+    },
+    {
+      "titre": "Épisode 20 - La musique de notre adolescence",
+      "date": "2025-05-07"
+    },
+    {
+      "titre": "Épisode 19 - Voyage solo avec Poulpy",
+      "date": "2025-04-04"
+    },
+    {
+      "titre": "Passe à la maison - Épisode 18 - L'épisode de Noël avec Jules",
+      "date": "2025-01-22"
+    }
+  ],
+  "derniere_activite": "2025-11-10",
+  "frequence_jours": 64
 }

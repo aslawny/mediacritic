@@ -27,5 +27,31 @@
     "series"
   ],
   "addedAt": "2026-06-21",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "eric lille",
+        "titre": "Divine Eva",
+        "texte": "Cette Eva Roque est un phénomène. Elle arrive toujours à surprendre les auditeurs. Bravo pour cette belle émission. Mais elle me manque dans historiquement votre …"
+      },
+      {
+        "note": 2,
+        "auteur": "vendeur habituel",
+        "titre": "Erreur est humaine",
+        "texte": "Dans le petit resume sur SEX AND THE CITY une erreur s’est glissé dans le résumé du cv de SJP. Elle a bien fait MARS ATTACK de TIM BURTON mais BRICE WILLIS ne joue pas dedans !!!"
+      },
+      {
+        "note": 5,
+        "auteur": "SylSou44",
+        "titre": "Top pour les fans de séries !",
+        "texte": "Je découvre juste et j’accroche vraiment ! L’équipe est sympa, y a du fond, les invités apportent une vraie plus-value, je recommande ! Juste dommage que l’extrait de Friends avec Brad Pitt ait été diffusé en VF 😉 MAJ du 24/11 : toujours aussi excellent, avec du fond.…"
+      }
+    ]
+  }
 }

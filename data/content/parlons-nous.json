@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "LE CONSEIL PSY - La peur de l'intimité dans le couple",
+      "date": "2026-09-17"
+    },
+    {
+      "titre": "L'intégrale du 16 septembre 2026",
+      "date": "2026-09-16"
+    },
+    {
+      "titre": "Famille : Marco est perturbé par la dépression de sa mère âgée",
+      "date": "2026-09-16"
+    },
+    {
+      "titre": "Dépression : Héloïse veut reprendre sa vie en main après plusieurs épreuves.",
+      "date": "2026-09-16"
+    },
+    {
+      "titre": "Rupture : François face à une jalousie devenue invivable",
+      "date": "2026-09-16"
+    }
+  ],
+  "derniere_activite": "2026-09-17",
+  "frequence_jours": 0
 }

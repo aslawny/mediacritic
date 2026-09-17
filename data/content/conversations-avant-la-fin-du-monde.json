@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-18",
-  "frequence_jours": 9
+  "frequence_jours": 9,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Amdamer",
+        "titre": "Belle découverte",
+        "texte": "Quel plaisir d’écouter ces Conversations l’esprit tranquille et ouvert pendant des balades sereines en forêt. Un vrai podcast de société qui touche à tout, délivre ses invités de toute inhibition, et qui permet de se confronter à sois même et aux autres de façon constructive et i…"
+      },
+      {
+        "note": 1,
+        "auteur": "Yevgueny",
+        "titre": "Belle rencontre de gauche",
+        "texte": "Comme toujours, des rencontres entre idées de gauche où l’on aime s’autocongratuler et penser comme des gens de gauche. Bref… aucun interet car pas de contradiction."
+      },
+      {
+        "note": 5,
+        "auteur": "Charles—-",
+        "titre": "À recommander",
+        "texte": "Voilà une belle façon de proposer des interview. C’est une approche différente (choix des questions, ambiance général,…) de ce qu’on a l’habitude dans les médias traditionnels et c’est complètementaire.…"
+      }
+    ]
+  }
 }

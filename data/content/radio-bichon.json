@@ -26,5 +26,31 @@
     "rénovation",
     "DIY"
   ],
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mhdskyp",
+        "titre": "Mieux que la radio",
+        "texte": "Étant à mon compte en menuiserie ébénisterie d’agencement j’adore ce podcast pour la culture chantier qu’il partage. Il m’aide à comprendre les autres corps de métiers et parfois même à prendre en compte les contraintes des autres professionnels dans la fabrication de mes meubles…"
+      },
+      {
+        "note": 5,
+        "auteur": "Gael Aymard",
+        "titre": "Le porte drapeau 🇫🇷 de l’artisanat 🔨 et du bâtiment 🏗",
+        "texte": "1001 Mercis Laurent de mettre en avant les valeurs humaines de l’artisanat français ! C’est un plaisir d’écouter Radio Bichon toujours à dire les choses mais dans la bonne humeur, comme sur un chantier.…"
+      },
+      {
+        "note": 5,
+        "auteur": "val0ne",
+        "titre": "Un amateur qui se sent bichonné !",
+        "texte": "Après des vidéos juste géniales, La radio représente vraiment la cerise sur le bichon !! Les sujets, les conseils sont aussi bons que votre boulot. De vrais pros au service du tout publique... on se sent bichonnés et soutenus dans nos aventures de bricolos.…"
+      }
+    ]
+  }
 }

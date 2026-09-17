@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-26",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Elisabethkounou",
+        "titre": "Génial ce podcast !",
+        "texte": "À l'image d'Alice ce podcast est à la fois impertinent, à travers les questions audacieuses d'Alice et plein de profondeur, porté par les différents invités qui ont à coeur de laisser une belle empreinte dans l'écosystème économique dans lequel ils évoluent.…"
+      },
+      {
+        "note": 1,
+        "auteur": "sclavier",
+        "titre": "Décevant",
+        "texte": "Je m’attendais à quelque chose de nouveau mais ce n’est qu’un podcast cloné d’autres... dommage. Point positif bon personal branding"
+      },
+      {
+        "note": 5,
+        "auteur": "Cossinelle14",
+        "titre": "Inspirant et sincère",
+        "texte": "Merci Alice de la fraîcheur de vos interviews, avec des personnes engagées pour faire bouger le monde. Étant Facilitatrice en DD et Enseignante et Chercheur sur la RSE, l’Empreinte est une source d’inspiration, d’idées, un carnet d’adresses, un support pédagogique et bien plus en…"
+      }
+    ]
+  }
 }

@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2019-03-03",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Coconoosh",
+        "titre": "Podcast passionnant",
+        "texte": "Podcast passionnant pour une série tout aussi passionnante ! Merci pour cette qualité de jeu d’acteurs, de scénario, de réalisation, de dialogues...…"
+      },
+      {
+        "note": 2,
+        "auteur": "Nikelnikel",
+        "titre": "Interressant mais manque certaines explications",
+        "texte": "Super poscast mais J’aurais aimé savoir pourquoi cette absence criante des diversité dans le casting. Absence totale de personnages noirs par exemples autres que des petits roles pour incarner des voyous.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Charl0oo",
+        "titre": "Expérience extraordinaire",
+        "texte": "Après avoir fini la saison 7, avoir l’envie de repartir au début ... voir les acteurs (personnages) avec 10 ans de moins... me replonger dans cet univers... et ces Podcasts.. meilleures séries de tous les temps. Merci merci merci à tous!"
+      }
+    ]
+  }
 }

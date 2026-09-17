@@ -26,5 +26,31 @@
     "culture"
   ],
   "addedAt": "2026-06-18",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "CaroleFG",
+        "titre": "Un podcast magnifique",
+        "texte": "Merci à Olivia pour ces doux moments. Je suis une lectrice et une adepte de librairies. tous les épisodes me touchent. Particulièrement celui au Divan qui est une librairie que je fréquente et apprécie. On aimerait pouvoir passer cette nuit en librairie avec Olivia .…"
+      },
+      {
+        "note": 2,
+        "auteur": "oceaneslays",
+        "titre": "La voix de la présentatrice",
+        "texte": "J’ai pas tenu très longtemps pourtant j’aime beaucoup le concept. Mais la journaliste qui parle a des inflexions insupportables j’en pouvais plus. Pourquoi fait elle tout son possible pour parler comme une poule ? Je suis confuse..."
+      },
+      {
+        "note": 5,
+        "auteur": "puiso777",
+        "titre": "Amelie",
+        "texte": "Quelle femme extraordinaire.... je dévore son œuvre depuis le 1 er roman et je l’aime inconditionnellement. Elle a beaucoup de classe et un sens de la politesse très japonais. Faites nous voyager encore , chère Olivia ..... votre podcast est merveilleux .…"
+      }
+    ]
+  }
 }

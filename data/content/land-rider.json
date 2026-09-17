@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-01",
-  "frequence_jours": 21
+  "frequence_jours": 21,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "SorGAleX",
+        "titre": "Du bon Star Wars avec de bons pilotes !",
+        "texte": "Un très bon podcast sur Star Wars via une approche différente. Une mention spéciale aux épisodes « non News » et les thèmes très rarement abordés comme l’école, l’aviation etc...…"
+      },
+      {
+        "note": 1,
+        "auteur": "KingKing2567",
+        "titre": "Politique",
+        "texte": "La bulle d’influence et tenter d’imposer son orientation politique, c’est non. Très déçu venant de ce podcast."
+      },
+      {
+        "note": 5,
+        "auteur": "Fanlou 14",
+        "titre": "Hyper surpris!",
+        "texte": "Ouais!! C’est ce que je me suis dit lorsque j’ai vu le titre... un podcast sur SW ! Gné comment va-t-il me garder à l’écoute ! Et bien un podcast d’une bien bonne qualité, qui permet à ceux qui apprécie star Wars sans en être un gros fan, d’avoir l’analyse d’une équipe qui est fa…"
+      }
+    ]
+  }
 }

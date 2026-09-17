@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-06-22",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Xaelya😉",
+        "titre": "Génial !",
+        "texte": "J’adore ! Le format, le concept et notamment la NUANCE, le fait que tu ne survoles pas le sujet mais que tu l’abordes sous différents points de vue (mainstream ou non).…"
+      },
+      {
+        "note": 5,
+        "auteur": "Valoushka",
+        "titre": "Bravo",
+        "texte": "Bravo Marie, ce premier épisode est une réussite. Je pensais que ça allait être un énième épisode sur la parentalité positive, mais le sujet a été très bien traité. C’est intéressant et on se sent forcément concernés nous en France…"
+      },
+      {
+        "note": 5,
+        "auteur": "Reichshoffen 67110",
+        "titre": "Bravo et merci",
+        "texte": "Depuis le début je suis les podcast, et bien avant sur insta. Des thèmes tjrs bien abordés sous toutes les coutures 😀 Le thème tdah, j’ai le sentiment qu’il mettait destiné. Merci pour tous ces éclaircissements Bravo et merci ☺️"
+      }
+    ]
+  }
 }

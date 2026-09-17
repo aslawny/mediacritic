@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-06",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Rafton du 20-1",
+        "titre": "Quel régal !",
+        "texte": "Superbe émission qui donne la parole à des acteurs du footbal. Et quels acteurs!! Interviews menées avec beaucoup de préparation, qui laissent la parole à l’invitée.. On en apprend beaucoup sur le monde du football professionnel.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Seb philippeau",
+        "titre": "Très bon podcast",
+        "texte": "Très bon podcast monsieur bouadbellah sait poser des bonnes questions, mettre à l’aise les invités et les laisser parler. J’ai découvert que mR Ayew et Bentaleb étaient des hommes bien et que MR pures est définitivement inintéressant et pas le couteau le plus affûté du tiroir."
+      },
+      {
+        "note": 5,
+        "auteur": "Alex Le Lion-",
+        "titre": "Excellent",
+        "texte": "Découverte du podcast lors de l’entretien juste magnifique avec Pascal Nouma. Les thèmes abordés, le franc-parler, la préparation de l’entretien et les différentes questions. Je me suis régalé, un grand merci."
+      }
+    ]
+  }
 }

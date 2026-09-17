@@ -24,5 +24,31 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Jpauuul",
+        "titre": "Je suis ravi par Banzzaï !",
+        "texte": "Au contraire du monsieur de 68 ans qui est déçu, moi j'ai 66 ans et suis complètement ravi par cette émission Banzzaï... Il se trouve qu'auparavant, je n'aimais le jazz qu'à moitié, et Banzzaï me l'a véritablement fait découvrir, notamment en proposant des morceaux modernes, fait…"
+      },
+      {
+        "note": 1,
+        "auteur": "Xenedra",
+        "titre": "Muzak",
+        "texte": "Un peu de jazz, beaucoup de pop du style que nous imposent certaines grandes surfaces. J’ai très rarement tenu jusqu’à la fin de l’emission."
+      },
+      {
+        "note": 5,
+        "auteur": "soeurdemusique",
+        "titre": "bravo à vous ! j’apprends tous les jours",
+        "texte": "MERCI MERCI MERCI :permanent grand écart entre les musiques de mon enfance qui restaient quelque part dans ma tête …et la musique d’aujourd’hui qui sonne quelques fois comme un écho du passé .Comme j’apprécie votre écoute …"
+      }
+    ]
+  }
 }

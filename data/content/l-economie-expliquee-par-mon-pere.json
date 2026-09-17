@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-07-12",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Nausicaa51",
+        "titre": "Pour comprendre les rouages de l’économie",
+        "texte": "Je suis une fan depuis le début, des émissions de Charles Gave. Je fais partie de la classe laborieuse qui a du mal à boucler les fins de mois et je n’ai malheureusement aucun euro à investir mais je rêverais d’avoir une telle personnalité dans un gouvernement français.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Écouter la différence,mais où?",
+        "titre": "Pipeau",
+        "texte": "Sous couvert d’analyse geo économique de haut vol ce podcast véhicule un idéologie de droite, et sourtout pour promouvoir leur propre société de conseil financier. Est ce bien légal ?"
+      },
+      {
+        "note": 5,
+        "auteur": "Rémy101",
+        "titre": "Félicitations",
+        "texte": "Vous êtes au top! Ne prenez pas en compte les personnes qui ne sont pas respectueuses. Je vous suis depuis le début et c’est toujours très pertinent. Merci pour tout, vous êtes de loin la meilleure analyse du monde économique aujourd’hui sans filtre c’est ce qu’on aime.…"
+      }
+    ]
+  }
 }

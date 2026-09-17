@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2026-09-01",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Sassou7337",
+        "titre": "Superbes!",
+        "texte": "Rudy, je rebondis sur l'épisode de Romain Marcaud, j'ai remarqué qu'en pratiquant la slackline je me sentais plus stable en bateau les jours suivant.…"
+      },
+      {
+        "note": 5,
+        "auteur": "julien sp",
+        "titre": "Très intéressant",
+        "texte": "Merci pour ce podcast. Je ne pratique pas le kayak mais je trouve cette série de podcast très intéressant pour comprendre le mental des champions. Des parcours de vie riche et diversifié.…"
+      },
+      {
+        "note": 5,
+        "auteur": "LTCMH",
+        "titre": "Excellent",
+        "texte": "Merci Rudy de donner la paroles à ces athlètes « méconnus » du grand public. Bien qu’ancien slalomeur, je les écoute tous avec grand plaisir et intérêt.…"
+      }
+    ]
+  }
 }

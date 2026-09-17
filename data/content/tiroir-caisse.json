@@ -27,5 +27,31 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Chuck__",
+        "titre": "J’ai beaucoup aimé.",
+        "texte": "Pour être honnête, j’avais peur que le podcast soit trop intrusif. Certes, ça n’est que l’épisode d’introduction, mais je crois comprendre, d’ores et déjà, que ça ne sera pas le cas.…"
+      },
+      {
+        "note": 5,
+        "auteur": "pinkpantherdc",
+        "titre": "Podcast rafraîchissant et intimiste",
+        "texte": "Podcast intimiste, drôle et intelligent. J’adore l’écouter chaque semaine, le montage avec un témoignage libre dès le début me rappelle mes conversations avec mes ami(e)s par whatsapp et par la suite l’échange sur les sujets de parentalité et de vie du duo SML et Gosse sont intel…"
+      },
+      {
+        "note": 5,
+        "auteur": "Lénalisette",
+        "titre": "Je vous aime !",
+        "texte": "Comme toujours avec SML, vous n’êtes pas prêt.e.s (pas les pneus!) mais vous ne serez jamais déçu.e.s . SML tu me fais rire, déculpabiliser, tu me fais pleurer aussi. Merci je t’aime tellement Léna, Une mamie comblée malgré les écorchures de la vie Bisous 😘"
+      }
+    ]
+  }
 }

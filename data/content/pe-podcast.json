@@ -26,5 +26,55 @@
     "sciences"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Manon.tav",
+        "titre": "JUSTE MERCI 😍",
+        "texte": "Étant étudiante en dernière année, je suis complètement conquise par tes podcasts. Quand j’ai un petit coup de mou, ces histoires me remontent le moral instantanément ! C’est vraiment le rdv que je refuse de louper chaque semaine.…"
+      },
+      {
+        "note": 5,
+        "auteur": "auroreantton",
+        "titre": "Merci de tout ce travail !",
+        "texte": "Je suis PE depuis bientôt 4 ans après plus de 10 ans en entreprise . J’ai fait ce choix par vocation pour ma propre famille et par passion pour les enfants . J’adore créer , programmer , construire des projets , prévoir une période autour d’un conte , d’un album …"
+      },
+      {
+        "note": 5,
+        "auteur": "Lieplume",
+        "titre": "A écouter absolument",
+        "texte": "J’ai adoré ce premier épisode et j’ai déjà hâte de découvrir le suivant 🙌🏼 Je trouve que c’est passionnant et en tant que parents cela permet de découvrir les « dessous » de ce métier et ce que peuvent vivre les personnes à qui l’on confie nos enfants. Merci beaucoup et bravo !"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "EP40 - Isabelle et Alice, quand l'école devient une histoire de famille",
+      "date": "2025-11-02"
+    },
+    {
+      "titre": "EP39 - Marion, vivre et enseigner sous le soleil du Vietnam",
+      "date": "2025-10-12"
+    },
+    {
+      "titre": "EP38 - Marie, 22 ans à réinventer l'école pour ses élèves",
+      "date": "2025-09-28"
+    },
+    {
+      "titre": "EP37 - Louna, semer l'écocitoyenneté avec les élèves",
+      "date": "2025-09-14"
+    },
+    {
+      "titre": "EP36 - Dorothée, une carrière au cœur du spécialisé",
+      "date": "2025-08-31"
+    }
+  ],
+  "derniere_activite": "2025-11-02",
+  "frequence_jours": 7
 }

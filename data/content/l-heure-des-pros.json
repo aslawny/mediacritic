@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-09-07",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Thiebuae",
+        "titre": "Subtile et intelligent",
+        "texte": "Pascal Praud et ses invités nous propose une lecture pointue de l’actualité qui sort de la doxa bien pensante que nous trouvons dans bien d’autres médias. L’érudition de M. Praud lié à un humour singulier donne un souffle de vent frais au traitement de l’information"
+      },
+      {
+        "note": 1,
+        "auteur": "mahevache",
+        "titre": "Ah le racisme",
+        "texte": "Quand les préjugés racistes se maquillent en faux débats stériles et colère instrumentalisée par la droite"
+      },
+      {
+        "note": 5,
+        "auteur": "Edgar Edgard",
+        "titre": "👍🏻 car…",
+        "texte": "Tout ça est…SI-DÉ-RANT !!! Terme très très utilisé par M. Praud. Rien de grave, mais il est probable qu’il n’ait pas connu la sidération et…tant mieux. À part ce détail de langage, les débats sont excellents n’en déplaise à la bien-pensance !"
+      }
+    ]
+  }
 }

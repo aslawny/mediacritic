@@ -24,5 +24,31 @@
     "comedie"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "apg445",
+        "titre": "Super podcast",
+        "texte": "A écouter le plus rapidement possible !! Très drôle👍 Par contre j’aime pas Morgane Cadignan parce qu’elle est trop drôle, trop sympa et trop belle 😉😂 Bref merci"
+      },
+      {
+        "note": 5,
+        "auteur": "celerierave74",
+        "titre": "5 étoile",
+        "texte": "Drôle ,sympathique et plein de sarcasme comme un petit diable .Bravo Morgane Cadignan."
+      },
+      {
+        "note": 5,
+        "auteur": "nicoR1912",
+        "titre": "Top",
+        "texte": "Excellente nouvelle recrue chez Nagui. Drôle, piquante et dans le ton!"
+      }
+    ]
+  }
 }

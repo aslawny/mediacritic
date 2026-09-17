@@ -25,5 +25,31 @@
     "business"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "louloubédu49",
+        "titre": "Meilleur compte pour l’orientation !",
+        "texte": "Les podcast de vocation sont super variés et touchent un peu à tout, et super agréables à écouter ! Si vous ne suivez pas vocation sur insta foncez, perso c’est ma plateforme préférée, j’apprends toujours des trucs et c’est super interactif …"
+      },
+      {
+        "note": 2,
+        "auteur": "War68",
+        "titre": "Le monde n’est-il que techno et jargonnant ?",
+        "texte": "Vivement des témoignages de profus littéraires, l’IA recherche leur esprit critique !"
+      },
+      {
+        "note": 5,
+        "auteur": "luciledelaigue",
+        "titre": "Génial",
+        "texte": "Le podcast dont je rêvais ! Des intervenant.e.s inspirant.e.s, qui en plus de décrypter le monde du travail avec brio, nous inspirent et rassurent sur l’avenir. A écouter d’urgence si vous êtes jeunes diplômes, étudiant.e.s et même en classe prepa. Merci !"
+      }
+    ]
+  }
 }

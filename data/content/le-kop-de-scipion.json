@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-10",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "PEDRI ❤️ PODCASTS",
+        "titre": "Super",
+        "texte": "Je connais le kop de Scioion grâce à «HORS-JEU», les deux sont super et j’aime aussi beaucoup les feat. avec Wiloo, allez les voir sur sa chaîne YouTube « Wiloo » ou bien en podcasts qui sont tout aussi bien.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Levecchio",
+        "titre": "Émission au Top !",
+        "texte": "Superbe émission avec des intervenants toujours très pertinent, ils sont souvent au cœur même des thématiques que ce soit amateur ou pro ! Vraiment à écouter sans modérations …"
+      },
+      {
+        "note": 5,
+        "auteur": "Jean-Dyl",
+        "titre": "Vrai émission de football",
+        "texte": "Ça fait enfin plaisir de voir des podcast qui sortent enfin du commun. Le rapport avec les jeunes, la formation et leurs avenirs dans le monde professionnel est parfaitement développé.…"
+      }
+    ]
+  }
 }

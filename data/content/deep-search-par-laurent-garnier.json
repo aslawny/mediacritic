@@ -24,5 +24,31 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Bertrent",
+        "titre": "Laurent m’a (re)donné la foi 🙏",
+        "texte": "Y a t’il quelque chose que Laurent Garnier ne réussit pas ?!! DJ légendaire, digger exceptionnel, il est maintenant animateur d’émission de radio génial …"
+      },
+      {
+        "note": 5,
+        "auteur": "RachelMálaga",
+        "titre": "Indispensable. Vraiment!",
+        "texte": "Depuis sa résidence mensuelle à l’AnFer, à Dijon, Laurent Garnier n’en finit pas de faire danser ma vie. Quand je l’écoute, je suis à nouveau cette petite nana qui sautait comme un ressort devant les enceintes.…"
+      },
+      {
+        "note": 5,
+        "auteur": "#lolcat -_-",
+        "titre": "Je suis fan 🤩🤩🤩",
+        "texte": "J’ai 12 ans et j’adore ce podcast ! Merci Laurent garnier de nous transmettre la bonne musique d’aujourd’hui ! C’est rare d’avoir des gens qui ont des aussi bons goûts musicaux comme toi ❤️"
+      }
+    ]
+  }
 }

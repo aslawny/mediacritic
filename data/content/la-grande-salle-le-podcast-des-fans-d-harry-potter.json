@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2022-12-15",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Coucou 🍋",
+        "titre": "De la part d’une (re)passionnée",
+        "texte": "Coucou Louane, j’espère que tu vas bien et je voulais te dire que ton podcast est super, j’ai adoré les épisodes avec les tests, le kiss marry kill ou encore le this or that.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Mayou🥥🧿🍋",
+        "titre": "Jenny tutti",
+        "texte": "Jenny, Merci, c super sympa ! ♥️ Tutti, moi ma rentrée c demain (mercredi) 9h30 11h30 ett???"
+      },
+      {
+        "note": 5,
+        "auteur": "g42025",
+        "titre": "Merci",
+        "texte": "Reprends le podcast s’il te plaît j’aime beaucoup les épisodes avec ma Maman j’ai lu jusqu’au tome quatre la série Harry Potter livres version Minalima C’est grâce à toi que j’ai découvert cette série de livres donc quand on finit un tome version Naima on peut regarder le film do…"
+      }
+    ]
+  }
 }

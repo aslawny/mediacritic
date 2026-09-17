@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-07-10",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "nickie22",
+        "titre": "Avis. Correspondance.",
+        "texte": "Cher Frédéric Beidbeger , Je vous écris suite à l’écoute des conversations que vous avez eues avec Rachel Kosk ce matin dans le cadre des “Conversations chez Laperouse”. J’ai beaucoup de choses à vous dire …"
+      },
+      {
+        "note": 1,
+        "auteur": "Juste Hugo",
+        "titre": "Quel dommage",
+        "texte": "Beigbeder est un excellent critique et cela tient au fait qu’il est écrivain, après l’une de ces conversations il est impossible d’écouter les niaiseries d’un autre entretient. Seulement la présence maintenant habituelle de sionistes invétérés est très embrassante.…"
+      },
+      {
+        "note": 5,
+        "auteur": "ninouche 123",
+        "titre": "Comme un bon dessert",
+        "texte": "Toujours un plaisir de voir la notification qui m’informe d’un nouvel épisode de Conversations avec Laperouse . Toujours impressionnée par la qualité des invités (Richard Ford quand même !! ) et toujours un plaisir de vous écouter et d’en apprendre beaucoup.…"
+      }
+    ]
+  }
 }

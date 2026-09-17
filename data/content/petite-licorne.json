@@ -49,5 +49,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Petite Licorne monte une pièce de théâtre",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "Petite Licorne fait un cauchemar",
+      "date": "2026-08-26"
+    },
+    {
+      "titre": "Petite Licorne se fait mal",
+      "date": "2026-08-12"
+    },
+    {
+      "titre": "Petite Licorne fête son anniversaire",
+      "date": "2026-07-29"
+    },
+    {
+      "titre": "Petite Licorne va voir Papy et Mamy",
+      "date": "2026-07-15"
+    }
+  ],
+  "derniere_activite": "2026-09-09",
+  "frequence_jours": 14
 }

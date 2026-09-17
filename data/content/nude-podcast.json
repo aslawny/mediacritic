@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2024-04-23",
-  "frequence_jours": 10
+  "frequence_jours": 10,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "palmier d'été",
+        "titre": "Top!!! Á écouter avec plaisir!",
+        "texte": "Découverte de ce podcast via le compte Instagram et j’ai tout de suite adhérée! Les sujets sont très interessants et variés (mention spéciale pour les 1ers qui parlent des applis de rencontres), les témoignages sont très touchants et les interviews sont très bien menées par la cr…"
+      },
+      {
+        "note": 5,
+        "auteur": "Aurelia44210",
+        "titre": "Super",
+        "texte": "Vraiment de très bons podcasts, univers variés très intéressant, écoute agréable. J’ai sur-kiffé la série sur l’envers des faits divers. Un sujet vu nulle part ailleurs avec un protagoniste hyper attachant.…"
+      },
+      {
+        "note": 5,
+        "auteur": "elpenta",
+        "titre": "Pépite 💎",
+        "texte": "Le casting est dingue, mais prenez n’importe quelle personne avec une histoire incroyable, encore faut il savoir la raconter et la mettre en valeur. C’est le talent de nude. La réalisation et le travail de fond et de forme rendent chaque épisode aussi captivant que pertinent.…"
+      }
+    ]
+  }
 }

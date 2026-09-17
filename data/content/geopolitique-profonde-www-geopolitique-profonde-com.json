@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-05",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "JTM2A",
+        "titre": "Super Média de RéInformation",
+        "texte": "Bravo à vous pour les sujets traités, le choix des invités (ça change des médias comme BFM,LCI,France Info,etc..), ce qui permet d’ouvrir les yeux sur le monde Réel et de mieux comprendre la géopolitique ainsi que le monde comment et par qui il est géré.…"
+      },
+      {
+        "note": 1,
+        "auteur": "elbandido 919",
+        "titre": "Géopolitique pronfonde : ça ne vole pas haut",
+        "texte": "Géopolitique pronfonde… tout est dans le titre… ça ne vole pas haut."
+      },
+      {
+        "note": 5,
+        "auteur": "Benarfa44",
+        "titre": "Remerciements",
+        "texte": "Quel bonheur d’être enfin bien informé. Je suis ravi de pouvoir écouter tous les intervenants qui, pour une fois sont libres, de dire tout ce qu’ils pensent sans avoir peur d’être censuré. Je vois qu’il y a pas mal de une étoile, mais nous savons tous d’où ça vient.…"
+      }
+    ]
+  }
 }

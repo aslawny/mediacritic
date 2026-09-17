@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-01",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Chvdyj",
+        "titre": "Podcast incroyable",
+        "texte": "As Salam aleykoum Tres bon poscast mashaAllah Je l’ai dévoré ! Quel plaisir de voir la montée de podcast sur notre belle religion… Cependant j’aimerais t’informer d’une erreur que tu as faites dans l’episode 10.…"
+      },
+      {
+        "note": 1,
+        "auteur": "linou<3",
+        "titre": "5 étoiles bien mérités ! 💝",
+        "texte": "As salam aleykoum, j’ai découvert ton podcast à travers une sœur qui le conseillait, depuis je ne fais que de t’écouter, pourtant pas très adepte de ce concept au départ, au lieu d’écouter de la musique je vais écouter tes podcasts, tu es d’une douceur incroyable, tu ne juges jam…"
+      },
+      {
+        "note": 5,
+        "auteur": "Narsbd",
+        "titre": "ALLAHOUMA BARIK!! 🥹",
+        "texte": "WAOUH !🤩 Jazak Allahu Khayran franchement tu peux même pas imaginer comment tu m’aides dans ma quête de la meilleure version de soi chaque jour. C’est ce qui me manquait dans mes podcasts .…"
+      }
+    ]
+  }
 }

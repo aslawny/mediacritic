@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-05-20",
-  "frequence_jours": 17
+  "frequence_jours": 17,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "titfany43",
+        "titre": "Passionnant",
+        "texte": "Je connais Jordan et j’aurais été bien embêtée de ne pas aimer son podcast, c’est sans doute pour ça que j’ai autant traîné avant d’écouter. Hé bien je n’aurais pas dû.…"
+      },
+      {
+        "note": 5,
+        "auteur": "HenryGale",
+        "titre": "À découvrir d’urgence !",
+        "texte": "Le point fort de ce podcast est sa programmation aussi éclectique qu’intéressantes. Tous les arts sont concernés (théâtre, cinéma, télévision, humour, télé-réalité, littérature) et elle recense des personnalités populaires au sens noble du terme comme des personnalités de niche m…"
+      },
+      {
+        "note": 5,
+        "auteur": "Adamsienne1605",
+        "titre": "Une très belle découverte",
+        "texte": "Je ne connaissais pas du tout ce podcast je l’ai découvert quand un artiste que j’apprécie y a participé… et je me suis surprise à découvrir des nouvelles choses, à écouter des nouvelles questions, avoir un ton plus reposant que celui de la radio, un podcast reposant et rempli d’…"
+      }
+    ]
+  }
 }

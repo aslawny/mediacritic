@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-07-05",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Djazairi",
+        "titre": "Inspirant",
+        "texte": "Je trouve cette initiative superbe. Les podcasts réalisés ont un contenu de qualité Masha Allah. Très inspirant pour les frères et soeurs entrepreneur(ses) mais également pour celles et ceux qui ont pour vocation de suivre leur propre chemin. Je recommande 1000 fois !"
+      },
+      {
+        "note": 1,
+        "auteur": "nimimaru",
+        "titre": "Diversité et c’est top",
+        "texte": "la religion c’est pour tout le monde quelque soi la couleur de la peau..."
+      },
+      {
+        "note": 5,
+        "auteur": "Sytronnade",
+        "titre": "Podcast inspirant et motivant",
+        "texte": "Merci pour cette merveilleuse chaîne de podcast. D’une grande nécessité, inspirante et motivante qui permet d’avoir une vue d’ensemble sur les différents acteurs musulmans qui AGISSENT et donnent de la valeur à leurs actions. Un conseil abonnez-vous !"
+      }
+    ]
+  }
 }

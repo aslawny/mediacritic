@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-08-28",
-  "frequence_jours": 3
+  "frequence_jours": 3,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "cmiraglio",
+        "titre": "Merci des Petits Zécolos",
+        "texte": "Toujours un plaisir d’écouter les podcasts de Marc Mortelmans ! Je les écoute souvent en dessinant des insectes pour la collection de livres jeunesse consacrée aux petites bêtes « le jardin de Juliette et Joséphine ».…"
+      },
+      {
+        "note": 5,
+        "auteur": "Thib1971",
+        "titre": "Génial",
+        "texte": "Le meilleur podcast que je connaisse avec les autres petits frères de la même « famille »: Baleine sous la navire : une encyclopédie amoureuse et hyper bien racontée des espèces, du plus rares et méconnues aux plus connues, avec des infos rares et précieuses.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Aliceortolan",
+        "titre": "A écouter d’urgence surtout les émissions sur les idées fausses",
+        "texte": "Ces podcasts sont les plus beaux que je connaisse sur le vivant: Baleine sous gravillon, qui raconte les espèces et leur secrets leurs comportements. Nomen le plus culturel de la bande, qui explique l’origine du nom des espèces.…"
+      }
+    ]
+  }
 }

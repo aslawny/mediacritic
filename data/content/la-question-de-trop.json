@@ -34,5 +34,31 @@
       "date": "2026-08-14"
     }
   ],
-  "derniere_activite": "2026-08-31"
+  "derniere_activite": "2026-08-31",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Loudpeaky",
+        "titre": "Merci",
+        "texte": "J’ai toujours eu l’envie d’écouter des podcasts mais jamais eu la détermination merci aux 3 loustics de nous régaler avec leurs blagues et leurs cheminement de pensée qui ne manque pas de raisonnement et d’intelligence. Merci"
+      },
+      {
+        "note": 5,
+        "auteur": "Samy_adl13212",
+        "titre": "Trois potes et de l’humour comme on aime",
+        "texte": "De base terra, je le connais de son duo avec laink depuis 2018 et franchement le voir sur un Podcasts comme ça c’est juste vraiment cool. D’ailleurs le podcast est vraiment drôle et hyper intéressant. Je recommande les mecs"
+      },
+      {
+        "note": 5,
+        "auteur": "Kst0r",
+        "titre": "Vos voix provoquent l’extase",
+        "texte": "La foule (Karim Ethan et moi) veut savoir quelle est la meilleure invention pour l’Homme selon le peuple Merci pour tout on en veut encore signé Karim Ethan et moi"
+      }
+    ]
+  }
 }

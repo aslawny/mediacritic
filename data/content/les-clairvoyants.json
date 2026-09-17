@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-06",
-  "frequence_jours": 75
+  "frequence_jours": 75,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Kaamoulox",
+        "titre": "Votre heure mensuelle de plaisir auditif",
+        "texte": "Installez-vous pour plus de 60 min en compagnie de la voix suave de Faskil et l'enthousiasme communicatif de Foxmonsieur, servez-vous un verre, prenez un cigare si vous en avez l'envie. Ca va, vous êtes bien installés ? Un petit coussin ? Non, sûr, tout va bien …"
+      },
+      {
+        "note": 1,
+        "auteur": "Jacob4815162342",
+        "titre": "Mouais.",
+        "texte": "Pas fantastique tout ca. Critiquer dc et les films de Nolan à chaque podcast, Tout du moins les trois premiers, ça ne montre qu'une seule chose, podcast de fanboy marvels sans objectivité sur ce qui se fait à coter.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Lordofthesith1",
+        "titre": "Pour les amoureux de marvel",
+        "texte": "Aimer les films marvel et se retrouver entre amis pour en parler et imaginer ce qui adviendra dans le futur de l'univers ciné, tel est le parti pris des clairvoyants. Toujours bienveillants ils décriptent les indices de marvel studios.…"
+      }
+    ]
+  }
 }

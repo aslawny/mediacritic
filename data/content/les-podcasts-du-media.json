@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-09-08",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "nicoooooooooll",
+        "titre": "Un média essentiel pour se détourner de la propagande des plus riches",
+        "texte": "Trop important d’avoir des médias indépendants des puissants/riches et aussi capables de mener des enquêtes. Soutenez le Média pour 5€ par mois seulement, c’est important qu’il puisse continuer à exister au vu de sa grande audience !"
+      },
+      {
+        "note": 1,
+        "auteur": "Hrgygdh1525353",
+        "titre": "Ultra gauche",
+        "texte": "Encore un vomis gauchiste de plus... on n'en sort pas... ils sont partout les ultra gauchistes idéologues.... Beurk."
+      },
+      {
+        "note": 5,
+        "auteur": "sirlagron",
+        "titre": "Foot volé au prolo ?",
+        "texte": "Le foot, c un truc de blaireau, rien à voir avec le monde populaire... faut arrêter les fantasmes bourgeois. T’aimes le foot car t un ducon et personne ne t’a jamais rien volé. Assume juste tes goûts déplorables mec !"
+      }
+    ]
+  }
 }

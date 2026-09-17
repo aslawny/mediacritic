@@ -26,5 +26,31 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lola Bujan",
+        "titre": "Merci",
+        "texte": "Impossible de mieux commencer la semaine. Luchini est tout en justesse et tout en merveille, sans prétention. La sensibilité est un mot qui est désormais utilisé à tort et à travers, hélas, mais Luchini l’incarne parfaitement.…"
+      },
+      {
+        "note": 1,
+        "auteur": "fredoprado",
+        "titre": "Dommage",
+        "texte": "Ça avait bien commencé avec Luchini. Mais Sophie Marceau, elle est très décevante…"
+      },
+      {
+        "note": 5,
+        "auteur": "Hippo11-05",
+        "titre": "Sublime Luchini",
+        "texte": "Quelle merveille que cet homme qui nous offre une émission rare et brillante. Merci infiniment Monsieur Luchini de partager vos admirations littéraires qui sont aussi les nôtres et nous sortent du quotidien souvent si médiocre."
+      }
+    ]
+  }
 }

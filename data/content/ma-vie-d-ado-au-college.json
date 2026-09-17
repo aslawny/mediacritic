@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2025-06-17",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Léonie 🥊🧸🏀🥨🥐🍒🫐🦂♏️",
+        "titre": "Nul",
+        "texte": "C’est nul parce que en fait ben moi je vais en plus de ça fait plus de choses enfin des recherches pour savoir la vie des professeurs etc. enfin de toute l’école etc. quoi bref vous avez compris ou pas"
+      },
+      {
+        "note": 1,
+        "auteur": "eleven 2.0",
+        "titre": "Moyen",
+        "texte": "Bonne idée le concept est bien mais on comprends rien et c ennuyeux 😴"
+      },
+      {
+        "note": 5,
+        "auteur": "Sara 10 ans",
+        "titre": "J’adore!🤩🤩",
+        "texte": "Depuis que j’écoute ce podcast il n’y en n’a pas eu de nouveaux .😢Alors je regarde si il y en a , mais nom jamais.😭. Mais bon ce podcast est super!👍🏻🥳"
+      }
+    ]
+  }
 }

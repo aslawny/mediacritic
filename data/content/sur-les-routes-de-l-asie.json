@@ -26,5 +26,31 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Laurent Jpn",
+        "titre": "voyages immobiles et formidables",
+        "texte": "merci pour ces moments de voyages .....les ecouteurs rivés sur les oreilles alor que le paysage défile. Magie de la \"radio\" , magie de la voix Certains moments ont fait remonter des souvenirs de voyages d'il y a pas mal d'années maintenant.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Hel Ne",
+        "titre": "Perfect road trip",
+        "texte": "Bonjour romain , merci pour tes excellents podcasts qui nous font tous autant voyager les uns que les autres 😊 Passionnée par la montagne , les voyages et la culture asiatique , je souhaite entamer un petit road trip l année prochaine à travers l Asie du Sud en faisant évidement…"
+      },
+      {
+        "note": 5,
+        "auteur": "Grenade0733",
+        "titre": "Génial",
+        "texte": "Un podcast génial, enrichissant et captivant qui donne envie de voyager certes mais qui permet également de voyager en esprit si on a ni les moyens ni le temps de le faire.…"
+      }
+    ]
+  }
 }

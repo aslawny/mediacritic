@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-07-08",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Kitkit collec",
+        "titre": "Un rendez-vous attendu",
+        "texte": "Comme pas mal d’auditeurs, je pense, j’ai découvert le podcast avec les chroniques galactiques. J’ai par la suite eu grand plaisir à parcourir ce podcast riche et très bien construit. Le côté narratif en parallèle du sujet traité dans l’épisode est toujours agréable.…"
+      },
+      {
+        "note": 2,
+        "auteur": "kube1208",
+        "titre": "C’est quoi l’intérêt ? …",
+        "texte": "C’est quoi l’intérêt des histoires et des bruitages durant les podcasts ? De plus, obligé d’écouter Jérome de 24FPS sur les podcasts qui m’intéressaient … 2 étoiles pour l’effort mais pas plus. N’est pas Star Wars En Direct, qui veut …"
+      },
+      {
+        "note": 5,
+        "auteur": "Leliliputien",
+        "titre": "Juste quelques suggestions 😎",
+        "texte": "Je trouve que ce podcast est vraiment bien 👍 j’aimerai juste que vous faisiez des épisodes sur : batllfront 1 et 2 je sais il y a l’épisode spécial jeux vidéo mais j’aimerai bien qu’on en parle un peu plus .…"
+      }
+    ]
+  }
 }

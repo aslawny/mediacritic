@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-20",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "a disapointed citizen!",
+        "titre": "Une bouchée de culture G entre potes",
+        "texte": "Podcast très intéressant! Les intervenants sont super chill et très intéressant! Kevin est encore plus détendu qu’il ne l’était dans son émission, il se lâche tel un oiseau libre 😆 mais j’vous rassure c’est audible c’est pas agressif.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Elsan68",
+        "titre": "Combat louable mais perdu d’avance",
+        "texte": "Ton combat est louables, mais il est perdu d’avance malheureusement. Pour votre santé mentale, arrêtez d’écouter les médias et vivez en dehors de ce système. La vraie vie ce n’est pas cela."
+      },
+      {
+        "note": 5,
+        "auteur": "Lilith8284",
+        "titre": "Podcast incroyable",
+        "texte": "Très agréablement surprise de redécouvrir Kevin Razy ,( que ma copine et moi avions connu il y a bien 8-10 ans via YouTube sur des vidéos qui nous faisaient déjà bien rire à l’époque) sous un angle beaucoup plus axé sur de la politique intersectionnelle en étant vraiment intéress…"
+      }
+    ]
+  }
 }

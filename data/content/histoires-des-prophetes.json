@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2025-03-15",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "tahiti.flex",
+        "titre": "La meilleure chaîne youtube fr",
+        "texte": "BaarakaAllahu fikoum pour l’immense travail que vous et votre équipe fournissent dans la transmission de la science de la religion. Pour ceux qui ne connaissent pas la chaîne youtube, allez écouter toutes les playlist et en particulier celle sur la croyance musulmane.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Khadija bint Abdelhamid",
+        "titre": "De super explications 🌟",
+        "texte": "Salam alikoum, qu’Allah vous permettre de continuer dans ce sentier. Vos explications me facilitent énormément la compréhension de l’islam. Cela me facilite également l’apprentissage du Quran. Et vos podcasts et vidéos YouTube viennent expliquer les versets que j’étudie.…"
+      },
+      {
+        "note": 5,
+        "auteur": "khaliya hawa",
+        "titre": "Découverte",
+        "texte": "Je suis tellement heureuse, al hamdoulilah d’être tombée sur ce podcast ! Merci pour ces cours ! J’espère bientôt retrouver le reste de la chaîne youtube en podcast inshAllah ! Merci beaucoup !"
+      }
+    ]
+  }
 }

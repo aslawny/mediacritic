@@ -27,5 +27,31 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "SB75015",
+        "titre": "À poursuivre !",
+        "texte": "J’ai écouté les deux premiers. J’aime beaucoup le thème, le lien avec le voyage, les détails sur la production et tout ça partagé autour du choix d’un thé par épisode. Hâte d’écouter les suivants ! Un bémol, le son devient beaucoup trop faible lors des passages de dégustation.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Jp17000",
+        "titre": "Une incroyable immersion",
+        "texte": "Ce podcast est une incroyable immersion dans un monde que je n’imaginais pas si vaste. Le duo est parfait. D’un côté, la novice que nous sommes (pratiquement) tous, et de l’autre le professionnel que nous avons tous envie de devenir tant son bonheur de faire partager ses connaiss…"
+      },
+      {
+        "note": 5,
+        "auteur": "jfkjfhd",
+        "titre": "Top",
+        "texte": "On écoute pour se distraire et se détendre et voilà qu’on est happé par le sujet qui devient passionnant grâce aux questions toutes simples de Sidonie BONNEC: toutes celles qu’on se pose mais qu’on n’aurait pas osé formuler de peur qu’elles soient trop naïves.…"
+      }
+    ]
+  }
 }

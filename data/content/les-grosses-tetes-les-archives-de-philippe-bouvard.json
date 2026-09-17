@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-09-12",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "elsparrow",
+        "titre": "De l’esprit, enfin !",
+        "texte": "Qu’il est bon de retrouver tous ces instants avec de trop nombreux disparus. Quelle culture et quel humour ! Oh, bien sûr, c’est parfois un peu en-dessous de la ceinture mais on pouvait plaisanter alors, et librement …"
+      },
+      {
+        "note": 1,
+        "auteur": "Phil78567",
+        "titre": "Ridicules",
+        "texte": "Des extraits de 6 mins ? Sérieux ? Quel manque de respect pour les abonnés…"
+      },
+      {
+        "note": 5,
+        "auteur": "juirrtyu",
+        "titre": "Génial",
+        "texte": "Les pseudos GT actuelles vont pouvoir saisir la différence entre la culture, l’humour, le raffinement et l’ersatz populiste et grossier qu’ils en proposent, Merci à Philippe Bouvard Les vraies GT c’est quand même autre chose! Pierre Benichou forever 💕"
+      }
+    ]
+  }
 }

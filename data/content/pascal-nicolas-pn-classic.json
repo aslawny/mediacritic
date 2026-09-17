@@ -25,5 +25,29 @@
     "sport"
   ],
   "addedAt": "2026-08-09",
-  "updatedAt": "2026-08-09"
+  "updatedAt": "2026-08-09",
+  "episodes_recents": [
+    {
+      "titre": "TOUT LE MONDE peut courir ici",
+      "date": "2026-09-04"
+    },
+    {
+      "titre": "Une Switch 2 pour 99€ ?",
+      "date": "2026-07-29"
+    },
+    {
+      "titre": "La valeur sûre c’est 123 Pare-Brise",
+      "date": "2026-07-27"
+    },
+    {
+      "titre": "Vous connaissez l’ADAS ?",
+      "date": "2026-07-25"
+    },
+    {
+      "titre": "Le NOUVEAU TGV ne tombera (presque) plus en panne",
+      "date": "2026-07-19"
+    }
+  ],
+  "derniere_activite": "2026-09-04",
+  "frequence_jours": 28
 }

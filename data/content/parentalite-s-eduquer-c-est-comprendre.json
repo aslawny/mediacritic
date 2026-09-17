@@ -26,5 +26,55 @@
     "education"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Matilde Castro Mendes",
+        "titre": "Un podcast qui fait du bien",
+        "texte": "Très bon podcast qui aborde avec clarté et bienveillance divers aspects de la parentalité, sans les conseils dogmatiques, les simplifications abusives ou les considérations lénifiantes que l’on trouve si souvent dans les publications pour parents.…"
+      },
+      {
+        "note": 1,
+        "auteur": "laviaux",
+        "titre": "Misogyne et retrograde..",
+        "texte": "Tres decue par ce programme, qui est un ramassis de clichés sexistes (on a toujours « un patron » et « une maitresse » ha bon…). Au secours."
+      },
+      {
+        "note": 5,
+        "auteur": "Corena_Agashi",
+        "titre": "Merci",
+        "texte": "Bonjour ! Merci pour ce podcast intéressant et concret. J’ai beaucoup aimé celui sur l’abus sexuel. Ce serait intéressant d’aborder également sur l’après : comment devenir parents après avoir vécu soi-même de l’abus lors de son enfance.…"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "La place du père",
+      "date": "2026-09-16"
+    },
+    {
+      "titre": "Les allergies alimentaires",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "L'adoption",
+      "date": "2026-09-02"
+    },
+    {
+      "titre": "Les troubles dys",
+      "date": "2026-07-29"
+    },
+    {
+      "titre": "L'éco-anxiété",
+      "date": "2026-07-22"
+    }
+  ],
+  "derniere_activite": "2026-09-16",
+  "frequence_jours": 7
 }

@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2025-12-18",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "EIIIIR",
+        "titre": "Un podcast pour les vacances... et après... 🤫",
+        "texte": "Merci pour ces émissions revigorantes, dépaysantes et rafraîchissantes mais... après les vacances c’est toute l’année que l’on a envie de voyager car c’est aussi et surtout dans les têtes que cela se passe...…"
+      },
+      {
+        "note": 3,
+        "auteur": "Cunégo de",
+        "titre": "Problème de podcast",
+        "texte": "Pourquoi ne pas mettre l’intégralité de l’émission au lieu d’un découpage qui rend le podcast inaudible ?"
+      },
+      {
+        "note": 5,
+        "auteur": "Studtinou",
+        "titre": "Merci et Bravo !!",
+        "texte": "Encore un grand merci à toute l’équipe de « Et si on partait » qui, encore cet été, nous a permis une heure d’évasion quotidienne sur Europe 1, animée toujours aussi brillamment mais néanmoins avec bonne humeur par Philippe Gougler (quel talent …"
+      }
+    ]
+  }
 }

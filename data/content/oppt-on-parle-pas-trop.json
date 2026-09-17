@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-03-15",
-  "frequence_jours": 20
+  "frequence_jours": 20,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "_petithibiscus_",
+        "titre": "Super !",
+        "texte": "Je te suis deja sur YouTube depuis plusieurs années et là aujourd’hui pendant que je me coiffais j’ai du écouter presque tous tes podcasts ! Merci à toi pour ce contenu de qualité avec toujours une petite pointe d’humour, fidèle à toi …"
+      },
+      {
+        "note": 5,
+        "auteur": "Prisc_972",
+        "titre": "Épisode sur la rupture",
+        "texte": "Salut, merci beaucoup pour ce nouvel épisode. Tu as eu raison de faire l’épisode du célibat malgré que tu sois en couple depuis. Déjà ça te permets de voir ton évolution mais aussi de nous l’avoir fait partager merci beaucoup. 💫☀️"
+      },
+      {
+        "note": 5,
+        "auteur": "Privately lylou",
+        "titre": "Top ;)",
+        "texte": "Merci pour tes analyses pertinentes et ton humour ;) Les podcast sont particulièrement bien articulés et tout le monde peut s’identifier a une situation vécue Je prends beaucoup de plaisir a t’écouter Lynda 46 ans 🫶🏽"
+      }
+    ]
+  }
 }

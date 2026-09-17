@@ -47,5 +47,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Episode 109 : Jonathan Lambert",
+      "date": "2026-09-16"
+    },
+    {
+      "titre": "RadioGPT Libre #7 : Balladur's Gate, Pierre Chanvrier & Réduction des méfaits",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "RadioGPT Libre #6 : Update, Réseaux Sociaux & Super Concept",
+      "date": "2026-09-02"
+    },
+    {
+      "titre": "Episode 108 : Un chakra ça va, deux chakra bonjour les dégats",
+      "date": "2026-08-26"
+    },
+    {
+      "titre": "RadioGPT Libre #5 : Larves & Rencontres bordelaises",
+      "date": "2026-08-19"
+    }
+  ],
+  "derniere_activite": "2026-09-16",
+  "frequence_jours": 7
 }

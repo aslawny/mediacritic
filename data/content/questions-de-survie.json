@@ -26,5 +26,31 @@
     "education"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "C7B8",
+        "titre": "Excellent et bienveillant, ça fait du bien",
+        "texte": "Trouvé « par hasard » je découvre le podcast sur la bienveillance avec soi même. C est juste, concis et riche à la fois, les conseils sont excellents et n ont rien d autre « à vendre » que de se faire du bien avec des conseils précis, sans se culpabiliser. Merci, merci infiniment"
+      },
+      {
+        "note": 5,
+        "auteur": "vodka wesh",
+        "titre": "Nécessaire !",
+        "texte": "Un peu de lumière dans la nuit de notre époque. Merci aux frères dominicains de se tenir là, à nos côtés pour nourrir notre espérance. Soyez bénis pour votre action. Ce podcast s’adresse à tous et offre des pistes de réflexion , avec bienveillance. Nécessaire !"
+      },
+      {
+        "note": 5,
+        "auteur": "CinderellaJacquot",
+        "titre": "Quelle découverte!",
+        "texte": "Je crois l’avoir découvert grâce à une newsletter des Jésuites. Un grand merci! Légèreté et profondeur s’accordent si bien. Vous avez beaucoup d’humour et c’est très agréable! Je vais pouvoir me nourrir de vos enseignements cet été! Bravo pour votre travail"
+      }
+    ]
+  }
 }

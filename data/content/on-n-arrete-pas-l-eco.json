@@ -23,5 +23,31 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "auditeur desespéré",
+        "titre": "On en veut encore !!!!",
+        "texte": "Bonjour à toute la dreamteam et bravo pour votre émission! C’est avec une tristesse infinie que j’apprends la fin du Grand Format. Que faut-il faire pour vous faire changer d’avis ? Écrire à la direction de Radio France ? J’y suis prête …"
+      },
+      {
+        "note": 1,
+        "auteur": "tempsdepluiedete",
+        "titre": "trop idéologique",
+        "texte": "Pas trop d’intérêt, dommage, les sujets sont des fois interessants"
+      },
+      {
+        "note": 5,
+        "auteur": "Katoches",
+        "titre": "Super émission",
+        "texte": "Merci pour votre émission: pour le choix des sujets de reportage, pour les questions pertinentes posés aux invités et pour les débats qui font avancer ma réflexion sur les thématiques abordées.…"
+      }
+    ]
+  }
 }

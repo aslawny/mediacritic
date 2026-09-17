@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Philippe Conticini | Pâtissier : \"Il y a Philippe avec ses problèmes avec l'alimentation et il y a Philippe qu",
+      "date": "2020-11-17"
+    },
+    {
+      "titre": "Sébastien Caron | Mapstr : une vie d’esthète à la recherche du beau et du bon",
+      "date": "2020-11-03"
+    },
+    {
+      "titre": "Sarah Poniatowski | Maison Sarah Lavoine : dans les assiettes d’une icône de la décoration",
+      "date": "2020-10-26"
+    },
+    {
+      "titre": "Charlotte Collard | Guide Michelin, Instagram : un mannequin devenue entrepreneuse digitale dans la gastronomi",
+      "date": "2020-09-29"
+    },
+    {
+      "titre": "Eric Kayser | Boulanger : la star du pain en toute intimité",
+      "date": "2020-09-22"
+    }
+  ],
+  "derniere_activite": "2020-11-17",
+  "frequence_jours": 6
 }

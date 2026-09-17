@@ -26,5 +26,31 @@
     "histoire"
   ],
   "addedAt": "2026-05-31",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "LohannD",
+        "titre": "J’adore",
+        "texte": "Bonjour Yomi, je suis un très grand fan de tes podcast tu pourras faire un podcast sur ton histoire et de comment tu t’en es sorti sinon j’adore. Ps: j’ai 12 ans"
+      },
+      {
+        "note": 1,
+        "auteur": "Paul de Besancon",
+        "titre": "Chiffres mensongers en permanence",
+        "texte": "Pas une seule once d’authenticité, que du marketing. Exemple : BOURBON a exit une fois 35 M à plusieurs associés sur la base d’un PONZI et il est indiqué que c’est chaque année. Bref, podcast malhonnête."
+      },
+      {
+        "note": 5,
+        "auteur": "lebossdebrawlstars",
+        "titre": "What",
+        "texte": "Bonjour Yomi je te connais grâce à ta chaîne YouTube et je te remercie pour prendre le temps de nous expliquer comment gagner de l’argent PS : j’ai 12 ans"
+      }
+    ]
+  }
 }

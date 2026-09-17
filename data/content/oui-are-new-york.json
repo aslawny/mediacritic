@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2022-11-07",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "L'art français",
+        "titre": "Excellent Podcast sur la Tech mondiale réalisé depuis NYC",
+        "texte": "Merci Ilan pour la qualité de vos émissions ! Toute personne travaillant dans la Tech devrait y être abonné car c’est une mine d’or (gratuite) d’enseignements.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Cédric Tremeaud",
+        "titre": "SoftBank",
+        "texte": "Épisode qui avait l air hyper intéressant mais le son est trop mauvais pour écouter jusqu au bout. Dommage 😢"
+      },
+      {
+        "note": 5,
+        "auteur": "Chris Wemove",
+        "titre": "Une envie d’expatriation à chaque épisode",
+        "texte": "Toujours à la recherche de nouvelles inspirations entrepreneuriales je suis tombé par hasard sur Oui are New York et c’est un pur régal. Contrant l’habituelle Success Story de la Silicon Valley, on nous embarque sur la côte Est avec des invités plus impressionnants les uns que le…"
+      }
+    ]
+  }
 }

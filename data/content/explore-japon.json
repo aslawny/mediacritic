@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-18",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Gon Zo",
+        "titre": "Le Japon sans filtre et vrai. Un must.",
+        "texte": "Ce podcast est fabuleux. Ngee raconte son Japon, ses voyages, ses ressentis sans rien imposer. Il nous parle d’un Japon parfois invisible pour nous avec moult détails pour de futurs voyages sur place, des conseils, des avis, des lieux à visiter, des lieux où manger et des lieux o…"
+      },
+      {
+        "note": 1,
+        "auteur": "Priiciiyaya",
+        "titre": "Mouai",
+        "texte": "Deglinguer des youtubeurs comme Louis San (oui je l’aime bien) ou d’autres, critiquer, être négatif et râler y’a pas plus toxique, frustré ? Jaloux? Pour arriver à leur niveau il faut s’en inspirer et non les critiquer. Un peu beauf dans la manière de penser et l’état d’esprit."
+      },
+      {
+        "note": 5,
+        "auteur": "Eximma06",
+        "titre": "Une superbe découverte !",
+        "texte": "J’ai découvert le Podcast Explore Japon un peu par hasard lors de recherches sur la vie au japon, notamment d’un étudiant en école de langue. Je suis depuis devenu accro …"
+      }
+    ]
+  }
 }

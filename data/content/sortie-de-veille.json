@@ -26,5 +26,31 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Nigento 5788",
+        "titre": "Super !",
+        "texte": "Très bon podcast , je l’écoute tout les jours ou presque car il arrive que j’oublie mais je me rattrape en écoutant ceux que j’ai louper avec celui du jour. Il n’y a pas la possibilité d’avoir une notification quand un nouveau podcast sort …"
+      },
+      {
+        "note": 2,
+        "auteur": "Cam337515",
+        "titre": "Le fond est bon mais la forme non !",
+        "texte": "L’un des animateur LIT son texte !!! C’est très intéressant mais ca me demande un effort sur humain pour comprendre le fond. Ça manque d’énergie, de fluidité c’est pour moi inaudible"
+      },
+      {
+        "note": 5,
+        "auteur": "batmtech",
+        "titre": "Podcast indispensable et divertissant 💯",
+        "texte": "Plaisir garanti pour les fidèles d’Apple ! Podcast (presque d’opinion !) animé par de vrais journalistes vraiment experts et indépendants, qui savent transmettre leur passion et leur analyse des informations à propos des« sorties de produits et services, et stratégies d’Apple vs…"
+      }
+    ]
+  }
 }

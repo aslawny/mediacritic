@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2024-03-12",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Jularoppe",
+        "titre": "Un sacré coup de boost",
+        "texte": "J’ai découvert le podcast de La Bascule au moment même où j’étais en pleine bascule sans vraiment le savoir. Je l’écoute désormais quotidiennement lors de mes trajets en voiture, cela me permet de m’inspirer et de me rendre compte que je ne suis pas seule à vivre ce genre d’avent…"
+      },
+      {
+        "note": 5,
+        "auteur": "Lydie - Les4envoyage",
+        "titre": "Mille mercis",
+        "texte": "Mille mercis pour ces podcasts et boites à outils qui m’ont énormément aidée à basculer ! Je suis à la veille de quitter le salariat pour l’entreprenariat, j’y serai sans doute arrivée sans tes podcasts mais je sais qu’ils m’ont été d’une grande aide et d’un grand soutien.…"
+      },
+      {
+        "note": 5,
+        "auteur": "GaëlleO",
+        "titre": "Podcast super inspirant✨",
+        "texte": "Merci pour ces interviews menées avec des invités venant de tous horizons, et dont les parcours si différents les uns des autres sont une véritable source d’inspiration. La Bascule, c’est un vrai coup de boost à chaque écoute, tout en douceur et en bienveillance.…"
+      }
+    ]
+  }
 }

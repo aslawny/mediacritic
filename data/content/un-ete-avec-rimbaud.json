@@ -26,5 +26,31 @@
     "culture"
   ],
   "addedAt": "2026-06-15",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "eloise35",
+        "titre": "Merci",
+        "texte": "On ne sait plus où commence la poésie de Sylvain Tesson et où finit celle de Rimbaud. Merci pour cette émission qui m’a fait redécouvrir « ma bohème », que j’ai appris il y a bien longtemps mais jamais oublié."
+      },
+      {
+        "note": 1,
+        "auteur": "hguhubgdd",
+        "titre": "Ce format de 4 min est insupportable.",
+        "texte": "On commence à peine à rentrer dans le sujet que l’on zappe à un autre thème. Le fond est bien sûr intéressant mais la forme gâche tout cela..."
+      },
+      {
+        "note": 5,
+        "auteur": "francesca lemarc",
+        "titre": "Quelle écriture!",
+        "texte": "C’est merveilleux, percutant, si généreux, si beau. Même la voix est vive comme Rimbaud ! Vive la poésie qui inspire tous les matins à la place de l’humour méchant qui rétrécit! Merci Sylvain ."
+      }
+    ]
+  }
 }

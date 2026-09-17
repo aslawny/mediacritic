@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2020-07-22",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Calie ma bbf",
+        "titre": "Avis",
+        "texte": "Tu es super hyper génial 🤩 et puis j’ai lus un commentaire qui disait que tu faisait des truck de bébé mais aussi c’est pour enfant tes podcast donc toi se que tu dois faire c’est ne pas les lire les méchancetés car tes podcast sont génial 😊"
+      },
+      {
+        "note": 2,
+        "auteur": "Ajgxwgj",
+        "titre": "Moyen",
+        "texte": "Bof je trouve pas ça assez précis dommage j’étais content d’essayer parce que quelqu’un me la montrer et je suis in peu déçu 😔😔😔😔"
+      },
+      {
+        "note": 5,
+        "auteur": "yhbujnik'ol,pm.,?,?",
+        "titre": "J’aime beaucoup merci",
+        "texte": "Super je l’écoute tous les jours avant de dormir, j’etait abonnés au petit quotidien mais j’ai grandi donc maintenant je suis abonné a mon quotidien mais mon frère l’est toujours et je l’adore donc je peut quand même en profiter ! 😊"
+      }
+    ]
+  }
 }

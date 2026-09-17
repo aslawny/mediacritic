@@ -49,5 +49,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Le prisonnier de Téhéran",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "Les enfants de mon père",
+      "date": "2026-08-26"
+    },
+    {
+      "titre": "Mariée à ma témoin",
+      "date": "2026-08-12"
+    },
+    {
+      "titre": "Sur les traces du monastère invisible",
+      "date": "2026-07-29"
+    },
+    {
+      "titre": "Un trésor sur le sable",
+      "date": "2026-07-15"
+    }
+  ],
+  "derniere_activite": "2026-09-09",
+  "frequence_jours": 12
 }

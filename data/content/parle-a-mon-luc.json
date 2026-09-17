@@ -26,5 +26,55 @@
     "series"
   ],
   "addedAt": "2026-06-18",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Jedrosik",
+        "titre": "Ma passion",
+        "texte": "Voila 2 épisodes monstrueux, je suis fan de chez fan, vous faites partie de mon taf, je bouge beaucoup et donc je vous écoute partout ! Je me suis tapé tous les épisodes de MDR/SUPER CINE BATTLE/AFTER HATE.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Flav6983",
+        "titre": "Tirer à vue",
+        "texte": "Podcast sympathique mais l’acharnement sur Luc Besson devient un peu pénible au bout du compte."
+      },
+      {
+        "note": 5,
+        "auteur": "david belaire",
+        "titre": "J’ai mal à mon Luc !!",
+        "texte": "Luc a été un phare dans la nuit pour le temps de subway ( film d’adolescence du coup j’ai des excuses ) et puis après il y a eu le grand bleu ( plus de deux heures dans un aquarium ) et après il y a eu les yamakasis Ninja ( qui manque du coup dans Jeanne d’arc ) et ce podcast ret…"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "Dog Man",
+      "date": "2025-08-19"
+    },
+    {
+      "titre": "Malavita / The Family",
+      "date": "2023-10-22"
+    },
+    {
+      "titre": "Lucy",
+      "date": "2021-06-09"
+    },
+    {
+      "titre": "Subway",
+      "date": "2020-06-27"
+    },
+    {
+      "titre": "Arthur 3 : La Guerre des Deux Mondes",
+      "date": "2019-11-29"
+    }
+  ],
+  "derniere_activite": "2025-08-19",
+  "frequence_jours": 211
 }

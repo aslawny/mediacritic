@@ -25,5 +25,31 @@
     "business"
   ],
   "addedAt": "2026-08-23",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Samuelmig",
+        "titre": "First hated it...now lovin' it :)",
+        "texte": "I first heard about Gary over 5 years ago and really didn't like the whole tone of it. At that time, I was freshly graduated and I guess I was more looking for something more \"conventional\" or structured...probably because I hadn't had much experience at that time.…"
+      },
+      {
+        "note": 2,
+        "auteur": "Silvia TVF",
+        "titre": "7 reasons why you should stop caring",
+        "texte": "The speaker in this podcast is definitely too vulgar and I can’t even listen to the entire podcast. Actually he might not stress his managers with what he tells them but he does with his way of talking: it’s too agressive and this stops conveying sincerity of what is being said.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Ali Bella Baci",
+        "titre": "Finally leaving my review",
+        "texte": "I’m a 23 year old French boy from North Africans parents. I’ve been following you for 3 years, your influence on me and my gratitude towards you can’t be measured. I didn’t know what to do in life (in engineering school).…"
+      }
+    ]
+  }
 }

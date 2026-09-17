@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2025-08-24",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Boulytte",
+        "titre": "Le mot de la fin",
+        "texte": "Epic mots de la fin de Richard Gotainer À la hauteur du verbe et de l’esprit gourmet de balzac, Rabelais , flaubert ou autres Dumas . Merci pour ces quelques mots qui invitent à ripailler entre amis. Francis👨‍🍳"
+      },
+      {
+        "note": 1,
+        "auteur": "jeanchristopheelleouet",
+        "titre": "Découpe des épisodes",
+        "texte": "Bonjour, Pourquoi à présent découper les émissions en morceaux de 4 ou 6 min en réécoute ? C’est insupportable et je n’écoute plus alors que c’est un de mes podcasts favoris …"
+      },
+      {
+        "note": 5,
+        "auteur": "Rachel44g",
+        "titre": "J’adore !",
+        "texte": "Podcast dynamique et tellement intéressant, rempli de variétés tant par les personnalités invitées, que par les produits évoqués, ou les recettes proposées. J’adore ! Continuez ainsi monsieur Mariotte !"
+      }
+    ]
+  }
 }

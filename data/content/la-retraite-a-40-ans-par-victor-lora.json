@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-07",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "krivin",
+        "titre": "Intéressant et énergisant",
+        "texte": "J’adore ces potcasts (meme si certains me parlent plus que d’autres!) je trouve qu’il y a toujours des tas de choses positives qui, même si elles ne démarraient pas fatalement bien sont super instructives pour nous qui les écoutons.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Paul de Besancon",
+        "titre": "Niveau médiocre / absence de stratégie",
+        "texte": "Contenu médiocre de vendeur de rêve, de formation qui contient énormément de carences et d’ineptie stratégique. Par ailleurs, le protagoniste parle d’entrepreneuriat et tous les raisonnements sont à Court Terme avec des gains mensuels… « faire facilement 50 Ke / mois »… Confondre…"
+      },
+      {
+        "note": 5,
+        "auteur": "Dugarry13",
+        "titre": "Bravo Victor pour la qualité du podcast",
+        "texte": "Victor booste ton mindset et ouvre le champs des possibles en immobilier, en entrepreneurial. Il a un vrai vécu dans le monde de l’entreprise, une expertise sur l’immo qu’il partage avec franchise et honnêteté.…"
+      }
+    ]
+  }
 }

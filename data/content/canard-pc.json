@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-07-19",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "4lragan",
+        "titre": "Pour tous les frérots & les frérottes",
+        "texte": "Ce podcast à changé ma vie ! Je veux dire vraiment. Canard Pc sur twitch c'est du JV, de l'humour et de l'actu donc en somme que du bonheur. Emissions rigoureuses & intellectuelles qui ne se prennent pas au sérieux.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Jaypharrell2302",
+        "titre": "Partagé et déçu",
+        "texte": "Faire un podcast sur ubisoft, en omettant de parler des problèmes principaux de cette boîte (wokisme, d’ailleurs affiché et revendiqué lors des piquets de grève, du niveau en chute libre des dev, au vu de leurs dernières productions, du fait qu’ils se mettent tous leurs joueurs à…"
+      },
+      {
+        "note": 5,
+        "auteur": "Tiné",
+        "titre": "LA référence",
+        "texte": "Canard PC est un îlot d’indépendance, d’humour, de rigueur, d’intelligence et de passion. Les podcasts complètent ainsi avec bonheur les magazines et le contenu numérique.…"
+      }
+    ]
+  }
 }

@@ -25,5 +25,31 @@
     "histoire"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lauwette77",
+        "titre": "Transmission & formation d'utlité publique !",
+        "texte": "Bravo Amale pour ce projet de transmission à la fois de vos savoirs, savoir-faire et savoir-être ! Il est évident que vos métiers ( oui, la petite enfance c'est une multitude de métiers, qui évoluent constamment) ont besoin d'accompagnement.…"
+      },
+      {
+        "note": 5,
+        "auteur": "sevantom",
+        "titre": "A écouter",
+        "texte": "Nous avons connu Amalle il y a 9 ans lorsqu’elle ouvrait sa première crèche à Fontenay-aux-roses . Nous avons tout de suite adhéré à sa philosophie pour lui confier notre premier enfant des l’ouverture de sa crèche .…"
+      },
+      {
+        "note": 5,
+        "auteur": "MariaKostova",
+        "titre": "QUELLE INSPIRATION",
+        "texte": "Que l’on soit professionnel de la petite enfance ou juste curieuse comme moi, ce podcast est une infiltration passionnée et passionnante dans les coulisses de celles auprès de qui nous confions nos Petits, les crèches.…"
+      }
+    ]
+  }
 }

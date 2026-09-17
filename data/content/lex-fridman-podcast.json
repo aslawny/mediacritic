@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-08-26",
-  "frequence_jours": 17
+  "frequence_jours": 17,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "XavStack",
+        "titre": "The interview style makes the show",
+        "texte": "Its rare to stick with podcasts but this one of a few I follow religiously. Lex has a laid back and philosophical approach to a subject neck deep in technical and industrial endeavor.…"
+      },
+      {
+        "note": 5,
+        "auteur": "clemars",
+        "titre": "Lex is the boss.",
+        "texte": "I wish all science outreach hosts interviewed their guests with as much intelligence as Lex does. He knows their work, he asks the questions that help nail what guests have to say, yet keeping it as simple as possible despite how deep and fundamental these subjects may be.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Fex Lridman",
+        "titre": "Best podcast",
+        "texte": "This podcast is amazing. The variety and quality of guests is exceptionnal. I love the fact that it is a long format not scripted discussion. I hope to see you next time"
+      }
+    ]
+  }
 }

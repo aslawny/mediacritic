@@ -24,5 +24,31 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Cape Elizabeth",
+        "titre": "Hopkinson Smith",
+        "texte": "Encore une série de grands entretiens passionnante, tout comme l’étaient ceux consacrés à Paul Agnew, Christophe Coin, Olivier Baumont… mais aussi récemment J.F Neuburger ou JM Luisada et bien d’autres.…"
+      },
+      {
+        "note": 2,
+        "auteur": "A. Lacourt",
+        "titre": "Podcast",
+        "texte": "Où sont passé les épisodes des grands entretiens avec Pascal Dusapin ?"
+      },
+      {
+        "note": 5,
+        "auteur": "Yshbel",
+        "titre": "Une vrai découverte",
+        "texte": "Superbe entretien avec Alexandre Desplat, après avoir assister à son concert « Au delà de l’image » écouter ce podcast ou il nous livre un petit peu de lui est une vrai immersion dans son univers et c’est un vrai plaisir que de l’écouter.…"
+      }
+    ]
+  }
 }

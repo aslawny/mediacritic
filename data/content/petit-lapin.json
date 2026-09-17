@@ -49,5 +49,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Petit Lapin a peur du noir",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "Petit Lapin à l'école",
+      "date": "2026-09-04"
+    },
+    {
+      "titre": "Petit Lapin veut devenir spationaute",
+      "date": "2026-08-28"
+    },
+    {
+      "titre": "Petit Lapin à la plage",
+      "date": "2026-08-21"
+    },
+    {
+      "titre": "Petit lapin et la nuit des étoiles filantes",
+      "date": "2026-08-14"
+    }
+  ],
+  "derniere_activite": "2026-09-11",
+  "frequence_jours": 7
 }

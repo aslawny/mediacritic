@@ -26,5 +26,31 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Coldorak",
+        "titre": "Excellent récap jeux vidéo, culture et tech hebdomadaire",
+        "texte": "Chaque semaine Faskil et Caféine nous font un excellent récap jeux, culture et tech, dans la lignée de la politique éditoriale de Geekzone.fr (bon c’est un bien grand mot, plutôt dans la lignée des domaines couverts par Geekzone.fr).…"
+      },
+      {
+        "note": 1,
+        "auteur": "Jaypharrell2302",
+        "titre": "Un peu de retenue…",
+        "texte": "Vus les commentaires de certains d’entre vous, ça ne m’étonnerait pas que vous mettriez 20/20 à dragon age ou à chaque jeu d’unisoft… Gardez vos opinions politiques pour vous, nous ne sommes pas tous des wokes démocrates"
+      },
+      {
+        "note": 5,
+        "auteur": "Monsieur Belding",
+        "titre": "Le rendez-vous du vendredi matin",
+        "texte": "Excellente sélection d’actus « geek » animée par un ancien journaliste JV adorateur de Star Citizen et un belge friand de K-Pop (ou alors je me trompe ?). L’avantage et l’inconvénient c’est que ça dure 30 minutes.…"
+      }
+    ]
+  }
 }

@@ -25,5 +25,31 @@
     "series"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Girafon",
+        "titre": "Le cinéma dans toute ses états",
+        "texte": "Excellente émission. Vive, drôle, intelligente. Laurent Delmas et Christine Masson dans un duo sympathique et complémentaire. Les invités sont souvent bien choisis, intéressants, et les échanges n'ont rien à voir avec l'exercice promotionnel habituel.…"
+      },
+      {
+        "note": 1,
+        "auteur": "phrensouaze",
+        "titre": "Jean Pierre Bacri",
+        "texte": "Je suis très déçue qu’une émission dédiée au cinéma ait consacré aussi peu de temps pour rendre hommage à Jean Pierre Bacri. 5 mn c’est bien court pour cet auteur et acteur brillant..."
+      },
+      {
+        "note": 4,
+        "auteur": "Chabrol24",
+        "titre": "Le Daim alors... ?",
+        "texte": "Bonjour. J’aurais bien aimé connaître votre avis sur Le Daim, plutôt que la (superbe) déclaration de Dujardin. Si vous n’avez pas aimé, dites le. Car j’aime beaucoup votre liberté de ton. Bonne suite."
+      }
+    ]
+  }
 }

@@ -23,5 +23,31 @@
     "rénovation",
     "DIY"
   ],
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "paulito_m",
+        "titre": "On kiffe vos podcasts!",
+        "texte": "Les podcasts permettent vraiment de comprendre comment tous vos projets s’inscrivent dans vos vies, et de mieux transmettre le travail que tout cela vous demande.…"
+      },
+      {
+        "note": 5,
+        "auteur": "paploox",
+        "titre": "Les artistes les plus humains du XXIe siècle",
+        "texte": "Ils font du sport, ils explorent, ils en retirent toute la beauté dont ils sont capables. Il faudrait que le monde soit un peu plus comme eux"
+      },
+      {
+        "note": 5,
+        "auteur": "Carotkid",
+        "titre": "Les meilleurs évidemment",
+        "texte": "HTR c'est de la sincérité, de l'amitié, de l'humour, mais évidemment surtout du dépassement de soi, de la sueur, des grues et des moteurs !"
+      }
+    ]
+  }
 }

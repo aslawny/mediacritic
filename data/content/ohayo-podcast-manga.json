@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-04-08",
-  "frequence_jours": 8
+  "frequence_jours": 8,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "jjejubi",
+        "titre": "Super podcast 👍🏽",
+        "texte": "J’ai découvert ta chaîne quand je me suis remise aux podcasts et franchement rien à dire : j’aime beaucoup! Alors bien sûr j’ai commencé par les podcasts dont tu parles de mangas que je connais, que j’ai lu ou entendu parler mais ensuite j’ai vite compris qu’il fallait absolument…"
+      },
+      {
+        "note": 1,
+        "auteur": "Ubigaa",
+        "titre": "Manque de connaissance sur le sujet",
+        "texte": "Les mangas abordés dans ce podcast sont exclusivement ceux qui sont les plus populaires. Cela dit, si les arguments et critiques étaient solides et bien construits, cela pourrait compenser cette limitation, mais malheureusement, ce n'est même pas le cas."
+      },
+      {
+        "note": 5,
+        "auteur": "Paulinepouet",
+        "titre": "Un podcast à l’image de sa créatrice",
+        "texte": "Des podcasts sur le manga, il y en a plusieurs. Tous ont une patte mais ce qui distingue Ohayô des autres c’est sa créatrice : celle-ci a découvert le manga il y a peu de temps et c’est ça qui rend le podcast intéressant …"
+      }
+    ]
+  }
 }

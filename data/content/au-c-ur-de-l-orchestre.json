@@ -24,5 +24,31 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "docteur malade",
+        "titre": "Bonheur",
+        "texte": "Melomane de longue date sans étude musicale ( Medecin spécialiste en retraite , ancien abonné aux salles parisiennes ) Actuellement hospitalisé (premier jour d’autonomie ce jour ) .…"
+      },
+      {
+        "note": 5,
+        "auteur": "Taos59000",
+        "titre": "Fabuleux",
+        "texte": "Émission passionnante, quelque soit le sujet Christian Merlin transporte l’auditeur dans les coulisses historiques et actuelles de l’orchestre symphonique.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Doubi64",
+        "titre": "Passionnant, instructif et même émouvant",
+        "texte": "De loin, pour moi, la meilleure émission de France Musique ; outre des talents pédagogiques hors pair et une culture musicale encyclopédique, Christian Merlin fait preuve d’une bienveillante simplicité de ton, aux antipodes de la pédanterie qui fut trop longtemps la marque de fab…"
+      }
+    ]
+  }
 }

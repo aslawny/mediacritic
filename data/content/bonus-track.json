@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-28",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Jeff_60",
+        "titre": "Genial",
+        "texte": "Quel plaisir de retrouver Bonus track cet été et de revisiter tous les styles et tous les genres avec une foule de petits details sur les chansons super cools.…"
+      },
+      {
+        "note": 1,
+        "auteur": "jerome ardeche 07",
+        "titre": "Arrêtez avec vos pubs",
+        "texte": "C’est quoi ces nouvelles pubs en pleins milieu ? Ça gâche tout Dommage je change de chaîne"
+      },
+      {
+        "note": 5,
+        "auteur": "Mio-mao",
+        "titre": "Top",
+        "texte": "C’est juste l’émission que j’attendais : histoires et généalogies des chansons de notre vie , présentées avec gentillesse et sympathie, en toute simplicité par cet excellent animateur qui mériterait les plus grandes consécrations ( ça fait du bien cette modestie et ce grand profe…"
+      }
+    ]
+  }
 }

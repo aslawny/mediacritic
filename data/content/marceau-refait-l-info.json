@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-09-11",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Jean Peuxplus",
+        "titre": "Piratage par une blogueuse ?",
+        "texte": "Marceau est sûrement le meilleur imitateur toutes matinales confondues. Le texte est génial et les voix pas toujours mais c’est pas ce qui compte le plus. Sinon la radio a-t-elle été piratée par la blogueuse voyage dont la pub dure plus longtemps que le podcast à la fin …"
+      },
+      {
+        "note": 1,
+        "auteur": "emanuelepn",
+        "titre": "Trop de découpes !!!",
+        "texte": "Marceau excellent, trop de publicités gâchent le plaisir, au revoir"
+      },
+      {
+        "note": 5,
+        "auteur": "Jack bal",
+        "titre": "C’est merveilleux..... sans la Pub à la fin du podcast",
+        "texte": "Rémi Marceau c’est le top de l’imitation avec toute son équipe qui me font rire chaque matin, par contre arrêtez de mettre cette PUB de dingue à la fin du podcast que personne n’écoute j’en suis sur. Je suis à la limite de me désabonner car cette pub m’agace.…"
+      }
+    ]
+  }
 }

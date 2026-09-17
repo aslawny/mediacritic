@@ -27,5 +27,31 @@
     "famille"
   ],
   "addedAt": "2026-06-27",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "J-M35",
+        "titre": "Rediff YouTube",
+        "texte": "Bien joué pour le nom du podcast, fallait y penser 😄 Pour ceux qui suivent déjà Esprit Dog sur YouTube il semblerait que l’on parte sur une rediff de ce qui est en vidéo, dommage, ça aurait été sympa un Podcast un peu plus long avec un ou plusieurs propriétaires de la race et des…"
+      },
+      {
+        "note": 3,
+        "auteur": "Lulu😱😱😱",
+        "titre": "Est-ce que c’est vrai ?",
+        "texte": "Est-ce que les chiens qui ont deux races vivent plus longtemps ?🤔🤔🤔🤔🤔"
+      },
+      {
+        "note": 5,
+        "auteur": "Mamietine 1",
+        "titre": "Chien croyable!",
+        "texte": "J’adore les chiens,je recommande fortement ce podcast aux fans de chiens! Vous pourriez en faire un sur les Labradors et les Jack Russells… Mais sinon c’est INCROYABLE!! En plus c’est super interessant et très pratique si on s’ apprête à avoir un chien! 🐶❤️ Lily 10 ans et demi"
+      }
+    ]
+  }
 }

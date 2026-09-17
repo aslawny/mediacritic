@@ -24,5 +24,31 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Fin de l’apnée",
+        "titre": "Une parenthèse enchantée",
+        "texte": "Quel artiste! Chaque mot est pesé, a un sens. Cette légèreté dans un monde si lourd. Ses réflexions philosophiques touchent chaque personne, nous raccrochent à notre histoire, à qui nous sommes! A peine le billet de Mosimann terminé qu’il nous tarde de nous plonger dans le procha…"
+      },
+      {
+        "note": 5,
+        "auteur": "CharlotteParis",
+        "titre": "Une pépite!",
+        "texte": "Merci pour cette poésie, cette véracité et cette justesse tant dans les mots que les choix musicaux. J’attends ce billet toutes les semaines avec impatience!"
+      },
+      {
+        "note": 5,
+        "auteur": "stephanieleb",
+        "titre": "Un magicien du son",
+        "texte": "Tellement incroyable d’entendre des univers différents se croiser et s’enrichir grâce à sa sensibilité c’est une merveille à chaque instant !"
+      }
+    ]
+  }
 }

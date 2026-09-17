@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-06-08",
-  "frequence_jours": 81
+  "frequence_jours": 81,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Bigbenr",
+        "titre": "Passionant ! (Même si on ne compte pas aller vivre au Japon)",
+        "texte": "Chaque épisode permet de mieux comprendre comment fonctionne la vie au Japon, et surtout les japonais eux-même. Hyper intéressant pour tous les fans du Japon, et pas besoin de vouloir aller y vivre pour y trouver de l'intérêt.…"
+      },
+      {
+        "note": 5,
+        "auteur": "AislingMcG",
+        "titre": "Podcast passionnant",
+        "texte": "Ce podcast est exceptionnel de par la diversité des expériences partagées et la qualité du contenu, qui permet de découvrir de nombreuses facettes du Japon et de la mobilité internationale.…"
+      },
+      {
+        "note": 5,
+        "auteur": "YogiLeena",
+        "titre": "La vie au Japon vécue par les Français",
+        "texte": "Vivant moi-même au Japon, ce podcast m'apporte des témoignages profonds sur la perception qu'ont d'autres Français de la vie au Japon avec des expériences riches et variées. Les entretiens sont passionnants et très bien menés.…"
+      }
+    ]
+  }
 }

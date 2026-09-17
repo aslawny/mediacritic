@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2025-03-21",
-  "frequence_jours": 3
+  "frequence_jours": 3,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Le Barpais.",
+        "titre": "CE. NUMERO. 60.",
+        "texte": "Mise à jour de mon avis. Les gars ! La borne d’arrêt d’urgence, ce n’est pas que pour les vannes ! Bon sang, j’étais au volant quand vous avez énuméré les renversements de triades et l’ajout des 7ème, j’ai du m’arrêter quand on est parti sur les comparaisons de position équivalen…"
+      },
+      {
+        "note": 1,
+        "auteur": "2L2T",
+        "titre": "Discussion de comptoir",
+        "texte": "Si tu es passionné de théorie économique capitaliste à la petite semaine et de discussions de comptoir, ce podcast est fait pour toi. Si tu veux entendre parler de guitare, passe ton chemin."
+      },
+      {
+        "note": 5,
+        "auteur": "Sundaeboo",
+        "titre": "Y’a bon le retour",
+        "texte": "2eme Com : Salut les gars Sundae the bassiste de retour Vous êtes fatiguant de vérité. Plus je vous écoutes et plus je me retrouves dans vos conseils, dans les erreurs que j ai faite.…"
+      }
+    ]
+  }
 }

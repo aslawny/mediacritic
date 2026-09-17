@@ -27,5 +27,31 @@
     "culture"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "AGAPÉ.",
+        "titre": "Merci infiniment !",
+        "texte": "Hello Queeney ! Quel plaisir de voir un podcast comme le tien voir le jour. Je ne l’ai découvert que cette semaine et moi qui croit si fort au Destin, je ne peux que me sentir bénie par cette apparition dans ma vie.…"
+      },
+      {
+        "note": 3,
+        "auteur": "MissDem97",
+        "titre": "Attention",
+        "texte": "Podcast pouvant aider mais attention : 1/ vous n’êtes ni psychiatre ni psychologue alors merci de ne pas parler de vos « patients » mais plutôt de vos « clients », car ce terme de patients est utilisé pour les professionnels de santé et peut porter à confusion.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Amémémé",
+        "titre": "En un mot : merci.",
+        "texte": "Chère Queeny, j’ai envie de te tutoyer tant tu m’as semblée être devenue une amie intime dans mon quotidien, une amie qui me comprend mieux que moi-même. J’ai tellement été dans le déni de cette maladie.…"
+      }
+    ]
+  }
 }

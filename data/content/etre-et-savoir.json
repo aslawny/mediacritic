@@ -24,5 +24,31 @@
     "culture",
     "société"
   ],
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "juju689",
+        "titre": "Importante et nécessaire émission",
+        "texte": "Alors que l’enfance est enfin un sujet politique, cette unique émission de référence, brillamment animée, est un outil politique important, un espace de réflexion riche et privilégié au meilleur sens du terme.…"
+      },
+      {
+        "note": 1,
+        "auteur": "IngridL91",
+        "titre": "Très orienté",
+        "texte": "Des prises de partie claires, des invités qui ne sont pas réellement questionnés, qui peuvent maintenir des idées plus qu’orientées. Il n’y a pas concrètement d’échange, et de débat encore moins.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Miamiame",
+        "titre": "Excellente",
+        "texte": "Une émission vraiment intéressante pour l'éducatrice que je suis, je n'en manque pas une et je vais me hâter de la conseiller. Merci pour cet entretien avec Boris Cyrulnik qui était passionnant! J'ai vraiment apprécié d'entendre parler du développement affectif et de ses carences…"
+      }
+    ]
+  }
 }

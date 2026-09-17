@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2018-07-08",
-  "frequence_jours": 17
+  "frequence_jours": 17,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "LooicC",
+        "titre": "Genial!",
+        "texte": "Un bon podcast qui te fait te sentir au milieu d’une bande de potes. On sent bien l’esprit Riviera Ferraille! En plus ce premier épisode m’a ramené en enfance : Delta Force... Portés disparus...…"
+      },
+      {
+        "note": 5,
+        "auteur": "Thomas Crayon",
+        "titre": "Réussite.",
+        "texte": "À ceux qui auraient peur de ne rien capter par manque de référence sur ce type de cinéma, c'est tout le contraire! Les gars lâchent des anecdotes sur leur film préféré autour d'une thématique, c'est intéressant et c'est drôle même sans avoir vu aucun de ces \"chefs d'oeuvres\"!"
+      },
+      {
+        "note": 5,
+        "auteur": "Fabnol",
+        "titre": "Excellent!",
+        "texte": "Un vrai bonheur de retrouver l'univers de Nanarland en podcast. Plus que les nanars présentés, j'adore la manière dont vous parlez de ces \"chef-d'oeuvres\", avec un vrai sens de la formule et beaucoup de talent."
+      }
+    ]
+  }
 }

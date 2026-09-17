@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-08-28",
-  "frequence_jours": 3
+  "frequence_jours": 3,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Sirliner",
+        "titre": "Top",
+        "texte": "Sujets et invités toujours intéressants. Pensez à améliorer la qualité de vos enregistrements ce serait un vrai plus, ce n’est pas un détail. Prenez exemple sur le collimateur :)"
+      },
+      {
+        "note": 1,
+        "auteur": "xavcha99",
+        "titre": "14 oct.",
+        "texte": "Le ton de l’invité du 14 oct. est moralisateur, méprisant et hautain."
+      },
+      {
+        "note": 5,
+        "auteur": "Alias0007",
+        "titre": "Vraiment indispensable",
+        "texte": "Merci pour les analyses, merci pour les intervenants de qualité, merci pour le magasines qui très bon aussi surtout le format numérique, bref il faut continuer svp"
+      }
+    ]
+  }
 }

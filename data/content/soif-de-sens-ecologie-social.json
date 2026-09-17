@@ -26,5 +26,31 @@
     "sciences"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Bébé phoque",
+        "titre": "Inspirant, humain et qualitatif",
+        "texte": "J’ai découvert ce podcast il y a très peu de temps donc je n’ai pour le moment pas écouté beaucoup d’épisodes, mais en parcourant les différentes thématiques abordées, ça n’a fait qu’éveiller ma curiosité et m’a donné envie de porter attention à chacun des épisodes …"
+      },
+      {
+        "note": 5,
+        "auteur": "Macha.84",
+        "titre": "Merci !",
+        "texte": "Merci... pour ces moments de partage sur des sujets qui nous touchent, pour ton élan vers ces personnes qui t’inspirent, pour la simplicité du format, pour ta curiosité contagieuse, pour cette idée du “petit pas qui compte” que tu défends depuis le tout début et qui convainc, pou…"
+      },
+      {
+        "note": 5,
+        "auteur": "AntoineGayral",
+        "titre": "Un podcast au goût de bon sens !",
+        "texte": "On a rarement vu des contenus aussi bien ficelés et riches de bons conseils. J’ai eu l’occasion de découvrir Pierre Chevelle lors d’un TEDx, et ne suis donc pas dépaysé par la nature de ses propos et de ceux des personnes interviewées jusqu’ici.…"
+      }
+    ]
+  }
 }

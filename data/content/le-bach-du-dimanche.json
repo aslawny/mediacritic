@@ -24,5 +24,31 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "jmbourgogne",
+        "titre": "Une rencontre en vrai des amoureux du Bach du dimanche",
+        "texte": "Corine, j’écoute et réécoute en boucle vos émissions du BDD depuis le début. J’adore et je sais qu’il y a beaucoup d’autres aficionados. Pourquoi ne pas proposer une rencontre de tous ces amoureux ? J’imagine que votre pudeur sera mise a dure épreuve mais ça serait si bien.…"
+      },
+      {
+        "note": 5,
+        "auteur": "jeanph57",
+        "titre": "Une merveille !",
+        "texte": "Quelle merveileuse émission que ce Bach du dimanche, animée par Corinne Schneider qui nous fait pleinement partager sa passion avec un dosage parfait de commentaires éclairants et une place essentielle laissée à la musique sublime de Jean-Sébastien Bach …"
+      },
+      {
+        "note": 5,
+        "auteur": "beau-soleil",
+        "titre": "Un toulousain heureux",
+        "texte": "Toute la semaine suivant l’émission je la réécoute en podcast. C’est souvent original et hors des sentiers battus. C’est le seul endroit sur France-Musique où l’on peut entendre de l’orgue depuis Jacques Merlet.…"
+      }
+    ]
+  }
 }

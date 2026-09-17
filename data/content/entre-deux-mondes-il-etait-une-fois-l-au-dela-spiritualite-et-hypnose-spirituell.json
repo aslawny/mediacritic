@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-02",
-  "frequence_jours": 5
+  "frequence_jours": 5,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Hibou 86",
+        "titre": "Une incroyable pépite pour ouvrir nos consciences !!",
+        "texte": "Un très grand merci pour ce podcast tellement riche et éclairant pour nos consciences. Un grand merci à vous Xavier pour votre sens du partage et votre pédagogie ; merci de nous partager votre vécu et les nombreux témoignages de vos invités.…"
+      },
+      {
+        "note": 5,
+        "auteur": "kristi0210",
+        "titre": "J’adore ! Je m’en passe pas",
+        "texte": "Cela fait plusieurs mois que j’écoute les podcasts de Xavier sans mettre un avis et je me suis dit tiens il serait peut être temps de dire moi aussi ce que je pense. La qualité des podcasts est super ! Les sujets sont toujours très intéressants.…"
+      },
+      {
+        "note": 5,
+        "auteur": "AgatheCarrez",
+        "titre": "J’adore !",
+        "texte": "J’ai découvert un peu par hasard ce podcast en parcourant l’application sur cette thématique précise. Et je dois dire que ce fut une belle découverte ! Heureuse d’être tombée dessus.…"
+      }
+    ]
+  }
 }

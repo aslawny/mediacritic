@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-17",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Hafsa_04",
+        "titre": "Psychologie dans le coran",
+        "texte": "BarakaAllah u fiki pour ces podcasts de qualité. Tes mots touchent nos coeur et nous éveillent une curiosité pour la psychologie en islam. Le coran est réellement une notice pour vivre confortablement sur cette terre."
+      },
+      {
+        "note": 5,
+        "auteur": "Momo 🎨",
+        "titre": "Très inspirant, et utile pour votre quotidien",
+        "texte": "Je trouve ça tellement impressionnant ce lien entre la psychologie et l’Islam, à la fin de épisodes que j’ai pu écouter c’est comme si je me libérais d’un poids"
+      },
+      {
+        "note": 5,
+        "auteur": "Meryem.G",
+        "titre": "Tres utile a tous",
+        "texte": "Incroyable podcast allahybarek Enfin la psychologie sous le biais de notre religion Merci a toi Hafsa tu apportes énormément a notre communauté 🤍💙"
+      }
+    ]
+  }
 }

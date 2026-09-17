@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-08",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Guilikirit",
+        "titre": "Génial",
+        "texte": "Super condensé de l’actualité économique. Parfait pour se tenir à jour. De plus Anthony est très agréable à écouter, ses texte sont très bien écrit et il arrive régulièrement à nous faire rigoler, alors que les sujets ne sont vraiment pas fait pour! Bravo!"
+      },
+      {
+        "note": 1,
+        "auteur": "Jean-Marc Bogros",
+        "titre": "Plus de podcast depuis le 11 juin",
+        "texte": "Les podcasts ne se mettent plus à jour depuis le 11 juin. Alors que tous les autres podcast arrivent bien"
+      },
+      {
+        "note": 5,
+        "auteur": "Arnd3",
+        "titre": "Une matinale quotidienne de grande qualité !",
+        "texte": "Excellent podcast de qualité résumant parfaitement ce qu’il y a à savoir de l’actualité économique et boursière. Anthony est clair, concis et drôle, on y prend vraiment goût, c’est un réel plaisir de l’écouter chaque matin !!"
+      }
+    ]
+  }
 }

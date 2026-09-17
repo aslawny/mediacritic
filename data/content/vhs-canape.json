@@ -27,5 +27,31 @@
     "series"
   ],
   "addedAt": "2026-07-06",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "JeanJeanLaTaupe",
+        "titre": "Réconfort",
+        "texte": "VHS et CANAPÉ, ce sont des experts, des passionnés, qui te font découvrir les films de ta jeunesse et d’autres plus récent avec enthousiasme. Tu as l’impression de te retrouver chez tes parents avec un chocolat chaud ou avec tes potes quand tu avais 15/20 ans.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Roch Voisine94",
+        "titre": "Bonheur",
+        "texte": "Faisant partie de la majorité silencieuse, je me permets un message de félicitations. Quel bonheur de vous écouter. Vous m’aidez à concilier tant de pôles prétendument opposés.…"
+      },
+      {
+        "note": 5,
+        "auteur": "nanne753",
+        "titre": "Podcast idéal !",
+        "texte": "Tout est dans l'intitulé. Pour un \"vieux\" comme moi ayant été minot dans les années 80, et ayant écumé les vidéoclubs avec ses parents (\"Je vous parle d'un temps...\"), ce podcast est un bonheur.…"
+      }
+    ]
+  }
 }

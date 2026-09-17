@@ -25,5 +25,31 @@
     "series"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Oni95666",
+        "titre": "Un grand merci à l’équipe TALFHO",
+        "texte": "Chère membre de TALFHO, Je suis tombé sur votre Podcast il y a déjà de ça, un peu plus d’un an. Ayant le goût pour les sagas audios tel que le Donjon de Naheulbeuk, les films de manière générale et les histoires creepy, je cherchais quelque chose de proche de ses univers.…"
+      },
+      {
+        "note": 1,
+        "auteur": "ArwenArya",
+        "titre": "Passez votre chemin.",
+        "texte": "Passez votre chemin. Ces gens n’aiment pas le cinéma d’horreur et n’y connaissent rien. On se sent presque insulté d’avoir apprécié un film qu’ils détruisent sans argument constructif.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Julien Roche",
+        "titre": "Podcast of the dead",
+        "texte": "Malgré l’humour vaseux de fin de bbq avec des rednecks Texans et la longueur du contenu, j’ose avouer que je prends un grand plaisir à écouter le visionnage de mes films préférés ou détestés, avec ces anecdotes, ces avis divergents, infos etc… et même des fois je rigole …"
+      }
+    ]
+  }
 }

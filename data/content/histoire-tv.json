@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2026-06-11",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "WallaceDoom",
+        "titre": "Excellent, mais production a affiner",
+        "texte": "C’est un podcast remarquable, vraiment. Mais un podcast TF1 pourrait se fendre d’un peu plus de post-production, en diversifiant les fonds sonores et en évitant les voix électroniques en disclaimer :)"
+      },
+      {
+        "note": 1,
+        "auteur": "Bonetcha*",
+        "titre": "On attend la suite !",
+        "texte": "Une étoile car rien de nouveau depuis 2020… quel dommage ! :("
+      },
+      {
+        "note": 5,
+        "auteur": "BamBam_",
+        "titre": "Rapide mais très bon",
+        "texte": "Format court le podcast ne va pas trop trop dans les détails mais tellement passionnant, je recommande et je mets 5*"
+      }
+    ]
+  }
 }

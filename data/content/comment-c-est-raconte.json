@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2022-05-01",
-  "frequence_jours": 28
+  "frequence_jours": 28,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Patriqueque",
+        "titre": "Merci",
+        "texte": "Merci d’exposer vos analises au commun des mortels. Je trouvais lavandier un peut obscure et parfois réducteur. Vos divers références de scénaristes, vous donne une parole bien plus objective. Je regretterai parfois qu’il n’y ai pas plus de références théâtrales.…"
+      },
+      {
+        "note": 5,
+        "auteur": "AudreyH06",
+        "titre": "Enfin une super émission sur le cinéma !",
+        "texte": "J’ai écouté et vu des tonnes d’émissions sur le cinéma mais jamais une comme celle-ci. J’étais résignée par l’étroitesse d’esprit des animateurs et de leur analyse, là c’est si humain, si intelligent, j’en suis émue.…"
+      },
+      {
+        "note": 5,
+        "auteur": "SCASSOU",
+        "titre": "Vraiment intéressant, et durée parfaite",
+        "texte": "Le gars est concis, documenté, intelligent et intelligible et même si on n'aime pas le film, il s'en sert juste comme exemple pour mettre en avant des points d'écriture, et non une analyse totale de chaque film. et la durée ! C'est parfait pour mes trajets de métro.…"
+      }
+    ]
+  }
 }

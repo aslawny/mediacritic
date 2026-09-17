@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2025-05-17",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Thierry FLHE",
+        "titre": "Tous les podcast",
+        "texte": "Belle variété d’entretiens sur des sujets souvent différents du Trail et qui démontrent que tout le monde ou presque a la possibilité une fois au moins dans sa vie de sortir du quotidien et de se remettre en question.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Runtri",
+        "titre": "Podcast du 15/03",
+        "texte": "Bonjour, Épisode très pénible à écouter et quasiment soporifique votre temps et celui de votre invité est très hypnotique.."
+      },
+      {
+        "note": 5,
+        "auteur": "FlowBZH",
+        "titre": "Des sujets variés, intéressants et inspirants",
+        "texte": "Ce podcast se dénote par un éventail de sujets traités. Et chacun d’entre eux est évoqué et amené à être encore plus amplement détaillé par un intervenant reconnu dans son domaine. Santé, entraînement, actualité du trail running, histoire de vie, tout y passe quotidiennement.…"
+      }
+    ]
+  }
 }

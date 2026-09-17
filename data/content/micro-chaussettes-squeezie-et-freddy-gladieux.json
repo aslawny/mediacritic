@@ -46,5 +46,31 @@
     }
   ],
   "derniere_activite": "2024-12-24",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lisouillelanouille:3",
+        "titre": "Squeezie si tu passes par là lis stp !!!!",
+        "texte": "Je sais qu’il y a une chance sur 10 000 que Squeezie lise ce message, mais si c’est le cas, je serai la plus heureuse ! C’est juste pour te prévenir Lucas, si tu lis ce message, que tu es mon idole, que je t’admire énormément et que je te suis depuis quand même pas mal de temps.…"
+      },
+      {
+        "note": 1,
+        "auteur": "xtyou",
+        "titre": "Podcast de racaille 🤫🤬🤬",
+        "texte": "Vous êtesDes anti français, vous aimez pas la France. chez nous, on veut des français pas des YouTubers anti français (excusez moi du terme)qui parlent comme des racailles de la cité🤬👎.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Quelqu1_",
+        "titre": "Génial",
+        "texte": "Je comprends absolument pas les avis qui disent ce podcast « anti-français ». Il n’a rien d’anti-français il est simplement chill et posé. Donc soit il s’agit simplement de commentaires bidon dû à son orientation politique soit les auteurs de ces commentaires sont complètement… c…"
+      }
+    ]
+  }
 }

@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2025-06-26",
-  "frequence_jours": 4
+  "frequence_jours": 4,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "escoffieralice",
+        "titre": "Excellente enquête",
+        "texte": "Bravo à toute l’équipe pour ces 5 épisodes vraiment intéressants qui racontent de façon objective cette trajectoire assez unique en son genre.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Rachel070707",
+        "titre": "Trop cher",
+        "texte": "Je trouve pas correct et abusé que tous vos podcasts soient payants ! Je suis d’accord qu’il faut une rémunération, mettez de la pub plutot que de faire payer 40€/ans des épisodes qu’on écoute qu’une seule fois et limité."
+      },
+      {
+        "note": 5,
+        "auteur": "BenjGa",
+        "titre": "Super boulot, super podcast",
+        "texte": "J’avais autrefois démarré la page Wikipedia de TheFamily dans un objectif de démystification similaire à ce podcast, car cette société était aussi fascinante que mystérieuse, et aimant à entretenir le mystère.…"
+      }
+    ]
+  }
 }

@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-28",
-  "frequence_jours": 2
+  "frequence_jours": 2,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "nimo35",
+        "titre": "Excellents podcasts",
+        "texte": "Des personnalités intéressantes, des échanges passionnants, un style simple, franc et direct. Yacine a une réelle capacité au travers de questions pertinentes à faire sortir des points clés des parcours des personnes et cela dans la bonne humeur …"
+      },
+      {
+        "note": 1,
+        "auteur": "Germain Lec",
+        "titre": "Super podcast pour entreprendre",
+        "texte": "Un des rares podcasts capable d’accueillir des invités aussi qualitatifs en France ! Un plaisir d’écouter Yacine chaque semaine"
+      },
+      {
+        "note": 5,
+        "auteur": "ncnwnl",
+        "titre": "Une Mine d'Or pour les Entrepreneurs",
+        "texte": "À tous les entrepreneurs, enfin un podcast parfait ! C'est comme si vous étiez assis avec des entrepreneurs passionnés, écoutant leurs histoires, leurs succès et leurs échecs.…"
+      }
+    ]
+  }
 }

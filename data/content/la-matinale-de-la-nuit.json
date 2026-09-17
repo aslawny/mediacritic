@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-06-11",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Alexis du var",
+        "titre": "Bien mieux que « la dernière »",
+        "texte": "Ça faisait longtemps, que je n’avais pas autant rigolé, une très belle équipe, et on a bien vue, quand les 2 troufion de la dernière sont venus , ils ont gâchés le moment, ils n’avaient pas le niveau"
+      },
+      {
+        "note": 1,
+        "auteur": "Philippeimac2",
+        "titre": "Tellement nul",
+        "texte": "Autant j’aime l’humour absurde d’Aymeric Lompret autant cette cacophonie permanente est vraiment chiante à écouter."
+      },
+      {
+        "note": 5,
+        "auteur": "Siméon colon",
+        "titre": "Un concentré de talents",
+        "texte": "Si tu ne rigoles pas en écoutant ce podcast c’est que t’es mort à l’intérieur."
+      }
+    ]
+  }
 }

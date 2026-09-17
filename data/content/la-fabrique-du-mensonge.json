@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-07-15",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Anne B974",
+        "titre": "Passionnant accessible",
+        "texte": "Podcast devenu incontournable chez nous . Sujets traités avec pertinence et clarté. Les intervenants sont sélectionnés avec intelligence ( ex : le réel fondateur de Tesla !!).…"
+      },
+      {
+        "note": 1,
+        "auteur": "gbo45",
+        "titre": "Hors sujet",
+        "texte": "Faire un podcast sur l’IA… ou 80 % du contenu n’a rien à voir avec le sujet… Pas terrible"
+      },
+      {
+        "note": 5,
+        "auteur": "Émie ☆",
+        "titre": "Formidable podcast !",
+        "texte": "Merci à toute l’équipe pour avoir trouvé la faille dès français, (brillants ou non ). Nous sommes tous des curieux en puissance et nous nous demandons les pourquoi et les comment font les espions pour toujours trouver la faille, le vice-versa restant probablement impossible …"
+      }
+    ]
+  }
 }

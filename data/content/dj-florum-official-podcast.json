@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-07-30",
-  "frequence_jours": 55
+  "frequence_jours": 55,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Ama.Benj",
+        "titre": "Du lourd!! 🔥",
+        "texte": "Un DJ vraiment au top, qui mets vraiment l’ambiance. Que sa soit dans les boites, ou dans les soirées en pleine air ou encore au 1er partie de Keen’v.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Mister.Narsik",
+        "titre": "Au top le petiot !",
+        "texte": "Ça remonte à tellement longtemps la première fois où j’ai vu ce grand homme ! Mon dieu que le temps passe vite, mais toujours là ! Ça permet d’écouter d’autre musique, que mes playlists Spotify.. thanks boss"
+      },
+      {
+        "note": 5,
+        "auteur": "Mickey57380",
+        "titre": "Tjs au top",
+        "texte": "Que ce soit pour de longs trajets pour aller au travail, passer des soirées entre potes ou au nouvel an c’est vraiment des remixe de malade. Un grand merci"
+      }
+    ]
+  }
 }

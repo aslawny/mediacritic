@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-06-24",
-  "frequence_jours": 3
+  "frequence_jours": 3,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Jean-Michel 😋",
+        "titre": "À quand un épisode sur la vaporisation ?",
+        "texte": "Dans le dernier épisode, Marion Seclin parle de vaporisation (je suppose qu’elle a un Dynavap) et c’est un sujet passionnant qui mériterait clairement un épisode …"
+      },
+      {
+        "note": 1,
+        "auteur": "Arezkinkk",
+        "titre": "Dommage",
+        "texte": "Beaucoup moins pertinent que banana. S’il-vous-plaît, revenez aux sujets pour lesquels on vous a suivis."
+      },
+      {
+        "note": 5,
+        "auteur": "Ophrys P",
+        "titre": "Que de la bonne!",
+        "texte": "MERCI Bananakush pour ces émissions de qualité aux contenus intelligents et diversifiés. Fan de la première heure, je pense que ce podcast gagnerait à être écouté par tous, jeunes, vieux, fumeurs, abstinents, tellement chaque épisode donne du grain à moudre intellectuellement.…"
+      }
+    ]
+  }
 }

@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-08-26",
-  "frequence_jours": 3
+  "frequence_jours": 3,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Florent_deg",
+        "titre": "Très bon!",
+        "texte": "Même si, en tant que nouveau (mais très gourmand) lecteur de comics (enfin depuis avril quoi), je vous trouve parfois un peu grincheux, mais si c'était pas le cas, Sam et Steve ne seraient pas les vrais Sam et Steve :D (mais des Skrulls…hummm…).…"
+      },
+      {
+        "note": 1,
+        "auteur": "Synyster_gate",
+        "titre": "Inécoutable",
+        "texte": "Le mec tape sur son clavier comme un gogol , c’est insupportable"
+      },
+      {
+        "note": 5,
+        "auteur": "Jean-Lau",
+        "titre": "Le premier podcast français sur les comics !",
+        "texte": "J'écoute depuis les premiers épisodes, et l'émission ne cesse de s'améliorer. L'ambiance est conviviale, les propos sont pertinents, et les animateurs très disponibles pendant les différents festivals auxquels ils se rendent pour animer des panels ou interviewer des artistes.…"
+      }
+    ]
+  }
 }

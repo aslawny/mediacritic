@@ -27,5 +27,55 @@
     "news"
   ],
   "addedAt": "2026-07-06",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "jean VII",
+        "titre": "Rétro poussette",
+        "texte": "Émission top qui mériterait une hebdo que l’ensemble de la saison Tout comme un rétropoussette sur un format 45min sur une course, un coureur, un événement du cyclisme L’histoire du cyclisme est dense et mérite un vrai podcast"
+      },
+      {
+        "note": 1,
+        "auteur": "Yopi234",
+        "titre": "Qualité sonore",
+        "texte": "Émission très bien mais la qualité sonore est archi nulle… incompréhensible"
+      },
+      {
+        "note": 5,
+        "auteur": "dioux33",
+        "titre": "Les meilleurs!",
+        "texte": "Je n’étais pas un fan de vélo mais ces deux là sont magiques ! Je les ai découvert sur les routes du tour et depuis je ne me lasse pas de les écouter. Merci Cristophe et Cyril ❤️❤️❤️"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "Le triomphe d'Enric Mas sur la Vuelta !",
+      "date": "2026-09-15"
+    },
+    {
+      "titre": "Le briefing de Jérôme : \"La victoire d'Enric Mas c'est la victoire des anciens\"",
+      "date": "2026-09-15"
+    },
+    {
+      "titre": "GP de Montréal : Paul Seixas doit-il avoir des regrets ?",
+      "date": "2026-09-14"
+    },
+    {
+      "titre": "Le briefing de Jérôme : Comment Paul Seixas doit aborder ces Mondiaux ?",
+      "date": "2026-09-14"
+    },
+    {
+      "titre": "Paul Seixas sera-t-il l’homme de la fin de saison ?",
+      "date": "2026-09-07"
+    }
+  ],
+  "derniere_activite": "2026-09-15",
+  "frequence_jours": 0
 }

@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-07-02",
-  "frequence_jours": 21
+  "frequence_jours": 21,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pfanala",
+        "titre": "Excellent ! Bravo !",
+        "texte": "Un super podcast qui invite à se questionner sur nos modes de vie et de penser. Les intervenants sont pointus et experts. Le podcast est bien conçu avec des reformulations, des conclusions qui synthétisent le sujet global, des questions pertinentes, une arborescence.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Globe_trotteur",
+        "titre": "Laura Rail ?",
+        "texte": "Les thèmes sont souvent intéressants , et les invités de qualité. Mais le débit de l’animatrice, ultrarapide, limite agressif, est difficilement supportable. Il traduit bien peu d’égard pour l’auditeur.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Moosbruger",
+        "titre": "Attention, pensée vivante",
+        "texte": "Le format « salon » de cette série d’émission sur Arte est une merveille. N’attendez pas de réponses aux questions posées en préambule. Vous aurez à la place des pistes de réflexion, parfois surprenantes. Émission stimulante, entretiens hauts en couleurs.…"
+      }
+    ]
+  }
 }

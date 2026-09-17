@@ -25,5 +25,55 @@
     "vulgarisation"
   ],
   "addedAt": "2026-07-21",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Cerdon45620",
+        "titre": "Les deux papes",
+        "texte": "Je partage votre avis général. Étant engagé dans ce qu on nomme la nouvelle évangélisation ( cellule paroissiale d évangélisation et école d évangélisation saint André ) j ai trouvé que chacun des deux papes nous donne un formidable exemple d évangélisation mutuelle , pour nous l…"
+      },
+      {
+        "note": 3,
+        "auteur": "Danielflorian",
+        "titre": "Notre Père",
+        "texte": "Pourquoi employer le titre de père, frère ne conviendrait-il pas ?"
+      },
+      {
+        "note": 5,
+        "auteur": "aclé",
+        "titre": "Augmentation du son",
+        "texte": "Super podcast qui nourrit et éveille l’âme. Par contre le son est trop faible, même mis au maximum... on entend trop peu, surtout si on est dans un univers bruyant (dans le Metro, en faisant sa cuisine...).…"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "Découvrir tous les secrets du baptême (catéchisme)",
+      "date": "2024-06-30"
+    },
+    {
+      "titre": "Se débarrasser des mauvaises images sur l’Église ! (Catéchisme Catholique)",
+      "date": "2024-06-24"
+    },
+    {
+      "titre": "Tout comprendre sur le lien entre l'Esprit Saint et l’Eglise ! (Catéchisme Catholique)",
+      "date": "2024-06-17"
+    },
+    {
+      "titre": "Tout comprendre sur l'Esprit Saint à partir de la Bible (Catéchisme Catholique)",
+      "date": "2024-06-12"
+    },
+    {
+      "titre": "Tout savoir sur le jugement de Dieu",
+      "date": "2024-04-22"
+    }
+  ],
+  "derniere_activite": "2024-06-30",
+  "frequence_jours": 13
 }

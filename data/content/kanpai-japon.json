@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-09-02",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "zounettte",
+        "titre": "Merci merci merci !",
+        "texte": "Un podcast que j’ai découvert en préparant mon voyage au Japon grâce à un livre qui m’a été offert. Les voix, la douceur du ton, le rythme de narration, la composition du podcast avec toutes les facettes historiques, culturelles, sociales, gastronomiques, les petits sons, les jin…"
+      },
+      {
+        "note": 1,
+        "auteur": "Levraijaponais",
+        "titre": "Trop de pubs",
+        "texte": "Propose trop de faire de l’achat et vente de devises, c’est mal"
+      },
+      {
+        "note": 5,
+        "auteur": "uma-selene",
+        "titre": "Visit japan web avant de partir",
+        "texte": "C’est l’épisode qu’il nous fallait avant notre départ au Japon en juillet. Nous nous sommes préparés avec vos podcast (Merci bcp) et d’autres lectures pour un voyage l’été, mais l’arrivée a été mouvementée à cause d’un QR code manquant … nous avons dû compléter le papier à l’aéro…"
+      }
+    ]
+  }
 }

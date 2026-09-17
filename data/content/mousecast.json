@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-14",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Cohco",
+        "titre": "Plus de castor ?",
+        "texte": "Mon rituel du lundi matin pour aller au travail oscillant entre rap / star moyenne et de très bon mousecasteur résident (maria Paola Goat) ( Cyril mignon). J’attends ma participation pour expliquer comment a 24 ans je manage une équipe de 30 personnes tous plus âgé que moi.…"
+      },
+      {
+        "note": 3,
+        "auteur": "lekalov",
+        "titre": "Merci mais",
+        "texte": "Ngiraan et Mehdi au top, dommage que les sornettes hallucinantes proférées par certains invités (“être signé en maison de disque = être indépendant” ou le whitewashing éhonté des plateformes des streamings à la limite de la fake news) prennent tant de place."
+      },
+      {
+        "note": 5,
+        "auteur": "OTCHOSAN",
+        "titre": "Intense camaraderie autour du rap et du ciné",
+        "texte": "Des gros connaisseurs du rap/rock game mais pas que. Leur amour de la Culture est hautement contagieux et à chaque épisode on apprend quelque chose. Mais surtout la complicité de Mehdi et Ngiraan fait plaisir à entendre. Tout ça avec une autodérision a toute épreuve."
+      }
+    ]
+  }
 }

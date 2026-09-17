@@ -26,5 +26,31 @@
     "culture"
   ],
   "addedAt": "2026-06-12",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Hugo002",
+        "titre": "Fantastique !!!",
+        "texte": "Merci pour toutes ces œuvres de tout les styles qui régalent nos nuits. Par contre certaines œuvres ne sont plus accessibles ! Pourriez-vous nous dire où retrouver vos archives ? Ce serait grand et génial Continuez à produire ces merveilles …"
+      },
+      {
+        "note": 5,
+        "auteur": "PilouPeyrou",
+        "titre": "Polar en diable !!!",
+        "texte": "Pourriez vous rediffuser les programmes s’il y a qq années de samedi noir, ils étaient épatants ! Je re écoute le Debout les morts de F Vargas avec délice ! Merci à vous de revenir à des textes ‘angoissants’ qui me rappellent l’HEURE DU MYSTÈRE de mon enfance. A bientôt donc !"
+      },
+      {
+        "note": 5,
+        "auteur": "ELISABENS",
+        "titre": "Excellent, palpitant, passionnant",
+        "texte": "Florilèges d’images avec un seul vecteur : le son ! Le choix des thèmes est judicieux, variés. Parfait pour accompagner un footing ou agrémenter une tâche solitaire"
+      }
+    ]
+  }
 }

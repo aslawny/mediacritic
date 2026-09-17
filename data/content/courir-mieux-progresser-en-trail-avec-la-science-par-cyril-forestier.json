@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-31",
-  "frequence_jours": 2
+  "frequence_jours": 2,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Boeuf2kobe",
+        "titre": "Top rien à redire",
+        "texte": "Courir Mieux est clairement, pour moi, le podcast le plus qualitatif sur le trail running. Cyril Forestier fait un vrai travail de vulgarisation scientifique, avec des sources solides et des articles bien recherchés, tout en gardant toujours un lien fort avec le terrain et l’expé…"
+      },
+      {
+        "note": 2,
+        "auteur": "Laurent87600",
+        "titre": "La grosse tête",
+        "texte": "Un animateur qui donne l’impression qu’il détient la vérité sur tout. En creusant un peu, on se rend compte que son niveau sportif reste très moyen (sa cote UTMB parle d’elle-même). Bref, beaucoup d’ego pour un contenu finalement assez creux"
+      },
+      {
+        "note": 5,
+        "auteur": "Meekhell",
+        "titre": "Passionnant et indispensable!",
+        "texte": "Incroyablement pertinent et vraiment bien construit. La diction de Cyril est impeccable, fluide et empreint d’une grande pédagogie. Et c’est tellement bon de déconstruire par A+B les neuneus d’Instagram qui prônent une seule et unique façon (parfaite ?) de courir …"
+      }
+    ]
+  }
 }

@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-09-04",
-  "frequence_jours": 30
+  "frequence_jours": 30,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Birdyconnected",
+        "titre": "“Le journal des bonnes nouvelles”",
+        "texte": "J’ai découvert l’émission lors de sa diffusion sur Nova, il y a une 30aine d’année de ça. C’était, au début, un voyage intérieur solitaire entre moi et le contenu tellement riche et différent de tout ce qui existait sur les ondes, furent-elles cathodique ou radio.…"
+      },
+      {
+        "note": 5,
+        "auteur": "michange dans le cosmos",
+        "titre": "Salut Yves !!!",
+        "texte": "Papa s’appelait Yves, je ne l’ai pas connu, alors j’ai trouvé des pères de substitution, et tu en fait partit... J’ai grandit avec la planète bleue, je me suis épanouie au son de la planète bleue. On me dit différent dans les idées... allez savoir pourquoi ??!!!.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Arterich",
+        "titre": "Je veux plus de vie, père !",
+        "texte": "J'ai vu tant de choses que vous, humains, ne pourriez pas croire. De grands navires en feu surgissant de l'épaule d'Orion. J'ai vu des rayons fabuleux, des rayons C, briller dans l'ombre de la porte de Tannhäuser.…"
+      }
+    ]
+  }
 }

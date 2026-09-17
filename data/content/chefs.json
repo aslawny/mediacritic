@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-28",
-  "frequence_jours": 3
+  "frequence_jours": 3,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Cibi4131",
+        "titre": "Conte regional de la gastronomie française",
+        "texte": "L'histoire d'un chef cuisinier passionné par son métier, les produits de son terroir, le culte de la grande cuisine française avec pour icône, Joël ROBUCHON.…"
+      },
+      {
+        "note": 2,
+        "auteur": "JMR6767",
+        "titre": "Concept top mais..",
+        "texte": "Introduction et conclusion de qualité. Les concepts et les sujets sont interactifs. L’animateur intervient très fréquemment par des validations verbales successives (« ouais ouais ouais », « je comprends », etc.), ce qui interrompt le déroulé du propos des invités.…"
+      },
+      {
+        "note": 5,
+        "auteur": "isabelle de bruxelles",
+        "titre": "Merci pour ce voyage",
+        "texte": "Moment très intime, je me suis laissée emmenée par le récit de ce chef de manière très agréable, ne voyant pas le temps passer. Je pense que c’est ce que l’on demande à un podcast, merci pour cette réalisation pointue.…"
+      }
+    ]
+  }
 }

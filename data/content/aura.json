@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-07-11",
-  "frequence_jours": 29
+  "frequence_jours": 29,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mokash d’Amsterdam",
+        "titre": "Génial",
+        "texte": "La voix d’Audrey Crespo-Mara. Douce. Humaine. Presque thérapeutique. On ferme les yeux, on pourrait se croire en séance d’ASMR. Les questions sont tranchantes. Pertinentes. Elle laisse les gens répondre. On entre dans l’épisode avec Jean Dujardin ou Florian Pagny.…"
+      },
+      {
+        "note": 2,
+        "auteur": "Frenchluft",
+        "titre": "Où sont les femmes ?",
+        "texte": "Il semble que seuls les hommes ont une aura pour Audrey Crespo-Mara."
+      },
+      {
+        "note": 5,
+        "auteur": "Iza 54",
+        "titre": "Aura Florent Pagny",
+        "texte": "Merci Audrey pour ce délicieux moment. Votre voix douce et vos questions pertinentes me procurent un réel plaisir …En plus je suis une grande fan de Florent Pagny et j’aimais énormément Thierry. Bravo pour votre courage et votre gentillesse."
+      }
+    ]
+  }
 }

@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-31",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Luftstrom",
+        "titre": "Très sympa",
+        "texte": "J’aime l’ambiance, les sujets sont traités de manière intelligente. Un match de légende pour moi qui n’avait peut être pas une portée aussi historique que d’autres, Bruguera-Rafter à RG, opposition de style incroyable, un Rafter qui suit son identité jusqu’au bout et qui ne baiss…"
+      },
+      {
+        "note": 1,
+        "auteur": "Dacos31",
+        "titre": "Son pourri",
+        "texte": "Podcast = contenu audio ! Avez-vous le professionnalisme de vous écouter avant de poster une horreur pareil ? Consultant inaudible, on montre le volume, puis ça hurle à vous exploser les tympans ? Amateurisme total ! 0 étoile !"
+      },
+      {
+        "note": 5,
+        "auteur": "Pat Pacash",
+        "titre": "Vive court n 1",
+        "texte": "Votre podcast est formidable . Étant amateur, depuis + de 40 ans en 3 eme série, je me régale à chaque épisode, que vos sujets soient sur les GC ou les circuits secondaires, vous nous faites découvrir de belles personnalités, parfois inconnues mais c’est toujours passionnant .…"
+      }
+    ]
+  }
 }

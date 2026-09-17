@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-07-29",
-  "frequence_jours": 200
+  "frequence_jours": 200,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Barto95",
+        "titre": "Força Moka",
+        "texte": "Une tuerie comme toujours mec, vivement qu'on se reface une soirée comme a l'ancienne, CARPTE DIEM et autre souvenir souvenir :) A FOND DANS L'AUTO POUR SUMMER 2017 :D"
+      },
+      {
+        "note": 5,
+        "auteur": "MPokora alias Quentin 😂😂",
+        "titre": "UNE TUERIE",
+        "texte": "Superb MIX comme toujours le patron des soiree portugaise David Guetta na qu'à bien se tenir !! Des sons originaux qui change de ce qui passe en boucle !!!"
+      },
+      {
+        "note": 5,
+        "auteur": "Lamule95",
+        "titre": "Top!",
+        "texte": "Juste la compil' qu'il faut pour s'ambiancer cet été un condensés des chansons qu'on aime et c'est bien mixé moi je valide"
+      }
+    ]
+  }
 }

@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-03",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "christophePurple",
+        "titre": "Excellente interview de Franck Cassenti !",
+        "texte": "L’interview de Franck Cassenti par Ingrid est passionnante par elle révèle un acteur culturel habité et inspirant, qui narre l’aventure de la création du festival « jazz à Porquerolles », cinéaste, musicien (bassiste), organisateur de festival, il brosse aussi le portrait de ce q…"
+      },
+      {
+        "note": 1,
+        "auteur": "Porquerollette",
+        "titre": "Redondant et idéaliste, très hypocrite",
+        "texte": "Il serait intéressant d'interviewer l'envers du décor, là c'est toujours la même chose, la même catégorie de gens qui sont à l'écoute (ceux pour qui ça va à l'aise). C'est très dommage parce que ça ne reflète pas la réalité de la vie sur l'île. Côté trop bisounours.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Virginie Missonnier Hypnose",
+        "titre": "Un voyage dans les Îles",
+        "texte": "J'adore écouter le Podcast Frâgile Porquerolles, cela me permet de me Sentir encore sur ma Presqu'île de Giens quand je suis à Paris. Je l'écoute également en étant face à Porquerolles.…"
+      }
+    ]
+  }
 }

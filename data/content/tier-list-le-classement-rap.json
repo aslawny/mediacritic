@@ -25,5 +25,31 @@
     "culture"
   ],
   "addedAt": "2026-06-09",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Nicozeer",
+        "titre": "Un plaisir",
+        "texte": "Ce premier podcast a été un plaisir à écouter. Pour plusieurs raisons : -La variétés des albums choisis, elle permet que chaque « génération » soit représentée. Cela aussi permet de montrer les évolutions et les tendances dans le rap.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Samuel RS",
+        "titre": "Le classement impossible qui fait du bien",
+        "texte": "La tâche est impossible c’est ce qui rend le podcast génial ! Un vrai plaisir d’entendre des passionnés discuter avec autant de passions de tous ces albums de rap français.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Biggiesauce",
+        "titre": "Super idée par de vrai.e.s expert.e.s",
+        "texte": "Bravo pour l’idée et la qualité de vos expertises, je vous suggère de parler de Porte-parole de Pejmaxx & Soulchildren (j’propose ça car je sais que personne n’y pensera et c’est un bon album)"
+      }
+    ]
+  }
 }

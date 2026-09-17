@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-07-12",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "MuadDibmoa",
+        "titre": "Mais oui !",
+        "texte": "Trop heureux de retrouver les anciens de Gamekult, Nolife mais pas que ! Je suis déjà fan de Silence on Joue, du Cosy Corner, des Démons du MIDI… et c’est top de voir se former un nouveau media par des passionnés intelligents et sensibles, plein d’humour, de culture vidéoludique…"
+      },
+      {
+        "note": 1,
+        "auteur": "denisc3fi46",
+        "titre": "Mal aux oreilles",
+        "texte": "Je ne dirais pas les noms mais certaines ne savent pas parler français ni articuler un discours audible."
+      },
+      {
+        "note": 5,
+        "auteur": "Lucyd_yeah",
+        "titre": "Maxi Best-Of",
+        "texte": "Des transfuges de No-Life, Gamekult, JV pour du plaisir intense dans les écouteurs, que demander de mieux! Si vous aimez le jeu vidéo et les gens bien, vous pouvez y allez les yeux fermés et les oreilles grandes ouvertes."
+      }
+    ]
+  }
 }

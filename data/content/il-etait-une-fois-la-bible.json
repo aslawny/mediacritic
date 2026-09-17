@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-08-30",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "OtarieE",
+        "titre": "Bravo",
+        "texte": "Bravo à la narratrice, les podcast sont très agréables à écouter et interessants. Je trouve cependant que certaines interprétations vont un peu trop loin (Cf le commentaire sur Caïn et Abel, “Ève doit être une bonne épouse avant d’être une bonne mère”) pour le degré de certitude…"
+      },
+      {
+        "note": 2,
+        "auteur": "SansEgliseFixe",
+        "titre": "Qualitatif mais pro catho - dommage !",
+        "texte": "Podcast de grande qualité, passionnant ! Mais pourquoi faut-il à chaque fois nous parler autant de la messe etc…? Nous voyons bien aujourd’hui les limites de l’institution chrétienne, et tous ces parallèles, biaisés et non fondés, ne cessent de nous éloigner des textes.…"
+      },
+      {
+        "note": 5,
+        "auteur": "VincentRambeaud",
+        "titre": "Bravo",
+        "texte": "C’est très intéressant, on a hâte des prochains épisodes.. Vous ferez gaffe dans le montage des derniers épisodes, l’habillage de fin vient se caler aux 3/4 de la vidéo par dessus les paroles… (épisodes 7 et 9 je crois) ça sent le copier/coller au montage 😃"
+      }
+    ]
+  }
 }

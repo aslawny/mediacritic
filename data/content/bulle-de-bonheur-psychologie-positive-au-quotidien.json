@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-27",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pauline a velo",
+        "titre": "Waou….",
+        "texte": "J’adore ces petits boosts de bonheur que j’écoute pendant mes trajets travail maison. Ça m'evade… toutes ces ondes positives irriguent mon cerveau de connexion au monde et avec moi même.…"
+      },
+      {
+        "note": 5,
+        "auteur": "deborahlbee",
+        "titre": "Un de mes podcasts préférés!",
+        "texte": "Un super podcast, un format court qui permet de toujours trouver un moment dans sa journée pour écouter un ou plusieurs épisodes. Des réflexions très pertinentes, une voix très agréable à écouter, beaucoup de positivisme, je recommande ce podcast à tous ceux qui ont envie d’être…"
+      },
+      {
+        "note": 5,
+        "auteur": "Fanny ramlov",
+        "titre": "Profondeur et pédagogie",
+        "texte": "Podcast d’une grande qualité qui amène de la matière pour réfléchir, ressentir, comprendre et ouvrir des pistes . Quel bonheur d’avoir découvert par hasard ce pod cast lors d’une recherche Google sur la blessure de trahison . Ce pod cast est devenu addictif pour moi🥰.…"
+      }
+    ]
+  }
 }

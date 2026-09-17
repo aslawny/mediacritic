@@ -13,10 +13,10 @@
   "language": "fr",
   "platforms": {
     "youtube": {
-      "url": "https://www.youtube.com/@PassionRenovation",
+      "url": "https://www.youtube.com/@passionrenovation",
       "channelId": "UCJNItGjNhUx3Zz6W4OCVfHA",
       "subscribers": 394000,
-      "totalViews": 61559061,
+      "totalViews": 61567779,
       "videoCount": 125
     }
   },
@@ -30,5 +30,29 @@
     "DIY",
     "maison"
   ],
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-17",
+  "episodes_recents": [
+    {
+      "titre": "Je frôle la crise de nerfs - Ep 111",
+      "date": "2026-09-01"
+    },
+    {
+      "titre": "L'IA me rend fou sur ma Rénovation - Ep 110",
+      "date": "2026-06-27"
+    },
+    {
+      "titre": "Le cul bordé de nouilles!! 🥳 Ep 109",
+      "date": "2026-05-10"
+    },
+    {
+      "titre": "L'erreur assumée devient un choix artistique 🤦🏼‍♂️ ep108",
+      "date": "2025-12-22"
+    },
+    {
+      "titre": "Coupé en deux 👎 - Ep107",
+      "date": "2025-10-15"
+    }
+  ],
+  "derniere_activite": "2026-09-01",
+  "frequence_jours": 59
 }

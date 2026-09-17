@@ -24,5 +24,31 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Xavier75009",
+        "titre": "Meilleure émission de tennis",
+        "texte": "Émission de passionnés pour les passionnés de tennis ! Les personnalités authentiques et bien marquées de chaque chroniqueur animent joyeusement cette émission en partageant leurs immenses connaissances du circuit, de l’histoire, de la tactique, stratégie, des joueurs… c’est abso…"
+      },
+      {
+        "note": 1,
+        "auteur": "Musclor0110",
+        "titre": "Insupportable",
+        "texte": "Comment écouter des gens qui parlent entre eux ….. c’est sans intérêt. A aucun moment on pense éventuellement à l’auditeur …. Mais qui sont ces gens derrière les micros ? Fuyez ! J’ai tenu 4 minutes et c’était long très long ! Court numéro 1 voilà un bon podcast !"
+      },
+      {
+        "note": 5,
+        "auteur": "Tanguygnol_",
+        "titre": "Meilleure Émission",
+        "texte": "Exceptionnelle émission tennis qui peut plaire autant aux nouveaux suiveurs du tennis qu’aux passionnés de longue date. L’ensemble des intervenants apporte une touche différente, ce qui enrichit l’émission.…"
+      }
+    ]
+  }
 }

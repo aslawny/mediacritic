@@ -26,5 +26,55 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Abesswill",
+        "titre": "Super podcast, avec une excellente ambiance",
+        "texte": "Force à vous les gars, vous me faites kiffer avec votre podcast, et surtout l’ambiance et la bonne humeur que vous mettez💪🙏👍. Je suis un OG, et ça me rappelle, mais jeunes années où je délirer avec mes boucs en bas du bloc Force à vous et plein de succès"
+      },
+      {
+        "note": 5,
+        "auteur": "DoDo Pseu",
+        "titre": "La vie est belle",
+        "texte": "Il me semble que Fally joue dans un remake / une inspiration qui sortira prochainement sur les écrans. Attention le Zaïre avait un cinéma mais l’Afrique de l’Ouest n’était pas en reste."
+      },
+      {
+        "note": 5,
+        "auteur": "Braïyn",
+        "titre": "Voilaaaaaaaaaa",
+        "texte": "Un podcast de qualité! Ça parle vrai ça parle bien ça rigole. Des avis tranchés, de l’Histoire, des anecdotes croustillantes. Il est temps de faire ces podcast devant un public 🔥🔥🔥🔥"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "POLÉMIQUE débarque à Los Angeles ! Avec Kinya West, Noah Lunsi & Kevin Lopes Teixeira | Polémique",
+      "date": "2026-07-01"
+    },
+    {
+      "titre": "Spécial Nate Dogg avec @RouleavecDriver | Conversations Veritables",
+      "date": "2026-06-19"
+    },
+    {
+      "titre": "Jaÿ-Z a-t-il fait le braquage de 2026 avec son Freestyle ? | Questions Veritables",
+      "date": "2026-06-05"
+    },
+    {
+      "titre": "De NINO BROWN à NEMESIS : L'interview légendaire de MARIO VAN PEEBLES | Paroles Veritables Podcast",
+      "date": "2026-06-01"
+    },
+    {
+      "titre": "ROCCA | Analyse Veritable",
+      "date": "2026-05-22"
+    }
+  ],
+  "derniere_activite": "2026-07-01",
+  "frequence_jours": 10
 }

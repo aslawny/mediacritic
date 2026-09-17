@@ -26,5 +26,31 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ParisParesseuse",
+        "titre": "Formidable série consacrée au cinéma",
+        "texte": "On aimerait cette émission toute l’année ! Quel plaisir, en particulier, sur les films ! Je rêve d’entendre parler encore et encore de nombreux chef-d’œuvre et films cultes. Merci pour ces heures géniales !"
+      },
+      {
+        "note": 1,
+        "auteur": "Blk-r",
+        "titre": "L’impartialité",
+        "texte": "Bonjour, concernant la question algérienne, je trouve les protagonistes trop impartiaux. Il y a,je pense, en France un conservatisme évidant lié à la droite et l’extrême droite qui instrumentalise ce sujet.…"
+      },
+      {
+        "note": 5,
+        "auteur": "elsamars",
+        "titre": "Pépites",
+        "texte": "Série qui fait partie des pépites de l’été avec des émissions qui nous font découvrir la face cachée de films mythiques Merci à Antoine Guillot et à ses invités"
+      }
+    ]
+  }
 }

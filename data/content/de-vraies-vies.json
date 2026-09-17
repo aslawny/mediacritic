@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2024-03-30",
-  "frequence_jours": 12
+  "frequence_jours": 12,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "chettoux",
+        "titre": "Merci !!!!!!",
+        "texte": "Je voulais te remercier pour ce super podcast qui m’a vraiment aidé à surmonter certaines peurs pendant mon voyage. J’ai décidé de partir seule en voyage au Canada et les choses ont fait que je me suis retrouvée a traverser seule en voiture le Canada (et c’est très long …..…"
+      },
+      {
+        "note": 5,
+        "auteur": "Juju7402",
+        "titre": "Tellement inspirant!",
+        "texte": "Un super podcast que je viens de découvrir et qui respire la bonne humeur et l’enthousiasme!! Il parlera à toutes les jeunes filles et femmes de la génération actuelle, ces femmes qui aiment voyager ou rêvent de le faire, ces femmes qui veulent mener une vie épanouie, qui fait se…"
+      },
+      {
+        "note": 5,
+        "auteur": "Marie Fa",
+        "titre": "Ma fille",
+        "texte": "Je suis une maman qui a vécu une aventure avec ma fille et cette histoire racontée m’aide à comprendre le comment et le pourquoi de ce désir de partir . Je me retrouve ainsi que ma famille dans cette aventure .…"
+      }
+    ]
+  }
 }

@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-08",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "wardita 12345",
+        "titre": "Contenu de qualité !",
+        "texte": "Super contenu, j’apprend à chaque épisode. Les invités sont tjrs plus intéressants les uns que les autres. Petit bémol : il serait judicieux à mon sens de leur laisser plus la parole, j’ai parfois le sentiment que tu ramènes souvent à ton quotidien, tes changements de vie, ta fil…"
+      },
+      {
+        "note": 2,
+        "auteur": "Phil3111",
+        "titre": "Bien mais…",
+        "texte": "Laisse davantage parler tes invités et parle moins de toi !!!"
+      },
+      {
+        "note": 5,
+        "auteur": "#NoPseudo",
+        "titre": "PASSIONNANT 😍",
+        "texte": "Un grand merci pour la qualité des épisodes de ce podcast 👌🏻 Les intervenants sont tous aussi passionnants et intéressants. Un vrai bonheur à écouter et bien sur un podcast auquel je conseille fortement d’adhérer notamment à tous ceux qui s’intéressent aux ressources permettant d…"
+      }
+    ]
+  }
 }

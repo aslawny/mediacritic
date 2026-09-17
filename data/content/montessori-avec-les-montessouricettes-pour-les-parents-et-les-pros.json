@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-15",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Stephix83",
+        "titre": "Merci !",
+        "texte": "Je découvre seulement aujourd'hui votre travail. Et du coup je m'enfile tous les podcasts à la suite pendant mes journées de travail (graphiste je précise donc hyper compatible). Le contenu est de qualité et votre voix posée, claire, joyeuse et apaisante.…"
+      },
+      {
+        "note": 5,
+        "auteur": "alizee10110",
+        "titre": "Très utile et intéressant",
+        "texte": "Je suis maman de 2 petits jumeaux de 13 mois bientôt 14 . Je suis en congé parental et j’avoue que je commençais a tourner en rond et à ne faire que de la « garde d’enfants ». Tout le monde parle de montessori autour de moi mais personnellement je suis en pleine découverte.…"
+      },
+      {
+        "note": 5,
+        "auteur": "magi4475",
+        "titre": "Mon podcast de maman PRÉFÉRÉ",
+        "texte": "Cher Anne-Laure, je suis absolument fan de ton podcast: tellement profond, fouillé et - ce qui ne gâche rien - formulé clairement et dans une langue riche, qui permet de pleinement retranscrire toutes les nuances de sentiments des enfants (et de leurs parents)!! Au-delà des conte…"
+      }
+    ]
+  }
 }

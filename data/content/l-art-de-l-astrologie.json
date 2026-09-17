@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-07-02",
-  "frequence_jours": 16
+  "frequence_jours": 16,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "sandviet",
+        "titre": "Merci, Merci, Merci",
+        "texte": "Bonjour Annabelle je viens d’écouter mon horoscope je suis Taureau solaire et lunaire et Lion en ascendant et le 2 écoutes sont liées et cela me parle concrètement.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Marine Ch.",
+        "titre": "La meilleure astrologue à ce jour (à mon sens)",
+        "texte": "Après avoir passé 7 ans à Montréal, je suis tellement contente d’avoir découvert Annabelle Lhem depuis mon retour en France. Elle fait la jonction entre le l’astrologie moderne et l’astrologie traditionnelle comme je rêvais qu’une astrologue le fasse.…"
+      },
+      {
+        "note": 5,
+        "auteur": "fatyttarius",
+        "titre": "très accurate!!",
+        "texte": "Oui moi aussi j’ai un côté VCVD :) Alors je viens de découvrir l’horoscope saisonnier, et ayant ma lune en Belier, étant ascendant Lion et avec mon signe du soleil en Sagittaire j’ai écouté l’horoscope estival pour les signes de feu (début septembre) et c’est exactement le résumé…"
+      }
+    ]
+  }
 }

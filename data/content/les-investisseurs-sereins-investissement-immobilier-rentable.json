@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-10",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Amy202277",
+        "titre": "LA référence du podcast en Immo 🎙️🏠",
+        "texte": "Un discours franc et sans langue de bois! J’ai découvert ce podcast via l’intervention de Dorine dans le Sommet ‘les Clés de l’investissement’ du 16 au 19 Octobre de Katia Finances et j’arrive au 150ème épisode 🤪 je dévore ce podcast qui est une véritable mine d’informations …"
+      },
+      {
+        "note": 1,
+        "auteur": "adibleu",
+        "titre": "Colocation",
+        "texte": "Belle discussion de filles qui d’auto congratulent avec même pas 6 mois d’expérience… Attention aux miroirs aux alouettes de la colocation"
+      },
+      {
+        "note": 5,
+        "auteur": "Elo1909",
+        "titre": "Un des meilleurs podcast d’investissement immobilier",
+        "texte": "Podcast avec des contenus de qualité. J’attend la sortie des épisodes avec impatience. J’écoute le podcast depuis un moment et chaque épisode est intéressant et instructif.…"
+      }
+    ]
+  }
 }

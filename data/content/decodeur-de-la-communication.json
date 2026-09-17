@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-29",
-  "frequence_jours": 4
+  "frequence_jours": 4,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Maripafab",
+        "titre": "Excellent et instructif",
+        "texte": "Merci pour ce podcast très instructif et utile pour les anciens diplômés en communication comme moi qui ont besoin de se remettre au niveau. Écouter des pros qui partagent leurs expériences, leurs connaissances et n’hésitent pas à rappeler les process, c’est mieux qu’une formatio…"
+      },
+      {
+        "note": 3,
+        "auteur": "Celia9218",
+        "titre": "Vive la Comm",
+        "texte": "Super podcast instructif et qui démontre que la « comm est un métier » Merci Laurent !"
+      },
+      {
+        "note": 5,
+        "auteur": "Lectoure",
+        "titre": "Ce podcast est une vraie école ouverte sur le monde",
+        "texte": "Merci à Laurent qui a réussi en quelques mois à faire de cet outil un vrai vivier. C’est extraordinaire d’écouter des communicants et communicantes dont les parcours sont fascinants.…"
+      }
+    ]
+  }
 }

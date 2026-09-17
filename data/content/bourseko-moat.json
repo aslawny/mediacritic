@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-29",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Julian M.:",
+        "titre": "Un MOAT-have !",
+        "texte": "La qualité, la mesure et la modération sont trop rares à l’heure de l’Internet, des RS et des influenceurs qui te disent, avec aplomb et fausses certitudes, quoi et quand acheter… Merci donc à vous trois pour la qualité de vos interventions, la diversité de vos sujets et la perti…"
+      },
+      {
+        "note": 5,
+        "auteur": "Roptibull",
+        "titre": "Meilleur podcast de bourse",
+        "texte": "Tous les samedis j’attends avec impatience le nouvel épisode de Bourseko Moat. 3 hommes passionnés et passionnants qui nous aident à avoir une bonne réflexion sur le stock picking. J’adore leurs points de vues.…"
+      },
+      {
+        "note": 5,
+        "auteur": "_Virgile_",
+        "titre": "Foncez!",
+        "texte": "Xavier Delmas sera trop humble pour admettre qu’il créé de loin le contenu finance le plus pertinent en France. Je découvre avec lui le club Bourseko, ainsi que leur fondateurs, qui par leur avis différents ainsi que leurs expériences nous apportent énormément! Merci à tous les t…"
+      }
+    ]
+  }
 }

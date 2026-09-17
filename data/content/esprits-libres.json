@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2026-09-02",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Nodesign",
+        "titre": "Reference",
+        "texte": "Cette radio est devenue une référence. Des journalistes excellents (Marc Fauvel, Lenaik, Victoire Faure) et des chroniqueurs remarquables (Bavrez, Makarian, etc.). La revue de presse de Hervé Gattegno est un moment précieux de la matinée.…"
+      },
+      {
+        "note": 1,
+        "auteur": "tsacdopednaf",
+        "titre": "saucissonnage",
+        "texte": "d'une émission de 10 minutes ??? pour nous re fourguer 2 fois de la pub ! ciao, gardez les"
+      },
+      {
+        "note": 5,
+        "auteur": "Moliere2022",
+        "titre": "Qui aime bien …",
+        "texte": "Je vous écoute depuis longtemps et apprécie beaucoup vos entretiens…Mais attention à ne pas interrompre trop souvent et bruyamment vos invités. C est leur avis qui m intéresse .…"
+      }
+    ]
+  }
 }

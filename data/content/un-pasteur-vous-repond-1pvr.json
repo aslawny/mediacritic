@@ -25,5 +25,31 @@
     "vulgarisation"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Michel de Lyon",
+        "titre": "Clair, précis, pertinent et pastoral : top !",
+        "texte": "J’aime écouter Florent car il donne une analyse claire des enjeux de là questions. La perspective biblique est précisément expliquée avec des exemples et une vocabulaire compréhensible par tous. Mais il n’oublie pas qu’il est aussi pasteur dans l’âme.…"
+      },
+      {
+        "note": 5,
+        "auteur": "FL7706",
+        "titre": "Un des meilleurs podcasts chrétiens",
+        "texte": "Un excellent podcast, centré autour de la Parole de Dieu et de notre Seigneur Jésus-Christ. Chaque nouvel épisode est toujours un moment d’écoute béni …"
+      },
+      {
+        "note": 5,
+        "auteur": "Fringillae",
+        "titre": "Clair, concis, édifiant et motivant",
+        "texte": "J’apprécie vivement ce podcast, tant pour son format (suffisamment long pour ne pas effleurer le sujet, pas de blabla inutile) que pour son contenu.…"
+      }
+    ]
+  }
 }

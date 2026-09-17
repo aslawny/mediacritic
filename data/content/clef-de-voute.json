@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-24",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Paul Delak",
+        "titre": "Instructif, rythmé, concret et efficace",
+        "texte": "Je viens enfin d'écouter le premier épisode de ce podcast et je trouve le format très agréable pour différentes raisons, 20min c'est le timing parfait ni trop court ni trop long, les questions sont pertinentes, les réponses claires et enrichissantes et on se projette facilement d…"
+      },
+      {
+        "note": 1,
+        "auteur": "Cal1206",
+        "titre": "Podcast plus qu’interessant gestion de la chaine desastreuse",
+        "texte": "Impossible de profiter de la qualité de ce podcast avec cette gestion éditoriale consistant a poster, reposter, editer des emisodes de manières aléatoire"
+      },
+      {
+        "note": 5,
+        "auteur": "Cédric Team26",
+        "titre": "Facile d’accès et super pertinent",
+        "texte": "Je ne suis pas moi-même de la technique et pas très au fait du produit, mais en tant que CEO je retrouve des passerelles dans chaque interview avec mon quotidien d’entrepreneur.…"
+      }
+    ]
+  }
 }

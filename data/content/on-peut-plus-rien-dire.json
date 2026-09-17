@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2023-05-26",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "MaDesBouc",
+        "titre": "Merci",
+        "texte": "Merci Judith pour ce pas de côté à chaque épisode. Merci aussi d’avoir mis des mots sur ce qu’est d’être enceinte : créativité, travail immense, clarté… et aussi injonctions contradictoires qui peuvent rendre folles et qui viennent de tous côtés (inconnus, collègues, ami.e.s, fam…"
+      },
+      {
+        "note": 1,
+        "auteur": "Toda raba",
+        "titre": "Écriture inclusive , du racisme anti blanc . Adieu les wokistes",
+        "texte": "Payer pour se dire que nous sommes des réactionnaires blancs de plus de 50 ans ! Jamais"
+      },
+      {
+        "note": 5,
+        "auteur": "Discover-podcast-lover",
+        "titre": "Que ça fait du bien !",
+        "texte": "Ça donne hyper envie ce 1er épisode : c’est intéressant, exigeant sur le fond mais jamais chiant, ça pose les bonnes questions et ça examine le monde comme on veut l’examiner, tous et toutes, au fond, en notre for intérieur...…"
+      }
+    ]
+  }
 }

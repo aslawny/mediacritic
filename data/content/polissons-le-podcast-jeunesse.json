@@ -25,5 +25,31 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Natacha podcast",
+        "titre": "De petites pépites",
+        "texte": "L’île aux blablas, jean chat voit dans le noir, Rose est une rose Ce sont de véritables bijoux, très poétiques et même pour les parents. À mettre entre les mains de toutes les petites oreilles ! Au moins 4 ans"
+      },
+      {
+        "note": 1,
+        "auteur": "Anne M44.",
+        "titre": "Excellent mais…",
+        "texte": "Nous étions des grands fans de l’île aux blabas et du récit de Anne Bonny et ils ont été effacés ! Quelle déception ! 😭"
+      },
+      {
+        "note": 5,
+        "auteur": "Olimarie17",
+        "titre": "Super l’ile aux blablas !",
+        "texte": "C’était très bien 🤗🤭😴🎆🌠🌠Valentine 6 ans Les parents ont adoré la présence d’Oxmo Puccino et tous les podcasts super bien réalisés ! Bravo"
+      }
+    ]
+  }
 }

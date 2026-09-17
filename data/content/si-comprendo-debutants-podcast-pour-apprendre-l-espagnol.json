@@ -26,5 +26,31 @@
     "education"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "La Chesnaie",
+        "titre": "Efficace et agréable",
+        "texte": "Merci Paloma pour ta méthode et ta manière agréable et sympathique de nous accompagner vers une meilleure compréhension et expression en espagnol. Après avoir regardé des séries et essayé d’apprendre par moi-même, je me suis rendue compte que cela ne m’aidait pas à parler.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Didou 👧2014",
+        "titre": "Restons positifs !😝",
+        "texte": "Ce podcast n’est pas fait pour moi mais restons positifs ! J’aimerais dire que c’est bien mais qu’on pourrait améliorer quelques petites choses : Madame Garcia essayer de ne pas dire nous tout le temps.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Babavero",
+        "titre": "Paloma sait comment motiver !",
+        "texte": "Ce que j’adore dans le style de Paloma est de ne jamais trop rajouté d’une leçon à la suivante, on évite le sentiment de frustration que l’apprentissage des langues peut causer… On avance petit à petit, on apprend aussi beaucoup de la culture hispanique et on prend confiance.…"
+      }
+    ]
+  }
 }

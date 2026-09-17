@@ -25,5 +25,31 @@
     "espace"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "philvé",
+        "titre": "Une perle de l’espace",
+        "texte": "Pour le passionné de l’aventure spatiale que je suis ce balado est une vraie perle, une rareté sur laquelle on se précipite à chaque nouvel épisode.…"
+      },
+      {
+        "note": 1,
+        "auteur": "un seche chevelu",
+        "titre": "Génial",
+        "texte": "Bonjour, je suis un enfant de dix ans et j’adore l’espace (c’est dire ! J’aiQ un téléscope et j’ai étudier l’espace et le temps ! Mais j’ai quand même dix an seulement) j’ai trouvé ce podcast très intéressant et j’ai vu des choses que je savais déjà et de nouvelle choses …"
+      },
+      {
+        "note": 5,
+        "auteur": "Hakim.Maad",
+        "titre": "Meilleur podcast sur l’Univers Spatial",
+        "texte": "L’un de mes 2 podcasts de predilection consacré à notre univers spatial avec une preference pour celui-ci ! Les 2 podcasteurs sont très pertinents et ont l’art de bien nous expliquer le fonctionnement de notre Espace à travers differents themes alléchants et surtout toujours inte…"
+      }
+    ]
+  }
 }

@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2025-06-23",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Glomérule2023",
+        "titre": "Genialissime !",
+        "texte": "C’est une super idée mise au service de l’apprentissage des étudiants pour ceux qui ont une mémoire auditive et pour ceux qui sont contraints à de long temps de trajets afin de les mettre à profit ! Excellente qualité le tout accessible gratuitement …"
+      },
+      {
+        "note": 5,
+        "auteur": "nephrov",
+        "titre": "Top",
+        "texte": "Merci! C’est vraiment top pour réviser rapidement, dans les transports etc C’est très bien expliqué ! Ayant une mémoire auditive c’est juste parfait ! Merci merci ❤️‍🩹"
+      },
+      {
+        "note": 5,
+        "auteur": "dajulie18",
+        "titre": "Génial !",
+        "texte": "Merci pour ce podcast qui donne envie s’ouvrir le collège de nephro, c’est une super idée pour les étudiants, on aimerait qu’il y ait ce concept pour chaque matière !!"
+      }
+    ]
+  }
 }

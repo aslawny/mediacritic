@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-08",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Frederique27",
+        "titre": "Inspirant et concret",
+        "texte": "Cet épisode est une bouffée d’optimisme et d’énergie sur le leadership ! Ce podcast d’une façon générale est plein d’authenticité et de sujets inspirants pour donner des pistes de réflexion, des conseils, des expériences partagées par des invités incroyables et des interviews et…"
+      },
+      {
+        "note": 5,
+        "auteur": "Mypositivejur",
+        "titre": "Un des meilleurs podcasts sur le sujet",
+        "texte": "J’écoute de nombreux podcasts sur le monde de l’entreprise et celui-ci est sans nul doute celui qui m’outille le mieux. On sent que Delphine connaît le sujet et il ne s’agit pas simplement de conseils théoriques.…"
+      },
+      {
+        "note": 5,
+        "auteur": "DelphineBN",
+        "titre": "Si vous aimez le thème du leadership, foncez !",
+        "texte": "J’ai découvert le podcast de Delphine il y a plusieurs années quand je cherchais à appréhender le futur de l’entreprise. J’adore la diversité de ses invités et sa vision très éclairée du leadership.…"
+      }
+    ]
+  }
 }

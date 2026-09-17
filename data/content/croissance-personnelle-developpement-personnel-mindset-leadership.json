@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2023-11-15",
-  "frequence_jours": 13
+  "frequence_jours": 13,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "vldj01",
+        "titre": "Mon premier commentaire !",
+        "texte": "Cela fait plus de 2 ans que je suis Maxime, ses aventures, ses défis et tout le riche contenu qu’il délivre avec bonté et générosité. Pourtant je n’avais jamais laissé de commentaire, ni à aucun autre muscats d’ailleurs! Je répare cette erreur! J’ai découvert avec ce podcast le d…"
+      },
+      {
+        "note": 5,
+        "auteur": "Lisa Soulé",
+        "titre": "À écouter absolument !",
+        "texte": "Maxime est un leader inspirant (et inspiré !), il délivre des clefs efficaces pour améliorer sa vie dans tous les domaines. J'adore son approche et sa vision si belle de la vie, où tout est possible dès l'instant où on y croit …"
+      },
+      {
+        "note": 5,
+        "auteur": "As5727",
+        "titre": "“Un incontournable pour le développement personnel !",
+        "texte": "J’ai commencé à écouter ton podcast depuis deux semaines et j’avoue que ce podcast est une véritable pépite ! Chaque épisode est une source d’inspiration, de motivation et de réflexion.…"
+      }
+    ]
+  }
 }

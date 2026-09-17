@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-08-31",
-  "frequence_jours": 4
+  "frequence_jours": 4,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Victoire303",
+        "titre": "Super podcast inspirant sur la data",
+        "texte": "Bravo pour ce podcast ! J’adore écouter les épisodes, variés et inspirants. Ils permettent de bien comprendre les stratégies et organisations data des entreprises et donnent des idées sur des bonnes pratiques à mettre en place de notre côté! Je crois avoir écouté tous les épisode…"
+      },
+      {
+        "note": 5,
+        "auteur": "ArthieBo",
+        "titre": "A killer podcast 🚀",
+        "texte": "From what I’ve seen out there, Data Gen is the most comprehensive and insightful podcast about data issues and challenges. Every episode is a blend of free conversation with top-notch data practitioners and new contents on specific areas of data knowledge based on business experi…"
+      },
+      {
+        "note": 5,
+        "auteur": "ricobomb",
+        "titre": "Juste incontournable pour tous ceux qui s’intéressent à la data",
+        "texte": "Je suis un ultra fan depuis que j’ai découvert ce podcast et le suis chaque week-end avec impatience. Juste une question simple, comment - sur l’app podcast de ios - déposer un commentaire directement sur un épisode ? sans le faire via les notes et avis de la page principale …"
+      }
+    ]
+  }
 }

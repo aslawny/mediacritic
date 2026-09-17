@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-08-16",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "BrunodeNousty",
+        "titre": "Très intéressant mais…",
+        "texte": "J’écris cet avis au moment où Gandalf va combattre le Balrog…le podcast a donc peut-être évolué. J’ai découvert ce podcast récemment lors d’une insomnie…je suis fan absolu de Tolkien et de son œuvre, y compris des films qui restent une adaptation aussi fidèle que possible des liv…"
+      },
+      {
+        "note": 5,
+        "auteur": "Choukiipanda",
+        "titre": "Retournement de situation",
+        "texte": "Bonjour, Je vous ai découvert l’hiver dernier (en étant en manque de la fréquence 9 3/4) je cherchais une autre saga lu chapitre par chapitre.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Bigprout",
+        "titre": "Une pépite",
+        "texte": "Mais vraiment quel PLAISIR d’écouter ce podcast, de base j’aime bien l’œuvre de Tolkien mais j’ai jamais vraiment été passionnée, j’ai pas du tout grandi avec et j’y connais rien (genre je confonds le Rohan et le Gondor) mais alors j’écoute religieusement ce podcast, j’adore écou…"
+      }
+    ]
+  }
 }

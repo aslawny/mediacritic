@@ -27,5 +27,31 @@
     "series"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Olive94410",
+        "titre": "Le podcast “Séance Tenante” au top 🫶💪",
+        "texte": "Le podcast “Séance Tenante” se révèle être un véritable bijou pour les amateurs de cinéma et les passionnés du septième art. Cet épisode, consacré à l’incroyable succès du studio français à l’origine de “Moi, Moche et Méchant”, est un must-listen.…"
+      },
+      {
+        "note": 2,
+        "auteur": "alix paris-bordeaux",
+        "titre": "Décevant",
+        "texte": "Le ton est insupportable, ça rigole pour un rien, sans forcément l’esprit de troupe. Les chroniqueurs disent eux même que les informations sont approximatives. Pas très intéressant comme podcast. J’en suis navrée."
+      },
+      {
+        "note": 5,
+        "auteur": "Ridley S.",
+        "titre": "Un bonheur pour les amoureux du cinéma !",
+        "texte": "Un podcast incontournable pour les passionnés du cinéma. Ce que j’apprécie particulièrement c’est l’interaction dynamique entre les 4 animateurs. On sent une vraie complicité qui rends les discussions intéressantes et agréable à suivre.…"
+      }
+    ]
+  }
 }

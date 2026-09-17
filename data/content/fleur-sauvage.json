@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-30",
-  "frequence_jours": 5
+  "frequence_jours": 5,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Marine la divine",
+        "titre": "Ninou dis-nous <3",
+        "texte": "Ninou elle déglingue le système des podcasts. C’est simple, c’est pépite. Ce podcast est authentique, le fond est profond et la forme est douce, le fond est sérieux et la forme est joyeuse.…"
+      },
+      {
+        "note": 5,
+        "auteur": "CcMohjano",
+        "titre": "Viens te marrer et cultiver ta spiritualité",
+        "texte": "J’adore Ninou que je suis sur les réseaux depuis longtemps et qui me fait toujours beaucoup rire. C’est avec plaisir et joie que je découvre ses réflexions et apprentissages au travers de ce podcast et j’adore.…"
+      },
+      {
+        "note": 5,
+        "auteur": "leamarlletb",
+        "titre": "Génial 🌼",
+        "texte": "Un podcast où on passe par toutes les phases : du rire, de la joie, à la tristesse, au questionnement de soi, à l’envie de s’améliorer. Et le tout, en ayant l’impression que c’est notre pote qui nous parle ✨ (pour le coup, j’ai plutôt l’impression qu’il s’agit de ma jumelle qu’on…"
+      }
+    ]
+  }
 }

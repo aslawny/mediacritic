@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2026-07-10",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lily-Aurelie",
+        "titre": "Salut voilà des idées d’épisodes",
+        "texte": "Bonjour je m’appelle jayden j’adore votre podcast je suis un fan ⭐️⭐️⭐️⭐️⭐️.J’aimerais bien un épisode sur l’expression fait gaffe et comme je l’ai dit dans un précédent message sur pourquoi le mot WC s’écrit avec un « W »"
+      },
+      {
+        "note": 5,
+        "auteur": "Loupgamer",
+        "titre": "Passionnant",
+        "texte": "Je regrette à chaque épisode de ne pas avoir un petit carnet pour noter ces explications toujours passionnantes sur l’origine d’expressions ou de mots qu’on utilise sans savoir d’où ils viennent !"
+      },
+      {
+        "note": 5,
+        "auteur": "Margueritedecadenet",
+        "titre": "Une pépite",
+        "texte": "Passionnant, bien écrit et présenté, on apprend toujours quelque chose en écoutant franc-parler."
+      }
+    ]
+  }
 }

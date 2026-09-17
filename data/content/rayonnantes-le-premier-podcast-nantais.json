@@ -27,5 +27,31 @@
     "societe"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "cathymaviedequilibriste",
+        "titre": "Un grand merci",
+        "texte": "Un grand merci pour cette belle initiative de podcast sur des parcours inspirants nantais. Je viens d ‘ écouter le podcast de Nicolas Rohr, et je voulais vous remercier tous les 2. J ai beaucoup appris sur La marque, les actions et les valeurs de FAGUO.…"
+      },
+      {
+        "note": 5,
+        "auteur": "solenn p",
+        "titre": "Délicieux moment!!",
+        "texte": "Dans ma voiture, sur la route pour le boulot entre Nantes et Lille, je ne vois plus passer les 6h de trajet qui pourtant m’effrayaient ce matin à 7h... J’ai l’impression d’avoir pris le café avec Guillaume, Marie, Mathilde ...…"
+      },
+      {
+        "note": 5,
+        "auteur": "camtld",
+        "titre": "À écouter !!",
+        "texte": "Bien sûr, en tant que Nantaise, un podcast qui met en avant des personnalités inspirantes à Nantes, ça me parle ! Mais il n’y a pas que les sujets.. le format, la voix posée d’Eleonore, ses questions.…"
+      }
+    ]
+  }
 }

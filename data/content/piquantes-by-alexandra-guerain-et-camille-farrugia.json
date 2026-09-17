@@ -47,5 +47,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "On ne sait plus s'ennuyer… et c'est un problème",
+      "date": "2026-09-16"
+    },
+    {
+      "titre": "Ce qu'on envie au sexe opposé (avec Mathys !)",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "Courrier du Chaos #19 : des affaires de famille",
+      "date": "2026-09-02"
+    },
+    {
+      "titre": "On invite Anna RVR pour notre 100ème épisode !",
+      "date": "2026-08-26"
+    },
+    {
+      "titre": "Les doubles standards homme/femme (avec Mathys !)",
+      "date": "2026-08-12"
+    }
+  ],
+  "derniere_activite": "2026-09-16",
+  "frequence_jours": 7
 }

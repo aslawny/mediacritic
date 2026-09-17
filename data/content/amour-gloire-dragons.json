@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-07-18",
-  "frequence_jours": 15
+  "frequence_jours": 15,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Ghalib Tarok",
+        "titre": "Point faible = trop forts",
+        "texte": "Un rdv que j’attends maintenant avec impatience ! Joueur de DnD, ce podcast m’a amené à ouvrir une table en tant que MJ avec 5 joueurs néophytes complets. La façon qu’à Pierre de jouer avec les règles est ultra inspirante pour un max de fun. On retrouve son âme d’enfant.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Foulquespw",
+        "titre": "Un podcast immersif !",
+        "texte": "Bravo à vous pour ce podcast ! Vos voix et vos improvisations sont très réussies et c’est pourtant un exercice pas facile ! Bravo aussi au montage dynamique, aux effets et à la BO qui permet une grande immersion.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Araignée du soir",
+        "titre": "Fabuleusement drôle et drôlement épique",
+        "texte": "Ce podcast est un des rares à m’avoir vraiment fait rire - éclater de rire - dans les rues ou le métro. C’est un bonheur de vous écouter toutes et tous.…"
+      }
+    ]
+  }
 }

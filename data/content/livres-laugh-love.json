@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-03-16",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Murielle🍒",
+        "titre": "Podcast de QUA-LI-TÉ",
+        "texte": "Merci pour ce podcast de QUA-LI-TÉ découvert grâce au passage d’Enzo dans 4 quarts d’heure. Moi qui suis dans une démarche de réduction de ma conso de réseaux sociaux en remplaçant le doomscrolling par la lecture, ce podcast tombe à point nommé.…"
+      },
+      {
+        "note": 5,
+        "auteur": "hayden den",
+        "titre": "Douceur de la semaine 💕",
+        "texte": "Ce podcast est clairement mon moment préféré de la semaine. J’adore vous écoutez parler littérature (ou autre ceci dit !). Vos personnalité sont super ensemble, je recommande à 100%. On élargie sa culture et on rigole bien aussi!! Que de bons moments !!🤍"
+      },
+      {
+        "note": 5,
+        "auteur": "MEEERVEIL",
+        "titre": "Super intéressant ! 🤩",
+        "texte": "C’est le premier podcast que j’ai écouté de ma vie et j’ai trouvé que c’était enrichissant et apaisant , il mène énormément a se poser des questions j’aime bien ce format et j’attends les prochains épisodes 🤭"
+      }
+    ]
+  }
 }

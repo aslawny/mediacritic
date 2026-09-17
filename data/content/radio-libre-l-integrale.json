@@ -24,5 +24,31 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "L’âne trotro du 34",
+        "titre": "Génial mais…",
+        "texte": "Arrêtez de vous acharner sur Cedric!!! S’il vous plaît chaque soir, il reçoit des remarques sur son physique. Sinon c’est parfait, mais laissez Cedric! Team Cedric Romano parle moins stp et médélyne aussi.…"
+      },
+      {
+        "note": 1,
+        "auteur": "La_Nana_666",
+        "titre": "Acharnement sur Cédric",
+        "texte": "Ils vont souvent trop loin avec Cédric, se moquer autant de son physique tous les soirs, c’est du harcèlement"
+      },
+      {
+        "note": 5,
+        "auteur": "Lolobatic",
+        "titre": "La plus grande radio libre.",
+        "texte": "La même recette depuis des décennies ! Ça fonctionne toujours car la liberté de ton est encore présente. Dans le respect, l’humour est toujours au rendez-vous avec des animateurs historiques et emblématiques de la plus grande (et dernière) vraie radio libre !"
+      }
+    ]
+  }
 }

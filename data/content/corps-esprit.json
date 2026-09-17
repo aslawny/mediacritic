@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-30",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Hypno’Sens - Maxime 42",
+        "titre": "Conscientiser et apprendre au quotidien 🚀",
+        "texte": "Je recommande vraiment de suivre Flavio et Meryl dans les podcasts qu’ils produisent. Par eux et les invités ayant de la notoriété par leur métiers et leur expertise, j’apprécie vraiment les échanges et les apports qu’ils donnent au tour du corps et de l’esprit.…"
+      },
+      {
+        "note": 2,
+        "auteur": "Irvin230",
+        "titre": "Médecine chinoise euh",
+        "texte": "J’adore votre concept mais l’épisode sur la médecine chinoise est difficile à entendre. L’intervenante bugue et répète souvent « euh euh euh », ce qui ne rend pas l’écoute agréable. Sinon, continuez à fond votre travail ! 💪🏼"
+      },
+      {
+        "note": 5,
+        "auteur": "yogikoudou34",
+        "titre": "Super podcast 👍",
+        "texte": "Super podcast sur la santé, le bien-être, l’hygiène de vie, d’un point de vue physique, mais aussi mental et émotionnel. Plein de thèmes variés abordés avec de supers invités chaque semaine ! À suivre et écouter sans modération. Bravo à vous.…"
+      }
+    ]
+  }
 }

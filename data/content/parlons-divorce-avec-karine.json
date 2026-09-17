@@ -27,5 +27,55 @@
     "culture"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Ann.ii.ck",
+        "titre": "Podcast d’utilité publique !",
+        "texte": "Bravo pour ce podcast 👏🏻, très bien conçu et très clair pour ceux qui réfléchissent à la possibilité de se séparer: plein d’informations et de conseils bienveillants… et surtout une approche « holistique » du divorce : la partie émotionnelle n’est pas oubliée, quelques épisodes l…"
+      },
+      {
+        "note": 1,
+        "auteur": "Avitam9",
+        "titre": "Pathétique mais les gars écoutez ça avant de faire nptk",
+        "texte": "Elle est complètement folle !!! Je ne suis pas marié et franchement tout ça ça donne pas envie de le faire. Le mieux c’est de prévoir la mauvaise la chose et de ne jamais rien faire d’irréfléchie. Elle ne cherche qu’à percevoir des horaires en cas de divorce conflictuel.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Les culottées",
+        "titre": "Intéressant, constructif et agréable à écouter",
+        "texte": "Bonjour, Je vous félicite pour ce podcast que j’aime beaucoup écouter. Je trouve votre voix très apaisante, le rythme du podcast très agréable à écouter et les réflexions toujours très pertinentes.…"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "Épisode 81: Pourquoi certaines personnes restent bloquées après leur divorce… et d’autres avancent.",
+      "date": "2026-07-02"
+    },
+    {
+      "titre": "Épisode 80: reconstruction de couple et peur du rejet",
+      "date": "2026-06-12"
+    },
+    {
+      "titre": "Épisode 79 “Ce que votre enfant ne vous dit pas pendant une séparation”",
+      "date": "2026-04-17"
+    },
+    {
+      "titre": "Épisode 78 mieux communiquer par message",
+      "date": "2026-04-15"
+    },
+    {
+      "titre": "Épisode 77: l’écoute active un outil très puissant",
+      "date": "2026-03-26"
+    }
+  ],
+  "derniere_activite": "2026-07-02",
+  "frequence_jours": 20
 }

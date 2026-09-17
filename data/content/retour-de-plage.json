@@ -24,5 +24,31 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "max de la lussière",
+        "titre": "Dalle bèton",
+        "texte": "Bonsoir, je suis en train de faire une dalle en ciment blanc.... et j’attends que ça sèche pour après l’égaliser...mais la programmation et la musique est tellement “piacevole” que j’y vais passer la nuit... mes compliments .., ex architecte, devenu maçon.. quand on aime..…"
+      },
+      {
+        "note": 5,
+        "auteur": "Cancale_météo",
+        "titre": "Un grand merci pour la programmation estivale 2023",
+        "texte": "Comme toujours, un grand plaisir de retrouver Retour de Plage avec Thierry Jousse et son équipe aux manettes 👌 Belle prog encore cette année avec notamment (mais pas que…) trois belles émissions : Burt Bacarach et Joni Mitchell Tout à une fin, reprenons Ciné Tempo et Blow-U sur A…"
+      },
+      {
+        "note": 5,
+        "auteur": "Poupou999",
+        "titre": "Toujours plus …",
+        "texte": "Auditeur assidu de Repassez-moi l’standard, je découvre cette émission d’été, tout aussi brillante, à la programmation virtuose, notamment les épisodes consacrés à Jane B. et Stevie Wonder, merci."
+      }
+    ]
+  }
 }

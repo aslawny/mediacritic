@@ -47,5 +47,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Parlons Péloches 2000 #4 - Le film fantastique",
+      "date": "2022-06-26"
+    },
+    {
+      "titre": "Parlons Péloches 90's #6 - Le film d'action",
+      "date": "2022-03-27"
+    },
+    {
+      "titre": "Parlons Péloches #91 - La comédie musicale",
+      "date": "2022-02-13"
+    },
+    {
+      "titre": "Parlons Péloches #90 - Le film de 2021 (partie 2)",
+      "date": "2022-01-16"
+    },
+    {
+      "titre": "Parlons Péloches #89 - Le film de 2021 (partie 1)",
+      "date": "2022-01-02"
+    }
+  ],
+  "derniere_activite": "2022-06-26",
+  "frequence_jours": 14
 }

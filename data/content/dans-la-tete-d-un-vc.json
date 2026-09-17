@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2021-06-30",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Gaspardbmx",
+        "titre": "Génial",
+        "texte": "Excellent Podcast : Est ce envisageable que pour un épisode, soit abordé l’accessibilité au métier de VC quand on est étudiant ? (quel stage, quelle formation, quelles qualités requises ?) (Mais aussi pourquoi pas : la rémunération, les différents fonds, le rythme de travail, l’é…"
+      },
+      {
+        "note": 5,
+        "auteur": "KillianTalin",
+        "titre": "Juste excellent !",
+        "texte": "J'ai mis un peu de temps à laisser une note ici (faute de pb avec Itunes), mais le voilà ! JCK nous embarque à chaque fois dans un interview super bien préparé avec des invités excellents. Une clé de lecture énorme pour entrepreneurs, VC et toute personne qui veut apprendre !"
+      },
+      {
+        "note": 5,
+        "auteur": "delf_gillet",
+        "titre": "Super utile pour l’entrepreneur.e !",
+        "texte": "Je découvre ce podcast, très utile pour l’entrepreneur.e qui veut comprendre le fonctionnement d’un vc (ou prendre conscience des particularités des fonds / personnalités !). Indispensable quand on débarque dans « l’écosystème » startup ! Merci pour cette aide 🙏🏻"
+      }
+    ]
+  }
 }

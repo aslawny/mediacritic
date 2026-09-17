@@ -30,5 +30,31 @@
       "date": "2026-09-14"
     }
   ],
-  "derniere_activite": "2026-09-14"
+  "derniere_activite": "2026-09-14",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Screu",
+        "titre": "L’Amatrice",
+        "texte": "C’est génial, je fais les exercices le plus souvent possible et j’ai beaucoup progressé dans mes prises de parole déjà ! Merci France Culture ! Du vrai service public de grande qualité !"
+      },
+      {
+        "note": 5,
+        "auteur": "Benjamin Warocquier",
+        "titre": "J’adore",
+        "texte": "Qui de mieux que le talentueux Bertrand Périer pour perfectionner notre art de l'éloquence ? Un grand merci à l’équipe !"
+      },
+      {
+        "note": 5,
+        "auteur": "iHirondelle",
+        "titre": "Vraiment incontournable",
+        "texte": "Comment faire aimer la langue … Bravo et merci pour cette super série de partage de savoir avec mise en pratique 😊"
+      }
+    ]
+  }
 }

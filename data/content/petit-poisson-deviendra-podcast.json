@@ -27,5 +27,55 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Thib1971",
+        "titre": "La référence sur les océans",
+        "texte": "Le meilleur podcast que je connaisse avec les autres petits frères de la même « famille »: Baleine sous la navire : une encyclopédie amoureuse et hyper bien racontée des espèces, du plus rares et méconnues aux plus connues, avec des infos rares et précieuses.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Aliceortolan",
+        "titre": "Un podcast rare et précieux",
+        "texte": "Ces podcasts sont les plus beaux que je connaisse sur le vivant: Baleine sous gravillon, qui raconte les espèces et leur secrets leurs comportements. Nomen le plus culturel de la bande, qui explique l’origine du nom des espèces.…"
+      },
+      {
+        "note": 5,
+        "auteur": "✨🖤 EMO 🖤✨",
+        "titre": "C’est À La Fin",
+        "texte": "“L'océan, c'est la vie. C'est-à-dire que notre vie est intimement liée à la vie de l'océan. C'est ça, pour moi, la seule chose qui compte. Tout le reste est secondaire, tirer du pétrole, les trucs. Pourquoi faire pour augmenter de 5 % la production …"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "S06E02 L'Argyronète : La seule Araignée qui passe toute sa vie sous l'eau !",
+      "date": "2026-09-14"
+    },
+    {
+      "titre": "S06E01 Le Crabe violoniste : Une pince pour séduire... l'autre pour manger",
+      "date": "2026-09-07"
+    },
+    {
+      "titre": "BEST OF D'ÉTÉ #19 : Déchiffrer les secrets des dessins des coquillages... (Bill François)",
+      "date": "2026-08-31"
+    },
+    {
+      "titre": "BEST OF D'ÉTÉ #18 : La Crevette Mante Paon, sacrée meilleure boxeuse du monde ! (Bill François)",
+      "date": "2026-08-31"
+    },
+    {
+      "titre": "BEST OF D'ÉTÉ #17 : Eau douce et eau salée, quelle différence pour les poissons ? (Bill François)",
+      "date": "2026-08-24"
+    }
+  ],
+  "derniere_activite": "2026-09-14",
+  "frequence_jours": 6
 }

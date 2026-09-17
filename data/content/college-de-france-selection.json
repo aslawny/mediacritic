@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-06-29",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Isab.TG",
+        "titre": "Belles leçons",
+        "texte": "Quel plaisir d'écouter une telle leçon de droit constitutionnel par M. Pierre Mazeaud dans l'épisode d'ouverture du colloque sur l'autorité. Avis à tous les étudiants en première année de droit : La hyérarchie des normes devient lumineuse et le droit constitutionnel, un plaisir.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Amaury Lille",
+        "titre": "Disponibilité du podcast",
+        "texte": "Bonjour Podcast passionnant Regrettable qu’il ne soit disponible que sur iTunes et aucune autre plateforme plus simplement"
+      },
+      {
+        "note": 5,
+        "auteur": "satisfaite etonnee",
+        "titre": "Merci",
+        "texte": "Bonjour, je vous remercie de permettre à des personnes qui n’ont pas fait d’études supérieures de pouvoir, comme moi-même, à la retraite écouter et s’enrichir de l’histoire des sociétés. Cela permet de prendre du recul et de passer d’excellents moments.…"
+      }
+    ]
+  }
 }

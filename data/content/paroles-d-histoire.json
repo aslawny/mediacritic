@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "448. La question homérique, avec Evelyne Scheid-Tissinier",
+      "date": "2026-09-14"
+    },
+    {
+      "titre": "447. Une révolution transnationale de l'avortement, avec Bibia Pavard",
+      "date": "2026-09-07"
+    },
+    {
+      "titre": "446. Mémoire française de l’esclavage, avec Pierre-Yves Bocquet",
+      "date": "2026-08-31"
+    },
+    {
+      "titre": "445. Successions, l'intégrale",
+      "date": "2026-08-29"
+    },
+    {
+      "titre": "444. Successions #6 : Mao Zedong, avec Jérémie Tamiatto",
+      "date": "2026-08-22"
+    }
+  ],
+  "derniere_activite": "2026-09-14",
+  "frequence_jours": 7
 }

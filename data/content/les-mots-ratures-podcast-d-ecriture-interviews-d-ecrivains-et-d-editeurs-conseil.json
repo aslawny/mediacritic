@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-09",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Ambryarock",
+        "titre": "Podcast riche et instructif !!",
+        "texte": "J’ai découvert Margot sur YouTube et je ne pouvais que la suivre ensuite dans son aventure par ici ! Ce podcast est très riche en contenu tant pour des auteurices novices que pour des auteurices qui ont déjà publié ou n’en sont pas loin.…"
+      },
+      {
+        "note": 5,
+        "auteur": "maud.de_mets",
+        "titre": "Le podcast de l’année",
+        "texte": "Sincèrement je n’écoute pas de podcast. J’ai commencé mon projet d’écriture il y a presque cinq ans maintenant, sans jamais réellement avancer... j’ai énormément douté et je ne me trouvais pas légitime dans ce que j’avais entrepris... Et puis je t’ai découverte …"
+      },
+      {
+        "note": 5,
+        "auteur": "M0RYARTY",
+        "titre": "Juste super ><.",
+        "texte": "Salut, ça fais plusieurs fois que je modifie ce commentaire parce que je n’ai aucun réseau mais je voulais juste te dire, si tu le lis, que j’écoute tous tes podcasts attentivement et qu’ils sont vraiment supers.…"
+      }
+    ]
+  }
 }

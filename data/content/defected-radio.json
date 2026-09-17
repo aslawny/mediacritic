@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-08-28",
-  "frequence_jours": 2
+  "frequence_jours": 2,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "D' CLUB LOZ",
+        "titre": "Quel cadeau, merci SIMON..",
+        "texte": "merci simon dunmore et defected pour ce son qu ils nous offre chaque semaine...du vrai son de club!!! a bientot a lausanne je sais que vous kiffez le MAD!!!!"
+      },
+      {
+        "note": 2,
+        "auteur": "974to75",
+        "titre": "quel dommage...",
+        "texte": "super sons, mais quel dommage, des podcasts ne durant pas plus de qques minutes parfois...pas vraiment interessant..."
+      },
+      {
+        "note": 5,
+        "auteur": "i-world",
+        "titre": "defected for the love of house",
+        "texte": "Est-ce que quelqu'un pourrait me dire le titre de l'avant dernière musique du podcast \"defected for the love of house\" d'octobre 2006???? merci"
+      }
+    ]
+  }
 }

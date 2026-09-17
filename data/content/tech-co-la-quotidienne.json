@@ -25,5 +25,31 @@
     "tech",
     "numerique"
   ],
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "bel do",
+        "titre": "Quelle justesse d’analyse",
+        "texte": "Dans les médias on se contente de distiller la pensée unique collectiviste en boucle Le discours libéral est tellement rare qu’il est très précieux et tellement juste On en est privé mais la liberté l’emportera toujours Quand on voit le delta qui se creuse avec nos concurrents on…"
+      },
+      {
+        "note": 1,
+        "auteur": "mister-reno",
+        "titre": "Trop de pub",
+        "texte": "Contenu souvent intéressant mais publicité insupportable et répétitive. Monétiser oui, mais faites le avec un minimum de respect pour vos auditeurs"
+      },
+      {
+        "note": 5,
+        "auteur": "mich8333",
+        "titre": "Captivant",
+        "texte": "En économie, l'histoire est un éternel recommencement. L'homme se souvient rarement de ses erreurs, surtout si c'est un décideur politique. Heureusement JM Daniel est là pour nous rafraichir la mémoire.…"
+      }
+    ]
+  }
 }

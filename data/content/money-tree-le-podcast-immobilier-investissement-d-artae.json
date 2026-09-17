@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-10",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Denis 31000",
+        "titre": "Enrichissant",
+        "texte": "Bravo pour votre podcast…. Comment vulgariser l’investissent immobilier : C’est parfait ! Les invités sont transparents, ils parlent d’argent sans tabou sans retenu et tout cela avec beaucoup de simplicité !!….…"
+      },
+      {
+        "note": 1,
+        "auteur": "Runner de lyon",
+        "titre": "Insupportable",
+        "texte": "Insupportable de condescendance. Le ton est horrible, on se fout clairement de l’auditeur et on apprend pas grand chose. On dirait un sketch / stéréotype d’un vendeur de tapis… pardon, d’un agent d’immobilier. Bref, le niveau zero du podcast. Il y a bien mieux ailleurs."
+      },
+      {
+        "note": 5,
+        "auteur": "MagaliRau -Pi",
+        "titre": "Podcast 200 ème wahouuuuu",
+        "texte": "Ça fait un peu plus d'un mois désormais que j'écoute tes podcasts Julien, merci de nous partager et transmettre tout ce savoir!!!! Le tien, celui des invités, les diverses expériences, je trouve le concept génial.…"
+      }
+    ]
+  }
 }

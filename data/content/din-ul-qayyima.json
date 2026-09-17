@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-03-11",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "l'esprit refuge",
+        "titre": "BaarakAllahou fik",
+        "texte": "J’ai énormément aimé l’épisode. Le titre du podcast porte merveilleusement son nom et nous incite à méditer, à pratiquer l’introspection. Merci, j’ai hâte d’écouter les futurs episodes."
+      },
+      {
+        "note": 5,
+        "auteur": "un avis.",
+        "titre": "Islamité #2",
+        "texte": "islamité épisode #2 incroyable Allahi barek très très très intéressant et profond qu’Allah vous récompense vraiment incroyable ma sha Allah"
+      },
+      {
+        "note": 5,
+        "auteur": "Mati.tr.",
+        "titre": "Je recommande a 100%",
+        "texte": "Des podcast de qualité par professeur de qualité😊! Qu’Allah vous récompense"
+      }
+    ]
+  }
 }

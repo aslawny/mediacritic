@@ -27,5 +27,31 @@
     "retro"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Araignée du soir",
+        "titre": "Excellent podcast",
+        "texte": "Les anglophones parlent de « food for thoughts » en français, « matière à penser ». Je ne ressors jamais de ce podcast sans avoir de nouvelles idées, de nouvelles connaissances et de nouvelles questions ou de nouvelles curiosités.…"
+      },
+      {
+        "note": 1,
+        "auteur": "massimo93",
+        "titre": "Gauche / droite.",
+        "texte": "Être de gauche représente le bien. Être de Droite représente le mal. Le monde est légèrement plus compliqué surtout que la notion gauche / droite est complètement dépassée. J’ai suivi avec plaisir, je ne peux plus. Merci pour le voyage et adieu."
+      },
+      {
+        "note": 5,
+        "auteur": "Ldvc31",
+        "titre": "La crème.",
+        "texte": "On a les meilleurs. Des avis tranchées. Un N sex. Des experts. Une vraie équipe de passionné passionnant. Bref. On les aime d’amour car ils sont incroyables. Les fautes d’orthographe c’est l’émotion... et la flemme. A écouté et suivre d’urgence. Au fait ils ont un Patreon.…"
+      }
+    ]
+  }
 }

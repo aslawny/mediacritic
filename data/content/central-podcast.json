@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-01-08",
-  "frequence_jours": 76
+  "frequence_jours": 76,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "polozamlou",
+        "titre": "🥰 j’aime 🥰",
+        "texte": "Je trouve ce podcast génial, il me fait du bien et est drôle même si j’aimerais trop que vous faisiez un épisode focus Chandler car c’est sincèrement l’amour de ma vie et qu’il le mérite bien !! Sinon je rajoute juste que si je continue à écouter ce podcast en boucle je le connaî…"
+      },
+      {
+        "note": 5,
+        "auteur": "Princess_Consuela_Bananahamock",
+        "titre": "Friends lover",
+        "texte": "Friends étant ma série préférée de tous les temps j’aime beaucoup votre podcast qui analyse les épisodes sous des angles intéressants. Personnellement à chaque épisode que j’écoute j’y vais de mes petits commentaires comme si je participait au podcast avec vous …"
+      },
+      {
+        "note": 5,
+        "auteur": "Oreade",
+        "titre": "Un joli moment entre amis",
+        "texte": "Mi-récap de friend, mi-discussion sociologique sur la vie, je me régale avec les épisodes de ce podcast qui réchauffe le coeur. Sophie et Virginie instaurent une ambiance bienveillante et joyeuse.…"
+      }
+    ]
+  }
 }

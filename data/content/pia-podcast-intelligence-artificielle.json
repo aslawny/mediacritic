@@ -25,5 +25,29 @@
     "actualite"
   ],
   "addedAt": "2026-08-14",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "episodes_recents": [
+    {
+      "titre": "Sécurité IA 2026 : le rapport que tout dirigeant doit lire",
+      "date": "2026-09-17"
+    },
+    {
+      "titre": "CRA SRP : 24h pour déclarer un incident cyber. Votre entreprise est-elle prête ?",
+      "date": "2026-09-15"
+    },
+    {
+      "titre": "Gouvernance IA : 13 piliers indispensables du Global Action Plan",
+      "date": "2026-09-08"
+    },
+    {
+      "titre": "Sécuriser les agents IA : le guide OWASP",
+      "date": "2026-09-01"
+    },
+    {
+      "titre": "Sécuriser une LLM : le NIST AI 600-1",
+      "date": "2026-08-27"
+    }
+  ],
+  "derniere_activite": "2026-09-17",
+  "frequence_jours": 7
 }

@@ -26,5 +26,31 @@
     "culture"
   ],
   "addedAt": "2026-06-12",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "bealouve",
+        "titre": "Une gourmandise",
+        "texte": "Je suis tombée dans ce podcast depuis 2 jours et arrive à la fin, malheureusement ... Ces épisodes m’ont donnée envie de lire l’Iliade et l’odyssée. J’adore la façon de raconter de Sylvain Tesson, la richesse de ses références et son exactitude dans le choix des mots.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Gérard Geist",
+        "titre": "HOMÈRE ÉTAIT-IL PRÉTENTIEUX ?",
+        "texte": "Une très bonne idée pour les vacances que de nous faire voyager en Grèce antique et rêver avec l'Odyssée et l'Iliade. Mais pourquoi faut-il que le journaliste se prenne pour HOMÈRE lui-même, se faisant plaisir envers une multitude de formules toutes faites et de louanges infinies…"
+      },
+      {
+        "note": 5,
+        "auteur": "Catdid",
+        "titre": "Attention, chef d’œuvre !",
+        "texte": "Merci Sylvain pour ce magnifique périple à la recherche d’Arthur. Parions que cela fera date dans l’histoire des podcasts. A quand votre prochain feuilleton ? En plus, cela m’a donné envie de vous lire et c’est une découverte. À très vite j’espère."
+      }
+    ]
+  }
 }

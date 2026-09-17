@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2026-08-29",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "BrightSideOfTheMoon",
+        "titre": "Frédéric",
+        "texte": "Ça fait plaisir de retrouver un esprit libre sur les ondes françaises. Le ton est juste, les thèmes sont variés, souvent inattendus, toujours pertinents. Une érudition présente mais jamais étouffante, un savoir qui éclaire sans écraser.…"
+      },
+      {
+        "note": 1,
+        "auteur": "miminimal",
+        "titre": "Ok boomer",
+        "texte": "Misogyne, « c’était mieux avant », cet animateur est une caricature du monde d’avant."
+      },
+      {
+        "note": 5,
+        "auteur": "L273",
+        "titre": "Merci Patrick",
+        "texte": "Très intéressants ces grands interviews longs avec des gens de la trempe de Marc Ferro ou Alain Corbin. En alternance avec les épisodes hebdomadaires habituels.…"
+      }
+    ]
+  }
 }

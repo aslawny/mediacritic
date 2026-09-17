@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2022-08-03",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Heïdi Br",
+        "titre": "Une équipe de choc pour un podcast au top !",
+        "texte": "Les gars je dis bravo! Je suis enseignante engagée dans la transition écologique à titre perso ( reconversion ). Votre choix de sujet est top , vous m’éclaircissez vraiment ! Cela m’aide beaucoup et complète mes recherches personnelles .…"
+      },
+      {
+        "note": 1,
+        "auteur": "evaalxm",
+        "titre": "Décevant",
+        "texte": "On est submergé par un flot de parole et de blague sans apprendre sur les enjeux environnementaux"
+      },
+      {
+        "note": 5,
+        "auteur": "Jean-Michel 😋",
+        "titre": "Jenga",
+        "texte": "Tu peux pas dire que t’es super fort au Jenga parce que t’es tours sont super hautes : ça c’est les kapla. Le jenga faut retirer des bouts de bois sans faire tomber la tour. Je mets une bonne note quand même mais attention au travail journalistique et tout"
+      }
+    ]
+  }
 }

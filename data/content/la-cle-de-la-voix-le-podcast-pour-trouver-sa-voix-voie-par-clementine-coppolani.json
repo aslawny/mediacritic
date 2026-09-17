@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-03",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Sarah Bénard",
+        "titre": "Mon coup de cœur pour « La Clé de la Voix »",
+        "texte": "Si vous cherchez un podcast qui allie passion, expertise et bienveillance, La Clé de la Voix de Clémentine Copollani est une véritable pépite …"
+      },
+      {
+        "note": 5,
+        "auteur": "Cie Améame",
+        "titre": "Précieuses écoutes",
+        "texte": "Des écoutes toujours nourrissantes, ressourçantes, inspirantes !! Quelle magnifique diversité d’invités !!! Merci Clémentine, ce podcast est un véritable soutien à la professionnalisation dans toutes les dimensions de l’être.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Clémence_tmne",
+        "titre": "Merci beaucoup pour tous ces conseils !",
+        "texte": "Je suis tellement reconnaissant pour ce podcast inspirant, bienveillant et plein de réponses sur la voix. Le format est excellent, avec les extraits musicaux et les partages de tips ! Les invités de qualité, et tout est fait avec une incroyable authenticité.…"
+      }
+    ]
+  }
 }

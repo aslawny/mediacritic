@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-16",
-  "frequence_jours": 2
+  "frequence_jours": 2,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mkbk8",
+        "titre": "Love it !",
+        "texte": "Thank goodness for this podcast. After finishing the office, I felt like my life was never going to be the same lol this podcast is helping to cope with the post the office depression.…"
+      },
+      {
+        "note": 2,
+        "auteur": "Mudokon33",
+        "titre": "Very disappointing",
+        "texte": "I’m flabbergasted by the raving reviews. If you’re an Office fan, like I am, and expected an interesting discussion about The Office, prepare to be very disappointed. This is almost only about Jenna Fischer and Angela Kinsey, telling private jokes we can’t get.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Katie Donn.",
+        "titre": "Hilarious - never laughed so much in a podcast",
+        "texte": "I am a new fan of the office since the lockdown and have already watched it twice through! I decided to listen to this podcast and oh my goodness it is HILARIOUS. So interesting but also Jenna and Angela are the perfect hilarious BFFs you always needed in your life.…"
+      }
+    ]
+  }
 }

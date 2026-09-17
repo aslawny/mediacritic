@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2021-06-21",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "jeremyfain01",
+        "titre": "Un super podcast",
+        "texte": "J’adore ce podcast : c’est suffisamment court pour être écouté en entier, et suffisamment intéressant pour que l’on fasse en sorte de couper le téléphone pour l’écouter de bout en bout.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Dumbutapy",
+        "titre": "Bravo",
+        "texte": "Un podcast extrêmement intéressant pour qui veut découvrir l’univers du capital risk, mais a priori aussi pour ceux qui le pratiquent au quotidien. Des interviews de qualité avec des intervenants très pertinents. Chapeau aussi pour la régularité des épisodes et leur diversité!"
+      },
+      {
+        "note": 5,
+        "auteur": "Yassine Douighi",
+        "titre": "Un podcast de qualité tant pour les novices que pour les experts",
+        "texte": "Ce podcast est une mine d’or pour tous les jeunes étudiants, qui comme moi s’intéressent à ces sujets dont l’information est parfois très difficile à trouver de façon claire et pédagogue. Un grand merci pour la qualité des questions et des intervenants."
+      }
+    ]
+  }
 }

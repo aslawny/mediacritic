@@ -24,5 +24,31 @@
     "culture"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Hébédisdonc",
+        "titre": "Merci Alex,",
+        "texte": "J’ai rencontré le personnage à Jazz à Vienne lors d’une conférence sur John Zorn. Il était bien, en vrai comme à la radio. C’est toujours un bonheur d’avoir en réserve quelques podcasts du père Duthil.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Jivago 55",
+        "titre": "Radio Neptune",
+        "texte": "Quel ennui ! Si vous aimez le jazz ecoutez Radio-Neptune sur Internet ....de 21.00 à 08.00 , garanti sans commentaires foireux et blagues pas drôles ..."
+      },
+      {
+        "note": 5,
+        "auteur": "Yugyug74",
+        "titre": "Alex cellance",
+        "texte": "Merci Alex pour cette fantastique émission. Narration, choix dans la programmation, des intervenants…bref que du bonheur que j’ écoute en podcast lors de mes balades en pleine nature (50% Open Jazz et 50% Open nature…); c’ est merveilleux la Vie… Merci, merci, merci."
+      }
+    ]
+  }
 }

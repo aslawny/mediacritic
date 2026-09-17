@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-01",
-  "frequence_jours": 3
+  "frequence_jours": 3,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "AURELIE LG",
+        "titre": "Une parenthèse enchantée",
+        "texte": "Bonsoir Sylvain ! Que dire ? Par où commencer ? Sans originalité, tout d'abord M-E-R-C-I. En découvrant le système du podcast, je mets aujourd'hui à profit mes 10 000 pas quotidiens pour mettre dans mes écouteurs de bonnes ondes constructrices au lieu de la musique.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Adel.Sddk",
+        "titre": "Quelle belle découverte ! J’apprends à me connaître un peu plus à chaque épisode",
+        "texte": "Merci Sylvain ! Merci à toi de prendre le temps de nous faire découvrir quelques aspects de notre personnalité qui sont bien cachés quelque part dans nos esprits complexes …"
+      },
+      {
+        "note": 5,
+        "auteur": "bikeoz",
+        "titre": "Merci",
+        "texte": "Salut Sylvain, moi c’est Laura, 37 ans dans quelques semaines et je suis entrain d’écouter ta capsule #11… Je te suis depuis plusieurs jours car en ce début d’année je me suis fixée de me developper personnellement… je saurai pas te dire comment j’en suis venue à ça… mais sans do…"
+      }
+    ]
+  }
 }

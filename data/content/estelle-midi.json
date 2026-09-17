@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-02",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Maximus__75",
+        "titre": "Déjà Fan",
+        "texte": "Une émission de débat parmi tant d’autres me direz-vous? PAS DU TOUT…des chroniqueurs attachants, une liberté de ton, des échanges non lisses, des intervenants variés, des confidences des chroniqueurs, quelques machos qui assument et sont immédiatement recadrés, et surtout une an…"
+      },
+      {
+        "note": 1,
+        "auteur": "ptolemee",
+        "titre": "Riolo le rigolo",
+        "texte": "Je déteste cette émission donneurs de leçon pfff à éviter définitivement"
+      },
+      {
+        "note": 5,
+        "auteur": "Axoumel",
+        "titre": "Génial",
+        "texte": "Émission génial, animée par une animatrice génial qui réussit tout ce qu'elle fait !! Des chroniqueurs de tous bords vraiment top, en particulier Daniel Riolo et Périco Légasse Mais Daniel qu est ce que je kiff !! 😍😍"
+      }
+    ]
+  }
 }

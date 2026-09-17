@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2025-02-26",
-  "frequence_jours": 47
+  "frequence_jours": 47,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "NicolasVALLET",
+        "titre": "Excellent Podcast et voilà pourquoi !",
+        "texte": "Votre avis est sage et votre analyse pertinente. Vous pratiquez ce que j'appelle le relativisme, et non le dogmatisme ou idéologie, ce cela malgré votre engagement. Votre passion et votre travail sont estimables et respectables. Félicitations."
+      },
+      {
+        "note": 5,
+        "auteur": "urbatecte",
+        "titre": "Tout simplement extraordinaire",
+        "texte": "Passionnant, déroutant, souvent drôle, une histoire enfin déconstruite a la façon d’un edward Saïd ou d’un Howard Zina mais dans le metaverse. Indispensable pour se réconcilier avec ce bout de terre qu’on appelle la France"
+      },
+      {
+        "note": 5,
+        "auteur": "Laurent25000",
+        "titre": "Exceptionnel",
+        "texte": "Le ton, le contenu, l’humour, le travail réalisé font de cette série de podcasts une œuvre à part entière. Merci et j’espère de nouvelles thématiques à venir."
+      }
+    ]
+  }
 }

@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-07-17",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Ratbert",
+        "titre": "A éviter a tout prix",
+        "texte": "En effet, de l’avis général, cette bande de fous furieux, filles et fils des présentateurs de téléachats, vous donnerons envie d’acheter TOUS les titres, meme quand ils dissent que c’est mauvais.…"
+      },
+      {
+        "note": 2,
+        "auteur": "rorscharch71",
+        "titre": "Rien que pour le jeu des départements… lol",
+        "texte": "Une équipe sympathique et marrante qui ne se prend pas au sérieux et parle avec sincérité de ses lectures. Parfois approximatif dans le discours sur le dessin mais l’ensemble est de bonne qualité. Bravo à eux."
+      },
+      {
+        "note": 5,
+        "auteur": "El_j0",
+        "titre": "Bonne émission",
+        "texte": "Le son est vraiment bon surtout comparé à d’autres podcasts que j’écoutais avant. On entend tous le monde parler de manière claire et audible. L’arrivée du nouveau monteur fait vraiment plaisir. Je trouve que les nouveaux montages sont un cran au dessus par rapport à avant.…"
+      }
+    ]
+  }
 }

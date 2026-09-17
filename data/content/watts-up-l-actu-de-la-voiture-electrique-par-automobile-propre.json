@@ -26,5 +26,31 @@
     "sport"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "watyan",
+        "titre": "Utile",
+        "texte": "Enfin un podcast sur le VE où on ne passe pas son temps à parler de d’essais de voiture hors de prix aux performances inutiles. Tous les sujets nécessaires sont abordés, bien sûr on y parle des nouveaux modèles mais on y parle également des recharges (et des limites des infrastru…"
+      },
+      {
+        "note": 1,
+        "auteur": "RitchiOZ",
+        "titre": "Trop de pub tue la pub !",
+        "texte": "J’apprécie bcp votre podcast mais on a autant d’émission que de pub ça devient inaudible malheureusement. Dommage"
+      },
+      {
+        "note": 5,
+        "auteur": "DOCOTOYOVENSIS54",
+        "titre": "Prix bz4x",
+        "texte": "J’aime d’ordinaire bien la précision de vos informations mais aujourd’hui s’agissant du BZ4X vous dites que la recharge est décevante ( ce qui est vrai) mais vous rajoutez « surtout pour un véhicule de ce prix » .…"
+      }
+    ]
+  }
 }

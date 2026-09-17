@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-30",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Cynthia 🎈",
+        "titre": "Très agréable",
+        "texte": "Marika et sa petite voix douce nous glisse sans jugement ses conseils pour éradiquer l’anxiété A l’écoute un enregistrement de qualité , des conseils et méthodes recherchés . Un antidote pour se sentir moins seule avec nos névroses et appliquer des tips à la portée de tous .…"
+      },
+      {
+        "note": 5,
+        "auteur": "Juno_agz",
+        "titre": "Merci beaucoup !",
+        "texte": "Merci pour tous les précieux conseils et témoignages que tu apportes. Ça m’aide beaucoup de voir que tu as réussi à te sortir à 100% de ton anxiété étant donné que c’est mon objectifs numéro 1 pour cet année. Merci beaucoup ça fait du bien de voir que l’on est pas seule !"
+      },
+      {
+        "note": 5,
+        "auteur": "Nasnoussa17",
+        "titre": "Excellent",
+        "texte": "J’écoute souvent ce podcast quand je me sens anxieuse et ta voix mais aussi ce que tu dis me permet de relativiser et de penser à autre chose et à comprendre mieux ce qui m’arrive, c’est vraiment très intéressant et bien expliqué . J’adore 🩷"
+      }
+    ]
+  }
 }

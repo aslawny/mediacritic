@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-03",
-  "frequence_jours": 2
+  "frequence_jours": 2,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "inkfloydsound",
+        "titre": "la renaissance",
+        "texte": "Les tauliers de Comicsblog reviennent pour lancer tout un tas de nouveaux formats qui s'inscrivent directement dans la lignée du travail éditorial qu'ils ont fait avec Comicsblog.…"
+      },
+      {
+        "note": 2,
+        "auteur": "rorscharch71",
+        "titre": "Prétentieux et inégal",
+        "texte": "Un des chroniqueurs est particulièrement pénible… des pseudo prises de position politiques ridicules, un snobisme mal placé et une approche cul entre deux chaises vo/vf. Ce petit donneur de leçon désabusé gâche le podcast."
+      },
+      {
+        "note": 5,
+        "auteur": "Thi3u",
+        "titre": "Un grand merci",
+        "texte": "La dynamique entre vous 2 est une des plus grandes qualités de ce podcast, mais ce serait oublier la pertinence de tous les points « coco-pedia », le sens de l’humour absolument irréprochable d’Arnaud, la diversité des formats, la régularité des émissions, la qualité des recomman…"
+      }
+    ]
+  }
 }

@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2021-07-09",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "tigrou_",
+        "titre": "Cultissime !",
+        "texte": "Je l’écoutais quand j’étais ado… il y a fort fort longtemps… et je l’écoute encore aujourd’hui avec le même plaisir !!! Merci Lafesse"
+      },
+      {
+        "note": 1,
+        "auteur": "Damije06",
+        "titre": "Trop de pub",
+        "texte": "Ce podcast est de très bonne qualité et très marrant sauf que ils ont tendance à mettre de plus en plus de pub. Il faut que sa cesse pour que ce podcast puisse continuer à être écouter avant de dormir. De plus ce serait bien que l’introduction soit moins brusque."
+      },
+      {
+        "note": 5,
+        "auteur": "radio juju",
+        "titre": "Un grand",
+        "texte": "Un grand animateur de radio. Ultra drôle , la fesse maîtrisais mais radio. Avec pas grand chose il nous embarque."
+      }
+    ]
+  }
 }

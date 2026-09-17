@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-06-28",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Loulounvx",
+        "titre": "<33",
+        "texte": "Je n’ai pas louper un épisode depuis la création de café fraté, ça mérite que je rédige un petit commentaire dis donc ! J’adore ces formats sous forme de discussion, votre complicité rend vos échanges très fluides (et j’ai tellement de références communes 🥹) par contre …"
+      },
+      {
+        "note": 2,
+        "auteur": "Fuifuitabibi",
+        "titre": "Déçue",
+        "texte": "Il y a avant tout un souci d’équilibrage du son. Le teaser sonne très fort mais quand iels parlent il faut augmenter le volume. Les sujets choisis sont intéressants mais pas creusés ni documentés.…"
+      },
+      {
+        "note": 5,
+        "auteur": "sophcholl",
+        "titre": "Trop cooooool",
+        "texte": "J’ai pleuré de rire sur l’épisode des bêtises avec la mise en scène théâtralisée de votre père qui va engueuler Justine 😂 sinon de manière générale c’est un plaisir de vous écouter parler, merci infiniment ! Ça me fait remonter plein de souvenirs avec mon petit frère.…"
+      }
+    ]
+  }
 }

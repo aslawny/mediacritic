@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-02",
-  "frequence_jours": 4
+  "frequence_jours": 4,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Clémence Tbg",
+        "titre": "Passionnant - une mine d’infos sur la finance et ses innovations !",
+        "texte": "J’ai découvert ce podcast beaucoup trop tard - ultra efficace, podcast host passionnée et passionnante (en plus d’être incroyablement câblée et pertinente sur son sujet !), des pépites pour mieux comprendre l’innovation financière à chaque épisode.…"
+      },
+      {
+        "note": 5,
+        "auteur": "AlDbt",
+        "titre": "Great podcast instructif et agréable !",
+        "texte": "Le podcast est extrêmement instructif grâce à la qualité des invités et des échanges menés. De nombreux sujets sont traités, sans dévier trop rapidement d’une thématique à une autre.…"
+      },
+      {
+        "note": 5,
+        "auteur": "BenMoulin",
+        "titre": "Instructif / Insightful !!!",
+        "texte": "Très bien construit, très instructif avec des invités de marque: Solenne nous gâte avec Finscale ! Un podcast éloquent pour toute personne qui s’intéresse de près ou de loin au monde de la finance.…"
+      }
+    ]
+  }
 }

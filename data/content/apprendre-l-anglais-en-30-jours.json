@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2025-09-01",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Nicekate",
+        "titre": "Excellent podcast pour les jeunes",
+        "texte": "Mes jumeaux sont en CM2. Nous écoutons ce podcast en voiture. Les garçons ont accroché et fond d’énormes progrès. Je suis Canadienne, je valide la qualité de cette production et le recommande pour ceux qui veulent réellement progresser en anglais."
+      },
+      {
+        "note": 5,
+        "auteur": "Kacahètt",
+        "titre": "🤩INCROYABLE🤩",
+        "texte": "Je n ai jamais aussi bien appris l anglais quand écoutant ça !!!!!! Je recommande fortement !!!!!"
+      },
+      {
+        "note": 5,
+        "auteur": "Le collégiens",
+        "titre": "La 6ème",
+        "texte": "Je suis en 6eme est grâce à ce podcast j’ai remonter ma moyenne 😁 THANK YOU"
+      }
+    ]
+  }
 }

@@ -27,5 +27,29 @@
     "societe"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "episodes_recents": [
+    {
+      "titre": "Claire : Le manuscrit",
+      "date": "2026-02-25"
+    },
+    {
+      "titre": "Frédéric : L'engagement",
+      "date": "2026-02-18"
+    },
+    {
+      "titre": "Valériane Ayayi : La Capitaine",
+      "date": "2026-02-11"
+    },
+    {
+      "titre": "Édouard : Le partage",
+      "date": "2026-02-04"
+    },
+    {
+      "titre": "Valérie : Le destin",
+      "date": "2026-01-28"
+    }
+  ],
+  "derniere_activite": "2026-02-25",
+  "frequence_jours": 7
 }

@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-13",
-  "frequence_jours": 4
+  "frequence_jours": 4,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Metzy56",
+        "titre": "Qualitatif et professionnel",
+        "texte": "Je suis une professionnelle de santé non dans la petite enfance ni dans le suivi des femmes enceintes, mais je trouve ce podcast d’une très grande qualité avec des professionnels qui ont fait une formation reconnue.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Linoahx",
+        "titre": "Top",
+        "texte": "Merci pour ce podcast dédié à l’allaitement. Après un 1er allaitement compliquer, je vous ai découvert lors de ma 2e grossesse. J’ai écouté beaucoup de vos épisodes, et les écoutes encore ! Merci pour ces histoires de vie, ces infos par des pro de la santé.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Améliethnn",
+        "titre": "Merci !!!",
+        "texte": "Merci ! Votre podcast (que j’ai écouté en courant avec bébé car seul moyen pour lui de dormir et moi de faire le plein d’endorphines en pleine DPP, retrouver un état de lucidité pour enfin comprendre ce qu’il se passe, trouver les bons professionnels et les solutions) Vous avez é…"
+      }
+    ]
+  }
 }

@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-07-23",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Chloe 🧛‍♀️",
+        "titre": "Un incontournable podcast horrifique",
+        "texte": "Entre une équipe au top, des films choisis originaux et des analyses poussées, ce podcast est une véritable pépite que j’attend avec impatience chaque semaine, qui m’a fait découvrir des chefs d’œuvre ou des films étonnants.…"
+      },
+      {
+        "note": 1,
+        "auteur": "beef 527",
+        "titre": "Un pote c’est qui se la raconte",
+        "texte": "1 pour le boulot ! C’est tout un podcast de bobos qui confondent cinéma et politique en permanence !! De la génération Z dans toute sa splendeur .. À fuir d’urgence !"
+      },
+      {
+        "note": 5,
+        "auteur": "Koalabay",
+        "titre": "Kokomo with a Komodo",
+        "texte": "Une des plus belle découverte de Podcast. Une équipe très sympas à l’enthousiasmes communicatif. Des remises en contexte passionnantes et des avis toujours étonnants, ce Podcast nous fait voyager dans le monde du cinéma horrifique mainstream mais aussi dans des genres de niche.…"
+      }
+    ]
+  }
 }

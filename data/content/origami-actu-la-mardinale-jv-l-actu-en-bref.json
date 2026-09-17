@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-07-07",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Goune",
+        "titre": "Un excellent pocast :)",
+        "texte": "Je viens à peine de découvrir (sous les conseils avisés de connaisseurs) le podcast de Gautoz que j'apprécie déjà beaucoup ! J'apprécie particulièrement sa voix qui est vraiment taillée pour une émission à écouter …"
+      },
+      {
+        "note": 5,
+        "auteur": "Nexxfr",
+        "titre": "Excellent podcast sur l’actualité du jeu vidéo",
+        "texte": "Merci d’avoir rendu la matinale JV disponible en podcast. Cela permet des moments agréables en cours de journée 👍 L’intervenant est extrêmement agréable et bienveillant dans ces propos, ce qui rend l’ecoute d’autant plus intéressante quand on a pas le même avis sur certains sujet…"
+      },
+      {
+        "note": 5,
+        "auteur": "WithAy7",
+        "titre": "La matinale JV de référence !",
+        "texte": "Des news, un journal des sorties, des recommandations, de la bonne petite musique, Pop qui invoque Belzébuth...que demander de plus ? De la bamboche ? Bien évidemment qu’il y a de la bamboche, quelle question !!!"
+      }
+    ]
+  }
 }

@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-09-11",
-  "frequence_jours": 8
+  "frequence_jours": 8,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Sophie55500",
+        "titre": "Merci !",
+        "texte": "Découvert par hasard, j’ai oublié l’objet de ma recherche initiale. Mais quelle découverte ! J’ai un long trajet pour aller travailler que je m’est maintenant à profit. C’est un métier dans lequel on se remet tellement en question, et on s’en pose, des questions …"
+      },
+      {
+        "note": 5,
+        "auteur": "Fatym223",
+        "titre": "Génial",
+        "texte": "Je suis EFS en élémentaire cette année... Il est vrai que l’on est pas énormément guidé au niveau de la didactique... La découverte de ce podcast a révolutionné ma manière de voir les choses....…"
+      },
+      {
+        "note": 5,
+        "auteur": "CélineMarie",
+        "titre": "Podcast génial",
+        "texte": "Je ne suis plus prof des écoles mais je prends toujours plaisir à écouter ce podcast très intéressant et complet. J’y apprends beaucoup de choses et si j’enseignais encore en classe, je ferais différemment …"
+      }
+    ]
+  }
 }

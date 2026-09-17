@@ -26,5 +26,55 @@
     "vulgarisation"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "roseduteil",
+        "titre": "Une véritable bénédiction",
+        "texte": "Les podcasts d’EMCI TV sont une véritable bénédiction, je les écoute en allant au travail dans le bus ou parfait chez moi quand je fais la vaisselle.…"
+      },
+      {
+        "note": 5,
+        "auteur": "hannahk h",
+        "titre": "Ma morning routine !",
+        "texte": "J’écoute tous les matins pour bien commencer la journée ! Je trouve ça juste super de pouvoir méditer en allant au travail. Juste je sais que c est les vacances mais c’est possible de mettre à jour les nouveautés ? Grand merci pour cette œuvre. Vraiment très pratique."
+      },
+      {
+        "note": 5,
+        "auteur": "Drzklin",
+        "titre": "Je grandis",
+        "texte": "J’ai fait de cette émission une de mes priorités quotidiennes depuis le début de cette année 2023. Je grandis dans la connaissance de Dieu. Le Saint Esprit se sert aussi de cette émission pour répondre à plusieurs questions que je me pose Dieu vous bénisse"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "Savoir quand arrêter",
+      "date": "2023-11-03"
+    },
+    {
+      "titre": "L'obéissance demande de la foi",
+      "date": "2023-11-02"
+    },
+    {
+      "titre": "La persévérance à obéir au fil des années",
+      "date": "2023-11-01"
+    },
+    {
+      "titre": "L'obéissance personnelle dans le plan de Dieu",
+      "date": "2023-10-31"
+    },
+    {
+      "titre": "Le oui qui a tout changé",
+      "date": "2023-10-23"
+    }
+  ],
+  "derniere_activite": "2023-11-03",
+  "frequence_jours": 1
 }

@@ -24,5 +24,31 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Enzojedi",
+        "titre": "Exceptionnel ! Mais bien desservi par le mixage…",
+        "texte": "Serait-il enfin possible de revoir le mixage de cette émission et de couper les micros des rires en arrière plan… c’est in-sup-por-table !!! On a l’impression de regarder Hélène et les garçons avec des rires omniprésents préenregistrés.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Candy cruche",
+        "titre": "Bravo",
+        "texte": "Ah si tous les humoristes pouvaient s’inspirer de ce mec qui concocte chaque semaine un subtil mélange de subversion, d’intelligence et de drôlerie, le tout extrêmement bien documenté et merveilleusement ciselé !! C’est le plus brillant depuis Chris Esquerre."
+      },
+      {
+        "note": 5,
+        "auteur": "Colorelemonde",
+        "titre": "Infertilité🎶",
+        "texte": "On est tous d’accord pour dire que Yann Marguet est un génie mais je veux une version mixée il y a bien un ou deux producteurs à Inter qui vont nous faire ça et la mettre sur toutes les plateformes de streaming"
+      }
+    ]
+  }
 }

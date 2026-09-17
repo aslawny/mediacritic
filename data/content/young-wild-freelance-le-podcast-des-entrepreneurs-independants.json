@@ -26,5 +26,31 @@
     "culture"
   ],
   "addedAt": "2026-06-24",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Eden-RoseM",
+        "titre": "Inspirant et confortant",
+        "texte": "Confortant dans mes doutes, mes joies, mes enthousiasmes et mes questionnements. Thomas un grand bravo et un immense merci. Un podcast que je recommande régulièrement et que j’écoute n’importe quand …"
+      },
+      {
+        "note": 5,
+        "auteur": "Anne_Bndi",
+        "titre": "Le « Petit Bambou » du freelance !",
+        "texte": "Ce podcast doit absolument être dans les oreilles de tous les indépendants, tout juste lancés ou même expérimentés ! C’est devenu mon rituel du matin et je le compare volontiers au « Petit Bambou » du freelance : une séance de méditation d’expériences qui permet de réfléchir à so…"
+      },
+      {
+        "note": 5,
+        "auteur": "stylisime",
+        "titre": "Une Source d’inspiration puissante",
+        "texte": "Cher Thomas , Je n’arrive pas exactement à te dire à quel point tu es une ressource de bienveillance positive pour moi , donc je vais te dire pourquoi : Tu es rassurant , bienveillant , intéressant , et par dessus tout tu donne , tu donne et donne toujours une valeur exceptionnel…"
+      }
+    ]
+  }
 }

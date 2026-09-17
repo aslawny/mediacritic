@@ -26,5 +26,31 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Meret Oppenheim",
+        "titre": "Le Gand Atelier… vraiment ??",
+        "texte": "Bonjour, Comment se fait-il que, les émissions de Vincent Josse figurant dans ma bibliothèque de podcasts, je veuille écouter le Grand Atelier de Laurent Mauvignier… et que je me retrouve à entendre la voix de Zoé Varier dans sa Journée Particulière ?! Merci à France Inter de bie…"
+      },
+      {
+        "note": 3,
+        "auteur": "ClaraLoup",
+        "titre": "Trop peu de femmes …",
+        "texte": "… trop de peu de femmes dans cette émission. Dommage, le format est intéressant."
+      },
+      {
+        "note": 5,
+        "auteur": "bruno gilbert",
+        "titre": "rêvons de mots comme disait raymond",
+        "texte": "merci d avoir invité francois cela nous console un peu de la disparition des papous signé un gars de la classe 78 qui un soir à donné la réplique à Devos “ET ALORS?” depuis le poulailler en IMPROVISÉ TOTAL"
+      }
+    ]
+  }
 }
