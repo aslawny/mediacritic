@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-08-17",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Patrpbg",
+        "titre": "D",
+        "texte": "Certes, parfois sujets pointus, qui peuvent être un peu hors grand public, Certes, quelquefois quelques longueurs (en particulier sur les interviews du lundi... et encore...) Mais quelle qualité, quelle rigueur et quelle saine impartialité.... et du grand complet....…"
+      },
+      {
+        "note": 1,
+        "auteur": "jchirac",
+        "titre": "Nouvelle version décevante",
+        "texte": "Depuis le changement de format de l émission et le changement des présentateurs , l émission tourne en rond et les sujets sont moins intéressants qu auparavant… dommage"
+      },
+      {
+        "note": 5,
+        "auteur": "brausten",
+        "titre": "Tintin et la lune",
+        "texte": "Bonsoir Très agréablement surprise d’avoir écouté votre podcast sur la lune et d’y retrouver mon ami d’enfance tintin. Quelle performance je ne pensais pas que l’on pouvait aller aussi loin dans l’analyse de l’espace de vie de notre ami.…"
+      }
+    ]
+  }
 }

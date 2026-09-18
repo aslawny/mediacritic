@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2026-09-02",
-  "frequence_jours": 2
+  "frequence_jours": 2,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Fan de la chaine",
+        "titre": "Réponse à Sam, caméléon 14",
+        "texte": "Salut j’ai vue ton commentaire et je tient à préciser qu’il n’y a pas d’intérêt malveillant derrière mon ancien pseudo, je suis HPI et je voulais faire un jeu de mot drôle mais tu as raison cela pourrais paraître méchant, j’ai donc changé de pseudo, et j’encourage toute les perso…"
+      },
+      {
+        "note": 3,
+        "auteur": "jibess",
+        "titre": "Toujours aussi intéressant mais...",
+        "texte": "Les publicités c'est pas possible. Il y a des publicités tout le temps même en cours de phrase ça n'a aucun sens. Je préfère me désabonner je trouve ça juste dommage."
+      },
+      {
+        "note": 5,
+        "auteur": "M🇩🇪yl🎶e La folle 😜",
+        "titre": "Trop bien 🙂",
+        "texte": "C’est très intéressant, j’adore ! En plus c’est super bien expliqué ! Je regarde aussi sur YouTube . C’est EX-EL-LE-NT 👌 Je recommande à fond 😊 Bravo pour cette chaîne « Épicurieux » Maintenant j’apprends plein de choses à mes proches …"
+      }
+    ]
+  }
 }

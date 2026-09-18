@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Pardonner l'impardonnable",
+      "date": "2026-09-18"
+    },
+    {
+      "titre": "Garder la foi quand on a tout perdu",
+      "date": "2026-09-17"
+    },
+    {
+      "titre": "Délivrance ou persévérance ?",
+      "date": "2026-09-16"
+    },
+    {
+      "titre": "Persécuté(e) à cause de ta foi ?",
+      "date": "2026-09-15"
+    },
+    {
+      "titre": "La puissance insoupçonnée de la prière",
+      "date": "2026-09-14"
+    }
+  ],
+  "derniere_activite": "2026-09-18",
+  "frequence_jours": 1
 }

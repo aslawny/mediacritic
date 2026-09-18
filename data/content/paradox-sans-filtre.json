@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-04-22",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "elodie faelens",
+        "titre": "Gilbert Bou Jaoudé",
+        "texte": "Merci pour ces Podcasts de qualité , un plaisir de vous écouter ainsi que les invités . Mention spéciale pour le Podcast sur la sexualité avec le docteur Gilbert Bou Jaoudé , super enrichissant et même d’un point de vue féminin 😃j’ai adoré le côté détendu du dialogue et la pertin…"
+      },
+      {
+        "note": 5,
+        "auteur": "j Charles",
+        "titre": "Tout est possible !",
+        "texte": "Merci pour ces podcasts qui m’aident à rester optimiste et à vivre pleinement ma vie. La première fois que je t’ai vu dans un documentaire de Tistrya, j’ai compris que tout est possible. Je te souhaite tout le bonheur du monde et te félicite pour ta simplicité.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Numa37",
+        "titre": "Super",
+        "texte": "Je t’ai découvert il y a quelques année sur YouTube et je suis content de t’écouter en poadcoast avec ta voix calme et posée. Merci"
+      }
+    ]
+  }
 }

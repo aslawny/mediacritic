@@ -26,5 +26,31 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mimi59erggh",
+        "titre": "le podcast pour faire progresser mes startup !",
+        "texte": "C'est en écoutant et en m’inspirant des invités de Francois que j'ai fait grandir ma première boite PEAULETTE. Le parcours de chacun m’a donné plus d’audace regardé plus haut, avec plus d’ambition, ce qui m’a beaucoup aidé à la vendre.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Danybcn",
+        "titre": "Motivant !",
+        "texte": "Mon nouveau podcast préféré! Les invités sont toujours intéressants et Francois toujours pertinent ! Quand on monte une boite c’est assez rassurant de comprendre que les échecs font partie du jeu avant de peut être rencontrer le succès. Bref a écouter sans modération"
+      },
+      {
+        "note": 5,
+        "auteur": "Chloé xxxxxxxx",
+        "titre": "Motivant et inspirant",
+        "texte": "J’adore le podcast, les invités sont très intéressant ainsi que les questions posées. J’ai juste une petite remarque, si c’est possible de noter dans la description de l’épisode les livres recommandés et les séries/films ce serait vraiment cool."
+      }
+    ]
+  }
 }

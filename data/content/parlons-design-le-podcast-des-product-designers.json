@@ -27,5 +27,31 @@
     "culture"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Chaotix_23",
+        "titre": "Parfait pour les débutants dans le design",
+        "texte": "Le contenu que Romain propose dans son podcast est très abordable pour ceux qui débutent dans le design. Son contenu est court mais on va directement dans le vif sujet. Ils donnent pas mal de conseils, de techniques et de sources.…"
+      },
+      {
+        "note": 5,
+        "auteur": "laila_s.",
+        "titre": "Une mine d'or !",
+        "texte": "Merci pour ce podcast, le contenu proposé est pertinent et accessible pour ceux qui débutent dans l'UI/UX design. Le format est synthétique, le rythme est bien géré et la qualité du contenu au rendez-vous. Je recommande !"
+      },
+      {
+        "note": 5,
+        "auteur": "pulpnet",
+        "titre": "Le monde du design digital en podcast !",
+        "texte": "Excellent podcast français sur le monde du design digital avec des interviews très professionnelles ! Une communauté de designers UI/UX qui s’agrandit grâce à ce podcast !"
+      }
+    ]
+  }
 }

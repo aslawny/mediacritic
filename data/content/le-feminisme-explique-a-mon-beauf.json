@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-07-06",
-  "frequence_jours": 47
+  "frequence_jours": 47,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "KrisCat2912",
+        "titre": "J’adore",
+        "texte": "J’ai pris l’habitude de suivre Aline dans ses blogs, lettres et autres vecteurs d’opinion. J’ai adoré ce 1-er épisode. Sa voix enjouée, ses réflexions toujours drôles mais profondes. On a envie d’être avec elle autour d’une tasse de thé (ou autre) et de pouvoir échanger.…"
+      },
+      {
+        "note": 5,
+        "auteur": "carolinegrand",
+        "titre": "Brillant",
+        "texte": "J’adore l’écriture de ces posts...bravo Aline, mais plus que tout je salue l’exercice de parler d’un sujet aussi clivant sans tomber dans le jugement et la bien pensance ambiante. J’adore être questionner de cette manière.…"
+      },
+      {
+        "note": 5,
+        "auteur": "baldrick l",
+        "titre": "Efficace !!!",
+        "texte": "Merci pour ce format court, j’y retrouve en mode condensé ce que j’ai pu découvrir ailleurs. Idéal pour la pédagogie. J’ai tout écouté, mais je ne sais toujours pas pourquoi certaines femmes portent un clito en pendentif ! ;)"
+      }
+    ]
+  }
 }

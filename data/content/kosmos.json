@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-03",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Kimboooo69!",
+        "titre": "Incroyable",
+        "texte": "Des podcasts rédiger avec un fil rouge de qualité. C’est un réel plaisir d’écouter et de découvrir des grands classiques qui peuvent passer à la trappe avec l’école. Comme dirait un célèbre poète marseillais : merci bien la zone ! (+ de Nietzsche et je mets la 6ème étoile) ⭐️"
+      },
+      {
+        "note": 1,
+        "auteur": "Ultima necat",
+        "titre": "Fin des écoutes",
+        "texte": "Les interruptions publicitaires lors de l’exposé sont insupportables et méprisantes. Je me désabonne."
+      },
+      {
+        "note": 5,
+        "auteur": "Jérôme Roma",
+        "titre": "Bravo et merci",
+        "texte": "Bravo pour votre engagement lors de l’épisode sur la gratuité. Commerçant, ce sujet m’agace depuis longtemps et votre mise au point est salutaire. Surtout merci pour votre podcast qui m’enrichit régulièrement."
+      }
+    ]
+  }
 }

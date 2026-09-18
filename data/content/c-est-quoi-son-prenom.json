@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-08-28",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Angèleglln",
+        "titre": "Pépite à écouter ⭐️⭐️⭐️⭐️⭐️",
+        "texte": "Un podcast vraiment trop chouette étant une grande fan de prénom et encore plus des histoires derrières les prénoms ! Des échanges authentiques, des histoires intéressantes et beaucoup de bonne humeur. On passe un super moment à chaque épisode.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Sparow33720",
+        "titre": "Bof 😕",
+        "texte": "Il y a que des prénom qui n’existe pas mais les prénom commun il y en a aucun Je vais demander mais ça ne sert à rien vous pouvez mettre le prénom CAMILLE SIL VOUS PLAÎT"
+      },
+      {
+        "note": 5,
+        "auteur": "eloiseven",
+        "titre": "Un vrai bonheur",
+        "texte": "J’adore le format, à mi chemin entre quelque chose de très scientifique, et un moment confidence. C’est inspirant, cela permet de découvrir par quel chemin des parents passent pour choisir s’approprier le prénom de leurs enfants, mais aussi d’en découvrir les différents aspects e…"
+      }
+    ]
+  }
 }

@@ -24,5 +24,31 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Anne_TH",
+        "titre": "Fabuleux podcast",
+        "texte": "Octave et Melo nous accompagnent depuis les 2 ans et demi de notre fils, il adore -nous aussi !- et les réclame ! C’est varié, riche, les musiques et sons sont tous de qualité… bref on ne s’en lasse pas. Bravo à toute L’équipe pour ce merveilleux travail …"
+      },
+      {
+        "note": 5,
+        "auteur": "LAFZ786",
+        "titre": "La suite des Grives musicales ! SVP 🙏",
+        "texte": "Octaves et Melo font le voyage de retour à la montagne !!! Peut-être suivent-ils le cycle de l’eau et voyagent en montgolfière avec le goéland qui veut voir la montagne ? Merci pour ce beau podcast qui nous ramène à nos vacances d’été 💕 Lucien 5ans et toute sa famille."
+      },
+      {
+        "note": 5,
+        "auteur": "mathilde_danaé",
+        "titre": "Bravo ! 🤩 🎶",
+        "texte": "Superbe podcast mêlant les aventures d’Octave et Mélo avec de longs extraits musicaux de grande qualité. Un vrai plaisir d’écoute autant pour les petits que pour les grands. Nous attendons avec impatience les nouveaux épisodes ! 😉"
+      }
+    ]
+  }
 }

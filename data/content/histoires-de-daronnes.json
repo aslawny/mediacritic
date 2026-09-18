@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-07-20",
-  "frequence_jours": 13
+  "frequence_jours": 13,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ketchris",
+        "titre": "Merci",
+        "texte": "Merci de donner la parole aux mamans avec ton écoute bienveillante et tes questions si justement posées. Je te connais depuis longtemps et je te suis toujours avec assiduité. Encore une fois tu nous offres un moment de sagesse, de partage et d’émotions. Tu nous fais du bien.…"
+      },
+      {
+        "note": 5,
+        "auteur": "GaelleLrx91",
+        "titre": "C’est quoi être maman au 21 eme siecle",
+        "texte": "Il y a tellement d’attente et d’espérance, de désirs cachés et d’amour partagé mais aussi tellement de difficultés rencontrées , des peurs et des démons à affronter, des vieilles blessures qui se réveillent… en en parlant on peut remettre les choses à plat, sacraliser et désacral…"
+      },
+      {
+        "note": 5,
+        "auteur": "Rachel 💐",
+        "titre": "Lilly ✨",
+        "texte": "L’histoire de Lilly est aussi bouleversante que belle et je trouve qu’elle la raconte avec un réalisme dépouillé d’artifices qui m’a beaucoup émue. C’est vraiment quelqu’un de spécial et j’aimerais bien pouvoir lire un jour son livre."
+      }
+    ]
+  }
 }

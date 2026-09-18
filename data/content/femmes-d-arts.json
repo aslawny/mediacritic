@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-05-26",
-  "frequence_jours": 30
+  "frequence_jours": 30,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lise-Anne14",
+        "titre": "Femme très inspirante",
+        "texte": "Quel beau parcours de mère, femme artiste que celui d’Hélèna Soubeyrand ! Sincère et émouvante, ce témoignage est très inspirant pour orchestrer travail artistique et mère de famille. Belle personne et à artiste complète découvrir et à suivre sur le long terme.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Mimi59erggh",
+        "titre": "De belles rencontres de femmes de l’art",
+        "texte": "Posez-vous dans votre canapé ou dans votre atelier. Discrètes, singulières, volubiles, entrepreneuses, artistes, on voudrait toutes qu’elles deviennent nos copines. Elles lèvent chacune avec leur style le voile sur l’art et le féminin, c’est un délice …"
+      },
+      {
+        "note": 5,
+        "auteur": "Bémarg",
+        "titre": "Inspirant !",
+        "texte": "Des parcours inspirants, des témoignages authentiques et percutants. Le tout mis en valeur par une journaliste qui s’intéresse profondément à ses invitées et qui les guide à la perfection dans leur récit.…"
+      }
+    ]
+  }
 }

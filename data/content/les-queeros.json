@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-08-23",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "AlixWastoma",
+        "titre": "Marrant et Important",
+        "texte": "Merci beep de donner la parole à ces artistes Drag, comme je ne l’avais jamais entendu avant. Les questions sont très bien posées et le casting est prêt à ouvrir les porte de leur intimité d’artiste pour nous permettre de mieux les comprendre.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Cl_ire",
+        "titre": "Merci et bravo :)",
+        "texte": "Des interviews extrêmement bien ficelées d’artistes que l’on aime déjà ou que ce podcast nous donne envie de découvrir de toute urgence ! On rit, on pleure, et surtout on se passionne pour les histoires de ces artistes fabuleux.ses.x. Merci et bravo pour ce podcast !"
+      },
+      {
+        "note": 5,
+        "auteur": "toujours_plus",
+        "titre": "💕",
+        "texte": "Bravo pour ce super podcast ! Je suis presque triste de l’avoir découvert si tôt, et de n’avoir donc pas 100 épisodes à binger ! Mais déjà hâte d’écouter la suite ! Merci à Bip pour sa bienveillance et à touste les drags artistes pour leur travail 💕 !"
+      }
+    ]
+  }
 }

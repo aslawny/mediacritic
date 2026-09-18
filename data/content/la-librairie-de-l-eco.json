@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-05",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pantloons",
+        "titre": "Excellent isolé",
+        "texte": "Géniale merci M Lechypre, une bien belle émission qui allie culture économique sociale et sociétale. Des avis et des voies différents pour voir et concevoir notre monde.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Pierofrelon",
+        "titre": "Au top",
+        "texte": "Superbe émission qui transpire la passion de ses protagonistes et piliers Emmanuel, Christian et Jean-Marc. Une émission à la frontière de l’économie, la sociologie, la psychologie et parfois la philosophie.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Fb4444 MM.",
+        "titre": "Super podcast. intelligent efficace",
+        "texte": "Permet de se tenir informé de la recherche en éco et des parutions qu’on n’a pas le temps de lire. seul hic ! un téléchargement dispo bien trop longtemps après la diffusion du vendredi !!! je trépigne d’impatience entre chaque épisode ! bravo à l’équipe"
+      }
+    ]
+  }
 }

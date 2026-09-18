@@ -27,5 +27,29 @@
     "famille"
   ],
   "addedAt": "2026-06-21",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "episodes_recents": [
+    {
+      "titre": "Solo à 7 mois : tonneau, directionnels et premiers concours",
+      "date": "2026-09-14"
+    },
+    {
+      "titre": "Système de conduite : pourquoi on est passé du relatif à l'absolu",
+      "date": "2026-09-07"
+    },
+    {
+      "titre": "Préparation physique : ce qu'on fait vraiment avec nos chiens (et pourquoi c'est pas optionnel)",
+      "date": "2026-08-31"
+    },
+    {
+      "titre": "Comment on travaille nos chiens : méthodes, compétences et philosophie",
+      "date": "2026-08-24"
+    },
+    {
+      "titre": "Retour sur la Rialp : cinq jours dans les Pyrénées espagnoles",
+      "date": "2026-08-17"
+    }
+  ],
+  "derniere_activite": "2026-09-14",
+  "frequence_jours": 7
 }

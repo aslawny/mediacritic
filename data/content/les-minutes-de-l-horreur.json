@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2024-09-04",
-  "frequence_jours": 2
+  "frequence_jours": 2,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ines.tamborelli",
+        "titre": "Un de mes Podcast favoris",
+        "texte": "Des thèmes intéressants, intriguant et entraînants je recommande à 100% à écouter dans les transports, avant de dormir ou même en cuisinant j’attends le prochain avec impatience !"
+      },
+      {
+        "note": 2,
+        "auteur": "clmb233",
+        "titre": "Bien mais",
+        "texte": "Bon podcast dans la forme et l’idée mais d’énormes fautes d’expression, avant de se lancer mieux vaut peaufiner son français..."
+      },
+      {
+        "note": 5,
+        "auteur": "ArthurFanGreys",
+        "titre": "Génial 👍",
+        "texte": "Un podcast très bien réalisé, des histoires prenantes, une voix qui emporte, j’adore ce podcast ! Je recommande pour ceux qui aiment les histoires criminelles !"
+      }
+    ]
+  }
 }

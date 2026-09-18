@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-29",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "StephGerif",
+        "titre": "Le podcast digital pour les novices ou les experts !",
+        "texte": "Découvert il y a quelques mois, ce podcast est juste incroyable. Que l'on soit expert ou novice, il y en a pour tout le monde. Apprendre, s'enrichir, ou se perfectionner, le digital est tellement vaste, que même les 250 épisodes de la 1ère saison ne sont pas suffisants.…"
+      },
+      {
+        "note": 5,
+        "auteur": "stephanezibi",
+        "titre": "Un podcast éclairant, dans l’air du temps et qui nous apprend au moins une chose par jour",
+        "texte": "A l’heure des matinales, pourquoi ne pas commencer sa journée en écoutant un podcast éclairant sur le darkweb ou l’industrie 4.0? On peut l’écouter en décalé bien sûr mais son intérêt est la participation active de ses auditeurs.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Francois34000",
+        "titre": "Fun, spontané et intéressant",
+        "texte": "Alors que les directs radio et télé sont minutés, préparés à la virgule et parfois manipulés, le podcast de PPC prend le contrepied. On entend les voitures, les oiseaux, l’orateur qui réfléchit tout haut. Écouter l’avant et après est également marrant (Périscope).…"
+      }
+    ]
+  }
 }

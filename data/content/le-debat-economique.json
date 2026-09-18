@@ -23,5 +23,31 @@
     "économie",
     "business"
   ],
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lio5280",
+        "titre": "Merci pour ce podcast",
+        "texte": "Curieux de nature et sans jugement, J’écoute ce podcast chaque semaine. Je trouve intéressant « l’exposition » d’idées et de visions opposées. Elles me permettent selon ce que j’écoute : 1- de confirmer ce que je pense déjà.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Sebastien Per",
+        "titre": "Degout absolu d entendre porcher",
+        "texte": "Predictible, caricatural. Ce monde meurt de ce type de fonctionnaires nous voulant que du « bien gauchiste »"
+      },
+      {
+        "note": 5,
+        "auteur": "Ironic1984",
+        "titre": "Très bon débat",
+        "texte": "Je trouve le débat toujours intéressant. Les deux économiste ont souvent des points de vue bien différents, et bien que je sois plutôt du côté de Thomas, je trouve les arguments de Dominique toujours extrêmement bien fondés et expliqués.…"
+      }
+    ]
+  }
 }

@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-04-24",
-  "frequence_jours": 40
+  "frequence_jours": 40,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Matthieu!38",
+        "titre": "Super pédagogique et pas pontifiant",
+        "texte": "Continuez comme ça. J'écoute régulièrement le soir, c'est mon moment à moi. Je vous trouve chouettes car vous rentrez dans beaucoup de détails techniques sans être abscons. Loin de beaucoup d'émissions ou je cite \"on se prends pas la tête\".…"
+      },
+      {
+        "note": 5,
+        "auteur": "Ompa-lompa",
+        "titre": "Longue vie au podcast",
+        "texte": "Hello Juste un petit mot pour vous dire que parmi tous les podcasts sur le vin que j’avale depuis presqu’un an, La Terre a boire est mon préféré.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Pierre_33200",
+        "titre": "Passionnant pour tous !",
+        "texte": "Un podcast œnophile destiné à tous, des plus amateurs aux plus experts. On y apprend énormément de choses, sur un ton léger, ce qui est doublement appréciable lorsqu'il s'agit d'un domaine aussi complexe.…"
+      }
+    ]
+  }
 }

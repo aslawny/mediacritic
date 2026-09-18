@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2025-07-01",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mrs12a",
+        "titre": "Un joyride business hyper pertinent!",
+        "texte": "Bien plus qu’un simple Podcast de conseils business, prépare toi à une expérience auditive qui fera vibrer tes tympans et éveillera ton esprit et ta bonne humeur( et ça c’est super important)! Oublie tout ce que tu as déjà entendu et laisse Geneviève t’emmener dans son univers oú…"
+      },
+      {
+        "note": 5,
+        "auteur": "Elsa Boulet",
+        "titre": "Bravo !",
+        "texte": "Wouah ! Que de défis relevés pour cette 5e édition du bundle, celle où je suis enfin devenue cliente… avec le bundle suprême 😉 parce qu’il y avait des formations qui m’intéressaient dans le classique et dans le suprême.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Elo lonaya",
+        "titre": "Whaow 💥",
+        "texte": "Je découvre le podcast. Je te découvre aussi Gen Et dès le premier épisode j’adore ! J’adore de franc parler, ce « straight to the point » Quel beau porte parole de l’entreprenariat au féminin 😍 L’argent, un sujet si tabou …"
+      }
+    ]
+  }
 }

@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-07-23",
-  "frequence_jours": 2
+  "frequence_jours": 2,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Ronan desvosges",
+        "titre": "Un régal",
+        "texte": "Quel plaisir infini de découvrir ce podcast et d’en savourer chaque minute grâce au talent de Guillaume, toujours juste, avec une interview ciselée qui met en valeur chaque invité. On ressent du plaisir de la première à la dernière minute avec un vrai partage.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Lulularunneuse",
+        "titre": "Merci de me donner l’envie",
+        "texte": "Merci, merci, merci !Merci de nous faire rêver, merci de nous faire découvrir des personnes fabuleuse, des aventures incroyables, merci pour ta bienveillance, ton humour léger, ta compréhension parfaite des personnes interviewées et ta belle façon de nous emmener avec toi, avec v…"
+      },
+      {
+        "note": 5,
+        "auteur": "Hyudroo",
+        "titre": "Un podcast qui fait voyager",
+        "texte": "N’étant pas un consommateur régulier de podcasts, je me suis essayé à ce nouveau format. J’ai été embarqué dans l’aventure de Matthieu Tordeur et dans sa vie, la façon donc est déroulée l’histoire nous donne juste envie de savoir toujours plus sans voir le temps passer."
+      }
+    ]
+  }
 }

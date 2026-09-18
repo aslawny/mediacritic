@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-09-07",
-  "frequence_jours": 4
+  "frequence_jours": 4,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Slyhas",
+        "titre": "Podcast de développement personnel concret",
+        "texte": "Je savoure chaque épisode même lorsqu’un invité n’est pas dans mes préférences, avoir la possibilité de découvrir et écouter des acteurs de terrains sur leurs solutions et problématiques restent une sources d’inspiration incroyable.…"
+      },
+      {
+        "note": 5,
+        "auteur": "India14",
+        "titre": "Une pépite !!!",
+        "texte": "Ce podcast est une pépite. La qualité est là, les invités sont de vrais pépites. On découvre tous les secteurs, on parcoure le monde, on oscille entre admiration, joie et rires.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Laïti",
+        "titre": "#232 Elisabeth MORENO",
+        "texte": "Cet épisode c’est tellement moi en ce moment. Sentir qu’on te limite, voir qu’on peut faire plus mais les études universitaires ne vont pas te donner cette vie là donc tu dois aller chercher les études qu’il faut. Donc j’ai cet objectif là d’un MBA.…"
+      }
+    ]
+  }
 }

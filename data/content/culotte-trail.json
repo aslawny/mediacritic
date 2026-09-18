@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-03",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "LynetteG42",
+        "titre": "Mille Merci",
+        "texte": "J’ai découvert ce podcast féminin en plein burn out. J’ai ressenti le besoin de courir, l’appel de la nature, l’envie de mieux me connaître en tant que femme, et un grand besoin de sororité.…"
+      },
+      {
+        "note": 5,
+        "auteur": "brelo17",
+        "titre": "Contenu de qualité et varié",
+        "texte": "Un super podcast sur le trail au féminin ! Chaque épisode est riche en infos et en témoignages inspirants, avec des invitées variées : athlètes, entraîneurs, passionnées… On y trouve des conseils pratiques, des récits d’expériences et une vraie mise en lumière des femmes dans ce…"
+      },
+      {
+        "note": 5,
+        "auteur": "B.amel28",
+        "titre": "Incontournable et essentiel",
+        "texte": "Véritable safe place, Laurie nous permet de nous sentir légitime et à notre place, et de découvrir le parcours de femmes inspirantes. J’adore, déclencher le podcast en début de séance donne toujours le sourire 😊 MERCI"
+      }
+    ]
+  }
 }

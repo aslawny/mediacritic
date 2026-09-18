@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-04-20",
-  "frequence_jours": 51
+  "frequence_jours": 51,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Andreaxmarvel",
+        "titre": "Captivant",
+        "texte": "Bonjour ! J’adore vos podcasts ! C’est complet et vraiment intéressant, on apprend des choses sur nos séries préférées et on en découvre d’autres.…"
+      },
+      {
+        "note": 2,
+        "auteur": "Decoy Saiga",
+        "titre": "(presque) parfait !",
+        "texte": "Cinq étoiles pour la passion et la pertinence. J’en retire une pour l’autorité mal placée de l’animatrice..."
+      },
+      {
+        "note": 5,
+        "auteur": "Warson77",
+        "titre": "Le meilleur du Podcast série!",
+        "texte": "Une des meilleures chaines de Podcast avec un contenu énoorme et bien éclectique! Ça balaie large entre les séries cultes comme Lost ou Battlestar et les séries contemporaines à succès comme Black Mirror, Casa de Papel ou Westworld....…"
+      }
+    ]
+  }
 }

@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-06-21",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "pat.hammerer",
+        "titre": "Très instructif",
+        "texte": "Je vis à l’île de la Réunion et avec le décalage horaire, je préfère réécouter votre émission en podcast. Merci encore de le partager sur les plateformes"
+      },
+      {
+        "note": 1,
+        "auteur": "Balogo",
+        "titre": "Qualité sonore médiocre",
+        "texte": "Merci de veiller à la qualité du son avant de poster vos émissions sur Podcast. Celle d’hier avec Caroline Fourrest a un son exécrable qui rend l’écoute très désagréable."
+      },
+      {
+        "note": 5,
+        "auteur": "FredP971",
+        "titre": "Rare",
+        "texte": "Du niveau. De l’écoute. De la fluidité et de la compétence. Pas de clash. Et ça, ça fait du bien."
+      }
+    ]
+  }
 }

@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2024-05-28",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "poups133",
+        "titre": "Le grand retour!",
+        "texte": "C’est parti on vous retrouve! Merci de nous faire partager toutes ces rencontres pleines de bon sens!! Et tout ça toujours avec humour c’est top!! Anne so ta simplicité me fait trop rire reste fraîche comme ça! J’espère que vous ferez un carton! Plein de bonnes choses à vous deux…"
+      },
+      {
+        "note": 5,
+        "auteur": "Massoud32",
+        "titre": "Sens et rigolade",
+        "texte": "Anne-So et Vacher à la radio mais sans les contraintes de la radio. Au lieu d’avoir 5-10 min d’un invité et des pubs, on a 45-60 min sans pubs ou autre (je compte pas l’auto-promo, c’est normal). Podcast qui fait du bien. Merci de nous faire rire. :)"
+      },
+      {
+        "note": 5,
+        "auteur": "Mamounette65",
+        "titre": "Je vous retrouve",
+        "texte": "Enfin ! Je vous retrouve. Je ne sais pas bien utiliser Instagram et par hasard je vois que vous faites un Podcasts. Vite je vais les télécharger et les réécouter. Merci encore d’être toujours à l’antenne. Bisous. Anne-So et VACHER. Je vous aime."
+      }
+    ]
+  }
 }

@@ -25,5 +25,29 @@
     "cuisine"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "episodes_recents": [
+    {
+      "titre": "Podium #84 - Le parcours de Sandra Geiger",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "Podium #83 - Le parcours de Sacha Straub-Kahn",
+      "date": "2026-08-07"
+    },
+    {
+      "titre": "Podium #82 - Le parcours de Bruno Dinel",
+      "date": "2026-06-26"
+    },
+    {
+      "titre": "Podium #81 - Le parcours de Cécile Sornin",
+      "date": "2026-06-05"
+    },
+    {
+      "titre": "Podium #80 - Le parcours de William Laîné",
+      "date": "2026-04-24"
+    }
+  ],
+  "derniere_activite": "2026-09-11",
+  "frequence_jours": 35
 }

@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-07-01",
-  "frequence_jours": 21
+  "frequence_jours": 21,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "sandarsmio",
+        "titre": "Aux curieux",
+        "texte": "Sans vraiment d’interêt vif pour le sujet du podcast — dans la mesure où je ne sais généralement pas de quoi parlent les invités et n’ai jamais visité les lieux mentionnés — je le trouve néanmoins passionnant et particulièrement mature et informatif.…"
+      },
+      {
+        "note": 2,
+        "auteur": "Jill-bay",
+        "titre": "Hyper sympa mais pas le dernier épisode (4)",
+        "texte": "Je suis un grand fan depuis la sortie de ce podcast. Super boulot, super connaissances jusqu’à l’épisode 4. L’épisode 4 ce racisme ordinaire quand votre invité parle d’un parc au nord de Shanghai avec un « tching tchong » super maladroit même pas coupé au montage honteux …"
+      },
+      {
+        "note": 5,
+        "auteur": "olimado0212",
+        "titre": "Une pépite",
+        "texte": "J’ai découvert ce podcast grâce à l’équipe de rien que d’y penser et quelle belle découverte ! Je me suis envoyée tous les épisodes en quelques jours et je pense pouvoir dire que c’était vraiment LE format qui me manquait jusqu’à présent : passionnée de parcs mais aussi d’infos h…"
+      }
+    ]
+  }
 }

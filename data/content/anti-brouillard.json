@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2022-09-26",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Marcel JBF",
+        "titre": "L'été rosé et piscine riment avec innovation",
+        "texte": "A l'heure d'été et du rosé je cherchais un contenu pointu et accessible pour améliorer mes connaissance du business technique. On m'a recommandé antibrouillard. C'est absolument génial du fonds à la forme.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Creareveur",
+        "titre": "Un podcast vraiment « intéressant » 😉",
+        "texte": "Salut Fabien, bravo à ton travail. J'ai découvert ton podcast au détour d'une proposition de la marque à la pomme et j'aime beaucoup ta simplicité et ta ligne éditorial qui questionne l'impact de la Tech sur la société.…"
+      },
+      {
+        "note": 5,
+        "auteur": "the togn",
+        "titre": "Vacances 5⭐️",
+        "texte": "Un des meilleurs podcasts sur l’actu de la tech avec une approche très pédagogique pour vulgariser des concepts parfois ardus mais incontournables pour notre futur …"
+      }
+    ]
+  }
 }

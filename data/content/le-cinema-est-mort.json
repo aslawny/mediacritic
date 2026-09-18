@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-08",
-  "frequence_jours": 21
+  "frequence_jours": 21,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "härfäng",
+        "titre": "Haut du panier",
+        "texte": "Parfois passionnant, souvent pertinent, toujours intéressant. Je suis cette émission depuis de nombreuses années et partage avec eux beaucoup d’obsessions cinématographiques.…"
+      },
+      {
+        "note": 1,
+        "auteur": "emptyness628",
+        "titre": "Quelle douche froide.",
+        "texte": "Première écoute : confondent mercredi saison 2 et beetlejuice 2. Anya Taylor Joy était dans 2 films en 2025, si vous ne les avez pas vu c’est votre problème mais ne dites pas n’importe quoi.…"
+      },
+      {
+        "note": 5,
+        "auteur": "SaitoChizue",
+        "titre": "Le podcast cinéphile",
+        "texte": "Des voix cultivées et passionnées, avec des arguments solides, toujours. Ils traitent de tous les cinémas et sont toujours sincères. On n’est pas toujours d’accord mais c’est le contrepoint que l’on mérite."
+      }
+    ]
+  }
 }

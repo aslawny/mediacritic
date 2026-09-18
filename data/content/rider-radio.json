@@ -27,5 +27,31 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "mÔssieur Ô",
+        "titre": "Merci pour ce concentré d’humilité et d’aventures",
+        "texte": "J’ai découvert ton podcast grâce à Thomas Lebouvier, que je suis depuis que j’ai lu l’article que Toad trop lui avait consacré il y a deux ans. Merci pour ton émission.…"
+      },
+      {
+        "note": 5,
+        "auteur": "michelperignat",
+        "titre": "Moment suspendu",
+        "texte": "-2 degré dehors sur la terasse,39 degré dans le jacuzzi et la neige fondue qui tombe avec une vue imprenable sur la chaine des Puys ...Ce moment déjà agréable a été magnifié par l’écoute de ces premiers podcasts .…"
+      },
+      {
+        "note": 5,
+        "auteur": "Alex Bnt Gnn",
+        "titre": "Vers encore plus d’ouverture et de découverte",
+        "texte": "J’ai découvert ce podcast un peu par hasard. J’ai aimé la diversité des sujets abordés, l’envie de découverte que chaque épisode suscite. Mais surtout, j’apprécie l’ouverture qu’apportent Reshad et ses invités et qui amène à s’interroger soi-même sur sa façon d’aborder notre pass…"
+      }
+    ]
+  }
 }

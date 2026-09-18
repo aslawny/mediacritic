@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-13",
-  "frequence_jours": 16
+  "frequence_jours": 16,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Meryl🤪",
+        "titre": "Merci beaucoup ❤️❤️❤️",
+        "texte": "Coucou 👋🏻😚 je t’admire Angéline tu es INCROYABLE 😻 j’ai écouté ton podcast « la confiance en soi » j’adore tes conseils et tu m’apprends tellement de choses sur moi et le comportement des autres (je sais pas si t’as compris 🤣) et tu me redonnes du confiance en moi à chaque fois 🤩…"
+      },
+      {
+        "note": 3,
+        "auteur": "Lou🌷✨",
+        "titre": "Merveilleux",
+        "texte": "Ce podcaste et incroyable il m’a a pris plein de truc et surtout m’a aidé à mieux comprendre ce que s’était le TDAH Merci 😘👍🥰☺️"
+      },
+      {
+        "note": 5,
+        "auteur": "Ce pseudo a déjà été confirmé,",
+        "titre": "Mon podcast préféré",
+        "texte": "G beaucoup parcourus de podcast car g du mal à être seul ( pour ne pas panser à des petit vois dans ma têtes qui me fon mal ) G fait un voyage « seul » et sa a étais compliqué pour moi mais tu m’a beaucoup aider de t’écouter mais pour moi tu est un exemple je te suis partout (You…"
+      }
+    ]
+  }
 }

@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2025-12-11",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Flbmore",
+        "titre": "Un super podcast à écouter les yeux fermés",
+        "texte": "Les Sourires du Vin est à l'image du bar de Yann dont c'est le podcast : chaleureux, authentique et atypique ... Yann et son invité y parlent et partent du vin pour sillonner, au gré de conversations toujours spontanées, des thématiques aussi diverses que rapport à la nature, au…"
+      },
+      {
+        "note": 5,
+        "auteur": "Pi Eille",
+        "titre": "Ecoute très agréable",
+        "texte": "Alors tout d'abord le son ... C'est toujours important quand on écoute un nouveau podcast qui se lance. Pour ma part, je l'ai écouté dans ma voiture sur une enceinte bluetooth et le son était très agréable et très clair. L'ambiance ensuite, super sympa.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Pseudo-Naomi",
+        "titre": "Une belle découverte et un vrai plaisir",
+        "texte": "Une belle découverte dans les oreilles, c'est enthousiasmant, ca donne envie d'inviter des ami(e)s et de déguster ! Je trouve que ce podcast ouvre de nouvelles perspectives sur le vin qui devient encore plus que du goût et de la couleur : une vigne, un raisin, une cuve, un vigner…"
+      }
+    ]
+  }
 }

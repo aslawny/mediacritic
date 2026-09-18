@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-06-16",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Sowilo fr",
+        "titre": "Le renouveau du talk show politique",
+        "texte": "Bonne émission venue de Twitch, avec des invités de qualité. Ca renouvelle le genre. Ok, c’est clairement orienté à gauche, mais vu la droitisation de tous les équivalents TV, il serait bien démago de le leur reprocher, d’autant plus qu’ils essaient de diversifier les invités mai…"
+      },
+      {
+        "note": 1,
+        "auteur": "Chacal rayé",
+        "titre": "Le melon du type",
+        "texte": "Toujours à se faire l’avocat du diable et se croire plus malin que tout le monde"
+      },
+      {
+        "note": 4,
+        "auteur": "rss_nico",
+        "titre": "Le CNEWS de la gauche",
+        "texte": "Je suis partagé quant à ce podcast. Je l'écoute chaque semaine et j'aime beaucoup le contenu sur la forme. Toutefois, je trouve que l'appartenance de certains chroniqueurs à une gauche Melanchoniste et parfois trop marquée.…"
+      }
+    ]
+  }
 }

@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-05",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Chiara CM",
+        "titre": "Podcast au top !",
+        "texte": "J’aime tellement ce duo de choc ! C’est vraiment un rayon de soleil qui égaye les jours sans couleurs. À chaque écoute, j’ai l’impression de me retrouver à prendre un café avec deux supers copines qui n’ont de cesse de me faire rire.…"
+      },
+      {
+        "note": 1,
+        "auteur": "divinelu2",
+        "titre": "Dommage",
+        "texte": "L’idée première est bonne. Mais cela ne fonctionne pas. Beaucoup d’inexactitudes, d’hésitations et l’on ne parle même pas des bafouillements et des pénibles gloussements. Dommage quand on se dit spécialiste Disney de ne pas essayer d’élever le niveau de son auditoire.…"
+      },
+      {
+        "note": 5,
+        "auteur": "beef 527",
+        "titre": "Merci pour nos oreilles",
+        "texte": "Merci de ravir nos oreilles ! Merci de faire vivre la magie de tonton Walt Ah mon dieu la voix de Clem !!! Ont se prendrait presque à trouver des qualités à DLP (le parc le moins respectueux de ses fans) Allez continuez même pour des épisodes de 5 heures 🤪🤪 Vous êtes mes bonnes f…"
+      }
+    ]
+  }
 }

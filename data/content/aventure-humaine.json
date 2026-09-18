@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2024-04-12",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "mamacrs",
+        "titre": "Top !",
+        "texte": "Je découvre votre podcast et j’ai commencé par l’épisode 51 avec Alexis qui est vachement intéressant notamment le débat freelance / indépendant ou entrepreneurs qui m’a amené à me demander moi même quel statut je choisissais.…"
+      },
+      {
+        "note": 5,
+        "auteur": "stocky_bis",
+        "titre": "Aventure Humaine au top",
+        "texte": "Merci Gael ! c'est toujours agréable de passer du temps avec toi et tes invités. J'aime assez bien la manière dont tes invités échange sur un tas de sujets qui viennent enrichir ma curiosité et de me donner des idées :) Laurent du Podcast la Learning Expedition."
+      },
+      {
+        "note": 5,
+        "auteur": "FredAzou",
+        "titre": "Bravo !",
+        "texte": "Tout ce qu’on fait est une aventure. J’aime beaucoup le format que propose Laura et Gaël.Les questions sont pertinentes, les sujets abordés très intéressant autour d’ invités inspirants et passionnants. Je recommande. Frédéric du Podcast La Combinaison. 👍"
+      }
+    ]
+  }
 }

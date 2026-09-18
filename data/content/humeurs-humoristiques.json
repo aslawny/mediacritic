@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2026-08-28",
-  "frequence_jours": 24
+  "frequence_jours": 24,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Jo Pae",
+        "titre": "Super podcast",
+        "texte": "Merci pour tout le boulot, ta préparation est vraiment solide et ta façon de mener l’itw est très agréable: tes questions sont claires, ta méthode chronologique aussi, tu laisses parler/ne coupes pas la parole. On sent que les invités apprécient et du coup nous aussi.…"
+      },
+      {
+        "note": 5,
+        "auteur": "samlasv",
+        "titre": "Une mine d’or!!",
+        "texte": "Je prends rarement la peine de venir mettre un commentaire mais je trouve ce podcast top !! C’est une mine d’inspiration et de découverte des gens. Très bien mené.…"
+      },
+      {
+        "note": 5,
+        "auteur": "mooxitoh",
+        "titre": "Excellent !",
+        "texte": "Ce podcast est très intéressant et donne un super point de vue de chacun des humoristes. Ces rétrospectives nous permettent d’apprendre plus de choses que ce à quoi on pourrait s’attendre ! Du miel pour mon cerveau d’humoriste ! Max Carré."
+      }
+    ]
+  }
 }

@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-27",
-  "frequence_jours": 4
+  "frequence_jours": 4,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "DjSagaz",
+        "titre": "Merci",
+        "texte": "Andréa fait partie des rares personnes qui ont contribué à mon mieux-être, depuis plus de deux ans maintenant. Je lui suis reconnaissant, car elle a su insuffler des lueurs d’espoir, alors que j’étais dans les ténèbres.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Nour_94000",
+        "titre": "Réunion zoom",
+        "texte": "Bonjour , Je voulais vous partager mon ressenti. Vous parlez souvent de ghosting dans vos conseils, mais j’ai moi-même vécu une situation un peu difficile.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Frimousssse",
+        "titre": "Une vraie coach en relations amoureuses bienveillante",
+        "texte": "Je suis Andréa sur Instagram et depuis quelques semaines son podcast . Je le recommande car il donne de nombreuses pistes de réflexions sur les relations amoureuses et sur le travail sur soi . On ne peut aimer les autres sans s aimer soi même .…"
+      }
+    ]
+  }
 }

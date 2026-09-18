@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2025-08-23",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Ivan Dumas",
+        "titre": "Indispensable !",
+        "texte": "Je suis abonné au journal Elucid depuis 2 ans, c’est pour moi devenu une référence majeure, les sujets abordés sont nombreux, la durée des interviews permet d’aller au fond des choses et est à contre-courant de la plupart des médias actuels où l’on privilégie les punch-lines et o…"
+      },
+      {
+        "note": 5,
+        "auteur": "Blop13",
+        "titre": "Un média d’une grande qualité",
+        "texte": "Je suis contente d’avoir découvert ce média et d’y être abonnée. Enfin du temps pour déplier, développer, expliquer, comprendre."
+      },
+      {
+        "note": 5,
+        "auteur": "Bakoudu11",
+        "titre": "Long vie à elucid",
+        "texte": "Des invités passionnants, avec des intervieweurs brillants. Merci"
+      }
+    ]
+  }
 }

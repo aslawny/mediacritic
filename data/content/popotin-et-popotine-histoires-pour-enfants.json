@@ -49,5 +49,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "EP44 ▪️ Les formes de Popotins",
+      "date": "2026-09-17"
+    },
+    {
+      "titre": "EP43 ▪️ Au lac !",
+      "date": "2026-09-10"
+    },
+    {
+      "titre": "EP42 ▪️ Soirée Dansante",
+      "date": "2026-09-03"
+    },
+    {
+      "titre": "EP41 ▪️ Ah... L'amour.",
+      "date": "2026-07-09"
+    },
+    {
+      "titre": "EP40 ▪️ Avec modération !",
+      "date": "2026-07-02"
+    }
+  ],
+  "derniere_activite": "2026-09-17",
+  "frequence_jours": 7
 }

@@ -24,5 +24,55 @@
     "running"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Dabelette",
+        "titre": "Du plaisir et des très bons conseils !",
+        "texte": "Merci pour tous ces poadcasts très agréables à écouter et riches en information et histoires intéressantes ! Je trouverais, mais c’est mon avis, qu’avoir plus de retour chiffrés des invités sur leur épreuves et entraînements (allure natation, moyenne sur le vélo et allure à pied)…"
+      },
+      {
+        "note": 2,
+        "auteur": "Laurent87600",
+        "titre": "Un bon début mais du mal à suivre",
+        "texte": "Une bonne initiative car il y a peu de podcast sur le triathlon ! Malheureusement j’ai du mal à accrocher car ça va dans tout les sens ... trop de monde autour du micro et c’est dur de suivre et les conseils sont un peu léger aussi .…"
+      },
+      {
+        "note": 5,
+        "auteur": "tof29870",
+        "titre": "Une bien belle découverte",
+        "texte": "Souhaitant me lancer dans le monde du tri j’ai découvert par hasard ce PPTC et quelle découverte !!!! Chaque épisode est enrichissant que ce soit sur la natation, le cyclisme le running et avec des invités qui apportent un vrai plus et de vraies découvertes.…"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "#46 - Triathlete et Entrepreneuse - Itw Charlotte Morel",
+      "date": "2023-09-04"
+    },
+    {
+      "titre": "#45 - La machine à laver de la nage en eau libre - Itw Sébastien Fraysse",
+      "date": "2023-06-07"
+    },
+    {
+      "titre": "#44 - Iron Dad - Itw Clément Giteau",
+      "date": "2023-04-21"
+    },
+    {
+      "titre": "#43 - Les conseils natation de l'expert du Cloub - Itw Mamoun Belhouchat",
+      "date": "2023-02-01"
+    },
+    {
+      "titre": "#42 - Les basiques de la nutrition sportive - Itw Alice Michel",
+      "date": "2022-12-06"
+    }
+  ],
+  "derniere_activite": "2023-09-04",
+  "frequence_jours": 47
 }

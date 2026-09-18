@@ -27,5 +27,31 @@
     "famille"
   ],
   "addedAt": "2026-05-31",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Sylvie Nicolaÿ",
+        "titre": "Bravo !",
+        "texte": "Bravo mon Olivia ! Tu es une merveilleuse conteuse. Tu expliques vraiment bien chaque monument, tu n’en dis ni trop, ni pas assez. Chaque enfant peut en prendre selon son âge, et les inciter à retrouver des images de chaque monument s’il n’habite pas Paris ou aller le visiter…..…"
+      },
+      {
+        "note": 5,
+        "auteur": "Rem14!",
+        "titre": "Super podcast, instructif et joyeux. Parfait pour les enfants et les parents",
+        "texte": "Bravo Olivia ! Une vraie réussite aussi bien au niveau du texte, du ton, de l’information que de la qualité de la mise en scène sonore. Vraiment une belle réussite et une super idée ! On a hâte d’apprendre de nouvelles choses sur tous ces bâtiments qui nous entourent !"
+      },
+      {
+        "note": 5,
+        "auteur": "Cath Atlanta",
+        "titre": "10 minutes de voyage, captivantes et culturelles",
+        "texte": "Les enfants, (et les parents), se laissent porter et apprennent beaucoup de choses. En plus, les arrangements sonores ajoutent une dimension ludique qui a plu aux enfants. Maintenant, on va aller visiter le Panthéon et réécouter le podcast."
+      }
+    ]
+  }
 }

@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2023-09-02",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Ju_ju_de",
+        "titre": "Bonjour 👋",
+        "texte": "C’est stylé je vous met 5 ⭐️ c’est cadeau les bg ( blg ) Épingler 📍 moi s’il vous plaît 🥺 c’est mon rêve 💭"
+      },
+      {
+        "note": 1,
+        "auteur": "roseelkhaoua",
+        "titre": "Rosinnette",
+        "texte": "C’est-à-dire que C’EST TROP NUL 👎 !!!!!!!!!!!!!!!!!😡😡😡😠😠🤯🤬🤬🙁😕😟☹️😒😒"
+      },
+      {
+        "note": 5,
+        "auteur": "polette",
+        "titre": "FCool",
+        "texte": "C’est super continuer comme ça Milesker ( ça veut dire merci en basque) 😍😍😍😍🥰🥰🥰😘😘😘"
+      }
+    ]
+  }
 }

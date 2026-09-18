@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-06-30",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Noémie1712",
+        "titre": "Hâte d’écouter pleins d’autres épisodes !",
+        "texte": "Je sais pas pourquoi j’étais sceptique au début (alors que j’adore votre chaîne et vos vidéos sur YouTube). Je pense que j’avais peur de la longueur du film décrit par plan et en faite j’adore …"
+      },
+      {
+        "note": 5,
+        "auteur": "mhcmoi",
+        "titre": "Un autre regard sur le cinéma",
+        "texte": "J’aime beaucoup. Dans les récits, je trouve des détails qui m’avaient échappé et j’arrive à m’immerger grâce aux récits bien construits. La plupart des invités sont passionnés et passionnants, mise à part l’invitée de l’épisode sur Thelma et Louise qui ne prenait aucun recul et n…"
+      },
+      {
+        "note": 5,
+        "auteur": "Lolo_bobo",
+        "titre": "Du velours …",
+        "texte": "Abonné à leur excellente chaîne Youtube, je ne peux que vous conseiller leur podcast : des invités, des anecdotes, de la bonne humeur. Quand on aime on ne compte pas, du contenu oui MAIS de qualité.…"
+      }
+    ]
+  }
 }

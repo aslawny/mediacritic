@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-28",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Claims27",
+        "titre": "Intéressant!",
+        "texte": "Je suis tombée par hasard sur vos interviews et cela permet de se poser des questions à travers des personnes que je ne connaissais pas! J’aime beaucoup votre façon naturelle de poser les questions et les invités sont très intéressants! Par contre en apparte, je suis très intrigu…"
+      },
+      {
+        "note": 5,
+        "auteur": "Florette5",
+        "titre": "Rare et vivant ✨💫⭐️",
+        "texte": "Des podcasts y’en a des milliers. Des bons, beaucoup moins. Celui de Deborah je ne l’ai pas cherché, il m’a trouvée. Et depuis je reviens. Les questions ne sont pas celles qu’on attendrait : elles vont là où ça fait un peu mal, ou beaucoup réfléchir.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Nora-61",
+        "titre": "Des interviews Banger",
+        "texte": "Les interviews de Deborah sont franchement excellente. On sent que c’est travaillé. Les questions sont vraiment originales. Un subtile mélange entre humour, profondeur et déconnade. Tout ce que j’aime, je recommande à 100%"
+      }
+    ]
+  }
 }

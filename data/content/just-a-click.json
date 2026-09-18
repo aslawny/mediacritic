@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-31",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "mika 360",
+        "titre": "Un podcast captivant et indispensable !",
+        "texte": "Terry Michel réussit un sans-faute avec Just a Click. Les sujets sont abordés avec une clarté remarquable, un ton juste et une vraie profondeur sans jamais devenir assommant.…"
+      },
+      {
+        "note": 5,
+        "auteur": "FrensdeBodinat",
+        "titre": "Super pro m, top podcast !",
+        "texte": "Ai eu le plaisir d accueillir Terry dans nos locaux de Younited à Paris afin de participer au podcast. Experience top à tous les niveaux. Terry est super, il gère tout, l’interview durant le podcast est super bien drivée ! Et en plus il a un matériel de pro …"
+      },
+      {
+        "note": 5,
+        "auteur": "Nicolas_Cros",
+        "titre": "Sujets variés, intervenants sélectionnés : un podcast top !",
+        "texte": "Dans un format vif et dynamique, Terry permet à des intervenants aux profils variés de partager leur expérience de manière très agréable. La variété des sujets abordés dans les épisodes donne un panorama intéressant, souvent bien au delà du product management.…"
+      }
+    ]
+  }
 }

@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2020-10-02",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Bougsson",
+        "titre": "La justesse des mots ...",
+        "texte": "Je partage tout à fait le contenu de chaque épisode ... vivement le prochain ! Merci Julia."
+      },
+      {
+        "note": 1,
+        "auteur": "Joluxury73",
+        "titre": "Zéro intérêt",
+        "texte": "Aucun intérêt d’être publié sur podcast 30secondes de pub pour 30secondes de blabla et terminer."
+      },
+      {
+        "note": 2,
+        "auteur": "ruaideh",
+        "titre": "[Pub] Ce podcast me semble [Fin !]",
+        "texte": "Question de philo : comment soutenir un podcast que l'on ne peut même pas écouter ? D'ailleurs, comment donner envie de l'écouter ?"
+      }
+    ]
+  }
 }

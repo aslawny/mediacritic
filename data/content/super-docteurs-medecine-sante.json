@@ -24,5 +24,31 @@
   "tags": [
     "santé"
   ],
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Katiba61",
+        "titre": "Toop",
+        "texte": "Thème du secteur 3 est excellent . Je découvre ce podcast et c’est le 1er que j’écoute . Bravo aux consœurs qui ont eu ce courage et qui se sont alignées avec leurs principes . Accepter de payer un coiffeur 90€ pour les femmes et refuser de payer un médecin avec un Bac + 14 .…"
+      },
+      {
+        "note": 5,
+        "auteur": "Mathilde.Gi",
+        "titre": "Un coup de frais pour la médecine générale",
+        "texte": "Je suis interne de médecine générale et j’adore ce podcast ! Les sujets sont innovants et change de ce qu’on entend de façon général. J’adore la diversité des invités et des points de vue. C’est super enrichissant. Merci pour ce que vous fêtes !"
+      },
+      {
+        "note": 5,
+        "auteur": "LoïcBM",
+        "titre": "Podcast d’intérêt général",
+        "texte": "Super podcast : contenus variés et riches, adaptés à la pratique de la médecine! Indispensable pour la formation continue, ou pour réviser des notions oubliées, ou encore découvrir de nouvelles pratiques! Bref. Passionnant!"
+      }
+    ]
+  }
 }

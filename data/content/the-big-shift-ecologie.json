@@ -27,5 +27,31 @@
     "culture"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Marie-Claire Straub",
+        "titre": "Super podcast très diversifié sur les enjeux de développement durables !",
+        "texte": "J’ai adoré écouter un premier épisode sur les enjeux de développement durable dans le numérique, qui m’a donné envie d’écouter les autres épisodes (podcast enregistré dans ma bibliothèque !). Le format court pour les actions est top également.…"
+      },
+      {
+        "note": 5,
+        "auteur": "encore-un-pseudo",
+        "titre": "Simple et percutant",
+        "texte": "Bravo pour ce podcast. Les sujets sont importants et malgré leur apparente complexité, ils sont décortiqués et expliqués simplement ce qui rend les sujet passionnants et accessibles à tous. Il faut félicité aussi la qualité des intervenants et de leurs témoignages. BRAVO !"
+      },
+      {
+        "note": 5,
+        "auteur": "Jahnoy77",
+        "titre": "Approfondir",
+        "texte": "Podcast parfait pour approfondir les questions et les enjeux écologiques dans tous les domaines ! Le format ACTION est top également pour mettre en pratique au quotidien des petites habitudes pour la planète"
+      }
+    ]
+  }
 }

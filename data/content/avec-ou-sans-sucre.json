@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-06-21",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Eléa Lenoir",
+        "titre": "Avec ou Sans Sucre",
+        "texte": "C’est incroyable j’adore vos épisodes . Tu es formidable Inès . J’ai l’impression que tu as 3 vies en 1 . Tu es trop forte . Tu es mon idole . Je m’inspire de toi .…"
+      },
+      {
+        "note": 5,
+        "auteur": "Leahascoet16",
+        "titre": "Incroyableeee",
+        "texte": "C’est le rdv du dimanche. J’attend toute la semaine le nouveau podcast. Inès tu es une femme incroyable. Pleine de bonnes ondes. Tu fais des choses incroyables danse avec les stars, le tirage du loto , ton podcast, ta collection de lingerie , ta chaîne YouTube ( t’es vlog dals so…"
+      },
+      {
+        "note": 5,
+        "auteur": "Anne So BZH29",
+        "titre": "Une parenthèse enchantée",
+        "texte": "Bonjour Inès ne regardant ni DALS ni Miss France j’avais peu de chance de tomber sur ton podcast et encore moins de l’apprécier…. Et pourtant je suis devenue addictif et trop fan ! Bravo pour la qualité de tes interviews …"
+      }
+    ]
+  }
 }

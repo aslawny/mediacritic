@@ -46,5 +46,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "SUPERSTITIONS",
+      "date": "2026-02-13"
+    },
+    {
+      "titre": "RÉSOLUTIONS",
+      "date": "2025-12-31"
+    },
+    {
+      "titre": "5 STORIES TERRIFIANTES DE NOËL",
+      "date": "2025-12-27"
+    },
+    {
+      "titre": "LA VÉRITABLE STORY DU PÈRE NOËL !",
+      "date": "2025-12-25"
+    },
+    {
+      "titre": "5 STORIES DE NOËL",
+      "date": "2025-12-24"
+    }
+  ],
+  "derniere_activite": "2026-02-13",
+  "frequence_jours": 2
 }

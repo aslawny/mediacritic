@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-09-16",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Cyl Pg",
+        "titre": "Un vrai plaisir d’écouter ce podcast",
+        "texte": "J’ai presque 40 ans et à chaque fois que je t’écoute Jess, je me dis que tu as la maturité de savoir ce qui est bon pour toi, et que tu sais déjà à ton âge, que trop écouter son ego, ne sera pas forcément bénéfique.…"
+      },
+      {
+        "note": 5,
+        "auteur": "GéC32",
+        "titre": "Le coup de boost assuré",
+        "texte": "J’ai découvert Jessica il y a quelques mois, et j’ai immédiatement adoré ! Sa personnalité, sa façon de nous parler, sa maturité, son partage d’expérience, bref, j’ai mis à profit mes trajets quotidiens pour écouter tous ses podcasts depuis janvier 2023 …"
+      },
+      {
+        "note": 5,
+        "auteur": "Fionalvl",
+        "titre": "On a tous besoin de cette Jess’ dans nos vies",
+        "texte": "T’es tellement l’amie dont j’ai besoin chaque jour et merci d’être aussi présente pour les entrepreneuses ! Du vrai, pas de blabla, des objectifs, des conseils, du direct, mille solutions, de l’entraide, de la dispo, des plateformes pour tout le monde, bref.…"
+      }
+    ]
+  }
 }

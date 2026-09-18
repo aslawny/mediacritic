@@ -24,5 +24,55 @@
     "business",
     "entrepreneuriat"
   ],
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Vector M",
+        "titre": "Comment vous avez changé mon état d'esprit",
+        "texte": "J'ai fait le chemin à l'envers en vous découvrant par un podcast que vous aviez présenté (Le comptoir du futur). Vraiment pas un gros consommateur de podcast jusque là (je suivais Le comptoir sur Youtube), depuis que je vous connais, je suis : 1- devenu fan de votre émission, 2-…"
+      },
+      {
+        "note": 5,
+        "auteur": "Kanimoje",
+        "titre": "au top! mais si vous me permettez...",
+        "texte": "Je mets 5 étoiles parce que j'apprécie votre podcast depuis le début et qu'il m'aide à faire de belles découvertes dans la podcastsphère. Un petit bémol sur le dernier épisode: Lorsque vous évoquer la statistique selon laquelle 100% des femmes ont été harcelées dans les transport…"
+      },
+      {
+        "note": 5,
+        "auteur": "zepom",
+        "titre": "Pour les novices comme les amoureux du podcast",
+        "texte": "Jusqu'à la découverte du Podcastore, ma sélection de podcasts se basait essentiellement sur les classements d'iTunes avec un succès tout relatif...…"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "#JJGUB #10 et Fin : Jean-Jacques Goldman Ultimate Budokai",
+      "date": "2021-12-31"
+    },
+    {
+      "titre": "#JJGUB #09 : Jean-Jacques Goldman Ultimate Budokai",
+      "date": "2021-12-24"
+    },
+    {
+      "titre": "Atelier : Spécial Cinéma",
+      "date": "2021-10-20"
+    },
+    {
+      "titre": "#JJGUB #08 : Jean-Jacques Goldman Ultimate Budokai",
+      "date": "2021-09-08"
+    },
+    {
+      "titre": "#JJGUB #07 : Jean-Jacques Goldman Ultimate Budokai",
+      "date": "2021-05-18"
+    }
+  ],
+  "derniere_activite": "2021-12-31",
+  "frequence_jours": 65
 }

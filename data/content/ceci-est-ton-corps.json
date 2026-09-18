@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2025-03-16",
-  "frequence_jours": 20
+  "frequence_jours": 20,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "CacaDoré",
+        "titre": "Quand l’instructif rencontre le passionnant!",
+        "texte": "Je ne suis pas une grande amatrice de podcast, mais certains ont la capacité de nous happer et il est toujours bon de le faire remarquer ! « Ceci est ton corps » permet aux femmes de s’exprimer, de se reconnaître et de (re)trouver le chemin de l’acceptation en soi-même via les té…"
+      },
+      {
+        "note": 5,
+        "auteur": "GoldenR89",
+        "titre": "Des frissons dans les oreilles !",
+        "texte": "Des témoignages touchants et courageux, on se sent moins seules, on se sent plus fortes, et on en veut encore !! Les lundis et vendredis deviennent des rendez vous incontournables …"
+      },
+      {
+        "note": 5,
+        "auteur": "Juliette Dupard",
+        "titre": "Sensible et poétique",
+        "texte": "J’attends chaque épisode de Ceci est ton corps avec impatience ! Le climat bienveillant appelle à la confidence et créer une intimité qui transparaît à l’écoute.…"
+      }
+    ]
+  }
 }

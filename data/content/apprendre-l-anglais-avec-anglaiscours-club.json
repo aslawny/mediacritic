@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-08-28",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "tatoo294",
+        "titre": "dommage",
+        "texte": "Le niveau pédagogique et la qualité du PodCast sont tellement biens que je regrette vraiment que son auteur ne fasse pas un PodCast identique pour débutant. j'écoute dans la voiture en allant travailler et c'est tout simlement génial. Bravo !"
+      },
+      {
+        "note": 5,
+        "auteur": "Un simple usager.",
+        "titre": "Excellente pédagogie",
+        "texte": "L’idée rejetée par l’éducation nationale qui est de traduire au fur et à mesure que l’on s’exprime en anglais reste a contrario une excellente méthode pour ancrer le lexique chez l’apprenant 👍"
+      },
+      {
+        "note": 5,
+        "auteur": "Camses",
+        "titre": "Top",
+        "texte": "Merci je vous écoute très régulièrement le contenu ainsi que les conseils sont très enrichissants"
+      }
+    ]
+  }
 }

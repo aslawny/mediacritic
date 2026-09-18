@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-06-29",
-  "frequence_jours": 27
+  "frequence_jours": 27,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Catherine Babili",
+        "titre": "J’adore",
+        "texte": "Les podcasts d’Anne Cecile Genre sont d’une grande qualité. Bien construits, ils nous introduisent dans l’univers des chercheurs et nous font partager leur passion. C’est extraordinaire. Merci"
+      },
+      {
+        "note": 5,
+        "auteur": "Pantxika12",
+        "titre": "Mieux qu’un un dessin !!!",
+        "texte": "On voit grâce aux paroles et ça donne une furieuse envie d aller plus loin.Simple et accessible, délicat, on est dans la confidence du narrateur. Je partage un maximum. Bravo et merci!!"
+      },
+      {
+        "note": 5,
+        "auteur": "Cyllex",
+        "titre": "🎧✨",
+        "texte": "La passion de savoirs scientifiques en histoire de l’art partagée avec enthousiasme et simplicité. Un grand + : ambiance sonore très agréable à écouter 🎧✨"
+      }
+    ]
+  }
 }

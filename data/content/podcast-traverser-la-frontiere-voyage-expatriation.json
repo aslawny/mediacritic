@@ -27,5 +27,55 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Stessy.mac",
+        "titre": "Vraiment top",
+        "texte": "Tes podcasts sont vraiment enrichissants et intéressants. Ils traitent vraiment de tout type de sujet et aventures. Quand je les écoutes, j'ai l'impression de rencontrer plein de voyageurs et d'apprendre plein de choses, alors que je suis au travail :P.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Mimo le Djé",
+        "titre": "Que du bon!",
+        "texte": "Un podcast qui permet de voir différente façons de voyager, de vivre le voyage et de s'épanouir. La diversité des personnes interviewer, des projets réalisés et des pays donne une quantité d'information très intéressante pour toutes les personnes ouvertes sur le monde.…"
+      },
+      {
+        "note": 5,
+        "auteur": "ibluejaxx",
+        "titre": "Inspirant !",
+        "texte": "Merci Mickaël, c’est vraiment top d’écouter ces voyageurs, ça inspire, ça montre qu’il ne faut pas hésiter à sortir de sa zone de confort 🙂 Juste un détail : le son est souvent moyen (saturation, problème de niveaux). Il y’a sûrement du matos et logiciel qui peuvent améliorer ?!"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "TLF 106 : Une famille explore l’Afrique de l’Ouest en camion (14 mois de road-trip)",
+      "date": "2020-01-19"
+    },
+    {
+      "titre": "TLF 105 : Reprendre une activité de chiens de traineaux en Laponie suédoise",
+      "date": "2019-12-08"
+    },
+    {
+      "titre": "TLF 104 : De l’Alaska à Ushuaïa à vélo, la folle aventure en amoureux",
+      "date": "2019-11-05"
+    },
+    {
+      "titre": "TLF 103 : 5 Belles expériences comme Fille au pair en Europe",
+      "date": "2019-10-13"
+    },
+    {
+      "titre": "TLF 102 : L’histoire d’une expatriation ratée au Portugal",
+      "date": "2019-09-12"
+    }
+  ],
+  "derniere_activite": "2020-01-19",
+  "frequence_jours": 22
 }

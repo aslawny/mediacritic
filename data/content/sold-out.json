@@ -27,5 +27,31 @@
     "politique"
   ],
   "addedAt": "2026-05-28",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Davidjeandav",
+        "titre": "Le podcast pro que j’attendais!",
+        "texte": "Dans ces métiers (comme le dit l’intro) c’est avant tout une histoire de passionnés et d’humains. Ce podcast est réellement inspirant et précieux pour les gens qui s’intéressent au monde de la musique en général. Je m’en sert au boulot, c’est dire.…"
+      },
+      {
+        "note": 5,
+        "auteur": "try2findbetter",
+        "titre": "Unique en son genre !",
+        "texte": "Facile à écouter, bienveillant, Sold Out propose surtout un casting fantastique des acteurs et actrices de l’industrie musicale. Profane ou amateur du métier, c’est un vivier d’anecdotes, conseils et motivations pour celles et ceux qui aimeraient découvrir les revers et dessous d…"
+      },
+      {
+        "note": 5,
+        "auteur": "Lilousimon",
+        "titre": "L’amour de la scène !",
+        "texte": "Des anecdotes incroyables des plus grands, de l’humour, de l’amour du spectacle et de l’émotion dans ce magnifique podcast ! Pour les amoureux de la musique et plus ❤️ Un régal pour les oreilles, merci SOLD OUT …"
+      }
+    ]
+  }
 }

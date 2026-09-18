@@ -27,5 +27,31 @@
     "international"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "delameric",
+        "titre": "Observation des coulisses de la diplomatie",
+        "texte": "Utile complément aux diverses « mémoires d’ambassadeur » comme celles de Claude Martin ou Gérard Araud, ce podcast permet une observation en direct des enjeux internationaux actuels par des experts professionnels et non des chroniqueurs médiatiques."
+      },
+      {
+        "note": 5,
+        "auteur": "Kaleed7521",
+        "titre": "Un podcast très intéressant",
+        "texte": "Bravo pour ce podcast, c’est le meilleur podcast ministériel que j’ai écouté, avec des formats riches et variés."
+      },
+      {
+        "note": 5,
+        "auteur": "Sisawa_",
+        "titre": "Bravo",
+        "texte": "Tout est parfait, on ne peut plus nécessaire en ces temps. Bravo et merci"
+      }
+    ]
+  }
 }

@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-05-15",
-  "frequence_jours": 12
+  "frequence_jours": 12,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Moukate",
+        "titre": "Génial mais…",
+        "texte": "Génial mais pourriez vous mettre plus de contenus ? On en trouve plus sur YouTube mais ici c’est plus facile à écouter !"
+      },
+      {
+        "note": 2,
+        "auteur": "JulianDeLaVega",
+        "titre": "Plagia...?",
+        "texte": "Le début du Mix au KISS club est un plagia du Kut Killer Summer Tour 2012. Le reste des musique est sympa, entre les fréquentes interventions \"yahourt\" du DJ... ^^"
+      },
+      {
+        "note": 5,
+        "auteur": "Nono_tlse",
+        "titre": "Musique",
+        "texte": "Est ce que tu peux mettre des musiques de sch et werenoi stp. Sinon merci beaucoup pour tout tes mix c’est génial 🫶🏻🫶🏻"
+      }
+    ]
+  }
 }

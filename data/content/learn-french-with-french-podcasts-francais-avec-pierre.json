@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-09-11",
-  "frequence_jours": 4
+  "frequence_jours": 4,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Igorilx2",
+        "titre": "O melhor curso de Francês",
+        "texte": "Moro na França faz um ano, tentei o Delf três vezes e nunca conseguia um bom resultado, após conhecer o curso Français avec Pierre, conseguir melhor muito meu francês. Todos meus amigos ficaram impressionados com isso.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Happychanson",
+        "titre": "너무 좋은 콘텐츠예요!",
+        "texte": "Ce podcast est vraiment génial pour apprendre le français au quotidien ! Pierre explique tout très clairement, avec beaucoup de bonne humeur. Merci pour ce contenu si utile, j’attends déjà le prochain épisode avec impatience. 😊🇰🇷🇫🇷"
+      },
+      {
+        "note": 5,
+        "auteur": "Monatissima",
+        "titre": "Français avec Pierre",
+        "texte": "Excellent podcast for those who want to speak like natives: fun, interesting, short and varied! On top I learnt a few things on multiple topics! Great effort and work, keep it up!!"
+      }
+    ]
+  }
 }

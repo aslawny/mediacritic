@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-02",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "yourstrulyperf",
+        "titre": "Parfait pour les concours",
+        "texte": "J’aime bien les podcasts et c’est très pratique pour les concours. On peut écouter dans les transports et on comprend bien!"
+      },
+      {
+        "note": 5,
+        "auteur": "laprépacchaud",
+        "titre": "très utile",
+        "texte": "super pour le thème du corps au concours des ecoles de commerce !! très utile pour tous les autres quand meme, un bijoux !"
+      },
+      {
+        "note": 5,
+        "auteur": "ubertragen",
+        "titre": "podcast génial!!",
+        "texte": "Vraiment brillant de clarté. Pédagogique et authentique, ce podcast saura vous éclairer en vue d'une intégration à HEC."
+      }
+    ]
+  }
 }

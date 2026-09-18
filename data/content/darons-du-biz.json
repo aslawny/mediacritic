@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-07-29",
-  "frequence_jours": 8
+  "frequence_jours": 8,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Ling-en Hsia",
+        "titre": "Révolutionnaire !",
+        "texte": "Je ne suis pas d’accord avec 50% de ce que vous dites… mais les autres 50% font tellement du bien à entendre franchement. Merci Alex et Fabien pour votre franc-parler ! Vous êtes tellement courageux… ça m’encourage à augmenter aussi mon « thermostat ».…"
+      },
+      {
+        "note": 1,
+        "auteur": "Lllénou",
+        "titre": "Mauvais",
+        "texte": "Deux incultes sont sur un bateau et prennent un micro. Que reste-il? L’envie de vomir."
+      },
+      {
+        "note": 5,
+        "auteur": "Nadji_san",
+        "titre": "Une véritable masterclass !",
+        "texte": "Merci les darons et les baronnes pour les pépites distillées dans cet épisode de dingo. Une merveille ! En un peu plus d’une heure on reçoit un cours sur le marché de l’influence et l’optimisation des 5DC. Merci de tout cœur.…"
+      }
+    ]
+  }
 }

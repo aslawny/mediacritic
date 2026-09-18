@@ -24,5 +24,31 @@
     "culture",
     "société"
   ],
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ELISABENS",
+        "titre": "Petit commentaire",
+        "texte": "A l’intention de Christophe Bourseiller: Contrairement à vos propos, le GODF ne considère pas la laïcité comme une religion. Il accueille tous les croyants, considérant la conception métaphysique de ses membres est individuelle; le GODF se refuse à toute affirmation dogmatique, c…"
+      },
+      {
+        "note": 2,
+        "auteur": "David Boragno",
+        "titre": "Absence de certaines obédiences",
+        "texte": "Bonne initiative. Forte représentation des obédiences « sociale », il est dommage que la GLNF ne soit jamais invitée."
+      },
+      {
+        "note": 3,
+        "auteur": "vercel1561",
+        "titre": "GLNF 98 % de la maçonnerie mondiale ?",
+        "texte": "GLNF c’est l’acronyme de Grande Loge Nationale Française. Comment une obédience française peut elle représenter 98 % de la maçonnerie mondiale. Cette obédience ne représente pas non plus 98 % de la maçonnerie française"
+      }
+    ]
+  }
 }

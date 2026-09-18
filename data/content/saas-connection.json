@@ -26,5 +26,31 @@
     "business"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mathis F",
+        "titre": "Très bon podcast sur les SAAS",
+        "texte": "Le podcast SaaS Connection est une ressource utile pour les entrepreneurs qui cherchent à en apprendre davantage sur le monde du SaaS francophone.…"
+      },
+      {
+        "note": 5,
+        "auteur": "noideawtwrite",
+        "titre": "Excellent podcast !",
+        "texte": "A tous ceux et celles qui s'intéressent aux beaux parcours et aux belles histoires, je vous invite à cet excellent podcast. On y parle de scale-up, de structuration d'équipes, de vente, d'exit. Très pointu et tout aussi inspirant ! Du bon boulot Alex !"
+      },
+      {
+        "note": 5,
+        "auteur": "Geoffrey Saas",
+        "titre": "Geoffrey / Growth marketing / Saas",
+        "texte": "Podcast au top ! Une vraie dimension humaine, j’étais en voiture et j’avais l’impression que vous discutiez à côté de moi. Bien content que tu te sois lancé ! Je t’écouterai à nouveau avec grand plaisir 👌 Geoffrey,"
+      }
+    ]
+  }
 }

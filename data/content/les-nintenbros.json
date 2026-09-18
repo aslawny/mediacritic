@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-10",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lucieau",
+        "titre": "Une expertise excellente",
+        "texte": "J’écoute toutes les semaines, l’équipe a une vraie analyse et guide vraiment dans les détails, je recommande, et bravo pour Romane et Farore c’est important d’avoir plus de femmes dans l’expertise jeu vidéo"
+      },
+      {
+        "note": 2,
+        "auteur": "gamer95440",
+        "titre": "Trop de délai.",
+        "texte": "Attendre plus d’une semaine pour avoir le podcast alors que c’est disponible sur youtube le dimanche. Dure a justifier je trouve"
+      },
+      {
+        "note": 5,
+        "auteur": "mort dead ☠️☠️☠️",
+        "titre": "😦",
+        "texte": "ce podcast m'a accompagné partout quand je me sentais pas très bien,quand je m'ennuyais,quand j'ai envie d'aller au petit coin (etc)... je l'avais déjà écouté il y a longtemps. continuez comme ça 👍"
+      }
+    ]
+  }
 }

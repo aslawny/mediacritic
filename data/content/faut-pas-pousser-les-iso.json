@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-06-23",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "iArnau",
+        "titre": "De loin mon préféré !",
+        "texte": "Arthur et Benjamin, bravo et merci, vraiment, car votre podcast traduit magnifiquement le plaisir et la passion de la photographie. Particulièrement vos « au coin de feu » sont des moments parfaits, le rythme, les voix et bien sûr les invités variés et passionnants …"
+      },
+      {
+        "note": 3,
+        "auteur": "Vincent ----",
+        "titre": "Très variable",
+        "texte": "Il y a des épisodes passionnant et d’autres où je n’accroche pas du tout. Dommage. Les épisodes au coin du feu sont les plus intéressant"
+      },
+      {
+        "note": 5,
+        "auteur": "Marc33000",
+        "titre": "Enfin un podcast photo en français !",
+        "texte": "Excellent, un podcast photo en français. Bien vu l’idée de traiter de l’histoire d’une photo. Un sujet de fond traité avec des témoignages de terrain est un plus (en l’occurrence le vendeur en boutique pour cet épisode).…"
+      }
+    ]
+  }
 }

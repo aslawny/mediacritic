@@ -23,5 +23,31 @@
     "education"
   ],
   "addedAt": "2026-09-08",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "maudIFT",
+        "titre": "Sincérité",
+        "texte": "Très beau podcast, sincère authentique et très bien monté ! Un exemple des implications de ségrégation socio-spatiale française qui nous fait réfléchir !"
+      },
+      {
+        "note": 1,
+        "auteur": "tre$chj",
+        "titre": "Waou",
+        "texte": "Quand les gauchistes se prennent une dose de réel dans la figure."
+      },
+      {
+        "note": 5,
+        "auteur": "ladybartone",
+        "titre": "Troublant",
+        "texte": "Votre podcast m’a énormément dérangé et surtout m’a déçu dans le fond. Est-ce une généralité ou juste une réalité parisienne ?"
+      }
+    ]
+  }
 }

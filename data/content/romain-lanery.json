@@ -24,5 +24,31 @@
   "tags": [
     "histoire"
   ],
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "NicolasHusson",
+        "titre": "Le premier podcast que j’écoute jusqu’au bout",
+        "texte": "D’habitude pas assez rythmé, ce podcast avec Master LOL était mieux. Tu l’as plus laissé parlé, on a pu connaître son histoire, top. Bon podcast"
+      },
+      {
+        "note": 1,
+        "auteur": "Okywel",
+        "titre": "Trop de pub",
+        "texte": "3 coupures de pub sur un podcast de 15 minutes… trop pour moi"
+      },
+      {
+        "note": 5,
+        "auteur": "AlexAmande",
+        "titre": "Un grand merci",
+        "texte": "Je viens d’écouter l’épisode avec Alec Henry, j’ai adoré !!!! Merci pour cette interview et les précieux conseils délivrés."
+      }
+    ]
+  }
 }

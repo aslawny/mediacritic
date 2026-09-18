@@ -24,5 +24,31 @@
     "culture",
     "société"
   ],
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Chez ABY",
+        "titre": "LA MÉTHODE RAP",
+        "texte": "Je ne suis pas un aficionados du rap, mais le documentaire m’a intéressé beaucoup plus et donner envie de découvrir le rap. Merci à l’équipe de Méthode rap d’avoir ouvert la parole au rap ."
+      },
+      {
+        "note": 5,
+        "auteur": "Eric Suzanne",
+        "titre": "Merci",
+        "texte": "Comme presque toujours, le Thomas nous emmène qquepart et on regrette que ça se termine. Continue Baumgartner, s'il te plaît. Tu es reconnu d'utilité publique. Marc."
+      },
+      {
+        "note": 5,
+        "auteur": "NanaSog",
+        "titre": "La méthode rap vol.1",
+        "texte": "J’ai adoré le podcast sur le rap, il est bien construit et bien réalisé, on sent que ça a été fait avec le cœur ! On a envie d’en écouter davantage !!"
+      }
+    ]
+  }
 }

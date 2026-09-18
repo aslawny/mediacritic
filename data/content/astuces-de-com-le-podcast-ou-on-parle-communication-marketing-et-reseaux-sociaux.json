@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-25",
-  "frequence_jours": 5
+  "frequence_jours": 5,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Sinef Nef",
+        "titre": "J’adore!!",
+        "texte": "Tout est dans le titre! Astuces de Com propose des épisodes courts et des conseils concrets. Pas de perte de temps, on va à l’essentiel! L’épisode “Ma routine Instagram” m’a particulièrement été d’une grande aide! Merci pour ces astuces et conseils en communication et en réseaux…"
+      },
+      {
+        "note": 5,
+        "auteur": "Imotep33",
+        "titre": "Accessible et instructif",
+        "texte": "Voilà un podcast accessible et hyper pratique, des conseils pertinents et une bonne dose de bonne humeur. Natalia, nous livre dans ses différents épisodes son expertise et ses expériences ! Un partage toujours instructif et inspirant."
+      },
+      {
+        "note": 5,
+        "auteur": "CGA Secrétariat",
+        "titre": "Bravo et merci",
+        "texte": "Merci infiniment pour tes conseils et ton temps pour nous faire découvrir des astuces de communication tellement précieux. Grace à tes conseils j’arrive a voir une meilleure visibilité sur la communication. Bravo et merci encore"
+      }
+    ]
+  }
 }

@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "#67 Arsène",
+      "date": "2026-08-02"
+    },
+    {
+      "titre": "#66 Énigmes",
+      "date": "2026-07-26"
+    },
+    {
+      "titre": "🦊 Le tome 2 de Nemrod est sorti 🦜",
+      "date": "2026-07-08"
+    },
+    {
+      "titre": "#65 Les versatiles",
+      "date": "2026-06-28"
+    },
+    {
+      "titre": "#64 L’amputé",
+      "date": "2026-06-21"
+    }
+  ],
+  "derniere_activite": "2026-08-02",
+  "frequence_jours": 7
 }

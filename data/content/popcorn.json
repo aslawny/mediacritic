@@ -47,5 +47,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "COUPE DU MONDE 2026 : l'organisation américaine va-t-elle tout gâcher ?",
+      "date": "2026-06-12"
+    },
+    {
+      "titre": "POPCORN avec You, Gotaga et Zack Nani",
+      "date": "2026-06-11"
+    },
+    {
+      "titre": "En plein dans le mille ! (avec Cocotte, Michou et Bouzi)",
+      "date": "2026-05-23"
+    },
+    {
+      "titre": "Qui connait le mieux le rugby ? (C'est le NogoQuiz... parce que c'est Nogodi qui le fait)",
+      "date": "2026-05-04"
+    },
+    {
+      "titre": "L'important c'est de participer ? (Le Petit Buc)",
+      "date": "2026-05-03"
+    }
+  ],
+  "derniere_activite": "2026-06-12",
+  "frequence_jours": 1
 }

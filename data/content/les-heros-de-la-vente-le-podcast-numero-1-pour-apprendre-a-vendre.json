@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-10",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Équinoxe 69",
+        "titre": "Magnifique",
+        "texte": "Magnifique source de partage quand on est entrepreneur ou commercial. Mieux que les conférence en école de commerce ! Manque juste les liens dans le descriptif des outils mis en avant.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Djhax",
+        "titre": "Déchire les oreilles",
+        "texte": "Je l’avais déjà indiqué précédemment: le volume sonore du podcast est beaucoup trop faible, ce qui oblige à mettre le volume à fond, et explosion des tympans garantis dès la moindre notification et au gingle de fin. Dommage car cela gâche tout."
+      },
+      {
+        "note": 5,
+        "auteur": "D'JEY",
+        "titre": "Un régal :)",
+        "texte": "Merci Alex de nous fournir ce podcast de grande qualité ! Pour réussir dans la vente il est essentiel d’apporter de la valeur. Pour moi, c’est donc mission réussie …"
+      }
+    ]
+  }
 }

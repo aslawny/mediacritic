@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-07-22",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Biancotlaure",
+        "titre": "Merci et bravo",
+        "texte": "Première écoute du podcast avec l’un des fondateurs de Veja ! Je suivais déjà les valeurs et la démarche qui animent cette belle entreprise ! J’en ai autant appris : quel exemple ! Fière aussi d’avoir tjrs mes Volley de la première production => printemps 2005 …"
+      },
+      {
+        "note": 5,
+        "auteur": "Pearly88Sam",
+        "titre": "Inspirant",
+        "texte": "Merci pour ton podcast c’est ultra inspirant de voir des projets qui semblent être impossible à monter, se concrétiser et avoir un réel impact sur la planète et dans la vie des gens. Ton impact c’est d’ouvrir nos yeux sur tous ces projets bien réels et concrets ✨🙌🏾"
+      },
+      {
+        "note": 5,
+        "auteur": "Marine 57209",
+        "titre": "Super inspirant!",
+        "texte": "Merci Mamad pour ces histoires inspirantes ! Est-ce possible d’envisager la traduction orale des passages en langue étrangère pour les podcasts afin d’améliorer la compréhension fine des personnages exposés ?"
+      }
+    ]
+  }
 }

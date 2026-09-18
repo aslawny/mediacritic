@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-09-08",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Clarkett81",
+        "titre": "Juste génial !",
+        "texte": "Bien sûr que je suis joueuse :-) je viens de découvrir ce podcast et là j ai un peu honte, c est la 5ème saison et je ne le connaissais toujours pas. Je me cacherai bien sous un megalodon pr cacher mon embarassement si je pouvais.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Alice / solstice_blog 🌻",
+        "titre": "LE MUST des podcasts free-lance",
+        "texte": "A la fois dynamique, rapide à écouter, super qualitatif et rempli de conseils au top... La Cohorte pour moi c’est LE podcast à écouter pour répondre à toutes les questions que nous nous posons en tant que free-lances …"
+      },
+      {
+        "note": 5,
+        "auteur": "soso_crazy cat lady",
+        "titre": "Super podcast à écouter et réécouter dans sa réflexion de free-lance",
+        "texte": "En début de reconversion qui peut déboucher sur un status en free-lance, ce podcast est une mine d’or. Pleins de points sont abordés, ça aide à se poser les bonnes questions et surtout à lever certains freins lié à l’inconnu que représente le passage de salarié (surtout d’une gro…"
+      }
+    ]
+  }
 }

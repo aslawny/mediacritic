@@ -24,5 +24,31 @@
     "culture"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "enciera",
+        "titre": "Du vrai bonheur",
+        "texte": "Très agréable et enrichissant, un bémol cependant, la musique a souvent tendance à couvrir la voix de Andre Manoukian."
+      },
+      {
+        "note": 5,
+        "auteur": "jeanxa92230",
+        "titre": "Sur les routes de la musique",
+        "texte": "Merci pour vos podcasts qui sont passionnants. Vous nous faites partager votre amour de la musique"
+      },
+      {
+        "note": 5,
+        "auteur": "Oim-xx",
+        "titre": "Envoutant",
+        "texte": "Musicien mais aussi conteur et érudit. A écouter sans modération Merci"
+      }
+    ]
+  }
 }

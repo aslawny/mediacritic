@@ -24,5 +24,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "episodes_recents": [
+    {
+      "titre": "[Hors série n°8] Terminale STMG - Droit - Le droit commercial",
+      "date": "2025-08-21"
+    },
+    {
+      "titre": "[Hors série n°7] Terminale STMG - Droit - Le droit du travail",
+      "date": "2025-08-21"
+    },
+    {
+      "titre": "[Hors série n°6] Terminale STMG - Droit - La responsabilité",
+      "date": "2025-08-21"
+    },
+    {
+      "titre": "[Hors série n°5] Terminale STMG - Droit - Le contrat",
+      "date": "2025-08-21"
+    },
+    {
+      "titre": "[Hors série n°4] 1ère STMG - Droit - Quels sont les droits reconnus aux personnes ?",
+      "date": "2025-08-21"
+    }
+  ],
+  "derniere_activite": "2025-08-21",
+  "frequence_jours": 0
 }

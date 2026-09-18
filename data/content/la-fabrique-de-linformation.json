@@ -25,5 +25,31 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Petitberger",
+        "titre": "Discussions de haut vol sur notre future proche",
+        "texte": "Cette émission est rapidement devenu mon podcast favori. Les sujets de fond -donnant matière à presque une heure ininterrompue sur le thème- traitent de l’actualité technologique (avec une large place au numérique ou à la robotique par ex) en gardant toujours en vue les impacts s…"
+      },
+      {
+        "note": 5,
+        "auteur": "Nm Scrd",
+        "titre": "Merci !",
+        "texte": "Quelle déception d’apprendre que cette émission s’arrête à la rentrée. Vous faites un travail de qualité, d’actualité et tellement éclairant sur les questions du numérique. Ça sera un vrai manque !! Merci pour tout ce que vous avez mené et partagé jusque là.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Le surf",
+        "titre": "I like it",
+        "texte": "Excellente réalisation où l’on ne perd jamais le fil des idées parfois retord abordées, toujours un soin à expliciter les termes obscurs et surtout une impression que l’invité a le temps (limité) de livrer ses idées."
+      }
+    ]
+  }
 }

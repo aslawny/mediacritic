@@ -25,5 +25,31 @@
     "education"
   ],
   "addedAt": "2026-07-24",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "miloup06",
+        "titre": "Bravo et merci",
+        "texte": "J’écoute avec grand plaisir, les explications sont claires et à ma portée. J’attends vos épisodes avec impatience. Et,surtout, j’apprends, enfin …"
+      },
+      {
+        "note": 5,
+        "auteur": "MarieHera17111",
+        "titre": "Merci Nathalie!",
+        "texte": "J adooore juste je n arrive pas à écouter car le debit de paroles est trop rapide donc je n arrive pas à apprécier …. Si tu parlais comme dans les stories ça serait tellement plus naturel et chouette en fait !!! Enfin on fait comme on peut et j apprécie tellement ton travail.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Camomilleizz",
+        "titre": "Super podcast!",
+        "texte": "Très bon podcast, clair et précis, accessible à tous, même aux personnes qui ne connaissent pas le langage spécifique de l’astrologie. C’est devenu un rdv que j’attends avec impatience et que j’adore!! Merci Nathalie pour ton travail!!"
+      }
+    ]
+  }
 }

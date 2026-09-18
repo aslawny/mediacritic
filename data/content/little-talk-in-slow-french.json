@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-12",
-  "frequence_jours": 39
+  "frequence_jours": 39,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Psywonder",
+        "titre": "Lovely voice, content and style",
+        "texte": "I really enjoy listening and talking along with her, trying to say the phrases at high speed after practising slowly. It is perfect for my level of French (just finished the Duolingo course) and for getting accustomed to hearing and understanding French at actual speed.…"
+      },
+      {
+        "note": 5,
+        "auteur": "mike_cf",
+        "titre": "BEST FRENCH PODCAST",
+        "texte": "Best podcast to learn french, very interesting subjects! the host speaks clearly and in a really smooth way. Transcriptions are perfect too! I love it!!!"
+      },
+      {
+        "note": 5,
+        "auteur": "3hndrx",
+        "titre": "Best teacher",
+        "texte": "I like when you switch accents, msg me I will tell you what else I like Teach us some French history and are you Indian btw"
+      }
+    ]
+  }
 }

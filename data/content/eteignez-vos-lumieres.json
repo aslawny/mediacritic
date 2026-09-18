@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2024-07-11",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "JustineSqr",
+        "titre": "Super proposition",
+        "texte": "Ce podcast est mon nouveau partenaire de voiture ! J’aime beaucoup le format avec en première partie le résumé de l’enquête suivi du débrief dans l’after. Ça change de ce qui existe déjà : c’est novateur, instructif et divertissant. Je recommande à 100%.…"
+      },
+      {
+        "note": 2,
+        "auteur": "Thioboy",
+        "titre": "Bof bof",
+        "texte": "J'ai commencé à écouter ce podcast car il était recommandé par l'excellent HOME(ICIDES). J'ai arrêté au bout de 5 minutes : le ton est tellement monocorde qu'à un moment je me suis rendu compte que je n'écoutais plus. Je souhaite quand même bon vent à la créatrice de ce podcast 🙂"
+      },
+      {
+        "note": 5,
+        "auteur": "__MBC",
+        "titre": "Podcast original et rafraîchissant",
+        "texte": "Il faut saluer l’initiative de Sonya, innovante dans le milieu des créateurs de contenus, créer un podcast qui ressemble à sa chaîne YouTube sans que ce ne soit strictement et simplement une transposition de ses vidéos.…"
+      }
+    ]
+  }
 }

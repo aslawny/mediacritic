@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-09",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "nawel.chanel",
+        "titre": "Mon fils adore",
+        "texte": "Que de bons souvenirs pour lui quand il grandira!! il écoute tous les jours une histoire à table pendant le repas et retient absolument tout ! Quid des musiques svp pour la suisse ? Elles ne sont pas sur apple podcast"
+      },
+      {
+        "note": 5,
+        "auteur": "cla2b",
+        "titre": "Fan",
+        "texte": "Notre fils nous réclame les mini mondes tout le temps ! Super bien écrit ! Super création de chansons ! Bravo"
+      },
+      {
+        "note": 5,
+        "auteur": "nickoko44",
+        "titre": "Instructif et amusant!",
+        "texte": "Bravo pour ces belles histoires et musiques qui plaisent beaucoup à nos enfants de 2 et 7 ans!"
+      }
+    ]
+  }
 }

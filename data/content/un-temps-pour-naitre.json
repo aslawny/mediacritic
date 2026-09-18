@@ -27,5 +27,31 @@
     "famille"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Debo29000",
+        "titre": "Un podcast qui fait du bien!",
+        "texte": "Étant enceinte pour la première fois et de 3 mois, je passe par plusieurs phases et pas forcément des plus sympathiques. Je suis toujours dans l’anticipation et le fait de ne pouvoir tout contrôler peut vite m’angoisser.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Julie.09",
+        "titre": "Tout simplement merci!",
+        "texte": "Merci beaucoup pour tous ces conseils qui nous ont suivi dans notre année d’essais bébé! Tous ces conseils ont été précieux pour atteindre un lâcher prise par rapport à ce projet, qui a plus que bien fonctionné, puisque ce n’est pas un, mais deux bébés que nous attendons actuelle…"
+      },
+      {
+        "note": 5,
+        "auteur": "Ambre_1",
+        "titre": "Un podcast qui fait du bien",
+        "texte": "J’ai découvert ce podcast en début de grossesse et il a su m’accompagner en douceur, me rassurer dans les périodes de doutes et de peur. Aujourd’hui au troisième trimestre de grossesse, c’est une véritable dose d’information utiles et déculpabilisantes.…"
+      }
+    ]
+  }
 }

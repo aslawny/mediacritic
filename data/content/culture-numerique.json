@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-07-08",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Yoshiki89",
+        "titre": "Très bon podcast",
+        "texte": "J’écoute ce podcast depuis quelques semaines tous les matins dans le métro. C’est une excellente manière de rester curieux et de ne pas passer à côté de sujets passionnants sur l’évolution du monde digital. Merci beaucoup"
+      },
+      {
+        "note": 1,
+        "auteur": "Okywel",
+        "titre": "Pub pub",
+        "texte": "Dommage ! Malgré tout Podcast qui traite les sujets d’actualité. Les sujets sont variés et très bien appréhendés. On ne peut que recommander de l’écouter pour être à jour avec ce qui se passe dans le monde numérique n’importe où sur terre."
+      },
+      {
+        "note": 5,
+        "auteur": "pressecitron",
+        "titre": "Très bon",
+        "texte": "Ce podcast s’est vite inscrit dans mes routines, un très bon condensé de l’actualité des internets avec en bonus une réflexion sur chaque sujet. Parfait en voiture :)"
+      }
+    ]
+  }
 }

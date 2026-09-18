@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-03",
-  "frequence_jours": 4
+  "frequence_jours": 4,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Zazab38",
+        "titre": "Inspirant !",
+        "texte": "Du contenu qui devient meilleur d’épisode en épisode ! Un accès rare à ces professionels de l’hôtellerie-restauration. Leurs experiences sont très inspirantes, à la fois pour découvrir les dessous de ce monde que je connais peu mais aussi en tant qu'experience humaine.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Gael Aymard",
+        "titre": "Le podcast de l’excellence",
+        "texte": "Une véritable masterclass autour de l’excellence chaque semaine! Merci Maxime pour ta rigueur et ta générosité, tu nous apportes beaucoup. Des conseils pratiques, des parcours inspirants et des anecdotes! Tout ce qu’on aime ✅ Longue vie à ton média Gaël du podcast Aventure Humain…"
+      },
+      {
+        "note": 5,
+        "auteur": "c)(x!08",
+        "titre": "A écouter absolument !",
+        "texte": "Que dire d’autre que j’ai eu un coup de coeur professionnel pour Maxime il y à quelques mois. J’ai eu le plaisir d’avoir des conversations passionnantes avec lui et j’ai désormais l’immense honneur d’avoir été invité à son micro ! Longue vie à toi et Hospitality Insiders !"
+      }
+    ]
+  }
 }

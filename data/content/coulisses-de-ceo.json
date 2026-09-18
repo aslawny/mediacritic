@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-26",
-  "frequence_jours": 4
+  "frequence_jours": 4,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lise Auci",
+        "titre": "Super podcast d’interview!",
+        "texte": "J’adore ce format ! Une discussion très intéressante! Il n’existait pas de podcast d’interview de dirigeants par un dirigeant. Les invités sont très inspirants et Arnaud Naudan a une voix super agréable. Il pose les bonnes questions et laisse ses invités s’exprimer.…"
+      },
+      {
+        "note": 5,
+        "auteur": "JDU2",
+        "titre": "Écoutes qui éveillent la pensée",
+        "texte": "Ce podcast est très bien pensé, avec des discussions captivantes et des sujets variés qui font réfléchir. On y apprend beaucoup, et c’est un plaisir à écouter à chaque fois. Très recommandé pour ceux qui aiment penser et apprendre."
+      },
+      {
+        "note": 5,
+        "auteur": "Noah451",
+        "titre": "Le business et l’entreprise vus de l’intérieur",
+        "texte": "La vie de CEO, vue de l’intérieur, avec les enjeux d’organisation, de croissance et de management. Des parcours intéressants et variés, des échanges directs sur la matière vivante que sont l’entreprise et ses équipes."
+      }
+    ]
+  }
 }

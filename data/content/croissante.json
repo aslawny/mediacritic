@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2024-10-23",
-  "frequence_jours": 13
+  "frequence_jours": 13,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Chloechp",
+        "titre": "Beau partage",
+        "texte": "Merci Louise pour ce beau partage. J’ai trouvé les liens intéressants. J’aimerais bcp pouvoir approfondir le sujet. J’ai acheté les livres de mona Cholet qui traitent du patriarcat, de la femme sauvage et des relations de couple.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Pornico",
+        "titre": "Déceptif",
+        "texte": "« Les moules et les huîtres n’ont pas de cerveau ni de sytème digestif, donc elles ne souffrent pas et il n’y a pas de question à se poser. Et leur élevage est bon pour l’océan ». Désolé, tout est faux dans cette phrase.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Fredhelle",
+        "titre": "Podcast « Slow Life et guérison «",
+        "texte": "Bonjour Louise, j’ai beaucoup aimé ce podcast. Je suis bien en résonance avec ce que tu racontes : au sujet du passage de 2023 à 2024 tu m’as inspirée, et puis j’ai bien apprécié ton approche du fait de chiler comme d’un acte anti capitaliste. Ça me plaît bien …"
+      }
+    ]
+  }
 }

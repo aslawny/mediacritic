@@ -24,5 +24,31 @@
     "culture"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "jaudoli",
+        "titre": "Ferras/barbizet",
+        "texte": "Quel bonheur cher Philippe d’écouter cette émission sur ces deux grands artistes. Jean Philippe a été au CNRS de Paris dans la classe de C. Ferras et Pierre Barbizet, fut l’ami de la famille et remplaça mon beau-Père André Audoli en tant que Dr du Conservatoire de Marseille.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Lambda24",
+        "titre": "Cela pourrait être tellement mieux",
+        "texte": "Les épisodes d’une série ne se suivent pas. Le présentateur est trop auto-centré et rend peu accessibles voire obscures des œuvres magnifiques. Les vieux enregistrements lui font plaisir mais sont inécoutables en radio comme en podcast. Au final, bons moments trop rares."
+      },
+      {
+        "note": 5,
+        "auteur": "tatamimi23",
+        "titre": "Une émission qui éclaire et aiguise les sens",
+        "texte": "Merci infiniment pour vos émissions qui donnent à entendre et à comprendre tous ces chemins musicaux suivis par ces interprètes magnifiques . J’aime votre regard sur leurs cheminements, à la fois précis et humaniste.…"
+      }
+    ]
+  }
 }

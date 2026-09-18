@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-08-30",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Judge Brêle",
+        "titre": "Communisme",
+        "texte": "Daniel Andreiev rejette le communisme sous prétexte du stalinisme (sans rejeter tout ce qui mène au capitalisme sous prétexte d’hitlérisme ou de pinochisme) puis s’interroge sur la gauche au cinéma, en évoquant Jospin. C’est drôle."
+      },
+      {
+        "note": 5,
+        "auteur": "God Tsohg",
+        "titre": "Accordia 👌🏻",
+        "texte": "Excellent podcast. Coup de force avec les 25 podcasts sur De Niro (le jingle “you f** my wife” me hante jour et nuit). Super team avec 4 points de vue pertinents et tres drôles. Totalement addictif, continuez 🙏🏻🎥✨✊🏻"
+      },
+      {
+        "note": 5,
+        "auteur": "Araignée du soir",
+        "titre": "Tous les cinémas",
+        "texte": "Je découvre en particulier le cinéma indien grâce à ce podcast intelligent et drôle. Merci vraiment beaucoup à tous les participants, c’est un réel plaisir de vous écouter !"
+      }
+    ]
+  }
 }

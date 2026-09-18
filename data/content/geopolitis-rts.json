@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-30",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "HaroldFinch",
+        "titre": "Rien à redire (updated 10/03/2018)",
+        "texte": "Une excellente émission, aussi pertinente que pédagogique, même dans un format aussi court. Merci à la RTS ! Update : 1/ requête perso : s’il vous plaît, rendez-nous Marcel Mione …"
+      },
+      {
+        "note": 1,
+        "auteur": "Emmanehess",
+        "titre": "Manque d’objectivité et parti pris",
+        "texte": "Emission de gauche, parti pris, manque d’objectivité. Woke et islamogauchistes bienvenus!"
+      },
+      {
+        "note": 5,
+        "auteur": "Mohamed Benabdallah",
+        "titre": "M",
+        "texte": "Tres instructif, clair, concis et bien renseigne. cependant c'est un constat et on voudrais savoir ce qui est d'or et deja fait par les pays deja confrontes directement a ce terrorisme (Algerie, Maghreb, France et Europe en general) pour contrer cette nebuleuse ainsi que la strat…"
+      }
+    ]
+  }
 }

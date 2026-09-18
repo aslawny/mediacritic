@@ -24,5 +24,29 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "episodes_recents": [
+    {
+      "titre": "L'avenue Carnot",
+      "date": "2026-01-29"
+    },
+    {
+      "titre": "La rue Saint-Antoine",
+      "date": "2025-11-27"
+    },
+    {
+      "titre": "La rue du Grand-Couvent",
+      "date": "2025-06-26"
+    },
+    {
+      "titre": "Gaël Monfils : le cador du tennis français dans les arènes de Nîmes",
+      "date": "2025-03-06"
+    },
+    {
+      "titre": "L'Eau Bouillie",
+      "date": "2025-02-27"
+    }
+  ],
+  "derniere_activite": "2026-01-29",
+  "frequence_jours": 75
 }

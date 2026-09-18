@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-07-22",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Gingertina",
+        "titre": "Un des meilleurs podcasts de JDR pour moi….",
+        "texte": "Non mais les gens comment vous faites ?!? Tous les jours j’ai deux heures de route pour aller et venir du travail, vous me tenez compagnie sur tous mes trajets.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Yohan Dash",
+        "titre": "Juste génial !",
+        "texte": "J’ai découvert se podcast il y a peu, je l’écoute quand je suis au boulot, franchement ce podcast est génial ! Vous m’avez fais découvrir un peu le JDR et je vous en remercie car c’est super ! A l’heure où j’écris se commentaire je suis à l’épisode 18 …"
+      },
+      {
+        "note": 5,
+        "auteur": "Setsoe",
+        "titre": "Merci 💜",
+        "texte": "J'ai découvert ce podcast avec avoir dévoré de mes oreilles d'autres tables, MJ et joueureuses. Et comment vous dire... j'ai binge écouté comme jamais la saison 1 et la saison 2.…"
+      }
+    ]
+  }
 }

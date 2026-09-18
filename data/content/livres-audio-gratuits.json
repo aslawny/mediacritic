@@ -33,5 +33,31 @@
       "date": "2020-12-06"
     }
   ],
-  "derniere_activite": "2020-12-06"
+  "derniere_activite": "2020-12-06",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 3,
+        "auteur": "Kumitegirl",
+        "titre": "Pas d’idée pour le titre ÓvÒ",
+        "texte": "Cc moi mon avis c’est que j’y comprend rien mais je donnerai un autre avis quand j’aurais compris TwT"
+      },
+      {
+        "note": 1,
+        "auteur": "Halloween#",
+        "titre": "Livres gratuits",
+        "texte": "Je trouve que les livres audio gratuits ne sont pas adaptés aux enfants et il y a derrière une musique alors que on en veut pas et il y a pas beaucoup de choix !!"
+      },
+      {
+        "note": 3,
+        "auteur": "f'ukuf'ku",
+        "titre": "Δβσβδβρο δντ",
+        "texte": "Σηρβ το δε εν ΔΟΕ εκδ ε διεκδικεί της ρ δ τήρησης. Φόρος δ Ρόδος. Δοεγρωτω τ Ρόδο ΔΟΕ. Σκάνδαλο τ."
+      }
+    ]
+  }
 }

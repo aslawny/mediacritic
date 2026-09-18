@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2024-05-06",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "~Lilouche~",
+        "titre": "La girafe 🦒",
+        "texte": "Moi je m’appelle Lila! Je suis en 5 e, comme toi! Et non j’ai pas Roblox mes parents veulent pas 😞 Par contre g brawl star !t’as brawl star? Bisous 😘"
+      },
+      {
+        "note": 2,
+        "auteur": "ricoetclem",
+        "titre": "Pubs",
+        "texte": "Mettre des pubs avant des podcasts destinés au gamin c’est vraiment limite"
+      },
+      {
+        "note": 5,
+        "auteur": "Malia-Ana H",
+        "titre": "Ça fait peur",
+        "texte": "Sans vous vexer ça fait un petit peu peur mais c’est du petit chaperon rouge est très bien réussi !mai nuit mais bon passer une bonne journée !"
+      }
+    ]
+  }
 }

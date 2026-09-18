@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2025-07-07",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Elsa Boulet",
+        "titre": "Quel bon moment !",
+        "texte": "Est-ce qu’il y aura un épisode 2 avec Alexandre parce qu’il y a eu de la coupe au montage d’après ce qu’on entend à la fin de l’épisode, non ? J’ai adoré, j’ai ri et j’ai appris des trucs, aussi incroyable que cela puisse paraître ! Le podcast OVNI, jamais entendu ailleurs 👌❤️"
+      },
+      {
+        "note": 1,
+        "auteur": "scalpyyy",
+        "titre": "🙄",
+        "texte": "Ca me vous embête pas d’être toujours ramené à la drogue? Titre de l’épisode : survit à 3 overdoses. Pour la subtilité et la finesse d’interview on repassera.."
+      },
+      {
+        "note": 5,
+        "auteur": "louve & food",
+        "titre": "Penelope au top",
+        "texte": "Quel bonheur d’avoir à nouveau Pénélope dans les oreilles! Redécouverte grâce à une pub à la fin d’un épisode de bliss. Quel bonheur de l’entendre à nouveau avec des invités géniaux coup de coup pour les fous rires avec Clementine! 🤩"
+      }
+    ]
+  }
 }

@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-06-22",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "tof29870",
+        "titre": "Des épisodes variés et enrichissant !!!",
+        "texte": "Triathlete amateur au gabarit de deuxième ligne de rugby je découvre chaque épisode avec plaisir , chacun de ces podcast permet de découvrir une expérience , une personnalité , des parcours de vie toujours un excellent moment depuis que j’ai découvert cette série"
+      },
+      {
+        "note": 5,
+        "auteur": "egarnier",
+        "titre": "Passionnant",
+        "texte": "Un super podcast qui allie partage de la passion du sport et du triathlon au travers des personnalités variées. N’hésitez pas à interviewer d’autres personnes autres que les sportifs de haut niveau, des monsieur tout le monde. C’est tout aussi inspirant 🥰"
+      },
+      {
+        "note": 5,
+        "auteur": "Benachour10",
+        "titre": "Super épisode",
+        "texte": "Je pense que l’épisode de Didier Barani est le plus complet et le plus passionnant de tous depuis la création du podcast. Il démystifie tellement d’apriori et de vérité fausse pour le coup. Incroyable orateur."
+      }
+    ]
+  }
 }

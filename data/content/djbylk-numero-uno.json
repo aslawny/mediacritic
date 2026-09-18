@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2023-01-20",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Melso06",
+        "titre": "Excellent dj",
+        "texte": "Excellente musique, dj qui est à jour voire même en avance. J’écoute que ça dans mon téléphone et dans ma voiture. Merci pour tous ses remix rare, de nos jours à trouver aussi bien."
+      },
+      {
+        "note": 5,
+        "auteur": "Ronaldo_57",
+        "titre": "Je kiffe",
+        "texte": "Trop bien mais juste 1 problème je n’arrive plus a écouter tes musiques alors que je l’ai kiffes stp tu peux m’aider stp"
+      },
+      {
+        "note": 5,
+        "auteur": "cicia9266",
+        "titre": "Une tuerie",
+        "texte": "Un DJ qui envoie du lourd !!! Meilleur DJ que je puisse connaître !!!! Des musiques au top du top !!"
+      }
+    ]
+  }
 }

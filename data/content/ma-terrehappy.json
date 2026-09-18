@@ -53,5 +53,31 @@
     }
   ],
   "derniere_activite": "2026-09-11",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Laura Byr",
+        "titre": "Pluie d’étoiles sur Lili-Rose !",
+        "texte": "Cela fait 2 semaines que j’ai découvert Ma Terre Happy, et je suis tombée amoureuse de ces podcasts : ils sont enrichissants en terme d’info pour sa culture générale, mais ils me nourrissent intérieurement aussi.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Céline2309",
+        "titre": "Sujets intéressants",
+        "texte": "Les sujets abordés m’intéressent beaucoup ! Je viens de découvrir ce podcast, mais malheureusement, j’ai beaucoup de mal à l’écouter. Les nombreux tics de langage me gênent énormément et m’empêchent de profiter pleinement de contenus pourtant très intéressants.…"
+      },
+      {
+        "note": 5,
+        "auteur": "67Laeti",
+        "titre": "Wahou",
+        "texte": "Emplie de gratitude pour vos partages de rencontres inspirantes. Écouter des âmes incarnées dialoguer avec le même langage que soi est du pur bonheur. Au travers de cela, j’e courage tout à chacun à avoir confiance en la vie qui sait mettre sur notre chemins ce qui est juste.…"
+      }
+    ]
+  }
 }

@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2025-07-11",
-  "frequence_jours": 33
+  "frequence_jours": 33,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "CécileLaLoutre",
+        "titre": "À découvrir d’urgence!",
+        "texte": "Un podcast varié, de la technique, des interviews qui font rêver! À 34 ans, j’ai découvert les joies du surf, il y a seulement 2 petites années, c’est vrai qu’on se pose beaucoup de questions quand on débute, que c’est loin d’être évident…! Mais ça vaut tellement le coup!!!! 🤩🤩🤩…"
+      },
+      {
+        "note": 5,
+        "auteur": "Vivi le baygay",
+        "titre": "Au top !",
+        "texte": "J’adore vos podcast, je vous suis actuellement sur insta également, étant débutant dans le surf et le surf skate, j’apprend beaucoup grâce à vos méthodes …"
+      },
+      {
+        "note": 5,
+        "auteur": "PierreRohaliguen🤙🏼",
+        "titre": "Passionnant pour les amoureux de la glisse",
+        "texte": "Super chaîne pour les amoureux de la glisse avec des podcasts intéressant et très instructifs ! Le surfskate procure des sensations top, entre « le skate réel » et le surf …"
+      }
+    ]
+  }
 }

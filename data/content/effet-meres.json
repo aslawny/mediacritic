@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2024-04-28",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Camkohn",
+        "titre": "Merci !",
+        "texte": "Écouter un podcast en ayant l’impression d’être en train de boire un café avec les copines ! Du rire et des larmes, du partage d’expérience, des histoires toutes différentes… Constance arrivé d’une main de maître à donner une fluidité aux témoignages qui sont si agréables à écout…"
+      },
+      {
+        "note": 5,
+        "auteur": "MaudDuke",
+        "titre": "Charlotte, mon quasi double maternel!",
+        "texte": "Super podcast, tous les épisodes sont touchants et instructifs! Petit coup de coeur pour Charlotte, un parcours assez proche avec la 4e arrivée tel un boulet de canon en 15min chrono un jour de grève générale 😅 notre surprise du chef après trois garçons.…"
+      },
+      {
+        "note": 5,
+        "auteur": "GwenDouDu",
+        "titre": "L’incontournable de ma semaine de maman",
+        "texte": "Le podcast que j’attends avec le plus d’impatience et qu’on ne veut pas voir se finir (et deux semaines c’est looong) ! Une dose de rire, de douceur et d’émotion (beaucoup) dans mon quotidien de maman. Merci Constance et surtout bonne continuation à Effet mères !!"
+      }
+    ]
+  }
 }

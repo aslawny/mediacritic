@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-25",
-  "frequence_jours": 16
+  "frequence_jours": 16,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "FrèreEnIslam",
+        "titre": "Continues mon frère",
+        "texte": "Continues ! C’est tout ce que j’ai à te dire… On est monter dans le bateau là faut pas nous lâcher deh !!!!! Qu’Allah te préserve et te facilite Mon Frère Écoutes pas les mauvaises personnes qui vont venir blâmer tes actions, si t’as un truc à faire fais le sans écoutez les gens…"
+      },
+      {
+        "note": 3,
+        "auteur": "Mrssoum",
+        "titre": "Touché par les paroles, mais une petite suggestion",
+        "texte": "J’aime beaucoup le podcast. Les textes et les paroles sont vraiment touchants. Dommage qu’il y ait de la musique de fond — personnellement, ça me déconcentre un peu. Sans bruit de fond, je pourrais mieux me concentrer sur le message et en être encore plus impacté.…"
+      },
+      {
+        "note": 5,
+        "auteur": "stephlecoq",
+        "titre": "Inspirant",
+        "texte": "Très inspirant, podcast travaillé et qui percute. Permet de se retrouver face à soi même et qui sait, le changement comment par la. La musique de fond est une réelle plus-value pour se concentrer en profondeur sur ta prime! Force à toi, continues tes efforts 💪🏻"
+      }
+    ]
+  }
 }

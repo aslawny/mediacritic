@@ -26,5 +26,31 @@
     "sciences",
     "vulgarisation"
   ],
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Podcastics Community",
+        "titre": "Une émission digne du service public (en mieux !)",
+        "texte": "Ce podcast de vulgarisation scientifique balaie des thèmes très variés en s'appuyant sur des interviews de spécialistes. La pédagogie est au rendez-vous, si bien que l'émission est accessible à chacun indépendamment de son bagage.…"
+      },
+      {
+        "note": 1,
+        "auteur": "tsacdopednaf",
+        "titre": "Episodes avec Olivier Adam",
+        "texte": "Par pitié, faites intervenir des personnes qui savent s'exprimer, c'est la moindre des choses pour un podcast qui est supposé nous élever un peu ! Les milliers de \"en fait\" et de \"tu vois ce que je veux dire\" sont carrément inadmissibles de la part d'une personne de ce \"niveau\".…"
+      },
+      {
+        "note": 5,
+        "auteur": "Zohol",
+        "titre": "Top",
+        "texte": "Cette émission animée par un groupe de jeunes permet d’aborder la science dans la joie et la bonne humeur, loin des clichés usuels des scientifiques barbants. Le niveau est bien ciblé, la durée aussi.Je recommande."
+      }
+    ]
+  }
 }

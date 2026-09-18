@@ -49,5 +49,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Podkassos SUMMER 2026 #6 - On vous prend pour des C*NS",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "Podkassos SUMMER 2026 #5 - Débardeurs et Summer Vibes avec Hugo Pecheur",
+      "date": "2026-09-02"
+    },
+    {
+      "titre": "Podkassos LIVE - Notre Live au QUÉBEC !",
+      "date": "2026-08-26"
+    },
+    {
+      "titre": "Podkassos SUMMER 2026 #3 - Un peu de MARSEILLE (avec Julien Vinh)",
+      "date": "2026-08-19"
+    },
+    {
+      "titre": "Podkassos SUMMER 2026 #3 - Franjo et Pierre Thevenoux sont en DATE",
+      "date": "2026-08-12"
+    }
+  ],
+  "derniere_activite": "2026-09-09",
+  "frequence_jours": 7
 }

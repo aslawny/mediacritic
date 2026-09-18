@@ -43,5 +43,31 @@
     }
   ],
   "derniere_activite": "2026-06-29",
-  "frequence_jours": 16
+  "frequence_jours": 16,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Parenchyme palissadique",
+        "titre": "Seulement l’interview la plus exaltante que je n’ai jamais écouté dans ma courte vie.",
+        "texte": "Contrairement à beaucoup d’interviews que j’ai pu écouter, les questions posé par Clément sont vraiment originales. Elles permettent de vraiment apprendre qui est l’invité en question et de déboucher sur des sujets captivants et parfois surprenants.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Marie Kopp",
+        "titre": "Je reprendrais bien du melon 😊",
+        "texte": "La conversation la plus enthousiasmante que j’ai entendue depuis très, très longtemps. Intelligente, jamais pédante, deux libres penseurs qui vous dépoussièrent les neurones. Bravo Clement pour ce nouveau format, qui comme tout le reste est soigné, le rythme est juste parfait.…"
+      },
+      {
+        "note": 5,
+        "auteur": "CynthiaB.Artiste",
+        "titre": "Passionnant",
+        "texte": "Interview passionnante de Lou Trotignon. Un format très original qui nous fait découvrir cet artiste et, plus en profondeur, ce qu’est la transidentité. Ça donne envie de creuser plus le sujet et d’aller voir le spectacle. Hâte d’écouter les prochains épisodes."
+      }
+    ]
+  }
 }

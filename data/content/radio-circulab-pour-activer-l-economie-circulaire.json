@@ -26,5 +26,31 @@
     "cuisine"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Ssssdu",
+        "titre": "Ravie",
+        "texte": "Bonjour, je viens de découvrir votre podcast, c’est une mine d’or !! Merci merci de mettre en lumière ces acteurs. je suis ravie car je viens moi même de me lancer dans l’économie circulaire avec une brocante L’Atelier de Mamie-Jo, ça me conforte dans mon choix …"
+      },
+      {
+        "note": 3,
+        "auteur": "Marine 57209",
+        "titre": "Super sujets mais la qualité sonore n’est pas top",
+        "texte": "Ce podcast est une mine d’information et les sujets hyper intéressants!! Je n’arrive cependant pas à écouter un podcast en entier à cause de la qualité sonore très bizarre. Les voix semblent venir de loin mais on entend très bien les bruits parasites.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Gael Aymard",
+        "titre": "Une superbe radio !",
+        "texte": "J’adore les nouveaux formats, merci Justine et Brieuc d’avoir appuyé sur record ! C’est que du bonheur votre inspiration ! Gaël d’Aventure Humaine"
+      }
+    ]
+  }
 }

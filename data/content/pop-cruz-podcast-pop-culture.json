@@ -24,5 +24,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "episodes_recents": [
+    {
+      "titre": "Pop Cruz - La dernière",
+      "date": "2024-12-31"
+    },
+    {
+      "titre": "Pop Cruz S04E10 - Boucles temporelles",
+      "date": "2024-08-03"
+    },
+    {
+      "titre": "Pop Cruz S04E09 - Revanche d'une enfance torturée",
+      "date": "2024-08-03"
+    },
+    {
+      "titre": "Pop Cruz S04E08 - Troisième guerre mondiale",
+      "date": "2024-04-25"
+    },
+    {
+      "titre": "Pop Cruz S04E07 - La Préhistoire",
+      "date": "2024-03-21"
+    }
+  ],
+  "derniere_activite": "2024-12-31",
+  "frequence_jours": 34
 }

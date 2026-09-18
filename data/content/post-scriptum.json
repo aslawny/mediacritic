@@ -25,5 +25,55 @@
     "numerique"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Nène la Loutre",
+        "titre": "J’adore !",
+        "texte": "Le principe des deux voix qui augmente la richesse des témoignages, les lettres lues, les sujets qui nous permettent de réfléchir à notre propre vie, nos rencontres, aux limites que nous avons intériorisées… tout cela est très enrichissant et vivant.…"
+      },
+      {
+        "note": 5,
+        "auteur": "axL&rose",
+        "titre": "Merci",
+        "texte": "Chaque épisode apporte des émotions différentes. Je recommande vraiment ce podcast , écouter ces morceaux de vie si émouvants, si intéressants sur des thèmes variés. Le dernier, Cher Alzheimer m’a transpercé d’émotion."
+      },
+      {
+        "note": 5,
+        "auteur": "Stereolab",
+        "titre": "Des récits de vie passionnants",
+        "texte": "Un excellent podcast à la narration originale et attachante : des récits de vie passionnants, justes et sensibles, révélant l’intime avec pudeur. Un grand bravo à Alice, Charlie et Romain !"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "Né sous Rixes (5/5)",
+      "date": "2026-06-04"
+    },
+    {
+      "titre": "Né sous Rixes (4/5)",
+      "date": "2026-06-04"
+    },
+    {
+      "titre": "Né sous Rixes (3/5)",
+      "date": "2026-06-04"
+    },
+    {
+      "titre": "Né sous Rixes (2/5)",
+      "date": "2026-06-04"
+    },
+    {
+      "titre": "Né sous Rixes (1/5)",
+      "date": "2026-06-04"
+    }
+  ],
+  "derniere_activite": "2026-06-04",
+  "frequence_jours": 63
 }

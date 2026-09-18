@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-21",
-  "frequence_jours": 12
+  "frequence_jours": 12,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Ricouz",
+        "titre": "Podcast sympa !",
+        "texte": "Je commence à m’intéresser sérieusement aux cryptomonnaies, j’espère que ce site pourra m’aider dans mes premiers investissements. Un monde où il faut se plonger pour connaître tous les tenants et les aboutissants. Merci pour la vulgarisation de ce podcast ! Amicalement"
+      },
+      {
+        "note": 5,
+        "auteur": "Tom2lille",
+        "titre": "Un 2e kebab pour Marc Z.",
+        "texte": "Merci à toute l’équipe Cryptoast pour ces contenus de qualité Et merci à tous les intervenants qui y contribuent ! NB: je propose d’octroyer un 2e kebab 🥙 à Marc Z. qui intervient régulièrement sur le média, je trouve ça mérité 🤣💪🏼 on vote ? 😇"
+      },
+      {
+        "note": 5,
+        "auteur": "elsamuelo",
+        "titre": "Ensemble pour un régulation juste",
+        "texte": "Merci pour cet épisode. On a besoin de régulation, mais une régulation juste et adéquate aux enjeux et au futur de l’innovation. Ne loupons pas le virage."
+      }
+    ]
+  }
 }

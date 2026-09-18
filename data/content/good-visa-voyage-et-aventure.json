@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-01",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ldelamour",
+        "titre": "De la douceur pour vos oreilles",
+        "texte": "J’en ai écouté des podcasts : voyage, méditation, développement perso etc Mais aucun n’égale Good Visa en terme de qualité d’écoute, de sujets abordés et de la façon dont ils sont abordés , de la qualité également des invités … Bref Camille est d’une douceur rare, sa voix se prêt…"
+      },
+      {
+        "note": 5,
+        "auteur": "Margueritedecadenet",
+        "titre": "Un podcast passionnant",
+        "texte": "Je dévore les épisodes depuis que j’ai découvert ce podcast. La journaliste laisse beaucoup de place aux invités, pose des questions pertinentes et les mène dans tous les recoins de leurs voyages.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Elise.Miller",
+        "titre": "Un des meilleurs podcast pour s’évader !",
+        "texte": "Merci Camille pour tous tes épisodes qui ne manquent pas de nous faire voyager à chaque fois ! Mention spéciale pour les deux derniers épisodes qui m’ont fait rêver en cette période de Noël :) J’attends la sortie de tes prochains épisodes avec impatience …"
+      }
+    ]
+  }
 }

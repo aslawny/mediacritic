@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2025-02-20",
-  "frequence_jours": 23
+  "frequence_jours": 23,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "tcamberou",
+        "titre": "Les nouveaux épisodes",
+        "texte": "Émission très complète qui informe, mais informe vraiment c’est à dire qu’on comprend mieux le problème à la fin contrairement aux journaux classiques où on a juste les éléments de langage des politiques et syndicalistes.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Poney 45770",
+        "titre": "Trop bien mais c est fini?",
+        "texte": "Bonjour je suis aussi sur YouTube mais sur podcast cela s arrête au 1er mai Allez vous reprendre l’upload des épisodes actuels?"
+      },
+      {
+        "note": 5,
+        "auteur": "my•red•persona",
+        "titre": "Le podcast qui étudie vraiment notre avenir",
+        "texte": "Incontournable : de véritables plongées sur les impacts sociaux et écologique des bouleversements que l’on vit."
+      }
+    ]
+  }
 }

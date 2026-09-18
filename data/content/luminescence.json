@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-27",
-  "frequence_jours": 40
+  "frequence_jours": 40,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Nat from Mars",
+        "titre": "Pépite",
+        "texte": "Ce podcast est juste une magique : extrêmement enrichissant tout en restant simple, extrêmement profond tout en étant pratique et lumineux ! ✨✨✨ Bref, une révélation qui peut déclencher une révolution ? Hâte de voir les prochains épisodes 🤩😎😍"
+      },
+      {
+        "note": 5,
+        "auteur": "ramy_1",
+        "titre": "Superbe",
+        "texte": "J’ai adoré du début à la fin. L’ensemble des points évoqués est très pertinent. L’empathie et la sincérité sont les mots qui me viennent en premier pour décrire ce premier épisode. Hâte d’écouter les prochains."
+      },
+      {
+        "note": 5,
+        "auteur": "Djou lia",
+        "titre": "Douce Puissance",
+        "texte": "Un podcast dont les mots très justes, résonnent de façon authentique et puissante. Une très belle invitation à un chemin introspectif. Au plaisir d’écouter les prochains épisodes !"
+      }
+    ]
+  }
 }

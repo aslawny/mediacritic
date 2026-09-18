@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-06-24",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Marie. L.",
+        "titre": "Merci!",
+        "texte": "J’ai écouté l’épisode sur les parents défaillants et je me suis sentie moins seule! Quand j’avais appris l’obligation alimentaire il y a quelques temps j’ai été choquée!!!!! Au vu de la façon mes parents se sont occupés de moi et ne m’ont pas protégées ni soutenue émotionnellemen…"
+      },
+      {
+        "note": 1,
+        "auteur": "xamot81",
+        "titre": "Quelle déception",
+        "texte": "Le sujet m’intéressait « la tromperie », mais alors entre les gloussements , le son pas terrible c’est improbable duo, ne fonctionne pas pour moi je trouve que ça fait vraiment très amateur je suis pourtant un aficionado de ce genre de podcast, le comptoir de la psychologie entre…"
+      },
+      {
+        "note": 5,
+        "auteur": "Nounouface",
+        "titre": "LE MEILLEUR podcast 🥹❤️",
+        "texte": "Vous cherchez un podcast qui parle de santé mentale, pédagogique, moderne, inclusif et fondé sur de vraies bases scientifiques ? Le MILITANPSY évidemment 😍 Avec un ton doux, parfois humoristique, sans jamais être jugeant, Mathilde et Loïc vous parleront de leurs expériences en ta…"
+      }
+    ]
+  }
 }

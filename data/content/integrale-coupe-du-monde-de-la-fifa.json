@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-07-20",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "lnlilou",
+        "titre": "👍🏽",
+        "texte": "Très bon podcast ! RMC c’est toujours aussi bien ! Et allez le Fc Nantes"
+      },
+      {
+        "note": 1,
+        "auteur": "Salah068",
+        "titre": "Podcasts",
+        "texte": "Toujours même pb avec les podcasts et il manque celui d hier sans compter le reste Revenez à l essentiel"
+      },
+      {
+        "note": 5,
+        "auteur": "pitiben",
+        "titre": "Trop bien",
+        "texte": "Vous pouvez faire un épisode sur Lens svp se sont les meilleurs ❤️💛"
+      }
+    ]
+  }
 }

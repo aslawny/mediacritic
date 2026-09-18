@@ -26,5 +26,31 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "aebiot",
+        "titre": "le vrai coût dun produit / un produit upcyclé",
+        "texte": "Je crée des objets surtout des luminaires en dentelle de carton. Je n'utilise que du carton collecté et je récupère des chutes de bois pour les pieds.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Ephy°",
+        "titre": "Un podcast pertinent et vraiment utile pour les artisans d’art !",
+        "texte": "Bravo pour ce Podcast qui a des qualités rares et précieuses pour les artisans : la sensation d'aller droit au but et de délivrer un contenu solide et réellement exploitable.…"
+      },
+      {
+        "note": 5,
+        "auteur": "La Beauté des Banalités",
+        "titre": "Tout simplement merci",
+        "texte": "Votre podcast est d’une grande richesse. Il apporte des réponses pratiques et constructives pour développer nos ateliers, il fait découvrir des parcours inspirants et des artisans de talents. Et il est agréable à écouter …"
+      }
+    ]
+  }
 }

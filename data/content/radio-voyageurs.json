@@ -26,5 +26,31 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "nouette17",
+        "titre": "Revenez-nous vite!",
+        "texte": "J’adore votre podcast et j’en ai écouté tous les épisodes. Il m’a servi de guides lorsque j’ai eu l’occasion de me rendre dans les pays que vous y explorez, et, il m’a aussi plusieurs fois inspirée pour le choix de certaines destinations.…"
+      },
+      {
+        "note": 1,
+        "auteur": "NicolasMagnet",
+        "titre": "Une blague",
+        "texte": "Sincèrement après avoir écouté l’épisode comment préparer votre voyage je me suis vite désabonné. On dirait une discussion de vieux chnoques qui n’ont pas l’air si experts que ça et surtout complètement déconnecté de la réalité...…"
+      },
+      {
+        "note": 5,
+        "auteur": "virginie vm",
+        "titre": "?",
+        "texte": "Bah alors? Plus de nouvelles émissions? Quel dommage! Vos podcasts sont passionnants, cassent les idées reçues , et nous donne encore plus l’envie de voyager. Les conseils professionnels de l’équipe sont très enrichissants pour les voyageurs.…"
+      }
+    ]
+  }
 }

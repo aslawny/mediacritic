@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2023-05-15",
-  "frequence_jours": 23
+  "frequence_jours": 23,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "AnthoTrinity",
+        "titre": "Un podcast qui mets du baume au cœur",
+        "texte": "Je suis un auditeur irrégulier de podcast mais on m’a récemment conseillé d’écouter celui la . J’ai pioché au hasard les épisodes en fonction des titres qui me plaisaient .…"
+      },
+      {
+        "note": 1,
+        "auteur": "MarieBeaddict",
+        "titre": "Écoute insupportable de l’épisode 53",
+        "texte": "On n’entend pas l’invitée tellement le son est mauvais par tél. Douloureuse écoute avortée au bout de 5 min, dommage"
+      },
+      {
+        "note": 5,
+        "auteur": "Odile Slifi",
+        "titre": "Mi opinión",
+        "texte": "Honnêtement, je ne pensais pas que ce podcast me plairait sachant que je n’en écoute pas beaucoup, mais contre toute attente je l’ai réellement apprécié.…"
+      }
+    ]
+  }
 }

@@ -27,5 +27,31 @@
     "culture"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "KamenRiderGuattari",
+        "titre": "J’ai enfin la réponse à cette question",
+        "texte": "J’ai écouté un dizaine d’émissions toutes de qualité en termes d’analyse et de réflexions à la différence de la grande majorité des podcast ciné (notamment les plus boys club).…"
+      },
+      {
+        "note": 2,
+        "auteur": "olimado0212",
+        "titre": "Mouais",
+        "texte": "J’ai écouté deux épisodes sur des sujets que j’aime, les slasher et Buffy. Les approximations sont navrantes dans les deux cas. De même que la série de poncifs autour du manque de représentativité dans Buffy...…"
+      },
+      {
+        "note": 5,
+        "auteur": "piou2011",
+        "titre": "Sororité sante mentale",
+        "texte": "Une très belle découverte Merci pour cet entretien d une grande qualité Des intervenants qui apportent beaucoup de leur expérience mais restent dans l échange et la curiosité Merci d’affûteur notre regard Bravo pour votre podcast"
+      }
+    ]
+  }
 }

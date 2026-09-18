@@ -53,5 +53,31 @@
     }
   ],
   "derniere_activite": "2026-07-12",
-  "frequence_jours": 11
+  "frequence_jours": 11,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "semainefree",
+        "titre": "Un podcast qui inspire !",
+        "texte": "Je suis vraiment fan du podcast Beurn Out ! Ce podcast met en avant la réussite de la diversité en France et offre une perspective unique sur les parcours de personnes issues de milieux différents.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Kaouthar Zd",
+        "titre": "Un podcast inspirant et motivant",
+        "texte": "En tant personne racisée, je me plains souvent de n’être pas assez ou mal représentée. Mais ce podcast, c’est une pépite ! Que des beaux parcours (semés d’embûches sinon ça ne serait pas drôle, mais qui se concluent tous par une réussite).…"
+      },
+      {
+        "note": 5,
+        "auteur": "Ade_Gcs",
+        "titre": "Excellent et très instructif !",
+        "texte": "Un podcast très qualitatif, des questions pertinentes et des invités intéressants et éloquents. On sent que Mehdi arrive à les plonger dans son univers et leur permet d’aborder leur parcours sous un autre angle en mêlant le personnel et le professionnel, ce qui les rend d’autant…"
+      }
+    ]
+  }
 }

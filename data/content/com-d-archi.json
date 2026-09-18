@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-08",
-  "frequence_jours": 2
+  "frequence_jours": 2,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Cha Rob.",
+        "titre": "Inspirant!",
+        "texte": "Des portraits inspirants des personnes qui conçoivent le monde de demain à travers, chacun, leur propre prisme et expériences. Les visions se croisent parfois, les envies sont multiples, avec toujours ce besoin de faire pour l’autre.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Stéphanie Cayet",
+        "titre": "Podcasts de qualité",
+        "texte": "Merci Anne-Charlotte pour le format rare et de qualité de Com d’Archi : échanges sincères et spontanés, accueil chaleureux et bienveillant. C’était un réel plaisir de partager ce moment avec vous et votre équipe, tout comme c’est toujours un plaisir d’écouter et découvrir de nouv…"
+      },
+      {
+        "note": 5,
+        "auteur": "Manon Vandenbussche",
+        "titre": "La parole du vivant",
+        "texte": "En libérant la parole sur les métiers de la conception des territoires et de l’urbanisme, ce podcast explore toute la transdisciplinarité que convie la mutation de nos espaces vécus.…"
+      }
+    ]
+  }
 }

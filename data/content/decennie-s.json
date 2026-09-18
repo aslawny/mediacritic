@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2024-02-07",
-  "frequence_jours": 41
+  "frequence_jours": 41,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Yetcha",
+        "titre": "Ma vie en podcast!",
+        "texte": "Difficile de noter ce podcast sous les 5 étoiles tant il me transperce le cœur et l'esprit de bonheur à chaque diffusion. La sensation délicate de raconter ma vie entre amis qui ont vécu, découvert et partagé les mêmes choses ensemble dans les années 80.…"
+      },
+      {
+        "note": 2,
+        "auteur": "Tonusa31",
+        "titre": "Eighties ou nineties?",
+        "texte": "Les références aux années 80 un peu légères parfois vous faites des bons temporels de dix ans ou presque Et puis des oublis...ca peut être cool comme thématique mais pas assez aboutie"
+      },
+      {
+        "note": 5,
+        "auteur": "OzzieetAmara",
+        "titre": "Que du bon !",
+        "texte": "Bonjour à tous ! Podcast incontournable pour les nostalgiques des années 80 ! J’adore ! Je me régale d’écouter chacun des épisodes. Pour celui sur les consoles, vous avez oublier de parler de la Super Game boy qui permettait de jouer sur sa TV.…"
+      }
+    ]
+  }
 }

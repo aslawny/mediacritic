@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-03-17",
-  "frequence_jours": 45
+  "frequence_jours": 45,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "vincrossroad",
+        "titre": "C’est quand le prochain ???",
+        "texte": "Évolution du commentaire suivant l'évolution du podcast. YouTube permet, je pense, une meilleure visibilité du travail de Julien et il le mérite.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Le Barpais.",
+        "titre": "Julien Bitoun Obsession",
+        "texte": "Avant ça parlait de pédales, de guitares, etc, mais maintenant ça parle essentiellement de Julien Bitoun, même pendant les interviews. Ce n'est pas une critique contre le bonhomme, lequel se révèle toujours sympa et calé dans le temps, mais je n'y trouve plus mon compte."
+      },
+      {
+        "note": 5,
+        "auteur": "JulesT85",
+        "titre": "JulesT85",
+        "texte": "Au moment de cette bafouille, le sieur Bitoun a déjà mis en ligne 145 épisodes de Guitare Obsession. Je les ai tous écouté et même certains plusieurs fois ! La culture, passion et la variété de sujets en font un incontournable des podcasts guitaristiques …"
+      }
+    ]
+  }
 }

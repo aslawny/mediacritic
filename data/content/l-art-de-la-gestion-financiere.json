@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-31",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Alexandre29.....",
+        "titre": "Très bon podcast",
+        "texte": "Un podcast qui vulgarise à merveille la gestion de nos finances . Mais un petit bémol sur la qualité du son : micro qui sature , bruits parasites . Mais du très bon contenu . Un grand merci"
+      },
+      {
+        "note": 1,
+        "auteur": "Clovis1511",
+        "titre": "Manque de rigueur",
+        "texte": "Épisode stratégie financière pour passer de 10k à 100K…. Vous prenez comme base 8% de rendement ( net d’inflation??? Ce n’est même pas précisé ! ) par an pour calculer à x années le capital obtenu . Et encore d’après vous, vous tenez compte des frictions fiscalité ….…"
+      },
+      {
+        "note": 5,
+        "auteur": "Marco De La Olla",
+        "titre": "Quel plaisir d’apprendre avec vous",
+        "texte": "Bravo Jeremy et Axel, vôtre contenu est vraiment très intéressant et très bien réalisé et très bien détaillé Merci de m accompagner pendant mes vacances ey bien sûr je m abonne!😉"
+      }
+    ]
+  }
 }

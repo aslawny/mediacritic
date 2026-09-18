@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-07-05",
-  "frequence_jours": 28
+  "frequence_jours": 28,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Madolenna",
+        "titre": "Merci pour ce travail de qualite, au resultat passionnant!",
+        "texte": "Je recommande ce podcast qui permet de saisir les enjeux de l’industrie, et de ramener la partie creative dans une réalité concrète. Les participants sont bien choisis, Baptiste anime les échanges avec brio, la structure des épisodes est bien pensée, et le montage vivant.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Yelorre78",
+        "titre": "Et le Documentaire !!",
+        "texte": "Un souhait pour cet excellent podcast : que l’on y parle plus spécifiquement parfois, de l’écosystème du film documentaire… Même si les réflexions sur les métiers du cinéma sont bien sûr essentielles pour qui œuvre dans les métiers de l’image, un petit pas de côté sur la pratique…"
+      },
+      {
+        "note": 5,
+        "auteur": "SaitoChizue",
+        "titre": "Un éclairage indispensable",
+        "texte": "Bravo à Baptiste Rambaud, pour son implication, son travail et surtout l’idée de ce podcast. Ces échanges avec celles et ceux qui font le cinéma (en France) sont très pertinents, révélateurs et éclairants tant ils permettent de comprendre comment les films se font (ou pas), offra…"
+      }
+    ]
+  }
 }

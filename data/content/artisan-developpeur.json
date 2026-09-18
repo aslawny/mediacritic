@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-03-29",
-  "frequence_jours": 30
+  "frequence_jours": 30,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Rym12",
+        "titre": "Merci... Mais tellement merci !",
+        "texte": "Manager de grosses équipes de développeur et à la recherche de l'excellence du produit livre, je me suis auto formé au craft ces dernières années.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Julien6585",
+        "titre": "Le podcast bienveillant des développeurs",
+        "texte": "Les vidéos de Benoit sont pour moi les plus bienveillante et honnête que j’ai pu voir dans la (petite) communauté française des développeurs. Les sujets traités sont intéressants et la qualité globalement élevée.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Jérémy Mouzin",
+        "titre": "Un podcast indispensable",
+        "texte": "De la bonne pratique en intra-auriculaire pour tout développeur qui souhaite produire du code propre, maintenable et pérenne. Benoit nous offre dans un format compact et dense toute son expérience sur le développement logiciel et l'agilité.…"
+      }
+    ]
+  }
 }

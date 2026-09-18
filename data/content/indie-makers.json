@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2022-12-14",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Shashouxe",
+        "titre": "Inspiration, motivation !",
+        "texte": "Trop chouette de pouvoir entendre le parcours de tous ces makers. C’est très inspirant, ca donne des idées, ca redonne de la motivation et enfin ça nous évite de faire potentiellement les meme erreurs ! 🤩"
+      },
+      {
+        "note": 5,
+        "auteur": "MickBourgois",
+        "titre": "Ma nouvelle bible",
+        "texte": "Découvert sur le tard, ce podcast est pour moi la bible pour tout indie qui se respecte ;) Apprendre du parcours des autres qui ont réussi permet de gagner beaucoup de temps."
+      },
+      {
+        "note": 5,
+        "auteur": "Zombievore",
+        "titre": "Inspirant !",
+        "texte": "J’écoute le podcast depuis récemment et ait déjà découvert plusieurs makers inspirants. Merci pour les perspectives et l’ambition que tu génères 🔥"
+      }
+    ]
+  }
 }

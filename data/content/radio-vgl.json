@@ -25,5 +25,31 @@
     "sport"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Maximou32",
+        "titre": "Pour tous les passionnés",
+        "texte": "Au fil des épisodes, Arnaud nous amène dans les univers de divers créateurs, artistes et patrons qui gravitent dans l’univers des vêtements (et non pas la mode). Le fil rouge : ils sont tous passionnés par ce qu’il font et il le font bien !"
+      },
+      {
+        "note": 5,
+        "auteur": "Arthur Derderian",
+        "titre": "Incroyable",
+        "texte": "Arnaud de radio VGL alias very good Lord propose un contenu de très bonne qualité te permettant d’apprendre tout en te reposant."
+      },
+      {
+        "note": 5,
+        "auteur": "Marcello Gio",
+        "titre": "Très Instrucif",
+        "texte": "Excellent Podcast. Très instructif...Copié-collé depuis peu par un nouvel arrivant ...mais c’est sûrement la rançon du succès !"
+      }
+    ]
+  }
 }

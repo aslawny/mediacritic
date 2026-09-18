@@ -32,5 +32,31 @@
       "date": "2026-07-21"
     }
   ],
-  "derniere_activite": "2026-07-21"
+  "derniere_activite": "2026-07-21",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "jivankohinoor",
+        "titre": "Le podcast vraiment balèze",
+        "texte": "Salut les mecs, et bravo pour cette super émission Bon, je pige vraiment pas tout, surtout quand c'est Emmanuel qui parle des JPA et autre Hibernates, mais après tout, je suis pas non plus développeur J2EE.…"
+      },
+      {
+        "note": 5,
+        "auteur": "fmathe",
+        "titre": "Indispensable",
+        "texte": "Les présentations au jugsummercamp ( organisé par le Jug local / nos amis de Serli) m'ont fait découvrir dans les excellents intervenants des passionnés que j'étais curieux de pouvoir écouter tranquillement.…"
+      },
+      {
+        "note": 5,
+        "auteur": "_G.W_",
+        "titre": "Très intéressant mais le son…",
+        "texte": "Un super podcast très instructif… mais parfois énervant à écouter car il y a trop souvent des bruits de \"frottement\" sur le micro, plus que désagréable.…"
+      }
+    ]
+  }
 }

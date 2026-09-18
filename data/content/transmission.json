@@ -25,5 +25,31 @@
   "tags": [
     "histoire"
   ],
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Valery Denis",
+        "titre": "Bravo ! Continuez comme ça !",
+        "texte": "Une vraie découverte à partager auprès de ceux qui veulent mieux comprendre notre temps. Par ailleurs, quelle satisfaction de constater qu’il existe une jeunesse exigeante et cultivée qui part au combat contre la bêtise abyssale de notre époque. Bravo ! Continuez comme ça …"
+      },
+      {
+        "note": 5,
+        "auteur": "oduespdeudo",
+        "titre": "Passionnant 🤩",
+        "texte": "Ce podcast est vraiment passionnant, même pour une novice en sciences politiques et sociales que je suis ! Tous les sujets abordés le sont en profondeur et font se questionner sur beaucoup de choses, de phénomènes de société... Bref c'est mon podcast favori!"
+      },
+      {
+        "note": 5,
+        "auteur": "Aurélien.RS",
+        "titre": "Merci",
+        "texte": "Un grand merci pour votre excellent podcast ; dans la droite lignée de la formidable émission, Réplique, de M. Finkelkraut."
+      }
+    ]
+  }
 }

@@ -26,5 +26,31 @@
     "societe"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Seyanara",
+        "titre": "⭐⭐⭐⭐⭐ Un podcast captivant et inspirant !",
+        "texte": "Un véritable coup de cœur ! Sans Indiscrétion est un podcast riche en échanges sincères et bienveillants. Assia a le don de poser les bonnes questions et de créer un espace où chaque invité se livre avec authenticité.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Assia ASSIA34",
+        "titre": "Vrm incr",
+        "texte": "Assia (moi aussi je m appelle Assia :-)tu est vrm inspirante tu m as fait apprendre énorme de chose sur notre religion tu est incroyable ne change pas tu es une bonne femme (comme tt les Assia ) et ne change pas je ne sais pas trop comment m exprimer pour te dire que tu est vrm i…"
+      },
+      {
+        "note": 5,
+        "auteur": "Wiided2",
+        "titre": "Excellent",
+        "texte": "Vraiment au top et le franc parler c’est très bien j.ai découvert le podcast sur la partie concernant le voile je vous lève mon verre d’avoir dit la vérité qu’Allah vous preserve. il est temps de casser les idées conçue par autrui"
+      }
+    ]
+  }
 }

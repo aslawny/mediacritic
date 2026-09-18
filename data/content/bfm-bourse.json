@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-28",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "FrenchBeckham",
+        "titre": "Gregori Volokhine a lui seul mérite les 5*",
+        "texte": "Ce serait tellement mieux si on pouvait ne télécharger que les parties intéressantes. Personnellement je n’écoute que les 10 premières minute de la 2eme partie, le reste est trop aléatoire au niveau de la qualité.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Marcus Kapika",
+        "titre": "Pas de mise à jour !!!",
+        "texte": "Comment se fait-il qu'il n'y ait plus de mise à jour, l'émission est en voie de disparition ????"
+      },
+      {
+        "note": 5,
+        "auteur": "Ed1969a",
+        "titre": "Super maintenant !",
+        "texte": "Toujours des décalages de disponibilité entre mon iPhone et mon Mac, mais cela s'améliore semble-t-il. Merci pour tous ces commentaires, Lorsqu'il y a consensus, il faut faire le contraire ! ;-)"
+      }
+    ]
+  }
 }

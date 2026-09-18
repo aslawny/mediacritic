@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-24",
-  "frequence_jours": 2
+  "frequence_jours": 2,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Emmaf78",
+        "titre": "Génial",
+        "texte": "J’écoute ses conférences régulièrement, j’adore ses enseignements, des leçons de vie. Il a l’art et la manière de présenter l’essentiel ❤️"
+      },
+      {
+        "note": 3,
+        "auteur": "Victoire-Marie",
+        "titre": "Dommage",
+        "texte": "J’écoutais avec beaucoup d’intérêt (contrairement aux élèves) et un jour il y a eu cette moquerie lancée à l’adresse de Jésus au sujet de l’amour du prochain, moquerie basée sur un contre-sens interprétatif.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Meryl2605",
+        "titre": "Magnifique",
+        "texte": "Heureuse de pouvoir écouter Rav Benchetrit en Podcast. Manque plus la publication de vos livres en format Kindle !"
+      }
+    ]
+  }
 }

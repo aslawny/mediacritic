@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-06-05",
-  "frequence_jours": 2
+  "frequence_jours": 2,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Jobi Bi",
+        "titre": "Question",
+        "texte": "Quelle bonne idée cet appel à questions pour le 100ème épisode ! :) Voici la mienne : - Les humain.e.s sont des mammifères qui peuvent se poser la question du désir d'enfant et choisir d'en avoir (ou non).…"
+      },
+      {
+        "note": 1,
+        "auteur": "epoqueepique",
+        "titre": "🙄",
+        "texte": "J’ai un peu honte d’écouter un podcast qui ne sait pas écrire “Comment se forment les roches cathédrales”…"
+      },
+      {
+        "note": 5,
+        "auteur": "_Durian_",
+        "titre": "Question",
+        "texte": "Est-ce que les insectes ont la même notion du temps que nous ? Par exemple il faut être vif pour attraper / écraser une mouche, même à l'aide d'une tapette.…"
+      }
+    ]
+  }
 }

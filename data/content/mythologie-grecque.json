@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2025-12-31",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Aaaaaamoureee",
+        "titre": "10/10",
+        "texte": "Je suis fanatique de la mythologie grecque. Contrairement à d’autres commentaire les echos sont assez stylé et les histoire sont bien résumés. Le seul petit bémol c’est peut être qu’il n’y a pas assez de dialogue.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Oulalaou",
+        "titre": "Dommage",
+        "texte": "C’est dommage qu’il y ai l’effet echo et une façon de raconter pas du tout naturelle."
+      },
+      {
+        "note": 5,
+        "auteur": "FanOfGrieg",
+        "titre": "Pas parfait",
+        "texte": "La diction n’est pas parfaite oui. Mais c’est l’essence même des légendes: la tradition est orale. Nul besoin d’être un grand acteur lorsque l’histoire est bonne.…"
+      }
+    ]
+  }
 }

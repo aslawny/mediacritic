@@ -26,5 +26,25 @@
     "news"
   ],
   "addedAt": "2026-06-18",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Abbanita",
+        "titre": "Vécu d’une infirmière psy",
+        "texte": "Merci Nicolas pour votre récit. La santé mentale est pour moi une valeur importante et la psychiatrie une évidence. Peut-être parce que j’ai baigné enfant dans une famille travaillant en psy. Peut-être parce que ma grand-mère a été hospitalisée en psy à la fin de sa vie.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Val91390",
+        "titre": "Et pourtant",
+        "texte": "Merci à vous Nicolas pour vos mots sincères et dénués de pathos. Merci à vos invités . Maman d’une jeune femme bipolaire de 27 ans, récemment passée par les Urgences de Sainte Anne (merci à eux aussi), je reste malgré les témoignages, malgré mes lectures, totalement désemparée et…"
+      }
+    ]
+  }
 }

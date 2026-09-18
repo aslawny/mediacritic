@@ -25,5 +25,31 @@
     "design"
   ],
   "addedAt": "2026-08-14",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Sophie-Laure",
+        "titre": "Superbe Podcast sur le monde de la photo",
+        "texte": "Podcast très riche sur l’expérience de chacun des photographes rencontré, confirmé comme plus junior. Immersion dans la démarche et le processus créatif de la fabrication des images dans tous les univers : photo-journalisme, documentaire, intimiste, conceptuel, mode, nature morte…"
+      },
+      {
+        "note": 5,
+        "auteur": "FredSaez",
+        "titre": "Un contenu de qualité et de l’actu photo doté d’un habillage sonore de qualité",
+        "texte": "Dans ce podcast ça parle photo à travers une ligne éditoriale de qualité, alternance de sujets de fonds et d’actualité photographique. Ecoute dynamique, doté d'un habillage sonore très agréable, superbement animé par Aliocha et Manon pour les news. Du travail de pro.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Savane10",
+        "titre": "Un super podcast très souvent dans mes écouteurs",
+        "texte": "Un excellent podcast sans prise de tête et où tu es certain.es de ressortir avec des connaissances, des retours d’expériences et des idées super intéressantes! Merci pour tout le travail fourni derrière ces interviews et hâte d’en découvrir toujours plus ✨"
+      }
+    ]
+  }
 }

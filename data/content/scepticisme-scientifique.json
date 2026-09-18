@@ -26,5 +26,31 @@
     "sciences",
     "vulgarisation"
   ],
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Kat_19",
+        "titre": "tres tres bien",
+        "texte": "Interviews tres interessants et j'aime beaucoup le ton conversationnel... comme si j'ecoutais discuter des potes super intelligents. Ayant grandi avec le magnetisme, l'homeopathie, les pyramides (en carton, sur la tete pour faire passer les migraines...…"
+      },
+      {
+        "note": 1,
+        "auteur": "qu'ignore je?",
+        "titre": "STOP les conférences SitP",
+        "texte": "c est inécoutable trop de bruits de fond c est horible à écouter . Les autres Poscast RAS génial encore du rab plus. mais stop SitP merci"
+      },
+      {
+        "note": 5,
+        "auteur": "houdini_69",
+        "titre": "Un podcast à ne pas rater !",
+        "texte": "Réellement informatif, ce podcast traite en détail toutes les para-sciences. Les thèmes sont variés et l'intervention maintenant régulière d'un autre sceptique, Nicolas Gauvrit apporte un plus. En conclusion, un \"must\" pour les amateurs !"
+      }
+    ]
+  }
 }

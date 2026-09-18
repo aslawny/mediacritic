@@ -43,5 +43,31 @@
     }
   ],
   "derniere_activite": "2026-08-26",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "RockMyChocolate",
+        "titre": "Très bon podcast",
+        "texte": "J’adore ce nouveau format en attendant le retour de la riposte à la rentrée! C’est super interessant d’avoir les échos personnels des différents intervenants sur de bonnes questions qu’on n’entend pas assez souvent.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Edgar Edgard",
+        "titre": "Bof 😕",
+        "texte": "Avec les avis laissés, je m’attendais à des échanges intéressants qui donnent matières à réfléchir… Il n’en est rien, du blabla qui n’apprend rien, des opinions bien lisses… Allez ciao."
+      },
+      {
+        "note": 5,
+        "auteur": "Caiillouxx",
+        "titre": "Akim toujours au top",
+        "texte": "Podcast super intéressant, mais je trouve vraiment qu’urbain prend trop de place. J’aurais aimé entendre un peu plus les filles."
+      }
+    ]
+  }
 }

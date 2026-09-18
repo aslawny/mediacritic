@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2026-09-02",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Oie blanche 33",
+        "titre": "Bouleversant",
+        "texte": "Ce podcast est une réussite, tout est dit avec justesse, humanité et nous fait aussi réfléchir sur la fragilité de la vie. Morgane a vécu un traumatisme terrible, elle nous raconte le lien unique et beau qu’elle a tissé jusqu’au départ de Saul avec tellement d’amour et en osmose…"
+      },
+      {
+        "note": 5,
+        "auteur": "Maya6778",
+        "titre": "Incroyable",
+        "texte": "Ce podcast est incroyable et très prometteur. J’ai pleuré pendant tout l’épisode de Morgane qui a une force incroyable et une résilience qui impose le respect.. Merci beaucoup de nous avoir offert ce témoignage qui, pour ma part, m’a énormément aidé sans en dire plus.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Tititin",
+        "titre": "Passionnant !",
+        "texte": "Des histoires passionnantes, parfois difficiles, qu’on prend beaucoup de plaisir à écouter. On ne voit pas le temps passé, les interviews sont bien menées, les mots et les sujets bien choisis. Bravo, tu donnes tout👏😊"
+      }
+    ]
+  }
 }

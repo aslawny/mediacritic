@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-07-06",
-  "frequence_jours": 21
+  "frequence_jours": 21,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Poulebob",
+        "titre": "Super contenu !",
+        "texte": "Super podcast, on a accès à des informations sur la nutrition qu’on entend nul part ailleurs !"
+      },
+      {
+        "note": 1,
+        "auteur": "Nouchy33",
+        "titre": "Pas ouf ! Passez votre chemin",
+        "texte": "Du réchauffé… déjà entendu à toutes les sauces. À quoi ça sert d’interviewer des gens qui sont passés déjà sur six podcasts pour re-dire exactement la même chose sur exactement les même sujets encore et encore… D’autant plus qu’à l’instar de Major Mouvement, Nouchka c’était bien…"
+      },
+      {
+        "note": 5,
+        "auteur": "Benoit3974",
+        "titre": "Au top",
+        "texte": "1er podcast avec Caroline super intéressant ! Continue sur cette lancée Nouchka !"
+      }
+    ]
+  }
 }

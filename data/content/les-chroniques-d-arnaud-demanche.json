@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-11",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ItzShaKo :P",
+        "titre": "Mr Cam6337 j’ai quelques choses à te dire 😬.",
+        "texte": "« J'adore tu me donnes le sourire et tu améliore ma vie en me faisant rire! Merci beaucoup ! » ton message me fait donner envie que t’es en dépression ! MAIS MEC !!!! calmos gros je parie que dans un mois on voir dans les infos qu’un mec il c’est suicider."
+      },
+      {
+        "note": 1,
+        "auteur": "Fabbye",
+        "titre": "Pas drôle",
+        "texte": "On voit que l’équipe se force à rire!🙃 Il est pas drôle ,c’est un peu lourd"
+      },
+      {
+        "note": 5,
+        "auteur": "Tooki86",
+        "titre": "Merci à tous",
+        "texte": "Merci Arnaud, tu as rejoins une équipe du tonnerre et tu apporte la touche d’humour qu’il manquait. Dommage nous t’avons loupé lors de ta tournée mais nous serons là pour la prochaine. ✌️✌️"
+      }
+    ]
+  }
 }

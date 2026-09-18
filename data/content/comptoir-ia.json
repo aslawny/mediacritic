@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-10",
-  "frequence_jours": 8
+  "frequence_jours": 8,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pepini675",
+        "titre": "Top!",
+        "texte": "Bravo pour ce merveilleux podcast Nicolas. Tu retranscrit à travers tes interviews, parfaitement l’émerveillement de voir ces nouvelles technologies éclorent. Encore un invité incroyable ! Bravo.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Fil08",
+        "titre": "Super podcast mais qualité sonore à revoir",
+        "texte": "Il est dommage qu’un podcast de cette qualité souffre d’une qualité sonore déplorable…"
+      },
+      {
+        "note": 5,
+        "auteur": "Ninou ninja",
+        "titre": "Éclairant",
+        "texte": "J’adore ce podcast, c’est une bouffée régulière d’intelligence Tech sans pour autant se prendre au sérieux. Nicolas est un évangéliste IA qui sait mettre ses invités à l’honneur. Résultat : chaque interview est inspirante et riche en substance"
+      }
+    ]
+  }
 }

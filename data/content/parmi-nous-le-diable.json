@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2025-01-20",
-  "frequence_jours": 21
+  "frequence_jours": 21,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Peureuse",
+        "titre": "Super pour prendre de la distance !",
+        "texte": "J’ADORE cette série de podcasts, pourtant je suis plutôt une peureuse et je n’accroche pas forcément aux histoires criminelles… Je crois que j’apprécie particulièrement que la 1ere partie, dans laquelle les enquêtes sont très précisément décrites, soit complétée par la 2e partie…"
+      },
+      {
+        "note": 1,
+        "auteur": "Diable 56",
+        "titre": "Déception",
+        "texte": "Sujet intéressant mais gaché par une narration brouillonne. Voix insipides. Dommage !"
+      },
+      {
+        "note": 5,
+        "auteur": "Lauritaaa3333",
+        "titre": "Chouette",
+        "texte": "Bonjour J’adore vos podcasts ils sont intéressants et bien travaillés, ça fait un moment que je vous écoute et je vous remercie La seule histoire que je n’ai pas aimée est le « cas adriana ».…"
+      }
+    ]
+  }
 }

@@ -24,5 +24,31 @@
     "sciences",
     "vulgarisation"
   ],
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Julian_alnc",
+        "titre": "Au top je recommande",
+        "texte": "Je suis très content que le format du talk-show de jokariz soit en podcast, j’avais l habitude de regarder les vidéos YouTube mais c était plus contraignant pour exercer une autre activité à côté , appart ça super podcast avec des invités très inspirants merci beaucoup pour tout…"
+      },
+      {
+        "note": 3,
+        "auteur": "AdrienMoulias",
+        "titre": "Super contenu mais trop de pubs",
+        "texte": "Interrompu au moins 5-6 fois par épisode par 2 min de pub Apple en anglais, en plus totalement à côté de la plaque (genre whisky de l’Ohio) et avec des choix de cut horribles.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Hirondelle83",
+        "titre": "L’échange qu’on aimerait tous avoir avec un inconnu Pro.",
+        "texte": "Pertinence des intervenants et des questions de Jokariz dont le ton simple et authentique rend ce partage d’expériences vrai et accessible : une gageure à l’heure du fake/bluff !"
+      }
+    ]
+  }
 }

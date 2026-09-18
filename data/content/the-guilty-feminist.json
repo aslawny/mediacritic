@@ -23,5 +23,31 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Abelhaz",
+        "titre": "Inspiring and practical",
+        "texte": "I find this podcast a breath of hope in today’s frustratingly everlasting patriarchal world. This podcast gives me the courage to proudly say that I too am a feminist, and that I’m not alone.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Popsinelle",
+        "titre": "Better than any kind of comfort food!",
+        "texte": "Been binge listening to The Guilty Feminist since the beginning of lockdown and it’s been like I found a treasure ! Thank you so much from a French women who laughs out loud while cooking or redecorating the bathroom or gardening and the kids eyeballing their mother wondering how…"
+      },
+      {
+        "note": 5,
+        "auteur": "Louise134!",
+        "titre": "Everyone I could every hope for",
+        "texte": "I listen to this podcast way too much, I absolutely love it. It is inspirational, educational, informative, hilarious, kind, moving and just exactly what I want to listen to all day long. So refreshing to hear new, young, coloured, disbaled women providing the best comedy.…"
+      }
+    ]
+  }
 }

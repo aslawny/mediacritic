@@ -24,5 +24,31 @@
     "culture",
     "societe"
   ],
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "paulinepb",
+        "titre": "Estelle",
+        "texte": "Magnifique reportage au long court. Que j’ai hésité à écouter par peur de céder au voyeurisme. Mais quelle délicatesse! on y rencontre cette famille Mouzin incroyable de vérité, de dignité, de force et de sincérité . Jamais de pathos au contraire.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Nomiy_02",
+        "titre": "Beau reportage",
+        "texte": "J’ai aimé le ton, la mise en lumière de cette petite famille résiliante clairement on sent qu’ils sont détruit mais ils ont tout fait pour faire un beau chemin Je suis toujours touchée par Éric Mouzin, un vrai papa hero.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Basile24",
+        "titre": "Le podcast de l'été",
+        "texte": "Une série audio très bien réalisée, au point de me donner la chair de poule. Une histoire racontée sous différents prismes (famille, enquêteurs...) et qui met en lumière l'immense travail abattu jusqu'ici mais qui n'a mené qu'à une impasse.…"
+      }
+    ]
+  }
 }

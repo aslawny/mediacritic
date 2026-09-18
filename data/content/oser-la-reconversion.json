@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-14",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mél SA",
+        "titre": "Super intéressant",
+        "texte": "Les podcasts et les parcours de tes invités sont super intéressants. C’est très enrichissant de connaître leur parcours ainsi que divers milieux. Je suis juste un peu déçue de n’entendre que des personnes qui ont déjà une expérience professionnelle et des bagages conséquents.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Ju dpamp",
+        "titre": "Épisode intéressant mais",
+        "texte": "Introduction laborieuse à écouter. Débit de paroles trop rapide manque d’articulation et trop de lecture du texte …"
+      },
+      {
+        "note": 5,
+        "auteur": "Florentinemanon",
+        "titre": "Vivement la suite !",
+        "texte": "Clervie Rose est une hôte agréable à écouter. Elle pose toujours les bonnes questions et la variété des parcours interviewés n’empêche pas de s’identifier à chaque épisode 😊 ses invités nous prouvent que la reconversion est possible à tout âge et peu importe le schéma de vie 🙌🏼"
+      }
+    ]
+  }
 }

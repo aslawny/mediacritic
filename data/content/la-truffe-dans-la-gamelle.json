@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-05-25",
-  "frequence_jours": 101
+  "frequence_jours": 101,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tatsuki bR",
+        "titre": "Agréable et concret",
+        "texte": "Ce podcast est un bonheur à écouter ! Les sujets sont intéressants, concrets, factuels et bien amenés. Le Dre Charlotte Devaux a une manière très ludique de parler de nutrition, aborde les concepts avec beaucoup d’intelligence et, pour ne rien gâcher, a une voix très agréable !!…"
+      },
+      {
+        "note": 5,
+        "auteur": "Lory - passionnée de nutrition",
+        "titre": "À écouter absolument",
+        "texte": "Étant une très grande consommatrice de podcast ainsi qu’une passionnée de nutrition animale j’ai été absolument ravie de découvrir La truffe dans la Gamelle.…"
+      },
+      {
+        "note": 5,
+        "auteur": "loanbeatrice",
+        "titre": "Une révélation",
+        "texte": "Extraordinaire! J’ai enfin compris comment apprécier le poids de mon chien et les bonnes habitudes à adopter pour garder ma puce le plus longtemps possible, heureuse et en bonne santé. Podcast intéressant, clair et accessible aux novices. Merci"
+      }
+    ]
+  }
 }

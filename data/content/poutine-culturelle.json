@@ -24,5 +24,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "Épisode 7 - Saison 2",
+      "date": "2019-05-15"
+    },
+    {
+      "titre": "Épisode 6 - Saison 2",
+      "date": "2019-05-01"
+    },
+    {
+      "titre": "Épisode 5 - Saison 2 - Spécial Sport",
+      "date": "2019-04-17"
+    },
+    {
+      "titre": "Épisode 4 - Saison 2",
+      "date": "2019-04-04"
+    },
+    {
+      "titre": "Épisode 3 - Saison 2",
+      "date": "2019-03-20"
+    }
+  ],
+  "derniere_activite": "2019-05-15",
+  "frequence_jours": 14
 }

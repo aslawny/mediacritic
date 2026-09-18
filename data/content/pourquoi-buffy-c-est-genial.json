@@ -25,5 +25,55 @@
     "series"
   ],
   "addedAt": "2026-06-09",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "hedwige41",
+        "titre": "Podcast super",
+        "texte": "bonjour Je suis en pleine discussion avec ma sœur fans de Buffy et de votre émission (toutes les deux) Fin de la saison 6, Spike part et dit en parlant de Buffy : tu auras ce que tu mérites.…"
+      },
+      {
+        "note": 3,
+        "auteur": "blablateur75",
+        "titre": "C'est pas mal mais...",
+        "texte": "S'il vous plait, arretez de manger et boire pendant le podcast, et merci de ne pas tous parler en meme temps, ca gache le plasir."
+      },
+      {
+        "note": 5,
+        "auteur": "ju_de_citron_",
+        "titre": "Pourquoi ce podcast est génial...",
+        "texte": "Podcast découvert grâce à Marie (shakemaker). J’ai beaucoup revisionné l’intégralité de la série depuis mes années college et à chaque visionnage je découvre encore des choses, envisage la psychologie des personnages différemment (Giles 😍) ou me conforte dans mes coups de cœurs (…"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "PBCG 64 AS YOU WERE",
+      "date": "2026-05-21"
+    },
+    {
+      "titre": "PBCG HORS SÉRIE FAN MEET 2026",
+      "date": "2026-04-10"
+    },
+    {
+      "titre": "PBCG HORS SÉRIE ACTU - NICK BRENDON ET NEW SUNNYDALE",
+      "date": "2026-04-01"
+    },
+    {
+      "titre": "PBCG 63 I WAS MADE TO LOVE YOU",
+      "date": "2026-02-12"
+    },
+    {
+      "titre": "PBCG 62 DOOMED",
+      "date": "2025-09-29"
+    }
+  ],
+  "derniere_activite": "2026-05-21",
+  "frequence_jours": 47
 }

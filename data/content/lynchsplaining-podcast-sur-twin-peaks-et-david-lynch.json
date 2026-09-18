@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-05-05",
-  "frequence_jours": 34
+  "frequence_jours": 34,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Wolzt",
+        "titre": "Give yourself a present: listen this podcast!",
+        "texte": "Un podcast merveilleux pour tous les aficionados de David Lynch. Le duo d’animateur fonctionne super bien et véhicule une bienveillance à l’égard de l’oeuvre lynchéenne, en proposant des angles de vues, théories et analyses, loin de la volonté de trouver des explications fermées,…"
+      },
+      {
+        "note": 5,
+        "auteur": "GooddamnCoffee",
+        "titre": "Mille mercis",
+        "texte": "Un grand merci pour ces podcasts que je découvre tardivement. Je me sens moins seul à apprécier l’univers de D lynch, ce dernier étant loin de faire l’unanimité dans mon entourage….Twin Peaks best série ever.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Grades iop",
+        "titre": "Le sourire d’un oiseau",
+        "texte": "Bonsoir à toute l’équipe. J’aimerais revenir sur la carrière de l’oiseau. Actuellement il travaille sur une nouvelle adaptation entre l’oiseau bleu et la bataille des planètes... Il se remet difficilement de son éviction du projet de Birdman et du rôle du Vautour dans Spiderman.…"
+      }
+    ]
+  }
 }

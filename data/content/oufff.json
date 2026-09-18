@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2023-09-04",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Flora B L",
+        "titre": "Magnifique sujet , format et animateurs",
+        "texte": "Je découvre ce podcast dont je salue les créateurs et animateurs tant ils excellent dans le choix des sujets et invités . Tout cela avec une qualité d’enregistrement et petits jingles dignes d’une émission de radiofrance …"
+      },
+      {
+        "note": 1,
+        "auteur": "Canet682",
+        "titre": "Lassant",
+        "texte": "Podcast de plus en plus rare et malheureusement de moins en moins intéressants …"
+      },
+      {
+        "note": 5,
+        "auteur": "marie bocq",
+        "titre": "Super de revivre ses trails et découvrir des athlètes !",
+        "texte": "Passionnée de trail avec de grosses contraintes pro, c’est juste génial d’écouter vos podcasts pendant mes longs trajets de déplacements, je préférerais m’entraîner pendant ce temps là mais depuis que j’ai Oufff, ça me console et j’ai l’impression d’y être et de revivre mes cours…"
+      }
+    ]
+  }
 }

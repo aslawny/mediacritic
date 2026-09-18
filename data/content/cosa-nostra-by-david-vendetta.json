@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-08-29",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Broweyes",
+        "titre": "I love you so !!!!",
+        "texte": "Merci, mille merci !!!! Que du bonheur que j'écoute encore et encore et à n'importe quel moment, quel talent ! I luv U Mister Vendetta !!! U're the BEST ov'all !!! Ton style se reconnaît parmi tous les autres ! J'ai hâte de te voir à l'oeuvre en live !!! <3"
+      },
+      {
+        "note": 5,
+        "auteur": "Ti2x",
+        "titre": "Super mais ITunes pas à jour....",
+        "texte": "Superbes mix de David qui accompagnent mes trajets. Un son envoûtant qui ne me lasse pas! Dommage que la mise à jour sous iTunes ne se fasse pas aussi régulièrement par rapport au site officiel. Bonne continuation ;) E Viva Cosa Nostra!"
+      },
+      {
+        "note": 5,
+        "auteur": "DJChao",
+        "titre": "Que du top",
+        "texte": "Une emission au top chaque semaine avec un David Vendetta dechainé! A recommander a tous ! :D Mais j'ai vu que david n'etait plus dans la grille des programmes de Radio FG, donc plus de Cosa Nostra à la radio... :("
+      }
+    ]
+  }
 }

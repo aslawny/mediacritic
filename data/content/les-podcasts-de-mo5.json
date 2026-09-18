@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2024-03-13",
-  "frequence_jours": 191
+  "frequence_jours": 191,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Yetcha",
+        "titre": "Référence du rétrogaming",
+        "texte": "Au-delà de l'association bien connu pour son militantisme et son investissement pour la préservation du patrimoine vidéoludique, ce podcast se penche sur des instants forts du passé et nous en fait profiter pleinement.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Gi_bi",
+        "titre": "Des intervenants de qualité",
+        "texte": "Malheureusement, l'un des deux animateurs passe son temps à les interrompre. Mention spéciale au podcast sur le football durant lequel on touche le fond du pire des bars pmu. Les émissions tournent souvent à une énumération de jeux avec peu de commentaires les concernant."
+      },
+      {
+        "note": 5,
+        "auteur": "Otakiron",
+        "titre": "Par des passionnés, pour des passionnés !",
+        "texte": "C'est vraiment un bonheur de vous entendre: vous vous laissez parler, c'est fluide, pas monotone, la bonne ambiance entre potes se ressent, on apprend des choses, on (re)découvre des anecdotes, etc. C'est passionnant ! Dommage que les podcasts soient si espacés finalement !"
+      }
+    ]
+  }
 }

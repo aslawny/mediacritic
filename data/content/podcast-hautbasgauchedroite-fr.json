@@ -26,5 +26,55 @@
     "jeux inde"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Sulf'",
+        "titre": "De l'actu et de la bonne humeur",
+        "texte": "Bon j'en avais assez de les entendre pleurer sur leur nombre d'étoiles, alors je viens poser la mienne ;-). HBGD est un podcast traitant de l'actu du JV au sens large, réalisé par des amateurs éclairés qui ont tout compris.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Titikaka1",
+        "titre": "Excellent!",
+        "texte": "Je suis tombé un peu par hasard dessus en tapant \"podcast jeux vidéos\" pour accompagner mes journées au boulot et j'ai tout de suite accroché! M'étant un peu éloigné de ma console ces dernières années, je prends même un grand plaisir à écouter les anciens podcasts pour acheter le…"
+      },
+      {
+        "note": 5,
+        "auteur": "Vonheisinger",
+        "titre": "A écouter d'urgence!",
+        "texte": "Voila un podcast que j'ai découvert cet été par hasard. Grand fan de jeu video depuis plus de 25 ans, je dois avouer que ce podcast me comble chaque semaine. Qu'il s'agisse d'actualité ou de thématique ciblée, l'animation est toujours de qualité. Ce podcast est tout sauf tiède.…"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "Session 12 : Actualité du jeu vidéo du 24 au 30 septembre 2012",
+      "date": "2012-10-01"
+    },
+    {
+      "titre": "Session 11 : Actualité du jeu vidéo du 17 au 23 septembre 2012",
+      "date": "2012-09-24"
+    },
+    {
+      "titre": "Session 10 : Actualité du jeu vidéo du 10 au 16 septembre 2012",
+      "date": "2012-09-17"
+    },
+    {
+      "titre": "Session 9 : Actualité du jeu vidéo du 3 au 9 septembre 2012",
+      "date": "2012-09-10"
+    },
+    {
+      "titre": "Session 8 : Hors-Série - Les jeux de l'été",
+      "date": "2012-08-27"
+    }
+  ],
+  "derniere_activite": "2012-10-01",
+  "frequence_jours": 6
 }

@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-31",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Emilie_Burnies",
+        "titre": "Vibrant & Inspirant",
+        "texte": "J’adore le podcast de Mona, c’est mon rdv quotidien pdt le mois d’Août, je trouve ses partages personnels très inspirants, on reçoit des supers tips, son énergie est communicative, et elle donne envie d’avancer dans son projet en étant connectée à soi! J’ai adoré les épisodes ave…"
+      },
+      {
+        "note": 5,
+        "auteur": "Alex-Dchne",
+        "titre": "J’adore",
+        "texte": "Je découvre Mona sur les réseaux depuis 2023, elle m’a interpelée car elle est une des seule à parler de liquidation judiciaire . J’étais moi même honteuse d’en avoir fait une en 2020 et je n’osais pas me relancer, elle a participé à me donner l’élan de me re lancer et elle conti…"
+      },
+      {
+        "note": 5,
+        "auteur": "aminaaaa26",
+        "titre": "INCROYABLE",
+        "texte": "Je me reconnais tellement dans chaque épisode , j'ai l'impression que Mona est ma meilleure amie du lundi ! Celle qui me permet de réaliser la responsabilité que j'ai à vivre chaque semaine comme la meilleure possible …"
+      }
+    ]
+  }
 }

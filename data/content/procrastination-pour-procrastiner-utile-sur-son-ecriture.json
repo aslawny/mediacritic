@@ -24,5 +24,55 @@
     "géopolitique",
     "international"
   ],
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Nick_Castle",
+        "titre": "Le meilleur podcast d’écriture",
+        "texte": "L’échange d’idée entre les intervenant est passionnante, chargé d’expériences diverses et d’avis aussi pertinents les uns que les autres. Le seul défaut que je trouve à Procrastination, c’est le format parfois un peu court …"
+      },
+      {
+        "note": 5,
+        "auteur": "Papi glu",
+        "titre": "Un plaisir",
+        "texte": "Sous les conseils de l'agence tous geek, j'ai testé ce court podcast. N'étant pas écrivain et sans volonté de le devenir, je ne pensais pas aller bien loin dans l'écoute. L'inverse s'est produit. Tous les sujets sont passionnants et bien traités.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Aurélie Mojo",
+        "titre": "Merci!",
+        "texte": "Quel bonheur d’écouter chacune de vos voix dans cette découverte du monde de l’écriture. Chacune des questions que je me pose trouve de quoi se nourrir dans vos episodes et cet apport est très précieux.…"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "s11e01 - Écriture et réseaux sociaux, avec Fran Basil",
+      "date": "2026-09-15"
+    },
+    {
+      "titre": "s10e20 Configuration de son environnement de travail numérique, avec Karima Amarouche",
+      "date": "2026-07-01"
+    },
+    {
+      "titre": "s10e19 - Pousser plus loin son style",
+      "date": "2026-06-15"
+    },
+    {
+      "titre": "s10e18 - Négocier ses contrats",
+      "date": "2026-06-01"
+    },
+    {
+      "titre": "s10e17 - Les scènes de respiration et de répit",
+      "date": "2026-05-15"
+    }
+  ],
+  "derniere_activite": "2026-09-15",
+  "frequence_jours": 14
 }

@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2025-11-26",
-  "frequence_jours": 21
+  "frequence_jours": 21,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Ornellaktm",
+        "titre": "Inspirant",
+        "texte": "Merci Fabrice pour laisser la parole aux auditeurs, auditrices et éclairer les doutes, les peurs et toutes les réflexions nous traversant l’esprit et qui pouvant affecter chacun d’entre nous avec votre approche philosophique ponctuées de vos expériences personnelles."
+      },
+      {
+        "note": 5,
+        "auteur": "Claire Sisiyoga",
+        "titre": "Passionnant",
+        "texte": "Dès que un podcast sort je n’hésite pas à l’écouter en allant travailler C’est un vrai bonheur d’apprendre, d’écouter et de se questionner Merci !"
+      },
+      {
+        "note": 5,
+        "auteur": "Ola Susana",
+        "titre": "Mettre de la philosophie dans sa vie",
+        "texte": "Merci à Fabrice pour les thèmes abordés. Un grand pouce sur le pardon aux parents. La philosophie au service des relations familiales : merci !"
+      }
+    ]
+  }
 }

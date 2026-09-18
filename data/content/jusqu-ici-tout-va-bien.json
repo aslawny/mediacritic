@@ -24,5 +24,31 @@
     "societe"
   ],
   "addedAt": "2026-06-12",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Asarnila",
+        "titre": "Les mama’s !!!",
+        "texte": "Merci à ce trio de folie ! Rares sont les émissions qui donnent la parole à des personnalités aussi éclectiques à cette horaire de radio, et surtout à des gens qui viennent pas seulement faire de la promo!!! De vraies échanges, parfois insolites. Puis vous me faites bien rire.…"
+      },
+      {
+        "note": 1,
+        "auteur": "fredlehmann",
+        "titre": "Rendez nous Charline !!!!!",
+        "texte": "J’ai essayé d’écouter plusieurs fois mais je coupe après 10 min"
+      },
+      {
+        "note": 5,
+        "auteur": "Anto64",
+        "titre": "Malheureusement c’est fini",
+        "texte": "Merci pour cette saison, cela s’arrête trop tôt, alors que l’émission avait pris son rythme, sans doute bien plus depuis le départ de Maïa, Marine et Marie ont paru tellement complices et complémentaires.…"
+      }
+    ]
+  }
 }

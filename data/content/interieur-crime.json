@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-21",
-  "frequence_jours": 30
+  "frequence_jours": 30,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "bergamote-baroque",
+        "titre": "Passionnant",
+        "texte": "Excellent podcast, avec un intervieweur très pro, qui connaît son sujet parfaitement, et qui ne se met pas en avant. Les questions sont pertinentes et précises et vont en profondeur. Les invités sont passionnants.Et il faut saluer la grande impartialité de Guillaume Farde."
+      },
+      {
+        "note": 3,
+        "auteur": "Bonetcha*",
+        "titre": "Instructif",
+        "texte": "Podcast vraiment fouillé et poussé où l’on prend le temps d’approfondir sans survoler. Attention au montage par contre … les transitions sont absentes ou vraiment brusques et maladroites."
+      },
+      {
+        "note": 5,
+        "auteur": "autrepas",
+        "titre": "Admiration",
+        "texte": "Ces hommes ont des destins extraordinaires et forcent l’admiration. Et tout ça avec une telle humilité. C’est vraiment prenant de rentrer dans leur histoire. Bravo !"
+      }
+    ]
+  }
 }

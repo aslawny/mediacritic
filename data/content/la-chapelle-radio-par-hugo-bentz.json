@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-06",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Ion_la_mine",
+        "titre": "Hyper intéressant",
+        "texte": "Merci pour les épisodes, très cool ! Hyper intéressant, super invités ! Par contre moi j’ai des problèmes de son sur les 2-3 derniers épisodes (beaucoup de variations, je dois monter/descendre le volume et par moment j’entends limite pas la voix de l’invité - ex.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Ghis Bdx",
+        "titre": "Top!",
+        "texte": "De la transparence dans les succès comme les galères, des interviews menés de telle sorte que même si on a déjà entendu les guests sur d’autres podcasts on apprend de nouvelles facettes sur leur parcours, pourvu que ça dure! 👏"
+      },
+      {
+        "note": 5,
+        "auteur": "DocM4",
+        "titre": "Bravo Hugo!",
+        "texte": "Encore un super projet et clairement bien exécuté! Je recommande à 100%, je suis persuadé que vous apprendrez quelque chose d’utile peu importe qui vous êtes 🚀"
+      }
+    ]
+  }
 }

@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2026-09-12",
-  "frequence_jours": 5
+  "frequence_jours": 5,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ValDess75",
+        "titre": "Addictif",
+        "texte": "Je suis avec plaisir ce podcast pour deux raisons principales : la diction posée et particulièrement agréable de Sophie Davant. C’est assez rare pour le souligner : parfaitement rythmée et claire, son élocution est élégante. Également, le récit est parfaitement documenté.…"
+      },
+      {
+        "note": 1,
+        "auteur": "boisvinet",
+        "titre": "Inintéressant",
+        "texte": "Émission de bas niveau, une présentatrice d’une suffisance incroyable, à proscrire au plus vite."
+      },
+      {
+        "note": 5,
+        "auteur": "Utlsydftfhyfttfjb",
+        "titre": "Extra!!!",
+        "texte": "Je ne comprends pas les avis négatifs. Sophie Davant est une super conteuse. C’est passionnant à écouter. Toute la famille se régale et on apprend beaucoup d’anecdotes passionnantes. Pour tout public. Je recommande fortement !"
+      }
+    ]
+  }
 }

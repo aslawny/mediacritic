@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-09",
-  "frequence_jours": 49
+  "frequence_jours": 49,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Guibab",
+        "titre": "Formation RGPD intéressante",
+        "texte": "En tant que “responsable” RGPD dans ma startup de 20 employés, je cherche à me former sur des sujets de protection des données. Ce podcast semble très prometteur."
+      },
+      {
+        "note": 5,
+        "auteur": "solveigzia",
+        "titre": "Une découverte intéressante",
+        "texte": "Je tombe par hasard sur ce podcast et franchement c’est intéressant d entendre parler d’une solution française de haut niveau J’ai hâte d en découvrir d’autres !"
+      },
+      {
+        "note": 5,
+        "auteur": "Arnaudvet",
+        "titre": "Synthétique, clair, efficace !",
+        "texte": "Bravo pour ce podcast, qui fournit des informations claires et précises, sur des solutions pragmatiques, pour faire face aux enjeux juridiques actuels."
+      }
+    ]
+  }
 }

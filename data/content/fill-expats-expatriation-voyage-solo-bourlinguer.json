@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-15",
-  "frequence_jours": 15
+  "frequence_jours": 15,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "jenna lebro",
+        "titre": "Merci Kelly",
+        "texte": "Salut Kelly, j’ai découvert ton travail il y a quelques semaines grâce à une amie que tu à interviewer sur tes podcasts. J’adore! C’est tellement enrichissant d’entendre ces histoires de femmes expatriées, qui nous livrent leurs expériences à l’étranger! Chaque fois cela me récha…"
+      },
+      {
+        "note": 5,
+        "auteur": "Ost2014",
+        "titre": "Merci :) !!!!!!",
+        "texte": "Merci Kelly pour ton Podcast que j’écoute depuis plusieurs années. L’énergie, l’ouverture aux autres et la philosophie que tu y es transmet est superbe et nous en avons tellement besoin… Comme tu dis souvent « le monde ne va pas que mal » et ton Podcast reflète l’humanité et l’hu…"
+      },
+      {
+        "note": 5,
+        "auteur": "leti alias 3 miettes",
+        "titre": "Un voyage dans les oreilles, la tête remplie d’images",
+        "texte": "Merci Kelly pour ces écoutes toujours plus agréables les unes que les autres. Des destinations plus “connues” à d’autres plus “originales”, quoi de mieux que de découvrir un pays à travers les personnes qui y vivent.…"
+      }
+    ]
+  }
 }

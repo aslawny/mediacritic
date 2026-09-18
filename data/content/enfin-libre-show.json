@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-08-22",
-  "frequence_jours": 12
+  "frequence_jours": 12,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "CharlyDP",
+        "titre": "Mélange entre expertise et mindset",
+        "texte": "Merci pour ces épisodes impactants à chaque reprise. On retrouve un mélange d’expertise sur le sujet du E-commerce et de mindset indispensable à la réussite d’un projet entrepreneurial …"
+      },
+      {
+        "note": 3,
+        "auteur": "Emilie05",
+        "titre": "Podcast Saad Ben Show",
+        "texte": "Toujours plus de contenus et de tips pertinents ! Merci à vous deux pour toutes ses informations. Je le recommande à toutes personnes s’intéressant à l’e-commerce , débutants comme avancé. Une vrais source de motivation à chaque nouveau podcast.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Chicha-lychee/Cerise",
+        "titre": "La dose d’inspiration",
+        "texte": "Merci Sad et Adam pour vos podcasts hyper complet et objectif vis a vis du E-commerce , les thème abordé sont super pertinents, toujours d’actualité et vos parcours force le respect , issue d’un parcours similaire, je compte me lancer a mon tour et ce grâce au conseil et a l’insp…"
+      }
+    ]
+  }
 }

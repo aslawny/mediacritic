@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-07-23",
-  "frequence_jours": 28
+  "frequence_jours": 28,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "On fait un multi ?",
+        "titre": "La gifle de Namzar !",
+        "texte": "Avec vous on aime être cas contact, merci pour votre bonne humeur contagieuse ! J’ai bien apprécié l’épisode sur Resident Evil , et à la question de Marc: « Qu’attendez vous de la suite de la licence ? » J’ai une idée qui me semble sympathique , j’attends vos avis …"
+      },
+      {
+        "note": 5,
+        "auteur": "Roman Fice Nos",
+        "titre": "Merci!",
+        "texte": "Merci beaucoup à l’équipe de pixel bento, Thierry, Marc, Nicolas et Alex qui nous offrent une fois par mois ce véritable bonheur à écouter sur l’actualité JV mais aussi des jeux qui nous rappellent des bons souvenirs.…"
+      },
+      {
+        "note": 5,
+        "auteur": "mmickyman",
+        "titre": "Continuez comme ça !",
+        "texte": "Rigolo le concept de taille de bento, et courageux de le lancer en plein 2020. Pour l’instant je perçois un petit déséquilibre entre les sujets d’actus et la date de sortie (parce que publié longtemps après l’enregistrement) mais je vais continuer à suivre, c’est prometteur.…"
+      }
+    ]
+  }
 }

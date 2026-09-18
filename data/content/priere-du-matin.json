@@ -47,5 +47,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "« Nous avons joué de la flûte, et vous n’avez pas dansé... » (Lc 7, 31-35)",
+      "date": "2026-09-15"
+    },
+    {
+      "titre": "\"Qu’elle avait mal, qu’elle souffrait, ...\" (Stabat Mater. Jn 19, 25-27)",
+      "date": "2026-09-14"
+    },
+    {
+      "titre": "\"Il faut que le Fils de l’homme soit élevé\" (Jn 3, 13-17)",
+      "date": "2026-09-13"
+    },
+    {
+      "titre": "\"Je ne te dis pas de pardonner jusqu’à sept fois, ...\" (Mt 18, 21-35)",
+      "date": "2026-09-12"
+    },
+    {
+      "titre": "« Pourquoi m’appelez-vous en disant : “Seigneur ! Seigneur !” ...» (Lc 6, 43-49",
+      "date": "2026-09-11"
+    }
+  ],
+  "derniere_activite": "2026-09-15",
+  "frequence_jours": 1
 }

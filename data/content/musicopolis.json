@@ -24,5 +24,31 @@
     "culture"
   ],
   "addedAt": "2026-06-24",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "RoutierDu05",
+        "titre": "Excellente émission.",
+        "texte": "Le rapport entre texte et musique est parfaitement équilibré. La documentation est époustouflante car elle repose sur des documents originaux. La variété et originalité des sujets empêchent l’ennui. L’intérêt sur des compositeurs et œuvres oubliés est remarquable.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Raphistolet",
+        "titre": "Ravel",
+        "texte": "Mélomane passionné depuis toujours par les musiques de Maurice Ravel et Claude Debussy, j’ai retrouvé avec un bonheur non dissimulé cette série consacrée à Ravel par la talentueuse Anne Charlotte Raymond.…"
+      },
+      {
+        "note": 5,
+        "auteur": "bruno gilbert",
+        "titre": "Contes d’Anne Charlotte : Bravo",
+        "texte": "Tous ces contes musicaux, mettent en scène différentes Anne… Aussi rassemblés et génialement élaborés ils formeront une œuvre dont l’écoute ravira longtemps plus d’un : une édition en bande dessinée ou en cinéma d’animation sera t elle envisageable …"
+      }
+    ]
+  }
 }

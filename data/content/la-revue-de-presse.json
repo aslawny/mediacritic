@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2026-09-09",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pierre pH23",
+        "titre": "Très bien trop de pub",
+        "texte": "Rançon du succès ou contrainte de l’horaire. L’émission très intéressante au demeurant est inaudible en directe car trop cernée de spots de publicité. Préférer le podcast. Messieurs les financiers : trop de pub tue la pub!"
+      },
+      {
+        "note": 1,
+        "auteur": "axellus",
+        "titre": "Sympa",
+        "texte": "Bon personne ne suit les commentaires car depuis un moment la revue de presse de Franck Ferrand ….. réagissez un peu"
+      },
+      {
+        "note": 5,
+        "auteur": "BAGUETTEPARISIENNE",
+        "titre": "QURANTE ET UNE MINUTES",
+        "texte": "Nous devons dire HUIT HEURES QUARANTE ET UNE et pas HUIT HEURES QUARANTE ET UN car il s’agit de quarante et une MINUTES, mot féminin. Bonne continuation."
+      }
+    ]
+  }
 }

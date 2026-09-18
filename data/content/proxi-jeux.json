@@ -49,5 +49,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "[Sortons le grand jeu] Time’s Up! – Peter Sarrett",
+      "date": "2026-09-18"
+    },
+    {
+      "titre": "[Dossiers] Nos jeux préférés de 2006",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "[Jeux du mois] Athlètes de Compète et Moon Colony Bloodbath",
+      "date": "2026-09-04"
+    },
+    {
+      "titre": "[Hors-série] Été 2026",
+      "date": "2026-08-21"
+    },
+    {
+      "titre": "[Interview] Maxime Perrin- Platonia Games",
+      "date": "2026-07-31"
+    }
+  ],
+  "derniere_activite": "2026-09-18",
+  "frequence_jours": 7
 }

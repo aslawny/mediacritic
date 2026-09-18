@@ -27,5 +27,31 @@
     "series"
   ],
   "addedAt": "2026-07-30",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Corentinchoin",
+        "titre": "Beh trop bien, pas étonnant",
+        "texte": "Un régal d’écouter Florent et Adrien parler d’un sujet qui les anime tant. On attendait un épisode du FloodCast sur une seance d’écriture, on est servis avec un podcast à part entière. Continuez c’est le feu!"
+      },
+      {
+        "note": 5,
+        "auteur": "Osteale",
+        "titre": "Vraiment cool!!!",
+        "texte": "Fan du Floodcast, fan de la série the Boys et fan de doublage c’est un vrai régale! Surtout le dernier épisode avec Neo! Super principe!"
+      },
+      {
+        "note": 5,
+        "auteur": "Solene_C",
+        "titre": "Chouette !",
+        "texte": "J’ai vraiment eu un énorme smile en entendant la première réplique du comédien de doublage. Il est trop fort !"
+      }
+    ]
+  }
 }

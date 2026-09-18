@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-08",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Amikae",
+        "titre": "Comme une évidence",
+        "texte": "Après tout ce que tu nous partages que ce soit sur le blog ou sur Instagram, ce podcast arrive comme une évidence. Comme tout ce que tu proposes, c'est attentionné, bien fait, organisé et avec cette version audio c'est très plaisant à écouter.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Cassi_23",
+        "titre": "Tellement inspirant",
+        "texte": "Merci pour ce podcast tellement inspirant. Ça va être long de patienter 2 semaines pour découvrir le suivant. Je me retrouve tellement dans ce que tu racontes. Le point de départ : le besoin de désencombrer sa maison comme on désencombrerait sa tête.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Alicia et sa tribu",
+        "titre": "Indispensable",
+        "texte": "J’avais tellement hâte que ce poadcast sorte. Julie est une référence pour moi en terme d’organisation, de vie familiale et bien d’autres sujets. Si je n’avais qu’un compte Instagram à garder ce serait le sien, alors la, un poadcast …"
+      }
+    ]
+  }
 }

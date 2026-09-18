@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-06-19",
-  "frequence_jours": 18
+  "frequence_jours": 18,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Leoh83",
+        "titre": "La référence",
+        "texte": "Tout simplement le meilleur podcast de MMA et même de sport en général pour la bonne dizaine que j’ai pu écouter. Du gros boulot derrière mais ce coté chaleureux qu’on ne trouve pas dans d’autres podcast « pro ».…"
+      },
+      {
+        "note": 1,
+        "auteur": "guiguinutx",
+        "titre": "La baffe de dana",
+        "texte": "J’adore le podcast mais je trouve que cela ne fait pas parti du mma et cela n’a rien avoir à faire dans celui ci !! A bonne entendeur"
+      },
+      {
+        "note": 5,
+        "auteur": "LE GAMER 2",
+        "titre": "Au top !!!",
+        "texte": "Tout y est: humour, connaissance des fighters, de l’ ufc et plus généralement du monde des sports de combat, compétence, justesse des analyses, deux animateurs super sympas et attanchants... Un ton toujours juste sans se prendre au sérieux.…"
+      }
+    ]
+  }
 }

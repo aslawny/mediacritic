@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-06-01",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "adlh51",
+        "titre": "Très inspirant",
+        "texte": "J’écoute toujours vos podcasts avec beaucoup de plaisir. J’apprécie particulièrement les formats courts et la qualité des sujets abordés, toujours inspirants. Je vous ai découvert grâce à un ami et vos podcasts m’ont donné envie de lire vos romans.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Phenixox",
+        "titre": "Je retrouve un univers très chouette",
+        "texte": "Ça faisait un moment que je ne m’étais pas retrouvé dans l’univers de Bernard Werber et je suis ravi de pouvoir m’y replonger. Les conseils sont d’une qualité incroyable.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Juliadomna21",
+        "titre": "Éloge tombé du ciel au moment plus qu’opportun pour une perfectionniste qui se soigne",
+        "texte": "Merci beaucoup Bernard, après avoir suivi vos cours d’écriture en 2025, j’ai commencé mon manuscrit et là, me retrouvais dans une impasse sourcilleuse à outrance 😁 . Cet épisode m’a fait un bien fou …"
+      }
+    ]
+  }
 }

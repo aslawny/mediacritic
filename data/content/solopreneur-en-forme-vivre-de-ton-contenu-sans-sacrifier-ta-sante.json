@@ -26,5 +26,31 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "SebastienBossoutrot",
+        "titre": "Merci à mon coach web.",
+        "texte": "Bertrand est devenu mon coach par le biais de ce podcast pour mes pérégrinations sur le web et mes créations de contenu. Chaque jour, j'écoute religieusement ses propos et j'applique tant bien que mal l'afflux de conseils apportés par Bertrand.…"
+      },
+      {
+        "note": 2,
+        "auteur": "timpera",
+        "titre": "Meh",
+        "texte": "Très longs épisodes, ça hésite, ça parle lentement, analyses pas forcément pertinentes… plaira à certains mais c’est clairement pas pour moi."
+      },
+      {
+        "note": 5,
+        "auteur": "VG_5000",
+        "titre": "Un shoot quotidien de motivation !",
+        "texte": "Chaque matin on attend sa phrase d’accroche de bienvenue, et bim! il fait mouche. Bertrand est très fort pour trouver des sujets et problématiques dans les quels on se reconnaît tout de suite. Vous êtes créat.eur.rice de contenus …"
+      }
+    ]
+  }
 }

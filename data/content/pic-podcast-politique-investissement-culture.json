@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-16",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Sympadom",
+        "titre": "Top",
+        "texte": "Analyse toujours très pragmatique des investissements sans fioriture, bravo pour tes podcasts François ! Ce sont pendant les périodes de crises et donc de difficultés où l’on constate notre capacité à rebondir et se positionner …"
+      },
+      {
+        "note": 1,
+        "auteur": "Tfrancisco",
+        "titre": "Pas terrible",
+        "texte": "Le don d'habord. On enttend mal l’intervieweur. Après le contenu. Pendant l'interview de Sebastien Cerise, ils passent 20 minutes a descendre tout le monde. L'état, les étudiants, ceux qui baissent les bras et abandonnent leur projet d'entreprise. Ca n'apporte rien.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Tomzy12",
+        "titre": "Une bonne dose d'inspiration et de motivation",
+        "texte": "J'adore ecouter les podcasts de François. Tout d'abord le format me plait beaucoup car il me permet d'ecouter ça en voiture au lieu des pubs à la radio et j'aimerai qu'il y en ai beaucoup plus (de ces podcasts, pas des pubs!) Ensuite les informations partagées son toujours d'une…"
+      }
+    ]
+  }
 }

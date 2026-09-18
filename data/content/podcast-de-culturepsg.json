@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Podcast 14/09/26 : Brest, Bratislava et OM/PSG",
+      "date": "2026-09-14"
+    },
+    {
+      "titre": "Podcast 07/09/26 : PSG/Monaco, Prolongations et PSG/Bratislava",
+      "date": "2026-09-07"
+    },
+    {
+      "titre": "Podcast 01/09/26 : Mercato, tirage et Lille/PSG (2-2)",
+      "date": "2026-09-01"
+    },
+    {
+      "titre": "Podcast 24/08/26 : Rennes/PSG (2-2) et mercato",
+      "date": "2026-08-24"
+    },
+    {
+      "titre": "Podcast 17/08/26 : Lens/PSG (1-0) et mercato",
+      "date": "2026-08-17"
+    }
+  ],
+  "derniere_activite": "2026-09-14",
+  "frequence_jours": 7
 }

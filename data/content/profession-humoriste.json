@@ -23,5 +23,29 @@
     "humour",
     "comédie"
   ],
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "episodes_recents": [
+    {
+      "titre": "Sellig, invité de Guillaume Pot",
+      "date": "2023-10-13"
+    },
+    {
+      "titre": "Olivier de Benoist est l'invité de Guillaume Pot",
+      "date": "2023-01-06"
+    },
+    {
+      "titre": "Anthony Kavanagh est l'invité de Guillaume Pot",
+      "date": "2022-06-09"
+    },
+    {
+      "titre": "Bernard Mabille",
+      "date": "2022-05-03"
+    },
+    {
+      "titre": "Jean-Luc Lemoine",
+      "date": "2022-04-27"
+    }
+  ],
+  "derniere_activite": "2023-10-13",
+  "frequence_jours": 35
 }

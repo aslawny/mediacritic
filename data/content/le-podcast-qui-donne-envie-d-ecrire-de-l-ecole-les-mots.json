@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-01-31",
-  "frequence_jours": 72
+  "frequence_jours": 72,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Allez les verts !",
+        "titre": "Merci",
+        "texte": "Je ne sais plus comment j’ai découvert ce post c’est mais moi qui écris depuis longtemps pour la jeunesse, seule en ce moment, et dans l’écriture d’un roman qui s’avère de plus en plus difficile à écrire, j’écoute ces écrivains qui comme moi parfois peinent et parfois trouvent un…"
+      },
+      {
+        "note": 3,
+        "auteur": "jackbyJ8",
+        "titre": "Marie Robert",
+        "texte": "Podcast réussi Fan inconditionnelle de Marie Robert Qui ne peut pas tomber follement amoureux de la philo après lire ses publications !"
+      },
+      {
+        "note": 5,
+        "auteur": "Gouv´",
+        "titre": "Un formidable compagnon d’écriture",
+        "texte": "Je me suis lancé il y a quelques semaines dans l’écriture de mon premier texte long. Et j’ai découvert Assez parlé quelques jours plus tard. Depuis, j’écoute un épisode chaque jour ou presque.…"
+      }
+    ]
+  }
 }

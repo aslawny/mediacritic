@@ -47,5 +47,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Lossa - New Era #4",
+      "date": "2026-09-17"
+    },
+    {
+      "titre": "Lossa - New Era #3",
+      "date": "2026-09-16"
+    },
+    {
+      "titre": "Lossa - New Era #2",
+      "date": "2026-09-15"
+    },
+    {
+      "titre": "Lossa - New Era #1",
+      "date": "2026-09-14"
+    },
+    {
+      "titre": "Brulux - Le Nine #5",
+      "date": "2026-09-11"
+    }
+  ],
+  "derniere_activite": "2026-09-17",
+  "frequence_jours": 1
 }

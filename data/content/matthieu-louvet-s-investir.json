@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-10",
-  "frequence_jours": 4
+  "frequence_jours": 4,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Vince dit GY",
+        "titre": "Analyses complètes et précises",
+        "texte": "Merci pour les analyses (Assurances vie, PER) et comparatifs de frais et de supports disponibles au sein de ces enveloppes."
+      },
+      {
+        "note": 5,
+        "auteur": "mclrns",
+        "titre": "Le meilleur podcast d’investisseurs en France",
+        "texte": "J’adore Matthieu, toujours aussi rationnel après toutes ces années : investir en DCA sur un ETF diversifié !"
+      },
+      {
+        "note": 5,
+        "auteur": "Money Tree Podcast",
+        "titre": "J'apprends plein de choses !",
+        "texte": "Podcast très instructif sur le monde de l'investissement en bourse. Merci Matthieu !"
+      }
+    ]
+  }
 }

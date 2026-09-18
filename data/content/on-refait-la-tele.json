@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-07-10",
-  "frequence_jours": 5
+  "frequence_jours": 5,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "eric lille",
+        "titre": "Merci à vous !",
+        "texte": "Quel bon moment à chaque émission ! Merci particulièrement à Jade … Princesse Jade … que je suis depuis Arthur et les Pirates ! Elle a le soleil dans la voix ! Bises à vous 2 ! Amitiés à RTL. Éric SCHRAEN"
+      },
+      {
+        "note": 1,
+        "auteur": "Joey860000",
+        "titre": "Aucun respect pour la quotidienne !",
+        "texte": "Cela faisait déjà un moment elles épisodes de la quotidienne étaient coupés avant la fin. Et bien maintenant c’est encore pire ! On a que 30s !!!! Le début est coupé et la fin aussi. On a seulement un bout de phrase c’est incompréhensible et irrespectueux !"
+      },
+      {
+        "note": 4,
+        "auteur": "Domipk31",
+        "titre": "Quel dommage !",
+        "texte": "Deux émissions différentes rassemblées dans ce podcast, l’hebdomadaire que j’adore, toujours originale et drôle, où les invités dévoilent des aspects inconnus de leur personnalité.…"
+      }
+    ]
+  }
 }

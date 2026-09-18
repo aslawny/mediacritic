@@ -50,5 +50,29 @@
         "texte": "Bonjour, les bouteilles de cristalline des yo mec sont des mélanges, alcool + soft"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "S6E13 : Cet épisode est sponsorisé par la Ritaline",
+      "date": "2026-09-16"
+    },
+    {
+      "titre": "S6E12 : Plutôt Call Center #1",
+      "date": "2026-08-19"
+    },
+    {
+      "titre": "S6E11 : Canicules, rats et joutes médiévales",
+      "date": "2026-08-09"
+    },
+    {
+      "titre": "S6E10 : Petit-déjum au Puy du fou et bien se tenir en concerts",
+      "date": "2026-07-02"
+    },
+    {
+      "titre": "S6E09 : The Chiant Episode",
+      "date": "2026-06-02"
+    }
+  ],
+  "derniere_activite": "2026-09-16",
+  "frequence_jours": 24
 }

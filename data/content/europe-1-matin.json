@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-02",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Boulahya",
+        "titre": "Une matinale info rythmée, détendue et accessible",
+        "texte": "Coup de cœur pour la matinale de Nikos Aliagas sur Europe1 : accompagné de Céline, il mène ces « deux heures d’info » avec humilité, respect et humanité. Depuis fin août, il a déjà réussi à tisser un lien très fort avec l’auditeur.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Bonetcha*",
+        "titre": "Une honte !",
+        "texte": "Canal + est mort . Europe 1 défiguré ! Rendez nous Matthieu Belliard ! NUL NUL ET RENUL!"
+      },
+      {
+        "note": 5,
+        "auteur": "eric lille",
+        "titre": "Merci Nikos",
+        "texte": "Très émouvante cette dernière. Il faut laisser du temps pour que les auditeurs prennent leurs habitudes. La direction d Europe1 fatigue tout le monde avec ces changements perpétuels ! Merci Nikos. Merci à toute votre équipe ! Moi je trouvais que tout était super …"
+      }
+    ]
+  }
 }

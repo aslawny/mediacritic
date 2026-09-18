@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2026-09-05",
-  "frequence_jours": 4
+  "frequence_jours": 4,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Maximino7",
+        "titre": "Excellent podcast",
+        "texte": "Merci Marie-France pour votre podcast toujours passionnant et enrichissant. Vos invités sont toujours choisis pour leurs très bonnes connaissances du sujet débattu. Je recommande ce podcast à toutes les personnes qui s’intéressent à la géo politique"
+      },
+      {
+        "note": 1,
+        "auteur": "autofocus1",
+        "titre": "Souvent intéressant mais la musique!!!",
+        "texte": "8 minutes de musique SANS AUCUN INTÉRÊT par émission??? Pourquoi pas des archives audio sur le sujet de l’émission? Quand la fainéantise règne !"
+      },
+      {
+        "note": 5,
+        "auteur": "D’où-l’on-ne-revient-pas",
+        "titre": "Excellents débats",
+        "texte": "Une excellente émission de débats ! Je dois à la vérité de reconnaître que c’est l’une des meilleures émissions de débats : la plupart des autres sont d’un ennui mortel !"
+      }
+    ]
+  }
 }

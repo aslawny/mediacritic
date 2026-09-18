@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-07-24",
-  "frequence_jours": 15
+  "frequence_jours": 15,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pepitowi",
+        "titre": "Note et commentaires",
+        "texte": "Bonjours les Singes Pourpre excusez moi de mon Orthographe, je tien a dire que je vous connais depuis très longtemp maintenant Trash , Iconoblast , Iconoclaste etc , et j’ai découvert en voulant écouter des Podcast que vous fesier des Podcast pour la chaine singe pourpre , je tro…"
+      },
+      {
+        "note": 5,
+        "auteur": "Slash_Tao",
+        "titre": "Le podcast JV qui fait du bien",
+        "texte": "4 personnes autour d’une table, c’est presque comme si on rejoignait une table de copains pour les écouter discuter, c’est presque une émission de radio… sans la station de radio. Le son est bon, les voix sont claires, et les sujets, intéressants.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Xavi_.",
+        "titre": "Woaw",
+        "texte": "Singe pourpre podcast c’est le seul podcast Actugaming qui réussi à me faire rire quand je l’écoute dans les transports en commun. L’ambiance générale fait qu’on a la possibilité de se sentir intégrer dans le podcast avec eux.…"
+      }
+    ]
+  }
 }

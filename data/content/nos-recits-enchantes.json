@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-04-16",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Oum_Adam773",
+        "titre": "Voyage merveilleux",
+        "texte": "As salam aleykoum, ce podcast est vraiment une pépite. Mes enfants sont émerveillés à chaque épisode. Baaraka Allahu fiki ma chère soeur pour ton travail. Qu’Allav azwajel te préserve ainsi que tes enfants et fasse prospérer ce podcast! Amin"
+      },
+      {
+        "note": 1,
+        "auteur": "Brotherschool",
+        "titre": "Génial",
+        "texte": "Mes fils qui sont amoureux des histoires et particulièrement des prophètes sont attentifs à chaque balade en voiture et avant de dormir. Plus de détails que dans les livres pour enfants. Plus créatif allahumma barek. Ils en redemandent. Barakallahû fiki pour ce travail de qualité"
+      },
+      {
+        "note": 5,
+        "auteur": "SarahOumAlia",
+        "titre": "À ne pas louper",
+        "texte": "Format bien adapté pour les enfants, même nous les adultes on se laisse emporter. Mention spéciale pour la version en anglais qui vient de sortir on ressent la passion de la conteuse et son investissement. Bravo"
+      }
+    ]
+  }
 }

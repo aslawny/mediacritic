@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-01-30",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Hass Rag",
+        "titre": "👍👍👍",
+        "texte": "C’est Gims qui écrit. Bien sûr, c’est une blague. 🙃 C’était trop cool, Gims est trop sympa, franchement si c’était fréquence tous les jours, j’aurais adoré ! Gims, continue tes musiques, j’adore."
+      },
+      {
+        "note": 5,
+        "auteur": "le jeux ne fait que raler",
+        "titre": "Ses Ma",
+        "texte": "Hôtel maison et chambre spacieuse et chambre très bien située à côté du petit déjeuner le gérant de chambre"
+      },
+      {
+        "note": 5,
+        "auteur": "Youpi 🙌",
+        "titre": "Gims",
+        "texte": "Sa mets de l’ambiance ses trop bien Merci beaucoup 😊 Gims et l’un de mes chanteur préféré ❤️"
+      }
+    ]
+  }
 }

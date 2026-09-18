@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-10",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "0sab",
+        "titre": "Popopo !!! LE podcast de la pop 👏🏼👏🏼👏🏼",
+        "texte": "Bravo Thibault…et merci de revenir après qq mois d’absence : on a presque eu peur 😅 L’épisode sur Miley est top : ton analyse est très juste, j’aurais juste rajouter un commentaire sur sa voix qui est quand même dingue - sa reprise de Zombie était magistrate.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Nali8888",
+        "titre": "Du vide",
+        "texte": "Il y a plein de podcasts avec beaucoup plus de contenu, ici c’est du j’aime , j’aime pas sans explications claires."
+      },
+      {
+        "note": 5,
+        "auteur": "callmedondz",
+        "titre": "Un contenu qualitatif",
+        "texte": "Un podcast très réussi permettant d'apprendre des choses sur l'industrie musicale. Thibaud a un ton de voix rendant les écoutes très agréables. Chaque épisode est bien rythmé.…"
+      }
+    ]
+  }
 }

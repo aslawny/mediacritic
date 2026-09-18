@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-08-31",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Auré Alvs",
+        "titre": "Un regard éclairé sur La Défense",
+        "texte": "Ce podcast offre une plongée claire et structurée dans les thématiques de défense et de sécurité. Les sujets abordés sont variés, pertinents et bien documentés, avec des invités qui apportent une vraie valeur ajoutée.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Aurélie Delisle",
+        "titre": "A mettre dans ses favoris !",
+        "texte": "Une émission audio unique qui nous ouvre les portes du milieu méconnu de la Défense et de la Sécurité. Petit clin d’oeil pour l’épisode #4 Profession Espion qui est passionnant et le petit dernier #20 sur la Cyberdéfense. Un podcast à suivre!"
+      },
+      {
+        "note": 5,
+        "auteur": "Guy.leroy",
+        "titre": "Un podcast original",
+        "texte": "Les intervenants sont variés et passionnants. Ils nous permettent de découvrir le monde de la défense, de l’intérieur. Les sujets abordés sont très divers et surprenants. C’est un plaisir de découvrir chaque semaine une nouvelle interview !"
+      }
+    ]
+  }
 }

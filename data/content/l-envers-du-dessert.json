@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2023-03-10",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "macaronsucresale",
+        "titre": "Quel super podcast",
+        "texte": "Whaouuu je viens de vous découvrir et je suis fan Moi qui suis une grande gourmande, une fan de pâtisserie je me régale à vous écouter, j’apprends et surtout ça me donne des idées des adresses à (re)decouvrir Merci merci et bravo pour votre super travail Pleins de belles choses à…"
+      },
+      {
+        "note": 5,
+        "auteur": "lootte975",
+        "titre": "Un podcast qu’on dévore",
+        "texte": "Un podcast qu’on dévore, des échanges pertinents, naturels et surtout de très belles rencontres auditives grâce à Clémence et Vincent. On apprend beaucoup de nouvelles choses et pour ça, j’ai toujours hâte du prochain épisode.…"
+      },
+      {
+        "note": 5,
+        "auteur": "badxgalnini",
+        "titre": "Une belle découverte !",
+        "texte": "Moi qui n’y connaissais rien au monde professionnel de la pâtisserie, j’ai appris beaucoup de choses, sur l’organisation dans les laboratoires, le processus de création... et surtout c’est trop bien de découvrir les personnalités des pâtissiers ! Et leurs sujets de réflexion …"
+      }
+    ]
+  }
 }

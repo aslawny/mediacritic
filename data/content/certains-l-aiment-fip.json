@@ -25,5 +25,31 @@
     "series"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Torr Penn",
+        "titre": "⭐️⭐️⭐️⭐️⭐️",
+        "texte": "Excellente émission, merci aux fipettes pour leurs doux timbre de voix et la très bonne qualité des émissions : pleins de découvertes culturelles, voyage auditif garanti 🤩"
+      },
+      {
+        "note": 5,
+        "auteur": "Coolups",
+        "titre": "2h de voyage muscinécal",
+        "texte": "Superbe émission. Soit je connais le thème et j'adore la richesse (et l'originalité) du parcours soit je découvre le sujet et je me laisse porter par le récit. Merci fip!"
+      },
+      {
+        "note": 5,
+        "auteur": "CélineNo",
+        "titre": "Rdv immanquable",
+        "texte": "Un rendez-vous du dimanche que je ne manquerai pour rien au monde! J’y fais toujours de belles découvertes. Bravo pour votre travail! Heureusement que vous êtes là FIP !"
+      }
+    ]
+  }
 }

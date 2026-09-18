@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-06-15",
-  "frequence_jours": 70
+  "frequence_jours": 70,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Nicolas Williart",
+        "titre": "Passionnant, tout simplement.",
+        "texte": "Dam’ est un musicien talentueux qui en connait un bout sur la théorie et, comme il est pédagogue et ouvert d’esprit, il vous fera découvrir un nombre incalculable d’artistes via Ecoute Ca mais, en plus, il vous expliquera de façon compréhensible en quoi ils peuvent être intéressa…"
+      },
+      {
+        "note": 5,
+        "auteur": "Moi91600",
+        "titre": "Concept unique en France",
+        "texte": "L’idée de base ést réellement intéressante car c’est le seul podcast musical français à proposer de l’analyse de théorie et de techniques musicales.…"
+      },
+      {
+        "note": 5,
+        "auteur": "le podcast de dany",
+        "titre": "la quintessence du podcast indé",
+        "texte": "vous aimez aller au fond des choses sans pour autant porter un scaphandre? vous vibrez grâce à la musique mais sans jamais vous être demandé(e) pourquoi? Dam et Tom travaillent très dur, à l'aide de leur connaissances et de grosses recherches, à décrypter tous les genres de morce…"
+      }
+    ]
+  }
 }

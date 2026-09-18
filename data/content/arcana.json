@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-28",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Elen Síla",
+        "titre": "Un excellent travail",
+        "texte": "Chaque émission est un condensé de savoir, d’une grande richesse. Le travail et la rigueur de Ludovic sont impressionnants. C’est toujours extrêmement intéressant, et il sait préserver l’équilibre entre connaissances et croyances.…"
+      },
+      {
+        "note": 2,
+        "auteur": "FraKOne",
+        "titre": "Interessant",
+        "texte": "Mais certains épisodes sont inaudibles, Rennes le château par exemple, dommage."
+      },
+      {
+        "note": 5,
+        "auteur": "Lola.OB",
+        "titre": "J’adore",
+        "texte": "j’ai écouté l’épisode sur Lilith, c’est très riche d’informations c’est exactement ce que je cherchais comme podcast ! Merci pour ton travail et hâte d’écouter les autres épisodes :)"
+      }
+    ]
+  }
 }

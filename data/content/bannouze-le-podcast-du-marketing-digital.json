@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2025-11-12",
-  "frequence_jours": 15
+  "frequence_jours": 15,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Menek1982",
+        "titre": "Super découverte",
+        "texte": "Les invités sont des pointures dans le domaine du numérique et passionnés par leur métier. A l’issue de l’interview, on ressort avec une idée claire des enjeux et opportunités dans les métiers du numérique. Une bonne façon de s’informer quand on veut rejoindre ce secteur.…"
+      },
+      {
+        "note": 5,
+        "auteur": "DEBOCHOU",
+        "titre": "Podcast à écouter pour toutes et pour tous !",
+        "texte": "Ce podcast que j'ai découvert sur LinkedIn est tout simplement passionnant et très précis sur les sujets qu'il aborde liés au marketing digital, encore plus en ce moment …"
+      },
+      {
+        "note": 5,
+        "auteur": "LaureneLP",
+        "titre": "Super interlocuteurs avec une vraie expertise",
+        "texte": "Ce podcast est génial, continuez !! Tous vos interlocuteurs ont une vraie expertise et c’est hyper interessant d’avoir leurs points de vue ou de nous éclairer sur les nouvelles tendances ; en plus vos questions sont pertinentes donc resultat: super échange constructif !"
+      }
+    ]
+  }
 }

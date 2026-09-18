@@ -24,5 +24,31 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Jerome de Nice",
+        "titre": "Un excellent choix",
+        "texte": "Des chroniques bien enlevées, des personnages multiples, des accents drôles. Y’a plus qu’à foncer l’écouter !"
+      },
+      {
+        "note": 1,
+        "auteur": "Pistache82",
+        "titre": "Dommage !!",
+        "texte": "De moins en moins drôle, de plus en plus vulgaire. Je vais m’arrêter là."
+      },
+      {
+        "note": 5,
+        "auteur": "Mat6:",
+        "titre": "Trop rigolo",
+        "texte": "Il fait de très bonne chroniques ,c’est très drôle. Il est très fort pour nous faire rire"
+      }
+    ]
+  }
 }

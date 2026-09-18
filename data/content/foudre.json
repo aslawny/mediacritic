@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-07-05",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ké'é",
+        "titre": "Whaouaxxx !!!",
+        "texte": "Merci Waxx pour tes partages parfois délicieux, parfois envoûtants, parfois joyeux, parfois étonnants…Avec un point commun pour chaque émission : toi et ta guitare mettez en valeur chaque invité de façon douce et généreuse à la fois.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Tomtofm",
+        "titre": "Pari tenu !",
+        "texte": "Bravo à toi (et l’équipe?) pour ces émissions ! Ce dialogue dans une ambiance intimiste permet de mieux percevoir la personnalité des invité/e/s.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Lkoubiac",
+        "titre": "Du son, de l’écoute et du partage",
+        "texte": "Quel plaisir d’écouter , le Waxx dans sa propre émission. Un plaisir à surtout partagé!!!Que l’on apprécie ou pas l’invitée, on est forcé, influencé pour passer un bon moment. Superbe première"
+      }
+    ]
+  }
 }

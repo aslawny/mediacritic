@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-06-05",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "mikinguyen2903",
+        "titre": "Avis",
+        "texte": "J’aime beaucoup votre émission. Pourriez-vous mettre une transcription des épisodes comme avant, svp? Ça va m’aider à améliorer mon niveau en français à l'écrit et à l’écoute."
+      },
+      {
+        "note": 1,
+        "auteur": "Kazero",
+        "titre": "Vulgarisation pour les enfants",
+        "texte": "Très bien jusqu’à ce que l’intervenant soit remplacé : depuis c’est tellement basique que s’en est devenu sans intérêt. On comprend facilement que ce nouvel intervenant est plus un professionnel du podcasting que de l’économie. C’est regrettable..."
+      },
+      {
+        "note": 2,
+        "auteur": "Chaval75",
+        "titre": "Pub avant le podcast",
+        "texte": "Chaque podcast contient un pub de près de 30 secondes au début. C’est très ennuyeux, surtout quand on est abonné à plusieurs podcasts « choses à savoir » où on a l’impression d’avoir plus de pubs que de contenus. Dommage."
+      }
+    ]
+  }
 }

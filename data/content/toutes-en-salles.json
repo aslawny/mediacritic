@@ -27,5 +27,31 @@
     "endurance"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Soleilaaaa",
+        "titre": "HEY LADIES c’est par ici que tout se passe",
+        "texte": "Un podcast pr les filles mais pas seulement . !!! Je vois une nouvelle génération , prête à s’affirmer , INCROYABLE . Merci pour ces interviews , pour ces paroles authentiques , des questions bien réfléchies et sensibles . Sortez nous aussi un film pour nous faire rêver"
+      },
+      {
+        "note": 5,
+        "auteur": "leonardlerenardeau",
+        "titre": "Génial initiative",
+        "texte": "Un podcast bien qualitatif, qui en apprend aux petits gars comme moi des choses essentiels. Parce que pour faire évoluer les mentalités, faire savoir que les meufs sont aussi fortes ( voir plus ), c’est super important."
+      },
+      {
+        "note": 5,
+        "auteur": "Ja.imp",
+        "titre": "Génial",
+        "texte": "Merci pour ce podcast de qualité. Je suis tous vos podcasts et c’est la thématique qu’il manquait ! J’attends les prochains épisodes avec impatience."
+      }
+    ]
+  }
 }

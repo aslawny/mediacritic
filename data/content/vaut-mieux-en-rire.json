@@ -26,5 +26,31 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "KevinKLM",
+        "titre": "Du rire, du rire, du rire !",
+        "texte": "Du pure génie ! J'ai hâte chaque début de semaine pour écouter l'émission du week-end. Si je suis pas très bien moralement, suffit de quelques minutes d'écoutes pour que tout ailles mieux. Super équipe où même les nouveaux arrivés sont parfait. Longue vie à VMER !"
+      },
+      {
+        "note": 3,
+        "auteur": "RoueArrière",
+        "titre": "Rire insuportable",
+        "texte": "Quelqu’un dans l’équipe a une rire qui semble surjoué c’est assez insupportable."
+      },
+      {
+        "note": 5,
+        "auteur": "tityoh75",
+        "titre": "LE podcast à écouter",
+        "texte": "J’ai decouvert ce podcast grace a une vidéo Tiktok l’année dernière et depuis j’attends avec impatience chaque samedi. Un humour comme j’aime et on y apprend aussi quelques petites anecdotes qui peuvent vous faire briller en société…ou pas 😅"
+      }
+    ]
+  }
 }

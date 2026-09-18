@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2026-09-08",
-  "frequence_jours": 17
+  "frequence_jours": 17,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Maï Kanté",
+        "titre": "Mille mercis et Bonne année 2025",
+        "texte": "Chère Nicole, merci pour votre sagesse et pour votre générosité. J’ai découvert votre podcast il y a de cela quelques mois et c’est un plaisir de vous écouter. J’espère du fond du cœur, avoir la possibilité de participer à une de vos retraites."
+      },
+      {
+        "note": 5,
+        "auteur": "À.Popy",
+        "titre": "Merci",
+        "texte": "Merci Nicole. Vos séances me sont très précieuses. Je les ai découvertes récemment, elles m’aident beaucoup à progresser et à être plus indulgente envers moi même. Mille mercis"
+      },
+      {
+        "note": 5,
+        "auteur": "elio&sophie",
+        "titre": "Mélange parfait",
+        "texte": "Merci sincèrement pour ce beau podcast. Il est un mélange parfait entre philosophie, sagesse et méditation guidée. Quel bonheur. Vous êtes mon médicament le plus puissant."
+      }
+    ]
+  }
 }

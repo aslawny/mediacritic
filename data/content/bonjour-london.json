@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2022-11-05",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "DianeArt",
+        "titre": "Top pour une introduction à l’anglais et sa culture",
+        "texte": "On a découvert ce podscast pour préparer nos enfants (10, 8, 6 ans) à un voyage familial en Angleterre. L’histoire est très sympa, les personnages attachants, et on se plonge vraiment dans la vie britannique avec de nombreuses anecdotes.…"
+      },
+      {
+        "note": 2,
+        "auteur": "Olivia C.B",
+        "titre": "Bon podcast mais…",
+        "texte": "Bonjour, j’étais ravie de découvrir ce nouveau podcast que je trouvais de qualité et que je faisais écouter à mes enfants. Jusqu’à ce que j’arrive à l’épisode 10 où le podcast nous parle du mouvement LGBT. Quel dommage que l’on veuille biberonner sans arrêt nos enfants au LGBT.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Fred et Marius",
+        "titre": "On adore vous adore!!! ❤️❤️❤️",
+        "texte": "On adore « Bonjour London » et les aventures de Summer! Elles nous suivent partout, en voiture, au restaurant, à la maison… On ne peut plus s’en passer! Bravo pour ce nouveau volet, on était déjà fans de « conte moi l’aventure » On a déjà appris appris beaucoup de choses en s’amu…"
+      }
+    ]
+  }
 }

@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-31",
-  "frequence_jours": 2
+  "frequence_jours": 2,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "SPingen",
+        "titre": "Exceptionnel",
+        "texte": "Un podcast qui donne plein d’énergie et l’envie d’entreprendre. Julien interagit avec des invités inspirants, de grandes qualités, qui nous apportent à chaque épisode, une nouvelle façon d’appréhender leurs marchés.…"
+      },
+      {
+        "note": 2,
+        "auteur": "ChrisXTerry",
+        "titre": "Audio horrible",
+        "texte": "Le contenu est intéressant mais la qualité de l’audio est horrible. Trop faible, différence de volume et de qualité entre l’intervieweur et l’invité. Après 120 épisodes c’est vraiment dommage d’avoir cette qualité audio."
+      },
+      {
+        "note": 5,
+        "auteur": "Jeftours",
+        "titre": "A écouter et suivre !",
+        "texte": "Supers Podcats, autour de l’entreprenariat. Julien anime avec beaucoup d’intérêt humain et de bienveillance, en interviewant des Dirigeants qui se sont lancés. Chaque épisode recèle sa « perle » du comment t’as fait ! Je recommande vivement !"
+      }
+    ]
+  }
 }

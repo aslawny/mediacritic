@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-14",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "coeursakuradelanuit",
+        "titre": "J’ai une question !",
+        "texte": "Tout d’abord... J’ADORE !! Je recommande ce podcast génial qui m’apprend pleins de trucs ! Mais j’ai une ptite question... Qu’est que Netflix ? Tout le monde en parler mais qui l’a créé ? Quand ? Et Pourquoi? Et surtout Comment ? Merci !!"
+      },
+      {
+        "note": 1,
+        "auteur": "Mathildewng",
+        "titre": "Voix insupportable",
+        "texte": "Il faut absolument changer de narrateur, l’intonation qu’il prend gâche tout."
+      },
+      {
+        "note": 5,
+        "auteur": "pierrekiroule2012",
+        "titre": "Instructif et décalé",
+        "texte": "Très belle découverte que ce nouveau podcast. Les deux hosts sont clairs et funs. Les sujets traités sont passionnants."
+      }
+    ]
+  }
 }

@@ -27,5 +27,55 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Closquette",
+        "titre": "Littérature Décontractée 😎",
+        "texte": "Un grand MERCI pour ce podcast captivant, à la fois rythmé, enrichissant et tellement agréable à écouter ! Je viens tout juste de le découvrir et je prends un immense plaisir à me plonger dans vos épisodes de 2023/2024.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Zazharp",
+        "titre": "Des livres, des idées, du pep’s !",
+        "texte": "Plan Kube, c’est le podcast qui donne envie de lire ! Des échanges clairs, des recommandations hors des sentiers battus et une ambiance qui rend la découverte littéraire à la fois accessible et excitante.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Jeremyl6974",
+        "titre": "Un petit plaisir",
+        "texte": "Étant abonné à la box Kube, je prends un réel plaisir à écouter ce podcast, bien souvent en faisant le ménage… j’apprend, je découvre & partage un petit plaisir avec l’équipe Kube & leurs invités passionnants ! Merci pour tout ce que vous faites la team KUBE 🫶"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "La cosy fantasy : le nouveau cocon des lecteurs !",
+      "date": "2026-09-06"
+    },
+    {
+      "titre": "Comment un libraire prépare-t-il la rentrée littéraire ?",
+      "date": "2026-08-06"
+    },
+    {
+      "titre": "Et si on aimait la poésie sans le savoir ?",
+      "date": "2026-07-06"
+    },
+    {
+      "titre": "Agent littéraire : dans les coulisses du métier",
+      "date": "2026-06-06"
+    },
+    {
+      "titre": "Des livres qui changent la vie !",
+      "date": "2026-05-06"
+    }
+  ],
+  "derniere_activite": "2026-09-06",
+  "frequence_jours": 30
 }

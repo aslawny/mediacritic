@@ -27,5 +27,31 @@
     "running"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "mariecrounch",
+        "titre": "Merci",
+        "texte": "Ça donne la motivation +++ d’écouter toutes ces aventures, ces passionnés, ces conseils.... Je suis une petite joueuse à côté mais les sensations sont les mêmes en moi"
+      },
+      {
+        "note": 2,
+        "auteur": "A.m.a.n.d.i.n.e",
+        "titre": "Parité",
+        "texte": "Un super podcast et un super intervieweur ! Tellement dommage que la majorité écrasante des invités soit des hommes et que les seules femmes invitées le soit avec leurs compagnons ! On a besoin de représentations et de visibilité !"
+      },
+      {
+        "note": 5,
+        "auteur": "Vinoadicto",
+        "titre": "Podcast top sur le monde du trail",
+        "texte": "Une super émission avec un très bon rythme et des invités toujours plus passionnants et passionnés! Le plaisir de les écouter au calme ou en course ! Merci et bravo !"
+      }
+    ]
+  }
 }

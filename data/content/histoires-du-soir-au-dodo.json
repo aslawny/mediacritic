@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-02",
-  "frequence_jours": 2
+  "frequence_jours": 2,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Enfants 👦 ravis",
+        "titre": "Très bien",
+        "texte": "Je suis un enfant mais j’adore ce podcast car juste après je m’endors"
+      },
+      {
+        "note": 1,
+        "auteur": "ghbfjhgtvjbuf",
+        "titre": "😒👎",
+        "texte": "J’ai écouté et franchement c’est court et nulle… désolé c’est mon avis"
+      },
+      {
+        "note": 4,
+        "auteur": "Je vous adore 🏇🏼",
+        "titre": "1,2,3,4 ou 5 étoiles ???!!!…",
+        "texte": "Je ne sais pas si vous avez reçu mon message mais maintenant je vous mets 4 étoiles parce que j’aimerais qu’il y ait plus de podcast mais c’est bien quand même ⭐️🤷‍♀️👿🐎🥶🤸🏻‍♂️🐶🐰🐻‍❄️🐮🐵🐒🐤🐱🦊🐨🐷🙈🐔🐣🐭🐻🐯🐽🙉🐧🐥🐹🐼🦁🐸🙊🐦🪿🦆🦇🦄🐛🐜🦟🦂🐦‍⬛🐺🫎🦋🪰🦗🐢🦅🐗🐝🐌🪲🕷️🐍🦉🐴🪱🐞🪳🕸️🦎🦖🪼🐡🐳🐊🦍🦛🦕🦐🐠🐋🦧🦧🦏🐙🦞🐟🦈🐆🦣🐪🦑🦀🐬🦭🦓🐘🐫🐈🦒🐂🐖🐐🦮🪶🦤🦘🐄🐏🦌🐕‍🦺…"
+      }
+    ]
+  }
 }

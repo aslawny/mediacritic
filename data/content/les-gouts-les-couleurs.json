@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-08-04",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Le.H",
+        "titre": "Le bon, la brute, le génie!",
+        "texte": "C’est drôle, c’est bien fait ! Les mots sont posés. J’adore ce podcast qui est frais et intelligent. Du language utilisé que même les non-designer et non-marketer comprendraient.…"
+      },
+      {
+        "note": 1,
+        "auteur": "JoxOne150",
+        "titre": "Très médiocre",
+        "texte": "Des mecs qui discutent sans aucun argument. De la bonne vielle mayo sans saveur avec un vieux goût d’échalote roulé sous l’aisselle de Maïté."
+      },
+      {
+        "note": 5,
+        "auteur": "Brice Hello Bello",
+        "titre": "Le meilleur du genre une découverte Feelgood",
+        "texte": "Pour l’enquête j’ai le hook de l’icon Guggenheim - leur dernier post web c’est sur Robert Delaunay - et regardez les formes…Badaboum ! C’est subliminal mais ca saute aux yeux du coup on aime nan ?"
+      }
+    ]
+  }
 }

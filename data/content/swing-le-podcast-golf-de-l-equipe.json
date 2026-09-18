@@ -24,5 +24,31 @@
     "sport"
   ],
   "addedAt": "2026-05-24",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "How'S39",
+        "titre": "Super podcast, qualité pourrie !",
+        "texte": "Le contenu, les intervenants, les invités tout est parfait ! Mais une qualité d’écoute insupportable! Je suis obligé de zapper beaucoup d’émissions . Des bruits de micro horrible ! Écoutez les émissions avec des écouteurs !!!!"
+      },
+      {
+        "note": 1,
+        "auteur": "domjeu152",
+        "titre": "Jamais vous ne vous écoutez ?",
+        "texte": "Le son est horrible à chaque épisode…vraiment une cata….dommage car le contenu est bon"
+      },
+      {
+        "note": 5,
+        "auteur": "Yannhou",
+        "titre": "Merci pour les golfeurs",
+        "texte": "J'écoute ce podcast depuis le numéro 1. Enfin un vrai bon podcast animé par des passionnés connaisseurs....et le tout en français Môssieur !!😎 et surtout continuez de nous abreuver d'une fouletitube d'infos golfiques !!!⛳️🏌🏿"
+      }
+    ]
+  }
 }

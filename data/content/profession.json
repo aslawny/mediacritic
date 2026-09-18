@@ -26,5 +26,29 @@
     "cuisine"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "episodes_recents": [
+    {
+      "titre": "Profession : écrivain.e",
+      "date": "2019-12-19"
+    },
+    {
+      "titre": "Profession : agent artistique",
+      "date": "2019-12-19"
+    },
+    {
+      "titre": "Profession : réalisateur.rice",
+      "date": "2019-12-16"
+    },
+    {
+      "titre": "Profession : ministre",
+      "date": "2019-12-16"
+    },
+    {
+      "titre": "Profession : actrice",
+      "date": "2019-12-16"
+    }
+  ],
+  "derniere_activite": "2019-12-19",
+  "frequence_jours": 0
 }

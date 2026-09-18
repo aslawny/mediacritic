@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-10",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "TheoCptn",
+        "titre": "Briser les barrières",
+        "texte": "L’écoute des podcast m’a permis de rencontrer Antoine et Guillaume ainsi que toute la communauté du Mastermind des Vidéopreneurs. Investir dans ce programme de formation a été la meilleure décision prise dans ces trois dernières années.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Èric Lafargue",
+        "titre": "La formation que j’espérais 😃",
+        "texte": "Bonjour Guillaume, Antoine et Lucas. J’ai acheté deux formations qui ne m’ont pas apporté grand-chose. Et puis un jour, je suis tombé sur une de vos vidéos sur YouTube. J'ai décidé d'écouter vos podcasts, et plus le temps passait, plus je me disais que vous pourriez m’aider.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Marie from Toulouse",
+        "titre": "S’enrichir et partager",
+        "texte": "Ce podcast a été l’argument phare qui m’a poussée à intégrer le Mastermind des Videopreneurs. On y retrouve tous les outils nécessaires à une progression pro et perso, des témoignages sincères et authentiques et de belles leçons pour avancer.…"
+      }
+    ]
+  }
 }

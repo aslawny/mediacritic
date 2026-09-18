@@ -49,5 +49,19 @@
     }
   ],
   "derniere_activite": "2026-08-06",
-  "frequence_jours": 4
+  "frequence_jours": 4,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "JuSurfer",
+        "titre": "Simple et funky",
+        "texte": "Quelle claque et je clique toujours pour écouter ses interviews mêlant parcours, joie, rires et, forces Merci Mouloud pour avoir tous ces invité.es 1980 forever & ever"
+      }
+    ]
+  }
 }

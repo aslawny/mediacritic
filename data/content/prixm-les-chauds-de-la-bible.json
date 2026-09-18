@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Nuit étoilée, poésie et métaphysique : le Psaume 8",
+      "date": "2026-07-17"
+    },
+    {
+      "titre": "Le FC 12 Apôtres est-il un club de seconde zone ?",
+      "date": "2026-06-25"
+    },
+    {
+      "titre": "Pourquoi Jésus insulte-t-il une femme étrangère ?",
+      "date": "2026-06-18"
+    },
+    {
+      "titre": "Pourquoi dit-on « le Mur des Lamentations » ?",
+      "date": "2026-06-11"
+    },
+    {
+      "titre": "Moïse a-t-il vraiment séparé la Mer Rouge en deux ?",
+      "date": "2026-06-04"
+    }
+  ],
+  "derniere_activite": "2026-07-17",
+  "frequence_jours": 7
 }

@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-08",
-  "frequence_jours": 3
+  "frequence_jours": 3,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Supercatseyeq",
+        "titre": "Un vent de fraîcheur sur les podcasts « parentalité »",
+        "texte": "Enfin du vrai et bien rythmé ! J’étais assez lasse du bla-bla classique qu’on retrouve dans tous les podcasts sur la parentalité et les « c’est super intéressant ce que tu dis » quand un des deux intervenants enfonce des portes ouvertes 😅 bref là on rit bien, on passe un bon mome…"
+      },
+      {
+        "note": 1,
+        "auteur": "Mamaya183",
+        "titre": "Boring…",
+        "texte": "Aucun rythme, échange de banalités, voix horripilantes, pas drôle…une déception !!"
+      },
+      {
+        "note": 5,
+        "auteur": "Cams.Lec",
+        "titre": "La révélation du rire de l’année ! Vive les mamans imparfaites !",
+        "texte": "J’avais hésité à écouter car peur d’être déçue mais mon dieu quelle révélation !!! J’ai l’impression d’écouter une discussion avec mes copines ! Du coup on se retrouve pour écouter les podcasts et on se marre tellement et on partage nos propres anecdotes en même temps.…"
+      }
+    ]
+  }
 }

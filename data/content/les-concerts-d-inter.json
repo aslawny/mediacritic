@@ -24,5 +24,31 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "leyonnais",
+        "titre": "Concert manquant",
+        "texte": "Pourriez vous svp remettre le concert de B Biolay ? Je le trouve sur YouTube mais se connecter à ce site me donne des allergies... Merci"
+      },
+      {
+        "note": 1,
+        "auteur": "Toniettoniettoni",
+        "titre": "Concert Arthur h ????",
+        "texte": "Bonjour je ne trouve pas la rediffusion du concert de Arthur h , qui a été diffusé le 30 juillet à 21h je crois dans les concerts d’inter ! Merci pour votre retour"
+      },
+      {
+        "note": 5,
+        "auteur": "Vikale2",
+        "titre": "Concert Melody Gardot sur France Inter",
+        "texte": "Excellent Concert. Merci France Inter. Quand allons pouvoir le réécouter en podcast ? Merci pour votre réponse ."
+      }
+    ]
+  }
 }

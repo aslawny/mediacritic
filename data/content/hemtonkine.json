@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-05-11",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tomhkiné57",
+        "titre": "Excellent podcast",
+        "texte": "Hemrick est un passionné qui aime partager, échanger et transmettre notamment via ce podcast que je trouve extrêmement varié et passionnant. Le ton est décontracté tout en échangeant sérieusement avec des invités de qualité. Vivement les prochains épisodes!"
+      },
+      {
+        "note": 5,
+        "auteur": "bicouh",
+        "titre": "Hyper riche et intéressant",
+        "texte": "Merci Hemerick pour tes podcasts qui abordent des sujets autres que seulement kiné, c’est tellement enrichissant et finalement tu poses les mêmes questions que nous qui ne connaissons pas les disciplines/métiers de tes invités. Au top 👍🏻"
+      },
+      {
+        "note": 5,
+        "auteur": "NF007",
+        "titre": "Super podcast 👍",
+        "texte": "Merci pour tes podcasts qui comme tes vidéos Instagram et TSE, nous donnent toujours de bons conseils."
+      }
+    ]
+  }
 }

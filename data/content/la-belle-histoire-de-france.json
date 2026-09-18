@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2022-10-23",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Toda raba",
+        "titre": "Enfin des podcasts",
+        "texte": "Je me suis arrêté à vous écouter au moment de Louis 14 sur cnews . Je vous ai chercher partout … rien et la fortuitement . Je vous ai retrouvé sur ce podcast et tous les épisodes ! Je vous réécoute . Génial . 62 a écouter ! J’en ai pour 6 mois minimum ! Merci de les laisser .…"
+      },
+      {
+        "note": 5,
+        "auteur": "Yves THEREAU",
+        "titre": "Bravo",
+        "texte": "La « belle histoire de France » est très intéressante car elle aborde les événements historiques concomitamment. De plus, elle ne se satisfait pas des têtes couronnées, mais revient sur l’ensemble des événements populaires qui constituent notre histoire, aussi bien française qu’e…"
+      },
+      {
+        "note": 5,
+        "auteur": "Ericcecile280796",
+        "titre": "Génial",
+        "texte": "Quelle belle idée ! Vraiment top, un sincère plaisir de suivre la chronologie de l’histoire. À renouveller sur des thèmes à thématiques (les grandes batailles, les reines, les complots ect… ) bravissimo 👍"
+      }
+    ]
+  }
 }
