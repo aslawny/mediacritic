@@ -25,5 +25,29 @@
     "cuisine"
   ],
   "addedAt": "2026-07-19",
-  "updatedAt": "2026-07-19"
+  "updatedAt": "2026-07-19",
+  "episodes_recents": [
+    {
+      "titre": "24h avec un berger en Savoie, son job est fou !",
+      "date": "2026-08-27"
+    },
+    {
+      "titre": "Depuis qu’elle a gouté ça, elle ne peut plus s’en passer …",
+      "date": "2026-03-24"
+    },
+    {
+      "titre": "J’ai testé la Quesabirria : le tacos de birria version Quesadilla",
+      "date": "2026-02-20"
+    },
+    {
+      "titre": "On bo*t quoi avec la salade ?",
+      "date": "2026-02-16"
+    },
+    {
+      "titre": "J’ai testé la pizza au BBQ, le résultat est surprenant !",
+      "date": "2026-02-16"
+    }
+  ],
+  "derniere_activite": "2026-08-27",
+  "frequence_jours": 1
 }

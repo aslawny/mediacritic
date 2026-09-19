@@ -26,7 +26,7 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -52,5 +52,29 @@
         "texte": "Bah alors? Plus de nouvelles émissions? Quel dommage! Vos podcasts sont passionnants, cassent les idées reçues , et nous donne encore plus l’envie de voyager. Les conseils professionnels de l’équipe sont très enrichissants pour les voyageurs.…"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Où voyager actuellement ?",
+      "date": "2021-07-02"
+    },
+    {
+      "titre": "2020 : Les grands événements prétexte à des beaux voyages",
+      "date": "2020-01-16"
+    },
+    {
+      "titre": "Voyage à Cuba avec Radio Voyageurs",
+      "date": "2019-12-05"
+    },
+    {
+      "titre": "Avion et CO2, que faire ?",
+      "date": "2019-11-07"
+    },
+    {
+      "titre": "Comment réussir son voyage ?",
+      "date": "2019-07-17"
+    }
+  ],
+  "derniere_activite": "2021-07-02",
+  "frequence_jours": 34
 }

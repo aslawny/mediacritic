@@ -26,7 +26,7 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-12",
@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Comment traverser la tempête les yeux ouverts",
+      "date": "2026-09-19"
+    },
+    {
+      "titre": "Comment repenser la fidélité",
+      "date": "2026-06-25"
+    },
+    {
+      "titre": "Pourquoi dévorer des récits de femmes qui se vengent",
+      "date": "2026-05-26"
+    },
+    {
+      "titre": "Comment réparer la relation avec sa mère (si on en a envie)",
+      "date": "2026-05-13"
+    },
+    {
+      "titre": "Comment se battre grâce à de bonnes histoires",
+      "date": "2026-04-22"
+    }
+  ],
+  "derniere_activite": "2026-09-19",
+  "frequence_jours": 21
 }

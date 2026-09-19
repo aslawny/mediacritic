@@ -26,7 +26,7 @@
     "sciences",
     "vulgarisation"
   ],
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "episodes_recents": [
     {
       "titre": "Quelle écologie face aux catastrophes ? - Guillaume Carbou & Marie-Anne Verdier",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-03",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "jet6433",
+        "titre": "Inspirant & encourageant",
+        "texte": "La diversité des témoignages et des profils interrogés me rassurent sur le fait qu au delà de la nécessité d initier une refonte de nos modes de consommation, chacun peut s’y engager, et trouve sa voie dans des orientations qui ont du sens! Les cheminements personnels de chacun d…"
+      },
+      {
+        "note": 3,
+        "auteur": "LucasB76",
+        "titre": "Initiative salutaire et accessible (trop?)",
+        "texte": "Ozé est un formidable podcast. Il est un puits d’information très inspirante ! En écoutant le podcast sur la RSE, j’ai cependant senti comme un flottement concernant la question des obligations juridiques des entreprises.…"
+      },
+      {
+        "note": 5,
+        "auteur": "F_Pat",
+        "titre": "Bravo et merci!",
+        "texte": "Bravo Jean-Philippe pour l’initiative inspirante qu’est ce podcast, et merci pour le choix d’invités tous pertinents dans leur domaine et qui nous rassurent dans notre capacité à nous transformer! Un monde durable passe d’abord par l’information du plus grand nombre sur ce qui ne…"
+      }
+    ]
+  }
 }

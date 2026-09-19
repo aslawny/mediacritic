@@ -27,5 +27,29 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-19",
+  "episodes_recents": [
+    {
+      "titre": "Sur les routes du Canada — Dernier arrêt : le Grand Nord",
+      "date": "2020-01-24"
+    },
+    {
+      "titre": "Sur les routes du Canada — Dixième arrêt : Colombie-Britannique",
+      "date": "2020-01-23"
+    },
+    {
+      "titre": "Sur les routes du Canada — Neuvième arrêt : Alberta",
+      "date": "2020-01-22"
+    },
+    {
+      "titre": "Sur les routes du Canada — Huitième arrêt : Saskatchewan",
+      "date": "2020-01-21"
+    },
+    {
+      "titre": "Sur les routes du Canada — Septième arrêt : Manitoba",
+      "date": "2020-01-20"
+    }
+  ],
+  "derniere_activite": "2020-01-24",
+  "frequence_jours": 1
 }

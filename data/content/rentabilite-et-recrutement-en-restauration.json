@@ -25,5 +25,29 @@
     "cuisine"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-19",
+  "episodes_recents": [
+    {
+      "titre": "Les salariés prennent le pouvoir",
+      "date": "2024-12-30"
+    },
+    {
+      "titre": "Témoignage de restauratrice",
+      "date": "2024-05-14"
+    },
+    {
+      "titre": "Cabinet de recrutement en restauration",
+      "date": "2024-03-25"
+    },
+    {
+      "titre": "Solution alternative pour gérer un restaurant",
+      "date": "2023-12-23"
+    },
+    {
+      "titre": "Témoignage d'un restaurateur",
+      "date": "2023-05-13"
+    }
+  ],
+  "derniere_activite": "2024-12-30",
+  "frequence_jours": 27
 }

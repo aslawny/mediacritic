@@ -25,7 +25,7 @@
     "tech",
     "numérique"
   ],
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-17",
@@ -47,5 +47,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Une suite à Relife en vidéo ?",
+      "date": "2025-12-22"
+    },
+    {
+      "titre": "Le dernier épisode",
+      "date": "2023-12-03"
+    },
+    {
+      "titre": "Votre temps est infini : et si votre journée était plus longue que vous ne le pensiez ?",
+      "date": "2023-10-11"
+    },
+    {
+      "titre": "Comment alléger votre charge mentale ?",
+      "date": "2023-09-24"
+    },
+    {
+      "titre": "Comment nourrir la créativité ?",
+      "date": "2023-09-10"
+    }
+  ],
+  "derniere_activite": "2025-12-22",
+  "frequence_jours": 16
 }

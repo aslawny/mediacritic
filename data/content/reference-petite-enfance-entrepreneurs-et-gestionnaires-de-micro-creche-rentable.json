@@ -25,7 +25,7 @@
     "histoire"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -51,5 +51,29 @@
         "texte": "Que l’on soit professionnel de la petite enfance ou juste curieuse comme moi, ce podcast est une infiltration passionnée et passionnante dans les coulisses de celles auprès de qui nous confions nos Petits, les crèches.…"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Elle vend ses micro-crèches alors que tout allait bien",
+      "date": "2026-09-14"
+    },
+    {
+      "titre": "Stop aux places vides : 3 solutions concrètes pour votre micro-crèche",
+      "date": "2026-09-07"
+    },
+    {
+      "titre": "La petite enfance est-elle sacrifiée ? Éric Delemar répond",
+      "date": "2026-08-31"
+    },
+    {
+      "titre": "De 0 à 7 000 € par mois : comment je me suis rémunérée avec mes crèches - Crèche Rentale #4",
+      "date": "2026-08-27"
+    },
+    {
+      "titre": "Comment augmenter le chiffre d’affaires d’une micro-crèche - Crèche Rentable #3",
+      "date": "2026-08-26"
+    }
+  ],
+  "derniere_activite": "2026-09-14",
+  "frequence_jours": 7
 }

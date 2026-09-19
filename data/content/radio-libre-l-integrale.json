@@ -24,7 +24,7 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -50,5 +50,29 @@
         "texte": "La même recette depuis des décennies ! Ça fonctionne toujours car la liberté de ton est encore présente. Dans le respect, l’humour est toujours au rendez-vous avec des animateurs historiques et emblématiques de la plus grande (et dernière) vraie radio libre !"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Radio Libre de Difool Vendredi 18 Septembre 2026",
+      "date": "2026-09-18"
+    },
+    {
+      "titre": "Radio Libre de Difool Jeudi 17 Septembre 2026",
+      "date": "2026-09-17"
+    },
+    {
+      "titre": "Radio Libre de Difool Mecredi 17 Septembre 2026",
+      "date": "2026-09-16"
+    },
+    {
+      "titre": "Radio Libre de Difool Mardi 15 Septembre 2026",
+      "date": "2026-09-15"
+    },
+    {
+      "titre": "Radio LIbre de Difool Lundi 14 Septembre 2026",
+      "date": "2026-09-14"
+    }
+  ],
+  "derniere_activite": "2026-09-18",
+  "frequence_jours": 1
 }

@@ -27,7 +27,7 @@
     "societe"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -53,5 +53,29 @@
         "texte": "Bien sûr, en tant que Nantaise, un podcast qui met en avant des personnalités inspirantes à Nantes, ça me parle ! Mais il n’y a pas que les sujets.. le format, la voix posée d’Eleonore, ses questions.…"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "#72 CELINE CROSNIER (CEC) & JEAN VIDAL (Charier) – Entreprises et climat : comment transformer nos modèles fac",
+      "date": "2025-10-21"
+    },
+    {
+      "titre": "#71 HELENE MEILLARD. Qui est la créatrice de la marque de bijoux les Précieuses?",
+      "date": "2025-10-05"
+    },
+    {
+      "titre": "#70 BRUNO HUG DE LARAUZE : entre résilience, foi et audace entrepreneuriale",
+      "date": "2025-09-21"
+    },
+    {
+      "titre": "#69 JEAN ZANUTTINI, Néoline : révolutionner le cargo à la voile.",
+      "date": "2025-07-27"
+    },
+    {
+      "titre": "#68 LUCIE BASCH (Too good to go, Poppins). La reine du bon sens numérique",
+      "date": "2025-07-06"
+    }
+  ],
+  "derniere_activite": "2025-10-21",
+  "frequence_jours": 14
 }

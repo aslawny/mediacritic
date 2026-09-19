@@ -27,7 +27,7 @@
     "retro"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "episodes_recents": [
     {
       "titre": "S03E40 - Merci pour tout",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2025-07-02",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Max Dtz",
+        "titre": "Un excellent podcast",
+        "texte": "Écouter les Ouaisouaisouais est devenu une routine pour moi chaque semaine, comme quand on passe un moment entre amis à parler de tout et de rien, de parler du monde actuel, qui aussi terrible soit-il, paraît acceptable quand on le partage avec des gens qu’on apprécie …"
+      },
+      {
+        "note": 2,
+        "auteur": "AlexKOLO90",
+        "titre": "Bof",
+        "texte": "Sympa mais franchement bof. La plupart du temps ils ne savent pas de quoi ils parlent. C’est vraiment le dernier podcast que j’écoute quand je n’ai plus rien"
+      },
+      {
+        "note": 5,
+        "auteur": "Fab Trembl",
+        "titre": "Commentaire mais pas de sous ;)",
+        "texte": "J’ai découvert tout récemment votre podcast grâce à la pub faite par Akim Omiri après s’être fait roasté par Pierre à la Riposte… et depuis je dévore les épisodes les uns après les autres.…"
+      }
+    ]
+  }
 }

@@ -26,7 +26,7 @@
     "comedie"
   ],
   "addedAt": "2026-07-18",
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -52,5 +52,29 @@
         "texte": "Je découvre les podcasts de nouvelles/romans audio et celui-ci est très bien fait! Le son est excellent, c’est assez déroutant quand on l’écoute au casque/écouteurs. Et l’histoire est originale et rondement menée."
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Teaser",
+      "date": "2019-01-15"
+    },
+    {
+      "titre": "EP01 - Un coup du hasard",
+      "date": "2019-01-04"
+    },
+    {
+      "titre": "EP02 - Le serpent fait le buzz",
+      "date": "2019-01-04"
+    },
+    {
+      "titre": "EP03 - Les logisticiennes",
+      "date": "2019-01-04"
+    },
+    {
+      "titre": "EP04 - Venin et bonnes affaires",
+      "date": "2019-01-04"
+    }
+  ],
+  "derniere_activite": "2019-01-15",
+  "frequence_jours": 0
 }

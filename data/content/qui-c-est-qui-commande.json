@@ -23,7 +23,7 @@
     "education"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-16",
@@ -45,5 +45,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Épisode 6 : De quoi tu te plains ?",
+      "date": "2025-12-04"
+    },
+    {
+      "titre": "Épisode 5 : Va jouer dehors !",
+      "date": "2025-11-27"
+    },
+    {
+      "titre": "Épisode 4 : À quoi sert l’école ?",
+      "date": "2025-11-20"
+    },
+    {
+      "titre": "Épisode 3 - Les enfants peuvent-ils se défendre ?",
+      "date": "2025-11-13"
+    },
+    {
+      "titre": "Épisode 2 - C’est pour ton bien",
+      "date": "2025-11-06"
+    }
+  ],
+  "derniere_activite": "2025-12-04",
+  "frequence_jours": 6
 }

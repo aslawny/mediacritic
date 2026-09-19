@@ -27,7 +27,7 @@
     "famille"
   ],
   "addedAt": "2026-05-31",
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -53,5 +53,29 @@
         "texte": "Les enfants, (et les parents), se laissent porter et apprennent beaucoup de choses. En plus, les arrangements sonores ajoutent une dimension ludique qui a plu aux enfants. Maintenant, on va aller visiter le Panthéon et réécouter le podcast."
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "46 - Il était une fois l’école",
+      "date": "2026-08-29"
+    },
+    {
+      "titre": "45 - Les enceintes de Paris: sept remparts pour une capitale",
+      "date": "2026-08-01"
+    },
+    {
+      "titre": "[REDIFF] La Sainte-Chapelle: l'église aux mille vitraux",
+      "date": "2026-07-11"
+    },
+    {
+      "titre": "[REDIFF] Le Panthéon",
+      "date": "2026-06-23"
+    },
+    {
+      "titre": "[1 min à Paris] Le Pont-Neuf",
+      "date": "2026-06-20"
+    }
+  ],
+  "derniere_activite": "2026-08-29",
+  "frequence_jours": 13
 }

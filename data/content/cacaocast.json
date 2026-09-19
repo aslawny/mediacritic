@@ -26,7 +26,7 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "episodes_recents": [
     {
       "titre": "Episode 12 - Message pour Classdump, Readability, SnowStack, Developer Color Picker et Wrapper Obj-C pour SQLi",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2009-07-23",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "th0mER",
+        "titre": "LE podcast incontournable !",
+        "texte": "Un pur moment de plaisir que j’attends avec tellement d’impatience chaque mois ! C’est simple, j’ai découvert ce podcast il y a quelques mois et depuis je ne le lâche plus, je conseille à tous les développeurs francophones de venir découvrir nos deux Podcasteurs passionnés et pas…"
+      },
+      {
+        "note": 5,
+        "auteur": "ludovic.piot",
+        "titre": "Contre vents et tempêtes",
+        "texte": "Salut Philippe(s). J'écoute beaucoup de podcasts et je prends rarement le temps de laisser des commentaires. Mais quand j'ai entendu vos voix fatiguées de ce dernier épisode, enregistré malgré la tempête que vous avez subie, je me suis dit : un petit 5 étoiles participera à leur…"
+      },
+      {
+        "note": 5,
+        "auteur": "Koulaps",
+        "titre": "Unique et tellement génial",
+        "texte": "Je pensais avoir déjà commenté sur iTunes, mais j’en retrouve pas la trace. Podcast francophone que je suis depuis ses débuts et qui nous plonge dans l’actualité Apple et le développement MacOS/iOS.…"
+      }
+    ]
+  }
 }

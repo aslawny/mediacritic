@@ -25,7 +25,7 @@
     "international"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "episodes_recents": [
     {
       "titre": "S6 - Ep 6 - Honoré Diarassouba - Vernis Rouge - Faire de la mode made in Côte d'Ivoire un vrai business",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-17",
-  "frequence_jours": 36
+  "frequence_jours": 36,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "LilyN05",
+        "titre": "Le podcast qui m’a fait aimé les podcasts",
+        "texte": "Merci Malick et Audrey pour votre travail. Merci de nous faire découvrir de profils toujours plus inspirants et de nous permettre d’avoir un nouveau regard sur la vie et notre carrière. Un podcast à recommander à son entourage !"
+      },
+      {
+        "note": 5,
+        "auteur": "remadanidan",
+        "titre": "Excellent & Différent !",
+        "texte": "Malick & Audrey racontent sans filtre, sans détours et sans tabous les parcours même imparfaits de personnes devenues inspirantes auxquelles on peut tous et toutes s’identifier. Vivement recommandé !"
+      },
+      {
+        "note": 5,
+        "auteur": "l2k92",
+        "titre": "Everyone needs a mentor",
+        "texte": "Podcasts très riches en donnant accès à des informations sur les parcours scolaires et professionnels. Le mentoring nous permet d’être un privilégié et de se différencier au quotidien."
+      }
+    ]
+  }
 }

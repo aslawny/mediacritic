@@ -1,6 +1,6 @@
 {
-  "maj": "2026-09-18",
-  "total": 380,
+  "maj": "2026-09-19",
+  "total": 411,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -2282,6 +2282,192 @@
       "titre": "Musique émoi",
       "notes_apple": 93,
       "fiche": "fiches/musique-emoi.html"
+    },
+    {
+      "slug": "theatre",
+      "titre": "Théâtre",
+      "notes_apple": 93,
+      "fiche": "fiches/theatre.html"
+    },
+    {
+      "slug": "together-is-enough",
+      "titre": "TOGETHER IS ENOUGH !",
+      "notes_apple": 93,
+      "fiche": "fiches/together-is-enough.html"
+    },
+    {
+      "slug": "pifffcast-le-podcast-du-cinema-de-genre",
+      "titre": "PIFFFcast - Le podcast du cinéma de genre",
+      "notes_apple": 93,
+      "fiche": "fiches/pifffcast-le-podcast-du-cinema-de-genre.html"
+    },
+    {
+      "slug": "le-coran-pour-tous-en-120-chapitres",
+      "titre": "Le Coran Pour Tous en 120 Chapitres",
+      "notes_apple": 92,
+      "fiche": "fiches/le-coran-pour-tous-en-120-chapitres.html"
+    },
+    {
+      "slug": "et-si-on-parlait-francais",
+      "titre": "Et si on parlait français ?",
+      "notes_apple": 92,
+      "fiche": "fiches/et-si-on-parlait-francais.html"
+    },
+    {
+      "slug": "les-samourais-du-business",
+      "titre": "Les Samouraïs du Business",
+      "notes_apple": 92,
+      "fiche": "fiches/les-samourais-du-business.html"
+    },
+    {
+      "slug": "proteger-son-enfant-des-violences-sexuelles",
+      "titre": "Protéger son enfant des violences sexuelles",
+      "notes_apple": 92,
+      "fiche": "fiches/proteger-son-enfant-des-violences-sexuelles.html"
+    },
+    {
+      "slug": "proust-le-podcast",
+      "titre": "Proust, le podcast",
+      "notes_apple": 92,
+      "fiche": "fiches/proust-le-podcast.html"
+    },
+    {
+      "slug": "decopreneurs",
+      "titre": "Décopreneurs",
+      "notes_apple": 91,
+      "fiche": "fiches/decopreneurs.html"
+    },
+    {
+      "slug": "le-tilt-carriere-futur-du-travail-reconversion-professionnelle-burn-out-rh",
+      "titre": "Le Tilt – Carrière | Futur du travail | Reconversion professionnelle | Burn out | RH",
+      "notes_apple": 91,
+      "fiche": "fiches/le-tilt-carriere-futur-du-travail-reconversion-professionnelle-burn-out-rh.html"
+    },
+    {
+      "slug": "sigma",
+      "titre": "Sigma",
+      "notes_apple": 91,
+      "fiche": "fiches/sigma.html"
+    },
+    {
+      "slug": "memento-mori",
+      "titre": "Memento Mori",
+      "notes_apple": 90,
+      "fiche": "fiches/memento-mori.html"
+    },
+    {
+      "slug": "nova-le-soir",
+      "titre": "Nova le soir",
+      "notes_apple": 90,
+      "fiche": "fiches/nova-le-soir.html"
+    },
+    {
+      "slug": "back-to-the-funk-and-mix-live-on-club",
+      "titre": "BACK TO THE FUNK and MIX LIVE on CLUB",
+      "notes_apple": 89,
+      "fiche": "fiches/back-to-the-funk-and-mix-live-on-club.html"
+    },
+    {
+      "slug": "histoires-pour-dormir",
+      "titre": "HISTOIRES POUR DORMIR",
+      "notes_apple": 89,
+      "fiche": "fiches/histoires-pour-dormir.html"
+    },
+    {
+      "slug": "le-coin-pop",
+      "titre": "Le Coin Pop",
+      "notes_apple": 89,
+      "fiche": "fiches/le-coin-pop.html"
+    },
+    {
+      "slug": "menswear-family",
+      "titre": "Menswear Family",
+      "notes_apple": 89,
+      "fiche": "fiches/menswear-family.html"
+    },
+    {
+      "slug": "tawakul-mindset",
+      "titre": "TAWAKUL MINDSET",
+      "notes_apple": 89,
+      "fiche": "fiches/tawakul-mindset.html"
+    },
+    {
+      "slug": "cine-tempo",
+      "titre": "Ciné Tempo",
+      "notes_apple": 88,
+      "fiche": "fiches/cine-tempo.html"
+    },
+    {
+      "slug": "le-moyen-age-dans-tes-oreilles",
+      "titre": "Le Moyen-Âge dans tes Oreilles",
+      "notes_apple": 88,
+      "fiche": "fiches/le-moyen-age-dans-tes-oreilles.html"
+    },
+    {
+      "slug": "l-odyssee-de-marguerite",
+      "titre": "L'Odyssée de Marguerite",
+      "notes_apple": 87,
+      "fiche": "fiches/l-odyssee-de-marguerite.html"
+    },
+    {
+      "slug": "la-voix-des-bijoux",
+      "titre": "La Voix des Bijoux",
+      "notes_apple": 87,
+      "fiche": "fiches/la-voix-des-bijoux.html"
+    },
+    {
+      "slug": "popol",
+      "titre": "POPOL",
+      "notes_apple": 87,
+      "fiche": "fiches/popol.html"
+    },
+    {
+      "slug": "recoversion-le-podcast-des-meilleures-reprises",
+      "titre": "Recoversion, le Podcast des Meilleures Reprises",
+      "notes_apple": 87,
+      "fiche": "fiches/recoversion-le-podcast-des-meilleures-reprises.html"
+    },
+    {
+      "slug": "productiv-you",
+      "titre": "Productiv' You !",
+      "notes_apple": 87,
+      "fiche": "fiches/productiv-you.html"
+    },
+    {
+      "slug": "sos-super-maman",
+      "titre": "☎️ SOS SUPER MAMAN",
+      "notes_apple": 87,
+      "fiche": "fiches/sos-super-maman.html"
+    },
+    {
+      "slug": "stockholm-sardou-le-podcast-des-captifs-de-michel-sardou",
+      "titre": "Stockholm Sardou - Le podcast des captifs de Michel Sardou",
+      "notes_apple": 87,
+      "fiche": "fiches/stockholm-sardou-le-podcast-des-captifs-de-michel-sardou.html"
+    },
+    {
+      "slug": "super-vieux-jeux",
+      "titre": "Super Vieux Jeux",
+      "notes_apple": 87,
+      "fiche": "fiches/super-vieux-jeux.html"
+    },
+    {
+      "slug": "cine-crash",
+      "titre": "Ciné-crash",
+      "notes_apple": 86,
+      "fiche": "fiches/cine-crash.html"
+    },
+    {
+      "slug": "comedy-news-weekly",
+      "titre": "Comedy News Weekly",
+      "notes_apple": 86,
+      "fiche": "fiches/comedy-news-weekly.html"
+    },
+    {
+      "slug": "dj-mast-the-podcast",
+      "titre": "DJ MAST - THE PODCAST",
+      "notes_apple": 86,
+      "fiche": "fiches/dj-mast-the-podcast.html"
     }
   ]
 }

@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/dream-team-le-podcast-des-leaders-du-sport-business/id1486019852?uo=4",
       "trackId": 1486019852,
       "rating": 4.9,
-      "ratingCount": 87,
+      "ratingCount": 92,
       "episodeCount": 234
     }
   },
@@ -24,7 +24,7 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "episodes_recents": [
     {
       "titre": "🚨 FIFA en crise ? Les Girondins qui s’effondrent, le Dopage chez les jeunes qui explose : c'est l'épisode de r",
@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-08-29",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Rom-oz",
+        "titre": "Go Dream Team !!",
+        "texte": "Un podcast quali & original, qui permet de découvrir les coulisses du sport, mais également certains personnages sportifs de façon plus sincère. Le nouveau format « La ligue des futurs champions » est 👍👍 De la data, de l’analyse, des Kpi’s et du foot, what else?"
+      },
+      {
+        "note": 5,
+        "auteur": "Rodrigue00",
+        "titre": "Super podcast!",
+        "texte": "Super podcast qui traite de différents sujets autour de l’industrie du sport. C’est parfait pour ceux qui veulent mieux comprendre comment l’industrie est structuré mais aussi pour un public plus averti qui cherche à parfaire ses connaissances."
+      },
+      {
+        "note": 5,
+        "auteur": "hsm.a",
+        "titre": ".",
+        "texte": "Étudiant en management international du sport, je trouve ces podcasts très intéressants de part leur contenu et les intervenants. Ceci est très complémentaire à ma formation et permet d’élargir ses connaissances ! Je recommande 👍🏼"
+      }
+    ]
+  }
 }

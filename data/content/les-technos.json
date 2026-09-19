@@ -24,7 +24,7 @@
     "tech",
     "numérique"
   ],
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "episodes_recents": [
     {
       "titre": "#525 – IA, données, cybersécurité : les nouvelles menaces",
@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-08-31",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-09-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "CBC92",
+        "titre": "Rien ne leur échappe",
+        "texte": "Bonne équipe francophone qui grandit doucement toujours à l’affût de news tech et high-tech, ou parfois geekerie. Jamais je me suis ennuyé à les écouter. Chroniqueur sérieux et parfois léger. Ils se respectent et transparaissent leur humeur aussi. C’est vivant. J’adore.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Bêgnetsronds",
+        "titre": "Épisode avec Mr Weber",
+        "texte": "Bonjour, Je vous écoute en audio car cela me permet d’être beaucoup plus attentif, présent et imaginatif. J’ai particulièrement apprécié votre épisode avec Thierry Weber.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Cédric-",
+        "titre": "Super",
+        "texte": "Un bon podcast pour se tenir au courant de l'actualité. De plus, contrairement à d'autres émissions, les technos ne traitent pas uniquement de l'actualité \"mainstream\"; il y a régulièrement certains sujets - toujours en rapport avec la tech - mais qu'on ne retrouve pas nécessaire…"
+      }
+    ]
+  }
 }

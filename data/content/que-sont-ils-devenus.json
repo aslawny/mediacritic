@@ -23,7 +23,7 @@
     "education"
   ],
   "addedAt": "2026-08-26",
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-14",
@@ -45,5 +45,25 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Que sont-ils devenus ? (3/4) : Hélène",
+      "date": "2018-04-24"
+    },
+    {
+      "titre": "Que sont-ils devenus ? (4/4) : Assa",
+      "date": "2018-04-24"
+    },
+    {
+      "titre": "Que sont-ils devenus ? (1/4) : Abdelkader",
+      "date": "2018-04-19"
+    },
+    {
+      "titre": "Que sont-ils devenus ? (2/4) : Ange",
+      "date": "2018-04-19"
+    }
+  ],
+  "derniere_activite": "2018-04-24",
+  "frequence_jours": 0
 }

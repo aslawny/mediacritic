@@ -24,5 +24,31 @@
     "histoire"
   ],
   "addedAt": "2026-05-28",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-19",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Emmanuelleac",
+        "titre": "Juste full valeur 😍",
+        "texte": "Un podcast incroyable où Mathilde nous donne vraiment pleins de valeurs. Elle nous parle de ses expériences, du business mais elle nous permet aussi de mettre en application ses conseils ou aller plus loin dans la réflexion! Elle nous fait déculpabiliser et comprendre que ça pren…"
+      },
+      {
+        "note": 5,
+        "auteur": "Arianouuu",
+        "titre": "Mon podcast préféré",
+        "texte": "De très très très loin, mon podcast préféré ! Je rate pas un seul lundi depuis plusieurs mois, je les attend même ahaha ! et même si je suis pas cliente de Mathilde, j’ai senti que l’écouter assidûment m’avait aidé dans ma crea de contenu et aussi dans mes ventes, comme quoi le m…"
+      },
+      {
+        "note": 5,
+        "auteur": "Annitcka",
+        "titre": "Un contenu addictif !",
+        "texte": "Merci Mathilde pour cette transparence et pour cet authenticité ! Un contenu que je dévore à chaque moment de libre dans mes journées, clairement LE podcast qu’il me fallait et qui me ressemble …"
+      }
+    ]
+  }
 }

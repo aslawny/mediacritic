@@ -15,15 +15,15 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/quelle-histoire-pr%C3%A9sente/id1573207208?uo=4",
       "trackId": 1573207208,
-      "rating": 4.2,
-      "ratingCount": 2233,
+      "rating": 4.3,
+      "ratingCount": 2237,
       "episodeCount": 53
     },
     "youtube": {
       "url": "https://www.youtube.com/@quellehistoire_podcast",
       "channelId": "UCoejzfiaEjCusdpdX9W8jBQ",
       "subscribers": 159000,
-      "totalViews": 19016173,
+      "totalViews": 19030524,
       "videoCount": 134
     }
   },
@@ -37,5 +37,29 @@
     "enfants",
     "éducation"
   ],
-  "updatedAt": "2026-09-18"
+  "updatedAt": "2026-09-19",
+  "episodes_recents": [
+    {
+      "titre": "Les mythologies du monde #mythology #mythologies #myths #civilisations #history",
+      "date": "2026-08-24"
+    },
+    {
+      "titre": "Les mythologies du monde",
+      "date": "2026-08-24"
+    },
+    {
+      "titre": "Le monde vers 250 après J.-C.",
+      "date": "2026-07-24"
+    },
+    {
+      "titre": "3 trucs à savoir sur les dinosaures #dinosaurs #dinosaurus #dinosaures #histoire #history",
+      "date": "2026-07-24"
+    },
+    {
+      "titre": "Le monde au temps du Crétacé",
+      "date": "2026-07-24"
+    }
+  ],
+  "derniere_activite": "2026-08-24",
+  "frequence_jours": 0
 }

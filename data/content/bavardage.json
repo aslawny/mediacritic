@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/bavardage/id1798528934?uo=2",
       "trackId": 1798528934,
       "rating": 4.9,
-      "ratingCount": 91,
+      "ratingCount": 92,
       "episodeCount": null
     }
   },
@@ -25,7 +25,7 @@
     "societe"
   ],
   "addedAt": "2026-09-17",
-  "updatedAt": "2026-09-17",
+  "updatedAt": "2026-09-19",
   "episodes_recents": [
     {
       "titre": "Youssef Swatt’s : L’engagement dans la musique, ça coûte quoi ?",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-15",
-  "frequence_jours": 42
+  "frequence_jours": 42,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Httpkarim",
+        "titre": "Enfin un podcast à la hauteur de ses TikToks !",
+        "texte": "Je la suivais déjà sur TikTok, où ses vidéos de cinq minutes me captivaient à chaque fois — j’avais toujours ce petit goût de “trop court”, cette envie d’en écouter encore plus. Alors quand j’ai vu qu’elle lançait un podcast, j’ai foncé.…"
+      },
+      {
+        "note": 5,
+        "auteur": "/_£0",
+        "titre": "😩",
+        "texte": "Je suis pas quelqu’un qui écoute beaucoup de podcast donc c’est vrai que j’étais un peu réticent au niveau du format (je viens de tiktok btw) mais en me lançant je me suis rendu compte que c’était hyper accessible grâce à toi. Le 1er épisode 😩😩 Bref merci hein."
+      },
+      {
+        "note": 5,
+        "auteur": "Clara des bois from Paris",
+        "titre": "Éveil des consciences",
+        "texte": "Je te suis sur les réseaux depuis tes débuts. Tu as éveillé et élevé ma conscience. Merci pour ton travail si généreux 🥰"
+      }
+    ]
+  }
 }

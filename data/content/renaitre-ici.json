@@ -26,5 +26,29 @@
     "societe"
   ],
   "addedAt": "2026-07-27",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-19",
+  "episodes_recents": [
+    {
+      "titre": "Lyon, scène de lumières",
+      "date": "2021-12-06"
+    },
+    {
+      "titre": "Chambéry, ode aux flâneries",
+      "date": "2021-11-22"
+    },
+    {
+      "titre": "Annecy, la respiration créative",
+      "date": "2021-10-28"
+    },
+    {
+      "titre": "Grenoble, l'art du mouvement",
+      "date": "2021-10-08"
+    },
+    {
+      "titre": "Clermont-Ferrand, l’œil des volcans",
+      "date": "2021-10-04"
+    }
+  ],
+  "derniere_activite": "2021-12-06",
+  "frequence_jours": 7
 }

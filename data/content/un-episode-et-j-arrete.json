@@ -27,5 +27,31 @@
     "series"
   ],
   "addedAt": "2026-05-31",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-19",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Soomarine",
+        "titre": "Top , intelligent",
+        "texte": "Merci super podcast qui permet de voir plus clair dans les séries en passant un super moment !!! Juste un bemol, svp plus d’épisode 🙏🙏🙏"
+      },
+      {
+        "note": 1,
+        "auteur": "Garu gari",
+        "titre": "A quand le retour de l’ancienne formule?",
+        "texte": "Depuis la dernière saison, on s’ennuie ferme à l'écoute du podcast. N’est il pas envisageable de retourner à l’ancienne formule? Qui était beaucoup plus fun, elle nous invitait à découvrir les séries évoquées; là la magie c est évaporé."
+      },
+      {
+        "note": 5,
+        "auteur": "Mirmille",
+        "titre": "Épisode du seum - au top",
+        "texte": "Épisode où on n’arrête pas de se dire: oh non, mais en fait ouiii! Merci, j’ai passé un super moment lors de l’écoute"
+      }
+    ]
+  }
 }

@@ -27,7 +27,7 @@
     "societe"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -53,5 +53,29 @@
         "texte": "J’ai trouvé le premier épisode super intéressant, du coup, vous avez gagné une nouvelle abonnée :) Hâte d’écouter les nouvelles ITW !"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "277 - Les signes que cette personne n'est pas ton âme soeur",
+      "date": "2026-07-01"
+    },
+    {
+      "titre": "#276 - Tes réactions parlent de toi",
+      "date": "2026-06-03"
+    },
+    {
+      "titre": "Et si tu en savais trop sur l'amour ?",
+      "date": "2026-05-27"
+    },
+    {
+      "titre": "Tu n'es pas amoureuse de lui. Tu es amoureuse de qui il pourrait être.",
+      "date": "2026-05-20"
+    },
+    {
+      "titre": "Les évitants sont-ils méchants ?",
+      "date": "2026-05-06"
+    }
+  ],
+  "derniere_activite": "2026-07-01",
+  "frequence_jours": 13
 }

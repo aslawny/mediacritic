@@ -24,5 +24,31 @@
     "comedie"
   ],
   "addedAt": "2026-06-12",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-19",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "avis des Podcast sur note",
+        "titre": "Adore, l’humour, 😂🥲👀;_;",
+        "texte": "salut toute l’équipe, j’adore ce que vous faites, franchement je me tape des barres à chaque fois et chaque épisode que je vous écoute franchement c’est pas du tout ennuyeux j’adore adore Franchement les conversations entre vous et le thème de ce que vous parlez à chaque épisode…"
+      },
+      {
+        "note": 5,
+        "auteur": "Hier du fg c h",
+        "titre": "Suzie❤️💕🌺.",
+        "texte": "Je t’ai vue à la télé à Fort Boyar . Trop bien t’a géré avec ton équipe. J’adore😜😋❤️. Ciao 👋✌️"
+      },
+      {
+        "note": 5,
+        "auteur": "Didinement",
+        "titre": "Extra",
+        "texte": "Toujours drôle, souvent touchant et vraiment bien écrit!!! Un élite de 4 minutes"
+      }
+    ]
+  }
 }

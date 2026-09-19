@@ -23,7 +23,7 @@
     "rénovation",
     "DIY"
   ],
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -49,5 +49,29 @@
         "texte": "HTR c'est de la sincérité, de l'amitié, de l'humour, mais évidemment surtout du dépassement de soi, de la sueur, des grues et des moteurs !"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Arrêtés par la douane en Tunisie, la saleté en Inde, piloter un avion",
+      "date": "2026-08-05"
+    },
+    {
+      "titre": "Se faire tabasser dans le Bronx, traqué par le Mossad, donner 1000€ à un astronaute russe.",
+      "date": "2026-07-12"
+    },
+    {
+      "titre": "Major Gérald : Son plus grand regret, son record jamais battu, l'éducation des enfants",
+      "date": "2026-06-18"
+    },
+    {
+      "titre": "Henri Hihacks : Ses plus folles inventions, son inondation, ses prochains projets 👀",
+      "date": "2026-05-29"
+    },
+    {
+      "titre": "Dr Nozman : Il a plus de force que nous, sa transfo physique, l'évolution de Youtube",
+      "date": "2026-05-19"
+    }
+  ],
+  "derniere_activite": "2026-08-05",
+  "frequence_jours": 22
 }

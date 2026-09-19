@@ -24,7 +24,7 @@
     "business"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-12",
@@ -46,5 +46,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Mary Capelle, les conseils d'une naturopathe avisée, maman et super sympa",
+      "date": "2026-06-21"
+    },
+    {
+      "titre": "Mathieu Tordjman",
+      "date": "2026-05-31"
+    },
+    {
+      "titre": "Emilie Frèche",
+      "date": "2026-05-24"
+    },
+    {
+      "titre": "Conversations thérapeutiques avec Alix George - Thérapeute et hypnothérapeute",
+      "date": "2026-04-26"
+    },
+    {
+      "titre": "Florence Dauchez, présidente et fondatrice de Visible Média",
+      "date": "2024-06-18"
+    }
+  ],
+  "derniere_activite": "2026-06-21",
+  "frequence_jours": 24
 }

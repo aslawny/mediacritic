@@ -26,7 +26,7 @@
     "rénovation",
     "DIY"
   ],
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -52,5 +52,29 @@
         "texte": "Après des vidéos juste géniales, La radio représente vraiment la cerise sur le bichon !! Les sujets, les conseils sont aussi bons que votre boulot. De vrais pros au service du tout publique... on se sent bichonnés et soutenus dans nos aventures de bricolos.…"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "De la passion du métal à son propre atelier : l’histoire d’un métallier",
+      "date": "2026-09-10"
+    },
+    {
+      "titre": "Le sens du détail, la signature d'un artisan",
+      "date": "2026-07-24"
+    },
+    {
+      "titre": "Quel véhicule pour les artisans d'aujourd'hui ?",
+      "date": "2026-07-15"
+    },
+    {
+      "titre": "Artisan 2.0 : le numérique est-il devenu incontournable ?",
+      "date": "2026-07-02"
+    },
+    {
+      "titre": "Bien préparer son chantier",
+      "date": "2026-06-24"
+    }
+  ],
+  "derniere_activite": "2026-09-10",
+  "frequence_jours": 7
 }

@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/lhistoire-des-francs-et-des-m%C3%A9rovingiens/id1668675120?uo=4",
       "trackId": 1668675120,
       "rating": 4.9,
-      "ratingCount": 90,
+      "ratingCount": 91,
       "episodeCount": 142
     }
   },
@@ -25,7 +25,7 @@
   "tags": [
     "histoire"
   ],
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "episodes_recents": [
     {
       "titre": "S4E92 : Saison 4 la conclusion",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-07-13",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Andresine333",
+        "titre": "Bravo",
+        "texte": "J’ai beaucoup apprécié vous suivre ! votre approche justement documentée, votre implication, votre humour m’ont permis de vous suivre patiemment dans l’attente d’aborder (enfin) les mérovingiens …"
+      },
+      {
+        "note": 5,
+        "auteur": "Kaerrel",
+        "titre": "Fantastique !",
+        "texte": "Une série de podcast très intéressante. Les 1er épisodes permette de nous expliquer de qui on parle. Et après on suit avec allégresse les périples de Maximin le Thrace ou de la bataille de l'Abribus (euuh Abritus pardon 😁)"
+      },
+      {
+        "note": 5,
+        "auteur": "ticlota",
+        "titre": "Excellent podcast",
+        "texte": "Merci pour ce travail. Le fond est ( a mon humble avis d’amateur) très sérieux et habilement relaté dans une forme plaisante. La qualité technique de ce podcast s’améliore continuellement au fur et à mesure des épisodes."
+      }
+    ]
+  }
 }

@@ -26,7 +26,7 @@
     "cuisine"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -52,5 +52,29 @@
         "texte": "J’adore les nouveaux formats, merci Justine et Brieuc d’avoir appuyé sur record ! C’est que du bonheur votre inspiration ! Gaël d’Aventure Humaine"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Immersion au Village EC 2027. Hors-Série 3/3",
+      "date": "2026-07-08"
+    },
+    {
+      "titre": "Et si prendre soin de ses appareils devenait le premier geste contre le gaspillage ?",
+      "date": "2026-07-01"
+    },
+    {
+      "titre": "Réemploi des meubles : arrêter la fast fashion du mobilier avec Sylvie Renée",
+      "date": "2026-06-26"
+    },
+    {
+      "titre": "Ceux qui réinventent le réemploi. Hors-Série 2/3",
+      "date": "2026-06-17"
+    },
+    {
+      "titre": "La lettre de Joséphine - Une reconfiguration profonde",
+      "date": "2026-06-17"
+    }
+  ],
+  "derniere_activite": "2026-07-08",
+  "frequence_jours": 7
 }

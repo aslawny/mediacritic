@@ -25,7 +25,7 @@
     "sport"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -51,5 +51,29 @@
         "texte": "Excellent Podcast. Très instructif...Copié-collé depuis peu par un nouvel arrivant ...mais c’est sûrement la rançon du succès !"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "N°47 - Watches & Wonders 2026 : le grand débrief",
+      "date": "2026-05-22"
+    },
+    {
+      "titre": "N°46 - Vacheron Constantin : 270 ans d'histoire continue",
+      "date": "2026-03-25"
+    },
+    {
+      "titre": "N°45 - Quand Jaeger LeCoultre met son héritage à l'honneur",
+      "date": "2025-07-22"
+    },
+    {
+      "titre": "N°44 - Baltic entre auto et horlo",
+      "date": "2025-05-27"
+    },
+    {
+      "titre": "N°43 - La Breguet Souscription Classique 2025",
+      "date": "2025-04-28"
+    }
+  ],
+  "derniere_activite": "2026-05-22",
+  "frequence_jours": 55
 }

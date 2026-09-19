@@ -24,7 +24,7 @@
   "tags": [
     "gaming"
   ],
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "avis_publics": {
     "source": "apple",
     "boutique": "ca",
@@ -50,5 +50,29 @@
         "texte": "Belle équipe de passionnés qui ose faire de l’analyse sur de l’actu et on sait que c’est pas facile. Meilleure émission hebdo du JV francophone."
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "L'actu estivale compliquée de PlayStation & les jeux de l'été : AC Black Flag et FF X HD",
+      "date": "2026-09-18"
+    },
+    {
+      "titre": "Red Alert 226 : Les conférences PlayStation et Nintendo & Resonance : A Plague Tale Legacy",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "Trois de Cœur#6 Ted Lasso - Le Royaume des abysses - Armored Core 6",
+      "date": "2026-09-04"
+    },
+    {
+      "titre": "Top Ten All-Time de Patrick Baud",
+      "date": "2026-07-29"
+    },
+    {
+      "titre": "Trois de Coeur #5 : Backrooms – Colony – A Knight of the Seven Kingdoms",
+      "date": "2026-07-17"
+    }
+  ],
+  "derniere_activite": "2026-09-18",
+  "frequence_jours": 7
 }

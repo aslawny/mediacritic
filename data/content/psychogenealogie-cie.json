@@ -25,7 +25,7 @@
     "education"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -51,5 +51,29 @@
         "texte": "J’attends toujours avec impatience la sortie de nouveaux podcasts. Éclairants et si bien expliqués, ces notions parlent à tous. Votre voix nous transporte et nous éclaire sur nos chemins de vie. Votre livre, un régal !MERCI"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "La violence intrafamiliale",
+      "date": "2026-07-07"
+    },
+    {
+      "titre": "La tristesse",
+      "date": "2026-05-20"
+    },
+    {
+      "titre": "La table familiale",
+      "date": "2026-03-31"
+    },
+    {
+      "titre": "L'entreprise",
+      "date": "2026-02-10"
+    },
+    {
+      "titre": "Les photos de famille",
+      "date": "2025-12-11"
+    }
+  ],
+  "derniere_activite": "2026-07-07",
+  "frequence_jours": 49
 }

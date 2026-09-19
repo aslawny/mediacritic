@@ -24,5 +24,51 @@
     "culture"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-19",
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-09-19",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "Rediff : L'anniversaire : \"Fashion Nugget\" de Cake",
+      "date": "2026-09-17"
+    },
+    {
+      "titre": "Rediff : \"Les 3 mois qui ont changé la face du rock\", Partie 1",
+      "date": "2026-09-17"
+    },
+    {
+      "titre": "L' Anniversaire : \"How Do You Burn?\" de The Afghan Whigs",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "L' Anniversaire : \"The Clearing\" de Wolf Alice",
+      "date": "2026-08-22"
+    },
+    {
+      "titre": "L' Anniversaire : \"The Future is Our Way Out\" de Brigitte Calls me Baby",
+      "date": "2026-08-02"
+    }
+  ],
+  "derniere_activite": "2026-09-17",
+  "frequence_jours": 18
 }

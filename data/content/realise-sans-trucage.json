@@ -26,7 +26,7 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -52,5 +52,29 @@
         "texte": "Je ne laisse que très rarement des commentaires mais, sortant de plusieurs films recommandés par vous, il était temps de vous remercier! Je vous écoute depuis votre podcast précédent sans louper un épisode car ça me fait du bien d’entendre parler cinéma ce qui est rare autour de…"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "🧟‍♂️ RESIDENT EVIL, L'INVITATION, HISTOIRES DE LA NUIT & SI TU PENSES BIEN 🖤",
+      "date": "2026-09-18"
+    },
+    {
+      "titre": "🎤 BENOÎT MAGIMEL & LÉA MYSIUS - L'Entretien Sans Trucage (HISTOIRES DE LA NUIT)",
+      "date": "2026-09-17"
+    },
+    {
+      "titre": "📺 ÉPISODE 0 - Sophie Grech & Camille Giry",
+      "date": "2026-09-16"
+    },
+    {
+      "titre": "🏍️ AKIRA - Katsuhiro Ôtomo (1988)",
+      "date": "2026-09-15"
+    },
+    {
+      "titre": "📰 BREAKING NEWS - Sommet lumière, Oradour-sur-Glane & remakes européens",
+      "date": "2026-09-14"
+    }
+  ],
+  "derniere_activite": "2026-09-18",
+  "frequence_jours": 3
 }

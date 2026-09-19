@@ -24,5 +24,31 @@
   "tags": [
     "gaming"
   ],
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-19",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Smy!",
+        "titre": "Toujours génial",
+        "texte": "Une petite chronique hebdomadaire toujours savoureuse, pleine d’humour, le plaisir du mardi !"
+      },
+      {
+        "note": 2,
+        "auteur": "Ethan37 lol",
+        "titre": "Clichés",
+        "texte": "Le montage de l’émission, avec ses questions réponses préparées avec l’animatrice de la tranche horaire frôle le ridicule. Cette dernière est d’une condescendance toute littéraire face à ce qu’elle considère encore comme un sous art. Ridicule."
+      },
+      {
+        "note": 5,
+        "auteur": "Blob12357964222",
+        "titre": "Bravo",
+        "texte": "Bravo pour cette nouvelle chronique qui rejoins ma liste de podcast."
+      }
+    ]
+  }
 }

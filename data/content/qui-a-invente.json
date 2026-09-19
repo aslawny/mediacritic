@@ -26,7 +26,7 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -52,5 +52,29 @@
         "texte": "Qui a inventé les toilettes ?🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🚾🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Qui a inventé le satellite ?",
+      "date": "2025-07-12"
+    },
+    {
+      "titre": "Qui a inventé le maillot de bain ?",
+      "date": "2025-06-20"
+    },
+    {
+      "titre": "Qui a inventé le cerf-volant ?",
+      "date": "2025-05-17"
+    },
+    {
+      "titre": "Episode spécial : Comment le monde a commencé ?",
+      "date": "2025-04-30"
+    },
+    {
+      "titre": "Qui a inventé le sous-marin ?",
+      "date": "2025-04-19"
+    }
+  ],
+  "derniere_activite": "2025-07-12",
+  "frequence_jours": 28
 }

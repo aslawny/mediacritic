@@ -25,7 +25,7 @@
     "politique"
   ],
   "addedAt": "2026-05-28",
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "episodes_recents": [
     {
       "titre": "Episode 6 : Dylan Ayissi, président du collectif \" Une voie pour tous \"",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2023-05-23",
-  "frequence_jours": 13
+  "frequence_jours": 13,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lucille Fontaine",
+        "titre": "ENPOWERMENT 💪💪💪",
+        "texte": "Merci pour tous ces mots qui inspirent, donnent du courage et de la force pour avancer ! Tant de personnalités aussi extraordinaires à qui vous donnez la parole ! Merci de les mettre en lumière, ici, sur votre podcast, et de donner à entendre leur voix …"
+      },
+      {
+        "note": 5,
+        "auteur": "Céline corsica",
+        "titre": "Un peu de force …encore … et merci",
+        "texte": "En général j’écoute sur Spotify..donc je profite de cette plateforme pour recommander ce Podcast..qui met en avant aussi bien des personnalités atypique, des activistes, nos engagements, nos métiers .…"
+      },
+      {
+        "note": 5,
+        "auteur": "Imad.bnf",
+        "titre": "Des parcours inspirants et donnant espoir!",
+        "texte": "Dans une société comme la nôtre où beaucoup ont l'impression que l'ascenceur social est en panne, ces différents parcours ont la vertu de pouvoir être des exemples de réussite, de présenter des leviers permettant d'ouvrir des portes qui semblent fermées.…"
+      }
+    ]
+  }
 }

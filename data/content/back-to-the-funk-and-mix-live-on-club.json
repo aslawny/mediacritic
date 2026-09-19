@@ -24,7 +24,7 @@
     "culture"
   ],
   "addedAt": "2026-07-09",
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "episodes_recents": [
     {
       "titre": "LIVE SPECIAL ABONNES TIKTOK 21 DEC 2024 YANN BUTLER",
@@ -48,5 +48,27 @@
     }
   ],
   "derniere_activite": "2024-12-22",
-  "frequence_jours": 26
+  "frequence_jours": 26,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-09-19",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

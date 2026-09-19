@@ -25,7 +25,7 @@
     "education"
   ],
   "addedAt": "2026-05-31",
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "episodes_recents": [
     {
       "titre": "Ce que l’échec fait réellement au cerveau",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-02-13",
-  "frequence_jours": 47
+  "frequence_jours": 47,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-09-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "mi_va_da",
+        "titre": "merci",
+        "texte": "merci beaucoup pour tes podcasts ! c’est vraiment intéressant. en écoutant j’ai découvert plein d’idées :)"
+      },
+      {
+        "note": 5,
+        "auteur": "Adriencp2.8",
+        "titre": "Top",
+        "texte": "Magnifique podcast, super élocution !! On attend le prochain épisode avec impatience"
+      },
+      {
+        "note": 5,
+        "auteur": "askdndbbz",
+        "titre": "<3",
+        "texte": "Très enrichissant et captivant, un vrai plaisir à chaque écoute !"
+      }
+    ]
+  }
 }

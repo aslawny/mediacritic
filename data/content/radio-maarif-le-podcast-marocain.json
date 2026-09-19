@@ -26,7 +26,7 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-16",
@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "#388 - AWAL / MONO - EP 6 : ALI, côtoyer les morts",
+      "date": "2026-04-22"
+    },
+    {
+      "titre": "#387 - AWAL / MONO - EP 5 : Le riche, j’ai grandi dans une famille qui a l’flouss",
+      "date": "2026-04-22"
+    },
+    {
+      "titre": "#386 - AWAL / MONO - EP 4 : Souadia",
+      "date": "2026-04-22"
+    },
+    {
+      "titre": "#385 - AWAL / MONO - EP 3 : MAROUANE, l’artisan",
+      "date": "2026-04-22"
+    },
+    {
+      "titre": "#384 - AWAL / MONO - EP 2 : ZAHIRA, l’artiste libre",
+      "date": "2026-04-22"
+    }
+  ],
+  "derniere_activite": "2026-04-22",
+  "frequence_jours": 6
 }

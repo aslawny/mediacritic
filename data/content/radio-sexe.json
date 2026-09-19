@@ -24,7 +24,7 @@
     "comedie"
   ],
   "addedAt": "2026-07-03",
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-10",
@@ -46,5 +46,21 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "RADIO SEXE SAISON 2 #1.2 - LES ANECDOTES SOMBRES D'ALKPOTE",
+      "date": "2019-11-25"
+    },
+    {
+      "titre": "RADIO SEXE SAISON 2 #1.1 - LE RETOUR DE RADIO SEXE AVEC UNE NOUVELLE CHRONIQUEUSE",
+      "date": "2019-11-25"
+    },
+    {
+      "titre": "RADIO SEXE #24.2 - EN DIRECT DE LOS ANGELES AVEC MANUEL FERRARA POUR LA DERNIÈRE DE LA SAISON",
+      "date": "2019-07-10"
+    }
+  ],
+  "derniere_activite": "2019-11-25",
+  "frequence_jours": 137
 }

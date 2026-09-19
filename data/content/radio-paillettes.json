@@ -26,7 +26,7 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "avis_publics": {
     "source": "apple",
     "boutique": "us",
@@ -52,5 +52,29 @@
         "texte": "Bienveillance, humour and vérité. On adore les écouter à longueur de journée!"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "[EXTRAIT] Plan à 3 - Quand devient-on vieux c** ?",
+      "date": "2026-09-18"
+    },
+    {
+      "titre": "S5 E02 - Celui qui avait une théorie au poil",
+      "date": "2026-09-17"
+    },
+    {
+      "titre": "[EXTRAIT] Le mariage idéal de Ginger",
+      "date": "2026-09-14"
+    },
+    {
+      "titre": "Plan à 3 - S2 E02",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "S5 E01 - Celui qui rentrait bronzé",
+      "date": "2026-09-10"
+    }
+  ],
+  "derniere_activite": "2026-09-18",
+  "frequence_jours": 1
 }

@@ -27,7 +27,7 @@
     "culture"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "episodes_recents": [
     {
       "titre": "Annonce : je lance un nouveau podcast!!!!",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-01",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mostrecent",
+    "releve": "2026-09-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Harry Potter Québécoise",
+        "titre": "Info Norbert",
+        "texte": "Avez-vous remarquer que Norbert (le dragon de Hagrid dans le premier tome) et Norbert Dragonneau (animaux fantastiques) on un lien que vous n’avez pas parler dans le podcast.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Camwich11",
+        "titre": "Meh",
+        "texte": "C’est un peu plate parfois. Comme je veux pas savoir la théorie de la théorie de la théorie."
+      },
+      {
+        "note": 5,
+        "auteur": "Carmielle",
+        "titre": "😍👏🧙‍♀️🥲",
+        "texte": "J’adooooore ce balado, tellement fun de se replonger dans cet univers, ce podcast fait juste du bien, avec les petits intermèdes musicaux en plus, on est complètement plongés dans l’univers feel-good d’Harry Potter!!!!! Tellement parfait à écouter en marchant, en cuisinant, en fa…"
+      }
+    ]
+  }
 }

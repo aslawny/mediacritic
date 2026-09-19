@@ -27,7 +27,7 @@
     "culture geek"
   ],
   "addedAt": "2026-07-09",
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "episodes_recents": [
     {
       "titre": "S08 Episode spécial 10 ans de La Cafetière",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2025-02-05",
-  "frequence_jours": 211
+  "frequence_jours": 211,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lucas_balo",
+        "titre": "Les dessous du monde du jeu",
+        "texte": "Bravo à toute l'équipe, un podcast très intéressant qui nous fait découvrir (ou approfondir) l'envers du décor. Je ne l'ai découvert que récemment et je prend beaucoup de plaisir à enchaîner les épisodes.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Nico Explo",
+        "titre": "MERCI !",
+        "texte": "Une super émission que j'écoute depuis ses débuts. La \"nouvelle\" équipe est aussi vraiment très pertinente et plaisante à suivre. Le ton est juste, la qualité audio au rendez-vous, le choix des invités est top. Et NON, ce n'est pas trop long, c'es simplement bon ! Bravo à vous."
+      },
+      {
+        "note": 5,
+        "auteur": "Docteur Cheux",
+        "titre": "Exhaustif et pertinent",
+        "texte": "Excellent Podcast traitant du jeu de société et de son univers (auteurs, éditeurs, distributeurs...). Idéal pour s’informer, découvrir, creuser un sujet, en apprendre sur le jeu de société et son macrocosme. Des invités toujours passionnants."
+      }
+    ]
+  }
 }

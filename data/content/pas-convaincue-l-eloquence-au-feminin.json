@@ -25,7 +25,7 @@
     "bien-etre"
   ],
   "addedAt": "2026-09-08",
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "episodes_recents": [
     {
       "titre": "51. Répartie ! Tout est une question de timing ! (2/6)",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-15",
-  "frequence_jours": 8
+  "frequence_jours": 8,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Laura_Sica",
+        "titre": "A écouter absolument pour se lancer",
+        "texte": "Je viens d’écouter les 2 premiers épisodes du podcast et wooo, que de pépites! Je me suis d’ailleurs dit que j’allais le réécouter pour prendre des notes :-) J’aime la clarté du propos et l’analyse des exemples donnés.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Moi c est Cécile!",
+        "titre": "Des concepts et des interviews incroyables",
+        "texte": "Votre simplicité , et vos échanges hors du commun , ponctués d authenticité, redonnent de l éclat à des tas de freins que l on s impose et qui inhibent alors que les idées fusent silencieusement …"
+      },
+      {
+        "note": 5,
+        "auteur": "Cachmir",
+        "titre": "Pépite",
+        "texte": "J’ai commencé par un épisode et en moins de 3 semaines, j’ai écouté tous les autres. Les exemples sont bien choisis, les interviews d’oratrices originales, et le podcast permet de prendre du recul par rapport à sa propre pratique. Vraiment convaincue !"
+      }
+    ]
+  }
 }

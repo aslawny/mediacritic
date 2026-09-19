@@ -25,7 +25,7 @@
     "bien-être",
     "psychologie"
   ],
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-19",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -51,5 +51,29 @@
         "texte": "Désolé pour le message oû je demande à quelle potcast il y a Ghuter Lepoutre parce que c’est dans ce podcast mes je voulais dire que j’adore ce podcast grâce a Ghuter Lepoutre bisous 💋 à bientôt ✌️"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Dépendance affective : pourquoi ai-je si peur qu’on me quitte ? #296",
+      "date": "2026-09-16"
+    },
+    {
+      "titre": "Les épreuves du couple : s’aimer ne suffit pas toujours #295",
+      "date": "2026-09-02"
+    },
+    {
+      "titre": "Hypersensibilité : pourquoi les relations font parfois si mal ? #294",
+      "date": "2026-08-19"
+    },
+    {
+      "titre": "Relations toxiques et santé mentale : comprendre les mécanismes invisibles #293",
+      "date": "2026-08-05"
+    },
+    {
+      "titre": "Votre corps n'oublie rien : ce qu’il garde de votre histoire #292",
+      "date": "2026-07-22"
+    }
+  ],
+  "derniere_activite": "2026-09-16",
+  "frequence_jours": 11
 }

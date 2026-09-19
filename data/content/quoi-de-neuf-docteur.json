@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/quoi-de-neuf-docteur/id1735550002?uo=4",
       "trackId": 1735550002,
       "rating": 5.0,
-      "ratingCount": 6,
+      "ratingCount": 7,
       "episodeCount": 26
     }
   },
@@ -24,5 +24,29 @@
   "tags": [
     "histoire"
   ],
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-19",
+  "episodes_recents": [
+    {
+      "titre": "GARTIN NOUS DIT TOUT - QUOI DE NEUF DOCTEUR",
+      "date": "2026-07-01"
+    },
+    {
+      "titre": "LOUPIOTE NOUS DIT TOUT - QUOI DE NEUF DOCTEUR",
+      "date": "2026-06-03"
+    },
+    {
+      "titre": "JULGANE NOUS DIT TOUT - QUOI DE NEUF DOCTEUR",
+      "date": "2026-01-09"
+    },
+    {
+      "titre": "MAREX NOUS DIT TOUT - QUOI DE NEUF DOCTEUR",
+      "date": "2025-12-18"
+    },
+    {
+      "titre": "SAMUEL ETIENNE NOUS DIT TOUT - QUOI DE NEUF DOCTEUR",
+      "date": "2025-11-13"
+    }
+  ],
+  "derniere_activite": "2026-07-01",
+  "frequence_jours": 75
 }
