@@ -21,13 +21,16 @@
       "episodeCount": null
     }
   },
-  "mediacritic": null,
+  "mediacritic": {
+    "ep": 46,
+    "url": "https://www.mediacritic.fr/episodes/crossover.html"
+  },
   "tags": [
     "arts",
     "culture"
   ],
   "addedAt": "2026-06-09",
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-20",
   "episodes_recents": [
     {
       "titre": "Crossover S3E8 : Lanterns",
