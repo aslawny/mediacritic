@@ -23,5 +23,29 @@
     "rénovation",
     "DIY"
   ],
-  "updatedAt": "2026-09-19"
+  "updatedAt": "2026-09-19",
+  "episodes_recents": [
+    {
+      "titre": "Polyblindtest",
+      "date": "2021-04-18"
+    },
+    {
+      "titre": "Un neuvième sens?",
+      "date": "2021-04-11"
+    },
+    {
+      "titre": "Le Parlement français",
+      "date": "2021-04-04"
+    },
+    {
+      "titre": "Une personne AZERTY en vaut deux ? (non)",
+      "date": "2021-03-28"
+    },
+    {
+      "titre": "Internet, le web, et le web X.0",
+      "date": "2021-03-21"
+    }
+  ],
+  "derniere_activite": "2021-04-18",
+  "frequence_jours": 7
 }

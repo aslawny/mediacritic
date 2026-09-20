@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Les 3 choses à ne pas négliger pour réussir ton année !",
+      "date": "2026-09-14"
+    },
+    {
+      "titre": "Rentrée : fais ça avant de te fixer de nouveaux objectifs ✨",
+      "date": "2026-09-04"
+    },
+    {
+      "titre": "L’épreuve me fatigue",
+      "date": "2026-07-20"
+    },
+    {
+      "titre": "Et si vous appreniez à me connaître…",
+      "date": "2026-07-13"
+    },
+    {
+      "titre": "Comment se protéger du mauvais œil ?",
+      "date": "2026-07-06"
+    }
+  ],
+  "derniere_activite": "2026-09-14",
+  "frequence_jours": 7
 }

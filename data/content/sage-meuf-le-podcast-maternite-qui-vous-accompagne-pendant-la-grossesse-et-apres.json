@@ -49,5 +49,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "[BONUS] « Vous n'êtes pas seules ! » : Charline, sage-femme, se confie à Olivier Delacroix",
+      "date": "2023-10-10"
+    },
+    {
+      "titre": "Est-ce normal de se sentir « nul » avec son nouveau-né ?",
+      "date": "2022-10-24"
+    },
+    {
+      "titre": "Mon bébé n’arrête pas de pleurer : que faire ?",
+      "date": "2022-10-17"
+    },
+    {
+      "titre": "Quand est-ce que mon bébé fera (enfin) ses nuits ?",
+      "date": "2022-10-10"
+    },
+    {
+      "titre": "Est-ce vraiment mieux d'allaiter mon bébé ?",
+      "date": "2022-10-03"
+    }
+  ],
+  "derniere_activite": "2023-10-10",
+  "frequence_jours": 7
 }

@@ -52,5 +52,29 @@
         "texte": "Cette émission animée par un groupe de jeunes permet d’aborder la science dans la joie et la bonne humeur, loin des clichés usuels des scientifiques barbants. Le niveau est bien ciblé, la durée aussi.Je recommande."
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Zoo : histoires humaines et animales avec Violette Pouillard",
+      "date": "2025-10-06"
+    },
+    {
+      "titre": "Les missions d’une sentinelle des glaces avec Heïdi Sevestre",
+      "date": "2025-02-06"
+    },
+    {
+      "titre": "Pas Con le Poisson avec Maëlan Tomasek",
+      "date": "2024-10-18"
+    },
+    {
+      "titre": "Séismes : Explorations et Mystérieuse Basilique avec Yann Klinger",
+      "date": "2024-06-13"
+    },
+    {
+      "titre": "Comment repenser l’évolution humaine ? (Live Pariscience avec Claudine Cohen)",
+      "date": "2024-03-29"
+    }
+  ],
+  "derniere_activite": "2025-10-06",
+  "frequence_jours": 89
 }

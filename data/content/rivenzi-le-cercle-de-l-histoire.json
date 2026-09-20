@@ -45,5 +45,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "On joue à Assassin's Creed avec une égyptologue - Avec Bénédicte Lhoyer",
+      "date": "2026-09-16"
+    },
+    {
+      "titre": "Marie Denizard, la 1re femme candidate à la présidence de la République - Avec Prescillia Da Silva",
+      "date": "2026-07-23"
+    },
+    {
+      "titre": "Les coulisses de De Gaulle \"J'écris ton nom\" - Avec Géraud Létang, conseiller historique du film",
+      "date": "2026-07-09"
+    },
+    {
+      "titre": "Histoire des religions - Avec Damien de @religarelachaine",
+      "date": "2026-06-25"
+    },
+    {
+      "titre": "Live spécial La Bataille de Gaulle - Avec Julien de Mamytwink et Géraud Létang",
+      "date": "2026-06-19"
+    }
+  ],
+  "derniere_activite": "2026-09-16",
+  "frequence_jours": 5
 }

@@ -23,5 +23,29 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-09-19"
+  "updatedAt": "2026-09-19",
+  "episodes_recents": [
+    {
+      "titre": "French Tech - Podcasthon - 1001 Diversités",
+      "date": "2026-03-20"
+    },
+    {
+      "titre": "French Tech - Podcasthon - Les Etoiles du Piano",
+      "date": "2026-03-20"
+    },
+    {
+      "titre": "French Tech - Podcasthon - Les Fourchettes Roses",
+      "date": "2025-03-15"
+    },
+    {
+      "titre": "Artiste - Jarry",
+      "date": "2025-02-13"
+    },
+    {
+      "titre": "Artiste - Generation Boys Band",
+      "date": "2025-01-25"
+    }
+  ],
+  "derniere_activite": "2026-03-20",
+  "frequence_jours": 19
 }

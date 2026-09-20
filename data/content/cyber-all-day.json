@@ -1,0 +1,53 @@
+{
+  "slug": "cyber-all-day",
+  "title": "Cyber All Day",
+  "author": "Michael VIRGONE",
+  "type": "podcast",
+  "categories": [
+    "tech",
+    "numerique"
+  ],
+  "description": "",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a7/91/6e/a7916e73-a2b8-c924-ad20-eaa5bcb55e41/mza_3498719339039838201.png/170x170bb.png",
+  "language": "",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/cyber-all-day/id6801209187?uo=2",
+      "trackId": 6801209187,
+      "rating": null,
+      "ratingCount": null,
+      "episodeCount": null
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "tech",
+    "numerique"
+  ],
+  "addedAt": "2026-09-20",
+  "updatedAt": "2026-09-20",
+  "episodes_recents": [
+    {
+      "titre": "Helping AI agents understand what secure means for your business #06",
+      "date": "2026-09-17"
+    },
+    {
+      "titre": "As AI writes more of the code. What about security? #05",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "Measuring what matters in a SOC #04",
+      "date": "2026-09-02"
+    },
+    {
+      "titre": "MSSP SOC reporting has a metrics problem #03",
+      "date": "2026-08-24"
+    },
+    {
+      "titre": "What is wrong with cybersecurity marketing #02",
+      "date": "2026-08-17"
+    }
+  ],
+  "derniere_activite": "2026-09-17",
+  "frequence_jours": 7
+}

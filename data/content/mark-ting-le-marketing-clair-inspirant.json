@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-06-10",
-  "frequence_jours": 2
+  "frequence_jours": 2,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "elflaya",
+        "titre": "Des podcasts qualitatifs",
+        "texte": "Les podcasts créés par les étudiants et leur enseignant sont d’une part : - Pertinents : dû à la diversité des professionnels interrogés. - Diversifiés : dû aux différents formats (les formations avec l’aspect pédagogique et les conseils associés ainsi que les professionnels pour…"
+      },
+      {
+        "note": 5,
+        "auteur": "hugo_luc33",
+        "titre": "Mark&ting",
+        "texte": "En tant qu’étudiant en marketing, j’ai trouvé le podcast Mark&ting vraiment enrichissant. Il permet de mieux comprendre les enjeux actuels du marketing et de la communication grâce à des épisodes clairs, accessibles et bien construits.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Raphaël.L",
+        "titre": "Un podcast enrichissant",
+        "texte": "J’aime énormément le podcast ! Cela change des formats habituels. La diversité de contenu est une très bonne idée et nous permet d’écouter de petite capsule le temps d’un court trajet :) Les points sur l’actualité permettent aussi de se tenir à jour sur ce monde du marketing et c…"
+      }
+    ]
+  }
 }

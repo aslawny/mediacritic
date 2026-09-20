@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-13",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Laëtitia Lecomte",
+        "titre": "Bravo et merci",
+        "texte": "Je suis tombée sur ce podcast alors qu’il n’avait même pas encore de titre. Quelle magnifique découverte ! Au-delà des réflexions autour de la littérature, des œuvres que l’on découvre et de l’inspiration que l’on y puise, c’est aussi une très belle aventure humaine.…"
+      },
+      {
+        "note": 2,
+        "auteur": "JeannickJâm",
+        "titre": "Épisode 3",
+        "texte": "Au lieu de dire : « c’est nul ! » Pourriez vous parler uniquement de votre avis et dire : « personnellement je n’ai pas aimé » ? De plus, certaines réflexions des garçons envers les jeunes femmes présentes…"
+      },
+      {
+        "note": 5,
+        "auteur": "MadYtb",
+        "titre": "Podcast incroyable",
+        "texte": "Rien à redire à part que ce podcast est dangereux pour ma PAL 🤭 Je vous conseille de tout cœur de lire « Qui a peur de la mort ? » de Nnedi Okorafor. Un livre puissant. À la fois thriller, à la fois fantastique, à la fois inspiré de faits réels.…"
+      }
+    ]
+  }
 }

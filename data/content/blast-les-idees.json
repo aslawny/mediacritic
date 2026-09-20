@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2025-03-24",
-  "frequence_jours": 8
+  "frequence_jours": 8,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lucieau",
+        "titre": "Merci Salomé pour ces entretiens",
+        "texte": "Merci à vous pour ces analyses de spécialistes, et ces formats longs, j’ai particulièrement apprécié ceux sur le journalisme et le camping. Continuez comme ça vous faites un travail important pour le public 🤩"
+      },
+      {
+        "note": 5,
+        "auteur": "Ppssseeeuuudddooo",
+        "titre": "Merci",
+        "texte": "Un travail nécessaire ! Ps: pourquoi est-ce que les publications podcasts sortent aussi longtemps après les vidéos YouTube ? C’est trop dur d’attendre :/"
+      },
+      {
+        "note": 5,
+        "auteur": "Fuji97",
+        "titre": "De qualité",
+        "texte": "Des interviews et contenus toujours super intéressants, merci !"
+      }
+    ]
+  }
 }

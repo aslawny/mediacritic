@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-07",
-  "frequence_jours": 102
+  "frequence_jours": 102,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Déklipédébul",
+        "titre": "Instructif et nostalgique",
+        "texte": "« Aucun titre n’est un plaisir coupable », on adore déjà le point de départ ! Les deux premiers podcasts sont fun, instructifs, avec des petites anecdotes qu’on ne connaissait pas. Plaisir de se replonger dans cette période... ! A écouter !! :)"
+      },
+      {
+        "note": 5,
+        "auteur": "damsnation77",
+        "titre": "Le max d’infos sur la pop music",
+        "texte": "Pourtant pas fan de tous les artistes dont parle Loïc, c’est un plaisir d’écouter chaque épisode et j’apprends à chaque fois quelque chose. Mention spéciale aux épisodes sur les Boybands qui sont un grand moment de souvenirs et de fous rires."
+      },
+      {
+        "note": 5,
+        "auteur": "Bergkamp 4",
+        "titre": "Nostalgie Time",
+        "texte": "Merci au podcast Radio K7 pour la découverte de ce podcast. C’est très cool à écouter, les histoires sont bien écrites et racontées, c’est vivant dans le montage, tout ce que j’aime. Je vais vite rattraper mon retard."
+      }
+    ]
+  }
 }

@@ -24,5 +24,29 @@
     "cinema"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-05-17"
+  "updatedAt": "2026-05-17",
+  "episodes_recents": [
+    {
+      "titre": "Hablando de: Internet",
+      "date": "2025-12-10"
+    },
+    {
+      "titre": "Hablando de: películas de terror",
+      "date": "2025-10-15"
+    },
+    {
+      "titre": "Hablando de: Moda",
+      "date": "2025-10-08"
+    },
+    {
+      "titre": "Hablando de: Utopia",
+      "date": "2025-08-06"
+    },
+    {
+      "titre": "Miercoles random",
+      "date": "2025-03-26"
+    }
+  ],
+  "derniere_activite": "2025-12-10",
+  "frequence_jours": 27
 }

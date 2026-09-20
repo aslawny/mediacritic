@@ -50,5 +50,25 @@
     }
   ],
   "derniere_activite": "2026-09-08",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ch",
+    "tri": "mosthelpful",
+    "releve": "2026-09-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Alec Henry",
+        "titre": "Je recommande",
+        "texte": "Excellent Podcast! J’apprécie tout particulièrement la simplicité et la sympathie avec laquelle Enzo partage avec ses invités… Des conseils inspirants et tournés vers l’action."
+      },
+      {
+        "note": 5,
+        "auteur": "NathalieV.68",
+        "titre": "Interview géniales !",
+        "texte": "Écouter, passer un très bon moment et apprendre plein de choses… j’adore"
+      }
+    ]
+  }
 }

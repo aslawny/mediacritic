@@ -26,5 +26,29 @@
     "comedie"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-09-19"
+  "updatedAt": "2026-09-19",
+  "episodes_recents": [
+    {
+      "titre": "#11 The Substance",
+      "date": "2025-03-31"
+    },
+    {
+      "titre": "#10 HORS-SERIE : Fin d'année 2024",
+      "date": "2024-12-15"
+    },
+    {
+      "titre": "#9 The Truman Show",
+      "date": "2024-05-23"
+    },
+    {
+      "titre": "#8 The Lighthouse",
+      "date": "2024-03-07"
+    },
+    {
+      "titre": "#7 Barbie",
+      "date": "2024-01-31"
+    }
+  ],
+  "derniere_activite": "2025-03-31",
+  "frequence_jours": 36
 }

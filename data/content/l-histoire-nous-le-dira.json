@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-09-01",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Sissigriset",
+        "titre": "Comme toujours au top !",
+        "texte": "Laurent est un conteur hors pair, qui sait captiver l’attention avec une pointe d’humour. C’est toujours un plaisir de le voir et/ou de l’écouter. Si tous les profs d’histoire pouvaient être comme lui ☺️ Merci ☺️"
+      },
+      {
+        "note": 5,
+        "auteur": "WhiplashASC7",
+        "titre": "Exellent !",
+        "texte": "Très instructif et intéressant. Écouter et vous verrez, votre prof d’histoire en sera impressionné."
+      },
+      {
+        "note": 5,
+        "auteur": "dirtyyan440",
+        "titre": "👍🏻",
+        "texte": "Super intéressant et génial pour passer le temps en s’instruisant quand on est sur la route 👍🏻👍🏻👍🏻"
+      }
+    ]
+  }
 }

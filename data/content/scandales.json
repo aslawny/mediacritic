@@ -47,5 +47,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "[REDIFF] Kylie Jenner : la plus énigmatique des sœurs Kardashian",
+      "date": "2026-08-31"
+    },
+    {
+      "titre": "[REDIFF] Julia Roberts : le côté sombre de la Pretty Woman",
+      "date": "2026-08-24"
+    },
+    {
+      "titre": "[REDIFF] Jennifer Aniston : c’est l’histoire d’une fille qui avait tout, et puis…",
+      "date": "2026-08-17"
+    },
+    {
+      "titre": "[REDIFF] Taylor Swift : au firmament, mais jusqu'à quand ?",
+      "date": "2026-08-10"
+    },
+    {
+      "titre": "[REDIFF] Meghan et Harry : l’exil qui tourne mal",
+      "date": "2026-08-03"
+    }
+  ],
+  "derniere_activite": "2026-08-31",
+  "frequence_jours": 7
 }

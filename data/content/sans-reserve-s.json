@@ -26,5 +26,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-09-19"
+  "updatedAt": "2026-09-19",
+  "episodes_recents": [
+    {
+      "titre": "Musées durables, zoom sur l'Augures Lab numérique responsable",
+      "date": "2024-06-26"
+    },
+    {
+      "titre": "Expositions immersives",
+      "date": "2024-04-10"
+    },
+    {
+      "titre": "Musées durables, repenser les mobilités",
+      "date": "2024-02-14"
+    },
+    {
+      "titre": "Musées inclusifs",
+      "date": "2023-11-22"
+    },
+    {
+      "titre": "Lancer son podcast culturel",
+      "date": "2023-09-20"
+    }
+  ],
+  "derniere_activite": "2024-06-26",
+  "frequence_jours": 63
 }

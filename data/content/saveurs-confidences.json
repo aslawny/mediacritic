@@ -26,5 +26,29 @@
     "cuisine"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-05-23"
+  "updatedAt": "2026-05-23",
+  "episodes_recents": [
+    {
+      "titre": "Saveurs & Confidences - Quand l’heure du goûter sonne",
+      "date": "2026-09-05"
+    },
+    {
+      "titre": "Saveurs & Confidences : 27/06/2029 - Quand la cuisine prend l’air",
+      "date": "2026-06-27"
+    },
+    {
+      "titre": "Saveurs & Confidences : 31/05/2029 - Les petits bocaux du potager",
+      "date": "2026-06-12"
+    },
+    {
+      "titre": "Saveurs & Confidences - 25/04/2026 - De la fleur à l'assiette",
+      "date": "2026-04-25"
+    },
+    {
+      "titre": "Saveurs & Confidences : 28/03/2026 - Mon potager maison",
+      "date": "2026-03-28"
+    }
+  ],
+  "derniere_activite": "2026-09-05",
+  "frequence_jours": 28
 }

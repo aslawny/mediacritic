@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Avez-vous RÉELLEMENT profité de l'été sans prise de tête ?",
+      "date": "2026-08-29"
+    },
+    {
+      "titre": "J'ai dit OUI à mon copain.",
+      "date": "2026-07-29"
+    },
+    {
+      "titre": "SOLO TRIP : j’ai retenté l’expérience (MON BILAN)",
+      "date": "2026-07-22"
+    },
+    {
+      "titre": "Essayez ce genre de moment cet été PAR PITIÉ !!",
+      "date": "2026-07-15"
+    },
+    {
+      "titre": "Comment trouver LE sport fait pour soi ? ft. Hélène, fondatrice de Chlore Swimwear (DÉCOTHÉRAPIE ép 3)",
+      "date": "2026-07-08"
+    }
+  ],
+  "derniere_activite": "2026-08-29",
+  "frequence_jours": 7
 }

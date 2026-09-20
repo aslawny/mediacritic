@@ -25,5 +25,31 @@
     "numerique"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-09-19"
+  "updatedAt": "2026-09-19",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-09-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "psylopath",
+        "titre": "Un podcast qui porte bien son nom",
+        "texte": "Que du bonheur que d'écouter Mathieu et son accent québécois. Tech & Lifehacking accompagnés d'une bonne dose de bonne humeur ainsi que d'une flopée d'autres sujets. A s'abonner sans aucun doute."
+      },
+      {
+        "note": 5,
+        "auteur": "thibaudd",
+        "titre": "Top !",
+        "texte": "Excellent podcast présenté par Math qui aborde des sujets divers et variés au sujet du Life Hacking. Un podcast indispenseble dans votre playlist."
+      },
+      {
+        "note": 5,
+        "auteur": "Naillik1000",
+        "titre": "Super",
+        "texte": "Toutes mes félicitations de Belgique pour ce super podcast !"
+      }
+    ]
+  }
 }

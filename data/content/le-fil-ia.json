@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-06-05",
-  "frequence_jours": 2
+  "frequence_jours": 2,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Onelove75",
+        "titre": "Bon rétablissement !",
+        "texte": "J’aime beaucoup ce podcast ! J’espère donc que vous serez vite de retour ! Force et courage et on espère que vous vaincrez vite cette maladie 👊"
+      },
+      {
+        "note": 2,
+        "auteur": "Jpppppp321",
+        "titre": "Intéressant mais trop de PUB",
+        "texte": "Podcast intéressant ! Mais, c’est insupportable de commencer ou de finir avec des pub pratiquement aussi longues que la durée du podcast !"
+      },
+      {
+        "note": 5,
+        "auteur": "Hakaohakao",
+        "titre": "L’essentiel",
+        "texte": "Un excellent format cours, précis et documenté. Du beau travail journalistique ! Merci."
+      }
+    ]
+  }
 }

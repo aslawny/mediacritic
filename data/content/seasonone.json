@@ -46,5 +46,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Season One 579: Le mystère de la chambre jaune",
+      "date": "2026-09-13"
+    },
+    {
+      "titre": "Season One 578: House of the Dragon",
+      "date": "2026-09-06"
+    },
+    {
+      "titre": "Season One 577: Cape Fear",
+      "date": "2026-06-29"
+    },
+    {
+      "titre": "Season One 576: Alice et Steve",
+      "date": "2026-06-23"
+    },
+    {
+      "titre": "Season One 575: Not suitable for work",
+      "date": "2026-06-16"
+    }
+  ],
+  "derniere_activite": "2026-09-13",
+  "frequence_jours": 7
 }

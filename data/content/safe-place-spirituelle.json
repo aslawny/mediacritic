@@ -49,5 +49,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "#49 : Les 10 Premiers Jours de Dhul Hijja",
+      "date": "2026-05-17"
+    },
+    {
+      "titre": "#48 : Et Si Ta Vie Stagnait À Cause De Ça ?",
+      "date": "2026-04-27"
+    },
+    {
+      "titre": "#47 : 10 Citations Puissantes de Carl Jung Pour Changer Ta Perception",
+      "date": "2026-04-20"
+    },
+    {
+      "titre": "#46 : J'ai 36 ans. Si tu es dans ta 20aine, écoute ça (& même si tu es dans ta 30aine, 40aine...90aine).",
+      "date": "2026-04-13"
+    },
+    {
+      "titre": "Série Ramadan : #04. L'après Ramadan : Le Pouvoir du WIRD",
+      "date": "2026-03-16"
+    }
+  ],
+  "derniere_activite": "2026-05-17",
+  "frequence_jours": 7
 }

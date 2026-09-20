@@ -53,5 +53,29 @@
         "texte": "Un podcast incontournable pour les passionnés du cinéma. Ce que j’apprécie particulièrement c’est l’interaction dynamique entre les 4 animateurs. On sent une vraie complicité qui rends les discussions intéressantes et agréable à suivre.…"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "RESIDENT EVIL : le meilleur film d'horreur de l'année ?",
+      "date": "2026-09-15"
+    },
+    {
+      "titre": "L'été de tous les records au cinéma ! [Focus box-office #1]",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "DUNE, AVENGERS, HUNGER GAMES : nos plus grosses attentes de l'année ! (2/2)",
+      "date": "2026-09-08"
+    },
+    {
+      "titre": "DIGGER, RESIDENT EVIL, SOCIAL RECKONING : les films les plus attendus des mois à venir ! (1/2)",
+      "date": "2026-09-01"
+    },
+    {
+      "titre": "HARRY POTTER : quel est le meilleur film de la saga ?",
+      "date": "2026-08-27"
+    }
+  ],
+  "derniere_activite": "2026-09-15",
+  "frequence_jours": 4
 }

@@ -27,5 +27,21 @@
     "cuisine"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-09-19"
+  "updatedAt": "2026-09-19",
+  "episodes_recents": [
+    {
+      "titre": "Épisode 3 - Antoni Antonio : Entreprendre et manager en restauration",
+      "date": "2025-05-14"
+    },
+    {
+      "titre": "Épisode 2 - L'École de la Convivialité avec Mathilde Ripoll",
+      "date": "2025-04-22"
+    },
+    {
+      "titre": "Saveurs Brutes - Épisode 1 : Au Mas des Oliviers avec le Chef Yannick Guerlesquin",
+      "date": "2025-03-27"
+    }
+  ],
+  "derniere_activite": "2025-05-14",
+  "frequence_jours": 25
 }

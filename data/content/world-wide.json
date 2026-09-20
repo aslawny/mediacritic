@@ -24,5 +24,19 @@
     "culture"
   ],
   "addedAt": "2026-07-06",
-  "updatedAt": "2026-09-19"
+  "updatedAt": "2026-09-19",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Carburito",
+        "titre": "merci",
+        "texte": "Zawi en première écoute !! il n’y a qu’une musique celle du monde"
+      }
+    ]
+  }
 }

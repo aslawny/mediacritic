@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-26",
-  "frequence_jours": 27
+  "frequence_jours": 27,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lalougue",
+        "titre": "Découverte enthousiasmante !!!",
+        "texte": "Bonjour à toutes ! Je viens de vous découvrir et avec une grande application je décide de vous écouter dans l'ordre depuis le 1re épisode ! Au moment où je tente de rédiger ce commentaire avec ma fille dans les bras, j'écoute Eva dans l'épisode 50 sur la note américaine.…"
+      },
+      {
+        "note": 1,
+        "auteur": "tsacdopednaf",
+        "titre": "Un petit tour et puis m’en vais",
+        "texte": "J’écoute pour la 1ere fois ce podcast, celui du 7 décembre, ça debute par « Le bal des folles ».... oui, c’est le titre du livre ! Mais avant ça, on a droit aux rigolades cacophoniques entre filles autour d’une table. Passe.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Kiraneyris",
+        "titre": "Le meilleur des podcast littéraire !",
+        "texte": "J’ai lu les 3/4 de vos recommandations et je ne l’ai jamais regretté. Vos discussions sont fines, intelligentes, argumentées. J’apprécie particulièrement les critiques sur des livres accessibles en poche : les sorties de la rentrée ne sont pas les seules intéressantes …"
+      }
+    ]
+  }
 }

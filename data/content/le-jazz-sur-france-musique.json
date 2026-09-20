@@ -24,5 +24,25 @@
     "culture"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-09-19"
+  "updatedAt": "2026-09-19",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "mamie 47",
+        "titre": "Carrefour de l’Odeon",
+        "texte": "Je suis ravie d’avoir retrouvé cette émission,Frédéric je vous aime....n’ayez aucune crainte j’ai 75ans......."
+      },
+      {
+        "note": 5,
+        "auteur": "lucio35",
+        "titre": "@laquenn69",
+        "texte": "Et oui c’est gratuit ça s’appelle le service public !!! Enfin pour l’instant..."
+      }
+    ]
+  }
 }

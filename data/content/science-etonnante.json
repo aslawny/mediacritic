@@ -24,5 +24,29 @@
     "sciences",
     "vulgarisation"
   ],
-  "updatedAt": "2026-09-19"
+  "updatedAt": "2026-09-19",
+  "episodes_recents": [
+    {
+      "titre": "EL NIÑO : Pourquoi l'Océan Pacifique bascule-t-il ?",
+      "date": "2026-09-04"
+    },
+    {
+      "titre": "Fusion nucléaire : Comment piéger un plasma sans le toucher ?",
+      "date": "2026-06-12"
+    },
+    {
+      "titre": "La Cryptographie Quantique — [Le protocole BB84]",
+      "date": "2026-04-24"
+    },
+    {
+      "titre": "Créer 18 000 000 000 000 000 000 mondes dans Minecraft",
+      "date": "2026-04-24"
+    },
+    {
+      "titre": "Compenser la latence dans les jeux multi-joueurs #science #jeuxvidéo",
+      "date": "2026-04-17"
+    }
+  ],
+  "derniere_activite": "2026-09-04",
+  "frequence_jours": 35
 }

@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-09-09",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lukegrizzly40",
+        "titre": "Le meilleur podcast cyclisme",
+        "texte": "Pour moi, c’est le meilleur podcast, cyclisme avec des analyses, très pointus, beaucoup d’échanges, les interviews sont toujours très intéressante et qui nous plonge encore plus dans cet univers du cyclisme. Et surtout c’est un Podcasts rempli d’humidité et d’authenticité.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Dav9495",
+        "titre": "Parlez vélo les gars",
+        "texte": "C’est sympa quand ça parle vélo mais quand ça part en podcast militant faudrait changer le script du podcast"
+      },
+      {
+        "note": 5,
+        "auteur": "jmv83400",
+        "titre": "Un bel état d’esprit dans l’équipe",
+        "texte": "J’ai adoré écouter le podcast épisode 127 au sujet du betting ; pour les débutants , écouter bien tous les conseils car tout est dit avec beaucoup de correction. Et bravo à l’équipe pour votre travail, car vous me faites découvrir le cyclisme. 🙏"
+      }
+    ]
+  }
 }

@@ -49,5 +49,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "FLUSH",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "L’ODYSSÉE, EVIL DEAD BURN…",
+      "date": "2026-07-17"
+    },
+    {
+      "titre": "SUPERGIRL, TOY STORY 5, LES MOUTONS DÉTECTIVES...",
+      "date": "2026-07-03"
+    },
+    {
+      "titre": "DISCLOSURE DAY",
+      "date": "2026-06-12"
+    },
+    {
+      "titre": "STAR WARS : THE MANDALORIAN & GROGU, L'ÊTRE AIMÉ, ALL YOU NEED IS KILL...",
+      "date": "2026-05-22"
+    }
+  ],
+  "derniere_activite": "2026-09-11",
+  "frequence_jours": 21
 }

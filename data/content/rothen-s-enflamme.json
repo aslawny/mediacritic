@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "LE MEILLEUR DE ROTHEN S'ENFLAMME - PARTIE 2 : le procès de ceux qui banalisent les défaites de l'OM",
+      "date": "2026-09-20"
+    },
+    {
+      "titre": "LE CARNET DE NOTES : Jérôme note Zizou sur sa première liste !",
+      "date": "2026-09-19"
+    },
+    {
+      "titre": "LE MEILLEUR DE ROTHEN S'ENFLAMME - PARTIE 1 : l'affaire Mbappé - Dembélé aura-t-elle des conséquences ?",
+      "date": "2026-09-19"
+    },
+    {
+      "titre": "INTÉGRALE PARTIE 1 – Rothen s'enflamme du vendredi 18 septembre 2026",
+      "date": "2026-09-18"
+    },
+    {
+      "titre": "INTÉGRALE PARTIE 2 – Rothen s'enflamme du vendredi 18 septembre 2026",
+      "date": "2026-09-18"
+    }
+  ],
+  "derniere_activite": "2026-09-20",
+  "frequence_jours": 0
 }

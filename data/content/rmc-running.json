@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Duncan Perrillat arrête le haut niveau : quand la passion disparaît",
+      "date": "2026-09-19"
+    },
+    {
+      "titre": "Objectif 20k de Paris : Plaisir, progressivité, performance... Les clés pour réussir son 20 km",
+      "date": "2026-09-17"
+    },
+    {
+      "titre": "La dernière danse : les tests physiologiques de Yodu et Benoit passés au crible !",
+      "date": "2026-09-15"
+    },
+    {
+      "titre": "Objectif 20k de Paris : performance, plaisir et conseils de Yohan Durand",
+      "date": "2026-09-12"
+    },
+    {
+      "titre": "La dernière danse : comment maitre Yodu active des leviers pour aller chercher son meilleur chrono",
+      "date": "2026-09-10"
+    }
+  ],
+  "derniere_activite": "2026-09-19",
+  "frequence_jours": 1
 }

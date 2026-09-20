@@ -27,5 +27,29 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-19"
+  "updatedAt": "2026-09-19",
+  "episodes_recents": [
+    {
+      "titre": "Sécurité des données & IA : comment passer à l'échelle ?",
+      "date": "2026-09-16"
+    },
+    {
+      "titre": "Des neurones humains jouent à Doom : dans les data centers de demain",
+      "date": "2026-09-14"
+    },
+    {
+      "titre": "Données non structurées : comment sécuriser 90% du patrimoine numérique invisible des entreprises",
+      "date": "2026-09-10"
+    },
+    {
+      "titre": "Cyberattaques : la guerre des patchs à l'ère des IA offensives",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "Mythos, l'IA et le facteur humain : la nouvelle course entre attaquants et défenseurs",
+      "date": "2026-09-07"
+    }
+  ],
+  "derniere_activite": "2026-09-16",
+  "frequence_jours": 1
 }

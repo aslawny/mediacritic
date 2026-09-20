@@ -26,5 +26,29 @@
     "series"
   ],
   "addedAt": "2026-07-03",
-  "updatedAt": "2026-09-19"
+  "updatedAt": "2026-09-19",
+  "episodes_recents": [
+    {
+      "titre": "Séance - Le Menu",
+      "date": "2026-09-03"
+    },
+    {
+      "titre": "Séance - Master and Commander",
+      "date": "2026-08-29"
+    },
+    {
+      "titre": "Séance - The Revenant",
+      "date": "2026-08-22"
+    },
+    {
+      "titre": "Séance - Room",
+      "date": "2026-08-18"
+    },
+    {
+      "titre": "Séance - Gladiator",
+      "date": "2026-08-11"
+    }
+  ],
+  "derniere_activite": "2026-09-03",
+  "frequence_jours": 5
 }
