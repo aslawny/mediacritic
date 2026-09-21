@@ -24,5 +24,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "Les meilleurs citations Harry Potter, partie 2",
+      "date": "2025-11-09"
+    },
+    {
+      "titre": "Murder mysteries et soft horror",
+      "date": "2025-10-26"
+    },
+    {
+      "titre": "Les bangers de notre enfance 3",
+      "date": "2025-10-12"
+    },
+    {
+      "titre": "Films et séries pour se faire peur",
+      "date": "2025-09-28"
+    },
+    {
+      "titre": "Scary movie · Vous souvenez-vous de ?",
+      "date": "2025-09-20"
+    }
+  ],
+  "derniere_activite": "2025-11-09",
+  "frequence_jours": 14
 }

@@ -46,5 +46,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Découvrez \"À Brûler Sans Ouvrir\"",
+      "date": "2025-06-26"
+    },
+    {
+      "titre": "Les Gérard de l’Éco",
+      "date": "2024-01-15"
+    },
+    {
+      "titre": "Splash X Unédic : Pourquoi le chômage est-il si mal perçu ?",
+      "date": "2024-01-08"
+    },
+    {
+      "titre": "Il est où le vrai problème de l'immigration en France ?",
+      "date": "2023-12-18"
+    },
+    {
+      "titre": "Doit-on bannir la liberté des médecins ?",
+      "date": "2023-12-11"
+    }
+  ],
+  "derniere_activite": "2025-06-26",
+  "frequence_jours": 7
 }

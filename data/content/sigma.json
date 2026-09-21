@@ -47,5 +47,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Le nouvel âge de la cybercriminalité – Conférence à l’X de Vincent Strubel – DG de l’ANSSI",
+      "date": "2024-01-30"
+    },
+    {
+      "titre": "[Histoire de science] Les secrets d'Alan Turing",
+      "date": "2021-06-23"
+    },
+    {
+      "titre": "[Conférence] Aurélien Barrau - Être radical face à la catastrophe",
+      "date": "2021-06-10"
+    },
+    {
+      "titre": "[Histoire de science] La mesure de toutes choses",
+      "date": "2021-05-20"
+    },
+    {
+      "titre": "[Interview recherche] Antigoni Alexandrou - Transdisciplinaire",
+      "date": "2021-05-13"
+    }
+  ],
+  "derniere_activite": "2024-01-30",
+  "frequence_jours": 11
 }

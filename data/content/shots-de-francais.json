@@ -46,5 +46,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Shot de Français #29 : Entretiens sur la pluralité des mondes, Bernard Le Bouyer de Fontenelle (1686)",
+      "date": "2026-05-06"
+    },
+    {
+      "titre": "Shot de Français #28 : Lettres d’une Péruvienne, Françoise de Graffigny (1752)",
+      "date": "2026-05-05"
+    },
+    {
+      "titre": "Shot de Français #27 : Discours de la servitude volontaire, La Boétie (1574)",
+      "date": "2026-05-04"
+    },
+    {
+      "titre": "Shot de Français #26 : Méthodologie de la contraction de texte",
+      "date": "2025-03-04"
+    },
+    {
+      "titre": "Shot de Français #25 : Pour un oui ou pour un non, Nathalie Sarraute (1982)",
+      "date": "2025-01-27"
+    }
+  ],
+  "derniere_activite": "2026-05-06",
+  "frequence_jours": 38
 }

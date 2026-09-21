@@ -45,5 +45,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Dating : Plus rien ne marche et voici pourquoi | Étude de cas",
+      "date": "2026-09-14"
+    },
+    {
+      "titre": "Les pleurs survenus très/trop tôt ne vous sont pas destinés | Étude de cas",
+      "date": "2026-07-25"
+    },
+    {
+      "titre": "Il part à l’autre bout du monde rejoindre sa « compagne »… Il trouve un fantôme | Étude de cas",
+      "date": "2026-07-19"
+    },
+    {
+      "titre": "Il faut penser ses sentiments et vice et versa | Étude de cas",
+      "date": "2026-07-08"
+    },
+    {
+      "titre": "Il cherchait des réponses mais ne se posait pas les bonnes questions | Étude de cas",
+      "date": "2026-06-25"
+    }
+  ],
+  "derniere_activite": "2026-09-14",
+  "frequence_jours": 10
 }

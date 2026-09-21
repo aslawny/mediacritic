@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-04-01",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "raihanamaizaaa",
+        "titre": "LOVE BEAUCOUP",
+        "texte": "it’s iconic guys continuer parfois je marche dans la rue avec mes écouteurs et je rigole comme une idiote !!"
+      },
+      {
+        "note": 5,
+        "auteur": "Raf2much",
+        "titre": "SHOUTOUT TO KITSCH&MIDGE",
+        "texte": "Masta sur Masta sur Masta je suis complètement fan, pitié allez stream l’affreuse 🙏🙏🙏🙏"
+      },
+      {
+        "note": 5,
+        "auteur": "klyklyde",
+        "titre": "mes vies",
+        "texte": "ditent nous \"c’est quoi ? swan & neo ?~\" et \"je vais manger la banane!!\""
+      }
+    ]
+  }
 }

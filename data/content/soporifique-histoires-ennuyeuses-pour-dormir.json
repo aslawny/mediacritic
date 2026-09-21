@@ -27,5 +27,51 @@
     "news"
   ],
   "addedAt": "2026-07-03",
-  "updatedAt": "2026-09-19"
+  "updatedAt": "2026-09-19",
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-09-21",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "EP28 - L'évolution consonantique du Latin au Français (💤 Endormissement )",
+      "date": "2026-09-13"
+    },
+    {
+      "titre": "EP28 - L'évolution consonantique du Latin au Français (🎙️Écoute continue)",
+      "date": "2026-09-13"
+    },
+    {
+      "titre": "EP27 - La classification des livres en bibilothèque (🎙️Écoute continue)",
+      "date": "2026-09-06"
+    },
+    {
+      "titre": "EP27 - La classification des livres en bibilothèque (💤 Endormissement )",
+      "date": "2026-09-06"
+    },
+    {
+      "titre": "EP26 - Je crée mon profil LinkedIn (💤 Endormissement )",
+      "date": "2026-09-04"
+    }
+  ],
+  "derniere_activite": "2026-09-13",
+  "frequence_jours": 2
 }

@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "(#117) Y'a de la joie - avec MICHAËL HIRSCH (auteur, humoriste et comédien)",
+      "date": "2026-02-23"
+    },
+    {
+      "titre": "(#116) Révélez votre neuroexcellence - avec BILIANA TODOROVA (docteur en sciences, coach et conférencière inte",
+      "date": "2025-08-27"
+    },
+    {
+      "titre": "(#115) Savoir faire et faire savoir",
+      "date": "2025-08-13"
+    },
+    {
+      "titre": "(#114) La supercherie du romantisme - avec TIFFANY COOPER (autrice illustratrice et podcasteuse)",
+      "date": "2025-05-12"
+    },
+    {
+      "titre": "(#113) Le salaire de la peur",
+      "date": "2025-04-28"
+    }
+  ],
+  "derniere_activite": "2026-02-23",
+  "frequence_jours": 13
 }

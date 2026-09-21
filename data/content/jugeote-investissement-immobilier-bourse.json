@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-01",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mixery21",
+        "titre": "Gestion de patrimoine",
+        "texte": "Très bon épisode avec Thibault Goullioud, un confrère qui explique très bien le conseil sur honoraires. Qui est mon avis le seul qui devrait être légalement distribué. Mais ça reste un autre sujet 😊 Je découvre ce podcasteur aussi, et c’est une agréable surprise.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Christophe0108",
+        "titre": "Très instructif, facile à écouter",
+        "texte": "Merci David pour tous ces épisodes de qualité. Tu accueilles un large éventail d’intervenants sui couvrent différents domaines de l’investissement, et ces intervenants apportent réellement de la valeur par leur partage d’expérience, leur expertise.…"
+      },
+      {
+        "note": 5,
+        "auteur": "konalbt",
+        "titre": "Des émissions très qualitatives.",
+        "texte": "Excellent podcast sur l’immobilier avec madame Celia Petrissans. C’était clair et très agréable à écouter. Ce Très intéressé par l’approfondissement de ce sujet avec la même invitée qui explique très bien les subtilités de l’investissement en immobilier."
+      }
+    ]
+  }
 }

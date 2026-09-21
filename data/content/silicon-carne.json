@@ -30,5 +30,29 @@
     "tech",
     "humour"
   ],
-  "updatedAt": "2026-09-20"
+  "updatedAt": "2026-09-21",
+  "episodes_recents": [
+    {
+      "titre": "OpenAI vs Mathématiciens : Qui a vraiment résolu Navier-Stokes ?",
+      "date": "2026-09-18"
+    },
+    {
+      "titre": "The Nerd Reich : la Silicon Valley veut-elle remplacer la démocratie ?",
+      "date": "2026-09-17"
+    },
+    {
+      "titre": "Leur avance est réelle : les robots chinois vs Tesla !",
+      "date": "2026-09-16"
+    },
+    {
+      "titre": "Les data centers, entre guerre écologique et lutte des classes !",
+      "date": "2026-09-15"
+    },
+    {
+      "titre": "Anthropic, OpenAI, Musk : pourquoi ils annoncent le pire !",
+      "date": "2026-09-14"
+    }
+  ],
+  "derniere_activite": "2026-09-18",
+  "frequence_jours": 1
 }

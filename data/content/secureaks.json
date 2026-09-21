@@ -25,5 +25,29 @@
     "numerique"
   ],
   "addedAt": "2026-07-22",
-  "updatedAt": "2026-07-22"
+  "updatedAt": "2026-07-22",
+  "episodes_recents": [
+    {
+      "titre": "Qu'est-ce qu'une IDOR ? Exploitation et prévention",
+      "date": "2026-04-30"
+    },
+    {
+      "titre": "Live Pentest & Cybersécurité #rediffusion du 09/04/2026",
+      "date": "2026-04-09"
+    },
+    {
+      "titre": "Live Pentest & Cybersécurité #rediffusion du 02/04/2026",
+      "date": "2026-04-02"
+    },
+    {
+      "titre": "Comment détecter et exploiter la faille critique React2Shell (CVE-2025-55182)",
+      "date": "2025-12-14"
+    },
+    {
+      "titre": "Comment auditer et corriger une application Symfony #rediffusion du 09/11/2025",
+      "date": "2025-11-10"
+    }
+  ],
+  "derniere_activite": "2026-04-30",
+  "frequence_jours": 13
 }

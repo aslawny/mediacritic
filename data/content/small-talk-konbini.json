@@ -49,5 +49,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Angèle et la bague en vache",
+      "date": "2026-09-16"
+    },
+    {
+      "titre": "Benjamin Tranié et les pédiluves en soupe miso",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "Thomas Pesquet et les corps caverneux",
+      "date": "2026-09-02"
+    },
+    {
+      "titre": "Gradur et le rajoutage de cou",
+      "date": "2026-08-19"
+    },
+    {
+      "titre": "Fanny Ruwet et les lasagnes de respect",
+      "date": "2026-08-05"
+    }
+  ],
+  "derniere_activite": "2026-09-16",
+  "frequence_jours": 13
 }

@@ -26,5 +26,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-09-19"
+  "updatedAt": "2026-09-19",
+  "episodes_recents": [
+    {
+      "titre": "Episode - 100 - La truite au bleu",
+      "date": "2024-11-11"
+    },
+    {
+      "titre": "Episode - 99 - La Truite à la Nage : Un Voyage au Fil de l'Eau avec Guy",
+      "date": "2024-11-04"
+    },
+    {
+      "titre": "Episode - 98 - La truite à l'ardennaise",
+      "date": "2024-08-26"
+    },
+    {
+      "titre": "Episode - 97 - Les cocktails apéritifs",
+      "date": "2024-07-15"
+    },
+    {
+      "titre": "Episode - 96 - Voyage Culinaire, dernière partie des instruments vintages aux gadgets.",
+      "date": "2024-06-24"
+    }
+  ],
+  "derniere_activite": "2024-11-11",
+  "frequence_jours": 14
 }

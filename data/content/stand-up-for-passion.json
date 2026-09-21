@@ -25,5 +25,29 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-09-19"
+  "updatedAt": "2026-09-19",
+  "episodes_recents": [
+    {
+      "titre": "Pourquoi Nous Ne Décidons Jamais Avec la Raison — Avec Guillaume Attias (Neurosciences)",
+      "date": "2025-11-25"
+    },
+    {
+      "titre": "De Prof à Pop : Comment Auguste a Tout Plaqué pour Vivre de son Art",
+      "date": "2025-10-06"
+    },
+    {
+      "titre": "Enfermé mais éveillé : sur la colère, l’injustice et le choix d’un autre demain — avec Eddy Durteste",
+      "date": "2025-09-05"
+    },
+    {
+      "titre": "Virginie Delalande : La différence est une chance",
+      "date": "2022-05-27"
+    },
+    {
+      "titre": "Nils Portemer : de SDF à champion du monde",
+      "date": "2022-05-13"
+    }
+  ],
+  "derniere_activite": "2025-11-25",
+  "frequence_jours": 13
 }

@@ -45,5 +45,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "On découvre « Je vais t’aimer » avec le producteur Roberto Ciurleo (feat. Les Rois du monde est stone etc.)",
+      "date": "2021-05-07"
+    },
+    {
+      "titre": "Le concert de sa vie : notre playlist idéale",
+      "date": "2021-04-30"
+    },
+    {
+      "titre": "Le successeur - c'est toujours le même Stockholm Sardou qui coule",
+      "date": "2020-05-11"
+    },
+    {
+      "titre": "On s'refait la vieille ! Stockholm Sardou en public",
+      "date": "2020-04-08"
+    },
+    {
+      "titre": "On est pas morts, on dort, et on revient en public le 18 décembre !",
+      "date": "2019-12-05"
+    }
+  ],
+  "derniere_activite": "2021-05-07",
+  "frequence_jours": 22
 }

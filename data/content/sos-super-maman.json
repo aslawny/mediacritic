@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "LA CASE 24",
+      "date": "2025-12-24"
+    },
+    {
+      "titre": "LA CASE 23",
+      "date": "2025-12-23"
+    },
+    {
+      "titre": "LA CASE 22",
+      "date": "2025-12-22"
+    },
+    {
+      "titre": "LA CASE 21",
+      "date": "2025-12-21"
+    },
+    {
+      "titre": "LA CASE 20",
+      "date": "2025-12-20"
+    }
+  ],
+  "derniere_activite": "2025-12-24",
+  "frequence_jours": 1
 }

@@ -51,5 +51,29 @@
         "texte": "On compte sur vous ! Avec des invités Foot - Avec vos paris - Avec vos analyses précises - Avec vos épisodes pédagogiques - Et surtout pour encore plus de Foot !"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Ep25 : Débrief de la Coupe du Monde 2026 !",
+      "date": "2026-07-20"
+    },
+    {
+      "titre": "Ep24 : on vous spoile Espagne-Argentine !",
+      "date": "2026-07-17"
+    },
+    {
+      "titre": "Ep22 : on vous spoile France-Espagne !",
+      "date": "2026-07-13"
+    },
+    {
+      "titre": "Ep21 : on vous spoile Norvège-Angleterre !",
+      "date": "2026-07-10"
+    },
+    {
+      "titre": "Ep20 : on vous spoile France-Maroc !",
+      "date": "2026-07-09"
+    }
+  ],
+  "derniere_activite": "2026-07-20",
+  "frequence_jours": 1
 }

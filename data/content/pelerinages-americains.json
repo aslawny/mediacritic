@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2024-09-12",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "marc Club Med",
+        "titre": "Immersion garantie , super qualité",
+        "texte": "J’ai découvert ce podcast via la Story des Echos, merci à eux! je bricole tous les soirs pour mettre à profit ce confinement, et bricoler avec les Pèlerinages Americains dans les oreilles, c’est 2 fois plus de plaisir! Les sujets sont dépaysants, le rythme est équilibré, la quali…"
+      },
+      {
+        "note": 5,
+        "auteur": "Miloane36",
+        "titre": "Into the wild",
+        "texte": "J’avais vu le film et je viens de lire le livre qui m’a beaucoup touchée. Je suis tombée sur le pèlerinage de ce podcast en Alaska sur les traces de Chris et j’ai adoré arpenter ce trail en compagnie d’Alex (le podcasteur, pas celui du livre ;) un grand merci pour ce moment inspi…"
+      },
+      {
+        "note": 5,
+        "auteur": "Nanis_L",
+        "titre": "Les US autrement",
+        "texte": "J’adore ce podcast. Je l’ai recommandé plus d’une fois quand on me demande quoi écouter. Merci Alex de nous faire découvrir les US autrement, de nous faire découvrir ou redécouvrir des légendes avec des histoires fabuleuses & des pilgrims passionnants.…"
+      }
+    ]
+  }
 }

@@ -46,5 +46,29 @@
         "texte": "Merci beaucoup pour ce travail de qualité. J’apprends beaucoup de sage monsieur"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Le Monde 1",
+      "date": "2016-12-28"
+    },
+    {
+      "titre": "Le Monde 2",
+      "date": "2016-12-28"
+    },
+    {
+      "titre": "Le Monde 3",
+      "date": "2016-12-28"
+    },
+    {
+      "titre": "Le Monde 4",
+      "date": "2016-12-28"
+    },
+    {
+      "titre": "Le Monde 5",
+      "date": "2016-12-28"
+    }
+  ],
+  "derniere_activite": "2016-12-28",
+  "frequence_jours": 0
 }

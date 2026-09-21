@@ -23,5 +23,29 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-09-19"
+  "updatedAt": "2026-09-19",
+  "episodes_recents": [
+    {
+      "titre": "La coupe du monde 2019",
+      "date": "2023-10-02"
+    },
+    {
+      "titre": "La coupe du monde 2015",
+      "date": "2023-09-25"
+    },
+    {
+      "titre": "La coupe du monde 2011",
+      "date": "2023-09-21"
+    },
+    {
+      "titre": "La coupe du monde de rugby 2007",
+      "date": "2023-09-18"
+    },
+    {
+      "titre": "La coupe du monde 2003",
+      "date": "2023-09-14"
+    }
+  ],
+  "derniere_activite": "2023-10-02",
+  "frequence_jours": 4
 }

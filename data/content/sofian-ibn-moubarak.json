@@ -26,5 +26,51 @@
     "vulgarisation"
   ],
   "addedAt": "2026-07-24",
-  "updatedAt": "2026-09-19"
+  "updatedAt": "2026-09-19",
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-09-21",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "L'apprentissage de l'islam",
+      "date": "2026-09-06"
+    },
+    {
+      "titre": "La prière du vendredi (Niveau 1 - Cours n°15)",
+      "date": "2026-08-27"
+    },
+    {
+      "titre": "La prière en groupe (Niveau 1 - Cours n°14)",
+      "date": "2026-08-26"
+    },
+    {
+      "titre": "Invocations à dire après la prière (Niveau 1 - Cours n°13)",
+      "date": "2026-08-24"
+    },
+    {
+      "titre": "Les prosternations de distraction (Niveau 1 - Cours n°12)",
+      "date": "2026-08-22"
+    }
+  ],
+  "derniere_activite": "2026-09-06",
+  "frequence_jours": 1
 }

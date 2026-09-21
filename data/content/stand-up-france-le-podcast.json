@@ -25,5 +25,29 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-09-19"
+  "updatedAt": "2026-09-19",
+  "episodes_recents": [
+    {
+      "titre": "EP214 : Se balader dans ses blagues",
+      "date": "2026-09-15"
+    },
+    {
+      "titre": "EP213 : Trop drôle pour être ignoré...",
+      "date": "2026-09-07"
+    },
+    {
+      "titre": "EP212 : Le pouvoir appartient à celui qui remplit les salles",
+      "date": "2026-08-31"
+    },
+    {
+      "titre": "EP211 : Le vrai modèle économique d'un Comedy Club (et pourquoi c'est si compliqué)",
+      "date": "2026-06-27"
+    },
+    {
+      "titre": "EP210 : Tony Hinchcliffe : le roi du roast est-il devenu plus important que ses spectacles ?",
+      "date": "2026-06-20"
+    }
+  ],
+  "derniere_activite": "2026-09-15",
+  "frequence_jours": 11
 }

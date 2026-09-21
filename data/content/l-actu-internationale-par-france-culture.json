@@ -23,5 +23,31 @@
     "géopolitique",
     "international"
   ],
-  "updatedAt": "2026-09-19"
+  "updatedAt": "2026-09-19",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "maduhl",
+        "titre": "Incontournable",
+        "texte": "Animation exemplaire, sujets très fouillés, invités pertinents, contenu passionnant. Merci Christine Ockrent. Vous continuez de nous enrichir. Merci à France Culture de nous permettre de reecouter ces podcasts avec une belle profondeur d’historique."
+      },
+      {
+        "note": 2,
+        "auteur": "Userlanda",
+        "titre": "Macron Dans le “Golf”",
+        "texte": "Merci de préciser quel “Golf” . Je pense que M. Macron voyage dans le golfe “Persique”"
+      },
+      {
+        "note": 5,
+        "auteur": "Hervé2310",
+        "titre": "Toujours dans l’attente",
+        "texte": "Le choix des intervenants, Le temps offert pour chacun de développer sa pensée, Les sujets choisis … Christine Ockrent, valeur sûre de sos corporation, nous éduque et nous élève, l’heure terminée !"
+      }
+    ]
+  }
 }

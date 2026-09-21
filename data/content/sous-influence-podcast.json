@@ -47,5 +47,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Gurky part en France!",
+      "date": "2022-10-15"
+    },
+    {
+      "titre": "Yacine et coach Abdel de retour pour un incroyable podcast!",
+      "date": "2022-01-22"
+    },
+    {
+      "titre": "Kameto nous raconte son incroyable parcours",
+      "date": "2020-07-20"
+    },
+    {
+      "titre": "Scandales Twitch, l'affaire Thekairi78 et des histoires sombres..",
+      "date": "2020-07-06"
+    },
+    {
+      "titre": "Abdel Medjedoub nous raconte sa vie de boxeur pro, combattant MMA, et ancien videur",
+      "date": "2020-01-22"
+    }
+  ],
+  "derniere_activite": "2022-10-15",
+  "frequence_jours": 14
 }
