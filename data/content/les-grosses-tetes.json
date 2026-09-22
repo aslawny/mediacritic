@@ -21,13 +21,16 @@
       "episodeCount": null
     }
   },
-  "mediacritic": null,
+  "mediacritic": {
+    "ep": 47,
+    "url": "https://www.mediacritic.fr/episodes/les-grosses-tetes.html"
+  },
   "tags": [
     "actualite",
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
