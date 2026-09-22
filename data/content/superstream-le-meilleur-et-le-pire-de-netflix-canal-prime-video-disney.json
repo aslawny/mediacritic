@@ -25,7 +25,7 @@
     "series"
   ],
   "addedAt": "2026-08-20",
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -51,5 +51,29 @@
         "texte": "J’ai écouté plusieurs épisodes déjà et je trouve ce podcast très sympa, sans prise de tête mais toujours très intéressant, le ton est amical et les sujets et les nouveautés bien choisis. Continuez comme ça …"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Superstream saison 2, épisode 10 : C'est l'heure du bilan !",
+      "date": "2026-06-18"
+    },
+    {
+      "titre": "Superstream S2E09 : Focus sur les prochaines sorties à venir sur les plateformes",
+      "date": "2026-05-26"
+    },
+    {
+      "titre": "Superstream S2E09 : Une suite à La Casa de papel, bonne ou mauvaise idée ?",
+      "date": "2026-05-15"
+    },
+    {
+      "titre": "Superstream S2E09 : Le Bus (Netflix), top ou flop ? Notre débat !",
+      "date": "2026-05-15"
+    },
+    {
+      "titre": "Superstream saison 2, épisode 9 : L'intégrale",
+      "date": "2026-05-15"
+    }
+  ],
+  "derniere_activite": "2026-06-18",
+  "frequence_jours": 6
 }

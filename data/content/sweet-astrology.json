@@ -25,7 +25,7 @@
     "education"
   ],
   "addedAt": "2026-07-24",
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -51,5 +51,29 @@
         "texte": "Très bon podcast, clair et précis, accessible à tous, même aux personnes qui ne connaissent pas le langage spécifique de l’astrologie. C’est devenu un rdv que j’attends avec impatience et que j’adore!! Merci Nathalie pour ton travail!!"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Nouvelle lune en Lion du 12 août 2026",
+      "date": "2026-08-05"
+    },
+    {
+      "titre": "Août 2026 : entre le soleil de l'été et les projets de demain",
+      "date": "2026-07-29"
+    },
+    {
+      "titre": "Pleine Lune en Verseau",
+      "date": "2026-07-22"
+    },
+    {
+      "titre": "10 choses que l'astrologie m'a apprises ⭐",
+      "date": "2026-07-15"
+    },
+    {
+      "titre": "Nouvelle lune en Cancer : pourquoi ça va faire mal avant de faire du bien",
+      "date": "2026-07-08"
+    }
+  ],
+  "derniere_activite": "2026-08-05",
+  "frequence_jours": 7
 }

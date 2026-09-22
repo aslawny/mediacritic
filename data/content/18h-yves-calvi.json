@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/18h-yves-calvi/id1846798093?uo=4",
       "trackId": 1846798093,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 1.0,
+      "ratingCount": 1,
       "episodeCount": 32
     }
   },
@@ -26,7 +26,7 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-05-03",
+  "updatedAt": "2026-09-22",
   "episodes_recents": [
     {
       "titre": "18H Yves Calvi du dimanche 23 août 2026",

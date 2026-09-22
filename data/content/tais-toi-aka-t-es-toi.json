@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/tais-toi-aka-tes-toi/id1728707462?uo=2",
       "trackId": 1728707462,
       "rating": 4.9,
-      "ratingCount": 1523,
+      "ratingCount": 1525,
       "episodeCount": null
     }
   },
@@ -25,7 +25,7 @@
     "bien-etre"
   ],
   "addedAt": "2026-09-02",
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-06",
@@ -47,5 +47,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "28 choses que j'aurais aimé savoir avant mes 28 ans - partie 1",
+      "date": "2026-09-16"
+    },
+    {
+      "titre": "Ton corps sait ce qui est bon pour toi",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "Savoir poser ses limites : c'est du self love",
+      "date": "2026-09-03"
+    },
+    {
+      "titre": "Guérir est inconfortable... et c'est normal !",
+      "date": "2026-08-26"
+    },
+    {
+      "titre": "Love bombing... ou simplement tomber amoureux ?",
+      "date": "2026-08-19"
+    }
+  ],
+  "derniere_activite": "2026-09-16",
+  "frequence_jours": 7
 }

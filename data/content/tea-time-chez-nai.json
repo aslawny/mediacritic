@@ -27,7 +27,7 @@
     "vulgarisation"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -53,5 +53,29 @@
         "texte": "C'est toujours un plaisir d'écouter tes podcasts. De tes débuts jusqu'à maintenant, tes conseils ont toujours été bénéfiques et permettent de relativiser sur beaucoup de situations du quotidien. Merci pour le travail que tu fournis.…"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "37 - Salariat, entreprenariat & tawakkul : Léou, fondatrice de Layaal Couture nous en parle",
+      "date": "2026-07-20"
+    },
+    {
+      "titre": "36 - Un entretien annuel en couple ?",
+      "date": "2026-07-06"
+    },
+    {
+      "titre": "35 - Le détachement va avec le tawakkul",
+      "date": "2026-06-08"
+    },
+    {
+      "titre": "TEA TALK : achevée par l'épreuve",
+      "date": "2026-04-06"
+    },
+    {
+      "titre": "34 - Je prépare mon Ramadan 3 jours avant (oupsi)",
+      "date": "2026-02-15"
+    }
+  ],
+  "derniere_activite": "2026-07-20",
+  "frequence_jours": 27
 }

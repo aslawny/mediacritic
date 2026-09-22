@@ -25,7 +25,7 @@
     "tech",
     "numerique"
   ],
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -51,5 +51,29 @@
         "texte": "En économie, l'histoire est un éternel recommencement. L'homme se souvient rarement de ses erreurs, surtout si c'est un décideur politique. Heureusement JM Daniel est là pour nous rafraichir la mémoire.…"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "L'intégrale de Tech & Co, la quotidienne, du lundi 21 septembre",
+      "date": "2026-09-21"
+    },
+    {
+      "titre": "L'intégrale du Débrief de la tech du lundi 21 septembre",
+      "date": "2026-09-21"
+    },
+    {
+      "titre": "Jean-François Fallacher, directeur général d'Eutelsat, et Antonin Hirsch, cofondateur et directeur technique d",
+      "date": "2026-09-21"
+    },
+    {
+      "titre": "Anthropic ouvre un laboratoire de biologie – 21/09",
+      "date": "2026-09-21"
+    },
+    {
+      "titre": "Les robots de Figure font le ménage dans 30 maisons – 21/09",
+      "date": "2026-09-21"
+    }
+  ],
+  "derniere_activite": "2026-09-21",
+  "frequence_jours": 0
 }

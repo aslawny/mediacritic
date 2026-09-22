@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/un-balado-%C3%A0-propos-de-spider-man/id1605508714?uo=2",
       "trackId": 1605508714,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 1.0,
+      "ratingCount": 1,
       "episodeCount": null
     }
   },
@@ -27,5 +27,5 @@
     "series"
   ],
   "addedAt": "2026-08-02",
-  "updatedAt": "2026-08-02"
+  "updatedAt": "2026-09-22"
 }

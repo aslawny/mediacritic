@@ -27,7 +27,7 @@
     "societe"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "episodes_recents": [
     {
       "titre": "Nina M.",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2022-11-09",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "blandinelagorce",
+        "titre": "Une fenêtre ouverte sur l’Âme",
+        "texte": "Très chère Lucie, Je souhaite te faire parvenir toute ma gratitude pour ces merveilleux témoignages que j’ai pu écouter. Je viens de terminer celui de Gérald, je ne peux pas décrire l’Amour que j’ai pu ressentir à travers son récit.…"
+      },
+      {
+        "note": 5,
+        "auteur": "lululhalu",
+        "titre": "Utile et beau",
+        "texte": "Merci pour tous ces témoignages qui ouvrent les écoutilles vers des horizons inexplorés avec une bienveillance manifeste"
+      },
+      {
+        "note": 5,
+        "auteur": "Caropau",
+        "titre": "Merci infiniment pour ses pépites 🙏🏼",
+        "texte": "Magnifique et terriblement inspirant ! Une rencontre une découverte et une grande joie ☺️"
+      }
+    ]
+  }
 }

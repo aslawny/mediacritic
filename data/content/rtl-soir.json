@@ -23,7 +23,7 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "episodes_recents": [
     {
       "titre": "Alzheimer : où en est la recherche de traitements ?",
@@ -47,5 +47,27 @@
     }
   ],
   "derniere_activite": "2026-09-20",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-09-22",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

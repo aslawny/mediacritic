@@ -27,7 +27,7 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "episodes_recents": [
     {
       "titre": "#181 - Partir en voyage seule avec ses enfants - Les conseils de Fiona",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-09",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Maryasa_",
+        "titre": "Inspiration",
+        "texte": "L’épisode sur l’ode à la tranquillité est exceptionnel! Je me retrouve énormément dans l’histoire de cette famille. L’important est de ralentir le rythme et passer du temps avec ses proches c’est surtout ça qu’on va chercher en voyage.…"
+      },
+      {
+        "note": 1,
+        "auteur": "1983aamimi",
+        "titre": "Dommage le son- tres mauvaise qualité",
+        "texte": "Dommage le son est de très mauvaise qualité. Dommage car compte tenu intéressant"
+      },
+      {
+        "note": 5,
+        "auteur": "Miss-jess83",
+        "titre": "Inspirant , rempli de jolies témoignages et d’idées",
+        "texte": "Les familles invitées livrent simplement leur expérience de voyage ou témoignent d’une anecdote, de leurs envies et rêves de voyages. Inspirant. Bravo pour ce podcast qui met en valeur les enfants et la famille lors de voyages.…"
+      }
+    ]
+  }
 }

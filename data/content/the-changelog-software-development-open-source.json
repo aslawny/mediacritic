@@ -25,5 +25,29 @@
     "numerique"
   ],
   "addedAt": "2026-07-21",
-  "updatedAt": "2026-09-19"
+  "updatedAt": "2026-09-22",
+  "episodes_recents": [
+    {
+      "titre": "Forking Cal.com to closed source (Interview)",
+      "date": "2026-09-03"
+    },
+    {
+      "titre": "Postgres at PlanetScale (Interview)",
+      "date": "2026-08-25"
+    },
+    {
+      "titre": "Canary tokens and digital tripwires (Interview)",
+      "date": "2026-07-21"
+    },
+    {
+      "titre": "From open source hits to OpenAI (Interview)",
+      "date": "2026-06-05"
+    },
+    {
+      "titre": "MCP on Code Mode (Interview)",
+      "date": "2026-05-15"
+    }
+  ],
+  "derniere_activite": "2026-09-03",
+  "frequence_jours": 14
 }

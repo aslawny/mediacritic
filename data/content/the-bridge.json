@@ -14,7 +14,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/the-bridge/id1837679794?uo=2",
       "trackId": 1837679794,
       "rating": 4.9,
-      "ratingCount": 40,
+      "ratingCount": 41,
       "episodeCount": null
     }
   },
@@ -24,5 +24,29 @@
     "news"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-09-19"
+  "updatedAt": "2026-09-22",
+  "episodes_recents": [
+    {
+      "titre": "THE BRIDGE | Paul Pogba, Medhi Benatia & Soprano",
+      "date": "2026-05-20"
+    },
+    {
+      "titre": "THE BRIDGE | Kylian Mbappé, Achraf Hakimi & Malik Bentalha",
+      "date": "2026-04-03"
+    },
+    {
+      "titre": "The Bridge : S02-E05 | avec Aya Nakamura , Jules Koundé & Simon Porte Jacquemus",
+      "date": "2025-12-08"
+    },
+    {
+      "titre": "The Bridge : S02-E04 | Ft Inoxtag, Xavier Niel, Paul Mirabel & Ronisia présenté par Aurélien Tchouameni et Séb",
+      "date": "2025-09-04"
+    },
+    {
+      "titre": "The Bridge : S02-E03 | Ft Djibril Cissé, Arthur Fils & Edgar-Yves présenté par Aurélien Tchouameni et Sébastie",
+      "date": "2025-07-15"
+    }
+  ],
+  "derniere_activite": "2026-05-20",
+  "frequence_jours": 51
 }

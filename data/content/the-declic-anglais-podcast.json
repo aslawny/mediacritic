@@ -24,7 +24,7 @@
     "education"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-16",
@@ -46,5 +46,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Word of the Week #56: STARE",
+      "date": "2026-08-30"
+    },
+    {
+      "titre": "Word of the Week #55: CHUBBY",
+      "date": "2026-08-25"
+    },
+    {
+      "titre": "Episode 165: Baby Expressions",
+      "date": "2026-08-17"
+    },
+    {
+      "titre": "Episode 164: Babies",
+      "date": "2026-08-13"
+    },
+    {
+      "titre": "Word of the Week #54: TAKE OFF and LAND",
+      "date": "2026-05-24"
+    }
+  ],
+  "derniere_activite": "2026-08-30",
+  "frequence_jours": 7
 }

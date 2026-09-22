@@ -25,12 +25,34 @@
     "series"
   ],
   "addedAt": "2026-07-30",
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "episodes_recents": [
     {
       "titre": "Les Vacances",
       "date": "2019-02-22"
     }
   ],
-  "derniere_activite": "2019-02-22"
+  "derniere_activite": "2019-02-22",
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-09-22",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

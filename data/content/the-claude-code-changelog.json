@@ -26,5 +26,29 @@
     "numerique"
   ],
   "addedAt": "2026-06-09",
-  "updatedAt": "2026-06-09"
+  "updatedAt": "2026-06-09",
+  "episodes_recents": [
+    {
+      "titre": "Claude Code’s Cache Fixes, Prompt Sanitization, and Cost Savings",
+      "date": "2026-09-21"
+    },
+    {
+      "titre": "Claude Code 2.1.277: Safer Subagents and Better CLI Diagnostics",
+      "date": "2026-09-20"
+    },
+    {
+      "titre": "Claude Code’s Cheaper Auto Mode and the Proxy Trap",
+      "date": "2026-09-19"
+    },
+    {
+      "titre": "Claude Code Gets a Send Now Key",
+      "date": "2026-09-18"
+    },
+    {
+      "titre": "Claude Code 2.1.274 Fixes Death Loops and Goal Loss",
+      "date": "2026-09-17"
+    }
+  ],
+  "derniere_activite": "2026-09-21",
+  "frequence_jours": 0
 }

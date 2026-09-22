@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/signes-de-sceptique-%C3%A0-m%C3%A9dium/id1831357086?uo=2",
       "trackId": 1831357086,
-      "rating": 4.9,
-      "ratingCount": 78,
+      "rating": 4.8,
+      "ratingCount": 79,
       "episodeCount": null
     }
   },
@@ -27,7 +27,7 @@
     "vulgarisation"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "episodes_recents": [
     {
       "titre": "Avons-nous vraiment des guides spirituels ? SAISON 2 EPISODE 5 📝 Le journal d’une médium",
@@ -51,5 +51,27 @@
     }
   ],
   "derniere_activite": "2026-09-04",
-  "frequence_jours": 30
+  "frequence_jours": 30,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-09-22",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

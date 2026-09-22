@@ -26,5 +26,31 @@
     "societe"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-09-19"
+  "updatedAt": "2026-09-22",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Flo_nb",
+        "titre": "superbe histoire!",
+        "texte": "J’aime la façon dont le voyage est raconté ! Une vraie évasion ! Impatiente d’écouter les prochains !"
+      },
+      {
+        "note": 1,
+        "auteur": "Nath92130",
+        "titre": "Sans intérêt",
+        "texte": "Rien de nouveau et très monotone. On ne part pas du tout en voyage en écoutant ce podcast."
+      },
+      {
+        "note": 5,
+        "auteur": "Pauline-74",
+        "titre": "La suite...",
+        "texte": "A quand la suite???? Chouette podcast hâte d’écouter les prochains épisodes 😊"
+      }
+    ]
+  }
 }

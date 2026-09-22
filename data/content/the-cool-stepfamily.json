@@ -26,7 +26,7 @@
     "famille"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "be",
@@ -52,5 +52,29 @@
         "texte": "Une petite pépite ce podcast! Dans chaque épisode on ressort des éléments qui nous parlent. À chaque fois, au moins à 2 reprises on se dit « ha oui tiens, moi aussi ». Et puis on s’inspire, on se rassure.. et ça fait du bien!"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Pauline et Julie, Faire équipe entre mère et belle-mère [ÉP. 123]",
+      "date": "2026-09-21"
+    },
+    {
+      "titre": "Ophélie, Trouver sa place en famille recomposée [ÉP. 122]",
+      "date": "2026-09-14"
+    },
+    {
+      "titre": "Margaux, Préserver sa famille du conflit [ÉP. 121]",
+      "date": "2026-09-07"
+    },
+    {
+      "titre": "Laura, Divorcer avec un bébé de 7 mois puis la fluidité en famille recomposée [Ép. 40][Les rediff' de l'été]",
+      "date": "2026-08-31"
+    },
+    {
+      "titre": "Marine, Tout sur la Puzzle Family [Ép. 53][Les rediff' de l'été]",
+      "date": "2026-08-24"
+    }
+  ],
+  "derniere_activite": "2026-09-21",
+  "frequence_jours": 7
 }

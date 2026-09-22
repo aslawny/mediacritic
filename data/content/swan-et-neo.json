@@ -14,9 +14,9 @@
     "youtube": {
       "url": "https://www.youtube.com/@SWANTheVoice",
       "channelId": "UCzYC9ss2P77Ry2LzIDL5Xsw",
-      "subscribers": 7140000,
-      "totalViews": 8398512938,
-      "videoCount": 3612
+      "subscribers": 7150000,
+      "totalViews": 8403185121,
+      "videoCount": 3617
     }
   },
   "mediacritic": null,
@@ -24,5 +24,29 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-09-19"
+  "updatedAt": "2026-09-22",
+  "episodes_recents": [
+    {
+      "titre": "Un lost média retrouvé 25 ans plus tard",
+      "date": "2026-09-21"
+    },
+    {
+      "titre": "J’ai dépensé 100€ de lego !",
+      "date": "2026-09-20"
+    },
+    {
+      "titre": "ON A OFFERT BEAUCOUP TROP DE CADEAUX À MAMAN ! 🎁",
+      "date": "2026-09-20"
+    },
+    {
+      "titre": "ON A CACHÉ TOUS LES CADEAUX D’ANNIVERSAIRE DE MAMAN ! 🎁",
+      "date": "2026-09-20"
+    },
+    {
+      "titre": "10 Façons de Cacher des OBJETS INTERDITS en CLASSE !",
+      "date": "2026-09-19"
+    }
+  ],
+  "derniere_activite": "2026-09-21",
+  "frequence_jours": 1
 }

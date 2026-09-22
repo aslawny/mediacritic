@@ -27,7 +27,7 @@
     "culture"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -53,5 +53,29 @@
         "texte": "Podcast parfait pour approfondir les questions et les enjeux écologiques dans tous les domaines ! Le format ACTION est top également pour mettre en pratique au quotidien des petites habitudes pour la planète"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "La transition écologique pourrait manquer de 900 000 personnes ?⚡ | Guy Pezaku - Murfy",
+      "date": "2026-09-17"
+    },
+    {
+      "titre": "Été | Un lobby peut-il être d'intérêt général ? | Soif de Sens",
+      "date": "2026-08-21"
+    },
+    {
+      "titre": "À quoi rêvons-nous ? Apprendre à désirer le futur 💭| Julien Vidal - 2030 Glorieuses",
+      "date": "2026-07-23"
+    },
+    {
+      "titre": "La RSE a échoué. Et Maintenant ? | Alan Fustec, Goodwill Management & Kerlotec",
+      "date": "2026-07-02"
+    },
+    {
+      "titre": "La crise des imaginaires, et comment en sortir : découverte du SOLARPUNK | @AugustinDemain",
+      "date": "2026-06-14"
+    }
+  ],
+  "derniere_activite": "2026-09-17",
+  "frequence_jours": 21
 }

@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/tftc-le-podcast/id1483918693?uo=2",
       "trackId": 1483918693,
       "rating": 4.8,
-      "ratingCount": 1113,
+      "ratingCount": 1114,
       "episodeCount": null
     }
   },
@@ -27,7 +27,7 @@
     "series"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "be",
@@ -53,5 +53,29 @@
         "texte": "Y-a-t-il un pilote dans l’avion ? est bien une référence humoristique à la série Airport des années 70. Il y a cependant un premier film daté de 1957 qui s’intitule « Zéro jour ! », ancêtre des Airport, en ligne directe puisque le même scénariste."
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "En boucle : Quincy Jones, Miles Davis, etc.",
+      "date": "2026-09-20"
+    },
+    {
+      "titre": "Quand Harry rencontre Sally avec Géraldine Nakache",
+      "date": "2026-09-17"
+    },
+    {
+      "titre": "En boucle : Andrea Bocelli, Cybill Shepherd, etc.",
+      "date": "2026-09-13"
+    },
+    {
+      "titre": "Je classe les 10 films de Quentin Tarantino",
+      "date": "2026-09-12"
+    },
+    {
+      "titre": "En boucle : George Benson, Dire Straits, etc.",
+      "date": "2026-09-06"
+    }
+  ],
+  "derniere_activite": "2026-09-20",
+  "frequence_jours": 6
 }

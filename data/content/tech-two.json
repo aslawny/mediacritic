@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/tech-two/id1278882688?uo=4",
       "trackId": 1278882688,
       "rating": 4.7,
-      "ratingCount": 105,
+      "ratingCount": 106,
       "episodeCount": 125
     }
   },
@@ -24,7 +24,7 @@
     "tech",
     "numérique"
   ],
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -50,5 +50,29 @@
         "texte": "J’ai découvert assez récemment ce podcast très agréable. Petite imprécision dans le dernier épisode, rien n’empêche d’utiliser une vieille Apple Watch plus supportée avec un iPhone dernier cri. C’est l’inverse qui n’est pas possible.…"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Ils auraient pu l'appeler iPhone Two >_<",
+      "date": "2026-09-19"
+    },
+    {
+      "titre": "L'IA, Dandu et moi, on aime pas ça (Apple WWDC 2026)",
+      "date": "2026-07-08"
+    },
+    {
+      "titre": "Apple est une entreprise communiste",
+      "date": "2026-05-25"
+    },
+    {
+      "titre": "Apple est une entreprise communiste",
+      "date": "2026-05-25"
+    },
+    {
+      "titre": "Bien débuter avec Plex",
+      "date": "2026-04-20"
+    }
+  ],
+  "derniere_activite": "2026-09-19",
+  "frequence_jours": 32
 }

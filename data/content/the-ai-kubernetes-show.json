@@ -25,5 +25,29 @@
     "numerique"
   ],
   "addedAt": "2026-08-26",
-  "updatedAt": "2026-08-26"
+  "updatedAt": "2026-08-26",
+  "episodes_recents": [
+    {
+      "titre": "Durable Execution for AI Agents in Kubernetes",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "Matt Barker (BoltMCP) on SPIFFE, AI Agent Identity, and Kubernetes",
+      "date": "2026-08-26"
+    },
+    {
+      "titre": "Disaggregated Inference on Kubernetes",
+      "date": "2026-08-12"
+    },
+    {
+      "titre": "The State of Cloud Native AI and What’s Still Evolving",
+      "date": "2026-07-29"
+    },
+    {
+      "titre": "Treat Testing as a Platform Service on Kubernetes",
+      "date": "2026-07-15"
+    }
+  ],
+  "derniere_activite": "2026-09-09",
+  "frequence_jours": 14
 }

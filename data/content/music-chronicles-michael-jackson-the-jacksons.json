@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/music-chronicles-michael-jackson-the-jacksons/id1885396722?uo=2",
       "trackId": 1885396722,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 1.0,
+      "ratingCount": 1,
       "episodeCount": null
     }
   },
@@ -25,7 +25,7 @@
     "culture"
   ],
   "addedAt": "2026-06-30",
-  "updatedAt": "2026-06-30",
+  "updatedAt": "2026-09-22",
   "episodes_recents": [
     {
       "titre": "The Young Folks",

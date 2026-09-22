@@ -27,7 +27,7 @@
     "vulgarisation"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-19",
@@ -49,5 +49,21 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Le point de départ de ta nouvelle vie",
+      "date": "2026-06-16"
+    },
+    {
+      "titre": "Est ce que tu crois Allah ?",
+      "date": "2024-10-23"
+    },
+    {
+      "titre": "L’ingrédient secret",
+      "date": "2024-05-23"
+    }
+  ],
+  "derniere_activite": "2026-06-16",
+  "frequence_jours": 600
 }

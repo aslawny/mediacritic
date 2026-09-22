@@ -25,5 +25,29 @@
     "tech",
     "numérique"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "Concours National Techinnov 2027 : les nouveautés et les pièges à éviter !",
+      "date": "2026-09-16"
+    },
+    {
+      "titre": "Innovation & Défense : au cœur de l'Agence de l’innovation de défense et du Guichet Unique",
+      "date": "2025-11-20"
+    },
+    {
+      "titre": "HealthTech et biotechnologies : Genopole au cœur de la médecine de demain.",
+      "date": "2025-10-09"
+    },
+    {
+      "titre": "Du champ à l'assiette : innover pour mieux nourrir demain",
+      "date": "2025-09-25"
+    },
+    {
+      "titre": "GreenTech : innover pour accélérer le chemin vers le futur",
+      "date": "2025-08-25"
+    }
+  ],
+  "derniere_activite": "2026-09-16",
+  "frequence_jours": 31
 }

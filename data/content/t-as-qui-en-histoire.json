@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/tas-qui-en-histoire/id1561967744?uo=2",
       "trackId": 1561967744,
       "rating": 4.8,
-      "ratingCount": 1775,
+      "ratingCount": 1776,
       "episodeCount": null
     }
   },
@@ -25,7 +25,7 @@
     "education"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -51,5 +51,29 @@
         "texte": "J’ai adoré ce podcast, j’ai commencé avec celui pour réviser le brevet alors que j’ai 42 ans, histoire de voir ce que faisais les jeunes de 3eme et j’ai accroché de suite! C’est simple, ça va au but, pas de parti pris. Idéal pour s’instruire quand on a bcp de route notamment …"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "140. Romulus, Rémus et la louve : comment est née Rome ?",
+      "date": "2026-09-14"
+    },
+    {
+      "titre": "Lyon, histoire d'une ville-carrefour [Hors-série]",
+      "date": "2026-08-31"
+    },
+    {
+      "titre": "Tours, histoire d'une ville royale et trois fois capitale [Hors-série]",
+      "date": "2026-08-17"
+    },
+    {
+      "titre": "Grasse, ville d'Histoire et de parfums [Hors-série]",
+      "date": "2026-08-03"
+    },
+    {
+      "titre": "Germaine Kanova, photographe de guerre et les fonds de l'ECPAD [Hors-série]",
+      "date": "2026-07-20"
+    }
+  ],
+  "derniere_activite": "2026-09-14",
+  "frequence_jours": 14
 }

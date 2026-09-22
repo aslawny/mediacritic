@@ -24,7 +24,7 @@
   "tags": [
     "santé"
   ],
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -50,5 +50,29 @@
         "texte": "Super podcast : contenus variés et riches, adaptés à la pratique de la médecine! Indispensable pour la formation continue, ou pour réviser des notions oubliées, ou encore découvrir de nouvelles pratiques! Bref. Passionnant!"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Comment je pratique la médecine intégrative",
+      "date": "2026-09-22"
+    },
+    {
+      "titre": "Olivier Hamant: se préparer au chaos",
+      "date": "2026-09-15"
+    },
+    {
+      "titre": "\"Super Docteurs\" évolue!",
+      "date": "2026-09-08"
+    },
+    {
+      "titre": "Cadmium, polluants multiples... comment se protéger des intoxications invisibles? Avec Pierre Souvet",
+      "date": "2026-09-02"
+    },
+    {
+      "titre": "Secrets de bloc: il raconte ses chirurgies les plus folles (Alexandre Mensier)",
+      "date": "2026-08-04"
+    }
+  ],
+  "derniere_activite": "2026-09-22",
+  "frequence_jours": 6
 }

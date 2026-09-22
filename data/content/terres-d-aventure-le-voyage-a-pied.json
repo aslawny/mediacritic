@@ -26,5 +26,29 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-19"
+  "updatedAt": "2026-09-22",
+  "episodes_recents": [
+    {
+      "titre": "En itinérance",
+      "date": "2024-03-27"
+    },
+    {
+      "titre": "L'esprit d’exploration",
+      "date": "2023-12-23"
+    },
+    {
+      "titre": "Dehors la nuit",
+      "date": "2023-09-28"
+    },
+    {
+      "titre": "L’appel des sommets",
+      "date": "2023-06-14"
+    },
+    {
+      "titre": "Le voyage à vélo",
+      "date": "2023-04-11"
+    }
+  ],
+  "derniere_activite": "2024-03-27",
+  "frequence_jours": 95
 }

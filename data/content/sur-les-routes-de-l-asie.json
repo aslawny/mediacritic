@@ -26,7 +26,7 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -52,5 +52,29 @@
         "texte": "Un podcast génial, enrichissant et captivant qui donne envie de voyager certes mais qui permet également de voyager en esprit si on a ni les moyens ni le temps de le faire.…"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "#70 – Redécouvrir le delta du Mékong (Vietnam)",
+      "date": "2020-12-17"
+    },
+    {
+      "titre": "#69 – Persévérance sur le toit du monde (Népal)",
+      "date": "2020-01-27"
+    },
+    {
+      "titre": "#68 – Darjeeling et Sikkim, en terre himalayenne (Inde)",
+      "date": "2019-11-29"
+    },
+    {
+      "titre": "#66 – L’espoir se nomme Sulubaaï (Philippines)",
+      "date": "2019-05-22"
+    },
+    {
+      "titre": "#65 – Ils courent l’Asie en ultra",
+      "date": "2019-04-13"
+    }
+  ],
+  "derniere_activite": "2020-12-17",
+  "frequence_jours": 40
 }

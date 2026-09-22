@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/star-wars-en-direct/id76030944?uo=4",
       "trackId": 76030944,
       "rating": 4.4,
-      "ratingCount": 75,
+      "ratingCount": 76,
       "episodeCount": 717
     }
   },
@@ -24,7 +24,7 @@
     "gaming",
     "rétro"
   ],
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "episodes_recents": [
     {
       "titre": "Critique du roman Star Wars: Legacy",
@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-09-17",
-  "frequence_jours": 3
+  "frequence_jours": 3,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Joss Mandal",
+        "titre": "En attendant The Force Awakens",
+        "texte": "Si vous êtes accros à l’univers Star Wars, venez écouter le seul et unique podcast qui en parle en Français. Attention certaines émissions ne sont pas à mettre entre toutes les oreilles car elles contiennent des informations indiscrètes sur le futur de la Saga et notamment sur Th…"
+      },
+      {
+        "note": 1,
+        "auteur": "les légendes de star wars",
+        "titre": "Mouais",
+        "texte": "Ils ne parlent pas vraiment des livres mais ils donnent que leurs avis du coup c’est NAZ !!!!!!!!!!!!!!!"
+      },
+      {
+        "note": 5,
+        "auteur": "Nayaree",
+        "titre": "Par les fans pour les fans",
+        "texte": "Pour qui souhaite s'immerger au sein de la galaxie Star Wars, voici le podcast francophone qu'il faut. Tout y est abordé, les produits dérivés, les romans, BD, séries télé, conventions et bien sûr, les films. Fort sympathique."
+      }
+    ]
+  }
 }

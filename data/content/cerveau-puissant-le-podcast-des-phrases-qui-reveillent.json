@@ -27,7 +27,7 @@
     "news"
   ],
   "addedAt": "2026-05-31",
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "episodes_recents": [
     {
       "titre": "[Extrait] L’amour, le deuil et la force de continuer - Christelle Arrighi",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-08-29",
-  "frequence_jours": 4
+  "frequence_jours": 4,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Yanous75",
+        "titre": "A suivre de près !!",
+        "texte": "Une pépite à écouter ! beaucoup de sujet qui d’habitude sont lourds et parfois passés à la trappes, sont abordés. Et c’est ce qu’il nous faut, ce podcast me donne de l’espoir dans les moments difficiles et il me motive au quotidien.…"
+      },
+      {
+        "note": 5,
+        "auteur": "ilona16055",
+        "titre": "À écouter absolument !!!",
+        "texte": "Le podcast Cerveau Puissant est intéressant et motivant, surtout si tu t’intéresses au développement personnel. Les épisodes sont accessibles et donnent des conseils concrets pour mieux gérer ses pensées, sa concentration et ses habitudes au quotidien."
+      },
+      {
+        "note": 5,
+        "auteur": "annaelledontoni",
+        "titre": "Super podcast!",
+        "texte": "Un podcast vraiment motivant et inspirant. J’aime beaucoup les sujets abordés et la façon dont ils sont présentés, ça donne envie de se dépasser et de passer à l’action. Un podcast que j’écoute avec plaisir et que je recommande."
+      }
+    ]
+  }
 }

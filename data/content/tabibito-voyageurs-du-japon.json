@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/tabibito-voyageurs-du-japon/id1548150874?uo=2",
       "trackId": 1548150874,
       "rating": 4.7,
-      "ratingCount": 45,
+      "ratingCount": 46,
       "episodeCount": null
     }
   },
@@ -26,5 +26,29 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-19"
+  "updatedAt": "2026-09-22",
+  "episodes_recents": [
+    {
+      "titre": "S6 Episode 49 - Les châteaux originaux du Japon",
+      "date": "2026-09-19"
+    },
+    {
+      "titre": "S6 Episode 48 - Suwa",
+      "date": "2026-02-27"
+    },
+    {
+      "titre": "S5 Episode 47 - Kochi et le yosakoi",
+      "date": "2025-08-22"
+    },
+    {
+      "titre": "S5 Episode 46 - Les jardins de Tokyo",
+      "date": "2025-06-06"
+    },
+    {
+      "titre": "S5 Episode 45 - Nagoya (partie 2)",
+      "date": "2025-05-09"
+    }
+  ],
+  "derniere_activite": "2026-09-19",
+  "frequence_jours": 77
 }

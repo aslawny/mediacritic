@@ -26,7 +26,7 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-07",
@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Super Ciné Battle 233 : rien à voir avec nos 10 ans",
+      "date": "2026-06-08"
+    },
+    {
+      "titre": "Super Ciné Battle 232 : film en combi moulante",
+      "date": "2026-04-12"
+    },
+    {
+      "titre": "Super Ciné Battle 231 : mieux qu’Avatar",
+      "date": "2025-12-31"
+    },
+    {
+      "titre": "Super Ciné Battle 230 : antémacronisme",
+      "date": "2025-11-19"
+    },
+    {
+      "titre": "Super Ciné Battle 229 : John Connard",
+      "date": "2025-10-23"
+    }
+  ],
+  "derniere_activite": "2026-06-08",
+  "frequence_jours": 36
 }

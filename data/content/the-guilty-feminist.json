@@ -23,7 +23,7 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -49,5 +49,29 @@
         "texte": "I listen to this podcast way too much, I absolutely love it. It is inspirational, educational, informative, hilarious, kind, moving and just exactly what I want to listen to all day long. So refreshing to hear new, young, coloured, disbaled women providing the best comedy.…"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "501. Out North East with Alison Spittle, Peter Darrant and Sunday Hicks",
+      "date": "2026-09-21"
+    },
+    {
+      "titre": "Remembering Bonnie Greer",
+      "date": "2026-09-16"
+    },
+    {
+      "titre": "500. Five Hundredth Episode with Kate Cheka and the Palestinian Circus",
+      "date": "2026-09-14"
+    },
+    {
+      "titre": "In Conversation with Indhu Rubasingham",
+      "date": "2026-09-12"
+    },
+    {
+      "titre": "499. Where You End and I Begin with Lindsey Mendick",
+      "date": "2026-09-07"
+    }
+  ],
+  "derniere_activite": "2026-09-21",
+  "frequence_jours": 5
 }

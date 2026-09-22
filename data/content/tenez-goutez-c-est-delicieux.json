@@ -27,7 +27,7 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-16",
@@ -49,5 +49,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "La collection TGCD : Miam !",
+      "date": "2026-06-29"
+    },
+    {
+      "titre": "La collection TGCD : Les livres",
+      "date": "2026-06-22"
+    },
+    {
+      "titre": "La collection TGCD : La musique",
+      "date": "2026-06-15"
+    },
+    {
+      "titre": "La collection TGCD : La scène",
+      "date": "2026-06-08"
+    },
+    {
+      "titre": "\"La collection TGCD\" : Les passions",
+      "date": "2026-06-01"
+    }
+  ],
+  "derniere_activite": "2026-06-29",
+  "frequence_jours": 7
 }

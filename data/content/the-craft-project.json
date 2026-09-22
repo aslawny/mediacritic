@@ -27,7 +27,7 @@
     "culture"
   ],
   "addedAt": "2026-08-05",
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -53,5 +53,29 @@
         "texte": "Un grand merci à vous Raphaëlle pour ces merveilleux podcasts que vous nous offrez ici. Grâce à vous et vos invités, nous découvrons le monde de l’artisanat français.…"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "# 110 La gravure, secret d'initiés avec Edmond de Rothschild Family Philanthropy",
+      "date": "2026-07-08"
+    },
+    {
+      "titre": "#109 Tristan de Witte, l'engagement pour l'industrie des savoir-faire",
+      "date": "2026-06-01"
+    },
+    {
+      "titre": "#108 Jose Fonseca, le sens du devoir des compagnons",
+      "date": "2026-03-23"
+    },
+    {
+      "titre": "#107 L'engagement par la culture avec Samuel Valensi",
+      "date": "2026-02-18"
+    },
+    {
+      "titre": "#106 La culture de l'engagement par Elsa Da Costa,",
+      "date": "2026-01-17"
+    }
+  ],
+  "derniere_activite": "2026-07-08",
+  "frequence_jours": 48
 }

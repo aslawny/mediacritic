@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/terry-interview/id1840462472?uo=4",
       "trackId": 1840462472,
       "rating": 5.0,
-      "ratingCount": 8,
+      "ratingCount": 9,
       "episodeCount": 7
     }
   },
@@ -26,5 +26,29 @@
     "retro"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-09-19"
+  "updatedAt": "2026-09-22",
+  "episodes_recents": [
+    {
+      "titre": "#8 Gunhed TV de ses débuts comme gérant de boutique JV à écrire des livres.",
+      "date": "2026-06-25"
+    },
+    {
+      "titre": "#7 Julo Production Manager Chez Microids",
+      "date": "2026-05-14"
+    },
+    {
+      "titre": "#6 Régis Monterrin Journaliste Jeu Vidéo",
+      "date": "2026-03-26"
+    },
+    {
+      "titre": "#5 Meth Président De HFS Play",
+      "date": "2026-02-19"
+    },
+    {
+      "titre": "#4 Marc Nivelle Directeur Des Ventes De Maximum Entertainment France",
+      "date": "2026-01-15"
+    }
+  ],
+  "derniere_activite": "2026-06-25",
+  "frequence_jours": 35
 }

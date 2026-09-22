@@ -26,7 +26,7 @@
     "tech",
     "numérique"
   ],
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -52,5 +52,29 @@
         "texte": "Je n’ai pas changé d’avis sur ce podcast d’excellence avec des animateurs toujours aussi brillants au fur des années qui s’écoulent. J’ai néanmoins un petit reproche à faire sur le néanmoins excellent épisode sur Genius Scan, excellente App dont j’ai été utilisateur pro dès sa so…"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Bullet time par IA et cafards zombies",
+      "date": "2026-09-19"
+    },
+    {
+      "titre": "ChatGPT a-t-il triché en maths ?",
+      "date": "2026-09-16"
+    },
+    {
+      "titre": "iPhone Duo, iPhone 18 Pro et les autres annonces Apple",
+      "date": "2026-09-12"
+    },
+    {
+      "titre": "GPT-6 Astra : AGI ou pas ? IFA Berlin 2026",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "Extrait : Quand l’IA devient mathématicienne",
+      "date": "2026-09-07"
+    }
+  ],
+  "derniere_activite": "2026-09-19",
+  "frequence_jours": 2
 }

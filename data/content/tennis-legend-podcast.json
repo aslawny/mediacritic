@@ -24,7 +24,7 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -50,5 +50,29 @@
         "texte": "Merci Max pour ce super épisode avec ce jeune Arthur Van Assche qui assume si bien son originalité !! C’est top d’entendre aussi cette évolution sur la gestion des objectifs, où ce qui devient le plus important c’est le chemin et le progrès et non un objectif de résultat, qui mon…"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "La jungle des tournois Futures : peut-on vraiment gagner de l’argent ? (Bagnères-de-Bigorre)",
+      "date": "2026-09-17"
+    },
+    {
+      "titre": "Le plan à 39M$ d'un juriste Belge pour sauver financièrement 1000 joueurs de tennis : Julien Raymakers",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "Jérome Inzérillo : Il était l’un des meilleurs jeunes Français, les choix de carrière qu’il regrette aujourd’h",
+      "date": "2026-09-02"
+    },
+    {
+      "titre": "Comment repère-t-on les futures stars du tennis ? Dans les coulisses de la “Coupe Davis” des 14 ans",
+      "date": "2026-08-26"
+    },
+    {
+      "titre": "ARRÊTEZ LES DOUBLES FAUTES : le secret d'un meilleur service | Cyril Genevois",
+      "date": "2026-07-30"
+    }
+  ],
+  "derniere_activite": "2026-09-17",
+  "frequence_jours": 7
 }

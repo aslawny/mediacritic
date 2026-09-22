@@ -26,7 +26,7 @@
     "series"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "episodes_recents": [
     {
       "titre": "Fjord, L'Inconnue",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-12",
-  "frequence_jours": 20
+  "frequence_jours": 20,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Romiboy",
+        "titre": "Cf commentaire",
+        "texte": "Bonne durée car à quoi bon être exhaustifs, intervenants intéressants et même drôles et qui s’adressent à des adultes, que demander de plus. Ah oui, dommage de spoiler. Qualité de son médiocre en revanche."
+      },
+      {
+        "note": 1,
+        "auteur": "Andromede2024",
+        "titre": "Au secours …",
+        "texte": "La « critique » de cinéma comme on ne l’aime pas … Des théories fumeuses et des interprétations alambiquées entre trois chroniqueurs… qui se galvanisent entre eux … on ne comprend rien …"
+      },
+      {
+        "note": 5,
+        "auteur": "Benoît Pannetier",
+        "titre": "Son faible",
+        "texte": "Hello super podcast mais possible d’augmenter le volume sonore ? Dur d’écouter dans le métro avec les écouteurs, même à fond. Merci !"
+      }
+    ]
+  }
 }

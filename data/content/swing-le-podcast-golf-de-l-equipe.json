@@ -24,7 +24,7 @@
     "sport"
   ],
   "addedAt": "2026-05-24",
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -50,5 +50,29 @@
         "texte": "J'écoute ce podcast depuis le numéro 1. Enfin un vrai bon podcast animé par des passionnés connaisseurs....et le tout en français Môssieur !!😎 et surtout continuez de nous abreuver d'une fouletitube d'infos golfiques !!!⛳️🏌🏿"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Solheim express : Irrésistible, l'Europe remporte la Solheim Cup",
+      "date": "2026-09-13"
+    },
+    {
+      "titre": "Solheim express : 8-8 un samedi électrique !",
+      "date": "2026-09-12"
+    },
+    {
+      "titre": "Solheim Express : solide comme Nadaud !",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "Solheim express : Céline Boutier alignée d'entrée",
+      "date": "2026-09-10"
+    },
+    {
+      "titre": "Solheim Express : Nastasia Nadaud, les coulisses de sa préparation",
+      "date": "2026-09-09"
+    }
+  ],
+  "derniere_activite": "2026-09-13",
+  "frequence_jours": 1
 }

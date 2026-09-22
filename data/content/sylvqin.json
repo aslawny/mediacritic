@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/sylvqin/id1814629052?uo=2",
       "trackId": 1814629052,
       "rating": 4.9,
-      "ratingCount": 53,
+      "ratingCount": 54,
       "episodeCount": null
     }
   },
@@ -27,5 +27,29 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-19"
+  "updatedAt": "2026-09-22",
+  "episodes_recents": [
+    {
+      "titre": "Le braquage de la NASA le plus stupide de l’histoire",
+      "date": "2025-10-02"
+    },
+    {
+      "titre": "Le hacker qui a trahi le FBI… pour monter un empire du crime",
+      "date": "2025-07-25"
+    },
+    {
+      "titre": "Le fiasco des sites secrets de la CIA",
+      "date": "2025-06-10"
+    },
+    {
+      "titre": "Comment pirater un complexe nucléaire ? (le virus Stuxnet)",
+      "date": "2025-05-20"
+    },
+    {
+      "titre": "La mystérieuse salle 641A… qui vous surveille",
+      "date": "2025-05-15"
+    }
+  ],
+  "derniere_activite": "2025-10-02",
+  "frequence_jours": 44
 }

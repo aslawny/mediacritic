@@ -23,7 +23,7 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -49,5 +49,29 @@
         "texte": "De nombreux débats de qualités autour de sujets de musculation divers et variés avec un équilibre entre la théorie, la pratique... et l’humour ! ☺️ Accompagnée « d’anecdote de vieux » que l’on adore et d’une grande expérience partagée avec humilité et simplicité.…"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "POURQUOI il n'aurait JAMAIS dû ARRÊTER la musculation... (Grave ERREUR)",
+      "date": "2026-09-18"
+    },
+    {
+      "titre": "L'ARNAQUE de la CREME de RIZ : Ce que c'est vraiment...",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "POURQUOI tout le monde fait N'IMPORTE QUOI ? (Les explications)",
+      "date": "2026-09-04"
+    },
+    {
+      "titre": "La grande IMPOSTURE du SPRINT (Muscle, Testo et VO2)",
+      "date": "2026-08-28"
+    },
+    {
+      "titre": "FORCE, ENDURANCE, METCON : La formule de l'athlète COMPLET ? (ATHX)",
+      "date": "2026-08-21"
+    }
+  ],
+  "derniere_activite": "2026-09-18",
+  "frequence_jours": 7
 }

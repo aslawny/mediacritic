@@ -26,7 +26,7 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-16",
@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "#121 - Faut-il imposer une agriculture 100% biologique ? (Procès fictif Palmarès 2026)",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "[Replay de l'été #3] - Les biais cognitifs nous empêchent-ils d'agir pour l'environnement ?",
+      "date": "2026-08-26"
+    },
+    {
+      "titre": "[Replay de l'été #2] - La face cachée de l'élevage, avec Ulysse Thevenon",
+      "date": "2026-08-19"
+    },
+    {
+      "titre": "[Replay de l'été #1] - Avion, train, voiture : quel est le véritable impact des transports ?",
+      "date": "2026-08-12"
+    },
+    {
+      "titre": "[Extrait #120] - L'huile d'olive de supermarché est-elle une arnaque ?",
+      "date": "2026-08-08"
+    }
+  ],
+  "derniere_activite": "2026-09-09",
+  "frequence_jours": 4
 }

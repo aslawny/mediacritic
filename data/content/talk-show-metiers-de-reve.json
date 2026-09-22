@@ -24,7 +24,7 @@
     "sciences",
     "vulgarisation"
   ],
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -50,5 +50,29 @@
         "texte": "Pertinence des intervenants et des questions de Jokariz dont le ton simple et authentique rend ce partage d’expériences vrai et accessible : une gageure à l’heure du fake/bluff !"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "HEC, Bain, démission : pourquoi le schéma de réussite classique ne satisfait plus ?",
+      "date": "2026-09-20"
+    },
+    {
+      "titre": "PDG TotalEnergies : \"Nous apportons de vraies réponses aux Français !\"",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "MINISTRE DU TRAVAIL : TRAVAILLE-T-ON ASSEZ EN FRANCE ?",
+      "date": "2026-08-29"
+    },
+    {
+      "titre": "LES VRAIS MÉTIERS QUE L'IA CRÉE NE SONT PAS CEUX QUE VOUS CROYEZ !",
+      "date": "2026-07-18"
+    },
+    {
+      "titre": "Le n°2 mondial des échecs révèle tous ses secrets et ses stratégies !",
+      "date": "2026-07-08"
+    }
+  ],
+  "derniere_activite": "2026-09-20",
+  "frequence_jours": 13
 }

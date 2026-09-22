@@ -24,7 +24,7 @@
     "education"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "episodes_recents": [
     {
       "titre": "Je penserai les corps en dehors de la norme : la vieillophobie",
@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2025-09-11",
-  "frequence_jours": 36
+  "frequence_jours": 36,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Step6279",
+        "titre": "Le meilleur podcast du monde entier",
+        "texte": "Certainement le meilleur podcast de santé francophone et mon podcast préféré tout court. Un véritable concentré d’humanité qui fait réfléchir avec beaucoup d’émotion dans chaque épisode.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Fannouz",
+        "titre": "D’utilité publique",
+        "texte": "Ce podcast est passionnant, sérieux mais très accessible, rythmé, sourcé, bouleversant de bien des manières. Accompagnant des étudiants en médecine au quotidien, je pense que toutes et tous devraient l’écouter et n’hésite pas à leur faire connaître.…"
+      },
+      {
+        "note": 5,
+        "auteur": "floetche",
+        "titre": "Émouvant et instructif",
+        "texte": "Merci pour ce podcast qui donne à voir une nouvelle façon d’aborder le soin"
+      }
+    ]
+  }
 }

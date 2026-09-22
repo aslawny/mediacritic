@@ -27,7 +27,7 @@
     "cuisine"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -53,5 +53,29 @@
         "texte": "Tant qu’il y aura une Julia pour nous faire découvrir (ou re découvrir) des talents, connus ou moins connus, des personnalités , des parcours, des fêlures, et toutes ces choses qui font d’un humain un humain intéressant, nous serons protégés à la fois des anathèmes et des lieux c…"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "( rediff) 7-Juan Arbelaez: \" Je dois tout à la France. \"",
+      "date": "2026-04-09"
+    },
+    {
+      "titre": "Antoine de Jerphanion: \" Arrêtons de mettre de la politique partout\".",
+      "date": "2026-01-27"
+    },
+    {
+      "titre": "05-Aïssa Maïga: \" Je ne me souviens pas de la dernière fois que j'ai vu mon père. Mais je me souviens de la pr",
+      "date": "2026-01-05"
+    },
+    {
+      "titre": "62- Olivier Soubrane: \" On s'attache inévitablement à ses patients\".",
+      "date": "2025-12-26"
+    },
+    {
+      "titre": "61- Edouard Bielle: \" Adolescent, j'avais besoin d'être amoureux d'une fille chaque année.\"",
+      "date": "2025-12-15"
+    }
+  ],
+  "derniere_activite": "2026-04-09",
+  "frequence_jours": 14
 }

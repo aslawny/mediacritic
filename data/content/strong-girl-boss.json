@@ -24,7 +24,7 @@
     "histoire"
   ],
   "addedAt": "2026-05-28",
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -50,5 +50,29 @@
         "texte": "Merci Mathilde pour cette transparence et pour cet authenticité ! Un contenu que je dévore à chaque moment de libre dans mes journées, clairement LE podcast qu’il me fallait et qui me ressemble …"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Ne croyez pas ce que vous voyez sur les réseaux sociaux - ep 135",
+      "date": "2026-09-21"
+    },
+    {
+      "titre": "Comment j’ai fait pour que mon business fonctionne dès les premiers mois - ep 134",
+      "date": "2026-09-14"
+    },
+    {
+      "titre": "J’ai décidé de changer d'approche pour accompagner mes clientes - ep 133",
+      "date": "2026-09-07"
+    },
+    {
+      "titre": "Tu as déjà tout, pourquoi ça ne marche pas ? Cahier d’été - ep 132",
+      "date": "2026-08-31"
+    },
+    {
+      "titre": "Peux-tu partir en vacances sans que ton business s’arrête ? Cahier d’été SGB 4 - ep 131",
+      "date": "2026-08-24"
+    }
+  ],
+  "derniere_activite": "2026-09-21",
+  "frequence_jours": 7
 }

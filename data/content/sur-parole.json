@@ -25,7 +25,7 @@
     "sciences"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-16",
@@ -47,5 +47,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "REDIFFUSION ! \"Je ne suis pas un héros\" avec Julien Santini",
+      "date": "2026-02-05"
+    },
+    {
+      "titre": "REDIFFUSION ! \"Je marche seul\" avec Adrien Menielle",
+      "date": "2026-01-29"
+    },
+    {
+      "titre": "\"Dans mon corps\" avec Audrey et Bobby.",
+      "date": "2026-01-24"
+    },
+    {
+      "titre": "EXTRAIT : \"Les paroles prefs d'Audrey Giacomini (ma meuf)\"",
+      "date": "2026-01-21"
+    },
+    {
+      "titre": "\"S8ter Boi\" avec Vincent Désagnat",
+      "date": "2025-12-13"
+    }
+  ],
+  "derniere_activite": "2026-02-05",
+  "frequence_jours": 3
 }

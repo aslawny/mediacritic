@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/super-vieux-jeux/id1719236317?uo=4",
       "trackId": 1719236317,
       "rating": 4.8,
-      "ratingCount": 87,
+      "ratingCount": 88,
       "episodeCount": 27
     }
   },
@@ -26,7 +26,7 @@
     "retro"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-22",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-19",
@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "S03E04 - La Wii a 20 ans !",
+      "date": "2026-07-23"
+    },
+    {
+      "titre": "Quoi de Vieux ?🕹️ Sony a-t-il sonné le glas du rétro ?",
+      "date": "2026-07-01"
+    },
+    {
+      "titre": "S03E03 - L’art de la jaquette à travers 30 illustrations de boite de jeu",
+      "date": "2026-06-11"
+    },
+    {
+      "titre": "Quoi de Vieux ? 🕹️ Evercade Nexus, Pop Corn Duel ou Impossible Mission III",
+      "date": "2026-05-29"
+    },
+    {
+      "titre": "Quoi de Vieux ?🕹️Spéciale Neo Geo AES+ (avec Alex Pilot)",
+      "date": "2026-05-11"
+    }
+  ],
+  "derniere_activite": "2026-07-23",
+  "frequence_jours": 20
 }

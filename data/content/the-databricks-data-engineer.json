@@ -25,5 +25,29 @@
     "numerique"
   ],
   "addedAt": "2026-07-24",
-  "updatedAt": "2026-07-24"
+  "updatedAt": "2026-07-24",
+  "episodes_recents": [
+    {
+      "titre": "Why Databricks serverless exists, and which of your jobs should stay on classic clusters",
+      "date": "2026-09-21"
+    },
+    {
+      "titre": "How Databricks engineers lose the final round (and the 4 places it happens)",
+      "date": "2026-09-14"
+    },
+    {
+      "titre": "The real reason your Databricks week never got simpler - it isn't the lakehouse",
+      "date": "2026-09-07"
+    },
+    {
+      "titre": "The Databricks incident where the most senior engineer never touched the keyboard",
+      "date": "2026-08-31"
+    },
+    {
+      "titre": "9 Databricks decisions that reveal your real seniority (and one that only looks senior)",
+      "date": "2026-08-24"
+    }
+  ],
+  "derniere_activite": "2026-09-21",
+  "frequence_jours": 7
 }
