@@ -46,5 +46,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Pour Etre Libre 20 \"Si On Chantait\", un épisode charnière",
+      "date": "2026-09-19"
+    },
+    {
+      "titre": "Pour être Libre 19 \"La conscience tranquille\"",
+      "date": "2026-09-10"
+    },
+    {
+      "titre": "Pour être Libre 18 \"Qualification\"",
+      "date": "2026-09-02"
+    },
+    {
+      "titre": "Pour être Libre 17 \"Sacha\" Le nouveau perso.. ça change touuuuuut !!!!!!",
+      "date": "2026-08-11"
+    },
+    {
+      "titre": "Pour être libre, Episode 16 \"Jalousie\"",
+      "date": "2026-08-07"
+    }
+  ],
+  "derniere_activite": "2026-09-19",
+  "frequence_jours": 7
 }

@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Avengers : L'Ère d'Ultron",
+      "date": "2026-09-22"
+    },
+    {
+      "titre": "Supergirl (2026)",
+      "date": "2026-09-07"
+    },
+    {
+      "titre": "Spider-Man : Brand New Day",
+      "date": "2026-08-11"
+    },
+    {
+      "titre": "Avengers",
+      "date": "2026-08-04"
+    },
+    {
+      "titre": "Black Widow",
+      "date": "2026-07-27"
+    }
+  ],
+  "derniere_activite": "2026-09-22",
+  "frequence_jours": 15
 }

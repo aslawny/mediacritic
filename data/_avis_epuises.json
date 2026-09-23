@@ -1,6 +1,6 @@
 {
-  "maj": "2026-09-22",
-  "total": 495,
+  "maj": "2026-09-23",
+  "total": 524,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -2176,6 +2176,12 @@
       "fiche": "fiches/f-d-up-movies.html"
     },
     {
+      "slug": "request-in-peace",
+      "titre": "Request In Peace",
+      "notes_apple": 123,
+      "fiche": "fiches/request-in-peace.html"
+    },
+    {
       "slug": "voa-learning-english-podcast-voa-learning-english",
       "titre": "VOA Learning English Podcast - VOA Learning English",
       "notes_apple": 122,
@@ -2972,6 +2978,174 @@
       "titre": "J’ai lu un livre",
       "notes_apple": 74,
       "fiche": "fiches/j-ai-lu-un-livre.html"
+    },
+    {
+      "slug": "les-audios-asmr-behindthemoons",
+      "titre": "Les audios ASMR - BehindTheMoons",
+      "notes_apple": 74,
+      "fiche": "fiches/les-audios-asmr-behindthemoons.html"
+    },
+    {
+      "slug": "les-dessous-de-zai-zai",
+      "titre": "Les Dessous de Zaï Zaï",
+      "notes_apple": 74,
+      "fiche": "fiches/les-dessous-de-zai-zai.html"
+    },
+    {
+      "slug": "minuit-dans-le-siecle",
+      "titre": "Minuit dans le siècle",
+      "notes_apple": 74,
+      "fiche": "fiches/minuit-dans-le-siecle.html"
+    },
+    {
+      "slug": "lisa-delmoitiez-n-aurait-pas-fait-comme-ca",
+      "titre": "Lisa Delmoitiez n'aurait pas fait comme ça…",
+      "notes_apple": 74,
+      "fiche": "fiches/lisa-delmoitiez-n-aurait-pas-fait-comme-ca.html"
+    },
+    {
+      "slug": "notube",
+      "titre": "NoTube",
+      "notes_apple": 74,
+      "fiche": "fiches/notube.html"
+    },
+    {
+      "slug": "solae-le-rendez-vous-protestant",
+      "titre": "Solaé, le rendez-vous protestant",
+      "notes_apple": 74,
+      "fiche": "fiches/solae-le-rendez-vous-protestant.html"
+    },
+    {
+      "slug": "au-commencement",
+      "titre": "Au Commencement",
+      "notes_apple": 73,
+      "fiche": "fiches/au-commencement.html"
+    },
+    {
+      "slug": "bons-a-tirer",
+      "titre": "Bons à tirer",
+      "notes_apple": 73,
+      "fiche": "fiches/bons-a-tirer.html"
+    },
+    {
+      "slug": "ecouter-le-cinema",
+      "titre": "Écouter le cinéma",
+      "notes_apple": 73,
+      "fiche": "fiches/ecouter-le-cinema.html"
+    },
+    {
+      "slug": "ca-a-commence-comme-ca",
+      "titre": "Ça a commencé comme ça",
+      "notes_apple": 73,
+      "fiche": "fiches/ca-a-commence-comme-ca.html"
+    },
+    {
+      "slug": "hors-sentiers-by-baouw",
+      "titre": "Hors Sentiers by Baouw",
+      "notes_apple": 73,
+      "fiche": "fiches/hors-sentiers-by-baouw.html"
+    },
+    {
+      "slug": "la-france-bouge-elisabeth-assayag",
+      "titre": "La France bouge - Elisabeth Assayag",
+      "notes_apple": 73,
+      "fiche": "fiches/la-france-bouge-elisabeth-assayag.html"
+    },
+    {
+      "slug": "les-gros-mots-par-gerald-faure",
+      "titre": "LES GROS MOTS, par Gérald Faure",
+      "notes_apple": 73,
+      "fiche": "fiches/les-gros-mots-par-gerald-faure.html"
+    },
+    {
+      "slug": "international",
+      "titre": "InterNational",
+      "notes_apple": 73,
+      "fiche": "fiches/international.html"
+    },
+    {
+      "slug": "tvnr",
+      "titre": "TVNR",
+      "notes_apple": 73,
+      "fiche": "fiches/tvnr.html"
+    },
+    {
+      "slug": "the-storyline",
+      "titre": "The Storyline",
+      "notes_apple": 73,
+      "fiche": "fiches/the-storyline.html"
+    },
+    {
+      "slug": "secrets-de-createurs",
+      "titre": "Secrets de Créateurs",
+      "notes_apple": 73,
+      "fiche": "fiches/secrets-de-createurs.html"
+    },
+    {
+      "slug": "briller-en-societe",
+      "titre": "Briller en société",
+      "notes_apple": 72,
+      "fiche": "fiches/briller-en-societe.html"
+    },
+    {
+      "slug": "apprendre-l-espagnol-en-conversations-holamigo",
+      "titre": "Apprendre l'espagnol en conversations - Holamigo",
+      "notes_apple": 72,
+      "fiche": "fiches/apprendre-l-espagnol-en-conversations-holamigo.html"
+    },
+    {
+      "slug": "en-route-maestro",
+      "titre": "En Route Maestro !",
+      "notes_apple": 72,
+      "fiche": "fiches/en-route-maestro.html"
+    },
+    {
+      "slug": "trench-tech",
+      "titre": "Trench Tech",
+      "notes_apple": 72,
+      "fiche": "fiches/trench-tech.html"
+    },
+    {
+      "slug": "ca-ne-restera-pas-entre-nous",
+      "titre": "Ça ne restera pas entre nous",
+      "notes_apple": 71,
+      "fiche": "fiches/ca-ne-restera-pas-entre-nous.html"
+    },
+    {
+      "slug": "frangins-videoclub",
+      "titre": "Frangins Vidéoclub",
+      "notes_apple": 71,
+      "fiche": "fiches/frangins-videoclub.html"
+    },
+    {
+      "slug": "game-of-thrones-remixe-l-histoire",
+      "titre": "Game of Thrones Remixe l'Histoire",
+      "notes_apple": 71,
+      "fiche": "fiches/game-of-thrones-remixe-l-histoire.html"
+    },
+    {
+      "slug": "horizons-marines",
+      "titre": "Horizons Marines",
+      "notes_apple": 71,
+      "fiche": "fiches/horizons-marines.html"
+    },
+    {
+      "slug": "innovation-en-education",
+      "titre": "Innovation en Éducation",
+      "notes_apple": 71,
+      "fiche": "fiches/innovation-en-education.html"
+    },
+    {
+      "slug": "le-vieux-sage",
+      "titre": "Le Vieux Sage",
+      "notes_apple": 71,
+      "fiche": "fiches/le-vieux-sage.html"
+    },
+    {
+      "slug": "musique-relaxation",
+      "titre": "Musique relaxation",
+      "notes_apple": 71,
+      "fiche": "fiches/musique-relaxation.html"
     }
   ]
 }

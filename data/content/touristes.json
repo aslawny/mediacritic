@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Dernier épisode - Vieilles Charrues 2025",
+      "date": "2025-07-23"
+    },
+    {
+      "titre": "Paulette Grisoni, recherche confort désespérément",
+      "date": "2025-01-12"
+    },
+    {
+      "titre": "Guigui Pop, le globe-dormeur aguerri",
+      "date": "2024-11-30"
+    },
+    {
+      "titre": "Patrick Watson, l'aventurier de l'art éperdu",
+      "date": "2024-10-26"
+    },
+    {
+      "titre": "La meilleure colo pour adultes - Bike to Basics 2024",
+      "date": "2024-09-21"
+    }
+  ],
+  "derniere_activite": "2025-07-23",
+  "frequence_jours": 34
 }

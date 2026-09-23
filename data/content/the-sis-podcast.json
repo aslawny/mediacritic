@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "#15 : C'est qui l'Insan ?",
+      "date": "2025-03-25"
+    },
+    {
+      "titre": "#14 : Pour ce mois de Ramadan, fais attention à…",
+      "date": "2025-03-07"
+    },
+    {
+      "titre": "#13 : Pourquoi ne pas porter le voile ?",
+      "date": "2024-03-16"
+    },
+    {
+      "titre": "#12 : Les objectifs à avoir pour ce mois de Ramadan",
+      "date": "2024-03-12"
+    },
+    {
+      "titre": "#11 : Comment je suis devenue solitaire par choix après avoir été seule pas par choix",
+      "date": "2024-01-17"
+    }
+  ],
+  "derniere_activite": "2025-03-25",
+  "frequence_jours": 24
 }

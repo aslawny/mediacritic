@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "(259) Carte Blanche à Serge Franklin",
+      "date": "2026-09-08"
+    },
+    {
+      "titre": "(258) Conan The Barbarian (Basil Poledouris)",
+      "date": "2026-09-01"
+    },
+    {
+      "titre": "(257) Miklós Rózsa – Chapitre #4",
+      "date": "2026-07-28"
+    },
+    {
+      "titre": "(256) Miklós Rózsa – Chapitre #3",
+      "date": "2026-07-21"
+    },
+    {
+      "titre": "(255) Miklós Rózsa – Chapitre #2",
+      "date": "2026-07-14"
+    }
+  ],
+  "derniere_activite": "2026-09-08",
+  "frequence_jours": 7
 }

@@ -26,5 +26,29 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-09-22"
+  "updatedAt": "2026-09-22",
+  "episodes_recents": [
+    {
+      "titre": "[REDIFFUSION] - #34 Ugo Ferrari, le touche-à-tout",
+      "date": "2026-01-07"
+    },
+    {
+      "titre": "[REDIFFUSION] - #28 Pierre Sallet, le croisé de l'antidopage",
+      "date": "2025-12-31"
+    },
+    {
+      "titre": "#40 Serge Moro, analyse philosophique et sociologique du trail",
+      "date": "2025-12-17"
+    },
+    {
+      "titre": "On débriefe les Trail Running Awards avec Ugo Ferrari [TRA - L'AFTER avec i-Run]",
+      "date": "2025-12-12"
+    },
+    {
+      "titre": "#39 Sébastien Cornette, rendre le trail accessible à tous",
+      "date": "2025-12-03"
+    }
+  ],
+  "derniere_activite": "2026-01-07",
+  "frequence_jours": 13
 }

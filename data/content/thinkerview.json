@@ -51,5 +51,29 @@
         "texte": "Des sujets intéressants, des intervenants compétents et des questions parfois impertinentes... Bref, des heures d’érudition en libre circulation ! On en redemande."
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Joan-Ramon Laporte : Chronique d’une société intoxiquée.",
+      "date": "2026-09-10"
+    },
+    {
+      "titre": "Juan Branco : Guerre mondiale, l’échec de l’élite ?",
+      "date": "2026-09-09"
+    },
+    {
+      "titre": "Bruno Le Maire Sans Filtre.",
+      "date": "2026-07-29"
+    },
+    {
+      "titre": "Bluetouff, Caroline Zorn et Alexis Roussel: Le Jour d’Après, la Révolution des Octets.",
+      "date": "2026-07-05"
+    },
+    {
+      "titre": "Thomas Grjebine et Nicolas Meilhan : L’Euro et l’UE sont bientôt morts ? Préparez-vous !",
+      "date": "2026-07-01"
+    }
+  ],
+  "derniere_activite": "2026-09-10",
+  "frequence_jours": 5
 }

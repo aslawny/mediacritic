@@ -45,5 +45,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Réussir son premier col",
+      "date": "2026-09-17"
+    },
+    {
+      "titre": "Ils vivent du vélo sans être pros : Noémie Rochard & Quentin Ruel racontent leur histoire",
+      "date": "2026-09-10"
+    },
+    {
+      "titre": "Les datas nous aident-elles vraiment à mieux rouler ?",
+      "date": "2026-09-03"
+    },
+    {
+      "titre": "[REDIFF] Préparation mentale : ce que les cyclistes comprennent mal",
+      "date": "2026-08-27"
+    },
+    {
+      "titre": "[REDIFF] Mono ou double plateau ? On vous a menti",
+      "date": "2026-08-20"
+    }
+  ],
+  "derniere_activite": "2026-09-17",
+  "frequence_jours": 7
 }

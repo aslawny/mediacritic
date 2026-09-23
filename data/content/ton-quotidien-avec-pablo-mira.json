@@ -45,5 +45,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Charlotte Cardin dévoile à Pablo son secret pour briller à l’international",
+      "date": "2025-08-31"
+    },
+    {
+      "titre": "Joé Dwèt Filé : le mec le plus chill de l’industrie musicale",
+      "date": "2025-08-17"
+    },
+    {
+      "titre": "Pablo dompte sa peur des chiens avec Esprit Dog",
+      "date": "2025-08-03"
+    },
+    {
+      "titre": "Médine raconte sa vie de père de famille et d'éleveur de cochon d'Inde HPI",
+      "date": "2025-07-20"
+    },
+    {
+      "titre": "Alice Moitié : la photographe de vos stars préférées",
+      "date": "2025-07-06"
+    }
+  ],
+  "derniere_activite": "2025-08-31",
+  "frequence_jours": 14
 }

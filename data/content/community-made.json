@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-07-08",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-09-23",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "nathdebxl",
+        "titre": "Un podcast qui aborde des vrais sujets",
+        "texte": "Un podcast qui met sur la table des sujets pas toujours abordés de façon réaliste. Le podcast « Structure »propose des pistes concrètes et adaptées au monde de l’entreprenariat.…"
+      },
+      {
+        "note": 5,
+        "auteur": "juromain",
+        "titre": "Merci pour ces découvertes",
+        "texte": "Merci pour ces échanges avec les invités. A chaque épisode leurs histoires et conseils donnent des idées sur ce que je peux mettre en place dans mon entreprise et la développer ! Ce sont des échanges très riches !"
+      },
+      {
+        "note": 5,
+        "auteur": "Elodie REIB",
+        "titre": "Enfin un podcast qui sort du lot !",
+        "texte": "Merci Romain pour la qualité de ces épisodes, ils apportent une grande valeur et ils reflètent clairement les challenges que nous pouvons rencontrer en tant que chef d’entreprise. Hâte de découvrir les suivants."
+      }
+    ]
+  }
 }

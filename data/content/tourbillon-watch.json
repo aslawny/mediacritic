@@ -26,5 +26,29 @@
     "sport"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-09-22"
+  "updatedAt": "2026-09-22",
+  "episodes_recents": [
+    {
+      "titre": "Armand Billard : de la créativité de l'enfance à la fondation de Sartory Billard",
+      "date": "2026-09-17"
+    },
+    {
+      "titre": "Raphaël Abeillon : de Cartier à Alto, une rencontre sur un circuit qui a tout changé",
+      "date": "2026-09-10"
+    },
+    {
+      "titre": "Jonathan Brinbaum : de la parfumerie à l'horlogerie, le parcours d’un passionné",
+      "date": "2026-08-27"
+    },
+    {
+      "titre": "Cédric Joos : du golf professionnel à Hautlence, suivre sa passion jusqu'au bout",
+      "date": "2026-07-23"
+    },
+    {
+      "titre": "Georges-Henry Meylan : quartz, Audemars Piguet, Moser. Une carrière en trois actes",
+      "date": "2026-07-13"
+    }
+  ],
+  "derniere_activite": "2026-09-17",
+  "frequence_jours": 7
 }

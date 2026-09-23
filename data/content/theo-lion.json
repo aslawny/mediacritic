@@ -47,5 +47,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Chapitre 8 - Ce n'est pas la liberté qui te manque",
+      "date": "2026-09-19"
+    },
+    {
+      "titre": "Chapitre 7 - L'ambition prend plus facilement aux petites âmes qu'aux grandes",
+      "date": "2026-09-15"
+    },
+    {
+      "titre": "Chapitre 6 - L'échec du dév perso entrepreneurial : un excès d'individualisme (et la solution)",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "Chapitre 5 - L'entrepreneuriat a-t-il un bord politique ?",
+      "date": "2026-05-12"
+    },
+    {
+      "titre": "Chapitre 4 - Pourquoi les Français n'aiment pas les entrepreneurs (Cyrano de Bergerac)",
+      "date": "2026-05-07"
+    }
+  ],
+  "derniere_activite": "2026-09-19",
+  "frequence_jours": 5
 }

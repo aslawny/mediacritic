@@ -47,5 +47,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Dalida sous Havaianas ? (avec Bilal Hassani)",
+      "date": "2026-08-31"
+    },
+    {
+      "titre": "Non, Ariana Grande n'a pas sorti son \"pire album\" !",
+      "date": "2026-08-06"
+    },
+    {
+      "titre": "On parle de Sex and the City avec Jäde",
+      "date": "2026-07-30"
+    },
+    {
+      "titre": "Je me suis réconcilié avec Lorde à Lyon",
+      "date": "2026-07-16"
+    },
+    {
+      "titre": "On est des particules (avec Mélissa)",
+      "date": "2026-07-13"
+    }
+  ],
+  "derniere_activite": "2026-08-31",
+  "frequence_jours": 12
 }

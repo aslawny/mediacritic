@@ -27,5 +27,29 @@
     "famille"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-09-22"
+  "updatedAt": "2026-09-22",
+  "episodes_recents": [
+    {
+      "titre": "La fatigue — Ne plus avoir les yeux en face des trous",
+      "date": "2026-09-21"
+    },
+    {
+      "titre": "Le blâme — Se faire clouer au pilori",
+      "date": "2026-09-07"
+    },
+    {
+      "titre": "Le quiproquo — Comme deux gouttes d’eau",
+      "date": "2026-08-24"
+    },
+    {
+      "titre": "L’épuisement — Pressée comme un citron",
+      "date": "2026-08-10"
+    },
+    {
+      "titre": "La confusion — Se fier aux apparences",
+      "date": "2026-07-27"
+    }
+  ],
+  "derniere_activite": "2026-09-21",
+  "frequence_jours": 14
 }

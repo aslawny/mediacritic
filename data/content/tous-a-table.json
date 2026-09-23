@@ -25,5 +25,29 @@
     "cuisine"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-09-22"
+  "updatedAt": "2026-09-22",
+  "episodes_recents": [
+    {
+      "titre": "Tous à table – Émission du 10/09/2026",
+      "date": "2026-09-10"
+    },
+    {
+      "titre": "Tous à table – Émission du 25/06/2026",
+      "date": "2026-06-25"
+    },
+    {
+      "titre": "Tous à table – Émission du 18/06/2026",
+      "date": "2026-06-18"
+    },
+    {
+      "titre": "Tous à table – Émission du 11/06/2026",
+      "date": "2026-06-11"
+    },
+    {
+      "titre": "Tous à table – Émission du 04/06/2026",
+      "date": "2026-06-04"
+    }
+  ],
+  "derniere_activite": "2026-09-10",
+  "frequence_jours": 7
 }

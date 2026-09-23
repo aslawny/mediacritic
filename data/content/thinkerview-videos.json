@@ -50,5 +50,29 @@
         "texte": "Merci pour ces interviews très détaillées et enrichissantes !"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Jean-Marc Jancovici : Crise pétrolière, effondrement, émeutes de la faim ?",
+      "date": "2026-03-16"
+    },
+    {
+      "titre": "Hubert Védrine : Pensée stratégique française, ils naviguent à vue ?",
+      "date": "2024-04-10"
+    },
+    {
+      "titre": "Benjamin Bayart : Intelligence artificielle, bullsh*t, pipotron ?",
+      "date": "2024-04-04"
+    },
+    {
+      "titre": "Henri Guaino : Comprendre la guerre qui vient ?",
+      "date": "2024-03-27"
+    },
+    {
+      "titre": "Bluetouff, Fabrice Epelboin et Marc-Antoine Ledieu : Les Hackers face aux cyberguerres ?",
+      "date": "2024-03-21"
+    }
+  ],
+  "derniere_activite": "2026-03-16",
+  "frequence_jours": 7
 }

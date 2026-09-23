@@ -46,5 +46,31 @@
     }
   ],
   "derniere_activite": "2026-06-12",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-23",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Yarbi35",
+        "titre": "Un grand historien d’aujourd’hui",
+        "texte": "Que peut l’histoire? Cette séance inaugurale porte en elle toute la complexité et la subtilité de ce grand historien, M. Boucheron, que nous avons la chance d’avoir en France.…"
+      },
+      {
+        "note": 2,
+        "auteur": "Rulian",
+        "titre": "Theatrale",
+        "texte": "Pour moi le ton est trop theatrale, trop mise en scene. Ex : « les corps entassés,entrelacés. » Entrelacés est de trop a mon gout, mettant en evidence une volonté de se mettre trop en avant, de faire de belle phrases, de beaux mots, au détriment de mon interet et mon attention.…"
+      },
+      {
+        "note": 5,
+        "auteur": "pierrerfy",
+        "titre": "L’Histoire: « vous en faites pas... » Une histoire :)",
+        "texte": "Comment aborder l’Histoire universitaire avec une somme d’érudition dans une lieu chargé... d’histoire sans vulgariser? C’est le tour de force de Patrick Boucheron.…"
+      }
+    ]
+  }
 }

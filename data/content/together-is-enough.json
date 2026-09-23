@@ -47,5 +47,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "S3. E10. Qu’est-ce qui te rend heureuse ?",
+      "date": "2026-04-24"
+    },
+    {
+      "titre": "S3. E9. Qu’aimerais-tu laisser de toi sur cette terre ?",
+      "date": "2026-04-17"
+    },
+    {
+      "titre": "S3. E8. Si tu devais recevoir un câlin d'une personne de ton choix, qui choisirais-tu et pourquoi ?",
+      "date": "2026-04-03"
+    },
+    {
+      "titre": "S3. E7. Comment réagis tu face à l’imprévu, et qu’as tu appris de ces moments ?",
+      "date": "2026-03-27"
+    },
+    {
+      "titre": "S3.E6. Si tu pouvais effacer une erreur, quelle serait-elle ?",
+      "date": "2026-03-06"
+    }
+  ],
+  "derniere_activite": "2026-04-24",
+  "frequence_jours": 7
 }
