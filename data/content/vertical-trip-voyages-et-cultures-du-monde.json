@@ -52,5 +52,29 @@
         "texte": "A quand la suite???? Chouette podcast hâte d’écouter les prochains épisodes 😊"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Lisbonne, une ville en pleine expansion",
+      "date": "2019-01-07"
+    },
+    {
+      "titre": "Serre-Chevalier, attention ça glisse !",
+      "date": "2018-12-31"
+    },
+    {
+      "titre": "Venise, la ville mystérieuse",
+      "date": "2018-12-17"
+    },
+    {
+      "titre": "Florence, la dolce vita",
+      "date": "2018-12-10"
+    },
+    {
+      "titre": "Direction Paris",
+      "date": "2018-12-03"
+    }
+  ],
+  "derniere_activite": "2019-01-07",
+  "frequence_jours": 6
 }

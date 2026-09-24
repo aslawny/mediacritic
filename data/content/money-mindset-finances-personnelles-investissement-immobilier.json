@@ -26,5 +26,31 @@
     "business"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-09-22"
+  "updatedAt": "2026-09-22",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Sarah_92_15",
+        "titre": "Super podcast, je recommande sans hésiter ❤️",
+        "texte": "Hello à vous deux, J’ai découvert votre podcast il y a quelques semaines dans ma démarche de renforcement de mon éducation financière et musculation de mon mindset pour investir en immo.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Momo Ham",
+        "titre": "Inaudible",
+        "texte": "On apprend peu de choses au niveau contenu… Mais alors, cette manière de parler, très robotique, et scolaire… C est très dépasser, 30 ans de retard… C est, pour ma part , insupportable à écouter. Entre moralisateurs, et on passé vrai pour des incapables.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Mithrim77",
+        "titre": "A découvrir et suivre !",
+        "texte": "Je viens découvrir votre podcast avec le sujet sur les proches, et j’adore !! Me lançant actuellement dans l’investissement, c’est un vrai sujet pour moi, car j’aimerais tellement convaincre tout le monde que c’est une chance de se lancer dans ce domaine.…"
+      }
+    ]
+  }
 }

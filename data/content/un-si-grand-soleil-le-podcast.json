@@ -47,5 +47,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "L'incendie de l'Escape Game",
+      "date": "2020-02-27"
+    },
+    {
+      "titre": "Joyeux anniversaire Un si grand soleil",
+      "date": "2019-09-06"
+    },
+    {
+      "titre": "Alex et Manu, deux flics à Montpellier",
+      "date": "2019-06-21"
+    },
+    {
+      "titre": "Bruno Serrat, le braqueur magnifique",
+      "date": "2019-05-09"
+    },
+    {
+      "titre": "L'intrigue Mo-Lorin",
+      "date": "2019-04-12"
+    }
+  ],
+  "derniere_activite": "2020-02-27",
+  "frequence_jours": 49
 }

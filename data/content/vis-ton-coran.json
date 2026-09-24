@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Tu veux apprendre l’arabe… mais tu ne sais plus par où commencer ?",
+      "date": "2026-06-12"
+    },
+    {
+      "titre": "Tu veux changer… mais tu te sens bloquée",
+      "date": "2026-06-12"
+    },
+    {
+      "titre": "Comment apprendre l’arabe quand on est francophone",
+      "date": "2026-06-11"
+    },
+    {
+      "titre": "Pourquoi les applications seules ne suffisent pas",
+      "date": "2026-06-09"
+    },
+    {
+      "titre": "Pourquoi tu n'arrives toujours pas à apprendre l'arabe (la vraie raison)",
+      "date": "2026-06-06"
+    }
+  ],
+  "derniere_activite": "2026-06-12",
+  "frequence_jours": 1
 }

@@ -47,5 +47,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Comment la maternité a bouleversé son existence, Aziliz Le Corre",
+      "date": "2026-09-13"
+    },
+    {
+      "titre": "Terrassée par une maladie mystérieuse, elle guérit sur le chemin de Saint-Jacques",
+      "date": "2026-08-30"
+    },
+    {
+      "titre": "Glorious : l'histoire exceptionnelle d'un groupe de louange parti de rien",
+      "date": "2026-08-16"
+    },
+    {
+      "titre": "📣 Un beau jour présente Tous saints ! - Chiara Corbella Petrillo, le secret de la joie parfaite dans l'épreuve",
+      "date": "2026-08-02"
+    },
+    {
+      "titre": "Il est sorti de l’enfer de l'alcool grâce au chapelet : la renaissance d’Hubert de La Pontais",
+      "date": "2026-07-19"
+    }
+  ],
+  "derniere_activite": "2026-09-13",
+  "frequence_jours": 14
 }

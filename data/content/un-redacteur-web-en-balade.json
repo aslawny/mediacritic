@@ -25,5 +25,29 @@
     "cuisine"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-09-22"
+  "updatedAt": "2026-09-22",
+  "episodes_recents": [
+    {
+      "titre": "Et c’est la fin de ce podcast 💔",
+      "date": "2024-08-09"
+    },
+    {
+      "titre": "😇 Se réaliser en ligne à l’ère de l’IA",
+      "date": "2024-06-18"
+    },
+    {
+      "titre": "🤔 Comment bien choisir ses tarifs ?",
+      "date": "2024-05-28"
+    },
+    {
+      "titre": "✍️ En rédaction, Gemini vaut quoi ?",
+      "date": "2024-05-23"
+    },
+    {
+      "titre": "🤖 Comment l’IA change le rédacteur",
+      "date": "2024-05-19"
+    }
+  ],
+  "derniere_activite": "2024-08-09",
+  "frequence_jours": 5
 }

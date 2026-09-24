@@ -1,6 +1,6 @@
 {
-  "maj": "2026-09-23",
-  "total": 524,
+  "maj": "2026-09-24",
+  "total": 540,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -3146,6 +3146,102 @@
       "titre": "Musique relaxation",
       "notes_apple": 71,
       "fiche": "fiches/musique-relaxation.html"
+    },
+    {
+      "slug": "telephone-valley",
+      "titre": "Telephone Valley",
+      "notes_apple": 71,
+      "fiche": "fiches/telephone-valley.html"
+    },
+    {
+      "slug": "chez-meme-travaux-maison",
+      "titre": "Chez Mémé - Travaux & Maison",
+      "notes_apple": 70,
+      "fiche": "fiches/chez-meme-travaux-maison.html"
+    },
+    {
+      "slug": "maintenant-vous-savez-sante",
+      "titre": "Maintenant Vous Savez Santé",
+      "notes_apple": 70,
+      "fiche": "fiches/maintenant-vous-savez-sante.html"
+    },
+    {
+      "slug": "podium",
+      "titre": "PODIUM",
+      "notes_apple": 70,
+      "fiche": "fiches/podium.html"
+    },
+    {
+      "slug": "mille-et-une-histoires",
+      "titre": "Mille et une histoires",
+      "notes_apple": 70,
+      "fiche": "fiches/mille-et-une-histoires.html"
+    },
+    {
+      "slug": "rav-david-touitou",
+      "titre": "Rav David Touitou",
+      "notes_apple": 70,
+      "fiche": "fiches/rav-david-touitou.html"
+    },
+    {
+      "slug": "trouver-sa-voie-conseils-carriere",
+      "titre": "Trouver sa voie | conseils carrière",
+      "notes_apple": 70,
+      "fiche": "fiches/trouver-sa-voie-conseils-carriere.html"
+    },
+    {
+      "slug": "cameflex",
+      "titre": "Caméflex",
+      "notes_apple": 69,
+      "fiche": "fiches/cameflex.html"
+    },
+    {
+      "slug": "entreprendre-dans-la-sante",
+      "titre": "Entreprendre dans la santé",
+      "notes_apple": 69,
+      "fiche": "fiches/entreprendre-dans-la-sante.html"
+    },
+    {
+      "slug": "fais-moi-booker",
+      "titre": "Fais Moi Booker",
+      "notes_apple": 69,
+      "fiche": "fiches/fais-moi-booker.html"
+    },
+    {
+      "slug": "histoires-de-mode",
+      "titre": "Histoires de Mode",
+      "notes_apple": 69,
+      "fiche": "fiches/histoires-de-mode.html"
+    },
+    {
+      "slug": "l-heure-du-rap",
+      "titre": "L'heure du rap",
+      "notes_apple": 69,
+      "fiche": "fiches/l-heure-du-rap.html"
+    },
+    {
+      "slug": "le-supershow-sur-nrj",
+      "titre": "Le SuperShow sur NRJ",
+      "notes_apple": 69,
+      "fiche": "fiches/le-supershow-sur-nrj.html"
+    },
+    {
+      "slug": "les-sagas-musicales",
+      "titre": "Les Sagas musicales",
+      "notes_apple": 69,
+      "fiche": "fiches/les-sagas-musicales.html"
+    },
+    {
+      "slug": "nova-radio-pirate",
+      "titre": "Nova Radio Pirate",
+      "notes_apple": 69,
+      "fiche": "fiches/nova-radio-pirate.html"
+    },
+    {
+      "slug": "the-elevate-house",
+      "titre": "The Elevate House",
+      "notes_apple": 69,
+      "fiche": "fiches/the-elevate-house.html"
     }
   ]
 }

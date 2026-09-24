@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-22",
-  "frequence_jours": 4
+  "frequence_jours": 4,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Kanimoje",
+        "titre": "Addictive",
+        "texte": "I need my episode each week. I'm so glad the French Itunes store is making more space for those kind of podcast. Everyday people tell a personal story based on a theme. You'll laugh, you'll cry, you'll think!"
+      },
+      {
+        "note": 3,
+        "auteur": "JvGs-jvgs99",
+        "titre": "Great podcast but maddening website",
+        "texte": "Great podcast. But the end of the stories they tell you to look up the storytellers on the website themoth.org and it’s impossible to find the right page on the website. I’ve done it several times without being able to find out more or see a photo of the storyteller."
+      },
+      {
+        "note": 5,
+        "auteur": "EuchreParis",
+        "titre": "Listen up",
+        "texte": "Stories from the hearts of real people living ordinary lives which will make you laugh, cry, rejoice and/or mourn with them."
+      }
+    ]
+  }
 }

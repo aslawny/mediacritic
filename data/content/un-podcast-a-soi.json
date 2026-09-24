@@ -52,5 +52,29 @@
         "texte": "Très beau travail des journalistes sur les témoignages et les intervenants. Les épisodes sont bien montés et très enrichissants. Super !"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Chlordécone, le paradis empoisonné",
+      "date": "2026-09-17"
+    },
+    {
+      "titre": "Une vie à soi : Tambours battantes",
+      "date": "2026-08-12"
+    },
+    {
+      "titre": "Tout sur nos mères (2/2) : Faire avec",
+      "date": "2026-05-05"
+    },
+    {
+      "titre": "Tout sur nos mères (1/2) : Mémoires de filles",
+      "date": "2026-03-24"
+    },
+    {
+      "titre": "Une vie à soi : Assistantes de direction",
+      "date": "2026-02-25"
+    }
+  ],
+  "derniere_activite": "2026-09-17",
+  "frequence_jours": 41
 }

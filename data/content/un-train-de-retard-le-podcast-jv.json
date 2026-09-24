@@ -46,5 +46,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Un Train de Retard - 41 - Kojima se met au vert - L'actu en vrac - Blizzard nous parle de 2030",
+      "date": "2026-09-20"
+    },
+    {
+      "titre": "Un Train de Retard - 40 - Fin du Physique, suite - Actu en vrac - La Chine et le JV",
+      "date": "2026-09-06"
+    },
+    {
+      "titre": "Un Train de Retard - 39 - Xbox rererereboot - L'actu en vrac de l'été - Sony, fini les disques ?",
+      "date": "2026-08-23"
+    },
+    {
+      "titre": "Un Train de Retard - 38 - Xbox et Sony en roue libre - Steam Machine, GTA VI et actu en vrac",
+      "date": "2026-06-28"
+    },
+    {
+      "titre": "Un Train de Retard - 37 - Qui a peur de GTA VI ? - State of Play et Xbox - Actu en vrac",
+      "date": "2026-06-07"
+    }
+  ],
+  "derniere_activite": "2026-09-20",
+  "frequence_jours": 14
 }

@@ -27,5 +27,29 @@
     "societe"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-09-22"
+  "updatedAt": "2026-09-22",
+  "episodes_recents": [
+    {
+      "titre": "Vivre au pied d'un volcan : le lac Lalolalo",
+      "date": "2024-02-06"
+    },
+    {
+      "titre": "Vivre au pied d'un volcan : la Montagne Pelée",
+      "date": "2024-02-06"
+    },
+    {
+      "titre": "Vivre au pied d'un volcan : le Mont Teurafaatiu",
+      "date": "2024-02-06"
+    },
+    {
+      "titre": "Vivre au pied d'un volcan : Fani Maoré",
+      "date": "2023-12-20"
+    },
+    {
+      "titre": "Vivre au pied d'un volcan : le Piton de la Fournaise",
+      "date": "2023-12-14"
+    }
+  ],
+  "derniere_activite": "2024-02-06",
+  "frequence_jours": 6
 }

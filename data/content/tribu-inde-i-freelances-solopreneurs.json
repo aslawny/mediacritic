@@ -47,5 +47,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "103. Je me suis trompé de ligne d'arrivée",
+      "date": "2026-07-09"
+    },
+    {
+      "titre": "102. C’est le piège des freelances les plus compétents",
+      "date": "2026-03-27"
+    },
+    {
+      "titre": "101. 10 000 concurrents et le paradoxe du freelance",
+      "date": "2026-02-26"
+    },
+    {
+      "titre": "100. 5 leçons entrepreneuriales après 21km de course",
+      "date": "2024-10-24"
+    },
+    {
+      "titre": "99. J'analyse 3 stratégies freelance à 10K€/ mois",
+      "date": "2024-09-19"
+    }
+  ],
+  "derniere_activite": "2026-07-09",
+  "frequence_jours": 22
 }

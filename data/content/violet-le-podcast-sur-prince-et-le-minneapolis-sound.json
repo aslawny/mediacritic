@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "THE TIME - Ice Cream Castle / DEZ DICKERSON - Modernaire : Il était une fois au First Avenue",
+      "date": "2026-08-04"
+    },
+    {
+      "titre": "VANITY 6 & APOLLONIA 6 : Prince et ses drôles de dames",
+      "date": "2026-06-29"
+    },
+    {
+      "titre": "THE TIME : The Time / What Time Is It - Le gang du C.O.O.L",
+      "date": "2026-05-19"
+    },
+    {
+      "titre": "Piano & A Microphone : l'ultime tournée",
+      "date": "2026-04-13"
+    },
+    {
+      "titre": "Bonus #10 : La Celebration 2025, debriefing et perspectives",
+      "date": "2025-06-18"
+    }
+  ],
+  "derniere_activite": "2026-08-04",
+  "frequence_jours": 55
 }

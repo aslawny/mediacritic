@@ -25,5 +25,29 @@
     "cuisine"
   ],
   "addedAt": "2026-07-19",
-  "updatedAt": "2026-07-19"
+  "updatedAt": "2026-07-19",
+  "episodes_recents": [
+    {
+      "titre": "Tuto pâtisserie vegan : Cinnamon Rolls",
+      "date": "2022-05-17"
+    },
+    {
+      "titre": "Tuto pâtisserie vegan : Le Fraisier",
+      "date": "2022-04-26"
+    },
+    {
+      "titre": "Tuto pâtisserie vegan : Layer cake",
+      "date": "2022-04-12"
+    },
+    {
+      "titre": "Tuto pâtisserie vegan : Pumpkin Pie",
+      "date": "2020-10-26"
+    },
+    {
+      "titre": "Tuto pâtisserie vegan : Crèmeux Citron",
+      "date": "2020-07-27"
+    }
+  ],
+  "derniere_activite": "2022-05-17",
+  "frequence_jours": 20
 }

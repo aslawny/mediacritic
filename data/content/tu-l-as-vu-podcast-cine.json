@@ -25,5 +25,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-09-22"
+  "updatedAt": "2026-09-22",
+  "episodes_recents": [
+    {
+      "titre": "44 - Les chefs-d'oeuvre que vous n'avez pas vus (selon Première)",
+      "date": "2023-02-02"
+    },
+    {
+      "titre": "43 - Florian Hessique, le bilan d'étape",
+      "date": "2022-12-24"
+    },
+    {
+      "titre": "42 - Les films de la décennie 1940",
+      "date": "2022-07-07"
+    },
+    {
+      "titre": "41.3 - Les films de complots : \"The Game\" (1997) de David Fincher",
+      "date": "2022-04-21"
+    },
+    {
+      "titre": "41.2 - Les films de complots : \"I comme Icare\" (1979) et \"Mille Milliards de Dollars\" (1982) d'Henri Verneuil",
+      "date": "2022-04-14"
+    }
+  ],
+  "derniere_activite": "2023-02-02",
+  "frequence_jours": 39
 }

@@ -26,5 +26,51 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-22"
+  "updatedAt": "2026-09-22",
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-09-24",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "Q&A - Pourquoi votre CV n'est pas lu par les recruteurs ?",
+      "date": "2026-03-06"
+    },
+    {
+      "titre": "ATS, algorithmes, filtres. Pourquoi votre CV ne sera pas lu par un recruteur ? (Mohamed Achahbar)",
+      "date": "2026-02-19"
+    },
+    {
+      "titre": "2026 : La fin du bilan de compétences 100% CPF ?",
+      "date": "2026-02-09"
+    },
+    {
+      "titre": "20 leçons apprises après 350+ bilans de compétences (2/2)",
+      "date": "2026-02-03"
+    },
+    {
+      "titre": "20 leçons apprises après 350+ bilans de compétences (1/2)",
+      "date": "2026-01-27"
+    }
+  ],
+  "derniere_activite": "2026-03-06",
+  "frequence_jours": 6
 }

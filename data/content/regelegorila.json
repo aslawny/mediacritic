@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-16",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Dony.bht",
+        "titre": "Message d’un abonné",
+        "texte": "Bonjour Regelegorila, Je te suis maintenant depuis un an sur Instagram et YouTube. Je voulais simplement te remercier de m’avoir ouvert les yeux sur le cinéma grâce à tes critiques et à tes recommandations de films et de séries.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Enihcuem",
+        "titre": "Pub!",
+        "texte": "On enfonce des portes ouvertes quand même? Et beaucoup TROP de pub."
+      },
+      {
+        "note": 5,
+        "auteur": "Babflrbx",
+        "titre": "Meilleure idée",
+        "texte": "Franchement le format podcast c’est le meilleur bail que t’ai pu mettre en place, je t’écoute tous les jours en courant c’est impeccable, force pour la suite Rege."
+      }
+    ]
+  }
 }

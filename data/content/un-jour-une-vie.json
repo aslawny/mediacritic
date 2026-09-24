@@ -47,5 +47,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Romain, un proche lui a volé son identité pendant près de 15 ans",
+      "date": "2026-09-23"
+    },
+    {
+      "titre": "Guillaume Gomez, 25 ans dans les cuisines de l'Élysée",
+      "date": "2026-09-22"
+    },
+    {
+      "titre": "Victoire et ses 68 enfants, une famille d'accueil formidable",
+      "date": "2026-09-18"
+    },
+    {
+      "titre": "Pierre, commandant d'un sous marin nucléaire, raconte les coulisses et la vie à bord",
+      "date": "2026-09-17"
+    },
+    {
+      "titre": "Olivier, un cascadeur français à Hollywood",
+      "date": "2026-09-16"
+    }
+  ],
+  "derniere_activite": "2026-09-23",
+  "frequence_jours": 1
 }

@@ -46,5 +46,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "TIMAL-Sicario - UN SON POUR LES DARONS AVEC RAPHAËL",
+      "date": "2026-09-01"
+    },
+    {
+      "titre": "TIMAR-Mieux Qu'Hier - UN SON POUR LES DARONS AVEC RAPHAËL",
+      "date": "2026-08-15"
+    },
+    {
+      "titre": "WERENOI-Petunias - UN SON POUR LES DARONS AVEC RAPHAËL",
+      "date": "2026-07-20"
+    },
+    {
+      "titre": "DJADJA & DINAZ-Favela - UN SON POUR LES DARONS AVEC RAPHAËL",
+      "date": "2026-07-20"
+    },
+    {
+      "titre": "JUL-C'est La Cité - UN SON POUR LES DARONS AVEC RAPHAËL",
+      "date": "2026-07-06"
+    }
+  ],
+  "derniere_activite": "2026-09-01",
+  "frequence_jours": 14
 }

@@ -24,5 +24,29 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-09-22"
+  "updatedAt": "2026-09-22",
+  "episodes_recents": [
+    {
+      "titre": "Agenda Culturel du mois de septembre",
+      "date": "2024-09-09"
+    },
+    {
+      "titre": "Escapade Tangéroise",
+      "date": "2024-06-12"
+    },
+    {
+      "titre": "Tour d'horizon des activités et sorties du début du mois",
+      "date": "2024-06-03"
+    },
+    {
+      "titre": "Égalité des Sexes : Progrès et Enjeux Actuels",
+      "date": "2024-05-25"
+    },
+    {
+      "titre": "Défis de la Scène Théâtrale Marocaine",
+      "date": "2024-05-25"
+    }
+  ],
+  "derniere_activite": "2024-09-09",
+  "frequence_jours": 7
 }

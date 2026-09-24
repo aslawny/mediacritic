@@ -27,5 +27,29 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-22"
+  "updatedAt": "2026-09-22",
+  "episodes_recents": [
+    {
+      "titre": "Épisode 11 - Retourner à Séville",
+      "date": "2023-04-11"
+    },
+    {
+      "titre": "Épisode 10 - C'est pour la vie",
+      "date": "2023-04-04"
+    },
+    {
+      "titre": "Épisode 9 - Un an",
+      "date": "2023-04-04"
+    },
+    {
+      "titre": "Épisode 8 - Ça va trop vite",
+      "date": "2023-03-28"
+    },
+    {
+      "titre": "Épisode 7 - Ça fait deux ans et demi qu'on t'attend",
+      "date": "2023-03-28"
+    }
+  ],
+  "derniere_activite": "2023-04-11",
+  "frequence_jours": 6
 }

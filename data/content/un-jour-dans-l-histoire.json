@@ -45,5 +45,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Traité sur la tolérance de Voltaire",
+      "date": "2026-09-22"
+    },
+    {
+      "titre": "Vivre à crédit au XVIIIe siècle la prison ? Pas pour tous",
+      "date": "2026-09-22"
+    },
+    {
+      "titre": "Margaux Cassan",
+      "date": "2026-09-21"
+    },
+    {
+      "titre": "Gabriele d’Annunzio, l’expérience Fiume",
+      "date": "2026-09-21"
+    },
+    {
+      "titre": "L'affaire Alfred Dreyfus questionnée",
+      "date": "2026-09-20"
+    }
+  ],
+  "derniere_activite": "2026-09-22",
+  "frequence_jours": 0
 }

@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2023-08-10",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "CBL&You",
+        "titre": "Quebec",
+        "texte": "Whouaaa on s’y croirait, je trouve ce format génial. Un bon rythme, Luciole nous emporte dans une joyeuse échappée ! Ça fait un bien fou alors merci pour ce road trip et les autres aussi. Caroline de Paris."
+      },
+      {
+        "note": 5,
+        "auteur": "Fitgirlmeditation",
+        "titre": "Immersion assurée !",
+        "texte": "J’adore le format, on a vraiment l’impression de partir avec Luciole dans les dédales des rues, manger avec elle. Hâte d’écouter les prochains épisodes !"
+      },
+      {
+        "note": 5,
+        "auteur": "Mazimao",
+        "titre": "Impatiente",
+        "texte": "J aime beaucoup ce format et j attends les prochains épisodes avec impatience pour découvrir de nouvelles destinations !"
+      }
+    ]
+  }
 }

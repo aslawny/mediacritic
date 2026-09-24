@@ -45,5 +45,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Ce podcast n'a pas encore été racheté par Vivendi (TVNR #123)",
+      "date": "2021-07-26"
+    },
+    {
+      "titre": "Voilà, c'est reparti (TVNR #122)",
+      "date": "2020-05-18"
+    },
+    {
+      "titre": "Voilà, c'est fini (TVNR #121)",
+      "date": "2019-06-24"
+    },
+    {
+      "titre": "RTL is the new Europe 1 (TVNR #120)",
+      "date": "2019-06-03"
+    },
+    {
+      "titre": "Le changement, c'est la saison prochaine (TVNR #119)",
+      "date": "2019-05-20"
+    }
+  ],
+  "derniere_activite": "2021-07-26",
+  "frequence_jours": 14
 }
