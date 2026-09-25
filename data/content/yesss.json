@@ -26,7 +26,7 @@
     "rénovation",
     "DIY"
   ],
-  "updatedAt": "2026-09-22",
+  "updatedAt": "2026-09-25",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -52,5 +52,29 @@
         "texte": "YESSS c’est vraiment un podcast qui fait du bien. C’est celui que je recommande toujours à mes copines ! On se reconnaît toutes dans les différentes situations, alors chaque victoire des warriors me fait un grand bien.…"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Message à toutes les Warriors",
+      "date": "2024-11-25"
+    },
+    {
+      "titre": "YESSS - BONUSSS - De la force pour les warriors",
+      "date": "2023-07-02"
+    },
+    {
+      "titre": "YESSS #51 les Warriors s’habillent (partie 2)",
+      "date": "2023-05-20"
+    },
+    {
+      "titre": "YESSS #51 les Warriors s’habillent (partie 1)",
+      "date": "2023-05-06"
+    },
+    {
+      "titre": "YESSS - BONUSSS - Vos retours dans nos messageries!",
+      "date": "2023-04-15"
+    }
+  ],
+  "derniere_activite": "2024-11-25",
+  "frequence_jours": 14
 }

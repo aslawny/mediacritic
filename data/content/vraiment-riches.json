@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/vraiment-riches/id1896928866?uo=2",
       "trackId": 1896928866,
       "rating": 4.4,
-      "ratingCount": 176,
+      "ratingCount": 180,
       "episodeCount": null
     }
   },
@@ -24,7 +24,7 @@
     "histoire"
   ],
   "addedAt": "2026-06-18",
-  "updatedAt": "2026-09-22",
+  "updatedAt": "2026-09-25",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -50,5 +50,29 @@
         "texte": "Je connaissais seulement Anthony Bourbon de vue. Donc, autant dire que je ne savais pas du tout où j'allais en écoutant ce podcast. J'ai été très surpris de la liberté de ton.…"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Comment gagner votre premier million ?",
+      "date": "2026-09-13"
+    },
+    {
+      "titre": "Les 3 erreurs qui vous empêcheront de devenir riche",
+      "date": "2026-08-30"
+    },
+    {
+      "titre": "Les habitudes qui font vraiment gagner",
+      "date": "2026-08-16"
+    },
+    {
+      "titre": "Comment dépenser votre argent comme les riches ?",
+      "date": "2026-08-02"
+    },
+    {
+      "titre": "Les 8 règles des grands sportifs pour devenir riche",
+      "date": "2026-07-19"
+    }
+  ],
+  "derniere_activite": "2026-09-13",
+  "frequence_jours": 14
 }

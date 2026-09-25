@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/winamax-football-club/id1531278198?uo=2",
       "trackId": 1531278198,
       "rating": 4.7,
-      "ratingCount": 421,
+      "ratingCount": 423,
       "episodeCount": null
     }
   },
@@ -25,7 +25,7 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-22",
+  "updatedAt": "2026-09-25",
   "avis_publics": {
     "source": "apple",
     "boutique": "ch",
@@ -39,5 +39,29 @@
         "texte": "Les avis sont pertinents souvent, des débats intéressant, une bonne ambiance… Mais certains épisodes sont gâchés par le fait que les chroniqueurs se coupent sans arrêt la parole, vous gagneriez vraiment à essayer de corriger ça… Bonne suite!"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "WFC - Mbappé vs Dembélé : qui doit être le n°9 de la France ?",
+      "date": "2026-09-24"
+    },
+    {
+      "titre": "WFC - Ballon d'Or : Mbappé en fait-il trop ?",
+      "date": "2026-09-23"
+    },
+    {
+      "titre": "WFC - Lamine Yamal, Mbappé, Kane : qui sera le Ballon d'Or du WFC ?",
+      "date": "2026-09-22"
+    },
+    {
+      "titre": "WFC LE MAG - Atlético 2-1 Real Madrid : projet Mourinho déjà mort ?",
+      "date": "2026-09-21"
+    },
+    {
+      "titre": "WFC LE DEBRIEF - OM vs PSG (1-2) / Championnat de France",
+      "date": "2026-09-20"
+    }
+  ],
+  "derniere_activite": "2026-09-24",
+  "frequence_jours": 0
 }

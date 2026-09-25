@@ -13,8 +13,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/culture-ia/id926915638?uo=2",
       "trackId": 926915638,
-      "rating": 4.6,
-      "ratingCount": 67,
+      "rating": 4.5,
+      "ratingCount": 68,
       "episodeCount": null
     }
   },
@@ -23,7 +23,7 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-22",
+  "updatedAt": "2026-09-25",
   "episodes_recents": [
     {
       "titre": "Culture IA : IA, à l'école comme au bureau, chasse aux tricheurs - 01/09",
@@ -47,5 +47,27 @@
     }
   ],
   "derniere_activite": "2026-09-01",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-09-25",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

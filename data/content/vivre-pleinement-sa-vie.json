@@ -26,7 +26,7 @@
     "vulgarisation"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-09-22",
+  "updatedAt": "2026-09-25",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -52,5 +52,29 @@
         "texte": "Bonjour Est-ce que le podcast « l’autorité du croyant »4/4 est il disponible en podcast (en français) Merci beaucoup Hakim"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "La direction divine (2/2) : Un cœur à cœur avec Dieu",
+      "date": "2026-09-21"
+    },
+    {
+      "titre": "La direction divine (1/2) : L'obéissance",
+      "date": "2026-08-17"
+    },
+    {
+      "titre": "Les clés pour vivre votre percée (2/2)",
+      "date": "2026-07-20"
+    },
+    {
+      "titre": "Les clés pour vivre votre percée (1/2)",
+      "date": "2026-06-15"
+    },
+    {
+      "titre": "Comment vaincre les géants dans notre vie ? (2/2)",
+      "date": "2026-05-18"
+    }
+  ],
+  "derniere_activite": "2026-09-21",
+  "frequence_jours": 28
 }

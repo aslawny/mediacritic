@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/wiloo/id1644887664?uo=2",
       "trackId": 1644887664,
       "rating": 4.9,
-      "ratingCount": 698,
+      "ratingCount": 699,
       "episodeCount": null
     }
   },
@@ -26,7 +26,7 @@
     "news"
   ],
   "addedAt": "2026-06-12",
-  "updatedAt": "2026-09-22",
+  "updatedAt": "2026-09-25",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-09",
@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "⚽ Les 10 choses à suivre de la trêve...",
+      "date": "2026-09-23"
+    },
+    {
+      "titre": "❌ Honteux...",
+      "date": "2026-09-21"
+    },
+    {
+      "titre": "🏆 La draft du début de saison...",
+      "date": "2026-09-17"
+    },
+    {
+      "titre": "😂 Parlons de cette LDC...",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "❌ La honte...",
+      "date": "2026-09-09"
+    }
+  ],
+  "derniere_activite": "2026-09-23",
+  "frequence_jours": 3
 }

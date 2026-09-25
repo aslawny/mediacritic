@@ -26,7 +26,7 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-22",
+  "updatedAt": "2026-09-25",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -52,5 +52,29 @@
         "texte": "Votre podcast est d’une grande richesse. Il apporte des réponses pratiques et constructives pour développer nos ateliers, il fait découvrir des parcours inspirants et des artisans de talents. Et il est agréable à écouter …"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "EP 144 - Vivre d'un savoir faire rare : le parcours de Dominique Folliot, dinandier",
+      "date": "2026-09-16"
+    },
+    {
+      "titre": "EP 143 - Construire une collection dans l'artisanat d'art #pointsdevue avec Agnès Nicot et Fanny Roux",
+      "date": "2026-09-02"
+    },
+    {
+      "titre": "Comment bien préparer sa participation à un salon d’artisanat d’art ? #pointsdevue avec Marik Korus et Christe",
+      "date": "2026-08-12"
+    },
+    {
+      "titre": "Les clés pour réussir sa reconversion vers l’artisanat d’art. #pointsdevue avec Caroline Perrin, Léo Mérand et",
+      "date": "2026-07-29"
+    },
+    {
+      "titre": "EP 142 - Faire rayonner les savoir-faire : dans les coulisses du nouvel Orient Express avec l'architecte Maxim",
+      "date": "2026-07-15"
+    }
+  ],
+  "derniere_activite": "2026-09-16",
+  "frequence_jours": 13
 }

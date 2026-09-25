@@ -13,8 +13,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/la-chronique-de-jess%C3%A9/id1812398673?uo=2",
       "trackId": 1812398673,
-      "rating": 4.9,
-      "ratingCount": 67,
+      "rating": 4.8,
+      "ratingCount": 69,
       "episodeCount": null
     }
   },
@@ -24,5 +24,27 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-22"
+  "updatedAt": "2026-09-25",
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-09-25",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

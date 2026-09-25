@@ -25,7 +25,7 @@
     "societe"
   ],
   "addedAt": "2026-08-20",
-  "updatedAt": "2026-09-22",
+  "updatedAt": "2026-09-25",
   "avis_publics": {
     "source": "apple",
     "boutique": "ca",
@@ -51,5 +51,16 @@
         "texte": "Bravo pour encourager la communication profonde avec les invités dont la réflexion individuelle répercute leur rayonnement au public qui est prêt à recevoir. Ainsi plusieurs révéleront leur capacité à accueillir le changement positif."
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "[SOLO] Pourquoi on adore regarder la fin du monde ?",
+      "date": "2026-09-24"
+    },
+    {
+      "titre": "#408 Comprendre les dessous de la théorie de la simulation avec Loic Hecht (partie 2)",
+      "date": "2026-09-22"
+    }
+  ],
+  "derniere_activite": "2026-09-24"
 }

@@ -25,7 +25,7 @@
     "business"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-09-22",
+  "updatedAt": "2026-09-25",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -51,5 +51,29 @@
         "texte": "Le podcast dont je rêvais ! Des intervenant.e.s inspirant.e.s, qui en plus de décrypter le monde du travail avec brio, nous inspirent et rassurent sur l’avenir. A écouter d’urgence si vous êtes jeunes diplômes, étudiant.e.s et même en classe prepa. Merci !"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Être soi-même pour être puissant - Emmanuelle Duez",
+      "date": "2025-10-26"
+    },
+    {
+      "titre": "Jeunes & pouvoir - Juliette Laborie",
+      "date": "2025-10-12"
+    },
+    {
+      "titre": "Le pouvoir en entreprise - Camille Guezennec",
+      "date": "2025-10-05"
+    },
+    {
+      "titre": "Travailler pour un syndicat - Lydie Nicol",
+      "date": "2025-09-28"
+    },
+    {
+      "titre": "Le pouvoir quand on est dirigeant - Mickaël Locoh",
+      "date": "2025-09-21"
+    }
+  ],
+  "derniere_activite": "2025-10-26",
+  "frequence_jours": 7
 }

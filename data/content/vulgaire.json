@@ -26,7 +26,7 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-22",
+  "updatedAt": "2026-09-25",
   "avis_publics": {
     "source": "apple",
     "boutique": "be",
@@ -52,5 +52,29 @@
         "texte": "J’ai trop ri avec ton podcast sur les Francs-maçons 😂 je suis moi-même franc-maçon et je peux confirmer que c’est exactement comme tu l’as décrit xD (à quelques détails près, c’est du sang d’agneau qu’on boit en réunion) Et sinon, ça m’a fait trop rire car ce fameux Franck Masson…"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Un dos d’âne ? Pourquoi faire ?",
+      "date": "2026-08-20"
+    },
+    {
+      "titre": "Zidane il est nul au Skyjo",
+      "date": "2026-08-19"
+    },
+    {
+      "titre": "Un album panini de ton bodycount",
+      "date": "2026-08-16"
+    },
+    {
+      "titre": "Buvez du Sans Plomb 95, et optez pour la pipe !",
+      "date": "2026-08-13"
+    },
+    {
+      "titre": "Bider devant RuPaul, Coq toxique et Tortue Alpha",
+      "date": "2026-08-11"
+    }
+  ],
+  "derniere_activite": "2026-08-20",
+  "frequence_jours": 2
 }

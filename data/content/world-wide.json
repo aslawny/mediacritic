@@ -24,7 +24,7 @@
     "culture"
   ],
   "addedAt": "2026-07-06",
-  "updatedAt": "2026-09-22",
+  "updatedAt": "2026-09-25",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -38,5 +38,29 @@
         "texte": "Zawi en première écoute !! il n’y a qu’une musique celle du monde"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Luedji Luna, Connie Constance, Channel Tres... le WorldWide de Gilles Peterson",
+      "date": "2020-07-04"
+    },
+    {
+      "titre": "Moki Asakawa, Dorothy Ashby, Ted Curson... le WorldWide de Gilles Peterson",
+      "date": "2020-06-26"
+    },
+    {
+      "titre": "Dudu Pukwana, Leroy Hutson, Kamaal Williams... le WorldWide de Gilles Peterson",
+      "date": "2020-06-20"
+    },
+    {
+      "titre": "Nat Birchall, Jaimie Branch, Robbie Basho... le WorldWide de Gilles Peterson",
+      "date": "2020-06-12"
+    },
+    {
+      "titre": "Sun Ra, Marshall Allen et Dee Dee Bridgewater... le WorldWide de Gilles Peterson",
+      "date": "2020-06-05"
+    }
+  ],
+  "derniere_activite": "2020-07-04",
+  "frequence_jours": 7
 }

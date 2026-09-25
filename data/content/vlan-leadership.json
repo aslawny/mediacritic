@@ -25,7 +25,7 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-22",
+  "updatedAt": "2026-09-25",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -51,5 +51,16 @@
         "texte": "Un grand plaisir et beaucoup d intérêt à l écoute du dernier épisode de Vlan leadership avec Nathalie Reinhardt. Un plébiscité pour plus d écoute et d authenticité dans le monde de l entreprise et dans nos vies.…"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "#75 Ces entreprises ont choisi de prendre soin et elles gagnent quand même avec Isaac Getz et Laurent Marbache",
+      "date": "2026-09-21"
+    },
+    {
+      "titre": "#74 Le grand mensonge de l'IA, raconté par un CEO de 100 000 salariés avec Nourdine Bihmane",
+      "date": "2026-09-07"
+    }
+  ],
+  "derniere_activite": "2026-09-21"
 }

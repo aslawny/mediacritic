@@ -26,7 +26,7 @@
     "sport"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-09-22",
+  "updatedAt": "2026-09-25",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -52,5 +52,29 @@
         "texte": "J’aime d’ordinaire bien la précision de vos informations mais aujourd’hui s’agissant du BZ4X vous dites que la recharge est décevante ( ce qui est vrai) mais vous rajoutez « surtout pour un véhicule de ce prix » .…"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "La dernière du podcast : coulisses, fabrication, audience et prospective",
+      "date": "2025-02-28"
+    },
+    {
+      "titre": "Le grand retour des berlines version électrique + une grosse annonce",
+      "date": "2025-02-22"
+    },
+    {
+      "titre": "“Un non-sens d’installer des bornes rapides sur des lieux où on a la nuit pour charger”, interview Elie Haberm",
+      "date": "2025-02-19"
+    },
+    {
+      "titre": "Une prise de recharge intelligente et un retex de Kia EV3",
+      "date": "2025-02-15"
+    },
+    {
+      "titre": "\"Dans 10 ans, il y aura 3 millions de micro-cars électriques sur les routes”, interview de Thibaud Elzière, di",
+      "date": "2025-02-13"
+    }
+  ],
+  "derniere_activite": "2025-02-28",
+  "frequence_jours": 3
 }

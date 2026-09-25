@@ -26,5 +26,29 @@
     "sport"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-05-25"
+  "updatedAt": "2026-05-25",
+  "episodes_recents": [
+    {
+      "titre": "Das letzte Hurra",
+      "date": "2020-11-23"
+    },
+    {
+      "titre": "Ab ins Finale",
+      "date": "2020-11-20"
+    },
+    {
+      "titre": "So macht's wieder Spaß",
+      "date": "2020-11-17"
+    },
+    {
+      "titre": "Rechenspiele am Mittelmeer",
+      "date": "2020-11-13"
+    },
+    {
+      "titre": "Macht Mir den Rosberg?",
+      "date": "2020-11-09"
+    }
+  ],
+  "derniere_activite": "2020-11-23",
+  "frequence_jours": 3
 }

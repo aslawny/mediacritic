@@ -26,7 +26,7 @@
     "culture"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-09-22",
+  "updatedAt": "2026-09-25",
   "avis_publics": {
     "source": "apple",
     "boutique": "ca",
@@ -46,5 +46,29 @@
         "texte": "À recommander à toute personne qui s’intéresse à l’écriture de scénario."
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "#42 - 10 ans plus tard",
+      "date": "2026-04-08"
+    },
+    {
+      "titre": "HS #5 – Pilote “Les Visiteurs”",
+      "date": "2022-02-01"
+    },
+    {
+      "titre": "#41 – Les films de genre",
+      "date": "2019-08-01"
+    },
+    {
+      "titre": "#40 – Écrire pour le jeu vidéo",
+      "date": "2019-07-01"
+    },
+    {
+      "titre": "#39 – Écrire de l’humour",
+      "date": "2019-06-01"
+    }
+  ],
+  "derniere_activite": "2026-04-08",
+  "frequence_jours": 30
 }

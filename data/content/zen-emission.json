@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/zen-emission/id1707871333?uo=2",
       "trackId": 1707871333,
       "rating": 4.7,
-      "ratingCount": 142,
+      "ratingCount": 143,
       "episodeCount": null
     }
   },
@@ -27,7 +27,7 @@
     "comedie"
   ],
   "addedAt": "2026-08-02",
-  "updatedAt": "2026-09-22",
+  "updatedAt": "2026-09-25",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-17",
@@ -49,5 +49,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "ZEN #17 avec Malik Bentalha - Saison 3",
+      "date": "2024-06-25"
+    },
+    {
+      "titre": "ZEN #16 avec Vald - Saison 3",
+      "date": "2024-06-11"
+    },
+    {
+      "titre": "ZEN #15 avec Theodort - Saison 3",
+      "date": "2024-05-28"
+    },
+    {
+      "titre": "ZEN #14 avec Natoo - Saison 3",
+      "date": "2024-05-07"
+    },
+    {
+      "titre": "ZEN #13 avec Samuel Étienne - Saison 3",
+      "date": "2024-04-23"
+    }
+  ],
+  "derniere_activite": "2024-06-25",
+  "frequence_jours": 14
 }

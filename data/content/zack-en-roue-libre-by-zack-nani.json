@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/zack-en-roue-libre-by-zack-nani/id1612444837?uo=4",
       "trackId": 1612444837,
       "rating": 4.8,
-      "ratingCount": 560,
+      "ratingCount": 561,
       "episodeCount": 184
     }
   },
@@ -24,7 +24,7 @@
   "tags": [
     "histoire"
   ],
-  "updatedAt": "2026-09-22",
+  "updatedAt": "2026-09-25",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-10",
@@ -46,5 +46,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Ciryl Gane, le Nouveau Champion Incontesté de l'UFC",
+      "date": "2026-09-22"
+    },
+    {
+      "titre": "Georges Mikautadze : Départ de l'OL, Euro 2024, Ligue des Champions",
+      "date": "2026-07-09"
+    },
+    {
+      "titre": "Le Français Qui a Conquis Call Of Duty, L'Histoire d'Hydra",
+      "date": "2026-06-25"
+    },
+    {
+      "titre": "Du Maroc Aux Plus Grandes Scènes de l'Esport, L'Histoire d'Itachi",
+      "date": "2026-06-18"
+    },
+    {
+      "titre": "Finales NBA, La Vie aux US, Steph Curry aux JO 2024 : Guerschon Yabusele se livre sans filtre",
+      "date": "2026-06-12"
+    }
+  ],
+  "derniere_activite": "2026-09-22",
+  "frequence_jours": 8
 }

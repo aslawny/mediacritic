@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/vrai-le-podcast/id1891356685?uo=2",
       "trackId": 1891356685,
       "rating": 4.4,
-      "ratingCount": 50,
+      "ratingCount": 51,
       "episodeCount": null
     }
   },
@@ -27,5 +27,29 @@
     "news"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-09-22"
+  "updatedAt": "2026-09-25",
+  "episodes_recents": [
+    {
+      "titre": "Sa relation avec Seb, sa nouvelle vie de maman et son rapport aux réseaux sociaux : Cloé Cooper se livre dans ",
+      "date": "2026-07-01"
+    },
+    {
+      "titre": "Sa dernière relation amoureuse, son amitié avec Benjamin Samat et Flo : Nico Ferrero se confie",
+      "date": "2026-06-24"
+    },
+    {
+      "titre": "Connexion avec Mayer, Secret Story, réseaux sociaux et Aya Nakamura : Romy révèle tout",
+      "date": "2026-06-17"
+    },
+    {
+      "titre": "Relation avec Cassandra, télé-réalité, célibat et carrière de DJ : Giovanni se confie dans VRAI",
+      "date": "2026-06-10"
+    },
+    {
+      "titre": "Décès de son père, relation fusionnelle avec sa mère, téléréalité et confiance en soi : Lou Pernaut se confie ",
+      "date": "2026-06-03"
+    }
+  ],
+  "derniere_activite": "2026-07-01",
+  "frequence_jours": 7
 }

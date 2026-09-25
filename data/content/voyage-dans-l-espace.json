@@ -25,7 +25,7 @@
     "espace"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-09-22",
+  "updatedAt": "2026-09-25",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -51,5 +51,29 @@
         "texte": "L’un de mes 2 podcasts de predilection consacré à notre univers spatial avec une preference pour celui-ci ! Les 2 podcasteurs sont très pertinents et ont l’art de bien nous expliquer le fonctionnement de notre Espace à travers differents themes alléchants et surtout toujours inte…"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "#187 - La folle époque des années 20",
+      "date": "2026-09-20"
+    },
+    {
+      "titre": "#186 - Archéoastronomie 3 : Pourquoi une semaine de 7 jours, des journées de 24 heures, et des heures de 60 mi",
+      "date": "2026-09-07"
+    },
+    {
+      "titre": "#185 - Quels sont les dix moments les plus... ?",
+      "date": "2026-08-16"
+    },
+    {
+      "titre": "#184 - L'éclipse du 12 aout, un guide pratique...",
+      "date": "2026-07-19"
+    },
+    {
+      "titre": "#183 - Archéoastronomie, 2ème partie : La mesure du temps",
+      "date": "2026-07-05"
+    }
+  ],
+  "derniere_activite": "2026-09-20",
+  "frequence_jours": 14
 }

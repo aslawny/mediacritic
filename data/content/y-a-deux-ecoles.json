@@ -23,7 +23,7 @@
     "education"
   ],
   "addedAt": "2026-09-08",
-  "updatedAt": "2026-09-22",
+  "updatedAt": "2026-09-25",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -49,5 +49,25 @@
         "texte": "Votre podcast m’a énormément dérangé et surtout m’a déçu dans le fond. Est-ce une généralité ou juste une réalité parisienne ?"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "Y'a deux écoles (4) : l'autre rive",
+      "date": "2015-12-03"
+    },
+    {
+      "titre": "Y'a deux écoles (3) : les vases communicants",
+      "date": "2015-11-26"
+    },
+    {
+      "titre": "Y'a deux écoles (1) : les deux fleuves",
+      "date": "2015-11-19"
+    },
+    {
+      "titre": "Y'a deux écoles (2) : le passage à niveau",
+      "date": "2015-11-19"
+    }
+  ],
+  "derniere_activite": "2015-12-03",
+  "frequence_jours": 7
 }

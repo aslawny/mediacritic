@@ -26,7 +26,7 @@
     "histoire"
   ],
   "addedAt": "2026-05-31",
-  "updatedAt": "2026-09-22",
+  "updatedAt": "2026-09-25",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -52,5 +52,29 @@
         "texte": "Bonjour Yomi je te connais grâce à ta chaîne YouTube et je te remercie pour prendre le temps de nous expliquer comment gagner de l’argent PS : j’ai 12 ans"
       }
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "De Famille d'Accueil à Millionnaire - L'Histoire Incroyable de Kelly Massol",
+      "date": "2025-03-13"
+    },
+    {
+      "titre": "Pourquoi 2025 Doit Être TON année (Conférence)",
+      "date": "2025-03-13"
+    },
+    {
+      "titre": "Il Gagne 35 Millions par An - L'Incroyable Interview d'Anthony Bourbon",
+      "date": "2025-01-19"
+    },
+    {
+      "titre": "8 Clés pour Reprogrammer son Cerveau et Devenir Inarrêtable (en 7 jours seulement)",
+      "date": "2024-12-03"
+    },
+    {
+      "titre": "L’Alcool Détruit Ton Potentiel : Mes résultats en 90 Jours",
+      "date": "2024-11-21"
+    }
+  ],
+  "derniere_activite": "2025-03-13",
+  "frequence_jours": 12
 }

@@ -26,7 +26,7 @@
     "societe"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-09-22",
+  "updatedAt": "2026-09-25",
   "episodes_recents": [
     {
       "titre": "Aurélie Delimal - Voyager en vélo pliant",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2024-02-20",
-  "frequence_jours": 19
+  "frequence_jours": 19,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-25",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Magiccalou",
+        "titre": "Ça donne juste envie de partir voyager à vélo",
+        "texte": "Et pourtant c’était pas gagné. Je suis pas particulièrement ´vélo ´, je préfère la course à pied et le trail. Je voyage beaucoup, mais en avion et en road trip en général.…"
+      },
+      {
+        "note": 5,
+        "auteur": "V.V's-mind",
+        "titre": "Podcast qui touche et emmène ailleurs",
+        "texte": "Franchement bravo, j’ai découvert ce podcast et tout m’a plu, le thème du voyage au vélo décliné dans des expériences et profils variés, des interviews à la fois pointues et pleine d’émotions, menées par la podcasteuse toujours enjouée, le format 30 min, et les musiques qui donne…"
+      },
+      {
+        "note": 5,
+        "auteur": "julie002288",
+        "titre": "Partir à l’aventure!",
+        "texte": "Je suis devenue une grande fan de ce podcast, que j’attends avec impatience toutes les 2 semaines ! Je ne suis pas une grande fan de vélo et pourtant je voyage à chaque épisode, j’ai l’impression de partir à l’aventure.…"
+      }
+    ]
+  }
 }
