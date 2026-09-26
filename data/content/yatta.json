@@ -46,5 +46,31 @@
     }
   ],
   "derniere_activite": "2014-06-22",
-  "frequence_jours": 17
+  "frequence_jours": 17,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "wyrna",
+        "titre": "Toujours aussi bien! :)",
+        "texte": "La nouvelle version de Yatta est pas mal du tout. L'idée de mettre les bandes son des jeux vidéo, animes... pendant les chroniques est super bonne! Ça rend le podcast plus interactif.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Sharkkun",
+        "titre": "Pitoyable",
+        "texte": "Il y a peu j'ai découvert ce podcast par hasard en parcourant iTunes. Et c'est à ce moment que Dame Naiveté s'empara de moi: \"Ah! Un podcast sur les mangas! Génial\" Mais la réalité est parfois bien cruelle, et ma joie fut de courte duree, ce podcast est bien loin de remplir ses p…"
+      },
+      {
+        "note": 5,
+        "auteur": "koartz",
+        "titre": "Sugoi!",
+        "texte": "Si vous chercher un podcast qui parle du Japon, des jeux vidéos, je ne peux que vous conseiller Yatta!, car l'ambiance y est bonne, les animateurs vraiment attachant (Misaki , Dewey, Captain Johnson, Allpo, Caro) et toujours avec de supers invités, tous plus givrés les uns que le…"
+      }
+    ]
+  }
 }

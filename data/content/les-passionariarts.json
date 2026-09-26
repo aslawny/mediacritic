@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2024-07-01",
-  "frequence_jours": 77
+  "frequence_jours": 77,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "SimoneA5",
+        "titre": "Chouette, un podcast où l'on parle Art en engagement !",
+        "texte": "Oralement, à la radio, sur un podcast, la parole a un peu tendance à fuser. Un premier jet, et c'est dit c'est dit, on ne peut pas corriger, ça fuse, dans la passion de la conversation le naturel s'exprime au galop, la spontanéité est là.…"
+      },
+      {
+        "note": 5,
+        "auteur": "GlenMo76_$",
+        "titre": "Le podcast qu’on attendait tous !",
+        "texte": "En 2 mots : merci Adeline ! La place de la femme dans notre société est un sujet qui me touche depuis toujours, je milite moi même à mon niveau travaillant dans le milieu informatique, très masculin lui aussi.…"
+      },
+      {
+        "note": 5,
+        "auteur": "A.Montoussaint",
+        "titre": "Les PassionariArts !",
+        "texte": "Venez découvrir ce nouveau podcast proposé par Atwork in Promess. Adeline au micro rouge vous fait découvrir des femmes inspirantes, passionnées du monde des arts. J’ai écouté le 1er épisode avec l’artiste violoniste M.Chiche, très intéressant.…"
+      }
+    ]
+  }
 }

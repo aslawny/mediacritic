@@ -1,6 +1,6 @@
 {
-  "maj": "2026-09-25",
-  "total": 557,
+  "maj": "2026-09-26",
+  "total": 579,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -2194,6 +2194,12 @@
       "fiche": "fiches/ted-en-francais.html"
     },
     {
+      "slug": "avocats-generation-entrepreneurs",
+      "titre": "Avocats Génération Entrepreneurs",
+      "notes_apple": 106,
+      "fiche": "fiches/avocats-generation-entrepreneurs.html"
+    },
+    {
       "slug": "grand-reportage",
       "titre": "Grand Reportage",
       "notes_apple": 105,
@@ -3344,6 +3350,132 @@
       "titre": "Pour Une Poignée de Gamers - Podcast Jeux Vidéo",
       "notes_apple": 67,
       "fiche": "fiches/pour-une-poignee-de-gamers-podcast-jeux-video.html"
+    },
+    {
+      "slug": "soyez-sympas-rejouez",
+      "titre": "Soyez-sympas, rejouez",
+      "notes_apple": 67,
+      "fiche": "fiches/soyez-sympas-rejouez.html"
+    },
+    {
+      "slug": "un-voyage-la-seine-et-nos-amours",
+      "titre": "Un voyage : la Seine et nos amours",
+      "notes_apple": 67,
+      "fiche": "fiches/un-voyage-la-seine-et-nos-amours.html"
+    },
+    {
+      "slug": "unfinished-sentences-by-ogee",
+      "titre": "Unfinished Sentences by Ogee",
+      "notes_apple": 67,
+      "fiche": "fiches/unfinished-sentences-by-ogee.html"
+    },
+    {
+      "slug": "dans-mon-siege-auto",
+      "titre": "Dans mon siège auto",
+      "notes_apple": 66,
+      "fiche": "fiches/dans-mon-siege-auto.html"
+    },
+    {
+      "slug": "go-wdw",
+      "titre": "GO WDW",
+      "notes_apple": 66,
+      "fiche": "fiches/go-wdw.html"
+    },
+    {
+      "slug": "j-accuse-l-affaire-dreyfus-12-annees-en-quete-de-verite",
+      "titre": "J’ACCUSE : l'affaire Dreyfus, 12 années en quête de vérité",
+      "notes_apple": 66,
+      "fiche": "fiches/j-accuse-l-affaire-dreyfus-12-annees-en-quete-de-verite.html"
+    },
+    {
+      "slug": "la-flouzerie",
+      "titre": "LA FLOUZERIE",
+      "notes_apple": 66,
+      "fiche": "fiches/la-flouzerie.html"
+    },
+    {
+      "slug": "parle-seigneur-ton-serviteur-ecoute-par-la-mission-timothee",
+      "titre": "Parle Seigneur ton serviteur écoute par la Mission Timothée",
+      "notes_apple": 66,
+      "fiche": "fiches/parle-seigneur-ton-serviteur-ecoute-par-la-mission-timothee.html"
+    },
+    {
+      "slug": "podcasts-pour-enfants-les-meilleures-histoires-pour-enfants",
+      "titre": "Podcasts pour enfants : les meilleures histoires pour enfants",
+      "notes_apple": 66,
+      "fiche": "fiches/podcasts-pour-enfants-les-meilleures-histoires-pour-enfants.html"
+    },
+    {
+      "slug": "argent-et-sens-les-pepettes",
+      "titre": "Argent et sens — Les Pépettes",
+      "notes_apple": 65,
+      "fiche": "fiches/argent-et-sens-les-pepettes.html"
+    },
+    {
+      "slug": "face-a-canteloup",
+      "titre": "Face à Canteloup",
+      "notes_apple": 65,
+      "fiche": "fiches/face-a-canteloup.html"
+    },
+    {
+      "slug": "journal-de-12h30",
+      "titre": "Journal de 12h30",
+      "notes_apple": 65,
+      "fiche": "fiches/journal-de-12h30.html"
+    },
+    {
+      "slug": "les-contes-de-mon-vieux-grimoire",
+      "titre": "Les Contes de mon Vieux Grimoire",
+      "notes_apple": 65,
+      "fiche": "fiches/les-contes-de-mon-vieux-grimoire.html"
+    },
+    {
+      "slug": "marketing-influence-le-podcast-du-marketing-digital-et-de-l-influence",
+      "titre": "Marketing & Influence – Le podcast du marketing digital et de l’influence",
+      "notes_apple": 65,
+      "fiche": "fiches/marketing-influence-le-podcast-du-marketing-digital-et-de-l-influence.html"
+    },
+    {
+      "slug": "ouvrez-votre-esprit-avec-inexplore",
+      "titre": "Ouvrez votre esprit avec Inexploré",
+      "notes_apple": 65,
+      "fiche": "fiches/ouvrez-votre-esprit-avec-inexplore.html"
+    },
+    {
+      "slug": "passe-ta-pass-cours-audio-pass-las-medecine",
+      "titre": "Passe Ta PASS - Cours audio PASS/LAS Médecine",
+      "notes_apple": 65,
+      "fiche": "fiches/passe-ta-pass-cours-audio-pass-las-medecine.html"
+    },
+    {
+      "slug": "you-must-remember-this",
+      "titre": "You Must Remember This",
+      "notes_apple": 65,
+      "fiche": "fiches/you-must-remember-this.html"
+    },
+    {
+      "slug": "au-poste",
+      "titre": "Au Poste",
+      "notes_apple": 64,
+      "fiche": "fiches/au-poste.html"
+    },
+    {
+      "slug": "indiepreneurs",
+      "titre": "iNDIEPRENEURS",
+      "notes_apple": 64,
+      "fiche": "fiches/indiepreneurs.html"
+    },
+    {
+      "slug": "l-exotalk",
+      "titre": "L'ExoTalk",
+      "notes_apple": 64,
+      "fiche": "fiches/l-exotalk.html"
+    },
+    {
+      "slug": "les-aventures-de-tintin-la-chasse-au-tresor",
+      "titre": "Les Aventures de Tintin - La Chasse au trésor",
+      "notes_apple": 64,
+      "fiche": "fiches/les-aventures-de-tintin-la-chasse-au-tresor.html"
     }
   ]
 }

@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2025-03-24",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "KadiNelly",
+        "titre": "Le podcast à avoir absolument sinon t’as raté ta vie",
+        "texte": "Découverte de C. Befoune au début de l’année 2020. Je ne me souviens plus comment. Mais je suis littéralement tombée amoureuse du personnage sur Instagram. Une femme authentique, intelligente qui ne cherche à plaire à personne, qui est juste elle.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Assiba.A",
+        "titre": "Mon podcast préféré",
+        "texte": "Ça fait des années que j’écoute C.befoune. Ses mots m’ont accompagné, fait grandir et évoluer. Elle m’a fait me questionner sur beaucoup d’aspect de ma vie. Je continue d’apprendre avec son podcast et j’ai converti tout mon entourage à l’écoute de ce dernier.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Amele_prud",
+        "titre": "Ouverture d’esprit",
+        "texte": "J’aime l’authenticité que dégage ce podcast. Vous faites du bon travail Madame. Chaque fois que j’écoute,j’ai l’impression que chaque épisode m’est adressé personnellement.…"
+      }
+    ]
+  }
 }

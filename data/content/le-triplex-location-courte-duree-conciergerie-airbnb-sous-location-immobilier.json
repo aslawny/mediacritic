@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-08",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "D@v'",
+        "titre": "Instructif et pratique",
+        "texte": "C’est parfois un peu fouilli mais toujours intéressant. Je le picore de temps à autres mais quand même régulièrement comme une boite à outils en fonction de l’intérêt que chaque sujet peut avoir pour moi.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Max-LT",
+        "titre": "Le regard qu’il manquait sur la location courte durée",
+        "texte": "Merci, enfin des infos de qualité. J’adore le ton de Sammy et Maxime. Leurs invités sont vraiment top !"
+      },
+      {
+        "note": 5,
+        "auteur": "Marie-Charlotte10",
+        "titre": "Le podcast que je recherchais!",
+        "texte": "Propriétaire de 2 appartements en LCD à Troyes depuis 1 an, je découvre « Le Triplex » il y a quelques semaines. C’est une mine d’or! J’apprends à chaque épisode et je mets vite en application, avec de beaux résultats.…"
+      }
+    ]
+  }
 }

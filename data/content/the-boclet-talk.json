@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-04-21",
-  "frequence_jours": 42
+  "frequence_jours": 42,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "liam.yorke",
+        "titre": "Particulièrement inspirant",
+        "texte": "Je connais le travail de Mohamed Boclet depuis moins d’un mois. Conquis par sa formation sur la lecture rapide, le mind mapping et les techniques de mémorisation, j’ai entamé les différentes leçons.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Cocoyoto",
+        "titre": "Une pépite !!",
+        "texte": "Mais quelle pépite! La connaissance est illimitée et tu nous le prouves au fil des podcast qui sont très inspirants et nous reboostent. Les autres ont réussi…pourquoi pas moi? Action!! Ton livre paru il y a quelques semaines est devenu pour moi un mode d’emploi.…"
+      },
+      {
+        "note": 5,
+        "auteur": "A.Ahra",
+        "titre": "Inspirant",
+        "texte": "Des parcours de vie inspirants pour muscler son mindset et réveiller le superman qui sommeille en chacun de nous. Effet booster garanti. Un excellent complément à la formation potentiel illimitée. C est le bonus caché : podcast connaissance illimitée."
+      }
+    ]
+  }
 }

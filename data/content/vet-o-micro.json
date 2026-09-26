@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-21",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Circani",
+        "titre": "Épisode 30 génial, épisode 32 incroyable",
+        "texte": "Auditrice du podcast quasiment depuis ses débuts, je commente pour la première fois car j’ai été beaucoup touchée par l’épisode 30 et encore plus par le 32!! Supers intervenants et questions très intéressantes.…"
+      },
+      {
+        "note": 5,
+        "auteur": "lpgth",
+        "titre": "Intéressant et instructif",
+        "texte": "Donne de nombreuses idées et pistes à étudier, tant d’un point de vue entrepreneurial qu’humain pour ma pratique future (actuellement étudiant). Bravo …"
+      },
+      {
+        "note": 5,
+        "auteur": "Floveto",
+        "titre": "A écouter sans modération",
+        "texte": "On retrouve des personnes connues au cours de notre parcours , on en découvre de nouvelles , ce podcast permet de prendre de la hauteur sur notre microcosme de véto et les perspectives possibles !"
+      }
+    ]
+  }
 }
