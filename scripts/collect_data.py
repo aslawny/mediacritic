@@ -205,6 +205,8 @@ YOUTUBE_CHANNELS = [
     ("@TrashTalkProduction",  "trashtalk",                "TrashTalk",                   ["sport","basket","nba","humour"]),
     # --- Episode MC 40 ---
     ("@The_FirstTake",        "the-first-take",           "THE FIRST TAKE",              ["musique","culture","live"]),
+    # --- Episode MC 48 ---
+    ("@lecrayonmedia",        "le-crayon",                "Le Crayon",                   ["societe","politique","actualite","debat"]),
 ]
 
 # --- Requetes de decouverte YouTube (pool large, rotation par run) ------------

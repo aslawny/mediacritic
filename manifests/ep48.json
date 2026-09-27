@@ -1,0 +1,44 @@
+{
+  "ep": 48,
+  "saison": 2,
+  "slug": "le-crayon",
+  "page": "le-crayon.html",
+  "title": "Le Crayon",
+  "tagline": "Le média du débat",
+  "meta_desc": "MediaCritic analyse Le Crayon, le média de débat des 18-35 ans fondé en 2020 par Sixtine et Wallerand Moullé-Berteaux. Le verdict complet.",
+  "cover": "https://yt3.googleusercontent.com/aISQxOqj3gs5znlxMY62oOePBmVlmJagPOGyQnnubmO6u4_X_r-ZllhT-FaFuWaNQiKHPtyL=s800-c-k-c0x00ffffff-no-rj",
+  "initials": "LC",
+  "type_line": "Chaîne YouTube · Débat · Société · Depuis 2020",
+  "hosts_line": "Animé par <strong>Lolo · Alex</strong>",
+  "authors": [
+    "Lolo",
+    "Alex"
+  ],
+  "buttons": [
+    {
+      "href": "https://www.youtube.com/@lecrayonmedia",
+      "label": "▶ La chaîne"
+    }
+  ],
+  "note": 8,
+  "verdict": "Donner envie aux jeunes de s'écouter être en désaccord : presque un service public — à condition que la muraille entre le média et ses agences reste très haute.",
+  "content_file": "manifests/ep48-content.html",
+  "content": {
+    "slug": "le-crayon",
+    "title": "Le Crayon",
+    "author": "Le Crayon",
+    "type": "youtube",
+    "categories": ["societe", "politique", "actualite", "debat"],
+    "description": "Le Crayon est le premier média de débat des jeunes, fondé en 2020 par Sixtine et Wallerand Moullé-Berteaux, Antonin Marin et Jules Stimpfling. Face-à-face avec des personnalités, micro-trottoirs et débats contradictoires entre jeunes qui ne sont pas d'accord, en formats longs sur YouTube et courts sur TikTok et Instagram.",
+    "image": "https://yt3.googleusercontent.com/aISQxOqj3gs5znlxMY62oOePBmVlmJagPOGyQnnubmO6u4_X_r-ZllhT-FaFuWaNQiKHPtyL=s800-c-k-c0x00ffffff-no-rj",
+    "language": "fr",
+    "platforms": {
+      "youtube": {
+        "url": "https://www.youtube.com/@lecrayonmedia",
+        "channelId": "UCbXWhsd805LfcbAy7xL9d-A",
+        "subscribers": 512000
+      }
+    },
+    "tags": ["debat", "societe", "politique", "jeunes"]
+  }
+}
