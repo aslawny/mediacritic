@@ -1,0 +1,33 @@
+{
+  "ep": 47,
+  "saison": 2,
+  "slug": "les-grosses-tetes",
+  "page": "les-grosses-tetes.html",
+  "title": "Les Grosses Têtes",
+  "tagline": "RTL, depuis 1977",
+  "meta_desc": "MediaCritic analyse Les Grosses Têtes (RTL) : 49 ans, deux animateurs, le podcast n°1 de France. Avec Gaëlle, et un hommage à Isabelle Mergault.",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/04/9f/fe049f64-d03c-3995-f7ed-ecd5c7bfa3fb/mza_10862868553998545135.jpg/600x600bb.jpg",
+  "initials": "GT",
+  "type_line": "Émission de radio · Humour · Quotidienne · RTL",
+  "hosts_line": "Animé par <strong>Lolo</strong> · avec <strong>Gaëlle</strong>",
+  "authors": [
+    "Lolo",
+    "Gaëlle"
+  ],
+  "guest": "Gaëlle",
+  "buttons": [
+    {
+      "href": "https://podcasts.apple.com/fr/podcast/les-grosses-t%C3%AAtes/id369369012",
+      "label": "🎙️ Le podcast"
+    }
+  ],
+  "note": 8.5,
+  "verdict": "Quarante-neuf ans, une reprise que personne ne croyait possible et le podcast n°1 de France : ce n'est pas une survivance, c'est une performance.",
+  "content_file": "manifests/ep47-content.html",
+  "listen": {
+    "spotify": "https://open.spotify.com/episode/6AyTKU32rYH46aY4RrnphJ",
+    "apple": "https://podcasts.apple.com/fr/podcast/s02-ep47-les-grosses-t%C3%AAtes/id1853247643?i=1000791833660",
+    "deezer": "https://www.deezer.com/fr/episode/939829332",
+    "youtube": "https://www.youtube.com/watch?v=52o2UBTWUsU"
+  }
+}
