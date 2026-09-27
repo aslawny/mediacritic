@@ -129,8 +129,36 @@
   // eviter. On mesure donc apres insertion : si la nav deborde, le bouton
   // rejoint le menu burger, ou se pose en flottant. Mesurer plutot que de se
   // fier a un point de rupture couvre aussi les navs qu'on n'a pas prevues.
+  // Ecarts entre elements visibles de la nav, dans l'ordre, hors bouton.
+  function ecarts(nav) {
+    var k = [], out = [];
+    for (var i = 0; i < nav.children.length; i++) {
+      var e = nav.children[i];
+      if (e === boite) continue;
+      var r = e.getBoundingClientRect();
+      if (r.width > 0) k.push(r);
+    }
+    for (var j = 1; j < k.length; j++) {
+      if (Math.abs(k[j].top - k[j - 1].top) < 20) out.push(k[j].left - k[j - 1].right);
+      else out.push(null);
+    }
+    return out;
+  }
+  var ecartsOrigine = null;
+
   function deborde(nav) {
     if (nav.scrollWidth > nav.clientWidth + 1) return true;
+    // Compression : la nav ne deborde pas, mais ses elements se serrent
+    // jusqu'a se toucher. A 800 px, « Episode 48 » venait se coller a
+    // « Palmares » (35 px d'ecart a l'origine, 0 avec le bouton) sans que la
+    // largeur totale change. Un ecart d'origine d'au moins 8 px doit le rester.
+    if (ecartsOrigine) {
+      var maint = ecarts(nav);
+      for (var i = 0; i < ecartsOrigine.length && i < maint.length; i++) {
+        if (ecartsOrigine[i] !== null && ecartsOrigine[i] >= 8 &&
+            (maint[i] === null || maint[i] < 8)) return true;
+      }
+    }
     // On mesure la contribution PROPRE du bouton : une page peut deja
     // deborder pour une autre raison, et il serait absurde de replier le
     // bouton a cause d'un tableau large ailleurs dans la page.
@@ -143,10 +171,18 @@
 
   // Remet la boite et le menu dans leur etat neutre : chaque placement repart
   // de zero, ce qui permet de re-placer apres chargement ou redimensionnement.
+  var voisinDecale = null;   // element de la nav dont on a modifie la marge
   function neutre() {
     boite.className = "mc-part";
     boite.removeAttribute("style");
     menu.removeAttribute("style");
+    if (voisinDecale) {
+      voisinDecale.style.marginLeft = "";
+      voisinDecale = null;
+    }
+    // Detache : sinon, lors d'un re-placement, la mesure de reference de la
+    // nav inclurait la place encore occupee par le bouton.
+    if (boite.parentNode) boite.parentNode.removeChild(boite);
   }
 
   // Deuxieme version corrigee, apres deux defauts vus sur l'episode 46 :
@@ -173,8 +209,30 @@
     var enFlex = getComputedStyle(nav).display.indexOf("flex") >= 0;
 
     if (enFlex) {
-      boite.style.marginLeft = "auto";
+      // Ecarts de la nav SANS le bouton : la reference pour detecter une
+      // compression une fois le bouton insere.
+      ecartsOrigine = ecarts(nav);
+      // Ranger le bouton A COTE du dernier element de droite, pas le pousser
+      // contre la gauche. Avec `margin-left:auto` seul, sur une nav en
+      // space-between a trois enfants, l'espace libre passait avant le bouton
+      // et « Episode 48 » venait se coller a « Palmares » (ecart de 0 px).
+      // On reporte donc la marge automatique sur l'element qui etait le
+      // dernier, quand il n'est pas aussi le premier (sinon on pousserait le
+      // bloc de gauche vers la droite).
+      var dernier = nav.lastElementChild;
+      var nbAvant = nav.children.length;
       nav.appendChild(boite);
+      // Uniquement pour les navs en space-between (pages episodes, fiches) :
+      // ailleurs, comme sur l'accueil, le dernier element fait partie d'un
+      // groupe (« Ecouter » + « Voir ») qu'une marge auto couperait en deux.
+      var espace = getComputedStyle(nav).justifyContent.indexOf("space-between") >= 0;
+      if (espace && dernier && nbAvant >= 2 && dernier !== nav.firstElementChild) {
+        voisinDecale = dernier;
+        dernier.style.marginLeft = "auto";
+        boite.style.marginLeft = "12px";
+      } else {
+        boite.style.marginLeft = "auto";
+      }
       if (!deborde(nav)) return;
       boite.classList.add("mc-part-compact");      // icone seule
       if (!deborde(nav)) return;
