@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2024-04-09",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Paul-Court",
+        "titre": "🙏",
+        "texte": "Merci Elodie de parler de ces thématiques essentielles avec bienveillance et transparence. Je me suis moi-même réorientée dans l’accompagnement en transition professionnel depuis moins d’un an.…"
+      },
+      {
+        "note": 5,
+        "auteur": "mcompletpardessus",
+        "titre": "Inspirant",
+        "texte": "En plein questionnement sur le sens de mon activité actuelle, sans vraiment savoir par quel bout prendre le sujet, votre podcast tombe à pic!!! Et chaque épisode m’apporte une piste à étudier, un tips qui me correspond! Merci"
+      },
+      {
+        "note": 5,
+        "auteur": "Mâya",
+        "titre": "Remerciement",
+        "texte": "Déjà bravo pour ton parcours! On dirait que c’est easy pour toi! Et ensuite merci pour la croyance et motivation que tu peux transmette ! À bientôt"
+      }
+    ]
+  }
 }

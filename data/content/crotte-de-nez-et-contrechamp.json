@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-06-03",
-  "frequence_jours": 28
+  "frequence_jours": 28,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Bastos Demnos",
+        "titre": "Mignon & Drôle",
+        "texte": "Tellement chouette de retrouver notre voix préférée de 2h de perdues, avec un concept génial. Michaël est un super animateur, qui sait relancer les enfants qui présentent l’émission avec lui pour que ce soit toujours drôle et touchant.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Nowhere_Fast",
+        "titre": "Analyse clairvoyante",
+        "texte": "Expertise pointue, flot d’informations, anecdotes pertinentes, c’est LE podcast cinéma que j’attendais. Bravo aux expertes et à l’animateur. Un peu déçue que Mila ne soit pas réellement fan de Michel Piccoli néanmoins."
+      },
+      {
+        "note": 5,
+        "auteur": "Fan de Sauce",
+        "titre": "Très pro",
+        "texte": "Si certaines analyses - un peu trop intellos - peuvent parfois dérouter, on ne peut que louer le professionnalisme des deux chroniqueurs récurrents ainsi que la vivacité des invité.e.s ! Vivement l’analyse des Saw!"
+      }
+    ]
+  }
 }

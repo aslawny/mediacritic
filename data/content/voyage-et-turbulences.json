@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2022-11-27",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Vananouch",
+        "titre": "Premier voyage à Londres avec mon amie",
+        "texte": "J’ai kiffé revivre ce voyage et après 10 ans les émotions sont au rendez vous!!! j’ai bien rigolé et je confirme ce manteau me hante encore j’ai le cœur gros en y repensant et je sais que j’y retournerai avec Florianne c’est sûr et certain car je sais que je peux compter sur Flor…"
+      },
+      {
+        "note": 5,
+        "auteur": "Etteiile",
+        "titre": "Mon aviiissss",
+        "texte": "J’adore vraiment ce podcast. Il sent la bonne humeur et la joie de vivre. Je l’écoute depuis peu et je ne peux déjà plus m’en passer. De plus, j’aime beaucoup les anecdotes/histoires qui y sont racontées. L’idée de ce podcast est superbe …"
+      },
+      {
+        "note": 5,
+        "auteur": "dianou972",
+        "titre": "Un régal auditif",
+        "texte": "Évasion totale ; merci merci pour ce moment d’écoute ludique et inspirante ! J’attends toujours la petite mésaventure croustillante à chaque podcasts ( et qu’est-ce que je rigole 😂) Bonne continuation ! Merci d’envoyer des voyages sur nous ( c’est pas français 😆)"
+      }
+    ]
+  }
 }

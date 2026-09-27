@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2025-10-14",
-  "frequence_jours": 5
+  "frequence_jours": 5,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "LaCollision",
+        "titre": "Une pépite !",
+        "texte": "Un podcast à écouter d’urgence ! Suivez l’aventure de personnages désopilants, qui vous feront pleurer de rire. Les dialogues sont des pépites bourrées de jeux de mots, la production est digne d’un blockbuster hollywoodien et le scénario est une merveille de trouvailles.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Duc Lait",
+        "titre": "Mon podcast préféré",
+        "texte": "Ana chronique est une série incroyable, il faut absolument la regarder chaque scène est incroyable, chaque dialogue sont hilarant dans la troisième saison, il y a en plus une intrigue magnifique C’est à la fois surprenant et hilarant écouter et ce podcast incroyable Ana chronique…"
+      },
+      {
+        "note": 5,
+        "auteur": "Zarakaï.",
+        "titre": "Saison inconnue",
+        "texte": "La série est génial, je l’ai écouté plusieurs fois et c’est un plaisir à chaque fois. Petit bug dans l’affichage des saisons la saison 1 est référencé en « saison inconnue » ce qui est galère pour avoir les deux à la suite dans une playlist."
+      }
+    ]
+  }
 }

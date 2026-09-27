@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-11",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Manonfyr",
+        "titre": "Enfin un podcast pour moi !",
+        "texte": "Rafraîchissant, intimiste et bien sûr passionnant : ce sont les 3 adjectifs qui me restent en tête à la fin de l’écoute. Léa dépoussière avec brio l’exercice parfois trop instrumentalisé de l’interview et nous invite à découvrir bien plus qu’un pâtissier..…"
+      },
+      {
+        "note": 2,
+        "auteur": "Agathe974",
+        "titre": "Bruits de fond",
+        "texte": "Dommage qu’il y ait autant de bruits en fond sur beaucoup d’épisodes, ce qui rend l’écoute pas très agréable"
+      },
+      {
+        "note": 5,
+        "auteur": "isadb2711",
+        "titre": "Un vrai moment d’évasion et de rencontres",
+        "texte": "Chaque interview donne envie de rencontrer, de découvrir à la fois l’invité de la semaine ainsi que ses réalisations ! Un rendez-vous tonique, agréable, au cœur des émotions de la créativité de chaque personnalité.…"
+      }
+    ]
+  }
 }

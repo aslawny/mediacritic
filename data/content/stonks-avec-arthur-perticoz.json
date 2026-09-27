@@ -48,5 +48,19 @@
     }
   ],
   "derniere_activite": "2026-05-29",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Louis Huppelschoten",
+        "titre": "Meilleur podcast esport",
+        "texte": "Cela fait plaisir de voir Arthur aborder ces différents sujets de la scène esport avec ce type d'invité !"
+      }
+    ]
+  }
 }

@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2021-10-20",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "broutelune",
+        "titre": "Du rêve en podcast",
+        "texte": "Tonton zegut a une façon de raconter des histoires qui fait rêver ! Du bon rock, les states, des bagnoles, un vrai régal à écouter !"
+      },
+      {
+        "note": 5,
+        "auteur": "llobzh",
+        "titre": "A écouter sans modération !",
+        "texte": "Trop bon de retrouver la voix de Zégut et de l'écouter parler de tous ces groupes de Rock mythiques... A écouter sans modération 🤘"
+      },
+      {
+        "note": 5,
+        "auteur": "Alexofpuppets",
+        "titre": "Un grand fan de musique",
+        "texte": "Toujours agréable d’entendre la grosse voix de tonton Z. Très bon épisode sur ACDC (on ressent vraiment la passion)"
+      }
+    ]
+  }
 }

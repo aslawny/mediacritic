@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-18",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Dex6433",
+        "titre": "Merci",
+        "texte": "Super podcast. Les histoires sont toujours intéressantes avec une trame permettant le passage de message comme le courage, l’entraide, la bienveillance… j’adore toutes les voix de la maman qui raconte au petit dernier trop mignon. Merci pour ce super travail . 👍"
+      },
+      {
+        "note": 5,
+        "auteur": "Emmy_1987",
+        "titre": "Génialissime",
+        "texte": "Beaucoup de douceur et d’imagination ! Mes enfants et moi même sommes très fan !la narration est originale , douce et relaxante !et le fait d’intégrer des voix d’enfants est très captivant et retient bien l’écoute et l’attention de mes enfants,,, on adore 💕"
+      },
+      {
+        "note": 5,
+        "auteur": "Moune2203",
+        "titre": "Top",
+        "texte": "Super podcast ! Les voix sont douces et très agréables, et le fait d’entendre aussi des enfants le rend encore plus captivant pour les miens. C’est apaisant et ça les aide vraiment à s’endormir. Je recommande vivement !"
+      }
+    ]
+  }
 }

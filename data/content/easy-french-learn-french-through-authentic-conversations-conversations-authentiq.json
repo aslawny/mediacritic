@@ -49,5 +49,25 @@
     }
   ],
   "derniere_activite": "2026-08-19",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "@112@100",
+        "titre": "Meilleure conseiller pour apprendre française",
+        "texte": "carrément Très bon podcast sur tout et merci pour votre conseiller pour apprendre française et j’espère que très bonne journée et Bientôt . Mr. NOUREN ISMAIL MAHAMAT"
+      },
+      {
+        "note": 5,
+        "auteur": "harriegonegood",
+        "titre": "Herieth",
+        "texte": "Mon vraiment conseil pour cette podcast il m’aide beacoup améliorer ma français à comprendre aussi verbal ."
+      }
+    ]
+  }
 }

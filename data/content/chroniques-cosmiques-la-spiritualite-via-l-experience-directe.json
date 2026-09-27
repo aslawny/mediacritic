@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-23",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Davidoff2407",
+        "titre": "Un grand merci !",
+        "texte": "Un grand merci Angélique pour ton travail de recherche et de partage sur ces multiples sujets passionnants, qui touchent au plus profond de notre être, notre spiritualité, notre évolution.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Diane | un Soleil sur la Lune",
+        "titre": "Lumineux Podcast !",
+        "texte": "Je découvre et écoute avec grand émerveillement les podcasts proposés par les Chroniques Cosmiques ! Les sujets abordés, la façon de les traiter et les invités sont d’une très belle qualité …"
+      },
+      {
+        "note": 5,
+        "auteur": "pinkharley59",
+        "titre": "Chamanisme Mystical Druidess",
+        "texte": "Je viens d’écouter le podcast de Marianne, alias Mystical Druidess, Sur le chamanisme. Merci, c’était très intéressant et très instructif, autant sur la pratique que sur le parcours de Marianne.…"
+      }
+    ]
+  }
 }

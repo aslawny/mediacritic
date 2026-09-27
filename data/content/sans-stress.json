@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-07-13",
-  "frequence_jours": 9
+  "frequence_jours": 9,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mr.Nicoach",
+        "titre": "Excellent podcast !",
+        "texte": "Léo et Nyk sont sans stress mais de plus en plus pro dans le développement du podcast. Le football américain et la vie autour de ce sport sont abordés à travers leurs yeux, et à travers la liste des invités de plus en plus qualitative …"
+      },
+      {
+        "note": 5,
+        "auteur": "Jules LUCAS TIREL",
+        "titre": "Merci",
+        "texte": "Merci à Léo et Nick de me divertir vous êtes super pro continuer comme ça. 🏈👏"
+      },
+      {
+        "note": 4,
+        "auteur": "Tk 25",
+        "titre": "Very ouelle donne",
+        "texte": "Bravo Nykolas et Léo c’était un super épisode. Jsuis particulièrement d’accord avec vous sur le côté du franglais en France, vraiment parler anglais ça y est hyper mal vu ( étant de père américain je sais de quoi je parle ).…"
+      }
+    ]
+  }
 }

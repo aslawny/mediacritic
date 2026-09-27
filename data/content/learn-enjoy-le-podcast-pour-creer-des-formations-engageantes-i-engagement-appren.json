@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-07",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "LauraDelchad",
+        "titre": "Très utile et engageant",
+        "texte": "Je viens de commencer l’écoute du podcast d’Anne-Marie car je travaille en RH dans un département IT en pleine transformation avec notamment la mise en place de formations autour du design thinking, méthodologies Agile… les invités expliquent de façon très simple et pédagogique d…"
+      },
+      {
+        "note": 5,
+        "auteur": "gepec34",
+        "titre": "Un podcast sur la formation digitale très utile",
+        "texte": "Si vous êtes directeur ou directrice de formation, responsable digital learning ou ingénieurs pédagogiques ce podcast est à écouter. C’est une mine d’informations avec des invités toujours intéressant. Un véritable outil pédagogique et de veille. Merci Learn & Enjoy"
+      },
+      {
+        "note": 5,
+        "auteur": "Marlène B",
+        "titre": "Un podcast de référence",
+        "texte": "Le nom du podcast tien sa promesse. On apprend tout ce qu’il faut sur l’univers de la formation. Plus particulièrement le marketing de la formation. Les intervenants sont variés et on passe un bon moment. Merci"
+      }
+    ]
+  }
 }

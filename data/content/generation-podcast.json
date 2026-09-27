@@ -51,5 +51,25 @@
     }
   ],
   "derniere_activite": "2024-01-10",
-  "frequence_jours": 27
+  "frequence_jours": 27,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mostrecent",
+    "releve": "2026-09-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Claire du Canada",
+        "titre": "Bravo !!!",
+        "texte": "Tellement fan de ce nouveau format, bravo Anne-Fleur ! Ta voix, le contenu, les musiques, tu es faite pour ça !"
+      },
+      {
+        "note": 5,
+        "auteur": "virginie du canada 😉",
+        "titre": "Génial",
+        "texte": "J’adore les trouvailles cela donne des idées de nouvelles écoutes…. Bravo Anne-fleur."
+      }
+    ]
+  }
 }

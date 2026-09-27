@@ -50,5 +50,25 @@
     }
   ],
   "derniere_activite": "2026-08-09",
-  "frequence_jours": 17
+  "frequence_jours": 17,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "debozaf",
+        "titre": "Merci",
+        "texte": "Cher Rav , je cherche depuis longtemps des cours qui me permettrait d’avancer sur la emouna Je vous remercie énormément pour ce podcast. Car je pense avoir enfin trouvé le Rav qu’il me faut pour avancer le Rav qui me parle à travers ces mots, et cela me rend très heureuse et opti…"
+      },
+      {
+        "note": 5,
+        "auteur": "Avis2023b",
+        "titre": "De la forme et du fond",
+        "texte": "Très riche et éclectique. Beaucoup de connaissances, de la profondeur expliquée simplement avec une très bonne élocution agréable à écouter."
+      }
+    ]
+  }
 }

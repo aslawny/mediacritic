@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2024-03-13",
-  "frequence_jours": 22
+  "frequence_jours": 22,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "So_Ly26",
+        "titre": "Contenus passionnants et invités de marque !",
+        "texte": "Un format idéal et quelques anecdotes de sportifves dévoilés ! Quel plaisir d’entendre des animateurs sympathiques échanger avec ces athlètes bienveillant.e.s ;) Hâte d’écouter la suite !"
+      },
+      {
+        "note": 2,
+        "auteur": "Babachhhh",
+        "titre": "Mauvais son",
+        "texte": "Quel dommage ne pas avoir une bonne qualité de son. Sinon les contenus sont super intéressants!"
+      },
+      {
+        "note": 3,
+        "auteur": "Gra6062",
+        "titre": "Encore des efforts",
+        "texte": "Les invités sont cool mais les animateurs ne sont pas encore très à l’aise, ça manque un peu de professionnalisme"
+      }
+    ]
+  }
 }

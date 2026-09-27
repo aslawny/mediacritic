@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2025-12-19",
-  "frequence_jours": 35
+  "frequence_jours": 35,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Laetitia. lal",
+        "titre": "A écouter sans modération",
+        "texte": "Toujours inspirant, une constante remise en question des choses et une prise de conscience des choix que je peux faire. Et puis au fil des podcast une prise de conscience sur ces choses que je pensais « comme ça « au début et que je choisis de choisir et des réactions que je choi…"
+      },
+      {
+        "note": 5,
+        "auteur": "Lisbeth.S",
+        "titre": "Merci!!!",
+        "texte": "Découverte grâce à Clotilde de ouichangemavie, j’attends désormais le vendredi en pensant au bonheur de découvrir une nouvelle façon de choisir ! 🤗 Parce que oui, les choix sont quotidiens, et de réussir à les apprivoiser est salvateur! Encore merci 😊 et à la semaine prochaine 😉"
+      },
+      {
+        "note": 5,
+        "auteur": "jechoisimonpodcast",
+        "titre": "Justesse et bienveillance",
+        "texte": "A travers ses podcasts Oriane sort des sentiers classiques du développement personnel. Son approche bien à elle avec ses « lunettes de choix » font de ses interviews et épisodes une belle occasion pour remettre notre vie dans le bon sens ! Bravo et merci !"
+      }
+    ]
+  }
 }
