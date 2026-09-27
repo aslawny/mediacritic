@@ -66,8 +66,19 @@ def main():
     # permet de l'appeler apres chaque publication sans rien lui passer.
     cibles = [Path(a) for a in sys.argv[1:]] or (
         sorted((ROOT / "episodes").glob("*.html")) + [ROOT / "templates" / "episode.html"])
+    # Regles mobiles de la nav : sans elles, la page entiere defilait
+    # horizontalement sur telephone (+280 px a 375 px). Source unique dans
+    # nav_mobile.py, partagee avec les fiches.
+    sys.path.insert(0, str(Path(__file__).parent))
+    from nav_mobile import CSS_EPISODES_FICHES, injecter
     for f in cibles:
         out, etat = patch(f.read_text(encoding="utf-8"))
+        if etat is not None:
+            out, css = injecter(out, CSS_EPISODES_FICHES)
+            if css is None:
+                etat = None
+            elif css:
+                etat = True
         if etat is None:
             rates += 1
             print(f"  ! nav non reconnue, ignoré : {f.name}")

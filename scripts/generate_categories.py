@@ -10,7 +10,7 @@ FAQ et un JSON-LD ItemList. Le CSS/nav/footer sont repris d'une page modèle.
 
 Usage : python scripts/generate_categories.py
 """
-import json, re, html, subprocess
+import json, re, html, subprocess, sys
 from datetime import date
 from pathlib import Path
 
@@ -34,6 +34,12 @@ _model = subprocess.run(
     cwd=ROOT, capture_output=True, text=True, encoding="utf-8"
 ).stdout
 CSS = re.search(r"<style>.*?</style>", _model, re.DOTALL).group(0)
+
+# Seuil du burger releve a 820 px : la barre debordait jusqu'a ~760 px
+# (source unique : nav_mobile.py).
+sys.path.insert(0, str(Path(__file__).parent))
+from nav_mobile import CSS_CATEGORIES, bloc_style  # noqa: E402
+NAV_CSS = bloc_style(CSS_CATEGORIES)
 
 BURGER_BTN = ('<button class="nav-burger" aria-label="Ouvrir le menu" aria-expanded="false" '
               'onclick="var l=document.querySelector(\'.nav-links\');l.classList.toggle(\'open\');'
@@ -435,6 +441,7 @@ def build_page(cfg, catalog, moyenne):
 {CSS}
 {BURGER_CSS}
 {TOP_CSS}
+{NAV_CSS}
 <script async src="https://www.googletagmanager.com/gtag/js?id={GA}"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments);}}gtag("js",new Date());gtag("config","{GA}");</script>
 </head>

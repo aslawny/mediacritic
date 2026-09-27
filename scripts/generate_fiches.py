@@ -7,6 +7,7 @@ Usage: python scripts/generate_fiches.py  (depuis la racine du repo)
 import json
 import os
 import re
+import sys
 import xml.etree.ElementTree as ET
 from datetime import date, datetime
 from pathlib import Path
@@ -196,6 +197,12 @@ footer a:hover{color:var(--c-orange)}
 .ep-date{flex:none}
 }
 @media(max-width:600px){.fiche-header{flex-direction:column}.fiche-cover{width:100%;height:200px}.container{padding:40px 18px 60px}}"""
+
+# Navigation mobile : source unique dans nav_mobile.py, partagee avec les
+# pages episodes. Recopier les regles ici les aurait fait diverger.
+sys.path.insert(0, str(Path(__file__).parent))
+from nav_mobile import CSS_EPISODES_FICHES  # noqa: E402
+CSS_BLOCK = CSS_BLOCK + CSS_EPISODES_FICHES
 
 
 # ─── Helpers ──────────────────────────────────────────────────────────────────
