@@ -116,12 +116,16 @@ def build():
     # vers 160 : au-dela, la fin du texte n'est jamais lue en resultat.
     # 63 caracteres avec l'annee : Google tronquait. « les » saute, le
     # mot-cle et l'annee restent.
-    title = f"Palmarès MediaCritic — meilleurs podcasts francophones {today.year}"
+    # 27/09/2026 : « critiques podcast » commence a amener du trafic, et c'est
+    # CETTE page qui les rassemble toutes -- elle ne portait pas le mot. Les
+    # deux formes y figurent : pluriel dans le titre, singulier dans la
+    # description. « meilleurs podcasts » reste porte par classement.html.
+    title = f"Critiques de podcasts & YouTube — Palmarès MediaCritic {today.year}"
     # « analyses » et non « contenus » : l'annuaire marque 45 contenus alors que
     # le palmares en liste 42, parce que l'episode 29 couvre a lui seul quatre
     # podcasts de L'Equipe. Deux chiffres justes, deux libelles distincts.
-    desc = (f"Le palmarès MediaCritic : {len(rows)} analyses de podcasts et chaînes "
-            f"YouTube francophones notés sur 10. En tête : "
+    desc = (f"Chaque critique de podcast ou de chaîne YouTube, notée sur 10 : "
+            f"{len(rows)} analyses MediaCritic. En tête : "
             + ", ".join(r["title"] for r in rows[:3]) + ".")
 
     # Podium
@@ -157,7 +161,7 @@ def build():
 
     # JSON-LD ItemList + Breadcrumb
     ld = {"@context": "https://schema.org", "@graph": [
-        {"@type": "ItemList", "name": "Palmarès MediaCritic des podcasts et chaînes YouTube francophones",
+        {"@type": "ItemList", "name": "Palmarès MediaCritic : critiques de podcasts et chaînes YouTube francophones",
          "numberOfItems": len(rows), "itemListOrder": "https://schema.org/ItemListOrderDescending",
          "itemListElement": [
              {"@type": "ListItem", "position": i,
@@ -215,8 +219,8 @@ def build():
 </nav>
 <header class="page-header" style="text-align:center;max-width:760px;">
 <div class="breadcrumb"><a href="./">MediaCritic</a> · <strong>Palmarès</strong></div>
-<h1>🏆 Le Palmarès MediaCritic</h1>
-<p class="lede" style="margin:0 auto;">{len(rows)} analyses publiées : autant de podcasts et chaînes YouTube francophones écoutés, décortiqués et <strong>notés sur 10</strong> par Alex, Lolo et leurs invité·e·s. Pas d'algorithme, pas de sponsor — juste des oreilles exigeantes et des avis assumés. Mis à jour {updated}.</p>
+<h1>🏆 Palmarès des critiques de podcasts et chaînes YouTube</h1>
+<p class="lede" style="margin:0 auto;">{len(rows)} critiques publiées : autant de podcasts et chaînes YouTube francophones écoutés, décortiqués et <strong>notés sur 10</strong> par Alex, Lolo et leurs invité·e·s. Pas d'algorithme, pas de sponsor — juste des oreilles exigeantes et des avis assumés. Mis à jour {updated}.</p>
 </header>
 <div class="podium">{podium}</div>
 <div class="pal-filters">{filters}</div>

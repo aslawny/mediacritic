@@ -55,12 +55,56 @@ def titre_court(brut):
     return html.escape(couper(html.unescape(sans_tagline), LIMITE_TITRE), quote=True)
 
 
+def type_contenu(txt):
+    """Type du contenu critique, lu dans sa fiche (data/content), qui fait foi.
+    None si la page ne renvoie a aucune fiche : la FAQ de fin de saison n'est
+    la critique de rien, elle garde son titre."""
+    m = re.search(r'href="\.\./fiches/([^"]+)\.html"', txt)
+    if not m:
+        return None
+    src = ROOT / "data" / "content" / (m.group(1) + ".json")
+    if not src.exists():
+        return None
+    return json.loads(src.read_text(encoding="utf-8")).get("type")
+
+
+def titre_critique(txt):
+    """« Les Grosses Têtes : critique du podcast | MediaCritic ».
+
+    Constat du 27/09/2026 : les recherches « critiques podcast » commencent a
+    amener du trafic, mais aucune page episode -- les vraies critiques du site
+    -- ne portait le mot « critique » : leur titre etait « MediaCritic Ép. 47 —
+    Les Grosses Têtes | RTL… ». Le nom du contenu passe en tete (c'est le mot-cle
+    de la page), suivi de ce que la page EST. Le numero d'episode, que personne
+    ne cherche, reste dans la page et dans og:title."""
+    typ = type_contenu(txt)
+    h1 = re.search(r"<h1[^>]*>(.*?)</h1>", txt, re.S)
+    if typ not in ("podcast", "youtube") or not h1:
+        return None
+    nom = " ".join(html.unescape(re.sub(r"<[^>]+>", "", h1.group(1))).split())
+    if not nom:
+        return None
+    if nom.lower().startswith("les podcasts de"):   # ep. 29 : quatre podcasts
+        quoi = "critique des podcasts"
+    elif typ == "youtube":
+        quoi = "critique de la chaîne YouTube"
+    else:
+        quoi = "critique du podcast"
+    for essai in (f"{nom} : {quoi} | MediaCritic",
+                  f"{nom} : {quoi}",
+                  f"{nom} : critique | MediaCritic",
+                  f"{nom} : critique"):
+        if len(essai) <= LIMITE_TITRE:
+            return html.escape(essai, quote=False)
+    return None
+
+
 def patch(txt):
     orig = txt
 
     m = re.search(r"<title>(.*?)</title>", txt, re.S)
     if m:
-        nouveau = titre_court(m.group(1).strip())
+        nouveau = titre_critique(txt) or titre_court(m.group(1).strip())
         if nouveau != m.group(1).strip():
             txt = txt[:m.start(1)] + nouveau + txt[m.end(1):]
 

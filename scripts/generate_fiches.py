@@ -703,7 +703,7 @@ def render_fiche(data):
   <div class="mc-block">
   <h2>✦ L'avis MediaCritic — Épisode {ep_num}</h2>{note_html}
   <p>Alex, Lolo et leurs invité·e·s ont analysé <strong>{h(title)}</strong> dans l'épisode&nbsp;{ep_num} de MediaCritic. Fond, forme, intentions — le verdict complet est disponible en écoute libre.</p>
-  <div style="margin-top:16px"><a href="{h(href)}" class="btn btn-mc">📖 Lire l'analyse complète</a></div>
+  <div style="margin-top:16px"><a href="{h(href)}" class="btn btn-mc">📖 Lire la critique {"de la chaîne YouTube" if content_type == "youtube" else "du podcast"}</a></div>
 </div>
 """
 

@@ -136,7 +136,8 @@ def main():
 
     total = (len(cat) // 100) * 100
     # 49 caracteres : au-dela de 60, Google tronque.
-    titre = "Classement des podcasts francophones | MediaCritic"
+    # La page classe aussi les chaines YouTube (section abonnes) : le titre le dit.
+    titre = "Classement des podcasts et chaînes YouTube francophones"
     desc = (f"Le classement des meilleurs podcasts et chaînes YouTube francophones : "
             f"les mieux notés, les plus populaires, et les pépites MediaCritic.")
 
