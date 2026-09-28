@@ -24,5 +24,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "Intégrale Partie 2",
+      "date": "2022-01-20"
+    },
+    {
+      "titre": "Intégrale Partie 1",
+      "date": "2022-01-20"
+    },
+    {
+      "titre": "Le Bad Buzz-Zevent, Inoxtag",
+      "date": "2021-11-04"
+    },
+    {
+      "titre": "La sortie de la semaine Netflix Gaming",
+      "date": "2021-11-04"
+    },
+    {
+      "titre": "La News Geek GTA 5, San Andreas, Xbox",
+      "date": "2021-11-04"
+    }
+  ],
+  "derniere_activite": "2022-01-20",
+  "frequence_jours": 0
 }

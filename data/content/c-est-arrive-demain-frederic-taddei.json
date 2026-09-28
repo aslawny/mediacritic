@@ -23,7 +23,7 @@
     "géopolitique",
     "international"
   ],
-  "updatedAt": "2026-09-25",
+  "updatedAt": "2026-09-28",
   "episodes_recents": [
     {
       "titre": "Frédéric Taddeï avec Thierry Pouch, Marie Pauline et Sébastien Albertelli & Clément Dusong",
@@ -47,5 +47,25 @@
     }
   ],
   "derniere_activite": "2026-08-29",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ch",
+    "tri": "mostrecent",
+    "releve": "2026-09-28",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "JD-Hop",
+        "titre": "Nonchalamment culturel",
+        "texte": "Quel plaisir de retrouver cette émission chaque semaine! Intervenants pertinents, éclairage original, rationalité."
+      },
+      {
+        "note": 5,
+        "auteur": "Kikanilou",
+        "titre": "Enfin Taddei !!",
+        "texte": "Émission passionnante, intelligente qui nous fait réfléchir, comme tout ce que fait Taddei"
+      }
+    ]
+  }
 }

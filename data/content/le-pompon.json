@@ -27,7 +27,7 @@
     "politique"
   ],
   "addedAt": "2026-05-28",
-  "updatedAt": "2026-09-25",
+  "updatedAt": "2026-09-28",
   "episodes_recents": [
     {
       "titre": "Ép. 145 - Michaël Dandrieux - Comprendre l'imaginaire collectif",
@@ -51,5 +51,27 @@
     }
   ],
   "derniere_activite": "2024-12-02",
-  "frequence_jours": 13
+  "frequence_jours": 13,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-09-28",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

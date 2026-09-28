@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/4-comiques-dans-le-vent-mais-%C3%A0-contre-sens/id1292974015?uo=2",
       "trackId": 1292974015,
       "rating": 4.9,
-      "ratingCount": 935,
+      "ratingCount": 934,
       "episodeCount": null
     }
   },
@@ -26,5 +26,29 @@
     "comedie"
   ],
   "addedAt": "2026-07-27",
-  "updatedAt": "2026-09-25"
+  "updatedAt": "2026-09-28",
+  "episodes_recents": [
+    {
+      "titre": "Episode 16 – Maxime, Jerome Niel, Blandine Lehout, Seb Mellia",
+      "date": "2024-01-03"
+    },
+    {
+      "titre": "Episode 15 – Booder, Pierre Croce, Thomas Angelvy, Seb Mellia",
+      "date": "2023-07-24"
+    },
+    {
+      "titre": "Episode 14 – Anthony Kavanagh, Franjo, Marie Desroles, Seb Mellia",
+      "date": "2022-11-08"
+    },
+    {
+      "titre": "Episode 13 – Roman Frayssinet, Elodie Arnould, Seb Mellia",
+      "date": "2022-06-17"
+    },
+    {
+      "titre": "Episode 12 – Fabrice Eboué, Benjamin Tranié, Rosa Bursztein, Seb Mellia",
+      "date": "2021-09-30"
+    }
+  ],
+  "derniere_activite": "2024-01-03",
+  "frequence_jours": 144
 }

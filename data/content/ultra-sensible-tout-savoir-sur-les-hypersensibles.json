@@ -27,7 +27,7 @@
     "news"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-09-25",
+  "updatedAt": "2026-09-28",
   "episodes_recents": [
     {
       "titre": "Pourquoi l'injustice nous révolte-t-elle plus profondément qu'elle ne révolte les autres ?",
@@ -51,5 +51,25 @@
     }
   ],
   "derniere_activite": "2026-09-22",
-  "frequence_jours": 4
+  "frequence_jours": 4,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-28",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "pamilou86",
+        "titre": "Merci !",
+        "texte": "Merci pour la création de ce podcast qui explique enfin avec des mots simples et des écoutes courtes et efficaces !"
+      },
+      {
+        "note": 3,
+        "auteur": "riz4444444444444444",
+        "titre": "Lu par de l’IA?",
+        "texte": "Podcast intéressant La voix m’a intérieure dès le départ, le ton monocorde et haché Puis épisode 3 une liaison non faite ( tous âge) m’a poussée à poser la question: est ce lu par une vraie personne ou une vraie IA???"
+      }
+    ]
+  }
 }

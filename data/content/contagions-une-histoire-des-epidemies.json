@@ -13,8 +13,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/contagions-une-histoire-des-%C3%A9pid%C3%A9mies/id6783342376?uo=2",
       "trackId": 6783342376,
-      "rating": 4.8,
-      "ratingCount": 52,
+      "rating": 4.7,
+      "ratingCount": 57,
       "episodeCount": null
     }
   },
@@ -23,7 +23,7 @@
     "histoire"
   ],
   "addedAt": "2026-09-23",
-  "updatedAt": "2026-09-25",
+  "updatedAt": "2026-09-28",
   "episodes_recents": [
     {
       "titre": "La syphilis : la grande simulatrice",
@@ -47,5 +47,25 @@
     }
   ],
   "derniere_activite": "2026-06-22",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-28",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Misstisss",
+        "titre": "Je découvre ces podcasts",
+        "texte": "😊 j’adore, j’espère que ça ne sera pas politisé par la Gauche. Comme trop de podcasts hors mis Legend et quelques autres."
+      },
+      {
+        "note": 5,
+        "auteur": "Lililiamsi",
+        "titre": "Mistiss est dingue",
+        "texte": "Elle écoute un podcast qui nous parles d’épidémies et elle pense à la gauche 😂 droitardé"
+      }
+    ]
+  }
 }

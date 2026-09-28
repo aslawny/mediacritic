@@ -24,7 +24,7 @@
   "tags": [
     "gaming"
   ],
-  "updatedAt": "2026-09-25",
+  "updatedAt": "2026-09-28",
   "episodes_recents": [
     {
       "titre": "Toutes les infos sur GTA 6 regroupées, Star Wars Zero Company, The Blood of Dawnwalker ... (Jean Quête D'actu)",
@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-09-03",
-  "frequence_jours": 8
+  "frequence_jours": 8,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-28",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ontari5313",
+        "titre": "Indépendance",
+        "texte": "Une revue hebdomadaire «hors vacances». Toujours aussi qualitative, un homme restant droit dans ses baskets et qui parle de sa passion à la première émission comme à la dernière, excellent, et que dire( gratuit, mais surtout indépendant, avec liberté et travail plus que satisfais…"
+      },
+      {
+        "note": 2,
+        "auteur": "Loran1412",
+        "titre": "Pas ouf",
+        "texte": "J’adore ta chaîne YouTube mes les podcasts sont difficiles à entendre. J’ai du mal à te comprendre tu rigoles tous le temps et non je te demande pas de pleurer mais sa devient désagréable à écouter."
+      },
+      {
+        "note": 5,
+        "auteur": "Jesuisunportos",
+        "titre": "Quel plaisir",
+        "texte": "Sérieusement, merci JB de nous résumer l’actu JV chaque semaine depuis quelques années maintenant. Personnellement, moi qui n’est pas consommateur de Twitch, j’apprécie grandement avoir accès à cette émission en rediffusion podcast.…"
+      }
+    ]
+  }
 }

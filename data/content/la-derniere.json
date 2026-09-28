@@ -24,7 +24,7 @@
     "sciences",
     "vulgarisation"
   ],
-  "updatedAt": "2026-09-25",
+  "updatedAt": "2026-09-28",
   "episodes_recents": [
     {
       "titre": "L'intégrale : \"La dernière\" du 06 septembre 2026 avec Victoire Tuaillon",
@@ -48,5 +48,25 @@
     }
   ],
   "derniere_activite": "2026-09-06",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-28",
+    "extraits": [
+      {
+        "note": 1,
+        "auteur": "Jerrydartois",
+        "titre": "Anti antisémitisme décomplexé",
+        "texte": "Tribune ouverte aux antisémites Séquence très problématique qui donne la nausée"
+      },
+      {
+        "note": 1,
+        "auteur": "Jerrydartois",
+        "titre": "Anti antisémitisme décomplexé",
+        "texte": "Tribune ouverte aux antisémites Séquence très problématique qui donne la nausée"
+      }
+    ]
+  }
 }

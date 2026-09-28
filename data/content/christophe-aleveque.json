@@ -25,5 +25,29 @@
     "comedie"
   ],
   "addedAt": "2026-08-03",
-  "updatedAt": "2026-08-03"
+  "updatedAt": "2026-08-03",
+  "episodes_recents": [
+    {
+      "titre": "Électricité c'est trop !",
+      "date": "2026-09-21"
+    },
+    {
+      "titre": "IA Hi Han !",
+      "date": "2026-09-17"
+    },
+    {
+      "titre": "Bars de province",
+      "date": "2026-09-14"
+    },
+    {
+      "titre": "Coach à tout",
+      "date": "2026-09-11"
+    },
+    {
+      "titre": "C'est parti !",
+      "date": "2026-09-11"
+    }
+  ],
+  "derniere_activite": "2026-09-21",
+  "frequence_jours": 2
 }

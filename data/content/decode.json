@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/d%C3%A9code/id1789493770?uo=2",
       "trackId": 1789493770,
       "rating": 4.9,
-      "ratingCount": 55,
+      "ratingCount": 56,
       "episodeCount": null
     }
   },
@@ -26,7 +26,7 @@
     "education"
   ],
   "addedAt": "2026-06-21",
-  "updatedAt": "2026-09-25",
+  "updatedAt": "2026-09-28",
   "episodes_recents": [
     {
       "titre": "Animal totem : l'animal que tu affiches chez toi révèle ce que tu portes de ta famille",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-28",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-28",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "angel_tha",
+        "titre": "Podcast à mettre dans vos favoris !",
+        "texte": "Les mots de Fiona à travers ce podcast nous transportent dans l’univers de la neuro-architecture et du bien-être. On comprend le lien intime entre les deux et à quel point certains choix vont impacter notre quotidien et bien-être (en bien ou moins bien 😅).…"
+      },
+      {
+        "note": 5,
+        "auteur": "Liclemiluc",
+        "titre": "Hyper intéressant",
+        "texte": "Je me suis laissée porter par cet épisode qui est vraiment hyper intéressant et aide à comprendre et à identifier certains aspects du manque d’estime de soi. Le travail de compréhension commence ici… Un grand merci Fiona"
+      },
+      {
+        "note": 5,
+        "auteur": "Maddy and co",
+        "titre": "Top!",
+        "texte": "Très clair, fluide. Un immense merci pour ces propositions.. J’apprécierai encore plus de conseils pratiques (couleurs, emplacements, forme.. ) avec un lien analytique."
+      }
+    ]
+  }
 }

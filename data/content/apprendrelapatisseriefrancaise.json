@@ -25,5 +25,29 @@
     "cuisine"
   ],
   "addedAt": "2026-07-19",
-  "updatedAt": "2026-07-19"
+  "updatedAt": "2026-07-19",
+  "episodes_recents": [
+    {
+      "titre": "Comment faire des crêpes sans grumeaux - rapide, facile et moelleux !",
+      "date": "2025-07-18"
+    },
+    {
+      "titre": "Brioche couronne minute à la fleur d'oranger rapide et très facile à faire à la maison.",
+      "date": "2024-01-16"
+    },
+    {
+      "titre": "Gâteaux au chocolat croustillant ultra moelleux sans farine",
+      "date": "2023-12-31"
+    },
+    {
+      "titre": "Cake ultra moelleux au pépites de chocolat maison, aux épices de noël et fleurs d'oranger",
+      "date": "2023-12-21"
+    },
+    {
+      "titre": "Séance du 20.12.23",
+      "date": "2023-12-21"
+    }
+  ],
+  "derniere_activite": "2025-07-18",
+  "frequence_jours": 6
 }

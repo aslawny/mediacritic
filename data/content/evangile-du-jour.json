@@ -26,7 +26,7 @@
     "vulgarisation"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-25",
+  "updatedAt": "2026-09-28",
   "episodes_recents": [
     {
       "titre": "Évangile du 3 septembre : « Laissant tout, ils le suivirent » (Lc 5, 1-11)",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-02",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-28",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "MaiLior",
+        "titre": "Un bonheur quotidien",
+        "texte": "Merci pour la récitation de l’évangile du jour. Merci pour les méditations qui le suivent. C’est un réel plaisir que de vous écouter chaque jour que Dieu fait. Merci."
+      },
+      {
+        "note": 5,
+        "auteur": "B-Maureenn",
+        "titre": "Super",
+        "texte": "Je suis chrétienne et j’aime beaucoup les petites minutes chaque matin avec la parole de Dieu. Nous sommes 1 même corps unis en Jesus-Christ. Soyez bénis"
+      },
+      {
+        "note": 5,
+        "auteur": "Quinquin 66",
+        "titre": "Un grand Merci",
+        "texte": "Un grand Merci pour votre podcast, serait il possible de rajouter la lecture du psaume du jour, ainsi que celle de la 1 er lecture ?"
+      }
+    ]
+  }
 }

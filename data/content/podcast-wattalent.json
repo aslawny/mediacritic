@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/podcast-wattalent/id6815880109?uo=2",
       "trackId": 6815880109,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": null
     }
   },
@@ -25,7 +25,7 @@
     "numerique"
   ],
   "addedAt": "2026-09-26",
-  "updatedAt": "2026-09-26",
+  "updatedAt": "2026-09-28",
   "episodes_recents": [
     {
       "titre": "Agrégation, flexibilité, fourniture : pourquoi Symphonics fait tout à la fois, avec Mathieu Rochard",

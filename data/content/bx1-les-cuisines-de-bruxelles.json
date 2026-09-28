@@ -24,5 +24,29 @@
     "cuisine"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-05-23"
+  "updatedAt": "2026-05-23",
+  "episodes_recents": [
+    {
+      "titre": "Les cuisines de Bruxelles – Fernand Obb avec Cédric Mosbeux – 13/12/2024",
+      "date": "2024-12-13"
+    },
+    {
+      "titre": "Les cuisines de Bruxelles – La Maison du Cougnou avec Anne van den Berghe – 12/12/2024",
+      "date": "2024-12-12"
+    },
+    {
+      "titre": "Les cuisines de Bruxelles avec Patrick de Corte et Fabienne Lekens – 11/12/2024",
+      "date": "2024-12-11"
+    },
+    {
+      "titre": "Les cuisines de Bruxelles – Bees-Api avec Neset Kutlu – 10/12/2024",
+      "date": "2024-12-10"
+    },
+    {
+      "titre": "Les cuisines de Bruxelles – Les Fondus de la Raclette avec Isabelle et Thomas Perrichet – 09/12/2024",
+      "date": "2024-12-09"
+    }
+  ],
+  "derniere_activite": "2024-12-13",
+  "frequence_jours": 1
 }

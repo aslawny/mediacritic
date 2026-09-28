@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/kaiwa-podcast-japon/id1686931962?uo=2",
       "trackId": 1686931962,
       "rating": 4.9,
-      "ratingCount": 57,
+      "ratingCount": 58,
       "episodeCount": null
     }
   },
@@ -26,7 +26,7 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-25",
+  "updatedAt": "2026-09-28",
   "episodes_recents": [
     {
       "titre": "Aruco 12 - balade dans le Tohoku",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-28",
-  "frequence_jours": 20
+  "frequence_jours": 20,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-28",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "GwennKhz",
+        "titre": "Discussions passionnantes, sincères et agréables",
+        "texte": "C’est un plaisir d’écouter ces échanges nourris de moments de vie quotidienne et complétées par des explications claires sur des aspects spécifiques du Japon, le tout avec une sympathie communicative …"
+      },
+      {
+        "note": 5,
+        "auteur": "Nicocodibango",
+        "titre": "Marrant et pointu à la fois",
+        "texte": "Je partage le même goût du cinéma japonais que Mathieu. Sinon bonne ambiance et informations inspirantes sur le pays et ses coins cachés. Bonne chance à votre cast ^^"
+      },
+      {
+        "note": 5,
+        "auteur": "Hiueurk",
+        "titre": "Genial",
+        "texte": "Vous êtes drôles et connaisseurs (ce qui est mieux que d’être drôle de connaisseur) toujours agréables à écouter, vous avez le droit de faire plus long 😂"
+      }
+    ]
+  }
 }

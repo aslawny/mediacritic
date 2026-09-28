@@ -25,7 +25,7 @@
     "psychologie"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-09-25",
+  "updatedAt": "2026-09-28",
   "episodes_recents": [
     {
       "titre": "Maud Le Rest, la Pick me",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-18",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-28",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "La Laiterie du Gontey",
+        "titre": "Merci !!!!",
+        "texte": "Merci pour “Question genre” entre autres !!!! Je n’ai pas trouvé votre adresse mail pour vous le dire alors j’espère que ce message vous parviendra. CE PODCAST ME PLAÎT, OUI, JE VOUS LE DIS !"
+      },
+      {
+        "note": 5,
+        "auteur": "Pkoi un pseudo ?",
+        "titre": "Merci",
+        "texte": "J’adore - les invité.es, leur ton. la journaliste sa voix ses questions - c’est profond avec humour."
+      },
+      {
+        "note": 5,
+        "auteur": "Isabelle Tardy",
+        "titre": "Super discussions !",
+        "texte": "Plein d’enjeux liés au genre, discutés avec pertinence et bonne humeur : bref, c’est génial !"
+      }
+    ]
+  }
 }

@@ -14,7 +14,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/tour-de-chant/id1278776566?uo=2",
       "trackId": 1278776566,
       "rating": 4.6,
-      "ratingCount": 56,
+      "ratingCount": 57,
       "episodeCount": null
     }
   },
@@ -24,5 +24,31 @@
     "culture"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-09-25"
+  "updatedAt": "2026-09-28",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-28",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Phil trenetophile",
+        "titre": "2023",
+        "texte": "Charmante émission ! Martin je crois que vous êtes prêt à vous attaquer à un monument en 2023 : Charles Trenet pour ses 110 ans (18 mai 1913). Vos auditeurs comptent sur vous pour nous dénicher les formidables archives de Radio-France. Merci !!! 😌"
+      },
+      {
+        "note": 5,
+        "auteur": "marcofangio",
+        "titre": "Salvatore Adamo",
+        "texte": "Excellentes ces deux émissions suite au nouvel album du chanteur. C’est vraiment un de nos meilleurs auteurs compositeurs depuis 60 ans. Vous annonciez une troisième émission, mais on ne la trouve pas dans les podcast."
+      },
+      {
+        "note": 5,
+        "auteur": "François Morel",
+        "titre": "Les débuts d’Aznavour",
+        "texte": "Après la passionnante série sur Jean Dréjac, une formidable série sur les débuts d’Aznavour avec des versions différentes d’une même chanson (comme au temps de Jean-Christophe Averty) et des documents rares."
+      }
+    ]
+  }
 }

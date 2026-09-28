@@ -26,7 +26,7 @@
     "business"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-09-25",
+  "updatedAt": "2026-09-28",
   "episodes_recents": [
     {
       "titre": "Charles-Édouard Girard - HomeExchange | \"Le seul moyen d'être bien, c'est de se sentir bien avec sa famille\"",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2022-06-16",
-  "frequence_jours": 20
+  "frequence_jours": 20,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-28",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "nyc DCF",
+        "titre": "Bravo et vivement la suite",
+        "texte": "La transition digitale est un grand flou pour moi... comment digitaliser mes actions, mes outils, existe-t-il un risque ? Quelles sont les réelles opportunités …"
+      },
+      {
+        "note": 5,
+        "auteur": "Elise.Cix",
+        "titre": "Super podcast et une histoire passionnante !",
+        "texte": "Podcast de très bonne qualité et belle histoire. Je ne connaissais pas le Fise ni l’histoire d’Hervé André-Benoit mais j’ai découvert un parcours passionnant.…"
+      },
+      {
+        "note": 5,
+        "auteur": "RhizBrad",
+        "titre": "Un podcast très intéressant !",
+        "texte": "J’apprécie le format et la qualité audio du podcast ! C’est très intéressant de connaître l’histoire de ces entrepreneurs ou chefs d’entreprise qui ont réussi à faire évoluer leur structure.…"
+      }
+    ]
+  }
 }

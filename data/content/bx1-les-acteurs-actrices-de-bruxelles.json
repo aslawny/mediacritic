@@ -23,5 +23,29 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-05-03"
+  "updatedAt": "2026-05-03",
+  "episodes_recents": [
+    {
+      "titre": "Les Lecteurs et Lectrices de Bruxelles – Charline Cauchie",
+      "date": "2021-02-09"
+    },
+    {
+      "titre": "Les Lecteurs et Lectrices de Bruxelles – Laurence Van Goethem",
+      "date": "2021-02-08"
+    },
+    {
+      "titre": "Les Lecteurs et Lectrices de Bruxelles – Marie Darah",
+      "date": "2021-02-05"
+    },
+    {
+      "titre": "Les Lecteurs et Lectrices de Bruxelles – Rony Demaeseneer",
+      "date": "2021-02-04"
+    },
+    {
+      "titre": "Les Lecteurs et Lectrices de Bruxelles – Xavier Vanvaerenbergh",
+      "date": "2021-02-03"
+    }
+  ],
+  "derniere_activite": "2021-02-09",
+  "frequence_jours": 1
 }

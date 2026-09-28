@@ -27,7 +27,7 @@
     "culture"
   ],
   "addedAt": "2026-06-24",
-  "updatedAt": "2026-09-25",
+  "updatedAt": "2026-09-28",
   "episodes_recents": [
     {
       "titre": "E90 - Clément et Charlotte (Les Roamers) - Paris-Singapour-Paris, un aller-retour de 36 000 km à vélo",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-01",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-28",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "campeuse for ever",
+        "titre": "J’adoooooore !",
+        "texte": "J’ai moi-même fait un voyage en tandem en 1993. Avec le recul , je me rends compte que c’étaient les plus belles vacances de ma vie alors que nous n’avions ni téléphone portable ni GPS ni pistes cyclables (en tout cas nous ne les connaissions pas). C’était l’aventure …"
+      },
+      {
+        "note": 5,
+        "auteur": "pafortin",
+        "titre": "Une invitation au voyage",
+        "texte": "J’ai découvert le voyage en vélo en 2017 - Adepte de l'itinérance depuis de nombreuses années, à pieds, en moto, voiture, j'ai découvert un absolu de liberté avec le vélo...…"
+      },
+      {
+        "note": 5,
+        "auteur": "Hfehvv",
+        "titre": "Merci pour ce moment",
+        "texte": "Un grand merci à Claire et Olivier pour la réalisation de cette chaîne de podcast consacré au voyage à vélo. Nous avons eu la chance de faire partie de cette aventure durant un épisode et c’était vraiment très agréable de retracer notre voyage.…"
+      }
+    ]
+  }
 }
