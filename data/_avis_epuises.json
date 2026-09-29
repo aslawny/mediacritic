@@ -1,6 +1,6 @@
 {
-  "maj": "2026-09-28",
-  "total": 641,
+  "maj": "2026-09-29",
+  "total": 670,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -848,6 +848,12 @@
       "titre": "Game of Roles",
       "notes_apple": 548,
       "fiche": "fiches/game-of-roles.html"
+    },
+    {
+      "slug": "le-phil-d-actu-philosophie-et-actualite",
+      "titre": "Le Phil d'Actu - Philosophie et Actualité",
+      "notes_apple": 548,
+      "fiche": "fiches/le-phil-d-actu-philosophie-et-actualite.html"
     },
     {
       "slug": "les-pires-moments-de-l-histoire",
@@ -1726,6 +1732,12 @@
       "fiche": "fiches/on-refait-le-mac-orlm.html"
     },
     {
+      "slug": "les-secrets-du-mental",
+      "titre": "Les secrets du mental",
+      "notes_apple": 277,
+      "fiche": "fiches/les-secrets-du-mental.html"
+    },
+    {
       "slug": "la-taverne-du-gamer-podcast-jeux-video",
       "titre": "La Taverne du Gamer - Podcast Jeux Vidéo",
       "notes_apple": 276,
@@ -2066,6 +2078,12 @@
       "titre": "manifeste",
       "notes_apple": 167,
       "fiche": "fiches/manifeste.html"
+    },
+    {
+      "slug": "serious-gaming-et-l-actu-jv-sur-origami",
+      "titre": "Serious Gaming et l'actu JV sur Origami",
+      "notes_apple": 161,
+      "fiche": "fiches/serious-gaming-et-l-actu-jv-sur-origami.html"
     },
     {
       "slug": "secrets-d-agents-histoires-vraies",
@@ -3848,6 +3866,162 @@
       "titre": "Pour Qui Sonne Le Jazz",
       "notes_apple": 56,
       "fiche": "fiches/pour-qui-sonne-le-jazz.html"
+    },
+    {
+      "slug": "promenons-nous-dans-les-bois",
+      "titre": "Promenons-nous dans les bois",
+      "notes_apple": 56,
+      "fiche": "fiches/promenons-nous-dans-les-bois.html"
+    },
+    {
+      "slug": "bac-de-francais-programme-2026",
+      "titre": "Bac de Français | Programme 2026",
+      "notes_apple": 55,
+      "fiche": "fiches/bac-de-francais-programme-2026.html"
+    },
+    {
+      "slug": "chroniques-d-une-celibataire",
+      "titre": "Chroniques d'une célibataire",
+      "notes_apple": 55,
+      "fiche": "fiches/chroniques-d-une-celibataire.html"
+    },
+    {
+      "slug": "detective-privee",
+      "titre": "Détective privée",
+      "notes_apple": 55,
+      "fiche": "fiches/detective-privee.html"
+    },
+    {
+      "slug": "la-parfumerie",
+      "titre": "La Parfumerie",
+      "notes_apple": 55,
+      "fiche": "fiches/la-parfumerie.html"
+    },
+    {
+      "slug": "le-double-expresso-rtl2",
+      "titre": "Le Double Expresso RTL2",
+      "notes_apple": 55,
+      "fiche": "fiches/le-double-expresso-rtl2.html"
+    },
+    {
+      "slug": "punchline",
+      "titre": "Punchline",
+      "notes_apple": 55,
+      "fiche": "fiches/punchline.html"
+    },
+    {
+      "slug": "series-noires-a-la-une",
+      "titre": "Séries Noires à la Une",
+      "notes_apple": 55,
+      "fiche": "fiches/series-noires-a-la-une.html"
+    },
+    {
+      "slug": "super-laser-punch-marvel-et-plus",
+      "titre": "Super Laser Punch - Marvel et plus !",
+      "notes_apple": 55,
+      "fiche": "fiches/super-laser-punch-marvel-et-plus.html"
+    },
+    {
+      "slug": "the-good-mum",
+      "titre": "The Good Mum",
+      "notes_apple": 55,
+      "fiche": "fiches/the-good-mum.html"
+    },
+    {
+      "slug": "asiattitudes-identites-et-cultures-des-diasporas-asiatiques",
+      "titre": "Asiattitudes - Identités et cultures des diasporas asiatiques",
+      "notes_apple": 54,
+      "fiche": "fiches/asiattitudes-identites-et-cultures-des-diasporas-asiatiques.html"
+    },
+    {
+      "slug": "cherchez-la-femme",
+      "titre": "CHERCHEZ LA FEMME",
+      "notes_apple": 54,
+      "fiche": "fiches/cherchez-la-femme.html"
+    },
+    {
+      "slug": "developpement-personnel",
+      "titre": "développement personnel",
+      "notes_apple": 54,
+      "fiche": "fiches/developpement-personnel.html"
+    },
+    {
+      "slug": "feedback",
+      "titre": "Feedback",
+      "notes_apple": 54,
+      "fiche": "fiches/feedback.html"
+    },
+    {
+      "slug": "l-envie-de-savoir",
+      "titre": "L'envie de savoir",
+      "notes_apple": 54,
+      "fiche": "fiches/l-envie-de-savoir.html"
+    },
+    {
+      "slug": "la-messe",
+      "titre": "La Messe",
+      "notes_apple": 54,
+      "fiche": "fiches/la-messe.html"
+    },
+    {
+      "slug": "live-a-fip",
+      "titre": "Live à Fip",
+      "notes_apple": 54,
+      "fiche": "fiches/live-a-fip.html"
+    },
+    {
+      "slug": "peak-cinema",
+      "titre": "PEAK CINEMA",
+      "notes_apple": 54,
+      "fiche": "fiches/peak-cinema.html"
+    },
+    {
+      "slug": "pour-le-plot",
+      "titre": "Pour le plot",
+      "notes_apple": 54,
+      "fiche": "fiches/pour-le-plot.html"
+    },
+    {
+      "slug": "sylvqin",
+      "titre": "Sylvqin",
+      "notes_apple": 54,
+      "fiche": "fiches/sylvqin.html"
+    },
+    {
+      "slug": "anecdate",
+      "titre": "Anecdate",
+      "notes_apple": 53,
+      "fiche": "fiches/anecdate.html"
+    },
+    {
+      "slug": "argent-conte",
+      "titre": "Argent conté",
+      "notes_apple": 53,
+      "fiche": "fiches/argent-conte.html"
+    },
+    {
+      "slug": "chirac-une-histoire-francaise",
+      "titre": "Chirac : une histoire française",
+      "notes_apple": 53,
+      "fiche": "fiches/chirac-une-histoire-francaise.html"
+    },
+    {
+      "slug": "decouvre-ose-et-deviens",
+      "titre": "Découvre, ose et deviens",
+      "notes_apple": 53,
+      "fiche": "fiches/decouvre-ose-et-deviens.html"
+    },
+    {
+      "slug": "entre-la-chaise-et-le-clavier",
+      "titre": "Entre la chaise et le clavier",
+      "notes_apple": 53,
+      "fiche": "fiches/entre-la-chaise-et-le-clavier.html"
+    },
+    {
+      "slug": "fire-escape-histoires-americaines-avec-arthur-genre",
+      "titre": "Fire Escape - Histoires Américaines avec Arthur Genre",
+      "notes_apple": 53,
+      "fiche": "fiches/fire-escape-histoires-americaines-avec-arthur-genre.html"
     }
   ]
 }

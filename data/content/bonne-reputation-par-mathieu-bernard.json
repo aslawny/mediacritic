@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-28",
-  "frequence_jours": 5
+  "frequence_jours": 5,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-29",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Rapha719",
+        "titre": "Un podcast incontournable pour toutes et tous !",
+        "texte": "Le podcast \"Work Explorations\" de Mathieu est tout simplement remarquable. En tant que professeur de communication, il combine expertise et chaleur humaine de manière exceptionnelle.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Lydie Mouvterrehappy",
+        "titre": "Interviews toujours aussi intéressantes !",
+        "texte": "Merci Mathieu pour la rediffusion de l'épisode de Juliette Cadot 🙏 cela faisait deux jours que j'avais envie d'entendre cette personne sans me souvenir de son nom... Cette fois il est bien enregistré 😅 Une belle synchronicité …"
+      },
+      {
+        "note": 5,
+        "auteur": "CineFana",
+        "titre": "Un podcast full valeur",
+        "texte": "A force de ne manquer presque aucun épisode je ne pouvais pas ne pas souligner la qualité des sujets et des échanges ! Un must have quand on s’intéresse à l’évolution de notre rapport au travail et de sa place dans nos sociétés.…"
+      }
+    ]
+  }
 }

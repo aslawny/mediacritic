@@ -25,5 +25,25 @@
     "culture"
   ],
   "addedAt": "2026-09-02",
-  "updatedAt": "2026-09-28"
+  "updatedAt": "2026-09-28",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-29",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Plouple",
+        "titre": "Tristesse infinie",
+        "texte": "Je suis indignée par la suppression de cette émission d’utilité publique, encore plus actuellement où la pensée qui se veut dominante est si pauvre… Comment penser le monde autrement si nous ne sommes pas capables en France de comprendre l’utilité d’une émission qui met en lumièr…"
+      },
+      {
+        "note": 4,
+        "auteur": "BENZINEMAG.NET",
+        "titre": "l'actu du livre dans la bonne huemeur",
+        "texte": "On ne présente plus cette émission qui, chaque semaine, réunit des auteurs et des libraires qui donnent leur avis sur les sorties du moment. Accent québécois et suisse garanti."
+      }
+    ]
+  }
 }

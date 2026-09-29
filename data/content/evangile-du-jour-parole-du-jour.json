@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-02",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-29",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Geek4fun95",
+        "titre": "2000 mercis",
+        "texte": "Un immense merci pour ce podcast qui m’a énormément apporté depuis que je l’ai découvert début 2025. Je vois que j’écris le jour du 2000ème épisode, alors 2000 mercis …"
+      },
+      {
+        "note": 1,
+        "auteur": "Difdor",
+        "titre": "Dommage",
+        "texte": "1/La pub qui commence par un crash auto pour vendre les formations de secourisme de l’ordre de Malte refait vivre un trauma, c’est une torture pas chrétienne du tout : mais qui valide une horreur pareille …"
+      },
+      {
+        "note": 5,
+        "auteur": "Marie Nathanaelle",
+        "titre": "MERCI ++++ ❤️🤗🙏",
+        "texte": "Merci BEAUCOUP pour vos méditations quotidiennes de la Parole de Dieu et tout particulièrement pour ce magnifique parcours du Carême ! Je les écoute chaque matin en podcast (parfois sur YouTube).…"
+      }
+    ]
+  }
 }

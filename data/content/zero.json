@@ -1,0 +1,53 @@
+{
+  "slug": "zero",
+  "title": "Zero",
+  "author": "Marie Ouvrard",
+  "type": "podcast",
+  "categories": [
+    "arts",
+    "culture"
+  ],
+  "description": "Zero est un podcast dédié au processus créatif produit et animé par Marie Ouvrard. Tous les 15 jours, retrouvez une personnalité créative et inspirante partager son quotidien, ses conseils, sa méthode et sa vision, pour mieux construire la vôtre. Ils sont artistes, cinéastes, musiciens ou designers et ont un point commun : leur manière de penser et de créer est unique.",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9f/5f/04/9f5f04ea-95a9-292a-4ebd-b9b0be961219/mza_8171856237385280178.jpeg/170x170bb.png",
+  "language": "fr",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/zero/id1809780513?uo=2",
+      "trackId": 1809780513,
+      "rating": 5.0,
+      "ratingCount": 5,
+      "episodeCount": null
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "arts",
+    "culture"
+  ],
+  "addedAt": "2026-09-29",
+  "updatedAt": "2026-09-29",
+  "episodes_recents": [
+    {
+      "titre": "\"Il a vraiment fallu que je sorte de ma coquille\" avec Clotilde Chaumet",
+      "date": "2026-09-25"
+    },
+    {
+      "titre": "\"Les choses ne se passent jamais comme prévu\" avec Mehdi Favri",
+      "date": "2026-03-18"
+    },
+    {
+      "titre": "\"Tu peux toujours trouver des chemins de traverse\" avec Olivain Porry, artiste",
+      "date": "2026-02-28"
+    },
+    {
+      "titre": "\"Aller toucher ses points d'authenticité\" avec Mai Hua, réalisatrice.",
+      "date": "2026-02-12"
+    },
+    {
+      "titre": "“Se mettre au travail” avec Martin Page, écrivain",
+      "date": "2025-11-15"
+    }
+  ],
+  "derniere_activite": "2026-09-25",
+  "frequence_jours": 15
+}

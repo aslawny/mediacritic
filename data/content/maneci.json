@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2022-12-20",
-  "frequence_jours": 3
+  "frequence_jours": 3,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-29",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Cel0506",
+        "titre": "Passionnant",
+        "texte": "Un premier épisode très prometteur, qui donne envie (et hâte) d’écouter les suivants. Quelle belle idée de nous faire découvrir les coulisses du cinéma, l’envers du décor (cinéma devenant manéci), en partant à la rencontre de professionnels, en particulier ceux qui sont derrière…"
+      },
+      {
+        "note": 5,
+        "auteur": "Nancy75000",
+        "titre": "Le doublage au cinéma",
+        "texte": "Très intéressant de découvrir au travers d’un témoignage de professionnel un métier du cinéma : le doublage d’acteur. Toujours sympa les anecdotes, c’est du vécu ! Entretien bien mené, bravo !"
+      },
+      {
+        "note": 5,
+        "auteur": "Mokles KSANTINI",
+        "titre": "Super émission!",
+        "texte": "Merci Laurent pour l’émission et merci à ton invité Gary COTHENET J’ai écouté l’émission avec mon fils de 11 ans… devine ce qu’il veut faire plus tard du cour ?? cascadeur !!! ;-)"
+      }
+    ]
+  }
 }

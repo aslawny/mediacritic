@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2023-12-19",
-  "frequence_jours": 41
+  "frequence_jours": 41,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-29",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "blanquitadepanama",
+        "titre": "Comme un vent de liberté",
+        "texte": "Le podcast porte très bien son nom! On apprend plein de choses sur le domaine de la legaltech dont on parle peu en général, la présentatrice est claire et pose les bonnes questions, les intervenants sont de qualité ! Bref, un podcast très instructif et frais !"
+      },
+      {
+        "note": 5,
+        "auteur": "Lilas Louise",
+        "titre": "Pour apprendre sur l'innovation légale auprès des premiers concernés !",
+        "texte": "Bravo à Laetitia Jacquier pour ce podcast qui ne manquera pas d'être riche d'enseignements. Démystifier l'innovation, quelle belle mission ! J'attends la première interview avec impatience :)"
+      },
+      {
+        "note": 5,
+        "auteur": "Creaspybacon84",
+        "titre": "Félicitations Laetitia !!",
+        "texte": "Bravo pour cette belle initiative qui est pleine de promesse pour les praticiens qui pourront améliorer leur pratique du droit et l’adapter aux enjeux de demain !"
+      }
+    ]
+  }
 }

@@ -25,5 +25,31 @@
     "societe"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-09-28"
+  "updatedAt": "2026-09-28",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-29",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Liessest",
+        "titre": "Chaque épisode, une pépite!",
+        "texte": "Le podcast de Valentine fait partie de ceux qui m’aident et me font le plus de bien aussi bien dans la gestion de mon entreprise que dans la prise en compte de ma personnalité ou encore de mes besoins quand il s’agit d’avancer dans son business en ligne.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Stella Plumette",
+        "titre": "Passion",
+        "texte": "Depuis ton changement de ligne éditorial, je suis à fond avec tes vidéos YT (enfin des contenus originaux et qui se démarquent dans la sphère entreprenariale !). Progressivement j'ai été amenée vers ton podcast.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Sarah Dia",
+        "titre": "Sarah (Looves)",
+        "texte": "Valentine a quelque chose que les autres podcasts n'ont pas : elle répond à des problématiques très concrètes et réalistes. On sent que c'est une entrepreneuse qui parle à ses pairs.…"
+      }
+    ]
+  }
 }

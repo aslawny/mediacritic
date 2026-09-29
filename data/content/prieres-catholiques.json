@@ -50,5 +50,25 @@
     }
   ],
   "derniere_activite": "2026-09-14",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-29",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "CriCriCriW",
+        "titre": "Très bonne idée",
+        "texte": "Merci d’avoir créé ce podcast. Decouvert grâce au frère Paul Adrien. 🙏"
+      },
+      {
+        "note": 5,
+        "auteur": "Clémencemo",
+        "titre": "Bravo",
+        "texte": "Un podcast que l’on attendait, avec de si belles prières ! Merci"
+      }
+    ]
+  }
 }

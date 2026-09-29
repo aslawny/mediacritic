@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-04",
-  "frequence_jours": 21
+  "frequence_jours": 21,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mosthelpful",
+    "releve": "2026-09-29",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "swtginger92847",
+        "titre": "Perfect",
+        "texte": "I find this to be incredibly helpful! Gaele speaks French at just the right tone and speed to allow me to comprehend what she is saying. I’ve been listening for the last few months and already I understand more and more every time I listen."
+      },
+      {
+        "note": 1,
+        "auteur": "Pedro. Lopes",
+        "titre": "Woke podcast",
+        "texte": "The worst part of learning a language is being indoctrinated by a woke and leftist movement. It seems that there is no other way to learn French without those woke themes! It is tiring and annoying. That's why I cancelled the langua talk subscription.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Halliefax1234",
+        "titre": "Great tool for learning French",
+        "texte": "I am a beginner/intermediate French speaker, taking lessons in a small group. I cannot keep up with normal-paced French podcasts, but I can understand this one. And the topics are very interesting. I straight-up enjoy it!"
+      }
+    ]
+  }
 }

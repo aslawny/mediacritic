@@ -1,0 +1,53 @@
+{
+  "slug": "hypernews-ia",
+  "title": "Hypernews IA",
+  "author": "Flavien Chervet",
+  "type": "podcast",
+  "categories": [
+    "tech",
+    "numerique"
+  ],
+  "description": "La version audio d'Hypernews IA, la newsletter française dédiée à l'intelligence artificielle éditée par Flavien Chervet. Chaque jeudi, les 3 actualités IA majeures de la semaine en 5-6 minutes, avec sources primaires et angle éditorial sans hype. Pour les CTO, chercheurs, fondateurs et dirigeants qui veulent rester au courant sans y passer 10h.",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8a/82/57/8a825765-f579-bbdf-674f-6b8d4a373026/mza_7190623086423084559.jpg/170x170bb.png",
+  "language": "fr-fr",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/hypernews-ia/id6789995260?uo=2",
+      "trackId": 6789995260,
+      "rating": null,
+      "ratingCount": null,
+      "episodeCount": null
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "tech",
+    "numerique"
+  ],
+  "addedAt": "2026-09-29",
+  "updatedAt": "2026-09-29",
+  "episodes_recents": [
+    {
+      "titre": "Opus 5.5 : plus performant, moins cher, Anthropic écrase la concurrence",
+      "date": "2026-09-18"
+    },
+    {
+      "titre": "Amodei tire le frein à main : l'IA a peur d'elle-même",
+      "date": "2026-09-10"
+    },
+    {
+      "titre": "L'un des 7 Problèmes du Millénaire résolu par 10 000 agents IA d'OpenAI",
+      "date": "2026-09-04"
+    },
+    {
+      "titre": "Un agent IA pilote maintenant des laboratoires scientifques",
+      "date": "2026-08-27"
+    },
+    {
+      "titre": "L'IA fait passer à l'échelle le premier vaccin contre le cancer",
+      "date": "2026-08-21"
+    }
+  ],
+  "derniere_activite": "2026-09-18",
+  "frequence_jours": 6
+}
