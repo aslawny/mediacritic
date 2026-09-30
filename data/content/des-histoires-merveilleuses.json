@@ -25,5 +25,19 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-28"
+  "updatedAt": "2026-09-28",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-30",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Petit Érable LOVE🐾",
+        "titre": "Drôle",
+        "texte": "Les histoires sont modifiées ( toutes ou presque) et c’est hilarant 🤣"
+      }
+    ]
+  }
 }

@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-09-03",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-30",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Alexis Mich-EL",
+        "titre": "Excellent podcast, merci !",
+        "texte": "De très bonnes questions, un casting excellent, une vraie sincérité d’apporter de la valeur à la communauté “sportive” au sens large et pas que d’ailleurs, je découvre et j’adore ! Merci PS : l’épisode avec Jean est génial"
+      },
+      {
+        "note": 5,
+        "auteur": "Tom Andrault",
+        "titre": "Génial!",
+        "texte": "Merci Valentin pour ces découvertes et cette immersion dans le monde du triathlon! Du circuit amateur au circuit pro c’est motivant et très intéressant d’en savoir un peu +. Hâte pour les prochains épisodes!"
+      },
+      {
+        "note": 5,
+        "auteur": "aude33400",
+        "titre": "Incroyable",
+        "texte": "Très intéressant ! Je trouve que la partie mentale est bien abordée dans ce podcast, ce qui n’est pas forcément le cas dans d’autres podcast."
+      }
+    ]
+  }
 }

@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-20",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-30",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "IAMXAVE",
+        "titre": "Essentiel pour une vie pleine de sens",
+        "texte": "Le parcours et l’écoute de la pratique bouddhiste mérite largement d’être connu - merci à la tradition Kadampa de donner accès gratuitement à ses enseignements 😍"
+      },
+      {
+        "note": 5,
+        "auteur": "gc0926",
+        "titre": "Tellement inspirant",
+        "texte": "Ces podcasts sont merveilleux. L’un moment que j’attends chaque semaine. Merci pour ce cadeau 🙏🫶"
+      },
+      {
+        "note": 5,
+        "auteur": "chris26666666",
+        "titre": "Instructifs",
+        "texte": "Podcasts courts , simples et détaillés. Ils me procurent beaucoup de paix et de réflexion 🙏"
+      }
+    ]
+  }
 }

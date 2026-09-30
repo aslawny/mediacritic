@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2023-11-21",
-  "frequence_jours": 35
+  "frequence_jours": 35,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-30",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Elodie MC",
+        "titre": "Un podcast inspirant …",
+        "texte": "Inspirant comme le territoire qui est mis en avant, ce podcast est à écouter absolument! Que l’on soit enfant du pays ou venant de la France entière, le territoire Savoie Mont-Blanc est à découvrir absolument surtout pour les sportifs et les gourmands.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Montaine R",
+        "titre": "Un vrai plaisir",
+        "texte": "Je garde le sourire après l’écoute de ce podcast. Jean Sulpice nous conte des anecdotes importantes de sa vie et nous emmène dans son territoire si riche. Quel bel ambassadeur !"
+      },
+      {
+        "note": 5,
+        "auteur": "Anonyme.12321",
+        "titre": "Passionnant",
+        "texte": "Podcast passionnant entre deux amoureux de la région Savoyarde. Un échange riche et inspirant, qui nous emmène en voyage au bord du Lac d’Annecy et de ses alentours"
+      }
+    ]
+  }
 }

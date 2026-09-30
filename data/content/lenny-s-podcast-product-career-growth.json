@@ -27,5 +27,31 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-28"
+  "updatedAt": "2026-09-28",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "us",
+    "tri": "mosthelpful",
+    "releve": "2026-09-30",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "melissa.chan",
+        "titre": "A must-listen for product people!",
+        "texte": "A delightful treasure trove of product management wisdom! Lenny's Podcast is an invaluable resource for anyone in or transitioning to a product role.…"
+      },
+      {
+        "note": 1,
+        "auteur": "nbsfmc",
+        "titre": "Hit or miss",
+        "texte": "Gets caught up in obvious hype too much. Wish he’d ask more probing questions."
+      },
+      {
+        "note": 5,
+        "auteur": "blmhansen",
+        "titre": "Insightful and Actionable: A Must-Listen for Growth and Product Leaders",
+        "texte": "The podcast consistently features high-caliber guests—industry leaders, seasoned entrepreneurs, and top-tier product managers—who share their wealth of experience and insights.…"
+      }
+    ]
+  }
 }

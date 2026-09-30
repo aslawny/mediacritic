@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-08-30",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-09-30",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "AssiaDM",
+        "titre": "Salam",
+        "texte": "Un podcast captivant et enrichissant ! Chaque épisode est un véritable voyage à travers l’histoire du prophète, raconté avec clarté et précision. J’attends chaque nouvel épisode avec impatience tant il est passionnant et bien documenté.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Jouweïda",
+        "titre": "Continuez comme ça !!",
+        "texte": "J’aime beaucoup vos histoires, elles sont interessantes et bien expliquées. Je recommande. Merci beaucoup et continuez comme ça ! J’apprécie particulièrement les histoires des prophètes qui sont bien détaillées. Ces histoires m’apprennent énormément de choses.…"
+      },
+      {
+        "note": 5,
+        "auteur": "~Camilia",
+        "titre": "Continuez le podcast !!!!",
+        "texte": "J’aime trop ce podcast sur l’islam. Il m’apprend beaucoup sur les prophètes. J’ai hâte de connaître la suite 😁"
+      }
+    ]
+  }
 }

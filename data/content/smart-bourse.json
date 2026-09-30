@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-17",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-09-30",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "VicMcFly",
+        "titre": "Grégoire Le Grand",
+        "texte": "5 ans maintenant que je suis Grégoire Favet. Le meilleur dans sa spécialité. Il pose les bonne questions pour nous aider à comprendre le monde complexe de la finance. Victor."
+      },
+      {
+        "note": 5,
+        "auteur": "Beubeut",
+        "titre": "Bravo",
+        "texte": "Sérieux, agréable, professionnel... Très rare profil parmi les tous meilleurs pas seulement en France mais probablement en Europe !"
+      },
+      {
+        "note": 5,
+        "auteur": "cuicuiphiphi",
+        "titre": "Au top",
+        "texte": "Bravo Grégoire un journaliste qui connaît parfaitement son sujet ce qui est rarissime !"
+      }
+    ]
+  }
 }

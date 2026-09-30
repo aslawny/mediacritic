@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-09-03",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "us",
+    "tri": "mosthelpful",
+    "releve": "2026-09-30",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Melaza Love",
+        "titre": "Awesome Mixes!",
+        "texte": "Your music gets me through my day at work. I have them all saved in my phone. I love them all. And I look forward to new ones each week. Thank you!!!"
+      },
+      {
+        "note": 5,
+        "auteur": "Pioneer876",
+        "titre": "One of the best Hip Hop mixes🔥🔥🔥🔥",
+        "texte": "I can’t wait to get my DJ Controller so that I can start making some fire mixes as well."
+      },
+      {
+        "note": 5,
+        "auteur": "Jamrock99",
+        "titre": "Clean mix",
+        "texte": "The mixtapes are really nice but the clean mixes aren't really clean"
+      }
+    ]
+  }
 }
