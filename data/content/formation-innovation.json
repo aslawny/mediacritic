@@ -24,7 +24,7 @@
     "culture geek"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-09-28",
+  "updatedAt": "2026-10-01",
   "episodes_recents": [
     {
       "titre": "#115 – Cybersécurité, IA, économie durable : L’ambition éducative de FROJAL, avec Steve Danino",
@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2025-04-30",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Meriem Draman",
+        "titre": "Un de mes podcasts préférés dans le domaine de la formation",
+        "texte": "Je ne rate presque aucun des épisodes de ce podcast car étant moi-même formatrice, je tiens à rester en veille dans ce domaine et grâce à ce podcast j’apprends toujours des choses… j’apprécie particulièrement le ton, la bienveillance et l’écoute attentive d’Eliott Boucher, l’hôte…"
+      },
+      {
+        "note": 3,
+        "auteur": "Fan2pod",
+        "titre": "Inégal",
+        "texte": "Pas facile de faire un podcast sur ce sujet. Dommage que certains invités ne rendent pas hommage à notre belle profession"
+      },
+      {
+        "note": 5,
+        "auteur": "Stan_56",
+        "titre": "Bravo et merci",
+        "texte": "Bravo et merci pour ce podcast qui relie la formation et l’innovation... très intéressant. Bravo pour la qualité et l’originalité des témoignages et interviews. Je recommande. ST l-ecole.com"
+      }
+    ]
+  }
 }

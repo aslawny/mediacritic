@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/unbx-le-podcast-de-la-r%C3%A9ussite/id6813632977?uo=2",
       "trackId": 6813632977,
-      "rating": 5.0,
-      "ratingCount": 48,
+      "rating": 4.8,
+      "ratingCount": 66,
       "episodeCount": null
     }
   },
@@ -25,7 +25,7 @@
     "business"
   ],
   "addedAt": "2026-09-20",
-  "updatedAt": "2026-09-28",
+  "updatedAt": "2026-10-01",
   "episodes_recents": [
     {
       "titre": "MOSIMANN GAGNE 1 MILLION À 20 ANS ET REMBOURSE LES DETTES DE SA MÈRE",
@@ -36,5 +36,27 @@
       "date": "2026-09-18"
     }
   ],
-  "derniere_activite": "2026-09-23"
+  "derniere_activite": "2026-09-23",
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-10-01",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

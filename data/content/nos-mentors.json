@@ -23,7 +23,7 @@
     "business",
     "entrepreneuriat"
   ],
-  "updatedAt": "2026-09-28",
+  "updatedAt": "2026-10-01",
   "episodes_recents": [
     {
       "titre": "FOOD - 12 - Delphine Plisson (Maison Plisson) : le goût des autres",
@@ -47,5 +47,27 @@
     }
   ],
   "derniere_activite": "2021-10-03",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-10-01",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

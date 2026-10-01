@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/le-journal-dun-marchand-de-biens/id6816678568?uo=2",
       "trackId": 6816678568,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 2,
       "episodeCount": null
     }
   },
@@ -25,7 +25,7 @@
     "business"
   ],
   "addedAt": "2026-09-29",
-  "updatedAt": "2026-09-29",
+  "updatedAt": "2026-10-01",
   "episodes_recents": [
     {
       "titre": "Ep1 - Le marché immobilier Q4, AchatRevente.io, Passer enfin à l'action",

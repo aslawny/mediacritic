@@ -25,7 +25,7 @@
     "humour"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-09-28",
+  "updatedAt": "2026-10-01",
   "episodes_recents": [
     {
       "titre": "Episode 102 - The Northman",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2022-07-11",
-  "frequence_jours": 26
+  "frequence_jours": 26,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Yetcha",
+        "titre": "Que du bonheur!",
+        "texte": "Un podcast que j'écoute depuis une grosse année, j'ai rattrapé l'ensemble des numéros. Plusieurs remarques. Positives : - Format idéal - Les films variés - La qualité des analyses et le background cinématographique - La bonne humeur - La séparation sans spoil et spoiler.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Eupheby",
+        "titre": "Analyses en carton",
+        "texte": "Quand les films sont jugés d'avance en fonction de leur note allociné, ça laisse présager du niveau de développement argumentaire.. Si vous cherchez de la pertinence, fuyez!"
+      },
+      {
+        "note": 5,
+        "auteur": "Chtigui",
+        "titre": "Des experts au service de la France",
+        "texte": "Devenu multimillionaire avec mon stylo multifonctions révolutionnaire et surtout grâce à sa campagne de publicité du tonnerre (Merci encore Arnaud pour ta vision artistique acatalectique) je me suis réfugié a Hong Kong où j'essaye désespérément d'intégrer une triade.…"
+      }
+    ]
+  }
 }

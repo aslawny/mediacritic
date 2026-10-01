@@ -27,7 +27,7 @@
     "retro"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-09-28",
+  "updatedAt": "2026-10-01",
   "episodes_recents": [
     {
       "titre": "#121-LAURIANE-Lapin malin et E-sport en passant par Les Sims 🐰🎫",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2023-05-05",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Emericlebeg",
+        "titre": "Un super podcast",
+        "texte": "J’écoute depuis des années maintenant divers podcast et notamment sur le jeu vidéo. Je suis tombé un peu par hasard sur ce podcast entre deux écoutes car j’avais fait le tour de mes podcasts habituels. J’ai été vraiment surpris de la qualité de ce dernier.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Marinade royale",
+        "titre": "Excellent",
+        "texte": "J'aime vos voix, j'aime vos chronique, j'aime vos conseils, j'aime vos sujets. C'est qualitatif, continuez d'améliorer votre contenu avec des nouvelles idées et de mêler propos généralistes et jv au travers de vos sujets …"
+      },
+      {
+        "note": 5,
+        "auteur": "Céciloubilou",
+        "titre": "Vraiment excellent",
+        "texte": "Une approche vraiment différente qui rend chaque épisode cool même si le thème n'est pas celui nous intéresse le plus. C'est drôle, c'est toujours une découverte et surtout ça donne envie de jouer, rejouer ou se mettre à jouer. Classe!"
+      }
+    ]
+  }
 }

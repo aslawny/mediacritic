@@ -26,7 +26,7 @@
     "societe"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-09-28",
+  "updatedAt": "2026-10-01",
   "episodes_recents": [
     {
       "titre": "#19 Si je devais tout recommencer, c'est encore Abidjan que je choisirai",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-03-10",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Meninaditchadalem",
+        "titre": "La veritable Afrique !",
+        "texte": "Sandy boogie baby : un régale !!! Purée toute ma vie j’essaie d’expliquer aux gens pourquoi je n’arrive pas à dire quel endroit est le mieux entre l’Afrique (Cap-Vert) et la France ! Merci de le faire pour nous …"
+      },
+      {
+        "note": 5,
+        "auteur": "MurielMiel",
+        "titre": "Véridique",
+        "texte": "Ce dernier podcast en 2 parties est vraiment interessant et je perçois que 10 après mon retour d'expatriation, ton récit et tes pensées sont ce que je partageais qd j'étais en Angola. L'entraide des communautés, les femmes de ménage qui préféraient les européens qu'aux noirs...…"
+      },
+      {
+        "note": 5,
+        "auteur": "scarfacilistik",
+        "titre": "Le rdv for sure",
+        "texte": "Je n'aime pas les podcasts mais celui-là je le manque PAS! Normal c'est pas un podcast c'est une note vocale. Vraiment Sandy notre go suuure 🤌🏿🤌🏿🤌🏿"
+      }
+    ]
+  }
 }

@@ -25,7 +25,7 @@
     "culture"
   ],
   "addedAt": "2026-07-18",
-  "updatedAt": "2026-09-28",
+  "updatedAt": "2026-10-01",
   "episodes_recents": [
     {
       "titre": "Séance de squats au Grand Rex - Drag Race France 4, la finale",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-31",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tahiti06100",
+        "titre": "Les vierges ont toujours raison",
+        "texte": "Trop bien de retrouver ce duo LÉGENDAIRE. Manque plus que la cagoule marseillaise de nos rêves pendant plus d’1 minute et ce sera parfait"
+      },
+      {
+        "note": 5,
+        "auteur": "robin445378",
+        "titre": "BIG FAN <3",
+        "texte": "Vous gérez tellement ! Merci pour vos recap drôles, qualitatifs, pertinents, respectueux."
+      },
+      {
+        "note": 4,
+        "auteur": "aborey",
+        "titre": "Trop d’anglicismes",
+        "texte": "Je mets 4 en soutien mais par contre arretez d’utiliser un mot sur trois en anglais. Ok c’est du drag mais on est pas tous bilingues et c’est chiant à suivre du coup."
+      }
+    ]
+  }
 }

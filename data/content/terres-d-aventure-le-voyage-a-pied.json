@@ -26,7 +26,7 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-09-28",
+  "updatedAt": "2026-10-01",
   "episodes_recents": [
     {
       "titre": "En itinérance",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2024-03-27",
-  "frequence_jours": 95
+  "frequence_jours": 95,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "LaCollision",
+        "titre": "Des conseils fantastiques !",
+        "texte": "Un podcast qui donne envie de partir à l'aventure ! Plein d'idées géniales et de conseils pratiques. Des émissions qui nous ouvrent plein de possibilités de voyage, j'adore."
+      },
+      {
+        "note": 5,
+        "auteur": "gaelleenzogilles",
+        "titre": "Enfin !!",
+        "texte": "Quel plaisir de vous entendre de nouveau je le pensais perdu à jamais ! Le rendez vous sera t il plus régulier ? Merci !"
+      },
+      {
+        "note": 5,
+        "auteur": "Melianevyc",
+        "titre": "Une invitation au voyage",
+        "texte": "Agréable à écouter, hâte de découvrir les prochains épisodes !"
+      }
+    ]
+  }
 }

@@ -24,7 +24,7 @@
     "culture"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-09-28",
+  "updatedAt": "2026-10-01",
   "episodes_recents": [
     {
       "titre": "Purified Radio 525",
@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-09-14",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mosthelpful",
+    "releve": "2026-10-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "17thirtyeight",
+        "titre": "Easy listening",
+        "texte": "Hands down my favourite podcast. Positive energy and good vibes in every set. Great for driving and studying. A really easy set to listen to. Also Nora is extremely talented and has a really good ear for music"
+      },
+      {
+        "note": 5,
+        "auteur": "Clb1577",
+        "titre": "Where to begin?!?!",
+        "texte": "The quality of music is great. Great music to get you amped for a sick night on the town with out you getting to wound up. Great to drive to. Just over all an awesome mix by the one and only!"
+      },
+      {
+        "note": 5,
+        "auteur": "mavrosito",
+        "titre": "Purified radio...",
+        "texte": "Wow, Nora you’re such a wicked mixologist:) Love your podcasts, they’ve become my latest and only addiction! God speed & party on \\.../"
+      }
+    ]
+  }
 }

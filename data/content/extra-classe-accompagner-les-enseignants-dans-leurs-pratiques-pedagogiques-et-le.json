@@ -25,7 +25,7 @@
     "sciences"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-09-28",
+  "updatedAt": "2026-10-01",
   "episodes_recents": [
     {
       "titre": "Comment travailler avec l'AESH qui est dans ma classe ? - Entre profs #48",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-02",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Not_Kaa",
+        "titre": "Nouvelles émissions",
+        "texte": "La nouvelle mouture du podcast est vraiment très intéressante. Les podcasts sont de qualités et très agréable à écouter. Les énergies scolaires sont inspirantes et Parlons pratique passe tout seul grâce aux deux animateurs."
+      },
+      {
+        "note": 1,
+        "auteur": "AnnePil",
+        "titre": "Bon enfant",
+        "texte": "Manque de fond… La réalité des métiers de l’enseignement est survolée, bien souvent enjolivée…"
+      },
+      {
+        "note": 5,
+        "auteur": "Mme Peps",
+        "titre": "Un rendez-vous à ne pas manquer.",
+        "texte": "Cette série de podcast est un vrai plaidoyer pour le métier d'enseignant. Toutes ces initiatives partagées participent à notre formation et à notre engagement."
+      }
+    ]
+  }
 }
