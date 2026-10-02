@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2022-09-16",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "jbbthx",
+        "titre": "Meilleur podcast FR du trio d’avenir - Crypto | NFT | DeFi",
+        "texte": "Chaque semaine, Jeddi et François partagent un maximum de valeurs à leur audience : idées business pertinentes, coup de cœur NFT, analyse de projets Defi les plus en vogues. J’en ressors toujours avec 2 ou 3 idées applicables immédiatement.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Belazycrypto",
+        "titre": "Des sujets intéressants et variés",
+        "texte": "J'aime me tenir au courant de tout ce qui se passe dans le monde entrepreneurial, les opportunités, etc. Sauf que ça prend vite bcp de temps dans la semaine.…"
+      },
+      {
+        "note": 5,
+        "auteur": "johanbcq",
+        "titre": "Vraiment trop cool !",
+        "texte": "Je suis tombé sur vous je sais pas trop comment mais je suis fan de vos live et de vos lives ! Une ambiance très décontractée, une belle fluidité des échanges et du super contenu ! Des sujets sérieux sans se prendre au sérieux j’adore."
+      }
+    ]
+  }
 }

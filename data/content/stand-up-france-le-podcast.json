@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-15",
-  "frequence_jours": 11
+  "frequence_jours": 11,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Taodescitesdor",
+        "titre": "J’adorrreee",
+        "texte": "Le podcast Standup France, animé par Briac et Scott Fins, s’impose comme un rendez-vous précieux pour quiconque s’intéresse de près ou de loin à l’univers du stand-up.…"
+      },
+      {
+        "note": 1,
+        "auteur": "whesh pero 81",
+        "titre": "Nul",
+        "texte": "C’est de la ***** cette daube de sa grand **** la ****** la ****qui ****"
+      },
+      {
+        "note": 5,
+        "auteur": "Thibaut_Fougères",
+        "titre": "J’adore!",
+        "texte": "J’adore ce podcast, c’est une mine d’information, de réflexions et surtout un partage d’expériences, tant sur scène que sur l’écriture. Je l’ai découvert il y a peu et j’ai ingurgité 80 épisodes en quelques semaines, c’est pour moi une vraie formation accélérée sur le stand-up, h…"
+      }
+    ]
+  }
 }

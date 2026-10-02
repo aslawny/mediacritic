@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-10",
-  "frequence_jours": 32
+  "frequence_jours": 32,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "cha hourtinbbbbn",
+        "titre": "Très inspirant",
+        "texte": "J’aime beaucoup vous écouter Gaëlle, les mots sont toujours très bien choisis, vos invités aussi, et votre façon de détailler chaque chose m’inspire beaucoup. Merci pour ces moments d’écoute, un régal."
+      },
+      {
+        "note": 5,
+        "auteur": "Llaoum",
+        "titre": "Super podcast !",
+        "texte": "Très bon épisode avec Matali Crasset sur les nouvelles manière de construire et d’habiter nos maison. Tout est à réinventer ! Merci pour ce super boulot Gaëlle !"
+      },
+      {
+        "note": 5,
+        "auteur": "Féérique 50",
+        "titre": "Magnifique !",
+        "texte": "Merci Gaëlle de nous offrir ces espaces de qualité. Un podcast profond que je prends beaucoup de plaisir à écouter et qui m’inspire sur mon chemin de vie."
+      }
+    ]
+  }
 }

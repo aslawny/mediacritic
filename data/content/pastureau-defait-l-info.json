@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2026-09-16",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lohuli",
+        "titre": "Toujours aussi fin",
+        "texte": "Quelle joie de retrouver Tanguy Pastureau après l’arrêt de la BO sur FI qui ont eu la très mauvaise idée de le remplacer par des « humoristes » maison."
+      },
+      {
+        "note": 2,
+        "auteur": "Jujuba78",
+        "titre": "Chronique coupée",
+        "texte": "Merci de faire attention au montage! Les podcasts commencent au milieu de la chronique! Dommage!!!"
+      },
+      {
+        "note": 5,
+        "auteur": "Steve jnob",
+        "titre": "Pastoureau c le plus beau",
+        "texte": "2 mois sans Pastureau c’était long. Inter ou RTL peu importe Continuez à nous faire réfléchir et Rire"
+      }
+    ]
+  }
 }

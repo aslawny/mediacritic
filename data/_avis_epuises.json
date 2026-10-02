@@ -1,6 +1,6 @@
 {
-  "maj": "2026-10-01",
-  "total": 734,
+  "maj": "2026-10-02",
+  "total": 763,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -1306,6 +1306,12 @@
       "fiche": "fiches/choses-vues.html"
     },
     {
+      "slug": "meuf-le-podcast",
+      "titre": "Meuf. Le podcast",
+      "notes_apple": 362,
+      "fiche": "fiches/meuf-le-podcast.html"
+    },
+    {
       "slug": "dis-moi-pourquoi-question-pour-enfants",
       "titre": "Dis moi pourquoi / Question pour enfants",
       "notes_apple": 361,
@@ -2086,6 +2092,12 @@
       "fiche": "fiches/serious-gaming-et-l-actu-jv-sur-origami.html"
     },
     {
+      "slug": "a-l-air-libre",
+      "titre": "À l’air libre",
+      "notes_apple": 152,
+      "fiche": "fiches/a-l-air-libre.html"
+    },
+    {
       "slug": "secrets-d-agents-histoires-vraies",
       "titre": "SECRETS D'AGENTS • Histoires Vraies",
       "notes_apple": 146,
@@ -2426,6 +2438,12 @@
       "titre": "TAWAKUL MINDSET",
       "notes_apple": 89,
       "fiche": "fiches/tawakul-mindset.html"
+    },
+    {
+      "slug": "lecture-de-la-bible-en-1-an",
+      "titre": "Lecture de la bible en 1 an",
+      "notes_apple": 89,
+      "fiche": "fiches/lecture-de-la-bible-en-1-an.html"
     },
     {
       "slug": "cine-tempo",
@@ -4252,6 +4270,12 @@
       "fiche": "fiches/un-jeune-chez-columbo.html"
     },
     {
+      "slug": "en-colere",
+      "titre": "En colère",
+      "notes_apple": 51,
+      "fiche": "fiches/en-colere.html"
+    },
+    {
       "slug": "brume-litteraire-la-litterature-en-clair",
       "titre": "Brume Littéraire - La littérature en clair",
       "notes_apple": 50,
@@ -4406,6 +4430,156 @@
       "titre": "Hippocast - la première année de médecine (PASS et LAS)",
       "notes_apple": 49,
       "fiche": "fiches/hippocast-la-premiere-annee-de-medecine-pass-et-las.html"
+    },
+    {
+      "slug": "intelligence-artificielle-data-driven-101-le-podcast-ia-data-100-en-francais",
+      "titre": "Intelligence Artificielle - Data Driven 101 - Le podcast IA & Data 100% en français",
+      "notes_apple": 49,
+      "fiche": "fiches/intelligence-artificielle-data-driven-101-le-podcast-ia-data-100-en-francais.html"
+    },
+    {
+      "slug": "izakna-entrepreneuriat-a-lyon-et-en-auvergne-rhone-alpes",
+      "titre": "Izakna - Entrepreneuriat à Lyon et en Auvergne-Rhône-Alpes",
+      "notes_apple": 49,
+      "fiche": "fiches/izakna-entrepreneuriat-a-lyon-et-en-auvergne-rhone-alpes.html"
+    },
+    {
+      "slug": "je-reviens-du-monde-d-avant",
+      "titre": "Je reviens du monde d'avant",
+      "notes_apple": 49,
+      "fiche": "fiches/je-reviens-du-monde-d-avant.html"
+    },
+    {
+      "slug": "l-instant-swimrun",
+      "titre": "L'Instant Swimrun",
+      "notes_apple": 49,
+      "fiche": "fiches/l-instant-swimrun.html"
+    },
+    {
+      "slug": "la-comete",
+      "titre": "La Comète",
+      "notes_apple": 49,
+      "fiche": "fiches/la-comete.html"
+    },
+    {
+      "slug": "le-top-3-de-marine-baousson",
+      "titre": "Le Top 3 de Marine Baousson",
+      "notes_apple": 49,
+      "fiche": "fiches/le-top-3-de-marine-baousson.html"
+    },
+    {
+      "slug": "odyssees",
+      "titre": "Odyssées",
+      "notes_apple": 49,
+      "fiche": "fiches/odyssees.html"
+    },
+    {
+      "slug": "techclash",
+      "titre": "TechClash",
+      "notes_apple": 49,
+      "fiche": "fiches/techclash.html"
+    },
+    {
+      "slug": "tous-entrepreneurs",
+      "titre": "Tous Entrepreneurs",
+      "notes_apple": 49,
+      "fiche": "fiches/tous-entrepreneurs.html"
+    },
+    {
+      "slug": "xam-xam-ak-sergine-abdou-rahmane-mbacke",
+      "titre": "Xam Xam Ak Sergine Abdou Rahmane Mbacké",
+      "notes_apple": 49,
+      "fiche": "fiches/xam-xam-ak-sergine-abdou-rahmane-mbacke.html"
+    },
+    {
+      "slug": "changement-d-epoque-en-cours",
+      "titre": "Changement d'époque en cours",
+      "notes_apple": 48,
+      "fiche": "fiches/changement-d-epoque-en-cours.html"
+    },
+    {
+      "slug": "channel-random",
+      "titre": "Channel Random",
+      "notes_apple": 48,
+      "fiche": "fiches/channel-random.html"
+    },
+    {
+      "slug": "du-beton-aux-nuages-la-saga-du-rap-francais",
+      "titre": "Du Béton aux nuages : la saga du rap français",
+      "notes_apple": 48,
+      "fiche": "fiches/du-beton-aux-nuages-la-saga-du-rap-francais.html"
+    },
+    {
+      "slug": "la-magie-de-l-ame-spiritualite-reliance-energie",
+      "titre": "La Magie de l'Âme | Spiritualité . Reliance . Energie",
+      "notes_apple": 48,
+      "fiche": "fiches/la-magie-de-l-ame-spiritualite-reliance-energie.html"
+    },
+    {
+      "slug": "le-passage-parler-d-adolescence-autrement",
+      "titre": "Le Passage : parler d'adolescence autrement",
+      "notes_apple": 48,
+      "fiche": "fiches/le-passage-parler-d-adolescence-autrement.html"
+    },
+    {
+      "slug": "binouze-usa",
+      "titre": "Binouze USA",
+      "notes_apple": 47,
+      "fiche": "fiches/binouze-usa.html"
+    },
+    {
+      "slug": "apostats-islam-temoignages-d-ex-musulmans-au-sujet-de-l-apostasie",
+      "titre": "Apostats islam - témoignages d’ex musulmans au sujet de l’apostasie",
+      "notes_apple": 47,
+      "fiche": "fiches/apostats-islam-temoignages-d-ex-musulmans-au-sujet-de-l-apostasie.html"
+    },
+    {
+      "slug": "bivouak",
+      "titre": "Bivouak",
+      "notes_apple": 47,
+      "fiche": "fiches/bivouak.html"
+    },
+    {
+      "slug": "cybersecurite-all-day",
+      "titre": "Cybersécurité All Day",
+      "notes_apple": 47,
+      "fiche": "fiches/cybersecurite-all-day.html"
+    },
+    {
+      "slug": "dragon-ball-cast",
+      "titre": "Dragon Ball Cast !",
+      "notes_apple": 47,
+      "fiche": "fiches/dragon-ball-cast.html"
+    },
+    {
+      "slug": "le-nectar",
+      "titre": "Le Nectar",
+      "notes_apple": 47,
+      "fiche": "fiches/le-nectar.html"
+    },
+    {
+      "slug": "la-revue-de-presse-jv",
+      "titre": "La revue de presse JV",
+      "notes_apple": 47,
+      "fiche": "fiches/la-revue-de-presse-jv.html"
+    },
+    {
+      "slug": "le-podcast-de-damien-pugin",
+      "titre": "Le Podcast de Damien Pugin",
+      "notes_apple": 47,
+      "fiche": "fiches/le-podcast-de-damien-pugin.html"
+    },
+    {
+      "slug": "les-quarts-de-siecle",
+      "titre": "Les Quarts de Siècle",
+      "notes_apple": 47,
+      "fiche": "fiches/les-quarts-de-siecle.html"
+    },
+    {
+      "slug": "le-podcast-de-tenou-a",
+      "titre": "Le podcast de Tenou'a",
+      "notes_apple": 47,
+      "fiche": "fiches/le-podcast-de-tenou-a.html"
     }
   ]
 }

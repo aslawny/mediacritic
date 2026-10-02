@@ -49,5 +49,19 @@
     }
   ],
   "derniere_activite": "2026-06-29",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Hyffaid",
+        "titre": "Enfin !!!",
+        "texte": "Enfin un podcast qui parle de nos réalités de terrain !!!! J’ai découvert trop tardivement, 1000 pardons. Je vais m’écouter ça en continu ce week-end (Mme et les enfants sont en vacances pendant que je suis de service)"
+      }
+    ]
+  }
 }

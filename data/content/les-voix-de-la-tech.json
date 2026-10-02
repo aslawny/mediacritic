@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-09",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mr Fofel",
+        "titre": "Quel plaisir !",
+        "texte": "J’ai découvert les voix de la tech grâce à iWeek. C’est toujours un réel plaisir d’écouter Benjamin dans le format (trop)cours de la dépêche de la matinale et du format plus long des voix de la tech ! Super boulot avec es invités divers et variés …"
+      },
+      {
+        "note": 3,
+        "auteur": "ArnaudBnt",
+        "titre": "Super",
+        "texte": "Super podcast, merci Benjamin. Manque cependant la traduction des voix en français et ça sera 5 étoiles 😅"
+      },
+      {
+        "note": 5,
+        "auteur": "Mickael_N",
+        "titre": "Au top !",
+        "texte": "La team Ouatch propose ce nouveau podcast qui parle de tech de façon pragmatique et accessible ! Bravo et longue vie dans cette nouvelle aventure ! N’attendez plus et rejoignez la bande"
+      }
+    ]
+  }
 }

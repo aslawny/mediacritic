@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2025-12-18",
-  "frequence_jours": 43
+  "frequence_jours": 43,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Rlyvonnet",
+        "titre": "Sofia bien né",
+        "texte": "Bravo pour ce premier épisode ! Vous placez la barre haute pour la suite 👍. Passionnant autant dans les échanges sur le chemin que doit prendre l’action publique nécessaire avec votre illustre invité mais aussi dans le cheminement et les interrogations des élèves de l’INSP pour œ…"
+      },
+      {
+        "note": 5,
+        "auteur": "URGE-ANGES",
+        "titre": "Intéressant ! A poursuivre",
+        "texte": "Le podcast est intéressant la dynamique en plusieurs temps permet de ne pas se lasser des thématiques abordées. Et surtout j’ai apprécié découvrir un petit bout de parcours d’un élève… A poursuivre…."
+      },
+      {
+        "note": 5,
+        "auteur": "poldup",
+        "titre": "Saison 2",
+        "texte": "Bravo pour cette reprise. Un plaisir d’écouter ce podcast posé, laissant du temps de réponse, avec un bon son. Au plaisir d’écouter la suite. A votre rythme."
+      }
+    ]
+  }
 }

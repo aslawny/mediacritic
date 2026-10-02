@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2020-04-17",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Agnès D77",
+        "titre": "Bravo pour l’initiative ! Podcast très enrichissant !",
+        "texte": "En ces temps nous devons être plus que jamais connectés à la parole 🙏🏼"
+      },
+      {
+        "note": 1,
+        "auteur": "@loulou_futbol (Instagram)",
+        "titre": "Parties manquantes apparemment",
+        "texte": "J’écoute ce Podcast en lisant la Bible et il semble qu’une grosse partie de la Genèse est manquante à partir de l’épisode 2 si je ne me trompe pas…"
+      },
+      {
+        "note": 5,
+        "auteur": "jeanslegel",
+        "titre": "Relire entièrement la Bible a changé ma vie!",
+        "texte": "Ma relation avec Dieu a été renforcée de manière exponentielle !"
+      }
+    ]
+  }
 }
