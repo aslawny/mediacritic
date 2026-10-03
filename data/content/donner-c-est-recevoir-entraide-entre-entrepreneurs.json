@@ -49,5 +49,25 @@
     }
   ],
   "derniere_activite": "2026-08-06",
-  "frequence_jours": 33
+  "frequence_jours": 33,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Podcast Lover Paris",
+        "titre": "Un pur plaisir à écouter",
+        "texte": "Inspirant, bienveillant, riche d’apprentissage… Le tout avec une qualité de son qui vous enveloppe et vous captive jusqu’au bout de chaque épisode 😊"
+      },
+      {
+        "note": 5,
+        "auteur": "Aurélien GODIVEAU",
+        "titre": "Avis",
+        "texte": "Bravo pour ton podcast, il est super intéressant et il s’écoute facilement 😃"
+      }
+    ]
+  }
 }

@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-09-11",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "GillesSM",
+        "titre": "Je recommande.",
+        "texte": "Ce podcast fait partie des trois podcasts Tech que j’écoute régulièrement depuis la Normandie. Chacun de ces trois podcasts ayant leurs particularités. Ce que j’apprécie dans mon carnet c’est l’avis de différents experts sur l’impact de la technologie sur notre société. Merci.…"
+      },
+      {
+        "note": 5,
+        "auteur": "XG54",
+        "titre": "très bon podcast…oups votre balado pardon!",
+        "texte": "j’ai découvert votre balado grâce à Jérôme Colombain que je suis tous les samedi et je le remercie au passage. Les sujets sont vraiments intéressants et c’est très enrichissant d’avoir une réflexion différente de chez nous en france voir de l’europe."
+      },
+      {
+        "note": 5,
+        "auteur": "oui oui, Fanfan",
+        "titre": "Génial",
+        "texte": "Enfin j’ai réussi à mettre un avis sur celui-là en particulier, mais c’est avis vaut pour tous les autres aussi. Merci pour toutes vos émissions. J’aime bien le thème, je vous souhaite une bonne continuation."
+      }
+    ]
+  }
 }

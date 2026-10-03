@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2024-03-27",
-  "frequence_jours": 48
+  "frequence_jours": 48,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Moussadia",
+        "titre": "Excellent",
+        "texte": "Franchement j’ai beaucoup aimé ce podcast qui couvre tous les concepts depuis la création de java et jusqu’au dernières fonctionnalités de java.…"
+      },
+      {
+        "note": 5,
+        "auteur": "npcbsm",
+        "titre": "A écouter d’urgence!",
+        "texte": "Podcasts très intéressants. Beaucoup de sujets, traités avec clarté et simplicité. J’ai enfin trouvé des infos techniques qui restent compréhensibles même sur les sujets que je ne maitrise pas ! A écouter d’urgence !"
+      },
+      {
+        "note": 5,
+        "auteur": "Trecollo",
+        "titre": "Sympa et varié",
+        "texte": "Je recommande. Belle qualité de réalisation. Les interventions sont variées et sympa. On a parfois envie de plus d’interventions/de questions pour cadrer les invités mais globalement c est très bon"
+      }
+    ]
+  }
 }

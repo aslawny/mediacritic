@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2025-08-22",
-  "frequence_jours": 36
+  "frequence_jours": 36,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "InInfernoNullaEstRedemptio",
+        "titre": "Incontournable !",
+        "texte": "Que dire sur ce podcast sans verser dans la laudation mièvre ou s’en faire le thuriféraire en l’encensant à grand renfort d’adjectifs ampoulés …"
+      },
+      {
+        "note": 5,
+        "auteur": "Mr_Meuble",
+        "titre": "Wahou !!!!",
+        "texte": "J’en ai lu des bouquins et des pages sur le net concernant Metallica mais alors là c’est la pépite pour tout fan du groupe. Le nombre de détails est hallucinant !! J’ai été transporté aux States au début des années 80 en écoutant les épisode …"
+      },
+      {
+        "note": 5,
+        "auteur": "Bti01",
+        "titre": "Indispensable",
+        "texte": "J’ai découvert ce podcast par recommandation. Rarement il y en eut de si bien renseigné, de si pointu et animé d’une telle passion , quelque soit l’artiste. Un must absolu, pour redécouvrir Metallica et se (re)plonger dans l’œuvre de pleins d’autres artistes. En un mot, merci."
+      }
+    ]
+  }
 }

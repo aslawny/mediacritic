@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2022-03-25",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-10-03",
+    "extraits": [
+      {
+        "note": 4,
+        "auteur": "fredlln",
+        "titre": "Très chouette mais incomplet !",
+        "texte": "Seuls les six premiers épisodes sont disponibles dans leur intégralité !"
+      },
+      {
+        "note": 3,
+        "auteur": "Etdae",
+        "titre": "Très bien mais….",
+        "texte": "Très frustrant d’écouter des épisodes incomplets…. Notamment épisode 8. Mais pourquoi ?!"
+      },
+      {
+        "note": 4,
+        "auteur": "anaisfrancois79",
+        "titre": "Incomplet",
+        "texte": "Les 6 premiers épisodes sont géniaux… mais où est la suite???"
+      }
+    ]
+  }
 }

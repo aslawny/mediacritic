@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2025-05-18",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Kristoufff06",
+        "titre": "Entre Passionés du GYM ❤️🦅🖤",
+        "texte": "Podcast indispensable à tout passionné du GYM 🦅qui se respect !! On retrouve toujours avec grand plaisir les différents intervenants pour analyser, décortiquer, critiquer objectivement et plus encore, l’actualité de notre cher OGCNice. Issa Nissa ❤️🖤"
+      },
+      {
+        "note": 1,
+        "auteur": "najnaj1988",
+        "titre": "Nul",
+        "texte": "Un adolescent d’un côté et un adulte plus modéré et plus objectif de l’autre. Première fois que j’écoute et je ne conseille pas l’ado gâche toutes les discussions et les analyses !"
+      },
+      {
+        "note": 5,
+        "auteur": "Michael BK from 92",
+        "titre": "La communauté qu on aime !",
+        "texte": "Des émissions toujours intéressantes car de multiples avis sont représentés, ça argumente souvent de façon propre sans tomber dans des critiques stériles … bref je me régale !"
+      }
+    ]
+  }
 }
