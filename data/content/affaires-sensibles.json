@@ -20,7 +20,10 @@
       "episodeCount": null
     }
   },
-  "mediacritic": null,
+  "mediacritic": {
+    "ep": 49,
+    "url": "https://www.mediacritic.fr/episodes/affaires-sensibles.html"
+  },
   "tags": [
     "actualite",
     "news"
