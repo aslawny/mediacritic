@@ -27,7 +27,7 @@
     "psychologie"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-10-01",
+  "updatedAt": "2026-10-04",
   "episodes_recents": [
     {
       "titre": "Ce que vos nuits disent de votre vie | | Lecture audio du livre En chemin vers soi par Julien Peron #8",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-08-25",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Johnweek2",
+        "titre": "J’adore le podcast C’est quoi le bonheur pour vous?",
+        "texte": "Julien PERON, avec une grande sensibilité et une curiosité bienveillante, guide les conversations de manière fluide et engageante. Il réussit à créer un espace où les invités se sentent à l'aise pour partager leurs expériences personnelles, leurs philosophies de vie et leurs astu…"
+      },
+      {
+        "note": 1,
+        "auteur": "MarySNDE",
+        "titre": "Quel bonheur !",
+        "texte": "Quel bonheur de retrouver Julien sur son podcast ! J’avais adoré son film, et le suis sur Instagram. Ce format d’interview est super agréable et enrichissant ! Merci !!"
+      },
+      {
+        "note": 5,
+        "auteur": "Wendy - Maï futur -",
+        "titre": "Riche",
+        "texte": "Un podcast que j’écoute depuis sa création et dont je ne me lasse pas ! Un grand merci pour tous ces enrichissements qui m’amènent à imaginer qu’un jour moi aussi, je serai à ce micro :) Wendy - Maï futur"
+      }
+    ]
+  }
 }

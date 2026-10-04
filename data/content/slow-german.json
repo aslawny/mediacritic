@@ -26,7 +26,7 @@
     "education"
   ],
   "addedAt": "2026-06-21",
-  "updatedAt": "2026-10-01",
+  "updatedAt": "2026-10-04",
   "episodes_recents": [
     {
       "titre": "Brauchen wir noch Bargeld? – SG 323",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-08",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "us",
+    "tri": "mosthelpful",
+    "releve": "2026-10-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tino B",
+        "titre": "A well crafted podacast",
+        "texte": "This is the best “slow German “ podcast I have encountered… and I have tried many… it is crafted in a way that you have a good balance between easy words and more challenging ones. Annik’s voice is pleasant and clear.…"
+      },
+      {
+        "note": 1,
+        "auteur": "bribro",
+        "titre": "Horribly brainwashed",
+        "texte": "Islam is evil ..you fools that believe this crap are fools indeed"
+      },
+      {
+        "note": 5,
+        "auteur": "QuackyDuck5",
+        "titre": "Puts transcript in description",
+        "texte": "Putting the transcript in the description is a huge plus because it helps listening and I don't have to take any extra steps. It isn't dependent on the autotranscription software either. She has been doing that for a long time and it's useful.…"
+      }
+    ]
+  }
 }

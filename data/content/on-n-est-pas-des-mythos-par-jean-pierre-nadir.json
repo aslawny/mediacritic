@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/on-nest-pas-des-mythos-par-jean-pierre-nadir/id6818211335?uo=2",
       "trackId": 6818211335,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": null
     }
   },
@@ -25,7 +25,7 @@
     "business"
   ],
   "addedAt": "2026-10-02",
-  "updatedAt": "2026-10-02",
+  "updatedAt": "2026-10-04",
   "episodes_recents": [
     {
       "titre": "« J’ai pas pu me payer pendant 5 ans » : L’histoire derrière BlaBlaCar",

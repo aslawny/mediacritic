@@ -26,7 +26,7 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-10-01",
+  "updatedAt": "2026-10-04",
   "episodes_recents": [
     {
       "titre": "Résilience : entre science et mental",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2025-05-02",
-  "frequence_jours": 26
+  "frequence_jours": 26,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "gabysimonet",
+        "titre": "Au top du top, Elites même dans le podcast",
+        "texte": "Ultra inspirant n’arrêtez surtout pas ! Ce serait génial un épisode parlant de la création d’une box de crossfit, des étapes, conseils, grosses erreurs à éviter, prérequis étc.…"
+      },
+      {
+        "note": 5,
+        "auteur": "moimemequejecris",
+        "titre": "Super podcast! Son à perfectionner",
+        "texte": "Excellent podcast que j’attends à chaque fois. Petite remarque sur les niveaux sonores qui peuvent rendre l’écoute difficile, le micro de Willy est top, niveau sonore eau, les autres sont souvent très faibles, ce qui oblige à modifier le niveau d’écoute régulièrement.…"
+      },
+      {
+        "note": 5,
+        "auteur": "PeioLagrele",
+        "titre": "Merci l’équipe",
+        "texte": "Un bon moment d’écoute. Des propos plein de bon sens et de bienveillance. Une super ressource audio! J’ai mis du temps avant d’écouter le premier, maintenant je m’abonne pour tous les connaître !"
+      }
+    ]
+  }
 }

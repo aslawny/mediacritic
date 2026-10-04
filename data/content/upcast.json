@@ -25,7 +25,7 @@
     "retro"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-10-01",
+  "updatedAt": "2026-10-04",
   "episodes_recents": [
     {
       "titre": "Upcast - Rentrée 2026-2027 - Nos conseils post-été",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-11",
-  "frequence_jours": 8
+  "frequence_jours": 8,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "JpMader",
+        "titre": "À consommer sans modération, les PNL du podcast geek culture.",
+        "texte": "Je suis un auditeur assidu de nombreux podcasts et Upcast fait partie de la short list des plus attendus. La complicité, la culture et la bonne humeur de l'équipe font de ce rendez-vous un bon moment de détente et souvent de franche rigolade.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Demaho Croz",
+        "titre": "Mon Podcast préféré du moment",
+        "texte": "ils sont naturels et interessants , ils n'ont pas la grosse tête et ne se la racontent pas , c'est instructif et divertissant ...C'est tout simplement excellent ...merci à toute l'équipe et vivement à une sortie ..hebdo !!!"
+      },
+      {
+        "note": 5,
+        "auteur": "mephcmoi",
+        "titre": "Excellent podcast",
+        "texte": "Vous aimez les jeux vidéo, la musique, le high tech et nouvelles technologie ? Ce podcast est fait pour vous ! Perso je suis fan à 200%. Chapeau à tous les 3, continuez à nous faire aussi bien partager votre passion."
+      }
+    ]
+  }
 }

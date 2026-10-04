@@ -25,5 +25,31 @@
     "culture"
   ],
   "addedAt": "2026-07-18",
-  "updatedAt": "2026-10-01"
+  "updatedAt": "2026-10-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "margonnet",
+        "titre": "Déjà hâte de le réécouter…",
+        "texte": "On m’avait dit beaucoup de bien de “Looking for Mélody”. Et c’est encore mieux que ça. Parfaitement écrit, raconté avec émotion. Un sujet en or qu’il fallait dénicher. Des histoires qui se croisent. Les bons témoins, juste parfaits.…"
+      },
+      {
+        "note": 5,
+        "auteur": "JulyLD",
+        "titre": "À écouter sans modération!",
+        "texte": "Un road trip passionnant, un artiste fascinant. Une enquête très intéressante, très bien menée. On apprend beaucoup de choses sur l’artiste et l’Amérique."
+      },
+      {
+        "note": 5,
+        "auteur": "Jef@@234",
+        "titre": "Génial",
+        "texte": "Une merveille d’écriture, un vrai polar, brillant, pudique, plein d’émotions. Magnifique…et encore plus lorsque l’on aime Gainsbourg"
+      }
+    ]
+  }
 }
