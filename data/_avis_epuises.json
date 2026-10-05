@@ -1,6 +1,6 @@
 {
-  "maj": "2026-10-04",
-  "total": 821,
+  "maj": "2026-10-05",
+  "total": 853,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -2014,6 +2014,12 @@
       "fiche": "fiches/time-to-glow.html"
     },
     {
+      "slug": "time-to-glow-beaute-bien-etre",
+      "titre": "Time To Glow | Beauté & Bien-être",
+      "notes_apple": 246,
+      "fiche": "fiches/time-to-glow-beaute-bien-etre.html"
+    },
+    {
       "slug": "et-parfois-on-gagne",
       "titre": "Et parfois, on gagne",
       "notes_apple": 245,
@@ -2230,6 +2236,12 @@
       "fiche": "fiches/avocats-generation-entrepreneurs.html"
     },
     {
+      "slug": "y-a-plus-de-saisons",
+      "titre": "Y'a plus de saisons",
+      "notes_apple": 106,
+      "fiche": "fiches/y-a-plus-de-saisons.html"
+    },
+    {
       "slug": "grand-reportage",
       "titre": "Grand Reportage",
       "notes_apple": 105,
@@ -2240,6 +2252,12 @@
       "titre": "Sakina Seekers",
       "notes_apple": 103,
       "fiche": "fiches/sakina-seekers.html"
+    },
+    {
+      "slug": "droit-constitutionnel-et-institutions-politiques-cavej-michel-verpaux-2010",
+      "titre": "Droit constitutionnel et institutions politiques (CAVEJ, Michel Verpaux, 2010)",
+      "notes_apple": 100,
+      "fiche": "fiches/droit-constitutionnel-et-institutions-politiques-cavej-michel-verpaux-2010.html"
     },
     {
       "slug": "gouinement-lundi",
@@ -4684,6 +4702,12 @@
       "fiche": "fiches/vintage-arab.html"
     },
     {
+      "slug": "contes-etoiles-de-l-islam",
+      "titre": "Contes Étoilés de l'Islam",
+      "notes_apple": 46,
+      "fiche": "fiches/contes-etoiles-de-l-islam.html"
+    },
+    {
       "slug": "aventures-fiction-discussions-sur-les-comics",
       "titre": "Aventures Fiction, discussions sur les comics",
       "notes_apple": 45,
@@ -4928,6 +4952,174 @@
       "titre": "Hypercondriaque",
       "notes_apple": 43,
       "fiche": "fiches/hypercondriaque.html"
+    },
+    {
+      "slug": "hollywood-french-lovers",
+      "titre": "Hollywood French Lovers",
+      "notes_apple": 43,
+      "fiche": "fiches/hollywood-french-lovers.html"
+    },
+    {
+      "slug": "la-chronique-du-tailleur-julien-scavini",
+      "titre": "La Chronique du Tailleur - Julien Scavini",
+      "notes_apple": 43,
+      "fiche": "fiches/la-chronique-du-tailleur-julien-scavini.html"
+    },
+    {
+      "slug": "le-climat-en-questions",
+      "titre": "Le Climat en Questions",
+      "notes_apple": 43,
+      "fiche": "fiches/le-climat-en-questions.html"
+    },
+    {
+      "slug": "le-grand-studio-rtl",
+      "titre": "Le grand studio RTL",
+      "notes_apple": 43,
+      "fiche": "fiches/le-grand-studio-rtl.html"
+    },
+    {
+      "slug": "le-monde-d-apres-par-reporterre",
+      "titre": "Le Monde d'après par Reporterre",
+      "notes_apple": 43,
+      "fiche": "fiches/le-monde-d-apres-par-reporterre.html"
+    },
+    {
+      "slug": "le-monde-selon-l-ifri",
+      "titre": "Le Monde selon l'Ifri",
+      "notes_apple": 43,
+      "fiche": "fiches/le-monde-selon-l-ifri.html"
+    },
+    {
+      "slug": "les-etats-du-corps",
+      "titre": "LES ÉTATS DU CORPS",
+      "notes_apple": 43,
+      "fiche": "fiches/les-etats-du-corps.html"
+    },
+    {
+      "slug": "nipedu",
+      "titre": "Nipédu",
+      "notes_apple": 43,
+      "fiche": "fiches/nipedu.html"
+    },
+    {
+      "slug": "oussama-le-magnifique",
+      "titre": "Oussama Le Magnifique",
+      "notes_apple": 43,
+      "fiche": "fiches/oussama-le-magnifique.html"
+    },
+    {
+      "slug": "podcast-du-luxe-par-lou-dana",
+      "titre": "Podcast du Luxe par Lou Dana",
+      "notes_apple": 43,
+      "fiche": "fiches/podcast-du-luxe-par-lou-dana.html"
+    },
+    {
+      "slug": "question-existentielle",
+      "titre": "Question existentielle",
+      "notes_apple": 43,
+      "fiche": "fiches/question-existentielle.html"
+    },
+    {
+      "slug": "the-flares-podcasts",
+      "titre": "The Flares - Podcasts",
+      "notes_apple": 43,
+      "fiche": "fiches/the-flares-podcasts.html"
+    },
+    {
+      "slug": "vis-ton-quran",
+      "titre": "Vis ton Quran ✨",
+      "notes_apple": 43,
+      "fiche": "fiches/vis-ton-quran.html"
+    },
+    {
+      "slug": "zelie-le-podcast-femmes-inspirees",
+      "titre": "Zélie - Le Podcast // Femmes inspirées",
+      "notes_apple": 43,
+      "fiche": "fiches/zelie-le-podcast-femmes-inspirees.html"
+    },
+    {
+      "slug": "coeur-de-mere",
+      "titre": "Coeur de mère",
+      "notes_apple": 42,
+      "fiche": "fiches/coeur-de-mere.html"
+    },
+    {
+      "slug": "coupe-au-montage",
+      "titre": "Coupé au montage",
+      "notes_apple": 42,
+      "fiche": "fiches/coupe-au-montage.html"
+    },
+    {
+      "slug": "devenir-developpement-personnel-confiance-et-amour-de-soi",
+      "titre": "Devenir - Développement personnel, confiance et amour de soi.",
+      "notes_apple": 42,
+      "fiche": "fiches/devenir-developpement-personnel-confiance-et-amour-de-soi.html"
+    },
+    {
+      "slug": "fg-chic",
+      "titre": "FG CHIC",
+      "notes_apple": 42,
+      "fiche": "fiches/fg-chic.html"
+    },
+    {
+      "slug": "french-with-panache-interesting-conversations-in-real-french",
+      "titre": "French With Panache - Interesting Conversations in Real French",
+      "notes_apple": 42,
+      "fiche": "fiches/french-with-panache-interesting-conversations-in-real-french.html"
+    },
+    {
+      "slug": "le-podcast-fee-dodo",
+      "titre": "Le Podcast Fée Dodo",
+      "notes_apple": 42,
+      "fiche": "fiches/le-podcast-fee-dodo.html"
+    },
+    {
+      "slug": "les-malefiques-ces-creatures-fantastiques-qui-peuplent-les-contes-en-france",
+      "titre": "Les Maléfiques, ces créatures fantastiques qui peuplent les contes en France",
+      "notes_apple": 42,
+      "fiche": "fiches/les-malefiques-ces-creatures-fantastiques-qui-peuplent-les-contes-en-france.html"
+    },
+    {
+      "slug": "les-rendez-vous-quantiques-amedcine",
+      "titre": "Les rendez-vous quantiques | AMEDCINE",
+      "notes_apple": 42,
+      "fiche": "fiches/les-rendez-vous-quantiques-amedcine.html"
+    },
+    {
+      "slug": "mana-plasma",
+      "titre": "Mana & Plasma",
+      "notes_apple": 42,
+      "fiche": "fiches/mana-plasma.html"
+    },
+    {
+      "slug": "nader-abou-anas",
+      "titre": "Nader Abou Anas",
+      "notes_apple": 42,
+      "fiche": "fiches/nader-abou-anas.html"
+    },
+    {
+      "slug": "porte-danse",
+      "titre": "Porté Danse",
+      "notes_apple": 42,
+      "fiche": "fiches/porte-danse.html"
+    },
+    {
+      "slug": "real-life-french",
+      "titre": "Real Life French",
+      "notes_apple": 42,
+      "fiche": "fiches/real-life-french.html"
+    },
+    {
+      "slug": "renouvelle-toi",
+      "titre": "Renouvelle toi",
+      "notes_apple": 42,
+      "fiche": "fiches/renouvelle-toi.html"
+    },
+    {
+      "slug": "tsunamia-surfez-sur-la-vague-du-changement-apporte-par-l-intelligence-artificiel",
+      "titre": "TsunamIA: surfez sur la vague du changement apporté par l'intelligence artificielle",
+      "notes_apple": 42,
+      "fiche": "fiches/tsunamia-surfez-sur-la-vague-du-changement-apporte-par-l-intelligence-artificiel.html"
     }
   ]
 }

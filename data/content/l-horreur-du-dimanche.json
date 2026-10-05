@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-07-26",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Kareex",
+        "titre": "Mais quelle fine équipe!!!",
+        "texte": "Pas du genre à laisser des avis et des étoiles, mais là, ça me tarabustait depuis quelques épisodes. Léo, le gars qui en profite toujours pour mettre une petite dragée au grand capital (mention très très bien pour ça).…"
+      },
+      {
+        "note": 1,
+        "auteur": "Mortsven",
+        "titre": "OK…",
+        "texte": "Donc « Predator » est très mauvais, mais « Prey » est super, tout est dit… Et surtout, sont cités tous les termes woke du moment, « masculinité », « patriarcat », »racisé », etc… Pas pour moi."
+      },
+      {
+        "note": 5,
+        "auteur": "Rachountaï",
+        "titre": "Ma safe place de l’horreur 🖤",
+        "texte": "J’adore cette équipe hyper sympathique, intéressante et drôle. J’aime aussi leurs thèmes parfois tirés par les cheveux et pas toujours respectés, je ne connais pas la plupart des films qu’ils présentent et j’enchaîne donc les bonnes découvertes.…"
+      }
+    ]
+  }
 }

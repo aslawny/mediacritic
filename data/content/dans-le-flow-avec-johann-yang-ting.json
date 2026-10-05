@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-28",
-  "frequence_jours": 3
+  "frequence_jours": 3,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mathieu Vénisse",
+        "titre": "Bien plus que de l’entrepreneuriat, une philosophie !",
+        "texte": "Je pensais découvrir uniquement des conseils pour entreprendre mais j’ai découvert bien plus ! Johann aborde beaucoup de thématiques connexes à la création d’entreprise : développement personnel, confiance en soi et méthodes d’organisation.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Cécilia Mere",
+        "titre": "De grande qualité pour les projets qui tiennent à cœur",
+        "texte": "Johann est un vrai créateur d'élan tout en restant arrimé au sol, au concret, avec son propre état d'esprit. Beaucoup de respect et d'empathie pour les personnes à qui il s'adresse. Ça n'empêche pas un petit coup de gueule ou un petit délire bien sympathique de temps à autre.…"
+      },
+      {
+        "note": 5,
+        "auteur": "FRIPON1969",
+        "titre": "Podcast inspiré et inspirant",
+        "texte": "Bjr Johann, J’ai tout simplement adoré ce podcast. C’est l’un de mes préférés parmi ceux que j’ai écouté. Ton authenticité, tes anecdotes et tes enseignements me sont utiles, me font du bien moralement et m’incitent à réfléchir et à revoir ou mettre en place certains « aménagemen…"
+      }
+    ]
+  }
 }

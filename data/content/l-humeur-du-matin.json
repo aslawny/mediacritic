@@ -24,5 +24,31 @@
     "culture",
     "société"
   ],
-  "updatedAt": "2026-10-04"
+  "updatedAt": "2026-10-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Celine AKL",
+        "titre": "Arrêt de la chronique",
+        "texte": "En tant qu’auditrice fidèle de France Culture je regrette la décision de supprimer ce programme. Cette chronique constituait de loin mon rendez-vous préféré, suivie de près par « L’invité des Matins ».…"
+      },
+      {
+        "note": 1,
+        "auteur": "Venu d'ailleurs",
+        "titre": "Conversation de bistrot",
+        "texte": "À quel titre l’opinion de l’omniprésent Guillaume Erner pourrait-elle intéresser l’auditeur sachant auditer ?"
+      },
+      {
+        "note": 5,
+        "auteur": "chhhriii",
+        "titre": "Réflexion matinale en famille",
+        "texte": "Comme chaque matin, en famille, nous nous retrouvons au petit déjeuner avec l’humeur du jour de Guillaume (comme on se permet de l’appeler entre nous tant il fait partie de nos vies) et ce matin grand débat avec mon fils de 17 ans qui a été choqué par le dessin de Charli mais éga…"
+      }
+    ]
+  }
 }

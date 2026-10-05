@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-06-25",
-  "frequence_jours": 66
+  "frequence_jours": 66,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "liloubusybee",
+        "titre": "Bravo! C’est addictif !!",
+        "texte": "Merci et un grand bravo!! Le terrain de jeu est très riche et je suis persuadée que vous allez nous faire voyager dans le temps très prochainement.. avec d’autres fabuleuses histoires..…"
+      },
+      {
+        "note": 3,
+        "auteur": "Pascal75017",
+        "titre": "Podcast pas assez prolifique",
+        "texte": "Il y a tant de choses a raconter sur Versailles. On aimerait des podcasts, des conférences longues et riches d’informations sur des sujets pointus. Merci!"
+      },
+      {
+        "note": 5,
+        "auteur": "Adiejeh",
+        "titre": "Superbe !",
+        "texte": "Juste un mot : excellent ! Tout est prenant : le contenu bien sûr, le récit, la diction, la voix ... une réussite. Mais à quand la suite ?! Je l’attends avec une réelle impatience."
+      }
+    ]
+  }
 }
