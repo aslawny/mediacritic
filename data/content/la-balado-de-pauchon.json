@@ -25,25 +25,29 @@
   "addedAt": "2026-08-14",
   "updatedAt": "2026-10-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "ch",
+    "tri": "mostrecent",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Un navigateur du cosmos",
+        "titre": "Pas à pas",
+        "texte": "Merveilleux ce cheminement fait de pas, de rencontres et de découvertes. Une marche qui est une vie en miniature qui ne manque pas de passer par l’essentiel, ces liens que nous tissons avec nos semblables, la terre et le ciel.…"
+      },
+      {
+        "note": 5,
+        "auteur": "marie woerle",
+        "titre": "Jolis partages",
+        "texte": "J ai ecouté pendant deux semaines ces podcasts. J ai adoré ce mix de temoignages perso et des personnes que vous avez rencontrées. Cela m a fait rêver et peut être grace à vous je vais me lancer sur le camino. J attends vos prochains podcasts…..…"
+      },
+      {
+        "note": 5,
+        "auteur": "la fille du ciel",
+        "titre": "Véronique",
+        "texte": "On adore écouter ce podcast, merci du fond du coeur de nous emmener avec vous Monsieur Pauchon!!! Nous rencontrons plein de gens vrais, vous êtes bienveillant, et nous parcourant les km avec vous. Bisous de Zürich !"
+      }
     ]
   },
   "episodes_recents": [

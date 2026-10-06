@@ -29,25 +29,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-10-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Emeline 1190",
+        "titre": "Un podcast magique !",
+        "texte": "Merci du fond du cœur Clémentine pour ce merveilleux podcast qui m’a fait et continue de me faire beaucoup de bien ! Je suis devenue complètement accroc …"
+      },
+      {
+        "note": 3,
+        "auteur": "Sarahdl098",
+        "titre": "Oui mais...",
+        "texte": "Autant je souscris tout à fait à l’analyse de l’interviewé sur les enfants autant je trouve dommage qu’elle s’exprime de la sorte sur la situation des femmes battues, tuées. Feminicide ne concerne pas UNIQUEMENT les femmes mortes sous les coups de leur mari.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Amandine Schneider",
+        "titre": "Mon podcast préféré",
+        "texte": "Merci de m'avoir ouvert les portes du monde du podcast, c'est avec La Matrescence que j'ai commencé et depuis on ne m'arrête plus ! Tous les épisodes sont plus intéressants les uns que les autres, me plongent dans l'univers qui m'anime le plus en ce moment, et me poussent vers mo…"
+      }
     ]
   },
   "episodes_recents": [

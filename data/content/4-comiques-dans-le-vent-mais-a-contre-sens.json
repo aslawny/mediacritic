@@ -50,5 +50,25 @@
     }
   ],
   "derniere_activite": "2024-01-03",
-  "frequence_jours": 144
+  "frequence_jours": 144,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mosthelpful",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Guyom883",
+        "titre": "Bonne soirée entre amis !",
+        "texte": "Super podcast, on a l’impression de passer une soirée entre amis ou on apprend à se connaître et on se tape des barres ! Jamais redondant. Bravo Seb on note une belle évolution dans l’animation et la présentation des épisodes.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Bigay",
+        "titre": "Vrais fous rires !!",
+        "texte": "Super podcast où l’on ris bien !! Où l’on découvre des humoristes moins connus pour certains. Bravo Seb."
+      }
+    ]
+  }
 }

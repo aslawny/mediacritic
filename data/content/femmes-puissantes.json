@@ -26,25 +26,29 @@
   ],
   "updatedAt": "2026-10-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Critical Mamba",
+        "titre": "Podcast portée par une femme forte",
+        "texte": "Madame Salamé, Même si je ne suis pas d’accord sur tout, je voulais vous remercier pour votre engagement, nous en avons besoin ! Vous êtes une professionnelle, courageuse et acerbe quand il le faut et permettez moi de vous dire que j’apprécie le ton posez que vous adoptez dans vo…"
+      },
+      {
+        "note": 1,
+        "auteur": "j.rss",
+        "titre": "Copie ratée",
+        "texte": "Aller écouter La Poudre si vous souhaitez entendre des femmes puissantes interviewées par une journaliste puissante"
+      },
+      {
+        "note": 5,
+        "auteur": "stephtosatti",
+        "titre": "Episode Christiane Taubira",
+        "texte": "J’aime beaucoup le journalisme de Léa Salamé qui arrive à driver avec un style bien à elle ces podcast tout en donnant un espace généreux et libre à ces femmes au parcours admirable. La force féminine est exprimée dans sa complexité et permet à toutes de s’en inspirer.…"
+      }
     ]
   }
 }

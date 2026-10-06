@@ -27,25 +27,29 @@
   "addedAt": "2026-07-06",
   "updatedAt": "2026-10-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mostrecent",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "itshajaritaa",
+        "titre": "Baraka lahu fiki",
+        "texte": "J’aime troooop écouter tes podcasts, c’est toujours un moment de réflexion et d’inspiration pour moi. Tes discussions sur l’islam et la vie en général sont vraiment enrichissantes et me font beaucoup réfléchir.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Hidayet.T",
+        "titre": "Baarak’‎الله’ufik",
+        "texte": "As Salam Aleykoum j’écoute tout le temps tes podcasts et je les adore. Ils sont tellement apaisants et ça donne vraiment envie de se rapprocher de la religion Baarak’‎الله’ufik continue comme ça 🫶🏻🫶🏻"
+      },
+      {
+        "note": 5,
+        "auteur": "🔆 بسمة",
+        "titre": "Commentaire",
+        "texte": "Barak الله o fik ma soeur tu es vraiment une source d’inspiration qu’ الله te préserve et t’accorde sa miséricorde. Continue comme ça ma soeur et prend soin de toi surtout !! 💗🧕🏼"
+      }
     ]
   },
   "episodes_recents": [

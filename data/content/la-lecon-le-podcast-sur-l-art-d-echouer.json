@@ -28,25 +28,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-10-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "MarinetteZebre",
+        "titre": "Corfu haha",
+        "texte": "Bonjour Pauline, je suis tombée complètement par hasard sur votre podcast qui, je dois bien le dire, est une bouffée d’air frais ! Les témoignages sont profonds et sincères, des personnes qui se livrent dans leur entièreté, et franchement on a tous besoin d’entendre que ça arrive…"
+      },
+      {
+        "note": 1,
+        "auteur": "Chrkskfkdjd",
+        "titre": "Nul",
+        "texte": "Coucou boules quies pour l’avion au lieu d’embêter la petite fille"
+      },
+      {
+        "note": 5,
+        "auteur": "Luca025",
+        "titre": "J’ad🤩re",
+        "texte": "Je viens de découvrir cette série de poadcast et j'adore littéralement. Déjà l’idée est top mais en plus Pauline est pertinente et bienveillante, ce qui n’enlève rien à ces moments de partage.…"
+      }
     ]
   },
   "episodes_recents": [

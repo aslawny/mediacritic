@@ -51,25 +51,29 @@
   "derniere_activite": "2026-04-01",
   "frequence_jours": 106,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Melaaasl",
+        "titre": "Que الله te récompense",
+        "texte": "Merci, merci Jazak Allahu kheir ma sœur, tu as réussi à me donner un peu de motivation pour me reprendre en main après de dure épreuve, vraiment merci, une demande à te faire ; fait plus de podcast s’il te plaît !!🥰🥰 vraiment c’est un délice tout ce que tu dis, et si tu pourrais…"
+      },
+      {
+        "note": 5,
+        "auteur": "Faatouuu",
+        "titre": "Incroyable",
+        "texte": "Ça fait un moment que j’avais enregistré le podcast car la vibes me ressemblait beaucoup mais je n’avais pas eu l’occasion de l’écouter et je suis dans les transports actuellement en train d’écouter un des épisodes et soubhanAllah 🥲🥲 c’est extrêmement passionnant et la voix est h…"
+      },
+      {
+        "note": 5,
+        "auteur": "Tvsprv",
+        "titre": "🫶🏽",
+        "texte": "Sa voix un apaisement, une source pure en étant plus âgé que toi je ressens à travers tes paroles ce que tu as vécu .. je suis tellement touchée et je me sens tellement concernée, Al hamdoulilah on est des piliers.. Jaziik’Allah🤲🏽🤍"
+      }
     ]
   }
 }

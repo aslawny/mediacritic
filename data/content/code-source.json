@@ -50,25 +50,29 @@
   "derniere_activite": "2026-08-28",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "papadalex",
+        "titre": "Danse avec les stars",
+        "texte": "J’adore Code Source, c’est un excellent podcast d’information, même vu de Belgique. La forme et le fond sont excellents. Par contre donner tant d’importance à cette polémique à la noix de DALS, je ne sais pas si c’est digne de Code Source."
+      },
+      {
+        "note": 5,
+        "auteur": "valvict",
+        "titre": "Le meilleur podcast",
+        "texte": "Tous les épisodes sont extrêmement bien faits : factuels et fluides, clairs et précis, agréables à l’écoute, traitement intelligent grâce à des questions bien posées et structurées. Bravo !"
+      },
+      {
+        "note": 5,
+        "auteur": "Miyah2345",
+        "titre": "Mon préféré",
+        "texte": "De loin le meilleur des podcasts, tout est parfait, les musiques de fond , la durée, les thématiques abordées. Chaque podcast est de qualité"
+      }
     ]
   }
 }

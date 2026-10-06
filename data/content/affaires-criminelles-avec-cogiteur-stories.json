@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-27",
-  "frequence_jours": 2
+  "frequence_jours": 2,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "vbiancat",
+        "titre": "Détaillé et bien narré",
+        "texte": "Bravo pour ce podcast ! Les détails concernant les victimes et les criminels permettent de mettre en lumière tous les rouages qui se mettent en place pour le passage à l’acte. J’ai particulièrement apprécié l’épisode sur Patrice Allègre.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Chris_Bender",
+        "titre": "Pub",
+        "texte": "Nul car pub, il y en a suffisamment à la télé pour en plus les entendre en podcast"
+      },
+      {
+        "note": 5,
+        "auteur": "Elsa2603",
+        "titre": "Génial",
+        "texte": "Intonation et diction parfaite, histoires française et étrangères bien documentées avec beaucoup de détails, je recommande vivement ! Merci pour ton travail ! Mention spéciale pour ton « humour » (on se comprends) JE VOTE POUR PLUS DE PODCAST DE PLUS D’UNE HEURE ! haha"
+      }
+    ]
+  }
 }

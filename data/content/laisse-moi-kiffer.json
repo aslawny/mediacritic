@@ -26,25 +26,29 @@
   "addedAt": "2026-05-25",
   "updatedAt": "2026-10-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Carnale Carnage",
+        "titre": "Le visage de vos voix, un voyage dans la 5ème dimension !",
+        "texte": "Je vous balance enfin vos 5 étoiles bien méritées et ce petit commentaire encore plus improbable que la modestie chez Kalindi ! Grande consommatrice des podcasts Madmoizelle en tout genre, je n’écoute que la version audio et me délecte donc de la personnalité des nouvelles recrue…"
+      },
+      {
+        "note": 1,
+        "auteur": "alphonsinette",
+        "titre": "Avec une nouvelle animatrice",
+        "texte": "de droite, c'est devenu tellement ennuyeux... on ne rit plus... on entend des horreurs comme assumer fièrement la non assistance à personne potentiellement en danger... c'est vraiment plus possible, je me désabonne."
+      },
+      {
+        "note": 5,
+        "auteur": "mère-slip",
+        "titre": "Anecbof de star",
+        "texte": "BON maintenant ça suffit les bêtises : ça va faire bientôt deux ans que j’écoute LMK, mais que comme l’élève studieuse que je suis j’ai voulu reprendre au début.…"
+      }
     ]
   },
   "episodes_recents": [

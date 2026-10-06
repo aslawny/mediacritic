@@ -27,25 +27,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-10-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "LeDoc974",
+        "titre": "Trop de mini épisodes",
+        "texte": "Quel est l’intérêt de découper chaque émission par autant de minuscules passages de 1 à 2 min? C’est une perte de temps de scroller pour trouver l’intégrale. On n’est pas sur Tiktok ici !"
+      },
+      {
+        "note": 1,
+        "auteur": "D’où-l’on-ne-revient-pas",
+        "titre": "Adieu les GG",
+        "texte": "barbara lefevre 3 fois dans la même semaine : trop c’est trop !!!"
+      },
+      {
+        "note": 5,
+        "auteur": "Cr 75",
+        "titre": "Pb de téléchargement",
+        "texte": "Pourquoi les téléchargements sont bloqués depuis vendredi c est dommage?"
+      }
     ]
   },
   "episodes_recents": [

@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-29",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "ch",
+    "tri": "mosthelpful",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Schlaraff",
+        "titre": "Très bien",
+        "texte": "Belles adaptations de contes, musiques bien choisies, la voix de conteuse est un peu trop travaillée à mon goût mais le ton est juste et ma fille de 4 ans adore."
+      },
+      {
+        "note": 5,
+        "auteur": "Le boss lamine yamal",
+        "titre": "Biennnnnnnnn",
+        "texte": "Incroyable 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸❤️❤️❤️❤️❤️💋💋🌈🌈🌈🌈😘🎁🎁😘😘😘😀😀😀💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💶💶💶💶💶💶💶💶💶💶💶💶💴💴💴💴💴💴💴💴💴💵💵💵💵💵💵💵💵💵💰💰💰💰💰💰💰💰💰💸💸💸💰💸💸💸💰💰💰💰🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑💍💍🩶🩶🩶"
+      },
+      {
+        "note": 5,
+        "auteur": "Lolotte22886",
+        "titre": "trop bien 🤩",
+        "texte": "💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯 C’est trop bien 🤩 j’adore les histoires.c’est les meilleurs histoires de monde 🌎 🥹"
+      }
     ]
   }
 }

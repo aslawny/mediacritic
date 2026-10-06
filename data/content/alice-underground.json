@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-05-27",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "La crotte de n",
+        "titre": "Incroyable je n’ai que 12 ans",
+        "texte": "Je n’ai que 12 ans et cette humour est incroyable et surtout on remarque que vous Alice vous connaissez très bien les gens que vous interroger ce qui nous donne un très bonne atmosphère de convivialité ce qui donne l’impression d’être dans le podcast alors aujourd’hui je m’adress…"
+      },
+      {
+        "note": 1,
+        "auteur": "PorteCoulissante",
+        "titre": "C’est ciao",
+        "texte": "Passer de Flavien Berger ou Oklou à Stéphane Bern c’est juste pas possible"
+      },
+      {
+        "note": 5,
+        "auteur": "86 prime",
+        "titre": "Vraiment bien",
+        "texte": "C’est vraiment incroyable je met une étoile juste pour vous faire chiez 🤣Orelsan t’a voix me fume t’est le rappeur le plus authentique ça te dirai de pas me signer un autographe et de ne pas faire une photo ensemble (ceux qui ont la réf )"
+      }
+    ]
+  }
 }

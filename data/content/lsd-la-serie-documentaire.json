@@ -26,25 +26,29 @@
   ],
   "updatedAt": "2026-10-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "HeinisV31",
+        "titre": "Pompon, pipi, Pompon-pidou",
+        "texte": "J’adore absolument LSD, une de mes émissions radio favorites Une fois n’est pas coutume, je suis resté sur ma faim avec les 4 épisodes sur la mort de Pompidou.…"
+      },
+      {
+        "note": 1,
+        "auteur": "foucaut nat.",
+        "titre": "J’aurais rêvé d’etre militaire",
+        "texte": "L’envoi de ce podcast est un vrai chaos.la confusion totale dans l’ordre des épisodes !!!!!"
+      },
+      {
+        "note": 5,
+        "auteur": "Calll_15",
+        "titre": "Sur le spécisme",
+        "texte": "Merci pour ce travail absolument remarquable sur un sujet qu’on préfère souvent balayer sous le tapis… Chaque intervention est d’une pertinence redoutable : ça questionne, ça bouscule, ça émeut, ça secoue même les certitudes les mieux attachees.…"
+      }
     ]
   }
 }

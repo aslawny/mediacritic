@@ -27,25 +27,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-10-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "droopymonax",
+        "titre": "Toujours génial, bravo !",
+        "texte": "Bonjour Aline, je ne sais pas si tu liras ce commentaire mais peu importe ! Juste un mot pour te dire bravo, et merci. J’écoute ton podcast depuis des années, je consommes ton contenu réseau nl etc depuis aussi longtemps.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Miranda-K",
+        "titre": "Pas sur les réseaux mais j’adore!!!",
+        "texte": "j’ai 62 ans… et pas du tout envie d’arrêter de travailler (pas sur les réseaux😞) un peu tard pour le coaching avec votre équipe mais je m’autorise a écouter votre podcast depuis le début que j’adore! La peur… on l’a tous… mais le courage, la volonté, la discipline et la direction…"
+      },
+      {
+        "note": 5,
+        "auteur": "Thomas taaacplus",
+        "titre": "511 épisodes plus tard",
+        "texte": "Ça y est Aline, j’en reviens pas je suis à jour, 15 mars 2025, j’ai écouté les 511 épisodes. Je voulais attendre d’avoir écouté tous les épisodes avant d’écrire un commentaire (c’est pas ouf comme raisonnement d’ailleurs…).…"
+      }
     ]
   },
   "episodes_recents": [

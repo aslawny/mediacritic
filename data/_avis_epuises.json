@@ -1,6 +1,6 @@
 {
-  "maj": "2026-10-05",
-  "total": 853,
+  "maj": "2026-10-06",
+  "total": 870,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -142,6 +142,12 @@
       "fiche": "fiches/tais-toi-aka-t-es-toi.html"
     },
     {
+      "slug": "a-voix-nue",
+      "titre": "A voix nue",
+      "notes_apple": 1499,
+      "fiche": "fiches/a-voix-nue.html"
+    },
+    {
       "slug": "les-grandes-gueules",
       "titre": "Les Grandes Gueules",
       "notes_apple": 1497,
@@ -274,6 +280,12 @@
       "fiche": "fiches/le-podcast-des-maternelles.html"
     },
     {
+      "slug": "affaires-etrangeres",
+      "titre": "Affaires étrangères",
+      "notes_apple": 1112,
+      "fiche": "fiches/affaires-etrangeres.html"
+    },
+    {
       "slug": "culture-2000",
       "titre": "Culture 2000",
       "notes_apple": 1054,
@@ -346,6 +358,12 @@
       "fiche": "fiches/olma.html"
     },
     {
+      "slug": "10000-pas-saison-4",
+      "titre": "10000 PAS - SAISON 4",
+      "notes_apple": 956,
+      "fiche": "fiches/10000-pas-saison-4.html"
+    },
+    {
       "slug": "sport-sante-nutrition-podcast",
       "titre": "Sport Santé Nutrition Podcast",
       "notes_apple": 955,
@@ -374,6 +392,12 @@
       "titre": "Mourir Moins Con",
       "notes_apple": 941,
       "fiche": "fiches/mourir-moins-con.html"
+    },
+    {
+      "slug": "after-hate",
+      "titre": "After Hate",
+      "notes_apple": 932,
+      "fiche": "fiches/after-hate.html"
     },
     {
       "slug": "secrets-d-histoire",
@@ -736,6 +760,12 @@
       "fiche": "fiches/meres.html"
     },
     {
+      "slug": "a-suivre-histoires-et-series-a-binger",
+      "titre": "A suivre : histoires et séries à binger",
+      "notes_apple": 614,
+      "fiche": "fiches/a-suivre-histoires-et-series-a-binger.html"
+    },
+    {
       "slug": "podcast-enfant-nemrod-une-histoire-pour-les-enfants-et-leurs-parents",
       "titre": "Podcast enfant - Nemrod, une histoire pour les enfants et leurs parents",
       "notes_apple": 612,
@@ -818,6 +848,12 @@
       "titre": "Peak TV",
       "notes_apple": 568,
       "fiche": "fiches/peak-tv.html"
+    },
+    {
+      "slug": "a-la-recherche-du-thon-a-la-catalane",
+      "titre": "A la recherche du thon à la catalane",
+      "notes_apple": 568,
+      "fiche": "fiches/a-la-recherche-du-thon-a-la-catalane.html"
     },
     {
       "slug": "faites-des-gosses",
@@ -938,6 +974,12 @@
       "titre": "Legend Ladies",
       "notes_apple": 507,
       "fiche": "fiches/legend-ladies.html"
+    },
+    {
+      "slug": "100-hondelatte",
+      "titre": "100% HONDELATTE",
+      "notes_apple": 506,
+      "fiche": "fiches/100-hondelatte.html"
     },
     {
       "slug": "studio404",
@@ -1340,6 +1382,12 @@
       "titre": "Les dents et dodo",
       "notes_apple": 354,
       "fiche": "fiches/les-dents-et-dodo.html"
+    },
+    {
+      "slug": "allons-y-voir",
+      "titre": "Allons-y voir !",
+      "notes_apple": 353,
+      "fiche": "fiches/allons-y-voir.html"
     },
     {
       "slug": "l-equipe-du-soir",
@@ -1756,6 +1804,12 @@
       "fiche": "fiches/les-batisseurs.html"
     },
     {
+      "slug": "affaires-de-business",
+      "titre": "Affaires de business",
+      "notes_apple": 275,
+      "fiche": "fiches/affaires-de-business.html"
+    },
+    {
       "slug": "qui-c-est-qui-commande",
       "titre": "Qui c'est qui commande ?",
       "notes_apple": 274,
@@ -1978,6 +2032,12 @@
       "fiche": "fiches/proxi-jeux.html"
     },
     {
+      "slug": "alterhis-et-si-l-histoire-s-etait-passee-differemment",
+      "titre": "AlterHis: Et si l'histoire s'était passée différemment?",
+      "notes_apple": 247,
+      "fiche": "fiches/alterhis-et-si-l-histoire-s-etait-passee-differemment.html"
+    },
+    {
       "slug": "choses-a-savoir-tech",
       "titre": "Choses à Savoir TECH",
       "notes_apple": 246,
@@ -2074,16 +2134,58 @@
       "fiche": "fiches/les-tauliers.html"
     },
     {
+      "slug": "adapte-moi-si-tu-peux",
+      "titre": "Adapte-Moi Si Tu Peux",
+      "notes_apple": 232,
+      "fiche": "fiches/adapte-moi-si-tu-peux.html"
+    },
+    {
+      "slug": "abcd",
+      "titre": "ABCD",
+      "notes_apple": 226,
+      "fiche": "fiches/abcd.html"
+    },
+    {
+      "slug": "1000",
+      "titre": "1000%",
+      "notes_apple": 212,
+      "fiche": "fiches/1000.html"
+    },
+    {
+      "slug": "24fps",
+      "titre": "24FPS",
+      "notes_apple": 208,
+      "fiche": "fiches/24fps.html"
+    },
+    {
       "slug": "la-serie-musicale",
       "titre": "La Série musicale",
       "notes_apple": 200,
       "fiche": "fiches/la-serie-musicale.html"
     },
     {
+      "slug": "ai-club",
+      "titre": "AI Club",
+      "notes_apple": 176,
+      "fiche": "fiches/ai-club.html"
+    },
+    {
+      "slug": "2030-glorieuses",
+      "titre": "2030 Glorieuses",
+      "notes_apple": 175,
+      "fiche": "fiches/2030-glorieuses.html"
+    },
+    {
       "slug": "bistrot-gravier-gravel-bikepacking",
       "titre": "Bistrot Gravier - Gravel & Bikepacking",
       "notes_apple": 174,
       "fiche": "fiches/bistrot-gravier-gravel-bikepacking.html"
+    },
+    {
+      "slug": "6-and-daz",
+      "titre": "6 and Daz",
+      "notes_apple": 169,
+      "fiche": "fiches/6-and-daz.html"
     },
     {
       "slug": "manifeste",

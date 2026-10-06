@@ -28,25 +28,29 @@
   "addedAt": "2026-05-25",
   "updatedAt": "2026-10-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 4,
+        "auteur": "MehdiHusain",
+        "titre": "Attention. Gens énervants.",
+        "texte": "Si vous aimez les étalages d'opinions lapidaires. Si vous aimez les démonstrations par l'absurde. Si vous aimez la mauvaise foi. Si vous aimez écouter des gens qui s'écoutent parler. Si vous aimez le mauvais esprit. Si vous aimez les traits d'esprit.…"
+      },
+      {
+        "note": 1,
+        "auteur": "mynicknameisDS",
+        "titre": "épisode tronqué!",
+        "texte": "l’e podcast du 9 fév. ne dure que 22mn! Pourriez-vous svp rendre les autre 33mn disponible? merci d’avance"
+      },
+      {
+        "note": 4,
+        "auteur": "Johan Vandelanote",
+        "titre": "Faites votre choix !",
+        "texte": "J’aime bien lire le livre et après écouter en podcast la critique pour voir de qui je partage l’avis. :-)"
+      }
     ]
   }
 }

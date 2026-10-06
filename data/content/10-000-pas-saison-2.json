@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2024-09-01",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Strapped Up Paco",
+        "titre": "Merci Raptor pour les travaux. La jeunesse française est chanceuse de t’avoir.",
+        "texte": "Je te suis depuis tes premières vidéos YouTube, j’avais 15 ans. Je ne sais pas ce que je serais devenu sans ton influence… En tout cas aujourd’hui j’ai des succès et je compte bien tout déchirer. Je n’en suis qu’à mes débuts mais j’irai loin ⚡️.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Laeti la souris",
+        "titre": "Pas intéressant",
+        "texte": "Le ton employé et les sous-entendus sont décevants☹️. De la discussion de café… éteignez et sortez de là 🤷🏼‍♀️"
+      },
+      {
+        "note": 5,
+        "auteur": "Pijomex",
+        "titre": "Quand la saison 2 est encore meilleure que la saison 1",
+        "texte": "Je n’ai pas terminé la saison 2, mais le format est excellent. Je me suis mis à faire les devoirs de la semaine dans le cadre du challenge, mais j’ai conservé plusieurs habitudes jusqu’à maintenant. Je ne sais pas quoi dire à par merci pour ce bijou.…"
+      }
+    ]
+  }
 }

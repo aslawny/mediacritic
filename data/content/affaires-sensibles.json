@@ -26,5 +26,31 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-04"
+  "updatedAt": "2026-10-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "sverove",
+        "titre": "La politique Radio France, c’est nul !",
+        "texte": "On ne va pas multiplier les applications de podcast : on écoute autre chose que les podcasts Radio France. Il me semble que France Inter est synonyme d’ouverture à tous de la culture et de l’information, pas de renfermement sur soi (100 % Radio France)."
+      },
+      {
+        "note": 1,
+        "auteur": "nadalyia",
+        "titre": "Pourquoi vous faites ça ?",
+        "texte": "Pourquoi des chansons horribles qui durent durent durent ???"
+      },
+      {
+        "note": 5,
+        "auteur": "Moranguita mkm",
+        "titre": "Parfait pour bricoler",
+        "texte": "OK Monsieur Drouelle se positionne politiquement ou affiche un parti pris, et pourquoi pas? Les contenus sont variés, et les épisodes nous apprennent toujours quelque chose. J’adore dans mes journées bricolage et rangement."
+      }
+    ]
+  }
 }

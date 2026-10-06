@@ -52,25 +52,29 @@
   "derniere_activite": "2026-06-25",
   "frequence_jours": 24,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "ch",
+    "tri": "mosthelpful",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "NiD_3",
+        "titre": "Bonne qualité de présentation et de podcast !",
+        "texte": "Salut Éric, je souhaitais commencé par te remercier pour ton contenu motivant et inspirant qui aide beaucoup de personne à se lancer de le sport et trouver la marche à suivre pour le faire.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Hugo.sc",
+        "titre": "Podcast",
+        "texte": "Eric, tes métaphores me font à chaque fois bien rigoler surtout quand tu te rends compte qu’elles sont claquées ! Enfin bref, petit feed-back pour te dire que j’apprécie ton podcast et que du bas de mes 17ans j’ai beaucoup de plaisir à boire ton savoir et à écouter comment tu as…"
+      },
+      {
+        "note": 5,
+        "auteur": "FéféLeKéké",
+        "titre": "Déjà un classique",
+        "texte": "Étant déjà fan de ta chaîne YouTube, je me trouve être tombé amoureux de ton Podcast. Ce format est très plaisant avec ta personne car on sens que tu es vraiment quelqu’un de passionné et intéressant qui prend le temps d’apprendre et de comprendre comparé à d’autres qui se conten…"
+      }
     ]
   }
 }

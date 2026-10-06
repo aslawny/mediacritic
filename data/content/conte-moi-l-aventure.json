@@ -53,25 +53,29 @@
   "derniere_activite": "2026-08-19",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Gamer Mbappé🤙🏻🎮🏆",
+        "titre": "Yasmine",
+        "texte": "🩷❤️🧡💛💚🩵💙🩷❤️🧡💛💚🩵💙🩷❤️🧡💛💚🩵💙🩷❤️🧡💛💚🩵💙🩷❤️🧡💛💚🩵💙🩷❤️🧡💛💚🩵💙🩷❤️🧡💛💚🩵💙🩷❤️🧡💛💚🩵💙🩷❤️🧡💛💚🩵💙🩷❤️🧡💛💚🩵💙🩷❤️🧡💛💚🩵💙🩷❤️🧡💛💚🩵💙🩷❤️🧡💛💚🩵💙🩷❤️🧡💛💚🩵💙🩷❤️🧡💛💚🩵💙🩷❤️🧡💛💚🩵💙🩷❤️🧡💛💚🩵💙🩷❤️🧡💛💚🩵💙🩷❤️🧡💛💚🩵💙🩷❤️🧡💛💚🩵💙🩷❤️🧡💛💚🩵💙🩷❤️🧡💛💚🩵💙🩷❤️🧡💛💚🩵💙🩷❤️🧡💛💚🩵💙🩷❤️🧡💛💚🩵💙🩷❤️🧡💛💚🩵💙🩷❤️🧡💛💚🩵💙🩷❤️🧡💛💚🩵💙🩷❤️🧡💛💚🩵💙🩷❤️🧡💛💚🩵💙🩷❤️🧡💛💚🩵💙🩷❤️🧡💛💚🩵💙🩷❤️🧡💛💚🩵💙🩷❤️🧡💛💚🩵💙🩷❤️🧡💛💚🩵💙…"
+      },
+      {
+        "note": 1,
+        "auteur": "🥷🏻🍡🍥🍙🍱",
+        "titre": "très bien",
+        "texte": "les histoires sont très bien et très intéressante ,j’ai hâte qu’il y en ait de nouvelles"
+      },
+      {
+        "note": 5,
+        "auteur": "Bibi8mars",
+        "titre": "C’est super",
+        "texte": "J’adore, mais mettez des histoires d’amoureux Ça va vous faites déjà mais encore plus et aussi comme a dit l’autre mettait des histoires Disney Vous pourriez faire sur la mythologie grecque/ romaine . C’est incroyable et ne vous arrêtez surtout pas …"
+      }
     ]
   }
 }

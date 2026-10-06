@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2021-11-01",
-  "frequence_jours": 50
+  "frequence_jours": 50,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mosthelpful",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "bolicccco",
+        "titre": "bravo et continuer",
+        "texte": "mission /6 a été excellent - afin un peu moins de sentiment envers l'appleisme - certe je suis un adepte de l'ectronique que favoritisme patriotique envers une quelque marque bref, continuer à faire de l'excellence dans votre folie"
+      },
+      {
+        "note": 5,
+        "auteur": "Superchno",
+        "titre": "Interessant",
+        "texte": "Un podcast tres interessant sur l'actualité par des \"anciens\" du metier. Plusieurs debats sur des sujets divers et variés toujours agreable a suivre. Egalements mentions speciales sur l'emission avec l'astronaute et sur Miyazaki."
+      },
+      {
+        "note": 5,
+        "auteur": "yschwen",
+        "titre": "Très bons podcasts",
+        "texte": "Des papys geeks qui lancent des missions qui se déroulent sans accroc. Ça parle de tout. Petite mention aux épisodes sur la conquête spatiale. Vivement la suite."
+      }
+    ]
+  }
 }

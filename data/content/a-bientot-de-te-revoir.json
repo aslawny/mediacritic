@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-08-26",
-  "frequence_jours": 2
+  "frequence_jours": 2,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ch",
+    "tri": "mosthelpful",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lynyla",
+        "titre": "Merci SML!",
+        "texte": "Petite pépite de décalage horaire, exactement comme je les aime, en arborescence totale, perchée là haut sur un petit bonsaï tout prêt d’un bal perdu! C’est où Twitter?"
+      },
+      {
+        "note": 1,
+        "auteur": "bekiepsy",
+        "titre": "Bruits de bouche!!",
+        "texte": "C’est vraiment horrible d’entendre les bruits de bouche pendant qu’elles mangent!"
+      },
+      {
+        "note": 5,
+        "auteur": "Tim Bulding",
+        "titre": "Tellement marrant",
+        "texte": "pour le/la haters qui mets un avis juste pour dire qu’il ya des bruits de bouche alors que ce podcast est top va sur TripAdvisor stp"
+      }
+    ]
+  }
 }

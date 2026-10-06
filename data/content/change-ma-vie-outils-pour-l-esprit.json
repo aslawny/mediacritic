@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-27",
   "frequence_jours": 5,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "ch",
+    "tri": "mostrecent",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ecolix007",
+        "titre": "Une formidable impact sur le genre humain",
+        "texte": "Chère Clotilde, Je me questionnais sur la signification et l’impact de ma vie sur notre bonne vielle terre et force est de constater que l’humanité fort probablement ne se rappellera pas de moi, ou du moins pas jusqu’à présent. Je peux changer ça évidement :-).…"
+      },
+      {
+        "note": 5,
+        "auteur": "vegan_nala",
+        "titre": "Feeling more confidant and happy podcast by podcast",
+        "texte": "Chère Clotilde I’m listening to your podcast from Switzerland. I’ve only started recently and it already did so much for me! How I see my life, my problems, myself and how I already got everything I need to be happy.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Mmmbbb123",
+        "titre": "Oh que oui!",
+        "texte": "Oh que oui ca me change la vie! J’ai découvert le podcast de Clotilde par hasard a travers d’un autre podcast et je suis devenue accro depuis.…"
+      }
     ]
   }
 }

@@ -51,25 +51,29 @@
   "derniere_activite": "2026-08-29",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Francois vZ",
+        "titre": "Enfin un format audio pour l’Automobile",
+        "texte": "A l’Heure de l’électrification du secteur auto, Yann nous fait le plaisir de nous mettre à disposition des interviews de passionnés, de professionnels et de collectionneurs …"
+      },
+      {
+        "note": 5,
+        "auteur": "Bizzzzon",
+        "titre": "Le partage, les histoires et la passion",
+        "texte": "Peu friand de podcasts habituellement, je n’ai jamais autant attendu l’épisode suivant… Au départ c’était au boulot, ensuite à vélo lors de mes balades du soir mais aussi lors de mes longs trajets en auto.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Fauco24",
+        "titre": "Rendez-vous immanquables",
+        "texte": "Quel plaisir d’écouter les podcast de Yann et ses invités ! Toujours aussi diversifiés, du déjanté Boiserie à l’expérimenté Patrick Le Quement, et très intéressants.…"
+      }
     ]
   }
 }

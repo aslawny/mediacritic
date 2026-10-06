@@ -28,25 +28,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-10-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Chrys1412",
+        "titre": "Important !",
+        "texte": "Un podcast tout simplement IMPORTANT, qui devrait être diffusé partout, à commencer par les écoles, avant que « le mal soit fait ». Un podcast qui m’a fait remettre en question ma façon de penser et douter un peu plus encore de mes certitudes. Un bijou, en somme."
+      },
+      {
+        "note": 5,
+        "auteur": "_flochette_",
+        "titre": "A écouter sans hésiter",
+        "texte": "Ce podcast est d’une qualité rarement égalée. En plus du choix soigneux des invités, le contenu et les questions posées ouvrent les yeux des auditeurs sur bon nombre de croyances (érigées en savoir) de notre société. Je le recommande sans hésiter!"
+      },
+      {
+        "note": 5,
+        "auteur": "Nat de Ha",
+        "titre": "Du nectar",
+        "texte": "Rarement j’ai entendu des interviews menées avec une telle écoute et un questionnement respectueux de chaque invité. Elisabeth pose les questions qu’on aurait posé soi même. Elle est juste passionnante."
+      }
     ]
   },
   "episodes_recents": [

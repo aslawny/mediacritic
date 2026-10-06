@@ -26,25 +26,23 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-10-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "ch",
+    "tri": "mosthelpful",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "beko-ch",
+        "titre": "Grandes Traversées",
+        "texte": "Grand merci aussi de ma part ! Ce sont des productions ecceptionnelles, soigneuses. Quand je suis en France je les suis toujours avec beaucoup de plausir et profit.Félicitations!"
+      },
+      {
+        "note": 4,
+        "auteur": "Super Schmutz",
+        "titre": "Bruce Springsteen",
+        "texte": "Magnifique voyage et magnifique travail journalistique. Malheureusement le mixage de la traduction française par dessus les voix originales est de mauvaise qualité et rend ces passages difficiles à écouter…"
+      }
     ]
   }
 }

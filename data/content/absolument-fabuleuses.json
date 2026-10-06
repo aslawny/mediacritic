@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-08-27",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Max29410",
+        "titre": "Un podcast parfait pour décompresser",
+        "texte": "Ce podcast est parfait pour passer un bon moment et décompresser après une bonne journée de travail Je me suis enfin décidé à l’écouter il y a 2 mois et j’écris le commentaire en écoutant le dernier épisode pour être enfin à jour et je déprime déjà en me disant que je ne pourrais…"
+      },
+      {
+        "note": 1,
+        "auteur": "Aurel_304",
+        "titre": "Not that fabulous",
+        "texte": "C’est très très creux. On sent que rien n’est préparé. Si vous aimez écouter des podcasts pour apprendre des choses, vous serez déçu. En revanche si vous aimez écouter les discussions des gens de la table d’à côté au restaurant, la ça peut éventuellement vous plaire."
+      },
+      {
+        "note": 5,
+        "auteur": "mouton1712",
+        "titre": "Je vous adore !",
+        "texte": "Bonjour les puces ! J’ai 55 ans, ma fille de 17 ans m’a fait découvrir Drag Race récemment. Nous avons regardé les 2 premières saisons ensemble (elle les avait déjà vues en direct et était allée voir la tournée le 14/10/23 à Rouen) et j’ai découvert votre podcast que j’adore il y…"
+      }
+    ]
+  }
 }

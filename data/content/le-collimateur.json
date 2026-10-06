@@ -27,25 +27,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-10-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tslespseudosstpris",
+        "titre": "Excellent podcast !",
+        "texte": "Excellent podcast sur les questions d’actualité des conflits et de la guerre ainsi que sur des sujets de fonds des questions militaires. J’aime particulièrement la diversité des intervenants et notamment celles et ceux qui publient livres, rapports ou analyses permettant un accès…"
+      },
+      {
+        "note": 1,
+        "auteur": "juirrtyu",
+        "titre": "c’est de la radio",
+        "texte": "sujets passionnants mais 5 aparté par phrase de 1000 mots c’est insupportable à écouter, apprenez à communiquer les gars"
+      },
+      {
+        "note": 5,
+        "auteur": "Norkhat",
+        "titre": "Incontournable !",
+        "texte": "Decouvert en 2024, ce podcast s’est taillé une place dans mes incontournables : la qualité des invités, la précision et richesse des sources, et ces va-et-viens entre des epoques diverses et notre actualité si brulante… sans jamais tomber dans la reaction à chaud.…"
+      }
     ]
   },
   "episodes_recents": [

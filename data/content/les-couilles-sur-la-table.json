@@ -28,25 +28,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-10-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Odilebrée",
+        "titre": "Une perle",
+        "texte": "À chaque épisode je me dis « c’est bon maintenant tout a été dit maintenant » et à chaque épisode je découvre un nouvel angle sous lequel interroger les masculinités.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Zazzamitica",
+        "titre": "Top!",
+        "texte": "Merci à Victoire et à ses invité•e•s pour ce magnifique travail de recherche, approfondissement, conceptualisation et mise en mots d’évidences et de ressentis communs. Je profite de tout moment creux pour écouter ce podcast qui résonne tellement avec ma pensée.…"
+      },
+      {
+        "note": 5,
+        "auteur": "mariegdfrd",
+        "titre": "Podcast 100% super !",
+        "texte": "Chaque épisode me permet de me remettre en question et d'appréhender la société sous un nouvel angle, mieux comprendre les autres (les hommes) et comprendre pourquoi, parfois, j'ai l'impression qu'ils ne comprennent rien à rien.…"
+      }
     ]
   },
   "episodes_recents": [

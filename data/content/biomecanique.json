@@ -51,25 +51,29 @@
   "derniere_activite": "2026-08-24",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Nicolas Millefeuille",
+        "titre": "Un chouette podcast !",
+        "texte": "Le point fort de ce podcast, c’est que Jérôme laisse parler ses invités afin qu’ils exposent complètement leur pensée. Il n’hésite pas à leur poser des questions « que tout le monde se pose » afin qu’ils clarifient tel ou tel propos.…"
+      },
+      {
+        "note": 1,
+        "auteur": "El-lutin",
+        "titre": "Surreprésentation des “experts” masculins",
+        "texte": "Comment est-ce possible, en 2025, d’à ce point continuer à vivre dans un entre-soi où seuls des hommes (vieux et blancs) ont droit à la parole ?"
+      },
+      {
+        "note": 5,
+        "auteur": "NoraNamaste",
+        "titre": "Belle Évolution et toujours sans filtre",
+        "texte": "Merci Jérome pour ce podcast de qualité. Toujours un plaisir d'écouter des passionnés partager leurs parcours et opinions en toute transparence. Contente d'avoir enfin pu écouter Kurnaz depuis le temps …"
+      }
     ]
   }
 }

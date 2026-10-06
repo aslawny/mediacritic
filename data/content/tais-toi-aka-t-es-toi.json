@@ -27,25 +27,29 @@
   "addedAt": "2026-09-02",
   "updatedAt": "2026-10-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Audrey1303",
+        "titre": "Merci pour tout",
+        "texte": "Juste un grand merci Jade, 45 ans au compteur 🤣 je t’écoute déjà depuis de nombreux mois! Ta voix capte l’attention et ton contenu me parle tellement et m’accompagne aussi ton mon développement personnel! Et rien que pour ça je t’en remercie.…"
+      },
+      {
+        "note": 5,
+        "auteur": "JJR97",
+        "titre": "Bonne continuation !!",
+        "texte": "Jade, ton podcast est une vraie pépite. Chaque épisode est une bouffée d’air frais, une parenthèse inspirante dans mon quotidien. Merci d’être là!! J’apprécie profondément la sincérité de tes échanges, la richesse des sujets abordés, et ta manière unique de créer une atmosphère à…"
+      },
+      {
+        "note": 5,
+        "auteur": "Juliine03",
+        "titre": "Épisode Poser ses limites",
+        "texte": "Merci Jade, tes mots apaisent mes maux. Moi qui suit hypersensible, écouter tes épisodes, me permet de cibler mes besoins, mes limites, la définition de l’amour de soi. Grace à toi j’avance et cela n’a pas de prix surtout quand on avance dans l’âge.…"
+      }
     ]
   },
   "episodes_recents": [

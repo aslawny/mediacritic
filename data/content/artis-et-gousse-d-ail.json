@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-26",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Japon🇯🇵",
+        "titre": "J’adore",
+        "texte": "J’adore se potcast. 🩷❤️🧡💛💚🩵💙💜🖤🩶🤍🤎❣️💕💞💓💗💖💝🩷❤️🧡💛💚🩵💙💜🩶🖤🤍🤎❣️💕💞💓💗💖💝🩷❤️🧡💛💚🩵💙💜🖤🩶🤍🤎❣️💕💞💓💗💖💝🩷❤️🧡💛💚🩵💙💜🖤🩶🤍🤎❣️💕💞💓💗💖💝🩷❤️🧡💛💚🩵💙💜Sa s’est Artis.🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪…"
+      },
+      {
+        "note": 1,
+        "auteur": "l'éponge, bob l'éponge..",
+        "titre": "Question ?",
+        "texte": "À un moment Artis il pourrait attraper un maladie de cauchemar qui le ferait vomir et aussi tout Oniripol et gousse . et Échallotte sauveraient la ville de se rêves Bisous les Oniriques 😋😋 De Elisabeth 1😂nana je rigole je m’appelle Manon"
+      },
+      {
+        "note": 5,
+        "auteur": "Mharry0204",
+        "titre": "Trouve l’intrus",
+        "texte": "☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️⛄️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️. 👩‍👩‍👧‍👦👩‍👩‍👧‍👦👩‍👩‍👧‍👦👩‍👩‍👧‍👦👩‍👩‍👧‍👦👩‍👩‍👧‍👦👩‍👩‍👧‍👦👩‍👩‍👧‍👦👩‍👩‍👧‍👦👩‍👩‍👧‍👦👩‍👩‍👧‍👦👩‍👩‍👧‍👦👩‍👩‍👧‍👦👩‍👩‍👧‍👦👩‍👩‍👧‍👦👩‍👩‍👧‍👦👩‍👩‍👧‍👦👩‍👩‍👧‍👦👩‍👩‍👧‍👦👩‍👩‍👦‍👦👩‍👩‍👦‍👦👩‍👩‍👧‍👦👩‍👩‍👧‍👦👩‍👩‍👧‍👦👩‍👩‍👦‍👦👩‍👩‍👧‍👦👩‍…"
+      }
     ]
   }
 }

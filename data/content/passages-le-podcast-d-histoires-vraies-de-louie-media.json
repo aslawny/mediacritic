@@ -29,25 +29,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-10-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "ch",
+    "tri": "mostrecent",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "FrAnKiSn0ob",
+        "titre": "Like a virgin et L’amour à l’épreuve de la retraite",
+        "texte": "Tranches de vie racontées sur la longueur. On suit l’évolution. On s’attache aux personnes. On espère qu’elles trouveront ce qu’elles cherchent, qu’il y aura une fin positive. Et dans ces deux épisodes c’est le cas. Ca fait du bien.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Sandra__Ge",
+        "titre": "Passages: \"Les méres en cavale\"",
+        "texte": "Ahurissant... Merci pour cette série de témoignages forts qui montrent l'étendue et la gravité des dysfonctionnements de la Justice française. Cela semble d'un autre âge..…"
+      },
+      {
+        "note": 5,
+        "auteur": "Delphine 🌼",
+        "titre": "Le fantôme d’Yvette",
+        "texte": "Cette histoire m’a profondément bouleversée! J’espère que le livre pourra être réédité. Merci pour ce partage ❤️"
+      }
     ]
   },
   "episodes_recents": [

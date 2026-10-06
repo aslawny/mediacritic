@@ -25,25 +25,29 @@
   ],
   "updatedAt": "2026-10-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "•~•🌺",
+        "titre": "Incroyable",
+        "texte": "J’adore les histoires oli elle sont incroyable pleine de surprise et de rebondissements. J’écoute les podcasts oli depuis que j’ai 4 ans et maintenant j’ai 12 ans continuer comme ça 🥹🥹☺️☺️🤪😝😝🤪😂😘😂😂😜😜🥹☺️😝😝😘😘😘"
+      },
+      {
+        "note": 2,
+        "auteur": "Mathilde 10",
+        "titre": "Je vous adore !! 😁",
+        "texte": "Je vais avoir 11 ans et vous me faites encore rêver !! Bravo 👏 pour votre imagination 💭 !!! Et en plus pour l’histoire « Madeleine et les mots qui fâchent » ce sont des sœurs qui raconte !!"
+      },
+      {
+        "note": 5,
+        "auteur": "Jy2laveux",
+        "titre": "Ernestine",
+        "texte": "J’adore 😃oli je m’endors avec lui 😴et j’aime beaucoup parce que les histoires sont pas comme les autres pas comme le petit chaperon rouge ou les trois petits cochons merci d’être là 😍🥰 Ernestine"
+      }
     ]
   }
 }

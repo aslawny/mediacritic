@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-27",
-  "frequence_jours": 2
+  "frequence_jours": 2,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Madoudmr",
+        "titre": "Cœur cœur",
+        "texte": "Salut les filles, ce n’est généralement pas dans mes habitudes de laisser des commentaires, mais ce soir je suis un peu pompette et inspirée. J’ai surtout un sentiment très fort de reconnaissance, besoin de vous dire à quel point vous êtes supers.…"
+      },
+      {
+        "note": 1,
+        "auteur": "RNFDNG",
+        "titre": "Arrêtez de publier des extraits",
+        "texte": "Le podcast est cool mais par pitié arrêtez de publier des extraits, ça flood complètement les playlists."
+      },
+      {
+        "note": 5,
+        "auteur": "Zosiasophie",
+        "titre": "Meilleure découverte",
+        "texte": "J’ai découvert le podcast cette année au début d’une enormissime dépression nerveuse dûe a un burn-out. Dès le premier épisode je me suis dit mon dieu c’est génial j’ai 32 ans comment j’ai fait pour passer à côté et quand je me suis rendue compte que j’avais plusieurs années d’ép…"
+      }
+    ]
+  }
 }

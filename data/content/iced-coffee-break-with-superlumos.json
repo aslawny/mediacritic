@@ -52,25 +52,29 @@
   "derniere_activite": "2026-06-18",
   "frequence_jours": 49,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "oum tahir",
+        "titre": "Une thérapie complémentaire ✨",
+        "texte": "Hey ! Je ne suis pas du genre à laisser un avis ou des commentaires , mais pour ce podcast cela on va aller 1000 fois la peine. J’ai rarement été autant impacté par une personne qui m’est inconnue.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Chompooyadech",
+        "titre": "Au top!",
+        "texte": "Vraiment c’est un de mes podcasts fav! Sa voix est tellement douce, et on entend la sincérité derrière ses paroles. Les sujets abordés sont toujours intéressants, et ça me fait toujours une piqûre de rappel sur des choses que je sais déjà sur moi/vie/les relations.…"
+      },
+      {
+        "note": 5,
+        "auteur": "scylla 🔫",
+        "titre": "que de l'amour",
+        "texte": "j'ai découvert le podcast hier c'est la première fois que j'écris un avis/commentaire sous quelques choses jen'ai rien de particulier à dire, mon avis sur ce poscast est très simple : c'est incroyable.…"
+      }
     ]
   }
 }

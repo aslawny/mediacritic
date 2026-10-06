@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2023-07-30",
-  "frequence_jours": 10
+  "frequence_jours": 10,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Warabouh",
+        "titre": "Incontestablement le meilleur podcast francophone",
+        "texte": "Cela fait 6 mois que j’écoute 10 000 pas, et honnêtement, ce podcast a changé ma vie. Pas dans le sens spectaculaire ou marketé. Non. Dans le sens vrai. Brutal, profond. J’ai perdu 20 kilos — sans méthode miracle, sans influenceur fitness.…"
+      },
+      {
+        "note": 2,
+        "auteur": "Thoms0nn",
+        "titre": "Pas sure",
+        "texte": "J’ai tester ,j’ai appliqué et le véridique est ce qui est … Les 10k est juste une façon de ce fatiguer de manière discrète, QUAND on a un travail les 10 000 pas ,coupler au séance de muscu vient juste te rendre léthargique et ayant un train de vie soutenu je ne trouve pas ça adéq…"
+      },
+      {
+        "note": 5,
+        "auteur": "Jonathan-S.",
+        "titre": "FIN DU GAME.",
+        "texte": "Nov. 2025, je n’en suis qu’à la fin de la 1re saison de 10KPAS et franchement quel régal ! Merci Monsieur Slimani pour votre contenu, votre travail, le coup de pied au derch que vous nous donnez à chaque épisode …"
+      }
+    ]
+  }
 }
