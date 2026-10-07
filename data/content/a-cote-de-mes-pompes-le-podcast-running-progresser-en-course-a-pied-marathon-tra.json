@@ -29,7 +29,7 @@
     "bien-etre"
   ],
   "addedAt": "2026-09-02",
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-07",
   "episodes_recents": [
     {
       "titre": "SAISON 6 - Le bilan SANS FILTRE d'une année enrichissante !",
@@ -53,5 +53,31 @@
     }
   ],
   "derniere_activite": "2026-08-28",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Daggett59",
+        "titre": "Un podcast incontournable pour tous les passionnés de course à pied !",
+        "texte": "J’ai découvert il y a quelques mois « À côté de mes pompes ! » en me remettant à la course à pied et je suis absolument enthousiaste ! Ce podcast est une véritable pépite pour tous les coureurs, qu’ils soient débutants ou aguerris.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Nathw34",
+        "titre": "Une mine d’informations variées et utiles ! 👍",
+        "texte": "Une véritable boîte à outils du coureur où puiser informations, conseils, mais aussi inspiration, et motivation ! On devine le professeur incroyable qu’il est, à travers cette faculté naturelle qu’il a d’enrichir toujours plus nos connaissances, en allant souvent à la source, d’e…"
+      },
+      {
+        "note": 5,
+        "auteur": "Loucaw",
+        "titre": "Excellent podcast !",
+        "texte": "Une superbe découverte ce podcast ! Des sujets divers (performance/nutrition/récupération…) avec des invités venant d’horizons très différents. Sébastien pose des questions pertinentes.…"
+      }
+    ]
+  }
 }

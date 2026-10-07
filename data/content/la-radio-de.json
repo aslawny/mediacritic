@@ -14,7 +14,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/la-radio-de/id1585008830?uo=2",
       "trackId": 1585008830,
       "rating": 4.7,
-      "ratingCount": 41,
+      "ratingCount": 42,
       "episodeCount": null
     }
   },
@@ -24,5 +24,27 @@
     "culture"
   ],
   "addedAt": "2026-06-09",
-  "updatedAt": "2026-10-04"
+  "updatedAt": "2026-10-07",
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-10-07",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

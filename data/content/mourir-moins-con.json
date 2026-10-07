@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/mourir-moins-con/id1446722244?uo=2",
       "trackId": 1446722244,
       "rating": 4.5,
-      "ratingCount": 942,
+      "ratingCount": 943,
       "episodeCount": null
     }
   },
@@ -26,27 +26,19 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "ch",
+    "tri": "mosthelpful",
+    "releve": "2026-10-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Jj la fripouille",
+        "titre": "Question existentielle… on me dois une réponse!",
+        "texte": "À la préhistoire, comme est-ce qu’ils faisaient pour s’essuyer l’cul après avoir fait caca? Genre ils allaient dans un rivière se rincer ou ils laissaient comme ça ?😭"
+      }
     ]
   },
   "episodes_recents": [

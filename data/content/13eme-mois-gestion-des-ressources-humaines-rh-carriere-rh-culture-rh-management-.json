@@ -25,7 +25,7 @@
     "histoire"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-07",
   "episodes_recents": [
     {
       "titre": "Le travail paie-t-il encore vraiment ? - Avec Antoine Foucher - auteur et ex-directeur de cabinet au ministère",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-21",
-  "frequence_jours": 26
+  "frequence_jours": 26,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tarasboulba1961",
+        "titre": "Du concret apaisé",
+        "texte": "Sympa ce podcast 13eme mois où il est question de Richesses Humaines et de toutes les astuces qui donnent du sens au “travailler ensemble”. Une pensée particulière pour le dernier épisode où il est question du premier irritant au travail : les réunions. Des solutions existent.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Marie-Helene.Maire",
+        "titre": "Les RH en action",
+        "texte": "C’est vraiment très appréciable d’écouter des épisodes autour des ressources humaines. On comprend ce qui se passe dans les entreprises avec des invités qui expliquent bien ce qu’ils font. Ça donne plein de bonnes idées, d’énergie et d’envies !"
+      },
+      {
+        "note": 5,
+        "auteur": "StephSomm",
+        "titre": "Convivialité et pragmatisme RH",
+        "texte": "Merci Flaubert pour ce podcast . Que de bons conseils, des moments inspirants avec tes invités. Je suis ravie d’avoir pu moi-même échanger avec toi sur des sujets essentiels de la fonction RH. Dans l’attente du prochain épisode !"
+      }
+    ]
+  }
 }

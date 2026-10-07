@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/women-stories-r%C3%A9cits-de-vie/id1839901569?uo=2",
       "trackId": 1839901569,
       "rating": 4.9,
-      "ratingCount": 1240,
+      "ratingCount": 1241,
       "episodeCount": null
     }
   },
@@ -27,27 +27,31 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Wonderful 😝￼",
+        "titre": "Incroyable 😻",
+        "texte": "Merci beaucoup pour ces réduits, tous aussi incroyables à couper le souffle Des histoires si touchante, si vrai Dont on ne parle pas souvent 💜💜💜💜💜💜💜💜💜💜💜💜 🩷🩷🩷🩷🩷🩷🩷🩷🩷🩷🩷🩷 ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡💛💛💛💛💛💛💛💛💛💛💛💛💚💚💚💚💚💚💚💚💚💚💚💚🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵💙💙💙💙💙💙💙💙💙💙💙💙🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🩶🩶🩶🩶🩶🩶🩶🩶🩶🩶🩶🩶🤍🤍🤍🤍🤍…"
+      },
+      {
+        "note": 1,
+        "auteur": "tsacdopednaf",
+        "titre": "p.delaire",
+        "texte": "Insupportable, inécoutable. Et pour une \"pro\", tous ces \"en fait\" ne sont pas acceptables"
+      },
+      {
+        "note": 5,
+        "auteur": "Andie_Graham",
+        "titre": "Podcast à écouter !",
+        "texte": "J’ai découvert ce podcast avec l’histoire de Constance et Diane, qui partageaient la vie du même homme. J’ai été bouleversée, ayant vécu une histoire similaire, jusqu’à la sororité entre femmes trompées. Bravo pour ces mots posés sur ces maux …"
+      }
     ]
   }
 }

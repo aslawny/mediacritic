@@ -27,7 +27,7 @@
     "famille"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-07",
   "episodes_recents": [
     {
       "titre": "Un chien peut-être raciste ?",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2023-04-07",
-  "frequence_jours": 4
+  "frequence_jours": 4,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Bref c’est toi",
+        "titre": "Trop bien",
+        "texte": "Moi j’ai un chien qui s’appelle Revel c’est une labrador noir j’aurais besoin d’un petit conseil pour pouvoir livrer sur la nourriture parce qu’elle se jette sur les voitures directement les gamelles ça marche pas les gamelles à Guy qui trouve les embarquer tout seul ou j’aurais…"
+      },
+      {
+        "note": 5,
+        "auteur": "happy. musique",
+        "titre": "J’adore🤩🤩🤩",
+        "texte": "J’ai six chiens ils ont deux mâles et quatre femelles les quatre femelles s’appelle Lola boogie Apple et Moon il est de mâles il s’appelle bingo qui est le frère de boogie et ici je sais c’est très bizarre comme prénom pour un chien mais il fait que s’en fuir alors on a eu très j…"
+      },
+      {
+        "note": 5,
+        "auteur": "Louve_it",
+        "titre": "Idée de podcast",
+        "texte": "Salut Esprit Dog ! Le podcast vient à peine de commencer que je l’adore déjà ! Mais un problème me trotte dans la tête : comment apprendre à son chien à nous attendre pour traverser la route ?? Si vous pourriez m’éclairer vous serez encore plus géniaux que vous ne l’êtes déjà ❤️"
+      }
+    ]
+  }
 }

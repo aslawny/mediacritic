@@ -26,7 +26,7 @@
     "politique"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-07",
   "episodes_recents": [
     {
       "titre": "L'ultime live 2000 de Culture 2000",
@@ -52,25 +52,29 @@
   "derniere_activite": "2023-10-09",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Rienet",
+        "titre": "apprendre des tas de choses sur des tas de trucs !",
+        "texte": "ou l'inverse je ne sais pas ce qui est sure c'est qu'on apprend quelque chose de nouveau à chaque épisode, et ca donne souvent envi d'aller plus loin et de faire ses propres recherches.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Nodesign",
+        "titre": "Bavardage",
+        "texte": "Assez difficile a suivre, truffés d’approximations… dommage Pane art … tout est dit"
+      },
+      {
+        "note": 5,
+        "auteur": "bavard75",
+        "titre": "Un bon moment entre amis",
+        "texte": "Bonjour, Bravo pour l’émission. Ci-dessous quelques propositions de thèmes en vrac: L’Australie, l'intelligence artificielle, la guerre froide, confucius, les hippies, le pelerinAge de saint Jacques de compostelle, ghandhi, Gaspard Proust, l’ère du Meiji, le jazz, Stefan zweig, l…"
+      }
     ]
   }
 }

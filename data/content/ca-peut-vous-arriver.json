@@ -26,7 +26,7 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-07",
   "episodes_recents": [
     {
       "titre": "LA RÈGLE D'OR - Puis-je refuser une modification de mes horaires ou conditions de travail à la rentrée ?",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-29",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "DanDuSud-83",
+        "titre": "Efficacité et solutions, mais…",
+        "texte": "Je suis un fidèle de l’émission que j’écoute uniquement en podcast… La liste des podcasts est malheureusement envahie d’extraits que l’on est obligé de supprimer pour ne conserver que les émissions principales.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Mx-Hy",
+        "titre": "Top mais stop aux coupures",
+        "texte": "Arrêtez de tout découper et laissez les émissions en intégrales et sans publicité SVP !"
+      },
+      {
+        "note": 5,
+        "auteur": "ProfessionalWife",
+        "titre": "Excellent",
+        "texte": "Un très bon mélange de divertissement et de conseils pratiques, et quelle énergie ! Je rappelle aux grincheux que ce n’est pas un service public payé par nos impôts et taxes, mais une radio privée, donc soyez reconnaissants au lieu de râler a cause de la pub.…"
+      }
     ]
   }
 }

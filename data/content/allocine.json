@@ -27,7 +27,7 @@
     "series"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-07",
   "episodes_recents": [
     {
       "titre": "La VF de Leonardo DiCaprio et Tobey Maguire, c'est lui ! Rencontre avec Damien Witecka",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-05-15",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Smolik512",
+        "titre": "J’adore",
+        "texte": "J’ai découvert vos podcasts récemment et ils sont supers !!!! Merci pour votre travail sur tous les sujets du cinéma. On apprend plein de choses et toujours dans la bonne humeur!!! Longue vie à vos podcasts!!! Longue vie à AlloCiné tout court en fait !!! Merci Animehameha de me f…"
+      },
+      {
+        "note": 1,
+        "auteur": "Vyan_B",
+        "titre": "Voix sur mode OFF",
+        "texte": "Principe de base très alléchant Mais dommage de ne pas avoir de son pour une émission sur la voix…. Incompréhensible"
+      },
+      {
+        "note": 5,
+        "auteur": "Ema_Luna",
+        "titre": "Heated Rivalry",
+        "texte": "La série de podcast sur Heated Rivalry est un ravissement. L’impression de passer une heure avec une bande de copines qui seraient aussi journalistes cinéma. C’est documenté, on apprend plein de choses et c’est super agréable à écouter.…"
+      }
+    ]
+  }
 }

@@ -24,7 +24,7 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-07",
   "episodes_recents": [
     {
       "titre": "Parlons des Annonces Marvel (Avengers Doomsday, Vision Quest, etc...) - 100% Marvel",
@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-08-17",
-  "frequence_jours": 12
+  "frequence_jours": 12,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Linkcroft",
+        "titre": "Enfin le podcast !!!",
+        "texte": "J’adore cette chaîne YouTube! Le gars est calé, il balance que des news vérifiées, on sent la passion pour ce qu’il fait... Le format podcast se prête parfaitement à son nouveau concept le 100% Marvel.…"
+      },
+      {
+        "note": 5,
+        "auteur": "MaelCLEMENT",
+        "titre": "MARVEL... OUS Podcast !",
+        "texte": "Bonjour et bravo pour ce nouveau podcast sur les super-héros MARVEL et le MCU. Je suis un vrai fan depuis plus de trente ans et j’aime cette fraîcheur apportée avec ce nouveau format de la chaîne YouTube qui y est associée. Néanmoins...…"
+      },
+      {
+        "note": 5,
+        "auteur": "Hakim.Maad",
+        "titre": "Le meilleur podcast Marvel",
+        "texte": "J’en ai testé plusieurs et c’est pour moi le plus interessant en terme de review sur l’univers de Marvel . Surtout concernant la serie WandaVision . Seul petit bemol : la mention des dons youtube tout le long du podcast .…"
+      }
+    ]
+  }
 }

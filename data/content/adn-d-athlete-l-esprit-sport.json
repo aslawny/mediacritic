@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/adn-dathl%C3%A8te-lesprit-sport/id1499608371?uo=4",
       "trackId": 1499608371,
       "rating": 4.6,
-      "ratingCount": 129,
+      "ratingCount": 130,
       "episodeCount": 266
     }
   },
@@ -26,7 +26,7 @@
     "societe"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-07",
   "episodes_recents": [
     {
       "titre": "JIMMY GRESSIER 4/4 - Dans la tête d’un athlète : Chuter, se relever, tout rafler",
@@ -50,5 +50,27 @@
     }
   ],
   "derniere_activite": "2025-09-07",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-10-07",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

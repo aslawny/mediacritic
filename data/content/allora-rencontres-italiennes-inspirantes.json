@@ -26,7 +26,7 @@
     "culture"
   ],
   "addedAt": "2026-06-24",
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-07",
   "episodes_recents": [
     {
       "titre": "[REPLAY ESTIVAL] L’Italie en train avec Lucie Tournebize",
@@ -50,5 +50,27 @@
     }
   ],
   "derniere_activite": "2026-08-24",
-  "frequence_jours": 4
+  "frequence_jours": 4,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-10-07",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

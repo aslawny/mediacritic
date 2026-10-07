@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/richissime/id1483944806?uo=2",
       "trackId": 1483944806,
       "rating": 4.6,
-      "ratingCount": 952,
+      "ratingCount": 954,
       "episodeCount": null
     }
   },
@@ -26,27 +26,31 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "hecatee",
+        "titre": "Génial",
+        "texte": "Bonjour Delphine Je viens de finir d’écouter l’épisode #9 de coaching et j’ai vraiment adoré. Je trouve que tu es à la fois coach de vie, coach financier et même psychologue.…"
+      },
+      {
+        "note": 1,
+        "auteur": "lu2986.",
+        "titre": "Plus possible",
+        "texte": "Je ne supporte plus le ton ! Dommage car bcp d’invités passent de bons messages qui sont décrédibilises par le manque de recul de l’hôte…trop autocentré selon moi."
+      },
+      {
+        "note": 5,
+        "auteur": "Mathoo73",
+        "titre": "Merci 🙏🏻",
+        "texte": "Si comme moi, vous avez grandi dans les aprioris négatifs sur l’argent, sur les investissements… vous êtes tombé sur le podcast parfait pour apprendre à démystifier vos croyances limitantes.…"
+      }
     ]
   },
   "episodes_recents": [

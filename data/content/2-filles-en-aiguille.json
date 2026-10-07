@@ -27,7 +27,7 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-07",
   "episodes_recents": [
     {
       "titre": "Podcast 27 // On répond aux commentaires 🙊",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2025-02-14",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Une touche de Me",
+        "titre": "Pourquoi je couds",
+        "texte": "J’ai commencé par les accessoires et puis pour ma fille qui a très vite grandie et impossible de trouver style correspondant à une petite fille soit trop court soit trop large avec de longues, très longues jambes et bras et un bassin tout menu.…"
+      },
+      {
+        "note": 3,
+        "auteur": "alphonsinette",
+        "titre": "Youpi",
+        "texte": "Chouette podcast, à écouter en cousant bien sûr 🤩 Ce serait bien que Caroline essaie d'interrompre moins, car on perd parfois un raisonnement en cours de développement, ce qui est très frustrant à l'écoute. Mais oui bien sûr, continuez 🥰"
+      },
+      {
+        "note": 5,
+        "auteur": "Tabn",
+        "titre": "Crossover couture 😁",
+        "texte": "Deux couturières, avec deux visions de la couture, qui échangent sans filtre. Le podcast couture que j’attendais, avec suffisamment de recul et d’auto dérision pour pouvoir s’écouter sans lassitude (même sur plus d’une heure 😆).…"
+      }
+    ]
+  }
 }

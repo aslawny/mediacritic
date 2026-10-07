@@ -25,27 +25,31 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "The_Coyote_84",
+        "titre": "OLMA",
+        "texte": "Bonjour, Votre podcast est super génial : 👉Les histoires (j’aimerais bien qu’il y ait une suite ) 👉On apprend plein de choses 👉Les personnages sont bien Zut j’avais oublié que tout est génial dans votre podcast PS : Une saison 3 ne serait pas de refus même si je sais que c’est be…"
+      },
+      {
+        "note": 1,
+        "auteur": "05764638",
+        "titre": "Pour les bb",
+        "texte": "Salut je m’appelle Apolline et j’ai 11 ans vraiment votre podcaste est NNNNNNNNUUUUUUUUUUUUUULLLLLLL !!!!!"
+      },
+      {
+        "note": 5,
+        "auteur": "13leelou",
+        "titre": "OLMA🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩",
+        "texte": "J’adore Olma !!!!!!!!!!!!!!!!!!!!!!!!!! S’il vous plaît, faite plus d’épisodes‼️‼️‼️‼️‼️‼️c’est urgent ☣️☣️☢️☢️🔞📵🚭🚷🚯🚳🚱⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️ De la part de Jules qui habite en 🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷 😀😃😄😁😆🥹😅😂🤣🥲☺️😊😇🙂🙃😉😌😍🥰😘😗😙😚😋😛😝😜🤪🤨🧐🤓😎🥸🤩🥳🫶🫶🫶🫶🫶🫶🫶🫶🫶🫶🫶🫶🫶🫶🫶🫶🫶🫶🫶🫶🫶🫶🫶🫶🫶🫶🫶👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑🌞🌞…"
+      }
     ]
   }
 }

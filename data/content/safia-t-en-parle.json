@@ -26,27 +26,31 @@
     "vulgarisation"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Nanad.z",
+        "titre": "Incroyable ✨",
+        "texte": "Je tiens à teremercier chaleureusement pour ses podcasts incroyablement inspirants, apaisants et spontanée. Ta voix douce et sereine me guide chaque matin en route pour le travail au SAMU de Paris, où j’ai besoin de toute l’énergie et la motivation possible pour faire face à la j…"
+      },
+      {
+        "note": 1,
+        "auteur": "Ahlem_216🌸",
+        "titre": "𝐌𝐨𝐧 𝐫𝐞𝐬𝐬𝐞𝐧𝐭𝐢 𝐚𝐩𝐫𝐞𝐬 𝐭𝐞𝐬 𝐯𝐢𝐝𝐞𝐨",
+        "texte": "Selem aleykoum Sofia c’est pour te remercier ta voix douce qui nous explique les bases sur la religion j’aime trop vraiment après ma prière et des fois avant que l’imam fait sont rappel je t’écoute quand je finis ma prière je m’assoie sur mon tapis de prière pour t’écouter t’es l…"
+      },
+      {
+        "note": 5,
+        "auteur": "So-niaaaaaa",
+        "titre": "Jazak allahu khayran",
+        "texte": "Al hamdoulilah, je me suis immédiatement accroché à ton podcast. C’est le premier que j’écoute, et je me suis tout de suite senti à l’aise. Ta voix est très agréable et tes paroles sont pleines de sagesse mach’Allah.…"
+      }
     ]
   },
   "episodes_recents": [

@@ -27,27 +27,31 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "galoubandi",
+        "titre": "Déçu du dernier épisode",
+        "texte": "Contente d’écouter des poadcast de lmdm lorsque l’on travaille que l’on a pas le temps de regarder l’émission. Des grands formats vont enfin pouvoir rentrer un peu plus dans les détails.…"
+      },
+      {
+        "note": 1,
+        "auteur": "faniraf",
+        "titre": "Trop court",
+        "texte": "Les sujets sont très intéressants mais toujours très vite expédiés, ça reste superficiel faute de temps, décevant."
+      },
+      {
+        "note": 5,
+        "auteur": "asf51gt",
+        "titre": "Bravo pour les dossiers « santé mentale »",
+        "texte": "C’est sont des programmes très bien faits, riches en info, sachant rendre les maladies et/ou particularités psychiatriques / psycho accessibles. Merci de nous informer, former et nous rendre capables de mieux accueillir ces différences.…"
+      }
     ]
   },
   "episodes_recents": [

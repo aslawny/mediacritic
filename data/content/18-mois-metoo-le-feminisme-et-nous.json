@@ -25,7 +25,7 @@
     "culture"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-07",
   "episodes_recents": [
     {
       "titre": "Les travailleuses du sexe, toutes des femmes violées?",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2019-07-15",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Math1517",
+        "titre": "Pourquoi une seule saison ?",
+        "texte": "Je découvre le podcast cette semaine (merci le confinement), je le trouve très bien fait mais déçue de voir qu’il n’y a qu’une saison. Ne peut il pas y avoir une suite ?? :)"
+      },
+      {
+        "note": 5,
+        "auteur": "Lalolalo14",
+        "titre": "Bravo",
+        "texte": "Podcast passionnant avec des points de vue percutants et originaux qui font réfléchir et par conséquent, avancer sur la cause des femmes"
+      },
+      {
+        "note": 5,
+        "auteur": "Eaudecoco",
+        "titre": "Merci pour ces réflexions fines et intelligentes",
+        "texte": "Cette mise en parallèle inédite permet d’aborder avec finesse les progrès réalisés et le chemin qui reste à parcourir."
+      }
+    ]
+  }
 }

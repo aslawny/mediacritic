@@ -14,7 +14,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/%C3%A0-la-r%C3%A9guli%C3%A8re/id1836893681?uo=2",
       "trackId": 1836893681,
       "rating": 4.5,
-      "ratingCount": 111,
+      "ratingCount": 112,
       "episodeCount": null
     }
   },
@@ -24,5 +24,27 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-04"
+  "updatedAt": "2026-10-07",
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-10-07",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

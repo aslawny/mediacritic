@@ -1,6 +1,6 @@
 {
-  "maj": "2026-10-06",
-  "total": 870,
+  "maj": "2026-10-07",
+  "total": 903,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -2308,6 +2308,24 @@
       "fiche": "fiches/plan-large.html"
     },
     {
+      "slug": "activistes",
+      "titre": "Activistes !",
+      "notes_apple": 134,
+      "fiche": "fiches/activistes.html"
+    },
+    {
+      "slug": "adn-d-athlete-l-esprit-sport",
+      "titre": "ADN D'ATHLÈTE, l'esprit sport",
+      "notes_apple": 130,
+      "fiche": "fiches/adn-d-athlete-l-esprit-sport.html"
+    },
+    {
+      "slug": "abricot-presente",
+      "titre": "Abricot Présente",
+      "notes_apple": 129,
+      "fiche": "fiches/abricot-presente.html"
+    },
+    {
       "slug": "f-d-up-movies",
       "titre": "F****d Up Movies",
       "notes_apple": 127,
@@ -2324,6 +2342,12 @@
       "titre": "VOA Learning English Podcast - VOA Learning English",
       "notes_apple": 122,
       "fiche": "fiches/voa-learning-english-podcast-voa-learning-english.html"
+    },
+    {
+      "slug": "a-la-reguliere",
+      "titre": "À la régulière",
+      "notes_apple": 112,
+      "fiche": "fiches/a-la-reguliere.html"
     },
     {
       "slug": "ted-en-francais",
@@ -2360,6 +2384,18 @@
       "titre": "Droit constitutionnel et institutions politiques (CAVEJ, Michel Verpaux, 2010)",
       "notes_apple": 100,
       "fiche": "fiches/droit-constitutionnel-et-institutions-politiques-cavej-michel-verpaux-2010.html"
+    },
+    {
+      "slug": "allora-rencontres-italiennes-inspirantes",
+      "titre": "allora . rencontres italiennes inspirantes",
+      "notes_apple": 99,
+      "fiche": "fiches/allora-rencontres-italiennes-inspirantes.html"
+    },
+    {
+      "slug": "abracadapod",
+      "titre": "AbracadaPod",
+      "notes_apple": 98,
+      "fiche": "fiches/abracadapod.html"
     },
     {
       "slug": "gouinement-lundi",
@@ -2656,6 +2692,12 @@
       "fiche": "fiches/quid-juris.html"
     },
     {
+      "slug": "42e-rue",
+      "titre": "42e Rue",
+      "notes_apple": 86,
+      "fiche": "fiches/42e-rue.html"
+    },
+    {
       "slug": "faminimaliste",
       "titre": "Faminimaliste",
       "notes_apple": 85,
@@ -2728,6 +2770,18 @@
       "fiche": "fiches/un-train-de-retard-le-podcast-jv.html"
     },
     {
+      "slug": "13-9",
+      "titre": "13,9 %",
+      "notes_apple": 84,
+      "fiche": "fiches/13-9.html"
+    },
+    {
+      "slug": "40-nuances-de-next",
+      "titre": "40 nuances de Next",
+      "notes_apple": 84,
+      "fiche": "fiches/40-nuances-de-next.html"
+    },
+    {
       "slug": "ma-pause-cafe-avec-thia",
       "titre": "Ma pause café avec Thia",
       "notes_apple": 83,
@@ -2738,6 +2792,12 @@
       "titre": "Mind - Méditation",
       "notes_apple": 83,
       "fiche": "fiches/mind-meditation.html"
+    },
+    {
+      "slug": "allegretto-programme-musical-de-denisa-kerschova",
+      "titre": "Allegretto : programme musical de Denisa Kerschova",
+      "notes_apple": 83,
+      "fiche": "fiches/allegretto-programme-musical-de-denisa-kerschova.html"
     },
     {
       "slug": "choses-a-savoir-tech-verte",
@@ -2908,6 +2968,12 @@
       "fiche": "fiches/tous-saints-ces-temoins-de-la-foi-racontes-par-benedicte-delelis.html"
     },
     {
+      "slug": "a-table-avec-le-podcast-du-magazine-le-chef",
+      "titre": "A Table avec... Le podcast du magazine Le Chef",
+      "notes_apple": 80,
+      "fiche": "fiches/a-table-avec-le-podcast-du-magazine-le-chef.html"
+    },
+    {
       "slug": "chat-vdb",
       "titre": "Chat VDB",
       "notes_apple": 79,
@@ -2960,6 +3026,12 @@
       "titre": "SIGNES 🌙  De sceptique à médium",
       "notes_apple": 79,
       "fiche": "fiches/signes-de-sceptique-a-medium.html"
+    },
+    {
+      "slug": "10-minutes-avec-jesus",
+      "titre": "10 minutes avec Jésus",
+      "notes_apple": 79,
+      "fiche": "fiches/10-minutes-avec-jesus.html"
     },
     {
       "slug": "ces-chansons-qui-font-l-actu",
@@ -3028,6 +3100,12 @@
       "fiche": "fiches/rtl-soir.html"
     },
     {
+      "slug": "a-table-avec-annabelle-emci-tv",
+      "titre": "À table avec Annabelle EMCI TV",
+      "notes_apple": 77,
+      "fiche": "fiches/a-table-avec-annabelle-emci-tv.html"
+    },
+    {
       "slug": "les-vacances-du-petit-nicolas",
       "titre": "Les Vacances Du Petit Nicolas",
       "notes_apple": 76,
@@ -3044,6 +3122,18 @@
       "titre": "Shark Parade",
       "notes_apple": 76,
       "fiche": "fiches/shark-parade.html"
+    },
+    {
+      "slug": "100-mix-retro-techno-dj-hs",
+      "titre": "100% MIX (Rétro & Techno) Dj HS",
+      "notes_apple": 76,
+      "fiche": "fiches/100-mix-retro-techno-dj-hs.html"
+    },
+    {
+      "slug": "a-la-french",
+      "titre": "A la French",
+      "notes_apple": 76,
+      "fiche": "fiches/a-la-french.html"
     },
     {
       "slug": "hyconiq",
@@ -3098,6 +3188,18 @@
       "titre": "Puzzle",
       "notes_apple": 75,
       "fiche": "fiches/puzzle.html"
+    },
+    {
+      "slug": "allo-1jour1actu",
+      "titre": "Allo, 1jour1actu ?",
+      "notes_apple": 75,
+      "fiche": "fiches/allo-1jour1actu.html"
+    },
+    {
+      "slug": "affaires-criminelles-true-crime-de-mogota",
+      "titre": "Affaires Criminelles / True crime de Mogota",
+      "notes_apple": 75,
+      "fiche": "fiches/affaires-criminelles-true-crime-de-mogota.html"
     },
     {
       "slug": "apprends-le-francais-avec-madame-a-paname-french",
@@ -3244,6 +3346,12 @@
       "fiche": "fiches/secrets-de-createurs.html"
     },
     {
+      "slug": "20-divin-le-podcast-du-vin",
+      "titre": "20 Divin, le Podcast du Vin",
+      "notes_apple": 73,
+      "fiche": "fiches/20-divin-le-podcast-du-vin.html"
+    },
+    {
       "slug": "briller-en-societe",
       "titre": "Briller en société",
       "notes_apple": 72,
@@ -3314,6 +3422,12 @@
       "titre": "Telephone Valley",
       "notes_apple": 71,
       "fiche": "fiches/telephone-valley.html"
+    },
+    {
+      "slug": "a-poil-et-sans-filet",
+      "titre": "A Poil et Sans Filet",
+      "notes_apple": 71,
+      "fiche": "fiches/a-poil-et-sans-filet.html"
     },
     {
       "slug": "chez-meme-travaux-maison",
@@ -3410,6 +3524,12 @@
       "titre": "La chronique de Jessé",
       "notes_apple": 69,
       "fiche": "fiches/la-chronique-de-jesse.html"
+    },
+    {
+      "slug": "air-open-le-podcast-tennis-de-l-equipe",
+      "titre": "Air open, le podcast tennis de L'Équipe",
+      "notes_apple": 69,
+      "fiche": "fiches/air-open-le-podcast-tennis-de-l-equipe.html"
     },
     {
       "slug": "culture-ia",
@@ -3616,6 +3736,12 @@
       "fiche": "fiches/you-must-remember-this.html"
     },
     {
+      "slug": "affaires-sonores-le-recit-des-grandes-affaires-criminelles-du-nord-pas-de-calais",
+      "titre": "Affaires Sonores, le récit des grandes affaires criminelles du Nord Pas-de-Calais",
+      "notes_apple": 65,
+      "fiche": "fiches/affaires-sonores-le-recit-des-grandes-affaires-criminelles-du-nord-pas-de-calais.html"
+    },
+    {
       "slug": "au-poste",
       "titre": "Au Poste",
       "notes_apple": 64,
@@ -3662,6 +3788,12 @@
       "titre": "Tintin en Amérique",
       "notes_apple": 64,
       "fiche": "fiches/tintin-en-amerique.html"
+    },
+    {
+      "slug": "agatha-crimstie",
+      "titre": "Agatha Crimstie",
+      "notes_apple": 64,
+      "fiche": "fiches/agatha-crimstie.html"
     },
     {
       "slug": "histoire-d-en-rire",
@@ -3752,6 +3884,12 @@
       "titre": "Women of the Seas",
       "notes_apple": 61,
       "fiche": "fiches/women-of-the-seas.html"
+    },
+    {
+      "slug": "ambitionpublique",
+      "titre": "AmbitionPublique",
+      "notes_apple": 61,
+      "fiche": "fiches/ambitionpublique.html"
     },
     {
       "slug": "bondsplaining-podcast-sur-007",
@@ -3938,6 +4076,12 @@
       "titre": "Les intrépides",
       "notes_apple": 57,
       "fiche": "fiches/les-intrepides.html"
+    },
+    {
+      "slug": "7-jours-sur-terre",
+      "titre": "7 jours sur Terre",
+      "notes_apple": 57,
+      "fiche": "fiches/7-jours-sur-terre.html"
     },
     {
       "slug": "b-a-ba-du-christianisme",
@@ -4396,6 +4540,12 @@
       "fiche": "fiches/en-colere.html"
     },
     {
+      "slug": "la-methode-du-bonheur",
+      "titre": "La méthode du bonheur",
+      "notes_apple": 51,
+      "fiche": "fiches/la-methode-du-bonheur.html"
+    },
+    {
       "slug": "brume-litteraire-la-litterature-en-clair",
       "titre": "Brume Littéraire - La littérature en clair",
       "notes_apple": 50,
@@ -4502,6 +4652,12 @@
       "titre": "Ton bac de français avec Anissa",
       "notes_apple": 50,
       "fiche": "fiches/ton-bac-de-francais-avec-anissa.html"
+    },
+    {
+      "slug": "allo-centrale",
+      "titre": "Allô Centrale",
+      "notes_apple": 50,
+      "fiche": "fiches/allo-centrale.html"
     },
     {
       "slug": "brandiiing",
@@ -4642,6 +4798,12 @@
       "fiche": "fiches/le-passage-parler-d-adolescence-autrement.html"
     },
     {
+      "slug": "afropod-le-podcast-d-afrofeeling",
+      "titre": "Afropod, le podcast d'Afrofeeling",
+      "notes_apple": 48,
+      "fiche": "fiches/afropod-le-podcast-d-afrofeeling.html"
+    },
+    {
       "slug": "binouze-usa",
       "titre": "Binouze USA",
       "notes_apple": 47,
@@ -4724,6 +4886,18 @@
       "titre": "VOP - Viens On Parle",
       "notes_apple": 47,
       "fiche": "fiches/vop-viens-on-parle.html"
+    },
+    {
+      "slug": "abc-talk",
+      "titre": "ABC TALK",
+      "notes_apple": 47,
+      "fiche": "fiches/abc-talk.html"
+    },
+    {
+      "slug": "actualite-upr",
+      "titre": "Actualité UPR",
+      "notes_apple": 47,
+      "fiche": "fiches/actualite-upr.html"
     },
     {
       "slug": "3-hommes-et-un-podcast",
@@ -5002,6 +5176,12 @@
       "fiche": "fiches/yin-and-out.html"
     },
     {
+      "slug": "a-2-c-est-mieux",
+      "titre": "À 2 C'EST MIEUX",
+      "notes_apple": 44,
+      "fiche": "fiches/a-2-c-est-mieux.html"
+    },
+    {
       "slug": "amour-sexe-voyage",
       "titre": "Amour, Sexe & Voyage",
       "notes_apple": 43,
@@ -5140,6 +5320,12 @@
       "fiche": "fiches/zelie-le-podcast-femmes-inspirees.html"
     },
     {
+      "slug": "adulte-mode-d-emploi",
+      "titre": "Adulte, mode d'emploi",
+      "notes_apple": 43,
+      "fiche": "fiches/adulte-mode-d-emploi.html"
+    },
+    {
       "slug": "coeur-de-mere",
       "titre": "Coeur de mère",
       "notes_apple": 42,
@@ -5222,6 +5408,18 @@
       "titre": "TsunamIA: surfez sur la vague du changement apporté par l'intelligence artificielle",
       "notes_apple": 42,
       "fiche": "fiches/tsunamia-surfez-sur-la-vague-du-changement-apporte-par-l-intelligence-artificiel.html"
+    },
+    {
+      "slug": "50-matos-podcast-photo-video",
+      "titre": "50% Matos - Podcast Photo & Video",
+      "notes_apple": 42,
+      "fiche": "fiches/50-matos-podcast-photo-video.html"
+    },
+    {
+      "slug": "la-radio-de",
+      "titre": "La radio de...",
+      "notes_apple": 42,
+      "fiche": "fiches/la-radio-de.html"
     }
   ]
 }

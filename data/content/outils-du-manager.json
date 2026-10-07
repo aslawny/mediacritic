@@ -25,27 +25,31 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "vihen4475",
+        "titre": "Excellent, efficace, concret",
+        "texte": "J’ai 45 ans. Je suis ingénieur avec une spécialisation financière et j’ai eu plusieurs équipes à gérer de 5 à plus de 20 personnes, de tous niveaux.…"
+      },
+      {
+        "note": 2,
+        "auteur": "Pamela Duhamel",
+        "titre": "Épisode Maxime Delcourt",
+        "texte": "Édifiant de mauvaises décisions . J ai écouté avec attention l épisode de Maxime Delcourt. Le monsieur passe son temps à expliquer que rien n est de sa faute, au lieu de faire des concours d entrepreneurs pour son « EGO » c est son business qu il fallait développer .…"
+      },
+      {
+        "note": 5,
+        "auteur": "shebhz",
+        "titre": "ML FURGALA",
+        "texte": "Supers Podcasts que ceux d’outils du Manager que j’écoute en marchant tous les dimanches matin. Je partage également certains épisodes dont ceux du DISC, manager son chef et les outils d’organisation à mes 150 étudiants en Master ISLI en global Supply Chain de KEDGE que je dirige…"
+      }
     ]
   },
   "episodes_recents": [

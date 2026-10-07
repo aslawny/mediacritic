@@ -24,7 +24,7 @@
     "culture"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-07",
   "episodes_recents": [
     {
       "titre": "Le rap américain du premier trimestre 2026",
@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-05-09",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Ovni de Guermantes",
+        "titre": "Super podcast",
+        "texte": "L’abcdr c’est la dream team. Podcast tellement passionnant que j’ai eu un accident de voiture l’été 2018 quand Manue a défendu Jul contre les accusations de rap de fête foraine. Pas de rancune. C’est pour des débats comme ça qu’on se bat."
+      },
+      {
+        "note": 5,
+        "auteur": "Emmanuel Viviani",
+        "titre": "Toujours excellent",
+        "texte": "Toujours aussi remarquable dans l’analyse, le décryptage, la critique, la passion et les coups de cœur ! Merci et bravo !"
+      },
+      {
+        "note": 5,
+        "auteur": "LPDV_",
+        "titre": "👌🏽",
+        "texte": "Continuez vos contenus toujours aussi intéressant mais AUGMENTEZ LE SON !"
+      }
+    ]
+  }
 }

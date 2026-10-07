@@ -26,27 +26,31 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "lambda436789",
+        "titre": "Cinéphilie positive",
+        "texte": "Toi, oui toi devant ton hologramme, croulant sous les propositions cinématographiques, j’ai pour toi la solution à tes recherches. Le podcast que tu t’apprêtes à écouter établi pour toi et pour l’humanité le classement ultime du cinéma par décennies.…"
+      },
+      {
+        "note": 1,
+        "auteur": "No se falta",
+        "titre": "Audio de bonne qualité mais",
+        "texte": "Une certaine boursouflure qui est tolérable quand ils passent 5-10 minutes sur un film (les premiers épisodes) mais pas 20-30. Aiment dénoncer l’humour beauf alors que leur podcast en est rempli."
+      },
+      {
+        "note": 5,
+        "auteur": "Moi91600",
+        "titre": "Le second, c’est un c*n",
+        "texte": "Ici c’est un peu le masque et la plume mais sous stéroïdes. Daniel et Stephane (aka Kamui et Papa) nous régalent a chaque podcast de leur passion cinématographique avec pour but d’établir la liste ultime des meilleurs et des pires films de l’histoire, depuis les années 60.…"
+      }
     ]
   },
   "episodes_recents": [

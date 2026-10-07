@@ -24,7 +24,7 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-07",
   "episodes_recents": [
     {
       "titre": "À moitié vide : Élie du futur vient sauver notre duo",
@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-08-26",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "MadYtb",
+        "titre": "Tuto : comment passer un excellent moment",
+        "texte": "Podcast hilarant, les présentateurs savent comment tenir le rythme de leurs épisodes. Leurs invités sont tous intéressants, drôles et leurs listes relèvent pas mal de débats. Le concept est vraiment original et il marche à chaque fois.…"
+      },
+      {
+        "note": 1,
+        "auteur": "gbo45",
+        "titre": "Oh la la",
+        "texte": "Impression d’être dans un salon avec des invités complètement vides… n’est pas le FloodCast qui veut…"
+      },
+      {
+        "note": 5,
+        "auteur": "Philo.gpz",
+        "titre": "Podcast vivant et drôle",
+        "texte": "J’ai découvert le podcast « À moitié plein » grâce à un podcast de « Hot girls only » qui en parlait en bien, et c’est une super découverte ! J’adore la dynamique de ce podcast, les invités sont drôles et pertinents, et Pierre et Elie animent les épisodes à la perfection et saven…"
+      }
+    ]
+  }
 }

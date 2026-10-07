@@ -24,27 +24,31 @@
     "business",
     "entrepreneuriat"
   ],
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "FleurNgf",
+        "titre": "Mon déclic",
+        "texte": "J’ai découvert Déclic en cherchant un podcast sur le business et l’entrepreneuriat. J’en ai rapidement fait une véritable boulimie : un à deux épisodes par jour, pendant des mois. Ce podcast a complètement changé mon mindset.…"
+      },
+      {
+        "note": 2,
+        "auteur": "Cerf34",
+        "titre": "C’est dommage",
+        "texte": "Bonjour Alek, très bon podcast de bons invités malheureusement le son est médiocre, ton invité parle fort et toi on ne t’entend pas, du coup impossible d’écouter en voiture ou au sport du coup je n’écoute plus, mais je suis sûr que tu vas rapidement régler le problème et je revie…"
+      },
+      {
+        "note": 5,
+        "auteur": "ISF38",
+        "titre": "n must pour tous ceux qui veulent allier introspection et action !",
+        "texte": "Si vous êtes entrepreneur(e) ou même en réflexion sur votre carrière, le podcast Le Déclic est une véritable pépite. Alec Henry sait capter notre attention avec des épisodes à la fois inspirants et pratiques.…"
+      }
     ]
   },
   "episodes_recents": [

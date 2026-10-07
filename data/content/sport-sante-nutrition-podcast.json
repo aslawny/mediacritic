@@ -26,27 +26,31 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Auré1987",
+        "titre": "Merci",
+        "texte": "Merci pour ces poadcast très pratique et rigoureux sur la nutrition et le sport . Je suis diététicienne, mais je vous écoute , j’adore vos poadcast car vous allez à l’essentiel et vous expliquer très bien et de manière très pédagogique, j’apprends parfois de nouvelles choses , ma…"
+      },
+      {
+        "note": 2,
+        "auteur": "MikeKnpfl",
+        "titre": "Très difficile à écouter",
+        "texte": "Ce n'est pas dans mes habitudes de mettre des avis négatif. Mon but ce n'est pas de nuire à l'auteur, bien au contraire parfois il en faut pour s'améliorer. Au début je me suis dit c'est cool des podcast plutôt court sur le sport et la nutrition, ma passion.…"
+      },
+      {
+        "note": 5,
+        "auteur": "iionic23",
+        "titre": "Prise de masse jambes/fessier++",
+        "texte": "Le podcast le plus qualitatif en terme de sport santé et nutrition ! Beau travail. Ça se voit que tu maîtrises tes sujets et sait ce que tu dit. Peux-tu stp nous faire un podcast détaillé sur une prise de masse musculaire ciblée jambe/fessier.…"
+      }
     ]
   },
   "episodes_recents": [

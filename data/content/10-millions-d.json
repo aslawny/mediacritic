@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/10-millions-d%E2%82%AC/id1676594358?uo=2",
       "trackId": 1676594358,
       "rating": 4.7,
-      "ratingCount": 123,
+      "ratingCount": 124,
       "episodeCount": null
     }
   },
@@ -26,7 +26,7 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-07",
   "episodes_recents": [
     {
       "titre": "Podcast 10M : L'ego est l'ennemi de l'investisseur (Bourse & Immobilier) avec Rémi de Truchis de Varennes",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-06-20",
-  "frequence_jours": 15
+  "frequence_jours": 15,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "saad djar",
+        "titre": "Grandiose",
+        "texte": "Le podcast de Fouad Berlin et Hugo est une véritable pépite pour tous ceux qui recherchent un contenu riche en informations et en réflexions. Avec son art de la rhétorique et ses punchlines percutantes, Fouad Berlin maîtrise parfaitement les sujets qu'il aborde et sait captiver l…"
+      },
+      {
+        "note": 1,
+        "auteur": "Mickael_78.",
+        "titre": "Moi je",
+        "texte": "Le podcast aurait dû s’appeler « Moi, je » Une conversation d’anciens pauvres devenus condescendants car riche. Dommage"
+      },
+      {
+        "note": 5,
+        "auteur": "Victor.G17",
+        "titre": "Un enorme coup de pied au cul !",
+        "texte": "#JESUISLMNP Podcast extrêmement intéressant pour passer au niveau supérieur, cependant attention à ne pas trop dénigrer les autres stratégies quand même ! Je viens de formations lmnp/airbnb/coloc et encore pire pour vous : j’ai fait 1 an et 9 mois de travaux moi même ....…"
+      }
+    ]
+  }
 }

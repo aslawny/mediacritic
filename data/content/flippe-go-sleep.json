@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/flippe-go-sleep/id1777832941?uo=2",
       "trackId": 1777832941,
       "rating": 4.9,
-      "ratingCount": 1005,
+      "ratingCount": 1006,
       "episodeCount": null
     }
   },
@@ -26,7 +26,7 @@
     "news"
   ],
   "addedAt": "2026-06-09",
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-07",
   "episodes_recents": [
     {
       "titre": "Flippe & Go Sleep #20 avec Bilal",
@@ -52,25 +52,17 @@
   "derniere_activite": "2026-07-06",
   "frequence_jours": 29,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-10-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "(🤷🏼‍♀️)",
+        "titre": "INCRR",
+        "texte": "Alors je me suis récemment mise à l’horreur, j’étais assez sensible avant mais maintenant je regarde des films, des vidéos et j’écoute des podcasts! Tout à commencé grâce à toi, à sip and gossip, c’était le genre de truc que j’écoutais en surdooose et du coup Apple podcast m’a su…"
+      }
     ]
   }
 }

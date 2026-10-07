@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/espions-une-histoire-vraie/id1520686401?uo=4",
       "trackId": 1520686401,
       "rating": 4.6,
-      "ratingCount": 1331,
+      "ratingCount": 1334,
       "episodeCount": 13
     }
   },
@@ -24,27 +24,31 @@
   "tags": [
     "histoire"
   ],
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "azerty AC/DC",
+        "titre": "Trop d’intervalle",
+        "texte": "J’adore ce podcast mais ce qui est dommage c’est le fait que les épisodes sortent avec autant d’intervalle surtout par paquets de plusieurs podcast. Il faudrait que vous les sortiez régulièrement un par un, cela nous tiendrait en haleine.…"
+      },
+      {
+        "note": 1,
+        "auteur": "JJ le caca",
+        "titre": "Jsp",
+        "texte": "Le podcast a tromatise ma grand mère je les supprimer de mes favoris"
+      },
+      {
+        "note": 5,
+        "auteur": "majolaine",
+        "titre": "Deux poids deux mesures",
+        "texte": "Cette femme a communiqué pendant 24 ans,des secrets aux cubains dont on sait qu’ils n’étaient que les larbins des soviétiques et elle n’a pris qu’une vingtaine d’années de prison.…"
+      }
     ]
   }
 }

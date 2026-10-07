@@ -25,27 +25,31 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Valentin Tek",
+        "titre": "Bon podcast / pas d’accord avec votre conclusion",
+        "texte": "J’adore votre podcast en revanche pas du tout d’accord avec votre conclusion et analyse sur Madonna, il y a énormément de chanteuses qui continuent à créer, impressionner et continuer leur carrière malgré leur âge..…"
+      },
+      {
+        "note": 1,
+        "auteur": "#moonwalker4ever",
+        "titre": "Un peu déçue",
+        "texte": "Ce podcast est très instructif mais il y a quand même des mensonges et certaines choses sont passées sous silence alors qu’elles devraient être dites"
+      },
+      {
+        "note": 5,
+        "auteur": "Quelqu’un♡︎",
+        "titre": "Génial 😝❤️",
+        "texte": "Bonjour ! J’adore votre podcast, et rien de tel que d’en écouter un en voiture 🚗 ! Je ne suis pas particulièrement au courant de tout ce qui concerne les acteurs hollywoodiens, mais j’ai découvert beaucoup d’informations fascinantes 🤩grâce à vous.…"
+      }
     ]
   },
   "episodes_recents": [

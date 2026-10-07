@@ -26,7 +26,7 @@
     "education"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-07",
   "episodes_recents": [
     {
       "titre": "Peut-on vraiment aimer quelqu’un quand on a besoin de lui ? ( amour & dépendance affective )",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-23",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lesliebsr",
+        "titre": "Génial",
+        "texte": "Le meilleur podcast que j’ai eu la chance d’écouter dans ma vie. Laura c’est un peu ta meilleure amie qui te dit ce que tu as besoin d’entendre au moment clé de ta vie.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Clem-marion69",
+        "titre": "D’utilité publique",
+        "texte": "Toutes les femmes devraient selon moi écouter ce podcast. Il riche en vérité, en coup de massue comme dit si bien Laura. Mais permet de se remettre en question, vers une version de nous même plus grande, plus alignée et plus épanouie. À écouter et à réécouter, sans modération.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Callmelucy1",
+        "titre": "Ce podcast a changer ma vie",
+        "texte": "Et je n’abuse pas en disant ça. Il se passe pas un jour où je réécoute un épisode. Merci infiniment Laura, tu m’as énormément aider, quand je t’écoute je me reconnais et chaque jours j’avance un peu plus vers une paix intérieur inébranlable 🥹💖"
+      }
+    ]
+  }
 }

@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/ces-questions-que-tout-le-monde-se-pose/id1583904652?uo=2",
       "trackId": 1583904652,
       "rating": 4.7,
-      "ratingCount": 970,
+      "ratingCount": 971,
       "episodeCount": null
     }
   },
@@ -26,7 +26,7 @@
     "education"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-07",
   "episodes_recents": [
     {
       "titre": "Épisode 84 – Sur la résilience face aux changements",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-20",
   "frequence_jours": 21,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "So Soa",
+        "titre": "✨ Quel plaisir !",
+        "texte": "Quel plaisir de vous écouter après vous avoir lue ! Merci beaucoup Maud de nous donner autant, de partager avec générosité, douceur, bienveillance, simplicité. Merci à mon amie Sophie qui m’a parlé de votre premier roman pour la première fois il y a un an et que j’ai lu cet été.…"
+      },
+      {
+        "note": 1,
+        "auteur": "valfaha",
+        "titre": "En faire moins",
+        "texte": "Au début, les sujets m’intéressaient mais écouter vos podcasts les uns à la suite des autres est insupportable tellement vous faites ces remerciements à votre éditeur et votre éditeur et votre éditeur etc. Horripilant de sauter sur le bouton « avancer » aussi souvent.…"
+      },
+      {
+        "note": 5,
+        "auteur": "mombline",
+        "titre": "Merci",
+        "texte": "Merci pour ces réflexions qui font du bien. J’ai offert le livre kilomètre zéro à ma belle fille, mais j’avoue que je ne l’ai pas lu. Je ne sais pas si c’est lié, mais elle a été demandée en mariage en haut du Kilimandjaro! Ce podcast me donne envie de lire tous vos livres, Maud.…"
+      }
     ]
   }
 }

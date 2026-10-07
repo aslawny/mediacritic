@@ -27,7 +27,7 @@
     "business"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-07",
   "episodes_recents": [
     {
       "titre": "67- Investissement socialement responsable, investir verts et durable - Camille Lipani - Impact Invest",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2024-12-15",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Bamby_cruz",
+        "titre": "Un concentré d’érudition financier",
+        "texte": "Vraiment très très bien ! Ismaël Bernus est un puits de science. Ses invités sont très souvent des intervenants de qualité mais Ismaël qui les laisse s’exprimer avec une grande liberté est toujours très pertinent dans ses remarques et ses commentaires.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Jacdornan2208",
+        "titre": "Super intéressant mais beaucoup trop de temps perdu a reformuler en moins bien que l’invite",
+        "texte": "Supers sujets, invités très intéressants, mais je regrette une chose: vous reformulez sans cesse ce que vient de dire l’invité, au mieux avec une synthèse rapide, au pire avec strictement ses mots sans aucune valeur ajoutée.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Pilou3358",
+        "titre": "J’adoooooooore, le meilleur Podcast pour développer ses finances personnelles",
+        "texte": "Entre le contenu offert de très grande qualité et l’esprit «comme à la maison » ce podcast est de loin mon préféré! Il y a une telle diversité de sujets, mais expliqué de façon si simple avec pragmatisme.…"
+      }
+    ]
+  }
 }

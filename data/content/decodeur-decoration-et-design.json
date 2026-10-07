@@ -27,7 +27,7 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-07",
   "episodes_recents": [
     {
       "titre": "(Best of) #141 Thierry Grundman, l'antiquaire voyageur derrière Atmosphère d'Ailleurs",
@@ -53,25 +53,29 @@
   "derniere_activite": "2026-08-28",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "AnneSophie3",
+        "titre": "Le Club",
+        "texte": "Je trouve tous les épisodes et invités hyper intéressants! Je suis particulièrement conquise pas le format CLUB, regroupant vos acolytes journalistes. Chacune a son ton, son humour et son sujet, c’est très agréable à écouter.…"
+      },
+      {
+        "note": 5,
+        "auteur": "La Beauté des Banalités",
+        "titre": "Une potière du bout du monde à l’écoute",
+        "texte": "Je viens de finir votre dernière épisode. Et je dépose donc ici un avis pour aider ce super podcast « à sortir de la jungle des podcasts ». Merci pour cette interview que j’ai écouté en émaillant tout un four de céramique dont la cuisson partira juste après la fin de la rédaction…"
+      },
+      {
+        "note": 5,
+        "auteur": "nathgilbert",
+        "titre": "Un podcast sur l’art de penser l’intérieur.",
+        "texte": "Un podcast sur l’art de penser l’intérieur. Des objets à l’aménagement des espaces, de leur fabrication à leurs mise en valeur. Un panel de portrait de ceux qui pensent l’espace et créent l’art décoratif. Bravo Hortense pour ce podcast qui stimule la curiosité et la créativité.…"
+      }
     ]
   }
 }

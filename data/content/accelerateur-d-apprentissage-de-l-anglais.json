@@ -24,7 +24,7 @@
     "education"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-07",
   "episodes_recents": [
     {
       "titre": "Apprendre l'anglais : au bar",
@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2024-06-11",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Alto78",
+        "titre": "Génial !",
+        "texte": "Une des meilleures applications pour apprendre des phrases courtes et du vocabulaire à utiliser au quotidien."
+      },
+      {
+        "note": 1,
+        "auteur": "FDD Fox",
+        "titre": "Voix de synthèse! Horrible!",
+        "texte": "Quelle horreur d’apprendre en écoutant cette voix de synthèse! Je trouve ça insupportable, c’est quand même pas compliqué de faire appel à un humain pour un podcast! L’IA ne peut pas tout remplacer!"
+      },
+      {
+        "note": 5,
+        "auteur": "Tat@:8,€!33@;",
+        "titre": "Super !",
+        "texte": "Super ! On peut apprendre du vocabulaire avec la prononciation ! On peut pratiquer à tout moment !"
+      }
+    ]
+  }
 }
