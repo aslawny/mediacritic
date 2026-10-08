@@ -53,25 +53,29 @@
   "derniere_activite": "2026-08-25",
   "frequence_jours": 3,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-08",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-10-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Meguilol",
+        "titre": "Simplement Merci!",
+        "texte": "Simplement superbes. Chaque Mardi, les épisodes de Beau Voyage m'accompagne sur le chemin du travail, de quoi m'évader un petit peu. Merci pour ce boulot ❤️"
+      },
+      {
+        "note": 5,
+        "auteur": "eeeeemil mil",
+        "titre": "Top!",
+        "texte": "Très agréable à écouter. Bon rythme. Plein de bonnes astuces et sensation de se reconnaître un peu aussi."
+      },
+      {
+        "note": 5,
+        "auteur": "beraventures",
+        "titre": "Belle découverte !",
+        "texte": "Des histoires captivantes et hors normes, une qualité d’écoute excellente, bref une belle découverte :-)"
+      }
     ]
   }
 }

@@ -27,25 +27,23 @@
   ],
   "updatedAt": "2026-10-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-08",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-10-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Inti1510",
+        "titre": "Bomb",
+        "texte": "Est-ce que c’est possible de se faire tous les podcast en 2 jours ? OUIIII 🫶 j’ai adoré et je compte même réécouté ceux dont les sujets me parle ! Vraiment merci Manon je t’ai découvert toi ainsi qu Aba sous un autre jour 🤍🤍 continue like this"
+      },
+      {
+        "note": 5,
+        "auteur": "LeZa.a",
+        "titre": "Une PÉPITE",
+        "texte": "Je suis super heureuse d’avoir enfin passé le pas et d’avoir commencé le podcast ! Les sujets sont super intéressants, c’est chill, c’est posé et c’est drôle : juste parfait à écouter sous la douche, à la salle ou en cuisine. Merci Manoooon ❤️"
+      }
     ]
   },
   "episodes_recents": [

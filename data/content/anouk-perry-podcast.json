@@ -51,25 +51,29 @@
   "derniere_activite": "2022-01-07",
   "frequence_jours": 31,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-08",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ZemaG / Gil",
+        "titre": "Bravo mais petite déception",
+        "texte": "Ce podcast est génial et même d’utilité publique !! J’écoute (avec retard) et je trouve dommage d’apprendre que la domination par des femmes en tant que pratique sexuelle ne sera pas un sujet à cause des pratiques éventuelles qui y serait évoquées.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Sara-90-RS",
+        "titre": "Pas terrible",
+        "texte": "“La camionneuse années 60/70” 90/2000 et encore ! Je me suis arrêtée après 10 minutes d’une écoute douloureuse."
+      },
+      {
+        "note": 5,
+        "auteur": "littlemagicmermaid",
+        "titre": "Humour et découvertes au rdv !",
+        "texte": "J’écoute les podcasts d’Anouk depuis deux ans maintenant et Anouk me fait toujours rire et découvrir de nouveaux sujets : de la malédiction des Kévin au reportage sur les gang bang, ses anecdotes m’apprennent toujours de nouvelles choses et sa sincérité se ressent à l'écoute …"
+      }
     ]
   }
 }

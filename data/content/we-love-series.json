@@ -1,0 +1,75 @@
+{
+  "slug": "we-love-series",
+  "title": "We Love Series",
+  "author": "We Love Cinema",
+  "type": "podcast",
+  "categories": [
+    "series",
+    "critique"
+  ],
+  "description": "We Love Series, le podcast 100% série, c'est tous les mardis sur We Love Cinema et vos applis de podcasts. Avec Clémence Gueidan, Stéphane Moïssakis, Rafik Djoumi et Julien Dupuy.",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/4c/68/07/4c680718-25d9-5db5-600e-e6f55d0d2eca/mza_8682410513378877382.jpeg/170x170bb.png",
+  "language": "fr",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/we-love-series/id1333707876?uo=2",
+      "trackId": 1333707876,
+      "rating": 4.3,
+      "ratingCount": 177,
+      "episodeCount": null
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "series",
+    "critique"
+  ],
+  "addedAt": "2026-10-08",
+  "updatedAt": "2026-10-08",
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-10-08",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "X-Files 4/4",
+      "date": "2022-01-03"
+    },
+    {
+      "titre": "X-Files 3/4",
+      "date": "2021-12-21"
+    },
+    {
+      "titre": "X-Files 2/4",
+      "date": "2021-12-14"
+    },
+    {
+      "titre": "X-Files 1/4",
+      "date": "2021-12-07"
+    },
+    {
+      "titre": "Foundation 2/2",
+      "date": "2021-11-30"
+    }
+  ],
+  "derniere_activite": "2022-01-03",
+  "frequence_jours": 7
+}

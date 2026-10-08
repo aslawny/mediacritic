@@ -1,6 +1,6 @@
 {
-  "maj": "2026-10-07",
-  "total": 903,
+  "maj": "2026-10-08",
+  "total": 905,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -1016,6 +1016,12 @@
       "titre": "Secrets d'info",
       "notes_apple": 498,
       "fiche": "fiches/secrets-d-info.html"
+    },
+    {
+      "slug": "revelations",
+      "titre": "Révélations",
+      "notes_apple": 498,
+      "fiche": "fiches/revelations.html"
     },
     {
       "slug": "leadercast",
@@ -2162,6 +2168,12 @@
       "titre": "La Série musicale",
       "notes_apple": 200,
       "fiche": "fiches/la-serie-musicale.html"
+    },
+    {
+      "slug": "we-love-series",
+      "titre": "We Love Series",
+      "notes_apple": 177,
+      "fiche": "fiches/we-love-series.html"
     },
     {
       "slug": "ai-club",

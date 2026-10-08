@@ -1,0 +1,51 @@
+{
+  "slug": "tapiocast",
+  "title": "Tapiocast",
+  "author": "TapioCast",
+  "type": "podcast",
+  "categories": [
+    "humour"
+  ],
+  "description": "Tapiocast, n.m. : Mélange de perles sonores extraites de divers podcasts francophones, avec une noisette de beurre. Un savoureux mélange entre zapping et cadavre exquis, mais sinon vous pouvez écouter un épisode, ce sera plus rapide que d'essayer de vous pitcher. Réalisé par Aurélie Rose. N'hésitez pas à suivre le podcast et surtout à envoyer des emojis loutre à foison ! Ce podcast utilise des extraits diffusés dans différentes émissions. L'objectif n'est pas de détourner le propos initial. Si vous souhaitez toutefois qu'un passage soit retiré, n'hésitez pas à me le demander.",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/ef/63/f2/ef63f2fb-4aeb-bbb9-8785-849a751e5945/mza_12250632421625206061.jpeg/170x170bb.png",
+  "language": "fr",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/tapiocast/id1645606829?uo=2",
+      "trackId": 1645606829,
+      "rating": 4.8,
+      "ratingCount": 10,
+      "episodeCount": null
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "humour"
+  ],
+  "addedAt": "2026-10-08",
+  "updatedAt": "2026-10-08",
+  "episodes_recents": [
+    {
+      "titre": "18. J'ai chanté Destinée en faisant du patin à roulettes",
+      "date": "2026-07-16"
+    },
+    {
+      "titre": "17. Quel est votre doigt le plus musclé ?",
+      "date": "2026-03-20"
+    },
+    {
+      "titre": "16. C'est comme se faire percer le visage par un gorille",
+      "date": "2025-11-06"
+    },
+    {
+      "titre": "15. Ça peut être le titre",
+      "date": "2025-07-26"
+    },
+    {
+      "titre": "14. Elle sent le patchouli et j'aime beaucoup le patchouli",
+      "date": "2025-02-14"
+    }
+  ],
+  "derniere_activite": "2026-07-16",
+  "frequence_jours": 89
+}

@@ -27,25 +27,29 @@
   ],
   "updatedAt": "2026-10-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-08",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "kaliozz",
+        "titre": "J’en suis accro !",
+        "texte": "Cette émission est particulièrement bien animée et plutôt bien organisée. Les sujets sont pertinents et les chroniques sont assez bien rédigées.…"
+      },
+      {
+        "note": 2,
+        "auteur": "yepayas",
+        "titre": "Ils ne laissent pas les gens parler",
+        "texte": "Je trouve le podcast intéressant mais je regrette un peu que les invités soient si souvent coupés dans leur pensée cela mène à des conversations assez décousues. Arrêtez de leur couper la parole !"
+      },
+      {
+        "note": 5,
+        "auteur": "Maisnontudates!!!",
+        "titre": "Fan",
+        "texte": "Je suis juste fan de l’ambiance du plateau. Domingo est ultra bienveillant, met à l’aise tout le monde. J’ai découvert plein de streameuses et streamer grâce à lui. Le trio Domingo Ponce et Marie est désormais plus légendaire que les Totally Spies.…"
+      }
     ]
   },
   "episodes_recents": [

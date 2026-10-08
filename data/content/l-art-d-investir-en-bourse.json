@@ -52,25 +52,29 @@
   "derniere_activite": "2025-06-03",
   "frequence_jours": 3,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-08",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mostrecent",
+    "releve": "2026-10-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pierre-Olivier L.",
+        "titre": "Merci pour votre podcast",
+        "texte": "Bonjour! Je voulais saluer votre travail. J’aime beaucoup vos podcasts. Je suis du Québec mais malgré la distance vos sujets sont toujours pertinents et intéressants. Vous apportez un coup d’œil différent avec des réflexions que nous n’avons pas ailleurs. Pierre-Olivier"
+      },
+      {
+        "note": 5,
+        "auteur": "stephdisignature",
+        "titre": "Excellent vulgarisateur!",
+        "texte": "J’écoute vos balados du Québec et le tout est très pertinent permettant de démystifier moult sujets relatifs à l’investissement boursier. Merci!"
+      },
+      {
+        "note": 5,
+        "auteur": "RethPaw r",
+        "titre": "Bravo enfin un podcast enrichissant",
+        "texte": "Je suis vos podcasts avec beaucoup d’attention. Félicitations pour votre travail. Très professionnel et instructif. Pierre Blainville, Québec"
+      }
     ]
   }
 }

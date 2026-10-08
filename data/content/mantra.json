@@ -27,25 +27,29 @@
   ],
   "updatedAt": "2026-10-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-08",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Solenne BLG",
+        "titre": "La meilleure des formations growth !",
+        "texte": "4 mois que j’ai Gabriel et ses invités dans les oreilles plusieurs fois par semaine ! Je suis presque à jour de tous les épisodes :) Même si je suis une entrepreneuse du B2C (App EDTECH), c’est un régal d’écouter ces histoires d’entrepreneurs et de connaître leurs galères, leurs…"
+      },
+      {
+        "note": 1,
+        "auteur": "Henri-LRJ",
+        "titre": "Le dernier podcast #154 pas à la hauteur des autres",
+        "texte": "Petit bémol sur le dernier épisode du podcast qui n’est clairement pas du même niveau que les autres, invité qui n’est pas pertinente - elle ne donne rien d’intéressant et j’ai l’impression qu’elle ne maitrise pas son sujet, les résultats étaient peut-être là mais l’échange était…"
+      },
+      {
+        "note": 5,
+        "auteur": "Elokitty83",
+        "titre": "Le meilleur podcast sur le Growth hacking",
+        "texte": "Bravo Gabriel, j’adore écouter ton podcast qui m’apprend toujours pleins de nouvelles stratégies d’acquisition. Tu as l’art de poser des questions, de creuser chaque point pour que l’on comprenne bien avec des exemples et que l’on puisse appliquer les conseils facilement.…"
+      }
     ]
   },
   "episodes_recents": [

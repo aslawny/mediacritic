@@ -1,0 +1,53 @@
+{
+  "slug": "the-cloud-show-podcast",
+  "title": "The Cloud Show Podcast",
+  "author": "Nicolas",
+  "type": "podcast",
+  "categories": [
+    "tech",
+    "numerique"
+  ],
+  "description": "Bienvenue dans The Cloud Show, le podcast où on prend un sujet cloud et on le rend simple, clair et compréhensible par tout le monde, même si tu n’es pas un expert",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a4/3c/35/a43c35a2-65db-ab49-95e4-3049dcae4265/mza_1803964738216224489.jpg/170x170bb.png",
+  "language": "",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/the-cloud-show-podcast/id1878331014?uo=2",
+      "trackId": 1878331014,
+      "rating": null,
+      "ratingCount": null,
+      "episodeCount": null
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "tech",
+    "numerique"
+  ],
+  "addedAt": "2026-10-08",
+  "updatedAt": "2026-10-08",
+  "episodes_recents": [
+    {
+      "titre": "The Cloud Show Podcast #HS06 | Du DBA au Cloud Architect avec Eric DUQUESNOY",
+      "date": "2026-10-07"
+    },
+    {
+      "titre": "The Cloud Show Podcast #HS05 De Data Scientist à Expert en Cyber de l'IA avec Fabien CELLIER",
+      "date": "2026-09-14"
+    },
+    {
+      "titre": "The Cloud Show Podcast #S1E12 | Le Cloud sans règles : pourquoi ça finit toujours mal",
+      "date": "2026-09-03"
+    },
+    {
+      "titre": "The Cloud Show Podcast #S1E11 | Infrastructure as Code",
+      "date": "2026-08-31"
+    },
+    {
+      "titre": "The Cloud Show Podcast #S1E10 | Les bases de données dans le Cloud",
+      "date": "2026-08-31"
+    }
+  ],
+  "derniere_activite": "2026-10-07",
+  "frequence_jours": 20
+}

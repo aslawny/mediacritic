@@ -26,25 +26,29 @@
   ],
   "updatedAt": "2026-10-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-08",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Titsik",
+        "titre": "Éthique et entreprise",
+        "texte": "Bonjour, Je suis avec passion votre podcast(découverte récente mais d’intérêt général à mon goût lol), et la question que je me pose est pourquoi est on si choqué de voir que l’entreprise Facebook favorise ses profits et non l’humain derrière l’appli? Ce n’est pas un peu le cas d…"
+      },
+      {
+        "note": 1,
+        "auteur": "Pramounet",
+        "titre": "Gros virage et politisation",
+        "texte": "J’aimais beaucoup la formule jusque fin 2021… depuis c’est devenu extrêmement orienté politiquement (extrême gauche). Dommage, j’aimais bien la neutralité d’avant."
+      },
+      {
+        "note": 5,
+        "auteur": "@Ol1vier",
+        "titre": "A ne surtout pas arrêter",
+        "texte": "Un super podcast à ne surtout pas interrompre. Les sujets TRÈS concrets de l’actualité développé ensuite en détail d’un point de vue économique sont super intéressant. Je suis fan et ai écouté tous les épisodes en trois jours en m’étant abonné tout récemment.…"
+      }
     ]
   },
   "episodes_recents": [
