@@ -53,25 +53,29 @@
   "derniere_activite": "2026-08-31",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-09",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "clem_milt",
+        "titre": "Captivant",
+        "texte": "J’ai découvert il y a à peine une semaine ce podcast et j’ai absolument tout écouté, le casting est absolument génial, Blandine est incroyable comme host, chaque épisode m’a touché à sa manière, chaque histoire est inspirante, la résilience de chacun.e m’a bouleversé, on est fort…"
+      },
+      {
+        "note": 1,
+        "auteur": "Reemak23",
+        "titre": "Pas assez de place pour l’invité",
+        "texte": "Je découvre ce podcast qui, sur le papier, avait tout pour me rendre accroc. Mais les interventions incessantes de l’animatrice me dérangent, elle coupe la parole à son invité pour sans cesse commenter ou donner son avis.…"
+      },
+      {
+        "note": 5,
+        "auteur": "AudreyNoL",
+        "titre": "J’adore",
+        "texte": "Des histoires à la fois touchantes et bouleversantes, qui nous font passer du rire aux larmes en un instant. Je suis complètement fan et j’attends chaque nouvel épisode avec impatience …"
+      }
     ]
   }
 }

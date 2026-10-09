@@ -25,25 +25,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-10-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-09",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "auditwingo",
+        "titre": "Quel écart entre cette étude et les propos des médias, de nombreuses ONG et acteurs politiques",
+        "texte": "Enfin une étude qui remet les choses en ordre ! A écouter les médias, les ONG et beaucoup d’hommes politiques en quête de visibilité médiatique ce que nous mangeons est mauvais et dangereux.…"
+      },
+      {
+        "note": 5,
+        "auteur": "frasidfracar",
+        "titre": "Un ravissement",
+        "texte": "Je vous écoute la nuit quand je ne dors pas ou quand je me promène à travers champs. Je suis subjuguée par les connaissances de ces professeurs et je les remercie de savoir nous transmettre leur passion.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Calude Paris",
+        "titre": "L intelligence si bien partagée",
+        "texte": "Merci pour ces conférences, le savoir est à notre portée, dans notre salon, notre cuisine, le jardin ou les transports. Des leçons de haut vol où tout est si bien et si clairement exprimé. C’est un plaisir sans fin d écouter ces postcasts du Collège de France."
+      }
     ]
   }
 }

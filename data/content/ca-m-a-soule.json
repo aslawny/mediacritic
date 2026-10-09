@@ -50,25 +50,29 @@
   "derniere_activite": "2026-08-25",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-09",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "asma_28",
+        "titre": "Ça m’a vrm pas soulé j’ai même kiffé",
+        "texte": "Merci enzo pour les fouriresolo.fr genre je meurs de rire tout en continuant de se plaindre de l’actualité on peut pas être en mode tout vas bien dans la France de Macron c’est pas possible! Ne te limite pas au « positif » dans le sens où souvent tu vas te reprendre dès que tu pa…"
+      },
+      {
+        "note": 1,
+        "auteur": "ArnoHp",
+        "titre": "Propos problématiques",
+        "texte": "Se dit déconstruit mais a fait des tweets problématiques auprès de minorités! Tellement déçu."
+      },
+      {
+        "note": 5,
+        "auteur": "Jordanbkr",
+        "titre": "Vraiment, un chic type (et de superbes chats)",
+        "texte": "Bien sûr tu es hilarant, mais pas que : c’est bien plus profond que ça en a l’air, merci de si peu te prendre au sérieux et de garder ton franc-parler sur toutes les dingueries que ce monde claqué nous fait voir.…"
+      }
     ]
   }
 }

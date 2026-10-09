@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-10-02",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Cisen63",
+        "titre": "Un podcast inspirant sur le marketing éthique et éco-responsable",
+        "texte": "Léa et ses invités redorent le blason du marketing avec des exemples inspirants, riches et généreux. Ils nous démontrent que l’on peut créer une boîte à impact en appliquant des principes marketing éthique et eco-responsables. Les 2 premiers épisodes sont une mine d’or.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Thomas Birault",
+        "titre": "Le bon mix pour passer à l’action",
+        "texte": "L’effet Marketing : Un bon mix entre un échange plaisant où l’on plonge dans l’univers d’une boîte à impact et le décryptage d’une problématique précise. Mention spéciale à l’hôte du podcast qui laisse parler son invité sans l’interrompre.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Hélènemo",
+        "titre": "Du concret, et encore du concret !",
+        "texte": "Enfin un podcast qui donne la parole aux personnes qui mettent les mains dans le cambouilli ! Le résultat : un épisode clair, des conseils ultra précis, et une précieuse checklist d'outils facilement actionnables.…"
+      }
+    ]
+  }
 }

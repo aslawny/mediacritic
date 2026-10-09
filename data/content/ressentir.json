@@ -27,25 +27,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-10-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-09",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tarass Boulba",
+        "titre": "Un podcast pleinement incarné et habité par une belle âme",
+        "texte": "Avec empathie et cœur, mais aussi la rigueur de l’introspection pour boussole, Jessica Troisfontaine nous propose des conversations et réflexions rares, portées par la fraîcheur, l’authenticité, et le souci d’une parole toujours juste et profonde.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Laura _2026",
+        "titre": "Dommage",
+        "texte": "Épisode avec Cécile Coulon assez pénible à écouter : l’invitée était assez mégalomane , la conversation stérile et impression de perdre mon temps pendant 1h…Mauvais choix d’invitée à mon sens"
+      },
+      {
+        "note": 5,
+        "auteur": "Vany Fnl",
+        "titre": "Mon podcast préféré ⭐️⭐️⭐️⭐️⭐️",
+        "texte": "J’attends toujours avec impatience chaque épisode de Ressentir. Jessica choisit soigneusement ses invités. Que ce soient des artistes, des écrivains, des personnalités ou parfois des personnes moins connues, chaque invité apporte sa sensibilité si particulière et son regard propr…"
+      }
     ]
   },
   "episodes_recents": [

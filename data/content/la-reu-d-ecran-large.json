@@ -29,25 +29,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-10-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-09",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mosthelpful",
+    "releve": "2026-10-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "MatthieuBagna",
+        "titre": "Excellent Podcast cinéma",
+        "texte": "Un des meilleurs podcasts francophone sur le cinéma avec des sujets aussi variés qu’absurdes (sur le papier) avec des chroniqueurs et chroniqueuses aux connaissances pointues et à la verve incomparable."
+      },
+      {
+        "note": 3,
+        "auteur": "Archer035",
+        "titre": "Format décevant",
+        "texte": "Le format est trop court et ne permet pas les discussions approfondies dont sont capables les critiques Le format bimensuel empêche également de se faire une routine d’écoute"
+      },
+      {
+        "note": 5,
+        "auteur": "OvErYo",
+        "titre": "Vraiment excellent",
+        "texte": "Ça discute ciné mais aussi business autour de l’industrie, avec un avis éclairé sur un ton léger. Bravo, c’est extrêmement agréable à écouter."
+      }
     ]
   },
   "episodes_recents": [

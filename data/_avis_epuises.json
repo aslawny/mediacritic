@@ -1,6 +1,6 @@
 {
-  "maj": "2026-10-08",
-  "total": 905,
+  "maj": "2026-10-09",
+  "total": 917,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -3292,6 +3292,12 @@
       "fiche": "fiches/solae-le-rendez-vous-protestant.html"
     },
     {
+      "slug": "medecin-malgre-moi",
+      "titre": "Médecin Malgré Moi",
+      "notes_apple": 74,
+      "fiche": "fiches/medecin-malgre-moi.html"
+    },
+    {
       "slug": "au-commencement",
       "titre": "Au Commencement",
       "notes_apple": 73,
@@ -5098,6 +5104,12 @@
       "fiche": "fiches/wanderlust-le-podcast-voyage.html"
     },
     {
+      "slug": "la-chronique-de-juliette-arnaud",
+      "titre": "La chronique de Juliette Arnaud",
+      "notes_apple": 45,
+      "fiche": "fiches/la-chronique-de-juliette-arnaud.html"
+    },
+    {
       "slug": "contre-enquete-la-chaine-audio-true-crime",
       "titre": "Contre enquête : la chaine audio true crime",
       "notes_apple": 44,
@@ -5432,6 +5444,66 @@
       "titre": "La radio de...",
       "notes_apple": 42,
       "fiche": "fiches/la-radio-de.html"
+    },
+    {
+      "slug": "safe-place",
+      "titre": "SAFE PLACE",
+      "notes_apple": 42,
+      "fiche": "fiches/safe-place.html"
+    },
+    {
+      "slug": "une-blonde-en-norvege",
+      "titre": "Une blonde en Norvège",
+      "notes_apple": 42,
+      "fiche": "fiches/une-blonde-en-norvege.html"
+    },
+    {
+      "slug": "une-invention-sans-avenir",
+      "titre": "Une invention sans avenir",
+      "notes_apple": 42,
+      "fiche": "fiches/une-invention-sans-avenir.html"
+    },
+    {
+      "slug": "velo-podcast",
+      "titre": "Vélo Podcast",
+      "notes_apple": 42,
+      "fiche": "fiches/velo-podcast.html"
+    },
+    {
+      "slug": "we-are-all-medias",
+      "titre": "We are all Medias",
+      "notes_apple": 42,
+      "fiche": "fiches/we-are-all-medias.html"
+    },
+    {
+      "slug": "youman-skills",
+      "titre": "Youman Skills",
+      "notes_apple": 42,
+      "fiche": "fiches/youman-skills.html"
+    },
+    {
+      "slug": "a-team",
+      "titre": "A-Team",
+      "notes_apple": 41,
+      "fiche": "fiches/a-team.html"
+    },
+    {
+      "slug": "all-that-jazz-podcast",
+      "titre": "All That Jazz - podcast",
+      "notes_apple": 41,
+      "fiche": "fiches/all-that-jazz-podcast.html"
+    },
+    {
+      "slug": "allons-enfants",
+      "titre": "Allons Enfants",
+      "notes_apple": 41,
+      "fiche": "fiches/allons-enfants.html"
+    },
+    {
+      "slug": "amoureusement-votre",
+      "titre": "Amoureusement vôtre",
+      "notes_apple": 41,
+      "fiche": "fiches/amoureusement-votre.html"
     }
   ]
 }

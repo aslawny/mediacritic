@@ -28,25 +28,29 @@
   "addedAt": "2026-06-12",
   "updatedAt": "2026-10-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-09",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "kawkaw74",
+        "titre": "Exceptionnel !",
+        "texte": "Cher Leila et Mohamed, Je vous ai découvert il y a tout juste 1 mois en écoutant votre interview sur muslim makers et d’emblée j’ai eu envie d’aller voir votre podcast..…"
+      },
+      {
+        "note": 3,
+        "auteur": "sou - a",
+        "titre": "Idée intéressante",
+        "texte": "Une idée très intéressante et des conseils généreux.Petit bémol pour l’humour de Mohamed qui casse un peu le rythme de l’épisode (no offense)."
+      },
+      {
+        "note": 5,
+        "auteur": "Pivoine 3131",
+        "titre": "Machaallah",
+        "texte": "Selem alikoum a vous qu’Allah vous garde et vs préserve Je suis tomber après une demande auprès d allah de m’aider a savoir le lâcher prise en islam subhannallah dieu est grand et à notre écoute subhannallah pendant que je taper sur ma barre de recherche le lâcher prise en islam.…"
+      }
     ]
   },
   "episodes_recents": [

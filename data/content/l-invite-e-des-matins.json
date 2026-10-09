@@ -26,25 +26,29 @@
   ],
   "updatedAt": "2026-10-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-09",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "gb",
+    "tri": "mostrecent",
+    "releve": "2026-10-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "rebillicious",
+        "titre": "Excellent et essentiel",
+        "texte": "Je vous écoute chaque jour. Les invités offrent des évidences pour soutenir l’information qu’ils délivrent. Très impressionnant et ca permet de comprendre le contexte. Le seul bémol : certaines émissions ont de la musique avec un son très aiguë en background.…"
+      },
+      {
+        "note": 5,
+        "auteur": "vanmay1",
+        "titre": "Un des meilleurs podcasts en francais",
+        "texte": "Je suis une fana de podcasts ( BBC, france inter). C’est mon coup de coeur, ideal quand on vit a l’étranger. Une vraie analyse de fond et intelligente. Des invités universitaires de haut calibre. Tres accessible et avec des billets d’humeur tres drôles. Bravo France Culture!"
+      },
+      {
+        "note": 5,
+        "auteur": "Rakamrouge",
+        "titre": "Très rafraîchissant",
+        "texte": "Très rafraîchissant d’écouter cet émission avec des invités qui sont souvent très intéressants et bien informés."
+      }
     ]
   }
 }

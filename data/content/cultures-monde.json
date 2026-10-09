@@ -26,25 +26,29 @@
   ],
   "updatedAt": "2026-10-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-09",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "sobbek",
+        "titre": "Qui parlera le plus vite ..?",
+        "texte": "Quels massacres depuis quelques mois! Alors que j’ai incité nombres de mes amies à vous écouter tant votre émission me passionnait (0ui n’ait..) Aujourd’hui je stoppe la radio de plus en plus souvent car je ne comprend plus rien du tout.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Matbat38",
+        "titre": "Surdose",
+        "texte": "En pleine épidémie de coronavirus, l’équipe de l’émission décide de faire une semaine sur les épidémies et les problèmes de vaccination! Overdose... Parlez-nous d’autres choses Tellement décevant"
+      },
+      {
+        "note": 5,
+        "auteur": "Yess People",
+        "titre": "Bravo Julie Gacon",
+        "texte": "Bravo et merci Julie Gacon ! J'espère de tout coeur qu'on vous gardera toujours dans cette émission (à moins que vous n'ayez d'autres passions et désirs.…"
+      }
     ]
   }
 }

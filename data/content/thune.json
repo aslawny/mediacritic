@@ -28,25 +28,29 @@
   "addedAt": "2026-06-06",
   "updatedAt": "2026-10-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-09",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-10-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Soraya1448",
+        "titre": "J’adore !",
+        "texte": "Merci pour nous apprendre à nous décomplexer face à ce sujet si sensible aujourd’hui au sein de notre société ! Podcast découvert sur le sommet de l’inspiration professionnelle. Merci Laurence 😉"
+      },
+      {
+        "note": 5,
+        "auteur": "Char_lib",
+        "titre": "🤑",
+        "texte": "Tellement intéressant et rare de pouvoir parler de thune sans complexe. Ca m’a tellement ouvert les yeux sur la vision que je me suis faite de ce bout de papier. J’adore !"
+      },
+      {
+        "note": 5,
+        "auteur": "Annamlb",
+        "titre": "Excellent !",
+        "texte": "J’adore votre podcast! Tellement interessant, ça mène vraiment à la réflexion… Je ne rate pas un épisode!"
+      }
     ]
   },
   "episodes_recents": [

@@ -27,25 +27,17 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-10-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-09",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "gb",
+    "tri": "mosthelpful",
+    "releve": "2026-10-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "J Pilger",
+        "titre": "La résistance!!!",
+        "texte": "Même si je ne partage pas l’intégralité des idées d’Akim Omiri, et que je n’accorde pas plus de crédit aux politiques qu’il défend qu’à celles qu’il critique, son émission sur Radio Nova constitue une vraie bouffée d’air frais dans un paysage médiatique francophone lugubre.…"
+      }
     ]
   },
   "episodes_recents": [

@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-08-07",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "gderoque",
+        "titre": "Rafraichissant et édifiant !",
+        "texte": "Bravo pour ce podcast qui nous raconte l’histoire des gardiens passionnés de ce patrimoine grandeur nature"
+      },
+      {
+        "note": 1,
+        "auteur": "EdouardVDV",
+        "titre": "IA ?",
+        "texte": "J’ai l’impression que ce podcast est réalisé par une intelligence artificielle car les questions ont l’air très écrites et il n’y a pas vraiment de dialogue entre Sophie de Roquemaurel et l’interviewée. Le propos reste intéressant"
+      },
+      {
+        "note": 3,
+        "auteur": "Elsie44!",
+        "titre": "Les gens du jardin du château",
+        "texte": "J’ai beaucoup apprécié cette série, les sujets abordés le sont avec réflexion, la musique y est envoûtante. C’est Pédagogique et merveilleux. Cependant les gens de jardin ne sont pas forcément des gens de châteaux.…"
+      }
+    ]
+  }
 }
