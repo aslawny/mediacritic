@@ -26,27 +26,31 @@
     "numerique"
   ],
   "addedAt": "2026-07-12",
-  "updatedAt": "2026-10-07",
+  "updatedAt": "2026-10-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-10",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-10-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "TomRevolt",
+        "titre": "Génial",
+        "texte": "C’est génial, j’écoute mon carnet puis je viens écouter votre émission. Et même si vous êtes au même endroit (vivatech cette semaine), ou encore quand vous couvrez les mêmes informations, c’est un plaisir d’écouter l’un puis l’autre, on y entend des points de vues différents.…"
+      },
+      {
+        "note": 5,
+        "auteur": "'!'hor",
+        "titre": "Magnifique",
+        "texte": "Podcast très agréable à écouter et Jérôme est ici dans un rôle différent de d habitude qui procure une certaine addiction 😁. Et perso je trouve qu il faut un minimum de 25 min par épisode. Bravo 👏🏼 et bonne continuation."
+      },
+      {
+        "note": 5,
+        "auteur": "Alex de Bruxelles",
+        "titre": "Excellent Podcast !",
+        "texte": "Heureux d’avoir découvert ce très bon podcast, objectif, pédagogique et positif !"
+      }
     ]
   },
   "episodes_recents": [

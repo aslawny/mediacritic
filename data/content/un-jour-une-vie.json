@@ -25,27 +25,25 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-10-07",
+  "updatedAt": "2026-10-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-10",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "ch",
+    "tri": "mostrecent",
+    "releve": "2026-10-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Saluuutttlemonde!",
+        "titre": "Incroyable",
+        "texte": "C’est LE truc que j’écoute depuis quelques temps ! Je ne m’en lasse pas ! Aux auditeurs: “ Ça commence aujourd’hui ”, avec Faustine Bollaert aussi est tout aussi bien. Je vous le conseille !"
+      },
+      {
+        "note": 5,
+        "auteur": "Kolinskys",
+        "titre": "Adorable Flavie",
+        "texte": "Votre voix et votre intelligence m’enchantent, ne changer rien ."
+      }
     ]
   },
   "episodes_recents": [

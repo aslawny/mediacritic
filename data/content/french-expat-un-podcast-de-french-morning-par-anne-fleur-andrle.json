@@ -27,7 +27,7 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-07",
+  "updatedAt": "2026-10-10",
   "episodes_recents": [
     {
       "titre": "Episode de fin : Tourner la page après plus de 400 épisodes, entre copines",
@@ -53,25 +53,29 @@
   "derniere_activite": "2026-03-09",
   "frequence_jours": 4,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-10",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-10-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "PM_Australia",
+        "titre": "Trés intéressant pour un Australien",
+        "texte": "J'écoute depuis l'Australie. J'adore ce podcast ! D'écouter les perspectives du monde des expats français, c'est un grand plaisir pour moi qui rêve depuis des années d'habiter quelque part en Europe ou dans un pays francophone, surtout la France.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Jules357936",
+        "titre": "Super podcast",
+        "texte": "Ce podcast me permet de m’évader. De plus, je me sens moins seule quand j’entends d’autres expats se confronter aux mêmes problèmes que moi, ça fait un bien fou !"
+      },
+      {
+        "note": 5,
+        "auteur": "desperate diplo wife",
+        "titre": "Le seul que j’écoute 😀",
+        "texte": "Un podcast franchement bien foutu qui fait voyager et sourire. Que demander de plus?"
+      }
     ]
   }
 }

@@ -1,6 +1,6 @@
 {
-  "maj": "2026-10-09",
-  "total": 917,
+  "maj": "2026-10-10",
+  "total": 924,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -5350,6 +5350,12 @@
       "fiche": "fiches/adulte-mode-d-emploi.html"
     },
     {
+      "slug": "recto-verso",
+      "titre": "Recto-Verso",
+      "notes_apple": 43,
+      "fiche": "fiches/recto-verso.html"
+    },
+    {
       "slug": "coeur-de-mere",
       "titre": "Coeur de mère",
       "notes_apple": 42,
@@ -5482,6 +5488,12 @@
       "fiche": "fiches/youman-skills.html"
     },
     {
+      "slug": "la-nuit-d-arsene-lupin",
+      "titre": "La nuit d'Arsène Lupin",
+      "notes_apple": 42,
+      "fiche": "fiches/la-nuit-d-arsene-lupin.html"
+    },
+    {
       "slug": "a-team",
       "titre": "A-Team",
       "notes_apple": 41,
@@ -5504,6 +5516,36 @@
       "titre": "Amoureusement vôtre",
       "notes_apple": 41,
       "fiche": "fiches/amoureusement-votre.html"
+    },
+    {
+      "slug": "artecovert-la-voix-de-la-couleur-vegetale-et-des-plantes-tinctoriales",
+      "titre": "ArtEcoVert La voix de la couleur végétale et des plantes tinctoriales",
+      "notes_apple": 41,
+      "fiche": "fiches/artecovert-la-voix-de-la-couleur-vegetale-et-des-plantes-tinctoriales.html"
+    },
+    {
+      "slug": "bwp-le-podcast-de-business-women-in-paris",
+      "titre": "BWP - Le podcast de Business Women in Paris",
+      "notes_apple": 41,
+      "fiche": "fiches/bwp-le-podcast-de-business-women-in-paris.html"
+    },
+    {
+      "slug": "dans-la-tete-d-un-scenariste",
+      "titre": "Dans la tête d'un Scénariste",
+      "notes_apple": 41,
+      "fiche": "fiches/dans-la-tete-d-un-scenariste.html"
+    },
+    {
+      "slug": "ezoterique-spiritualite-et-mediumnite",
+      "titre": "Ézotérique - Spiritualité et médiumnité",
+      "notes_apple": 41,
+      "fiche": "fiches/ezoterique-spiritualite-et-mediumnite.html"
+    },
+    {
+      "slug": "fracture",
+      "titre": "Fracture",
+      "notes_apple": 41,
+      "fiche": "fiches/fracture.html"
     }
   ]
 }

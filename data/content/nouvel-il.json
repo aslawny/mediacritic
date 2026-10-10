@@ -23,27 +23,31 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-07",
+  "updatedAt": "2026-10-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-10",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lulux13",
+        "titre": "Galvanisant",
+        "texte": "On apprend beaucoup, ça remotive et ça redonne foie en l’humanité. J’ai découvert Victoria au Congrès Innovation en Éducation, elle m’a profondément touchée, l’impression qu’elle disait tout haut ce que je pensais et ressentais tout bas.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Scratina crifred",
+        "titre": "Une pépite qui change la vie",
+        "texte": "J’ai découvert Nouvel Œil par hasard et depuis je ne quitte plus les aventures de Victoria. C’était censé être pour les 25 ans, j’en ai 45 mais j’apprends de chaque écoute pour me libérer, oser, me dire que s’écouter et bifurquer c’est possible, et ça m’aide aussi à être meilleur…"
+      },
+      {
+        "note": 5,
+        "auteur": "Clairest222",
+        "titre": "Merci 🙏",
+        "texte": "C’est toujours un grand plaisir d’écouter ces interviews. Tu arrives à trouver des personnes qui sont différentes les unes des autres mais qui par leur sagesse, leur dynamisme et leur courage, nous montre que la vie vaut le coup d’être vécue.…"
+      }
     ]
   },
   "episodes_recents": [

@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/les-m%C3%A9ditations-de-coelia/id1465903057?uo=4",
       "trackId": 1465903057,
       "rating": 4.8,
-      "ratingCount": 588,
+      "ratingCount": 589,
       "episodeCount": 198
     }
   },
@@ -26,27 +26,31 @@
     "societe"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-10-07",
+  "updatedAt": "2026-10-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-10",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "NanouBibi",
+        "titre": "Une vraie bulle de bien-être",
+        "texte": "S’offrir 5 à 10mn par jour rien que pour soi, ça fait du bien. Coelia guide avec bienveillance et douceur pour un petit instant de bien-être. Il y a des méditations pour tous les besoins : pour les soirs d’insomnie, pour se donner un coup de boost, pour se calmer… j’adore …"
+      },
+      {
+        "note": 1,
+        "auteur": "Chemin -Dan",
+        "titre": "Non relatif à la méditation",
+        "texte": "Ce podcast ne propose pas en vrai de méditation. Trop d’interviews rapport avec le titre de ce podcast."
+      },
+      {
+        "note": 5,
+        "auteur": "clairou_18",
+        "titre": "Méditations addictives",
+        "texte": "Ces courtes méditations qui m’accompagnent durant mon hospitalisation, au réveil pour se lever en douceur et donner une note positive pour la journée, et au couché pour apaiser mon mental.…"
+      }
     ]
   },
   "episodes_recents": [

@@ -27,27 +27,31 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-07",
+  "updatedAt": "2026-10-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-10",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Patatalacrème",
+        "titre": "Cool",
+        "texte": "J’aime bien, ça reflète les petits problèmes que l’on a à l’école, c’est assez drôle mais vous pourriez faire plus d’épisodes, j’adore aussi astrapi. C’est avec plaisir que je vous mets 5 étoiles"
+      },
+      {
+        "note": 1,
+        "auteur": "Maximillin vaktsekoktrivbyupe",
+        "titre": "Nulisime!",
+        "texte": "Je vais dire ça en gros et en clair c’est trop trop 😀 nul 👎 en plus c’est super court"
+      },
+      {
+        "note": 5,
+        "auteur": "Andréa. Mateos",
+        "titre": "André",
+        "texte": "Lulu à l’école, j’ai des difficultés et je n’y arrive pas trop tout le temps donc moi j’essaye de faire de mon mieux même si des fois j’y arrive pas voilà bisous les fan de Lulu"
+      }
     ]
   },
   "episodes_recents": [

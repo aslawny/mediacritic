@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/la-nuit-dars%C3%A8ne-lupin/id1554047210?uo=2",
       "trackId": 1554047210,
       "rating": 4.2,
-      "ratingCount": 41,
+      "ratingCount": 42,
       "episodeCount": null
     }
   },
@@ -27,7 +27,7 @@
     "culture"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-10-07",
+  "updatedAt": "2026-10-10",
   "episodes_recents": [
     {
       "titre": "Le 7 de coeur",
@@ -51,5 +51,27 @@
     }
   ],
   "derniere_activite": "2021-02-11",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-10-10",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

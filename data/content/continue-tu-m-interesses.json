@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/continue-tu-mint%C3%A9resses/id1812415752?uo=2",
       "trackId": 1812415752,
       "rating": 4.9,
-      "ratingCount": 573,
+      "ratingCount": 574,
       "episodeCount": null
     }
   },
@@ -27,7 +27,7 @@
     "news"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-10-07",
+  "updatedAt": "2026-10-10",
   "episodes_recents": [
     {
       "titre": "Episode spécial | Best of n°2",
@@ -53,25 +53,29 @@
   "derniere_activite": "2026-08-03",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-10",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "TheWillFactory",
+        "titre": "Le meilleur podcast depuis le Floodcast",
+        "texte": "Bien que le contenu, l'ambiance et le ton n'ai rien à voir avec \"feu\" le Floodcast, le podcast de Patrick Baud est sans doute un des meilleurs contenus français depuis longtemps. Il nous accompagne à la découverte d'invités hétéroclites, dans une ambiance cocooning et détente.…"
+      },
+      {
+        "note": 2,
+        "auteur": "Life_TV",
+        "titre": "Dommage",
+        "texte": "Sans les biais sioniste qui transpirent dans certains épisodes, le podcast serait excellent. Amusant, surtout quand 1 épisode sur 2 critique Trump (à raison)."
+      },
+      {
+        "note": 5,
+        "auteur": "picrope",
+        "titre": "Intéressant",
+        "texte": "Comme tous les travaux de Patrick Baud, ce podcast est très intéressant et une source de découvertes incroyables. C’est devenu pour moi un rendez-vous hebdomadaire immanquable. Il n’y a que le dernier épisode que je n’ai pas apprécié à mon grand regret.…"
+      }
     ]
   }
 }

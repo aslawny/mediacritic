@@ -26,27 +26,31 @@
     "culture"
   ],
   "addedAt": "2026-06-18",
-  "updatedAt": "2026-10-07",
+  "updatedAt": "2026-10-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-10",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "HubParis",
+        "titre": "Incontournable",
+        "texte": "Découverte sur le tard également... un podcast sur Mylène Farmer, je m'attendais à ce que cela tombe dans la redite et les clichés, et quelle découverte …"
+      },
+      {
+        "note": 1,
+        "auteur": "BenParis3",
+        "titre": "Décevant",
+        "texte": "Très déçu par ce podcast... il y avait tellement t de chose à dire que s’en est bâclé. Pourquoi n’avoir pas fait 2 épisode? Et où elle est l’interview de The Omega?? Ha oui ailleurs...…"
+      },
+      {
+        "note": 5,
+        "auteur": "Ali024_",
+        "titre": "Une analyse merveilleuse",
+        "texte": "J’ai découvert votre podcast en faisant des recherches afin de voir si il y avait des podcasts sur l’histoire de Mylène Farmer et de ses musique.…"
+      }
     ]
   },
   "episodes_recents": [

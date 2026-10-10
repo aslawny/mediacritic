@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/les-collections-de-lheure-du-crime/id1593842944?uo=2",
       "trackId": 1593842944,
       "rating": 3.9,
-      "ratingCount": 519,
+      "ratingCount": 520,
       "episodeCount": null
     }
   },
@@ -26,27 +26,31 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-07",
+  "updatedAt": "2026-10-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-10",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Poule717",
+        "titre": "Super",
+        "texte": "Super émission J’adore on apprend plain de chose Je suis accro Très bonne émissions malgré quelques bafouillages très instructif Merciiiiii"
+      },
+      {
+        "note": 1,
+        "auteur": "LRioLuiyaenr",
+        "titre": "Aïe",
+        "texte": "Cette émission fait mal aux oreilles… c est horrible à écouter"
+      },
+      {
+        "note": 5,
+        "auteur": "clairon 04",
+        "titre": "Passionnant !!!",
+        "texte": "Merci pour le récit de tous ces faits divers qui ont marqué nos mémoires avec des intervenants et tout le talent de J.A.Richard !"
+      }
     ]
   },
   "episodes_recents": [

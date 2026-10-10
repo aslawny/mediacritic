@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/game-of-roles/id1350491357?uo=2",
       "trackId": 1350491357,
       "rating": 4.9,
-      "ratingCount": 551,
+      "ratingCount": 552,
       "episodeCount": null
     }
   },
@@ -27,7 +27,7 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-07",
+  "updatedAt": "2026-10-10",
   "episodes_recents": [
     {
       "titre": "GAME OF ROLES ODYSSÉE : Clôture du crowdfunding ! (3/3)",
@@ -53,25 +53,29 @@
   "derniere_activite": "2026-07-06",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-10",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Alexlegone",
+        "titre": "Virevoltante et pas cher.",
+        "texte": "Que dire de cette série audio, de ce podcast, de cette épopée fantastique? Des héros incroyables, accompagnés d’une main de maître par le plus grand Maître du Jeu de ces 79 dernières années. Pour faire simple. J’aime pas la simplicité.…"
+      },
+      {
+        "note": 2,
+        "auteur": "Djome92",
+        "titre": "Bon jeu de rôles mais",
+        "texte": "Bon jeu de rôle, amusant différent de donjons et dragons qui m’a fait redécouvrir et aimer le jeu de rôles . Bémol sur Lâm qui est imbuvable, et ce qui est usant malgré le crowdfunding c’est la quantité inadmissible de pubs…qui gâche totalement la lecture et qui explique pour moi…"
+      },
+      {
+        "note": 5,
+        "auteur": "Kate prescott",
+        "titre": "Époustouflant",
+        "texte": "Je vous ai découvert avec la saison 5. Autant dire tout de suite que je l’ai mise de côté pour l’instant pour découvrir tout ce univers depuis la saison 1. Tout est incroyable : la richesse du lore, l’écriture, les détails, les protagonistes...…"
+      }
     ]
   }
 }

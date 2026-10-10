@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/pardon-gpt/id1687086031?uo=2",
       "trackId": 1687086031,
       "rating": 4.8,
-      "ratingCount": 588,
+      "ratingCount": 589,
       "episodeCount": null
     }
   },
@@ -25,27 +25,31 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-07",
+  "updatedAt": "2026-10-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-10",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "NVTHVNBLAKS",
+        "titre": "Toujours au top !",
+        "texte": "Je suis tombé sur le podcast au premier épisode 100% par hasard, et franchement je saute sur chaque nouvel épisode. Je m’attendais à pas grand chose et je pensais que ça allait me lasser rapidement, mais pas du tout ! L’épisode avec VDB m’a tué.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Djdjdncńć",
+        "titre": "oula",
+        "texte": "podcast d’énormes gauchistes relayant des valeurs de victimes"
+      },
+      {
+        "note": 5,
+        "auteur": "Lionel-57",
+        "titre": "Drôle et passionnant",
+        "texte": "Un concept qui fonctionne à merveille (à part avec ThomasVDB🥲), qui mêle subtilement humour et ouverture d’esprit et qui m’a permis de découvrir des personnes passionnantes.…"
+      }
     ]
   },
   "episodes_recents": [

@@ -26,7 +26,7 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-07",
+  "updatedAt": "2026-10-10",
   "episodes_recents": [
     {
       "titre": "Une quête de paillettes",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-09-01",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-10",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Camiojovi",
+        "titre": "Toujours intéressant à écouter",
+        "texte": "J’ai toujours plaisir à écouter vos podcasts bien documentés , drôles , qui incitent à la réflexion et pleins de bon sens ! Je ne suis pas du tout une jeune maman mais une grand-mère de 5 petits enfants de 6 à 11 ans et donc une maman de 3 enfants 😉qui a essayé ( avec le grand pè…"
+      },
+      {
+        "note": 1,
+        "auteur": "reznor75",
+        "titre": "Pénible",
+        "texte": "Après la vague de spots de pub insupportable, j’ai décidé d’essayer et en tant que parent j’ai trouvé ce podcast pénible et nul. Totalement inutile. Passez votre chemin et ne faites pas confiance à la pub"
+      },
+      {
+        "note": 5,
+        "auteur": "Bforbili",
+        "titre": "Juste parfait 🙏",
+        "texte": "Difficile de dire mieux que les précédents commentaires qui résument parfaitement ce que je pense de ce podcast… une vraie pépite ! Et des podcasts sur la maternité j’en connais (entre La Matrescence, Bliss, Les Maternelles, Galère sa mère, Tout sur elles…) et c’est bien la premi…"
+      }
     ]
   }
 }

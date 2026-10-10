@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/la-face-sombre-de-lhistoire/id1765145100?uo=2",
       "trackId": 1765145100,
       "rating": 4.5,
-      "ratingCount": 589,
+      "ratingCount": 591,
       "episodeCount": null
     }
   },
@@ -27,7 +27,7 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-07",
+  "updatedAt": "2026-10-10",
   "episodes_recents": [
     {
       "titre": "Robert Mugabe, du héros de l'indépendance au tyran du Zimbabwe",
@@ -53,25 +53,29 @@
   "derniere_activite": "2026-09-03",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-10",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Dn20260",
+        "titre": "Antonio de Salazar",
+        "texte": "Petite rectification : la chanson qui a donné le point de départ de la Révolution des Œillets, c’est « E depois do Adeus » interprétée par Paulo de Carvalho.…"
+      },
+      {
+        "note": 1,
+        "auteur": "-7):)$$()?(.//",
+        "titre": "Nul nul nul",
+        "texte": "Que du copier coller mais en moins bien d’entrée dans l’histoire alors qu’il l’a deja fait et en plus il croit c bien"
+      },
+      {
+        "note": 5,
+        "auteur": "NelsonDeVillemareuil",
+        "titre": "Que le donneur de leçons de prononciation ailles au diable",
+        "texte": "Perso jm’en fiche qu’il prononce mal les deux \"ee\" comme étant \"I\" psk du moment où je suis bien dans le récit et à fond dedans, le détails comme celui ci m’importe peu. Ont ne résume pas un podcast a une erreur de prononciation, bref il m’as gaver l’intello là …"
+      }
     ]
   }
 }

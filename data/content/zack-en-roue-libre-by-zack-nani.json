@@ -24,27 +24,31 @@
   "tags": [
     "histoire"
   ],
-  "updatedAt": "2026-10-07",
+  "updatedAt": "2026-10-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-10",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pabloduburcq",
+        "titre": "Super",
+        "texte": "Merci pour ton gros boulot Zack. J’aime beaucoup ton approche et peu à peu je me suis mit à écouter. Maintenant quand je vois Pablo Longoria comme invité, je pète les plombs (Oui je suis marseillais). Félicitations pour la qualité de tes échanges, la qualité des invités etc..…"
+      },
+      {
+        "note": 3,
+        "auteur": "mizbrda",
+        "titre": "Magnifique !",
+        "texte": "J’ai découvert le podcast avec celui de Samir Nasri. Quel régal de l’entendre parler"
+      },
+      {
+        "note": 5,
+        "auteur": "Adaminho69",
+        "titre": "Plaisir",
+        "texte": "Salam Zach je kiffe tout ce que tu fait particulière zach en roue libre tes podcasts je les adorent maintenant plus de musique ❌ Je t’ecoute avant de dormir en jouer en me baladant 🔥💪 J’ecoute tt le monde sa nous permet de découvrir des personnalités et des metiers … J’aimerais b…"
+      }
     ]
   },
   "episodes_recents": [

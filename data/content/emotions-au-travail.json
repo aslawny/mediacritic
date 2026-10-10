@@ -26,7 +26,7 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-07",
+  "updatedAt": "2026-10-10",
   "episodes_recents": [
     {
       "titre": "Peut-on en vouloir aux gens en retard ?",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-17",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-10",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "AudreyH06",
+        "titre": "J’adore l’épisode sur le temps de travail",
+        "texte": "Les sujets sont très intéressants mais j’ai toujours l’impression qu’on s’arrête à l’introduction. Ça ne répond pas à mes questions, ça pose juste les sujets.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Abilinanes",
+        "titre": "Personnes Intervenantes.",
+        "texte": "Sinon, faire intervenir des personnes non blanches ? A quand ?"
+      },
+      {
+        "note": 5,
+        "auteur": "Lili PP",
+        "titre": "Merci pour vos podcasts",
+        "texte": "Déjà accro à vos podcasts et sujets abordés, j’ai découvert « Travail en cours » ces 2 derniers jours. Au delà des sujets intéressants, ces podcasts m’ont aidé à sauter le pas dans le changement de vie professionnelle et mon rapport au travail.…"
+      }
     ]
   }
 }
