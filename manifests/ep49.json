@@ -1,0 +1,32 @@
+{
+  "ep": 49,
+  "saison": 2,
+  "slug": "affaires-sensibles",
+  "page": "affaires-sensibles.html",
+  "title": "Affaires sensibles",
+  "tagline": "France Inter, depuis 2014",
+  "meta_desc": "MediaCritic analyse Affaires sensibles (France Inter) : un récit documentaire par jour depuis 2014, porté par la voix de Fabrice Drouelle. Pas du true crime.",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/63/70/8c/63708c3b-ed11-5d19-fa67-132f92e463f3/mza_8301076687401115427.jpg/600x600bb.jpg",
+  "initials": "AS",
+  "type_line": "Émission de radio · Documentaire · Quotidienne · France Inter",
+  "hosts_line": "Animé par <strong>Alex · Lolo</strong>",
+  "authors": [
+    "Alex",
+    "Lolo"
+  ],
+  "buttons": [
+    {
+      "href": "https://podcasts.apple.com/fr/podcast/affaires-sensibles/id912451024",
+      "label": "🎙️ Le podcast"
+    }
+  ],
+  "note": 9,
+  "verdict": "Un documentaire par jour depuis 2014 : la preuve qu'on peut faire de l'exigence en plein après-midi, devant un public immense.",
+  "content_file": "manifests/ep49-content.html",
+  "listen": {
+    "spotify": "https://open.spotify.com/episode/6s6qfSTDlP5h2dcgNd9JwN",
+    "apple": "https://podcasts.apple.com/fr/podcast/s02-ep49-affaire-sensibles/id1853247643?i=1000795218372",
+    "deezer": "https://www.deezer.com/fr/episode/946326332",
+    "youtube": "https://www.youtube.com/watch?v=j6b3wT2Tnqc"
+  }
+}
