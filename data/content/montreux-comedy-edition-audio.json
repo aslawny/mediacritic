@@ -27,25 +27,23 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-10-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-11",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-10-11",
+    "extraits": [
+      {
+        "note": 3,
+        "auteur": "vye.dumont",
+        "titre": "Retirez Yellow Mic svp",
+        "texte": "Autant, j’aime écouter les spectacles en podcast, autant les épisodes Yellow, Mic devraient avoir leur propre podcast selon moi. Il y a une différence entre vouloir écouter un humoriste pour se détendre, et écouter une interview."
+      },
+      {
+        "note": 3,
+        "auteur": "vye.dumont",
+        "titre": "Retirez Yellow Mic svp",
+        "texte": "Autant, j’aime écouter les spectacles en podcast, autant les épisodes Yellow, Mic devraient avoir leur propre podcast selon moi. Il y a une différence entre vouloir écouter un humoriste pour se détendre, et écouter une interview."
+      }
     ]
   },
   "episodes_recents": [

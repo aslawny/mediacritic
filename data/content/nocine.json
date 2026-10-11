@@ -26,25 +26,29 @@
   ],
   "updatedAt": "2026-10-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-11",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "T-rhymes",
+        "titre": "La Référence tout simplement 👌🏾",
+        "texte": "L’émission hebdomadaire la plus pointu et intéressante à suivre sur les sorties cinéma du moment. Des intervenants aux propos et avis pertinents (quoi qu’on en penses) dans un format court et synthétique donnant systématiquement les clés d’analyses des œuvres cinématographiques.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Jean Lanteri",
+        "titre": "Hum",
+        "texte": "Couper votre podcast c’est comme couper la hôte dans la cuisine"
+      },
+      {
+        "note": 5,
+        "auteur": "Dany Brouillard",
+        "titre": "Formidable",
+        "texte": "Je viens de découvrir ce podcast avec l'émission consacrée à \"Baby Driver\" : c'est formidable ! Des avis argumentés, de vrais spécialistes, mordus et passionés, énormément d'infos, j'ai eu envie de revoir instantanément ce film grâce à cette belle bande d'érudits.…"
+      }
     ]
   },
   "episodes_recents": [

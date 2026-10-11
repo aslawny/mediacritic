@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2020-10-25",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Virginie 😉😉",
+        "titre": "Top l’immersion dans la vie des joueurs pro",
+        "texte": "Trop content d’enfin entendre la vérité sur la vie des joueurs de tennis de second rang. Merci à toi pour nous partager ça Pourrais tu interviewer quelqu’un qui a participé à un grand chelem ?"
+      },
+      {
+        "note": 5,
+        "auteur": "paulmonta",
+        "titre": "Super podcast pour les amateurs de tennis !",
+        "texte": "Je recommande ce podcasts à ceux qui veulent progresser au tennis et trouver l'inspiration pour aller jouer. En complément de leurs vidéos YouTube, très pédagogiques."
+      },
+      {
+        "note": 5,
+        "auteur": "edouardgo1",
+        "titre": "Super inspirant !!",
+        "texte": "Podcast super intéressant pour les amateurs/fans de tennis. Des conseils concrets de joueurs et des anecdotes amusantes, à consommer dans modération"
+      }
+    ]
+  }
 }

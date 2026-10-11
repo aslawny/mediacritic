@@ -29,25 +29,29 @@
   "addedAt": "2026-06-06",
   "updatedAt": "2026-10-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-11",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-10-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lulu1AndOnly",
+        "titre": "Découvert par hasard…",
+        "texte": "J’ai adoré l’épisode écouté sur l’ASL ! Et maintenant vais écouter tous les autres. J’adore le principe et la voix de Céline. S’il y a déjà un épisode sur elles, oublie , mais sinon sur Eleonore Roosevelt, Chimamanda Ngozi Adichie ou Maya Angelou, ce serait génial. Merci !"
+      },
+      {
+        "note": 5,
+        "auteur": "Cele qui aime lire",
+        "titre": "Les heroines",
+        "texte": "J adore ce potcast car cela parle de femmes determine à aller au bout de leur reves , des femme qui n ‘abandonnent jamais meme quand c’est dificile .Des femmes libres et courageuses. Merci Celine Steyer d’avoir cree ce podcast que j’ecoute chaque soir!❤️"
+      },
+      {
+        "note": 4,
+        "auteur": "🤗😹🫶🏻",
+        "titre": "Stranger Things",
+        "texte": "Tu peux faire un épisode sur Sadie sink celle qui joue Max dans Stranger Things s’il te plaît elle a changé ma vie"
+      }
     ]
   },
   "episodes_recents": [

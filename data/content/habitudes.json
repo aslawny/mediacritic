@@ -53,25 +53,29 @@
   "derniere_activite": "2025-05-19",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-11",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "didierdidier",
+        "titre": "L’élégance dans tes oreilles",
+        "texte": "Un super podcast, la première série qui m’a vraiment captivé et donne envie d’écouter tous les épisodes, que je connaisse l’invité ou non. Les thèmes abordés, la construction des épisodes, la diversité des univers explorés au fil des invités, tout ça, c’est beau et fin et juste e…"
+      },
+      {
+        "note": 1,
+        "auteur": "Lapetitegrenouillerose78",
+        "titre": "Un peu moins sympa",
+        "texte": "Personnalités un peu moins captivantes …. Plus de promo moins de perso"
+      },
+      {
+        "note": 5,
+        "auteur": "LeSpaceCowboy",
+        "titre": "Superbe podcast",
+        "texte": "Un excellent podcast. Derrière une ambiance casual se cache en réalité un podcast très pointu, presque élitiste (dans le bon sens du terme) en ce qu’il plonge l’auditeur dans des mondes et des époques révolus ou difficilement accessibles par leur rareté.…"
+      }
     ]
   }
 }

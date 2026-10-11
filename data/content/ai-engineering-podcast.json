@@ -1,0 +1,53 @@
+{
+  "slug": "ai-engineering-podcast",
+  "title": "AI Engineering Podcast",
+  "author": "Christophe Blefari & Julien Hurault",
+  "type": "podcast",
+  "categories": [
+    "tech",
+    "numerique"
+  ],
+  "description": "Everyone's trying to figure out how to get the most out of all these AI tools. With this podcast, we share what we discover — and invite guests to explain how they use them in their day-to-day work.",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5f/f8/63/5ff86368-729e-c95c-f419-71e6305c1011/mza_1858269153863533879.png/170x170bb.png",
+  "language": "fr",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/ai-engineering-podcast/id1877957479?uo=2",
+      "trackId": 1877957479,
+      "rating": 5.0,
+      "ratingCount": 1,
+      "episodeCount": null
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "tech",
+    "numerique"
+  ],
+  "addedAt": "2026-10-11",
+  "updatedAt": "2026-10-11",
+  "episodes_recents": [
+    {
+      "titre": "SpaceX rachète Cursor pour $60b?",
+      "date": "2026-05-04"
+    },
+    {
+      "titre": "Le plus petit agent IA possible — pi Agent (l'agent derrière OpenClaw)",
+      "date": "2026-04-26"
+    },
+    {
+      "titre": "Que devient dbt quand l’IA écrit le code ? (and news)",
+      "date": "2026-04-17"
+    },
+    {
+      "titre": "Une librairie LLM attaquée vole tous les credentials?",
+      "date": "2026-04-02"
+    },
+    {
+      "titre": "Claude Code leaked (on explique tout)",
+      "date": "2026-04-02"
+    }
+  ],
+  "derniere_activite": "2026-05-04",
+  "frequence_jours": 6
+}

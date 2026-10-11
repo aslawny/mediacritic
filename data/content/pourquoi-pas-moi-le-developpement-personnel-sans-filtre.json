@@ -29,25 +29,29 @@
   "addedAt": "2026-05-20",
   "updatedAt": "2026-10-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-11",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Julie_RW",
+        "titre": "C’est ça qu’on veut : de l’authenticité et de l’intégrité",
+        "texte": "C’est complètement par hasard que je suis tombée sur le podcast de Charlotte un matin de novembre 2020. Au départ, quand j’ai vu écrit le mot « burnout » je me suis dis « ah mais non j’ai besoin de quelque chose de positif là ! ».…"
+      },
+      {
+        "note": 3,
+        "auteur": "jen_paris_01",
+        "titre": "Les bruits parasites rendent l’écoute très désagréable",
+        "texte": "C’est vraiment super dommage de ne pas couper tous les petits raclements de gorge, et autres bruits parasites ça gâche vraiment l’écoute alors que le fond est très intéressant."
+      },
+      {
+        "note": 5,
+        "auteur": "SebEsc",
+        "titre": "Merci",
+        "texte": "Par où commencer...Merci, je viens de terminer mon premier podcast et j’ai eu le plaisir d’écouter quelqu’un qui m’a accompagné tous les matins pendant des années...Stéphane Soumier.…"
+      }
     ]
   },
   "episodes_recents": [

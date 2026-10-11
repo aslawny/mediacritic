@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-11",
-  "frequence_jours": 4
+  "frequence_jours": 4,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "t!b0",
+        "titre": "Une conversation intéressante et accessible",
+        "texte": "J’ai écouté ce premier épisode et j’ai été accroché dès le début : c’est hyper intéressant de comprendre le parcours d’un chercheur et son métier. Ca permet de casser les clichés qu’on a tous sur ce métier.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Marion45140",
+        "titre": "Les maths et la recherche vulgarisés",
+        "texte": "Les maths à portée de tous. Sans oublier la présentation des parcours d’orientation depuis le lycée. Un podcast à écouter. Tous les épisodes de cette saison 1 sont d’une très grande qualité.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Deulbine",
+        "titre": "Une vision positive et généreuse des maths",
+        "texte": "Merci pour ce nouvel épisode de qualité ; toujours un parcours différent mais à chaque fois le même enthousiasme sur les maths et la recherche. Un bel exemple de « rencontres et mentorat » avec le récit de Ramla. Je plussoie vos 4 suggestions de la fin de l’épisode 😀"
+      }
+    ]
+  }
 }

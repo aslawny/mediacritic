@@ -28,25 +28,29 @@
   "addedAt": "2026-07-30",
   "updatedAt": "2026-10-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-11",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Claireteyras",
+        "titre": "Ma dose d’inspiration",
+        "texte": "Merci Camille et Justine pour vos partages de réflexions très intéressantes qui m’ont fait grandir, réfléchir, oser, débattre avec mes proches et me remettre en question sur plein de sujets.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Penthora ♥️",
+        "titre": "Nul",
+        "texte": "Elles sont insupportables ces deux filles… on ne peut même pas les écouter elles nous cassent les oreilles!!! Elles se coupent la parole, aucune politesse !!!! Adieu les nulles ! Non mais je rêve …"
+      },
+      {
+        "note": 5,
+        "auteur": "superzelladz",
+        "titre": "Magnifique",
+        "texte": "J’écoute beaucoup de podcast et celui ci est super cool, à écouter et à suivre absolument ! Camille et Justine Je vous aime d’amour vous êtes géniales et Waly Dia je t’écoute dans par Jupiter , best one un condensé d’humour et d’intelligence …"
+      }
     ]
   },
   "episodes_recents": [

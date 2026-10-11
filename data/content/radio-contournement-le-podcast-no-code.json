@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2024-12-25",
-  "frequence_jours": 8
+  "frequence_jours": 8,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "69lo",
+        "titre": "Podcast INCONTOURNABLE pour les curieux !",
+        "texte": "Animé d’une main de maître, ce podcast est particulièrement intéressant par la pertinence des questions et la diversité de profil des invités.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Stan_56",
+        "titre": "Au top ces interviews sur le Nocode",
+        "texte": "Merci pour la publication de ces interviews qui permettent de découvrir la communauté, les outils et les cas d’usage du No Code... très intéressant et inspirant. ST"
+      },
+      {
+        "note": 5,
+        "auteur": "Oursb2000",
+        "titre": "Exceptionnel",
+        "texte": "Pour qui s’intéresse à l’optimisation informatique en entreprise grâce à la révolution #nocode c’est un podcast essentiel ! Bravo @contournement et Alexis ! 👏👏👏"
+      }
+    ]
+  }
 }

@@ -52,25 +52,29 @@
   "derniere_activite": "2026-09-05",
   "frequence_jours": 3,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-11",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Kevfr16",
+        "titre": "Un ange gardien",
+        "texte": "Quand on débute en investissement, on peut se retrouver confronté à pas mal de marchands de rêve, ou de peur, surtout à notre époque. Mais en cherchant bien, on trouve aussi des bienfaiteurs, des anges gardiens qui sont là pour nous guider et nous faire nous poser les bonnes ques…"
+      },
+      {
+        "note": 5,
+        "auteur": "Ara en",
+        "titre": "Un contenu d’exception : félicitations à Xavier",
+        "texte": "J’ai un vrai coup de cœur pour les podcasts de Xavier ! Chaque épisode est une pépite : les sujets sont approfondis, la présentation est captivante, et l’authenticité de son ton rend l’écoute encore plus immersive.…"
+      },
+      {
+        "note": 5,
+        "auteur": "viiiincent94",
+        "titre": "Le best",
+        "texte": "Ce podcast a tous les ingrédients pour être intéressant: - même si le podcasteur est calé sur son domaine, il est compréhensible - les données se basent systématiquement sur des statistiques ou des études sourcées - l'orateur fait preuve de neutralité, il ne s'agit pas ici de vou…"
+      }
     ]
   }
 }

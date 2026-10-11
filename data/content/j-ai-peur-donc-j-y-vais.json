@@ -51,25 +51,29 @@
   "derniere_activite": "2026-08-20",
   "frequence_jours": 20,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-11",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Nana.Lec",
+        "titre": "Podcast interessant",
+        "texte": "Merci pour l’ensemble des conseils ! En effet je suis sur un projet de création d’entreprise qui n’est en aucun cas ma passion … néanmoins je ressens au plus profond de moi que ce projet peut être plus que bénéfique pour moi et ma famille.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Claire1006_",
+        "titre": "Je recommande à 100%",
+        "texte": "J’ai découvert le podcast de Stef auquel je suis devenue accroc. Les épisodes sont très riches et touchent à toutes les problématiques que l’on peut rencontrer. Stef partage ses conseils sans retenue.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Florence Podcast",
+        "titre": "Un podcast concret",
+        "texte": "Je pense pouvoir affirmer que ce podcast est mon petit favori en matière de développement personnel. Stef parvient merveilleusement bien à rendre ces épisodes instructifs et accessibles.…"
+      }
     ]
   }
 }

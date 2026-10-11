@@ -27,25 +27,29 @@
   "addedAt": "2026-06-24",
   "updatedAt": "2026-10-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-11",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "RemualdII",
+        "titre": "Merci",
+        "texte": "C’était mon premier podcast il y a des années et c’est encore aujourd’hui le meilleur que j’ai pu écouter. Merci pour les réflexions et les découvertes, au delà du divertissement votre émission était utile et m’a énormément fait évoluer.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Maxwooze",
+        "titre": "C est fin mais ca flambe",
+        "texte": "Les sujets sont traités vraiment différemment. Chacun lit sa rédaction avec des pleins et ses déliés, ca fait scolaire mais en ressort des analyses subtiles.…"
+      },
+      {
+        "note": 5,
+        "auteur": "MonsieurBilly",
+        "titre": "Le seul podcast que j'aime financer",
+        "texte": "Dans les podcasts, il y a de tout. Mais studio404, c'est pour moi le must. D'abord les sujets, culture numérique au sens large avec son impact sur la société. Je n'ai trouvé aucun autre média qui traite le sujet aussi bien.…"
+      }
     ]
   },
   "episodes_recents": [

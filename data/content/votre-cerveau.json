@@ -27,25 +27,29 @@
   "addedAt": "2026-09-11",
   "updatedAt": "2026-10-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-11",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "EtudiantP8",
+        "titre": "Excellent et très pédagogue",
+        "texte": "Excellent Podcast ayant pour seul inconvénient sa nouveauté qui active mon impatience d’écouter les suivants ! Pas de blabla, chaque phrase contient une nouvelle information. J’apprécie les expériences auditives et la clarté des explications.…"
+      },
+      {
+        "note": 1,
+        "auteur": "moun21",
+        "titre": "Adieu",
+        "texte": "Si il faut passer par une appli dédiée, c’est la mort du PodCast. Adieu RadioFrance…."
+      },
+      {
+        "note": 5,
+        "auteur": "Djee or not djee",
+        "titre": "La perfection",
+        "texte": "Pour ceux que le sujet intéresse, cette série documentaire en podcast est incomparable à toutes les autres, aussi bien dans le fond (la qualité des intervenants et des sujets choisi) que dans la forme (mise en scène, technique, qualité audio…).…"
+      }
     ]
   }
 }

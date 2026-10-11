@@ -1,6 +1,6 @@
 {
-  "maj": "2026-10-10",
-  "total": 924,
+  "maj": "2026-10-11",
+  "total": 946,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -2512,6 +2512,12 @@
       "fiche": "fiches/pifffcast-le-podcast-du-cinema-de-genre.html"
     },
     {
+      "slug": "abd-podcast",
+      "titre": "ABD Podcast",
+      "notes_apple": 93,
+      "fiche": "fiches/abd-podcast.html"
+    },
+    {
       "slug": "le-coran-pour-tous-en-120-chapitres",
       "titre": "Le Coran Pour Tous en 120 Chapitres",
       "notes_apple": 92,
@@ -4048,6 +4054,12 @@
       "fiche": "fiches/un-papa-une-maman.html"
     },
     {
+      "slug": "bigflo-oli-une-nuit-de-reve-sur-nrj",
+      "titre": "BIGFLO & OLI : Une Nuit de Rêve sur NRJ",
+      "notes_apple": 58,
+      "fiche": "fiches/bigflo-oli-une-nuit-de-reve-sur-nrj.html"
+    },
+    {
       "slug": "hall-of-game",
       "titre": "Hall of Game",
       "notes_apple": 57,
@@ -4358,6 +4370,12 @@
       "titre": "YPDLM - Y-a-t-il un Pilote dans le Manga ? | Podcast Manga",
       "notes_apple": 53,
       "fiche": "fiches/ypdlm-y-a-t-il-un-pilote-dans-le-manga-podcast-manga.html"
+    },
+    {
+      "slug": "audiocite-net-livres-audio-gratuits",
+      "titre": "Audiocite.net - Livres audio gratuits",
+      "notes_apple": 53,
+      "fiche": "fiches/audiocite-net-livres-audio-gratuits.html"
     },
     {
       "slug": "apprendre-la-philosophie",
@@ -5546,6 +5564,120 @@
       "titre": "Fracture",
       "notes_apple": 41,
       "fiche": "fiches/fracture.html"
+    },
+    {
+      "slug": "jeremy-pothin-podcast",
+      "titre": "Jérémy Pothin Podcast",
+      "notes_apple": 41,
+      "fiche": "fiches/jeremy-pothin-podcast.html"
+    },
+    {
+      "slug": "la-bonne-vivance-par-julien-menielle",
+      "titre": "La Bonne Vivance, par Julien Ménielle",
+      "notes_apple": 41,
+      "fiche": "fiches/la-bonne-vivance-par-julien-menielle.html"
+    },
+    {
+      "slug": "la-boite-a-outils-des-parents-le-podcast-pour-une-parentalite-epanouie-sereine-e",
+      "titre": "la Boîte À Outils des parents - le podcast pour une parentalité épanouie, sereine et apaisée",
+      "notes_apple": 41,
+      "fiche": "fiches/la-boite-a-outils-des-parents-le-podcast-pour-une-parentalite-epanouie-sereine-e.html"
+    },
+    {
+      "slug": "le-corse-et-l-auvergnat",
+      "titre": "Le Corse et l'Auvergnat",
+      "notes_apple": 41,
+      "fiche": "fiches/le-corse-et-l-auvergnat.html"
+    },
+    {
+      "slug": "lectures-du-soir",
+      "titre": "Lectures du soir",
+      "notes_apple": 41,
+      "fiche": "fiches/lectures-du-soir.html"
+    },
+    {
+      "slug": "le-divan-des-patronnes",
+      "titre": "Le Divan des Patronnes",
+      "notes_apple": 41,
+      "fiche": "fiches/le-divan-des-patronnes.html"
+    },
+    {
+      "slug": "les-2-minutes-citoyennes",
+      "titre": "Les 2 minutes citoyennes",
+      "notes_apple": 41,
+      "fiche": "fiches/les-2-minutes-citoyennes.html"
+    },
+    {
+      "slug": "objectif-bac-francais",
+      "titre": "Objectif : bac français !",
+      "notes_apple": 41,
+      "fiche": "fiches/objectif-bac-francais.html"
+    },
+    {
+      "slug": "petits-curieux",
+      "titre": "Petits Curieux",
+      "notes_apple": 41,
+      "fiche": "fiches/petits-curieux.html"
+    },
+    {
+      "slug": "the-bridge",
+      "titre": "The Bridge",
+      "notes_apple": 41,
+      "fiche": "fiches/the-bridge.html"
+    },
+    {
+      "slug": "tous-les-gouts-sont-permis",
+      "titre": "Tous les goûts sont permis",
+      "notes_apple": 41,
+      "fiche": "fiches/tous-les-gouts-sont-permis.html"
+    },
+    {
+      "slug": "virage",
+      "titre": "Virage",
+      "notes_apple": 41,
+      "fiche": "fiches/virage.html"
+    },
+    {
+      "slug": "wait-for-it",
+      "titre": "Wait For It",
+      "notes_apple": 41,
+      "fiche": "fiches/wait-for-it.html"
+    },
+    {
+      "slug": "a-la-rencontre-du-monde-par-geo",
+      "titre": "A la rencontre du monde, par GEO",
+      "notes_apple": 40,
+      "fiche": "fiches/a-la-rencontre-du-monde-par-geo.html"
+    },
+    {
+      "slug": "a-ton-tour-du-monde-recits-de-voyageurs",
+      "titre": "A ton tour du monde : récits de voyageurs",
+      "notes_apple": 40,
+      "fiche": "fiches/a-ton-tour-du-monde-recits-de-voyageurs.html"
+    },
+    {
+      "slug": "bbo-radio-par-laura-loock",
+      "titre": "BBO Radio par Laura Loock",
+      "notes_apple": 40,
+      "fiche": "fiches/bbo-radio-par-laura-loock.html"
+    },
+    {
+      "slug": "call-room-le-podcast-pour-les-runners-par-des-runners-run-ix",
+      "titre": "Call Room - Le Podcast pour les runners par des runners - RUN'IX",
+      "notes_apple": 40,
+      "fiche": "fiches/call-room-le-podcast-pour-les-runners-par-des-runners-run-ix.html"
+    },
+    {
+      "slug": "chit-chat-budget",
+      "titre": "Chit chat budget",
+      "notes_apple": 40,
+      "fiche": "fiches/chit-chat-budget.html"
+    },
+    {
+      "slug": "cinecast-sorties-cinema-streaming",
+      "titre": "CINECAST - Sorties cinéma & streaming",
+      "notes_apple": 40,
+      "fiche": "fiches/cinecast-sorties-cinema-streaming.html"
     }
   ]
 }
