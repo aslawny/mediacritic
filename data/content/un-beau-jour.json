@@ -27,25 +27,29 @@
   "addedAt": "2026-05-20",
   "updatedAt": "2026-10-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-12",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "le drawinger",
+        "titre": "Touchée en plein cœur",
+        "texte": "Marie, ces témoins que tu interviewes sont incroyables. J’écoute tes podcasts tout en travaillant, ou au volant de ma voiture, et ils illuminent toute ma journée… Que dis je : toute ma semaine …"
+      },
+      {
+        "note": 5,
+        "auteur": "aclé",
+        "titre": "Bravo",
+        "texte": "Très beaux témoignages. Très belle façon de mener l’interview avec beaucoup de pudeur et de mots justes. Le ton est adapté et les confidences sont très belles bluffantes parfois pour le témoignage de vie et la grandeur d’âme que cela nous laisse entendre.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Toinou33",
+        "titre": "Bouleversant et source de joie/foi",
+        "texte": "Ecouter ces témoignages c’est comme faire une rencontre marquante dans sa vie. A la différence qu’ici les témoignages dépassent les témoins et qu’ils renvoient à la foi. Chacun se met alors à penser à la manière dont il aurait réagit mais surtout à la place de Dieu sa vie.…"
+      }
     ]
   },
   "episodes_recents": [

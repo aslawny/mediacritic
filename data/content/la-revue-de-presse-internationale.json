@@ -26,25 +26,29 @@
   "addedAt": "2026-05-23",
   "updatedAt": "2026-10-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-12",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Sacha baudinet",
+        "titre": "Vraiment bien fichu",
+        "texte": "Toujours prenant la revue de presse internationale s'avère indispensable pour profiter d'un tableau de la situation internationale aussi peut elle être habilement couplée à La rumeur du monde ou aux Enjeux internationaux que je conseille vivement."
+      },
+      {
+        "note": 1,
+        "auteur": "Emmanehess",
+        "titre": "Mauvais",
+        "texte": "Tout un plagiat inspiré de Courrier international dont on connait l’impartialité….. pathétique"
+      },
+      {
+        "note": 5,
+        "auteur": "Morgun",
+        "titre": "Pertinent",
+        "texte": "Ce n'est pas la seule chose à dire quand ce qui est proposé frise l'excellence ! Avec Bernard guetta, certainement l'une des meilleures découvertes du monde, avec de l'humour de surcroît. Bref, un délice !"
+      }
     ]
   }
 }

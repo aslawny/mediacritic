@@ -52,25 +52,29 @@
   "derniere_activite": "2026-07-27",
   "frequence_jours": 18,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-12",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Jinalash",
+        "titre": "Excellent",
+        "texte": "⛰ Rencontre avec Jeane Clesse, la Productrice de podcasts 🎤 qui a créé @basilicpodcast 🪴 Ce podcast que j’écoute depuis 2 ans 🎧 (il fête ses 5 ans à Annecy en fin d’année 🎂), partage les parcours de fondateurs d’entreprises, associations qui ont implémenté une stratégie verte ♻️,…"
+      },
+      {
+        "note": 3,
+        "auteur": "Annedub",
+        "titre": "De moins en moins respectueux de l’environnement",
+        "texte": "La sélection des invités est de pire en pire. Sans aucune réflexion sur l’impact de leurs marques. Entre la production de tshirts « ecolo » à l’autre bout du monde et maintenant l’Occitane qui ne fait aucun effort sur les compositions, sa production de déchets ...pas de sens crit…"
+      },
+      {
+        "note": 5,
+        "auteur": "Elvi.dgny",
+        "titre": "The must have",
+        "texte": "Je l'adore ! ce podcast je l'ecoute pendant mes trajets , pendant que je cuisine, quand j'ai besoin de calme, quand je ne trouve pas le sommeil et meme parfois sous la douche ! Pour tout(es) c(eux)elles qui vivent une transition green, slow ou non ..…"
+      }
     ]
   }
 }

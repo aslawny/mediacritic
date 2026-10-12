@@ -1,6 +1,6 @@
 {
-  "maj": "2026-10-11",
-  "total": 946,
+  "maj": "2026-10-12",
+  "total": 952,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -5678,6 +5678,42 @@
       "titre": "CINECAST - Sorties cinéma & streaming",
       "notes_apple": 40,
       "fiche": "fiches/cinecast-sorties-cinema-streaming.html"
+    },
+    {
+      "slug": "culture-club-sandwich",
+      "titre": "Culture Club Sandwich",
+      "notes_apple": 40,
+      "fiche": "fiches/culture-club-sandwich.html"
+    },
+    {
+      "slug": "dramathis",
+      "titre": "Dramathis",
+      "notes_apple": 40,
+      "fiche": "fiches/dramathis.html"
+    },
+    {
+      "slug": "internet-exploreuses",
+      "titre": "Internet Exploreuses",
+      "notes_apple": 40,
+      "fiche": "fiches/internet-exploreuses.html"
+    },
+    {
+      "slug": "les-voyages-immobiles",
+      "titre": "Les Voyages immobiles",
+      "notes_apple": 40,
+      "fiche": "fiches/les-voyages-immobiles.html"
+    },
+    {
+      "slug": "le-podcast-de-franjo",
+      "titre": "Le Podcast de Franjo",
+      "notes_apple": 40,
+      "fiche": "fiches/le-podcast-de-franjo.html"
+    },
+    {
+      "slug": "manette-a-trois-podcast-jeux-video",
+      "titre": "Manette à Trois - Podcast Jeux vidéo",
+      "notes_apple": 40,
+      "fiche": "fiches/manette-a-trois-podcast-jeux-video.html"
     }
   ]
 }

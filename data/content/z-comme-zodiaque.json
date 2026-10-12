@@ -27,25 +27,29 @@
   "addedAt": "2026-08-17",
   "updatedAt": "2026-10-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-12",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-10-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "xylane",
+        "titre": "Super podcast!",
+        "texte": "Super podcast qui vaut bien les 5 étoiles! ✨ On y apprend tout ce qui concerne notre signe et ceux des autres de manière ludique et avec des clins d’œil aux personnages de cinéma qui nous permettent de mieux comprendre les façons d’être des gens qui nous entourent mais aussi de m…"
+      },
+      {
+        "note": 5,
+        "auteur": "Adèle P.",
+        "titre": "Mon podcast préféré ⭐️",
+        "texte": "C’est un tel plaisir d’écouter Mathilde et ses éclairages astrologiques ! Je ne me lasse pas d’en apprendre davantage sur les planètes et les signes. J’apprécie toujours les liens avec la mythologie gréco-romaine et la culture.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Belacasami",
+        "titre": "Jupiter",
+        "texte": "Quelle joie de retrouver ta voix, ta poésie et tout ce travail jupiterien de transmission de l’astrologie autour d’une conversation aussi enrichissante qu’amusante. Merci beaucoup 💫👌🏻"
+      }
     ]
   },
   "episodes_recents": [

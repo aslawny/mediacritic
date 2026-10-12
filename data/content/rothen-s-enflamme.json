@@ -28,25 +28,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-10-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-12",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Arloot",
+        "titre": "Excellente émission",
+        "texte": "Émission de qualité selon moi. J’aime Jérôme Rothen le consultant il semble à travers la radio un homme chaleureux,franc,deconneur et honnête avec lui même ainsi qu’avec les auditeurs. Émission bien découpé et thème de qualité.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Nicoco6901700",
+        "titre": "Jérôme est nul",
+        "texte": "Jérôme après avoir raccroché les crampons arrêtes le micro stp"
+      },
+      {
+        "note": 5,
+        "auteur": "Un fan du podcast",
+        "titre": "Excellent",
+        "texte": "Merci bcp Jérôme et tous les autres votre podcast me régale tout les matins et tout les soirs.J’❤️ bcp cazzare il me fait bcp rire bref merci pour ces podcasts.Avant,je ne connaissais pas et maintenant je vous promet que j’écoute tt le temps dans le métro chez moi tout le temps d…"
+      }
     ]
   },
   "episodes_recents": [

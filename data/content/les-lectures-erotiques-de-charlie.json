@@ -28,25 +28,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-10-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-12",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "sparrowtheo",
+        "titre": "hypnotisant",
+        "texte": "La voix parfaite de Charlie donne à ses épisodes soigneusement choisis et préparés, une immense profondeur qui permet de plonger très facilement dans les scénarios érotiques.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Mougeote",
+        "titre": "Très bof",
+        "texte": "Textes pas intéressants, mal lu, bla-bla inutiles... j’aurais écouté 15 mn au total."
+      },
+      {
+        "note": 5,
+        "auteur": "Steph de C",
+        "titre": "OUUUIIIII !",
+        "texte": "C'est en écoutant Lovin'Fun que j'ai découvert ce podcast et franchement je vous le conseille. Déjà Charlie, la lectrice, lit remarquablement bien, je crois qu'elle a fait du théâtre avant, mais surtout c'est teriblement savoureux et long …"
+      }
     ]
   },
   "episodes_recents": [

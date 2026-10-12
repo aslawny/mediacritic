@@ -27,25 +27,29 @@
   "addedAt": "2026-08-29",
   "updatedAt": "2026-10-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-12",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Amandine_bou",
+        "titre": "Merci les piquantes ❤️",
+        "texte": "Mon rendez-vous du mercredi matin que je ne loupe pour aucune raison ! Les Piquantes parlent de la vie, la vraie… Les hauts, les bas, les doutes, les rêves… Elles répondent toujours avec fraîcheur aux questions que l’on se pose aussi entre copines, avec une sincérité incroyable 🫶…"
+      },
+      {
+        "note": 1,
+        "auteur": "Useeeer92100",
+        "titre": "Bof",
+        "texte": "J’ai rarement écouté quelque chose d’aussi creux. Aucun fond, aucune structure. Une perte de temps totale."
+      },
+      {
+        "note": 5,
+        "auteur": "marie__gl",
+        "titre": "Mon rdv du mercredi 🖤",
+        "texte": "Comment ça vous êtes mal notées ici ??? Je lâche mes 5 étoiles ! Merci Camille et Alex, je ne louperais un épisode pour rien au monde : les thématiques que vous abordez et vos débats autour de celles-ci sont toujours intéressants.…"
+      }
     ]
   },
   "episodes_recents": [
