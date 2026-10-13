@@ -23,27 +23,31 @@
   "tags": [
     "histoire"
   ],
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-13",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tristaïna",
+        "titre": "Merci Maïa",
+        "texte": "Merci; merci d’avoir partagé cette histoire, la votre. Elle m’a touché. Vous la racontez merveilleusement bien, vous lui donnez un rythme, la saupoudrez de votre humour si doux et ultra-lucide 😊😁😆.…"
+      },
+      {
+        "note": 5,
+        "auteur": "crocus sativus",
+        "titre": "Merci",
+        "texte": "Oui il y a une nouvelle couche après la disparition d’une personne aimée . On peut rencontrer un autre fiancé mais pas un autre fils . Oui, le poids de la perte n’est pas le même pour tous .…"
+      },
+      {
+        "note": 5,
+        "auteur": "berglio",
+        "titre": "Punaise",
+        "texte": "Punaise ce n’est pas une histoire triste... C’est de la magie , un trente trois tonnes qui se transforme en galet Un bouquet de lavande voyageur Un cercueil qui se permet un détour par Londres Des bouteilles qui ont trouvé l’occasion Une pièce de deux euros dans un pays scandinav…"
+      }
     ]
   }
 }

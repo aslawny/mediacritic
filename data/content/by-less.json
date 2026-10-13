@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/by-less/id1713410006?uo=2",
       "trackId": 1713410006,
       "rating": 4.9,
-      "ratingCount": 360,
+      "ratingCount": 362,
       "episodeCount": null
     }
   },
@@ -26,7 +26,7 @@
     "education"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "Je trompe l'homme parfait #PodAout28",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-28",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-13",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "extazze🦋",
+        "titre": "Le dernier podcast de M. Lawson",
+        "texte": "Je suis l’abonné type plutôt réserver qui n’a jamais commenté une de tes vidéos ou publication car je te soutiens de loin mais j’apprécie énormément ton contenu , pour moi la relation entre une personne publique et les internautes sont très biaisés pour certaines personnes car el…"
+      },
+      {
+        "note": 5,
+        "auteur": "Aydyi",
+        "titre": "#teamcoupleinter-religueux",
+        "texte": "merci lesly pour ton avis, j’ai beaucoup aimé le podcast Prsk c’est quelque chose qui me concerne beaucoup, je me vois beaucoup en cet fille et surtout la relation ( moi perso sa fait 5 ans) et js dans le mm cas que là filles tjr des question étant des réflexions.…"
+      },
+      {
+        "note": 5,
+        "auteur": "a.neley",
+        "titre": "Que du plaisir.",
+        "texte": "Je ressens que tu as pris du plaisir à faire ce podcast intime sur ta période post rupture. Tu abordes des sujets qui ne sont pas faciles à assumer et cela fait du bien d’entendre toutes les émotions/sentiments contraires par lesquels tu es passée (sans tabou).…"
+      }
     ]
   }
 }

@@ -25,7 +25,7 @@
     "numerique"
   ],
   "addedAt": "2026-06-27",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "#S2E5 - Mais qui est (vraiment) Chris Scholly ? #LinkedIn #Mindset #ApportDAffaires #Titans #Haters",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2024-12-22",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Elnino69",
+        "titre": "Super podcast!",
+        "texte": "C’est vraiment chouette de voir la réussite d’Elliot, bravo à lui 🙏 Quand au podcast c’est une chance de pouvoir donner la parole aux développeurs français et de montrer toute la diversité autour de ce si beau métier. 🤩"
+      },
+      {
+        "note": 5,
+        "auteur": "Kalyiaa",
+        "titre": "Podcast de qualité pour inspirer dans l’IT",
+        "texte": "La voix de Michaël nous emporte dans son univers inspirant du digital et du dev iOS Il donne la parole à des invités de la tech et c’est top de découvrir ces différentes personnalités. Bravo !"
+      },
+      {
+        "note": 5,
+        "auteur": "Aymen Gz",
+        "titre": "Bravo",
+        "texte": "Bravo Mika pour ce que tu fais, un travail de passionné qui ne se limite pas que dans tes MR. J’aurais aimé que l’interview avec Chris Scolly soit fait après avoir être banni de LinkedIn 🙂"
+      }
+    ]
+  }
 }

@@ -27,7 +27,7 @@
     "culture geek"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "Ep.232: Ma liste d'achat de jeux...",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-07-24",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "AberNFitch",
+        "titre": "Un podcast qui respire la passion !",
+        "texte": "Mais que j’adore vous écouter Martin et Martin 👍☺️ Je crois, le seul podcast que j’adore écouter des heures, aussi long que la durée de vos enregistrements et pour notre plus grand plaisir.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Elinborg",
+        "titre": "Pour tous les fanas de jeux de plateau!",
+        "texte": "ces conversations sont très agréables à écouter. Elles sont menées entre deux spécialistes du jeu de société/plateau (car il est bien entendu question également de jeux en solo), Martin Lafrenière et Martin Montreuil, sur un ton détendu et amical, c’est dont très cool à écouter!…"
+      },
+      {
+        "note": 5,
+        "auteur": "Aure09",
+        "titre": "Les Martins nos amis !",
+        "texte": "Bonjour les gens , vous cherchez des infos sur notre plaisir ludique , c’est par ici . De bons moments encore à partager avec Les Martin ! Des rencontres virtuelles attendues toujours avec impatience ici et/ou sur YouTube . Pas de doute ce podcast atteigne des sommets !"
+      }
+    ]
+  }
 }

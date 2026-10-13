@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/la-guerre-et-la-paix/id1896943109?uo=2",
       "trackId": 1896943109,
       "rating": 4.6,
-      "ratingCount": 38,
+      "ratingCount": 39,
       "episodeCount": null
     }
   },
@@ -27,7 +27,7 @@
     "culture"
   ],
   "addedAt": "2026-06-21",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "E25/25 - Le Vrai amour de Pierre",
@@ -51,5 +51,25 @@
     }
   ],
   "derniere_activite": "2026-09-04",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Slinks0306",
+        "titre": "Une pépite - merci!!",
+        "texte": "Incroyable travail mis dans cette excellente production, sur tous les points de vue. Un grand merci à toute l’équipe!"
+      },
+      {
+        "note": 5,
+        "auteur": "Tricheliade",
+        "titre": "Excellent !",
+        "texte": "Rohlala c’est formidable, moi qui n’ai jamais réussi à lire le roman cette audio fiction est un petit bijou !"
+      }
+    ]
+  }
 }

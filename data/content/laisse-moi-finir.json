@@ -24,7 +24,7 @@
     "humour"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "Urbain",
@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2021-09-20",
-  "frequence_jours": 5
+  "frequence_jours": 5,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "lalaï de paris",
+        "titre": "Intelligence et convivialité",
+        "texte": "Vraiment ravie de retrouver Adrien Arnoux et sa douce intelligence. Découvert au Dimanche Marrant. Ce garçon a encore beaucoup de choses à livrer. Tous mes vœux de succès pour ce nouveau podcast dont j’aime beaucoup le format. La durée notamment est importante pour moi. Merci !"
+      },
+      {
+        "note": 5,
+        "auteur": "elcramos",
+        "titre": "Ça passe crème",
+        "texte": "J’ai découvert ce podcast par hasard sur YouTube, et je le recommande à mon tour, j’ai écouté celui de Navo et de Seb Mellia les 2 sont sympa."
+      },
+      {
+        "note": 5,
+        "auteur": "aliasshakur",
+        "titre": "T’es le sang Adrien merci pour ces podcasts",
+        "texte": "Merci merci ça passe tout doux continue d’écouter ton cœur comme dit Seb mellia"
+      }
+    ]
+  }
 }

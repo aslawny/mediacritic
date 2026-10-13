@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/cordialement-zo%C3%A9/id1704464426?uo=4",
       "trackId": 1704464426,
       "rating": 4.6,
-      "ratingCount": 365,
+      "ratingCount": 368,
       "episodeCount": 116
     }
   },
@@ -27,7 +27,7 @@
     "culture"
   ],
   "addedAt": "2026-06-24",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "J'arrête mon podcast Cordialement, Zoé",
@@ -53,25 +53,29 @@
   "derniere_activite": "2025-09-09",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-13",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Maya6778",
+        "titre": "En couple avec son patron",
+        "texte": "J ai 22 ans , mon père nous a quitté du jour au lendemain pour une fille de mon âge , balayant toute notre vie d un revers de la main. Il a laissé ma mère , mon frère et moi . Pour une gamine de mon âge rencontrée au boulot aussi ! Ah la crise de la cinquantaine.…"
+      },
+      {
+        "note": 1,
+        "auteur": "unpeudestylesvp",
+        "titre": "Niveau zéro de l’interview",
+        "texte": "Comment peut-on commencer une interview par « presentez-vous ? » ... NEXT"
+      },
+      {
+        "note": 5,
+        "auteur": "L.hlr",
+        "titre": "J’adore ce podcast !!",
+        "texte": "Ce podcast est vraiment super , il nous apprends beaucoup de choses , en passant par des anecdotes croustillantes , jusqu’à des témoignages poignant .…"
+      }
     ]
   }
 }

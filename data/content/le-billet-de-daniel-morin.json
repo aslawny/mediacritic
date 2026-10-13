@@ -24,27 +24,31 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-13",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Badboys75",
+        "titre": "Le billet de Daniel Morin",
+        "texte": "Merci à Daniel Morin qui met beaucoup de monde en joie à commencer par moi, par les temps qui courent, cela fait le plus grand bien au moral, et pour ne pas rater ce moment de bonheur, son billet je l’écoute un peu plus tard en podcast"
+      },
+      {
+        "note": 1,
+        "auteur": "BenTranié",
+        "titre": "Le ringard",
+        "texte": "Vraiment le fond du panier de l’humour, *musique de la pub du jambon plein de nitrite *"
+      },
+      {
+        "note": 5,
+        "auteur": "ragich",
+        "titre": "Bravo",
+        "texte": "Merci, cher Daniel Morin. Je vous écoute en décalé, vive les podcasts, j’adore votre humour, vous me faites éclater de rire…et je ne suis pas la seule, on entend vos collègues, un grand plaisir, encore bravo"
+      }
     ]
   }
 }

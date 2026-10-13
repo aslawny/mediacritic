@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/les-histoires-de-quartier-doxmo-puccino/id1588369660?uo=2",
       "trackId": 1588369660,
       "rating": 4.7,
-      "ratingCount": 379,
+      "ratingCount": 378,
       "episodeCount": null
     }
   },
@@ -26,7 +26,7 @@
     "culture"
   ],
   "addedAt": "2026-06-15",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "Valérie Manteau : Les larmes et la colère de la rue d’Aubagne",
@@ -52,25 +52,29 @@
   "derniere_activite": "2023-07-27",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-13",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Nini-FF",
+        "titre": "Enfance",
+        "texte": "Ça me rappelle tellement mon enfance, et même s’il peut s’y passer des choses graves, j’y ai passé la plus belle période de ma vie - solidarité bêtise échanges, culture, sport, endroit cosmopolite, les mamas qui étaient les mamas de tout le monde et je pourrai continuer comme ça…"
+      },
+      {
+        "note": 5,
+        "auteur": "Fannyjonesy",
+        "titre": "Oui ma gueule.",
+        "texte": "Merci pour ces témoignages, cette belle et bonne énergie qui fait du bien à mes oreilles. Un monde inconnu qui s’est offert à moi, des histoires de toutes sortes, émouvantes, farfelues, flippantes, drôles, difficile de résumer en quelques mots mais je peux essayer : c’est une vra…"
+      },
+      {
+        "note": 5,
+        "auteur": "djebenz",
+        "titre": "Meilleur podcast que je connaisse !",
+        "texte": "Ce podcast est d’une fraîcheur… fait d’histoires légères, parfois plus graves, de leçon de vie mais toujours rempli de barres de rire Gros ! Ahah Vivement la saison 2, la saison 3, la saison 4… enfin vous m’avez compris."
+      }
     ]
   }
 }

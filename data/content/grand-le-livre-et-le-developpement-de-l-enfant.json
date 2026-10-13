@@ -25,7 +25,7 @@
     "livres",
     "culture"
   ],
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "GRAND - IMAGINAIRE ET CROYANCES : Pourquoi les enfants ont-ils besoin de croire ?",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2021-12-16",
-  "frequence_jours": 19
+  "frequence_jours": 19,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Maxcott",
+        "titre": "Une ressource formidable !",
+        "texte": "GRAND est une ressource incroyable pour qui s’intéresse à la littérature jeunesse et à l’enfance. Je m’y reviens régulièrement dans mon travail pour creuser une notion, me poser des questions ou juste plonger quelques minutes dans ces paroles d’expert·es.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Caillou C",
+        "titre": "Énorme coup de cœur",
+        "texte": "Merci pour cet incroyable podcast facile à écouter, riche et fidèle au monde de l’enfance. Le temps de lecture du soir avec mes enfants prend une nouvelle dimension. Merci. Vivement la saison 2 :)"
+      },
+      {
+        "note": 5,
+        "auteur": "DenMas78",
+        "titre": "Une belle échappée sur cette île entre contes et réalité",
+        "texte": "Une incroyable histoire sur cette île de Mayotte où les contes côtoient les sciences. On se laisse emporter et on avance dans cette troublante évolution de cette île. Un bon moment de découverte."
+      }
+    ]
+  }
 }

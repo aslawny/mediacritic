@@ -23,7 +23,7 @@
     "humour"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "PDVELH 150 Talisman",
@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2026-08-31",
-  "frequence_jours": 19
+  "frequence_jours": 19,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "pikanrouge",
+        "titre": "Merci pour ce retour en enfance.",
+        "texte": "Merci à vous de me faire revenir en enfance avec tout ces univers parcourus et ces aventures. Redevenir un héros quoi de mieux. Pour ceux qui connaissent pas ces livres dont vous êtes le héros venez découvrir, les autres redécouvrir. De la bonne humeur, de l'humour.…"
+      },
+      {
+        "note": 5,
+        "auteur": "GuillaumeVende",
+        "titre": "L’âme des jeux d’avant...",
+        "texte": "... qui revient au goût du jour grâce à l’équipe du Podcast des livres dont vous êtes le héros (avec l’acronyme le plus long et le plus imprononçable de la sphère podcastique). Vous n’imaginez pas le bien que vous nous faites. Continuez …"
+      },
+      {
+        "note": 5,
+        "auteur": "Beldaran21",
+        "titre": "Podcast passionnant",
+        "texte": "J’ai découvert le podcast via l’interview avec JM Abrassart dans Club JdR et je suis conquise. Je me souviens encore de l’anniversaire où on m’a offert la boîte de base de D&D (là rouge) et Le sorcier de la montagne de feu …"
+      }
+    ]
+  }
 }

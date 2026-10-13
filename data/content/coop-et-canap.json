@@ -25,7 +25,7 @@
     "rénovation",
     "DIY"
   ],
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "[REDIFF] Episode 83 - Expédition 83",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-31",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "JulienFR25",
+        "titre": "Je recommande",
+        "texte": "Les compères de Coop et Canap s’y connaissent plus que moi en jeu vidéo, mais pas trop, pas au point d’en devenir chiants et condescendants. Et ça j’aime bien.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Vaga_Bond96",
+        "titre": "Diversité du et des jeux vidéos",
+        "texte": "Ce titre pompeux pour dire que j’apprécie dans ce podcast qu’on parle de jeux vidéos très différents (les AAA et des jeux plus indé coexistent 🙂) et autant des salons, que de l’e-sport. Mention spéciale pour les quizz qui sont vraiment funs (le quizz « patch note » notamment).…"
+      },
+      {
+        "note": 5,
+        "auteur": "Topiro le bg",
+        "titre": "Avis vérifié…enfin il parait",
+        "texte": "Franchement un poscast au top fait par une équipe top sur des sujets top … ouais je trouve top le mot top et ça c’est top mais pas plus top que ce podcast qui est vraiment top.…"
+      }
+    ]
+  }
 }

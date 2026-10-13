@@ -27,7 +27,7 @@
     "societe"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "Sofia Essaied, créatrice de la marque de bijoux et d'accessoires Yasss Hand made",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-08-27",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Angélique Univers Minéral",
+        "titre": "Excellent !",
+        "texte": "Un podcast très intéressant ! On voyage et on en apprend beaucoup sur la mode africaine. Hyper enrichissant et inspirant 🙏🏻"
+      },
+      {
+        "note": 5,
+        "auteur": "Philemou",
+        "titre": "Très intéressant, très panoramique !",
+        "texte": "Très bon contenu, sur des thèmes parfois peu couverts ou un peu « frontières ». Merci pour les travaux"
+      },
+      {
+        "note": 5,
+        "auteur": "Id-ia",
+        "titre": "A partager sans modération",
+        "texte": "Chaque épisode est passionnant et une opportunité de découvrir des profils peu visibles"
+      }
+    ]
+  }
 }

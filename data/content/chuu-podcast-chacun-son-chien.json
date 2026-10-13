@@ -27,7 +27,7 @@
     "famille"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "Connaissez-vous Norin Chai ? Une vie auprès des animaux sauvages",
@@ -53,25 +53,29 @@
   "derniere_activite": "2026-08-03",
   "frequence_jours": 34,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-13",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Elise M Greezouille",
+        "titre": "Bravo !",
+        "texte": "Un épisode incontournable. Ne pas s’arrêter à l’intitulé chien senior car cet épisode est une mine d’informations pour nos chiens à tous les stades de leur vie. Le Docteur May a un don de vulgarisation scientifique et nous enrichit grâce à ses conseils et réflexions.…"
+      },
+      {
+        "note": 5,
+        "auteur": "maudL8",
+        "titre": "Podcast incontournable",
+        "texte": "J’ai découvert Chuu grâce justement à l’interview de Fred de Sauvade chez qui j’avais adopté notre chatte. J’ai découvert grâce à toi des éducateurs canins notamment Geraldine Merry de Vox Canis (que j’ai eu la chance de croiser ds un refuge au Maroc) dont parle Audrey Ventura da…"
+      },
+      {
+        "note": 5,
+        "auteur": "Juliette&Nico",
+        "titre": "Une vraie pépite !",
+        "texte": "Ensemble de podcast sur les chiens de grande qualité. Le contenu est varié, bien documenté, toujours éclairé. C’est un plaisir d’écouter les divers témoignages et d’en apprendre davantage sur les races. Le travail de Maud est louable ; son investissement, sans limite.…"
+      }
     ]
   }
 }

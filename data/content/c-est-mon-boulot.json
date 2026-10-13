@@ -25,5 +25,31 @@
     "business"
   ],
   "addedAt": "2026-09-29",
-  "updatedAt": "2026-10-10"
+  "updatedAt": "2026-10-13",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Willmanx",
+        "titre": "meilleur podcast social travail",
+        "texte": "Le podcast est une référence de veille sociale : de l’opinion, de l’actualité des organisations, du droit… un remarquable contenu dans un format express. très lmpressionnant et agréable."
+      },
+      {
+        "note": 4,
+        "auteur": "valdormir",
+        "titre": "PRATIQUE,vigilant",
+        "texte": "La chronique pourrait aller plus loin et mettre des liens pour développer le sujet. Il serait intéressant que en plus du lien de téléchargement à côté deladatesoit spécifié le thème auquel se rapporte le podcast de l'emission"
+      },
+      {
+        "note": 4,
+        "auteur": "kiquine",
+        "titre": "Recommandé !",
+        "texte": "J’aime beaucoup la chronique qui aborde beaucoup de facettes du monde du travail. Mais la pub en début de podcast est insupportable et décourage d’en profiter ..."
+      }
+    ]
+  }
 }

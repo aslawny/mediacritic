@@ -26,7 +26,7 @@
     "espace"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-09-27",
@@ -48,5 +48,29 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "episodes_recents": [
+    {
+      "titre": "TRISHNA, un thermomètre pour la Terre",
+      "date": "2025-06-25"
+    },
+    {
+      "titre": "CO3D, notre Terre en carte maxi 3D",
+      "date": "2025-05-28"
+    },
+    {
+      "titre": "2025, l’océanographie spatiale à l’honneur",
+      "date": "2025-04-18"
+    },
+    {
+      "titre": "Données satellites, des outils pour secourir",
+      "date": "2025-03-21"
+    },
+    {
+      "titre": "L'avenir des objets connectés se dessine dans le ciel",
+      "date": "2025-02-26"
+    }
+  ],
+  "derniere_activite": "2025-06-25",
+  "frequence_jours": 28
 }

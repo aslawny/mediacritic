@@ -27,5 +27,31 @@
     "entrepreneuriat"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-10"
+  "updatedAt": "2026-10-10",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "johnyfiston",
+        "titre": "Super intéressant !",
+        "texte": "Vraiment génial ! moi qui n’y connaît absolument rien mais j’avais envie d’apprendre le concept des NFT et bien je suis servi c’est clair, ludique et remplis de bons conseils. Allez j’y retourne ;)"
+      },
+      {
+        "note": 5,
+        "auteur": "Loupe10x",
+        "titre": "We will survive",
+        "texte": "🙌 On n’a rien vu des préparatifs ni de la fatigue ! Un événement magique qui a changé définitivement mon regard du monde de l’art et marché du luxe 🚀 Cécile"
+      },
+      {
+        "note": 5,
+        "auteur": "Workitude_fr",
+        "titre": "Le rdv NFT",
+        "texte": "Merci pour l’actu & les décryptages! Super boulot de produire ce podcast pour nous tous les jours 🙏 Flavie @ Fleet Podcast, le web3 en avance rapide"
+      }
+    ]
+  }
 }

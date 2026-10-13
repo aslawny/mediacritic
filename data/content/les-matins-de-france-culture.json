@@ -23,27 +23,31 @@
     "gaming"
   ],
   "addedAt": "2026-05-31",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-13",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "C.L.P.R.M.",
+        "titre": "Splendide",
+        "texte": "La voix de Guillaume Erner accompagne tous les matins de ma semaine depuis des années : j’adore cette matinale qui a beaucoup contribué à ma construction intellectuelle.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Fb sourate",
+        "titre": "Rester en vacances",
+        "texte": "À mon avis, Astrid de Villaines est nettement préférable à l’animateur actuel, qui s’exprime trop rapidement et adopte parfois une posture partisane sur des sujets politiques."
+      },
+      {
+        "note": 5,
+        "auteur": "CessRock88",
+        "titre": "Deception",
+        "texte": "J aime beaucoup cette émission. Mais franchement aujourd hui je suis vraiment déçue. Vous consacrez une émission entière à l auteur de manipulations qui tout au long de l émission prétend faire des révélations fracassantes.…"
+      }
     ]
   }
 }

@@ -25,7 +25,7 @@
     "gaming",
     "rétro"
   ],
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "Monster Hunter Stories 3 : un épisode brillant qui fait de l'ombre à Pokémon ?",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-06-06",
-  "frequence_jours": 12
+  "frequence_jours": 12,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "homeprod",
+        "titre": "Podcast passionnant",
+        "texte": "Bravo pour ce super podcast. Je ne rate aucun épisode. Ancien « atariste » j’apprécie les interventions de Steuph. Malheureusement son micro laisse à désirer et sa connexion internet aussi.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Pppauullll",
+        "titre": "Pas mal",
+        "texte": "J’aime beaucoup votre podcast, mais vous devriez tous prendre des micros digne de ce nom, mais surtout arrêter les invités qui interviennent depuis leur cave. La qualité de l’audio est parfois insupportable"
+      },
+      {
+        "note": 5,
+        "auteur": "Nalaardo",
+        "titre": "Quelle merveille auditive !",
+        "texte": "Avant toute chose, je dois préciser avoir trouvé ce podcast totalement par hasard. À présent, je remercie sincèrement toute l’équipe pour ces moments si passionnants …"
+      }
+    ]
+  }
 }

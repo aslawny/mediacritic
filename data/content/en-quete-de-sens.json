@@ -24,7 +24,7 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "Faut-il être en quête de sens pour être heureux ?",
@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-07-02",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pierred76",
+        "titre": "Quel talent…",
+        "texte": "Finir toujours sur une note d’espérance… et ce, quelque soit le sujet traité. Cette émission donne le sourire. Merci à Marie-Ange et son équipe."
+      },
+      {
+        "note": 5,
+        "auteur": "Camomille Jo",
+        "titre": "Bravo et merci !",
+        "texte": "Sujet passionnant, animé avec beaucoup de joie et de dynamisme et des invités experts de grandes qualités ! Bravo et Merci"
+      },
+      {
+        "note": 5,
+        "auteur": "bdridf22",
+        "titre": "Bravo",
+        "texte": "Des sujets fort intéressants, qu’on ne rencontre pas souvent dans d’autres canaux."
+      }
+    ]
+  }
 }

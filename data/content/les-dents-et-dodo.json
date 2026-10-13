@@ -25,7 +25,7 @@
     "education"
   ],
   "addedAt": "2026-06-27",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "L'éléphant de mer ronchon",
@@ -51,25 +51,29 @@
   "derniere_activite": "2026-09-11",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-13",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "yhbujnik'ol,pm.,?,?",
+        "titre": "J’adore c’est trop bien",
+        "texte": "Je suis une BLINK, si vous ne savez pas ce que c’est, c’est une ou un fan de BLACKPINK. Peut-être que ce n’est pas votre genre de faire ça mais je suis sure que ça plairait des épisodes sur la K-POP ou sur un style de musique Merci en tout cas de faire autant d’épisodes Je ne vou…"
+      },
+      {
+        "note": 1,
+        "auteur": "Poxy7578",
+        "titre": "Idiots",
+        "texte": "Totalement inutile Ne sert à rien Trop de publicité Bref c’est nul 👎🏼"
+      },
+      {
+        "note": 5,
+        "auteur": "Klemfly",
+        "titre": "Un super outil pour les dents et l'imagination de nos enfants !",
+        "texte": "Merci merci pour ce top podcast qu'on écoute tous les soirs et dont on est fans! Une vraie galère parfois le brossage de dents de nos enfants. Entre la fatigue, notre impatience, et leur mauvaise volonté, j'avoue m'être souvent énervée.…"
+      }
     ]
   }
 }

@@ -24,7 +24,7 @@
     "sport"
   ],
   "addedAt": "2026-05-24",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "L'Équipe du Soir du 4 septembre",
@@ -50,25 +50,29 @@
   "derniere_activite": "2026-09-04",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-13",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "KHORG74",
+        "titre": "Au Top",
+        "texte": "Des analyses, des commentaires et du professionnalisme, c’est tout ce qui plaît aux amoureux du foot. Le plus du journalisme et du respect pour les auditeurs, beaucoup plus agréable à suivre que d’autres podcasts qui se cantonnent à « brailler » et manque de QUALITE au final."
+      },
+      {
+        "note": 1,
+        "auteur": "Armen03",
+        "titre": "Toujours le même podcast depuis la victoire de Lyon à Nantes ! Hello, y’a quelqu’un aux commandes ?",
+        "texte": "Sinon, c’est génial ! Respectez aussi la chronologie ! Merci."
+      },
+      {
+        "note": 5,
+        "auteur": "Geustek",
+        "titre": "Mais c’est décevant",
+        "texte": "Il manque toujours des podcast Ou on ne les a pas à temps faites donc un effort ! Je vous écoute depuis cayenne et y 4 h de décalage ! Ce serait bien qu’il soit en stock le soir même Y a plus de podcast !!!! Ha super il sont revenus au bout d’une semaine ! 😀"
+      }
     ]
   }
 }

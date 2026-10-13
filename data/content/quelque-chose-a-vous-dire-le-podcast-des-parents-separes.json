@@ -27,7 +27,7 @@
     "culture"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "[PSST 🎙️]- Pedro Correa: \"Ma culpabilité m'a fait accepté beaucoup de choses\"",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-14",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pascalleopold",
+        "titre": "Quelque-chose à écouter : le podcast de Paméla !",
+        "texte": "Des témoignages émouvants, drôles ou tristes. On a pas forcément, du premier abord, envie d’écouter l’histoire (malheureuse) de personnes qui se séparent. Soit qu’on soit dans cette situation, qu’on la redoute ou qu’on l’ai vécu (directement ou non).…"
+      },
+      {
+        "note": 5,
+        "auteur": "Mam solo",
+        "titre": "Merci",
+        "texte": "Dans la tempête qu’a été ma rupture, ce podcast a fait partie des bouées qui m’ont permis de tenir la tête hors de l’eau. Et de prendre les bonnes décisions pour nos enfants alors que j’étais totalement perdue. Et puis de savoir que tout cela allait avoir une fin…un jour ;)"
+      },
+      {
+        "note": 5,
+        "auteur": "mad.Clem",
+        "titre": "Belle découverte !",
+        "texte": "Je viens de decouvrir le podcast et d’écouter l’épisode 13 ! Je me suis beaucoup reconnue dans ce que partage Amal. J’ai hâte de découvrir les autres épisodes, étant moi même séparée du papa de mon fils."
+      }
+    ]
+  }
 }

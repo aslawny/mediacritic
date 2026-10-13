@@ -26,7 +26,7 @@
     "culture"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "EP.82 - Mélanie Dautreppe-Liermann - Femmes du graphisme. Enquête sur les graphistes dans le monde du livre et",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-06-30",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "alicebqn",
+        "titre": "Incroyable!!!",
+        "texte": "Super hôte qui parle très bien du graphisme, on apprend beaucoup de choses, plus intéressantes les unes que les autres! Je recommande"
+      },
+      {
+        "note": 3,
+        "auteur": "Cyssu",
+        "titre": "Projet intéressant, mais parasité par du gauchisme inutile et ennuyeux",
+        "texte": "Très cool, juste dommage et insupportable l'écriture inclusive à voix haute, ainsi que la promotion de mœurs dégénérées."
+      },
+      {
+        "note": 4,
+        "auteur": "Augustineécoute",
+        "titre": "Super chouette !",
+        "texte": "Une liste d’invités qui me donne envie de cliquer sur chaque épisode plus que le précédent ! J’adore le concept des petites questions de la fin sur les habitudes de travail, le choix de la typo de couverture de l’épisode, les refs etc …"
+      }
+    ]
+  }
 }

@@ -26,7 +26,7 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "Le plan de Nancy pour vivre sa vie riche dès 50 ans — et tout dépenser avant de mourir",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-09-04",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-13",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Dathims",
+        "titre": "Merci d’apporter autant de concentrer de valeur dans un podcast",
+        "texte": "Ça fait 20 ans que je parle d’argent sans tabou, 10 ans que je l’étudie et que je l’enseigne aux autres et à mes proches avec plus ou moins de succès, mais aussi 10 ans que j’applique mon propre enseignement sur l’argent, en appliquant des choses remplis de bon sens au quotidien,…"
+      },
+      {
+        "note": 3,
+        "auteur": "eva_aloha",
+        "titre": "Épisode Guillaume Moubeche",
+        "texte": "1re écoute sur ce podcast et ce que je retiens c’est les gros sabots de Fabrice Florent, aucune finesse dans son itw ! Mais surtout la découverte de Guillaume Moubèche, un invité remarquable, inspirant, la tête sur les épaules !"
+      },
+      {
+        "note": 5,
+        "auteur": "MANOU DE CHAMBERY",
+        "titre": "Marvin le jumeau… et les autres.",
+        "texte": "Génialissime pour moi, qui ai découvert trop tard tes interviews . Très pédagogiques, très intelligentes, très utiles. Des attitudes à transmettre dès le plus jeune âge (à ceux qui sont d’accord pour “écouter”🙄) Il est est évident que l’”Encyclopédie”que représente le Net a révol…"
+      }
     ]
   }
 }

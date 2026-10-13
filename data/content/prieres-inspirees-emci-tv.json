@@ -26,27 +26,31 @@
     "vulgarisation"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-13",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Alice_b_lm",
+        "titre": "Témoignage de guérison",
+        "texte": "Je bénis l’éternel pour l’émission Emci et pour la vie de Jeremie Sourdril. Au cours d’une émission cette semaine il parlait de toutes les personnes qui avaient des règles douloureuses. C’était mon cas, et c’était vraiment une période non plus naturelle mais une torture.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Etienne De la Capite",
+        "titre": "Passe ton chemin!",
+        "texte": "Faux evangile de la pensée positive, de la prospérité. Quelle gaspillage de ressources de Dieu faire tourner une télé aussi scandaleuse !!!"
+      },
+      {
+        "note": 5,
+        "auteur": "Laurent Obellianne",
+        "titre": "Tellement bénissant",
+        "texte": "tout d’abord le format est génial et permet de progresser toute la semaine sur un thème. Les sujets sont variés et extrêmement utiles, car souvent ils moins souvent développés dans les églises. Mais surtout quelle onction, quelle inspiration et quelle profondeur.…"
+      }
     ]
   },
   "episodes_recents": [

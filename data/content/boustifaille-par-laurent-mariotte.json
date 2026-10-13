@@ -27,7 +27,7 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "BOUSTIFAILLE : LE MEILLEUR DU MEILLEUR !",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-08-28",
-  "frequence_jours": 5
+  "frequence_jours": 5,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "SteveHx",
+        "titre": "Un simple merci n’est pas suffisant et pourtant",
+        "texte": "Comment ne pas adorer ce podcast il regroupe à la fois la bonne humeur et l’envie du partage. Merci Monsieur Mariotte de nous faire partager vos repas entre amis, avec vous à table."
+      },
+      {
+        "note": 5,
+        "auteur": "Étoiles79",
+        "titre": "Chouette Mariotte revient !",
+        "texte": "Très contente de retrouver vos échanges ! Mais impossible de retrouver vos commentaires et donc la recette du Parmentier de Y Camdeborde 🙁"
+      },
+      {
+        "note": 5,
+        "auteur": "Lila-Maria",
+        "titre": "Miam",
+        "texte": "Des astuces pour acheter et cuisiner, des artisans passionnés et Laurent Mariotte toujours au top. J’adore !"
+      }
+    ]
+  }
 }

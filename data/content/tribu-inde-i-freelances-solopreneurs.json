@@ -25,27 +25,31 @@
     "business",
     "entrepreneuriat"
   ],
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-13",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pied-Léger",
+        "titre": "Quand les indépendants forment une tribu",
+        "texte": "Des histoires et des partages d’expérience qui motivent, aiguillent mais aussi rassurent car, bien que les domaines soient nombreux, on se reconnaît vite dans les parcours, les écueils et les questionnements des invités.…"
+      },
+      {
+        "note": 3,
+        "auteur": "O2678",
+        "titre": "Top contenu",
+        "texte": "Mais les intro de 20 min un peu longues.☺️ serait il bavard?"
+      },
+      {
+        "note": 5,
+        "auteur": "FruitDesBois",
+        "titre": "Le compagnon audio indispensable pour toutes les oreilles freelances",
+        "texte": "Quand Alexis murmure à l’oreille des freelances c’est pour les aider à grandir. 🤩 Avec ce podcast, on passe d’un format à un autre en toute fluidité, et sans platitude, car chacune des réflexions et stratégies délivrées sont des pépites.…"
+      }
     ]
   },
   "episodes_recents": [

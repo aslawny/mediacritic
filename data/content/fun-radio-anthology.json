@@ -25,7 +25,7 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "Fun Radio Anthology - L'intégrale du 30 août",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-31",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "XTINA IS BACK",
+        "titre": "Trop bonne émission",
+        "texte": "Merci de nous faire redécouvrir des morceaux qu’on a parfois même « oublié ». La programmation est d’une grande qualité. Merci pour ce travail !"
+      },
+      {
+        "note": 5,
+        "auteur": "Cédric.Assié",
+        "titre": "Merci pour cette nostalgie",
+        "texte": "Merci Fun Radio pour ce podcast qui nous permet de revivre tout les meilleurs moments et son de notre jeunesse !!"
+      },
+      {
+        "note": 5,
+        "auteur": "Amsan9873",
+        "titre": "Que du bonheur",
+        "texte": "Pourriez-vous cependant mettre plus régulièrement le podcast à jour, s'il vous plaît ? Merci!"
+      }
+    ]
+  }
 }

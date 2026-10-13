@@ -26,7 +26,7 @@
     "rénovation",
     "DIY"
   ],
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "#58 - Au cœur de l'invisible : le sol, le climat et les secrets de notre habitat avec🎙️Fanny Fanou",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-06-02",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "mariewntr",
+        "titre": "Un podcast instructif et fun",
+        "texte": "Ce podcast est intéressant que vous soyez bricoleur ou que vous avez seulement envie d’en savoir plus sur comment rénover de façon éco-responsable. Des infos toujours pertinentes avec des invités passionné qui partagent leur savoir faire.…"
+      },
+      {
+        "note": 5,
+        "auteur": "flosagot",
+        "titre": "À ne pas manquer+++",
+        "texte": "Ce podcast a tout pour plaire : de nouvelles professions qui nous emmènent vers de nouveaux horizons !! Caroline sait amener le sujet en le rendant intéressant et en nous captivant par les différentes anecdotes ! Bravo pour le choix variés des professions ! Continue +++"
+      },
+      {
+        "note": 5,
+        "auteur": "moi-Melpomenia",
+        "titre": "Un super Podcast riche et varié !",
+        "texte": "J’A-DO-RE ! Des podcast comme je les aime !! Une énergie, une régularité une diversité de sujets hyper intéressants ! Je suis très sensible à l’éco-rénovation alors forcément ça me parle :) Continuez les filles c’est hyper passionnant !"
+      }
+    ]
+  }
 }

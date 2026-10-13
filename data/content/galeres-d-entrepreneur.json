@@ -25,7 +25,7 @@
     "business"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "#31 Jonathan Lalinec - Un contrôle fiscal et l'URSSAF en même temps",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2023-10-19",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "aziz1919",
+        "titre": "Apprendre des erreurs plutôt que des réussites",
+        "texte": "Le concept du podcast est très intéressant, on apprend bien plus des erreurs des entrepreneurs que de leurs réussites"
+      },
+      {
+        "note": 5,
+        "auteur": "CK_YZ17",
+        "titre": "A ne pas rater !",
+        "texte": "Un des meilleurs podcast pour entrepreneurs que je n’ai jamais écouté. De l’authenticité et des vraies histoires !"
+      },
+      {
+        "note": 5,
+        "auteur": "AliCreo",
+        "titre": "Des contenus pertinents",
+        "texte": "Des vrais sujets avec des vrais personnes ! Merci Karim, grâce à toi on apprend aussi des erreurs des autres 😅"
+      }
+    ]
+  }
 }

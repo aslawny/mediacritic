@@ -26,7 +26,7 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "L'école ou le bagne ? Victor Hugo accuse ! ⛓️",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-31",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-13",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Fan de culture g",
+        "titre": "J’adore !!!!",
+        "texte": "Merci beaucoup à toutes les personnes du studio Biloba pour ce super podcast , serait-ce possible de faire un épisode sur l’utilisation du mot \"tube\" en parlant de morceaux musicaux à succès Merci beaucoup et je recommande à tous les auditeurs les podcasts \"pépites d’histoires\" e…"
+      },
+      {
+        "note": 1,
+        "auteur": "Étienne Vernet",
+        "titre": "Attention à la dérive commerciale !",
+        "texte": "1'07\" de pub au début du dernier épisode (\"Pourquoi le chocolat est-il aussi addictif ?\") qui dure 3'01\", c'est BEAUCOUP trop ! Encore un ou deux épisodes du même genre et je me désabonne..."
+      },
+      {
+        "note": 5,
+        "auteur": "Théodora Boss lady💜🖤",
+        "titre": "Super podcast 😉",
+        "texte": "Je viens à peine de découvrir ce podcast et j’en suis déjà à mon 3eme épisode !😜 Il y a des superbes explications adaptées à enfants à anciens! J’ai 13 ans et je me suis dis que me cultiver un peu pour être aux dernières nouvelles et pouvoir informer des gens sur tel ou tel sujet…"
+      }
     ]
   }
 }

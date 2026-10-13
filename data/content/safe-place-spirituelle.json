@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/safe-place-spirituelle/id1771293294?uo=2",
       "trackId": 1771293294,
       "rating": 4.9,
-      "ratingCount": 378,
+      "ratingCount": 379,
       "episodeCount": null
     }
   },
@@ -27,27 +27,31 @@
     "vulgarisation"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-13",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Srn.ee",
+        "titre": "Un podcast pédagogue qui pousse à une réflexion positive sur l’islam .",
+        "texte": "Le meilleure pour émettre un avis, c’est la façon pédagogue dont est apprivoisé l’islam dans ces podcasts. La façon bienveillante d’expliquer l’islam , qui laisse transparaître la beauté de la religion avant tout, se qui n’est pas toujours le cas chez les personnes dont le conten…"
+      },
+      {
+        "note": 5,
+        "auteur": "Lindaaamh",
+        "titre": "Une miséricorde",
+        "texte": "Une podcast tellement apaisant et motivant ! Il permets de ce recentrer sur l’essentiel et donne envie de multiplier les actes d’adoration dès qu’en entends Zeineb parler avec cette voix douce et ces paroles bienveillantes.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Soraya3327",
+        "titre": "Merci pour ce que tu fais pour nous.",
+        "texte": "Salam Aleykum , Merci pour tout ce que tu fais. BarakAllah u fik depuis plusieurs semaine j’étais super angoissée , j’écoute depuis ce matin je préfère la version podcast que vidéo ça me permet de mieux me concentrer.…"
+      }
     ]
   },
   "episodes_recents": [

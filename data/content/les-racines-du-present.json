@@ -24,7 +24,7 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "La diplomatie a-t-elle fait son temps ?",
@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-09-10",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Réveil hardu",
+        "titre": "Captivant",
+        "texte": "Entretiens riches, didactiques et précis. S’écoutent paisiblement et avec grand intérêt."
+      },
+      {
+        "note": 1,
+        "auteur": "Cendrenparis",
+        "titre": "Inécoutable",
+        "texte": "L’animateur interrompt constamment ses invités, c’est pénible. Sur la même chaîne je préfère la suite de l’histoire."
+      },
+      {
+        "note": 5,
+        "auteur": "Danielflorian",
+        "titre": "Dernières nouvelles de Vichy et de Pétain",
+        "texte": "Merci pour cette émission qui invite à méditer et à comprendre l’actualité."
+      }
+    ]
+  }
 }

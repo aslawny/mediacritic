@@ -25,7 +25,7 @@
     "numerique"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "454: ‘Getting the Snack Right’, With Chance Miller",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-10",
-  "frequence_jours": 10
+  "frequence_jours": 10,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Kai Carver",
+        "titre": "I like it",
+        "texte": "John Gruber shows nice attention to detail and tries to always be right. He has integrity and insight. His guests are good. I find listening to his shows interesting and relaxing."
+      },
+      {
+        "note": 1,
+        "auteur": "NoodlesNinja",
+        "titre": "Retour à l'envoyeur",
+        "texte": "Puisque John Gruber incite ses auditeurs à donner 1 étoile aux applis qui incitent leurs utilisateurs a les noter, ça me semble justifié qu'il \"subisse\" ce qu'il veut faire subir aux autres. Autrement, bonne émission."
+      },
+      {
+        "note": 5,
+        "auteur": "olirip",
+        "titre": "Great podcast",
+        "texte": "I think 1 star reviews make more for it than 5 stars'. This podcast is just like some french movies, the more it's hated, the better. John, tu es le bienvenu en France !"
+      }
+    ]
+  }
 }

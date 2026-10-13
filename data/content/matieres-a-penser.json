@@ -24,27 +24,31 @@
     "culture",
     "societe"
   ],
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-13",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Yehoudah",
+        "titre": "Un sujet en cinq épisodes",
+        "texte": "Émissions passionnantes déclinées sous cinq angles différents. J’écoute toujours avec grand plaisir les sujets abordés . Merci au service public qui tire l’auditeur toujours vers le haut .…"
+      },
+      {
+        "note": 1,
+        "auteur": "Lady Du Lac",
+        "titre": "Une véritable aberration",
+        "texte": "Pour Sandrine Treiner 1. Pourquoi déplacer cette émission à une heure si tardive ? 2. Pourquoi avoir retiré le nom des chroniqueurs dans le synopsis des podcasts? 3. Notre talentueux Frederic Worms aurait-il arrêté l’émission Matière à Penser ?"
+      },
+      {
+        "note": 5,
+        "auteur": "Aki 139",
+        "titre": "Matières à penser",
+        "texte": "le podcast de cette émission extraordinaire Frédéric Worms et G.Didi-Huberman à propos de son livre \"Passer, quoi qu’il en coûte”. En haut de mon écran, la bande défile, mais ce n’est pas la voix ni le texte de l’émission. Hier lundi 13 novembre, 22h15. Merci"
+      }
     ]
   }
 }

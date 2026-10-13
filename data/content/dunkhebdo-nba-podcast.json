@@ -25,7 +25,7 @@
     "politique"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "La dernière.",
@@ -51,25 +51,29 @@
   "derniere_activite": "2025-11-04",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-13",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Un_mec_que_tu-",
+        "titre": "Most Valuable Podcast",
+        "texte": "Sans flagornerie , je voudrais sincèrement saluer la qualité de ce podcast; que ce soit la variété du contenu et des sujets traités* , la précision des analyses , la connaissance du jeux et de la league , l’éloquence et la qualité d’écoute des intervenants.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Bobinoh_",
+        "titre": "Très bon podcast sur la NBA",
+        "texte": "Podcast toujours agréable à écouter avec de bons arguments et des avis francs. Tous les aspects du basket sont traités, je recommande FORT !"
+      },
+      {
+        "note": 5,
+        "auteur": "Azertee",
+        "titre": "Petit à petit dunkhebdo fait son nid",
+        "texte": "Ça fait maintenant 4 ans au moins que je vous suis et les progrès sont énormes! Tant au niveau technique que dans l’analyse et la créativité du contenu! Un grand bravo! Vous nous permettez non seulement de suivre la NBA en français mais aussi de la suivre en qualité! L’épisode su…"
+      }
     ]
   }
 }

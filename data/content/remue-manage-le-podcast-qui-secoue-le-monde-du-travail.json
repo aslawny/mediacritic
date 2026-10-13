@@ -25,7 +25,7 @@
     "cuisine"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "Comment s'engager au travail et avoir de l'impact ? Avec Sylvain Reymond et Rémy Rego",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2024-12-04",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "entrepreneurdunet",
+        "titre": "D’actualité !",
+        "texte": "Plus que jamais d’actualité ! Des interviews variées et globalement instructives et interessantes."
+      },
+      {
+        "note": 1,
+        "auteur": "Robin2Robin",
+        "titre": "Enrichissant",
+        "texte": "J’apprends de nouvelles choses à chaque épisode. Les interviews sont dynamiques et bien menées, les sujets d’actualités et les intervenants la plupart du temps passionnants."
+      },
+      {
+        "note": 5,
+        "auteur": "Frida13&17",
+        "titre": "Super interviews",
+        "texte": "J’ai appris énormément de bonnes pratiques grâce aux interviews"
+      }
+    ]
+  }
 }

@@ -24,5 +24,25 @@
     "culture"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-10-10"
+  "updatedAt": "2026-10-13",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "SchubertiadeHohenems",
+        "titre": "« La vie sans la musique serait… »",
+        "texte": "Les chroniques d’Anna Sigalevitch, malgré la contrainte de leur brièveté sont vivement attendues et embrassent un très vaste répertoire. Le timbre de la splendide voix d’Anna Sigalevitch si évocateur et empreint parfois d’une délicate émotion contenue est une source supplémentair…"
+      },
+      {
+        "note": 5,
+        "auteur": "julien2trois",
+        "titre": "Fabulissimo",
+        "texte": "Une pépite. Une capsule de joie classique orchestrée par l’émotion, le talent et la superbe voix d’Anna Sigalevitch et de son équipe. Un grand bravo !"
+      }
+    ]
+  }
 }

@@ -24,5 +24,31 @@
     "comedie"
   ],
   "addedAt": "2026-07-09",
-  "updatedAt": "2026-10-10"
+  "updatedAt": "2026-10-13",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Nas2045",
+        "titre": "Nécessaire",
+        "texte": "Une émission qui donne de l’énergie par sa légèreté et sa bonne humeur communicative. Cela fait du bien sur France Inter."
+      },
+      {
+        "note": 1,
+        "auteur": "Fab21190",
+        "titre": "Ennuyeux et médiocre",
+        "texte": "Que du remplissage sonore, du bavardage dans un Français pseudo urbain qui fait mal aux oreilles, peu de talents… c’est pas drôle, pas divertissant, ni culturel. On s’ennuie en attendant une qualité linguistique et rhétorique qui n’arrive pas."
+      },
+      {
+        "note": 5,
+        "auteur": "Camillesrg",
+        "titre": "Génial",
+        "texte": "Super émission, je vote pour Camille Combal sur la plage de 11h à la rentrée"
+      }
+    ]
+  }
 }

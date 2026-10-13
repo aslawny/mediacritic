@@ -24,7 +24,7 @@
     "news"
   ],
   "addedAt": "2026-07-09",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "L'After Tour du dimanche 26 juillet 2026",
@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-07-26",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "TOM BAC",
+        "titre": "🤩",
+        "texte": "Maillot jaune pour cette émission de qualité sans langue de bois… (un pléonasme pour RMC) le druide est magique! Continuez comme ça! 💪"
+      },
+      {
+        "note": 1,
+        "auteur": "emmparis",
+        "titre": "À bientôt Richard V",
+        "texte": "Commentaires incompréhensibles de Virenque. C’est pas son truc"
+      },
+      {
+        "note": 2,
+        "auteur": "Piererem",
+        "titre": "Mais pourquoi",
+        "texte": "J’ai beaucoup écouté, mais pourquoi cette année avoir invité Richard Virenque en tant que consultant, alors même que les deux consultants sont déjà très bien."
+      }
+    ]
+  }
 }

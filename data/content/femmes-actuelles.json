@@ -25,7 +25,7 @@
     "series"
   ],
   "addedAt": "2026-06-27",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "Virgilia Hess : \"il y a ce cliché de la miss météo qui n'est pas journaliste\"",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2024-09-25",
-  "frequence_jours": 41
+  "frequence_jours": 41,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "CamilleFu",
+        "titre": "Les femmes à l’honneur",
+        "texte": "Un podcast que j’ai adoré découvrir. Des histoires de femmes, de parcours et de vies. La journaliste est très pertinente dans ses questions, ouvre le dialogue et pousse à l’argumentation.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Gh1007",
+        "titre": "👍🏻👍🏻👍🏻",
+        "texte": "Un chouette podcast où la femme de télé peut prendre le temps de parler d’un sujet passionnant. Coup de cœur pour l’épisode avec Alexia Laroche Joubert."
+      },
+      {
+        "note": 5,
+        "auteur": "LaValoche92",
+        "titre": "Hyper intéressant !",
+        "texte": "De super entretiens avec des femmes qu’on découvre différemment ! Des témoignes sincères, notamment celui d’Iris Mittenaere. Inspirant !"
+      }
+    ]
+  }
 }

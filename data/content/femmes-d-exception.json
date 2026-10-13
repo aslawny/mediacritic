@@ -26,27 +26,31 @@
     "news"
   ],
   "addedAt": "2026-08-05",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-13",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Yannouchka972",
+        "titre": "LAURE ADLER ICÔNE DE LA CULTURE",
+        "texte": "Je tiens à vous exprimer ma profonde gratitude pour vos podcasts riches et educatifs. Chaque épisode est une invitation à explorer de nouveaux horizons intellectuels et à approfondir notre compréhension du monde.Vos podcast sont un trésor précieux pour tous les auditeurs en quête…"
+      },
+      {
+        "note": 1,
+        "auteur": "circee7680",
+        "titre": "Merci Laure Adler",
+        "texte": "Ces podcasts m’ont beaucoup touchée, car beaucoup de femmes célèbres seront oubliées si personne n’en parle comme vous avec tant de sagesse!"
+      },
+      {
+        "note": 5,
+        "auteur": "marc-metalsounds",
+        "titre": "Laure Adler, une femme d’exception",
+        "texte": "Je voudrais saluer ici Laure Adler, sa finesse d’esprit, sa culture, son ton et ses choix. Saluer une femme d’exception qui passe son temps à mettre en lumière celles et ceux qui incarnent l’espoir d’un monde meilleur, plus intelligent, plus conscient des ses différents héritages…"
+      }
     ]
   }
 }

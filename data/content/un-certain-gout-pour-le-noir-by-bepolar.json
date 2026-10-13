@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/un-certain-go%C3%BBt-pour-le-noir-by-bepolar/id1536162396?uo=4",
       "trackId": 1536162396,
       "rating": 4.5,
-      "ratingCount": 38,
+      "ratingCount": 39,
       "episodeCount": 598
     }
   },
@@ -27,7 +27,7 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "Aujourd'hui on vous présente Péché de jeunesse de Sylvain Bonnet, un polar qui décoiffe ! Un certain goût pour",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-15",
-  "frequence_jours": 3
+  "frequence_jours": 3,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Roselivres",
+        "titre": "Des interviews d’auteur.e.s passionnantes !",
+        "texte": "J’écoute essentiellement les interviews d’auteur.e.s et je les trouve vraiment inspirantes. Jérome de Bepolar ne s’attarde pas seulement sur le livre qui sort mais vraiment sur le processus d’écriture et c’est génial de rentrer dans le quotidien de nos auteur.e.s favoris.tes.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Eric Nicolier",
+        "titre": "Contenu bon mais…",
+        "texte": "C’est bon dans l’ensemble mais 2 petits reproches (constructifs) : - je ne vois pas trop l’intérêt d’épisodes de seulement quelques minutes - techniquement faites plus attention.…"
+      },
+      {
+        "note": 5,
+        "auteur": "rod3001",
+        "titre": "Un podcast pour le polar",
+        "texte": "C’est un podcast très prometteur qui se penche sur l’univers du polar sous toutes ses facettes, interview d’auteurs, analyses de films et de séries. L’approche est intéressante en remettant chaque sujet dans le contexte politique, d’un sociétal et culturel.…"
+      }
+    ]
+  }
 }

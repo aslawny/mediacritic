@@ -24,7 +24,7 @@
     "tech",
     "numérique"
   ],
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "Merci et Au Revoir 👋",
@@ -50,25 +50,29 @@
   "derniere_activite": "2024-12-30",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-13",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mitch_skate",
+        "titre": "Nostalgique de la belle époque",
+        "texte": "C’était vraiment le podcast que j’avais découvert en 2023/2024, franchement c’est ce qui m’a donné le goût du podcast en général comme l’ambiance et les échanges étaient bons ! Ça fait longtemps que je voulais vous dire merci pour ces épisodes …"
+      },
+      {
+        "note": 5,
+        "auteur": "baldini007",
+        "titre": "Belle découverte",
+        "texte": "Je souhaitais un nouveau podcast et je suis tombé par hasard sur celui-ci. Après avoir écouté deux épisodes, le 1er et celui sur le minimalisme j’ai entrepris de changer quelques habitudes.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Lucas_vlks",
+        "titre": "Une petite émission très intéressante",
+        "texte": "Comme je le dis dans le titre cette émission (meme si à l’heure où j’écris ce commentaire un seul épisode est sorti) cette émission est très divertissante et parfaite pour une écoute dans les transports, chez soit ou autre.…"
+      }
     ]
   }
 }

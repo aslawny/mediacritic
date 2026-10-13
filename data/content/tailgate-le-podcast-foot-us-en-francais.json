@@ -25,7 +25,7 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "Tailgate NFL - Debriefing week 2: Les favoris tremblent!",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-21",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Papa Jo One",
+        "titre": "Preview 2024 🥰",
+        "texte": "Un grand merci pour la série de previews par division ! C’était vraiment complet et détaillé. Comme d’habitude avec la NFL by The Free Agent je me suis régalé."
+      },
+      {
+        "note": 3,
+        "auteur": "Paris75555",
+        "titre": "Bof l’histoire du genou",
+        "texte": "Pourquoi l’épisode commence 4:30 après le début ? Que du foot us svp!"
+      },
+      {
+        "note": 5,
+        "auteur": "InJameisWeTrust",
+        "titre": "Podcast au top",
+        "texte": "Podcast super sur la NFL! Toute l’actualité chaude en quelques minutes et des analyses pertinentes de la part des intervenants! Continuez comme ça"
+      }
+    ]
+  }
 }

@@ -24,7 +24,7 @@
     "humour"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "Ruba Ghazal : La gauche ne doit pas avoir peur de l’argent !",
@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-08-20",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Zarafoustra",
+        "titre": "La courtoisie sans langue de bois",
+        "texte": "J'ai attendu d'écouter plusieurs émissions avant de me forger un avis. Stefan Bureau est un gentleman à la tête bien faite et qui ne maquille nullement ses propos.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Jérôme40",
+        "titre": "Dérive complotiste",
+        "texte": "Dommage de voir dériver ce podcast dans le complotisme, à l’image de l’invité Jacques Baud. C’est très décevant"
+      },
+      {
+        "note": 5,
+        "auteur": "belanona",
+        "titre": "\" Un MOMENT de PLAISIR et de RÉALITÉ \"",
+        "texte": "À la suite d’une émission intitulée \" les invités de CHARLES GAVE , j’ai eu l’opportunité de découvrir votre émission, la première étant l’entretien avec le Pr PERRONNE , vaste programme !!! Et comme disait l’humoriste Anne ROUMANOFF : \" On ne nous dit pas TOUT \" Bravo à cette ém…"
+      }
+    ]
+  }
 }

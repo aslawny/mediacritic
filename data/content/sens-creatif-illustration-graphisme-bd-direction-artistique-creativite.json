@@ -26,27 +26,31 @@
     "culture"
   ],
   "addedAt": "2026-06-15",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-13",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Gotothemoon",
+        "titre": "Très bon podcast !",
+        "texte": "Je suis en train de tous me les enfiler d’un coup ;) et vraiment beaucoup de belles interviews. Sur celle des agents 002, j’aurai aimé avoir aussi un retour d’illustrateur suivi par une agence, pour mieux comprendre comment les choses se passent concrètement.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Marie Pauline Clémence",
+        "titre": "Un peu déçue par la tournure de Sens Créatif",
+        "texte": "Dans l’épisode avec Steffie Brocoli, je trouve Laurent très donneur de leçon. Il reprend tout le temps l’artiste pour « améliorer » son propos et montrer qu’il sait et c’est très agaçant !"
+      },
+      {
+        "note": 5,
+        "auteur": "Kuroe Yamasu",
+        "titre": "Très inspirant",
+        "texte": "En tant que jeune étudiante dans le dessin m’appretant à entrer dans le monde du travail. Ce podcast est un brin d’espoir . Dans les écoles, et partout ailleurs, on nous dit que le monde de l’image est bouché, que c’est très difficile et pourtant ...par le biais de ses nombreuses…"
+      }
     ]
   },
   "episodes_recents": [

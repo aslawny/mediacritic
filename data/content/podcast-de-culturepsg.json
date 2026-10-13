@@ -26,27 +26,31 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-13",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "@auteuilrouge",
+        "titre": "Podcast triangle vert et dignité",
+        "texte": "-Pouls du commentaire : Bonsoir... Et MERCI! à toute l’équipe (au sens élargi) pour TOUS ces « podcasts du... » Je vous remercie d’être 4 à nous faire profiter de vos réactions à propos du match, opposant le PSG à « X » en : championnat, coupe(s), C1...…"
+      },
+      {
+        "note": 1,
+        "auteur": "MehdiPSG92",
+        "titre": "Quelle horreur !",
+        "texte": "On dirait des dépressifs qui débattent sur la dépression. Ce Podcast est d’un ennui mortel !"
+      },
+      {
+        "note": 5,
+        "auteur": "Carlgustave",
+        "titre": "Meilleur émission sur le PSG disponible !",
+        "texte": "Le podcast de culturepsg est le plus intéressant et sérieux tout medias confondu, tout comme le site culturepsg ce podcast donne des avis éclairés et mesurés sur les matchs et l'actualité du PSG.…"
+      }
     ]
   },
   "episodes_recents": [

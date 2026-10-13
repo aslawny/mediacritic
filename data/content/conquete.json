@@ -26,7 +26,7 @@
     "business"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "How Ramp Runs Growth Like a Science Lab (George Bonaci - VP Growth @Ramp)",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-19",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "alexchvllr",
+        "titre": "Probablement le meilleur podcast marketing",
+        "texte": "Certes c’est technique mais en tant que marketeur c’est aussi ça qu’on aime. Des sujets bien approfondis par des invités de haut vol, un host qui laisse largement la place à ses invités sans tirer la couverture vers lui. Keep going Jordan ! 👊"
+      },
+      {
+        "note": 2,
+        "auteur": "lina126793726",
+        "titre": "Intéressant mais vocabulaire excluant",
+        "texte": "Les thématiques sont intéressantes mais beaucoup trop d’anglicismes et d’expressions incompréhensibles qui ne permettent pas de démocratiser les sujets. Dommage car le propre du podcast est de toucher des personnes hors de votre propre monde"
+      },
+      {
+        "note": 5,
+        "auteur": "Mikouf06",
+        "titre": "Super",
+        "texte": "Génial comme podcast on apprend beaucoup, c’est super inspirant ! Attention à la gestion du volume entre les jingle intro/outro et le contenu de l’épisode : c’est très fort dans un cas et moyen dans l’autre 😬"
+      }
+    ]
+  }
 }

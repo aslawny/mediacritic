@@ -25,7 +25,7 @@
     "culture"
   ],
   "addedAt": "2026-08-14",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-13",
   "episodes_recents": [
     {
       "titre": "Mathieu Wassler (Domaine Wassler, Blienschwiller) : l'Alsace bousculée par l'expérimentation",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-02",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "CallDé_35_",
+        "titre": "Belles rencontres et passion partagée",
+        "texte": "Quel superbe podcast : on a envie de partir avec vous à l’aventure, découvrir ce que l’Alsace fait de mieux en termes de vin. Du vin oui mais pas que : des artisans passionnés à qui vous arrivez si bien à faire exprimer leur conception de la vigne et de la vie.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Amandine de Roquebrun",
+        "titre": "Jean-Pierre Frick, un moment d’exception avec un vigneron d’une humanité magique",
+        "texte": "Merci de partager ce grand moment avec Jean-Pierre Frick, un beau dialogue avec un grand vigneron, un artiste du vin et des mots qui sait partager sa passion du vin et de la vie (est-ce si différent ?). Cela donne envie de se plonger dans d’autres rencontres… Bravo"
+      },
+      {
+        "note": 5,
+        "auteur": "axellus",
+        "titre": "A boire et à écouter",
+        "texte": "J’ai écouté un épisode pour savoir et je suis devenu accroc. Intéressant de découvrir les vignerons d’Alsace quand on est loin de la France et des domaines que j’ai envie d’importer pour goûter et faire aimer les vrais vins. Encore merci"
+      }
+    ]
+  }
 }

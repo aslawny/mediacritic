@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2025-07-08",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-13",
+    "extraits": [
+      {
+        "note": 4,
+        "auteur": "Elodie BG",
+        "titre": "Vive la version intégrale",
+        "texte": "Très bonne émission. Le podcast avec des versions intégrales c’est top"
+      },
+      {
+        "note": 1,
+        "auteur": "FredPerl",
+        "titre": "Trop orienté et manque de journalisme",
+        "texte": "L’intention est bonne mais on s’aperçoit vite par les questions fermées et orientées qu’ici l’idée est plus de penser pour nous que d’informer. Au final un bilan très mitigé."
+      },
+      {
+        "note": 2,
+        "auteur": "veropo59",
+        "titre": "Agréable mais",
+        "texte": "Emission agreable a ecouter mais stop au découpage sans intérêt"
+      }
+    ]
+  }
 }
