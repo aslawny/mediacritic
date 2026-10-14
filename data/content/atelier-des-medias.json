@@ -1,0 +1,53 @@
+{
+  "slug": "atelier-des-medias",
+  "title": "Atelier des médias",
+  "author": "RFI",
+  "type": "podcast",
+  "categories": [
+    "culture",
+    "societe"
+  ],
+  "description": "L'atelier des médias, présenté par Steven Jambot, est une émission qui analyse les r/évolutions du journalisme et des médias à l'ère numérique. Elle est diffusée en podcast chaque samedi matin. Contact : atelier@rfi.fr",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/de/cf/6e/decf6e47-9692-e386-9e3f-b87ea95ab715/mza_13076373343386157420.jpg/600x600bb.jpg",
+  "language": "fr",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/atelier-des-m%C3%A9dias/id1500234487?uo=4",
+      "trackId": 1500234487,
+      "rating": 4.5,
+      "ratingCount": 17,
+      "episodeCount": 25
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "culture",
+    "societe"
+  ],
+  "addedAt": "2026-10-14",
+  "updatedAt": "2026-10-14",
+  "episodes_recents": [
+    {
+      "titre": "ZOA: 1er anniversaire pour un média numérique qui séduit la jeunesse africaine",
+      "date": "2026-10-10"
+    },
+    {
+      "titre": "Kak rappelle l'importance du dessin de presse pour les 20 ans de Cartooning for peace",
+      "date": "2026-10-03"
+    },
+    {
+      "titre": "Mener la «bataille culturelle» à l'ère de l'IA: les pistes de Christophe Payet",
+      "date": "2026-09-26"
+    },
+    {
+      "titre": "Hervé Brusini : le pape Léon XIV affirme « la nécessité d’un bon journalisme »",
+      "date": "2026-09-19"
+    },
+    {
+      "titre": "Désinformation et ingérences : la stratégie européenne expliquée par Nathalie Loiseau",
+      "date": "2026-09-12"
+    }
+  ],
+  "derniere_activite": "2026-10-10",
+  "frequence_jours": 7
+}

@@ -25,25 +25,29 @@
   "addedAt": "2026-08-26",
   "updatedAt": "2026-10-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-14",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Adrienjoune",
+        "titre": "Toujours d’actualité",
+        "texte": "Un travail professionnel et j’apprécie l’honnêteté de la professeur . L’émission date de 2018 mais tjs d’actualité. La perfection et la solution magique n’existe pas mais ces 4 exemples donnent quelques pistes d’amélioration de notre approche pédagogique à l’école et bien sûr le…"
+      },
+      {
+        "note": 1,
+        "auteur": "Mateus Machado",
+        "titre": "Décevant",
+        "texte": "Juste décevant le ton et les commentaires de la journaliste."
+      },
+      {
+        "note": 5,
+        "auteur": "af_lah",
+        "titre": "Merci !",
+        "texte": "Très beaux partages d’expériences ! Ayant eu une très bonne expérience au collège avec d’excellents professeurs. Vous m’avez donné envie de les contacter et de leur dire à quel point ils ont fait une différence dans mon parcours.…"
+      }
     ]
   },
   "episodes_recents": [

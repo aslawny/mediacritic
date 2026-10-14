@@ -28,25 +28,29 @@
   ],
   "updatedAt": "2026-10-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-14",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "4avid S",
+        "titre": "Merci",
+        "texte": "Bonjour Alice, Pas très original mon objet de message... il a peut-être le mérite de la simplicité... que je préfère de loin à la complexité... Mais place au message, je vous remercie pour la qualité de vos podcasts que je trouve toujours bien vus, bien construits et agréables.…"
+      },
+      {
+        "note": 5,
+        "auteur": "eve vh",
+        "titre": "Excellent contenu même pour les non amateurs d’émissions culinaires",
+        "texte": "Super podcast avec un contenu intéressant et qui donne matière à réfléchir. Moi qui me désintéresse d’une manière générale des émissions culinaires, j’ai écouté aujourd’hui d’une traite toutes les épisodes de la saison 2 (télétravail aidant).…"
+      },
+      {
+        "note": 5,
+        "auteur": "hungryconsti",
+        "titre": "Agréable et captivant, un bonheur !",
+        "texte": "Le podcast Patate est un vrai plaisir car il nous permet de nous plonger dans l’intimité de personnalités à travers le prisme si particulier de la nourriture.…"
+      }
     ]
   },
   "episodes_recents": [

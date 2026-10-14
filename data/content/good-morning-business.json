@@ -52,25 +52,29 @@
   "derniere_activite": "2026-09-04",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-14",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "coink2000",
+        "titre": "love love love",
+        "texte": "cher stephane soumiers. Je suis une grande bonde à forte poirtine, complètement in love de toi, ta voix, ton émission, je suis fan, (j'arrête sinon la Pomme va me censurer) Blague à part, LE meilleur intervieweur radio toutes catégories confondues.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Fa25Fa",
+        "titre": "Avis",
+        "texte": "Malheureusement en train de devenir un nouveau France Info..."
+      },
+      {
+        "note": 5,
+        "auteur": "Thierryléon",
+        "titre": "Un grand si ce n'est le meilleur",
+        "texte": "C'est tous les matins un grand plaisir d'écouter Stéphane Soumier sur le chemin du bureau. Dynamique,spontané, entrainant, le sens de la répartie, jeune d'esprit ...…"
+      }
     ]
   }
 }

@@ -51,25 +51,29 @@
   "derniere_activite": "2026-08-26",
   "frequence_jours": 6,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-14",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mermozzz",
+        "titre": "Très intéressant , beaucoup d’informations et de surprises",
+        "texte": "Un podcast qui permet de découvrir la réalité économique des entreprises artisanales, petite comme plus importantes. On apprend plein de chose, on découvre la réalité humaine de la création et de la vie des petites entreprises.…"
+      },
+      {
+        "note": 1,
+        "auteur": "L.A 4.4",
+        "titre": "Idée bonne mais l’exécution est tellement décevante",
+        "texte": "Que c’est dur à écouter! On décroche dès les 1eres minutes … dommage l’idée était bonne"
+      },
+      {
+        "note": 5,
+        "auteur": "Margueritedecadenet",
+        "titre": "Moins d’anglicismes et de termes spécifiques, plus d’explications claires",
+        "texte": "« Je veux comprendre quel est mon runway » « la partie administrative m’a demandé un ramp up » « j’ai fait du buis dev pour une start up » … bon, j’adore ce podcast et il est toujours très intéressant, mais dans certains épisodes, les termes s’enchaînent, non expliqués avec un ta…"
+      }
     ]
   }
 }

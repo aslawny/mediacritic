@@ -1,0 +1,79 @@
+{
+  "slug": "echos",
+  "title": "Échos",
+  "author": "INA",
+  "type": "podcast",
+  "categories": [
+    "culture",
+    "philosophie",
+    "societe",
+    "histoire"
+  ],
+  "description": "<p>Gisele Halimi, Marguerite Yourcenar, Claude Lévi-Strauss... </p> <p>Ces noms évoquent de grandes personnalités du XXe siècle dont les œuvres et les combats ont inspiré des générations. Aujourd’hui encore, leur parole nous permet de mieux comprendre notre époque et de penser son avenir – elle fait <strong>ÉCHO</strong> avec le monde dans lequel on vit.</p> <p>Toutes les deux semaines, un.e journaliste de l'INA vous propose vous propose de réentendre des artistes, scientifiques, et penseurs souvent visionnaires et qui ont marqué leur temps. Des grandes voix qui sont souvent citées, reprises, commentées mais que l’on entend rarement sans commentaire ou interprétation, dans le jus de leur époque et la vérité de leur propos.</p> <p>ÉCHOS est une invitation à penser, réfléchir, s’inspirer en écoutant une personnalité, une voix et un regard sur le monde.</p>",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/da/e9/e8/dae9e86d-8be0-0275-530c-665a2cece40e/mza_2239590705067996909.jpg/600x600bb.jpg",
+  "language": "fr",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/%C3%A9chos/id1672297306?uo=4",
+      "trackId": 1672297306,
+      "rating": 4.9,
+      "ratingCount": 56,
+      "episodeCount": 63
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "culture",
+    "philosophie",
+    "societe",
+    "histoire"
+  ],
+  "addedAt": "2026-10-14",
+  "updatedAt": "2026-10-14",
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-10-14",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "2001 - André Comte-Sponville et l'euthanasie",
+      "date": "2024-10-21"
+    },
+    {
+      "titre": "2008 - Élisabeth de Fontenay et la dignité des bêtes",
+      "date": "2024-09-30"
+    },
+    {
+      "titre": "2012 - Gabriel Cohn-Bendit et le recrutement des professeurs [Rediff]",
+      "date": "2024-09-16"
+    },
+    {
+      "titre": "1969 - Evelyne Sullerot et le droit des femmes à faire du sport",
+      "date": "2024-07-01"
+    },
+    {
+      "titre": "1978 - Jean Fourastié et l'évolution du travail de l'homme",
+      "date": "2024-06-17"
+    }
+  ],
+  "derniere_activite": "2024-10-21",
+  "frequence_jours": 14
+}

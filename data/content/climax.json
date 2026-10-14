@@ -1,0 +1,53 @@
+{
+  "slug": "climax",
+  "title": "Climax",
+  "author": "Prisma Media",
+  "type": "podcast",
+  "categories": [
+    "cinema",
+    "series"
+  ],
+  "description": "Tous les mois, les experts de Télé-Loisirs débattent de l'actualité des séries. Et ils n'y vont pas mollo ! Les épisodes de Climax sont à découvrir en avant-première, 24 heures en avance, sur l'application Audio Now. Hébergé par Audion. Visitez https://www.audion.fm/fr/privacy-policy pour plus d’informations.",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c0/b2/04/c0b20424-9faf-3719-71da-1d7cfde1b0f5/mza_2611602296999946431.jpg/600x600bb.jpg",
+  "language": "fr",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/climax/id1439739752?uo=4",
+      "trackId": 1439739752,
+      "rating": 4.5,
+      "ratingCount": 32,
+      "episodeCount": 21
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "cinema",
+    "series"
+  ],
+  "addedAt": "2026-10-14",
+  "updatedAt": "2026-10-14",
+  "episodes_recents": [
+    {
+      "titre": "Les séries médicales ont-elles réussi à se renouveler ?",
+      "date": "2023-01-24"
+    },
+    {
+      "titre": "La cancel culture est-elle en train de museler Hollywood ?",
+      "date": "2021-04-29"
+    },
+    {
+      "titre": "Faut-il adapter les faits-divers en série télé ?",
+      "date": "2021-03-26"
+    },
+    {
+      "titre": "César, Oscars, Golden Globes… Fallait-il vraiment organiser ces cérémonies en 2021 ?",
+      "date": "2021-02-24"
+    },
+    {
+      "titre": "Où sont passées les vraies créations originales françaises ?",
+      "date": "2021-01-27"
+    }
+  ],
+  "derniere_activite": "2023-01-24",
+  "frequence_jours": 34
+}

@@ -51,25 +51,29 @@
   "derniere_activite": "2026-06-22",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-14",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "us",
+    "tri": "mostrecent",
+    "releve": "2026-10-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "KassiCM",
+        "titre": "Un voyage humain",
+        "texte": "Je découvre suite à la publication du livre “les inattendus” et je suis ravi de ce voyage que je commence en parallèle sur ces personnes qui ont choisi de donner au sens propre du terme… bravo!"
+      },
+      {
+        "note": 5,
+        "auteur": "valerie legras",
+        "titre": "Plein de sens et d’humanité",
+        "texte": "Vaste sujet que la réussite....Très bon initiative que d’aborder ouvertement cette notion. J’ai hâte de découvrir les nouveaux épisodes."
+      },
+      {
+        "note": 5,
+        "auteur": "bouba09",
+        "titre": "Love this!!!",
+        "texte": "Super cool, can’t wait for the next drop. Keep them coming. Love and Light.-Somaneh Bouba"
+      }
     ]
   }
 }

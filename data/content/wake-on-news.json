@@ -1,0 +1,53 @@
+{
+  "slug": "wake-on-news",
+  "title": "Wake on News",
+  "author": "Wake on News",
+  "type": "podcast",
+  "categories": [
+    "tech",
+    "numerique"
+  ],
+  "description": "L’actu tech et numérique décryptée, à deux voix.",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fa/3e/c7/fa3ec7c6-da5d-e79e-a0b4-bbec2eb2366e/mza_3833236089413009660.jpg/170x170bb.png",
+  "language": "fr",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/wake-on-news/id6803688673?uo=2",
+      "trackId": 6803688673,
+      "rating": null,
+      "ratingCount": null,
+      "episodeCount": null
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "tech",
+    "numerique"
+  ],
+  "addedAt": "2026-10-14",
+  "updatedAt": "2026-10-14",
+  "episodes_recents": [
+    {
+      "titre": "14 octobre — Google rend Gemini 4 Argon disponible…",
+      "date": "2026-10-14"
+    },
+    {
+      "titre": "12 octobre — Avec Claude, un développeur code 7 alternatives libres…",
+      "date": "2026-10-12"
+    },
+    {
+      "titre": "9 octobre — ChatGPT adopte GPT-6 et génère…",
+      "date": "2026-10-09"
+    },
+    {
+      "titre": "7 octobre — Mistral Large 4, « Le Chonk », en préversion API",
+      "date": "2026-10-07"
+    },
+    {
+      "titre": "Hors-série — Comprendre : les agents d'IA",
+      "date": "2026-10-06"
+    }
+  ],
+  "derniere_activite": "2026-10-14",
+  "frequence_jours": 1
+}

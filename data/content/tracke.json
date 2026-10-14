@@ -1,0 +1,47 @@
+{
+  "slug": "tracke",
+  "title": "Tracké",
+  "author": "RTL2",
+  "type": "podcast",
+  "categories": [
+    "musique"
+  ],
+  "description": "Chaque vendredi, dans le podcast Tracké, Stéphane Basset décortique piste par piste un titre culte en compagnie de son auteur. De Nikola Sirkis, à Julien Doré en passant par Calogero, découvrez le processus de création artistique des plus grands tubes Pop-Rock.",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/19/f3/ab/19f3ab2a-b731-4f7f-cafe-1442110be8f9/mza_5856006050684800368.jpg/170x170bb.png",
+  "language": "fr",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/track%C3%A9/id1855824678?uo=2",
+      "trackId": 1855824678,
+      "rating": null,
+      "ratingCount": null,
+      "episodeCount": null
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "musique"
+  ],
+  "addedAt": "2026-10-14",
+  "updatedAt": "2026-10-14",
+  "episodes_recents": [
+    {
+      "titre": "Nicola Sirkis d'Indochine raconte la naissance de \"College Boy\"",
+      "date": "2026-10-13"
+    },
+    {
+      "titre": "Dans les coulisses de \"Dernière danse\", le classique inattendu de Kyo",
+      "date": "2026-10-06"
+    },
+    {
+      "titre": "Catherine Ringer raconte les secrets de \"C'est comme ça",
+      "date": "2026-09-29"
+    },
+    {
+      "titre": "Tracké - teaser",
+      "date": "2025-11-25"
+    }
+  ],
+  "derniere_activite": "2026-10-13",
+  "frequence_jours": 7
+}

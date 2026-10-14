@@ -1,0 +1,51 @@
+{
+  "slug": "le-debat-de-midi",
+  "title": "Le Débat de midi",
+  "author": "France Inter",
+  "type": "podcast",
+  "categories": [
+    "culture",
+    "societe"
+  ],
+  "description": "",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/34/c2/0d/34c20d4f-04f0-8209-671c-b399da82e2ec/mza_1319463221256786396.jpg/600x600bb.jpg",
+  "language": "",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/le-d%C3%A9bat-de-midi/id541596220?uo=4",
+      "trackId": 541596220,
+      "rating": 4.5,
+      "ratingCount": 64,
+      "episodeCount": 24
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "culture",
+    "societe"
+  ],
+  "addedAt": "2026-10-14",
+  "updatedAt": "2026-10-14",
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-10-14",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
+}

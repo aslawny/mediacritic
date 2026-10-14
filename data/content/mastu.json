@@ -24,5 +24,29 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-10-13"
+  "updatedAt": "2026-10-13",
+  "episodes_recents": [
+    {
+      "titre": "LE JEU DU BLUFF (Avec Théodort)",
+      "date": "2026-10-03"
+    },
+    {
+      "titre": "LA TABLE INFERNALE 2 (Avec Byilhan, Flamby et Elian)",
+      "date": "2026-09-19"
+    },
+    {
+      "titre": "J'ai ENCORE acheté 100KG de COLIS PERDUS !! (Avec Zafeel et Hctuan)",
+      "date": "2026-08-08"
+    },
+    {
+      "titre": "ON ACCOSTE DES GENS EN VOITURE 🚗 (Avec Théodort)",
+      "date": "2026-07-18"
+    },
+    {
+      "titre": "LE JEU DU BLUFF (Avec Anyme)",
+      "date": "2026-07-04"
+    }
+  ],
+  "derniere_activite": "2026-10-03",
+  "frequence_jours": 13
 }

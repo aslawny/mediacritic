@@ -26,25 +26,29 @@
   ],
   "updatedAt": "2026-10-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-14",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Schuby988",
+        "titre": "Éclectique et très intéressant !",
+        "texte": "Un concept d’émission qui sort de l’ordinaire, des sujets insolites et des réponses à des questions drôles et universelles. Le ton ironique de l’émission permet de se détacher un peu de la gravité ambiante des informations tragiques et quotidiennes dont on est abreuvés.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Ultima necat",
+        "titre": "Goujaterie ou stupidité moderne ?",
+        "texte": "Une émission de FRANCE « culture » titrée « Super fail » !?!? J’hallucine … et cette musique de générique insupportable … Honte à nous."
+      },
+      {
+        "note": 5,
+        "auteur": "la corriera",
+        "titre": "Continuez !",
+        "texte": "Il n’y a pas assez de podcast, je suis obligé de réécouter ceux que j’ai téléchargé. Merci pour la diversité des sujets traités, surprenants, drôles, qui interpellent étonnamment toujours, à rire et à méditer."
+      }
     ]
   }
 }

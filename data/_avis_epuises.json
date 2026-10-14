@@ -1,6 +1,6 @@
 {
-  "maj": "2026-10-13",
-  "total": 976,
+  "maj": "2026-10-14",
+  "total": 989,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -422,6 +422,12 @@
       "titre": "Splash",
       "notes_apple": 893,
       "fiche": "fiches/splash.html"
+    },
+    {
+      "slug": "la-cravate",
+      "titre": "La Cravate",
+      "notes_apple": 890,
+      "fiche": "fiches/la-cravate.html"
     },
     {
       "slug": "le-fil-mental-fabien-olicard",
@@ -1300,6 +1306,12 @@
       "fiche": "fiches/podcast-de-culturepsg.html"
     },
     {
+      "slug": "le-regard-culturel",
+      "titre": "Le Regard culturel",
+      "notes_apple": 382,
+      "fiche": "fiches/le-regard-culturel.html"
+    },
+    {
       "slug": "dans-la-poche",
       "titre": "Dans la Poche",
       "notes_apple": 381,
@@ -1772,6 +1784,12 @@
       "titre": "Sous Influence Podcast",
       "notes_apple": 282,
       "fiche": "fiches/sous-influence-podcast.html"
+    },
+    {
+      "slug": "the-raccoon-club",
+      "titre": "The Raccoon Club",
+      "notes_apple": 282,
+      "fiche": "fiches/the-raccoon-club.html"
     },
     {
       "slug": "la-bande-a-d",
@@ -2356,6 +2374,12 @@
       "fiche": "fiches/voa-learning-english-podcast-voa-learning-english.html"
     },
     {
+      "slug": "derriere-l-emotion-le-podcast-qui-traduit-le-comportement-de-ton-enfant",
+      "titre": "Derrière l'émotion — le podcast qui traduit le comportement de ton enfant",
+      "notes_apple": 122,
+      "fiche": "fiches/derriere-l-emotion-le-podcast-qui-traduit-le-comportement-de-ton-enfant.html"
+    },
+    {
       "slug": "a-la-reguliere",
       "titre": "À la régulière",
       "notes_apple": 112,
@@ -2390,6 +2414,12 @@
       "titre": "Sakina Seekers",
       "notes_apple": 103,
       "fiche": "fiches/sakina-seekers.html"
+    },
+    {
+      "slug": "le-club-des-restaures",
+      "titre": "Le Club Des Restaurés",
+      "notes_apple": 103,
+      "fiche": "fiches/le-club-des-restaures.html"
     },
     {
       "slug": "droit-constitutionnel-et-institutions-politiques-cavej-michel-verpaux-2010",
@@ -2546,6 +2576,12 @@
       "titre": "Proust, le podcast",
       "notes_apple": 92,
       "fiche": "fiches/proust-le-podcast.html"
+    },
+    {
+      "slug": "dans-l-ombre-we-are-x-ttso",
+      "titre": "Dans l’ombre - we are_ x TTSO",
+      "notes_apple": 92,
+      "fiche": "fiches/dans-l-ombre-we-are-x-ttso.html"
     },
     {
       "slug": "decopreneurs",
@@ -3670,6 +3706,12 @@
       "fiche": "fiches/unfinished-sentences-by-ogee.html"
     },
     {
+      "slug": "la-vie-d-avant",
+      "titre": "La Vie d'avant",
+      "notes_apple": 67,
+      "fiche": "fiches/la-vie-d-avant.html"
+    },
+    {
       "slug": "dans-mon-siege-auto",
       "titre": "Dans mon siège auto",
       "notes_apple": 66,
@@ -3710,6 +3752,12 @@
       "titre": "UNBX, le podcast de la réussite",
       "notes_apple": 66,
       "fiche": "fiches/unbx-le-podcast-de-la-reussite.html"
+    },
+    {
+      "slug": "crimes-suisses-rts",
+      "titre": "Crimes suisses ‐ RTS",
+      "notes_apple": 66,
+      "fiche": "fiches/crimes-suisses-rts.html"
     },
     {
       "slug": "argent-et-sens-les-pepettes",
@@ -3818,6 +3866,12 @@
       "titre": "Agatha Crimstie",
       "notes_apple": 64,
       "fiche": "fiches/agatha-crimstie.html"
+    },
+    {
+      "slug": "le-debat-de-midi",
+      "titre": "Le Débat de midi",
+      "notes_apple": 64,
+      "fiche": "fiches/le-debat-de-midi.html"
     },
     {
       "slug": "histoire-d-en-rire",
@@ -4192,6 +4246,12 @@
       "fiche": "fiches/promenons-nous-dans-les-bois.html"
     },
     {
+      "slug": "echos",
+      "titre": "Échos",
+      "notes_apple": 56,
+      "fiche": "fiches/echos.html"
+    },
+    {
       "slug": "bac-de-francais-programme-2026",
       "titre": "Bac de Français | Programme 2026",
       "notes_apple": 55,
@@ -4376,6 +4436,12 @@
       "titre": "Audiocite.net - Livres audio gratuits",
       "notes_apple": 53,
       "fiche": "fiches/audiocite-net-livres-audio-gratuits.html"
+    },
+    {
+      "slug": "allez-hop",
+      "titre": "Allez Hop!",
+      "notes_apple": 53,
+      "fiche": "fiches/allez-hop.html"
     },
     {
       "slug": "apprendre-la-philosophie",
@@ -5020,6 +5086,12 @@
       "fiche": "fiches/contes-etoiles-de-l-islam.html"
     },
     {
+      "slug": "chitchat-je-sur-analyse-tes-telerealites-preferees-react-star-academy-koh-lanta-",
+      "titre": "Chitchat • Je (sur)analyse tes Téléréalités préférées • [React Star Academy, Koh Lanta, Secret Story, La Villa, ID",
+      "notes_apple": 46,
+      "fiche": "fiches/chitchat-je-sur-analyse-tes-telerealites-preferees-react-star-academy-koh-lanta-.html"
+    },
+    {
       "slug": "aventures-fiction-discussions-sur-les-comics",
       "titre": "Aventures Fiction, discussions sur les comics",
       "notes_apple": 45,
@@ -5222,6 +5294,12 @@
       "titre": "À 2 C'EST MIEUX",
       "notes_apple": 44,
       "fiche": "fiches/a-2-c-est-mieux.html"
+    },
+    {
+      "slug": "lundisoir",
+      "titre": "lundisoir",
+      "notes_apple": 44,
+      "fiche": "fiches/lundisoir.html"
     },
     {
       "slug": "amour-sexe-voyage",
