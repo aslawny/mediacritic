@@ -52,25 +52,29 @@
   "derniere_activite": "2026-09-04",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-15",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-10-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Vincent l'investisseur",
+        "titre": "Rendez-vous immanquable",
+        "texte": "Salut les gentlemen, Je me rends compte que je n’ai pas encore écrit un commentaire sur ce merveilleux podcast. Avec une vie de liberté, c’est mon rendez-vous immanquable de chaque semaine.…"
+      },
+      {
+        "note": 5,
+        "auteur": "B2B84",
+        "titre": "#valeur gratos",
+        "texte": "Un poscast au top!!! Remplie de valeurs, de bonnes humeurs, de partages. On apprend plein de choses intéressantes mais surtout en rigolant. Merci à vous les gars. Yann est juste exceptionnel. Je ris mais je ris. Tonton tjs présent pour le faire monter.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Gaëlle D.",
+        "titre": "Inspirant",
+        "texte": "Je déguste les épisodes les uns après les autres! Très inspirant!"
+      }
     ]
   }
 }

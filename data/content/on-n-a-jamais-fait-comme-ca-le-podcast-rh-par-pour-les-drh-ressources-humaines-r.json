@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-15",
-  "frequence_jours": 2
+  "frequence_jours": 2,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Caam_Laine",
+        "titre": "Un format inspirant !",
+        "texte": "C’est toujours un plaisir d’écouter ce podcast, qui donne une très bonne ouverture sur la Marque Employeur et sur les nouveaux défis auxquels les marques et les entreprises sont confrontés. Une belle découverte que j’ai déjà partagé à de nombreuses connaissances !"
+      },
+      {
+        "note": 5,
+        "auteur": "pbourquard",
+        "titre": "Benchmark intelligent",
+        "texte": "Un podcast qui permet aux RH, et pas que, de se mettre à jour à partir des échanges avec des personnes d’un bon niveau dans leur domaine ! Utile dans un monde qui bouge… Et Florent questionne bien. 👍"
+      },
+      {
+        "note": 5,
+        "auteur": "Paulinebizien",
+        "titre": "Super podcast !",
+        "texte": "Super podcast ! Un contenu de qualité et très pertinent. Les réponses aux questions que tout le monde se pose finalement ! Hâte d'écouter les prochains 🤩"
+      }
+    ]
+  }
 }

@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-09-14",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Bernard B.",
+        "titre": "Plus que parfait !!",
+        "texte": "C’est LE podcast parfait ! Intéressant et drôle ! Mike se révèle être un intervieweur incroyable et réussit à mettre en valeur chaque invité et il réussit à tirer le meilleur de chacun pour notre plus GRAND BONHEUR ! On sourit, on rit, on se tord de rire …"
+      },
+      {
+        "note": 5,
+        "auteur": "Arokiskis",
+        "titre": "Le meilleur de l’humour",
+        "texte": "Sous écoute est le meilleur podcast d’humour. C’est mon émission préféré mike et le meilleur de sa catégorie a mon humble avis. Je me régale je pleurs de rire c’est tout simplement un remède et ça devrais être rembourser par la sécurité social tellement ça fait du bien.…"
+      },
+      {
+        "note": 5,
+        "auteur": "GabrielleRoseB",
+        "titre": "Un des meilleurs podcasts!",
+        "texte": "Auditrice française en amour avec ce podcast! Le concept de discussion entre humoristes est vraiment intéressant! Bonne continuation!"
+      }
+    ]
+  }
 }

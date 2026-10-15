@@ -25,25 +25,29 @@
   "addedAt": "2026-08-08",
   "updatedAt": "2026-10-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-15",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Phil771960",
+        "titre": "trop triste",
+        "texte": "Je suis trop triste d’apprendre que Mathieu ne fera plus son billet matinal dès la rentrée prochaine. Son sens de l’autodérision pour France Inter est absolument unique et jouissif, personne sur ma radio préférée ne m'avait fait autant sourire et rire en moins de cinq minutes à 8…"
+      },
+      {
+        "note": 1,
+        "auteur": "Gilles Devise",
+        "titre": "Repetita",
+        "texte": "C’est moi ou ça fait globalement 15 ans que mathieu noël fait la même chronique ?"
+      },
+      {
+        "note": 5,
+        "auteur": "COPAT95",
+        "titre": "Toujours aussi irrévérencieux et j’aime ça !!",
+        "texte": "J’ai découvert Mathieu Noël à France 5, je l’ai suivi sur Europe 1 (j’adorais sa chronique du matin avec ses personnages tous plus pourris les uns que les autres et les après-midis avec Stéphane Bern, leur duo était super) et maintenant quel plaisir de le retrouver sur France Int…"
+      }
     ]
   }
 }

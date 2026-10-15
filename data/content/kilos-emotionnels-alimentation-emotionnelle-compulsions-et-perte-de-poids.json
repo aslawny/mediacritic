@@ -53,25 +53,29 @@
   "derniere_activite": "2026-09-05",
   "frequence_jours": 13,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-15",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mar.Sel",
+        "titre": "Notamment l’épisode sur glucose révolution",
+        "texte": "J’aime beaucoup tout les sujets des podcast, j’en apprends toujours autant et je conseille le podscast à toutes les personnes concernées par les kg émotionnel.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Laura Mza",
+        "titre": "Mille mercis !",
+        "texte": "Merci Johanne pour vos explications, vos conseils, pour votre travail sur ce podcast. Je suis ravie de l’avoir découvert et j’ai hâte d’écouter vos épisodes chaque semaine. Je me reconnais complètement dans ce que vous décrivez. Merci de partager votre expérience.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Jennyd’alsace",
+        "titre": "Une grande dame",
+        "texte": "Merci , grâce aux podcasts, je culpabilise de moins en moins. Tout est tellement vrai et tout me parle, depuis que je vous écoute mon poids s’est stabilisé et j’ai même arrêté de me peser chaque jour.…"
+      }
     ]
   }
 }

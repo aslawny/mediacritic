@@ -28,25 +28,29 @@
   "addedAt": "2026-05-17",
   "updatedAt": "2026-10-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-15",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "jéna.tlh",
+        "titre": "Une super soeur pour des super podcasts",
+        "texte": "As salam 3leykoum, trop de bons podcasts. Le fait de nous parler comme si nous étions copines ça rajoute trop un truc, certaines (dont moi y compris) n’ont pas forcément des copines à qui parler d’Islam, alors c’est super …"
+      },
+      {
+        "note": 5,
+        "auteur": "N2llyyh",
+        "titre": "Avis",
+        "texte": "Salem ! J’avais pas compris comment on faisait pour déposer un avis ! J’ai enfin trouvé, je peux enfin dire que j’aime trop ! Merci beaucoup, tu m’as beaucoup soulagée, ce début de ramadan en donnant tout ses conseils. Je me suis rendu qu’on avait quasi toute les même craintes.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Thi Lan PM",
+        "titre": "Jolie découverte 🤍",
+        "texte": "Salam aleykoum, je suis agréablement surprise de la qualité de ton podcast. J’ai vraiment beaucoup aimé le premier épisode, je trouve que tu abordes un point de vue très très intéressant! J’espère avoir le temps d’écouter les autres épisodes inchaAllah.…"
+      }
     ]
   },
   "episodes_recents": [

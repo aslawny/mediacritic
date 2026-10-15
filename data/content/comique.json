@@ -50,25 +50,29 @@
   "derniere_activite": "2026-06-25",
   "frequence_jours": 29,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-15",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Totohbk",
+        "titre": "Nouveau podcast préféré",
+        "texte": "Incroyable découverte ! J’écoute énormément de podcast dont les premières écoutes ont été de bonnes surprises mais celui ci prend la place nº1 dans mon répertoire. Un tél cynisme sur ce qu’il se passe, sur sa propre vie.…"
+      },
+      {
+        "note": 2,
+        "auteur": "Brie_de_Meaux.exe",
+        "titre": "C’est moi",
+        "texte": "Je suis un de ceux que tu a trollé sur Insta en promouvant ton podcast que t’a salement délaissé HAHAHA TU T’ATTENDAIS PAS À ME TROUVER LÀ HAHA et oui on t’a a l’œil"
+      },
+      {
+        "note": 5,
+        "auteur": "SouperLeo",
+        "titre": "Un torrent de bienveillance",
+        "texte": "Ghislain aborde la vie avec bienveillance et ouverture à travers son podcast. Ses propos sont avant tout là pour servir les œuvres et les gens qu’il aime.…"
+      }
     ]
   }
 }

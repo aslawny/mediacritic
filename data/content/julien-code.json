@@ -1,0 +1,53 @@
+{
+  "slug": "julien-code",
+  "title": "Julien Code",
+  "author": "Julien Code",
+  "type": "youtube",
+  "categories": [
+    "tech",
+    "numerique"
+  ],
+  "description": "Je suis ingénieur étude et développement ainsi qu'enseignant en système numérique réseau informatique et cybersécurité ( BTS CIEL Cybersécurité Informatique Réseau et Electronique à La Providence Amiens) . Cette chaine présente mes cours, mes travaux et j'y partage aussi mon expérience. \n\nN'hésitez pas à vous abonner ou à liker les vidéos qui vous ont été utile :D \nA bientôt \n++\n",
+  "image": "https://yt3.ggpht.com/UY65YlirTKEwzxw5-4pCE57uTOoP581XSQmUO4u6flDq80nrsJ-6r2OE6RphBeTLjSlxsOq5=s800-c-k-c0x00ffffff-no-rj",
+  "language": "fr",
+  "platforms": {
+    "youtube": {
+      "url": "https://www.youtube.com/@juliencode",
+      "channelId": "UCrVnM4qoAn7NA5MBZpI4QeA",
+      "subscribers": 15200,
+      "totalViews": 767121,
+      "videoCount": 129
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "tech",
+    "numerique"
+  ],
+  "addedAt": "2026-10-15",
+  "updatedAt": "2026-10-15",
+  "episodes_recents": [
+    {
+      "titre": "[nodejs.06] Gerer les connexions de vos users en node.js",
+      "date": "2026-03-14"
+    },
+    {
+      "titre": "[nodejs.05] Coder une jointure N-N en API Web",
+      "date": "2026-03-07"
+    },
+    {
+      "titre": "[nodejs.04] Comment intégrer une base de donnée mariadb dans un projet node.js",
+      "date": "2026-03-02"
+    },
+    {
+      "titre": "[nodejs.03] Appeler des API GET POST depuis notre application Web . Avec la Méthode fetch()",
+      "date": "2026-02-21"
+    },
+    {
+      "titre": "[11] Installer et comprendre Mariadb et PhpMyAdmin sur une VM Debian 13",
+      "date": "2026-02-13"
+    }
+  ],
+  "derniere_activite": "2026-03-14",
+  "frequence_jours": 7
+}

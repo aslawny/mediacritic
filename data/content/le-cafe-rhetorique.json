@@ -53,25 +53,29 @@
   "derniere_activite": "2026-09-03",
   "frequence_jours": 4,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-15",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "PartyPoison7",
+        "titre": "Époustouflant!",
+        "texte": "Une dinguerie voilà, rejoignez la guilde des roublards! Plus sérieusement, l’explication, la vulgarisation, l’éclairage sur le débat politique chaque semaine, avec une bonne dose de sarcasme et de colère comme on aime! Allez-y les yeux fermés, et pour les plus téméraires suivez C…"
+      },
+      {
+        "note": 1,
+        "auteur": "LGMIP",
+        "titre": "Quel vomi",
+        "texte": "Insupportable de soutenir les antisémites avec autant de mauvaise foi."
+      },
+      {
+        "note": 5,
+        "auteur": "Toine_Hou",
+        "titre": "Incroyaaaaable 💖",
+        "texte": "Un podcast nécessaire en ces temps troublés où l’obscurantisme fait son grand retour. Entre savoir et bonne humeur, Clément Viktorovitch nous décrypte les manipulations du langage de nos chers politiques et autres personnalités publiques (toujours supervisé par les roublards du c…"
+      }
     ]
   }
 }

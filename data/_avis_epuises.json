@@ -1,6 +1,6 @@
 {
-  "maj": "2026-10-14",
-  "total": 989,
+  "maj": "2026-10-15",
+  "total": 1006,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -5722,6 +5722,12 @@
       "fiche": "fiches/wait-for-it.html"
     },
     {
+      "slug": "a-parte",
+      "titre": "A Parte",
+      "notes_apple": 41,
+      "fiche": "fiches/a-parte.html"
+    },
+    {
       "slug": "a-la-rencontre-du-monde-par-geo",
       "titre": "A la rencontre du monde, par GEO",
       "notes_apple": 40,
@@ -5936,6 +5942,102 @@
       "titre": "Le podcast des Paternelles",
       "notes_apple": 38,
       "fiche": "fiches/le-podcast-des-paternelles.html"
+    },
+    {
+      "slug": "le-podcast-du-retail",
+      "titre": "Le Podcast Du Retail",
+      "notes_apple": 38,
+      "fiche": "fiches/le-podcast-du-retail.html"
+    },
+    {
+      "slug": "le-pouvoir-des-emotions",
+      "titre": "Le pouvoir des émotions",
+      "notes_apple": 38,
+      "fiche": "fiches/le-pouvoir-des-emotions.html"
+    },
+    {
+      "slug": "les-grands-classiques-de-la-litterature-livre-audio-complet",
+      "titre": "Les Grands Classiques de la Littérature – Livre Audio Complet",
+      "notes_apple": 38,
+      "fiche": "fiches/les-grands-classiques-de-la-litterature-livre-audio-complet.html"
+    },
+    {
+      "slug": "les-pieds-dans-le-patch",
+      "titre": "Les pieds dans le patch",
+      "notes_apple": 38,
+      "fiche": "fiches/les-pieds-dans-le-patch.html"
+    },
+    {
+      "slug": "let-s-bond",
+      "titre": "Let's Bond",
+      "notes_apple": 38,
+      "fiche": "fiches/let-s-bond.html"
+    },
+    {
+      "slug": "rtl2-pop-rock-station-by-zegut",
+      "titre": "RTL2 : Pop-Rock Station by Zégut",
+      "notes_apple": 38,
+      "fiche": "fiches/rtl2-pop-rock-station-by-zegut.html"
+    },
+    {
+      "slug": "spin-off",
+      "titre": "Spin Off",
+      "notes_apple": 38,
+      "fiche": "fiches/spin-off.html"
+    },
+    {
+      "slug": "undercut-le-podcast-f1-de-l-equipe",
+      "titre": "Undercut, le podcast F1 de L'Équipe",
+      "notes_apple": 38,
+      "fiche": "fiches/undercut-le-podcast-f1-de-l-equipe.html"
+    },
+    {
+      "slug": "une-vie-de-ouf-mon-journal-sans-filtre-vers-ma-best-life",
+      "titre": "Une vie de OUF - Mon journal sans filtre vers ma best life",
+      "notes_apple": 38,
+      "fiche": "fiches/une-vie-de-ouf-mon-journal-sans-filtre-vers-ma-best-life.html"
+    },
+    {
+      "slug": "vivement-la-reprise",
+      "titre": "Vivement la reprise",
+      "notes_apple": 38,
+      "fiche": "fiches/vivement-la-reprise.html"
+    },
+    {
+      "slug": "100-star-wars-la-chaine-du-geek",
+      "titre": "100% Star Wars - La Chaîne du Geek",
+      "notes_apple": 37,
+      "fiche": "fiches/100-star-wars-la-chaine-du-geek.html"
+    },
+    {
+      "slug": "6h-du-bat-le-podcast-qui-reveille-le-btp",
+      "titre": "6H Du BAT', le podcast qui réveille le BTP 🧱",
+      "notes_apple": 37,
+      "fiche": "fiches/6h-du-bat-le-podcast-qui-reveille-le-btp.html"
+    },
+    {
+      "slug": "carnets-de-campagne",
+      "titre": "Carnets de campagne",
+      "notes_apple": 37,
+      "fiche": "fiches/carnets-de-campagne.html"
+    },
+    {
+      "slug": "axopen-expertise-developpement-informatique",
+      "titre": "AXOPEN - Expertise & développement informatique",
+      "notes_apple": 37,
+      "fiche": "fiches/axopen-expertise-developpement-informatique.html"
+    },
+    {
+      "slug": "coeur-a-coeur",
+      "titre": "Coeur à coeur",
+      "notes_apple": 37,
+      "fiche": "fiches/coeur-a-coeur.html"
+    },
+    {
+      "slug": "doctor-what",
+      "titre": "Doctor What",
+      "notes_apple": 37,
+      "fiche": "fiches/doctor-what.html"
     }
   ]
 }

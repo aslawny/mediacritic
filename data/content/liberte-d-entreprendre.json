@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2025-10-13",
-  "frequence_jours": 24
+  "frequence_jours": 24,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Poughky",
+        "titre": "Toujours intéressant",
+        "texte": "On apprend toujours quelque-chose, c’est fluide, pas prétentieux, riche en partage d’expériences entrepreneuriales, très humain, proche des gens.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Orchidéeee",
+        "titre": "A vomir",
+        "texte": "L’épisode avec Claire Despagne est à vomir, et les animateurs d’accord avec ce qu’elle ose dire!!! Je me désabonne !"
+      },
+      {
+        "note": 5,
+        "auteur": "alexvlsk",
+        "titre": "Liberté d’entreprendre",
+        "texte": "Des sujets toujours très intéressants et très enrichissant ! On apprend toujours quelque chose."
+      }
+    ]
+  }
 }

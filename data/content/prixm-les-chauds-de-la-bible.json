@@ -28,25 +28,29 @@
   "addedAt": "2026-05-17",
   "updatedAt": "2026-10-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-15",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-10-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "philippiens 4:6-7",
+        "titre": "👍👍",
+        "texte": "Très sympa, présentation et explication de récits bibliques avec beaucoup d’humour. Dépoussière les images un peu vieillottes tout en restant fidèle au message."
+      },
+      {
+        "note": 5,
+        "auteur": "srrnjdykdyrdkyrxkyr",
+        "titre": "exelent 👍",
+        "texte": "très complet et la petite touche d'humour dinamise le tout se que je trouve partculièrment abile"
+      },
+      {
+        "note": 5,
+        "auteur": "Nétanel",
+        "titre": "Merci !",
+        "texte": "Je pense qu’on ne peut mieux faire en terme de qualité de podcast. Merci PRIXM"
+      }
     ]
   },
   "episodes_recents": [

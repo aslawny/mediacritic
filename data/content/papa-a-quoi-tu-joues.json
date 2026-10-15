@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2025-08-31",
-  "frequence_jours": 48
+  "frequence_jours": 48,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Reynald54",
+        "titre": "Enfin quelqu’un qui comprend les papas gamer",
+        "texte": "Comme beaucoup de monde, j’ai découvert ce podcast grace à PB et je l’en remercie. Sympathique d’aborder le jeux vidéo du point de vu d’un Papa gamer. Mais ca serais bien d’aborder plus en profondeur ce sujet afin de s’éloigner des podcast plus classique.…"
+      },
+      {
+        "note": 2,
+        "auteur": "Fritchini",
+        "titre": "Bonne idée mais le rythme n’y est pas",
+        "texte": "Désolé mais après 2 épisodes, je décroche. L’idée de départ est super bonne (je vous ai entendu dans le RDV Jeux), mais la manière de traiter le sujet est en complet décalage.…"
+      },
+      {
+        "note": 5,
+        "auteur": "SornWins",
+        "titre": "Peut mieux faire",
+        "texte": "Il fait partie de mon Top 3 des podcast sur les jeux vidéo. Je le trouve même meilleure que le nouveau podcast de Patrick Beja « le rendez-vous jeux vidéo ». Le thème abordé est pertinent : quels sont les jeux à indispensable quand on a peu de temps de jeu …"
+      }
+    ]
+  }
 }

@@ -53,25 +53,29 @@
   "derniere_activite": "2024-05-27",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-15",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "samantdi",
+        "titre": "Merveilleux épisode",
+        "texte": "L’épisode consacré à Elodie et Jean-Charles et à leur voyage en Ukraine est tellement émouvant et humain qu’il me fait pleurer. C’est un regard de l’intérieur sur ce qu’est la GPA, une rencontre entre un couple et une femme qui porte leur enfant.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Perrine, leplusbeauvoyage.com",
+        "titre": "Chouettes parcours de vie et voyages inspirants",
+        "texte": "Ah, j’adore, j’adore !! Super découverte, j’adore le format et ces voyages qui toujours transforment la vie et la vision du monde des invités. Nicolas Bouvier avait tout dit en écrivant qu’on pense faire un voyage mais très vite, c’est le voyage qui nous fait et nous défait...…"
+      },
+      {
+        "note": 5,
+        "auteur": "Rose Livres",
+        "titre": "Toujours plus de voyages",
+        "texte": "Je viens de découvrir ce podcast suite à l’interview des Epicurieux et je me suis régalée. J’ai adoré découvrir leurs expériences durant ma promenade journalière.…"
+      }
     ]
   }
 }

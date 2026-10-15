@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2026-09-17",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Steve Joubert",
+        "titre": "Un podcast éclairant et très documenté 👏🏻",
+        "texte": "Merci Corine pour ce podcast clair, structuré et accessible. J’apprécie particulièrement les épisodes sur les secteurs (le marketing, le journalisme, le droit, etc.) et l’actualité des sujets abordés, notamment sur l’orientation post-bac et l’évolution des métiers à l’ère de l’IA…"
+      },
+      {
+        "note": 5,
+        "auteur": "Cbo01",
+        "titre": "Une mine d’or pour les élèves et les parents",
+        "texte": "Corine nous a beaucoup aidé dans l’orientation de notre fils et le podcast est une mine d’information pour se retrouver dans les étapes d’orientation en terminale (parcours sup, études supérieures, connaissance de soi et des métiers) . Merci Corinne !!"
+      },
+      {
+        "note": 5,
+        "auteur": "delwai",
+        "titre": "Podcast d'utilité publique !",
+        "texte": "Excellent podcast sur l’orientation ! Suivi depuis plusieurs années, il nous a beaucoup aidés pendant Parcoursup. Les conseils de Corine sont clairs, précis et bienveillants. Les conférences en ligne gratuites sont aussi très utiles !"
+      }
+    ]
+  }
 }

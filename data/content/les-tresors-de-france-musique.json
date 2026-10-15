@@ -24,5 +24,31 @@
     "culture"
   ],
   "addedAt": "2026-06-09",
-  "updatedAt": "2026-10-13"
+  "updatedAt": "2026-10-13",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "bruno gilbert",
+        "titre": "l'ombre de l'OMBLE EST FURTIVE",
+        "texte": "Bonjour, l’ombre est bien un poisson de rivière mais il ne peut pas être Chevalier contrairement à l’omble dont nous parlez : même si Il y’a peu de distance entre l’air et l’aile C’est une question de taxonomie biologique.La musique pardonne tout même pour un amoureux de la pêche…"
+      },
+      {
+        "note": 5,
+        "auteur": "ChloéCN",
+        "titre": "Un merveilleux voyage dans le monde des musiciens",
+        "texte": "Merci de nous permettre chaque jour d’en découvrir un peu plus sur ces fabuleux artistes et de nous faire redécouvrir ces trésors oubliés."
+      },
+      {
+        "note": 5,
+        "auteur": "Mimi, 2500",
+        "titre": "Chante",
+        "texte": "Franchement moi qui n’aime pas l’opéra, c’était extraordinaire au revoir et à bientôt je vous aime et cinq étoiles"
+      }
+    ]
+  }
 }

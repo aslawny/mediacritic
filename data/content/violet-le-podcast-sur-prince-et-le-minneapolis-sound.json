@@ -28,25 +28,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-10-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-15",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Popeur",
+        "titre": "Généreux",
+        "texte": "A l’origine, un frère aîné qui accrocha vaguement sur Batman avant de vraiment tomber dedans avec Diamonds. Puis ce frère fit Bercy 93. Ceux qui étaient là durent alors croiser, dans la fosse, un petit gamin de 14 ans venu au POPB tout seul comme un grand.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Kareex",
+        "titre": "De passionnés à d’autres passionnés",
+        "texte": "Voilà la meilleure chose qui pouvait arriver à un fan de la première heure. Fan, souvent contrarié dans sa « discophilie Princière » (comme tout bon fan qui se respecte), je me redécouvre, grâce à votre exégèse, un intérêt (un brin nostalgique…) que je croyais figé dans mes certi…"
+      },
+      {
+        "note": 5,
+        "auteur": "Arnak enkor",
+        "titre": "⭐️⭐️⭐️⭐️⭐️ Indispensable",
+        "texte": "Y’a tout dans ce podcast! De l’histoire, de l’analyse, du contexte, des anecdotes, des recherches, un peu de débat (mais juste ce qu’il faut), de la sincérité, encore des anecdotes, parfois un brin de mauvaise foi mais surtout l’amour de la musique, et pas que princière.…"
+      }
     ]
   },
   "episodes_recents": [

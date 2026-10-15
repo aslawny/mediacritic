@@ -25,5 +25,29 @@
     "cuisine"
   ],
   "addedAt": "2026-09-15",
-  "updatedAt": "2026-09-15"
+  "updatedAt": "2026-09-15",
+  "episodes_recents": [
+    {
+      "titre": "Moussaka au bœuf : aubergines et pommes de terre bien fondantes",
+      "date": "2026-10-12"
+    },
+    {
+      "titre": "Plat chinois sauté : Pommes de terre avec du porc 🥢",
+      "date": "2026-10-05"
+    },
+    {
+      "titre": "Mini rouleaux croustillants au poulet, goût nems et sans pliage",
+      "date": "2026-09-28"
+    },
+    {
+      "titre": "Pak choi sauté avec du poulet 🥢 Une recette chinoise facile et savoureuse",
+      "date": "2026-09-21"
+    },
+    {
+      "titre": "Pâtes de riz sèches aux boulettes de bœuf | recette de street food thaï",
+      "date": "2026-09-14"
+    }
+  ],
+  "derniere_activite": "2026-10-12",
+  "frequence_jours": 6
 }

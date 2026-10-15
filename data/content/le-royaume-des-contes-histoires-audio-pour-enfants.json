@@ -52,25 +52,29 @@
   "derniere_activite": "2026-09-11",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-15",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Élodie, ami de duo !",
+        "titre": "Cool pour m’apaiser!!!",
+        "texte": "Normalement, g suis agitée jusqu’à 1h du mat mais à partir que j’ai commencé à écouter ces histoires, g dors de plus en plus!!! Dommage qu’il ne font plus de nouvelles histoires 😞 Si non j’aime bien!!! 👍 Vous êtes au top 🔝 Merci beaucoup 😊"
+      },
+      {
+        "note": 1,
+        "auteur": "B´twiner",
+        "titre": "Il faudrait mieux choisir les histoires…",
+        "texte": "Une histoire où quand un enfant fait une bêtise il décide de prendre du poison… vous avez vraiment sélectionné ça ??"
+      },
+      {
+        "note": 5,
+        "auteur": "Noctis 4054",
+        "titre": "J’adore",
+        "texte": "J’aime beaucoup les histoires que vous raconter.Elles sont trop cool😛😛😛😛 Mais c’est quand que vous sortirez d’autre histoire 🤔mais j’aime bien les réécouter parce que je les adore 🤩🤩franchement elle sont benguer😎😎👌🏼👌🏼👍🏻"
+      }
     ]
   }
 }

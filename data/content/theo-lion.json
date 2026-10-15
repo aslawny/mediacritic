@@ -27,25 +27,29 @@
   "addedAt": "2026-08-14",
   "updatedAt": "2026-10-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-15",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pierre Dautry",
+        "titre": "L’entreprenariat mais en full remote",
+        "texte": "Découvert il y a un mois lors de son interview avec l’actuel n°1 du podcast francophone (aka Le Raptor), j’ai alors écouté RTTM par curiosité depuis le début.…"
+      },
+      {
+        "note": 2,
+        "auteur": "Gandalfoufou",
+        "titre": "Win ou lose?",
+        "texte": "Le podcast était préparé, pensé, il y avait de la matière et là, c’est le café du commerce avec un match de foot derrière… win ou loose? On ne le saura pas…"
+      },
+      {
+        "note": 5,
+        "auteur": "marieb75",
+        "titre": "Un podcast sincère et généreux, pour évoluer avec Theo",
+        "texte": "Un plaisir d'écouter Theo même pendant plus d'1h il nous captive toujours. Parce qu'il apporte de profondes réflexions sur le business et en même temps c'est dit avec spontanéité et simplicité.…"
+      }
     ]
   },
   "episodes_recents": [

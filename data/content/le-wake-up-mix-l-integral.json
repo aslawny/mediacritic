@@ -26,25 +26,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-10-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-15",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Elo229",
+        "titre": "En kiff total!!!!!",
+        "texte": "Comment vous dire…..???? Merci merci 1 million de fois!!! enfin une radio qui a compris que c’était important d’entendre les vieux sons!!!!!! Quand je vais au boulot le matin et que j’entends ça dans la voiture j’ai même plus envie d’en sortir!!! le vieux RNB -new jack de notre e…"
+      },
+      {
+        "note": 1,
+        "auteur": "anti aya",
+        "titre": "Nakamura gims ca va aller",
+        "texte": "Tu as diffusé aya nakamura maitre gims black m jul dadju marwa loud je me suis desabonné direct"
+      },
+      {
+        "note": 5,
+        "auteur": "bxvkbb jngh",
+        "titre": "Trop bien !!!!!!",
+        "texte": "les chansons sont bien adaptés a la radio et les chansons sont bien mélangé et les mix sont parfait et different des un des autres.j’adore !!!! C juste parfait merciiii"
+      }
     ]
   }
 }
