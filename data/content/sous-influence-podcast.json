@@ -25,27 +25,31 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-10-13",
+  "updatedAt": "2026-10-16",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mostrecent",
+    "releve": "2026-10-16",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ilyacesylaa",
+        "titre": "Révolution du game fr",
+        "texte": "Ça fait vraiment plaisir de voir ce genre d’initiative (surtout de ton youtubeur préféré) autre que dans le game des ricains. Je ne peux que supporter et mattez les podcasts à volonté. Continue comme ça Nabil 🤙🏽"
+      },
+      {
+        "note": 5,
+        "auteur": "marc1351",
+        "titre": "Meilleur podcast",
+        "texte": "Aucun sens comment ce podcast est l’un des meilleurs! Continuez dans cet directions les boys vous faites que du bon 🤘✌️"
+      },
+      {
+        "note": 5,
+        "auteur": "tom.le_petit.train",
+        "titre": "Trop cool",
+        "texte": "Ses trop cool les gars continuer j’e l’ecoute h24 je suis au quebec et j’attend les prochaines episode"
+      }
     ]
   },
   "episodes_recents": [

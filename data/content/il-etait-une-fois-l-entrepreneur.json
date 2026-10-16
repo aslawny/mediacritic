@@ -27,7 +27,7 @@
     "cuisine"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-10-13",
+  "updatedAt": "2026-10-16",
   "episodes_recents": [
     {
       "titre": "La fin du podcast et le renouveau: merci à tous !",
@@ -53,25 +53,29 @@
   "derniere_activite": "2023-12-19",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-16",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Sandra.SD",
+        "titre": "Le podcast incontournable des entrepreneurs",
+        "texte": "J’ai découvert ce podcast par hasard et je suis devenue une inconditionnelle. Ces histoires riches d’enseignements, nous embarquent rapidement .…"
+      },
+      {
+        "note": 1,
+        "auteur": "cvlrr",
+        "titre": "Rien de nouveau",
+        "texte": "Possible d’avoir des histoires que l’on ne connait pas déjà par coeur ?"
+      },
+      {
+        "note": 5,
+        "auteur": "Bidourick",
+        "titre": "Mitigé",
+        "texte": "Deux podcasts écoutés et appréciés (Simoncini & Lazorthes). En revanche « Mon histoire - Ep1 » m’a mis très mal à l’aise avec cette propension au récit ampoulé et victimaire de l’auteur et son ’histoire à charge contre son ex-associé…faire du récit-vécu ne signifie pas forcément…"
+      }
     ]
   }
 }

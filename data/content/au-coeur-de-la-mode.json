@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/au-coeur-de-la-mode/id1674762317?uo=2",
       "trackId": 1674762317,
       "rating": 4.8,
-      "ratingCount": 264,
+      "ratingCount": 265,
       "episodeCount": null
     }
   },
@@ -27,7 +27,7 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-13",
+  "updatedAt": "2026-10-16",
   "episodes_recents": [
     {
       "titre": "Anita Briey: mémoire de mode! Partie 1/2",
@@ -53,25 +53,29 @@
   "derniere_activite": "2026-08-26",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-16",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Inkedpap",
+        "titre": "Excellent podcast",
+        "texte": "J’aime beaucoup vous écouter au travail, non seulement ca me tient éveillée, mais en plus ça stimule mes neurones, et ça, quel plaisir ! Y’a beaucoup de choses que je comprenais pas sur la mode, et que j’ai appris grâce à vous, merci …"
+      },
+      {
+        "note": 1,
+        "auteur": "laurentjv",
+        "titre": "L’idiotie utile",
+        "texte": "Sous couvert d’une ironie bon teint, c’est juste l’idiot utile de LVMH and co."
+      },
+      {
+        "note": 5,
+        "auteur": "Myriamc73",
+        "titre": "J’aime pas forcément la mode… mais j’aime Au cœur de la mode !",
+        "texte": "Je ne suis pas une férue de mode mais, m’intéressant à Chanel, je suis tombée sur votre podcast. Et j’y suis restée jusqu’à la dernière goutte. C’est super sympa ! J’ai vraiment eu l’impression de visiter l’expo en cours à Galliera. Merci ! C’est très chouette !"
+      }
     ]
   }
 }

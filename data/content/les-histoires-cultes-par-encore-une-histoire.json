@@ -16,7 +16,7 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/les-histoires-cultes-par-encore-une-histoire/id1793335854?uo=2",
       "trackId": 1793335854,
-      "rating": 4.3,
+      "rating": 4.4,
       "ratingCount": 283,
       "episodeCount": null
     }
@@ -27,7 +27,7 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-13",
+  "updatedAt": "2026-10-16",
   "episodes_recents": [
     {
       "titre": "Le Petit Nicolas - Mes vacances de Pâques",
@@ -53,25 +53,29 @@
   "derniere_activite": "2026-09-09",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-16",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Margot 667",
+        "titre": "Super",
+        "texte": "J aime beaucoup ses histoires et écouter surtout pas les méchants commentaires 😡ils ont juste de mauvais goût !!!!!!!!!! Mais moi J ADORE 🥰 ses histoires surtout les malheurs de Sophie c est INCROYABLE 😻 vraiment continuer comme ça !!!!! PS : pour ceux qui aiment les histoires qu…"
+      },
+      {
+        "note": 1,
+        "auteur": "Kitsun (Croissant 🥐✨)",
+        "titre": "Et aller…",
+        "texte": "Vous vous rattrapez un touuuuut petit peu vu que l’image n’es pas en IA mais c’est quand même nul les podcast de encore une histoire vont envahir apple podcast tellement il y en a…"
+      },
+      {
+        "note": 5,
+        "auteur": "☀️🌸🍉Nono🫧🎱🪩",
+        "titre": "réponse à kitsun",
+        "texte": "alors tu as le droit de pas aimer mais calme toi ils font ça pour les enfants ils aiment bien si ça te dérange écoute pas du coup , et c’est super bien j’écoute depuis que j’ai 8 ans et j’en ai 13 donc voilà je suit depuis longtemps et c’est très cool ❤️❤️❤️❤️donc moi j’adore gro…"
+      }
     ]
   }
 }
