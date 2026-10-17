@@ -26,25 +26,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-10-16",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-17",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Hugo D aybaury",
+        "titre": "Les deux series",
+        "texte": "Se complètent. Je pense a celle d Assayas ´ beaucoup plus sage, linéaire qui colle au calendrier des événements alors que toi nous restitue le contexte, les rumeurs, presque les odeurs de faits qui pour la plupart des gens de cette ( la mienne) generation s’etait passé quelque pa…"
+      },
+      {
+        "note": 1,
+        "auteur": "eltofos",
+        "titre": "De la musique oui mais …",
+        "texte": "Une émission qui illustre parfaitement ce que Sandrine Treiner a fait de France Culture… un contenant et peu de contenu."
+      },
+      {
+        "note": 5,
+        "auteur": "Fan de Zoé",
+        "titre": "Extra",
+        "texte": "Très érudit et fin, et la diction qui doute parfois ajoute justement au charme de l’émission : on a l’impression qu’une bonne copine nous raconte sa passion. Ce ton est rafraîchissant et change un peu des journalistes ultra sûrs d’eux.…"
+      }
     ]
   }
 }

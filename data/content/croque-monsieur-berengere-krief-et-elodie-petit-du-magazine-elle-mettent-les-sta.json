@@ -32,5 +32,25 @@
       "date": "2026-08-26"
     }
   ],
-  "derniere_activite": "2026-08-26"
+  "derniere_activite": "2026-08-26",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Grrrrrrrrrrrrr2008",
+        "titre": "Tellement Elle",
+        "texte": "Qui d’autre pour allier cuisine, nudité, bonne humeur et interview. Bérengère et Elo, notre puce, il me tarde de vous retrouver dans ce nouveau podcast pour passer un excellent. Une « auditeuriste » impatiente. Mais osera-t’elle poser La question ?… Affaire à suivre."
+      },
+      {
+        "note": 5,
+        "auteur": "MélissaBou",
+        "titre": "😍",
+        "texte": "J’ai appris plein de choses en écoutant l’échange avec Louise Bourgoin dans l’épisode 1 (sur le naturisme notamment) et ça donne aussi envie de dessiner"
+      }
+    ]
+  }
 }

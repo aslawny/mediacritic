@@ -49,25 +49,29 @@
   "derniere_activite": "2026-06-17",
   "frequence_jours": 27,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "MaDesBouc",
+        "titre": "Victoires !",
+        "texte": "Un podcast facile à écouter, plein d’infos, rythmé. Bravo pour le travail d’archive, la pédagogie et l’interview qui suit. Des tas de pistes pour changer par le bas ce qui est insatisfaisant.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Svtln33",
+        "titre": "De l’optimisme et des chemins pour reprendre le pouvoir",
+        "texte": "Fan de cette émission, qui montre plein d’exemple de rapport de force réussis, où des groupes malmenés ont pu eux mêmes, par leurs propres ressources et des alliances judicieuses, retrouver le pouvoir et la dignité qui leur était refusée.…"
+      },
+      {
+        "note": 5,
+        "auteur": "CelesteD#",
+        "titre": "Le podcast qui tombe à pic",
+        "texte": "Je suis fan de cette idée et très heureuse de retrouver Victoire Tuaillon dont j’admire le travail. C’est très bien documenté et agréable à écouter et j’adore l’idée qu’on peut s’inspirer de victoires de David contre Goliath pour renverser l’ordre actuel. Bravo et merci !"
+      }
     ]
   }
 }

@@ -53,25 +53,29 @@
   "derniere_activite": "2026-08-27",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "les relieurs",
+        "titre": "Inspirations concrètes",
+        "texte": "Pour garder l’envie d’agir et se dire que d’autres formes de développement et d’accomplissement sont possibles, nous avons besoin de rencontres inspirantes et d’exemples concrets.…"
+      },
+      {
+        "note": 2,
+        "auteur": "Fan2pod",
+        "titre": "Publicité ou information",
+        "texte": "Pour l’instant, je n’ai écouté qu’un seul épisode. J’ai vraiment entendu un épisode qui m’a laissé l’impression de faire la publicité d’une fondation au lieu d’une discussion sur la RSE. J’espère que cette impression disparaîtra avec les autres épisodes.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Wanderfull Raph",
+        "titre": "Hip hip hip hurray",
+        "texte": "Merci de nous donner envie d’applaudir à chaque épisode devant ces personnes inspirantes qui chacun à leur échelle contribuent à faire bouger les lignes et nous invitent nous aussi à nous mette en mouvement.…"
+      }
     ]
   }
 }

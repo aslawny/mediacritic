@@ -29,25 +29,29 @@
   "addedAt": "2026-05-25",
   "updatedAt": "2026-10-16",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Chenille62",
+        "titre": "Podcast avec une liberté de ton",
+        "texte": "Heureux, le connaisseur que je suis en vous connaissant. Grace à vous, j'ai la possibilité d'écouter un thème sur ma passion. Tout en travaillant !(à la maison ou au boulot) Fidèle auditeur depuis les 1ères saisons, je ne peux que saluer de votre motivation.…"
+      },
+      {
+        "note": 2,
+        "auteur": "rorscharch71",
+        "titre": "Sonne faux et vieillot",
+        "texte": "Très très long. Et sans rythme. Des contenus scriptés qui manquent de spontanéité. Beaucoup d'autosatisfaction et peu de contenu critique. Les pastilles de chacun sont souvent ennuyeuses et tombent à plat. J'ai écouté une dizaine d'épisodes mais vraiment, je n'y arrive pas."
+      },
+      {
+        "note": 5,
+        "auteur": "Mokoni",
+        "titre": "Bon rythme, une qualité globale en hausse, bravo !",
+        "texte": "Une belle équipe de passionnés qui produit un contenu riche, merci ! L’animation des chroniques trouve son rythme, c’est agréable a suivre, attention toutefois à ne pas faire trop de redite dans vos commentaires sur les chroniques.…"
+      }
     ]
   },
   "episodes_recents": [

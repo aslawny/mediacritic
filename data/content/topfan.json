@@ -27,25 +27,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-10-16",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "DUA LIPA 💜",
+        "titre": "J’adooooore !!!",
+        "texte": "Ce podcast est incroyable il m’apprend plein de choses sur la pop culture Comme le montre mon pseudo , plus sur Dua Lipa s’il te plaît !!!🙏( et si tu n’as plus d’idées tu peux en faire sur Tate McRae , Ava Max ou Olivia Rodrigo .…"
+      },
+      {
+        "note": 5,
+        "auteur": "tienn2174",
+        "titre": "Un grand merci",
+        "texte": "Merci pour ton podcast que je suis depuis longtemps maintenant et qui m’accompagne sur mes longs trajets, dans mon quotidien. C’est de loin mon podcast préféré.…"
+      },
+      {
+        "note": 5,
+        "auteur": "🫐💬Jaewon🎧🐾",
+        "titre": "❤️",
+        "texte": "Coucou Khali ali (ceux qui on écouté le podcast sur katseye auront la ref)j'aime bcp tes podcasts même si j'ai que 11 ans .J'aime bcp parce que c bien structuré et j aime vrmt bcp mais vrmt bcp tes podcasts Bisous❤️🥰😘 #GARÇON QUI ADORE LA KPOP🫶🏽"
+      }
     ]
   },
   "episodes_recents": [

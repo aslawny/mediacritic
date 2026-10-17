@@ -26,25 +26,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-10-16",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-17",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Yosoyagatha",
+        "titre": "Le boost, pas le blues !",
+        "texte": "J’écoute votre podcast toutes les semaines quand je fais mes séances de côte en course à pied (je suis la folle qui éclate de rire dans les montées).…"
+      },
+      {
+        "note": 5,
+        "auteur": "Miss Chato 🌸🏰",
+        "titre": "Un très bon moment",
+        "texte": "Une émission très sympa, chill et cool Avec de l’humour et des bonnes réparties, normal avec Manu de la bonne zick, normal avec Manu et des bonnes idées recettes… normal avec Manu !🤣 Bref merci aussi à ses employés en CDI et ses invités de choix.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Sarenne38",
+        "titre": "Un chouette programme !",
+        "texte": "Très agréable de retrouver ce programme original réjouissant et drôle sur une période où habituellement on ne nous offre que du réchauffé. On sent un plaisir de Manu Payet à être au micro avec ses complices, on en redemande !!"
+      }
     ]
   }
 }

@@ -52,25 +52,29 @@
   "derniere_activite": "2026-09-10",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-17",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Ewaynie",
+        "titre": "Les misérables",
+        "texte": "Merci pour ces livres qui m’accompagnent lors de mes trajets pour le travail ! Je suis en train d’écouter le tome 1 des misérables. En tant qu’Ubayenne pure souche et étant née à saint-Pons même je me dois cependant de préciser qu’Ubaye se prononce (Ubaille et non Ubet).…"
+      },
+      {
+        "note": 1,
+        "auteur": "vincent.simon38",
+        "titre": "Livre audio",
+        "texte": "Le podcast ne nous donne pas accès à tous les épisodes d’une même œuvre"
+      },
+      {
+        "note": 5,
+        "auteur": "Danielflorian",
+        "titre": "Voix",
+        "texte": "La diction de Nathalie Mussard convient à la lecture de Jules Verne; sa voix grave ainsi que l’intonation passe très bien; elle donne du relief au texte, on a même l’impression qu’il y a plusieurs lecteurs."
+      }
     ]
   }
 }

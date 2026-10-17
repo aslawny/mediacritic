@@ -52,25 +52,29 @@
   "derniere_activite": "2021-05-13",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Hwayda",
+        "titre": "Qualitatif",
+        "texte": "Merci pour ces podcast qui témoignent d’un grand travail théologique. La précision de chaque information par des comparaisons et des références coraniques et bibliques (ancien et nouveau testament ) rendent ces podcast très enrichissants pour tous ceux qui s’intéressent aux relig…"
+      },
+      {
+        "note": 5,
+        "auteur": "la fille qui essaye!",
+        "titre": "Encore d’autres histoires",
+        "texte": "Bonjour! Je suis une étudiante et je vis seule, sache que t’es podcast m’ont vraiment fait du bien, je me suis sentie moins seule et en même temps j’apprenais aussi sur ma religion.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Bel_dj",
+        "titre": "Je recommande",
+        "texte": "J’ai vraiment apprécié votre travail, merci. J’ai découvert et redécouvert certains parcours de vie. Vous êtes une très bonne oratrice, également, j’ai hâte d’avoir un épisode sur le prophète Mouhamed sws 🤍"
+      }
     ]
   }
 }

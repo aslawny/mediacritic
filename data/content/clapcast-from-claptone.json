@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-08-31",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Popowych",
+        "titre": "Greatest deep house mixtapes",
+        "texte": "Soo cool to get a monthly fresh deep house mixtape. Just don't stop or my sound world is going to be insipid. Enfin un artiste qui propose du nouveau chaque mois, et du bon. Thanks."
+      },
+      {
+        "note": 5,
+        "auteur": "Neoran",
+        "titre": "Golden",
+        "texte": "Thank you to be connected with your fans. For me the best dj/producer of the moment. Just stay.... for us....for the music"
+      },
+      {
+        "note": 5,
+        "auteur": "Jéeee",
+        "titre": "Best music podcast",
+        "texte": "News musics every weeks in one hour mix. Technically very good transition. Love it. Thank you."
+      }
+    ]
+  }
 }

@@ -51,25 +51,29 @@
   "derniere_activite": "2026-08-30",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-17",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "nath06822",
+        "titre": "Deux cœurs adorables",
+        "texte": "J’ai découvert votre podcast un peu au hasard, car j’ai une grande préférence pour les intervenants(tes) québécois(oises ). Et oui, j’y trouve plus de qualité, plus d’empathie, plus de convivialité, plus de douceur même sur des thèmes délicats, que dans les podcasts français car…"
+      },
+      {
+        "note": 2,
+        "auteur": "BuckDanny_91",
+        "titre": "Le succès ne réussi pas toujours",
+        "texte": "C’est beau d’avoir le titre de l’épisode qui concerne un tueur horrible et en première ligne de la description un lien vers la billetterie … J’apprécie de moins en moins ce podcast, le ton dés début se perd et parfois il y’a vraiment des énormités qui sont racontées."
+      },
+      {
+        "note": 5,
+        "auteur": "Dxana_872",
+        "titre": "Un podcast addictif !",
+        "texte": "Je vous écoute depuis la France et j’adore votre façon de narrer les affaires que vous traitez ! On pourrait croire que quand on consomme déjà beaucoup de contenus criminels on connaît toutes les histoires mais vous arrivez à en trouvez des moins connues et surprenantes à chaque…"
+      }
     ]
   }
 }

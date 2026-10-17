@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2026-02-15",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "cleo2bb",
+        "titre": "Encore svp!!😊",
+        "texte": "Vraiment très intéressant et accessible. Merci de ne pas utiliser des termes compliqués comme dans d’autres podcast c’est agréable! J’adore! Je reste frustrée de ne pas trouver tous les signes dans les épisodes concernant Saturne….…"
+      },
+      {
+        "note": 3,
+        "auteur": "TheoneandonlyPeque",
+        "titre": "Bon podcast",
+        "texte": "Une mine d’information sur l’astrologie avec un contenu très pointu. Cependant, le son est assez bas il faut mettre très fort pour bien entendre, et il peut manquer de rythme ce qui le rend difficile à écouter malgré la qualité des informations données."
+      },
+      {
+        "note": 5,
+        "auteur": "Sissi197375",
+        "titre": "Sagittaire c’est bien moi ;)",
+        "texte": "Je me suis très bien retrouvé dans le profil du sagittaire .. j’en ai les défauts mais pas trop les excès ! C’était hyper interessant et d’autant plus que mon signe solaire et mon signe lunaire sont sagittaires … aïe aïe aïe ! Merci à vous"
+      }
+    ]
+  }
 }

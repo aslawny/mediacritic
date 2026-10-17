@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2024-08-18",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Franckhorse",
+        "titre": "Vraiment super",
+        "texte": "C’est avec regret qu’on quitte l’after JO. Bourrée d’informations techniques des consultants, des invités. Un régal. Non Gilbert, je ne compenserai pas par l’after foot qui n’a d’en commun avec l’after JO que le non.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Les racailles du dimanches",
+        "titre": "Incroyable",
+        "texte": "C’est bien on peut suivre les jo on peut entendre Léon marchand , le handball, le judo… Je trouve ça très bien"
+      },
+      {
+        "note": 4,
+        "auteur": "NKQY SDF 1234",
+        "titre": "Nul",
+        "texte": "C’est trop bien beaucoup d’informations et on ne rate rien Aller la France"
+      }
+    ]
+  }
 }

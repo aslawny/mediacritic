@@ -50,25 +50,29 @@
   "derniere_activite": "2026-02-27",
   "frequence_jours": 49,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "dioux33",
+        "titre": "Trois hommes et un aigri",
+        "texte": "Bon podcast qui traite le Jv sur un ton différent, ils s’y connaissent vraiment et leurs interventions sont pertinentes. Malheureusement souvent gâcher par un Jay totalement aigri, très vulgaire qui passe son temps à insulter tout son monde, c’est regrettable car quand il sort de…"
+      },
+      {
+        "note": 1,
+        "auteur": "Matiaspiens 79",
+        "titre": "Mort",
+        "texte": "J’ai arrêté le patreon après avoir avoir attendu 3 mois sans rien"
+      },
+      {
+        "note": 5,
+        "auteur": "Mikaouel85",
+        "titre": "Un ton assumé",
+        "texte": "Les Tauliers, c'est une émission assez particulière. Déjà, il y a beaucoup d'égo chez les intervenants, parfois trop. Il arrive que certains partent dans des envolées lyriques pour défendre telle ou telle cause, démonter tel ou tel mec dans une mauvaise foi la plus totale.…"
+      }
     ]
   }
 }

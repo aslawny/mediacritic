@@ -27,25 +27,29 @@
   "addedAt": "2026-05-17",
   "updatedAt": "2026-10-16",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-17",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "DavidLarche",
+        "titre": "Excellent podcast",
+        "texte": "J ai découvert ce podcast par hasard en cherchant des podcasts sur le vélo. Je ne fais pas de Gravel, ni de bikepacking mais j’ai trouvé les sujets intéressants et l’animateur plutôt sympa et un peu décalé parfois.…"
+      },
+      {
+        "note": 1,
+        "auteur": "elbe2point0",
+        "titre": "À fond le mansplaining",
+        "texte": "Je me réjouissais d’écouter un podcast avec Claire Bannwarth dont j’adore le parcours. Ça commence mal, le présentateur est incapable de prononcer son nom. Gênant.…"
+      },
+      {
+        "note": 5,
+        "auteur": "supercamcam18",
+        "titre": "haaaa le velooo",
+        "texte": "C'est un peu l'homonyme français de Bike or Death, j'écoute souvent pendant que je pédale: ça parle d'ultra mais aussi d'autre pratique, on y trouve forcément son compte avec les différents intervenants. Technique vélo, technique packing , technique dodo ...…"
+      }
     ]
   }
 }

@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-21",
-  "frequence_jours": 30
+  "frequence_jours": 30,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Hllnsavw",
+        "titre": "Drôle et instructif !",
+        "texte": "Super cool, j’adore. J’ai l’impression d’être à table avec eux ! Est ce que vous pouvez réactivé votre compte Instagram ? Postez vous nouveaux épisodes, etc... ça aiderait bien à partager ! Bises"
+      },
+      {
+        "note": 5,
+        "auteur": "El Pozor",
+        "titre": "Génial",
+        "texte": "Vraiment une super émission. On sent (ou on a l'impression je sais pas) qu'il y a beaucoup de boulot. C'est cool, c'est détendu, on apprend plein de choses."
+      },
+      {
+        "note": 5,
+        "auteur": "Bertranddelagrossebouffe",
+        "titre": "C'est de la boulette",
+        "texte": "Franchement et en toute objectivité: un super podcast. N'est-ce pas Thomas? Bertrand"
+      }
+    ]
+  }
 }

@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-08-28",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "malikan",
+        "titre": "Passionnant",
+        "texte": "Quel podcast passionnant! Les histoires des uns et des autres nous embarquent vers le chemin de la réussite qui n’est pas une ligne droite. Au cours de ce voyage, vous rencontrez des personnes qui vous tendent la main. Une belle leçon de solidarité! Mieux que tous les discours."
+      },
+      {
+        "note": 5,
+        "auteur": "Pierre Prevost",
+        "titre": "Magnifique découverte !",
+        "texte": "Je viens de découvrir ce podcast et j’ai écouté les témoignages de Ioana et Nourdine qui sont absolument fabuleux ! Étant fils d’agriculteur et entrepreneur, merci de nous donner la parole.. Je partagerai sans modération autour de moi, continuez ! 😌"
+      },
+      {
+        "note": 5,
+        "auteur": "Kathy AZEVEDO",
+        "titre": "Le podcast parfait pour redonner espoir",
+        "texte": "Pour tout ceux qui pensent qu’il faut être « bien nés » pour réussir ce podcast est d’utilité publique et leur permettra de croire encore et toujours en leurs rêves !"
+      }
+    ]
+  }
 }

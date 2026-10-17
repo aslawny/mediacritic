@@ -27,25 +27,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-10-16",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-17",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "chouette.4",
+        "titre": "Évangile et sa méditation",
+        "texte": "C’est dommage que la méditation de l’évangile ne soit plus disponible en écrit car ça permettait de l’envoyer par mail ou SMS pour ceux qui n’ont pas Internet.Et aussi ça permettait de la relire tranquillement ce qui est différent de l’écoute.…"
+      },
+      {
+        "note": 2,
+        "auteur": "did 3723",
+        "titre": "PROBLEME",
+        "texte": "JE N’ARRIVE PLUS DANS LE PODCAST PRIÈRE DU MATIN À LES RECEVOIR DEPUIS LE DEBUT JUILLET. BIEN À VOUS CORDIALEMENT."
+      },
+      {
+        "note": 5,
+        "auteur": "AlexSpirit74",
+        "titre": "Terminé ?",
+        "texte": "C’était mon rendez-vous quotidien avant de commencer la journée et depuis fin juin, plus rien. J’imaginais que les épisodes reviendraient à la rentrée mais non.…"
+      }
     ]
   },
   "episodes_recents": [

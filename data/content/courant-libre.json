@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2021-03-26",
-  "frequence_jours": 30
+  "frequence_jours": 30,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "JEANSIM_B",
+        "titre": "Podcast super inspirant !",
+        "texte": "J’écoute les épisodes de courant libre depuis le début et tous les invités sont des personnes très inspirantes! J’ai découvert des tas de projets très inspirants grâce à Courant Libre! Les questions et les sujets abordés par BASTIEN sont toujours très bien choisis, au top! Je rec…"
+      },
+      {
+        "note": 2,
+        "auteur": "captain Mab",
+        "titre": "Peu mieux faire ?",
+        "texte": "Il ne suffit pas d’avoir des invités intéressants pour réussir une émission. Il faut bien débuter un jour mais la radio improvisée c’est pas mon truc"
+      },
+      {
+        "note": 5,
+        "auteur": "PaulineLegras",
+        "titre": "Passionnant pour des passionnés",
+        "texte": "Un podcast basé sur le partage de nos passions / nos choix de vies / nos voyages. Chaque podcast est super intéressant mais surtout animé par Bastien qui a une vraie âme d’interviewer. C’est passionnant ! Ecoutez sans retenue!"
+      }
+    ]
+  }
 }

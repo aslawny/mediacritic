@@ -50,25 +50,29 @@
   "derniere_activite": "2026-07-23",
   "frequence_jours": 28,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Priscillia RT",
+        "titre": "Du boost dans la tête pour toujours aller plus loin 💪🔥❤️",
+        "texte": "Au travers de ses interviews Julia parvient à aborder divers thèmes pro et perso auxquels nous faisons touxtes face lorsque nous nous lançons dans cette folle aventure qu’est l’entrepreneuriat.…"
+      },
+      {
+        "note": 1,
+        "auteur": "paugdt",
+        "titre": "Tellement dommage..",
+        "texte": "Le qualité du son rend l’écoute vraiment compliquée, obligée de stopper à peine le Podcast entamé car sorti du cadre de la maison, impossible d’entendre les discussions correctement ! Faites quelque chose pour qu’on puisse vous entendre !!"
+      },
+      {
+        "note": 5,
+        "auteur": "Veva Albi 05",
+        "titre": "MERCI",
+        "texte": "Merci à toi Julia pour ce magnifique Podcast! J’ai eu plaisir à écouter et réécouter de nombreux échanges avec des personnes inspirantes et qui m’ont donné, grâce à toi, l’envie d’entreprendre …"
+      }
     ]
   }
 }

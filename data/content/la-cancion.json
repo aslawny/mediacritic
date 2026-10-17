@@ -25,5 +25,25 @@
     "culture"
   ],
   "addedAt": "2026-07-03",
-  "updatedAt": "2026-10-16"
+  "updatedAt": "2026-10-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "paopcoc",
+        "titre": "Excellent",
+        "texte": "Mille mercis pour ce podcast qui m’a fait voyager dans ma jeunesse au Venezuela et en Colombie. Quelle fierté d’avoir cet héritage musical et de pouvoir le transmettre à mes enfants"
+      },
+      {
+        "note": 5,
+        "auteur": "Déesse 47",
+        "titre": "Realmente genial !",
+        "texte": "J’ai adoré ce podcast avec lequel j’ai énormément appris. A écouter sans modération !"
+      }
+    ]
+  }
 }

@@ -25,5 +25,25 @@
     "loisirs"
   ],
   "addedAt": "2026-09-02",
-  "updatedAt": "2026-10-16"
+  "updatedAt": "2026-10-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "darkbg75013",
+        "titre": "Belle alchimie",
+        "texte": "Toujours cool de constater que deux personnalités qu’on apprécie matchent bien ensemble !"
+      },
+      {
+        "note": 1,
+        "auteur": "Sheba palaces",
+        "titre": "Chez les bons copains",
+        "texte": "Difficile de comprendre où va cette émission sans le moindre fil conducteur. Les questions aux invités et les jeux semblent improvisés, ça fonctionne assez bien dans le mousecast mais ici dans un cadre de 60 minutes avec trois morceaux musicaux ça n’a aucun intérêt.…"
+      }
+    ]
+  }
 }

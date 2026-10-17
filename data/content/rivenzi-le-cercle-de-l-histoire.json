@@ -25,25 +25,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-10-16",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-17",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Viblo_se",
+        "titre": "Un bonheur à chaque fois !",
+        "texte": "Je suis la plupart du temps les lives histoires sur Twitch, mais quel plaisir d’écouter ceux manqués en podcast ! Je conseille à 1000% pour le travail, les questions pertinentes et la bonne humeur de Rivenzi mais aussi pour les historiens acceptant de venir échanger à propos de c…"
+      },
+      {
+        "note": 3,
+        "auteur": "maduhl",
+        "titre": "Attention à la qualité sonore !!",
+        "texte": "Je n’ai pas écouté tous les podcasts et les deux que j’ai démarré, je les ai arrêtés en cours. Les invités sont excellents, les sujets et les propos passionnants. La qualité sonore finit en revanche par agacer.…"
+      },
+      {
+        "note": 5,
+        "auteur": "VrzAntoine",
+        "titre": "Un Rivenzi passionné, un émission de toute beauté.",
+        "texte": "Une heure de découverte, d’apprentissage, d’anecdotes, de passion, de partage... Des podcasts (et live) de qualité... Bref, simple, efficace, sans prétention et parfait. Je recommande à 2000%."
+      }
     ]
   },
   "episodes_recents": [

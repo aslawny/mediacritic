@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-03",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "pamilou86",
+        "titre": "Dynamisme et vulgarisation",
+        "texte": "Au top, une chronique qui nous permet, en quelques minutes de manière dynamique et pas du tout soporifique, de savoir où en sont les marchés et les actualités économiques. Un podcast devenu rapidement une écoute habituelle pour moi. Merci !"
+      },
+      {
+        "note": 5,
+        "auteur": "jerome.tordo",
+        "titre": "Pétillant fiable",
+        "texte": "Une chronique pétillante des explications claires factuelles avec un angle technique et non politique Équivalent au meilleurs podcasts us"
+      },
+      {
+        "note": 5,
+        "auteur": "Ray/mie30",
+        "titre": "Diamant",
+        "texte": "Excellent podcast l’enthousiasme et les blagues rajoute clairement une touche exclusive à la finance"
+      }
+    ]
+  }
 }

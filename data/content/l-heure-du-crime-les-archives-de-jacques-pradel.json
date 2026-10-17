@@ -52,25 +52,29 @@
   "derniere_activite": "2026-09-05",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "NelsonDeVillemareuil",
+        "titre": "Excellent 👌",
+        "texte": "Juste un petit bémol , la venue de Stéphane Bourgoin, qui a menti sur absolument toute sa carrière, a multiplié les plagiats, et inventé beaucoup de chose à son sujet notamment sur sa carrière professionnelle.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Kevbaali",
+        "titre": "Mythomane",
+        "texte": "Ne vient-il à l’idée de personne de faire disparaître les podcasts dont l’invité est Stéphane Bourgoin?"
+      },
+      {
+        "note": 5,
+        "auteur": "vbiancat",
+        "titre": "Pradel le Grand",
+        "texte": "Ça pourrait presque être un titre de noblesse ! En effet, il était le Roi de l’Heure du Crime et l’émission n’est plus la même depuis son départ. Elle était fluide lorsque Jacques était aux manettes.…"
+      }
     ]
   }
 }

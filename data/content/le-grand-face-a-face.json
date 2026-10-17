@@ -26,25 +26,29 @@
   "addedAt": "2026-05-23",
   "updatedAt": "2026-10-16",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-17",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "TM.93",
+        "titre": "Passionnante émission.",
+        "texte": "Déplaisante nouvelle que d'apprendre la fin de ce rendez-vous précieux d'analyse et d'information. Merci de nous avoir proposé une émission d'une telle lucidité, qui traite avec autant de sérieux des sujets qui concernent notre quotidien et éveille notre regard sur nos sociétés.…"
+      },
+      {
+        "note": 1,
+        "auteur": "cyberfille",
+        "titre": "Podcast incomplet",
+        "texte": "Le podcast ne contient que le duel. Peut-on avoir le reste avec l’invité ? Merci"
+      },
+      {
+        "note": 5,
+        "auteur": "nyxerika",
+        "titre": "Tristesse la fin d’un face à face passionnant",
+        "texte": "Bonjour Je suis bien triste d’apprendre la fin de cette émission passionnante percutante intelligente avec un duel verbal de haute volée . Pourquoi nous retirer ce bonheur d’écouter deux personnes fabuleuses deux « grands esprits libres « Natacha Polony pleine de finesse réflexio…"
+      }
     ]
   }
 }

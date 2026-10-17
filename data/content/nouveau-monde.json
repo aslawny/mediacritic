@@ -27,25 +27,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-10-16",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "FredPerl",
+        "titre": "Court et efficace",
+        "texte": "Je viens de découvrir ce podcast car je suis particulièrement Benjamin Vincent un journaliste tech qui dans le dernier épisode nous parle des trackers et notamment celui d’Apple.…"
+      },
+      {
+        "note": 1,
+        "auteur": "thierry..",
+        "titre": "Je ne comprends pas ces podcasts courts",
+        "texte": "Je n'aime pas. Et je ne comprends pas ces podcasts de seulement quelques minutes...."
+      },
+      {
+        "note": 5,
+        "auteur": "Guillolive",
+        "titre": "J'adore, mais ...",
+        "texte": "Tout à fait d'accord avec Billybopp. Les sujets sont tous très intéressants. Je ne peux m'empêcher de les télécharger car pourtant, à chaque fois, ce qui m'exaspère, c'est cette chute qui est systématiquement coupée.…"
+      }
     ]
   }
 }

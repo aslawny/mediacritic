@@ -53,25 +53,29 @@
   "derniere_activite": "2026-08-26",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Blcharver",
+        "titre": "Kalindi et coup de foudre à Copenhague",
+        "texte": "Merci de ces 2 récits qui font voyager et partager une sensibilité de l amour comme on peut le vivre si on se laisse aller"
+      },
+      {
+        "note": 2,
+        "auteur": "Claireb.illustration",
+        "titre": "Histoires vraies ? Lues par des acteurs !",
+        "texte": "Les récits sont beaucoup trop travaillés et manquent de spontanéité, on en vient à douter de la véracité et c’est clairement lu par des acteurs ça gâche tout…"
+      },
+      {
+        "note": 5,
+        "auteur": "Mucha64",
+        "titre": "Une première fois racontée par un homme",
+        "texte": "Un homme raconte son premier date avec émotion et pudeur c est un beau récit avec des papillons dans le ventre."
+      }
     ]
   }
 }

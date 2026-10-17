@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2024-06-17",
-  "frequence_jours": 13
+  "frequence_jours": 13,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Caro du 92",
+        "titre": "Ouaaaa que de la rigolade",
+        "texte": "Merci à vous de me régalez dès que je vous écoutes les garçons . Vivement les prochains épisodes pour connaître les suites de vos péripéties lol. Pour les personnes qui n’ont jamais écoutés je vous invite à les suivre rigolade assurée ."
+      },
+      {
+        "note": 5,
+        "auteur": "cdidy",
+        "titre": "In-Croy-Able !",
+        "texte": "Une bonne énergie ! Des sujets qui semblent simples mais qui ont le mérite d'être bien exposés ! Et des guests tjs intéressant ! On attend l'intervention de l'homme de l'ombre... le sus nommé : Féfé ! Continuez !"
+      },
+      {
+        "note": 5,
+        "auteur": "Pirilpiwi",
+        "titre": "THE duo ❤️",
+        "texte": "Alours là vraimeeeent la rigalade !! Je pleure de rire à chaque épisode. Je vous écoute partout et ça fait trop plaisir de vous entendre, j’ai l’impression d’être avec vous ! Continuez à nous faire kiffer !"
+      }
+    ]
+  }
 }

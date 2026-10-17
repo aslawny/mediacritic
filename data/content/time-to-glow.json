@@ -29,25 +29,29 @@
   "addedAt": "2026-05-17",
   "updatedAt": "2026-10-16",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lelfe6930",
+        "titre": "Frais, proche de nous j’adore!",
+        "texte": "Toutes ces femmes que j’écoute , toutes plus belles et plus inspirantes les unes que les autres/ quel kiff! Quelle motivation on reçoit quand on termine les épisodes! J’ai tout écouté pratiquement d’une traite, merci Aurelie je fais le plein de bonnes adresses lyonnaises et j’ado…"
+      },
+      {
+        "note": 5,
+        "auteur": "Anaisinthecity",
+        "titre": "Ça change!!",
+        "texte": "Un podcast très agréable à écouter, une très bonne vibe!! Des conseils beautés d’une manière qui changent avec des vrais avis. aïe aïe aïe le porte monnaie, j’ai envie d’acheter des nouveaux produits de beauté après chaque podcast… y’a plus qu’à se raisonner Bravo Aurélie."
+      },
+      {
+        "note": 5,
+        "auteur": "Geri80000",
+        "titre": "Merci",
+        "texte": "Wahou ! Dommage qu’il n’y ait pas 10 étoiles parce que ce podcast les mérite. Au delà de s’informer sur les techniques esthétiques existantes, c’est également humainement très fort. Les invités se livrent et délivrent. Mega inspirant. Que du bonheur"
+      }
     ]
   },
   "episodes_recents": [

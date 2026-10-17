@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-04-10",
-  "frequence_jours": 56
+  "frequence_jours": 56,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "chpdpaill",
+        "titre": "Génial !",
+        "texte": "Supers sujets et intervenants passionnés par leur domaine. Beaucoup d’interactions avec le public, très intéressant en podcast comme en live."
+      },
+      {
+        "note": 5,
+        "auteur": "ploupox",
+        "titre": "Belle trouvaille",
+        "texte": "Un podcast à la hauteur de ma curiosité, des échanges éclairants et des thèmes variés à chaque épisode !"
+      },
+      {
+        "note": 5,
+        "auteur": "Fl0_75",
+        "titre": "N’arrêtez jamais !",
+        "texte": "Super intéressant, mes voyages dans le métro parisien passe beaucoup plus vite, merci, continuez 👏🏼"
+      }
+    ]
+  }
 }

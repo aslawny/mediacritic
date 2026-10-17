@@ -32,5 +32,19 @@
       "date": "2020-05-25"
     }
   ],
-  "derniere_activite": "2020-05-25"
+  "derniere_activite": "2020-05-25",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Calie ma bbf",
+        "titre": "De Emmy",
+        "texte": "Les Blackpink c’est top se n’est pas décevant mais il y en a qui sont comme ça moi je suis une sirène 🧜‍♀️"
+      }
+    ]
+  }
 }

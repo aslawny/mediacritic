@@ -29,25 +29,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-10-16",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "reg_unreg",
+        "titre": "Ça existe ! Ou est ce un doux rêve ?",
+        "texte": "Humain, absurde, bienveillant, délirant, … du partage à l’état pur. Ting, ting, ting (moi aussi j’actionne mon pain surprise). Impossible de laisser un avis, les 2 (animateurs) façonnent leur discussion une fois à la serpe, une fois au bistouri, et donc à nous de leur rendre homm…"
+      },
+      {
+        "note": 1,
+        "auteur": "Belettemagique",
+        "titre": "Inaudible",
+        "texte": "L’épisode de Noël est inaudible : ça crie et tout le monde parle en même temps, c’est insupportable."
+      },
+      {
+        "note": 5,
+        "auteur": "Zoelfamili",
+        "titre": "C’est délicieux",
+        "texte": "Un plaisir , un délice que dis je !! un pantagruélique moment dont j’attends avec impatience le prochain. Un ton meilleur que le thon rouge et un humour sous toutes ses formes , pièces montées , tout chocolat … parfait …"
+      }
     ]
   },
   "episodes_recents": [

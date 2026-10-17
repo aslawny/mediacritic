@@ -1,0 +1,53 @@
+{
+  "slug": "grc-engineer",
+  "title": "GRC Engineer",
+  "author": "Ayoub Fandi",
+  "type": "podcast",
+  "categories": [
+    "tech",
+    "numerique"
+  ],
+  "description": "The podcast for practitioners applying systems thinking and engineering principles to GRC. We speak with GRC leaders, security engineers and practitioners transforming legacy GRC through automation, orchestration, and architectural thinking. Learn how to design scalable systems, build better workflows and solve coordination challenges. GRC Engineering works everywhere: from spreadsheets to enterprise platforms, AI startups to Fortune 500s. It also works for you! Hosted by Ayoub Fandi, founder of GRC Engineer, co-author of the GRC Engineering manifesto and leading GRC Engineering at GitLab.",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6e/41/d8/6e41d8e8-60a1-2cfa-dbe0-4fe8872a8f1d/mza_11900190343883545400.jpg/170x170bb.png",
+  "language": "",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/grc-engineer/id1775887180?uo=2",
+      "trackId": 1775887180,
+      "rating": null,
+      "ratingCount": null,
+      "episodeCount": null
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "tech",
+    "numerique"
+  ],
+  "addedAt": "2026-10-17",
+  "updatedAt": "2026-10-17",
+  "episodes_recents": [
+    {
+      "titre": "AIUC-1: The First Compliance Framework for AI Agents w/ Rajiv from AIUC and Danny from Schellman",
+      "date": "2026-03-05"
+    },
+    {
+      "titre": "GRC meets Enterprise Security: TPRM, Compliance, Zero Trust and M&A w/ Kane Narraway from Canva",
+      "date": "2025-12-02"
+    },
+    {
+      "titre": "Beyond the Screenshot: Why Auditors Don't Trust Platforms & What Quality Really Costs w/ Troy Fine",
+      "date": "2025-11-11"
+    },
+    {
+      "titre": "From Checklists to Code: Engineering the Future of FedRAMP w/ Pete Waterman",
+      "date": "2025-10-28"
+    },
+    {
+      "titre": "Rebuilding GRC from Scratch: Build-First Engineering w/ Emre & Chad from Docker",
+      "date": "2025-10-14"
+    }
+  ],
+  "derniere_activite": "2026-03-05",
+  "frequence_jours": 27
+}

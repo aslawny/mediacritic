@@ -50,25 +50,29 @@
   "derniere_activite": "2022-12-07",
   "frequence_jours": 13,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "FredV39",
+        "titre": "Bravo et merci",
+        "texte": "Super podcast que j'écoute et réécoute pendant mes entraînements ou mon bricolage. Tous les épisodes sont bourrés d'informations utiles pour les sportifs aussi bien runners, trailers, cyclosportifs ou bien triathletes .…"
+      },
+      {
+        "note": 5,
+        "auteur": "eric130566",
+        "titre": "top podcast",
+        "texte": "Les thèmes abordés sortent de l’ordinaire et l’ambiance est très sympa. Continuez comme ça, c’est top 👏🏻👏🏻 J’espérai que vous abordiez le sujet du trail et vous l’avez fait.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Les chevaux ou rien",
+        "titre": "Merci !",
+        "texte": "Merci à tous les deux (même si Ermano n’était pas là pour ce podcast). Vos podcasts donnent envie de chausser ses baskets et de sortir courir même sous la pluie. Et tes récits et interviews sur les Ironman font rêver…et font des émules (dont moi).…"
+      }
     ]
   }
 }

@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-28",
   "frequence_jours": 21,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Frederic M.45",
+        "titre": "La Rolls Royce des podcasts",
+        "texte": "Comment être très bon sur le fond, très documenté, tout en restant des plus modestes et des plus plaisants sur la forme, bref comment faire sérieux sans se prendre au sérieux! Le binôme fonctionne à merveille, il nous apprend plein de choses, tout en nous émouvant quand il faut e…"
+      },
+      {
+        "note": 3,
+        "auteur": "nath06822",
+        "titre": "A propos de Toutankhamon messieurs",
+        "texte": "Le masque de Toutankhamon est un chef d'oeuvre de l'orfèvrerie égyptienne. Mesurant 54 cm de haut, 39,3 cm de large et 49 cm de profondeur, il est constitué de deux plaques d'or assemblées et pèse 10,32 kg."
+      },
+      {
+        "note": 5,
+        "auteur": "Irbu19",
+        "titre": "Tres agréable à écouter",
+        "texte": "Bravo pour vos émissions et la façon très honnête que vous avez de présenter les sujets. Quand on connait quelque peu le domaine traité, on sent le sérieux de votre travail de synthèse. C’est par exemple le cas de la bête du Gévaudan.…"
+      }
     ]
   }
 }

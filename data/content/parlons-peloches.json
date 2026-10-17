@@ -27,25 +27,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-10-16",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Wonder GG",
+        "titre": "Je vous adore, mais...",
+        "texte": "J'ai découvert votre podcast il y a quelques mois et j'ai tout dévoré en peu de temps. Depuis, j'attends la suivante dès que j'en ai terminé une.…"
+      },
+      {
+        "note": 1,
+        "auteur": "KLAATU",
+        "titre": "On peut rire avec vous ?",
+        "texte": "Comme beaucoup de podcasts hélas, on a affaire à une bande de potes qui se marrent entre eux. Et c’est tout. De là à en faire un podcast à partager…"
+      },
+      {
+        "note": 5,
+        "auteur": "TANZA972",
+        "titre": "Je dis ça je dis rien",
+        "texte": "Quand j’ai découvert parlons Péloches je n’en étais pas à mon premier podcast sur le cinéma entre ceux qui en font et qui parle d’un film qui n’ont jamais vu ceux qui te racontent pendant trois heures image par image le film que tu as certainement dû déjà voir il y en a pour tout…"
+      }
     ]
   },
   "episodes_recents": [

@@ -28,25 +28,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-10-16",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Anas Ouknine",
+        "titre": "L’histoire et les maths",
+        "texte": "Ce qui m’as vraiment attirer a écouter vos podcasts, D’abord j’aime bien l’histoire de mon pays qui sommes nous d’où on vient , deuxièment Reda Allali le fondateur de mon groupe préféré “hoba hoba spirit “ ,j’ai grandi en écoutant vos chansons et merci encore une fois , troisième…"
+      },
+      {
+        "note": 5,
+        "auteur": "mehdi khribch",
+        "titre": "A gem of a podcast",
+        "texte": "Passion is a key to success, and no one embodies that more than Mr reda allali a Moroccan through and through he embarks on his latest venture, showing versatility between singing and writing to now delivering the best Moroccan podcast, forging a better understanding of the histo…"
+      },
+      {
+        "note": 5,
+        "auteur": "J-bag1",
+        "titre": "Merci au nom de tous les binationaux",
+        "texte": "Bonjour, Je voulais vous remercier en mon nom mais aussi au nom des binationaux car votre podcast nous raconte l’histoire de notre pays d’origine et nous rapproche encore plus de notre Maroc.…"
+      }
     ]
   },
   "episodes_recents": [

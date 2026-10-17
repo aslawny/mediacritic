@@ -49,5 +49,25 @@
     }
   ],
   "derniere_activite": "2026-09-07",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Gauthier_C",
+        "titre": "Pertinence et réalité",
+        "texte": "Des intervenants tous aussi pertinents les uns que les autres, avec une connaissance opérationnelle de la GMS qui ajoute beaucoup de vérité lors de leurs interventions …"
+      },
+      {
+        "note": 5,
+        "auteur": "Elisabeth2405",
+        "titre": "Super inspirant !",
+        "texte": "Beaucoup de sujets novateurs abordés et des invités inspirants."
+      }
+    ]
+  }
 }

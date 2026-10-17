@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2023-11-13",
-  "frequence_jours": 47
+  "frequence_jours": 47,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "JPMartin417",
+        "titre": "Incontournable !",
+        "texte": "Si vous aimez le ciné, si vous adorez être au top de l'actu dans le domaine, c'est ici que vous trouverez votre dose quotidienne !"
+      },
+      {
+        "note": 2,
+        "auteur": "SaitoChizue",
+        "titre": "Ça ne vole pas haut",
+        "texte": "J’ai tenu une heure sur Avatar 2. Ça tourne vite en rond et une fois que le dictionnaire des superlatifs est épuisé, on coule comme le Titanic."
+      },
+      {
+        "note": 5,
+        "auteur": "Hector Piton",
+        "titre": "Longue vie à Séance Actu",
+        "texte": "L'actualité quotidienne du cinéma, en 5 minutes, le tout enrobé de musique, j'ai envie de dire que demande le peuple !"
+      }
+    ]
+  }
 }

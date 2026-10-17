@@ -50,25 +50,29 @@
   "derniere_activite": "2012-03-19",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tienoute",
+        "titre": "Show must go on !",
+        "texte": "Fan de longue date, vous ayant découvert sur le tard, j’ai enfin pu rattraper tous les épisodes (enfin presque, j’en garde quelques uns sous le coude).…"
+      },
+      {
+        "note": 1,
+        "auteur": "anfix",
+        "titre": "Attentes",
+        "texte": "On dit que les jeux sont une affaire de patience. J’avoue que le temps commence à être long depuis le dernier épisode"
+      },
+      {
+        "note": 5,
+        "auteur": "Jean Pod'o Rama",
+        "titre": "Jean Pod o'Rama",
+        "texte": "J'adore ce podcast, il s'en dégage des \" good vibrations \", les gars qui le font sont sympa et simple, y a une bonne ambiance, ils ne se prennent pas pour je ne sais qui, bref je me sens comme a la maison ou avec des potes quand je les écoute.…"
+      }
     ]
   }
 }

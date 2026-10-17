@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-09-13",
-  "frequence_jours": 13
+  "frequence_jours": 13,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "AIRcode89",
+        "titre": "Une découverte !",
+        "texte": "Des invités de tous secteurs, avec des problématiques variées. Les retours d’expériences sont enrichissants et les histoires inspirantes."
+      },
+      {
+        "note": 5,
+        "auteur": "Podcast_superaddict",
+        "titre": "Podcast enrichissant",
+        "texte": "Des retours de Tech Leaders, à partager sans modération. Inspiration & apprentissages au rendez-vous !"
+      },
+      {
+        "note": 5,
+        "auteur": "Catsi01",
+        "titre": "Feedback super inspirant",
+        "texte": "Des vrais retours d’expérience qui change la vision du développement de la tech et des équipes."
+      }
+    ]
+  }
 }

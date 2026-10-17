@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-07-12",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mag - Le Dos de la Cuillère",
+        "titre": "Des barres !",
+        "texte": "Je suis allée déterrer mon vieux compte apple juste pour laisser un avis parce que j'étais même pas hyper fan de true crime mais pourtant, j'attends avec impatience la sortie de chaque épisode pour en apprendre un peu plus sur l'humanité à travers ce qu'elle a de meilleur (chacha…"
+      },
+      {
+        "note": 5,
+        "auteur": "Las0s0",
+        "titre": "J’adore!",
+        "texte": "J’ai l’impression d’être votre copine! Podcast frais, drôle, simple et divertissant : j’adore, continuez comme ça c’est vraiment un plaisir de vous écouter ! Merci pour ce podcast!"
+      },
+      {
+        "note": 5,
+        "auteur": "Sarah.020394",
+        "titre": "Fan ☺️",
+        "texte": "J’adore le concept ! J’ai vraiment l’impression d’être assise avec mes amies et de discuter de meurtres et de fun facts. Franchement j’attends les épisodes avec impatience 🥰"
+      }
+    ]
+  }
 }

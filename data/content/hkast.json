@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-05-04",
-  "frequence_jours": 56
+  "frequence_jours": 56,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "TheRealNoodles37",
+        "titre": "Bad Flo(w)",
+        "texte": "Super podcast... mais par pitié faites quelque chose pour Flo ! Avec son débit de mitraillette et ses tunnels de monologues, elle prend toute la place et c'est franchement saoulant. Déjà qu'on la subit sur Discordia, c'est trop dommage.…"
+      },
+      {
+        "note": 1,
+        "auteur": "hong kong 38",
+        "titre": "Dommage",
+        "texte": "Compliqué d’écouter un podcast sur le cinéma HK ou les intervenants ne connaissent pas le cinéma de Stephen chow et parlent de Shaolin Soccer un peu de haut."
+      },
+      {
+        "note": 5,
+        "auteur": "MonsieurU",
+        "titre": "La référence HK",
+        "texte": "Être sérieux sans se prendre au sérieux est une gageure. C’est le cas de Marvin Montes et de son acolyte. On apprend des trucs à chaque instant sans avoir l’impression d’être idiot.…"
+      }
+    ]
+  }
 }

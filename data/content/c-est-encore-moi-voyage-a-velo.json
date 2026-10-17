@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-08-18",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Agathe Gooddeal",
+        "titre": "WoW",
+        "texte": "Dès les premières minutes, Marie-Liesse et Julien nous offrent une écoute des plus abouties. À travers ce podcast, ils nous proposent un aperçu de leur voyage qui nous transporte directement sur un autre continent.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Margotdsch",
+        "titre": "Coup de cœur",
+        "texte": "J’adore écouter ce podcast : on a vraiment l’impression de voyager avec eux, de partager les galères et les moments magiques sur la route. Les voix sont super agréables, le récit est authentique et inspirant.…"
+      },
+      {
+        "note": 5,
+        "auteur": "MatthieuTober",
+        "titre": "Sublime voyage par procuration",
+        "texte": "Plus d'un an que j'écoute ce podcast. Son format et son concept inédit m'ont vraiment permis de me sentir transporté avec eux, à des milliers de kilomètres de chez moi. J'ai l'impression de rouler avec eux, de vivre leur histoire et de partager leur bonheur et leurs souffrances.…"
+      }
+    ]
+  }
 }

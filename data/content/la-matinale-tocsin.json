@@ -50,25 +50,29 @@
   "derniere_activite": "2026-09-08",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Apple.jd",
+        "titre": "Tocsin plus !",
+        "texte": "Enfin un peu de diversité et de réflexion , cela fait du bien ! Fidèle de France Inter depuis de nombreuses années , depuis deux ans j’ai diminué progressivement car très heurtée sur leur position pendant la crise….maintenant je ne peux plus écouter leur discours de comm.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Morganeeeed",
+        "titre": "C’est dommage que je puisse pas mettre ZÉRO !",
+        "texte": "Contenus qui manquent de rigueur journalistique et doivent être abordés avec prudence. Proximité ++ avec les idéologies d’extrême droite, discours conspirationnistes et il relaie régulièrement des narratifs pro russes. Bref, ne perds pas ton temps à écouter ça :)"
+      },
+      {
+        "note": 5,
+        "auteur": "Coquinous",
+        "titre": "Excellent !",
+        "texte": "Excellent podcast ! Enfin une matinale regroupant de nombreux invités dont a déjà plaisir à les entendre sur leur chaîne personnelle. Le rythme est bon les questions sont pertinentes et parfois les incohérences des intervenants sont savamment relevées un vrai travail journalistiq…"
+      }
     ]
   }
 }

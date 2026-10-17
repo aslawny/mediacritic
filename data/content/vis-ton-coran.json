@@ -28,25 +28,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-10-16",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Diaaz9",
+        "titre": "Apaisement",
+        "texte": "Salam alaykoum Wa rahmatullah wa barakatuh j’espère que vous allez bien par la grâce d’Allah !! Comment dire de base j’aime pas du tout les podcast vraiment mais vous m’avez touchée vraiment votre voix , votre ton votre délicatesse tout cette ensemble m’apaise et vos mots font du…"
+      },
+      {
+        "note": 5,
+        "auteur": "sunlight546",
+        "titre": "La saison 2 est une masterclass",
+        "texte": "Assalam Aleykum Oum Younous! J’écoute ton podcast depuis qlq temps maintenant, et je peux dire que c’est l’un des meilleurs que j’ai dans ma liste🥹 Qu’Allah te récompense pour ton travail, pour ta rigueur, ta douceur, et qu’Il t’augmente davantage en connaissance afin d’être enco…"
+      },
+      {
+        "note": 5,
+        "auteur": "Shasha 2004",
+        "titre": "Clair concis et puissant",
+        "texte": "Assalamou 3aleykoum je vous suis depuis vos débuts et Allahoumabarik pour le travail fourni la qualité du contenu de chacun de vos podcasts . QuALLAH sobhanah vous récompense en bien ici bas et dans l’au delà .…"
+      }
     ]
   },
   "episodes_recents": [

@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-06-28",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Benoit LEHUT",
+        "titre": "Plus de génériques que de respect pour le cinéma, et c'est génial",
+        "texte": "Si La Boîte de Chocolat était un film, ce serait un chef-d'œuvre du nanar : mal écrit, bourré d'incohérences, mais totalement culte. Entre leurs 147 génériques par épisode, leurs analyses ciné dignes d'un débat de fin de soirée et leur mauvaise foi olympique, Thomas, Thomas et Ch…"
+      },
+      {
+        "note": 1,
+        "auteur": "Roro67h",
+        "titre": "Nul",
+        "texte": "La saison 1 était bien c’est dommage maintenant c’est cassos"
+      },
+      {
+        "note": 5,
+        "auteur": "Phoenixda33",
+        "titre": "Juste une critique objective.",
+        "texte": "C’est un podcast irrévérencieux et disruptif à base d’analyse fine à pas piquets des annetons !! Alors parfois c’est vraiment trop romantique mais ce sont tous et toutes des individus déconstruits donc à même de déballer publiquement leurs sentiments. Et ça c’est beau !"
+      }
+    ]
+  }
 }

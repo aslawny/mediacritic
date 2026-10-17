@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2022-08-05",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "RedSun475",
+        "titre": "Bravo !",
+        "texte": "La liberté n’est pas un vain mot pour ce duo de choc. Sa capacité à débattre sereinement de sujets brûlants avec le concours d’invités remarquables impressionne vraiment. Merci à Lætitia et Peggy et longue vie aux Contrariantes !"
+      },
+      {
+        "note": 1,
+        "auteur": "Isa-Tunes",
+        "titre": "Ph Aghion déception trop superficiel",
+        "texte": "Je souscris à sa conviction sur l’innovation créatrice et aux bienfaits de la concurrence. Mais par simplisme il en fait l’unique dogme. Or le raisonnement ne tient plus quand il vante le trop fameux modèle allemand.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Halatoon",
+        "titre": "Excellent !",
+        "texte": "Hâte d’écouter les prochains épisodes ! On est transporté dans un monde où liberté d’expression et rationalité sont encore intactes... c’est brillant, drôle, pertinent, instructif ! Bravo et merci !"
+      }
+    ]
+  }
 }

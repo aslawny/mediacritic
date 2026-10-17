@@ -39,5 +39,31 @@
     }
   ],
   "derniere_activite": "2019-12-08",
-  "frequence_jours": 40
+  "frequence_jours": 40,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "culturefoood",
+        "titre": "Super 1er épisode",
+        "texte": "Très bonnes questions posées, ça permet vraiment de creuser le sujet de l’influence !"
+      },
+      {
+        "note": 5,
+        "auteur": "Linou - LinePbd",
+        "titre": "Excellent !",
+        "texte": "Un grand bravo. Enfin un traitement concret de ce sujet ô combien actuel 👏🏼"
+      },
+      {
+        "note": 4,
+        "auteur": "hibouxmariou",
+        "titre": "Top",
+        "texte": "C’est très cool, merci pour ce premier podcast ! Juste petit problème de son .... la qualité est pas génial :("
+      }
+    ]
+  }
 }

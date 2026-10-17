@@ -26,25 +26,29 @@
   "addedAt": "2026-05-23",
   "updatedAt": "2026-10-16",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "la chiennne",
+        "titre": "merci",
+        "texte": "salut laura et alice, je suis en train de me faire un tunnel de vos podcast. vous etes les copines de mon ennui. <3 merci pour vos blagues, vos anecdotes et vos pets mais aussi vos idées vos débats et vos rots. vous etes un bonbon dans ce monde au gout chiasse.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Zerzoumia",
+        "titre": "I love you guys",
+        "texte": "J’ai commencé à vous écouter suite au Shootout, que Chloé et Louise ont fait sur leur podcast. Votre podcast, est la seule chose en ce moment qui arrive à me calmer quand je stresse toute seule dans ma chambre parce que je suis persuadée que je suis en train de me faire cambriole…"
+      },
+      {
+        "note": 5,
+        "auteur": "petpet121",
+        "titre": "Merci Lauralice",
+        "texte": "Bonjrou les girls Comment ne pas apprécier ce possecasse ? C’est léger ( comme Alice après avoir digéré ses deux têtes d’ail ), avec des sujets abordés de manière fine et délicate.…"
+      }
     ]
   },
   "episodes_recents": [

@@ -50,25 +50,29 @@
   "derniere_activite": "2026-09-08",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-17",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Chartholder",
+        "titre": "Reconnaissant",
+        "texte": "Bonjour Rachel, je vous ai récemment découvert sur Instagram et après avoir regardé quelques vidéos j’ai voulu en savoir plus via vos podcasts et je ne suis pas déçu , au contraire… Vous êtes très inspirantes et vos conseils sur l’investissement sont très précieux.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Meniie972",
+        "titre": "Inspirante !",
+        "texte": "Bonjour Rachelle ! Je suis complètement fan de ton podcast j’ai commencé par les plus anciens début janvier et j’ai déjà tout écouté . C’est passé si vite ! Je te trouve très inspirante. Je pense qu’on a beaucoup de vision en commun. Continue ton partage. Bonne continuation"
+      },
+      {
+        "note": 5,
+        "auteur": "Gaelle_P",
+        "titre": "Podcast Pépite !",
+        "texte": "L’un des meilleurs podcast découvert récemment. Rachel partage extrêmement bien ses connaissances, son expérience et communique une énergie positive. Parfait quand on a besoin d’un boost de motivation, on a envie de passer à l’action immédiatement!"
+      }
     ]
   }
 }

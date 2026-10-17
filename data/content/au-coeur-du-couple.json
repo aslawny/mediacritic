@@ -53,25 +53,29 @@
   "derniere_activite": "2026-08-12",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "NiLiSaSa",
+        "titre": "Agréable, pertinent et bienveillant",
+        "texte": "Bonjour, Je suis Nicolas, j’ai 44 ans. J’ai eu une vie « d’adulte » avec plusieurs relations assez longues (4 ans, 6 ans, 3 ans) et depuis 11ans avec la mère de mes enfants que j’espère sera la femme et complice pour encore longtemps.…"
+      },
+      {
+        "note": 1,
+        "auteur": "jakijoa",
+        "titre": "Bug ?? Bruit de fond horrible ! Dommage",
+        "texte": "1er Épisode que j’écoute : Marine violence 28/06/22 Il y a un bruit ( des cigales ?) horrible ! Et vers la fin, le son résonne comme dans une pièce vide Le son est à soigner autant que le fond du podcast c’est hyper important J’espère ainsi vous aider Ça va me faire arrêter de su…"
+      },
+      {
+        "note": 5,
+        "auteur": "CassandraJu",
+        "titre": "À écouter partout ❤️",
+        "texte": "Ce podcast est d’une qualité tellement rafraîchissante. Je crois avoir écouté presque tous les épisodes avec délectation : les sujets abordés, le choix des intervenants pour les témoignages de tranche de vie…etc. Tout est superbement conjugué ☺️.…"
+      }
     ]
   }
 }

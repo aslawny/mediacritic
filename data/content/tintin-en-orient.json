@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-17",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "O p D o",
+        "titre": "C’est trop bien j’adore ça m’endors",
+        "texte": "❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ ❤️❤️❤️❤…"
+      },
+      {
+        "note": 5,
+        "auteur": "Nonno 4000",
+        "titre": "Bien",
+        "texte": "En realidad, vuestros episodios de tintín son bastante guays y chulos"
+      },
+      {
+        "note": 5,
+        "auteur": "uniquement uniquement",
+        "titre": "Incroyable",
+        "texte": "Incroyable 🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩😁🤩🤩😁🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍🤩"
+      }
+    ]
+  }
 }

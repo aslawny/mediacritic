@@ -27,25 +27,29 @@
   "addedAt": "2026-05-17",
   "updatedAt": "2026-10-16",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-17",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Diatoufatou",
+        "titre": "Olala Wim wenders",
+        "texte": "Wim tu es tres grand cineaste mais tu n as rien compris au japon que tu divinise - souviens toi du gars qui repete sans arret « tu n as rien vu a Hiroshima »…."
+      },
+      {
+        "note": 1,
+        "auteur": "delc000",
+        "titre": "Une remarque qui enervera toujours les meme",
+        "texte": "En tant que jeune cineaste femme je trouve très discutable l’absence de femmes dans les épisodes en tant que réalisatrices. les modèles sont importants / les femmes aussi ont une carriere / est-ce que sur france culture la question de la culture patriarcale est vraiment posée dan…"
+      },
+      {
+        "note": 5,
+        "auteur": "Theroigne",
+        "titre": "Trop court",
+        "texte": "Antoine Guillot obligé de parler à toute allure, mais qu’est-ce que c’est bien sinon !!"
+      }
     ]
   }
 }

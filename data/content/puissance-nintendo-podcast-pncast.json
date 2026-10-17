@@ -28,25 +28,29 @@
   "addedAt": "2026-05-17",
   "updatedAt": "2026-10-16",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-17",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Hujyo",
+        "titre": "Un bon podcast pour les amoureux de Nintendo",
+        "texte": "Un podcast toujours interessant et objectif sur l’actualité de Nintendo. Malgré la quarantaine et mes problématiques de Papagamers je prends toujours plaisir a écouter mes proches comparses (oui on est voisins messieurs ). Le Pn cast est le seul podcast JV que j’écoute encore.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Loup21",
+        "titre": "Appel à Cramer Matignon",
+        "texte": "Il était pas mal ce podcast jusqu’à ce dérapage dans le dernier épisode, un appel sérieux à cramer Matignon et l’Élysée par une chroniqueuse"
+      },
+      {
+        "note": 5,
+        "auteur": "Zelynki",
+        "titre": "GÉNIAL ! ^^",
+        "texte": "C'est juste le meilleur podcast Nintendo français !! Une super équipe très complice avec une bonne dose de bonne humeur !! Je l'écoute depuis 2 ans et je le conseille à tous les fans de Nintendo ! Alors foncez l'écouter et merci à toute l'équipe du PNCast !"
+      }
     ]
   }
 }

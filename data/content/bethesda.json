@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2024-05-14",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "My-Lê",
+        "titre": "Merci aussi !",
+        "texte": "Je suis une fidèle auditrice de Zeteo et je viens de découvrir Bethesda. Merci pour ces témoins qui nous dépassent et nous ressemblent en même temps"
+      },
+      {
+        "note": 5,
+        "auteur": "pryscille",
+        "titre": "Magnifique ✨",
+        "texte": "Merci d’avoir créé ce podcast. Ces témoignages donnent beaucoup de force, de courage et surtout d’espérance. Merci beaucoup"
+      },
+      {
+        "note": 5,
+        "auteur": "Christophe 19",
+        "titre": "Authentique",
+        "texte": "Merci pour ces témoignages authentiques, sans filtres, avec à chaque fois de quoi espérer. Bravo ! Continuez"
+      }
+    ]
+  }
 }

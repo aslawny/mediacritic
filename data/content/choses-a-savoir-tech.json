@@ -50,25 +50,29 @@
   "derniere_activite": "2026-08-27",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Alexandre (j'adore ce podcast)",
+        "titre": "J’adore 🤩",
+        "texte": "Bon il y aura peut-être des fautes dans mon message mais bon je suis en 5ème J’adore ce podcast et moi enfant qui aime la TECH🦾🎮🎧 ce podcast est super je l’écoute tout les soirs et chaque jour j’attends avec impatience les nouveaux épisodes bon travail 👍continue 😋🥰😉"
+      },
+      {
+        "note": 3,
+        "auteur": "Concorde_3.6.3",
+        "titre": "Amazon",
+        "texte": "Ce podcast est-il sponsorisé par Amazon? Quasiment 1 épisode sur 2 tourne autour d’Amazon…"
+      },
+      {
+        "note": 5,
+        "auteur": "pêcheur 07",
+        "titre": "Super potcast.",
+        "texte": "C’est un super potcast, très intéressant et très simple à comprendre mais je trouve que le présentateur parle parfois un peu vite. A part ça tout est parfait. Continuez comme ça."
+      }
     ]
   }
 }

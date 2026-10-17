@@ -26,25 +26,29 @@
   ],
   "updatedAt": "2026-10-16",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Le_Krang",
+        "titre": "The Truth",
+        "texte": "Urbain n’avait qu’un objectif : convaincre Thibault. Thibault, son ami. Un être aussi sulfureux qu’attachant, solidement ancré dans son côté obscur. Tout commence par une discussion anodine autour d’un film.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Arthur93500",
+        "titre": "Mouais",
+        "texte": "Thibault se croit cool, edgy et drôle, mais n’est aucun des trois. Meme Urbain ne peut pas compenser, c’est dire…"
+      },
+      {
+        "note": 5,
+        "auteur": "Thi3u",
+        "titre": "Fan du Urbain Podcast Universe",
+        "texte": "Le plus extrême de tous les podcasts d’Urbain, et donc peut être le plus drôle. À force d’être le plus scandaleux des animateurs de tous ses autres podcasts, Urbain a décidé de s’associer à L’Antechrist afin de repousser les limites du journalisme cinéma dans le format podcast.…"
+      }
     ]
   },
   "episodes_recents": [

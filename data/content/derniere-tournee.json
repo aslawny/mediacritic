@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-18",
-  "frequence_jours": 4
+  "frequence_jours": 4,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "LoulouGR",
+        "titre": "Merci Tut’pro !",
+        "texte": "J’ai découvert le podcast sur l’épisode de Vollmun ! Merci beaucoup ! Des archives sorties, j’ai pu découvrir son tuto pour ouvrir des Go pro ( et ça me sert grave 😂😂) Super podcast !"
+      },
+      {
+        "note": 5,
+        "auteur": "LaMouche21bzzz",
+        "titre": "Le fou rire de ma semaine 🤣🫶",
+        "texte": "Trop court, une dernière tournée c’est bien mais le mieux c’est quand on ne les compte pas !! Continuez comme ça, la suite annonce du lourd 💪🏼😘"
+      },
+      {
+        "note": 5,
+        "auteur": "Dany moulin",
+        "titre": "Bel découverte !",
+        "texte": "Je viens de tomber sur ce podcast en étant coincé sur un télésiège ( ça pourrait être une de vos anecdotes !) Bravo, j’adore !"
+      }
+    ]
+  }
 }

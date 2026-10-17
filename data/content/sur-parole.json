@@ -27,25 +27,29 @@
   "addedAt": "2026-05-23",
   "updatedAt": "2026-10-16",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Émilie Mi",
+        "titre": "Super concept",
+        "texte": "J’ai adoré ! Le concept est génial, question plus profondes, questions légères j’ai adoré l’épisode avec Adrien Menielle (j’adore Adrien Menielle) mais j’ai hâte de voir se concept avec d’autres, très très chouette !"
+      },
+      {
+        "note": 1,
+        "auteur": "Je vous adore 🏇🏼",
+        "titre": "C’est nul 👎",
+        "texte": "Mais seu qui marque des avis vous êtes des enfants ou des adultes 👩 ou🧍🏼‍♀️"
+      },
+      {
+        "note": 5,
+        "auteur": "PujolP",
+        "titre": "Magnifique",
+        "texte": "Un mélange du Floodcast et We Love TFTC, sensationnelle, splendide et plein de rebondissement loufoque avec des cabrioles. Cordialement Un gars qui écoute"
+      }
     ]
   },
   "episodes_recents": [

@@ -27,25 +27,29 @@
   ],
   "updatedAt": "2026-10-16",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-17",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tmac293",
+        "titre": "Tout le monde devrait l’écouter...",
+        "texte": "Ça fait un petit moment que j’écoute ce podcast et à plusieurs reprises j’ai voulu laisser un commentaire sans prendre le temps de le faire...…"
+      },
+      {
+        "note": 2,
+        "auteur": "Dadoa24",
+        "titre": "Pourquoi forcément la fin ?",
+        "texte": "J’exprime ma déception après l’annonce de la fin de Relife, le seul podcast sur son créneau, qui a ses auditeurs fidèles. Je ne comprends pas qu’il s’arrête. Je comprends que Guillaume et Mat s’arrêtent, mais pourquoi tuer ce podcast avec …"
+      },
+      {
+        "note": 5,
+        "auteur": "broutelune",
+        "titre": "Bonne humeur et positive attitude",
+        "texte": "Je renouvelle mon commentaire précédent, votre bonne humeur et positive attitude est communicative et c’est super agréable. Ça me motive à bien commencer la semaine ! Je réagis au dernier épisode, sur la gestion du temps.…"
+      }
     ]
   },
   "episodes_recents": [

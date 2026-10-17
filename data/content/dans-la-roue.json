@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2023-09-14",
-  "frequence_jours": 35
+  "frequence_jours": 35,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "cyrilbidon",
+        "titre": "Super découverte !!!",
+        "texte": "Des histoires de Vie inspirantes, pour les fans de vélo, de voyages ou simplement pour découvrir des invités au parcours magnifique. A découvrir absolument ! Podcast très bien animé et passionnant."
+      },
+      {
+        "note": 5,
+        "auteur": "ddesmetbob",
+        "titre": "Première écoute et je suis conquis!",
+        "texte": "Épisode avec Mathieu Chollet qui est un ravissement et une érudition sur le design cycliste. Un peu élitiste mais ça me convient royalement 👍"
+      },
+      {
+        "note": 5,
+        "auteur": "MatthieuTober",
+        "titre": "Partage de passion",
+        "texte": "Un grand bravo pour ce podcast. Un partage d'aventures, de passion pour le vélo. Des discussions simples mais très inspirantes. Bravo."
+      }
+    ]
+  }
 }

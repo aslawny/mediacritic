@@ -52,25 +52,23 @@
   "derniere_activite": "2025-02-19",
   "frequence_jours": 2,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-17",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "CiaraLakhani",
+        "titre": "J’apprends le français avec ton podcast très intéressant",
+        "texte": "Bravo et merci ! Toujours super intéressant ! Je suis New Yorkaise et j’apprends le français. Avec les transcriptions et avec le format court c’est parfait pour moi de progresser en français."
+      },
+      {
+        "note": 5,
+        "auteur": "GénialiSim",
+        "titre": "Super format",
+        "texte": "Toujours un plaisir de se cultiver par tranches de 2 minutes quotidiennes. La culture des petits pas !"
+      }
     ]
   }
 }

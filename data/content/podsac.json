@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-04-04",
-  "frequence_jours": 123
+  "frequence_jours": 123,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "olimado0212",
+        "titre": "Du grand art",
+        "texte": "J’attendais avec impatience le troisième podcast consacré au slasher et l’attente valait la peine. Je suis déjà nostalgique que ce soit fini. Pour vous donner envie de réhabiliter ce bon vieux Michel Meyer (ah cette VF), je vous conseille l’excellent livre Taking Shape qui retrac…"
+      },
+      {
+        "note": 1,
+        "auteur": "dallas58",
+        "titre": "episode arme fatale catastrophique !!",
+        "texte": "Mais vous regardez le film avant d'en parler ??? car penser que la fille de Murtaug sort avec Joshua !! Murtaugh recoit un appel disant qu'un cadavre a été retrouvé pres de chez lui, il donne la description du cavalier de sa fille et c la qu'il comprend qu'elle a été enlevée, reg…"
+      },
+      {
+        "note": 5,
+        "auteur": "Cliffhangertwit",
+        "titre": "Podsac: Le nec plus ultra!",
+        "texte": "Podsac ce n'est pas qu'un podcast de plus, c'est une émission faite par trois passionnés déjantés, qui connaissent le cinéma sur le bout des ongles et qui savent faire leur émission en s'éclatant et en nous éclatant! Car leur bonhomie, leur gentillesse, leur humour ET leur savoir…"
+      }
+    ]
+  }
 }

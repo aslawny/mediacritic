@@ -53,25 +53,29 @@
   "derniere_activite": "2026-01-27",
   "frequence_jours": 21,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Jade33400",
+        "titre": "merci merci et merci",
+        "texte": "étant une jeune femme lesbienne de 20 ans écouter des personnes queers plus âgées qui veulent et ont une vie de famille me donne beaucoup d'espoir. je rêve d'une belle rencontre et que de cet amour arrive un enfant.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Piléa",
+        "titre": "Beaux témoignages",
+        "texte": "Expériences intéressantes. Sujets d’actualité. Le rythme d’interview me semble un peu froid, trop question réponse, en mode interview journalistique. J’aurai aimé plus d’empathie, de fluidité, comme un peu une discussion."
+      },
+      {
+        "note": 5,
+        "auteur": "lsiroen",
+        "titre": "Juste parfait !",
+        "texte": "Le podcast Les enfants vont bien est le tout premier podcast que j’ai écouté, c’est celui qui m’a fait découvrir et aimer cet univers. Constance nous fait découvrir avec bienveillance les parcours de vie extraordinaires qui entourent la conception de ces familles.…"
+      }
     ]
   }
 }

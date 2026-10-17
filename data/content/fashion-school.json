@@ -51,5 +51,25 @@
     }
   ],
   "derniere_activite": "2026-09-03",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Inkedpap",
+        "titre": "Grave bien !!",
+        "texte": "J’aime beaucoup votre podcast mais l’invitée pour l’épisode Galliano chez Zara est d’une condescendance! Pourtant ça partait bien, mais bref… ça m’a tendu En tout cas, merci pour vos contenus de qualité, et bravo pour les vrais questionnements que vous soulevez autour de la mode…"
+      },
+      {
+        "note": 5,
+        "auteur": "naïgkb",
+        "titre": "Merciii",
+        "texte": "C’est trop intéressant, tu mérites plus de visibilité ! Ce podcast permet d’ouvrir concrètement le monde la mode aux novices comme moi ! You make my brain bigger thanks ❤️‍🔥❤️‍🔥❤️‍🔥"
+      }
+    ]
+  }
 }

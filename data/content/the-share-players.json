@@ -26,25 +26,29 @@
   ],
   "updatedAt": "2026-10-16",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-17",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Darkartemis67",
+        "titre": "Je vous adore",
+        "texte": "Merci Yannick Roman, super contenu, long et régulier depuis longtemps. Je vous suis depuis la sortie de la switch et j’ai l’impression de vous connaitre par coeur ! Les podcast sont très en retard sur les lives, c’est frustrants et parfois décalé par rapport à l’actualité...…"
+      },
+      {
+        "note": 1,
+        "auteur": "supermigou",
+        "titre": "Créateur insupportable, contenu souvent mediocre",
+        "texte": "qualité très discutable de certains intervenants. Créateur tout sauf sérieux/pro"
+      },
+      {
+        "note": 5,
+        "auteur": "jakoby23",
+        "titre": "Une référence",
+        "texte": "Excellent podcast de passionnés du jeu vidéo et de bien d’autres sujets. Yannick, le co-créateur de la chaîne est une star. J’apprécie la plupart des débats et je suis estomaqué par la qualité de celui que je viens d’écouter (du 19 septembre 2022, avec la partie leak sur GTA6).…"
+      }
     ]
   },
   "episodes_recents": [

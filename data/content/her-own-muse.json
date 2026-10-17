@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-02-04",
-  "frequence_jours": 15
+  "frequence_jours": 15,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Salma Galmassi",
+        "titre": "J’adore, on peut être amies ? Mdrr",
+        "texte": "C’était un magnifique podcast authentique, et pour avoir connu Hafsa pendant sa période à Caen ( cf nos années EMF Caen haha ) félicitations pour ton parcours inspirant tu m’inspires toujours autant sista 🫶🏻 Et Dounia magnifique découverte, je comprends pas comment je t’ai pas co…"
+      },
+      {
+        "note": 5,
+        "auteur": "Nastou33",
+        "titre": "Podcast au top",
+        "texte": "J’ai écouté le podcast avec Sokona et quelles femmes (je parle de Dounia ainsi que de Sokona). Vous m’inspirez beaucoup. Vous me poussez à sortir de ma zone de confort et me lancer aussi dans l’entreprenariat. Bravo"
+      },
+      {
+        "note": 5,
+        "auteur": "Halimhsbp",
+        "titre": "Masterclass",
+        "texte": "Des podcast de qualité avec des invitées au parcours incroyable et inspirant. Merci beaucoup car on en tire énormément de belles leçons 💯"
+      }
+    ]
+  }
 }

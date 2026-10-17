@@ -23,5 +23,31 @@
     "musique"
   ],
   "addedAt": "2026-09-02",
-  "updatedAt": "2026-10-16"
+  "updatedAt": "2026-10-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "sylody",
+        "titre": "Excellente émission",
+        "texte": "Super émission, très casual et qui permet de découvrir ou redécouvrir des nouveaux talents"
+      },
+      {
+        "note": 2,
+        "auteur": "Roger Millet",
+        "titre": "Humeur",
+        "texte": "C'est curieux chez Laurent Goumarre cette envie de finir les phrases de ses invités Laurent Goumarre, je vous demande vous arrêter Tais-toi Laurent ou la prochaine chose qui sortira de ta bouche, ce seront tes dents.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Alexis Revlor",
+        "titre": "Animateur vedette",
+        "texte": "Émission intéressante qui brosse un panorama complet de la (chan)son française. Quel dommage que Laurent Goumarre ne puisse pas s’empêcher de couper la parole à ses invités pour apporter des prévisions qu’ils étaient sur le point de donner eux-mêmes.…"
+      }
+    ]
+  }
 }

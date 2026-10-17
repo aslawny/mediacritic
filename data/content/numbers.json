@@ -43,25 +43,29 @@
   "derniere_activite": "2026-08-25",
   "frequence_jours": 52,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-17",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 4,
+        "auteur": "Romain@1986",
+        "titre": "Bon début",
+        "texte": "Bonjour hâte de découvrir la suite c’était très bien avec Orelsan!! J’aimerais bien avec Sopezno"
+      },
+      {
+        "note": 3,
+        "auteur": "Opheyyy",
+        "titre": "Pas de chiffres sur le podcast ..",
+        "texte": "Intéressant sauf que les chiffres ne sont pas indiqués pour ceux qui écoutent le podcast…. Et donc ne voient pas la vidéo"
+      },
+      {
+        "note": 3,
+        "auteur": "Sweetday",
+        "titre": "Sympa mais pensez aux auditeurs !",
+        "texte": "Les chiffres présentés à la personnalité ne sont pas annoncés par la présentatrice mais seulement montrés… si on écoute le podcast et qu’on ne regarde pas la vidéo, on n’a pas l’info, ce qui enlève pas mal d’intérêt au principe …"
+      }
     ]
   }
 }

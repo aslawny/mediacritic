@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-05",
-  "frequence_jours": 4
+  "frequence_jours": 4,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "apryllea",
+        "titre": "En marchant 🙌",
+        "texte": "Pas de conseil, une structure, une ligne conductrice qui te guide vers tes propres réponses À écouter sans modération"
+      },
+      {
+        "note": 1,
+        "auteur": "Lilio67",
+        "titre": "Bof",
+        "texte": "pourquoi y a-t-il de la pub en plein podcast ?? AI : à force se répète - trop de pub"
+      },
+      {
+        "note": 1,
+        "auteur": "Philosophe365",
+        "titre": "Stoïcisme industriel sans âme ni rigueur généré avec IA qui surf sur la mode du stoïcisme",
+        "texte": "Contenu stoïcien de faible qualité, produit en masse avec une assistance artificielle massive, sans véritable investissement ni contrôle sérieux du fond."
+      }
+    ]
+  }
 }

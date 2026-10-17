@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-08-27",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Katia_Mos",
+        "titre": "Excellent!!",
+        "texte": "Vous apportez des éclairages et des réponses concrètes a des questions très pratiques que l’on se pose. J’écoute avec mon ado et cela nous permet d’avoir des discussions intéressantes sur des sujets qui le concerne, ce qui est un vrai challenge à cet âge la! Merci et hâte d’en éc…"
+      },
+      {
+        "note": 5,
+        "auteur": "HarmoMus80",
+        "titre": "Très instructif en peu de temps",
+        "texte": "Podcast très intéressant pour les parents d’ados pressés, beaucoup de conseils en 15 minutes avec des invités toujours intéressants. Je recommande et on peut même écouter avec son ado!"
+      },
+      {
+        "note": 5,
+        "auteur": "Ludo94230",
+        "titre": "Très intéressant pour les parents",
+        "texte": "J’ai écouté plusieurs épisodes et c’est très intéressant. On peut même écouter des extraits avec son ado, ce qui peut aider à faire passer des messages ! Bravo à toute l’équipe !"
+      }
+    ]
+  }
 }

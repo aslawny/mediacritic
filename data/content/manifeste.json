@@ -51,25 +51,29 @@
   "derniere_activite": "2026-09-10",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-17",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Heloise_lcss",
+        "titre": "Juste woah",
+        "texte": "Je te suis sur Instagram pour ton contenu sur la Corée (d’ailleurs lors de mon dernier séjour en octobre je pense t’avoir croisé dans une station de métro à Séoul) et je n’avais pas connaissance de ton podcast.…"
+      },
+      {
+        "note": 5,
+        "auteur": "hedin🙋🏻‍♀️",
+        "titre": "J’ai pas les mots (si)",
+        "texte": "J’espère sérieusement que tu tomberas sur ce comm mais c’est littéralement mon podcast préféré. On peut penser que j’exagère ou quoi mais je suis ce podcast depuis sa création sans en rater aucun (et idem pour les vidéos YouTube au passage).…"
+      },
+      {
+        "note": 5,
+        "auteur": "Bebelouna",
+        "titre": "Super podcast!",
+        "texte": "C’était il y’a peut être 2 mois , je n’avais jamais écouter de podcast, j’étais au travail et l’idée m’a pris d écouter un podcast alors je me suis dit qu’il m’en fallait un sur la loi d’attraction ! Et j’ai trouvé …"
+      }
     ]
   }
 }

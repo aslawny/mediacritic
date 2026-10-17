@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-01-05",
-  "frequence_jours": 15
+  "frequence_jours": 15,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "?hygh",
+        "titre": "Je ne sais pas",
+        "texte": "J’ai un chat mais il est tresssssss flemmard donc je n’arrive pas à me faire bouger.Un conseil ?"
+      },
+      {
+        "note": 1,
+        "auteur": "Veggy_Cat",
+        "titre": "Le Mystère 🐈",
+        "texte": "J’adore ce podcast. Grâce à ça, je comprend à présent les deux tigrous de canapé. Merci. ☺️"
+      },
+      {
+        "note": 4,
+        "auteur": "♤Sinistra♤",
+        "titre": "🤩🤩 mais…",
+        "texte": "C’est un super podcast qui peut apprendre plein de choses sur les chats. Mais le petit bémol c’est la voix de merlin : elle fais beaucoup, beaucoup trop artificielle. C’est le seul bémol sinon faut continuer comme ça!"
+      }
+    ]
+  }
 }

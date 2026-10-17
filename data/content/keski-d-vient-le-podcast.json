@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-04-05",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Podcastics Community",
+        "titre": "Une bien belle brochette d'invités",
+        "texte": "Du cinéma parfois très bon et parfois très mauvais, mais toujours examiné et débattu dans la bonne humeur par cette équipe de passionnés. Pas de routine pour autant grâce aux collaborations ponctuelles de grandes voix du paysage podcastique francophone, mais aussi avec de temps e…"
+      },
+      {
+        "note": 5,
+        "auteur": "olimado0212",
+        "titre": "Ça fait du bien !",
+        "texte": "Ça faisait longtemps que je n’avais plus déniché de pépite podcastique et ça m’a fait un bien fou de tomber sur vous! Le traitement, le ton et les sujets : tout me plaît et j’ai souvent envie d’intervenir dans vos échanges! En tant que fan numéro un de Mickael Myers, j’attends av…"
+      },
+      {
+        "note": 5,
+        "auteur": "Grades iop",
+        "titre": "A bientôt",
+        "texte": "Triste nouvelle que l’arrêt du podcast j’espère sincèrement que tu pourras proposer unNouveau projet. j’aime bien ton style n’hésite pas à donner de tes nouvelles au travers des podcasts de tes invités. Good Kiss"
+      }
+    ]
+  }
 }

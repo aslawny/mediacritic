@@ -26,25 +26,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-10-16",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-17",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "sofia kalo",
+        "titre": "J’adoreeeeeee",
+        "texte": "Un podcats incroyable, varié avec des histoires passionnantes ! National géographie version intimiste ! Longue vie à ce podcast ! Merci Anne-Fleur ! Sofia"
+      },
+      {
+        "note": 1,
+        "auteur": "Jsujdkdbdk",
+        "titre": "Produits à la chaine et sans âme",
+        "texte": "Des résumés de fiches Wikipédia lus par des comédiens de voix-off sans âme pour des contenus audio produits à la chaine dans le but de nous vendre des pubs Leroy Merlin et des abonnements payants à leur future plateforme.…"
+      },
+      {
+        "note": 5,
+        "auteur": "HD Design",
+        "titre": "Ma dose quotidienne",
+        "texte": "Ma dose de tous les jours, en voiture, le temps passe tellement plus vite avec vos sujets variés, j’adore, continuez comme ça"
+      }
     ]
   },
   "episodes_recents": [

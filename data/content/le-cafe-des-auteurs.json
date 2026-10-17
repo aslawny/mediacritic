@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-08-31",
-  "frequence_jours": 8
+  "frequence_jours": 8,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Kistinen",
+        "titre": "Agréable et utile",
+        "texte": "Adopté! Un coaching motivant pour m’aider à me remettre à écrire, et une aide sur la durée. Le premier avantage pour moi du format podcast audio par rapport aux vidéos c’est de ne pas me disperser.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Kaelisia974",
+        "titre": "Répétition « en boucle 7 fois » agaçante",
+        "texte": "J’ai écouté pas mal des podcasts, j’aime beaucoup le contenu, mais le plus GROS bémol, c’est le podcast qui recommence plus sept fois à chaque fois. Est-ce vraiment nécessaire de faire ça ? On se perd à force.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Koizora Wong",
+        "titre": "Merci pour tous ses conseils !!!",
+        "texte": "Le meilleurs podcasts pour trouver des conseils d’écriture. J’ai toujours l’impression qu’il s’adresse directement à moi au moment au j’en ai besoin !!! ❤️ Ces conseils sont toujours pertinents et facile à appliquer car ils sont expliqués simplement.…"
+      }
+    ]
+  }
 }

@@ -50,25 +50,29 @@
   "derniere_activite": "2026-08-05",
   "frequence_jours": 176,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-17",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Bellatagada",
+        "titre": "Amaziiiing",
+        "texte": "Le meilleur de sa generation , un talent just amazing , un dj hors du commun , les meilleurs podcast un kiff pour mes oreilles et nos soirees sans parler du club sensation 2013 a se procurer tres tres vite …"
+      },
+      {
+        "note": 5,
+        "auteur": "Papy-Touns",
+        "titre": "The Best DJ = DJ DiDiR",
+        "texte": "Si le métier de Deejay était à comparer au métier de constructeur automobile alors DiDiR serait BUGATTI et sa meilleure oeuvre la Bugatti VEYRON !!! Je suis envouté par le son du moteur de la Bugatti Veyron comme je suis envouté par les mix déchainés de DiDiR..."
+      },
+      {
+        "note": 5,
+        "auteur": "farid9.2",
+        "titre": "Dj didiww",
+        "texte": "C du lourd comme a son habitude tres professionnel du bon son de qualiter a gogo podcast hip hop tres tres lourd des heure de mix et tous sa gratuit au top 🔉😻🎶 by Halikarnas Chicha"
+      }
     ]
   }
 }

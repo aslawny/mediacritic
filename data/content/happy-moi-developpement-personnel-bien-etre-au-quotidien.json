@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-04-26",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "matt💯",
+        "titre": "Happy you",
+        "texte": "J’ai adoré cette Happy, moi le 11 septembre est une date importante donc j’ai commandé le livre et en fait je m’aperçois de l’importance des rituels et des catégories de rituel.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Cultivatrice de liens",
+        "titre": "Juste pour moi !",
+        "texte": "J’adore ce petit moment pour moi…. En tout cas, ce moment m’aide à mieux me connaître et aussi découvrir de nouvelles perspectives pour avancer dans la vie….…"
+      },
+      {
+        "note": 5,
+        "auteur": "ChouetteVie",
+        "titre": "Du bonheur",
+        "texte": "Quel bonheur de te retrouver avec ta bienveillance, ta douceur et ton invitation à sourire ! Je m’abonne à ce doux moment quotidien, avec beaucoup de plaisir. Happy-Nous de te connaître Gaël. Merci mille fois pour tout cela !"
+      }
+    ]
+  }
 }

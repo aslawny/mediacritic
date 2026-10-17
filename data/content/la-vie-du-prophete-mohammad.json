@@ -35,25 +35,29 @@
   ],
   "derniere_activite": "2025-03-21",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "S.TDN",
+        "titre": "Dieu merci une des meilleurs chose que j’ai découvert dans ma vie !!",
+        "texte": "As salam aleykhoum, baraka Allah ou fik à toute l’équipe pour le travail fourni, l’imam, professeur qui raconte ceux qui publie toute l’équipe.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Fatou. K",
+        "titre": "Merveilleuse découverte ce podcast",
+        "texte": "Ayant découvert ce podcast récemment, je suis déjà à l’épisode 52. C’est magnifiquement raconté, avec éloquence et un vrai talent pour maintenir le suspense à la fin de chaque épisode, ce qui donne envie d’écouter la suite sans attendre. Allahouma Barik.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Cheikou sall",
+        "titre": "Une série exceptionnelle, j'espère tellement son retour !",
+        "texte": "bonjour, je mets 5 étoiles pour saluer l’immense qualité du podcast « La vie du Prophète Mohammad ﷺ ». J’en étais arrivé au cours 42 sur les 300 épisodes, et je trouvais ce contenu passionnant, extrêmement enrichissant et respectueux.…"
+      }
     ]
   }
 }

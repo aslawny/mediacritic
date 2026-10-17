@@ -1,0 +1,53 @@
+{
+  "slug": "backstage",
+  "title": "Backstage",
+  "author": "Radio Classique",
+  "type": "podcast",
+  "categories": [
+    "musique",
+    "critique"
+  ],
+  "description": "Backstage, le secret des œuvres est une plongée dans les coulisses de la création des grands classiques. Comment Carmen de Bizet a d’abord été un fiasco avant d’être l’opéra le plus joué au monde ? Comment la dépression de Tchaïkovski l’a amené à composer son immense concerto pour violon qui fascine tant les virtuoses ? Pourquoi Gounod a mis 17 ans à composer son Faust ? Voilà autant d’histoires méconnues et captivantes qui se cachent derrière la création d’un grand chef-d’œuvre. Un nouvel épisode chaque mercredi. Pour ne rater aucun épisode de Backstage, n'hésitez pas à vous abonner.",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/83/26/aa/8326aa28-bb9f-b1cd-d555-1fc7cc51ea5b/mza_14236531622210216217.jpg/170x170bb.png",
+  "language": "fr",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/backstage/id1584653335?uo=2",
+      "trackId": 1584653335,
+      "rating": 5.0,
+      "ratingCount": 33,
+      "episodeCount": null
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "musique",
+    "critique"
+  ],
+  "addedAt": "2026-10-17",
+  "updatedAt": "2026-10-17",
+  "episodes_recents": [
+    {
+      "titre": "Les Troyens de Berlioz, pourquoi l’opéra a-t-il failli ne jamais être créé ?",
+      "date": "2024-08-24"
+    },
+    {
+      "titre": "Que se cache-t-il derrière les quatre premières notes de la Symphonie n°5 de Beethoven ?",
+      "date": "2024-08-24"
+    },
+    {
+      "titre": "Faust, pourquoi a-t-il fallu 17 ans à Gounod pour l’écrire ?",
+      "date": "2024-08-17"
+    },
+    {
+      "titre": "Pourquoi Tchaïkovski a-t-il changé, au dernier moment, la dédicace de son Concerto pour violon ?",
+      "date": "2024-08-17"
+    },
+    {
+      "titre": "Quel message intime cache le Concerto pour violoncelle de Dvořák ?",
+      "date": "2024-08-10"
+    }
+  ],
+  "derniere_activite": "2024-08-24",
+  "frequence_jours": 0
+}

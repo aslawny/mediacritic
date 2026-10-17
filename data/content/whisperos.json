@@ -27,25 +27,29 @@
   "addedAt": "2026-09-02",
   "updatedAt": "2026-10-16",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Formule1math",
+        "titre": "Cette équipe de choc 💜",
+        "texte": "Cela fait plusieurs mois que j'ai découvert votre podcast mais je n'avais pas encore pris le temps de laisser un avis, honte à moi! Contrairement à ce que vous croyez, ce n'est presque pas assez long, ne vous inquiétez pas! Vous avez trois points fort: on sent que vous aimez votr…"
+      },
+      {
+        "note": 1,
+        "auteur": "Olgkhvjcgcgc",
+        "titre": "Décevant",
+        "texte": "Une discussion entre potes dont certains font croire qu'ils ont lu les livres ( sûrement le dernier tome...)"
+      },
+      {
+        "note": 5,
+        "auteur": "Arno Z Martel",
+        "titre": "Continuez",
+        "texte": "Salut je viens d’entendre de le dernier épisode: Ça serait bien de continuer ! Julie Greyjoy est 3000 x plus sympathique qu Elo Tully ( pas compliqué) Eric Baratheon a encore craqué son slip à quelques reprises Mais étant donné que c’est devenu plus ponctuel ça passe et on l aime…"
+      }
     ]
   },
   "episodes_recents": [

@@ -50,5 +50,25 @@
     }
   ],
   "derniere_activite": "2026-07-11",
-  "frequence_jours": 27
+  "frequence_jours": 27,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Yed_11",
+        "titre": "Top pour explorer le Business du web3.",
+        "texte": "J'apprécie particulièrement sa simplicité et sa clarté lorsque Gary aborde avec les invités des sujets tels que les NFT, la finance décentralisée et le metaverse. Son enthousiasme contagieux rend chaque épisode captivant."
+      },
+      {
+        "note": 5,
+        "auteur": "theauravier",
+        "titre": "Enfin un podcast qui ne se prend pas au sérieux",
+        "texte": "Et pourtant on y apprend l'envers du décors. Moi qui n'y connait pas grand choses au cryptos je comprends mieux, merci pour ces interviews"
+      }
+    ]
+  }
 }
