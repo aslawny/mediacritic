@@ -1,0 +1,26 @@
+{
+  "ep": 51,
+  "saison": 2,
+  "slug": "transfert",
+  "page": "transfert.html",
+  "title": "Transfert",
+  "tagline": "Le podcast d'histoires vraies de Slate",
+  "meta_desc": "MediaCritic analyse Transfert, le podcast de Slate : depuis 2016, une personne raconte le jour où sa vie a basculé. Dix ans d'écoute, et nos réserves.",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3a/34/1f/3a341fd1-41ac-401b-2721-50e2245be56d/mza_7797341130086209673.png/600x600bb.jpg",
+  "initials": "TR",
+  "type_line": "Podcast · Récit · Hebdomadaire · Slate.fr",
+  "hosts_line": "Animé par <strong>Alex · Lolo</strong>",
+  "authors": [
+    "Alex",
+    "Lolo"
+  ],
+  "buttons": [
+    {
+      "href": "https://podcasts.apple.com/fr/podcast/transfert/id1567870398",
+      "label": "🎙️ Le podcast"
+    }
+  ],
+  "note": 8.5,
+  "verdict": "Dix ans à se taire pour laisser parler les autres : un exercice d'écoute d'une rare finesse, même quand la musique pleure un peu à votre place.",
+  "content_file": "manifests/ep51-content.html"
+}
