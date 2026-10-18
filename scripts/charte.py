@@ -88,6 +88,26 @@ _BURGER_JS = ("var h=document.getElementById('mc-header');var o=h.classList.togg
               "this.setAttribute('aria-label',o?'Fermer le menu':'Ouvrir le menu')")
 
 
+# Date et heure de derniere mise a jour du site, dans l'en-tete de TOUTES les
+# pages (exigence de l'utilisateur, 18/10/2026 : l'ancien en-tete de
+# l'accueil l'affichait, la charte l'avait perdue). Source : l'en-tete HTTP
+# Last-Modified de catalog-lite.json, reecrit a chaque passage du bot et a
+# chaque publication. Requete HEAD sur la meme origine (autorisee par la CSP).
+# Seule source du format : remplit aussi le pied de page (#footer-updated).
+_MAJ_JS = (
+    "(function(){if(!window.fetch)return;"
+    "fetch('/data/catalog-lite.json',{method:'HEAD',cache:'no-cache'}).then(function(r){"
+    "var d=new Date(r.headers.get('Last-Modified'));if(isNaN(d))return;"
+    "function p(n){return(n<10?'0':'')+n}"
+    "var j=p(d.getDate())+'/'+p(d.getMonth()+1),a=d.getFullYear(),h=p(d.getHours())+'h'+p(d.getMinutes());"
+    "var e=document.getElementById('nav-updated');"
+    "if(e){e.textContent='MàJ '+j+'/'+String(a).slice(-2)+' · '+h;"
+    "e.title='Dernière mise à jour du site : '+j+'/'+a+' à '+h;}"
+    "var f=document.getElementById('footer-updated');"
+    "if(f)f.textContent='Dernière mise à jour : '+j+'/'+a+' à '+h;"
+    "}).catch(function(){});})();")
+
+
 def entete(actif=None):
     liens = "".join(
         '<a href="%s"%s>%s</a>' % (url, ' aria-current="page"' if cle == actif else "", lib)
@@ -95,8 +115,12 @@ def entete(actif=None):
     return "".join([
         DEBUT_H,
         '<header class="mch" id="mc-header"><div class="mch-in">',
+        '<div class="mch-brand">',
         '<a class="mch-logo" href="/" aria-label="MediaCritic, accueil">',
         '<img src="/assets/logo.png" alt="" width="28" height="28" /><span>MediaCritic</span></a>',
+        # Sous le nom : aucune largeur ajoutee, visible aussi sur telephone.
+        '<span class="mch-maj" id="nav-updated"></span>',
+        '</div>',
         # Vrai element <nav> (audit SEO du 18/10/2026) : possible depuis que
         # les regles generiques nav{...} des anciennes pages ont ete retirees.
         '<nav class="mch-links" id="mch-menu" aria-label="Navigation principale">',
@@ -113,6 +137,7 @@ def entete(actif=None):
         '<button type="button" class="mch-burger" aria-controls="mch-menu" aria-expanded="false" ',
         'aria-label="Ouvrir le menu" onclick="%s">' % _BURGER_JS, ICONE_MENU, '</button>',
         '</div></div></header>',
+        '<script>', _MAJ_JS, '</script>',
         FIN_H,
     ])
 

@@ -908,8 +908,7 @@
   // repart ne telecharge plus 1,5 Mo pour rien. Le catalogue complet arrive
   // au premier scroll, clic ou frappe — donc avant tout besoin reel.
   fetch('data/catalog-lite.json').then(r=>{
-    const lm=r.headers.get('Last-Modified');
-    if(lm){const d=new Date(lm);if(!isNaN(d)){const dd=String(d.getDate()).padStart(2,'0'),mm=String(d.getMonth()+1).padStart(2,'0'),yy=String(d.getFullYear()).slice(-2),hh=String(d.getHours()).padStart(2,'0'),mn=String(d.getMinutes()).padStart(2,'0'),txt='↻ '+dd+'/'+mm+'/'+yy+' '+hh+'h'+mn;['nav-updated','footer-updated'].forEach(id=>{const el=document.getElementById(id);if(el)el.textContent=txt;});}}
+    // Date de mise a jour : ecrite par l'en-tete commun (scripts/charte.py), seule source du format.
     if(!r.ok)throw new Error('lite absent');
     return r.json();
   }).then(data=>{if(!fullLoaded)hydrate(data,false);}).catch(()=>{loadFull();if(!catalog.length){grid.innerHTML='<p style="color:var(--c-muted);text-align:center;padding:40px;grid-column:1/-1">Chargement du catalogue…</p>';}});

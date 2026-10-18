@@ -123,6 +123,11 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{ou
   border-bottom:1px solid var(--mc-line);font-family:var(--mc-font);margin:0;padding:0}
 .mch *{box-sizing:border-box}
 .mch-in{max-width:1200px;margin:0 auto;height:64px;padding:0 24px;display:flex;align-items:center;gap:20px}
+/* Logo + date de dernière mise à jour en dessous (exigence : visible sur toutes
+   les pages, y compris sur téléphone, sans élargir la barre). */
+.mch-brand{display:flex;flex-direction:column;justify-content:center;gap:2px;flex:none;min-width:0}
+.mch-maj{font-size:11px;line-height:1.2;color:var(--mc-text-3);white-space:nowrap;font-variant-numeric:tabular-nums}
+.mch-maj:empty{display:none}
 .mch-logo{display:flex;align-items:center;gap:10px;color:var(--mc-text);text-decoration:none;flex:none}
 .mch-logo img{width:28px;height:28px;border-radius:7px;display:block}
 .mch-logo span{font-weight:700;font-size:17px;line-height:1;letter-spacing:-.01em}
