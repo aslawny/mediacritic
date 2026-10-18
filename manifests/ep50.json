@@ -1,0 +1,32 @@
+{
+  "ep": 50,
+  "saison": 2,
+  "slug": "a-la-french",
+  "page": "a-la-french.html",
+  "title": "À la French",
+  "tagline": "Le podcast tech de JB Kempf",
+  "meta_desc": "MediaCritic analyse À la French, le podcast tech de Jean-Baptiste Kempf, Steeve Morin et Mehdi Medjaoui : numéro un francophone en quatre mois.",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f7/89/b8/f789b843-0317-2474-69ce-9bf98566add3/mza_8054240998209955367.jpeg/600x600bb.jpg",
+  "initials": "AF",
+  "type_line": "Podcast · Tech · Hebdomadaire · Indépendant",
+  "hosts_line": "Animé par <strong>Alex · Lolo</strong>",
+  "authors": [
+    "Alex",
+    "Lolo"
+  ],
+  "buttons": [
+    {
+      "href": "https://podcasts.apple.com/fr/podcast/a-la-french/id1868835487",
+      "label": "🎙️ Le podcast"
+    }
+  ],
+  "note": 9,
+  "verdict": "Trois ingénieurs qui n'ont rien à prouver et parlent enfin librement : numéro un de la tech francophone en quatre mois, et ce n'est pas un accident.",
+  "content_file": "manifests/ep50-content.html",
+  "listen": {
+    "spotify": "https://open.spotify.com/episode/3r7GjuVJ4shzlI7pYYPuSD",
+    "apple": "https://podcasts.apple.com/fr/podcast/s02-ep50-%C3%A0-la-french/id1853247643?i=1000796888045",
+    "deezer": "https://www.deezer.com/fr/episode/949637732",
+    "youtube": "https://www.youtube.com/watch?v=6AD9ukjeXR4"
+  }
+}

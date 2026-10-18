@@ -20,14 +20,17 @@
       "episodeCount": 21
     }
   },
-  "mediacritic": null,
+  "mediacritic": {
+    "ep": 50,
+    "url": "https://www.mediacritic.fr/episodes/a-la-french.html"
+  },
   "tags": [
     "tech",
     "business",
     "entrepreneuriat"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-16",
+  "updatedAt": "2026-10-18",
   "episodes_recents": [
     {
       "titre": "Épisode BONUS : recap saison 1 et annonces",
