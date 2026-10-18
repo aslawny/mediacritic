@@ -151,8 +151,103 @@ def _remplacer_bloc(html, debut, fin, motif_ancien, neuf):
     return html[:m.start()] + neuf + html[m.end():], True
 
 
+# ---------------------------------------------------------------------------
+# Nettoyage des styles morts (etape 3 de la charte)
+# ---------------------------------------------------------------------------
+# Chaque page embarquait les styles de SON ancien en-tete et de SON ancien pied
+# de page. Ils ne visent plus rien, sauf une regle generique `nav{...}` qui
+# continuait de s'appliquer au fil d'Ariane des fiches et a la navigation
+# precedent/suivant des episodes : rendus collants en haut de page, 64 px de
+# haut, contenu etire sur toute la largeur. On retire donc toute regle dont
+# TOUS les selecteurs ne visent que l'ancien en-tete ou l'ancien pied.
+
+# Classes encore utilisees qui commencent par « nav- » : precedent/suivant.
+_GARDER = ("nav-episodes", "nav-ep-btn")
+# Blocs entiers devenus sans objet.
+_BLOCS_MORTS = (re.compile(r"<style>/\* mc-burger : menu mobile \*/.*?</style>\s*", re.S),
+                re.compile(r'<style id="mc-nav-mobile">.*?</style>\s*', re.S))
+
+
+def _selecteur_mort(sel):
+    s = sel.strip()
+    if not s:
+        return False
+    classes = re.findall(r"\.([a-zA-Z0-9_-]+)", s)
+    if any(c in _GARDER for c in classes):
+        return False
+    if re.match(r"^(nav|footer)(?![a-zA-Z0-9_-])", s):
+        return True                      # nav, nav a, footer, footer .x...
+    if "#nav-updated" in s:
+        return True
+    return any(c.startswith(("nav-", "footer-")) for c in classes)
+
+
+def _nettoyer_regles(css):
+    """Parcourt une feuille (accolades imbriquees, commentaires) et retire les
+    regles mortes ; une @media videe disparait aussi. Renvoie le CSS."""
+    out, i, n = [], 0, len(css)
+    while i < n:
+        if css.startswith("/*", i):                      # commentaire
+            j = css.find("*/", i + 2)
+            j = n if j < 0 else j + 2
+            out.append(css[i:j]); i = j; continue
+        k = css.find("{", i)
+        if k < 0:
+            out.append(css[i:]); break
+        # Un commentaire avant l'accolade : le recopier tel quel.
+        c = css.find("/*", i, k)
+        if c >= 0:
+            out.append(css[i:c]); i = c; continue
+        prelude = css[i:k]
+        # Fin du bloc (accolades equilibrees)
+        prof, j = 1, k + 1
+        while j < n and prof:
+            if css.startswith("/*", j):
+                e = css.find("*/", j + 2); j = n if e < 0 else e + 2; continue
+            if css[j] == "{":
+                prof += 1
+            elif css[j] == "}":
+                prof -= 1
+            j += 1
+        corps = css[k + 1:j - 1]
+        tete = prelude.strip()
+        if tete.startswith("@media") or tete.startswith("@supports"):
+            dedans = _nettoyer_regles(corps)
+            if dedans.strip():
+                out.append(prelude + "{" + dedans + "}")
+            else:
+                out.append(prelude[:len(prelude) - len(prelude.lstrip())])
+        elif tete.startswith("@"):
+            out.append(css[i:j])                          # @keyframes, @font-face...
+        else:
+            sels = tete.split(",")
+            vivants = [s for s in sels if not _selecteur_mort(s)]
+            if len(vivants) == len(sels):
+                out.append(css[i:j])
+            elif vivants:
+                blanc = prelude[:len(prelude) - len(prelude.lstrip())]
+                out.append(blanc + ",".join(v.strip() for v in vivants) + "{" + corps + "}")
+            else:
+                out.append(prelude[:len(prelude) - len(prelude.lstrip())])
+        i = j
+    return "".join(out)
+
+
+def nettoyer_feuille(css):
+    """Pour une feuille externe (assets/fiche.css)."""
+    return _nettoyer_regles(css)
+
+
+def nettoyer_html(html):
+    for motif in _BLOCS_MORTS:
+        html = motif.sub("", html)
+    return re.sub(r"(<style[^>]*>)(.*?)(</style>)",
+                  lambda m: m.group(1) + _nettoyer_regles(m.group(2)) + m.group(3), html, flags=re.S)
+
+
 def appliquer(html, actif=None, palette=None):
-    """Pose l'en-tete, le pied de page et la feuille de la charte.
+    """Pose l'en-tete, le pied de page et la feuille de la charte, et retire
+    les styles morts de l'ancien en-tete / pied de page.
     Renvoie (html, etat) : True modifie, False deja conforme, None page non
     reconnue (on ne touche a rien plutot que de casser)."""
     orig = html
@@ -162,6 +257,7 @@ def appliquer(html, actif=None, palette=None):
     html, ok_f = _remplacer_bloc(html, DEBUT_F, FIN_F, r"<footer[^>]*>.*?</footer>", pied())
     if not (ok_h and ok_f):
         return orig, None
+    html = nettoyer_html(html)
     # Feuille de la charte : derniere chose du <head>, pour primer.
     html = html.replace(CSS_LIEN + "\n", "").replace(CSS_LIEN, "")
     if html.count("</head>") != 1:

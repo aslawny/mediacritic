@@ -157,7 +157,7 @@ def build():
                       f'<div class="rank-main"><div class="rank-title">{h(r["title"])}</div>'
                       f'<div class="rank-verdict">{h(r["verdict"])}</div>'
                       f'<div class="rank-meta">{cat0} · analysé dans l\'épisode {r["ep"]}</div></div>'
-                      f'<div class="rank-note">{fmt_note(r["note"])}<span style="font-size:.8rem;">/10</span></div></a>')
+                      f'<div class="rank-note">{fmt_note(r["note"])}<span class="mc-sur10">/10</span></div></a>')
 
     filters = "".join(
         f'<button class="pal-btn{" active" if key == "tous" else ""}" data-fam="{key}">{label}</button>'

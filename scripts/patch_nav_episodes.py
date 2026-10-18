@@ -71,13 +71,14 @@ def main():
     cibles = [Path(a) for a in sys.argv[1:]] or (
         sorted((ROOT / "episodes").glob("*.html")) + [ROOT / "templates" / "episode.html"])
     # Regles mobiles de la nav : sans elles, la page entiere defilait
-    # horizontalement sur telephone (+280 px a 375 px). Source unique dans
-    # nav_mobile.py, partagee avec les fiches.
+    # horizontalement sur telephone (+280 px a 375 px). Depuis la charte
+    # (18/10/2026), les pages a l'en-tete unique n'en ont plus besoin :
+    # mc.css s'en charge, et charte.py retire l'ancien bloc.
     sys.path.insert(0, str(Path(__file__).parent))
     from nav_mobile import CSS_EPISODES_FICHES, injecter
     for f in cibles:
         out, etat = patch(f.read_text(encoding="utf-8"))
-        if etat is not None:
+        if etat is not None and "<!-- mc-header -->" not in out:
             out, css = injecter(out, CSS_EPISODES_FICHES)
             if css is None:
                 etat = None

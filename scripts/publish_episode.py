@@ -244,8 +244,8 @@ def main():
     idx, n = re.subn(r'Saison \d+ · \d+ épisodes', libelle, idx, count=1)
     if n == 0 and libelle not in idx:
         die("compteur de saison introuvable dans index.html")
-    li = (f'    <li><a href="episodes/{page}" style="color:var(--c-muted2);'
-          f'font-size:.88rem;">Ép. {ep} — {title}</a></li>')
+    # Classe de la charte (assets/mc.css), plus de style en ligne.
+    li = f'    <li><a href="episodes/{page}" class="mc-meta">Ép. {ep} — {title}</a></li>'
     anchor = f'<li><a href="episodes/{prev["page"]}"'
     # On repere l'entree existante par son URL, jamais par la ligne entiere :
     # une relance apres changement de titre ne retrouvait pas l'ancienne ligne

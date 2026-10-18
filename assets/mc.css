@@ -80,6 +80,18 @@ h3,h4{font-weight:600!important}
 /* Syne conservée : logo et notes */
 .mch-logo span,.mcf-logo span,.rank-note,.podium-note{font-family:var(--mc-font-brand)!important}
 
+/* ---------- Reprises de l'ancien nav_mobile.py (corrections 320–420 px) ---- */
+/* Bloc « Note MediaCritic » des épisodes (styles en ligne, d'où !important) :
+   le texte refusait de passer sous la largeur de son plus long mot. */
+.mc-note-block>div{min-width:0}
+@media (max-width:420px){.mc-note-block{padding:18px!important;gap:14px!important}}
+/* À 320 px, un mot long d'un titre (« francophones ») dépassait l'écran. */
+@media (max-width:380px){.hero>*{min-width:0}h1{hyphens:auto;-webkit-hyphens:auto;overflow-wrap:break-word}}
+
+/* ---------- Listes répétées (anciens styles en ligne) ---------------- */
+.mc-meta{color:var(--mc-text-3);font-size:var(--mc-fs-small)}   /* liste des épisodes de l'accueil */
+.mc-sur10{font-size:.8rem}                                       /* « /10 » des notes du palmarès */
+
 /* ---------- Boutons -------------------------------------------------- */
 .mc-btn{display:inline-flex;align-items:center;justify-content:center;gap:6px;height:36px;padding:0 14px;
   border-radius:var(--mc-r-sm);border:1px solid transparent;font:600 14px/1 var(--mc-font);

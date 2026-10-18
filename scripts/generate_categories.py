@@ -35,12 +35,9 @@ _model = subprocess.run(
 ).stdout
 CSS = re.search(r"<style>.*?</style>", _model, re.DOTALL).group(0)
 
-# Seuil du burger releve a 820 px : la barre debordait jusqu'a ~760 px
-# (source unique : nav_mobile.py).
+# En-tete, pied de page et regles mobiles : charte.py + assets/mc.css.
 sys.path.insert(0, str(Path(__file__).parent))
-from nav_mobile import CSS_CATEGORIES, bloc_style  # noqa: E402
 from charte import appliquer as charte_appliquer  # noqa: E402
-NAV_CSS = bloc_style(CSS_CATEGORIES)
 
 BURGER_BTN = ('<button class="nav-burger" aria-label="Ouvrir le menu" aria-expanded="false" '
               'onclick="var l=document.querySelector(\'.nav-links\');l.classList.toggle(\'open\');'
@@ -442,7 +439,6 @@ def build_page(cfg, catalog, moyenne):
 {CSS}
 {BURGER_CSS}
 {TOP_CSS}
-{NAV_CSS}
 <script async src="https://www.googletagmanager.com/gtag/js?id={GA}"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments);}}gtag("js",new Date());gtag("config","{GA}");</script>
 </head>

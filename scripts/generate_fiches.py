@@ -202,11 +202,11 @@ footer a:hover{color:var(--c-orange)}
 }
 @media(max-width:600px){.fiche-header{flex-direction:column}.fiche-cover{width:100%;height:200px}.container{padding:40px 18px 60px}}"""
 
-# Navigation mobile : source unique dans nav_mobile.py, partagee avec les
-# pages episodes. Recopier les regles ici les aurait fait diverger.
-sys.path.insert(0, str(Path(__file__).parent))
-from nav_mobile import CSS_EPISODES_FICHES  # noqa: E402
-CSS_BLOCK = CSS_BLOCK + CSS_EPISODES_FICHES
+# En-tete, pied de page et regles mobiles : charte.py + assets/mc.css.
+# Les styles de l'ancien en-tete encore presents ci-dessus sont retires a
+# l'ecriture de fiche.css (charte.nettoyer_feuille).
+from charte import nettoyer_feuille as charte_nettoyer_feuille  # noqa: E402
+CSS_BLOCK = charte_nettoyer_feuille(CSS_BLOCK)
 
 
 # ─── Helpers ──────────────────────────────────────────────────────────────────
