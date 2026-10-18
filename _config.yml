@@ -1,0 +1,9 @@
+# GitHub Pages construit le site avec Jekyll, qui IGNORE les dossiers dont le
+# nom commence par un point : /.well-known/security.txt (RFC 9116) n'etait
+# jamais servi (404), constate le 18/10/2026.
+#
+# On n'ouvre QUE ce dossier. Ne PAS remplacer par un fichier .nojekyll : il
+# publierait aussi les fichiers d'etat internes du bot (.run_state,
+# .query_state.json, data/_*_state.json...), aujourd'hui masques par Jekyll.
+include:
+  - .well-known

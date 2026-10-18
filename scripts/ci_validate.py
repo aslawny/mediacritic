@@ -343,6 +343,13 @@ else:
         err(f"security.txt expire le {_exp.date()} : repousser Expires d'un an (RFC 9116, < 1 an)")
     else:
         print(f"  ✓ security.txt valide jusqu'au {_exp.date()}")
+# Jekyll (GitHub Pages) ignore les dossiers « . » : sans cette inclusion,
+# security.txt existe dans le depot mais repond 404 en ligne.
+_cfg = ROOT / "_config.yml"
+if not _cfg.exists() or not re.search(r"^\s*-\s*\.well-known\s*$", _cfg.read_text(encoding="utf-8"), re.M):
+    err("_config.yml doit inclure .well-known, sinon security.txt n'est pas servi")
+if (ROOT / ".nojekyll").exists():
+    err(".nojekyll présent : il publierait les fichiers d'état internes (.run_state, data/_*.json)")
 _p404 = ROOT / "404.html"
 if not _p404.exists() or "noindex" not in _p404.read_text(encoding="utf-8"):
     err("404.html absente ou indexable : GitHub Pages servirait sa page générique sans lien retour")
