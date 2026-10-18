@@ -228,11 +228,15 @@ def main():
             die("bloc MC_EP introuvable dans index.html")
         entry = f'    "{slug}":{{ep:{ep},analyse:"episodes/{page}",img:"{m["cover"]}"}}'
         idx = idx[:end] + ",\n" + entry + idx[end:]
-    old_num, new_num = f'<div class="num">{prev_ep}</div>', f'<div class="num">{ep}</div>'
-    if old_num in idx:
-        idx = idx.replace(old_num, new_num)
-    elif new_num not in idx:
-        die(f"compteur introuvable : {old_num}")
+    # Ancre sur le libelle, jamais sur le nombre nu : remplacer tous les
+    # <div class="num">{prev_ep}</div> entrainait aussi le compteur
+    # « catégories » le jour ou il valait le meme nombre -- il a ensuite avance
+    # avec chaque episode (50 affichees pour 41 reelles, octobre 2026).
+    idx, n_ep = re.subn(
+        r'(<div class="num"[^>]*>)\d+(</div>\s*<div class="lbl">épisodes publiés)',
+        lambda x: x.group(1) + str(ep) + x.group(2), idx, count=1)
+    if n_ep == 0:
+        die("compteur « épisodes publiés » introuvable dans index.html")
     # Regex plutot qu'un remplacement litteral : au passage en saison 2, la
     # chaine « Saison 1 · 43 épisodes » n'existe plus telle quelle.
     libelle = f'Saison {saison} · {ep} épisodes'

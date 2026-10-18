@@ -236,6 +236,20 @@ if _m_noi and _attendu and int(_m_noi.group(1)) != _attendu:
 else:
     print(f"  ✓ numberOfItems = {_attendu} (compte exact du catalogue)")
 
+# 7e bis. « N catégories » de l'accueil = calcul de sync_compteurs.
+#     Le chiffre avancait avec le numero d'episode (50 affichees pour 41
+#     reelles) parce que publish_episode remplacait tout <div class="num">N</div>.
+sys.path.insert(0, str(ROOT / "scripts"))
+from sync_compteurs import compter as _compter  # noqa: E402
+_nb_cats = _compter()["categories"]
+_m_cats = re.search(r'<div class="num"[^>]*>(\d+)</div>\s*<div class="lbl">catégories',
+                    (ROOT / "index.html").read_text(encoding="utf-8"))
+if not _m_cats or int(_m_cats.group(1)) != _nb_cats:
+    err(f"index.html : « {_m_cats.group(1) if _m_cats else '?'} catégories » "
+        f"≠ {_nb_cats} réelles — relancer sync_compteurs.py")
+else:
+    print(f"  ✓ {_nb_cats} catégories affichées sur l'accueil (calcul réel)")
+
 # 7f. Bouton « Partager » : present sur toutes les pages.
 #     La balise vit dans les cinq generateurs ET dans patch_partage_global.py.
 #     Ce controle attrape une page creee par un chemin qu'on n'aurait pas prevu.

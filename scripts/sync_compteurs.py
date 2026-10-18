@@ -27,9 +27,12 @@ Usage : python scripts/sync_compteurs.py [--dry-run]
 import json
 import re
 import sys
+from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).parent.parent
+# Doit rester egal a SEUIL_FILTRE dans le JS de catalogue.html.
+SEUIL_FILTRE = 100
 FINE = " "          # espace fine insecable, separateur des milliers du site
 
 
@@ -53,6 +56,14 @@ def compter():
         # Contenus marques dans l'annuaire. Superieur au nombre d'analyses car
         # l'episode 29 couvre a lui seul 4 podcasts de L'Equipe.
         "contenus_notes": sum(1 for x in cat if x.get("mcEpisode")),
+        # Categories assez fournies pour avoir un bouton de filtre dans
+        # l'annuaire : meme regle que le JS de catalogue.html (SEUIL_FILTRE).
+        # Le chiffre de l'accueil etait ecrit en dur et avancait avec le
+        # numero d'episode (« 50 catégories » pour 41 reelles) : voir
+        # maj_index() dans publish_episode.py.
+        "categories": len([1 for n in Counter(
+            k for x in cat for k in (x.get("categories") or [])).values()
+            if n >= SEUIL_FILTRE]),
     }
 
 
@@ -103,6 +114,7 @@ def appliquer(sec=False):
           % (fmt(c["total"]), fmt(c["podcasts"]), fmt(c["chaines"]), fmt(c["arrondi"])))
     print("    %d épisodes publiés, %d portant une note, %d contenus marqués"
           % (c["episodes"], c["analyses"], c["contenus_notes"]))
+    print("    %d catégories (au moins %d contenus)" % (c["categories"], SEUIL_FILTRE))
     print()
 
     total_modifs = 0
@@ -122,6 +134,8 @@ def appliquer(sec=False):
             t, k = motif.subn(rempl, t); n += k
         if nom == "index.html":
             t, k = stat_par_libelle(t, "épisodes publiés", c["episodes"]); n += k
+        # Les deux pages affichent « N catégories » : meme valeur partout.
+        t, k = stat_par_libelle(t, "catégories", c["categories"]); n += k
         if t != orig:
             total_modifs += n
             if not sec:
