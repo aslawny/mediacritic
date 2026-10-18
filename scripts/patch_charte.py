@@ -28,6 +28,7 @@ PAGES = {
     "qui-sommes-nous.html": ("equipe", None),
     "contact.html": (None, None),
     "mentions-legales.html": (None, "b"),
+    "fiche.html": ("annuaire", "b"),       # gabarit de secours (noindex)
     "templates/episode.html": ("palmares", "b"),
 }
 

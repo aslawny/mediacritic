@@ -289,6 +289,45 @@ if not errors:
     print("  ✓ identité d'annuaire présente (title, DataCatalog, H2, "
           f"{len(list((ROOT / 'categories').glob('*.html')))} pages catégories rattachées)")
 
+# 9. Charte (validée le 18/10/2026) : un seul en-tête, un seul pied de page,
+#    une seule feuille. Le site comptait 7 en-têtes ; ce contrôle empêche une
+#    page, un générateur ou une retouche à la main d'en réintroduire un 8e.
+from charte import entete as _entete, pied as _pied, CSS_LIEN as _CSS_LIEN  # noqa: E402
+_norm = lambda s: re.sub(r"©\s*\d{4}", "©", re.sub(r'\s*aria-current="page"', "", s))
+_H_REF, _F_REF = _norm(_entete()), _norm(_pied())
+_pages_charte = (sorted(ROOT.glob("*.html")) + sorted((ROOT / "categories").glob("*.html"))
+                 + sorted((ROOT / "episodes").glob("*.html")) + sorted((ROOT / "fiches").glob("*.html"))
+                 + [ROOT / "templates" / "episode.html"])
+_ecarts = {"en-tête": [], "pied de page": [], "mc.css absente ou pas en dernier": [], "anciens styles de nav": []}
+_vues = 0
+for _f in _pages_charte:
+    _t = _f.read_text(encoding="utf-8")
+    if 'http-equiv="refresh"' in _t:
+        continue                              # page de redirection, sans contenu
+    _vues += 1
+    _nom = _f.relative_to(ROOT).as_posix()
+    _h = re.search(r"<!-- mc-header -->.*?<!-- /mc-header -->", _t, re.S)
+    if not _h or _norm(_h.group(0)) != _H_REF:
+        _ecarts["en-tête"].append(_nom)
+    _p = re.search(r"<!-- mc-footer -->.*?<!-- /mc-footer -->", _t, re.S)
+    if not _p or _norm(_p.group(0)) != _F_REF:
+        _ecarts["pied de page"].append(_nom)
+    _tete = _t.split("</head>")[0]
+    if _CSS_LIEN not in _tete or _tete.rstrip().endswith(_CSS_LIEN) is False:
+        _ecarts["mc.css absente ou pas en dernier"].append(_nom)
+    if ('id="mc-nav-mobile"' in _t or "mc-burger" in _t
+            or re.search(r"<style[^>]*>[^<]*?(?:^|[}\s])nav\s*\{", _t, re.S | re.M)):
+        _ecarts["anciens styles de nav"].append(_nom)
+_fiche_css = (ROOT / "assets" / "fiche.css").read_text(encoding="utf-8")
+if re.search(r"(?:^|[}\s])nav\s*\{", _fiche_css):
+    _ecarts["anciens styles de nav"].append("assets/fiche.css")
+_ko = {k: v for k, v in _ecarts.items() if v}
+for _k, _v in _ko.items():
+    err(f"charte — {_k} : {len(_v)} page(s), ex. {_v[:3]} — relancer patch_charte.py "
+        f"ou le générateur concerné")
+if not _ko:
+    print(f"  ✓ charte : même en-tête, même pied de page et mc.css en dernier sur {_vues} pages")
+
 if errors:
     print(f"\n{len(errors)} erreur(s).")
     sys.exit(1)

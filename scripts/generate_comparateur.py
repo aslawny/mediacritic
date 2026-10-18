@@ -118,7 +118,7 @@ CMP_CSS = """<style>/* mc-cmp : comparateur */
 .cmp-btn{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.12);color:inherit;font:inherit;font-size:.85rem;padding:9px 15px;border-radius:9px;cursor:pointer;text-decoration:none}
 .cmp-btn:hover{border-color:#e8622d;color:#e8622d}
 .cmp-note{font-size:.82rem;color:rgba(240,244,250,.45);margin-top:18px;line-height:1.6}
-.cmp-sugg{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(285px,1fr));gap:8px}
+.cmp-sugg{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(min(285px,100%),1fr));gap:8px}
 .cmp-sugg a{display:block;padding:11px 13px;border:1px solid rgba(255,255,255,.07);border-radius:10px;text-decoration:none;color:inherit;font-size:.87rem;line-height:1.4}
 .cmp-sugg a:hover{border-color:#e8622d}
 .cmp-sugg em{font-style:normal;color:rgba(240,244,250,.4);font-size:.78rem;display:block;margin-top:2px}
