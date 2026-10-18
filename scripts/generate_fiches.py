@@ -563,6 +563,9 @@ def bloc_partage(data):
     return ('  <div class="card pt-card"><h2>🔗 Partager cette fiche</h2>'
             '<div class="pt-row">' + liens + copie + "</div></div>")
 
+DESC_PARTAGEES = set()   # rempli par main() avant le rendu
+
+
 def render_fiche(data):
     slug = data["slug"]
     title = data.get("title", slug)
@@ -599,6 +602,12 @@ def render_fiche(data):
             f"catégories et contenus similaires dans notre annuaire.", 160)
     elif description.strip():
         desc_meta = couper(description.replace('"', "'"), 160)
+        # Texte d'editeur partage par plusieurs fiches (mention type de Radio
+        # France, Torah-Box, Radio Campus...) : Google voyait N pages avec la
+        # meme description. On prefixe le NOM du contenu, sans reecrire le
+        # texte (audit du 18/10/2026 : 43 pages en 15 groupes).
+        if desc_meta in DESC_PARTAGEES:
+            desc_meta = couper(f"{title} : " + description.replace('"', "'"), 160)
     else:
         desc_meta = couper(f"{title} — {t_label} francophone référencé dans "
                            f"l'annuaire MediaCritic.", 160)
@@ -1068,6 +1077,15 @@ def main():
     # Le bloc « similaires » a besoin de TOUT le corpus : impossible de rendre
     # une fiche avant d'avoir lu les autres. D'ou ces deux passes.
     construire_index(all_data)
+    # Descriptions d'editeur partagees par plusieurs fiches (voir render_fiche).
+    _vues = {}
+    for _d in all_data:
+        _desc = (_d.get("description") or "").strip()
+        if _desc and note_mc(_d) is None:
+            _m = couper(_desc.replace('"', "'"), 160)
+            _vues[_m] = _vues.get(_m, 0) + 1
+    DESC_PARTAGEES.clear()
+    DESC_PARTAGEES.update(m for m, n in _vues.items() if n > 1)
     slugs_modifies = set()
     for json_path, data in a_rendre:
         html_path = FICHES_DIR / f"{data['slug']}.html"

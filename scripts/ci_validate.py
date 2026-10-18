@@ -292,13 +292,14 @@ if not errors:
 # 9. Charte (validée le 18/10/2026) : un seul en-tête, un seul pied de page,
 #    une seule feuille. Le site comptait 7 en-têtes ; ce contrôle empêche une
 #    page, un générateur ou une retouche à la main d'en réintroduire un 8e.
-from charte import entete as _entete, pied as _pied, CSS_LIEN as _CSS_LIEN  # noqa: E402
+from charte import entete as _entete, pied as _pied, CSS_LIEN as _CSS_LIEN, CSP_META as _CSP_META  # noqa: E402
 _norm = lambda s: re.sub(r"©\s*\d{4}", "©", re.sub(r'\s*aria-current="page"', "", s))
 _H_REF, _F_REF = _norm(_entete()), _norm(_pied())
 _pages_charte = (sorted(ROOT.glob("*.html")) + sorted((ROOT / "categories").glob("*.html"))
                  + sorted((ROOT / "episodes").glob("*.html")) + sorted((ROOT / "fiches").glob("*.html"))
                  + [ROOT / "templates" / "episode.html"])
-_ecarts = {"en-tête": [], "pied de page": [], "mc.css absente ou pas en dernier": [], "anciens styles de nav": []}
+_ecarts = {"en-tête": [], "pied de page": [], "mc.css absente ou pas en dernier": [], "anciens styles de nav": [],
+           "CSP absente ou différente de charte.CSP": []}
 _vues = 0
 for _f in _pages_charte:
     _t = _f.read_text(encoding="utf-8")
@@ -313,6 +314,8 @@ for _f in _pages_charte:
     if not _p or _norm(_p.group(0)) != _F_REF:
         _ecarts["pied de page"].append(_nom)
     _tete = _t.split("</head>")[0]
+    if _tete.count("Content-Security-Policy") != 1 or _CSP_META not in _tete:
+        _ecarts["CSP absente ou différente de charte.CSP"].append(_nom)
     if _CSS_LIEN not in _tete or _tete.rstrip().endswith(_CSS_LIEN) is False:
         _ecarts["mc.css absente ou pas en dernier"].append(_nom)
     if ('id="mc-nav-mobile"' in _t or "mc-burger" in _t
@@ -326,7 +329,48 @@ for _k, _v in _ko.items():
     err(f"charte — {_k} : {len(_v)} page(s), ex. {_v[:3]} — relancer patch_charte.py "
         f"ou le générateur concerné")
 if not _ko:
-    print(f"  ✓ charte : même en-tête, même pied de page et mc.css en dernier sur {_vues} pages")
+    print(f"  ✓ charte : même en-tête, même pied, même CSP et mc.css en dernier sur {_vues} pages")
+
+# 10. Securite et hygiene d'indexation (audit du 18/10/2026)
+from datetime import datetime, timedelta, timezone  # noqa: E402
+_sec = (ROOT / ".well-known" / "security.txt")
+_m_exp = re.search(r"^Expires:\s*(\S+)", _sec.read_text(encoding="utf-8"), re.M) if _sec.exists() else None
+if not _m_exp:
+    err("security.txt absent ou sans Expires (RFC 9116)")
+else:
+    _exp = datetime.fromisoformat(_m_exp.group(1).replace("Z", "+00:00"))
+    if _exp < datetime.now(timezone.utc) + timedelta(days=30):
+        err(f"security.txt expire le {_exp.date()} : repousser Expires d'un an (RFC 9116, < 1 an)")
+    else:
+        print(f"  ✓ security.txt valide jusqu'au {_exp.date()}")
+_p404 = ROOT / "404.html"
+if not _p404.exists() or "noindex" not in _p404.read_text(encoding="utf-8"):
+    err("404.html absente ou indexable : GitHub Pages servirait sa page générique sans lien retour")
+_rob = (ROOT / "robots.txt").read_text(encoding="utf-8")
+if "Sitemap: https://www.mediacritic.fr/sitemap.xml" not in _rob or re.search(r"^Disallow:\s*/\s*$", _rob, re.M):
+    err("robots.txt : ligne Sitemap absente ou site entier bloqué")
+# Aucune page indexable hors sitemap, aucune page noindex dans le sitemap
+_locs_set = set(re.findall(r"<loc>(.*?)</loc>", (ROOT / "sitemap.xml").read_text(encoding="utf-8")))
+_hors, _dedans = [], []
+for _f in _pages_charte:
+    if _f.parent.name == "templates":
+        continue
+    _t = _f.read_text(encoding="utf-8")
+    if 'http-equiv="refresh"' in _t:
+        continue
+    _rel = _f.relative_to(ROOT).as_posix()
+    _url = "https://www.mediacritic.fr/" + ("" if _rel == "index.html" else _rel)
+    _noidx = bool(re.search(r'<meta name="robots" content="[^"]*noindex', _t.split("</head>")[0]))
+    if _noidx and _url in _locs_set:
+        _dedans.append(_rel)
+    if not _noidx and _url not in _locs_set:
+        _hors.append(_rel)
+if _dedans:
+    err(f"{len(_dedans)} page(s) noindex présentes dans le sitemap : {_dedans[:3]}")
+if _hors:
+    err(f"{len(_hors)} page(s) indexable(s) absentes du sitemap : {_hors[:3]}")
+if not (_dedans or _hors):
+    print("  ✓ sitemap ⇔ pages indexables : correspondance exacte")
 
 if errors:
     print(f"\n{len(errors)} erreur(s).")

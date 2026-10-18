@@ -29,6 +29,7 @@ PAGES = {
     "contact.html": (None, None),
     "mentions-legales.html": (None, "b"),
     "fiche.html": ("annuaire", "b"),       # gabarit de secours (noindex)
+    "404.html": (None, None),              # page introuvable (noindex)
     "templates/episode.html": ("palmares", "b"),
 }
 

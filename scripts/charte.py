@@ -23,6 +23,24 @@ import re
 from datetime import date
 
 CSS_LIEN = '<link rel="stylesheet" href="/assets/mc.css" />'
+
+# Politique de securite UNIQUE (audit du 18/10/2026). Avant : 7 pages
+# seulement avaient une CSP, chacune la sienne ; les 9 428 fiches -- qui
+# affichent des avis tiers -- les 50 episodes et les 13 categories n'en
+# avaient aucune. GitHub Pages ne permet pas d'en-tete HTTP : la balise meta
+# est le seul moyen. `frame-ancestors` y est ignore par les navigateurs, il
+# n'est donc pas repris. img-src en https: : les couvertures viennent
+# d'Apple, YouTube, Spotify, podCloud... et le bot peut en ajouter.
+CSP = ("default-src 'self'; "
+       "script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://cdn.jsdelivr.net; "
+       "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; "
+       "font-src 'self' https://fonts.gstatic.com; "
+       "img-src 'self' data: https:; "
+       "connect-src 'self' https://www.googletagmanager.com https://*.google-analytics.com "
+       "https://*.analytics.google.com https://analytics.google.com; "
+       "frame-src 'none'; object-src 'none'; base-uri 'self'; form-action 'self' mailto:; "
+       "upgrade-insecure-requests")
+CSP_META = '<meta http-equiv="Content-Security-Policy" content="%s" />' % CSP
 DEBUT_H, FIN_H = "<!-- mc-header -->", "<!-- /mc-header -->"
 DEBUT_F, FIN_F = "<!-- mc-footer -->", "<!-- /mc-footer -->"
 
@@ -79,12 +97,14 @@ def entete(actif=None):
         '<header class="mch" id="mc-header"><div class="mch-in">',
         '<a class="mch-logo" href="/" aria-label="MediaCritic, accueil">',
         '<img src="/assets/logo.png" alt="" width="28" height="28" /><span>MediaCritic</span></a>',
-        '<div class="mch-links" id="mch-menu" role="navigation" aria-label="Navigation principale">',
+        # Vrai element <nav> (audit SEO du 18/10/2026) : possible depuis que
+        # les regles generiques nav{...} des anciennes pages ont ete retirees.
+        '<nav class="mch-links" id="mch-menu" aria-label="Navigation principale">',
         liens,
         '<span class="mch-extra"><a href="/contact.html">Contact</a>',
         '<a href="%s" target="_blank" rel="noopener noreferrer">YouTube</a></span>' % YOUTUBE,
         '<span id="mc-partage-slot"></span>',
-        '</div><div class="mch-actions">',
+        '</nav><div class="mch-actions">',
         '<a class="mch-ic" href="/catalogue.html" aria-label="Rechercher dans l&#39;annuaire">',
         ICONE_LOUPE, '</a>',
         '<a class="mc-btn mc-btn-primary mch-listen" href="%s" target="_blank" ' % SPOTIFY,
@@ -258,6 +278,13 @@ def appliquer(html, actif=None, palette=None):
     if not (ok_h and ok_f):
         return orig, None
     html = nettoyer_html(html)
+    # CSP unique : on retire celle de la page et on pose la notre juste apres
+    # <meta charset>, avant tout script ou feuille de style.
+    html = re.sub(r'\s*<meta http-equiv="Content-Security-Policy"[^>]*>', "", html)
+    m = re.search(r"<meta charset=[^>]*>", html, re.I)
+    if not m:
+        return orig, None
+    html = html[:m.end()] + "\n" + CSP_META + html[m.end():]
     # Feuille de la charte : derniere chose du <head>, pour primer.
     html = html.replace(CSS_LIEN + "\n", "").replace(CSS_LIEN, "")
     if html.count("</head>") != 1:
