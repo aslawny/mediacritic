@@ -160,32 +160,16 @@
     }
 
     /* ── NAV ── */
-    nav {
-      position: sticky; top: 0; z-index: 100;
-      background: rgba(6,11,20,.85);
-      backdrop-filter: blur(16px);
-      border-bottom: 1px solid var(--c-border);
-      padding: 0 clamp(16px,4vw,48px);
-      height: 56px;
-      display: flex; align-items: center; justify-content: space-between; gap: 16px;
-    }
-    .nav-logo { display: flex; align-items: center; gap: 10px; text-decoration: none; }
-    .nav-logo img { width: 28px; height: 28px; border-radius: 6px; }
-    .nav-logo span { font-family: 'Syne', sans-serif; font-size: .95rem; font-weight: 700; color: var(--c-text); letter-spacing: .02em; }
-    .nav-links { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
-    .nav-links a {
-      font-size: .8rem; font-weight: 500; color: var(--c-muted);
-      text-decoration: none; padding: 5px 10px; border-radius: 6px;
-      transition: color .2s, background .2s;
-    }
-    .nav-links a:hover { color: var(--c-text); background: var(--c-glass); }
-    .nav-links a.active { color: var(--c-orange); }
-    .nav-cta {
-      background: var(--c-orange); color: #fff; font-size: .8rem; font-weight: 600;
-      padding: 6px 14px; border-radius: 8px; text-decoration: none;
-      transition: opacity .2s; white-space: nowrap;
-    }
-    .nav-cta:hover { opacity: .85; }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
     /* ── HERO ── */
     .hero {
@@ -371,51 +355,15 @@
     .skel-card { aspect-ratio: .75; }
 
     /* ── FOOTER ── */
-    footer {
-      border-top: 1px solid var(--c-border);
-      padding: 32px clamp(16px,4vw,48px);
-      text-align: center;
-    }
-    .footer-inner { max-width: 600px; margin: 0 auto; }
-    .footer-logo { display: flex; align-items: center; justify-content: center; gap: 8px; margin-bottom: 12px; }
-    .footer-logo img { width: 24px; border-radius: 5px; }
-    .footer-logo span { font-family: 'Syne', sans-serif; font-weight: 700; font-size: .9rem; }
-    .footer-copy { font-size: .75rem; color: var(--c-muted2); line-height: 1.6; }
-    .footer-copy a { color: var(--c-muted); text-decoration: none; }
-    .footer-copy a:hover { color: var(--c-orange); }
+    
+    
+    
+    
+    
+    
+    
+    
   </style>
-<style>/* mc-burger : menu mobile */
-.nav-burger{display:none;background:none;border:1px solid rgba(255,255,255,.15);color:inherit;font-size:1.05rem;line-height:1;padding:6px 11px;border-radius:8px;cursor:pointer}
-@media(max-width:640px){
-.nav-burger{display:block}
-.nav-links{display:none;position:absolute;top:100%;left:0;right:0;background:rgba(6,11,20,.98);backdrop-filter:blur(20px);border-bottom:1px solid rgba(255,255,255,.08);flex-direction:column;align-items:stretch;padding:10px 16px 14px;gap:4px;z-index:400}
-.nav-links.open{display:flex}
-.nav-links a{padding:10px 12px;font-size:.92rem}
-}
-    /* Mobile : la barre de filtres passe sur UNE ligne défilante.
-       En wrap, 43 boutons empilaient 400 px (catalogue) à 990 px (accueil)
-       avant le premier contenu. Le bouton partiellement visible à droite
-       signale qu'on peut faire défiler. */
-    @media(max-width:640px){
-      .filters{
-        flex-wrap:nowrap;
-        /* Indispensable : la barre est centrée en mode wrap. En nowrap, un
-           conteneur centré déborde des DEUX côtés et le débordement gauche
-           devient inatteignable au défilement — les premiers boutons se
-           retrouvaient à -1595 px, hors de portée. */
-        justify-content:flex-start;
-        overflow-x:auto;
-        overflow-y:hidden;
-        scroll-snap-type:x proximity;
-        -webkit-overflow-scrolling:touch;
-        scrollbar-width:none;
-        padding-bottom:2px;
-      }
-      .filters::-webkit-scrollbar{display:none}
-      .filters>*{flex:0 0 auto;scroll-snap-align:start}
-    }
-  </style>
-<style id="mc-nav-mobile">/* mc-nav-mobile */@media(max-width:640px){.nav-cta,.nav-yt{min-width:0;padding:7px 12px}}@media(max-width:420px){.nav-yt{display:none}.nav-logo span{font-size:.88rem}}@media(max-width:380px){.hero>*{min-width:0}.hero h1{font-size:1.5rem;hyphens:auto;-webkit-hyphens:auto;overflow-wrap:break-word}}</style>
 <link rel="stylesheet" href="/assets/mc.css" />
 </head>
 <body>

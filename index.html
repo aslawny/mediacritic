@@ -174,29 +174,23 @@
     img { display:block; }
 
     /* ── NAV ── */
-    nav {
-      position:sticky; top:0; z-index:200;
-      background:rgba(6,11,20,.9); backdrop-filter:blur(20px);
-      border-bottom:1px solid var(--c-border);
-      padding:0 clamp(12px,3vw,40px); height:58px;
-      display:flex; align-items:center; justify-content:space-between; gap:12px;
-    }
-    .nav-logo { display:flex; align-items:center; gap:9px; flex-shrink:0; }
-    .nav-logo img { width:28px; height:28px; border-radius:6px; }
-    .nav-logo span { font-family:'Syne',sans-serif; font-size:.95rem; font-weight:700; letter-spacing:.02em; }
-    .nav-links { display:flex; align-items:center; gap:2px; }
-    .nav-links a { font-size:.8rem; font-weight:500; color:var(--c-muted); padding:5px 10px; border-radius:7px; transition:color .2s,background .2s; white-space:nowrap; }
-    .nav-links a:hover { color:var(--c-text); background:var(--c-glass); }
-    .nav-links a.active { color:var(--c-orange); }
-    .nav-cta, .nav-yt { display:inline-flex; align-items:center; justify-content:center; min-width:100px; font-size:.8rem; font-weight:700; padding:7px 16px; border-radius:8px; transition:opacity .2s; white-space:nowrap; flex-shrink:0; color:#fff; }
-    .nav-cta { background:var(--c-orange); }
-    .nav-cta:hover, .nav-yt:hover { opacity:.85; }
-    .nav-yt { background:#ff0000; }
-    .nav-center { flex:1; display:flex; align-items:center; justify-content:center; gap:6px; }
-    .nav-updated { font-size:.68rem; color:var(--c-muted2); white-space:nowrap; letter-spacing:.01em; padding:0 4px; }
-    .footer-updated { display:none; font-size:.72rem; color:var(--c-muted); text-align:center; margin-top:10px; }
-    @media(max-width:820px){ .nav-updated { display:none; } .footer-updated { display:block; } }
-    @media(max-width:640px){ .nav-links { display:none; } .nav-center { flex:0; } }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
     /* ── HERO ── */
     .hero {
@@ -355,53 +349,21 @@
     .empty-state .big { font-size:2.5rem; margin-bottom:12px; }
 
     /* ── FOOTER ── */
-    footer { border-top:1px solid var(--c-border); padding:36px clamp(16px,4vw,48px); }
-    .footer-inner { max-width:900px; margin:0 auto; display:flex; flex-direction:column; align-items:center; gap:16px; text-align:center; }
-    .footer-logo { display:flex; align-items:center; gap:8px; }
-    .footer-logo img { width:26px; border-radius:5px; }
-    .footer-logo span { font-family:'Syne',sans-serif; font-weight:700; }
-    .footer-tagline { font-size:.78rem; color:var(--c-muted2); max-width:400px; line-height:1.5; }
-    .footer-links { display:flex; gap:6px; flex-wrap:wrap; justify-content:center; }
-    .footer-links a { font-size:.78rem; color:var(--c-muted); padding:4px 8px; border-radius:6px; transition:color .2s; }
-    .footer-links a:hover { color:var(--c-orange); }
-    .footer-socials { display:flex; gap:10px; }
-    .footer-socials a { width:34px; height:34px; border-radius:8px; background:var(--c-glass); border:1px solid var(--c-border); display:flex; align-items:center; justify-content:center; transition:border-color .2s; }
-    .footer-socials a:hover { border-color:rgba(232,98,45,.4); }
-    .footer-socials svg { width:16px; height:16px; }
-    .footer-copy { font-size:.72rem; color:var(--c-muted2); }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
   </style>
-<style>/* mc-burger : menu mobile */
-.nav-burger{display:none;background:none;border:1px solid rgba(255,255,255,.15);color:inherit;font-size:1.05rem;line-height:1;padding:6px 11px;border-radius:8px;cursor:pointer}
-@media(max-width:640px){
-.nav-burger{display:block}
-.nav-links{display:none;position:absolute;top:100%;left:0;right:0;background:rgba(6,11,20,.98);backdrop-filter:blur(20px);border-bottom:1px solid rgba(255,255,255,.08);flex-direction:column;align-items:stretch;padding:10px 16px 14px;gap:4px;z-index:400}
-.nav-links.open{display:flex}
-.nav-links a{padding:10px 12px;font-size:.92rem}
-}
-    /* Mobile : la barre de filtres passe sur UNE ligne défilante.
-       En wrap, 43 boutons empilaient 400 px (catalogue) à 990 px (accueil)
-       avant le premier contenu. Le bouton partiellement visible à droite
-       signale qu'on peut faire défiler. */
-    @media(max-width:640px){
-      .filters{
-        flex-wrap:nowrap;
-        /* Indispensable : la barre est centrée en mode wrap. En nowrap, un
-           conteneur centré déborde des DEUX côtés et le débordement gauche
-           devient inatteignable au défilement — les premiers boutons se
-           retrouvaient à -1595 px, hors de portée. */
-        justify-content:flex-start;
-        overflow-x:auto;
-        overflow-y:hidden;
-        scroll-snap-type:x proximity;
-        -webkit-overflow-scrolling:touch;
-        scrollbar-width:none;
-        padding-bottom:2px;
-      }
-      .filters::-webkit-scrollbar{display:none}
-      .filters>*{flex:0 0 auto;scroll-snap-align:start}
-    }
-  </style>
-<style id="mc-nav-mobile">/* mc-nav-mobile */@media(max-width:640px){.nav-cta,.nav-yt{min-width:0;padding:7px 12px}}@media(max-width:420px){.nav-yt{display:none}.nav-logo span{font-size:.88rem}}@media(max-width:380px){.hero>*{min-width:0}.hero h1{font-size:1.5rem;hyphens:auto;-webkit-hyphens:auto;overflow-wrap:break-word}}@media(max-width:1180px){.nav-burger{display:block}.nav-links{display:none;position:absolute;top:100%;left:0;right:0;background:rgba(6,11,20,.98);backdrop-filter:blur(20px);border-bottom:1px solid rgba(255,255,255,.08);flex-direction:column;align-items:stretch;padding:10px 16px 14px;gap:4px;z-index:400}.nav-links.open{display:flex}.nav-links a{padding:10px 12px;font-size:.92rem}}</style>
 <link rel="stylesheet" href="/assets/mc.css" />
 </head>
 <body>
