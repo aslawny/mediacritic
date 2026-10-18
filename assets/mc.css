@@ -6,8 +6,8 @@
    ailleurs : toute nouvelle page lit ces jetons.
 
    Règles de la charte :
-   - Inter pour tout le texte, titres compris. Syne est réservée au logo
-     « MediaCritic » et aux notes /10 (identité de marque).
+   - Inter pour TOUT le texte (titres, notes /10, boutons, champs).
+     Syne est réservée au seul logo « MediaCritic ».
    - Sept tailles : titre d'accueil, H1, H2, H3, texte, secondaire, étiquette.
    - Une seule palette ; trois niveaux de texte, tous ≥ 4,5:1 (WCAG AA).
    - Texte sombre sur l'orange (5,8:1) : le blanc n'y faisait que 3,4:1.
@@ -72,18 +72,29 @@ h1{font-size:var(--mc-fs-h1)!important;font-weight:700!important;line-height:1.1
 h2{font-size:var(--mc-fs-h2)!important;font-weight:700!important;line-height:1.25!important;letter-spacing:-.01em!important}
 h3,h4{font-weight:600!important}
 
-/* Éléments qui étaient en Syne sans être un logo ni une note */
-.s-title,.hstat .num,.stat .num,.host-name,.host-av,.guest-av,.hero-right-head .name,
-.email-address,.rank-pos,.cl-rang,.sim-ph,.cl-ph,.fiche-cover-ph,.ep-cover-ph-lg{
-  font-family:var(--mc-font)!important;font-weight:700!important;letter-spacing:-.02em}
+/* ---------- Une seule police ----------------------------------------
+   Inter PARTOUT, y compris les notes /10 (décision de l'utilisateur, après
+   la refonte : en Syne, elles paraissaient « à l'ancien format »).
+   Règle GLOBALE plutôt qu'une liste de classes : une liste en oubliait
+   toujours une (notes des épisodes écrites en style en ligne, cartes et
+   résultats créés par JavaScript, boutons et champs de formulaire).
+   Seule exception : le logo « MediaCritic » (Syne). Le code (code, pre,
+   kbd, samp) garde une police à chasse fixe. ci_validate vérifie la règle. */
+body *:not(code,pre,kbd,samp){font-family:var(--mc-font)!important}
+.mch-logo span,.mcf-logo span{font-family:var(--mc-font-brand)!important}
 
-/* Syne conservée : logo et notes */
-.mch-logo span,.mcf-logo span,.rank-note,.podium-note{font-family:var(--mc-font-brand)!important}
+/* Graisse harmonisée des anciens éléments « display » (chiffres, rangs,
+   initiales) et des notes : Inter 700, chiffres à chasse fixe. */
+.s-title,.hstat .num,.stat .num,.host-name,.host-av,.guest-av,.hero-right-head .name,
+.email-address,.rank-pos,.cl-rang,.sim-ph,.cl-ph,.fiche-cover-ph,.ep-cover-ph-lg,
+.rank-note,.podium-note,.mc-note-block>div:first-child{
+  font-weight:700!important;letter-spacing:-.02em;font-variant-numeric:tabular-nums}
 
 /* ---------- Reprises de l'ancien nav_mobile.py (corrections 320–420 px) ---- */
 /* Bloc « Note MediaCritic » des épisodes (styles en ligne, d'où !important) :
    le texte refusait de passer sous la largeur de son plus long mot. */
-.mc-note-block>div{min-width:0}
+.mc-note-block>div:first-child{flex:none;min-width:auto}   /* la note « 8,5/10 » ne se coupe jamais */
+.mc-note-block>div:last-child{min-width:0}               /* le verdict, lui, passe à la ligne */
 @media (max-width:420px){.mc-note-block{padding:18px!important;gap:14px!important}}
 /* À 320 px, un mot long d'un titre (« francophones ») dépassait l'écran. */
 @media (max-width:380px){.hero>*{min-width:0}h1{hyphens:auto;-webkit-hyphens:auto;overflow-wrap:break-word}}

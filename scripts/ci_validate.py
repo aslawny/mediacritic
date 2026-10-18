@@ -331,6 +331,22 @@ for _k, _v in _ko.items():
 if not _ko:
     print(f"  ✓ charte : même en-tête, même pied, même CSP et mc.css en dernier sur {_vues} pages")
 
+# 9 bis. Une seule police : Inter partout, Syne pour le seul logo.
+#    Les notes /10 etaient restees en Syne (« ancien format ») parce que la
+#    charte procedait par liste de classes. La regle globale de mc.css les
+#    couvre toutes, y compris styles en ligne et contenus crees en JS.
+_mc_css = (ROOT / "assets" / "mc.css").read_text(encoding="utf-8")
+if "body *:not(code,pre,kbd,samp){font-family:var(--mc-font)!important}" not in _mc_css:
+    err("mc.css : règle globale de police (Inter partout) absente ou modifiée")
+_mc_sans_com = re.sub(r"/\*.*?\*/", "", _mc_css, flags=re.S)
+_syne_sel = [s.strip() for s in re.findall(r"([^{}]+)\{[^}]*--mc-font-brand[^}]*\}", _mc_sans_com)
+             if not s.strip().startswith(":root")]
+_hors_logo = [s for s in ",".join(_syne_sel).split(",") if s.strip() and "logo" not in s]
+if _hors_logo:
+    err(f"mc.css : Syne (--mc-font-brand) appliquée hors du logo : {_hors_logo[:3]}")
+if not any(e.startswith("mc.css") for e in errors):
+    print("  ✓ une seule police : Inter partout, Syne réservée au logo")
+
 # 10. Securite et hygiene d'indexation (audit du 18/10/2026)
 from datetime import datetime, timedelta, timezone  # noqa: E402
 _sec = (ROOT / ".well-known" / "security.txt")
