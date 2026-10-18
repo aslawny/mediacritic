@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-15",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Emi74170",
+        "titre": "Génial",
+        "texte": "Vraiment un contenu incroyable sur le conflit israélo-palestinien, merci d’apporter un aspect neutre et complet sur cette guerre terriblement compliquée à comprendre. C’était hyper interessant à écouter !"
+      },
+      {
+        "note": 5,
+        "auteur": "Ben 2.O",
+        "titre": "Super podcast.",
+        "texte": "C’est vraiment un podcast que j’adore! Je l’ai découvert il y a pas très longtemps. Étant français, j’ai découvert donc pas mal de choses grâce au contenu de ces enregistrements! Bilan: j’adore !!!"
+      },
+      {
+        "note": 5,
+        "auteur": "Eliosvv",
+        "titre": "Super podcast",
+        "texte": "J’écoute ce podcast chaque fois que je promène mon chien et c’est génial - merci!!!"
+      }
+    ]
+  }
 }

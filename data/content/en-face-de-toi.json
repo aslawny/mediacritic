@@ -52,25 +52,29 @@
   "derniere_activite": "2026-02-23",
   "frequence_jours": 15,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-18",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mostrecent",
+    "releve": "2026-10-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "lisyc_1",
+        "titre": "Interesting, Challenging, Introspective",
+        "texte": "Hi guys! Love you a lot! I have been listening you for months now and decided to even go back to all you initial audios and even bought the game! I already played it many times with my friends and spouse and I love the subject.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Kalhix",
+        "titre": "Bravo !",
+        "texte": "Un grand bravo pour votre podcast et pour les sujets que vous développez. Un réel éveil, des questionnements ainsi que des points de vue pertinents. En espérant qu’elles feront naître l’envie d’émancipation des frères et sœurs d’Afrique et de sa diaspora …"
+      },
+      {
+        "note": 5,
+        "auteur": "Bigay",
+        "titre": "Sujets pertinents",
+        "texte": "Bonjour, Je suis assidue à vos discussions via Podcast, Instagram et YouTube. Sujets pertinents qui amènent à la réflexion et à la discussion par la suite. Grand merci à vous, bravo Amandine ❤️❤️❤️, je me reconnais beaucoup dans tes positions."
+      }
     ]
   }
 }

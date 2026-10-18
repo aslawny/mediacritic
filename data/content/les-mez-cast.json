@@ -51,25 +51,29 @@
   "derniere_activite": "2026-08-28",
   "frequence_jours": 12,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-18",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "shklm'fjdjzisujdbshsfgq",
+        "titre": "Bravo",
+        "texte": "Bravo continue sur la même voix je t’encourage de tout mon cœur je suis venu avec mon père ,ma mère,mon frère et mon petit frère et ma petite sœur à Marseille mon père ses dadju Je l’aime beaucoup ma papounette"
+      },
+      {
+        "note": 5,
+        "auteur": "_Romy♥️",
+        "titre": "Best 🫦🫦🫦🫦🫦🫦",
+        "texte": "Night voltage 😻c est le meilleur morceau 🎶 Continuer comme ça vous avez le rythme 🥁 il ne vous reste plus qu’à faire pleins de bons sons et continuer à trouvé de bonnes chansons Merci ☺️ beaucoup 😘"
+      },
+      {
+        "note": 5,
+        "auteur": "Star-Tonio 85",
+        "titre": "Rap",
+        "texte": "Mets du rap anglais comme central cee ou roddy rich ou NLE choppa et Juce wrld❤️"
+      }
     ]
   }
 }

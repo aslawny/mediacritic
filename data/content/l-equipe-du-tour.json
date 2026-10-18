@@ -50,25 +50,29 @@
   "derniere_activite": "2026-07-26",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-18",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tristaïna",
+        "titre": "Un très bon podcast sur Le Tour de France",
+        "texte": "D’abord, un podcast signature L’Équipe * : un son propre, des intervenants qui discutent dans le calme et dans une ambiance bon enfant. Ensuite, sur RMC, ça gueule tout le temps, le son est pourrave et ça se tire dans les pattes : j’en ai marre.…"
+      },
+      {
+        "note": 2,
+        "auteur": "Roustanophile",
+        "titre": "Pour le retour de Jeremy Sahakhian",
+        "texte": "Remettez nous Jérémy Sahakhian bien meilleur animateur que Je sais tout Souque ‼️ Heureusement que le reste des participants est super"
+      },
+      {
+        "note": 5,
+        "auteur": "maxtour13",
+        "titre": "Podcast 6 ( philipsen )",
+        "texte": "Je trouve que Philipsen soit déclassé est logique car si Wan Aert continuait le sprint il aurait fini dans les barrières. Et je sais pas mais je trouve que Wan Aert est redevenu fort.…"
+      }
     ]
   }
 }

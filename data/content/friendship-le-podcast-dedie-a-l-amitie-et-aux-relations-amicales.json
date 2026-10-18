@@ -53,25 +53,29 @@
   "derniere_activite": "2025-05-05",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-18",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "MBrousse30",
+        "titre": "Super moment !",
+        "texte": "Mon pote Hippolyte et moi-même avons enregistré un podcast avec Solène, la créatrice de Friendship. Ce moment était clairement super, l’interview était rondement menée et les rires nombreux ! Pour magnifier le tout, le montage et le résultat final sont parfaits.…"
+      },
+      {
+        "note": 5,
+        "auteur": "DerrièreLesSourires.Podcast",
+        "titre": "Très chouette!",
+        "texte": "Un podcast super sympa, une très belle ôde à l’amitié. J’ai adoré l’épisode de Camille & Justine dont j’admire le travail. C’était chouette d’en apprendre plus sur l’histoire d’amitié de ce binôme militant. J’apprécie également beaucoup les épisodes courts formats.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Ben bigup",
+        "titre": "Un excellent moyen de mieux appréhender ses amitiés",
+        "texte": "Une approche très profonde et singulière de chacune des histoires amicales que friendship nous propose. On a tous en nous une partie de ces petits récits ! Une occasion de revoir et retracer ses propres histoires amicales ..…"
+      }
     ]
   }
 }

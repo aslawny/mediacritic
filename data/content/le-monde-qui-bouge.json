@@ -49,25 +49,29 @@
   "derniere_activite": "2026-09-11",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-18",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Poupart F 61",
+        "titre": "Un angle d’approche original",
+        "texte": "Dans ses chroniques, Benaouda nous parle d’évolutions et de nouvelles rarement abordées ailleurs et qui nous en disent beaucoup sur l’évolution du monde.…"
+      },
+      {
+        "note": 2,
+        "auteur": "MFRFG",
+        "titre": "Trop de pubs.",
+        "texte": "Le podcast est intéressant, mais même si je sais que l’on cherche à faire du fric chez BFM, mais nous imposer une publicité avant et une publicité après, c’est trop."
+      },
+      {
+        "note": 5,
+        "auteur": "thibaut 27",
+        "titre": "Pertinent et intelligent",
+        "texte": "Révélant des infos internationales oubliées des autres médias, Benaouda en explique la signification et les positions des parties prenantes avec un angle et une appréciation toujours intelligente et pertinente."
+      }
     ]
   }
 }

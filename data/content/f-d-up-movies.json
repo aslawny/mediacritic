@@ -53,25 +53,29 @@
   "derniere_activite": "2025-05-27",
   "frequence_jours": 40,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-18",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Thi3u",
+        "titre": "Fan du Urbain podcast Universe",
+        "texte": "La Femme d’Urbain a bien de la chance, car quand on voit le talent avec lequel il gère l’équilibre entre ses 2 podcasts sur le thème du cinéma, on imagine que l’adultère ne serait probablement pas son fort.…"
+      },
+      {
+        "note": 1,
+        "auteur": "reznor75",
+        "titre": "Episode #14",
+        "texte": "Épisode décevant, voir assez gênant… Je recommande de passer aux autres"
+      },
+      {
+        "note": 5,
+        "auteur": "SI SI LA FA MI",
+        "titre": "Trop bien",
+        "texte": "Urbain toujours aussi drôle et sincère dans son esprit chelou que j’apprécie beaucoup et Dedo hyper intéressant et drôle. Vos échanges sont intéressants et me font rire.…"
+      }
     ]
   }
 }
