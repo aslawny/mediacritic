@@ -28,6 +28,10 @@ import subprocess
 from datetime import date
 from pathlib import Path
 
+import sys as _sys_charte
+_sys_charte.path.insert(0, str(Path(__file__).parent))
+from charte import appliquer as charte_appliquer  # noqa: E402  en-tete/pied uniques
+
 ROOT = Path(__file__).parent.parent
 BASE = "https://www.mediacritic.fr"
 GA = "G-3W2VTTEWG8"
@@ -444,6 +448,7 @@ l&rsquo;&eacute;pisode consacr&eacute; au contenu. Le rythme de publication est 
         "sugg": sugg, "annee": date.today().year, "ga": GA,
     }
 
+    page, _ = charte_appliquer(page, "comparateur")
     (ROOT / "comparer.html").write_text(page, encoding="utf-8")
     print("comparer.html généré")
     print(f"  {len(paires)} comparaisons suggérées (liens internes servis en HTML)")

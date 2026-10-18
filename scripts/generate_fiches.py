@@ -11,6 +11,10 @@ import sys
 import xml.etree.ElementTree as ET
 from datetime import date, datetime
 from pathlib import Path
+
+import sys as _sys_charte
+_sys_charte.path.insert(0, str(Path(__file__).parent))
+from charte import appliquer as charte_appliquer  # noqa: E402  en-tete/pied uniques
 from urllib.parse import quote
 
 # ─── Chemins ──────────────────────────────────────────────────────────────────
@@ -861,6 +865,8 @@ def render_fiche(data):
 <script defer src="/assets/partage.js"></script>
 </body>
 </html>"""
+    # Charte : en-tete et pied de page uniques, feuille mc.css (scripts/charte.py).
+    html, _ = charte_appliquer(html, "annuaire", "b")
     return html
 
 

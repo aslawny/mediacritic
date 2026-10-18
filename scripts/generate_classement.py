@@ -31,6 +31,10 @@ import subprocess
 from datetime import date
 from pathlib import Path
 
+import sys as _sys_charte
+_sys_charte.path.insert(0, str(Path(__file__).parent))
+from charte import appliquer as charte_appliquer  # noqa: E402  en-tete/pied uniques
+
 ROOT = Path(__file__).parent.parent
 BASE = "https://www.mediacritic.fr"
 GA = "G-3W2VTTEWG8"
@@ -253,6 +257,7 @@ def main():
 </body>
 </html>"""
 
+    page, _ = charte_appliquer(page, "classement")
     (ROOT / "classement.html").write_text(page, encoding="utf-8")
     print(f"classement.html généré — {len(mieux_notes)} mieux notés, "
           f"{len(populaires)} populaires, {len(chaines)} chaînes, {len(pepites)} pépites")

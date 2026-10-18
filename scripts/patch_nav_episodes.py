@@ -50,6 +50,10 @@ def patch(txt):
     """Renvoie (texte, etat) ou etat vaut True (modifie), False (deja a jour)
     ou None (nav non reconnue -- on ne touche a rien plutot que de casser)."""
     txt2 = sans_total(txt)
+    # Depuis la charte (18/10/2026), l'en-tete vient de charte.py et porte
+    # deja tous les liens : rien a ajouter.
+    if "<!-- mc-header -->" in txt2:
+        return txt2, (txt2 != txt)
     if "../classement.html" in txt2:
         return txt2, (txt2 != txt)
     txt = txt2

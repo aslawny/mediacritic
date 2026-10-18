@@ -1,0 +1,174 @@
+/* =====================================================================
+   Charte MediaCritic — source unique (validée le 18/10/2026)
+   ---------------------------------------------------------------------
+   Chargée EN DERNIER sur toutes les pages (scripts/charte.py), elle prime
+   sur les styles propres à chaque page. Ne pas dupliquer ces valeurs
+   ailleurs : toute nouvelle page lit ces jetons.
+
+   Règles de la charte :
+   - Inter pour tout le texte, titres compris. Syne est réservée au logo
+     « MediaCritic » et aux notes /10 (identité de marque).
+   - Sept tailles : titre d'accueil, H1, H2, H3, texte, secondaire, étiquette.
+   - Une seule palette ; trois niveaux de texte, tous ≥ 4,5:1 (WCAG AA).
+   - Texte sombre sur l'orange (5,8:1) : le blanc n'y faisait que 3,4:1.
+   - Un en-tête et un pied de page identiques partout (.mch / .mcf).
+   ===================================================================== */
+
+:root{
+  /* Couleurs */
+  --mc-bg:#060b14;
+  --mc-surface:#0d1a2e;
+  --mc-surface-2:#13233b;
+  --mc-line:rgba(255,255,255,.09);
+  --mc-line-2:rgba(255,255,255,.16);
+  --mc-text:#eef2f7;                    /* 17,5:1 sur le fond */
+  --mc-text-2:rgba(238,242,247,.72);    /* 8,5:1 sur une carte */
+  --mc-text-3:rgba(238,242,247,.56);    /* 5,6:1 sur une carte : plancher */
+  --mc-accent:#e8622d;                  /* orange de la marque, inchangé */
+  --mc-accent-hover:#f47b3a;
+  --mc-on-accent:#060b14;               /* texte posé sur l'orange */
+  --mc-gold:#f5a623;                    /* réservé aux notes */
+
+  /* Typographie */
+  --mc-font:"Inter",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  --mc-font-brand:"Syne","Inter",system-ui,sans-serif;
+  --mc-fs-display:clamp(26px,1.99vw + 18.5px,44px);  /* 26 px à 375, 44 px à 1 280 */
+  --mc-fs-h1:clamp(24px,1.33vw + 19px,36px);
+  --mc-fs-h2:clamp(20px,.66vw + 17.5px,26px);
+  --mc-fs-h3:18px;
+  --mc-fs-body:16px;
+  --mc-fs-small:14px;
+  --mc-fs-label:12px;
+
+  /* Espacements (grille de 4) et arrondis */
+  --mc-s1:4px;--mc-s2:8px;--mc-s3:12px;--mc-s4:16px;--mc-s5:24px;--mc-s6:32px;--mc-s7:48px;--mc-s8:64px;
+  --mc-r-sm:8px;   /* boutons, champs */
+  --mc-r-md:12px;  /* cartes */
+  --mc-r-lg:16px;  /* blocs mis en avant */
+  --mc-r-pill:999px;
+
+  /* Anciennes variables des pages, ramenées sur la palette unique.
+     L'accueil et l'annuaire les déclaraient en blanc froid, les épisodes et
+     les fiches en crème ; « muted2 » y était plus SOMBRE que « muted »
+     d'un côté et plus CLAIR de l'autre (voir data-mc-pal plus bas). */
+  --c-bg:var(--mc-bg);
+  --c-text:var(--mc-text);
+  --c-muted:var(--mc-text-2);
+  --c-muted2:var(--mc-text-3);
+  --c-orange:var(--mc-accent);
+  --c-gold:var(--mc-gold);
+}
+/* Épisodes et fiches : sens inverse de muted / muted2 (muted = le plus discret). */
+:root[data-mc-pal="b"]{--c-muted:var(--mc-text-3);--c-muted2:var(--mc-text-2)}
+
+body{font-family:var(--mc-font);color:var(--mc-text)}
+
+/* ---------- Titres ----------------------------------------------------
+   !important : les pages portent leurs propres règles (et parfois des
+   styles en ligne) en Syne 800. La charte doit l'emporter partout. */
+h1,h2,h3,h4{font-family:var(--mc-font)!important;text-wrap:balance}
+h1{font-size:var(--mc-fs-h1)!important;font-weight:700!important;line-height:1.15!important;letter-spacing:-.02em!important}
+.hero h1{font-size:var(--mc-fs-display)!important;line-height:1.12!important}
+h2{font-size:var(--mc-fs-h2)!important;font-weight:700!important;line-height:1.25!important;letter-spacing:-.01em!important}
+h3,h4{font-weight:600!important}
+
+/* Éléments qui étaient en Syne sans être un logo ni une note */
+.s-title,.hstat .num,.stat .num,.host-name,.host-av,.guest-av,.hero-right-head .name,
+.email-address,.rank-pos,.cl-rang,.sim-ph,.cl-ph,.fiche-cover-ph,.ep-cover-ph-lg{
+  font-family:var(--mc-font)!important;font-weight:700!important;letter-spacing:-.02em}
+
+/* Syne conservée : logo et notes */
+.mch-logo span,.mcf-logo span,.rank-note,.podium-note{font-family:var(--mc-font-brand)!important}
+
+/* ---------- Boutons -------------------------------------------------- */
+.mc-btn{display:inline-flex;align-items:center;justify-content:center;gap:6px;height:36px;padding:0 14px;
+  border-radius:var(--mc-r-sm);border:1px solid transparent;font:600 14px/1 var(--mc-font);
+  text-decoration:none;white-space:nowrap;cursor:pointer;transition:background .15s,border-color .15s,color .15s}
+.mc-btn-primary{background:var(--mc-accent);color:var(--mc-on-accent)}
+.mc-btn-primary:hover{background:var(--mc-accent-hover);color:var(--mc-on-accent)}
+.mc-btn-secondary{background:transparent;color:var(--mc-text);border-color:var(--mc-line-2)}
+.mc-btn-secondary:hover{border-color:var(--mc-accent);color:var(--mc-accent)}
+/* Boutons existants sur fond orange : texte sombre (contraste 5,8:1 au lieu de 3,4:1) */
+.cta-btn,.email-btn,.filter-btn.active,.propose-btn,.sort-btn.active,.cta-block a,.mc-badge,
+.pal-btn:hover,.pal-btn.active,.ep-btn-episode,.btn-mc{color:var(--mc-on-accent)!important}
+
+a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{outline:2px solid var(--mc-accent);outline-offset:2px}
+
+/* ---------- En-tête unique ------------------------------------------- */
+.mch{position:sticky;top:0;z-index:500;background:rgba(6,11,20,.92);
+  -webkit-backdrop-filter:saturate(1.4) blur(14px);backdrop-filter:saturate(1.4) blur(14px);
+  border-bottom:1px solid var(--mc-line);font-family:var(--mc-font);margin:0;padding:0}
+.mch *{box-sizing:border-box}
+.mch-in{max-width:1200px;margin:0 auto;height:64px;padding:0 24px;display:flex;align-items:center;gap:20px}
+.mch-logo{display:flex;align-items:center;gap:10px;color:var(--mc-text);text-decoration:none;flex:none}
+.mch-logo img{width:28px;height:28px;border-radius:7px;display:block}
+.mch-logo span{font-weight:700;font-size:17px;line-height:1;letter-spacing:-.01em}
+.mch-links{display:flex;align-items:center;gap:2px;flex:1;min-width:0}
+.mch-links a{color:var(--mc-text-2);font-size:14px;font-weight:500;line-height:20px;padding:8px 10px;
+  border-radius:var(--mc-r-sm);text-decoration:none;white-space:nowrap}
+.mch-links a:hover{color:var(--mc-text);background:rgba(255,255,255,.05)}
+.mch-links a[aria-current="page"]{color:var(--mc-text);border-radius:0;box-shadow:inset 0 -2px 0 var(--mc-accent)}
+.mch-extra{display:none}
+#mc-partage-slot{margin-left:auto;display:flex;align-items:center}
+.mch .mc-part-btn{height:36px;padding:0 12px;border-radius:var(--mc-r-sm);font:600 14px/1 var(--mc-font);
+  background:transparent;border:1px solid var(--mc-line-2);color:var(--mc-text)}
+.mch-actions{display:flex;align-items:center;gap:8px;flex:none}
+.mch-ic{width:36px;height:36px;display:grid;place-items:center;border-radius:var(--mc-r-sm);
+  border:1px solid var(--mc-line-2);color:var(--mc-text-2);text-decoration:none}
+.mch-ic:hover{color:var(--mc-text);border-color:var(--mc-accent)}
+.mch-ic svg,.mch-burger svg,.mc-btn svg{width:18px;height:18px;display:block}
+.mch-burger{display:none;width:40px;height:40px;place-items:center;border-radius:var(--mc-r-sm);
+  border:1px solid var(--mc-line-2);background:none;color:var(--mc-text);cursor:pointer;padding:0}
+.mch-listen .mc-lib{display:inline}
+.mch-listen svg{display:none}
+
+/* Moins de 960 px : menu ☰, mêmes liens, plus Contact, YouTube et Partager */
+@media (max-width:959px){
+  .mch-in{height:56px;padding:0 16px;gap:8px}
+  .mch-burger{display:grid}
+  .mch-actions{margin-left:auto}
+  .mch-links{display:none;position:absolute;top:100%;left:0;right:0;flex-direction:column;align-items:stretch;
+    gap:2px;padding:8px 16px 16px;background:var(--mc-bg);border-bottom:1px solid var(--mc-line);z-index:510;box-shadow:0 24px 48px rgba(0,0,0,.55);
+    max-height:calc(100vh - 56px);overflow-y:auto}
+  .mch.open .mch-links{display:flex}
+  .mch-links a{font-size:16px;padding:12px;min-height:44px;display:flex;align-items:center}
+  .mch-links a[aria-current="page"]{box-shadow:none;color:var(--mc-accent)}
+  .mch-extra{display:flex;flex-direction:column;gap:2px;border-top:1px solid var(--mc-line);margin-top:6px;padding-top:6px}
+  #mc-partage-slot{margin:6px 0 0}
+  .mch .mc-part{width:100%;display:flex;flex-direction:column}
+  .mch .mc-part-btn{width:100%;justify-content:flex-start;height:44px;font-size:16px}
+  .mch .mc-part-btn span.mc-lib{display:inline!important}
+  /* La liste de partage s insere dans le panneau (sinon coupee par son defilement) */
+  .mch .mc-part-menu{position:static;left:auto;right:auto;min-width:0;padding:4px 0 0;border:0;background:none;box-shadow:none}
+}
+/* Téléphones étroits : « Écouter » devient une icône pour que tout tienne à 320 px */
+@media (max-width:400px){
+  .mch-logo span{font-size:16px}
+  .mch-listen{width:36px;padding:0}
+  .mch-listen .mc-lib{display:none}
+  .mch-listen svg{display:block}
+}
+
+/* ---------- Pied de page unique ------------------------------------- */
+.mcf{border-top:1px solid var(--mc-line);background:var(--mc-bg);color:var(--mc-text-2);
+  font-family:var(--mc-font);font-size:14px;line-height:1.5;text-align:left;padding:48px 0 32px;margin:0}
+.mcf *{box-sizing:border-box}
+.mcf-in{max-width:1200px;margin:0 auto;padding:0 24px;display:grid;gap:32px;
+  grid-template-columns:minmax(0,1.4fr) repeat(3,minmax(0,1fr))}
+.mcf-logo{display:flex;align-items:center;gap:10px;color:var(--mc-text);text-decoration:none;margin-bottom:12px}
+.mcf-logo img{width:28px;height:28px;border-radius:7px;display:block}
+.mcf-logo span{font-weight:700;font-size:17px}
+.mcf-brand p{margin:0 0 12px;max-width:34ch}
+.mcf-t{font-size:12px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--mc-text-3);margin:0 0 12px}
+.mcf ul{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+.mcf a{color:var(--mc-text-2);text-decoration:none}
+.mcf a:hover{color:var(--mc-accent)}
+.mcf-social{display:flex;flex-wrap:wrap;gap:8px;margin-top:4px}
+.mcf-social a{width:36px;height:36px;display:grid;place-items:center;border:1px solid var(--mc-line-2);border-radius:var(--mc-r-sm)}
+.mcf-social svg{width:16px;height:16px;fill:currentColor}
+.mcf-bas{max-width:1200px;margin:32px auto 0;padding:20px 24px 0;border-top:1px solid var(--mc-line);
+  display:flex;flex-wrap:wrap;gap:8px 24px;justify-content:space-between;color:var(--mc-text-3);font-size:13px}
+.mcf-bas p{margin:0}
+@media (max-width:900px){.mcf-in{grid-template-columns:repeat(2,minmax(0,1fr))}.mcf-brand{grid-column:1/-1}}
+@media (max-width:480px){.mcf-in{grid-template-columns:minmax(0,1fr)}}
+@media (prefers-reduced-motion:reduce){.mc-btn,.mch *{transition:none!important}}

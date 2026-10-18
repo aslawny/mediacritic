@@ -39,6 +39,7 @@ CSS = re.search(r"<style>.*?</style>", _model, re.DOTALL).group(0)
 # (source unique : nav_mobile.py).
 sys.path.insert(0, str(Path(__file__).parent))
 from nav_mobile import CSS_CATEGORIES, bloc_style  # noqa: E402
+from charte import appliquer as charte_appliquer  # noqa: E402
 NAV_CSS = bloc_style(CSS_CATEGORIES)
 
 BURGER_BTN = ('<button class="nav-burger" aria-label="Ouvrir le menu" aria-expanded="false" '
@@ -509,6 +510,7 @@ def main():
     moyenne = _moyenne_globale(catalog)
     for cfg in CATEGORIES:
         page = build_page(cfg, catalog, moyenne)
+        page, _ = charte_appliquer(page, "annuaire")
         (OUT / f'{cfg["slug"]}.html').write_text(page, encoding="utf-8")
         n = sum(1 for x in catalog if set(cfg["cats"]) & set(x.get("categories") or []))
         print(f'  {cfg["slug"]}.html  ({n} contenus)')

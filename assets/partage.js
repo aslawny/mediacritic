@@ -196,6 +196,15 @@
   // et en dernier recours sous la barre, hors de toute zone de texte.
   function placer() {
     if (menu.classList.contains("ouvert")) return;   // ne pas bouger sous le doigt
+    // Charte (18/10/2026) : l'en-tete unique reserve un emplacement au bouton.
+    // Plus aucune mesure : la feuille mc.css le place, en barre comme dans le
+    // menu mobile. Le placement adaptatif ci-dessous ne sert plus qu'aux pages
+    // qui n'auraient pas encore l'en-tete de la charte.
+    var slot = document.getElementById("mc-partage-slot");
+    if (slot) {
+      if (boite.parentNode !== slot) { neutre(); slot.appendChild(boite); }
+      return;
+    }
     var nav = document.querySelector("nav");
     neutre();
     if (!nav) {

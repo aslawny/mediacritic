@@ -12,6 +12,10 @@ import json, re, html, subprocess
 from datetime import date
 from pathlib import Path
 
+import sys as _sys_charte
+_sys_charte.path.insert(0, str(Path(__file__).parent))
+from charte import appliquer as charte_appliquer  # noqa: E402  en-tete/pied uniques
+
 ROOT = Path(__file__).parent.parent
 BASE = "https://www.mediacritic.fr"
 GA = "G-3W2VTTEWG8"
@@ -262,6 +266,7 @@ document.querySelectorAll('.pal-btn').forEach(function(b){{
 </body>
 </html>
 """
+    page, _ = charte_appliquer(page, "palmares")
     (ROOT / "palmares.html").write_text(page, encoding="utf-8")
     print(f"palmares.html généré — {len(rows)} entrées, podium : "
           + ", ".join(f'{r["title"]} {r["note"]}' for r in rows[:3]))
