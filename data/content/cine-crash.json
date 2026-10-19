@@ -25,7 +25,7 @@
     "series"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-10-16",
+  "updatedAt": "2026-10-19",
   "episodes_recents": [
     {
       "titre": "« Howard the Duck » : le canard qui faillit bien plumer George Lucas",
@@ -51,25 +51,29 @@
   "derniere_activite": "2022-05-07",
   "frequence_jours": 34,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-19",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "StéphanieBd",
+        "titre": "J’adore",
+        "texte": "Tout me plaît de ce podcast : - l’angle original de traiter des « fours » cinématographiques, avec l’analyse rétrospective permettant de comprendre pourquoi ces films n’ont pas marché en leur temps ; - son ton, très potache et décontracté, extrêmement plaisant ; - la grande cinép…"
+      },
+      {
+        "note": 1,
+        "auteur": "Mat de Bar",
+        "titre": "Lourd",
+        "texte": "Une érudition cinématographique certaine mais au service de dithyrambes ou de démontages à charge des films qu'ils n'aiment pas. Le tout avec en ton volontairement ´djeunz'"
+      },
+      {
+        "note": 5,
+        "auteur": "turboninja2000",
+        "titre": "L’étoffe des héros",
+        "texte": "Merci d’avoir redonné à ce film le statut qu’il mérite, un chef-d’œuvre absolu que vous avez parfaitement su décrypter. Car assez souvent des échecs commerciaux momentanés s averent devenir des chefs-d’œuvre dans le temps, voire des films cultes.…"
+      }
     ]
   }
 }

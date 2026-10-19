@@ -26,7 +26,7 @@
     "culture"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-10-16",
+  "updatedAt": "2026-10-19",
   "episodes_recents": [
     {
       "titre": "REDIFF | #13 Les Québécois de France - Roland Lescure",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-03-25",
-  "frequence_jours": 20
+  "frequence_jours": 20,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Chacha083",
+        "titre": "Peut mieux faire… NAN j’déconne !",
+        "texte": "Je vous ai découvert via les podcasts d’Objectif Québec et j’ai vu le « ça pourrai vous intéresser ». Effectivement c’est très interessant. Continuez ce podcast qui nous aide, du moins qui m’aide, à mieux comprendre la Belle Province.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Pompon de PeterHartmann",
+        "titre": "On en veut encore",
+        "texte": "Merci pour tous ces podcasts, vraiment riches et variés ! Vous êtes formidable et vos invités sont toujours intéressants. On aime le Canada et la diversités de ses habitants. À bientôt"
+      },
+      {
+        "note": 5,
+        "auteur": "Larsenac59",
+        "titre": "Parfait !",
+        "texte": "J'écoute un podcast par jour et cela m'aide dans ma perspectvie d'intégration future au Québec."
+      }
+    ]
+  }
 }

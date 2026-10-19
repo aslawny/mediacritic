@@ -24,27 +24,31 @@
     "culture"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-10-16",
+  "updatedAt": "2026-10-19",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-19",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "ch",
+    "tri": "mosthelpful",
+    "releve": "2026-10-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "djeety",
+        "titre": "Plein de découvertes",
+        "texte": "Le meilleur podcast des meilleures reprises des meilleures chanson! Il m’a fait découvrir plein de groupes et de chansons. Mention spéciale au format SuperCoverBattle qui classe les meilleures et les pires reprises en collaboration avec le podcast Écoute ça"
+      },
+      {
+        "note": 5,
+        "auteur": "6clicks",
+        "titre": "Tout un univers s’ouvre à moi !",
+        "texte": "Moi qui ai une culture musicale plutôt pauvre. Ce podcast me fait découvrir chaque fois des nouvelles sonorités et des artistes géniaux.. ma playlist ne fait que grandir !"
+      },
+      {
+        "note": 5,
+        "auteur": "SurNerzhul",
+        "titre": "Salut a vous",
+        "texte": "Et je mets volontiers 32 étoiles pour une 32eme place pour Les Ogres"
+      }
     ]
   },
   "episodes_recents": [

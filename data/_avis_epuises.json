@@ -1,6 +1,6 @@
 {
-  "maj": "2026-10-18",
-  "total": 1062,
+  "maj": "2026-10-19",
+  "total": 1075,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -6374,6 +6374,84 @@
       "titre": "Eau de Vie",
       "notes_apple": 34,
       "fiche": "fiches/eau-de-vie.html"
+    },
+    {
+      "slug": "fip-tape",
+      "titre": "Fip Tape",
+      "notes_apple": 34,
+      "fiche": "fiches/fip-tape.html"
+    },
+    {
+      "slug": "girls-gays",
+      "titre": "Girls & Gays",
+      "notes_apple": 34,
+      "fiche": "fiches/girls-gays.html"
+    },
+    {
+      "slug": "histoires-d-entreprises",
+      "titre": "Histoires d'Entreprises",
+      "notes_apple": 34,
+      "fiche": "fiches/histoires-d-entreprises.html"
+    },
+    {
+      "slug": "insight",
+      "titre": "insight",
+      "notes_apple": 34,
+      "fiche": "fiches/insight.html"
+    },
+    {
+      "slug": "jnpj-je-ne-perds-jamais",
+      "titre": "#JNPJ. Je ne perds jamais.",
+      "notes_apple": 34,
+      "fiche": "fiches/jnpj-je-ne-perds-jamais.html"
+    },
+    {
+      "slug": "l-education-sentimentale",
+      "titre": "L'Éducation sentimentale",
+      "notes_apple": 34,
+      "fiche": "fiches/l-education-sentimentale.html"
+    },
+    {
+      "slug": "la-chronique-vin-de-jerome-gagnez",
+      "titre": "La Chronique vin de Jérôme Gagnez",
+      "notes_apple": 34,
+      "fiche": "fiches/la-chronique-vin-de-jerome-gagnez.html"
+    },
+    {
+      "slug": "la-veillee",
+      "titre": "La Veillée",
+      "notes_apple": 34,
+      "fiche": "fiches/la-veillee.html"
+    },
+    {
+      "slug": "le-bon-dimanche-show",
+      "titre": "Le Bon Dimanche Show",
+      "notes_apple": 34,
+      "fiche": "fiches/le-bon-dimanche-show.html"
+    },
+    {
+      "slug": "le-monde-de-la-cyber",
+      "titre": "Le monde de la cyber",
+      "notes_apple": 34,
+      "fiche": "fiches/le-monde-de-la-cyber.html"
+    },
+    {
+      "slug": "marseille-creative",
+      "titre": "Marseille Créative",
+      "notes_apple": 34,
+      "fiche": "fiches/marseille-creative.html"
+    },
+    {
+      "slug": "moi-president-e-le-podcast-politique-des-enfants",
+      "titre": "Moi Président(e), le podcast politique des enfants",
+      "notes_apple": 34,
+      "fiche": "fiches/moi-president-e-le-podcast-politique-des-enfants.html"
+    },
+    {
+      "slug": "music-sounds-better-with-us",
+      "titre": "Music Sounds Better With Us",
+      "notes_apple": 34,
+      "fiche": "fiches/music-sounds-better-with-us.html"
     }
   ]
 }

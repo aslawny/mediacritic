@@ -26,7 +26,7 @@
     "gaming",
     "rétro"
   ],
-  "updatedAt": "2026-10-16",
+  "updatedAt": "2026-10-19",
   "episodes_recents": [
     {
       "titre": "Pourquoi on aime David Lynch ?",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-01-27",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-19",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "InfirmieReporteR•",
+        "titre": "Bravo à toute l’équipe !",
+        "texte": "Un grand bravo aux animateurs.trices de ces podcasts et à leurs différent.e.s invité.e.s qui rendent mes trajets en voiture beaucoup plus intéressants et qui m’ont permis de faire découvrir des films et des séries à mes filles en les contextualisant.…"
+      },
+      {
+        "note": 1,
+        "auteur": "KLAATU",
+        "titre": "Nul",
+        "texte": "À propos de l’émission de 3h sur les films Mission : Impossible. La série était en couleur (pas en noir et blanc, faut vérifier vos sources Wikipedia) et les anecdotes sur l’un des participants qui a vu le 2 pour draguer 1 meuf… on s’en contrefout …"
+      },
+      {
+        "note": 5,
+        "auteur": "The Middle Man",
+        "titre": "Du grand Manu accompagné par des guest",
+        "texte": "Fan de pop culture, série, comics etc... Ce podcast est fait pour vous. Il y en a pour tout le monde. J'avais particulièrement apprécié la saison sur Watchmen et là je suis encore à attendre comme un gosse votre recap sur Wanda Visio 😊😊"
+      }
     ]
   }
 }

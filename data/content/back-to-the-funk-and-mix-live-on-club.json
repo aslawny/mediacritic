@@ -24,7 +24,7 @@
     "culture"
   ],
   "addedAt": "2026-07-09",
-  "updatedAt": "2026-10-16",
+  "updatedAt": "2026-10-19",
   "episodes_recents": [
     {
       "titre": "LIVE SPECIAL ABONNES TIKTOK 21 DEC 2024 YANN BUTLER",
@@ -50,25 +50,29 @@
   "derniere_activite": "2024-12-22",
   "frequence_jours": 26,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-19",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Funkyted",
+        "titre": "Yann Butler",
+        "texte": "Tu restera pour moi le meilleur de tout les Dj en matières de funky musique. Je connais pas mieux et alors l’animation !!!!!! J’ai vraiment eu énormément de la chance de t’avoir eu pour mes 30 ans et j’espère te revoir bientôt. Merci pour tout Yann 😁💪👍😉"
+      },
+      {
+        "note": 1,
+        "auteur": "l.yves",
+        "titre": "Enervant",
+        "texte": "Animation tres \"province\" d'un autre temps! Tendance frime \"je me la joue\". -AUTO CONGRATULATION PERMANENTE-"
+      },
+      {
+        "note": 5,
+        "auteur": "yoyo/99",
+        "titre": "Un must Yann Butler",
+        "texte": "J’ai découvert Yann grâce à un contact FB. Etant un « ancien » des périodes 70’s @ 80’s, j’adore Yann Butler pour sa façon d’être, sa musique et son esprit. Merci beaucoup Yann et au grand plaisir de te rencontrer frérot ;) ! Yoyo99"
+      }
     ]
   }
 }

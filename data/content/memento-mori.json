@@ -25,7 +25,7 @@
     "vulgarisation"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-10-16",
+  "updatedAt": "2026-10-19",
   "episodes_recents": [
     {
       "titre": "MM227: Seven, de David Fincher: Le salaire du péché, c’est la mort.",
@@ -51,25 +51,29 @@
   "derniere_activite": "2026-09-14",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-19",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "grcmb",
+        "titre": "Épisodes",
+        "texte": "Bonjour, Merci beaucoup pour vos podcast que je réécoute souvent parce qu’ils sont complets et édifiants. J’ai remarqué que vous avez retiré les épisodes des plates-formes Apple et SoundCloud.…"
+      },
+      {
+        "note": 5,
+        "auteur": "anne labrosse",
+        "titre": "Merci !",
+        "texte": "Merci à vous deux pour ce travail magnifique au service de l’Eglise de notre époque. Dans un monde en déconstruction où règne la confusion et où les chrétiens ne savent plus très bien où se situer pour être dans la justesse biblique, vos ressources et votre grille d’analyse sont…"
+      },
+      {
+        "note": 5,
+        "auteur": "nanou26250",
+        "titre": "Juste essentiel !",
+        "texte": "J’aime le regard biblique très fondé de Math et Raph, et leur ton décalé, la formule discussion entre amis, l’humour, la profondeur des thèmes abordés et les vraies réponses qui y sont apportées, j’écoute en bossant sur mon ordi, et j'apprends un tas de choses essentielles, je bé…"
+      }
     ]
   }
 }

@@ -23,27 +23,31 @@
     "musique"
   ],
   "addedAt": "2026-09-05",
-  "updatedAt": "2026-10-16",
+  "updatedAt": "2026-10-19",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-19",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-19",
+    "extraits": [
+      {
+        "note": 4,
+        "auteur": "BENZINEMAG.NET",
+        "titre": "Les BO à la radio, c'est Thierry Jousse !",
+        "texte": "Grand spécialiste des musiques de films et passionné de cinéma (comme il le prouve dans Blow Up sur arte), Thierry Jousse régale chaque semaine pour une heur dédiée au genre, en lien parfois avec l’actualité du cinéma."
+      },
+      {
+        "note": 1,
+        "auteur": "algix",
+        "titre": "Paramétrages délirants",
+        "texte": "Ayant choisi de garder sur ma tablette des émissions qui m’avaient plu l’an dernier, je constate avec effroi qu’elles ont toutes disparu à l’occasion d’une synchronisation, sans doute à cause de paramétrages mal bidouillés par un technicien aussi incompétent qu’à RFI, parfois.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Findjournée",
+        "titre": "Où retrouver mes podcasts préférés ?",
+        "texte": "Je n’arrive plus à retrouver les merveilleux podcasts sur Mancini 😢 Tout est effacé ?? Comment faire ? Merci de cette étonnante émission qui me ravit mes nuits pour des rêves sereins."
+      }
     ]
   }
 }

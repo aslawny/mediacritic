@@ -25,7 +25,7 @@
     "business"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-10-16",
+  "updatedAt": "2026-10-19",
   "episodes_recents": [
     {
       "titre": "#80 [EXTRAIT] Linda Jackson : Du ballet à la direction de Peugeot [EN]",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2025-01-06",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Arnauddelb",
+        "titre": "Excellent podcast",
+        "texte": "Un excellent podcast qui reçoit des invites inspirants, et qui explore en profondeur les thématiques ciblées. On découvre réellement l’invité, et cela fait la différence par rapport à tout ce que j’ai découvert auparavant. Des coulisses qui s’ouvrent à nous à chaque écoute …"
+      },
+      {
+        "note": 5,
+        "auteur": "Yoann Lopez",
+        "titre": "Super podcast",
+        "texte": "J’ai été invité et auditeur de ce podcast et j’ai vraiment adoré être des deux côtés. Je recommande donc vivement :)"
+      },
+      {
+        "note": 5,
+        "auteur": "mellhermite69",
+        "titre": "Amazing podcast!",
+        "texte": "A écouter sans modération !! Utile, agréable, inspirant, original, innovant! Tout pour plaire 😀"
+      }
+    ]
+  }
 }

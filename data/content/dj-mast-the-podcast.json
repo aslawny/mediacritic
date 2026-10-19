@@ -24,7 +24,7 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-16",
+  "updatedAt": "2026-10-19",
   "episodes_recents": [
     {
       "titre": "SUMMER SENSATION by DJ MAST (2026)",
@@ -50,25 +50,29 @@
   "derniere_activite": "2026-07-28",
   "frequence_jours": 28,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-19",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "**Timostar**",
+        "titre": "Best podcasts ever !!",
+        "texte": "Un des meilleurs podcasts de ce qui ce fait aujourd'hui ! Des styles variées, des remix exclusifs, des compilations de tracks plus anciens avec des récents, juste un pur kiff auditif !! de la très bonne musique !! Et tout cela parfaitement mixé …"
+      },
+      {
+        "note": 5,
+        "auteur": "belo35",
+        "titre": "Excelent!!!!!",
+        "texte": "Combient de fois j'ai entendu \"écoute c'est Dj mast !\" c'est remix son génial, orignal j'adore! je l'ecoute depuis c'est début je suis un grand admirateur. bref je recommande a tous d'ecouter! continue comme sa Thomas"
+      },
+      {
+        "note": 5,
+        "auteur": "Gwen83000",
+        "titre": "De la balle comme toujours!",
+        "texte": "Salut Mister DJ Mast ! Tu te souviens de moi le pote de Greg T. from Troyes. C'est toujours aussi bon ton son...De la bombe atomique! J'espère qu'on aura l'occasion de se recroiser. A plus mon ami."
+      }
     ]
   }
 }

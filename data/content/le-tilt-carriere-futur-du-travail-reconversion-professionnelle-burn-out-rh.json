@@ -26,7 +26,7 @@
     "histoire"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-10-16",
+  "updatedAt": "2026-10-19",
   "episodes_recents": [
     {
       "titre": "L’ÉTÉ DU TILT - 14 membres de ma communauté me racontent leur vie pro idéale",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-27",
   "frequence_jours": 13,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-19",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "MarieVann",
+        "titre": "GÉNIALISSIME",
+        "texte": "Des podcasts hyper enrichissant et très parlants, qui permettent de se retrouver un peu dans chacun des parcours et qui nous donnent la force d’être acteur de notre changement professionnel! Hâte d’écouter tous les épisodes et d’en découvrir davantage …"
+      },
+      {
+        "note": 1,
+        "auteur": "brochard26",
+        "titre": "Un podcast uniquement à destination de ceux qui ont suivi la « voie royale »",
+        "texte": "Le Tilt ne va pas changer votre vie mais il fut une époque où au moins il était utile et donnait de très bons conseils pour vous orienter en cas de reconversion ou juste de vous aider si vous cherchiez votre voie pro.…"
+      },
+      {
+        "note": 5,
+        "auteur": "nico_say",
+        "titre": "LE podcast pour réussir sa reconversion pro",
+        "texte": "Deux ans que j'écoute Léa et ses invités géniaux et il est indéniable que Le Tilt m'a mis sur le chemin de l'alignement ! J'ai lâché un CDI dans lequel j'étais malheureux pour me lancer dans l'entrepreneuriat grâce à Léa ! Merci pour tout 🙏🙏"
+      }
     ]
   }
 }

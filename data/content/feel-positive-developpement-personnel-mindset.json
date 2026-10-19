@@ -27,7 +27,7 @@
     "psychologie"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-10-16",
+  "updatedAt": "2026-10-19",
   "episodes_recents": [
     {
       "titre": "260. Feel Boost | tu as fait quelque chose de rare - 31 jours, célébration et élan !",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-08-31",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Vivik-vanilla",
+        "titre": "The positive podcast 😁",
+        "texte": "Je viens d’écouter les trois premiers épisodes à la suite et j’ai adoré. Étant moi même dans une démarche de positive attitude, gratitude et pensée positive, ce podcast c’est exactement ce qu’il me fallait ! Bravo à toi Andréa 👏🏾"
+      },
+      {
+        "note": 5,
+        "auteur": "Den’",
+        "titre": "Belle découverte !",
+        "texte": "Vraiment une belle découverte, j’aime la vibe qui s’en dégage, c’est rempli d’ondes positives ! Un podcast qui va m’accompagner tout le long du mois !"
+      },
+      {
+        "note": 5,
+        "auteur": "Jess tequila",
+        "titre": "Super épisode",
+        "texte": "J’ai beaucoup aimé ce premier épisode, hâte de découvrir les prochains, merci pour ce mood positif qui fait du bien ! Positivement Jess 😍"
+      }
+    ]
+  }
 }

@@ -27,7 +27,7 @@
     "culture"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-10-16",
+  "updatedAt": "2026-10-19",
   "episodes_recents": [
     {
       "titre": "#110. Vincent Fourdrinier Eveia : de la faillite frôlée au meilleur pédalier de bureau du monde (Made in Franc",
@@ -51,5 +51,27 @@
     }
   ],
   "derniere_activite": "2026-03-28",
-  "frequence_jours": 15
+  "frequence_jours": 15,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-10-19",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

@@ -23,7 +23,7 @@
     "business"
   ],
   "addedAt": "2026-09-11",
-  "updatedAt": "2026-10-16",
+  "updatedAt": "2026-10-19",
   "episodes_recents": [
     {
       "titre": "Entre Nous - Décopreneurs. Notes sur le design d'un business - Créer des clients ambassadeurs",
@@ -49,25 +49,29 @@
   "derniere_activite": "2026-09-11",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-19",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Just-iine",
+        "titre": "Passionnant et inspirant !",
+        "texte": "J’ai découvert ce podcast il y a quelque semaines et je dévore les épisodes chaque jour depuis. Petit rituel de fin de journée, en écoutant les différents intervenants, on en apprend énormément sur le métier d’architecte d’intérieur et de décoratrice.…"
+      },
+      {
+        "note": 1,
+        "auteur": "patelle76",
+        "titre": "Rien à redire !",
+        "texte": "J’ai découvert ce podcast au moment où je faisais une formation pour devenir décoratrice d’intérieur. Depuis, je ne loupe aucun épisode ! J’en apprends à chaque fois et je ne m’ennuie jamais.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Hélène (Paris)",
+        "titre": "Précieux outil de l’archi épanouie…🤍",
+        "texte": "Quel plaisir d’apprendre dans chaque épisode des choses essentielles pour avancer sur le terrain miné du métier de décoratrice et d’architecte d’intérieur.…"
+      }
     ]
   }
 }

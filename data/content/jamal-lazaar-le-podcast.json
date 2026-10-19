@@ -26,7 +26,7 @@
     "business",
     "entrepreneuriat"
   ],
-  "updatedAt": "2026-10-16",
+  "updatedAt": "2026-10-19",
   "episodes_recents": [
     {
       "titre": "#30 Jeanne Siaud-Facchin – Trop intelligent pour être heureux ? haut potentiel HP et surdoués, psychologie, qu",
@@ -50,5 +50,25 @@
     }
   ],
   "derniere_activite": "2024-05-05",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lilifoly",
+        "titre": "J’adore",
+        "texte": "Merci Jamal pour ce podcast, qui accompagne mes trajets de la maison au boulot, j’aime beaucoup les sujets que tu abordes. Un grand merci"
+      },
+      {
+        "note": 4,
+        "auteur": "Epsilon 26",
+        "titre": "Émissions",
+        "texte": "Bonjour. Tous vos sujets et invités sont intéressants. Merci à vous."
+      }
+    ]
+  }
 }
