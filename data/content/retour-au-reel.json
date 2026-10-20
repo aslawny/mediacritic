@@ -52,25 +52,29 @@
   "derniere_activite": "2026-09-18",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-20",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "InèsLrc",
+        "titre": "Réalisme, humilité, sérénité",
+        "texte": "Contenu enrichissant sur le plan personnel, je vous recommande vivement l’écoute qui est, à plus forte raison, très agréable ! Un grand merci à Victor Aubert pour ce partage d’expérience très inspirant !"
+      },
+      {
+        "note": 5,
+        "auteur": "J'ecoutedespodcasts",
+        "titre": "Très intéressant et réaliste",
+        "texte": "A écouter ! Contenu riche et concret, pour une vie vraiment catholique, enracinée et fier de l’être ! Je n’ai qu’un seul vœu : que ces podcasts ne s’arrêtent jamais"
+      },
+      {
+        "note": 5,
+        "auteur": "Arnaud Danjou",
+        "titre": "Très bien construit !",
+        "texte": "Des sujets éclectiques et intéressants, mais tous reliés par un fil rouge : celui de vouloir apporter quelque chose de bon au monde. Motivant !"
+      }
     ]
   }
 }

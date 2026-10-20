@@ -49,25 +49,29 @@
   "derniere_activite": "2026-06-29",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-20",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "gladiator95",
+        "titre": "Terrible!!!",
+        "texte": "Comme d'hab!!! Mes pref' t 3 spécial sur gangstarr(guru dj premier) que du bonheur! Même si c pas ta spécialité j aurai aimé un prit clin d'oeil a Bob marley pour le bien triste anniversaires (30ans déjà) de son dc! Continue.....longtemps ;))"
+      },
+      {
+        "note": 5,
+        "auteur": "Samyguepard",
+        "titre": "Connaisseur",
+        "texte": "Tu arrache tous depuis tes débuts sur ado fm en 97 hé oui on a pas oublié !! Part contre les morceaux de la fouine faut arrêté ...bref je vais pas m étendre sur lui sinon très très bien"
+      },
+      {
+        "note": 5,
+        "auteur": "Dangelo84",
+        "titre": "Que du bon",
+        "texte": "Tous les meilleurs sons hip hop des années 90 a nos jours seul les aficionados le savent même plus besoin de se fatiguer a charger du son tout y est. Merci génération merci ewone"
+      }
     ]
   }
 }

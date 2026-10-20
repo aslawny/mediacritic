@@ -53,25 +53,29 @@
   "derniere_activite": "2026-09-09",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-20",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-10-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "vlasselara",
+        "titre": "Gratitude pour tout ce que tu partages✨",
+        "texte": "Cela fait déjà quelques années que j’écoute le podcast, et je reste émerveillée à chaque épisode! À travers ton podcast, j’ai découvert l’astrologie, l’énergétique et la guidance, ce qui m’a ouvert un monde de découvertes.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Ness-9404",
+        "titre": "Au top!",
+        "texte": "Merci Amba pour tous tes précieux podcasts. Je t’ai découvert il y’a peu et depuis je ne peux me passer de t’écouter, j’attends avec impatience chaque nouvelle sortie d’épisode. Ton concept est vraiment sympa.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Mmm2extra",
+        "titre": "Une jolie prise de conscience qui mène à un éveil",
+        "texte": "Bonjour Amba, Je tenais à te remercier, je pense être une fidèle auditrice du podcast. J’ai commencé à te suivre depuis tes premiers épisodes. Je met en place de nouvelles habitudes qui m’aident à m’ancrer dans le moment et à mieux vivre avec les énergies autours de moi.…"
+      }
     ]
   }
 }

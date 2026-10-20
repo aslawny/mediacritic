@@ -1,0 +1,75 @@
+{
+  "slug": "un-film-pour-ce-soir",
+  "title": "UN FILM (pour ce soir)",
+  "author": "UN FILM (pour ce soir)",
+  "type": "podcast",
+  "categories": [
+    "cinema",
+    "series"
+  ],
+  "description": "Tous les jours à 14h, un conseil de film à regarder ce soir ! (sauf le week-end) (le week-end, on se repose)Animé par Victor.",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/dc/cf/2a/dccf2a46-09d1-c407-38a3-88a28f0455f2/mza_16652928395103046589.jpeg/170x170bb.png",
+  "language": "fr",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/un-film-pour-ce-soir/id1516165346?uo=2",
+      "trackId": 1516165346,
+      "rating": 4.6,
+      "ratingCount": 182,
+      "episodeCount": null
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "cinema",
+    "series"
+  ],
+  "addedAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-10-20",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "Mr. Nobody",
+      "date": "2021-01-22"
+    },
+    {
+      "titre": "Malveillance",
+      "date": "2021-01-21"
+    },
+    {
+      "titre": "Vaiana",
+      "date": "2021-01-20"
+    },
+    {
+      "titre": "Killing Bono",
+      "date": "2021-01-19"
+    },
+    {
+      "titre": "Panikeum sur l'an 2000",
+      "date": "2021-01-15"
+    }
+  ],
+  "derniere_activite": "2021-01-22",
+  "frequence_jours": 0
+}

@@ -1,6 +1,6 @@
 {
-  "maj": "2026-10-19",
-  "total": 1075,
+  "maj": "2026-10-20",
+  "total": 1077,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -1246,6 +1246,12 @@
       "fiche": "fiches/finary.html"
     },
     {
+      "slug": "10000-pas-saison-5",
+      "titre": "10000 PAS - SAISON 5",
+      "notes_apple": 396,
+      "fiche": "fiches/10000-pas-saison-5.html"
+    },
+    {
       "slug": "contre-addictions-par-rose",
       "titre": "Contre-addictions par Rose",
       "notes_apple": 394,
@@ -2186,6 +2192,12 @@
       "titre": "La Série musicale",
       "notes_apple": 200,
       "fiche": "fiches/la-serie-musicale.html"
+    },
+    {
+      "slug": "un-film-pour-ce-soir",
+      "titre": "UN FILM (pour ce soir)",
+      "notes_apple": 182,
+      "fiche": "fiches/un-film-pour-ce-soir.html"
     },
     {
       "slug": "we-love-series",

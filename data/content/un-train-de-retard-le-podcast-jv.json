@@ -26,25 +26,29 @@
   ],
   "updatedAt": "2026-10-19",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-20",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "leceeef",
+        "titre": "ExServ est un très bon journaliste jv",
+        "texte": "ExServ produit toujours du contenu de qualité, bien sourcé et neutre sur le jeu vidéo. Un train de retard permet un retour à froid sur l’actualité et l’approfondissement de sujets interessants en quelques minutes.…"
+      },
+      {
+        "note": 2,
+        "auteur": "JB From Toulouse",
+        "titre": "Un sacré petit wokin ;)",
+        "texte": "Enfin un youtubeur qui ose balancer bravo pour ton courage p’tit père ! :))))))))"
+      },
+      {
+        "note": 5,
+        "auteur": "set tro cool",
+        "titre": "L actualité du JV",
+        "texte": "Excellente emission, Exserv effectue une analyse des sujets du JV du moment. On y parle du jeu vidéo dans son ensemble, avec une analyse globale.…"
+      }
     ]
   },
   "episodes_recents": [

@@ -52,25 +52,23 @@
   "derniere_activite": "2026-08-30",
   "frequence_jours": 2,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-20",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mostrecent",
+    "releve": "2026-10-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "DolanTwinsIsMyLife",
+        "titre": "Débordant d’imagination",
+        "texte": "Fantastique podcast complètement original et de qualité supérieure Mise en ligne presque tous les jours, je l’écoute dans l’auto et au travail Continue le bon travail!!"
+      },
+      {
+        "note": 5,
+        "auteur": "Razziel13",
+        "titre": "Raz",
+        "texte": "Très bon podcast Après adaptation au style de l’auteur Très dur de s’arrêter Continu comme ça"
+      }
     ]
   }
 }

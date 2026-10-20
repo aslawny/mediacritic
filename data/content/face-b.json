@@ -1,0 +1,53 @@
+{
+  "slug": "face-b",
+  "title": "Face B",
+  "author": "Benjamin Terrié",
+  "type": "podcast",
+  "categories": [
+    "cinema",
+    "interview"
+  ],
+  "description": "Face B est un podcast dans lequel je reçois, tous les mois, un professionnel du cinéma pour échanger ensemble sur son parcours, sa vision du cinéma, son métier... Vous pouvez retrouver Face B sur YouTube en version vidéo et sur toutes les plateformes d’écoutes en audio.",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/66/1c/29/661c29c1-0ae6-435b-7519-6aa388f83da7/mza_12158660071405149796.jpeg/170x170bb.png",
+  "language": "fr",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/face-b/id1808174423?uo=2",
+      "trackId": 1808174423,
+      "rating": 5.0,
+      "ratingCount": 4,
+      "episodeCount": null
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "cinema",
+    "interview"
+  ],
+  "addedAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "episodes_recents": [
+    {
+      "titre": "Directrice de casting : Comment repère-t-on les visages du cinéma de demain ?",
+      "date": "2026-10-18"
+    },
+    {
+      "titre": "Classes sociales et cinéma",
+      "date": "2026-10-10"
+    },
+    {
+      "titre": "Ce que personne ne vous dit sur le métier d’agent (avec François Tessier)",
+      "date": "2026-09-21"
+    },
+    {
+      "titre": "La puissance de l'intime : Comment raconter sa propre douleur a touché des milliers de personnes.",
+      "date": "2026-05-15"
+    },
+    {
+      "titre": "ROBIN ROBLES : Dans les coulisses de la production (Partir un jour, Topshot Films)",
+      "date": "2026-04-15"
+    }
+  ],
+  "derniere_activite": "2026-10-18",
+  "frequence_jours": 20
+}

@@ -51,25 +51,29 @@
   "derniere_activite": "2026-09-04",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-20",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Jeannehjrrf",
+        "titre": "For learning French t’s simply amazing",
+        "texte": "En ce moment, j’étudie activement le français et ce podcast m’aide énormément. Le vocabulaire est super bien choisi, le sujet est intéressant et la voix est vraiment agréable"
+      },
+      {
+        "note": 5,
+        "auteur": "Liubov T.",
+        "titre": "C'est une ressource très utile.",
+        "texte": "J'adore ce podcast et il m'aide vraiment à apprendre le français. Les sujets et la présentation sont très intéressants et utiles."
+      },
+      {
+        "note": 4,
+        "auteur": "Funi25",
+        "titre": "Super podcast",
+        "texte": "Interesting topics, intonation and speed of speech make it relatively easy to follow, good length of podcast"
+      }
     ]
   }
 }
