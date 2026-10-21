@@ -51,25 +51,29 @@
   "derniere_activite": "2024-05-20",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-21",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "🧸🍯Ellysa🍯🧸",
+        "titre": "MRC",
+        "texte": "Merci beaucoup je vous conseille de vraiment essayer et vous allez voir c’est super bien et c’est vraiment super bon bis 💋🧸🍯"
+      },
+      {
+        "note": 1,
+        "auteur": "tu saos qui je suis kitsun",
+        "titre": "Wesh",
+        "texte": "Gulli ça a changé avant c’était zig et sharko maintenant quand je vais dessus je vois des mecs gênants qui rigolent tout le temps comme si il avaient un bâton dans le cul éclaté au sol remettez vous en question ceux qui écoutent ça"
+      },
+      {
+        "note": 5,
+        "auteur": "Chat waill",
+        "titre": "Super Guli",
+        "texte": "Est-ce que tu pourrais faire un podcast sur Mister Laine stp.Merci beaucoup pour tes podcasts🐹🐕‍🦺🐁🐾"
+      }
     ]
   }
 }

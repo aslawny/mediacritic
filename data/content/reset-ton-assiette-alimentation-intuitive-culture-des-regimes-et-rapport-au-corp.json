@@ -53,25 +53,29 @@
   "derniere_activite": "2026-09-10",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-21",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Soreal06",
+        "titre": "Avis de Dièt",
+        "texte": "Merci Juliette pour ton podcast. J’adore! Quand j’ai commencé comme diététicien, j’étais persuadé d’avoir compris comment aider mes patients à perdre du poids et ce fut rapidement la déconvenue.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Flavie 49",
+        "titre": "Super podcast",
+        "texte": "Franchement bravo Juliette! Je me mets aux podcasts et je découvre que faire de bons épisodes ben ça demande de remplir pas mal de critères! Au-delà du contenu pertinent, tes explications sont simples et naturelles avec ta touche d’humour! Ta voix est super à écouter en plus! Le…"
+      },
+      {
+        "note": 5,
+        "auteur": "eloralie",
+        "titre": "Pour mieux aimer son corps et se reconnecter à soi",
+        "texte": "Déjà je suivais The Last Quiche sur Instagram ça m’avait fait pas mal de prises de conscience. Mais alors ce podcast est si bien expliqué, les références sont pertinentes et intéressantes, on se rend compte de toute la machination de la diet culture. Je recommande à 100%"
+      }
     ]
   }
 }

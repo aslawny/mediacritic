@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-19",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Marie Nathanaelle",
+        "titre": "Merci !",
+        "texte": "Merci beaucoup pour toutes vos bonnes émissions qui me nourrissent spirituellement chaque jour ! Particulièrement au père Matthieu Rey, ses catéchèses toujours passionnantes, Ainsi que le père Nicolas Sautereau Merci aussi pour rediffuser les commentaires de la messe quotidienne…"
+      },
+      {
+        "note": 5,
+        "auteur": "Fabrice from France",
+        "titre": "Une belle radio !",
+        "texte": "Une belle radio à recommander, à cautionner et à encourager. Mille mercis à toute l’équipe ! Bien fraternellement, Fabrice"
+      },
+      {
+        "note": 5,
+        "auteur": "Bigiou",
+        "titre": "A faire connaître",
+        "texte": "Je ne connaissais pas, et quelle découverte ! Suis accroché chaque jour. Continuez !"
+      }
+    ]
+  }
 }

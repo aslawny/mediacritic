@@ -51,25 +51,29 @@
   "derniere_activite": "2026-09-04",
   "frequence_jours": 4,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-21",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "MehdiMilliard",
+        "titre": "Médiocrité chimiquement pure",
+        "texte": "Merci Ngiraan pour ce contenu de divertissement parfait de médiocrité. Ce goût pour le bon mot, les digressions toujours à propos et cette pensée en arborescence que l’on peut presque visualiser en écoutant (quoique pas toujours).…"
+      },
+      {
+        "note": 5,
+        "auteur": "TheDream94",
+        "titre": "Le BAC, le podcast… et toujours le même responsable",
+        "texte": "Ngiraan, tu réussis l’exploit rare de traumatiser positivement une même personne à 17 ans d’intervalle. En 2026, je démarre mes matinées avec ce podcast absurdement drôle… et BIM, flashback : les jeudis soirs de 2010, jusqu’à 21h30, dans cette mythique enceinte sportive, à coups…"
+      },
+      {
+        "note": 5,
+        "auteur": "Oldig",
+        "titre": "Indispensable",
+        "texte": "Ravi de retrouver la voix de Ngiraan, notre phœnix du PAF. Le podcast combine de l’information décalée et de l’humour tranchant, c’est un régal pour les oreilles. Longue vie à toi Ngiraan et à toutes tes créations médiatiques."
+      }
     ]
   }
 }

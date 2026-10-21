@@ -52,25 +52,29 @@
   "derniere_activite": "2026-09-18",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-21",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Masarêve",
+        "titre": "Un vrai coup de cœur !",
+        "texte": "Je suis tombée un peu par hasard sur votre podcast en cherchant tout autre chose… et quelle belle surprise ! J’ai écouté l’épisode du jour, notamment le récit de Fabien sur ce terrible serial killer qui a marqué New York dans les années 70, et je tenais vraiment à le féliciter.…"
+      },
+      {
+        "note": 2,
+        "auteur": "hedilammar",
+        "titre": "Amateurisme",
+        "texte": "Les sujets sont intéressants mais n’écoute de tics de langages , de bruits inopportuns , le rire du créateur qui est insupportables . Cela fait très amateurs car beaucoup de digressions ( on s en fout qu il soit fatigués ou de leur vie ) on a l impression que c est fait par des c…"
+      },
+      {
+        "note": 5,
+        "auteur": "ssetet",
+        "titre": "Longue vie aux amateurs !!!",
+        "texte": "Du latin « amator », celui qui aime. je vous écoute parce que vous êtes mus et investis en dehors de toute rétribution en plus de vos vies personnelles ou professionnelles, par l’amour de NYC et l’envie simple et pure de partager avec d’autres cette passion qui vous unit, sans au…"
+      }
     ]
   }
 }

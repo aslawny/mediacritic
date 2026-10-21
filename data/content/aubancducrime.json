@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-25",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Katarichka",
+        "titre": "Remarquable",
+        "texte": "Podcast de true crime qui dénote positivement. Il y a un vrai travail d’écriture dont le but est de faire de l’auditeur un juré… pari largement réussi !"
+      },
+      {
+        "note": 3,
+        "auteur": "Orwanne",
+        "titre": "Excellent, avant les pubs",
+        "texte": "J’adorais ce podcast : narration parfaite , voix très agréable , fond musical adapté . Sauf que depuis qq épisodes , nous avons droit à 2 pubs par épisode : voix criardes, décibels qui augmentent de façon importantes.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Lochetta__0",
+        "titre": "Podcast sous côté",
+        "texte": "Si agréable à écouter ! Les bruits de fond nous mette réellement dans l’ambiance ! Je recommande fortement ! Pour moi c’est 5 étoiles !!! ✨✨"
+      }
+    ]
+  }
 }

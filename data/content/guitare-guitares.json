@@ -26,25 +26,29 @@
   "addedAt": "2026-06-15",
   "updatedAt": "2026-10-19",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-21",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ioniriq",
+        "titre": "Inspirant et riche en découvertes",
+        "texte": "Merci pour cette émission que je suis avec assiduité depuis des années et que j’aime toujours autant. Cette richesse dans la variété des sujets abordés, des styles et époques offre des découvertes infinies.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Marvu1",
+        "titre": "Guitare, guitares",
+        "texte": "Un très grand merci pour votre émission si documentée et si intéressante. Au cours d’une prochaine émission, pourriez-vous nous donner des informations sur l’origine et le contexte de la création des 2 pièces suivantes : Caprichio Arabe et Étude Sin Luz.…"
+      },
+      {
+        "note": 5,
+        "auteur": "momiredosila",
+        "titre": "Grand merci",
+        "texte": "Rendez-vous nécessaire tous les samedis pour ce moment musical mélodique et poétique Merci pour ce grand moment pour découvrir cet instrument magique au potentiel inépuisable que vous nous présentez dans sa merveilleuse diversité pour notre plaisir d’écoute Merci"
+      }
     ]
   }
 }
