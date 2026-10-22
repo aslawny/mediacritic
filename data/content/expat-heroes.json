@@ -25,7 +25,7 @@
     "sciences"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-10-19",
+  "updatedAt": "2026-10-22",
   "episodes_recents": [
     {
       "titre": "Pourquoi j'arrête la production du podcast Expat Heroes ?",
@@ -51,25 +51,29 @@
   "derniere_activite": "2022-06-28",
   "frequence_jours": 13,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-22",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lucie.mlm",
+        "titre": "Un incontournable !",
+        "texte": "Quels podcasts de qualité ! Tout le monde peut s’y retrouver, personnes actuellement en expatriation ou expat en devenir. Je prépare moi-même ma future expatriation et les thèmes abordés, les parcours, les expériences de chacun sont inspirants et riches; sans parler de tous les p…"
+      },
+      {
+        "note": 5,
+        "auteur": "AlisonLawson",
+        "titre": "Un podcast passionnant !",
+        "texte": "Merci Cristina, pour tes podcasts de qualité, que j’écoute toujours avec beaucoup de plaisir. Les témoignages de tes invités sont riches et variés.…"
+      },
+      {
+        "note": 5,
+        "auteur": "sohoow",
+        "titre": "On voyage avec Expat Heroes",
+        "texte": "Cristina est expat et a vécu de nombreuses expériences à l’étranger ! Son podcast met en lumière ces expats qui ont tout quitté, le choix du pays, la vie sur place et bien d’autres sujets.…"
+      }
     ]
   }
 }

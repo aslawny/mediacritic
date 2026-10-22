@@ -25,7 +25,7 @@
     "cuisine"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-10-19",
+  "updatedAt": "2026-10-22",
   "episodes_recents": [
     {
       "titre": "S10 E27. Je vais lever le pied [Expression Express]",
@@ -51,25 +51,29 @@
   "derniere_activite": "2026-08-14",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-22",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "RJVTB",
+        "titre": "Excellente découverte.",
+        "texte": "Je suis très content d’avoir découvert les podcast d’apprends le français avec Madame à Paname et la possibilité d’écouter les podcasts de façon gratuit.…"
+      },
+      {
+        "note": 5,
+        "auteur": "naaghmee",
+        "titre": "Parfait",
+        "texte": "Je toujours profite d’écouter vos podcasts. Les sujets sont généralement intéressants. Votre vitesse de parole me convient bel et bien. Surtout que vous avez considéré mon avis sur ignorer de bruit comme notification de WhatsApp pendant les podcasts. Bon courage la prof aimable"
+      },
+      {
+        "note": 5,
+        "auteur": "Marty the cotton",
+        "titre": "The best learning podcast for French language",
+        "texte": "It’s amazing for learning French ! Must try 👍 بودكاست رائع لتعلم اللغة الفرنسية، المواضيع ممتعة وطريقة اللفظ والتقديم ممتازة ينصح بمتابعته !"
+      }
     ]
   }
 }

@@ -25,7 +25,7 @@
     "sport"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-10-19",
+  "updatedAt": "2026-10-22",
   "episodes_recents": [
     {
       "titre": "#61 Guillaume Lopez - Illustrateur",
@@ -51,25 +51,29 @@
   "derniere_activite": "2023-10-17",
   "frequence_jours": 21,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-22",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Thomas31b",
+        "titre": "A consommer sans modération",
+        "texte": "Ce podcast gagne clairement à être connu. Vincent Desmonts laisse notamment la parole à ceux qui ont fait (et font) l’histoire de l’automobile. On y découvre par exemple les coulisses des projets (ex.…"
+      },
+      {
+        "note": 5,
+        "auteur": "JeeperWJ",
+        "titre": "Un vrai podcast de « Bagnolard » !!!",
+        "texte": "Ça transpire la passion et c’est parfait. J’aime cet enregistrement nature ( ce n’est pas le son le plus parfait…et c’est très bien ) c’est ce qui donne cette bonne impression de proximité avec l’invité du podcast.…"
+      },
+      {
+        "note": 5,
+        "auteur": "MrSnakepitSlash",
+        "titre": "Made by bagnolard for bagnolard",
+        "texte": "A ajouter dans la collection de contenu que tout amoureux d’auto doit avoir. Dès que j’ai un moment, je me fais un petit podcast de tour d’auto.…"
+      }
     ]
   }
 }

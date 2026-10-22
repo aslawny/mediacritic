@@ -1,6 +1,6 @@
 {
-  "maj": "2026-10-21",
-  "total": 1077,
+  "maj": "2026-10-22",
+  "total": 1095,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -4774,6 +4774,12 @@
       "fiche": "fiches/allo-centrale.html"
     },
     {
+      "slug": "une-enfance-d-ecrivain",
+      "titre": "Une enfance d'écrivain",
+      "notes_apple": 50,
+      "fiche": "fiches/une-enfance-d-ecrivain.html"
+    },
+    {
       "slug": "brandiiing",
       "titre": "Brandiiing",
       "notes_apple": 49,
@@ -5312,6 +5318,12 @@
       "titre": "lundisoir",
       "notes_apple": 44,
       "fiche": "fiches/lundisoir.html"
+    },
+    {
+      "slug": "cautionneries",
+      "titre": "Cautionneries",
+      "notes_apple": 44,
+      "fiche": "fiches/cautionneries.html"
     },
     {
       "slug": "amour-sexe-voyage",
@@ -6464,6 +6476,102 @@
       "titre": "Music Sounds Better With Us",
       "notes_apple": 34,
       "fiche": "fiches/music-sounds-better-with-us.html"
+    },
+    {
+      "slug": "musique-piano",
+      "titre": "Musique Piano",
+      "notes_apple": 34,
+      "fiche": "fiches/musique-piano.html"
+    },
+    {
+      "slug": "l-odyssee-d-homere",
+      "titre": "L’Odyssée d’Homère",
+      "notes_apple": 34,
+      "fiche": "fiches/l-odyssee-d-homere.html"
+    },
+    {
+      "slug": "objectif-quebec-le-podcast",
+      "titre": "Objectif Québec ! Le podcast",
+      "notes_apple": 34,
+      "fiche": "fiches/objectif-quebec-le-podcast.html"
+    },
+    {
+      "slug": "secrets-de-polichinelle",
+      "titre": "Secrets de Polichinelle",
+      "notes_apple": 34,
+      "fiche": "fiches/secrets-de-polichinelle.html"
+    },
+    {
+      "slug": "the-fuze-podcast",
+      "titre": "The fuze podcast",
+      "notes_apple": 34,
+      "fiche": "fiches/the-fuze-podcast.html"
+    },
+    {
+      "slug": "avec-foi",
+      "titre": "Avec Foi",
+      "notes_apple": 33,
+      "fiche": "fiches/avec-foi.html"
+    },
+    {
+      "slug": "backstage",
+      "titre": "Backstage",
+      "notes_apple": 33,
+      "fiche": "fiches/backstage.html"
+    },
+    {
+      "slug": "cher-bon",
+      "titre": "CHER BON!",
+      "notes_apple": 33,
+      "fiche": "fiches/cher-bon.html"
+    },
+    {
+      "slug": "debriefilm",
+      "titre": "Debriefilm",
+      "notes_apple": 33,
+      "fiche": "fiches/debriefilm.html"
+    },
+    {
+      "slug": "equilibre-et-performance-podcast",
+      "titre": "Équilibre et Performance - Podcast",
+      "notes_apple": 33,
+      "fiche": "fiches/equilibre-et-performance-podcast.html"
+    },
+    {
+      "slug": "cosmos-litteraire",
+      "titre": "Cosmos Littéraire",
+      "notes_apple": 33,
+      "fiche": "fiches/cosmos-litteraire.html"
+    },
+    {
+      "slug": "haifaa-younis",
+      "titre": "Haifaa Younis",
+      "notes_apple": 33,
+      "fiche": "fiches/haifaa-younis.html"
+    },
+    {
+      "slug": "handi-cape-cinema",
+      "titre": "Handi'Cape & Cinéma",
+      "notes_apple": 33,
+      "fiche": "fiches/handi-cape-cinema.html"
+    },
+    {
+      "slug": "histoire-intellectuelle-de-la-chine-anne-cheng",
+      "titre": "Histoire intellectuelle de la Chine - Anne Cheng",
+      "notes_apple": 33,
+      "fiche": "fiches/histoire-intellectuelle-de-la-chine-anne-cheng.html"
+    },
+    {
+      "slug": "horlogerie-fine",
+      "titre": "Horlogerie fine",
+      "notes_apple": 33,
+      "fiche": "fiches/horlogerie-fine.html"
+    },
+    {
+      "slug": "ile-maurice-mon-amour",
+      "titre": "Ile Maurice mon amour",
+      "notes_apple": 33,
+      "fiche": "fiches/ile-maurice-mon-amour.html"
     }
   ]
 }

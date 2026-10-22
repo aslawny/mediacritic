@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/objectif-qu%C3%A9bec-le-podcast/id1645782436?uo=2",
       "trackId": 1645782436,
       "rating": 4.9,
-      "ratingCount": 33,
+      "ratingCount": 34,
       "episodeCount": null
     }
   },
@@ -26,7 +26,7 @@
     "societe"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-10-19",
+  "updatedAt": "2026-10-22",
   "episodes_recents": [
     {
       "titre": "104 - Et si vous pouviez intégrer l'Académie à coût zéro ?",
@@ -50,5 +50,27 @@
     }
   ],
   "derniere_activite": "2026-09-03",
-  "frequence_jours": 16
+  "frequence_jours": 16,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-10-22",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

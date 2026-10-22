@@ -26,7 +26,7 @@
     "histoire"
   ],
   "addedAt": "2026-07-03",
-  "updatedAt": "2026-10-19",
+  "updatedAt": "2026-10-22",
   "episodes_recents": [
     {
       "titre": "Consolidation des cabinets : le bilan d'Archipel - Matthieu Luneau",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-07-18",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "domtom92",
+        "titre": "Bravo et merci",
+        "texte": "Merci Alexis de nous partager cet épisode avec Cyril Degriltart. J ai passé un très bon moment et plein d’enseignement. La bienveillance, la simplicité et l’humilité de Cyril sont une force et donne une vision de notre métier en pleine mutation et qui a besoin de rester attractif…"
+      },
+      {
+        "note": 5,
+        "auteur": "EdouardMas",
+        "titre": "Podcast de grande qualité",
+        "texte": "J’écoute souvent, c’est tout le temps très qualitatif avec des invités passionnants, et Alexis qui pose les bonnes questions, y compris celles qui piquent. Je laisse un 5* pour soutenir !"
+      },
+      {
+        "note": 5,
+        "auteur": "GT 🔥",
+        "titre": "Top!",
+        "texte": "Le meilleur podcast de la profession. Bon je connais pas vraiment les autres, j’écoute que celui-là 😂"
+      }
+    ]
+  }
 }

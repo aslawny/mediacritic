@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/wake-up/id6823111306?uo=2",
       "trackId": 6823111306,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 2,
       "episodeCount": null
     }
   },
@@ -25,7 +25,7 @@
     "interview"
   ],
   "addedAt": "2026-10-20",
-  "updatedAt": "2026-10-20",
+  "updatedAt": "2026-10-22",
   "episodes_recents": [
     {
       "titre": "7h du matin et Léopold Lemarchand parle déjà de son côlon",

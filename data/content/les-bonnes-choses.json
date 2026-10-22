@@ -27,27 +27,31 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-19",
+  "updatedAt": "2026-10-22",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-22",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "foucaut nat.",
+        "titre": "Le saké",
+        "texte": "Un beau choix pour animer les bonnes choses. C’est une découverte pour l’auditrice que je suis. Cette boisson délicate est une bonne envie d’y goûter sinon de l’offrir. Émotion assurée, me semble t il ?"
+      },
+      {
+        "note": 1,
+        "auteur": "Celine Dem",
+        "titre": "Parti pris",
+        "texte": "Avoir une émission « jeuner est il bon ? » avec un invité dont le métier est de vendre des jeunes ne me semble pas pertinent."
+      },
+      {
+        "note": 4,
+        "auteur": "BENZINEMAG.NET",
+        "titre": "A découvrir !",
+        "texte": "bien manger, bien vivre, manger sain, en respect avec notre environnement… des thème au cœur de nos préoccupations aujourd’hui. A découvrir !"
+      }
     ]
   }
 }

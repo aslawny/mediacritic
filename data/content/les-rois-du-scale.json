@@ -25,7 +25,7 @@
     "business"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-10-19",
+  "updatedAt": "2026-10-22",
   "episodes_recents": [
     {
       "titre": "Les secrets de l'argent dans les podcasts... Robin Conquet X Thibault Louis - Les rois du scale",
@@ -51,25 +51,29 @@
   "derniere_activite": "2025-12-01",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-22",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "MarieFcl",
+        "titre": "Super",
+        "texte": "Hyper inspirant pour mon business, je sors de chaque épisode avec de nouvelles idées pour toujours mieux servir mes clients et la mission de mon entreprise. Merci à Thibault et à tous les invités !"
+      },
+      {
+        "note": 1,
+        "auteur": "zocapro",
+        "titre": "Amateur",
+        "texte": "Je lisais avec attention ses publications linkedin, quelle déception ce podcast … questions nazes, uniquement orientées sur combien facturée de l heure.., tellement fier de ses 500 euros. J en ai écouté 4, me suis accroché, vraiment, pas vu le début de valeur ajouté.…"
+      },
+      {
+        "note": 5,
+        "auteur": "FRX Frigo",
+        "titre": "Une dinguerie",
+        "texte": "Thibault s’impose peu à peu comme le roi de LinkedIn. Et ces podcasts bien ficelés ne représentent qu’une infime partie de son talent. A écouter urgemment pour devenir une bête de réseaux sociaux."
+      }
     ]
   }
 }

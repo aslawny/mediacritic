@@ -24,7 +24,7 @@
     "sciences"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-10-19",
+  "updatedAt": "2026-10-22",
   "episodes_recents": [
     {
       "titre": "Mais, d'où vient l'énergie ?",
@@ -50,25 +50,29 @@
   "derniere_activite": "2024-11-05",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-22",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Philippec71",
+        "titre": "Esprit critique et intelligence collective",
+        "texte": "J’écoute et je ré-écoute ce podcast. Transdisciplinarité, esprit critique, humilité, rôle de l’école et l’enseignement des sciences, échanges et respect mutuel des intervenants, nos gouvernants devraient obligatoirement écouter ce podcast. Merci pour cet richesse!"
+      },
+      {
+        "note": 2,
+        "auteur": "GL78!",
+        "titre": "Pas de la science",
+        "texte": "Je n’ai pas bien compris l’intérêt « scientifique » de l’épisode sur l’énergie. On prend un philosophe, on parle d’Aristote qui a 2300 ans, puis de poésie et d’énergie des mots… pas un très grand intérêt scientifique selon moi"
+      },
+      {
+        "note": 4,
+        "auteur": "Doudou 2.0",
+        "titre": "Podcast la fabrique à savoir !!",
+        "texte": "Podcast très pertinent et intelligent. Bonne compréhension pour un enfant même assez jeune. Un très bon esprit critique est présent dans ces épisodes.…"
+      }
     ]
   }
 }

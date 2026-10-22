@@ -26,7 +26,7 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-19",
+  "updatedAt": "2026-10-22",
   "episodes_recents": [
     {
       "titre": "[SECActu] 18 Feb 2024",
@@ -50,25 +50,29 @@
     }
   ],
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-22",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Olivier_N_",
+        "titre": "Podcast bien fait avec un bon esprit",
+        "texte": "L’ambiance est très sympathique. Les chroniqueurs ont l’air compétents et fiables : ils savent de quoi ils parlent. Attention, il faut être un minimum informé niveau Hi-tech avant d’aborder ce podcast.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Ironmano",
+        "titre": "Super sympa !",
+        "texte": "Podcast découvert suite à une recommandation de NipDev … et je ne le regrette pas ! Le ton est très sympa, l’ambiance superbe (ça donne envie d’en être et de trinquer avec eux !) et ça parle tech, sans être trop pointu, en bref, c’est à la porté de toutes et tous …"
+      },
+      {
+        "note": 5,
+        "auteur": "wtma",
+        "titre": "Super contenu.",
+        "texte": "Super podcast, intéressant et le tout dans la bonne humeur. Je n’en rate pas un. Je vous encourage cependant à travailler la qualité du son, car malheureusement c’est souvent inécoutable en voiture quand il y a un peu de bruit de fond.…"
+      }
     ]
   }
 }

@@ -22,7 +22,7 @@
   "tags": [
     "histoire"
   ],
-  "updatedAt": "2026-10-19",
+  "updatedAt": "2026-10-22",
   "episodes_recents": [
     {
       "titre": "Colloque - Anne Cheng : Démocratie ou dictature numérique : perspectives historiques et comparatives",
@@ -46,5 +46,27 @@
     }
   ],
   "derniere_activite": "2026-06-25",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-10-22",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

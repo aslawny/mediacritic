@@ -25,7 +25,7 @@
   "tags": [
     "santé"
   ],
-  "updatedAt": "2026-10-19",
+  "updatedAt": "2026-10-22",
   "episodes_recents": [
     {
       "titre": "# 35 L'histoire touchante de Stéphanie : le parcours d'Alba face à la leucémie et l'espoir inébranlable",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2025-03-27",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "bp13011",
+        "titre": "Simplement indispensable",
+        "texte": "Sérieux, professionnel, utile, PAR et POUR les patients atteints de cancer avec le soutien des professionnels de santé. Bravo Abigaïl! Vivement la saison 3!!"
+      },
+      {
+        "note": 5,
+        "auteur": "@lea@!",
+        "titre": "Merci pour tous ces témoignages et la richesse des partages",
+        "texte": "Podcast super important qui devrait être écouté par tous soignants patients! Merci pour ce super travail!! A suivre sans modération et à partager avec tous"
+      },
+      {
+        "note": 5,
+        "auteur": "Lele@12345",
+        "titre": "Merciii",
+        "texte": "Un vrai travail de qualité, très utile pour de nombreux patients pour apprendre pleins de choses intéressantes et importantes sur la maladie. Merci à vous"
+      }
+    ]
+  }
 }

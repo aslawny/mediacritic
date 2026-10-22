@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/vin-rouge-cin%C3%A9ma/id6822906116?uo=2",
       "trackId": 6822906116,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": null
     }
   },
@@ -25,7 +25,7 @@
     "series"
   ],
   "addedAt": "2026-10-20",
-  "updatedAt": "2026-10-20",
+  "updatedAt": "2026-10-22",
   "episodes_recents": [
     {
       "titre": "Episode#1: Objectif Subventions",

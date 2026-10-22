@@ -25,7 +25,7 @@
     "series"
   ],
   "addedAt": "2026-07-30",
-  "updatedAt": "2026-10-19",
+  "updatedAt": "2026-10-22",
   "episodes_recents": [
     {
       "titre": "Les Vacances",
@@ -34,25 +34,29 @@
   ],
   "derniere_activite": "2019-02-22",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-22",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "hr'mjkjjytgugj",
+        "titre": "Wesh?",
+        "texte": "Pourquoi vous vous acharnez sur la personne.Elle fait juste une critique bande de cons"
+      },
+      {
+        "note": 1,
+        "auteur": "picsou riche",
+        "titre": "Nul",
+        "texte": "C’est NULE IL Y A UN ÉPISODE ET C’EST NUL!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!👎"
+      },
+      {
+        "note": 3,
+        "auteur": "11 14",
+        "titre": "Bien mais",
+        "texte": "Bonjour ☺️ Ce podcast est très bien vus que tu avais 13ans quand tu l’as fais, je pense qu’il faudrait que tu consacre un peu plus de temps à ce podcaste pour faire plus d’épisodes ect… Je pense que tu en ai capable ! Courage 😊🦋 Lindsay, 15ans"
+      }
     ]
   }
 }

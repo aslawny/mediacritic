@@ -23,7 +23,7 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-10-19",
+  "updatedAt": "2026-10-22",
   "episodes_recents": [
     {
       "titre": "Alzheimer : où en est la recherche de traitements ?",
@@ -49,25 +49,29 @@
   "derniere_activite": "2026-09-20",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-22",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Bocca1",
+        "titre": "Mise à jour Podcast sur iTunes",
+        "texte": "Bonjour, Bravo et merci pour la Matinale et RTL soir….. Pourriez vous revoir la façon dont l’enregistrement de toutes les interviews et chroniques sont mises en ligne pour écoute immédiate sur Tunes à partir de 19h pour RTL soir, y compris Alain Duhamel le vendredi soir SVP.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Emsingap",
+        "titre": "Mis à jour",
+        "texte": "Mises à jour trop irrégulières. Désolé je repars chez Europe1!"
+      },
+      {
+        "note": 5,
+        "auteur": "olivierlapotre",
+        "titre": "On refait le monde !",
+        "texte": "Bonjour, Depuis un petit moment le podcast de la seconde partie de RTL soir (on refait le monde) n’est malheureusement plus disponible. Dommage."
+      }
     ]
   }
 }
