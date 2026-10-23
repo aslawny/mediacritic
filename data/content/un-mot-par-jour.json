@@ -1,0 +1,75 @@
+{
+  "slug": "un-mot-par-jour",
+  "title": "Un mot par jour",
+  "author": "Choses à Savoir",
+  "type": "podcast",
+  "categories": [
+    "langues",
+    "education"
+  ],
+  "description": "",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/89/3b/7a/893b7a77-380b-1017-c0ee-9847ee885e3a/mza_1743167143408069274.jpeg/170x170bb.png",
+  "language": "fr",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/un-mot-par-jour/id1492034665?uo=2",
+      "trackId": 1492034665,
+      "rating": 4.3,
+      "ratingCount": 267,
+      "episodeCount": null
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "langues",
+    "education"
+  ],
+  "addedAt": "2026-10-23",
+  "updatedAt": "2026-10-23",
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-10-23",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "Anthropique",
+      "date": "2026-10-23"
+    },
+    {
+      "titre": "Ectotherme",
+      "date": "2026-10-21"
+    },
+    {
+      "titre": "Fatuité",
+      "date": "2026-10-19"
+    },
+    {
+      "titre": "Uchronie",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Pusillanimité",
+      "date": "2026-10-14"
+    }
+  ],
+  "derniere_activite": "2026-10-23",
+  "frequence_jours": 2
+}

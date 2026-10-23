@@ -28,25 +28,29 @@
   "addedAt": "2026-06-24",
   "updatedAt": "2026-10-22",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-23",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-23",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Catherinelyonlarochelle",
+        "titre": "Merci pour ce lien avec mon Eglise",
+        "texte": "Je remercie sincèrement tous les acteurs de cette émission . Bien à vous Catherine Fournet de Lyon"
+      },
+      {
+        "note": 1,
+        "auteur": "Biethch",
+        "titre": "Je suis une fervente à l’écoute",
+        "texte": "Dieu se sert de vos podcasts pour m’élever, me former .Merci musiques et textes, sermons c’est parfait . Je suis une fidèle auditrice la nuit au lit ....."
+      },
+      {
+        "note": 3,
+        "auteur": "François83@",
+        "titre": "Le Carême Protestant 2026",
+        "texte": "Bonjour, J’apprécie le Carême protestant 2026 dans Solaé, mais je trouve dommage que la pasteure ne semble pas plus naturelle. On sent qu’elle lit une trame sans âme ni spontanéité, avec des répétitions fréquentes de « Jean-Luc » qui paraissent très forcées pour donner aux audite…"
+      }
     ]
   }
 }

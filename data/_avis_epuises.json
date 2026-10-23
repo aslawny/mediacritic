@@ -1,6 +1,6 @@
 {
-  "maj": "2026-10-22",
-  "total": 1095,
+  "maj": "2026-10-23",
+  "total": 1102,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -448,6 +448,12 @@
       "fiche": "fiches/entendez-vous-l-eco.html"
     },
     {
+      "slug": "c-est-pas-toi-c-est-moi",
+      "titre": "C'est pas toi, c'est moi.",
+      "notes_apple": 872,
+      "fiche": "fiches/c-est-pas-toi-c-est-moi.html"
+    },
+    {
       "slug": "histoires-pour-enfants-a-ecouter",
       "titre": "Histoires pour enfants à écouter",
       "notes_apple": 867,
@@ -638,6 +644,12 @@
       "titre": "Minute Islam",
       "notes_apple": 675,
       "fiche": "fiches/minute-islam.html"
+    },
+    {
+      "slug": "projet-orloff",
+      "titre": "Projet Orloff",
+      "notes_apple": 675,
+      "fiche": "fiches/projet-orloff.html"
     },
     {
       "slug": "l-heure-du-monde",
@@ -1876,6 +1888,12 @@
       "fiche": "fiches/la-collection-georges-lang.html"
     },
     {
+      "slug": "un-mot-par-jour",
+      "titre": "Un mot par jour",
+      "notes_apple": 267,
+      "fiche": "fiches/un-mot-par-jour.html"
+    },
+    {
       "slug": "bye-bye-patron-investissement-immobilier-liberte-financiere",
       "titre": "Bye Bye Patron : Investissement immobilier & liberté financière",
       "notes_apple": 266,
@@ -2726,6 +2744,12 @@
       "titre": "Super Vieux Jeux",
       "notes_apple": 87,
       "fiche": "fiches/super-vieux-jeux.html"
+    },
+    {
+      "slug": "chapitre-1-ouvrez-les-guillemets",
+      "titre": "Chapitre 1 - Ouvrez les guillemets",
+      "notes_apple": 87,
+      "fiche": "fiches/chapitre-1-ouvrez-les-guillemets.html"
     },
     {
       "slug": "cine-crash",
@@ -5110,6 +5134,18 @@
       "fiche": "fiches/chitchat-je-sur-analyse-tes-telerealites-preferees-react-star-academy-koh-lanta-.html"
     },
     {
+      "slug": "bold-voices",
+      "titre": "Bold Voices",
+      "notes_apple": 46,
+      "fiche": "fiches/bold-voices.html"
+    },
+    {
+      "slug": "economie-des-institutions-de-l-innovation-et-de-la-croissance-philippe-aghion",
+      "titre": "Économie des institutions, de l'innovation et de la croissance - Philippe Aghion",
+      "notes_apple": 46,
+      "fiche": "fiches/economie-des-institutions-de-l-innovation-et-de-la-croissance-philippe-aghion.html"
+    },
+    {
       "slug": "aventures-fiction-discussions-sur-les-comics",
       "titre": "Aventures Fiction, discussions sur les comics",
       "notes_apple": 45,
@@ -5324,6 +5360,12 @@
       "titre": "Cautionneries",
       "notes_apple": 44,
       "fiche": "fiches/cautionneries.html"
+    },
+    {
+      "slug": "nej-le-podcast-des-femmes-puissantes-et-ambitieuses",
+      "titre": "Nej - Le Podcast des femmes puissantes et ambitieuses",
+      "notes_apple": 44,
+      "fiche": "fiches/nej-le-podcast-des-femmes-puissantes-et-ambitieuses.html"
     },
     {
       "slug": "amour-sexe-voyage",

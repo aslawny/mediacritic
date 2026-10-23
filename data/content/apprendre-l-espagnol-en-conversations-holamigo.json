@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-21",
   "frequence_jours": 6,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-23",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-23",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Agnès Doo",
+        "titre": "Merci",
+        "texte": "Même si je suis débutante, je trouve vos podcast facile à comprendre et du coup cela me donne confiance et envie de continuer. Vos voix sont agréables et souriantes, je vous écoute dans la voiture et je ne vois pas passer le trajet ! merci pour votre travail continuez !"
+      },
+      {
+        "note": 5,
+        "auteur": "El eternal principiante",
+        "titre": "Merci",
+        "texte": "Excellent à tous points de vue ce podcast en plus d’être une pépite culturelle est super pédagogique et la description en lecture simultanée ajoute une plus value à l’ouvrage. Bravo et grand merci"
+      },
+      {
+        "note": 5,
+        "auteur": "Pascale2026",
+        "titre": "Bravo !!",
+        "texte": "Pedro y el equipo me encantan vuestros vídeos 😍😍😍 Especialmente me encantó esto sobre Trump y el Venezuela Me gustaría mucho escuchar a otros episodios hablando de la actualidad ."
+      }
     ]
   }
 }

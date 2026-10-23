@@ -1,0 +1,51 @@
+{
+  "slug": "projet-orloff",
+  "title": "Projet Orloff",
+  "author": "France Culture",
+  "type": "podcast",
+  "categories": [
+    "litterature",
+    "fiction"
+  ],
+  "description": "",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/26/fa/75/26fa75e0-ccd8-34d7-20f3-92b76f9ebbec/mza_3471018715776479860.jpg/170x170bb.png",
+  "language": "",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/projet-orloff/id1480388672?uo=2",
+      "trackId": 1480388672,
+      "rating": 4.8,
+      "ratingCount": 675,
+      "episodeCount": null
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "litterature",
+    "fiction"
+  ],
+  "addedAt": "2026-10-23",
+  "updatedAt": "2026-10-23",
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-10-23",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
+}

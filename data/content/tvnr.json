@@ -25,25 +25,29 @@
   ],
   "updatedAt": "2026-10-22",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-23",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-23",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Khalane",
+        "titre": "Super émission !",
+        "texte": "Encore une très bonne émission produite par Radiokawa, avec ses chroniqueurs que l'on peut retrouver dans plusieurs de leur production. Emission très intéressante pour celui ou celle qui ne regarde pas beaucoup la télévision, elle permet de se tenir au courant de ce qui se fait e…"
+      },
+      {
+        "note": 5,
+        "auteur": "Sen@__@mi",
+        "titre": "On frôle l'excellence si celle ci n'est pas déjà atteinte.",
+        "texte": "Animé par un excellent maître de cérémonie et ses tout aussi épatants intervenants, ce podcast est à mettre entre toutes les oreilles. Du non téléphage au puissamment avertis.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Ook? Ook!",
+        "titre": "Paradoxe",
+        "texte": "Podcast du paradoxe pour moi: je ne regarde plus la télé depuis 3ans et pourtant j'ai un plaisir constant à écouter cette émission, qui me permet de rester un peu à la page pour les discussion mondaine.…"
+      }
     ]
   },
   "episodes_recents": [
