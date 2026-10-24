@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-06-11",
-  "frequence_jours": 8
+  "frequence_jours": 8,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Hakim.Maad",
+        "titre": "Un plaisir de vous écouter",
+        "texte": "C'est mon podcast comics de reference. Contrairement à la remarque precedente , je trouve que les podcasteurs et chroniqueurs preparent bien chaque episode : ils savent de quoi ils parlent et argumentent leurs avis .…"
+      },
+      {
+        "note": 2,
+        "auteur": "NikoBiker12",
+        "titre": "De plus en plus pénible à écouter",
+        "texte": "Je n apprécie plus vraiment le podcast avec les nouveaux intervenants qui monopolisent la parole , digressent, et se la racontent beaucoup avec une petite touche de sectarisme. C est devenu une émission de France Culture.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Viko64",
+        "titre": "Le podcast qui tien bien son nom",
+        "texte": "Le meilleur podcast comics, vraiment parfait pour découvrir le monde du comics ou redécouvrir certains titres grâce à un animateur très intéressant, je ne peu que recommandé fortement ce podcast. Merci pour le partage de votre passion du comics chaque semaine 👏🏻👏🏻💪🏻💪🏻"
+      }
+    ]
+  }
 }

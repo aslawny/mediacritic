@@ -51,25 +51,23 @@
   "derniere_activite": "2026-09-11",
   "frequence_jours": 4,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-24",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "leenaïdja",
+        "titre": "Bonjour mon nom est Lisa. J’ai adorer l’épisode un petit alien et la danseuse .⭐️⭐️⭐️⭐️⭐️",
+        "texte": "Continuer comme ça c’est trop bien pour dormir 👍 gros bisous et bonne journée ou soirée ❤️❤️❤️leenaïdja"
+      },
+      {
+        "note": 4,
+        "auteur": "#lovely ❤️❤️❤️",
+        "titre": "Cool mais bébé",
+        "texte": "Bien mais trop pour les bébés pour une fille de 11 ans comme moi ça fait trop « ils vécurent heureux », bla-bla-bla… mais sinon super podcast 😁😁😁👌🏾"
+      }
     ]
   }
 }

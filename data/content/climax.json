@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2023-01-24",
-  "frequence_jours": 34
+  "frequence_jours": 34,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "CamilleP.82",
+        "titre": "Débat de passionnés",
+        "texte": "Sympathique emission de débat entre des journalistes qui arrivent à transmettre leur passion"
+      },
+      {
+        "note": 2,
+        "auteur": "Urganlomgoujon",
+        "titre": "Mitigé",
+        "texte": "Bonjour, ça a pas l’air mal et puis on s’aperçoit que les personnes ne connaissent pas assez le sujet pour finalement être crédibles. Notamment sur kaamelott. Erreur dans les noms( reine du lac) des personnes répliques( « on est gros »...) et bio d’Astier...…"
+      },
+      {
+        "note": 5,
+        "auteur": "Clochette92bb",
+        "titre": "Super podcast !!",
+        "texte": "Les débats sont toujours hyper intéressants et passionnés, je recommande !!!"
+      }
+    ]
+  }
 }

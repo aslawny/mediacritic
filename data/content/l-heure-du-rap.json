@@ -26,25 +26,29 @@
   "addedAt": "2026-05-20",
   "updatedAt": "2026-10-22",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-24",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Jeune loup",
+        "titre": "Superbe",
+        "texte": "Une belle narration, on se laisse facilement bercé par le sujet. Qu’on aime ou non le blaze de l’artiste ça reste super interessant à écouter. Très bienvenu sur France Inter. Mehdi Maizi toujours aussi bon …"
+      },
+      {
+        "note": 1,
+        "auteur": "la moule recoule",
+        "titre": "!",
+        "texte": "Les anciens comme moi veulent du ROHFF BOOBA AKHENATON LINO SEFYU … pas les starlettes d’aujourd’hui qui prônent la drogue et la violence"
+      },
+      {
+        "note": 5,
+        "auteur": "86 prime",
+        "titre": "Une pépite",
+        "texte": "Je ne suis pas de l’avis de certaines personnes fermées d’esprit et bloqués dans le passée et je trouve que le podcast ne manque ABSOLUMENT PAS de vieux rappeur sous cotés (booba rohff) prônant tout autant la violence que les rappeur d’aujourd’hui qui représente le moderne et l’a…"
+      }
     ]
   }
 }

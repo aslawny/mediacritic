@@ -49,25 +49,29 @@
   "derniere_activite": "2026-09-09",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-24",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Liv🧠",
+        "titre": "Cc cv",
+        "texte": "Coucou, je voulais savoir pourquoi il n’y a plus Louis et Marie pour le SuperShow NRJ 😢😢😢😢😢😢😢😢😢😢😢😢😢😢Bisous 😘 Mais je vous adore 🫶🏻🩷❤️💕❣️JORDIE EST LA PLUS BELLE LOVE Je pourrais passer un soir après la rentrée des classes je suis en 4eme répondre moi 🙏🏻"
+      },
+      {
+        "note": 5,
+        "auteur": "ujinuoefvfnjiovffen",
+        "titre": "Très bien",
+        "texte": "Coucou j’adore votre trio ! Se serait bien si vous pourrais interviewé les Blackpink (le groupe de k pop . Si c pas trop demander) Bref à part ça je trouve que vous êtes mega cool ! Voilà !! Au revoir !! PS :Vous pourrais me répondre svp Signer Clém*nce"
+      },
+      {
+        "note": 5,
+        "auteur": "Ie voyageur",
+        "titre": "Super Podcasts.",
+        "texte": "C’est une trop bonne idée de remettre le super show en podcast. J’adore, vous me faites trop rire.❤️❤️😂😂 Je vous écoute tous les soirs de 22 heures à minuit. Est-ce que aussi vous pourriez mettre le bingo télé en épisode séparés du super show, SVP"
+      }
     ]
   }
 }

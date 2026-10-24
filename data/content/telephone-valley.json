@@ -51,25 +51,29 @@
   "derniere_activite": "2026-08-02",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-24",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Cookie_Sab",
+        "titre": "100/5 on peut ?",
+        "texte": "Ah vraiment ma pépite 2026 ! J’ai l’impression que je parle telephone Valley couramment en première langue tellement je suis d’accord avec Mariama. 🥰 podcasts d’utilité publique. Partagez même aux plus réticents ils vont comprendre."
+      },
+      {
+        "note": 5,
+        "auteur": "UnMacaron",
+        "titre": "A propos de l'ep en feat avec un XY",
+        "texte": "Accro à ton podcast, ton ton, ta voix. Mais alors avec Monsieur l'ami, mais je veux plus encore ! Je pense que vous feriez un podcast sur les transactions de services dans les marchés de capitaux, que je saignerais ce feat!"
+      },
+      {
+        "note": 5,
+        "auteur": "Kiki Mango",
+        "titre": "10 outta 10",
+        "texte": "Des épisodes d’utilité publique, un storytelling authentic et de qualité avec une pointe d’humour. Tout ce qu’on aime 🫶🏾 keep going"
+      }
     ]
   }
 }

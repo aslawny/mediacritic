@@ -50,25 +50,29 @@
   "derniere_activite": "2021-07-05",
   "frequence_jours": 6,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-24",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Alexandre Broc",
+        "titre": "Une mine d’or ce podcast",
+        "texte": "En tant que jeune ingénieur biomédical et étudiant dans un master en santé et data management, ce podcast est un complément nécessaire pour appréhender les dernières solutions innovantes en santé Des intervenants de qualité qui maîtrisent leur sujet, et qui donnent tout simplemen…"
+      },
+      {
+        "note": 5,
+        "auteur": "CeyKlalla",
+        "titre": "A diffuser plus largement absolument!",
+        "texte": "Bravo Jean-Baptiste pour cette initiative qui fonctionne! J’espère qu’elle atteint les communautés de médecins et professionnels de la santé, tous porteurs d’histoires, d’idées ... qu’ils continuent à les partager aux entrepreneurs, bravo aussi à vous tous...…"
+      },
+      {
+        "note": 5,
+        "auteur": "Adrien CEO App’Ines",
+        "titre": "Super inspirant",
+        "texte": "Merci Jean Baptiste pour ton travail et tes recherches approfondies sur les acteurs de la e-santé en France. J’ai été ravi de participer à l’un de tes podcasts, et j’encourage toutes les personnes qui souhaitent faire bouger la santé numérique en France à te suivre.…"
+      }
     ]
   }
 }

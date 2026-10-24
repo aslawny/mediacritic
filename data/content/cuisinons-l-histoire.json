@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-05-12",
-  "frequence_jours": 29
+  "frequence_jours": 29,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Aliceddx",
+        "titre": "Enfin un podcast qui parle des vrais enjeux",
+        "texte": "J’attendais avec impatience un podcast qui développe vraiment les sujets d’importance à mes yeux : la cuisine et l’histoire. Merci à toute l’équipe. Hâte de voir la suite de ce projet plus que prometteur !"
+      },
+      {
+        "note": 5,
+        "auteur": "Guigou35000",
+        "titre": "Super",
+        "texte": "On adore écouter ça en cuisinant avec ma femme ! Ça nous donne encore plus l’envie de faire de la bonne bouffe"
+      },
+      {
+        "note": 5,
+        "auteur": "Fan2Stache",
+        "titre": "Mdr",
+        "texte": "Waw ! Je pensais pas que les français se foutaient de la princesse italienne comme ça 😂"
+      }
+    ]
+  }
 }

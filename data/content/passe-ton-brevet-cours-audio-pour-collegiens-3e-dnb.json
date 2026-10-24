@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-07-11",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Dididouu 🤘🏻",
+        "titre": "Grave unique",
+        "texte": "J’adore le concept parce que ça réunit tout au même endroit, au lieu d’aller chercher les matières à droite à gauche et se taper les « c’est pas sorcier » de 20min pour une explication de 5. Bref je trouve ce podcast unique, il nous parle, nous aide et nous réconforte.…"
+      },
+      {
+        "note": 5,
+        "auteur": "🥰coolllll🥰",
+        "titre": "Super sans plus 😚",
+        "texte": "Pourquoi pas d’épisode sur l’histoire geo emc ?? Sinon je trouve ce podcast super bien expliqué 😘"
+      },
+      {
+        "note": 5,
+        "auteur": "SooJin<3",
+        "titre": "Fantastique ou Iconique ?",
+        "texte": "Juste incroyable merci, je ne crois pas avoir trouver mieux en podcast ici ! 💖🥳👍"
+      }
+    ]
+  }
 }

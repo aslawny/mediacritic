@@ -51,25 +51,23 @@
   "derniere_activite": "2026-09-18",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-24",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pattenrond8",
+        "titre": "🩵",
+        "texte": "Incroyable, j’écoute tous les jours les cours de Rav Touitou et je n’ai jamais entendu quelqu’un qui choisit aussi bien ses mots, cela vient toucher directement l’âme ! Merci !"
+      },
+      {
+        "note": 5,
+        "auteur": "levmenuiserie",
+        "titre": "Un rav qui m’inspire et qui me parle",
+        "texte": "Merci pour tous vos cours qui me permettent d’avancer .Un seul regret : ne pas l’avoir connu plus tôt"
+      }
     ]
   }
 }

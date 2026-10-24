@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-08",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Maoui25",
+        "titre": "Podcast formidable",
+        "texte": "Un immense merci pour ce podcast inspirant ! C’est tellement rafraîchissant d’entendre des parcours de femmes fortes, passionnées et déterminées dans le monde du sport. Chaque épisode donne un vrai boost de motivation et casse les clichés encore trop présents.…"
+      },
+      {
+        "note": 5,
+        "auteur": "kakidu92",
+        "titre": "Merci",
+        "texte": "Un grand merci pour ces témoignages de femmes qui osent, et qui nous donnent envie de bouger…. À écouter sans modération, c’est bon pour la santé morale :-)"
+      },
+      {
+        "note": 5,
+        "auteur": "MarieC_42",
+        "titre": "Merci pour le témoignage",
+        "texte": "Merci de nous faire partager ces récits d’autres girlboss qui avalent les km malgré les maladies chroniques 💪💪"
+      }
+    ]
+  }
 }

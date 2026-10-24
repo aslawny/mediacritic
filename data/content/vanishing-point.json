@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-07-13",
-  "frequence_jours": 63
+  "frequence_jours": 63,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Podcastics Community",
+        "titre": "Des analyses poussées et pertinentes",
+        "texte": "Un podcast nettement au-dessus de la moyenne (et qui gagne à être connu) sur ce créneau cinéphile. Ici on a affaire à de vrais connaisseurs mais qui ne sont pas pour autant dans l'esbroufe.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Mortsven",
+        "titre": "Super, mais…",
+        "texte": "Un podcast vraiment sympa à suivre, si ce n’est les remarques politiques de l’un des chroniqueur… Ça n’a rien à faire là et c’est super lourd!"
+      },
+      {
+        "note": 5,
+        "auteur": "Raphaelrc78",
+        "titre": "Trainé sur le bitume du cinoche",
+        "texte": "Quel bonheur ! Un podcast qui donne envie de voir et revoir des films. Même ceux dont ma cinephagie avait dit non merci plus jamais. Ici quand on regarde dans le rétroviseur ce n’est pas par nostalgie mais pour décrypter, analyser et disséquer une industrie en perpétuelle mutatio…"
+      }
+    ]
+  }
 }

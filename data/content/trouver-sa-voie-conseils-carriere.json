@@ -28,25 +28,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-10-22",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-24",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Laura_Romano",
+        "titre": "Un podcast à ne pas rater !",
+        "texte": "Si vous vous interroger sur votre vie pro ou si simplement la reconversion professionnelle est un sujet qui vous intéresse, vous êtes au bon endroit ! Trouver sa voie est un podcast non seulement intéressant mais aussi enrichissant.…"
+      },
+      {
+        "note": 5,
+        "auteur": "ML Malbrancke",
+        "titre": "C’est tellement ça !",
+        "texte": "Merci Alban pour cette idée fabuleuse de dévoiler que c’est possible d’être heureux dans son travail ! Ne pas avoir l’impression de travailler, c’est vraiment ce qui anime chaque matin ceux qui ont trouvé leur voie …"
+      },
+      {
+        "note": 5,
+        "auteur": "Héractète",
+        "titre": "Très belle découverte !",
+        "texte": "Étant actuellement en reconversion pro l’épisode #33 m’a vraiment parlé. Cela fait du bien d’avoir un point de vue qui sort du lot sur cette fameuse « quête de sens » que nous sommes beaucoup à traverser.…"
+      }
     ]
   },
   "episodes_recents": [

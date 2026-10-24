@@ -51,25 +51,29 @@
   "derniere_activite": "2026-08-27",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-24",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "boba-fred",
+        "titre": "Une revue bien sympa de l’activité cinéma",
+        "texte": "J’écoute plusieurs podcasts aller au cinéma, je trouve celui-ci particulièrement intéressant vif rapide et qui met une attention particulière à ne pas nous spoiler systématiquement les films. J’aime bien leur ton et surtout je suis très souvent en accord avec eux."
+      },
+      {
+        "note": 3,
+        "auteur": "Lyric Hotel",
+        "titre": "Les pubs en plein milieu de phrase/mot 😫",
+        "texte": "Un podcast vraiment très sympa. Mais alors, bordel… l’incrustation des pubs au plein milieu d’une phrase, voire même d’un mot, c'est totalement insupportable ! Perso, ça me sort complètement du truc. Dommage…"
+      },
+      {
+        "note": 5,
+        "auteur": "Gaumargueu",
+        "titre": "Hyper drôle",
+        "texte": "En plus d’être une émission très intéressante avec des supers critiques et intros. Nicolas et Tom ont une vraie alchimie qui sert l’émission et la rend addictive !!!"
+      }
     ]
   }
 }

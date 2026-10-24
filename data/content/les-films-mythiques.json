@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2025-06-17",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Rafiki669",
+        "titre": "Très bon",
+        "texte": "J’apprends beaucoup d’anecdotes sur le cinéma grâce à ce formidable podcast. Excellent Thierry Cheze."
+      },
+      {
+        "note": 1,
+        "auteur": "phla2",
+        "titre": "Deja fini ???",
+        "texte": "Un épisode et déjà terminé. RTL Originals ou l'art de créer des choses et de les abandonner aussitot. A fuir !"
+      },
+      {
+        "note": 5,
+        "auteur": "safiaetmoi",
+        "titre": "Hyper interessant !",
+        "texte": "Merci pour ce nouveau format ! Très peu de podcasts de qualité sur le cinema... je recommande !"
+      }
+    ]
+  }
 }

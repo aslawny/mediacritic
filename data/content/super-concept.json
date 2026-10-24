@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-07-23",
-  "frequence_jours": 4
+  "frequence_jours": 4,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Cålü",
+        "titre": "Un Super concept !",
+        "texte": "J’ai découvert récemment le podcast après de nombreuses recommandations, et je ne suis pas déçu ! Content d’être un super couillon maintenant Un super binôme entre PP et Axel, j’espère que les bols seront bientôt mis à la vente. Continuez comme ça !"
+      },
+      {
+        "note": 5,
+        "auteur": "Fear21.",
+        "titre": "Une franche rigolade",
+        "texte": "C’est honnête, talentueux, sans être trop ambitieux. Du rire assuré. (L’horoscope est un super concept pour le coup) Moi mon préf c’est plutôt Alex (mais c’est pas non plus une compet’) Bravo les gars."
+      },
+      {
+        "note": 5,
+        "auteur": "Juanita76-<3",
+        "titre": "La rigolade la rigolade",
+        "texte": "J’ai mis longtemps à m’être un commentaire alors qu’ils me font rire depuis le début ! L’horoscope en + des épisodes du jeudi c’est gourmand ! (Pépé est mon pref mais y a pas de compét’)"
+      }
+    ]
+  }
 }

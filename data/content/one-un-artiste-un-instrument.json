@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2024-12-18",
-  "frequence_jours": 21
+  "frequence_jours": 21,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "clnsnz",
+        "titre": "Génial",
+        "texte": "Ce nouveau podcast offre une plongée captivante dans l’univers musical de Gaëtan Roussel ! La production est de qualité ce qui contribue à l’immersion dans cet univers.…"
+      },
+      {
+        "note": 5,
+        "auteur": "hjjy56!",
+        "titre": "A écouter absolument.",
+        "texte": "Je craignais un peu que ce podcast soit réservé aux fins connaisseurs de musique. Pas du tout! Une approche indispensable pour regrader le travail de Gaetan Roussel comme je ne l’avais jamais vu. Un angle de lecture très fin, plein de musique. Un régal."
+      },
+      {
+        "note": 5,
+        "auteur": "Knutboesberg",
+        "titre": "Pour les amoureux.ses de musique !",
+        "texte": "Mais quelle idée géniale. On est dans l’intimité de l’artiste. Dans sa bulle. Il parle comme jamais. Et on entend de la musique autrement. A écouter et réécouter. Vivement les suivants 😍"
+      }
+    ]
+  }
 }

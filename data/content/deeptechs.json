@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-07-05",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "margonnet",
+        "titre": "Indispensable",
+        "texte": "Un podcast devenu une référence pour comprendre les implantions des changements technologiques profonds dans les entreprises de toutes tailles. Pédagogue, porté par un duo complémentaire et bienveillant mais expert, ça ne déçoit jamais et l’écoute file en un clin d’œil. Merci"
+      },
+      {
+        "note": 5,
+        "auteur": "marc42",
+        "titre": "pour les vrais gens",
+        "texte": "Intervention utile car pédagogique pour comprendre cet environnement technologique"
+      },
+      {
+        "note": 5,
+        "auteur": "Freelibre",
+        "titre": "Excellente présentation de Nvidia",
+        "texte": "J aimerais en savoir plus sur ce que fait Nvidia dans le metavers industriel"
+      }
+    ]
+  }
 }

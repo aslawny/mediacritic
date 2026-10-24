@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2022-08-15",
-  "frequence_jours": 12
+  "frequence_jours": 12,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Dreamer.12 ✨",
+        "titre": "Trop bien ! 😍",
+        "texte": "J’adore votre podcast et même si je n’ai pas un avis expert parce je suis jeune, c’est très intéressant ! J’aime beaucoup les débats que vous avez et j’ai appris beaucoup de choses 😁"
+      },
+      {
+        "note": 1,
+        "auteur": "Stonewall.Jackson",
+        "titre": "Non mais allô quoi !",
+        "texte": "Je me suis abonné à ce podcast et j'ai commencé par écouter la critique sur Starwars 9. Le premier chroniqueur livre une analyse si élogieuse de ce film que je me suis demandé si ce n'était pas un podcast parodique ou si c'était un effet humoristique pour ensuite délivrer la vrai…"
+      },
+      {
+        "note": 5,
+        "auteur": "Floritanus",
+        "titre": "Meilleur podcast cinéma",
+        "texte": "Je passe à chaque fois d’excellents moments, ce podcast mériterait d’être suivi par tous les amoureux du 7ème art !"
+      }
+    ]
+  }
 }

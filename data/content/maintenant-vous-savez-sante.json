@@ -51,25 +51,29 @@
   "derniere_activite": "2026-09-14",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-24",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "pierrekiroule2012",
+        "titre": "Instructif",
+        "texte": "Podcast pratique. Très clair, concis, informatif. Et les voix sont très agréables."
+      },
+      {
+        "note": 1,
+        "auteur": "Yevgueny",
+        "titre": "Bof",
+        "texte": "Du blabla, rien que ça. Fatigant ces « donneurs de conseils »."
+      },
+      {
+        "note": 4,
+        "auteur": "Thiéphaine B",
+        "titre": "le son",
+        "texte": "je ne sais pas si ça concerne que moi mais ce podcast est interresssnt mais quand on décroche sur une autre voix censée reprendre le discours du scientifique cité : le son est + bas et plus pourri, on dirait le personnage dans super jamy qui parle dans une télé, bref ce décrochag…"
+      }
     ]
   }
 }

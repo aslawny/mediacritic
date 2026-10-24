@@ -53,25 +53,29 @@
   "derniere_activite": "2026-08-26",
   "frequence_jours": 13,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-24",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Gée88",
+        "titre": "De la digression de qualité",
+        "texte": "Nouvelle découverte pour moi et qu’est-ce que j’aime écouter des gens parler des livres que je lis ! Ça me ramène à mes études (oui, je suis un peu vieille, génération fb… oups !), et qu’est-ce que ça fait du bien …"
+      },
+      {
+        "note": 5,
+        "auteur": "emma_trbstn",
+        "titre": "Incroyable !",
+        "texte": "Je suis tellement fan. Surtout de faire intervenir des hommes. C’est une super drôle perspective. Merci à toi! Et vous ! J’ai adoré celui sur twilight vraiment ! Même sur acotar 1 je m’attendais pas à avoir autant de détails et de pov différents.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Hortensias26",
+        "titre": "Des épisodes parfaits pour la détente",
+        "texte": "J’ai découvert le podcast lors de la première saison. C’est un vrai plaisir à chaque épisode, on s’attache à l’humour de chaque intervenants. Des conseils littéraires sympas (doutes sur blade runners). Vivement la saison 3!"
+      }
     ]
   }
 }

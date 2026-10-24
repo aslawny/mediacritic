@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-06-02",
-  "frequence_jours": 42
+  "frequence_jours": 42,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ONYCROIT",
+        "titre": "Bravo",
+        "texte": "Pour cette mise en lumière d’une élue qui croit en la politique sans entrer dans les anciens schémas. Même si c’est difficile, même s’il y aura des échecs le chemin pris est enthousiasmant.…"
+      },
+      {
+        "note": 5,
+        "auteur": "sagardibur",
+        "titre": "Merci! La doctrine sociale est à l’honneur.",
+        "texte": "Merci pour ces éclairages inspirés et inspirants. De quoi rester ancré(e) dans l’Esperance"
+      },
+      {
+        "note": 5,
+        "auteur": "paolatoutazimut",
+        "titre": "Merci!",
+        "texte": "Podcast éclairant et faisant entendre une voix différente au sein de l’Eglise"
+      }
+    ]
+  }
 }

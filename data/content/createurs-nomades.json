@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-07-31",
-  "frequence_jours": 22
+  "frequence_jours": 22,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Laura-Les coulisses du voyage",
+        "titre": "Merci pour ces partages",
+        "texte": "Podcast très inspirant qui permet de découvrir de multiples manières de créer du contenu tout en voyageant. Très intéressant de voir les parcours de chacun. Les épisodes sont bien construit et l'ambiance dynamique est très agréable à écouter."
+      },
+      {
+        "note": 5,
+        "auteur": "Vbignon",
+        "titre": "Excellent podcast à mettre dans son top 10",
+        "texte": "Excellent podcasts sur les différentes manières de voyager. Continuez de faire des podcasts c’est toujours très intéressant et enrichissant ! Merci à vous"
+      },
+      {
+        "note": 5,
+        "auteur": "Nathalie LinstantLou",
+        "titre": "Inspirant",
+        "texte": "Je découvre et trouve ces parcours, partages tellement riches, inspirants… Un immense merci à Clem"
+      }
+    ]
+  }
 }

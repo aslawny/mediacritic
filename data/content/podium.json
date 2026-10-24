@@ -51,25 +51,29 @@
   "derniere_activite": "2026-09-11",
   "frequence_jours": 35,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-24",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "AcLagash",
+        "titre": "Podcasts tres agréables",
+        "texte": "Contenu interessant, à la fois sympathique, ludique et inspirant. Très agréable à écouter à tout moment de la journée, personnellement je préfère les écouter apres la pause dej. Je mets ce podcast au top de mon podium"
+      },
+      {
+        "note": 5,
+        "auteur": "khef",
+        "titre": "Chouette format",
+        "texte": "Top de pouvoir retrouver les acteurs, agitateurs et talents strasbourgeois qui passent à la casserole en douceur. Vraiment bien !"
+      },
+      {
+        "note": 5,
+        "auteur": "Max Berteas",
+        "titre": "Super 5 étoiles méritées !",
+        "texte": "Franchement tip top ce podcast, j’ai adoré. 5 étoiles bien méritées Super de pouvoir ces parcours de vie décrit comme ça."
+      }
     ]
   }
 }

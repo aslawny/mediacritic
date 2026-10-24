@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2020-09-19",
-  "frequence_jours": 18
+  "frequence_jours": 18,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "kev0629",
+        "titre": "Super Podcast",
+        "texte": "Hello les gars Merci pour le podcast, vos participez grandement à ma vielle technologique. Continuez comme ça, très heureux de voir que vous êtes de retour pour la rentrée !! 😁 Ps : super intéressé par l’invitation figue si il vous en reste 🤞🏼 Kevin"
+      },
+      {
+        "note": 5,
+        "auteur": "La Taupe Masquée",
+        "titre": "Passionnant !",
+        "texte": "J’attendais depuis longtemps un podcast comme celui-ci sur des sujets qui vont compter et comptent déjà pour le web : jamstack, éco-conception. Le ton est parfait et apporte un bel éclairage. Bravo !"
+      },
+      {
+        "note": 5,
+        "auteur": "Don Pat 61",
+        "titre": "Ma veille préf",
+        "texte": "Bien que je préfère dire barre oblique barre oblique, double slash me permet de devenir un meilleur dev alors pour ça et pour vos conseils et aides merci beaucoup ✌🏼"
+      }
+    ]
+  }
 }

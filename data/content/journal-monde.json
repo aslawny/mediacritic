@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-09-07",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "justeunarobase",
+        "titre": "Plus de post",
+        "texte": "Bonjour/Bonsoir Pouvez-vous remettre les podcasts s’il vous plaît. Cela fait trois jours que nous n’avons pas eu de poste. Merci à toute l’équipe pour le beau travail que vous faites. Bien à vous, FD"
+      },
+      {
+        "note": 1,
+        "auteur": "Piment_brûlant🌶️",
+        "titre": "Trop c’est trop…",
+        "texte": "Les multiples problèmes de podcasts indisponibles rendent l’expérience littéralement infâme. C’est dommage car RFI est une excellente radio."
+      },
+      {
+        "note": 4,
+        "auteur": "hndrxx__",
+        "titre": "On n'a plus de nouveaux épisodes",
+        "texte": "Bonjour, pourriez-vous remettre à jour votre bibliothèque. Il n'y a plus de nouveaux épisodes (encore une fois)"
+      }
+    ]
+  }
 }

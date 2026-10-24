@@ -49,5 +49,25 @@
     }
   ],
   "derniere_activite": "2026-09-09",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "DoDo Pseu",
+        "titre": "LAL",
+        "texte": "Je l’attendais sans l’attendre l’épisode avec Lalcko, tellement de choses à dire que vous auriez pu en parler encore pendant une heure. Merci"
+      },
+      {
+        "note": 5,
+        "auteur": "BooskaSOS",
+        "titre": "Incroyable",
+        "texte": "Un concept incroyable qui traite d’un sujet très important dans le rap !!!!"
+      }
+    ]
+  }
 }

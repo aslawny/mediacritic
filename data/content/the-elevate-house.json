@@ -51,25 +51,29 @@
   "derniere_activite": "2026-09-13",
   "frequence_jours": 6,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-24",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "anissace",
+        "titre": "Inspirant !",
+        "texte": "J’aime beaucoup écouter ses podcasts, sa vision de la réussite ne passe pas uniquement à travers l’entreprenariat. Ce qui est totalement vrai bien qu’on soi dans ce domaine ou non, il m’aide beaucoup à prendre du recul sur mes propres enjeux et ses invités apportent des visons as…"
+      },
+      {
+        "note": 1,
+        "auteur": "Pseudo autre",
+        "titre": "Trop",
+        "texte": "Insupportable les interruptions pub / sponsor / abonnez vous ... une fois ou deux ok mais plus c'est abusé"
+      },
+      {
+        "note": 5,
+        "auteur": "Djelloul10",
+        "titre": "Des invités actifs et inspirants",
+        "texte": "Chaque podcast est différent mais toujours aussi inspirant. Ce que j’aime vraiment comparé aux autres émissions, c’est que les invités sont toujours actifs, et pas complètement déconnecté de la réalité."
+      }
     ]
   }
 }

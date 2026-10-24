@@ -51,5 +51,25 @@
     }
   ],
   "derniere_activite": "2026-09-17",
-  "frequence_jours": 13
+  "frequence_jours": 13,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Elise Terninck",
+        "titre": "Merci",
+        "texte": "Merci Bérenger, ton podcast est juste super bien monté. J’aime autant que toi voyager mais je suis maman de 4 enfants et je ne connais que l’Afrique alors, grâce à toi, les escapades en Amérique Latine font maintenant partis de mes voyages « fictifs »"
+      },
+      {
+        "note": 5,
+        "auteur": "Lène67",
+        "titre": "👍👍",
+        "texte": "Merci Bérenger, ton podcast est vraiment génial ! On apprend plein de choses et ça fait vraiment voyager. Continue comme ça !"
+      }
+    ]
+  }
 }

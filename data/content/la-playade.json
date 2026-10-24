@@ -46,5 +46,31 @@
     }
   ],
   "derniere_activite": "2026-06-30",
-  "frequence_jours": 40
+  "frequence_jours": 40,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Thanatographe",
+        "titre": "Singulier et réconfortant",
+        "texte": "Il me plaît systématiquement d'abandonner mes tympans à l'écoute de vos bienveillantes facéties. Chaque nouvelle publication constitue la promesse (toujours tenue) de moments d'amusement et d'enrichissement.…"
+      },
+      {
+        "note": 5,
+        "auteur": "le bo piero",
+        "titre": "Encore une fois",
+        "texte": "Voilà c’est arrivé encore une fois, quand j’avais découvert silence on joue j’avais écouté tous les épisodes disponibles pour le plus grand plaisir de ma femme et de mes enfants...et pareil pour la Playade je veux tous écouter quel plaisir d’entendre les commentaires sur les débu…"
+      },
+      {
+        "note": 5,
+        "auteur": "fanfanlefoufou",
+        "titre": "Quel bonheur !",
+        "texte": "Meilleur podcast sur le jeu vidéo à mon goût, il mérite TELLEMENT plus d’audience. C’est très précieux de trouver un podcast qui sélectionne aussi bien les pépites indépendantes dans cet océan de jeux actuels et qui le fait avec autant de passion, de sérieux et de légèreté.…"
+      }
+    ]
+  }
 }

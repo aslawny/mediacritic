@@ -49,5 +49,25 @@
     }
   ],
   "derniere_activite": "2026-07-08",
-  "frequence_jours": 92
+  "frequence_jours": 92,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Uneparisienneabruxelles",
+        "titre": "À écouter sans modération",
+        "texte": "Je recommande vivement ce podcast notamment pour se préparer à l’oral de concours type ENM"
+      },
+      {
+        "note": 5,
+        "auteur": "CCMM.R",
+        "titre": "Très intéressant",
+        "texte": "Je suis étudiante en droit. Je trouve ces podcasts très instructifs !"
+      }
+    ]
+  }
 }

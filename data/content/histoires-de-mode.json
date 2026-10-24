@@ -53,25 +53,29 @@
   "derniere_activite": "2021-12-09",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-24",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "mauledo",
+        "titre": "Merci pour ces moments",
+        "texte": "Après quelques épisodes, j’étais sceptique quant à la véracité des anecdotes relatées. Mais au final, peu importe: cette écriture, ce ton sensible m’emportent dans une capsule temporelle.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Apixandra",
+        "titre": "Les jolies histoires",
+        "texte": "David a l’art d’écrire et raconter des histoires, avec cette part d’émotion et de vécu qui nous entraîne si facilement et merveilleusement dans son univers.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Shadoh75",
+        "titre": "👏🏻",
+        "texte": "Ce podcast est un vrai moment de bonheur. David partage avec nous des anecdotes entrouvrant ainsi la porte des maisons de couture . Il raconte avec générosité des moments de grâce, qui sont la poésie de la vie, de sa vie.…"
+      }
     ]
   }
 }

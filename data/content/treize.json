@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-13",
-  "frequence_jours": 13
+  "frequence_jours": 13,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "swiftie_1389",
+        "titre": "Podcast génial",
+        "texte": "Merci beaucoup pour ce podcast qui m’a permis de faire plein de belles découvertes en tant que swiftie depuis 2 ans seulement. J’adore le fait que les sujets des épisodes soient variés.…"
+      },
+      {
+        "note": 5,
+        "auteur": "TheFairyManou",
+        "titre": "Excellent ! 🐳🩵",
+        "texte": "Enfin un podcast français sur Taylor Swift 🙌🏻 1er épisode super interessant qui pose les bases et contient des anecdotes très interessantes 😍 Hâte d’écouter les prochains !! Bravo les filles pour votre travail 🫶🏻✨"
+      },
+      {
+        "note": 5,
+        "auteur": "Leaphilp",
+        "titre": "Je recommande vivement",
+        "texte": "Je recommande vivement Treize. Un bon moyen pour rester connecté à notre artiste préférée. Merci de débattre autour de sa musique, de son talent dans la bienveillance et toujours loin des potins."
+      }
+    ]
+  }
 }

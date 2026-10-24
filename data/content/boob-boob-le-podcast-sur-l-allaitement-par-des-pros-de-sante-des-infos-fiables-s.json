@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-10-21",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "tete2bourrik",
+        "titre": "Toutes les mamans devraient vous écouter",
+        "texte": "Je suis tombée en premier lieu sur votre compte Instagram grâce au live avec bravemargot_allaitement puis sur votre podcast. Quel bouffée d’oxygène d’écouter ce type de contenu 🤩 Etant une jeune maman allaitante )avec autour d’elle peu de professionnels formés et/ou bourrés d’apr…"
+      },
+      {
+        "note": 5,
+        "auteur": "MargauxD9560",
+        "titre": "Génial!",
+        "texte": "J’allaite depuis 5 mois et même si je me considère comme relativement bien informée, j’ai beaucoup aimé le premier épisode ! On apprend plein de choses 😇 un must à écouter pour préparer son allaitement et comprendre pleins de trucs! J’ai cru comprendre qu’il y allait avoir un épi…"
+      },
+      {
+        "note": 5,
+        "auteur": "Cécile810531",
+        "titre": "Une pépite",
+        "texte": "Le format du podcast est super, pas trop long, mais assez pour en apprendre beaucoup. J’adore l’idée des extraits, comme celui sur la méthode de la sieste flash, pour avoir facile sous la main la partie de l’épisode qu’on veut réécouter.…"
+      }
+    ]
+  }
 }

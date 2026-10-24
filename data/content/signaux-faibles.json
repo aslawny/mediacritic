@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2024-04-03",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Emmanuel_Music",
+        "titre": "Idéal pour s’informer sur l’actualité numérique",
+        "texte": "Souhaitant suivre l'actualité numérique quotidiennement sans rentrer dans les formats longs ou l’on finit par perdre le fil, je cherchais un podcast quotidien en moins de 15 mn par jour. Signaux faibles correspond parfaitement à mon attente.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Birdy-num-num",
+        "titre": "Bravo pour cette première saison !",
+        "texte": "Une première saison très réussie pour ce podcast à la ligne éditoriale claire, qui donne des informations pertinentes dans un format bien calibré. A bientôt pour la deuxième saison !"
+      },
+      {
+        "note": 5,
+        "auteur": "Alexandre Pa",
+        "titre": "Super podcast !",
+        "texte": "Très bon podcast pour avoir l’actualité numérique de manière simple et efficace."
+      }
+    ]
+  }
 }

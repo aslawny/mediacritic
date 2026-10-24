@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2025-12-04",
-  "frequence_jours": 40
+  "frequence_jours": 40,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mafacly",
+        "titre": "Un grand moment de détente !",
+        "texte": "Une superbe série de podcasts signée Paul Engel, globe-trotter et distillateur de bons plans évasion. La France Baladeuse accompagne mes fins de semaine en m’offrant la possibilité de voyager en restant dans mon canapé.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Brice Nod",
+        "titre": "De beaux moments poétiques",
+        "texte": "J'adore ces podcasts, une ambiance sonore relaxante, qui donne l'impression de se balader au milieu du décor dont on entend parler. Cela donne envie de découvrir les lieux concernés, et permet de décrocher du quotidien le temps du podcast. Très mignon et poétique."
+      },
+      {
+        "note": 5,
+        "auteur": "Laura-Les coulisses du voyage",
+        "titre": "Immersion poétique",
+        "texte": "Merci pour ce très joli podcast qui nous fait voyager instantanément et qui nous permet d'explorer autrement la France. La qualité du son et des ambiances sonores est remarquable. Bravo pour cette très belle réalisation."
+      }
+    ]
+  }
 }

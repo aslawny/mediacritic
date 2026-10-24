@@ -51,25 +51,29 @@
   "derniere_activite": "2025-09-04",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-24",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Ccbg74",
+        "titre": "Quel beau moment d’échanges !",
+        "texte": "Même si on a habité le même village de montagne, même si nous faisons le même métier depuis plus de 20 ans, même si on se suit mutuellement sur les réseaux sociaux, on ne se connaît pas vraiment avec Myriam.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Luc Wd",
+        "titre": "Super podcast, approche pragmatique et claire",
+        "texte": "Bravo! Je trouve qu’il manquait en matière de podcasts de cette qualité pour éveiller et intéresser les débutants dans la construction et le bâtiment, avec les défis du jour et des méthodes plus éthiques et eco friendly.…"
+      },
+      {
+        "note": 5,
+        "auteur": "marie Pierre Berthier",
+        "titre": "L’écoute du matin",
+        "texte": "Ahhh ma Mimi, comme cela te ressemble c’est tellement toi… Ça te va comme un gant. Que de chemin parcouru depuis nos petits mange -mange ensemble au salon vite sur le pouce entre midi et deux 😊 C’est l’époque des pages qui se tournent….…"
+      }
     ]
   }
 }

@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-03-19",
-  "frequence_jours": 94
+  "frequence_jours": 94,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "FranceBouyrou",
+        "titre": "Un incontournable",
+        "texte": "A moins que vous ne connaissiez pas encore Lucie Rondelet, une évaluation de ce podcast me paraît à peine utile. Lucie, c’est la garantie d’un contenu de qualité et d’une expertise qui fait autorité dans le domaine de la rédaction web.…"
+      },
+      {
+        "note": 5,
+        "auteur": "MitsueNova",
+        "titre": "Des dialogues inspirants pour tous ceux qui veulent se lancer dans la rédaction web",
+        "texte": "Je viens d’écouter le premier épisode du nouveau podcast de Lucie (et le son n’est pas si mauvais 😉). Je vous invite à en faire de même si vous souhaitez vous lancer dans le métier de rédacteur web et surtout devenir un freelance épanoui."
+      },
+      {
+        "note": 5,
+        "auteur": "nick’02",
+        "titre": "Très bon interview",
+        "texte": "Très instructif sur la pratique d’un nouveau métier que l’on exerce depuis un ordinateur avec une bonne connexion internet. Continuez comme ça, hâte d’écouter d’autres témoignages de votre formation."
+      }
+    ]
+  }
 }
