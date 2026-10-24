@@ -114,10 +114,10 @@ nav{position:sticky;top:0;z-index:100;background:rgba(6,11,20,.92);border-bottom
 .badge-cat{color:var(--c-muted);background:var(--c-glass);border:1px solid var(--c-border);font-size:.68rem}
 h1{font-family:'Syne',sans-serif;font-size:clamp(1.5rem,4vw,2.2rem);font-weight:800;line-height:1.18;margin-bottom:6px}
 .author{font-size:.85rem;color:var(--c-muted2);margin-bottom:14px}
-.rating-row{display:flex;align-items:center;gap:8px;margin-bottom:14px}
+.rating-row{display:flex;flex-wrap:wrap;align-items:center;gap:4px 8px;margin-bottom:14px}
 .stars{color:var(--c-gold);font-size:1rem}
 .rating-num{font-weight:700}
-.rating-count,.rating-src{font-size:.8rem;color:var(--c-muted)}
+.rating-count,.rating-src{font-size:.8rem;color:var(--c-muted);white-space:nowrap}
 .actions{display:flex;gap:10px;flex-wrap:wrap}
 .btn{display:inline-flex;align-items:center;gap:8px;padding:10px 20px;border-radius:99px;font-size:.85rem;font-weight:600;border:1px solid transparent;transition:transform .18s,opacity .18s}
 .btn:hover{transform:translateY(-2px);opacity:.85}

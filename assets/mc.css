@@ -97,6 +97,10 @@ body *:not(code,pre,kbd,samp){font-family:var(--mc-font)!important}
 .mc-note-block>div:last-child{min-width:0}               /* le verdict, lui, passe à la ligne */
 @media (max-width:420px){.mc-note-block{padding:18px!important;gap:14px!important}}
 /* À 320 px, un mot long d'un titre (« francophones ») dépassait l'écran. */
+/* Une URL longue dans un texte (descriptions d'editeurs) faisait deborder la page sur telephone. */
+p,li{overflow-wrap:break-word}
+/* Liens dans un texte courant : reconnaissables sans survol. */
+.hero p a{color:var(--mc-text);text-decoration:underline;text-underline-offset:2px}
 @media (max-width:380px){.hero>*{min-width:0}h1{hyphens:auto;-webkit-hyphens:auto;overflow-wrap:break-word}}
 
 /* ---------- Listes répétées (anciens styles en ligne) ---------------- */

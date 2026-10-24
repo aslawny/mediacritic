@@ -219,6 +219,7 @@ def main():
 .cl-mc{{display:none}}
 .cl-intro{{max-width:820px;margin:0 auto 40px;padding:0 clamp(16px,4vw,32px)}}
 .cl-intro p{{color:var(--c-muted);line-height:1.7;margin-bottom:12px}}
+.cl-intro p a{{color:var(--mc-text);text-decoration:underline;text-underline-offset:2px}}
 .cl-somm{{display:flex;flex-wrap:wrap;gap:8px;margin-top:18px}}
 .cl-somm a{{font-size:.8rem;font-weight:600;padding:6px 14px;border-radius:99px;background:var(--c-glass);border:1px solid var(--c-border);color:var(--c-muted2)}}
 .cl-somm a:hover{{border-color:rgba(232,98,45,.4);color:var(--c-text)}}
@@ -247,13 +248,15 @@ def main():
   </div>
 </header>
 {"".join(sections)}
+<footer></footer>
 <script async src="https://www.googletagmanager.com/gtag/js?id={GA}"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments);}}gtag('js',new Date());gtag('config','{GA}');</script>
 <script defer src="/assets/partage.js"></script>
 </body>
 </html>"""
 
-    page, _ = charte_appliquer(page, "annuaire")
+    page, etat = charte_appliquer(page, "annuaire")
+    assert etat is not None, "charte non appliquee (en-tete ou pied introuvable)"
     (ROOT / PAGE).write_text(page, encoding="utf-8")
     print(f"{PAGE} généré — {len(indep)} indépendants sur {len(pods)} podcasts ; "
           f"{len(mieux_notes)} mieux notés ({len(eligibles)} éligibles), "
