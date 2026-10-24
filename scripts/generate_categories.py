@@ -316,7 +316,7 @@ def bloc_top(cfg, classement, plancher, nb_eligibles):
             f'<span class="top-cover">{vign}</span>'
             f'<span class="top-txt"><span class="top-titre">{h(x.get("title"))}{mc}</span>'
             f'<span class="top-auteur">{auteur}</span></span></a>'
-            f'<span class="top-val">{note}<span class="top-leg">sur 5</span></span></li>')
+            f'<span class="top-val">{note}<span class="top-leg">sur 5 · Apple</span></span></li>')
 
     nom = cfg["name"].lower()
     bloc = (f'<section class="podcast-section" id="top"><h2>Les {TOP_N} meilleurs podcasts {nom}</h2>'

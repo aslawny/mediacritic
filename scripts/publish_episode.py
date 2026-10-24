@@ -52,6 +52,7 @@ REGENERATEURS = [
     "scripts/generate_categories.py",   # 13 pages categories + Top 10
     "scripts/generate_palmares.py",     # palmares
     "scripts/generate_classement.py",   # classements (depend des notes)
+    "scripts/generate_independants.py", # guide des podcasts independants
     "scripts/generate_comparateur.py",  # comparateur (paires suggerees)
     "scripts/patch_nav_episodes.py",     # nav des pages episodes + badge
     "scripts/patch_partage_episodes.py", # rangee de partage

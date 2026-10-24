@@ -117,7 +117,7 @@ h1{font-family:'Syne',sans-serif;font-size:clamp(1.5rem,4vw,2.2rem);font-weight:
 .rating-row{display:flex;align-items:center;gap:8px;margin-bottom:14px}
 .stars{color:var(--c-gold);font-size:1rem}
 .rating-num{font-weight:700}
-.rating-count{font-size:.8rem;color:var(--c-muted)}
+.rating-count,.rating-src{font-size:.8rem;color:var(--c-muted)}
 .actions{display:flex;gap:10px;flex-wrap:wrap}
 .btn{display:inline-flex;align-items:center;gap:8px;padding:10px 20px;border-radius:99px;font-size:.85rem;font-weight:600;border:1px solid transparent;transition:transform .18s,opacity .18s}
 .btn:hover{transform:translateY(-2px);opacity:.85}
@@ -637,8 +637,12 @@ def render_fiche(data):
         rating_html = (
             f'<div class="rating-row">'
             f'<span class="stars">{stars_html(rating)}</span>'
-            f'<span class="rating-num">{float(rating):.1f}</span>'
-            + (f'<span class="rating-count">({rating_count:,} notes)</span>' if rating_count else "")
+            # La source est nommee et le format est francais : « 4.2 (2,157
+            # notes) » ne disait ni d'ou venait la note ni sur combien.
+            + f'<span class="rating-num">{float(rating):.1f}'.replace(".", ",") + '/5</span>'
+            + '<span class="rating-src">sur Apple Podcasts</span>'
+            + (f'<span class="rating-count">({rating_count:,} notes)</span>'.replace(",", " ")
+               if rating_count else "")
             + "</div>"
         )
 

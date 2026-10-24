@@ -25,7 +25,7 @@
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@MediaCriticInc" />
-  <meta name="twitter:title" content="Annuaire de 9 500+ podcasts francophones — MediaCritic" />
+  <meta name="twitter:title" content="Annuaire de 9 500+ podcasts et chaînes YouTube — MediaCritic" />
   <meta name="twitter:description" content="Filtrez par catégorie, cherchez par nom ou thème, découvrez les notes Apple Podcasts. Badge MediaCritic pour les contenus analysés dans nos épisodes." />
   <meta name="twitter:image" content="https://www.mediacritic.fr/assets/banner.png" />
 
@@ -559,7 +559,7 @@
       const cat1 = item.categories && item.categories[0] ? item.categories[0] : '';
 
       const ratingHtml = item.rating
-        ? `<span class="card-rating">⭐ ${parseFloat(item.rating).toFixed(1)}</span>`
+        ? `<span class="card-rating" title="Note Apple Podcasts, sur 5">⭐ ${parseFloat(item.rating).toFixed(1).replace('.',',')} Apple</span>`
         : '';
 
       const mcBadge = item.hasMediacritic

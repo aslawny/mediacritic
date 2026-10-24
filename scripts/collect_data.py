@@ -725,7 +725,12 @@ def harvest_youtube_related(api_key):
             pass
 
     # Recupere les featured channels de toutes les chaines connues avec un channelId
-    candidates = list(known_ids)[:80]  # limiter pour economiser le quota
+    # Toutes les chaines connues (24/10/2026) : la lecture de brandingSettings
+    # coute 1 unite de quota par lot de 50, soit ~32 unites pour 1 600 chaines,
+    # contre 100 unites pour UNE recherche. L'ancienne limite a 80 tirait 80
+    # chaines au hasard (ordre d'un set) et laissait 95 % du vivier inexploite,
+    # alors que les ajouts YouTube mensuels chutaient (766 en juillet, ~130 en octobre).
+    candidates = sorted(known_ids)
     related_ids = set()
 
     base_chan = "https://www.googleapis.com/youtube/v3/channels"

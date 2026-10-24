@@ -120,7 +120,7 @@ def main():
          f"Note Apple Podcasts, parmi les {len(eligibles)} podcasts comptant au moins "
          f"{PLANCHER_AVIS} avis. En dessous de ce seuil, une moyenne parfaite ne veut "
          f"rien dire.", mieux_notes,
-         lambda x: f'{float(x["rating"]):.1f}'.replace(".", ","), "sur 5"),
+         lambda x: f'{float(x["rating"]):.1f}'.replace(".", ","), "sur 5 · Apple"),
         ("populaires", "Les podcasts les plus populaires",
          "Classés par nombre d'avis déposés sur Apple Podcasts — la mesure la plus "
          "objective de l'audience d'un podcast.", populaires,
@@ -192,7 +192,7 @@ def main():
 <meta property="og:image" content="{BASE}/assets/banner.png" />
 <meta property="og:locale" content="fr_FR" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="Classement des podcasts francophones — MediaCritic" />
+<meta name="twitter:title" content="Classement des podcasts et chaînes YouTube — MediaCritic" />
 <meta name="twitter:description" content="{h(desc)}" />
 <meta name="twitter:image" content="{BASE}/assets/banner.png" />
 <link rel="icon" href="assets/logo.png" type="image/png" />

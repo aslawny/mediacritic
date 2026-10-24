@@ -317,7 +317,7 @@ def main():
             str(a["mcNote"]).replace(".", ","), str(b["mcNote"]).replace(".", ","))
         for a, b, c in paires)
 
-    titre = "Comparateur de podcasts francophones | MediaCritic"
+    titre = "Comparateur de podcasts et chaînes YouTube | MediaCritic"
     desc = ("Comparez deux podcasts ou chaînes YouTube francophones côte à côte : "
             "notes MediaCritic et Apple Podcasts, nombre d'avis, abonnés, rythme "
             "de publication.")

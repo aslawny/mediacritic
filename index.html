@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https:; connect-src 'self' https://www.googletagmanager.com https://*.google-analytics.com https://*.analytics.google.com https://analytics.google.com; frame-src 'none'; object-src 'none'; base-uri 'self'; form-action 'self' mailto:; upgrade-insecure-requests" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>MediaCritic — Annuaire et critiques de podcasts francophones</title>
+  <title>MediaCritic — Annuaire et critiques podcasts et YouTube</title>
   <meta name="description" content="Annuaire de 9 500+ podcasts et chaînes YouTube francophones, filtrés par thème et notés — et chaque semaine, une critique de podcast signée MediaCritic." />
   <meta name="keywords" content="annuaire podcast, annuaire podcast francophone, répertoire collaboratif de podcasts, guide des podcasts indépendants, critique podcast, critique youtube, annuaire chaînes YouTube francophones, catalogue podcasts français, MediaCritic" />
   <meta name="author" content="MediaCritic" />
@@ -24,7 +24,7 @@
 
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@MediaCriticInc" />
-  <meta name="twitter:title" content="Annuaire et critiques de podcasts francophones — MediaCritic" />
+  <meta name="twitter:title" content="Annuaire et critiques de podcasts et chaînes YouTube francophones — MediaCritic" />
   <meta name="twitter:description" content="L'annuaire des podcasts et chaînes YouTube francophones, avec les critiques indépendantes de MediaCritic." />
   <meta name="twitter:image" content="https://www.mediacritic.fr/assets/banner.png" />
 
@@ -375,8 +375,8 @@
 <div class="hero">
   <div class="hero-left">
     <div class="hero-eyebrow">🗂️ MediaCritic — le catalogue de référence</div>
-    <h1>L'annuaire et les <span>critiques</span><br>des podcasts francophones</h1>
-    <p>Répertoire collaboratif de <strong>9 500+ podcasts et chaînes YouTube francophones</strong>, filtrés par thème et notés — doublé du guide des podcasts indépendants, avec les critiques que MediaCritic publie chaque semaine.</p>
+    <h1>L'annuaire et les <span>critiques</span> des podcasts et chaînes YouTube francophones</h1>
+    <p>Répertoire collaboratif de <strong>9 500+ podcasts et chaînes YouTube francophones</strong>, filtrés par thème et notés — doublé du <a href="podcasts-independants.html">guide des podcasts indépendants</a>, avec les critiques que MediaCritic publie chaque semaine.</p>
     <div class="hero-stats">
       <div class="hstat">
         <div class="num" id="stat-total">9 500+</div>
@@ -813,7 +813,7 @@
       // Note de la plateforme (Apple ou abonnés YouTube) ET note MediaCritic
       const platformRating=item.type==='youtube'
         ?(item.subscribers?`<span class="card-subs">👥 ${fmtSubs(item.subscribers)}</span>`:'')
-        :(item.rating?`<span class="card-rating">⭐ ${parseFloat(item.rating).toFixed(1)}</span>`:'');
+        :(item.rating?`<span class="card-rating" title="Note Apple Podcasts, sur 5">⭐ ${parseFloat(item.rating).toFixed(1).replace('.',',')} Apple</span>`:'');
       const mcRating=item.mcNote
         ?`<span class="card-mcnote" title="Note MediaCritic">★ ${String(item.mcNote).replace('.',',')}/10</span>`
         :'';
