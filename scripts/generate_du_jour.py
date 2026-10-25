@@ -362,7 +362,7 @@ def visuels(c):
             print(f"  ! couverture non téléchargée : {e}")
     orange, texte, gris, vert = (232, 98, 45), (238, 242, 247), (170, 180, 195), (52, 199, 123)
     ep = c.get("episode") or {}
-    sous_titre = (f"« {c['sujet']} »" if c.get("mode") == "actu" else "Pépite indépendante")
+    sous_titre = (f"« {c['sujet']} » fait l'actu" if c.get("mode") == "actu" else "Pépite indépendante")
     detail = (f"Dans « {ep.get('titre')} »" if c.get("mode") == "actu" else
               (c.get("presentation") or ""))
     for suffixe, (W, H) in (("", (1200, 630)), ("-carre", (1080, 1080))):
