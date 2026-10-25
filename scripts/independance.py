@@ -87,12 +87,12 @@ MOTS_EXCLUS = re.compile(
 
 # Ajouts mot a mot (variantes collees que la recherche de sous-chaines
 # attrapait par hasard).
-EDITEURS_EXCLUS += ["rtl2", "tsfjazz", "bfmtv", "rts", "l equipe"]
+EDITEURS_EXCLUS += ["rtl2", "tsfjazz", "bfmtv", "rts", "l equipe", "quelle histoire"]
 
 # Noms faits de mots courants : exclus seulement s'ils sont le nom entier.
 NOMS_ENTIERS = {"le monde", "elle", "capital", "challenges", "brut",
                 "quotidien", "cosmic", "sonique", "paradiso", "nova", "mouv",
-                "global", "la vie"}
+                "global", "la vie", "investigation"}
 
 # Chaines YouTube : clubs et institutions sportives, studios de groupes TV,
 # fermes a contenu et societes, maisons de disques. Les plus suivies ont ete
@@ -115,6 +115,7 @@ EXCLUS_YOUTUBE = [
     "jv jeux video", "unisport", "chefclub", "marmiton", "investig action", "automoto",
     "automotomagazine", "medi1tv", "prime video", "dc super hero", "francetv", "flapacha",
     "lou la serie",
+    "quelle histoire",
     # Une chaine d'homme ou de parti politique n'est pas un « createur
     # independant » : le mot y prendrait un sens politique.
     "jean luc melenchon", "florian philippot", "eric zemmour", "emmanuel macron",
@@ -123,7 +124,7 @@ EXCLUS_YOUTUBE = [
 # Un artiste ne figure ici que si sa chaine est celle d'un artiste en label.
 ARTISTES_EN_LABEL = {"gims", "ninho", "lacrim", "sch", "le rappeur damso",
                      "gazo officiel", "maes officiel", "rk officiel",
-                     "sofiane officiel", "plk tv"}
+                     "sofiane officiel", "plk tv", "b20baofficiel"}
 # Verifies independants malgre un nom qui ferait douter (ex. : PNL, autoproduit
 # sur son propre label QLF Records).
 INDEPENDANTS_VERIFIES = {"pnl"}
