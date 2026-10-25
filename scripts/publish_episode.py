@@ -58,6 +58,7 @@ REGENERATEURS = [
     "scripts/patch_partage_episodes.py", # rangee de partage
     "scripts/patch_meta_episodes.py",    # titres/descriptions/twitter:card
     "scripts/patch_indep_episodes.py",   # label « Podcast indépendant » en tete
+    "scripts/generate_du_jour.py",       # podcast du jour : accueil, archive, kit
     "scripts/patch_partage_global.py",   # bouton « Partager » en tete de page
     "scripts/patch_charte.py",           # en-tete, pied de page, mc.css (charte)
     "scripts/sync_compteurs.py",         # compteurs : source unique

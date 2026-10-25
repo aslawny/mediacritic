@@ -86,6 +86,23 @@ def load_mc_reviews():
 
 MC_REVIEWS = load_mc_reviews()
 
+
+def _charger_du_jour():
+    """slug -> dates ou l'emission a ete « podcast du jour » (du_jour.py)."""
+    p = Path(__file__).parent.parent / "data" / "du_jour.json"
+    out = {}
+    try:
+        for c in json.loads(p.read_text(encoding="utf-8"))["historique"]:
+            out.setdefault(c["slug"], []).append(c["date"])
+    except Exception:
+        pass
+    return out
+
+
+DU_JOUR = _charger_du_jour()
+_MOIS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août",
+         "septembre", "octobre", "novembre", "décembre"]
+
 # ─── CSS bloc (extrait de braincast.html) ─────────────────────────────────────
 CSS_BLOCK = """\
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
@@ -634,6 +651,16 @@ def render_fiche(data):
     for cat in categories:
         badges.append(f'<span class="badge badge-cat">{h(cat)}</span>')
     badges_html = " ".join(badges)
+    # « Podcast du jour » : mention sous les labels, dates les plus recentes d'abord.
+    dujour_html = ""
+    if DU_JOUR.get(data.get("slug")):
+        jours = []
+        for iso in sorted(DU_JOUR[data["slug"]], reverse=True)[:3]:
+            a_, m_, j_ = (int(x) for x in iso.split("-"))
+            jours.append(f"{'1er' if j_ == 1 else j_} {_MOIS[m_ - 1]} {a_}")
+        lib = "Chaîne du jour" if data.get("type") == "youtube" else "Podcast du jour"
+        dujour_html = (f'<p class="mc-dujour-mention">🔥 {lib} le {", ".join(jours)} · '
+                       f'<a href="../podcast-du-jour.html">voir pourquoi</a></p>')
 
     # Rating
     apple = platforms.get("apple", {})
@@ -851,7 +878,7 @@ def render_fiche(data):
         <a href="../catalogue.html">Catalogue</a> ›
         {h(title)}
       </nav>
-      <div class="badges">{badges_html}</div>
+      <div class="badges">{badges_html}</div>{dujour_html}
       <h1>{h(title)}</h1>
       <div class="author">par {h(author_display)}</div>
       {rating_html}

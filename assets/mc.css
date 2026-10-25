@@ -114,6 +114,37 @@ a.mc-indep-lg:hover{background:#4fd890}
 .filter-btn.indep-btn.active,.filter-btn.indep-only.active{background:#34c77b;border-color:#34c77b;color:#062012}
 .mc-legende{display:flex;align-items:center;flex-wrap:wrap;gap:6px 8px;font-size:13px;color:var(--mc-text-2);margin:8px 0 0}
 .mc-legende a{color:var(--mc-text);text-decoration:underline;text-underline-offset:2px}
+/* Le podcast du jour (25/10/2026) : bloc de l'accueil, haut de l'archive, kit. */
+.mcj-zone{max-width:1100px;margin:0 auto;padding:0 clamp(16px,4vw,48px) clamp(24px,4vw,40px)}
+.mcj{display:flex;gap:clamp(16px,3vw,28px);align-items:flex-start;background:linear-gradient(135deg,rgba(232,98,45,.10),rgba(232,98,45,.02) 60%),var(--mc-surface);border:1px solid rgba(232,98,45,.35);border-radius:var(--mc-r-lg);padding:clamp(16px,3vw,24px)}
+.mcj-cover{flex:none;width:clamp(96px,16vw,160px);aspect-ratio:1;border-radius:var(--mc-r-md);overflow:hidden;background:var(--mc-surface-2);display:flex;align-items:center;justify-content:center;font-size:32px}
+.mcj-cover img{width:100%;height:100%;object-fit:cover;display:block}
+.mcj-txt{min-width:0;flex:1}
+.mcj-eyebrow{margin:0 0 6px;font-size:var(--mc-fs-label);font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--mc-accent)}
+.mcj-titre{margin:0 0 8px!important}
+.mcj-titre a{text-decoration:none;color:var(--mc-text)}
+.mcj-titre a:hover{color:var(--mc-accent)}
+.mcj-labels{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 10px}
+.mcj-labels:empty{display:none}
+.mcj-note{font-size:12px;font-weight:700;color:var(--mc-gold)}
+.mcj-pourquoi{margin:0 0 8px;color:var(--mc-text);line-height:1.6}
+.mcj-pres{margin:0 0 14px;color:var(--mc-text-2);font-size:var(--mc-fs-small);line-height:1.6}
+.mcj-actions{display:flex;flex-wrap:wrap;gap:8px 12px;align-items:center}
+.mcj-btn{display:inline-flex;align-items:center;padding:8px 14px;border-radius:var(--mc-r-sm);border:1px solid var(--mc-line-2);color:var(--mc-text);text-decoration:none;font-size:14px;font-weight:600}
+.mcj-btn:hover{border-color:var(--mc-accent)}
+.mcj-btn-1{background:var(--mc-accent);border-color:var(--mc-accent);color:var(--mc-on-accent)!important}
+.mcj-btn-1:hover{background:var(--mc-accent-hover)}
+.mcj-btn-lien{border:0;padding:8px 0;color:var(--mc-text-2);font-weight:500;text-decoration:underline;text-underline-offset:2px}
+@media (max-width:560px){.mcj{flex-direction:column}.mcj-cover{width:96px}}
+.mcj-archive{margin-top:40px}
+.mcj-liste{list-style:none;padding:0;margin:16px 0 0;display:flex;flex-direction:column;gap:2px}
+.mcj-l{display:flex;flex-wrap:wrap;align-items:center;gap:4px 10px;padding:10px 0;border-bottom:1px solid var(--mc-line)}
+.mcj-l-date{flex:0 0 150px;color:var(--mc-text-3);font-size:14px}
+.mcj-l>a:not(.mc-indep){font-weight:600;color:var(--mc-text);text-decoration:none}
+.mcj-l>a:not(.mc-indep):hover{color:var(--mc-accent)}
+.mcj-l-quoi{flex-basis:100%;color:var(--mc-text-2);font-size:14px}
+.mc-dujour-mention{margin:0 0 14px;font-size:14px;color:var(--mc-text-2)}
+.mc-dujour-mention a{color:var(--mc-accent)}
 /* Une URL longue dans un texte (descriptions d'editeurs) faisait deborder la page sur telephone. */
 p,li{overflow-wrap:break-word}
 /* Liens dans un texte courant : reconnaissables sans survol. */

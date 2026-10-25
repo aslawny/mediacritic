@@ -167,6 +167,7 @@ def pied():
         '<li><a href="/catalogue.html">Annuaire</a></li>',
         '<li><a href="/classement.html">Classement</a></li>',
         '<li><a href="/podcasts-independants.html">Podcasts indépendants</a></li>',
+        '<li><a href="/podcast-du-jour.html">Le podcast du jour</a></li>',
         '<li><a href="/palmares.html">Palmarès des critiques</a></li>',
         '<li><a href="/comparer.html">Comparateur</a></li>',
         '<li><a href="/qui-sommes-nous.html">L&#39;équipe</a></li>',
