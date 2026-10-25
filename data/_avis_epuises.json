@@ -1,6 +1,6 @@
 {
-  "maj": "2026-10-24",
-  "total": 1134,
+  "maj": "2026-10-25",
+  "total": 1135,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -6770,6 +6770,12 @@
       "titre": "Voyage Family - le podcast",
       "notes_apple": 32,
       "fiche": "fiches/voyage-family-le-podcast.html"
+    },
+    {
+      "slug": "humains-tv",
+      "titre": "Humains TV",
+      "notes_apple": 32,
+      "fiche": "fiches/humains-tv.html"
     },
     {
       "slug": "allez-vas-y",

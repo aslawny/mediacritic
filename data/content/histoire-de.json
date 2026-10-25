@@ -22,27 +22,31 @@
   "tags": [
     "histoire"
   ],
-  "updatedAt": "2026-10-22",
+  "updatedAt": "2026-10-25",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-25",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-25",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "J’aime Boucheron",
+        "titre": "Histoire de",
+        "texte": "Monsieur Boucheron est à mon avis un immense historien. Il relie et donne sens à l’histoire aujourd’hui. Il fait partie de ces personnes qui nous rendent plus intelligents.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Mojette92",
+        "titre": "Les faits ou l’idéologie ?",
+        "texte": "Patrick Boucheron expose brillamment sa pensée mais cette pensée est elle de l’histoire ou de l’idéologie historique ?"
+      },
+      {
+        "note": 5,
+        "auteur": "Fredolesgrandesoreilles",
+        "titre": "Tout simplement apprendre",
+        "texte": "Excellente émission… qui nous permet de découvrir des thèmes inattendus, pas toujours passionnants mais peu importe. Évidemment les grincheux trouveront P.Boucheron trop … woke (!!!) il suffit pourtant d écouter … et pourquoi en effet ne pas faire l histoire de la colonisation ou…"
+      }
     ]
   }
 }
