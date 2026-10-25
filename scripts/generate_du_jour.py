@@ -89,7 +89,7 @@ def carte(c, prefixe="", titre_tag="h2", lien_archive=True):
     if lien_archive:
         boutons.append(f'<a class="mcj-btn mcj-btn-lien" href="{prefixe}{PAGE}">Les sélections précédentes →</a>')
     img = cover(c.get("image"))
-    vign = (f'<img src="{h(img)}" alt="{h(c["titre"])}" width="160" height="160" loading="lazy" />'
+    vign = (f'<img src="{h(img)}" alt="{h(c["titre"])}" width="160" height="160" loading="eager" decoding="async" />'
             if img else '<span class="mcj-ph">🎙️</span>')
     note = (f'<span class="mcj-note">★ {str(c["mcNote"]).replace(".", ",")}/10 MediaCritic</span>'
             if c.get("mcNote") else "")
