@@ -1,0 +1,31 @@
+{
+  "ep": 52,
+  "saison": 2,
+  "slug": "jeanbapisteshow",
+  "page": "jeanbaptisteshow.html",
+  "title": "JeanBaptisteShow",
+  "tagline": "La chaîne YouTube jeu vidéo de JB",
+  "meta_desc": "MediaCritic analyse JeanBaptisteShow, chaîne YouTube jeu vidéo depuis 2013 : 977 000 abonnés, une écriture soignée et le mythique PC gamer à 500 euros.",
+  "cover": "https://yt3.googleusercontent.com/wP0QSNgo7duKo-cVZ_PMpsH3T2n56yCekSzyvp2f6gdoZ7E2U0cY14rrSqVlhWj8gh1zGePHNOQ=s800-c-k-c0x00ffffff-no-rj",
+  "initials": "JB",
+  "type_line": "Chaîne YouTube · Jeu vidéo · Tests & analyses · Depuis 2013",
+  "hosts_line": "Animé par <strong>Lolo · Alex</strong>",
+  "authors": [
+    "Alex",
+    "Lolo"
+  ],
+  "buttons": [
+    {
+      "href": "https://www.youtube.com/@JeanBaptisteShow",
+      "label": "▶ La chaîne",
+      "style": "background:rgba(255,0,0,.1);color:#ff6b6b;border-color:rgba(255,0,0,.25);"
+    },
+    {
+      "href": "https://podcasts.apple.com/fr/podcast/jean-qu%C3%AAte-dactu/id1560891944",
+      "label": "🎙️ Jean Quête d'actu (podcast)"
+    }
+  ],
+  "note": 9,
+  "verdict": "Jean aurait jamais marre du JeanBaptisteShow! Jamais le plus gros ni le plus bruyant : juste là, excellent et depuis bien, longtemps. Douze ans d'écriture soignée, plus dur encore qu'un PC gamer à 500 euros.",
+  "content_file": "manifests/ep52-content.html"
+}
