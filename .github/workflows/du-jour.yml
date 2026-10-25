@@ -62,6 +62,19 @@ jobs:
         working-directory: site
         run: python scripts/ci_validate.py
 
+      # Publication sur X, seule et sans controle (choix de l'utilisateur).
+      # Secrets crees par l'utilisateur ; absents => etape sautee. Un refus
+      # de X ne bloque pas la mise a jour du site (continue-on-error).
+      - name: Publication sur X
+        working-directory: site
+        continue-on-error: true
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+        run: python scripts/poster_x.py
+
       - name: Commit and push
         working-directory: site
         run: |
