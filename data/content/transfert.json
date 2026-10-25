@@ -20,13 +20,16 @@
       "episodeCount": null
     }
   },
-  "mediacritic": null,
+  "mediacritic": {
+    "ep": 51,
+    "url": "https://www.mediacritic.fr/episodes/transfert.html"
+  },
   "tags": [
     "actualite",
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-22",
+  "updatedAt": "2026-10-25",
   "avis_publics": {
     "source": "apple",
     "boutique": "ca",
