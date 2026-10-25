@@ -15,6 +15,7 @@ from pathlib import Path
 import sys as _sys_charte
 _sys_charte.path.insert(0, str(Path(__file__).parent))
 from charte import appliquer as charte_appliquer  # noqa: E402  en-tete/pied uniques
+from independance import est_independant  # noqa: E402  source unique du label
 from urllib.parse import quote
 
 # ─── Chemins ──────────────────────────────────────────────────────────────────
@@ -624,6 +625,12 @@ def render_fiche(data):
     badges = [f'<span class="badge badge-type">{h(t_label)}</span>']
     if mediacritic:
         badges.append('<span class="badge badge-mc">✦ Analysé par MediaCritic</span>')
+    if est_independant(data):
+        # Label partagé avec les vignettes (classe .mc-indep de mc.css) ; le
+        # lien explique ce que « indépendant » veut dire.
+        badges.append('<a class="mc-indep mc-indep-lg" href="../podcasts-independants.html" '
+                      'title="Publié hors radios, presse, studios et institutions : voir le guide">'
+                      'Podcast indépendant</a>')
     for cat in categories:
         badges.append(f'<span class="badge badge-cat">{h(cat)}</span>')
     badges_html = " ".join(badges)
@@ -919,6 +926,10 @@ def update_catalog(all_data):
             "addedAt":        d.get("updatedAt", ""),
             "subscribers":    d.get("platforms", {}).get("youtube", {}).get("subscribers"),
         })
+        # Champ present seulement s'il est vrai : 5 800 entrees sur 9 500,
+        # inutile d'alourdir les autres. Lu par les vignettes (label + filtre).
+        if est_independant(d):
+            catalog[-1]["independant"] = True
     with open(CATALOG, "w", encoding="utf-8") as f:
         json.dump(catalog, f, ensure_ascii=False, separators=(",", ":"))
     print(f"  catalog.json → {len(catalog)} entrées")

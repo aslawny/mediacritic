@@ -403,7 +403,9 @@
   <div class="filters" id="filters-container">
     <button class="filter-btn active" data-cat="all">Tous</button>
     <button class="filter-btn mc-only" data-cat="mc">⭐ Analysés par MediaCritic</button>
+    <button class="filter-btn indep-only" data-cat="indep">Indépendants</button>
   </div>
+  <p class="mc-legende"><span class="mc-indep">Indépendant</span> podcast publié hors radios, presse, studios et institutions · <a href="podcasts-independants.html">le guide des podcasts indépendants</a></p>
 
   <div class="results-info" id="results-info"></div>
 </div>
@@ -463,7 +465,7 @@
   function updateMeta(cat) {
     const canonicalEl = document.getElementById('canonical-tag');
     const metaDescEl  = document.getElementById('meta-description');
-    if (cat === 'all' || cat === 'mc') {
+    if (cat === 'all' || cat === 'mc' || cat === 'indep') {
       document.title = DEFAULT_TITLE;
       if (metaDescEl)  metaDescEl.setAttribute('content', DEFAULT_DESC);
       if (canonicalEl) canonicalEl.href = BASE_URL;
@@ -481,7 +483,7 @@
   // Build category buttons
   function buildFilters(cats) {
     const existing = filtersCt.querySelectorAll('[data-cat]');
-    existing.forEach(b => { if(b.dataset.cat !== 'all' && b.dataset.cat !== 'mc') b.remove(); });
+    existing.forEach(b => { if(b.dataset.cat !== 'all' && b.dataset.cat !== 'mc' && b.dataset.cat !== 'indep') b.remove(); });
     CATS_ORDER.filter(c => cats.has(c)).concat([...cats].filter(c => !CATS_ORDER.includes(c)).sort()).forEach(cat => {
       const btn = document.createElement('button');
       btn.className = 'filter-btn';
@@ -507,6 +509,8 @@
     // Category filter
     if (activecat === 'mc') {
       base = base.filter(i => i.hasMediacritic);
+    } else if (activecat === 'indep') {
+      base = base.filter(i => i.independant);
     } else if (activecat !== 'all') {
       base = base.filter(i => i.categories && i.categories.includes(activecat));
     }
@@ -562,9 +566,11 @@
         ? `<span class="card-rating" title="Note Apple Podcasts, sur 5">⭐ ${parseFloat(item.rating).toFixed(1).replace('.',',')} Apple</span>`
         : '';
 
-      const mcBadge = item.hasMediacritic
+      const mcBadge = (item.hasMediacritic
         ? `<span class="card-mc-badge">MC Ép.${item.mcEpisode}</span>`
-        : '';
+        : '') + (item.independant
+        ? '<span class="mc-indep" title="Podcast indépendant : hors radios, presse, studios et institutions">Indépendant</span>'
+        : '');
 
       a.innerHTML = `
         <div class="card-cover">

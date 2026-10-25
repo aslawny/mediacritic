@@ -49,7 +49,9 @@ RUBRIQUES = [
     ("annuaire", "/catalogue.html", "Annuaire"),
     ("classement", "/classement.html", "Classement"),
     ("palmares", "/palmares.html", "Palmarès"),
-    ("comparateur", "/comparer.html", "Comparateur"),
+    # « Indépendants » a remplacé « Comparateur » dans le menu (choix de
+    # l'utilisateur, 25/10/2026) ; le comparateur reste dans le pied de page.
+    ("independants", "/podcasts-independants.html", "Indépendants"),
     ("equipe", "/qui-sommes-nous.html", "L'équipe"),
 ]
 

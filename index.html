@@ -451,7 +451,9 @@
     <button class="filter-btn mc-btn" data-cat="mc">⭐ Analysés par MediaCritic</button>
     <button class="filter-btn type-podcast" data-cat="type:podcast">🎙️ Podcasts</button>
     <button class="filter-btn type-youtube" data-cat="type:youtube">📺 Chaînes YouTube</button>
+    <button class="filter-btn indep-btn" data-cat="indep">Indépendants</button>
   </div>
+  <p class="mc-legende"><span class="mc-indep">Indépendant</span> podcast publié hors radios, presse, studios et institutions · <a href="podcasts-independants.html">le guide des podcasts indépendants</a></p>
   <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;">
     <div class="results-info" id="results-info" style="margin:0;flex:1;"></div>
     <button id="clear-filters" style="display:none;font-size:.73rem;font-weight:600;color:var(--c-orange);background:rgba(232,98,45,.08);border:1px solid rgba(232,98,45,.3);padding:4px 12px;border-radius:20px;cursor:pointer;white-space:nowrap;transition:background .2s;" onclick="clearAllFilters()">✕ Effacer les filtres</button>
@@ -681,7 +683,7 @@
 
   function buildFilters(cats){
     const existing=filtersCt.querySelectorAll('[data-cat]');
-    existing.forEach(b=>{if(b.dataset.cat!=='all'&&b.dataset.cat!=='mc'&&!b.dataset.cat.startsWith('type:'))b.remove();});
+    existing.forEach(b=>{if(b.dataset.cat!=='all'&&b.dataset.cat!=='mc'&&b.dataset.cat!=='indep'&&!b.dataset.cat.startsWith('type:'))b.remove();});
     CATS_ORDER.filter(c=>cats.has(c)).concat([...cats].filter(c=>!CATS_ORDER.includes(c)).sort()).forEach(cat=>{
       const btn=document.createElement('button');
       btn.className='filter-btn'; btn.dataset.cat=cat; btn.textContent=cat;
@@ -764,8 +766,11 @@
     if(activeCats.size>0){
       const hasMc=activeCats.has('mc');
       const typeFilters=[...activeCats].filter(c=>c.startsWith('type:'));
-      const cats=[...activeCats].filter(c=>c!=='mc'&&!c.startsWith('type:'));
+      const cats=[...activeCats].filter(c=>c!=='mc'&&c!=='indep'&&!c.startsWith('type:'));
+      const indep=activeCats.has('indep');
       base=base.filter(i=>{
+        // Indépendants : contrainte ET, comme le type
+        if(indep && !i.independant) return false;
         // Type filter: AND constraint (item must match selected type)
         if(typeFilters.length>0){
           const matchType=typeFilters.some(t=>
@@ -810,7 +815,8 @@
       a.href=mc?mc.analyse:`fiches/${item.slug}.html`;
       const emoji=item.type==='youtube'?'📺':'🎙️';
       const cat1=item.categories&&item.categories[0]?esc(item.categories[0]):'';
-      const badge=item.hasMediacritic?`<span class="mc-badge">MC Ép.${esc(mc?mc.ep:item.mcEpisode)}</span>`:'';
+      const badge=(item.hasMediacritic?`<span class="mc-badge">MC Ép.${esc(mc?mc.ep:item.mcEpisode)}</span>`:'')
+        +(item.independant?'<span class="mc-indep" title="Podcast indépendant : hors radios, presse, studios et institutions">Indépendant</span>':'');
       function fmtSubs(n){if(!n)return'';if(n>=1e6)return(n/1e6).toFixed(1).replace('.0','')+'M abon.';if(n>=1e3)return Math.round(n/1e3)+'k abon.';return n+' abon.';}
       // Note de la plateforme (Apple ou abonnés YouTube) ET note MediaCritic
       const platformRating=item.type==='youtube'
