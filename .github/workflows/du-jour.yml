@@ -1,0 +1,81 @@
+name: Podcast du jour
+
+# Chaque matin : choisit l'emission de l'annuaire qui parle de l'actualite du
+# moment (preuve par un episode reel), met a jour le bloc de l'accueil,
+# l'archive podcast-du-jour.html, la fiche de l'emission et le kit reseaux
+# (kit-du-jour.html, visuels assets/du-jour/). Phase 1 : la publication sur
+# les reseaux est faite a la main depuis le kit. Voir scripts/du_jour.py.
+
+on:
+  schedule:
+    - cron: '10 6 * * *'   # 6h10 UTC = 7h10 a Paris l'hiver, 8h10 l'ete
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Une seule ecriture a la fois sur gh-pages (partage avec enrich.yml).
+concurrency:
+  group: gh-pages-write
+  cancel-in-progress: false
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  du-jour:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout gh-pages
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: site
+          fetch-depth: 1
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install --quiet requests pillow certifi
+          sudo apt-get install -y -qq fonts-dejavu-core >/dev/null 2>&1 || true
+
+      - name: Choix du podcast du jour
+        working-directory: site
+        run: python scripts/du_jour.py
+
+      # La fiche de l'emission choisie porte la mention « Podcast du jour » :
+      # du_jour.py l'a marquee, generate_fiches.py ne regenere qu'elle.
+      - name: Fiche de l'emission
+        working-directory: site
+        run: python scripts/generate_fiches.py
+
+      - name: Accueil, archive, kit, visuels
+        working-directory: site
+        run: python scripts/generate_du_jour.py
+
+      - name: Validate site
+        working-directory: site
+        run: python scripts/ci_validate.py
+
+      - name: Commit and push
+        working-directory: site
+        run: |
+          git config user.name  "MediaCritic Bot"
+          git config user.email "bot@mediacritic.fr"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Rien à publier"
+            exit 0
+          fi
+          git commit -m "auto: podcast du jour — $(date -u +%Y-%m-%d)"
+          for i in 1 2 3; do
+            if git push origin gh-pages; then exit 0; fi
+            git fetch --depth=20 origin gh-pages
+            git rebase origin/gh-pages || { git rebase --abort; exit 1; }
+          done
+          exit 1

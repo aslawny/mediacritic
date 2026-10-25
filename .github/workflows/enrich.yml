@@ -21,6 +21,11 @@ on:
 permissions:
   contents: write
 
+# Une seule ecriture a la fois sur gh-pages (partage avec du-jour.yml).
+concurrency:
+  group: gh-pages-write
+  cancel-in-progress: false
+
 # ─── Forcer Node.js 24 (Node 20 deprecated juin 2026) ─────────────────────────
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
@@ -164,7 +169,9 @@ jobs:
       - name: Generate classement et comparateur
         working-directory: site
         run: |
-          for s in generate_classement generate_comparateur; do
+          # independants, label des episodes et podcast du jour : pages derivees
+          # ajoutees le 24-25/10/2026 (elles doivent suivre le catalogue chaque nuit).
+          for s in generate_classement generate_comparateur generate_independants patch_indep_episodes generate_du_jour; do
             if [ -f "scripts/$s.py" ]; then
               python "scripts/$s.py"
             else
