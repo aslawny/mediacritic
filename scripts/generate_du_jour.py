@@ -148,8 +148,8 @@ def page_archive(hist):
     archive = (f'<section class="mcj-archive"><h2>Les sélections précédentes</h2>'
                f'<ol class="mcj-liste">{"".join(lignes)}</ol></section>' if lignes else "")
     titre = "Le podcast du jour : l'actu en podcast et sur YouTube"
-    desc = ("Chaque matin, MediaCritic choisit le podcast ou la chaîne YouTube francophone qui "
-            "parle de l'actualité du moment, preuve à l'appui : l'épisode, sa date, son lien.")
+    desc = ("Chaque matin, le podcast ou la chaîne YouTube francophone qui parle de "
+            "l'actualité, preuve à l'appui : l'épisode, sa date, son lien.")
     og = f"{BASE}/assets/du-jour/{dernier['date']}.jpg" \
         if (VISUELS / f"{dernier['date']}.jpg").exists() else f"{BASE}/assets/banner.png"
     ld = {"@context": "https://schema.org", "@graph": [
@@ -303,6 +303,7 @@ Chaque lien porte un marqueur de suivi par réseau, visible dans Google Analytic
 {blocs}
 </main>
 <footer></footer>
+<script defer src="/assets/partage.js"></script>
 </body>
 </html>"""
     page, etat = charte_appliquer(page, None)
