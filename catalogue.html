@@ -405,7 +405,7 @@
     <button class="filter-btn mc-only" data-cat="mc">⭐ Analysés par MediaCritic</button>
     <button class="filter-btn indep-only" data-cat="indep">Indépendants</button>
   </div>
-  <p class="mc-legende"><span class="mc-indep">Indépendant</span> podcast publié hors radios, presse, studios et institutions · <a href="podcasts-independants.html">le guide des podcasts indépendants</a></p>
+  <p class="mc-legende"><span class="mc-indep">Indépendant</span> podcast ou chaîne YouTube publiés hors médias, studios, marques et institutions · <a href="podcasts-independants.html">le guide des indépendants</a></p>
 
   <div class="results-info" id="results-info"></div>
 </div>
@@ -569,7 +569,7 @@
       const mcBadge = (item.hasMediacritic
         ? `<span class="card-mc-badge">MC Ép.${item.mcEpisode}</span>`
         : '') + (item.independant
-        ? '<span class="mc-indep" title="Podcast indépendant : hors radios, presse, studios et institutions">Indépendant</span>'
+        ? '<span class="mc-indep" title="Indépendant : hors médias, studios, marques et institutions">Indépendant</span>'
         : '');
 
       a.innerHTML = `

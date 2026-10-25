@@ -45,6 +45,11 @@ def main():
     cat = json.loads((ROOT / "data" / "catalog.json").read_text(encoding="utf-8"))
     pods = [x for x in cat if x.get("type") != "youtube"]
     indep = [x for x in pods if est_independant(x)]
+    # Chaines YouTube : etendu le 25/10/2026 (meme definition, voir independance.py).
+    yts = [x for x in cat if x.get("type") == "youtube"]
+    indep_yt = [x for x in yts if est_independant(x)]
+    chaines = sorted([x for x in indep_yt if x.get("subscribers")],
+                     key=lambda x: -int(x["subscribers"]))[:TAILLE]
     notes = [x for x in indep if x.get("rating") and x.get("ratingCount")]
     moyenne = sum(float(x["rating"]) for x in notes) / max(1, len(notes))
 
@@ -55,7 +60,7 @@ def main():
     eligibles = [x for x in notes if int(x["ratingCount"]) >= PLANCHER_AVIS]
     mieux_notes = sorted(eligibles, key=lambda x: -bayes(x))[:TAILLE]
     populaires = sorted(notes, key=lambda x: -int(x["ratingCount"]))[:TAILLE]
-    pepites = sorted([x for x in indep if x.get("mcNote")],
+    pepites = sorted([x for x in indep + indep_yt if x.get("mcNote")],
                      key=lambda x: (-float(x["mcNote"]), x.get("title", "").lower()))
 
     sections, listes = [], []
@@ -69,6 +74,10 @@ def main():
          "Classés par nombre d'avis déposés sur Apple Podcasts, la mesure la plus "
          "objective de l'audience d'un podcast.", populaires,
          lambda x: _nombre(x["ratingCount"]), "avis Apple"),
+        ("chaines", "Les chaînes YouTube indépendantes les plus suivies",
+         f"Classées par nombre d'abonnés, parmi les {_nombre(len(indep_yt))} chaînes "
+         "indépendantes de l'annuaire.", chaines,
+         lambda x: _nombre(x["subscribers"]), "abonnés"),
         ("pepites", "Les indépendants analysés par MediaCritic",
          "Ceux que nous avons écoutés, critiqués et notés dans le podcast. "
          "Notre avis, pas celui d'un algorithme.", pepites,
@@ -79,10 +88,10 @@ def main():
             sections.append(bloc)
             listes.append(ld)
 
-    titre = "Guide des podcasts indépendants francophones"
-    desc = (f"Le guide des podcasts indépendants francophones : {_nombre(len(indep))} "
-            f"podcasts hors radios, presse, studios et institutions, classés par note "
-            f"et par audience.")
+    titre = "Podcasts et chaînes YouTube indépendants"
+    desc = (f"Le guide des indépendants : {_nombre(len(indep))} podcasts et "
+            f"{_nombre(len(indep_yt))} chaînes YouTube francophones hors médias, studios "
+            f"et marques, classés par note et par audience.")
 
     ld = {"@context": "https://schema.org", "@graph": listes + [
         {"@type": "CollectionPage", "@id": f"{BASE}/{PAGE}", "url": f"{BASE}/{PAGE}",
@@ -92,7 +101,7 @@ def main():
             {"@type": "ListItem", "position": 1, "name": "MediaCritic", "item": BASE + "/"},
             {"@type": "ListItem", "position": 2, "name": "Annuaire",
              "item": f"{BASE}/catalogue.html"},
-            {"@type": "ListItem", "position": 3, "name": "Podcasts indépendants",
+            {"@type": "ListItem", "position": 3, "name": "Indépendants",
              "item": f"{BASE}/{PAGE}"}]},
     ]}
 
@@ -103,7 +112,7 @@ def main():
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>{h(titre)} | MediaCritic</title>
 <meta name="description" content="{h(desc)}" />
-<meta name="keywords" content="guide des podcasts indépendants, podcasts indépendants francophones, podcast indépendant, annuaire podcast francophone, meilleurs podcasts indépendants" />
+<meta name="keywords" content="guide des podcasts indépendants, chaînes YouTube indépendantes, podcasts indépendants francophones, podcast indépendant, annuaire podcast francophone, meilleurs podcasts indépendants" />
 <meta name="robots" content="index, follow" />
 <meta name="referrer" content="strict-origin-when-cross-origin" />
 <link rel="canonical" href="{BASE}/{PAGE}" />
@@ -152,20 +161,22 @@ def main():
 <body>
 <nav></nav>
 <header class="cl-intro">
-  <h1>Le guide des podcasts indépendants francophones</h1>
-  <p>Sur les {_nombre(len(pods))} podcasts de <a href="catalogue.html">notre annuaire</a>,
-  <strong>{_nombre(len(indep))}</strong> sont indépendants : ils ne sont publiés ni par une
-  radio, une télévision ou un titre de presse, ni par une institution ou une marque, ni par
-  un studio ou un réseau de podcasts professionnel. Des créateurs et de petites structures,
+  <h1>Le guide des podcasts et chaînes YouTube indépendants</h1>
+  <p>Dans <a href="catalogue.html">notre annuaire</a>, <strong>{_nombre(len(indep))}</strong>
+  podcasts sur {_nombre(len(pods))} et <strong>{_nombre(len(indep_yt))}</strong> chaînes
+  YouTube sur {_nombre(len(yts))} sont indépendants : ils ne sont publiés ni par une radio,
+  une télévision ou un titre de presse, ni par une institution, un club ou une marque, ni par
+  un studio, un réseau ou une maison de disques. Des créateurs et de petites structures,
   souvent sans budget de promotion, que les classements des plateformes laissent dans
-  l'ombre des grandes stations.</p>
-  <p>Le tri se fait sur le nom de l'éditeur déclaré sur les plateformes. Il peut se tromper :
-  si un podcast est mal classé, <a href="contact.html">dites-le-nous</a>. Les notes et les
-  audiences viennent d'Apple Podcasts ; les pépites, de nos propres critiques. Mis à jour
-  automatiquement.</p>
+  l'ombre des grands médias.</p>
+  <p>Le tri se fait sur le nom de l'éditeur ou de la chaîne. Il peut se tromper :
+  si un contenu est mal classé, <a href="contact.html">dites-le-nous</a>. Les notes et les
+  audiences des podcasts viennent d'Apple Podcasts, celles des chaînes de YouTube ; les
+  pépites, de nos propres critiques. Mis à jour automatiquement.</p>
   <div class="cl-somm">
     <a href="#mieux-notes">Les mieux notés</a>
     <a href="#populaires">Les plus écoutés</a>
+    <a href="#chaines">Chaînes YouTube</a>
     <a href="#pepites">Analysés par MediaCritic</a>
     <a href="classement.html">Classement général</a>
   </div>

@@ -17,13 +17,13 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from independance import est_independant  # noqa: E402  source unique
+from independance import INFOBULLE, est_independant, libelle  # noqa: E402  source unique
 
 ROOT = Path(__file__).parent.parent
 DEBUT, FIN = "<!-- mc-indep -->", "<!-- /mc-indep -->"
-LABEL = (DEBUT + '<a class="mc-indep mc-indep-lg mc-indep-ep" href="../podcasts-independants.html" '
-         'title="Publié hors radios, presse, studios et institutions : voir le guide">'
-         'Podcast indépendant</a>' + FIN)
+def label(item):
+    return (DEBUT + '<a class="mc-indep mc-indep-lg mc-indep-ep" href="../podcasts-independants.html" '
+            f'title="{INFOBULLE}">{libelle(item)}</a>' + FIN)
 # Apres la pastille d'episode, et apres « Nouveau » s'il est la.
 ANCRE = re.compile(r'(<div class="ep-num-badge">[^<]*</div>(?:<span class="ep-new-badge">[^<]*</span>)?)')
 
@@ -39,11 +39,12 @@ def main():
         fiche = ROOT / "data" / "content" / f"{slug}.json"
         if not chemin.exists() or not fiche.exists():
             continue
-        indep = est_independant(json.loads(fiche.read_text(encoding="utf-8")))
+        donnees = json.loads(fiche.read_text(encoding="utf-8"))
+        indep = est_independant(donnees)
         html = chemin.read_text(encoding="utf-8")
         neuf = re.sub(re.escape(DEBUT) + ".*?" + re.escape(FIN), "", html, flags=re.S)
         if indep:
-            neuf, n = ANCRE.subn(lambda m: m.group(1) + LABEL, neuf, count=1)
+            neuf, n = ANCRE.subn(lambda m: m.group(1) + label(donnees), neuf, count=1)
             if not n:
                 print(f"  ! {page} : pastille d'episode introuvable, label non pose")
                 continue

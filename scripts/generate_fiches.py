@@ -15,7 +15,7 @@ from pathlib import Path
 import sys as _sys_charte
 _sys_charte.path.insert(0, str(Path(__file__).parent))
 from charte import appliquer as charte_appliquer  # noqa: E402  en-tete/pied uniques
-from independance import est_independant  # noqa: E402  source unique du label
+from independance import INFOBULLE as INDEP_INFOBULLE, est_independant, libelle as indep_libelle  # noqa: E402
 from urllib.parse import quote
 
 # ─── Chemins ──────────────────────────────────────────────────────────────────
@@ -646,8 +646,7 @@ def render_fiche(data):
         # Label partagé avec les vignettes (classe .mc-indep de mc.css) ; le
         # lien explique ce que « indépendant » veut dire.
         badges.append('<a class="mc-indep mc-indep-lg" href="../podcasts-independants.html" '
-                      'title="Publié hors radios, presse, studios et institutions : voir le guide">'
-                      'Podcast indépendant</a>')
+                      f'title="{INDEP_INFOBULLE}">{indep_libelle(data)}</a>')
     for cat in categories:
         badges.append(f'<span class="badge badge-cat">{h(cat)}</span>')
     badges_html = " ".join(badges)
