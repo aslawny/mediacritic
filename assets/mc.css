@@ -106,6 +106,12 @@ body *:not(code,pre,kbd,samp){font-family:var(--mc-font)!important}
 .card-cover .mc-indep{position:absolute;left:7px;bottom:7px;box-shadow:0 1px 4px rgba(0,0,0,.35)}
 .mc-indep-lg{font-size:12px;padding:4px 10px;border-radius:999px}
 a.mc-indep-lg:hover{background:#4fd890}
+.mc-indep-ep{margin:0 0 12px;vertical-align:top}
+.ep-num-badge{margin-right:8px}
+/* Filtre « Indépendants » (accueil, annuaire) : même vert que le label. */
+.filter-btn.indep-btn,.filter-btn.indep-only{display:inline-flex;align-items:center;gap:6px;color:#34c77b;border-color:rgba(52,199,123,.45)}
+.filter-btn.indep-btn::before,.filter-btn.indep-only::before{content:"";width:7px;height:7px;border-radius:50%;background:currentColor;flex:none}
+.filter-btn.indep-btn.active,.filter-btn.indep-only.active{background:#34c77b;border-color:#34c77b;color:#062012}
 .mc-legende{display:flex;align-items:center;flex-wrap:wrap;gap:6px 8px;font-size:13px;color:var(--mc-text-2);margin:8px 0 0}
 .mc-legende a{color:var(--mc-text);text-decoration:underline;text-underline-offset:2px}
 /* Une URL longue dans un texte (descriptions d'editeurs) faisait deborder la page sur telephone. */
