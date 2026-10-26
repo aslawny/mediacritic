@@ -176,6 +176,9 @@ def sujets_trends():
         if not t:
             continue
         lib = _texte(t.group(1))
+        if lib == lib.lower():   # Google Trends ecrit « le havre » : affichage « Le Havre »
+            lib = " ".join(w if w in ("de", "du", "des", "la", "le", "les", "et", "vs", "d", "l")
+                           and i else w[:1].upper() + w[1:] for i, w in enumerate(lib.split()))
         trafic = int(re.sub(r"\D", "", tr.group(1))) if tr else 0
         liees = " ".join(_texte(n) for n in re.findall(r"<ht:news_item_title>(.*?)</ht:news_item_title>", it, re.S))
         mots = significatifs(lib)
@@ -380,7 +383,16 @@ def plan_b(cat, hist, jour):
 def phrase_description(slug, maxi=230):
     d = ((fiche(slug) or {}).get("description") or "").strip()
     d = re.sub(r"https?://\S+", "", d)
-    phrases = re.split(r"(?<=[.!?])\s+", d)
+    # On garde le texte de presentation, pas les mentions pratiques des
+    # descriptions YouTube (reseaux sociaux, adresse de contact, partenariats).
+    d = re.split(r"\n\s*\n|mes r[ée]seaux|r[ée]seaux sociaux|instagram|partenariat|"
+                 r"contact|business|@[\w.]+|[\w.+-]+@[\w-]+\.", d, maxsplit=1, flags=re.I)[0]
+    d = re.sub(r"\s+", " ", d).strip(" -–:•|")
+    phrases = [p.strip(" ➡→•-–:") for p in re.split(r"(?<=[.!?])\s+|➡|→|•", d)]
+    # Appels a l'action (« Abonnez-vous », « Souscrivez », newsletter) : pas
+    # une presentation de l'emission.
+    phrases = [p for p in phrases if p and not re.search(
+        r"abonne|souscri|newsletter|premium|soutenez|tipeee|patreon|lien|cliquez", p, re.I)]
     out = ""
     for p in phrases:
         if len(out) + len(p) > maxi:
@@ -460,7 +472,7 @@ def main():
 
     choix = {"date": jour.isoformat()}
     nb_info = sum(1 for c in cat.values() if est_info(c))
-    ecarte_txt = (f"Écartés ce matin : {len(ecartes)} sujet(s) sensible(s) (drames, faits divers, "
+    ecarte_txt = (f"ce matin : {len(ecartes)} sujet(s) sensible(s) (drames, faits divers, "
                   f"guerres…), les {nb_info} émissions et chaînes d'information, et les "
                   f"émissions déjà mises en avant ces {SANS_REPETITION} derniers jours (et les "
                   f"sujets des 7 derniers jours).")
@@ -487,7 +499,7 @@ def main():
         n = lambda x: f"{int(x):,}".replace(",", " ")
         if s["source"] == "wikipedia":
             force = (f"son article Wikipédia a été lu {n(s['poids'])} fois hier "
-                     f"({s['rang']}{'er' if s['rang'] == 1 else 'e'} sujet le plus consulté retenu)")
+                     f"({s['rang']}{'er' if s['rang'] == 1 else 'e'} article le plus lu, hors pages techniques)")
         else:
             force = f"recherche en forte hausse sur Google en France ({n(s['poids'])}+ recherches)"
         age = (jour - date.fromisoformat(ep["date"])).days
@@ -496,7 +508,8 @@ def main():
                     else f"{n(c['ratingCount'])} avis sur Apple Podcasts" if c.get("ratingCount") else "")
         atouts = [x for x in (
             audience,
-            "émission indépendante" if c.get("independant") else "",
+            ("chaîne indépendante" if c.get("type") == "youtube" else "podcast indépendant")
+            if c.get("independant") else "",
             (f"déjà critiquée par MediaCritic ({str(c['mcNote']).replace('.', ',')}/10)"
              if c.get("mcNote") else "")) if x]
         concurrents = len({t[2]["slug"] for t in trouves})
@@ -504,8 +517,10 @@ def main():
             ["🔥 Le sujet", f"« {s['sujet']} » : {force}."],
             ["🎧 La preuve", f"{genre[0].upper() + genre[1:]} « {ep['titre']} », {publie} "
                             f"le {date_fr(ep['date'])} ({quand})."],
-            ["✅ Pourquoi elle", (f"meilleure correspondance parmi {concurrents} émission(s) ayant "
-                                  f"traité un sujet du jour — sujet le plus fort et épisode récent"
+            ["✅ Pourquoi elle", ((f"la seule émission de l'annuaire à avoir traité un sujet du jour "
+                                   f"ces {FRAICHEUR_JOURS} derniers jours" if concurrents == 1 else
+                                   f"meilleure correspondance parmi {concurrents} émissions ayant traité "
+                                   f"un sujet du jour (sujet le plus consulté, épisode le plus récent, audience)")
                                   + (f" ; {', '.join(atouts)}" if atouts else "") + ".")],
             ["🚫 Écartés", ecarte_txt],
         ]
