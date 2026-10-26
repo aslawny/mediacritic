@@ -47,7 +47,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 from enrich_episodes import _lire, _texte  # noqa: E402
-from independance import est_independant  # noqa: E402
+from independance import _mots, est_independant  # noqa: E402
 
 ROOT = Path(__file__).parent.parent
 DATA = ROOT / "data"
@@ -207,12 +207,40 @@ def fiche(slug):
     return json.loads(p.read_text(encoding="utf-8")) if p.exists() else None
 
 
+# --------------------------------------------------------------------------
+# Emissions et chaines d'information : exclues (choix de l'utilisateur,
+# 26/10/2026). Le premier passage automatique avait choisi LCI. Mettre en
+# avant une chaine d'info sur l'actu du jour n'apprend rien au visiteur :
+# le podcast du jour doit faire decouvrir une emission qui RACONTE ou
+# ANALYSE le sujet. Une emission est « d'info » si sa categorie PRINCIPALE
+# est l'actualite (la categorie seule est trop large : Les Grosses Tetes y
+# figurent), ou si elle appartient a un media d'information.
+# --------------------------------------------------------------------------
+CATEGORIES_INFO = {"actualite", "news"}
+MEDIAS_INFO = [_mots(m) for m in (
+    "lci", "bfmtv", "bfm", "franceinfo", "france info", "france 24", "cnews", "rfi",
+    "le monde", "mediapart", "brut", "le media", "blast", "tf1 info", "euronews",
+    "africanews", "tv5monde", "radio canada info", "konbini news", "loopsider",
+    "hugodecrypte", "hugo decrypte", "20 minutes", "le parisien", "le figaro",
+    "liberation", "l express", "le point", "ouest france", "huffpost", "reuters", "afp")]
+
+
+def est_info(c):
+    cats = c.get("categories") or []
+    if cats and cats[0] in CATEGORIES_INFO:
+        return True
+    noms = _mots(c.get("title")) + _mots(c.get("author"))
+    return any(m in noms for m in MEDIAS_INFO)
+
+
 def vivier(cat, jour):
     feeds = json.loads((DATA / "_feed_urls.json").read_text(encoding="utf-8")) \
         if (DATA / "_feed_urls.json").exists() else {}
     limite_active = (jour - timedelta(days=60)).isoformat()
     pods, chaines = [], []
     for c in cat.values():
+        if est_info(c):
+            continue
         if c.get("type") == "youtube":
             if c.get("subscribers"):
                 chaines.append(c)
@@ -419,6 +447,10 @@ def main():
         print(f"   {sc:5.2f}  [{s['sujet']}]  {c['title']} — « {ep['titre'][:70]} » ({ep['date']})")
 
     choix = {"date": jour.isoformat()}
+    nb_info = sum(1 for c in cat.values() if est_info(c))
+    ecarte_txt = (f"Écartés ce matin : {len(ecartes)} sujet(s) sensible(s) (drames, faits divers, "
+                  f"guerres…), les {nb_info} émissions et chaînes d'information, et les "
+                  f"émissions déjà mises en avant ces {SANS_REPETITION} derniers jours.")
     if trouves:
         sc, s, c, ep = trouves[0]
         f = fiche(c["slug"]) or {}
@@ -437,6 +469,33 @@ def main():
                          f"{genre} « {ep['titre']} », {publie} le {date_fr(ep['date'])}."),
             "presentation": phrase_description(c["slug"]),
         })
+        # « Pourquoi ce choix » : comprehensible d'un coup d'oeil sur le site
+        # (demande de l'utilisateur, 26/10/2026). Uniquement des faits.
+        n = lambda x: f"{int(x):,}".replace(",", " ")
+        if s["source"] == "wikipedia":
+            force = (f"son article Wikipédia a été lu {n(s['poids'])} fois hier "
+                     f"({s['rang']}{'er' if s['rang'] == 1 else 'e'} sujet le plus consulté retenu)")
+        else:
+            force = f"recherche en forte hausse sur Google en France ({n(s['poids'])}+ recherches)"
+        age = (jour - date.fromisoformat(ep["date"])).days
+        quand = "aujourd'hui" if age == 0 else "hier" if age == 1 else f"il y a {age} jours"
+        audience = (f"{n(c['subscribers'])} abonnés YouTube" if c.get("type") == "youtube" and c.get("subscribers")
+                    else f"{n(c['ratingCount'])} avis sur Apple Podcasts" if c.get("ratingCount") else "")
+        atouts = [x for x in (
+            audience,
+            "émission indépendante" if c.get("independant") else "",
+            (f"déjà critiquée par MediaCritic ({str(c['mcNote']).replace('.', ',')}/10)"
+             if c.get("mcNote") else "")) if x]
+        concurrents = len({t[2]["slug"] for t in trouves})
+        choix["raisons"] = [
+            ["🔥 Le sujet", f"« {s['sujet']} » : {force}."],
+            ["🎧 La preuve", f"{genre[0].upper() + genre[1:]} « {ep['titre']} », {publie} "
+                            f"le {date_fr(ep['date'])} ({quand})."],
+            ["✅ Pourquoi elle", (f"meilleure correspondance parmi {concurrents} émission(s) ayant "
+                                  f"traité un sujet du jour — sujet le plus fort et épisode récent"
+                                  + (f" ; {', '.join(atouts)}" if atouts else "") + ".")],
+            ["🚫 Écartés", ecarte_txt],
+        ]
     else:
         c = plan_b(cat, hist, jour)
         if not c:
@@ -453,6 +512,16 @@ def main():
                          f"({nb} notes)."),
             "presentation": phrase_description(c["slug"]),
         })
+        derniere = (fiche(c["slug"]) or {}).get("derniere_activite")
+        choix["raisons"] = [
+            ["🔎 Pas d'actu exploitable", (f"aucune des {len(entrees)} émissions suivies n'a publié "
+                                          f"d'épisode sur les sujets du jour dans les {FRAICHEUR_JOURS} "
+                                          f"derniers jours : nous ne forçons jamais le lien.")],
+            ["💎 Pourquoi elle", (f"podcast indépendant noté {note}/5 sur Apple Podcasts ({nb} notes)"
+                                 + (f", toujours actif (dernier épisode le {date_fr(derniere)})" if derniere else "")
+                                 + ", jamais mis en avant ces 6 derniers mois.")],
+            ["🚫 Écartés", ecarte_txt],
+        ]
     choix["sujets_ecartes"] = len(ecartes)
     print(f"\n→ {choix['mode'].upper()} : {choix['titre']}\n  {choix['pourquoi']}")
     if a.dry_run:

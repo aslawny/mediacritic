@@ -77,6 +77,12 @@ def label_indep(c, prefixe=""):
             'Indépendant</a>')
 
 
+def raisons_html(c):
+    """« Pourquoi ce choix », lisible d'un coup d'oeil (26/10/2026)."""
+    items = "".join(f'<li><strong>{h(t)}</strong> {h(v)}</li>' for t, v in c["raisons"])
+    return f'<div class="mcj-raisons"><p class="mcj-raisons-t">Pourquoi ce choix</p><ul>{items}</ul></div>'
+
+
 def carte(c, prefixe="", titre_tag="h2", lien_archive=True):
     """Le bloc mis en avant (accueil et haut de l'archive)."""
     ep = c.get("episode") or {}
@@ -100,7 +106,7 @@ def carte(c, prefixe="", titre_tag="h2", lien_archive=True):
         f'<p class="mcj-eyebrow">{h(libelle(c))} · {h(date_fr(c["date"]))}</p>'
         f'<{titre_tag} class="mcj-titre"><a href="{prefixe}fiches/{h(c["slug"])}.html">{h(c["titre"])}</a></{titre_tag}>'
         f'<p class="mcj-labels">{label_indep(c, prefixe)}{note}</p>'
-        f'<p class="mcj-pourquoi">{h(c["pourquoi"])}</p>'
+        + (raisons_html(c) if c.get("raisons") else f'<p class="mcj-pourquoi">{h(c["pourquoi"])}</p>')
         + (f'<p class="mcj-pres">{h(c["presentation"])}</p>' if c.get("presentation") else "")
         + f'<div class="mcj-actions">{"".join(boutons)}</div>'
         f'</div></article>')
