@@ -53,25 +53,17 @@
   "derniere_activite": "2025-12-04",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-26",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "dduuggaall",
+        "titre": "MonReview, fait @Colombes",
+        "texte": "Ce podcast est très bien structuré et intéressant. Par contre juste faire 4 ou 5 épisodes de 30 minutes chacun ça serait un peu mieux que 10 minutes en 20 000 épisodes c’est un petit peu trop… +TROP DE PUB À CHAQUE DÉBUT D’ÉPISODE! Cordialement, John Clay #Junior, CatD10GOAT, Cat…"
+      }
     ]
   }
 }

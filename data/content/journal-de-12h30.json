@@ -26,25 +26,29 @@
   "addedAt": "2026-05-25",
   "updatedAt": "2026-10-25",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-26",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "jeanph57",
+        "titre": "Enfin le retour !",
+        "texte": "Quel bonheur de retrouver le journal de Thomas Cluzel ! Idéalement hiérarchisé, sobre, subtil dans les analyses et dans l'expression, réjouissant jusque dans les touches d'humour, toujours pertinent dans les questions posées aux invités, eux-mêmes intéressants.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Diogène LC",
+        "titre": "Impossible d’avoir le dernier journal rapidement.",
+        "texte": "Impossible d’écouter le dernier journal immédiatement après sa réalisation."
+      },
+      {
+        "note": 5,
+        "auteur": "holderfar",
+        "titre": "Excellent journal",
+        "texte": "Un journal qui informe de façon soignée, avec des interviews toujours intéressantes et jamais complaisante. Par contre ce serait bien de remédier au manque de mise à jour des podcasts: plus de mise en ligne depuis lundi!"
+      }
     ]
   }
 }

@@ -1,6 +1,6 @@
 {
-  "maj": "2026-10-25",
-  "total": 1135,
+  "maj": "2026-10-26",
+  "total": 1161,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -2248,6 +2248,12 @@
       "fiche": "fiches/6-and-daz.html"
     },
     {
+      "slug": "raam-dox-le-podcast-a-la-senegalaise",
+      "titre": "Raam Dox : le podcast à la sénégalaise",
+      "notes_apple": 168,
+      "fiche": "fiches/raam-dox-le-podcast-a-la-senegalaise.html"
+    },
+    {
       "slug": "manifeste",
       "titre": "manifeste",
       "notes_apple": 167,
@@ -2374,6 +2380,12 @@
       "fiche": "fiches/activistes.html"
     },
     {
+      "slug": "hyperion-avenue-le-podcast-disney",
+      "titre": "Hyperion Avenue - Le Podcast Disney",
+      "notes_apple": 132,
+      "fiche": "fiches/hyperion-avenue-le-podcast-disney.html"
+    },
+    {
       "slug": "adn-d-athlete-l-esprit-sport",
       "titre": "ADN D'ATHLÈTE, l'esprit sport",
       "notes_apple": 130,
@@ -2390,6 +2402,12 @@
       "titre": "F****d Up Movies",
       "notes_apple": 127,
       "fiche": "fiches/f-d-up-movies.html"
+    },
+    {
+      "slug": "le-morning-de-difool",
+      "titre": "Le Morning de Difool",
+      "notes_apple": 124,
+      "fiche": "fiches/le-morning-de-difool.html"
     },
     {
       "slug": "request-in-peace",
@@ -6070,6 +6088,12 @@
       "fiche": "fiches/vivement-la-reprise.html"
     },
     {
+      "slug": "l-experimentale",
+      "titre": "L'Expérimentale",
+      "notes_apple": 38,
+      "fiche": "fiches/l-experimentale.html"
+    },
+    {
       "slug": "100-star-wars-la-chaine-du-geek",
       "titre": "100% Star Wars - La Chaîne du Geek",
       "notes_apple": 37,
@@ -6778,6 +6802,18 @@
       "fiche": "fiches/humains-tv.html"
     },
     {
+      "slug": "histoires-de-guerre",
+      "titre": "Histoires de Guerre",
+      "notes_apple": 32,
+      "fiche": "fiches/histoires-de-guerre.html"
+    },
+    {
+      "slug": "la-chronique-du-grand-continent",
+      "titre": "La Chronique du Grand Continent",
+      "notes_apple": 32,
+      "fiche": "fiches/la-chronique-du-grand-continent.html"
+    },
+    {
       "slug": "allez-vas-y",
       "titre": "Allez, vas-y !",
       "notes_apple": 31,
@@ -6812,6 +6848,126 @@
       "titre": "Crois Comme Une Femme",
       "notes_apple": 31,
       "fiche": "fiches/crois-comme-une-femme.html"
+    },
+    {
+      "slug": "desoles-pour-l-attente",
+      "titre": "Désolés pour l'attente",
+      "notes_apple": 31,
+      "fiche": "fiches/desoles-pour-l-attente.html"
+    },
+    {
+      "slug": "detox-parents-toxiques",
+      "titre": "DETOX PARENTS TOXIQUES",
+      "notes_apple": 31,
+      "fiche": "fiches/detox-parents-toxiques.html"
+    },
+    {
+      "slug": "dodo-stories",
+      "titre": "Dodo Stories",
+      "notes_apple": 31,
+      "fiche": "fiches/dodo-stories.html"
+    },
+    {
+      "slug": "eglise-nouvelle-vie-longueuil",
+      "titre": "Église Nouvelle Vie | Longueuil",
+      "notes_apple": 31,
+      "fiche": "fiches/eglise-nouvelle-vie-longueuil.html"
+    },
+    {
+      "slug": "generation-ia",
+      "titre": "Génération IA",
+      "notes_apple": 31,
+      "fiche": "fiches/generation-ia.html"
+    },
+    {
+      "slug": "la-cybersecurite-expliquee-a-ma-grand-mere",
+      "titre": "La cybersécurité expliquée à ma grand-mère",
+      "notes_apple": 31,
+      "fiche": "fiches/la-cybersecurite-expliquee-a-ma-grand-mere.html"
+    },
+    {
+      "slug": "le-tri-chaud",
+      "titre": "Le Tri Chaud",
+      "notes_apple": 31,
+      "fiche": "fiches/le-tri-chaud.html"
+    },
+    {
+      "slug": "learn-more-entreprendre-avec-sebastien-more",
+      "titre": "Learn MORE - Entreprendre avec Sébastien MORE",
+      "notes_apple": 31,
+      "fiche": "fiches/learn-more-entreprendre-avec-sebastien-more.html"
+    },
+    {
+      "slug": "les-podcasts-de-la-cinematheque-francaise",
+      "titre": "Les podcasts de la Cinémathèque française",
+      "notes_apple": 31,
+      "fiche": "fiches/les-podcasts-de-la-cinematheque-francaise.html"
+    },
+    {
+      "slug": "librairie-majalis",
+      "titre": "Librairie Majalis",
+      "notes_apple": 31,
+      "fiche": "fiches/librairie-majalis.html"
+    },
+    {
+      "slug": "migrations-et-societes-francois-heran",
+      "titre": "Migrations et sociétés - François Héran",
+      "notes_apple": 31,
+      "fiche": "fiches/migrations-et-societes-francois-heran.html"
+    },
+    {
+      "slug": "nouveaux-prismes-ressources-humaines-rh-recrutement-management-marque-employeur-",
+      "titre": "Nouveaux Prismes - Ressources Humaines (RH), recrutement, management, marque employeur et parentalité en entreprise",
+      "notes_apple": 31,
+      "fiche": "fiches/nouveaux-prismes-ressources-humaines-rh-recrutement-management-marque-employeur-.html"
+    },
+    {
+      "slug": "on-joue-tu-le-podcast-des-jeux-de-societe",
+      "titre": "On Joue-Tu?, le Podcast des Jeux de Société",
+      "notes_apple": 31,
+      "fiche": "fiches/on-joue-tu-le-podcast-des-jeux-de-societe.html"
+    },
+    {
+      "slug": "on-s-y-retrouve",
+      "titre": "On S'Y Retrouve",
+      "notes_apple": 31,
+      "fiche": "fiches/on-s-y-retrouve.html"
+    },
+    {
+      "slug": "perdus-sur-la-planete-bleue",
+      "titre": "Perdus sur la planète bleue",
+      "notes_apple": 31,
+      "fiche": "fiches/perdus-sur-la-planete-bleue.html"
+    },
+    {
+      "slug": "oxytude",
+      "titre": "Oxytude",
+      "notes_apple": 31,
+      "fiche": "fiches/oxytude.html"
+    },
+    {
+      "slug": "philosophy-is-sexy-for-kids",
+      "titre": "Philosophy is sexy for KIDS",
+      "notes_apple": 31,
+      "fiche": "fiches/philosophy-is-sexy-for-kids.html"
+    },
+    {
+      "slug": "que-des-numeros-10-agile",
+      "titre": "Que des numéros 10 Agile",
+      "notes_apple": 31,
+      "fiche": "fiches/que-des-numeros-10-agile.html"
+    },
+    {
+      "slug": "sunburned-by-love",
+      "titre": "Sunburned By Love",
+      "notes_apple": 31,
+      "fiche": "fiches/sunburned-by-love.html"
+    },
+    {
+      "slug": "ultra-run-le-podcast-trail-de-l-equipe",
+      "titre": "Ultra Run, le podcast trail de L'Équipe",
+      "notes_apple": 31,
+      "fiche": "fiches/ultra-run-le-podcast-trail-de-l-equipe.html"
     }
   ]
 }

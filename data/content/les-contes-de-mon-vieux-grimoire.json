@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-31",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-26",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "GabyFrancis92",
+        "titre": "Coup de cœur !!",
+        "texte": "Le ton, l’humour, la qualité de jeu et d’écriture, et surtout le sentiment que le plaisir que nous prenons tous ensemble à écouter ces histoires est au moins égal (la bosse des maths) à celui que prend l’auteur à créer ce FORMIDABLE podcast. Merci !"
+      },
+      {
+        "note": 1,
+        "auteur": "Au du",
+        "titre": "Répétition",
+        "texte": "Trop de répétition pas assez d’épisode en gros nul 😒😒😒😒😒😒😒😒😒😒😒😒😒😒😒😒😒😒😒😒😒😒😒😒😒😒"
+      },
+      {
+        "note": 5,
+        "auteur": "a1crdtdsydddddfdtvhrfjil'g",
+        "titre": "On adore ❤️",
+        "texte": "J’aime bien 🤩 et votre blague c’est cool 👍 je suis en mode je suis en 😎🌈🌈🌈🌈🌈🌈🌈🌈😽😽🌈🌈🌈🌈🌈💓💓🙏🙏🙏🙏🙏🙏🙏💓💓💓💓💓✅✅✅✅✅✅✅✅✅✅✅✅✅🤩🤩🙂🤩🤩💓🤩🤩💓🤩🤩🤩🤩💓💓💓💓💓💓🥰🥰🥰🥰🥰😍😗🥰🥰🥰🥰🥰🥰🥰😍🥰🥰🥰🥰🥰🥰🥰😚😍😍😍❤️🧡💛💛💙💜💟💓💗☪️💝☮️💟💓💓💓💓💓💓💓💗"
+      }
     ]
   }
 }

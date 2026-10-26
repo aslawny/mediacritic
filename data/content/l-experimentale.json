@@ -1,0 +1,49 @@
+{
+  "slug": "l-experimentale",
+  "title": "L'Expérimentale",
+  "author": "France Musique",
+  "type": "podcast",
+  "categories": [
+    "musique"
+  ],
+  "description": "Le rendez-vous INA GRM : exploration du son, au centre du processus de création : musiques électroacoustiques, concrètes, électroniques, d’avant-garde… Vous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d5/89/d4/d589d456-f920-d915-519e-89b6a8e446ad/mza_2999115345882861718.jpg/170x170bb.png",
+  "language": "",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/lexp%C3%A9rimentale/id1276500759?uo=2",
+      "trackId": 1276500759,
+      "rating": 4.8,
+      "ratingCount": 38,
+      "episodeCount": null
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "musique"
+  ],
+  "addedAt": "2026-10-26",
+  "updatedAt": "2026-10-26",
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-10-26",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
+}

@@ -51,25 +51,29 @@
   "derniere_activite": "2014-09-09",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-26",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mostrecent",
+    "releve": "2026-10-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Elliott Lefko",
+        "titre": "Love this podcast",
+        "texte": "Im listening to the Polly Platt episodes. It is so good! Each episode just draws you in and tells this fascinating story. I always knew and loved Peter Bogdanovich’s work and admired the man. But never knew anything about Polly.…"
+      },
+      {
+        "note": 1,
+        "auteur": "CeeJay W",
+        "titre": "Narration-why?",
+        "texte": "No one speaks like that normally. Very distracting and unpleasant."
+      },
+      {
+        "note": 5,
+        "auteur": "Wigfactory",
+        "titre": "So good!",
+        "texte": "I love this podcast so much! Really really loving the Erotic 80s series! When I was a kid (80s-90s), I was always mortified about watching movies with my parents because there would be sex and nudity! I haven’t been mortified while watching a movie with family in ages and I didn’…"
+      }
     ]
   }
 }

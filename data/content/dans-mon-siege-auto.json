@@ -51,25 +51,29 @@
   "derniere_activite": "2026-08-26",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-26",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Elobzz",
+        "titre": "Génial",
+        "texte": "Notre fille de 6 ans adore! Les devinettes sont sympas et les explications sont très bien faites: une bonne dose de culture générale pour no enfants! Les devinettes portent sur des monuments , des personnages historiques mais aussi des contemporains qu’ils connaissent!"
+      },
+      {
+        "note": 5,
+        "auteur": "JmB3588",
+        "titre": "Au top !",
+        "texte": "Podcast de qualité ! Les enfants sont hypers contents et parfois meilleurs que les parents ! On aimerait encore plus de devinettes !!"
+      },
+      {
+        "note": 5,
+        "auteur": "iz'nou",
+        "titre": "Génial !",
+        "texte": "Même pour les parents :) On attend d’autres podcasts pour deviner les animaux et les lieux nos deux préférés en famille !"
+      }
     ]
   }
 }

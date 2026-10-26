@@ -50,25 +50,29 @@
   "derniere_activite": "2026-09-07",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-26",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Amynaaaaaa",
+        "titre": "Belle découverte",
+        "texte": "Bravo pour votre parcours. J adore votre podcast, vos retours d'expérience, le contenu est de très haute qualité, j adhère complètement à votre maturité, discours et vision (et pourtant je suis née dans les années 80' pour rester flou sur mon âge et ne pas paraître boomer 😂) Il f…"
+      },
+      {
+        "note": 5,
+        "auteur": "Baptiste13990",
+        "titre": "Avec ce podcast l’investissement Immobilier devient simple et accessible",
+        "texte": "Je suis nouveau dans le monde de l investissement immobilier et j écoute les conseils avisés de Julien et Marie car ils ne passent pas leur temps à vendre du bla bla mais racontent la réalité du terrain et les actions et solutions à mettre en place.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Amy Casa",
+        "titre": "Très intéressant",
+        "texte": "J’aime beaucoup votre podcast, j’ai écouté l’ensemble des épisodes, vos partages et retours d’expériences sont très enrichissants et pédagogiques…Vous formez un magnifique duo, merci de nous enrichir.…"
+      }
     ]
   }
 }

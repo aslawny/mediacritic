@@ -51,25 +51,29 @@
   "derniere_activite": "2019-11-07",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-26",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "y homme genre hhf",
+        "titre": "Le conseil",
+        "texte": "Le conseil des droits des palestiniens est un ☝️ en tant qu’élève ministre du sport 🏀 en tant qu’entité ministre du sport 🏀 de France 🇫🇷 en novembre à Lyon dans un ☝️ où le ministre a fait une ☝️ pour la partie à son domicile 🏡 de France 🇫🇷 à l’issue d’un scrutin présidentiel qui…"
+      },
+      {
+        "note": 5,
+        "auteur": "Stéphane A.",
+        "titre": "Superbe idée",
+        "texte": "Un podcast en lieu et place d’une bande annonce - superbe idée. Bravo à Gaumont de proposer un compliment historique au film. (Monsieur Gaumont, continuez même si vous devrez sortir quelques billets violets pour produire ce type de podcast publicitaire. )"
+      },
+      {
+        "note": 5,
+        "auteur": "maspama",
+        "titre": "Bravo",
+        "texte": "Podcast bien ficelé qui traite un thème historique douloureux pour la France. Ça donne envie d’aller voir le film !"
+      }
     ]
   }
 }

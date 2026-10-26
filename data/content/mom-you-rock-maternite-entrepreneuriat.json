@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2021-09-29",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Fanny_64",
+        "titre": "Un podcast qui donne la pêche!",
+        "texte": "J'adore écouter les histoires de ces mamans entrepreneures. Tellement inspirant! En plus, mariama a une voix super agréable à écouter. Girls power! rien n'est impossible et nos petits loulous ne sont pas de freins, bien au contraire!"
+      },
+      {
+        "note": 5,
+        "auteur": "albin.d",
+        "titre": "This podcast rocks",
+        "texte": "Un podcast qui permet de prendre conscience des enjeux de l’entrepreneuriat au féminin. On prend le temps de découvrir les invités, leurs projets, et leur parcours, le rythme est top. Bravo !"
+      },
+      {
+        "note": 5,
+        "auteur": "Yanis A.",
+        "titre": "Des femmes fortes et inspirantes",
+        "texte": "Un podcast extrêmement inspirant qui parle de résilience, d’abnegation et surtout qui donne envie d’aller au bout de ses rêves même quand tout vous indique qu’ils sont inaccessibles"
+      }
+    ]
+  }
 }

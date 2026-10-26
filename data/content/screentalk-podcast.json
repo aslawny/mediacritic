@@ -1,0 +1,40 @@
+{
+  "slug": "screentalk-podcast",
+  "title": "ScreenTalk Podcast",
+  "author": "I.T",
+  "type": "podcast",
+  "categories": [
+    "cinema",
+    "series"
+  ],
+  "description": "Ici on parle de cinéma, de séries, d'animés bref... tout ce qu'on aime !",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bb/fb/7d/bbfb7d4d-34ad-d0c0-c78a-ad840dbb7328/mza_16620557795924598135.jpg/170x170bb.png",
+  "language": "",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/screentalk-podcast/id6823542055?uo=2",
+      "trackId": 6823542055,
+      "rating": 5.0,
+      "ratingCount": 1,
+      "episodeCount": null
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "cinema",
+    "series"
+  ],
+  "addedAt": "2026-10-26",
+  "updatedAt": "2026-10-26",
+  "episodes_recents": [
+    {
+      "titre": "ScreenTalk Podcast Episode 2 : La trilogie Nolan surcoté ?! The Batman meilleure adaptation ?",
+      "date": "2026-10-22"
+    },
+    {
+      "titre": "ScreenTalk Podcast Episode 1 : Spiderman Brand New Day : Deception ou le meilleur de tous les spiderman ?",
+      "date": "2026-10-15"
+    }
+  ],
+  "derniere_activite": "2026-10-22"
+}

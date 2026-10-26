@@ -50,25 +50,29 @@
   "derniere_activite": "2026-07-08",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-26",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Juli.et",
+        "titre": "mon podcast préféré",
+        "texte": "Et c’est encore mieux sur le nouveau site Internet, merci à vous pour votre super boulot, ça fait tellement de bien de vous écouter, on se sent moins seulE dans ce monde de brutes"
+      },
+      {
+        "note": 5,
+        "auteur": "Lagotriche",
+        "titre": "Indispensable",
+        "texte": "Bravo à Odile Morin pour son intervention sur le validisme et les moyens de lutter contre ! Merci à Au Poste de lui permettre de s’exprimer sur le sujet !"
+      },
+      {
+        "note": 5,
+        "auteur": "Soleilble",
+        "titre": "Bravo et merci…",
+        "texte": "… à David et à toute l’équipe pour ces émissions passionnantes !"
+      }
     ]
   }
 }

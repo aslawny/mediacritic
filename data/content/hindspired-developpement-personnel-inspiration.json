@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2019-12-09",
-  "frequence_jours": 48
+  "frequence_jours": 48,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Carolan77",
+        "titre": "Édifiant 👍",
+        "texte": "A s’imprégner sans modération, ce podcast est une mine d’informations sur des vécus tout aussi enrichissants les uns que les autres et remarquablement relayés avec l’intelligence et la générosité de son inspiratrice."
+      },
+      {
+        "note": 5,
+        "auteur": "MathildeFou",
+        "titre": "J'adore!",
+        "texte": "Beaucoup de plaisir et d’intérêt à écouter chacun des épisodes de ce podcast. Hind et ses invités me captivent à chaque fois… Merci pour la méga dose d’inspiration! J’ai hate d’écouter la suite …"
+      },
+      {
+        "note": 5,
+        "auteur": "Marion Drrn",
+        "titre": "Wahoooo",
+        "texte": "Wahoooo!! Merci Hind!!! Un podcast très inspirant, enrichissant, motivant, une vraie dose d’inspiration! À écouter et à réécouter sans modération!! J’attends les prochains avec impatience 😍"
+      }
+    ]
+  }
 }
