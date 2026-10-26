@@ -241,6 +241,12 @@ def vivier(cat, jour):
     for c in cat.values():
         if est_info(c):
             continue
+        # Chaines YouTube : seulement les independantes. Les autres sont des
+        # clubs, marques, medias ou artistes en label (le moteur avait choisi
+        # la chaine de l'OM pour une video en anglais) : pas des emissions a
+        # faire decouvrir.
+        if c.get("type") == "youtube" and not c.get("independant"):
+            continue
         if c.get("type") == "youtube":
             if c.get("subscribers"):
                 chaines.append(c)
@@ -430,8 +436,14 @@ def main():
     # expression banale (« le monde » remontait de Google Trends), pas une
     # actualite : il accrocherait n'importe quel episode.
     seuil_banal = max(5, len(tous_titres) // 100)
+    # Un meme sujet ne revient pas avant 7 jours (Laurent Nunez, choisi la
+    # veille, ressortait le lendemain via une autre emission).
+    lim_sujet = (jour - timedelta(days=7)).isoformat()
+    sujets_recents = {norm(h.get("sujet") or "") for h in hist if h["date"] >= lim_sujet}
     trouves = []
     for s in gardes:
+        if norm(s["sujet"]) in sujets_recents:
+            continue
         for m, nom_seul in motifs(s):
             if sum(1 for t in tous_titres if m in t) > seuil_banal:
                 print(f"     ~ « {s['sujet']} » trop banal ({m.strip()}), ignoré")
@@ -450,7 +462,8 @@ def main():
     nb_info = sum(1 for c in cat.values() if est_info(c))
     ecarte_txt = (f"Écartés ce matin : {len(ecartes)} sujet(s) sensible(s) (drames, faits divers, "
                   f"guerres…), les {nb_info} émissions et chaînes d'information, et les "
-                  f"émissions déjà mises en avant ces {SANS_REPETITION} derniers jours.")
+                  f"émissions déjà mises en avant ces {SANS_REPETITION} derniers jours (et les "
+                  f"sujets des 7 derniers jours).")
     if trouves:
         sc, s, c, ep = trouves[0]
         f = fiche(c["slug"]) or {}
