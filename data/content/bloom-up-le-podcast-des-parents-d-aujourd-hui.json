@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-25",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mpdb_23",
+        "titre": "A découvrir absolument!",
+        "texte": "J’apprécie beaucoup Bloom Up qui propose des sujets variés autour de la parentalité. Ce podcast nous apporte, via les invités interviewés, des informations utiles, des histoires émouvantes…on en retire toujours quelque chose.…"
+      },
+      {
+        "note": 5,
+        "auteur": "nanoudu350535",
+        "titre": "Super podcast parentalité 🤩",
+        "texte": "J’ai écouté le premier épisode attentivement et quelle aventure ! C’est chouette d’avoir un autre point de vue, de prendre des conseils au travers de l’expérience et de parler d’enfants petits et grands. Bloom Up est très complémentaire des classiques de la parentalité. Bravo …"
+      },
+      {
+        "note": 5,
+        "auteur": "Ariane Laure",
+        "titre": "À écouter sans modération !",
+        "texte": "L’histoire de la famille d’Edith LEMAY est à la fois émouvante et pleine d’espoir. Quelle belle initiative d’aborder le point de vue des parents et de leurs défis. La voie extrêmement agréable d’Elodie ajoute au plaisir d’écoute. Merci pour votre travail!"
+      }
+    ]
+  }
 }

@@ -48,5 +48,25 @@
     }
   ],
   "derniere_activite": "2026-06-28",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mjgfub",
+        "titre": "Génial",
+        "texte": "Je regardais ses vidéos sur youtube, trop contente de les retrouver en podcast pour les écouter pendant mes trajets !"
+      },
+      {
+        "note": 2,
+        "auteur": "Tomgzd",
+        "titre": "Du travail mais…..",
+        "texte": "Le podcast sur le Docteur Pechier est intéressant. Il y a du travail mais sur la fin les erreurs de grammaire et la façon de parler avec des fautes d’accord des omissions d’articles rend l’écoute très irritante. C’est vraiment dommage. J’ai zappé les autres…"
+      }
+    ]
+  }
 }

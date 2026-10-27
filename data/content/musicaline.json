@@ -26,25 +26,23 @@
   "addedAt": "2026-05-28",
   "updatedAt": "2026-10-25",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-27",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-27",
+    "extraits": [
+      {
+        "note": 1,
+        "auteur": "EmmaMLN33",
+        "titre": "12e album de Taylor Swift",
+        "texte": "Ça manque tellement de sérieux… Une chronique truffée d’inexactitudes voir d’erreurs. C’est à se demander si la journaliste a même écouté l’album… des liens sont faits entre les chansons et la vie de l’artiste alors qu’il n’y a aucun lien entre eux et pour au moins 1 exemple c’es…"
+      },
+      {
+        "note": 1,
+        "auteur": "jpcagne",
+        "titre": "Fatigante !",
+        "texte": "Le contenu de sa rubrique Mur du Son est peut être travaillé et pertinent mais le débit et l’intonation d'Aline le matin au réveil sont épuisants et agressifs : ses prédécesseurs avaient une intonation calme et sereine qui donnaient envie d’écouter et de s’intéresser. Regrets."
+      }
     ]
   }
 }

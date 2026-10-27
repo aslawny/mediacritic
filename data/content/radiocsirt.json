@@ -52,25 +52,29 @@
   "derniere_activite": "2026-09-18",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-27",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Auditeur Apple Podcasts",
+        "titre": "À écouter sans modération",
+        "texte": "Un podcast incroyable qui nous apporte un débriefing hebdomadaire sur l’actualité Cyber. Marc Frédéric Gomez nous livre ici des actualités sourcées et nous apporte avec bonne humeur son analyse des sujets. Un vrai œil d’expert qui partage son expérience… Que du bonheur !"
+      },
+      {
+        "note": 5,
+        "auteur": "baluzo",
+        "titre": "Bravo pour ce podcast",
+        "texte": "Bravo Marc Frédéric pour ce podcast dédié à la cyber et à la sécurité, pour une fois en français. J’aime beaucoup la formule quotidienne courte qui peut s’écouter facilement. Toujours un moment pour trouver 5mn dans une journée"
+      },
+      {
+        "note": 5,
+        "auteur": "NicoDu35",
+        "titre": "Indispensable à la veille sécurité",
+        "texte": "Nouveau podcast qui arrive dans mes oreilles au quotidien. Contenu super intéressant. Avec un peu d’humour au passage pour ne rien gâcher :) Merci Marc-Frédéric pour ce contenu de qualité. Sur ce, je vais reprendre un Prozac 😅"
+      }
     ]
   }
 }

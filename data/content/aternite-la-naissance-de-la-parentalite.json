@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2025-09-22",
-  "frequence_jours": 3
+  "frequence_jours": 3,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "viokot",
+        "titre": "Continuez sur votre lancée",
+        "texte": "T’a fais du chemin Marco depuis cegedim, félicitation à toi et Clem pour votre travail et votre passion que vous arrivez à transmettre sur un sujet ou il y a tellement de matière, je vous encourage vivement à continuer sur votre lancée , ce podcast devrait etre remboursé par la s…"
+      },
+      {
+        "note": 5,
+        "auteur": "Quinoakahina",
+        "titre": "C’est trop bien",
+        "texte": "J’adore !!!!!! Le côté détendu et drôle, le côté juste et au plus proche de la réalité. Mon épisode préf c’est Laetitia et Paul, avec l’hypnose. Merci et continuez comme ça j’ai hâte du prochain épisode !!!"
+      },
+      {
+        "note": 5,
+        "auteur": "Miskwan",
+        "titre": "Un podcast à la fois touchant et utile !",
+        "texte": "C’est hyper compliqué de s’y retrouver quand on apprend qu’on va être papa. C’est bon d’avoir des partages d’expériences de jeunes parents qui sont passés par ce que nous allons traverser. Super podcast !"
+      }
+    ]
+  }
 }

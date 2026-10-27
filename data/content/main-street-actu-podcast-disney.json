@@ -49,25 +49,29 @@
   "derniere_activite": "2025-04-07",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-27",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "pyl larsen",
+        "titre": "Très bon mais pb de son",
+        "texte": "Très bon podcast avec des gens passionnés et sympathiques. Très bonne idée d’avoir ninou de façon pérenne. Par contre Tony parle très vite avec un micro pas top et est très difficile à suivre… Bonne continuation les amis"
+      },
+      {
+        "note": 1,
+        "auteur": "BenjyFromParis",
+        "titre": "Super !!!",
+        "texte": "Un grand merci à vous les garçons pour ce podcast drôle, intéressant, toujours « objectif », avec des invités au top... Du régal à chaque fois !!!"
+      },
+      {
+        "note": 5,
+        "auteur": "Kermenguy1212.",
+        "titre": "Super podcast!",
+        "texte": "Tres non podcast fait par des passionnés Juste des problèmes de son qui parfois embêtant :( Musique de fond un peu fort et le micro de Tony qui n’est pas de bonne qualité je pense."
+      }
     ]
   }
 }

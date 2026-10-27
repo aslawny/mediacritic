@@ -50,25 +50,29 @@
   "derniere_activite": "2025-06-15",
   "frequence_jours": 35,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-27",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Hiilda05",
+        "titre": "Très inspirant, chaîne prometteuse",
+        "texte": "J’ai découvert le concept des podcasts grâce à Julie. J’ai adoré le 1ère épisode et j’ai hâte de découvrir la suite du 2ème, cette chaîne est prometteuse.…"
+      },
+      {
+        "note": 5,
+        "auteur": "avis verifiés",
+        "titre": "Inspirant et humain",
+        "texte": "J’ai trouvé le podcast de Julie très intéressant car il défend l’intérêt de la profession de comptable et d’expert-comptable, commissaire aux comptes.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Ju KHT",
+        "titre": "Un partage d’expérience pour inspirer les futurs EC!",
+        "texte": "J’aime beaucoup écouter ce podcast, que je trouve très inspirant pour avoir des pistes sur ce qu’on peut faire avec un DEC en poche. Ou pour nous inciter à aller au bout du cursus et obtenir le DEC.…"
+      }
     ]
   }
 }

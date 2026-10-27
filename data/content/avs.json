@@ -52,25 +52,23 @@
   "derniere_activite": "2026-01-23",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-27",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "loicfc",
+        "titre": "Au top !",
+        "texte": "Merci pour ce podcast de qualité qui nous apprend tellement dans la bonne humeur et la bienveillance ! Un grand merci à vous et toute l’équipe ;)"
+      },
+      {
+        "note": 5,
+        "auteur": "lb972&13",
+        "titre": "Au sujet de la prévention / épisode de 18/10/23 sur le sucre",
+        "texte": "La prévention, en particulier dans le champ de l’alimentation fait partie du rôle propre et des missions des diététiciens!!!"
+      }
     ]
   }
 }

@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-28",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-27",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Gab_28",
+        "titre": "Addictif",
+        "texte": "Bernard Poirette, c’est avant tout une voix. Chaude, posée, enveloppante, à la diction parfaite. Cette voix rassurante nous emmène sur les pentes glissantes des plus effroyables polars depuis plus de 20 ans maintenant. C’est à écouter parce que ça donne envie de lire.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Constance Dx",
+        "titre": "Magnifique Bernard Poirette",
+        "texte": "Je suis tellement contente d’avoir découvert il y a quelques jours que vous faisiez ce podcast! J’adorais vous écouter à la radio et vos conseils de lecture me manquaient. Merci pour ces recommandations que je suis toujours et pour ce talent de conteur!"
+      },
+      {
+        "note": 5,
+        "auteur": "Mabelheidi",
+        "titre": "Découverte",
+        "texte": "Je viens de découvrir C’est à lire😊 Quel plaisir de retrouver et d’entendre Bernard Poirette! Vous nous manquez tellement à la radio!"
+      }
     ]
   }
 }

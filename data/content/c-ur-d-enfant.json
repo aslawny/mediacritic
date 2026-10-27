@@ -52,25 +52,23 @@
   "derniere_activite": "2026-08-09",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-27",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "WSH du 75",
+        "titre": "Bonjour",
+        "texte": "Je n’ai jamais écouté et j’espère que ce sera bien donc je vous mais 5 étoile"
+      },
+      {
+        "note": 5,
+        "auteur": "Top, trop top",
+        "titre": "Coucou",
+        "texte": "Coucou merci beaucoup d’avoir présenté mon livre le journal de Gurty Salut"
+      }
     ]
   }
 }

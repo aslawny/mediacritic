@@ -51,25 +51,29 @@
   "derniere_activite": "2026-05-04",
   "frequence_jours": 15,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-27",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "LLF69",
+        "titre": "Avoir des enfants et écologie",
+        "texte": "Quelques remarques sur cet épisode. Venant d’une mère de 45 ans, trois choses que l’on peut comprendre qu’en étant parents, il me semble. Lors de la naissance des enfants, il y a un boom d’empathie qui se développe chez les parents, ce qui explique que la conscience écologique se…"
+      },
+      {
+        "note": 5,
+        "auteur": "Chatsetchicorée",
+        "titre": "La BO de mes sorties running",
+        "texte": "Difficile de ne pas trop écrire mais avant tout, merci à Victoria de prendre le temps de transmettre une information fiable, toujours avec jovialité, bienveillance, et en même temps sérieux.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Orelyhh",
+        "titre": "Réflexions et conseils écolo",
+        "texte": "Victoria nous livre ses réflexions et conseils sur différents aspects de l’écologie, sans prétention, sans culpabilisation et à l’appui de données chiffrées.…"
+      }
     ]
   }
 }

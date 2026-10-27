@@ -53,25 +53,29 @@
   "derniere_activite": "2026-06-01",
   "frequence_jours": 30,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-27",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "tafffe",
+        "titre": "Podcast amis",
+        "texte": "L’équipe du Pifffcast semble être de retour <3 Meme Vero va revenir. Ou est Cyril? Et ça cross avec RSTrucage….! <3 Et ça commence a durer autour de deux heures l’épisode. <3 Au premier « claquage de beignet » prononcé je viens!"
+      },
+      {
+        "note": 5,
+        "auteur": "Benny2104",
+        "titre": "Excellent",
+        "texte": "Excellent premier épisode. Très intéressant dans son contenu. Ça m’a donné envie de revoir Massacre à la tronçonneuse et de découvrir le crocodile de la Mort. Hâte d’écouter les futurs épisodes."
+      },
+      {
+        "note": 5,
+        "auteur": "Reb5",
+        "titre": "JohnMalkovitch",
+        "texte": "Super podcast, très bien documenté. Il était temps que le ciné de genre ait enfin son podcast de référence. Bref, hâte de binger les prochains EPs, merci Shadowz !"
+      }
     ]
   }
 }

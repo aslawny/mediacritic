@@ -53,25 +53,29 @@
   "derniere_activite": "2026-09-16",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-27",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "LaureHelene13",
+        "titre": "Un podcast intime",
+        "texte": "J’ai adoré ! En particulier cette simplicité du format conversation, qui permet une intimité avec celui qui écoute, les passages (très bien) lus aussi, les respirations bien ponctuées, j’adore que tu ailles croiser et proposer des références propres, celle de Bell Hooks était hyp…"
+      },
+      {
+        "note": 5,
+        "auteur": "HR Loulou",
+        "titre": "Intelligent et passionant",
+        "texte": "On plonge dans les livres et on en tire des observations fines sur la vie, le monde, les relations. Agathe et ses invité.es échangent avec humour, finesse et sincérité. Un podcast passionnant à écouter!"
+      },
+      {
+        "note": 5,
+        "auteur": "Philippethm",
+        "titre": "A l’écoute des mots",
+        "texte": "Un podcast qui prend le temps d’écouter, d’interroger, d’ouvrir les mots qui font les livres et la marque d’un auteur. Une qualité d’écoute et d’échange rare. J’attends le prochain avec impatience !"
+      }
     ]
   }
 }

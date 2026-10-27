@@ -34,25 +34,29 @@
   ],
   "derniere_activite": "2021-10-11",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-27",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tinytruc",
+        "titre": "A écouter d'urgence!",
+        "texte": "Super podcast francophone sur James Bond. Les deux auteurs apportent leur point de vue sur chaque film avec pas mal d'anecdotes ce qui rend la discussion animée et intéressante. On ne voit pas le temps passer en leur compagnie. Merci pour ce podcast!"
+      },
+      {
+        "note": 1,
+        "auteur": "KLAATU",
+        "titre": "Très déçu",
+        "texte": "Des erreurs et approximations quelquefois (Teddy Savalas, Catherine Bisset, etc…), une très mauvaise qualité sonore générale (bruits réguliers de mobylettes et de sirènes en bruit de fond).…"
+      },
+      {
+        "note": 5,
+        "auteur": "XT phate",
+        "titre": "Super !",
+        "texte": "Podcast très sympa avec une belle évolution au cours des épisodes. Les auteurs ont toujours des anecdotes à ajouter et les invités apportent un plus non négligeable. Merci à l’équipe."
+      }
     ]
   }
 }

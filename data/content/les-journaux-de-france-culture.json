@@ -26,25 +26,29 @@
   "addedAt": "2026-05-25",
   "updatedAt": "2026-10-25",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-27",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "siorafgorm",
+        "titre": "Super qualité",
+        "texte": "Je recommande vivement les journaux de France Culture qui relatent très bien les infos en toute objectivité et qui couvrent également l’actualité internationale, clé pour comprendre les enjeux de notre monde."
+      },
+      {
+        "note": 1,
+        "auteur": "Kantum_",
+        "titre": "On aime mais 🤔",
+        "texte": "On aimerait pouvoir écouter les journaux quand ils sortent comme sur la plateforme web. Il est 21h17 toujours aucun signe du journal de 18h 🤦‍♂️Je vais donc devoir ouvrir safari et allez sur le site de France cul pour pouvoir écouter ce qui devait être ici 🙃par ailleurs si l'heur…"
+      },
+      {
+        "note": 5,
+        "auteur": "En piste l’artiste",
+        "titre": "⭐️Mon journal préféré pour m’informer ⭐️",
+        "texte": "J’aime le traitement des informations dans ces journaux. Je le préfère à celui d’autres radios de RadioFrance. Celui de 12h30 a un angle plus « social » il me semble, que j’apprécie aussi"
+      }
     ]
   }
 }

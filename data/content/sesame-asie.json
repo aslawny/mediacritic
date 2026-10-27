@@ -50,25 +50,29 @@
   "derniere_activite": "2024-05-26",
   "frequence_jours": 32,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-27",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "CarolineTheFrench",
+        "titre": "Positif et inspirant!",
+        "texte": "Bravo Raphaël. Ecouter à ton micro des entrepreneurs venus de toute l’Asie, curieux, enthousiastes et heureux est un réel plaisir! Chacun dans leur domaine, ils partagent leurs expériences avec beaucoup de sincérité! Longue vie à Sesame Asie!!"
+      },
+      {
+        "note": 5,
+        "auteur": "Eric Ruelin",
+        "titre": "Bravo Raphael",
+        "texte": "Super ton podcast ! particulièrement ce dernier avec le prolixe Alexis et son incroyable et inspirante histoire entrepreneuriale en chine. Amitiés, Eric Morelle"
+      },
+      {
+        "note": 5,
+        "auteur": "Sylvain-pod",
+        "titre": "Super podcast",
+        "texte": "Des parcours inspirants de ces français qui réussissent en Asie. Merci pour le partage !"
+      }
     ]
   }
 }

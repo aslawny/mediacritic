@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-21",
   "frequence_jours": 21,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-27",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Podcastics Community",
+        "titre": "Des pionniers du podcast sur les séries TV",
+        "texte": "Premier épisode dès 2015 : sacrée longévité ! En écoutant on comprend pourquoi : la complicité de l'équipe saute aux oreilles et les passes décisives s'enchaînent d'un chroniqueur à l'autre.…"
+      },
+      {
+        "note": 1,
+        "auteur": "rhyslex",
+        "titre": "Dispensable",
+        "texte": "Analyses faiblardes, superficielles et inintéressantes… Podcast à éviter même si les chroniqueurs - euses sont sympathiques."
+      },
+      {
+        "note": 5,
+        "auteur": "Claire Lois",
+        "titre": "Instructif et qui ouvre des horizons",
+        "texte": "Le podcast aborde toute sorte de séries : populaires ou moins connues. Les avis sont argumentés et il y a débat au sein de l’équipe, ce qui aide à construire une impression objective.…"
+      }
     ]
   }
 }
