@@ -190,10 +190,12 @@ def sujets_trends():
     return out
 
 
-def titres_presse(sujet, maxi=2):
-    """Titres de presse des 3 derniers jours sur le sujet (Google Actualites),
-    avec leur source : c'est ce qui RESUME l'actu, sans rien inventer. Reseaux
-    sociaux et titres sensibles ecartes ; titres coupes a 14 mots."""
+def titres_presse(sujet, maxi=1):
+    """Titre de presse des 3 derniers jours sur le sujet (Google Actualites),
+    avec sa source : c'est ce qui RESUME l'actu, sans rien inventer. Reseaux
+    sociaux et titres sensibles ecartes. Parmi les 8 plus recents, on garde le
+    plus COURT qui nomme le sujet (le plus parlant : « Harry Kane entre dans la
+    legende » plutot qu'un sondage de 30 mots)."""
     url = ("https://news.google.com/rss/search?q=" + urllib.parse.quote(f'"{sujet}" when:3d')
            + "&hl=fr&gl=FR&ceid=FR:fr")
     try:
@@ -212,13 +214,19 @@ def titres_presse(sujet, maxi=2):
             continue
         if SENSIBLES.search(norm(titre).strip()):
             continue
+        if norm(sujet).strip() not in norm(titre):
+            continue
+        out.append((titre, src.strip()))
+        if len(out) >= 8:
+            break
+    out.sort(key=lambda t: len(t[0].split()))
+    choisis = []
+    for titre, src in out[:maxi]:
         mots = titre.split()
         if len(mots) > 14:
             titre = " ".join(mots[:14]).rstrip(",;:") + "…"
-        out.append((titre, src.strip()))
-        if len(out) >= maxi:
-            break
-    return out
+        choisis.append((titre, src))
+    return choisis
 
 
 def est_sensible(s):

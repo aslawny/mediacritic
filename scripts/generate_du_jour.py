@@ -248,8 +248,7 @@ def textes_reseaux(c):
         "Threads": f"{tete} : {c['titre']}\n\n{accroche}\n\n{lien('threads')}",
         "Facebook": f"{tete} : {c['titre']}\n\n{accroche}\n\n{c.get('presentation') or ''}\n\n👉 {lien('facebook')}",
         "LinkedIn": (f"{tete} : {c['titre']}\n\n{accroche}\n\n{c.get('presentation') or ''}\n\n"
-                     f"Chaque matin, MediaCritic croise l'actualité avec les épisodes des podcasts et "
-                     f"chaînes YouTube de son annuaire. Seule règle : un lien prouvé, épisode à l'appui.\n\n"
+                     f"Chaque jour, MediaCritic vous propose l'émission qui parle de l'actu du moment.\n\n"
                      f"👉 {lien('linkedin')}\n\n#podcast #podcastfrançais #actualité"),
         "Instagram": (f"{tete} : {c['titre']}\n\n{accroche}\n\n{c.get('presentation') or ''}\n\n"
                       f"🔗 Lien en bio — mediacritic.fr\n\n#podcast #podcastfrancais #podcastdujour "
