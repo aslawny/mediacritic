@@ -243,7 +243,7 @@ def textes_reseaux(c):
     if c.get("mode") == "actu":
         accroche = f"« {c['sujet']} » fait l'actu. {c['titre']}{indep} en parle dans « {ep.get('titre')} »."
     else:
-        accroche = c["pourquoi"].replace("Aucune émission de notre annuaire n'a traité l'actualité du jour : place", "Place") \
+        accroche = re.sub(r"^.*?: place", "Place", c["pourquoi"]) \
             + f" Aujourd'hui : {c['titre']}."
     tete = libelle(c)
     court = accroche if len(accroche) <= 190 else accroche[:187].rsplit(" ", 1)[0] + "…"

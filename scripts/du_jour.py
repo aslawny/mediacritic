@@ -504,6 +504,7 @@ def main():
     lim_sujet = (jour - timedelta(days=7)).isoformat()
     sujets_recents = {norm(h.get("sujet") or "") for h in hist if h["date"] >= lim_sujet}
     trouves = []
+    exclus_theme = set()   # emissions qui collaient a l'actu, mais du theme de la veille
     for s in gardes:
         if norm(s["sujet"]) in sujets_recents:
             continue
@@ -512,7 +513,11 @@ def main():
                 print(f"     ~ « {s['sujet']} » trop banal ({m.strip()}), ignoré")
                 continue
             for c, eps in frais:
-                if c["slug"] in bloques or (theme_veille and thematique(c) == theme_veille):
+                if c["slug"] in bloques:
+                    continue
+                if theme_veille and thematique(c) == theme_veille:
+                    if any(m in norm(ep["titre"]) for ep in eps):
+                        exclus_theme.add(c["slug"])
                     continue
                 for ep in eps:
                     if m in norm(ep["titre"]) and (not nom_seul or confirme(s, m, ep["titre"])):
@@ -586,18 +591,24 @@ def main():
             "mode": "pepite", "slug": c["slug"], "titre": c["title"], "type": c.get("type"),
             "auteur": c.get("author") or "", "image": c.get("image") or "",
             "independant": True, "mcNote": c.get("mcNote"),
-            "pourquoi": (f"Aucune émission de notre annuaire n'a traité l'actualité du jour : "
-                         f"place à une pépite indépendante, notée {note}/5 sur Apple Podcasts "
+            "pourquoi": ((f"Pour alterner avec la thématique d'hier ({theme_veille}) : "
+                          if exclus_theme else
+                          "Aucune émission de notre annuaire n'a traité l'actualité du jour : ")
+                         + f"place à une pépite indépendante, notée {note}/5 sur Apple Podcasts "
                          f"({nb} notes)."),
             "presentation": phrase_description(c["slug"]),
         })
         derniere = (fiche(c["slug"]) or {}).get("derniere_activite")
         choix["raisons"] = [
-            ["🔎 Pas d'actu exploitable", (f"aucune des {len(entrees)} émissions suivies n'a publié "
+            (["🔁 On alterne", (f"les {len(exclus_theme)} émission(s) qui ont traité les sujets du "
+                               f"jour relèvent toutes de la thématique d'hier ({theme_veille}) : "
+                               f"nous ne mettons jamais deux fois de suite la même thématique.")]
+             if exclus_theme else
+             ["🔎 Pas d'actu exploitable", (f"aucune des {len(entrees)} émissions suivies n'a publié "
                                           f"d'épisode sur les sujets du jour dans les {FRAICHEUR_JOURS} "
-                                          f"derniers jours : nous ne forçons jamais le lien.")],
+                                          f"derniers jours : nous ne forçons jamais le lien.")]),
             ["💎 Pourquoi elle", (f"podcast indépendant noté {note}/5 sur Apple Podcasts ({nb} notes)"
-                                 + (f", toujours actif (dernier épisode le {date_fr(derniere)})" if derniere else "")
+                                 + (f", dernier épisode le {date_fr(derniere)}" if derniere else "")
                                  + ", jamais mis en avant ces 6 derniers mois.")],
             ["🚫 Écartés", ecarte_txt],
         ]
