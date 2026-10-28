@@ -363,12 +363,47 @@ def score(s, c, ep, jour, rang_max):
     return round(2 * force + fraicheur + audience + bonus, 4)
 
 
+# --------------------------------------------------------------------------
+# Thematique : jamais deux fois de suite la meme (choix de l'utilisateur,
+# 28/10/2026 : trois choix football en quatre jours). La thematique est la
+# categorie PRINCIPALE de la fiche, regroupee en familles pour que la regle
+# ait un sens (football, running et sport = une seule famille).
+# --------------------------------------------------------------------------
+FAMILLES = {
+    "sport": {"sport", "football", "running", "endurance", "basket", "rugby", "tennis",
+              "cyclisme", "fitness", "musculation", "golf", "f1", "sports"},
+    "cinema": {"cinema", "series", "television"},
+    "business": {"business", "entrepreneuriat", "investissement", "marketing", "management",
+                 "economie", "carriere", "finance"},
+    "bien-etre": {"developpement personnel", "psychologie", "bien-etre", "sante",
+                  "spiritualite", "meditation"},
+    "jeu video": {"gaming", "jeux", "jeux video", "jeux inde", "retro"},
+    "histoire": {"histoire", "true crime", "documentaire"},
+}
+_FAMILLE_DE = {cat: fam for fam, cats in FAMILLES.items() for cat in cats}
+
+
+def thematique(c):
+    cats = c.get("categories") or []
+    if not cats:
+        return None
+    return _FAMILLE_DE.get(cats[0], cats[0])
+
+
+def thematique_veille(hist, jour, cat):
+    """Thematique du dernier choix avant `jour` (calculee si absente)."""
+    for h in hist:
+        if h["date"] < jour.isoformat():
+            return h.get("thematique") or thematique(cat.get(h["slug"], {}))
+    return None
+
+
 def recemment_mis_en_avant(hist, jour):
     lim = (jour - timedelta(days=SANS_REPETITION)).isoformat()
     return {h["slug"] for h in hist if h["date"] >= lim}
 
 
-def plan_b(cat, hist, jour):
+def plan_b(cat, hist, jour, theme_interdit=None):
     """Pepite independante : bien notee, active, jamais mise en avant depuis
     180 jours. Choix deterministe pour la date (relance = meme resultat)."""
     lim = (jour - timedelta(days=180)).isoformat()
@@ -377,6 +412,8 @@ def plan_b(cat, hist, jour):
     cands = []
     for c in cat.values():
         if not c.get("independant") or c["slug"] in deja:
+            continue
+        if theme_interdit and thematique(c) == theme_interdit:
             continue
         if float(c.get("rating") or 0) < 4.7 or int(c.get("ratingCount") or 0) < 100:
             continue
@@ -453,6 +490,9 @@ def main():
 
     print("3. Correspondances")
     bloques = recemment_mis_en_avant(hist, jour)
+    theme_veille = thematique_veille(hist, jour, cat)
+    if theme_veille:
+        print(f"   thématique de la veille écartée : {theme_veille}")
     rang_max = {"wikipedia": 40, "trends": 30}
     tous_titres = [norm(ep["titre"]) for _, eps in frais for ep in eps]
     # Un « sujet » present dans plus de 1 % des titres du jour est une
@@ -472,7 +512,7 @@ def main():
                 print(f"     ~ « {s['sujet']} » trop banal ({m.strip()}), ignoré")
                 continue
             for c, eps in frais:
-                if c["slug"] in bloques:
+                if c["slug"] in bloques or (theme_veille and thematique(c) == theme_veille):
                     continue
                 for ep in eps:
                     if m in norm(ep["titre"]) and (not nom_seul or confirme(s, m, ep["titre"])):
@@ -536,7 +576,7 @@ def main():
             ["🚫 Écartés", ecarte_txt],
         ]
     else:
-        c = plan_b(cat, hist, jour)
+        c = plan_b(cat, hist, jour, theme_veille)
         if not c:
             print("Aucun choix possible (ni actu, ni pépite) : rien n'est écrit.")
             return
@@ -562,6 +602,9 @@ def main():
             ["🚫 Écartés", ecarte_txt],
         ]
     choix["sujets_ecartes"] = len(ecartes)
+    choix["thematique"] = thematique(cat.get(choix["slug"], {}))
+    if theme_veille:
+        choix["raisons"][-1][1] = choix["raisons"][-1][1].rstrip(".") +             f", ainsi que la thématique de la veille ({theme_veille})."
     print(f"\n→ {choix['mode'].upper()} : {choix['titre']}\n  {choix['pourquoi']}")
     if a.dry_run:
         return
