@@ -32,6 +32,7 @@ Usage :
 """
 import argparse
 import hashlib
+import html
 import json
 import math
 import os
@@ -52,6 +53,8 @@ from independance import _mots, est_independant  # noqa: E402
 ROOT = Path(__file__).parent.parent
 DATA = ROOT / "data"
 SORTIE = DATA / "du_jour.json"
+MC_REVIEWS = (json.loads((DATA / "mc_reviews.json").read_text(encoding="utf-8"))
+              if (DATA / "mc_reviews.json").exists() else {})
 UA = {"User-Agent": "MediaCriticBot/1.0 (https://www.mediacritic.fr; mediacriticinc@gmail.com)"}
 
 FRAICHEUR_JOURS = 10       # un episode plus ancien ne « parle » plus de l'actu
@@ -611,20 +614,34 @@ def main():
         typ = "Chaîne YouTube" if c.get("type") == "youtube" else "Podcast"
         auteur = (c.get("author") or "").strip()
         tete = f"{c['title']} — {typ.lower()}" + (f" de {auteur}" if auteur and norm(auteur) != norm(c["title"]) else "")
-        pres = phrase_description(c["slug"], maxi=200)
+        pres = html.unescape(phrase_description(c["slug"], maxi=200))
+        # Les fiches deja critiquees portent NOTRE texte de referencement
+        # (« Critique et analyse du podcast… ») : on montre notre verdict.
+        if not pres or pres.startswith("Critique et analyse"):
+            verdict = next((v.get("verdict") for v in MC_REVIEWS.values()
+                            if v.get("slug") == c["slug"] and v.get("verdict")), None)
+            pres = f"Notre verdict : « {verdict} »" if verdict else ""
         return f"{tete}. {pres}" if pres else f"{tete}."
 
-    def atouts(c):
-        out = []
+    def qualites(c):
+        """« Une émission indépendante, notée 4,6/5 sur Apple Podcasts (187
+        notes). » — toujours au féminin d'« émission », quel que soit le nom."""
+        parts = []
         if c.get("type") == "youtube" and c.get("subscribers"):
-            out.append(f"suivie par {n(c['subscribers'])} abonnés")
+            parts.append(f"suivie par {n(c['subscribers'])} abonnés sur YouTube")
         elif c.get("rating") and c.get("ratingCount"):
-            out.append(f"notée {float(c['rating']):.1f}".replace(".", ",") + f"/5 sur Apple Podcasts ({n(c['ratingCount'])} notes)")
-        if c.get("independant"):
-            out.append("indépendante" if c.get("type") == "youtube" else "indépendant")
+            parts.append(f"notée {float(c['rating']):.1f}".replace(".", ",")
+                         + f"/5 sur Apple Podcasts ({n(c['ratingCount'])} notes)")
         if c.get("mcNote"):
-            out.append(f"{str(c['mcNote']).replace('.', ',')}/10 dans notre critique")
-        return out
+            parts.append(f"{str(c['mcNote']).replace('.', ',')}/10 dans notre critique")
+        tete = "Une émission" + (" indépendante" if c.get("independant") else "")
+        if not parts:
+            return (tete + ".") if c.get("independant") else ""
+        return f"{tete} {parts[0]}" + "".join(f", {p}" for p in parts[1:]) + "."
+
+    def court(titre, maxi=12):
+        mots = titre.split()
+        return titre if len(mots) <= maxi else " ".join(mots[:maxi]).rstrip(",;:–-") + "…"
 
     sujet_buzz = trouves[0][1] if trouves else (gardes[0] if gardes else None)
     if trouves:
@@ -642,14 +659,13 @@ def main():
                          f"{genre} « {ep['titre']} », {publie} le {date_fr(ep['date'])}."),
             "presentation": phrase_description(c["slug"]),
         })
-        plus = atouts(c)
+
         choix["sections"] = [
             ["L'actu qui a fait le buzz", buzz(s)],
             ["L'émission", emission(c)],
-            ["Pourquoi l'écouter", (f"Pour prolonger l'actu : {genre} « {ep['titre']} », {publie} le "
-                                    f"{date_fr(ep['date'])}, parle justement "
-                                    f"de {s['sujet']}."
-                                    + (f" {c['title'][:1].upper() + c['title'][1:]}, " + ", ".join(plus) + "." if plus else ""))],
+            ["Pourquoi l'écouter", (f"Pour prolonger l'actu : dans {genre} « {court(ep['titre'])} », {publie} le "
+                                    f"{date_fr(ep['date'])}, {c['title']} revient justement sur « {s['sujet']} ». "
+                                    + qualites(c)).strip()],
         ]
     else:
         c = plan_b(cat, hist, jour, theme_veille)
@@ -678,6 +694,8 @@ def main():
     choix["thematique"] = ((thematique_sujet(trouves[0][1]) if trouves else None)
                            or thematique(cat.get(choix["slug"], {})))
     print(f"\n→ {choix['mode'].upper()} : {choix['titre']}\n  {choix['pourquoi']}")
+    for t, v in choix.get("sections", []):
+        print(f"  ## {t} : {v}")
     if a.dry_run:
         return
     hist.insert(0, choix)
