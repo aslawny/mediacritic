@@ -8,7 +8,14 @@ name: Podcast du jour
 
 on:
   schedule:
-    - cron: '10 6 * * *'   # 6h10 UTC = 7h10 a Paris l'hiver, 8h10 l'ete
+    # Trois creneaux (28/10/2026) : GitHub lance les taches programmees avec
+    # du retard aux heures chargees (13h51 et 13h02 au lieu de 7h10). Le
+    # premier qui demarre choisit et publie ; les suivants voient « deja
+    # choisi » et ne changent rien. Objectif : en ligne avant 10h a Paris.
+    # Heures UTC : 5h40, 6h40, 7h40 a Paris l'hiver (une heure de plus l'ete).
+    - cron: '40 4 * * *'
+    - cron: '40 5 * * *'
+    - cron: '40 6 * * *'
   workflow_dispatch:
 
 permissions:
