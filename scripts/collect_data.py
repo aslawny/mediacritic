@@ -1284,6 +1284,11 @@ if __name__ == "__main__":
     parser.add_argument("--youtube-key",    default=os.getenv("YOUTUBE_API_KEY"))
     parser.add_argument("--spotify-id",     default=os.getenv("SPOTIFY_CLIENT_ID"))
     parser.add_argument("--spotify-secret", default=os.getenv("SPOTIFY_CLIENT_SECRET"))
+    # Decouverte YouTube TOUS les jours, en plus du cycle podcast / youtube /
+    # refresh (choix de l'utilisateur, 28/10/2026 : les ajouts de chaines
+    # chutaient, 766 en juillet, ~130 en octobre). Cout : ~2 000 unites de
+    # quota (20 recherches a 100 unites) sur 10 000 par jour.
+    parser.add_argument("--youtube-quotidien", action="store_true")
     args = parser.parse_args()
 
     spotify_token = get_spotify_token(args.spotify_id, args.spotify_secret)
@@ -1318,8 +1323,9 @@ if __name__ == "__main__":
         # Source 3 : notes manquantes
         update_ratings_missing()
 
-    elif args.mode == "youtube":
-        # Jour 3 : decouvrir de nouvelles chaines YouTube
+    if args.mode == "youtube" or (args.youtube_quotidien and args.mode in ("podcast", "refresh")):
+        # Decouverte de nouvelles chaines YouTube (jour « youtube » du cycle,
+        # et chaque jour avec --youtube-quotidien)
         collect_youtube_catalog(args.youtube_key)   # liste statique (nouvelles entrees si ajoutees)
         # Source 1 : harvest depuis les chaines connues (featuredChannels)
         harvest_youtube_related(args.youtube_key)
@@ -1328,7 +1334,7 @@ if __name__ == "__main__":
         discover_youtube_channels(args.youtube_key, query_list=yt_slice)
         qstate["youtube_idx"] = next_yt_idx
 
-    elif args.mode == "all":
+    if args.mode == "all":
         collect_itunes_top_charts()
         collect_itunes_catalog()
         collect_youtube_catalog(args.youtube_key)
@@ -1343,7 +1349,7 @@ if __name__ == "__main__":
     # aucune, leur page affichait « A propos de X » suivi de rien. Budget
     # volontairement modeste pour etaler la charge sur plusieurs nuits.
     try:
-        enrich_descriptions(limit=400)
+        enrich_descriptions(limit=800)   # 400 -> 800 le 28/10/2026
     except Exception as e:
         print(f"  ! enrichissement des descriptions ignore : {e}")
 
@@ -1352,7 +1358,7 @@ if __name__ == "__main__":
     # la page peut offrir. Avis reels cites et attribues, jamais de synthese
     # redigee -- voir l'en-tete de enrich_avis.py.
     try:
-        enrich_avis(limit=300)
+        enrich_avis(limit=600)   # 300 -> 600 le 28/10/2026
     except Exception as e:
         print(f"  ! collecte des avis publics ignoree : {e}")
 
@@ -1365,7 +1371,7 @@ if __name__ == "__main__":
 
     # Derniers episodes, frequence et derniere activite, par petits lots.
     try:
-        enrich_episodes(limit=300)
+        enrich_episodes(limit=600)   # 300 -> 600 le 28/10/2026
     except Exception as e:
         print(f"  ! enrichissement des episodes ignore : {e}")
 
