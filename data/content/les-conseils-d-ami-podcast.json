@@ -25,7 +25,7 @@
     "business"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-28",
   "episodes_recents": [
     {
       "titre": "Comment j'ai développé ma marque sur les réseaux sociaux ? Les stratégies sur Tik Tok et Instagram",
@@ -51,25 +51,29 @@
   "derniere_activite": "2024-11-24",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-28",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-28",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Audrey92-86",
+        "titre": "Fabuleuse",
+        "texte": "Cette femme est tellement intelligente…. Elle a tout compris… j ai 38 ans j ai un bac +7 je suis avocate dans un des plus gros cabinet d avocat d affaires de France et cette femme, croyez moi, a tout compris.…"
+      },
+      {
+        "note": 5,
+        "auteur": "xoxo971",
+        "titre": "Merci",
+        "texte": "Il y a pour l’instant que 2 podcast et j’adore vraiment ! J’ai déjà une marque avec quelques ventes mais pas suffisamment pour moi donc je continue mes effort… Je me suis également lancée sur tiktok récemment on verra bien ce que ça donnera …"
+      },
+      {
+        "note": 5,
+        "auteur": "Kathelovely",
+        "titre": "Le meilleur podcast",
+        "texte": "Ça fait déjà 2 semaines que j’écoute et parfois même réécoute les épisodes du podcast et je sens déjà que ça m’a changée. Ami nous parle de façon très claire et simple et donne tellement de valeur qu’on applique directement après. Merci beaucoup ❤️"
+      }
     ]
   }
 }

@@ -25,7 +25,7 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-28",
   "episodes_recents": [
     {
       "titre": "Comment obtenir des résultats plus vite en business -E217",
@@ -51,25 +51,29 @@
   "derniere_activite": "2026-09-03",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-28",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-28",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Bulle&Blog",
+        "titre": "La joie entrepreneuriale en podcast !",
+        "texte": "Anne-Valérie a créé son podcast et c’est une joie ! De l’écouter pétiller au micro et partager avec nous ses conseils pour une vie entrepreneuriale faite de succès et d’épanouissement professionnel et personnel.…"
+      },
+      {
+        "note": 3,
+        "auteur": "DS 1475",
+        "titre": "C’est dommage…",
+        "texte": "… que ce podcast soit devenu depuis de nombreux épisodes un tunnel de vente pour les différents programmes. C’est fait de manière un peu subtile certes, mais ça donne une impression d’être un prospect et pas un auditeur."
+      },
+      {
+        "note": 5,
+        "auteur": "Mat44250",
+        "titre": "Mon rdv du jeudi !",
+        "texte": "J’ai découvert le podcast 100k révolution puis entreprendre hors des normes il y a maintenant plus de 9 mois, et j’ai rattrapé les 88 épisodes au gré de mes voyages en transports ou en voiture avec délice …"
+      }
     ]
   }
 }

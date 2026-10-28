@@ -1,6 +1,6 @@
 {
-  "maj": "2026-10-27",
-  "total": 1174,
+  "maj": "2026-10-28",
+  "total": 1182,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -5062,6 +5062,12 @@
       "fiche": "fiches/actualite-upr.html"
     },
     {
+      "slug": "tout-contre",
+      "titre": "Tout Contre",
+      "notes_apple": 47,
+      "fiche": "fiches/tout-contre.html"
+    },
+    {
       "slug": "3-hommes-et-un-podcast",
       "titre": "3 hommes et un podcast",
       "notes_apple": 46,
@@ -6976,6 +6982,12 @@
       "fiche": "fiches/zero-to-one.html"
     },
     {
+      "slug": "matthias-baccino",
+      "titre": "Matthias Baccino",
+      "notes_apple": 31,
+      "fiche": "fiches/matthias-baccino.html"
+    },
+    {
       "slug": "3615-ethique",
       "titre": "3615 Éthique",
       "notes_apple": 30,
@@ -7046,6 +7058,42 @@
       "titre": "Femmes de Cinéma",
       "notes_apple": 30,
       "fiche": "fiches/femmes-de-cinema.html"
+    },
+    {
+      "slug": "homecoming",
+      "titre": "Homecoming",
+      "notes_apple": 30,
+      "fiche": "fiches/homecoming.html"
+    },
+    {
+      "slug": "into-the-job",
+      "titre": "Into the job",
+      "notes_apple": 30,
+      "fiche": "fiches/into-the-job.html"
+    },
+    {
+      "slug": "j-ai-reve-trop-fort",
+      "titre": "J'ai rêvé trop fort",
+      "notes_apple": 30,
+      "fiche": "fiches/j-ai-reve-trop-fort.html"
+    },
+    {
+      "slug": "kaavan-le-podcast-sante-mentale",
+      "titre": "Kaavan - Le podcast Santé Mentale",
+      "notes_apple": 30,
+      "fiche": "fiches/kaavan-le-podcast-sante-mentale.html"
+    },
+    {
+      "slug": "l-art-du-mentaliste",
+      "titre": "L'art du mentaliste",
+      "notes_apple": 30,
+      "fiche": "fiches/l-art-du-mentaliste.html"
+    },
+    {
+      "slug": "le-billet-de-bertrand-chameroy",
+      "titre": "Le billet de Bertrand Chameroy",
+      "notes_apple": 30,
+      "fiche": "fiches/le-billet-de-bertrand-chameroy.html"
     }
   ]
 }

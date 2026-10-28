@@ -26,7 +26,7 @@
     "vulgarisation"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-28",
   "episodes_recents": [
     {
       "titre": "Cette magie dont il ne faut pas parler 🤫",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-07-28",
   "frequence_jours": 32,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-28",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-28",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tongui59",
+        "titre": "Au top ! Excellente idée !",
+        "texte": "Vraiment top ! Vous avez bien fait de faire des podcasts de vos vidéos. Seul bémol le débit de parole un poil trop speed pour le format podcast (en gros laisser le temps aux gens de s’imaginer ce qui est raconté, contrairement aux vidéos où les illustrations accompagnent le spect…"
+      },
+      {
+        "note": 5,
+        "auteur": "Madly~Magpie",
+        "titre": "Génial !! ❤️",
+        "texte": "La chaîne YouTube est déjà géniale, merci pour cet autre format bien pratique ! C’est toujours un plaisir de vous écouter, les épisodes sont passionnants !!"
+      },
+      {
+        "note": 5,
+        "auteur": "Marjutoi",
+        "titre": "Enfin des sources !",
+        "texte": "Franchement bravo ! Enfin des sources concrètes et du travail de recherche notamment sur « à qui profite le crime » j’adore."
+      }
     ]
   }
 }

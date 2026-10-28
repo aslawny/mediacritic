@@ -25,7 +25,7 @@
     "tech",
     "numérique"
   ],
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-28",
   "episodes_recents": [
     {
       "titre": "#237 - Qobuz : La musique, le son et le sens",
@@ -51,25 +51,29 @@
   "derniere_activite": "2026-02-26",
   "frequence_jours": 13,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-28",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-28",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "SEB de Montmartre",
+        "titre": "A écouter sans modération",
+        "texte": "Le monde des médias est challengé depuis plu de 20 ans (Google News, journaux gratuits, fil Twitter etc.) François invite les meilleurs pour comprendre cette tectonique des plaques médiatiques qui fera encore de nombreux perdants alors que de nouveaux territoires restent à conqué…"
+      },
+      {
+        "note": 3,
+        "auteur": "nicolas.roux14",
+        "titre": "Génial",
+        "texte": "Je révise mon avis à la baisse parce que je ne supporte plus les hôtes qui coupent la parole sans cesse à leurs invités. Les invités sont tops, les questions sont bonnes, les discussions intéressantes mais stp François, laisse tes invités parler 🙂 Un hôte de podcast ne devrait pa…"
+      },
+      {
+        "note": 5,
+        "auteur": "belbé29",
+        "titre": "Tech trash",
+        "texte": "Je viens d’écouter ce podcast et c’était très intéressant, un vrai bol d’air frais d’entendre une telle force d’indépendance. Bravo à cette équipe. Bravo aussi pour toutes ces pépites d’informations que vous nous partagez. Bonne continuation Belbé"
+      }
     ]
   }
 }

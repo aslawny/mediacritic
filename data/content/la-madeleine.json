@@ -26,7 +26,7 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-28",
   "episodes_recents": [
     {
       "titre": "#29 Émilie Franzo",
@@ -52,25 +52,29 @@
   "derniere_activite": "2025-04-30",
   "frequence_jours": 21,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-28",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-28",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Amandee1",
+        "titre": "L’émotion du bon goût",
+        "texte": "Quelle magnifique voyage à chaque fois! On goûte à chaque phrase à chaque mot, on ressent, on dégluti, on sent les odeurs, les saveurs, les émotions qui ont entraîné chacun.e sur leurs projets et leur mission de vie. Bravo pour ces témoignages si bons."
+      },
+      {
+        "note": 5,
+        "auteur": "Christelle1410",
+        "titre": "Dans la liste de mes podcasts favoris",
+        "texte": "C’est toujours un plaisir d’écouter La Madeleine, ce podcast est parmi mes favoris. On découvre des pâtisseries grâce au choix des invités et le parcours des invités est toujours très intéressant. Une belle réussite !"
+      },
+      {
+        "note": 5,
+        "auteur": "puce576",
+        "titre": "Je me régale d’avance",
+        "texte": "Déjà fan des idées de Marion dans la vraie vie, je me délectais de découvrir le podcast. Je ne regrette pas : tout en confidence et en gourmandise, j’ai hâte de découvrir les futurs épisodes 🍰"
+      }
     ]
   }
 }

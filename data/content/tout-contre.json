@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/tout-contre/id6823218502?uo=2",
       "trackId": 6823218502,
-      "rating": 4.5,
-      "ratingCount": 28,
+      "rating": 4.7,
+      "ratingCount": 47,
       "episodeCount": null
     }
   },
@@ -25,12 +25,34 @@
     "societe"
   ],
   "addedAt": "2026-10-20",
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-28",
   "episodes_recents": [
     {
       "titre": "La colère des lycéens | Trump-Poutine : le deal scandaleux ?",
       "date": "2026-10-15"
     }
   ],
-  "derniere_activite": "2026-10-15"
+  "derniere_activite": "2026-10-15",
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-10-28",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

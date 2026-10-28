@@ -26,7 +26,7 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-28",
   "episodes_recents": [
     {
       "titre": "INTERVIEW // Elle aménage son van entièrement seule en 1,5 ans",
@@ -52,25 +52,29 @@
   "derniere_activite": "2025-07-16",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-28",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-10-28",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Ségo avocado",
+        "titre": "Merci pour le partage !",
+        "texte": "Je viens d’écouter l’épisode « Qu’est-ce qu’on risque à tout quitter ? » , merci pour le partage qui me parle énormément ! Je souhaite me lancer, je quitte tout : un cdi bien rémunéré, un super appart et c’est vrai qu’il y beaucoup de croyances limitantes qui nous empêchent parfo…"
+      },
+      {
+        "note": 5,
+        "auteur": "Sebenvoyage",
+        "titre": "Envie d'evasion",
+        "texte": "Cela fait quelques temps déjà que je vous suis et vous me donnez vraiment envie de partir à l'aventure ! J'adore voyager mais j'ai l'impression que le voyage en van nous permet de vivre l'expérience d'une façon totalement différente …"
+      },
+      {
+        "note": 5,
+        "auteur": "Aurelie 2104",
+        "titre": "Tellement plaisant à écouter!",
+        "texte": "Ça fait plaisir d’entendre la sincérité, la « vraie vie » et pas seulement les belles histoires « instagrammables », mais aussi d’en savoir un peu plus sur la vie en van. Alors merci de pour ce partage d’expérience, pour ton authenticité et ta bienveillance.…"
+      }
     ]
   }
 }

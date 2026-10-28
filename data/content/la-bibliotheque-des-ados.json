@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/la-biblioth%C3%A8que-des-ados/id1478503717?uo=2",
       "trackId": 1478503717,
       "rating": 4.5,
-      "ratingCount": 57,
+      "ratingCount": 58,
       "episodeCount": null
     }
   },
@@ -26,27 +26,31 @@
     "culture"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-28",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-28",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-28",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Locmamie",
+        "titre": "Très bon podcast",
+        "texte": "Merci infiniment pour ces 2 conseils de lecture. Il est parfois si compliqué de dénicher un ouvrage qui va intéresser les jeunes adolescents. Et ces 2 ouvrages ont vraiment conquis mes petits enfants."
+      },
+      {
+        "note": 5,
+        "auteur": "méero",
+        "titre": "C génial",
+        "texte": "❤️❤️❤️ J’adore ce podcast comme j’adore lire . Je dé plein de livre merci 🤩"
+      },
+      {
+        "note": 4,
+        "auteur": "j uehjdjdueuzjb",
+        "titre": "Super plus de romans près ado",
+        "texte": "J'aime beaucoup ce podcast mais il faudrait mettre plus de romans pour pré ados ... Ou aussi plus de romance ou de livre historique ..."
+      }
     ]
   }
 }
