@@ -390,6 +390,26 @@ def thematique(c):
     return _FAMILLE_DE.get(cats[0], cats[0])
 
 
+# Thematique du SUJET, lue dans sa description Wikipedia / les titres lies :
+# une chaine classee « anime » qui parle du Ballon d'Or traite bien du sport.
+MOTS_THEME = {
+    "sport": r"footballeu|football|ballon d or|ligue 1|ligue des champions|mercato|"
+             r"joueur de (tennis|rugby|basket)|rugbyman|cycliste|athlete|pilote de|"
+             r"club de|selection nationale|coupe du monde|jeux olympiques|nba|match",
+    "cinema": r"acteur|actrice|realisateur|realisatrice|film|serie televisee",
+    "musique": r"chanteur|chanteuse|rappeur|rappeuse|album|groupe de musique|musicien",
+    "jeu video": r"jeu video|jeux video|console",
+}
+
+
+def thematique_sujet(s):
+    t = norm(s.get("sujet", "") + " " + s.get("contexte", ""))
+    for fam, motif in MOTS_THEME.items():
+        if re.search(r" (" + motif + r")", t):
+            return fam
+    return None
+
+
 def thematique_veille(hist, jour, cat):
     """Thematique du dernier choix avant `jour` (calculee si absente)."""
     for h in hist:
@@ -515,7 +535,7 @@ def main():
             for c, eps in frais:
                 if c["slug"] in bloques:
                     continue
-                if theme_veille and thematique(c) == theme_veille:
+                if theme_veille and theme_veille in (thematique(c), thematique_sujet(s)):
                     if any(m in norm(ep["titre"]) for ep in eps):
                         exclus_theme.add(c["slug"])
                     continue
@@ -613,7 +633,8 @@ def main():
             ["🚫 Écartés", ecarte_txt],
         ]
     choix["sujets_ecartes"] = len(ecartes)
-    choix["thematique"] = thematique(cat.get(choix["slug"], {}))
+    choix["thematique"] = ((thematique_sujet(trouves[0][1]) if trouves else None)
+                           or thematique(cat.get(choix["slug"], {})))
     if theme_veille:
         choix["raisons"][-1][1] = choix["raisons"][-1][1].rstrip(".") +             f", ainsi que la thématique de la veille ({theme_veille})."
     print(f"\n→ {choix['mode'].upper()} : {choix['titre']}\n  {choix['pourquoi']}")
