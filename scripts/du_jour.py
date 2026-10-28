@@ -690,7 +690,7 @@ def main():
                                     f"notée {note}/5 sur Apple Podcasts par {nb} auditeurs.")],
         ]
         choix["sections"] = sections
-    choix["sujets_ecartes"] = len(ecartes)   # interne, jamais affiche
+
     choix["thematique"] = ((thematique_sujet(trouves[0][1]) if trouves else None)
                            or thematique(cat.get(choix["slug"], {})))
     print(f"\n→ {choix['mode'].upper()} : {choix['titre']}\n  {choix['pourquoi']}")

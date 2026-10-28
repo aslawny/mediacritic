@@ -7,3 +7,12 @@
 # .query_state.json, data/_*_state.json...), aujourd'hui masques par Jekyll.
 include:
   - .well-known
+
+# Outils internes : jamais publies (28/10/2026). Les scripts du bot, les
+# manifests d'episodes et le gabarit etaient servis tels quels sur
+# www.mediacritic.fr/scripts/... : regles de selection du podcast du jour,
+# listes d'exclusion, episodes en preparation. Rien sur le site n'en depend.
+exclude:
+  - scripts
+  - manifests
+  - templates
