@@ -228,6 +228,17 @@ MEDIAS_INFO = [_mots(m) for m in (
     "liberation", "l express", "le point", "ouest france", "huffpost", "reuters", "afp")]
 
 
+# Marques de paris sportifs : jamais mises en avant (28/10/2026 : le moteur
+# avait retenu « WINAMAX FOOTBALL CLUB », emission d'un bookmaker).
+MARQUES_EXCLUES = [_mots(m) for m in ("winamax", "betclic", "unibet", "parions sport",
+                                      "pmu", "fdj", "bwin", "zebet", "pokerstars")]
+
+
+def est_marque_exclue(c):
+    noms = _mots(c.get("title")) + _mots(c.get("author"))
+    return any(m in noms for m in MARQUES_EXCLUES)
+
+
 def est_info(c):
     cats = c.get("categories") or []
     if cats and cats[0] in CATEGORIES_INFO:
@@ -242,7 +253,7 @@ def vivier(cat, jour):
     limite_active = (jour - timedelta(days=60)).isoformat()
     pods, chaines = [], []
     for c in cat.values():
-        if est_info(c):
+        if est_info(c) or est_marque_exclue(c):
             continue
         # Chaines YouTube : seulement les independantes. Les autres sont des
         # clubs, marques, medias ou artistes en label (le moteur avait choisi

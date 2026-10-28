@@ -87,7 +87,9 @@ MOTS_EXCLUS = re.compile(
 
 # Ajouts mot a mot (variantes collees que la recherche de sous-chaines
 # attrapait par hasard).
-EDITEURS_EXCLUS += ["rtl2", "tsfjazz", "bfmtv", "rts", "l equipe", "quelle histoire"]
+EDITEURS_EXCLUS += ["rtl2", "tsfjazz", "bfmtv", "rts", "l equipe", "quelle histoire",
+                    # Marques (paris sportifs) : jamais « independant » ni mises en avant.
+                    "winamax", "betclic", "unibet", "parions sport", "pmu", "fdj"]
 
 # Noms faits de mots courants : exclus seulement s'ils sont le nom entier.
 NOMS_ENTIERS = {"le monde", "elle", "capital", "challenges", "brut",
