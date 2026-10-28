@@ -35,7 +35,7 @@ jobs:
   enrich:
     name: 'Enrichissement — cycle 3 jours (podcast → youtube → refresh)'
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45   # volumes doubles + YouTube quotidien (28/10/2026)
 
     steps:
 
@@ -94,7 +94,7 @@ jobs:
         run: |
           MODE="${{ steps.mode.outputs.mode }}"
           echo "=== Démarrage collect_data.py --mode $MODE ==="
-          python scripts/collect_data.py \
+          python scripts/collect_data.py --youtube-quotidien \
             --mode "$MODE" \
             --youtube-key "${YOUTUBE_API_KEY:-}" \
             --spotify-id "${SPOTIFY_CLIENT_ID:-}" \
