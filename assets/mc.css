@@ -133,6 +133,9 @@ a.mc-indep-lg:hover{background:#4fd890}
 .mcj-raisons ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:6px}
 .mcj-raisons li{font-size:var(--mc-fs-small);line-height:1.5;color:var(--mc-text-2)}
 .mcj-raisons li strong{color:var(--mc-text);font-weight:600;margin-right:4px}
+.mcj-s{margin:0 0 10px}.mcj-s:last-child{margin-bottom:0}
+.mcj-s-t{margin:0 0 2px;font-size:var(--mc-fs-small);font-weight:700;color:var(--mc-accent)}
+.mcj-s-p{margin:0;font-size:var(--mc-fs-small);line-height:1.55;color:var(--mc-text)}
 .mcj-pres{margin:0 0 14px;color:var(--mc-text-2);font-size:var(--mc-fs-small);line-height:1.6}
 .mcj-actions{display:flex;flex-wrap:wrap;gap:8px 12px;align-items:center}
 .mcj-btn{display:inline-flex;align-items:center;padding:8px 14px;border-radius:var(--mc-r-sm);border:1px solid var(--mc-line-2);color:var(--mc-text);text-decoration:none;font-size:14px;font-weight:600}

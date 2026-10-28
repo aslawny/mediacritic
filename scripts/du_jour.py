@@ -190,6 +190,37 @@ def sujets_trends():
     return out
 
 
+def titres_presse(sujet, maxi=2):
+    """Titres de presse des 3 derniers jours sur le sujet (Google Actualites),
+    avec leur source : c'est ce qui RESUME l'actu, sans rien inventer. Reseaux
+    sociaux et titres sensibles ecartes ; titres coupes a 14 mots."""
+    url = ("https://news.google.com/rss/search?q=" + urllib.parse.quote(f'"{sujet}" when:3d')
+           + "&hl=fr&gl=FR&ceid=FR:fr")
+    try:
+        x = lire_texte(url)
+    except Exception:
+        return []
+    out = []
+    for it in re.findall(r"<item>(.*?)</item>", x, re.S):
+        t = re.search(r"<title>(.*?)</title>", it, re.S)
+        if not t:
+            continue
+        titre, _, src = _texte(t.group(1)).rpartition(" - ")
+        if not titre or not src:
+            continue
+        if re.search(r"facebook|youtube|instagram|tiktok|twitter|linkedin|^x$", src.strip(), re.I):
+            continue
+        if SENSIBLES.search(norm(titre).strip()):
+            continue
+        mots = titre.split()
+        if len(mots) > 14:
+            titre = " ".join(mots[:14]).rstrip(",;:") + "…"
+        out.append((titre, src.strip()))
+        if len(out) >= maxi:
+            break
+    return out
+
+
 def est_sensible(s):
     texte = norm(s["sujet"] + " " + s.get("contexte", ""))
     if SENSIBLES.search(texte.strip()):
@@ -547,58 +578,70 @@ def main():
         print(f"   {sc:5.2f}  [{s['sujet']}]  {c['title']} — « {ep['titre'][:70]} » ({ep['date']})")
 
     choix = {"date": jour.isoformat()}
-    nb_info = sum(1 for c in cat.values() if est_info(c))
-    ecarte_txt = (f"ce matin : {len(ecartes)} sujet(s) sensible(s) (drames, faits divers, "
-                  f"guerres…), les {nb_info} émissions et chaînes d'information, et les "
-                  f"émissions déjà mises en avant ces {SANS_REPETITION} derniers jours (et les "
-                  f"sujets des 7 derniers jours).")
+    # ------------------------------------------------------------------
+    # Texte affiche : TROIS sections, rien d'autre (demande de l'utilisateur,
+    # 28/10/2026) — « L'actu qui a fait le buzz », « L'émission »,
+    # « Pourquoi l'écouter ». Les REGLES de selection (sujets ecartes,
+    # emissions d'info, alternance, repetition…) ne s'affichent JAMAIS :
+    # elles restent internes. Uniquement des faits : chiffres reels, titres de
+    # presse cites avec leur source, titre et date de l'episode.
+    # ------------------------------------------------------------------
+    n = lambda x: f"{int(x):,}".replace(",", " ")
+
+    def buzz(s):
+        if s["source"] == "wikipedia":
+            force = f"« {s['sujet']} » a été l'un des sujets les plus lus de Wikipédia hier ({n(s['poids'])} lectures)."
+        else:
+            force = f"« {s['sujet']} » s'envole dans les recherches Google en France ({n(s['poids'])}+ recherches)."
+        titres = titres_presse(s["sujet"])
+        if titres:
+            return force + " À la une : " + " ; ".join(f"« {t} » ({src})" for t, src in titres) + "."
+        d = re.split(r"(?<=[.!?])\s+", (s.get("contexte") or "").strip())
+        return force + (f" {d[0]}" if d and len(d[0]) < 220 else "")
+
+    def emission(c):
+        typ = "Chaîne YouTube" if c.get("type") == "youtube" else "Podcast"
+        auteur = (c.get("author") or "").strip()
+        tete = f"{c['title']} — {typ.lower()}" + (f" de {auteur}" if auteur and norm(auteur) != norm(c["title"]) else "")
+        pres = phrase_description(c["slug"], maxi=200)
+        return f"{tete}. {pres}" if pres else f"{tete}."
+
+    def atouts(c):
+        out = []
+        if c.get("type") == "youtube" and c.get("subscribers"):
+            out.append(f"suivie par {n(c['subscribers'])} abonnés")
+        elif c.get("rating") and c.get("ratingCount"):
+            out.append(f"notée {float(c['rating']):.1f}".replace(".", ",") + f"/5 sur Apple Podcasts ({n(c['ratingCount'])} notes)")
+        if c.get("independant"):
+            out.append("indépendante" if c.get("type") == "youtube" else "indépendant")
+        if c.get("mcNote"):
+            out.append(f"{str(c['mcNote']).replace('.', ',')}/10 dans notre critique")
+        return out
+
+    sujet_buzz = trouves[0][1] if trouves else (gardes[0] if gardes else None)
     if trouves:
         sc, s, c, ep = trouves[0]
         f = fiche(c["slug"]) or {}
-        genre = "la vidéo" if c.get("type") == "youtube" else "l'épisode"
+        genre = "sa vidéo" if c.get("type") == "youtube" else "son épisode"
         publie = "publiée" if c.get("type") == "youtube" else "publié"
-        source = ("parmi les articles les plus lus de Wikipédia en français hier"
-                  if s["source"] == "wikipedia"
-                  else "parmi les recherches en forte hausse sur Google en France")
         choix.update({
             "mode": "actu", "slug": c["slug"], "titre": c["title"], "type": c.get("type"),
             "auteur": c.get("author") or "", "image": c.get("image") or f.get("image") or "",
             "independant": bool(c.get("independant")), "mcNote": c.get("mcNote"),
             "sujet": s["sujet"], "source": s["source"],
             "episode": ep,
-            "pourquoi": (f"« {s['sujet']} » figure {source}. {c['title']} y a consacré "
+            "pourquoi": (f"« {s['sujet']} » fait l'actu : {c['title']} y a consacré "
                          f"{genre} « {ep['titre']} », {publie} le {date_fr(ep['date'])}."),
             "presentation": phrase_description(c["slug"]),
         })
-        # « Pourquoi ce choix » : comprehensible d'un coup d'oeil sur le site
-        # (demande de l'utilisateur, 26/10/2026). Uniquement des faits.
-        n = lambda x: f"{int(x):,}".replace(",", " ")
-        if s["source"] == "wikipedia":
-            force = (f"son article Wikipédia a été lu {n(s['poids'])} fois hier "
-                     f"({s['rang']}{'er' if s['rang'] == 1 else 'e'} article le plus lu, hors pages techniques)")
-        else:
-            force = f"recherche en forte hausse sur Google en France ({n(s['poids'])}+ recherches)"
-        age = (jour - date.fromisoformat(ep["date"])).days
-        quand = "aujourd'hui" if age == 0 else "hier" if age == 1 else f"il y a {age} jours"
-        audience = (f"{n(c['subscribers'])} abonnés YouTube" if c.get("type") == "youtube" and c.get("subscribers")
-                    else f"{n(c['ratingCount'])} avis sur Apple Podcasts" if c.get("ratingCount") else "")
-        atouts = [x for x in (
-            audience,
-            ("chaîne indépendante" if c.get("type") == "youtube" else "podcast indépendant")
-            if c.get("independant") else "",
-            (f"déjà critiquée par MediaCritic ({str(c['mcNote']).replace('.', ',')}/10)"
-             if c.get("mcNote") else "")) if x]
-        concurrents = len({t[2]["slug"] for t in trouves})
-        choix["raisons"] = [
-            ["🔥 Le sujet", f"« {s['sujet']} » : {force}."],
-            ["🎧 La preuve", f"{genre[0].upper() + genre[1:]} « {ep['titre']} », {publie} "
-                            f"le {date_fr(ep['date'])} ({quand})."],
-            ["✅ Pourquoi elle", ((f"la seule émission de l'annuaire à avoir traité un sujet du jour "
-                                   f"ces {FRAICHEUR_JOURS} derniers jours" if concurrents == 1 else
-                                   f"meilleure correspondance parmi {concurrents} émissions ayant traité "
-                                   f"un sujet du jour (sujet le plus consulté, épisode le plus récent, audience)")
-                                  + (f" ; {', '.join(atouts)}" if atouts else "") + ".")],
-            ["🚫 Écartés", ecarte_txt],
+        plus = atouts(c)
+        choix["sections"] = [
+            ["L'actu qui a fait le buzz", buzz(s)],
+            ["L'émission", emission(c)],
+            ["Pourquoi l'écouter", (f"Pour prolonger l'actu : {genre} « {ep['titre']} », {publie} le "
+                                    f"{date_fr(ep['date'])}, parle justement "
+                                    f"de {s['sujet']}."
+                                    + (f" {c['title'][:1].upper() + c['title'][1:]}, " + ", ".join(plus) + "." if plus else ""))],
         ]
     else:
         c = plan_b(cat, hist, jour, theme_veille)
@@ -606,37 +649,26 @@ def main():
             print("Aucun choix possible (ni actu, ni pépite) : rien n'est écrit.")
             return
         note = f"{float(c['rating']):.1f}".replace(".", ",")
-        nb = f"{int(c['ratingCount']):,}".replace(",", " ")
+        nb = n(c["ratingCount"])
         choix.update({
             "mode": "pepite", "slug": c["slug"], "titre": c["title"], "type": c.get("type"),
             "auteur": c.get("author") or "", "image": c.get("image") or "",
             "independant": True, "mcNote": c.get("mcNote"),
-            "pourquoi": ((f"Pour alterner avec la thématique d'hier ({theme_veille}) : "
-                          if exclus_theme else
-                          "Aucune émission de notre annuaire n'a traité l'actualité du jour : ")
-                         + f"place à une pépite indépendante, notée {note}/5 sur Apple Podcasts "
-                         f"({nb} notes)."),
+            "pourquoi": f"La pépite du jour : {c['title']}, podcast indépendant noté {note}/5 sur Apple Podcasts ({nb} notes).",
             "presentation": phrase_description(c["slug"]),
         })
-        derniere = (fiche(c["slug"]) or {}).get("derniere_activite")
-        choix["raisons"] = [
-            (["🔁 On alterne", (f"les {len(exclus_theme)} émission(s) qui ont traité les sujets du "
-                               f"jour relèvent toutes de la thématique d'hier ({theme_veille}) : "
-                               f"nous ne mettons jamais deux fois de suite la même thématique.")]
-             if exclus_theme else
-             ["🔎 Pas d'actu exploitable", (f"aucune des {len(entrees)} émissions suivies n'a publié "
-                                          f"d'épisode sur les sujets du jour dans les {FRAICHEUR_JOURS} "
-                                          f"derniers jours : nous ne forçons jamais le lien.")]),
-            ["💎 Pourquoi elle", (f"podcast indépendant noté {note}/5 sur Apple Podcasts ({nb} notes)"
-                                 + (f", dernier épisode le {date_fr(derniere)}" if derniere else "")
-                                 + ", jamais mis en avant ces 6 derniers mois.")],
-            ["🚫 Écartés", ecarte_txt],
+        sections = []
+        if sujet_buzz:
+            sections.append(["L'actu qui a fait le buzz", buzz(sujet_buzz)])
+        sections += [
+            ["L'émission", emission(c)],
+            ["Pourquoi l'écouter", (f"Pour souffler entre deux actus avec une pépite indépendante, "
+                                    f"notée {note}/5 sur Apple Podcasts par {nb} auditeurs.")],
         ]
-    choix["sujets_ecartes"] = len(ecartes)
+        choix["sections"] = sections
+    choix["sujets_ecartes"] = len(ecartes)   # interne, jamais affiche
     choix["thematique"] = ((thematique_sujet(trouves[0][1]) if trouves else None)
                            or thematique(cat.get(choix["slug"], {})))
-    if theme_veille:
-        choix["raisons"][-1][1] = choix["raisons"][-1][1].rstrip(".") +             f", ainsi que la thématique de la veille ({theme_veille})."
     print(f"\n→ {choix['mode'].upper()} : {choix['titre']}\n  {choix['pourquoi']}")
     if a.dry_run:
         return

@@ -77,10 +77,13 @@ def label_indep(c, prefixe=""):
             'Indépendant</a>')
 
 
-def raisons_html(c):
-    """« Pourquoi ce choix », lisible d'un coup d'oeil (26/10/2026)."""
-    items = "".join(f'<li><strong>{h(t)}</strong> {h(v)}</li>' for t, v in c["raisons"])
-    return f'<div class="mcj-raisons"><p class="mcj-raisons-t">Pourquoi ce choix</p><ul>{items}</ul></div>'
+def sections_html(c):
+    """« Pourquoi ce choix » : TROIS sections et rien d'autre (demande de
+    l'utilisateur, 28/10/2026) — l'actu qui a fait le buzz, l'émission,
+    pourquoi l'écouter. Les règles de sélection ne s'affichent jamais."""
+    blocs = "".join(f'<div class="mcj-s"><p class="mcj-s-t">{h(t)}</p><p class="mcj-s-p">{h(v)}</p></div>'
+                    for t, v in c["sections"])
+    return f'<div class="mcj-raisons"><p class="mcj-raisons-t">Pourquoi ce choix</p>{blocs}</div>'
 
 
 def carte(c, prefixe="", titre_tag="h2", lien_archive=True):
@@ -106,8 +109,7 @@ def carte(c, prefixe="", titre_tag="h2", lien_archive=True):
         f'<p class="mcj-eyebrow">{h(libelle(c))} · {h(date_fr(c["date"]))}</p>'
         f'<{titre_tag} class="mcj-titre"><a href="{prefixe}fiches/{h(c["slug"])}.html">{h(c["titre"])}</a></{titre_tag}>'
         f'<p class="mcj-labels">{label_indep(c, prefixe)}{note}</p>'
-        + (raisons_html(c) if c.get("raisons") else f'<p class="mcj-pourquoi">{h(c["pourquoi"])}</p>')
-        + (f'<p class="mcj-pres">{h(c["presentation"])}</p>' if c.get("presentation") else "")
+        + (sections_html(c) if c.get("sections") else f'<p class="mcj-pourquoi">{h(c["pourquoi"])}</p>')
         + f'<div class="mcj-actions">{"".join(boutons)}</div>'
         f'</div></article>')
 
@@ -208,15 +210,9 @@ a{{color:inherit}}
 <nav></nav>
 <main class="mcj-page">
 <h1>Le podcast du jour</h1>
-<p>Chaque matin, nous croisons ce qui fait l'actualité en France — les articles les plus lus
-de Wikipédia et les recherches en forte hausse sur Google — avec les épisodes publiés ces dix
-derniers jours par les émissions de <a href="catalogue.html">notre annuaire</a>. Une émission
-n'est retenue que si elle a <strong>réellement</strong> traité le sujet : nous citons
-l'épisode, sa date et son lien.</p>
-<p class="mcj-methode">Les drames (décès, attentats, faits divers avec victimes, guerres) sont
-écartés d'office : nous ne faisons pas d'audience sur un malheur. Les jours où aucune émission
-de l'annuaire ne colle à l'actualité, nous le disons, et nous mettons en avant une pépite
-<a href="podcasts-independants.html">indépendante</a>.</p>
+<p>Chaque jour, l'actu qui fait le buzz et l'émission de <a href="catalogue.html">notre
+annuaire</a> qui en parle : un podcast ou une chaîne YouTube francophone à écouter pour aller
+plus loin que les gros titres.</p>
 <section class="mcj-zone">{carte(dernier, titre_tag="h2", lien_archive=False)}</section>
 {archive}
 </main>
@@ -243,8 +239,7 @@ def textes_reseaux(c):
     if c.get("mode") == "actu":
         accroche = f"« {c['sujet']} » fait l'actu. {c['titre']}{indep} en parle dans « {ep.get('titre')} »."
     else:
-        accroche = re.sub(r"^.*?: place", "Place", c["pourquoi"]) \
-            + f" Aujourd'hui : {c['titre']}."
+        accroche = c["pourquoi"]
     tete = libelle(c)
     court = accroche if len(accroche) <= 190 else accroche[:187].rsplit(" ", 1)[0] + "…"
     return {
