@@ -1,6 +1,6 @@
 {
-  "maj": "2026-10-28",
-  "total": 1182,
+  "maj": "2026-10-29",
+  "total": 1185,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -704,6 +704,12 @@
       "titre": "ASKIP c'est les vacances !",
       "notes_apple": 646,
       "fiche": "fiches/askip-c-est-les-vacances.html"
+    },
+    {
+      "slug": "symptomes",
+      "titre": "Symptômes",
+      "notes_apple": 645,
+      "fiche": "fiches/symptomes.html"
     },
     {
       "slug": "baleine-sous-gravillon",
@@ -2266,6 +2272,12 @@
       "fiche": "fiches/serious-gaming-et-l-actu-jv-sur-origami.html"
     },
     {
+      "slug": "serious-gaming-l-actu-jv-sur-origami",
+      "titre": "Serious Gaming, l'actu JV sur Origami",
+      "notes_apple": 160,
+      "fiche": "fiches/serious-gaming-l-actu-jv-sur-origami.html"
+    },
+    {
       "slug": "a-l-air-libre",
       "titre": "À l’air libre",
       "notes_apple": 152,
@@ -2804,6 +2816,12 @@
       "titre": "42e Rue",
       "notes_apple": 86,
       "fiche": "fiches/42e-rue.html"
+    },
+    {
+      "slug": "pourquoi-faire-complique",
+      "titre": "Pourquoi faire compliqué ?",
+      "notes_apple": 86,
+      "fiche": "fiches/pourquoi-faire-complique.html"
     },
     {
       "slug": "faminimaliste",
