@@ -636,7 +636,7 @@ def main():
     def emission(c):
         typ = "Chaîne YouTube" if c.get("type") == "youtube" else "Podcast"
         auteur = (c.get("author") or "").strip()
-        tete = f"{c['title']} — {typ.lower()}" + (f" de {auteur}" if auteur and norm(auteur) != norm(c["title"]) else "")
+        tete = f"{c['title']} — {typ[0].lower() + typ[1:]}" + (f" de {auteur}" if auteur and norm(auteur) != norm(c["title"]) else "")
         pres = html.unescape(phrase_description(c["slug"], maxi=200))
         # Les fiches deja critiquees portent NOTRE texte de referencement
         # (« Critique et analyse du podcast… ») : on montre notre verdict.
