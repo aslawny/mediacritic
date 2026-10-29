@@ -57,7 +57,7 @@ MC_REVIEWS = (json.loads((DATA / "mc_reviews.json").read_text(encoding="utf-8"))
               if (DATA / "mc_reviews.json").exists() else {})
 UA = {"User-Agent": "MediaCriticBot/1.0 (https://www.mediacritic.fr; mediacriticinc@gmail.com)"}
 
-FRAICHEUR_JOURS = 10       # un episode plus ancien ne « parle » plus de l'actu
+FRAICHEUR_JOURS = 21       # relecture des flux ; la 1re passe se limite a 10 jours
 SANS_REPETITION = 30       # jours avant de remettre la meme emission en avant
 VIVIER_PODCASTS = 400
 VIVIER_CHAINES = 200
@@ -565,28 +565,51 @@ def main():
     # veille, ressortait le lendemain via une autre emission).
     lim_sujet = (jour - timedelta(days=7)).isoformat()
     sujets_recents = {norm(h.get("sujet") or "") for h in hist if h["date"] >= lim_sujet}
-    trouves = []
-    exclus_theme = set()   # emissions qui collaient a l'actu, mais du theme de la veille
-    for s in gardes:
-        if norm(s["sujet"]) in sujets_recents:
-            continue
-        for m, nom_seul in motifs(s):
-            if sum(1 for t in tous_titres if m in t) > seuil_banal:
-                print(f"     ~ « {s['sujet']} » trop banal ({m.strip()}), ignoré")
+    # ------------------------------------------------------------------
+    # LIEN DIRECT OBLIGATOIRE (exigence de l'utilisateur, 29/10/2026) : plus
+    # de « pepite » sans rapport avec l'actu. Passes successives, la premiere
+    # qui trouve gagne :
+    #   1. episode de <= 10 jours, thematique differente de la veille ;
+    #   2. episode de <= 10 jours, meme thematique (le lien direct passe
+    #      avant l'alternance) ;
+    #   3. episode de <= 21 jours.
+    # Rien trouve : PAS de nouveau choix ce jour-la (mieux vaut rien qu'un
+    # choix sans lien).
+    # ------------------------------------------------------------------
+    def chercher(avec_theme, jours):
+        lim = (jour - timedelta(days=jours)).isoformat()
+        res = []
+        for s in gardes:
+            if norm(s["sujet"]) in sujets_recents:
                 continue
-            for c, eps in frais:
-                if c["slug"] in bloques:
+            for m, nom_seul in motifs(s):
+                if sum(1 for t in tous_titres if m in t) > seuil_banal:
                     continue
-                if theme_veille and theme_veille in (thematique(c), thematique_sujet(s)):
-                    if any(m in norm(ep["titre"]) for ep in eps):
-                        exclus_theme.add(c["slug"])
-                    continue
-                for ep in eps:
-                    if m in norm(ep["titre"]) and (not nom_seul or confirme(s, m, ep["titre"])):
-                        trouves.append((score(s, c, ep, jour, rang_max[s["source"]]), s, c, ep))
-    trouves.sort(key=lambda t: -t[0])
+                for c, eps in frais:
+                    if c["slug"] in bloques:
+                        continue
+                    if avec_theme and theme_veille and theme_veille in (thematique(c), thematique_sujet(s)):
+                        continue
+                    for ep in eps:
+                        if ep["date"] < lim:
+                            continue
+                        if m in norm(ep["titre"]) and (not nom_seul or confirme(s, m, ep["titre"])):
+                            res.append((score(s, c, ep, jour, rang_max[s["source"]]), s, c, ep))
+        res.sort(key=lambda t: -t[0])
+        return res
+
+    trouves = []
+    for etape, (avec_theme, jours) in enumerate(((True, 10), (False, 10), (False, FRAICHEUR_JOURS)), 1):
+        trouves = chercher(avec_theme, jours)
+        if trouves:
+            print(f"   passe {etape} : {len(trouves)} correspondance(s)")
+            break
     for sc, s, c, ep in trouves[:8]:
         print(f"   {sc:5.2f}  [{s['sujet']}]  {c['title']} — « {ep['titre'][:70]} » ({ep['date']})")
+    if not trouves:
+        print("Aucune émission de l'annuaire n'a traité un sujet du jour : pas de nouveau choix "
+              "aujourd'hui (le bloc de la veille reste en ligne).")
+        return
 
     choix = {"date": jour.isoformat()}
     # ------------------------------------------------------------------
