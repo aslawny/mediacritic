@@ -1,29 +1,32 @@
 name: Podcast du jour
 
 # Chaque matin : choisit l'emission de l'annuaire qui parle de l'actualite du
-# moment (preuve par un episode reel), met a jour le bloc de l'accueil,
+# moment (lien direct par un episode reel), met a jour le bloc de l'accueil,
 # l'archive podcast-du-jour.html, la fiche de l'emission et le kit reseaux
-# (kit-du-jour.html, visuels assets/du-jour/). Phase 1 : la publication sur
-# les reseaux est faite a la main depuis le kit. Voir scripts/du_jour.py.
+# (kit-du-jour.html, visuels assets/du-jour/). Voir scripts/du_jour.py.
 
 on:
   schedule:
-    # Trois creneaux (28/10/2026) : GitHub lance les taches programmees avec
-    # du retard aux heures chargees (13h51 et 13h02 au lieu de 7h10). Le
-    # premier qui demarre choisit et publie ; les suivants voient « deja
-    # choisi » et ne changent rien. Objectif : en ligne avant 10h a Paris.
-    # Heures UTC : 5h40, 6h40, 7h40 a Paris l'hiver (une heure de plus l'ete).
-    - cron: '40 4 * * *'
-    - cron: '40 5 * * *'
-    - cron: '40 6 * * *'
+    # Appels TRES frequents (29/10/2026). GitHub retarde ou saute les taches
+    # programmees des depots gratuits : le 28 et le 29/10, aucun des trois
+    # creneaux du matin n'a ete lance. Un seul passage suffit, les autres
+    # s'arretent des la premiere etape (« deja choisi »). Depot public :
+    # minutes d'Actions gratuites et illimitees.
+    # Toutes les 15 min de 3 h a 8 h 45 UTC (4 h - 9 h 45 a Paris l'hiver),
+    # puis toutes les heures jusqu'a 21 h UTC en filet de securite.
+    - cron: '*/15 3-8 * * *'
+    - cron: '7 9-21 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
-# Une seule ecriture a la fois sur gh-pages (partage avec enrich.yml).
+# Verrou PROPRE a cette tache : partage avec enrich.yml, un passage toutes
+# les 15 min pouvait annuler un enrichissement en attente (GitHub annule le
+# run en attente d'un groupe quand un nouveau arrive). Un croisement avec
+# l'enrichissement est gere par la reprise du push (rebase).
 concurrency:
-  group: gh-pages-write
+  group: du-jour
   cancel-in-progress: false
 
 env:
@@ -41,31 +44,49 @@ jobs:
           path: site
           fetch-depth: 1
 
+      # Arret immediat si le choix du jour est deja en ligne.
+      - name: Deja publie aujourd'hui ?
+        id: deja
+        working-directory: site
+        run: |
+          if python3 -c "import json,datetime,sys; h=json.load(open('data/du_jour.json',encoding='utf-8'))['historique']; sys.exit(0 if h and h[0]['date']==datetime.datetime.now(datetime.timezone.utc).date().isoformat() else 1)"; then
+            echo "deja=true" >> "$GITHUB_OUTPUT"
+            echo "Podcast du jour deja publie aujourd'hui : rien a faire."
+          else
+            echo "deja=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Setup Python 3.11
+        if: steps.deja.outputs.deja != 'true'
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
       - name: Install dependencies
+        if: steps.deja.outputs.deja != 'true'
         run: |
           pip install --quiet requests pillow certifi
           sudo apt-get install -y -qq fonts-dejavu-core >/dev/null 2>&1 || true
 
       - name: Choix du podcast du jour
+        if: steps.deja.outputs.deja != 'true'
         working-directory: site
         run: python scripts/du_jour.py
 
       # La fiche de l'emission choisie porte la mention « Podcast du jour » :
       # du_jour.py l'a marquee, generate_fiches.py ne regenere qu'elle.
       - name: Fiche de l'emission
+        if: steps.deja.outputs.deja != 'true'
         working-directory: site
         run: python scripts/generate_fiches.py
 
       - name: Accueil, archive, kit, visuels
+        if: steps.deja.outputs.deja != 'true'
         working-directory: site
         run: python scripts/generate_du_jour.py
 
       - name: Validate site
+        if: steps.deja.outputs.deja != 'true'
         working-directory: site
         run: python scripts/ci_validate.py
 
@@ -73,6 +94,7 @@ jobs:
       # Secrets crees par l'utilisateur ; absents => etape sautee. Un refus
       # de X ne bloque pas la mise a jour du site (continue-on-error).
       - name: Publication sur X
+        if: steps.deja.outputs.deja != 'true'
         working-directory: site
         continue-on-error: true
         env:
@@ -83,6 +105,7 @@ jobs:
         run: python scripts/poster_x.py
 
       - name: Commit and push
+        if: steps.deja.outputs.deja != 'true'
         working-directory: site
         run: |
           git config user.name  "MediaCritic Bot"
