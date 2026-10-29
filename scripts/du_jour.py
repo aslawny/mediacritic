@@ -535,7 +535,15 @@ def main():
         return
 
     print("1. Sujets du jour")
-    sujets = sujets_wikipedia(jour) + sujets_trends()
+    wiki = sujets_wikipedia(jour)
+    # Le bot passe toutes les 15 min des 3 h UTC (29/10/2026). Tant que les
+    # lectures Wikipedia de la veille ne sont pas publiees, on attend le
+    # passage suivant plutot que de choisir avec la moitie des sources ;
+    # apres 9 h UTC, on se contente de Google Trends.
+    if not wiki and not a.dry_run and not a.date and datetime.now(timezone.utc).hour < 9:
+        print("Lectures Wikipédia de la veille pas encore publiées : nouvel essai au prochain passage.")
+        return
+    sujets = wiki + sujets_trends()
     gardes, ecartes = [], []
     for s in sujets:
         (ecartes if est_sensible(s) else gardes).append(s)
