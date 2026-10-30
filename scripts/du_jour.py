@@ -369,10 +369,13 @@ def episodes_frais(entree, jour):
 def motifs(s):
     """Formes acceptees du sujet dans un titre d'episode : (motif, mot_seul)."""
     mots = norm(s["sujet"]).split()
-    m = [(norm(s["sujet"]), len(mots) == 1)]
-    # Une personne est souvent citee par son seul nom (« Messi »).
+    # Verification : None (nom complet), « confirme » (sujet d'un seul mot,
+    # ambigu : « Zazie »), « majuscule » (nom de famille d'une personne :
+    # « Messi », « Lagarde » — ecrit avec sa majuscule, cela suffit ; exiger
+    # en plus un mot du contexte bloquait presque tout, 30/10/2026).
+    m = [(norm(s["sujet"]), "confirme" if len(mots) == 1 and s.get("source") != "equipe" else None)]
     if s.get("personne") and len(mots) >= 2 and len(mots[-1]) >= 5 and mots[-1] not in VAGUES:
-        m.append((" " + mots[-1] + " ", True))
+        m.append((" " + mots[-1] + " ", "majuscule"))
     return m
 
 
@@ -402,6 +405,12 @@ def score(s, c, ep, jour, rang_max):
     aud = c.get("ratingCount") or (c.get("subscribers") or 0) / 1000
     audience = min(math.log10(1 + aud) / 4, 1)                  # 0..1
     bonus = (0.3 if c.get("independant") else 0) + (0.2 if c.get("hasMediacritic") else 0)
+    # Episode CONSACRE au sujet (le titre commence par lui : « Halloween : une
+    # histoire a faire peur ») plutot qu'une simple mention (« Battle d'aura
+    # d'Halloween sur Fortnite ») : c'est le lien direct le plus fort.
+    titre = re.sub(r"^[\W\d_]+", "", norm(ep["titre"])).strip()
+    if titre.startswith(norm(s["sujet"]).strip()):
+        bonus += 0.8
     return round(2 * force + fraicheur + audience + bonus, 4)
 
 
@@ -525,6 +534,9 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--date")
+    # Sujet impose par l'equipe (30/10/2026 : « Halloween »). Le lien direct
+    # reste obligatoire : un episode recent doit nommer le sujet.
+    ap.add_argument("--sujet")
     a = ap.parse_args()
     jour = date.fromisoformat(a.date) if a.date else datetime.now(timezone.utc).date()
 
@@ -535,15 +547,16 @@ def main():
         return
 
     print("1. Sujets du jour")
-    wiki = sujets_wikipedia(jour)
+    wiki = [] if a.sujet else sujets_wikipedia(jour)
     # Le bot passe toutes les 15 min des 3 h UTC (29/10/2026). Tant que les
     # lectures Wikipedia de la veille ne sont pas publiees, on attend le
     # passage suivant plutot que de choisir avec la moitie des sources ;
     # apres 9 h UTC, on se contente de Google Trends.
-    if not wiki and not a.dry_run and not a.date and datetime.now(timezone.utc).hour < 9:
+    if not wiki and not a.sujet and not a.dry_run and not a.date and datetime.now(timezone.utc).hour < 9:
         print("Lectures Wikipédia de la veille pas encore publiées : nouvel essai au prochain passage.")
         return
-    sujets = wiki + sujets_trends()
+    sujets = ([{"sujet": a.sujet, "source": "equipe", "rang": 1, "poids": 0,
+                "contexte": "", "personne": False}] if a.sujet else wiki + sujets_trends())
     gardes, ecartes = [], []
     for s in sujets:
         (ecartes if est_sensible(s) else gardes).append(s)
@@ -563,7 +576,7 @@ def main():
     theme_veille = thematique_veille(hist, jour, cat)
     if theme_veille:
         print(f"   thématique de la veille écartée : {theme_veille}")
-    rang_max = {"wikipedia": 40, "trends": 30}
+    rang_max = {"wikipedia": 40, "trends": 30, "equipe": 1}
     tous_titres = [norm(ep["titre"]) for _, eps in frais for ep in eps]
     # Un « sujet » present dans plus de 1 % des titres du jour est une
     # expression banale (« le monde » remontait de Google Trends), pas une
@@ -591,7 +604,7 @@ def main():
             if norm(s["sujet"]) in sujets_recents:
                 continue
             for m, nom_seul in motifs(s):
-                if sum(1 for t in tous_titres if m in t) > seuil_banal:
+                if s["source"] != "equipe" and sum(1 for t in tous_titres if m in t) > seuil_banal:
                     continue
                 for c, eps in frais:
                     if c["slug"] in bloques:
@@ -601,7 +614,10 @@ def main():
                     for ep in eps:
                         if ep["date"] < lim:
                             continue
-                        if m in norm(ep["titre"]) and (not nom_seul or confirme(s, m, ep["titre"])):
+                        if m in norm(ep["titre"]) and (
+                                nom_seul is None
+                                or (nom_seul == "majuscule" and nom_propre(m, ep["titre"]))
+                                or (nom_seul == "confirme" and confirme(s, m, ep["titre"]))):
                             res.append((score(s, c, ep, jour, rang_max[s["source"]]), s, c, ep))
         res.sort(key=lambda t: -t[0])
         return res
@@ -631,7 +647,9 @@ def main():
     n = lambda x: f"{int(x):,}".replace(",", " ")
 
     def buzz(s):
-        if s["source"] == "wikipedia":
+        if s["source"] == "equipe":
+            force = f"« {s['sujet']} » fait l'actu."
+        elif s["source"] == "wikipedia":
             force = f"« {s['sujet']} » a été l'un des sujets les plus lus de Wikipédia hier ({n(s['poids'])} lectures)."
         else:
             force = f"« {s['sujet']} » s'envole dans les recherches Google en France ({n(s['poids'])}+ recherches)."
