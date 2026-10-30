@@ -28,25 +28,29 @@
   "addedAt": "2026-05-25",
   "updatedAt": "2026-10-28",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-29",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-30",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Catsou25",
+        "titre": "Indispensable par Jean-François",
+        "texte": "Pour tous les malades alités. Et pour tous ceux qui se trouvent en un endroit sans télévision mais avec leur téléphone. C’est formidable et indispensable."
+      },
+      {
+        "note": 1,
+        "auteur": "ultrawerk",
+        "titre": "Ça n’a rien à faire sur le service public ça",
+        "texte": "Je suis croyant, mais franchement, la messe, ça n’a rien à faire sur le service public. À la rigueur, on pourrait en tirer un bénéfice culturel si c’était des célébrations célébrée dans différents pas toi ou dans des églises de région différentes.🫣"
+      },
+      {
+        "note": 2,
+        "auteur": "Charlie13111970",
+        "titre": "Remerciements",
+        "texte": "Merci à France Culture pour ces temps spirituels et culturels du dimanche matin."
+      }
     ]
   }
 }

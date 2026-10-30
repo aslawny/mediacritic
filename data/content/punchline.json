@@ -51,25 +51,29 @@
   "derniere_activite": "2026-08-25",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-29",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-30",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Boulahya",
+        "titre": "Une tranche info rythmée et proche des auditeurs",
+        "texte": "Quelle excellente émission que notre Grand Journal du Soir de Matthieu Belliard! De 17h à 20h, toute la semaine, il fait le tour de l’actualité en direct en compagnie d’Ombline.…"
+      },
+      {
+        "note": 1,
+        "auteur": "pêche",
+        "titre": "Punchline",
+        "texte": "Laurence Ferrari et sur E1 et sur CNews en même temps c’est un peu bi repetita… seulement sur CNews largement suffisant"
+      },
+      {
+        "note": 5,
+        "auteur": "Paul839",
+        "titre": "Matthieu Belliard",
+        "texte": "J’adore ce grand journal. Je l’écoute tous les soirs. Matthieu Belliard est le meilleur pour incarner cette tranche."
+      }
     ]
   }
 }

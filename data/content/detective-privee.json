@@ -53,25 +53,29 @@
   "derniere_activite": "2026-04-12",
   "frequence_jours": 5,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-29",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-30",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tomtomrider",
+        "titre": "Belle plume, belle surprise",
+        "texte": "Voilà un podcast pour le moins original. Si le sujet vous intéresse, sachez que ce podcast est très bien écris et réalisé. Pour le contenu, il semble vraiment complet et tiens ses promesses d’expliquer le métier sans langue de bois."
+      },
+      {
+        "note": 5,
+        "auteur": "Quatroll",
+        "titre": "passionant",
+        "texte": "Les premiers épisodes sont sobres et réalistes. Et d’office touche les sujets parfois sensibles auxquels nombres d’entre nous espèrent des réponses. Ou des atténuations de fantasmes. Hâte de découvrir le reste"
+      },
+      {
+        "note": 5,
+        "auteur": "9212Nbb",
+        "titre": "Hate d écouter la suite",
+        "texte": "Super intro et premier épisode. Ça donne vraiment envie d en savoir plus car ce métier reste assez inconnu! Merci à Margaux 👍🏾"
+      }
     ]
   }
 }

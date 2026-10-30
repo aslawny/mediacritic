@@ -1,6 +1,6 @@
 {
-  "maj": "2026-10-29",
-  "total": 1185,
+  "maj": "2026-10-30",
+  "total": 1186,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -4376,6 +4376,12 @@
       "titre": "The Good Mum",
       "notes_apple": 55,
       "fiche": "fiches/the-good-mum.html"
+    },
+    {
+      "slug": "ecoute-le-yoga",
+      "titre": "Ecoute le Yoga",
+      "notes_apple": 55,
+      "fiche": "fiches/ecoute-le-yoga.html"
     },
     {
       "slug": "asiattitudes-identites-et-cultures-des-diasporas-asiatiques",

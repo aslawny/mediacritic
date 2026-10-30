@@ -51,25 +51,29 @@
   "derniere_activite": "2026-06-16",
   "frequence_jours": 19,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-30",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-30",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Yansky01",
+        "titre": "Ils sont géniaux, et c’est vous les meilleurs surtout :)",
+        "texte": "Je recommande avec un grand plaisir et j’en parle déjà autour de moi. Super podcast. Deux animateurs super intéressant et qui donne le sourire. A écouter en étant triste, heureux, pensif, par tout les temps.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Ecoutepodcast",
+        "titre": "À fuir.",
+        "texte": "Un des présentateurs fait l'apologie de mein kampf ouvertement. Je n'écouterai pas un podcast de plus de ce type de personne qui cherche à manipuler son auditoire. Ce podcast doit être signalé."
+      },
+      {
+        "note": 5,
+        "auteur": "Nolah90",
+        "titre": "Excellent podcast !",
+        "texte": "Vraiment un super podcast! J’adore les short or Show, que j’attends avec impatience ! Mention spéciale à l’émission consacrée à Xavier Dupont de Ligonnès! Quel travail !! C’est passionnant, je l’ai déjà écouté deux fois, captivant et extrêmement bien documenté ! Merci …"
+      }
     ]
   }
 }

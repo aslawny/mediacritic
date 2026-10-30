@@ -52,25 +52,29 @@
   "derniere_activite": "2021-04-16",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-30",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-30",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Loll mdr XD",
+        "titre": "J’adore",
+        "texte": "J’ai découvert ce podcast lors de ce confinement parce que je m’ennuyais et je suis très contente car cela m’a bcp divertie ! Je le recommande à tous mes amis.…"
+      },
+      {
+        "note": 1,
+        "auteur": "RileyPBCG",
+        "titre": "Navrant",
+        "texte": "Des blagues pas drôles toutes les 10 secondes, ils se moquent de leurs propres sujets et font du Wikipedia... au secours"
+      },
+      {
+        "note": 5,
+        "auteur": "Peter Van Lyris",
+        "titre": "A écouter en famille !",
+        "texte": "Vivifiant, extrêmement documenté, d’une pertinence rare et un humour familial et bienveillant bien dosé. Bravo à ces jeunes qui tentent d’extraire tout un pan méconnu de la culture underground avec passion et candeur. Tremble, Durendal. Chapeau."
+      }
     ]
   }
 }

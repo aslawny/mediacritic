@@ -35,25 +35,29 @@
   ],
   "derniere_activite": "2026-02-20",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-29",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-10-30",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Anhso.",
+        "titre": "# 55 témoignages émouvants",
+        "texte": "Merci d’avoir abordé ce sujet également sous l’angle du deuil, comment notre corps garde la trace des câlins de ceux qui ne sont plus avec nous et comment leur souvenir se réveille au contact des autres."
+      },
+      {
+        "note": 1,
+        "auteur": "lolololiliebfigl'g",
+        "titre": "Insupportable",
+        "texte": "Un podcast de fragiles obnubilés par leur nombril… affligeant !"
+      },
+      {
+        "note": 5,
+        "auteur": "Léa Gensburger",
+        "titre": "Super",
+        "texte": "Podcast vraiment super bravo ! Divertissant et intéressant, je le conseille (Par contre sur le plan technique, il y a de petites coupures fréquentes à l’écoute qui hachent les propos )"
+      }
     ]
   }
 }
