@@ -241,6 +241,15 @@ def tags(c, reseau):
     (meme identite), faute de compte Threads declare."""
     r = c.get("reseaux") or {}
     comptes = r.get(reseau) or (r.get("instagram") if reseau == "threads" else None) or []
+    if reseau == "linkedin":
+        # LinkedIn mentionne par le NOM : « in/julien-moch-5b920281 » ->
+        # « @Julien Moch » (taper @ puis choisir la personne proposee).
+        noms = []
+        for x in comptes:
+            n = x["compte"].split("/", 1)[-1]
+            n = re.sub(r"-[0-9a-f]{6,}$", "", n).replace("-", " ").strip()
+            noms.append("@" + n.title())
+        return " ".join(noms)
     return " ".join("@" + x["compte"] for x in comptes)
 
 
@@ -262,8 +271,9 @@ def textes_reseaux(c):
         "Threads": f"{tete} : {c['titre']}\n\n{accroche}{t('threads')}\n\n{lien('threads')}",
         "TikTok": (f"{tete} : {c['titre']}\n\n{court}{t('tiktok')}\n\n🔗 mediacritic.fr\n"
                    f"#podcast #podcastdujour #mediacritic"),
-        "Facebook": f"{tete} : {c['titre']}\n\n{accroche}\n\n{c.get('presentation') or ''}\n\n👉 {lien('facebook')}",
-        "LinkedIn": (f"{tete} : {c['titre']}\n\n{accroche}\n\n{c.get('presentation') or ''}\n\n"
+        "Facebook": (f"{tete} : {c['titre']}\n\n{accroche}\n\n{c.get('presentation') or ''}{t('facebook')}"
+                     f"\n\n👉 {lien('facebook')}"),
+        "LinkedIn": (f"{tete} : {c['titre']}\n\n{accroche}\n\n{c.get('presentation') or ''}{t('linkedin')}\n\n"
                      f"Chaque jour, MediaCritic vous propose l'émission qui parle de l'actu du moment.\n\n"
                      f"👉 {lien('linkedin')}\n\n#podcast #podcastfrançais #actualité"),
         "Instagram": (f"{tete} : {c['titre']}\n\n{accroche}\n\n{c.get('presentation') or ''}{t('instagram')}\n\n"
@@ -287,7 +297,8 @@ def bloc_a_taguer(c):
         + "</li>" for res, comptes in r.items())
     return (f'<section class="kit-b kit-tags"><h2>🏷️ À taguer</h2><ul>{lignes}</ul>'
             '<p class="kit-src">Comptes relevés dans les sources officielles de l\'émission ; ils sont '
-            'déjà insérés dans les textes ci-dessous (Facebook et LinkedIn : à mentionner à la main).</p>'
+            'déjà insérés dans les textes ci-dessous. Sur Facebook et LinkedIn, retaper le @ pour que '
+            'le réseau propose le compte et transforme la mention en lien.</p>'
             '</section>')
 
 
