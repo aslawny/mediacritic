@@ -50,6 +50,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 from enrich_episodes import _lire, _texte  # noqa: E402
 from independance import _mots, est_independant  # noqa: E402
 import evenements  # noqa: E402  calendrier d'evenements (interne)
+from reseaux_emission import reseaux as reseaux_emission  # noqa: E402
 
 ROOT = Path(__file__).parent.parent
 DATA = ROOT / "data"
@@ -777,6 +778,8 @@ def main():
         ]
         choix["sections"] = sections
 
+    # Comptes officiels de l'emission, pour la taguer depuis le kit (31/10/2026).
+    choix["reseaux"] = reseaux_emission(choix["slug"], choix.get("type"))
     choix["thematique"] = ((thematique_sujet(trouves[0][1]) if trouves else None)
                            or thematique(cat.get(choix["slug"], {})))
     print(f"\n→ {choix['mode'].upper()} : {choix['titre']}\n  {choix['pourquoi']}")

@@ -87,6 +87,8 @@ def compte_existe(handle):
 def comptes_officiels(entree):
     slug = entree["slug"]
     cands = list(COMPTES_EMISSIONS.get(slug, []))
+    # Comptes officiels releves au moment du choix (reseaux_emission.py).
+    cands += [x["compte"] for x in (entree.get("reseaux") or {}).get("x", [])]
     fiche = DATA / "content" / f"{slug}.json"
     d = json.loads(fiche.read_text(encoding="utf-8")) if fiche.exists() else {}
     cands += LIEN_X.findall(d.get("description") or "")

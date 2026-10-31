@@ -231,6 +231,19 @@ plus loin que les gros titres.</p>
 # --------------------------------------------------------------------------
 # Kit reseaux (phase 1 : publication a la main)
 # --------------------------------------------------------------------------
+NOMS_RESEAUX = {"instagram": "Instagram", "x": "X", "tiktok": "TikTok", "facebook": "Facebook",
+                "linkedin": "LinkedIn", "youtube": "YouTube", "threads": "Threads",
+                "bluesky": "Bluesky", "twitch": "Twitch"}
+
+
+def tags(c, reseau):
+    """« @compte » a coller dans le post. Threads reprend les noms Instagram
+    (meme identite), faute de compte Threads declare."""
+    r = c.get("reseaux") or {}
+    comptes = r.get(reseau) or (r.get("instagram") if reseau == "threads" else None) or []
+    return " ".join("@" + x["compte"] for x in comptes)
+
+
 def textes_reseaux(c):
     def lien(src):
         return (f"{BASE}/{PAGE}?utm_source={src}&utm_medium=social&utm_campaign=du-jour")
@@ -242,18 +255,40 @@ def textes_reseaux(c):
         accroche = c["pourquoi"]
     tete = libelle(c)
     court = accroche if len(accroche) <= 190 else accroche[:187].rsplit(" ", 1)[0] + "…"
+    t = lambda r: (f"\n\n{tags(c, r)}" if tags(c, r) else "")
     return {
-        "X": f"{tete} : {c['titre']}\n\n{court}\n\n👉 {lien('x')}\n#podcast",
-        "Bluesky": f"{tete} : {c['titre']}\n\n{court}\n\n{lien('bluesky')}",
-        "Threads": f"{tete} : {c['titre']}\n\n{accroche}\n\n{lien('threads')}",
+        "X": f"{tete} : {c['titre']}\n\n{court}{t('x')}\n\n👉 {lien('x')}\n#podcast",
+        "Bluesky": f"{tete} : {c['titre']}\n\n{court}{t('bluesky')}\n\n{lien('bluesky')}",
+        "Threads": f"{tete} : {c['titre']}\n\n{accroche}{t('threads')}\n\n{lien('threads')}",
+        "TikTok": (f"{tete} : {c['titre']}\n\n{court}{t('tiktok')}\n\n🔗 mediacritic.fr\n"
+                   f"#podcast #podcastdujour #mediacritic"),
         "Facebook": f"{tete} : {c['titre']}\n\n{accroche}\n\n{c.get('presentation') or ''}\n\n👉 {lien('facebook')}",
         "LinkedIn": (f"{tete} : {c['titre']}\n\n{accroche}\n\n{c.get('presentation') or ''}\n\n"
                      f"Chaque jour, MediaCritic vous propose l'émission qui parle de l'actu du moment.\n\n"
                      f"👉 {lien('linkedin')}\n\n#podcast #podcastfrançais #actualité"),
-        "Instagram": (f"{tete} : {c['titre']}\n\n{accroche}\n\n{c.get('presentation') or ''}\n\n"
+        "Instagram": (f"{tete} : {c['titre']}\n\n{accroche}\n\n{c.get('presentation') or ''}{t('instagram')}\n\n"
                       f"🔗 Lien en bio — mediacritic.fr\n\n#podcast #podcastfrancais #podcastdujour "
                       f"#ecouterdespodcasts #mediacritic"),
     }
+
+
+def bloc_a_taguer(c):
+    """Comptes officiels de l'emission, reseau par reseau, avec leur source."""
+    r = c.get("reseaux") or {}
+    if not r:
+        return ('<section class="kit-b kit-tags"><h2>🏷️ À taguer</h2><p>Aucun compte trouvé dans les '
+                'sources officielles de l\'émission (page YouTube, flux, site, description). '
+                'Rien n\'est deviné : à chercher à la main si besoin.</p></section>')
+    lignes = "".join(
+        f'<li><strong>{h(NOMS_RESEAUX.get(res, res))}</strong> '
+        + ", ".join(f'<a href="{h(x["url"])}" target="_blank" rel="noopener">'
+                    f'{h(x["compte"].split("/", 1)[-1]) if res == "linkedin" else "@" + h(x["compte"])}</a> '
+                    f'<span class="kit-src">({h(x["source"])})</span>' for x in comptes)
+        + "</li>" for res, comptes in r.items())
+    return (f'<section class="kit-b kit-tags"><h2>🏷️ À taguer</h2><ul>{lignes}</ul>'
+            '<p class="kit-src">Comptes relevés dans les sources officielles de l\'émission ; ils sont '
+            'déjà insérés dans les textes ci-dessous (Facebook et LinkedIn : à mentionner à la main).</p>'
+            '</section>')
 
 
 def page_kit(c):
@@ -289,6 +324,9 @@ body{{margin:0;background:var(--mc-bg);color:var(--mc-text)}}
 .kit figure{{margin:16px 0}}
 .kit figure img{{max-width:100%;border-radius:12px;display:block}}
 .kit figcaption a{{color:var(--mc-text)}}
+.kit-tags ul{{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:6px}}
+.kit-tags a{{color:var(--mc-accent)}}
+.kit-src{{color:var(--mc-text-3);font-size:13px}}
 </style>
 </head>
 <body>
@@ -299,6 +337,7 @@ body{{margin:0;background:var(--mc-bg);color:var(--mc-text)}}
 Chaque lien porte un marqueur de suivi par réseau, visible dans Google Analytics
 (campagne « du-jour »).</p>
 {carte(c, titre_tag="h2", lien_archive=False)}
+{bloc_a_taguer(c)}
 {visuels}
 {blocs}
 </main>
