@@ -286,6 +286,24 @@ jobs:
           else
             MSG="auto: enrichissement ${{ steps.mode.outputs.mode }} — $(date -u +%Y-%m-%d)"
             git commit -m "$MSG"
-            git push origin gh-pages
-            echo "✅ Commit effectué : $MSG"
+            # Reprise si le site a change pendant les ~15 min de la tache
+            # (31/10/2026 : envoi refuse, enrichissement du jour perdu). En
+            # cas de conflit, la version de l'enrichissement l'emporte, puis
+            # le bloc du podcast du jour est reconstruit depuis sa source
+            # (data/du_jour.json, que l'enrichissement ne modifie pas).
+            for i in 1 2 3 4; do
+              if git push origin gh-pages; then
+                echo "✅ Commit effectué : $MSG"
+                exit 0
+              fi
+              git fetch --depth=50 origin gh-pages
+              git rebase -X theirs origin/gh-pages || { git rebase --abort; exit 1; }
+              if [ -f scripts/generate_du_jour.py ]; then
+                python scripts/generate_du_jour.py
+                git add -A
+                git diff --cached --quiet || git commit -m "auto: bloc du podcast du jour reconstruit après reprise"
+              fi
+              sleep 5
+            done
+            exit 1
           fi
