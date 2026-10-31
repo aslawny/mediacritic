@@ -40,30 +40,33 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           REPO: ${{ github.repository }}
         run: |
-          # Creneaux en heure UTC : 4h30, 5h30, 6h30, 7h30, 9h00
-          # (5h30 a 10h a Paris l'hiver, une heure de plus l'ete). Les
-          # passages suivants s'arretent seuls si le choix du jour est fait.
+          # Creneaux en heure UTC (une heure de plus a Paris l'hiver, deux l'ete) :
+          #   3h00 -> enrichissement du catalogue (enrich.yml, ~15 min) ;
+          #   4h30, 5h30, 6h30, 7h30, 9h00 -> podcast du jour (les passages
+          #   suivants s'arretent seuls si le choix du jour est fait).
           python3 - > attente.txt <<'PY'
           import datetime as dt
           now = dt.datetime.now(dt.timezone.utc)
-          creneaux = [(4, 30), (5, 30), (6, 30), (7, 30), (9, 0)]
+          creneaux = [(3, 0, "enrich.yml"), (4, 30, "du-jour.yml"), (5, 30, "du-jour.yml"),
+                      (6, 30, "du-jour.yml"), (7, 30, "du-jour.yml"), (9, 0, "du-jour.yml")]
           cibles = []
           for d in (0, 1):
               j = (now + dt.timedelta(days=d)).date()
-              for h, m in creneaux:
+              for h, m, wf in creneaux:
                   t = dt.datetime(j.year, j.month, j.day, h, m, tzinfo=dt.timezone.utc)
                   if t > now + dt.timedelta(seconds=30):
-                      cibles.append(t)
-          attente = int((min(cibles) - now).total_seconds())
+                      cibles.append((t, wf))
+          cible, wf = min(cibles)
+          attente = int((cible - now).total_seconds())
           MAXI = 5 * 3600 + 30 * 60          # sous la limite de 6 h d'un job
-          print(min(attente, MAXI), 1 if attente <= MAXI else 0, min(cibles).isoformat())
+          print(min(attente, MAXI), 1 if attente <= MAXI else 0, cible.isoformat(), wf)
           PY
-          read ATTENTE TIRE CIBLE < attente.txt
-          echo "Prochain creneau : $CIBLE (attente ${ATTENTE} s, lancement a l'issue : $TIRE)"
+          read ATTENTE TIRE CIBLE WF < attente.txt
+          echo "Prochain creneau : $CIBLE -> $WF (attente ${ATTENTE} s, lancement a l'issue : $TIRE)"
           sleep "$ATTENTE"
           if [ "$TIRE" = "1" ]; then
-            gh workflow run du-jour.yml --repo "$REPO" --ref main
-            echo "Podcast du jour lance."
+            gh workflow run "$WF" --repo "$REPO" --ref main
+            echo "$WF lance."
           fi
           gh workflow run reveil.yml --repo "$REPO" --ref main
           echo "Reveil relance pour l'etape suivante."

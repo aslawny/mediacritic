@@ -2,8 +2,12 @@ name: Enrichissement catalogue
 
 # ─── Déclencheurs ──────────────────────────────────────────────────────────────
 on:
+  # Lance a 3 h UTC precises (4 h a Paris l'hiver) par reveil.yml depuis le
+  # 31/10/2026 : le planificateur de GitHub le demarrait vers 9-10 h UTC.
+  # Le cron restant n'est qu'un FILET : il ne fait rien si l'enrichissement
+  # du jour a deja eu lieu (job « garde », fichier .enrich_date).
   schedule:
-    - cron: '0 3 * * *'   # tous les jours à 3h UTC
+    - cron: '17 13 * * *'
   workflow_dispatch:
     inputs:
       mode:
@@ -32,7 +36,36 @@ env:
 
 # ─── Job principal ─────────────────────────────────────────────────────────────
 jobs:
+  # Filet de securite : sur declenchement programme, ne rien faire si
+  # l'enrichissement du jour a deja ete fait (lancement normal par reveil.yml).
+  garde:
+    runs-on: ubuntu-latest
+    outputs:
+      faire: ${{ steps.g.outputs.faire }}
+    steps:
+      - name: Checkout gh-pages
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: site
+          fetch-depth: 1
+          sparse-checkout: |
+            .enrich_date
+          sparse-checkout-cone-mode: false
+      - id: g
+        run: |
+          AUJ=$(date -u +%Y-%m-%d)
+          DERNIER=$(cat site/.enrich_date 2>/dev/null || echo aucun)
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "$DERNIER" = "$AUJ" ]; then
+            echo "Enrichissement deja fait aujourd'hui ($AUJ) : rien a faire."
+            echo "faire=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "faire=true" >> "$GITHUB_OUTPUT"
+          fi
+
   enrich:
+    needs: garde
+    if: needs.garde.outputs.faire == 'true'
     name: 'Enrichissement — cycle 3 jours (podcast → youtube → refresh)'
     runs-on: ubuntu-latest
     timeout-minutes: 45   # volumes doubles + YouTube quotidien (28/10/2026)
@@ -272,7 +305,9 @@ jobs:
 
       # 8. Mise à jour de .run_state
       - name: Update .run_state
-        run: echo "${{ steps.mode.outputs.mode }}" > site/.run_state
+        run: |
+          echo "${{ steps.mode.outputs.mode }}" > site/.run_state
+          date -u +%Y-%m-%d > site/.enrich_date
 
       # 9. Commit + push vers gh-pages (uniquement s'il y a des changements)
       - name: Commit and push
