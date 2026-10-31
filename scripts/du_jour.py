@@ -49,6 +49,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 from enrich_episodes import _lire, _texte  # noqa: E402
 from independance import _mots, est_independant  # noqa: E402
+import evenements  # noqa: E402  calendrier d'evenements (interne)
 
 ROOT = Path(__file__).parent.parent
 DATA = ROOT / "data"
@@ -57,6 +58,9 @@ MC_REVIEWS = (json.loads((DATA / "mc_reviews.json").read_text(encoding="utf-8"))
               if (DATA / "mc_reviews.json").exists() else {})
 UA = {"User-Agent": "MediaCriticBot/1.0 (https://www.mediacritic.fr; mediacriticinc@gmail.com)"}
 
+EXCEPTION_VUES = 50000     # actu exceptionnelle : passe devant le calendrier
+EXCEPTION_RATIO = 2.5      # ... et >= 2,5 fois la mediane des sujets du jour
+EXCEPTION_TRENDS = 100000  # recherches Google
 FRAICHEUR_JOURS = 21       # relecture des flux ; la 1re passe se limite a 10 jours
 SANS_REPETITION = 30       # jours avant de remettre la meme emission en avant
 VIVIER_PODCASTS = 400
@@ -368,6 +372,8 @@ def episodes_frais(entree, jour):
 # --------------------------------------------------------------------------
 def motifs(s):
     """Formes acceptees du sujet dans un titre d'episode : (motif, mot_seul)."""
+    if s.get("mots"):                     # evenement du calendrier
+        return [(norm(k), None) for k in s["mots"]]
     mots = norm(s["sujet"]).split()
     # Verification : None (nom complet), « confirme » (sujet d'un seul mot,
     # ambigu : « Zazie »), « majuscule » (nom de famille d'une personne :
@@ -576,7 +582,7 @@ def main():
     theme_veille = thematique_veille(hist, jour, cat)
     if theme_veille:
         print(f"   thématique de la veille écartée : {theme_veille}")
-    rang_max = {"wikipedia": 40, "trends": 30, "equipe": 1}
+    rang_max = {"wikipedia": 40, "trends": 30, "equipe": 1, "calendrier": 1}
     tous_titres = [norm(ep["titre"]) for _, eps in frais for ep in eps]
     # Un « sujet » present dans plus de 1 % des titres du jour est une
     # expression banale (« le monde » remontait de Google Trends), pas une
@@ -597,14 +603,17 @@ def main():
     # Rien trouve : PAS de nouveau choix ce jour-la (mieux vaut rien qu'un
     # choix sans lien).
     # ------------------------------------------------------------------
-    def chercher(avec_theme, jours):
+    def chercher(liste, avec_theme, jours):
         lim = (jour - timedelta(days=jours)).isoformat()
         res = []
-        for s in gardes:
-            if norm(s["sujet"]) in sujets_recents:
+        for s in liste:
+            # Un evenement dure plusieurs jours : il peut revenir (avec une
+            # autre emission, regle des 30 jours) ; un sujet d'actu, non.
+            if s["source"] != "calendrier" and norm(s["sujet"]) in sujets_recents:
                 continue
             for m, nom_seul in motifs(s):
-                if s["source"] != "equipe" and sum(1 for t in tous_titres if m in t) > seuil_banal:
+                if s["source"] not in ("equipe", "calendrier") and \
+                        sum(1 for t in tous_titres if m in t) > seuil_banal:
                     continue
                 for c, eps in frais:
                     if c["slug"] in bloques:
@@ -622,11 +631,35 @@ def main():
         res.sort(key=lambda t: -t[0])
         return res
 
+    # ------------------------------------------------------------------
+    # CALENDRIER D'EVENEMENTS PRIORITAIRE (choix de l'utilisateur,
+    # 31/10/2026) : l'evenement du moment (Halloween, Noel, fete de la
+    # musique…) passe devant l'actu, SAUF actu exceptionnelle : article
+    # Wikipedia lu au moins EXCEPTION_VUES fois ET EXCEPTION_RATIO fois la
+    # mediane des sujets du jour, ou recherche Google >= EXCEPTION_TRENDS.
+    # ------------------------------------------------------------------
+    cal = [{"sujet": e[0], "mots": e[1], "source": "calendrier", "rang": 1, "poids": 0,
+            "contexte": "", "personne": False, "evenement": e}
+           for e in ([] if a.sujet else evenements.du_jour(jour))]
+    vues = sorted(x["poids"] for x in gardes if x["source"] == "wikipedia")
+    mediane = vues[len(vues) // 2] if vues else 0
+    exceptionnels = [x for x in gardes if
+                     (x["source"] == "wikipedia" and x["poids"] >= EXCEPTION_VUES
+                      and x["poids"] >= EXCEPTION_RATIO * mediane)
+                     or (x["source"] == "trends" and x["poids"] >= EXCEPTION_TRENDS)]
+    if cal:
+        print(f"   événement(s) du calendrier : {', '.join(x['sujet'] for x in cal)}")
+    if exceptionnels:
+        print(f"   actu exceptionnelle : {', '.join(x['sujet'] for x in exceptionnels)}")
+    ordre = ([exceptionnels] if exceptionnels else []) + ([cal] if cal else []) + [gardes]
     trouves = []
-    for etape, (avec_theme, jours) in enumerate(((True, 10), (False, 10), (False, FRAICHEUR_JOURS)), 1):
-        trouves = chercher(avec_theme, jours)
+    for liste in ordre:
+        for etape, (avec_theme, jours) in enumerate(((True, 10), (False, 10), (False, FRAICHEUR_JOURS)), 1):
+            trouves = chercher(liste, avec_theme, jours)
+            if trouves:
+                print(f"   {liste[0]['source']} — passe {etape} : {len(trouves)} correspondance(s)")
+                break
         if trouves:
-            print(f"   passe {etape} : {len(trouves)} correspondance(s)")
             break
     for sc, s, c, ep in trouves[:8]:
         print(f"   {sc:5.2f}  [{s['sujet']}]  {c['title']} — « {ep['titre'][:70]} » ({ep['date']})")
@@ -647,7 +680,9 @@ def main():
     n = lambda x: f"{int(x):,}".replace(",", " ")
 
     def buzz(s):
-        if s["source"] == "equipe":
+        if s["source"] == "calendrier":
+            force = f"« {s['sujet']} » : {evenements.quand(s['evenement'], jour)}."
+        elif s["source"] == "equipe":
             force = f"« {s['sujet']} » fait l'actu."
         elif s["source"] == "wikipedia":
             force = f"« {s['sujet']} » a été l'un des sujets les plus lus de Wikipédia hier ({n(s['poids'])} lectures)."
