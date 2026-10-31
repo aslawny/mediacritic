@@ -217,7 +217,9 @@ def titres_presse(sujet, maxi=1):
         titre, _, src = _texte(t.group(1)).rpartition(" - ")
         if not titre or not src:
             continue
-        if re.search(r"facebook|youtube|instagram|tiktok|twitter|linkedin|^x$", src.strip(), re.I):
+        # Medias seulement : ni reseaux sociaux, ni sites de villes ou d'administrations.
+        if re.search(r"facebook|youtube|instagram|tiktok|twitter|linkedin|^x$|^ville d|mairie|"
+                     r"prefecture|departement|region |office de tourisme|\.gouv", src.strip(), re.I):
             continue
         if SENSIBLES.search(norm(titre).strip()):
             continue
