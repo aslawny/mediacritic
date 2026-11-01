@@ -25,7 +25,7 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "Invitation 💌 surprise d'Apple 🍏 : 5 easter eggs et 8 produits attendus le 9 septembre",
@@ -51,25 +51,29 @@
   "derniere_activite": "2026-08-28",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-30",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ComLéo",
+        "titre": "Très bien",
+        "texte": "Podcast que je recommande fortement mais il faut faire attention ces des rumeurs et non des informations officielles. Ça fait 1 semaine que ce podcast est HS."
+      },
+      {
+        "note": 1,
+        "auteur": "nino2812",
+        "titre": "Trop lent",
+        "texte": "Trop de fautes de grammaire ! Obligé de mettre en vitesse x1,5 Lenteur de la diction et informations intéressantes rares et peu développées malgré l’icône alléchante"
+      },
+      {
+        "note": 5,
+        "auteur": "Figaro1973",
+        "titre": "Focus matos",
+        "texte": "Voilà un podcast qui se spécialise dans le matos et les caractéristiques Il va chercher juste les bonnes info sans se perdre dans des infos futiles parfait"
+      }
     ]
   }
 }

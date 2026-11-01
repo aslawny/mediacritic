@@ -26,7 +26,7 @@
     "vulgarisation"
   ],
   "addedAt": "2026-05-31",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "#5 Une bulle de paix",
@@ -52,25 +52,29 @@
   "derniere_activite": "2025-12-29",
   "frequence_jours": 31,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-30",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "BintK5",
+        "titre": "Des podcasts de qualité !!!",
+        "texte": "Salam 3alaykoum ma soeur, Tes podscasts sont vraiment top c’est dingue allahumma barik ! J’apprends toujours avec ce que tu nous partages 🥰 Qu’Allah te rajoute et préserve ce beau travail"
+      },
+      {
+        "note": 5,
+        "auteur": "Binte Ramdane rahimoullah",
+        "titre": "Barak ‘Allah ufiki",
+        "texte": "Assalam allaykoum Ma Soeur fillah je te remercie pour t’es podcast elles sont inspirantes et elles sont bénéfique. Qu’Allah te préserve et te récompense 🤲🤲🤲"
+      },
+      {
+        "note": 5,
+        "auteur": "Umm FatimNana",
+        "titre": "Bravo",
+        "texte": "Salam aleykoum, moi je dis juste bravo, bravo pour ton parcours bravo pour la Moalima que tu es devenue aujourd’hui. Tu es très motivante merci bcpp"
+      }
     ]
   }
 }

@@ -23,7 +23,7 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "Episode 157: S04E32 - Une dernière question",
@@ -49,25 +49,29 @@
   "derniere_activite": "2020-01-09",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-01",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Azalais13",
+        "titre": "Hilarant!",
+        "texte": "J'adore ce podcast, je me retrouve toujours à rire aux éclats à leurs conneries! Entre rigueur scientifique et humour déjanté, ces deux larrons parviennent toujours à me divertir.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Joueur13000xxx",
+        "titre": "Vous nous manquez !",
+        "texte": "Hey les gars, je ne sais plus quoi écouter, je m'ennuie. Vous n'avez pas envie de faire un petit épisode juste pour nous update ? On ne sait plus ce que fait Elon depuis votre départ.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Dorothee30670",
+        "titre": "Immersion",
+        "texte": "Je viens de découvrir et je viens de rattrapper les 3 saisons et le début de la saison 4 en moins d'un mois. Le rapport entre Madame Ben et Briac manque depuis le déménagement dans le studio. Mais je suis méga fan... J'ai enfin pu raconter des choses interessantes à mon mari.…"
+      }
     ]
   }
 }

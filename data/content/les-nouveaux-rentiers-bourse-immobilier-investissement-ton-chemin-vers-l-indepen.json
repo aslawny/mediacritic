@@ -27,7 +27,7 @@
     "business"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "#158 Marchés au plus haut en 2026 : faut-il investir en bourse maintenant ? (Données, études et retour d'expér",
@@ -53,25 +53,29 @@
   "derniere_activite": "2026-02-19",
   "frequence_jours": 13,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-01",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Ellen56",
+        "titre": "Le début d’une formation pertinente en investissement long terme",
+        "texte": "Pour avoir parcouru l’ensemble du podcast, je peux dire que Floran m’a fait découvrir un mode d’investissement que je recherchais, il m’a fait comprendre les rouages de l’investissement long terme et m’a donné envie d’aller plus loin.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Gurmitte",
+        "titre": "Un peu léger..,",
+        "texte": "Pas assez de rythme, contenu un peu léger avec peu d informations pertinentes."
+      },
+      {
+        "note": 5,
+        "auteur": "Jecail",
+        "titre": "Podcast inspirant et formation concrète avec des résultats concrets",
+        "texte": "Ce podcast m’a donné envie de m’intéresser à la bourse et à faire la formation. La formation est concrète et les résultats sont là : après 3 ans on surperforme largement sur le marché."
+      }
     ]
   }
 }

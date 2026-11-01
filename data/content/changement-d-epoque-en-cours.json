@@ -26,7 +26,7 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "L'IA, l'éthique et l'agenda transhumaniste de la Silicon Valley, avec Hubert Etienne (Philosophe, chercheur et",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-07-05",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-02",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Soraya Bendjeddou",
+        "titre": "Le podcast de référence sur l’IA et la transfo",
+        "texte": "Excellent podcast, qui décrypte avec clarté des sujets complexes autour de l’IA et de la transformation des entreprises. Les échanges sont concrets, structurés et ancrés dans des cas d’usage réels.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Sandrine Anne",
+        "titre": "Une magnifique découverte",
+        "texte": "Merci ! Bravo pour le choix des invités. Et pour la qualité des questions posées. Loin, très loin, de la hype iag. Très ancrée dans le concret, le vécu.…"
+      },
+      {
+        "note": 5,
+        "auteur": "laurnicolas",
+        "titre": "Le meilleur podcast francophone sur l’ia",
+        "texte": "C'est devenu MA référence ! Une approche à la fois sérieuse et vulgarisée, enthousiaste sur l'intérêt de la technologie mais réaliste sur ce qu'elle permet réellement. Pas de buzz, que du fond.…"
+      }
     ]
   }
 }

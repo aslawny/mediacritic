@@ -27,7 +27,7 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "#105 – Réaliser des projets IA frugaux avec Amiel Sitruk",
@@ -53,25 +53,29 @@
   "derniere_activite": "2026-09-12",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-01",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pascal7613",
+        "titre": "Parfait complément à mes podcast IA",
+        "texte": "Une durée idéale pour des interviews avec un angle complètement différent de mes podcasts habituels ( artiste, association, mission interministérielle…) . Simple, frais, sans chichi. Très sympa PS j’adore la programmation musicale"
+      },
+      {
+        "note": 5,
+        "auteur": "sanstabou",
+        "titre": "A écouter sans compter",
+        "texte": "Très belle découverte. Je ne peux que recommander ce podcast qui nous permet de mieux comprendre tous les enjeux autour de l’IA. Très bon choix des thèmes et des invités. On attend avec impatience la saison 2."
+      },
+      {
+        "note": 5,
+        "auteur": "mamatdunet2",
+        "titre": "Parlez-moi d’IA : mission vulgarisation réussie :)",
+        "texte": "Merci à l’équipe du podcast de proposer un format singulier dans le paysage, de qualité et sans prétention pour embarquer Monsieur et Madame tout le monde à s’approprier le sujet :). Vivement la suite !"
+      }
     ]
   }
 }

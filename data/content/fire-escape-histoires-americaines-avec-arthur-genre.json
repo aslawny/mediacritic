@@ -25,7 +25,7 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "Mark Zuckerberg a-t-il détruit l'humanité ? (Les secrets d'Instagram et Facebook)",
@@ -51,25 +51,23 @@
   "derniere_activite": "2025-02-10",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-29",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "jakoby23",
+        "titre": "En direct de l’american dream",
+        "texte": "Tous les portraits et interviews sont très intéressants. C est particulièrement inspirant d entendre le parcours de français aux États Unis, et ce podcast prend le temps de rentrer dans les détails. C est top 👍"
+      },
+      {
+        "note": 5,
+        "auteur": "Romain33333333",
+        "titre": "Super podcast",
+        "texte": "Ce podcast relate la vie de Français expatriés aux USA. Leurs parcours de vie vous feront voyage à travers l’Amérique !!!!"
+      }
     ]
   }
 }

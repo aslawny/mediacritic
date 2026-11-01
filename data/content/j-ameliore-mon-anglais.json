@@ -26,27 +26,31 @@
     "education"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-01",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "jmcoeb",
+        "titre": "A ne pas rater",
+        "texte": "Un grand merci pour la qualité des Poscasts particulièrement la qualité de la prononciation qui m’aide énormément dans la compréhension, un de mes points faibles à l’oral quand l’anglais est parlé trop rapidement ou mal articulé.…"
+      },
+      {
+        "note": 5,
+        "auteur": "apokbx f",
+        "titre": "Top",
+        "texte": "Un grand merci, je viens de découvrir ce podcast. Le gros plus c’est à mon avis le support supplémentaire. On sent qu’il y a une réelle envie de s’améliorer et de se remettre en question notamment les podcasts sur le business Continuez!"
+      },
+      {
+        "note": 5,
+        "auteur": "nono081",
+        "titre": "Merci et Bravo",
+        "texte": "Merci pour votre podcast et vos fiches synthèses (que je vous ai acheté).,J’espère que vous allez faire de nouveaux épisodes très bientôt car c’est un super moyen d’apprendre l’anglais. Bravo pour tout ce que vous avez déjà fait 🙏"
+      }
     ]
   }
 }

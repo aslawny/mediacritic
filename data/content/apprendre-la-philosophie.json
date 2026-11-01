@@ -27,7 +27,7 @@
     "culture"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "Le travail : définitions, auteurs et problèmes",
@@ -53,25 +53,23 @@
   "derniere_activite": "2025-12-02",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-30",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "vviuuu",
+        "titre": "Bravo",
+        "texte": "Je cherchais un podcast pour initier mon fils qui rentre en terminale… Le votre est parfait… À quand les prochains épisodes? Bonne continuation V"
+      },
+      {
+        "note": 3,
+        "auteur": "nrngnryrn",
+        "titre": "Pourquoi oublier l’épreuve des bac technologiques",
+        "texte": "Et pourquoi ne pas penser aux bacheliers de l’enseignement technologique (notamment pour décrire l’épreuve du commentaire qui est différente) qui n’ont aucun support pour les aider. Ce côté bêtement élitiste français est quand même épuisant et tellement contre-productif!"
+      }
     ]
   }
 }

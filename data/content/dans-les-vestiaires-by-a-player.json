@@ -24,7 +24,7 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "Briefing geopolitique — Trump relance Gaza, tensions atlantiques a Munich",
@@ -50,25 +50,29 @@
   "derniere_activite": "2026-02-13",
   "frequence_jours": 4,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-30",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Nico Reagit",
+        "titre": "👌 top",
+        "texte": "Un excellent podcast qui prend un angle de vu different pour nous présenter des beaux athlètes et nous partager de belles valeurs. Merci Ermanno continu comme ça 🤙 Ce podcast est un incontournable de la belle collection des podcasts d’interview de sportif : Ultra Talk, Extra-Terr…"
+      },
+      {
+        "note": 5,
+        "auteur": "Marie Cécile Esperluette",
+        "titre": "Pour les fans de sport et les autres aussi",
+        "texte": "Bravo Ermanno d'avoir réussi à me faire écouter un podcast sur le sport qui n'est pas mon sujet favori. Ton angle est super intéressant car il peut servir aux sportifs et à tous ceux qui souhaitent trouver les moyens de vivre de leur passion.…"
+      },
+      {
+        "note": 5,
+        "auteur": "DamienLEGALLO",
+        "titre": "Très intéressant et excellente initiative",
+        "texte": "Un podcast sur le sport, certains diront encore un, mais qui traite un sujet important, un peu tabou mais nécessaire. Ermanno traite ici avec ses invités du sujet du financement du sport et des sportifs de haut niveau dans des disciplines connues et plus confidentielles.…"
+      }
     ]
   }
 }

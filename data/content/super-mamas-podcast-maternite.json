@@ -27,7 +27,7 @@
     "famille"
   ],
   "addedAt": "2026-06-27",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "EP136. Charlotte Meyer • Mère & écolo",
@@ -53,25 +53,29 @@
   "derniere_activite": "2026-01-26",
   "frequence_jours": 6,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-01",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Kim.petit",
+        "titre": "Podcast inspirant et riche ♥️",
+        "texte": "Lou propose une super source d’informations et de soutien pour les personnes intéressées ou vivant la maternité ! Les histoires sont uniques, inspirent et encouragent dans l’avant-pendant et après accouchement.…"
+      },
+      {
+        "note": 5,
+        "auteur": "AnneBProst",
+        "titre": "Documenter les histoires de Super Mamas",
+        "texte": "J’ai été interviewée par Lou pour raconter mon histoire de maternité, et ça m’a permis de me rendre compte de tout le chemin parcouru durant ces 9 mois de grossesse et les premiers mois de ma fille.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Emie - Notrenaissance_",
+        "titre": "SUPER MAMA POWER",
+        "texte": "J’ai enregistré un épisode avec Lou, que j’écoutais déjà avec énormément de plaisir ! Un podcast qui transpire l’ocytocine, la vérité sur la maternité, les vécues de chacune et qui prône la bienveillance ❤️ Merci Lou pour tout ce que tu met en place au quotidien pour toutes les s…"
+      }
     ]
   }
 }

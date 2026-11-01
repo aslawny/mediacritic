@@ -25,7 +25,7 @@
     "culture"
   ],
   "addedAt": "2026-09-11",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "#17 - La chair est ronde",
@@ -51,25 +51,29 @@
   "derniere_activite": "2025-04-13",
   "frequence_jours": 163,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-30",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Aurelie R.",
+        "titre": "Bravo Ada",
+        "texte": "Bravo Ada pour cette magnifique interview. Je n’avais jamais écouté d’interview d’artiste, pensant que ce n’était pas pour moi et que je décrocherai au bout de quelques minutes ! Il n’en est rien.…"
+      },
+      {
+        "note": 5,
+        "auteur": "MehrakeG",
+        "titre": "Merci des millions de fois",
+        "texte": "Bon j’ai fini par pleurer au #2 tellement ça fait du bien bon sang ! Ces derniers temps je me sens si seule en tant qu’artiste femme, si isolée dans mes angoisses que je ne peux pas dire à quel point ça fait du bien …"
+      },
+      {
+        "note": 5,
+        "auteur": "Amelie LS",
+        "titre": "Super podcast, mercii !!",
+        "texte": "Je passe des supers moments, j’adore le cocon que me crée ce podcast et j’y trouve pas mal d’apprentissages, de repères, d’inspirations et au fond du soutien pour faire mon bout de chemin artistique à moi ☺️ alors merci et tout mes encouragements à continuer et explorer ! 😀"
+      }
     ]
   }
 }

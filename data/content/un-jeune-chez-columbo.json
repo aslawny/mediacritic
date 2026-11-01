@@ -27,7 +27,7 @@
     "series"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "55. Meurtre En Deux Temps - Le traité du jus de pomme",
@@ -53,25 +53,29 @@
   "derniere_activite": "2026-06-02",
   "frequence_jours": 23,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-01",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "LilMarillion",
+        "titre": "Vive le tiramisu et les flamby",
+        "texte": "Dommage j’arrive sur la fin… podcast fait pour moi entre Colombo que j’adore, la folie maboulie des commentaires et digressions inutiles mais qui font tout, je me croirais dans ma tête mais en inattendu.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Sinusx1",
+        "titre": "Dommage",
+        "texte": "J’aime beaucoup mais j’ai arrêté à cause des EN FAIT et DU COUP qui sont omniprésents et parfois même l’un derrière l’autre, alors que notre langue est très riche et pleine de synonymes. Dommage il y a de la recherche."
+      },
+      {
+        "note": 5,
+        "auteur": "YannSolo___",
+        "titre": "Bravo",
+        "texte": "Bonjour , après pas mal d épisodes vus puis écouté votre podcast dédié à l épisode , l effet inverse est la … maintenant je regarde l épisode pour justement vous écouter ensuite et ça tombe sur scotland yard … bravo à votre tandem et vos invités , c est très agréable de vous écou…"
+      }
     ]
   }
 }

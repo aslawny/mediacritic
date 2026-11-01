@@ -25,7 +25,7 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "#118 - Justine Atlan - Cyberharcèlement, porno, addiction : protéger nos enfants en ligne",
@@ -51,25 +51,29 @@
   "derniere_activite": "2025-03-12",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-30",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "barbrygirl",
+        "titre": "Les influenceurs décryptés",
+        "texte": "Follow me est un excellent podcast qui nous révèle chaque semaine le parcours d’un influenceur ou de sociétés travaillant dans le domaine de l’influence pour mieux comprendre leur stratégie, leurs embûches, leurs moments de gloire ou de désamour avec beaucoup de transparence.…"
+      },
+      {
+        "note": 2,
+        "auteur": "zocapro",
+        "titre": "M",
+        "texte": "Un peu plus de fluidité dans le questionnement est vraiment nécessaire. Couper l invité pour ne dire, dommage Quel intérêt d interroger Louise sur des points aussi vagues .. aussi surannée..…"
+      },
+      {
+        "note": 5,
+        "auteur": "francois_ber",
+        "titre": "Génial!!",
+        "texte": "Premier épisode très intéressant! Et le sujet du podcast est particulièrement percutant! J’ai hâte de découvrir la suite et de m’en inspirer pour mon propre podcast Handicap histoire de… Merci pour ce nouveau podcast !"
+      }
     ]
   }
 }

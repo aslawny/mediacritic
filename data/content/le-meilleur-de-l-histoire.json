@@ -13,8 +13,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/le-meilleur-de-lhistoire/id1503419550?uo=4",
       "trackId": 1503419550,
-      "rating": 4.4,
-      "ratingCount": 50,
+      "rating": 4.5,
+      "ratingCount": 51,
       "episodeCount": 4
     }
   },
@@ -22,27 +22,31 @@
   "tags": [
     "histoire"
   ],
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-01",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "@regnieri2",
+        "titre": "J'adore",
+        "texte": "Une histoire , une fiction et un entretien sur chaque sujet. 👏👏👏 Mais c + compliqué sur l'app de radio classique et qui n'a pas de touche sommeil . Donc j'écoute sur Apple podcast, dommage que tous les épisodes n'y soient pas là. Mais Stéphanie Duncan est excellente .…"
+      },
+      {
+        "note": 1,
+        "auteur": "Picboby",
+        "titre": "Rediffusion",
+        "texte": "Ce ne sont que des rediffusions à présent ? Merci de l’indiquer lors de la sortie du podcast. C’est dommage c’était un de mes podcasts préférés …"
+      },
+      {
+        "note": 5,
+        "auteur": "french.Quitus",
+        "titre": "Excelent",
+        "texte": "Toute cette série sur la défaite de 39 est vraiment sensible , argumentée bien racontée"
+      }
     ]
   }
 }

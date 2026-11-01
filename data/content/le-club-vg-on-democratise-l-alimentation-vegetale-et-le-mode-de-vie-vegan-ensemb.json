@@ -27,7 +27,7 @@
     "bien-etre"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "Fabriquer de la viande VÉGÉTALE... de façon ARTISANALE : l'histoire de Valérie et sa marque Veggie Deli [#50]",
@@ -53,25 +53,29 @@
   "derniere_activite": "2025-12-03",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-30",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Le Physicien de la Véganie",
+        "titre": "Meilleur podcast de la véganie ! 🌱",
+        "texte": "Un podcast riche de partages avec des invités au parcours super intéressant ! On y découvre pleins de façons de penser différentes qui ont en commun le combat pour le bien des animaux et de l’environnement.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Jenn_yb",
+        "titre": "Un super podcast pour aller vers le végétal !",
+        "texte": "À travers son podcast, Maxime nous fait découvert plein de parcours variés vers le véganisme. Cette diversité dans les invités permet aux auditeur•ices de s’identifier facilement à chaque parcours en fonction de sa propre expérience.…"
+      },
+      {
+        "note": 5,
+        "auteur": "ines161",
+        "titre": "Incroyable",
+        "texte": "J’adore ce podcast. J’écoute et réécoute les épisodes dès que je commence à me sentir un peu seule dans ma démarche. Ça rebooste !! Et on apprend des choses Merci beaucoup pour ce travail tellement essentiel"
+      }
     ]
   }
 }

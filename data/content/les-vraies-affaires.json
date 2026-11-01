@@ -25,7 +25,7 @@
     "business"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "Finale de la saison 4 : Bilan de 2021 et des grosses nouvelles",
@@ -51,25 +51,29 @@
   "derniere_activite": "2021-12-21",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-01",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mostrecent",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Marie-Eve O.",
+        "titre": "🥺😭 c'est fini",
+        "texte": "Awww je t'écoute depuis 2018, je pige dans le contenu selon mes besoins et ma vibe du moment. Ça me gonfle à bloque à chaque fois. Je suis vraiment triste d'apprendre la fin de ton podcast ( pour le moment 🤞🏻) peut-être auras-tu des choses à nous raconter plus tard. Pleaseeeee.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Marie - L'autre façon",
+        "titre": "Du vrai, de la seconde 0 à l’infini (longue vie au podcast!)",
+        "texte": "Geneviève aborde l’entrepreneuriat web avec cette puissance qui transperce notre cœur. Le choix de ses invités, la pertinence des questions, ce désir d’aller plus loin, ce podcast est rempli de valeur épisode après épisode. Dans toute son audace, j’ai même ressenti sa douceur.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Sarahbeaupreq",
+        "titre": "Un podcast coup de pied au fesses!",
+        "texte": "L’écoute de ce podcast fait partie de ma routine matinale. C’est souvent le coup de pied que j’ai besoin pour me mettre à la tâche. J’adore les entretiens avec les autres entrepreneurs qui décortiquent les différents modèles d’affaires.…"
+      }
     ]
   }
 }

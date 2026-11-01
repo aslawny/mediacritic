@@ -26,7 +26,7 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "Tout ce qu'il faut savoir sur la sodomie !",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-07-31",
   "frequence_jours": 3,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-30",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Bouli2310",
+        "titre": "Déculpabilisant",
+        "texte": "Super podcast qui dédramatise la sexualité en apportant des réponses simples et déculpabilisantes. Merci ça fait du bien !"
+      },
+      {
+        "note": 5,
+        "auteur": "RS 4*5",
+        "titre": "homme",
+        "texte": "Mon conjoint cherche un podcast de Q pour homme, mais est ce que vous pourrez le faire ?"
+      },
+      {
+        "note": 5,
+        "auteur": "H je ce n",
+        "titre": "Le Dictaphone",
+        "texte": "Vous pouvez faire un épisode sur comment faire l’amour quand on est enfant."
+      }
     ]
   }
 }

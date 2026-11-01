@@ -24,7 +24,7 @@
   "tags": [
     "histoire"
   ],
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "Hildegarde de Bingen, la visionnaire silencieuse",
@@ -50,25 +50,29 @@
   "derniere_activite": "2025-08-19",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-30",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pascal Monop",
+        "titre": "On ne va pas refaire l’histoire",
+        "texte": "Une belle série, instructive et distrayante. Ancrée sur l’histoire vraie de personnages historiques, Karine Micard déploie ses talents de romancière pour faire vivre ses personnages et leur permettre d’exprimer leur personnalité et leurs sentiments, totalement occultés des livres…"
+      },
+      {
+        "note": 5,
+        "auteur": "Mag33600",
+        "titre": "Tout simplement extra",
+        "texte": "Je me suis littéralement passionnée pour cette série sur l histoire. Que des portraits de femmes incroyables et nombreux sont celles dont je n avais jamais entendues parler. Karine nous transporte par sa voix quand elle campe ses personnages .…"
+      },
+      {
+        "note": 5,
+        "auteur": "lectrice_jo",
+        "titre": "Un très bon moment d’écoute",
+        "texte": "J’ai passé de très bons moments d’écoute, la voix de Karine Micard est hypnotisante, les textes racontés sont beaux et j’ai été littéralement captivée par toutes ces histoires de femmes, certaines que je ne connaissais pas mais qui méritent de l’être.…"
+      }
     ]
   }
 }

@@ -24,27 +24,31 @@
     "culture"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-29",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Stephedon",
+        "titre": "Un titre plus precis pr retrouver les podcast",
+        "texte": "Bonjour, Merci pour ces supers podcasts mais serait il possible de detailler un peu plus le titre en precisant le nom de l'artiste? Sinon on a juste la date c'est compliqué pr retrouver ce que l'on aime.. Merci"
+      },
+      {
+        "note": 5,
+        "auteur": "Chris92100",
+        "titre": "Ibrahim Maalouf",
+        "texte": "Bonjour, J’aurais voulu savoir ou est le podcast du live d’Ibrahim Maalouf (et Oxmo) du jeudi 11/12/14 a 21h ? Merci bcp !"
+      },
+      {
+        "note": 5,
+        "auteur": "Coolups",
+        "titre": "Superbes enregistrements",
+        "texte": "Parfait pour découvrir un artiste en live. Collector quand on est déjà fan de l'invité!"
+      }
     ]
   }
 }

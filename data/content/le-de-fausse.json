@@ -25,7 +25,7 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "402 - Next Station Berlin",
@@ -51,25 +51,29 @@
   "derniere_activite": "2026-09-09",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-30",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "oursino",
+        "titre": "Court, concis, agréable à écouter",
+        "texte": "Pour l’épisode de Fliptown, je conseille vivement le jeu avec un bot qui nous obligera à essayer d’autres techniques (moi aussi j’optimise souvent la ville et la mine), et évidemment en jouant au hold’em.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Claralbator",
+        "titre": "Il m’aura fallu 5 ans pour découvrir ce délicieux podcast …",
+        "texte": "Ce podcast ludique est une pépite ! Que ce soit la voix envoûtante de Zéphiriel, l’énergie et le rire d’Alex, les invités, les sujets le ton, la franchise tout me va. Je suis partie pour tout écouter et rattraper mon retard grâce à mes marches quotidiennes ! Un grand bravo"
+      },
+      {
+        "note": 5,
+        "auteur": "Picradie",
+        "titre": "La bonne face",
+        "texte": "Un podcast qui s’équilibre très bien entre légèreté et sérieux. Des voix agréables, des avis a chaud, un temps d’émission idéal. On est sur des beaux jets de dés"
+      }
     ]
   }
 }

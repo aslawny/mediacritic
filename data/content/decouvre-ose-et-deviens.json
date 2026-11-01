@@ -27,7 +27,7 @@
     "cuisine"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "Hors série - Episode spécial Podcasthon . Et si nous étions tous des aidants qui s'ignorent",
@@ -53,25 +53,29 @@
   "derniere_activite": "2023-03-27",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-29",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "luigimariopitch",
+        "titre": "Dorothée THIOLLIER",
+        "texte": "Bonjour et bravo, Je suis une amie d’Elo. J’ai transféré à une amie ( Pénélope Warter ) qui s’est réorientée justement dans l’orientation des jeunes et a à cœur de les aider à trouver leur voie.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Caroflo79",
+        "titre": "Belle découverte",
+        "texte": "Merci Julie de nous avoir partagé ce moment avec Amélie et permis de se ouvrir son métier, son talent. J’espère que cela sera une source d’inspiration pour des jeunes en recherche ou toute personne en reconversion …"
+      },
+      {
+        "note": 5,
+        "auteur": "myrine2lybie",
+        "titre": "Assoprenariat!",
+        "texte": "Bravo pour la qualité et la richesse de votre interview qui permet de mettre en lumière un métier mal connu et pourtant clé dans la société. Merci à Claire pour son engagement et son dévouement à cette reconnaissance du métier.…"
+      }
     ]
   }
 }

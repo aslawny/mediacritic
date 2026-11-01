@@ -25,27 +25,31 @@
     "culture"
   ],
   "addedAt": "2026-08-17",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-30",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "stephane1x0",
+        "titre": "L’agonie de l’idéaliste",
+        "texte": "La présence d’un ensemble qu’elles s’appliquent à pressentir, possible motif spatial exposé par la conscience grave, détermine les âmes à en rêver une interprétation nécessaire, motivée par les conséquences extraites des objections réalisées."
+      },
+      {
+        "note": 2,
+        "auteur": "cathie fan de llettres",
+        "titre": "Diction",
+        "texte": "Pourquoi depuis quelque temps les excellents podcasts de France Culture ou France Inter deviennent ils inaudibles ou répulsifs par l’acceleration du débit qui donne une sensation d’urgence peu propice à l’écoute?"
+      },
+      {
+        "note": 5,
+        "auteur": "D'un regard l'autre",
+        "titre": "Poésie tout de suite",
+        "texte": "Je reprends à mon compte la remarque faite par un internaute : vous avez une intelligence remarquable pour conduire un entretien. Et votre amour de la poésie se retrouve dans votre écoute, votre attention à l’autre, vos nuances."
+      }
     ]
   }
 }

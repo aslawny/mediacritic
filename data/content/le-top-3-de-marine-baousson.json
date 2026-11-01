@@ -23,27 +23,31 @@
     "humour"
   ],
   "addedAt": "2026-08-29",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-02",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "l@div@",
+        "titre": "Les fachos",
+        "texte": "Salut! J'adore!!! C'est trop génial et grace à marine j'ai découvert plein de trucs. Et les commentaires négatifs, c'est juste des fachos. ( donc on s'en tape ) BISOUUUUUS"
+      },
+      {
+        "note": 1,
+        "auteur": "Zozt 01",
+        "titre": "Au secours",
+        "texte": "Fuyez Je ne comprends pas qu’elle puisse être sur une antenne nationale"
+      },
+      {
+        "note": 5,
+        "auteur": "ひあっhxvfっcfgっhdb",
+        "titre": "J’adore 😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍",
+        "texte": "J’adore tout se que fait marine.🥹🥹🥹🥹🥹🥹🥹😂🥹🥹🥹😂🥹🥹😂🥹🥹😂🥹🥹😂🥹🥹😂😂😂😂😂😂😂😂🥹😂🥹😂😂☺️🥹🥹🥹🥹🥹🥹🥹😂🥹😂🥹😂😂🥹😂🥹😂🥹😂🥹😂😂😂🥹😂😂🥹😂😂🥹😂🥹😂🥹😂🥹😂🥹😂🥹😂🥹😂🥹😂🥹😂🥹😂🥹😂🥹😂😂🥹😂🥹😂🥹😂🥹😂🥹😂🥹😂🥹😂🥹😂🥹😂🥹😂🥹😂"
+      }
     ]
   }
 }

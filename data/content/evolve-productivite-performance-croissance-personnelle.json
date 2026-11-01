@@ -25,7 +25,7 @@
     "sciences"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "#204. Oublie tes objectifs. Fais ÇA à la place.",
@@ -51,25 +51,29 @@
   "derniere_activite": "2026-05-19",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-01",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Remissionnaire",
+        "titre": "Les meilleures minutes investies pour progresser",
+        "texte": "Ce podcast est un des meilleurs que j’écoute dans le domaine du développement personnel et de la productivité. C’est un plaisir de découvrir chaque semaine de nouvelles méthodes pour être plus productif, tiré le meilleur de soi-même, mais sans jamais se sentir coupable de ne pas…"
+      },
+      {
+        "note": 5,
+        "auteur": "Sarah.hdn",
+        "titre": "Juste incroyable !",
+        "texte": "Comme toujours ravie de l’enseignement de Sofiane. Après ses formations et La Vague, le podcast Evolve n’arrête pas de me surprendre. Je recommande fortement pour en apprendre sur soi-même et sur les autres.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Caroline_line",
+        "titre": "Un défilé de pépites chaque mardi",
+        "texte": "Un concentré de connaissances et apprentissage dont mon cerveau en soif de savoir enrichissant raffole ! Merci Sofiane pour tes podcasts inspirants et intelligents …"
+      }
     ]
   }
 }

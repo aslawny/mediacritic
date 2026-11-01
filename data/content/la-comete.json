@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/la-com%C3%A8te/id1789290488?uo=2",
       "trackId": 1789290488,
       "rating": 4.9,
-      "ratingCount": 50,
+      "ratingCount": 51,
       "episodeCount": null
     }
   },
@@ -24,7 +24,7 @@
     "histoire"
   ],
   "addedAt": "2026-06-24",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "étoile filante #11 : fanny fillesoye, du burn out à 2500€ / mois (en seulement 3 mois)",
@@ -50,25 +50,29 @@
   "derniere_activite": "2026-09-06",
   "frequence_jours": 6,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-02",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Marichankobe",
+        "titre": "Superbe!",
+        "texte": "Trop contente de t’écouter sur des sujets aussi passionnants! Hâte de ce rendez-vous hebdomadaire (?)! En réponse au podcast du samedi 18/01, pourrais-tu partager les livres (marketing - business - gestion financière etc) que tu as aimé et que tu recommandes? Je suis plutôt novic…"
+      },
+      {
+        "note": 5,
+        "auteur": "Katy Hor",
+        "titre": "Se choisir enfin 🙏🏼",
+        "texte": "Ton épisode sur le people pleasing m’a profondément parlé. Je suis passée par là, j’ai fait le chemin, et aujourd’hui je suis enfin moi. T’entendre poser ces mots, c’est comme une confirmation : on a le droit de se choisir sans avoir à se justifier.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Nouz397",
+        "titre": "Super inspirant !",
+        "texte": "Top Marion, j’adore t’écouter et je ne prends pas toujours le temps de commenter mais à chaque fois que tu dis : « dites-moi si vous voulez que je développe ce point », c’est toujours un grand oui ! Je me régale et prends ma dose d’inspiration à chaque fois :-)"
+      }
     ]
   }
 }

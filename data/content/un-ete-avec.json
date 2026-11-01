@@ -26,27 +26,31 @@
     "culture"
   ],
   "addedAt": "2026-06-24",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-30",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Soizic17",
+        "titre": "Un été d’aventures et d’humanité",
+        "texte": "Un été d’aventures avec deux hommes exceptionnels, deux écrivains dont un conteur. Qui a le plus magnifique talent d’écriture ? Je ne chercherai pas à les départager. Je retiens avant tout le fil de vie que ce feuilleton nous permet de ressentir.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Venu d'ailleurs",
+        "titre": "Décevant",
+        "texte": "Grosse déception à propos de cet Été avec Romain Gary tant Maria Pourchet n’a pas le niveau."
+      },
+      {
+        "note": 5,
+        "auteur": "Gru_27",
+        "titre": "Une fenêtre sur la vie d’Alexandre Dumas",
+        "texte": "Quel bonheur, ces quelques minutes chaque jour avec Alexandre Dumas. Écrivain formidable, à l’œuvre prolifique et à la vie qu’il n’aurait osée écrire lui-même. Merci !"
+      }
     ]
   }
 }

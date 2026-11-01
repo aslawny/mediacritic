@@ -25,7 +25,7 @@
     "histoire"
   ],
   "addedAt": "2026-07-12",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "Comment utiliser le SEO pour améliorer ses posts ? Ft. Vero Duong",
@@ -51,25 +51,29 @@
   "derniere_activite": "2023-01-27",
   "frequence_jours": 2,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-01",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Annefée",
+        "titre": "Merci pour vos posts.",
+        "texte": "Merci pour vos posts qui m’apportent beaucoup d’informations intéressantes. J’ai une question concernant la création d’une compte professionnel. Ayant déjà un compte privé, on ne m’a pas permis de créer un compte professionnel. Comment se fait-il …"
+      },
+      {
+        "note": 5,
+        "auteur": "Naneofromage",
+        "titre": "Simple clair et efficace",
+        "texte": "J’aime ces conseils à la portée de tous, très didactiques, et le ton d’Aurelie Moulin. Et le format court, c’est parfait. Merci et vivement la saison 2. Je vais écouter le podcast sur le story telling tiens"
+      },
+      {
+        "note": 5,
+        "auteur": "InCuteKaroline",
+        "titre": "Aurélie c’est la meilleure",
+        "texte": "Franchement sa conscience professionnelle font de ce podcast un véritable outils, j’ai déjà la formation qu’elle propose mais ici ça me rappelle ce que j’ai oublié ! C’est fort. Bravo !"
+      }
     ]
   }
 }

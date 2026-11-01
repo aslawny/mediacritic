@@ -26,7 +26,7 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "#136 - Deliveroo : les secrets d'une marque ancrée dans le quotidien des Français, avec Melvina Sarfati El Gra",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-07-30",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-01",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "El Chico Tino",
+        "titre": "Podcast très intéressant…un plaisir à écouter !",
+        "texte": "Je viens d’écouter l’épisode sur la marque Lush et c’était très intéressant de découvrir les initiatives et les engagements de la marque qui sait se différencier dans un marché très concurrentiel .…"
+      },
+      {
+        "note": 1,
+        "auteur": "emmanuelbrejon",
+        "titre": "Très décevant pour des personnes qui ont tellement de choses à raconter",
+        "texte": "Je trouve ce podcast vraiment décevant. Vous avez en face du micro des pointures qui auraient énormément à partager, et on se retrouve avec des questions de base qui n’ont aucun intérêt et surtout aucune « épaisseur » ni humaine, ni professionnelle… Très très déçu! Inspirez-vous,…"
+      },
+      {
+        "note": 5,
+        "auteur": "carolinemignaux",
+        "titre": "Équipe géniale, podcast au top",
+        "texte": "Ces mecs là sont super talentueux, humbles et rigolos… à l’image de leurs merveilleux médias ! Gardez la pêche et force sur vous ❤️"
+      }
     ]
   }
 }

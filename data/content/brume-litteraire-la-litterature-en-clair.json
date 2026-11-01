@@ -27,7 +27,7 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "Le Fantôme de l'Opéra, Gaston Leroux - L'histoire d'une figure qui a dépassé la littérature",
@@ -53,25 +53,29 @@
   "derniere_activite": "2026-08-13",
   "frequence_jours": 19,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-01",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pauline Foulon",
+        "titre": "Le podcast qui interroge et donne envie de lire en même temps",
+        "texte": "Un excellent podcast qui ne fait pas que résumer les livres. C’est une plongée immersive dans les mots. Ce qu’ils nous font vivre, les interrogations qu’ils soulèvent. Bravo !"
+      },
+      {
+        "note": 3,
+        "auteur": "Loustalado",
+        "titre": "Brume littéraire",
+        "texte": "Je trouve votre podcast intéressant, il donne envie de lire certains ouvrages même s’il divulgache un peu. En revanche je trouve très regrettable que vous n’utilisiez aucune négation. Ce n’est pas agréable à écouter mais cela peut se corriger."
+      },
+      {
+        "note": 5,
+        "auteur": "Monyahah",
+        "titre": "Très bien fait!",
+        "texte": "C’est pas juste un résumé, on dirait la version augmentée avec des arguments, une pensée claire et fidèle au livre! Vraiment très bien fait! Merci pour ces brèves!"
+      }
     ]
   }
 }

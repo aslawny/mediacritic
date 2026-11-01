@@ -25,7 +25,7 @@
   "tags": [
     "histoire"
   ],
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "1- Les grands moments d'un président",
@@ -51,25 +51,29 @@
   "derniere_activite": "2019-10-03",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-29",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Montova",
+        "titre": "Très bonne émission",
+        "texte": "Très bonne émission qui allie pour ses deux premiers volets, consacrés à la naissance de la vème république (1958) et à la décision d'élire le président de la république au suffrage universel (1962), analyse historique et politique ainsi qu'éclairage constitutionnel.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Alain9275",
+        "titre": "Merci pour cette émission très intéressante",
+        "texte": "De très bons moments à écouter pour se remémorer notre histoire et prendre du recul sur ce qu'on nous raconte au moment des élections et comparer les faits. Merci vraiment de cette initiative pendant l'été."
+      },
+      {
+        "note": 5,
+        "auteur": "iTunes ! ;-) mdr..",
+        "titre": "Très agréable et intéressant",
+        "texte": "Je passe un très bon moment à réécouter des pans entiers de notre histoire."
+      }
     ]
   }
 }

@@ -24,7 +24,7 @@
     "culture",
     "société"
   ],
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "Cellules dendritiques : à quoi servent ces « sentinelles » du corps humain ?",
@@ -50,25 +50,29 @@
   "derniere_activite": "2026-07-15",
   "frequence_jours": 6,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-29",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "MamaCat2612",
+        "titre": "Une mine de savoir pour se cultiver",
+        "texte": "La plateforme est géniale pour découvrir des sujets qui ne sont traités nulle part ailleurs. J’adore l’émission de conversation avec les académiciens, Affinités électives, un entretien fleuve avec les esprits les plus brillants et exigeants. Une pépite !"
+      },
+      {
+        "note": 2,
+        "auteur": "Venu d'ailleurs",
+        "titre": "Intéressant malgré la qualité technique de l’enregistrement",
+        "texte": "Intéressant malgré la qualité technique de l’enregistrement particulièrement calamiteuse. Par ailleurs, l’hôte et ses invités devraient éviter de se tutoyer."
+      },
+      {
+        "note": 5,
+        "auteur": "Jack8813",
+        "titre": "Excellent mais parfais difficile à entendre",
+        "texte": "Cette chaîne est excellente. Mais, il faut faire quelque chose pour les séances publiques en particulier pour les questions. L’enregistrement est souvent inaudible."
+      }
     ]
   }
 }

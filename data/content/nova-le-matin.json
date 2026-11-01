@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/nova-le-matin/id1708870925?uo=4",
       "trackId": 1708870925,
       "rating": 4.8,
-      "ratingCount": 57,
+      "ratingCount": 58,
       "episodeCount": 1000
     }
   },
@@ -24,7 +24,7 @@
   "tags": [
     "histoire"
   ],
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "Nova le matin… si vous dormiez - Mercredi 16 septembre 2026",
@@ -50,25 +50,29 @@
   "derniere_activite": "2026-09-16",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-01",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lokan17",
+        "titre": "WOW",
+        "texte": "Je pensais avoir tiré un trait avec la radio mais quelle découverte , au détour de vacances chez famille , je prends la voiture familiale et la je tombe sur cette émission que j’écoute maintenant tout le temps en podcast"
+      },
+      {
+        "note": 5,
+        "auteur": "NVTHVNBLAKS",
+        "titre": "Louise Petrouchka (♥ω♥)",
+        "texte": "J’adore Sego, mais tomber sur la voix de Louise le matin en allant au taf c’était impeccable 👌 j’attends avec impatience les soirées Charline X Louise !"
+      },
+      {
+        "note": 5,
+        "auteur": "helenelecomte",
+        "titre": "✨",
+        "texte": "mettez le son plus fort ! vous êtes beaucoup moins fort que d’autres radios et quand vous êtes dans une playlist, on ne vous entend pas…"
+      }
     ]
   }
 }

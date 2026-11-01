@@ -24,7 +24,7 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "Ce que les égyptologues viennent de découvrir sur les pharaons",
@@ -50,25 +50,29 @@
   "derniere_activite": "2026-06-07",
   "frequence_jours": 11,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-01",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Umibra",
+        "titre": "Excellent",
+        "texte": "Le concept est génial, les conversations extrêmement intéressantes de la food pour le cerveau exactement comme on aime. Merci beaucoup"
+      },
+      {
+        "note": 5,
+        "auteur": "Elisalep",
+        "titre": "Super contenu",
+        "texte": "Merci pour ce contenu qualitatif et varié. Serait-ce possible d’inviter Arthur Keller pour un prochain épisode ?"
+      },
+      {
+        "note": 5,
+        "auteur": "Arnaud 39",
+        "titre": "Invité au top.",
+        "texte": "Place à un nouveau format pour Yann, accompagné de personnalités de référence."
+      }
     ]
   }
 }

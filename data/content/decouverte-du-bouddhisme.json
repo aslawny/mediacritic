@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/d%C3%A9couverte-du-bouddhisme/id1593343268?uo=2",
       "trackId": 1593343268,
       "rating": 4.4,
-      "ratingCount": 49,
+      "ratingCount": 50,
       "episodeCount": null
     }
   },
@@ -26,7 +26,7 @@
     "vulgarisation"
   ],
   "addedAt": "2026-06-09",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "92 #🔴Fin du cursus - Téléchargez les enseignements 💫🙏🏻",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-02",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-01",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Niamor777",
+        "titre": "Pourquoi avoir enlevé les anciens ?",
+        "texte": "Bonjour. J’ai récemment découvert votre podcast et merci pour vos enseignements. Néanmoins, suivant les cours du cursus 2022/2024, quelle surprise de les voir supprimées… Pouvez vous les remettre s’il vous plaît. Ça me serait d’une grande utilité pour continuer mon cursus.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Fatima 123 merci",
+        "titre": "Déçu",
+        "texte": "Bonjour je suis musulmane et j aime beaucoup découvrir de nouvelles choses plus particulièrement les différentes cultures de nos autres frères et sœurs habitants de la terre .…"
+      },
+      {
+        "note": 5,
+        "auteur": "Llllllllllll348501",
+        "titre": "Continuer l’ancien cursus",
+        "texte": "Bonjour, Un nouveau cursus ayant débuté, les anciens épisodes ont étés retirés. Pour les personnes qui désirent recevoir les enseignements du précédent cursus, écrivez à l’adresse indiquée dans contact en description de chaque épisode. Merci et bonne écoute 🙏"
+      }
     ]
   }
 }

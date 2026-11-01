@@ -24,7 +24,7 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "Quand on bâtissait une cathédrale au Moyen Âge",
@@ -50,25 +50,29 @@
   "derniere_activite": "2024-11-06",
   "frequence_jours": 6,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-30",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "PPH74",
+        "titre": "Toujours passionnant, car reflet de la vérité.",
+        "texte": "Merci pour les sujets abordées, sans partis pris, toujours passionnants. L’ouverture d’esprit de RCF la réalité, même dérangeante pour certain, est toute l’honneur de cette émission et de cette radio !"
+      },
+      {
+        "note": 1,
+        "auteur": "nath06822",
+        "titre": "Outrée",
+        "texte": "L’épisode sur les chrétiens en camps de concentration m’a révulsé tant par le ton utilisé, que par le récit fait par l’invité du jour. Ces « chrétiens » si solidaires les uns avec les autres, avec leurs petites attentions qu’on dirigeait vers d’autres chrétiens, tournaient ils le…"
+      },
+      {
+        "note": 5,
+        "auteur": "Cendrenparis",
+        "titre": "Incontournable",
+        "texte": "Une des meilleurs émissions d'histoire à la radio. Toujours de bons intervenants et de bons sujets"
+      }
     ]
   }
 }

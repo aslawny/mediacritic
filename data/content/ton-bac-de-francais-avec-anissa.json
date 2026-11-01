@@ -25,7 +25,7 @@
     "education"
   ],
   "addedAt": "2026-06-09",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "Alfred de Musset - On ne badine pas avec l'amour",
@@ -51,25 +51,29 @@
   "derniere_activite": "2024-09-30",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-01",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Julie Sco",
+        "titre": "Trop pratique !",
+        "texte": "J’écoute ça le matin pour dans le métro et c’est génial!! Un podcast qui dépanne vraiment pour réviser"
+      },
+      {
+        "note": 1,
+        "auteur": "unwwwwan",
+        "titre": "nul",
+        "texte": "inutile ecoutez si vous voulez rater votre bac l’education en mode jeu mais ou va t’on (termes prank, fortnite..) passons"
+      },
+      {
+        "note": 3,
+        "auteur": "soso_le_piaf",
+        "titre": "Bien",
+        "texte": "Intéressant mais de doit être complété par un cours ou un autre support d’apprentissage. Il faudrait aborder les thèmes clés de dissert plus en profondeur"
+      }
     ]
   }
 }

@@ -25,27 +25,31 @@
     "christianisme"
   ],
   "addedAt": "2026-10-02",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-02",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Spockas57",
+        "titre": "Indispensablement utile",
+        "texte": "Quelle très bonne idée ! Hyper utile pour ceux qui n’ont pas forcément le temps et la force de lire au quotidien. Faisant pas mal de route, c’est vraiment agréable d’être au bénéfice de l’écoute de la Parole et d’être ainsi renouvelé.…"
+      },
+      {
+        "note": 2,
+        "auteur": "Aude G",
+        "titre": "Dommage de nier la science",
+        "texte": "Je voulais écouter ce podcast pour m’instruire et l’homme qui raconte est visiblement plein d’amour et de bonne volonté, ce que je salue. Mais je préfère mettre une mauvaise note et un avis négatif si d’autres cherchaient la même chose que moi car on ne peut pas s’instruire quand…"
+      },
+      {
+        "note": 5,
+        "auteur": "Pascale2110",
+        "titre": "Merci",
+        "texte": "Dans les moments difficiles comme dans les moments joyeux l’écoute de la parole du seigneur m’apporte la sérénité . Merci pour cette bienveillante initiative."
+      }
     ]
   },
   "episodes_recents": [

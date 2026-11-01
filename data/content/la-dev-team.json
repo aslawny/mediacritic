@@ -26,7 +26,7 @@
     "jeux inde"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "Réunion (La Dev Team #HS5)",
@@ -52,25 +52,29 @@
   "derniere_activite": "2019-12-07",
   "frequence_jours": 15,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-09-30",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "yul57",
+        "titre": "Génial!",
+        "texte": "Un podcast sur l’actualité et débats sur les jeux vidéo en général fait par des professionnels pour des néophytes comme des confirmés!"
+      },
+      {
+        "note": 5,
+        "auteur": "thenew.fr",
+        "titre": "Where the magic happens",
+        "texte": "Des créateurs ou acteurs du marché qui réfléchissent sur leur média. Intéressant. Bel habillage sonore et graphique."
+      },
+      {
+        "note": 5,
+        "auteur": "Benjop",
+        "titre": "Excellent podcast",
+        "texte": "Des avis intéressants de l'intérieur de monde de la création de jeux vidéo. Ça donne envie d'y rentrer :)"
+      }
     ]
   }
 }

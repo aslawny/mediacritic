@@ -24,7 +24,7 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "Cyril Hanouna et les merguez sur Fun Radio - L'intégrale du 31 août",
@@ -50,25 +50,29 @@
   "derniere_activite": "2026-08-31",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-01",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "MaximilienB-L",
+        "titre": "Mauvais découpage",
+        "texte": "L’émission est super mais le découpage du podcast laisse vraiment à désirer. Entre les parties manquantes et les pubs en plein milieu d’une phrase ça fait un peu beaucoup…"
+      },
+      {
+        "note": 1,
+        "auteur": "Cyril75018",
+        "titre": "C’est le stagiaire qui monte le podcast ?",
+        "texte": "L’émission est très divertissante mais par contre le podcast est découpé de manière horrible. Faites attention aux auditeurs svp… c’est l’avenir de la radio ;)"
+      },
+      {
+        "note": 4,
+        "auteur": "Clemcyr",
+        "titre": "Podcast mal montés !",
+        "texte": "L’émission est très drôle mais le montage des podcasts est catastrophique, avec de nombreux passages manquants et parfois la fin de l’émission. Un exemple avec l’épisode complet du 17 novembre avec l’appel Warren dont la première partie est manquante."
+      }
     ]
   }
 }

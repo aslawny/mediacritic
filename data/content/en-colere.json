@@ -25,27 +25,31 @@
     "temoignage"
   ],
   "addedAt": "2026-10-02",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-02",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Julie Sco",
+        "titre": "Jubilatoire !",
+        "texte": "Un podcast empreint de vérité, et de révolte. C’est une bouffée d’air frais. Aussi hilarant qu’inspirant. Merci Ira, on en veut plus 🙏"
+      },
+      {
+        "note": 1,
+        "auteur": "Yevgueny",
+        "titre": "Bon podcast de la bien-pensance",
+        "texte": "Il suffit de lire les titres pour savoir ce qu’il sera dit. Bref, dans la mouvance de tous ces podcasts mielleux qui aime se croire du côté du bien, sans nuance."
+      },
+      {
+        "note": 5,
+        "auteur": "suziecpt",
+        "titre": "J’ADOOORE 🔥",
+        "texte": "Documenté, pertinent, drôle, instructif, moderne, toujours juste. Bref, GÉNIAL ! Vous allez vous régaler…. et vous mettre en colère !"
+      }
     ]
   },
   "episodes_recents": [

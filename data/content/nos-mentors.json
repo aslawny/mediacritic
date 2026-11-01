@@ -23,7 +23,7 @@
     "business",
     "entrepreneuriat"
   ],
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "FOOD - 12 - Delphine Plisson (Maison Plisson) : le goût des autres",
@@ -49,25 +49,29 @@
   "derniere_activite": "2021-10-03",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-01",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-01",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Robin GD",
+        "titre": "Podcast super intéressant pour les étudiants",
+        "texte": "Supers invités, hâte d’écouter la suite !! Ca nous fait nous rendre compte que toutes les personnes qui ont réussi étaient à notre place d’étudiant avant. Avec les doutes, les erreurs et les aventures que cela implique. Bravo !"
+      },
+      {
+        "note": 5,
+        "auteur": "Un_client_pas_contant",
+        "titre": "Podcasts plus qu’inspirants",
+        "texte": "Moi-même CEO d’une jeune start-up, j’écoute ces podcasts pour éviter de reproduire les erreurs d’autres personnes. Le son est très qualitatif, et les invités sont d’exception. Merci pour ce contenu !"
+      },
+      {
+        "note": 5,
+        "auteur": "anlizl",
+        "titre": "Bravo",
+        "texte": "Super podcast si enrichissant et unique : faire echanger les generations . On en veut plus des comme ca !"
+      }
     ]
   }
 }
