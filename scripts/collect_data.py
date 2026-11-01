@@ -1326,13 +1326,19 @@ if __name__ == "__main__":
     if args.mode == "youtube" or (args.youtube_quotidien and args.mode in ("podcast", "refresh")):
         # Decouverte de nouvelles chaines YouTube (jour « youtube » du cycle,
         # et chaque jour avec --youtube-quotidien)
-        collect_youtube_catalog(args.youtube_key)   # liste statique (nouvelles entrees si ajoutees)
-        # Source 1 : harvest depuis les chaines connues (featuredChannels)
-        harvest_youtube_related(args.youtube_key)
-        # Source 2 : requetes de recherche YouTube (rotation dans le pool)
-        yt_slice, next_yt_idx = get_query_slice(YOUTUBE_DISCOVERY_QUERIES, qstate.get("youtube_idx", 0), YOUTUBE_QUERIES_PER_RUN)
-        discover_youtube_channels(args.youtube_key, query_list=yt_slice)
-        qstate["youtube_idx"] = next_yt_idx
+        # Une erreur d'API (quota depasse, 403) ne doit pas faire perdre tout
+        # le passage : la tache du 01/11/2026 a plante ici apres 6 min de
+        # travail. Les chaines deja trouvees restent sur le disque.
+        try:
+            collect_youtube_catalog(args.youtube_key)   # liste statique (nouvelles entrees si ajoutees)
+            # Source 1 : harvest depuis les chaines connues (featuredChannels)
+            harvest_youtube_related(args.youtube_key)
+            # Source 2 : requetes de recherche YouTube (rotation dans le pool)
+            yt_slice, next_yt_idx = get_query_slice(YOUTUBE_DISCOVERY_QUERIES, qstate.get("youtube_idx", 0), YOUTUBE_QUERIES_PER_RUN)
+            discover_youtube_channels(args.youtube_key, query_list=yt_slice)
+            qstate["youtube_idx"] = next_yt_idx
+        except Exception as e:
+            print(f"  ! découverte YouTube interrompue : {e}")
 
     if args.mode == "all":
         collect_itunes_top_charts()
