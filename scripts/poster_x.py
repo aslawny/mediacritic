@@ -130,6 +130,9 @@ def message(e, comptes):
         tete = ("🔥 La chaîne du jour" if e.get("type") == "youtube" else "🔥 Le podcast du jour")
         ep = (e.get("episode") or {}).get("titre", "")
         corps = f"« {e['sujet']} » fait l'actu : {e['titre']} en parle dans « {ep} »."
+    elif e.get("mode") == "episode":
+        tete = ("🔥 La chaîne du jour" if e.get("type") == "youtube" else "🔥 Le podcast du jour")
+        corps = e["pourquoi"]
     else:
         tete = "💎 La pépite du jour"
         corps = f"{e['titre']}, podcast indépendant à découvrir."

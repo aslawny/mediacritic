@@ -346,6 +346,16 @@ def main():
         run(["git", "push", "origin", f"HEAD:refs/heads/ep{ep}-staging", "--force"])
         print(f"  ✓ sauvegarde poussée sur ep{ep}-staging")
 
+    if args.push and not hors_serie:
+        # Jour de sortie : le podcast du jour est l'emission critiquee, avec
+        # note, verdict et lien vers notre page (regle du 01/11/2026).
+        run([sys.executable, "scripts/du_jour.py", "--episode", args.manifest])
+        run([sys.executable, "scripts/generate_fiches.py"])
+        run([sys.executable, "scripts/generate_du_jour.py"])
+        run(["git", "add", "-A"])
+        run(["git", "commit", "-m", f"Podcast du jour : emission de l'episode {ep}\n\n"
+             "Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\n"], check=False, capture=True)
+
     if args.push:
         if run(["git", "push", "origin", "gh-pages"], check=False).returncode != 0:
             print("  … push rejeté, rebase sur origin/gh-pages")

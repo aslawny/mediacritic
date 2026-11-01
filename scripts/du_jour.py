@@ -31,6 +31,7 @@ Usage :
   python scripts/du_jour.py --date 2026-10-25
 """
 import argparse
+import difflib
 import hashlib
 import html
 import json
@@ -539,6 +540,101 @@ def date_fr(iso):
     return f"{d.day if d.day > 1 else '1er'} {MOIS[d.month - 1]}"
 
 
+# --------------------------------------------------------------------------
+# JOUR DE SORTIE D'UN EPISODE MEDIACRITIC (regle de l'utilisateur, 01/11/2026) :
+# le podcast du jour est FORCEMENT l'emission critiquee ce jour-la. Passe
+# avant le calendrier, l'actu et les regles de repetition / thematique.
+#   - le bot detecte la sortie sur le flux Deezer de MediaCritic ;
+#   - au go, publish_episode.py --push appelle `du_jour.py --episode manifest`,
+#     qui remplace le choix du jour et ajoute note, verdict et lien de la page.
+# --------------------------------------------------------------------------
+DEEZER_MC = "https://api.deezer.com/podcast/1002376672/episodes?limit=3"
+
+
+def sortie_du_jour(jour):
+    """Episode de MediaCritic sorti ce jour-la : {num, titre, url} ou None."""
+    try:
+        eps = lire_json(DEEZER_MC)["data"]
+    except Exception as e:
+        print(f"  ! flux de MediaCritic indisponible : {e}")
+        return None
+    for e in eps:
+        if (e.get("release_date") or "")[:10] != jour.isoformat():
+            continue
+        brut = e.get("title") or ""
+        m = re.search(r"ep\s*(\d+)", brut, re.I)
+        titre = re.sub(r"^\s*S\d+\s*-?\s*Ep\s*\d+\s*", "", brut, flags=re.I)
+        titre = re.sub(r"\s*\(.*?\)\s*$", "", titre).strip()
+        return {"num": int(m.group(1)) if m else None, "titre": titre,
+                "url": f"https://www.deezer.com/fr/episode/{e['id']}"}
+    return None
+
+
+def trouver_slug(titre, cat):
+    """Fiche de l'emission : titre exact, sinon tres proche (fautes de frappe)."""
+    cible = norm(titre).strip()
+    par_titre = {norm(c.get("title")).strip(): s for s, c in cat.items()}
+    if cible in par_titre:
+        return par_titre[cible]
+    proches = difflib.get_close_matches(cible, list(par_titre), n=1, cutoff=0.85)
+    return par_titre[proches[0]] if proches else None
+
+
+def entree_episode(jour, slug, num, url, note=None, verdict=None):
+    cat = charger_catalogue()
+    c = cat.get(slug) or {}
+    f = fiche(slug) or {}
+    titre = c.get("title") or f.get("title") or slug
+    type_ = c.get("type") or f.get("type")
+    auteur = (c.get("author") or f.get("author") or "").strip()
+    tete = f"{titre} — " + ("chaîne YouTube" if type_ == "youtube" else "podcast") \
+        + (f" de {auteur}" if auteur and norm(auteur) != norm(titre) else "")
+    pres = html.unescape(phrase_description(slug, maxi=200))
+    if pres.startswith("Critique et analyse"):
+        pres = ""
+    n_ep = f"l'épisode {num}" if num else "un nouvel épisode"
+    pourquoi = f"Parce que nous venons de lui consacrer {n_ep} de MediaCritic, à écouter dès aujourd'hui."
+    if note:
+        pourquoi += f" Notre note : {str(note).replace('.', ',')}/10."
+    if verdict:
+        pourquoi += f" Notre verdict : « {verdict} »"
+    return {
+        "date": jour.isoformat(), "mode": "episode", "slug": slug, "titre": titre, "type": type_,
+        "auteur": auteur, "image": c.get("image") or f.get("image") or "",
+        "independant": bool(c.get("independant")), "mcNote": note or c.get("mcNote"),
+        "episode": {"titre": f"MediaCritic, épisode {num}" if num else "MediaCritic",
+                    "date": jour.isoformat(), "url": url},
+        "pourquoi": f"Notre nouvel épisode sort aujourd'hui : MediaCritic critique {titre}.",
+        "presentation": pres,
+        "sections": [
+            ["L'actu qui a fait le buzz", f"Notre nouvel épisode sort aujourd'hui : {n_ep} de MediaCritic est consacré à {titre}."],
+            ["L'émission", f"{tete}. {pres}" if pres else f"{tete}."],
+            ["Pourquoi l'écouter", pourquoi],
+        ],
+        "reseaux": reseaux_emission(slug, type_),
+        "thematique": thematique(c),
+    }
+
+
+def enregistrer(etat, choix):
+    """Ecrit le choix du jour, en remplacant un eventuel choix deja fait."""
+    jour = choix["date"]
+    anciens = [h for h in etat["historique"] if h["date"] == jour]
+    etat["historique"] = [choix] + [h for h in etat["historique"] if h["date"] != jour]
+    etat["historique"] = etat["historique"][:HISTORIQUE_MAX]
+    SORTIE.write_text(json.dumps(etat, ensure_ascii=False, indent=1), encoding="utf-8")
+    # Fiches a regenerer (mention « Podcast du jour » posee ou retiree), visuels
+    # d'un choix remplace a refaire.
+    for slug in {choix["slug"], *(h["slug"] for h in anciens)}:
+        p = DATA / "content" / f"{slug}.json"
+        if p.exists():
+            os.utime(p)
+    if anciens:
+        for v in (ROOT / "assets" / "du-jour").glob(f"{jour}*.jpg"):
+            v.unlink()
+    print(f"data/du_jour.json écrit : {choix['titre']} ({choix['mode']})")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
@@ -546,14 +642,46 @@ def main():
     # Sujet impose par l'equipe (30/10/2026 : « Halloween »). Le lien direct
     # reste obligatoire : un episode recent doit nommer le sujet.
     ap.add_argument("--sujet")
+    # Au go d'un episode : force le choix du jour sur l'emission critiquee.
+    ap.add_argument("--episode", help="manifest de l'episode publie")
     a = ap.parse_args()
     jour = date.fromisoformat(a.date) if a.date else datetime.now(timezone.utc).date()
 
     etat = json.loads(SORTIE.read_text(encoding="utf-8")) if SORTIE.exists() else {"historique": []}
     hist = etat["historique"]
+
+    if a.episode:
+        m = json.loads(Path(a.episode).read_text(encoding="utf-8"))
+        # Publication le jour de la sortie seulement : un go tardif ne doit pas
+        # remplacer le choix d'un autre jour.
+        if not (jour.weekday() == 6 or sortie_du_jour(jour)):
+            print("Pas un jour de sortie : le podcast du jour reste inchangé.")
+            return
+        url = f"https://www.mediacritic.fr/episodes/{m['page']}"
+        enregistrer(etat, entree_episode(jour, m["slug"], m["ep"], url, m.get("note"), m.get("verdict")))
+        return
+
     if any(h["date"] == jour.isoformat() for h in hist) and not a.dry_run:
         print(f"Podcast du jour déjà choisi pour le {jour} : rien à faire.")
         return
+
+    # Jour de sortie d'un episode : l'emission critiquee, forcement.
+    if not a.sujet:
+        tot = not a.date and datetime.now(timezone.utc).hour < 9
+        sortie = sortie_du_jour(jour)
+        slug = trouver_slug(sortie["titre"], charger_catalogue()) if sortie else None
+        if slug:
+            choix = entree_episode(jour, slug, sortie["num"], sortie["url"])
+            print(f"Jour de sortie : {choix['titre']}")
+            for t, v in choix["sections"]:
+                print(f"  ## {t} : {v}")
+            if not a.dry_run:
+                enregistrer(etat, choix)
+            return
+        # Dimanche : l'episode sort a 8 h ; on attend le passage suivant.
+        if tot and (sortie or jour.weekday() == 6):
+            print("Jour de sortie : épisode pas encore détecté, nouvel essai au prochain passage.")
+            return
 
     print("1. Sujets du jour")
     wiki = [] if a.sujet else sujets_wikipedia(jour)

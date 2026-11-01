@@ -92,6 +92,8 @@ def carte(c, prefixe="", titre_tag="h2", lien_archive=True):
     boutons = []
     if ep.get("url"):
         lib = "▶ Voir la vidéo" if c.get("type") == "youtube" else "▶ Écouter l'épisode"
+        if c.get("mode") == "episode":
+            lib = "▶ Notre critique"
         boutons.append(f'<a class="mcj-btn mcj-btn-1" href="{h(ep["url"])}" target="_blank" '
                        f'rel="noopener">{lib}</a>')
     boutons.append(f'<a class="mcj-btn" href="{prefixe}fiches/{h(c["slug"])}.html">Voir la fiche</a>')
@@ -148,6 +150,7 @@ def page_archive(hist):
     for c in hist[1:120]:
         ep = c.get("episode") or {}
         quoi = (f'« {h(c.get("sujet"))} » — {h(ep.get("titre"))}' if c.get("mode") == "actu"
+                else h(ep.get("titre")) if c.get("mode") == "episode"
                 else "Pépite indépendante")
         lignes.append(
             f'<li class="mcj-l"><span class="mcj-l-date">{h(date_fr(c["date"], True))}</span>'
@@ -413,7 +416,9 @@ def visuels(c):
             print(f"  ! couverture non téléchargée : {e}")
     orange, texte, gris, vert = (232, 98, 45), (238, 242, 247), (170, 180, 195), (52, 199, 123)
     ep = c.get("episode") or {}
-    sous_titre = (f"« {c['sujet']} » fait l'actu" if c.get("mode") == "actu" else "Pépite indépendante")
+    sous_titre = (f"« {c['sujet']} » fait l'actu" if c.get("mode") == "actu"
+                  else "Notre nouvel épisode" if c.get("mode") == "episode"
+                  else "Pépite indépendante")
     detail = (f"Dans « {ep.get('titre')} »" if c.get("mode") == "actu" else
               (c.get("presentation") or ""))
     for suffixe, (W, H) in (("", (1200, 630)), ("-carre", (1080, 1080))):
