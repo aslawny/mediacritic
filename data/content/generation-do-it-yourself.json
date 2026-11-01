@@ -21,12 +21,15 @@
       "episodeCount": 995
     }
   },
-  "mediacritic": null,
+  "mediacritic": {
+    "ep": 53,
+    "url": "https://www.mediacritic.fr/episodes/generation-do-it-yourself.html"
+  },
   "tags": [
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-11-01",
   "episodes_recents": [
     {
       "titre": "#563 - Benoit Bazin - Saint-Gobain - Tripler la valorisation de la plus vieille entreprise du CAC 40",

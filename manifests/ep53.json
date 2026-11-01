@@ -1,0 +1,26 @@
+{
+  "ep": 53,
+  "saison": 2,
+  "slug": "generation-do-it-yourself",
+  "page": "generation-do-it-yourself.html",
+  "title": "Génération Do It Yourself",
+  "tagline": "Le podcast de Matthieu Stefani",
+  "meta_desc": "MediaCritic analyse Génération Do It Yourself (GDIY), le podcast d'interviews de Matthieu Stefani : deux heures par invité depuis 2017, et nos réserves.",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6e/c3/2b/6ec32b79-2560-40a5-3f5a-3fe7e677fa70/mza_7744718912297422250.jpg/600x600bb.jpg",
+  "initials": "GD",
+  "type_line": "Podcast · Entrepreneuriat · Interviews · Depuis 2017",
+  "hosts_line": "Animé par <strong>Alex · Lolo</strong>",
+  "authors": [
+    "Alex",
+    "Lolo"
+  ],
+  "buttons": [
+    {
+      "href": "https://podcasts.apple.com/fr/podcast/g%C3%A9n%C3%A9ration-do-it-yourself/id1209142994",
+      "label": "🎙️ Le podcast"
+    }
+  ],
+  "note": 8.5,
+  "verdict": "Le GOAT du podcast business : deux heures pour faire tomber les masques, quitte à parler de son boucher à un patron du CAC 40.",
+  "content_file": "manifests/ep53-content.html"
+}
