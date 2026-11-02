@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2021-01-08",
-  "frequence_jours": 43
+  "frequence_jours": 43,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "-Aude-",
+        "titre": "Le premier pas vers l’aventure",
+        "texte": "Tout projet d’aventure nait d’un déclic, souvent même d’un rêve. Ensuite, quand le projet prend place dans le réel, on commence à se poser des questions logistique, faisabilité, budget... et c’est là qu’un podcast comme Escapades en Tête démine tous vos doutes.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Capuseen",
+        "titre": "Inspirant pour passer le pas",
+        "texte": "Super podcast ! Je compte partir à vélo dans les mois qui viennent, c’est passionnant de découvrir les périples d’autres aventuriers dans l’âme, avec autant d’anecdotes captivantes que de conseils pratiques. Très bien animé et rythmé, hâte de découvrir les prochains 🤗"
+      },
+      {
+        "note": 5,
+        "auteur": "lifeisanadnventure",
+        "titre": "On a envie de se lancer",
+        "texte": "Loin des expéditions qui font rêver mais semblent inaccessibles, j’ai enfin trouvé un podcast qui inspire tout en mettant l’aventure à la portée de tout ceux qui souhaitent s’y essayer. Ça donne envie de ressortir le vélo et de partir à l’aventure !"
+      }
+    ]
+  }
 }

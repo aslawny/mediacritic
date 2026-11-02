@@ -51,25 +51,29 @@
   "derniere_activite": "2026-09-29",
   "frequence_jours": 215,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-03",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Nesus",
+        "titre": "Nesus",
+        "texte": "Bon c'est simple, de vrais experts d'Apple, avec le nez assez fin pour avoir suivi (et participé) à l'évolution d'Apple ces dernières années, qui nous content leur impression du moment et leur conseils. C'est intelligent, drôle et plein de bon conseil.…"
+      },
+      {
+        "note": 2,
+        "auteur": "AproXim",
+        "titre": "Bof",
+        "texte": "Inécoutable si on ne fait pas partie de la bobosphère qui crache son venin sur tout ce qui n'est pas apple ! un peu de retenue et d'objectivité sont necessaires! N'est pas Patrick Beja qui veut !"
+      },
+      {
+        "note": 5,
+        "auteur": "Sylvain G.",
+        "titre": "J'adore !",
+        "texte": "Enfin un podcast francophone qui reprend l'esprit de la bande de potes autour d'un micro. Bon OK, vous avez commence fort avec le Docteur. Le second episode parle de Dexter. C'est fini vous avez fait le tour de mes series preferees.…"
+      }
     ]
   }
 }

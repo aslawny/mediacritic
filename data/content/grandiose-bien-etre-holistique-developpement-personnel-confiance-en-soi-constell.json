@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-08-30",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Laetidbrv",
+        "titre": "Ma piqûre de rappel hebdo",
+        "texte": "Ce que je préfère dans le podcast de Vanessa, c’est son format court, droit au but, non moralisateur, mais avec toujours ce coup de pied aux fesses bienveillant pour nous rappeler qu’on a le pouvoir d’agir sur nous-mêmes, et notre vie.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Leslie.OBM",
+        "titre": "Une belle prise de conscience",
+        "texte": "J’ai beaucoup apprécié la façon dont Vanessa nous partage ses prises de conscience et son cheminement personnel. Ce podcast est précieux pour retrouver son chemin ou sa motivation quand la vie nous bouscule un peu trop fort. Merci pour ta générosité et tes partages inspirants !"
+      },
+      {
+        "note": 5,
+        "auteur": "Graphigarou",
+        "titre": "Précis et enthousiasmant",
+        "texte": "J’ai écouté un épisode et j’ai trouvé un podcast emballant et super pédagogique. Merci !"
+      }
+    ]
+  }
 }

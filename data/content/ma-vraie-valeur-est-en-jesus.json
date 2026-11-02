@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-07-10",
-  "frequence_jours": 66
+  "frequence_jours": 66,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Gloriaemmy",
+        "titre": "Je remercie Dieu pour ta vie !",
+        "texte": "Merci pour ce podcast ! Ce matin, il apparaît dans mes notifications et je crois vraiment que Dieu est passé à travers toi pour m’encourager alors peu importe ce que tu vis, je prie pour qu’Il puisse te fortifier, t’apporter sa joie et surtout sa paix qui surpasse toutes choses !…"
+      },
+      {
+        "note": 5,
+        "auteur": "Sofia.mil25",
+        "titre": "Sofia",
+        "texte": "Je suis musulmane, tes podcasts me touchent profondément. Ils sont une vraie source d’inspiration spirituelle. Merci pour ce que tu partages, en tant que sœur en foi et en humanité 🤍✨"
+      },
+      {
+        "note": 5,
+        "auteur": "madamecroit",
+        "titre": "Un podcast qui fait du bien, qui apaise et rempli de douceur",
+        "texte": "Chloé sait très bien nous guider vers le cœur de Dieu. Ces podcasts sont doux et paisible, on aimerait l’écouter toute la journée."
+      }
+    ]
+  }
 }

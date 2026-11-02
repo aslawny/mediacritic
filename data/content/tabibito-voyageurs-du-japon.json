@@ -52,25 +52,29 @@
   "derniere_activite": "2026-09-19",
   "frequence_jours": 77,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-03",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Aude231",
+        "titre": "Passionnant",
+        "texte": "Je vous découvre en préparant mon trip to Japon et je me régale de vos conseils. Vous êtes très agréables à écouter. Et dommage que la poke poke box ne soit plus acheminée vers l’Europe pour l’instant. Salutations"
+      },
+      {
+        "note": 5,
+        "auteur": "Titi_du_44",
+        "titre": "Un must !",
+        "texte": "Très agréable à écouter, vous êtes passionnés et passionnants, ça donne envie d’aller au Japon! Merci pour votre bonne humeur et continuez comme ça."
+      },
+      {
+        "note": 5,
+        "auteur": "Zack4791",
+        "titre": "Génial",
+        "texte": "3eme saison et toujours des épisodes passionnants, bravo à vous deux je prévois ma visite du Japon en fonction des épisodes et anecdotes 😊"
+      }
     ]
   }
 }

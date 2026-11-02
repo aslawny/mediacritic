@@ -51,5 +51,19 @@
     }
   ],
   "derniere_activite": "2026-09-11",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "titine1710",
+        "titre": "Sublime ♥️",
+        "texte": "J’adore écouter ce podcast qui raconte à la fois le travail et la vie privée. Merci de la voir crée !"
+      }
+    ]
+  }
 }

@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-30",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Chipili_86",
+        "titre": "Une petite graine…",
+        "texte": "À force de suivre les différents récits, une graine s’est plantée pour relier le cercle polaire en train en 2026…merci pour ces portraits passionnants de voyageurs intrépides."
+      },
+      {
+        "note": 2,
+        "auteur": "Clément E.",
+        "titre": "Qualité audio à revoir",
+        "texte": "Beaucoup se lancent dans le podcast mais passent à côté de l’essentiel : la mixage audio Il n’y a rien de plus frustrant, pour ma part, d’avoir une différence de volume telle que l’épisode devient inaudible.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Rogergvuh",
+        "titre": "Idéal pour inspirer des voyages",
+        "texte": "Echanges et formats intéressants pour apporter des nouvelles tonalités sur le voyage, des inspirations de destinations, et s’informer sur le sujet des transports"
+      }
+    ]
+  }
 }

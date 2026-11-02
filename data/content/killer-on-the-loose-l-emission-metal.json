@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-26",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Occitan12",
+        "titre": "Merci Killer On The Loose !!!",
+        "texte": "Superbe Émission, une équipe d’enfer, avec une programmation d’enfer. J’ai tellement hâte de vous écouter à chaque fois ! Continuez comme ça, on vous adore les mecs !"
+      },
+      {
+        "note": 5,
+        "auteur": "prémium",
+        "titre": "que du bon son!!",
+        "texte": "bonne équipe, bonne ambiance, bonne musique....... QUE DU BON !!! continuer comme ça les gars !!!"
+      },
+      {
+        "note": 5,
+        "auteur": "WallaceDoom",
+        "titre": "L'émission Metal de référence !",
+        "texte": "émission Metal indépendante, faite par des passionnés du genre !"
+      }
+    ]
+  }
 }

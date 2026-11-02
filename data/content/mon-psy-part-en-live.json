@@ -52,25 +52,29 @@
   "derniere_activite": "2026-09-03",
   "frequence_jours": 28,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-03",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "jojosantrella",
+        "titre": "Très bon Episode!",
+        "texte": "Merci pour cet épisode. Je pense à des connaissances qui ont été diagnostiqués depuis des décennies et qui justifient leurs comportements d’accord au diagnostique.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Armelle Brc",
+        "titre": "Vraiment super",
+        "texte": "Beaucoup de réponses à mes questions notamment l’épisode 1 cela m’a aidé à cerner mon problème toujours dans l’aide et refus de ma part de l’aide d’autrui. Je vais appliquer les conseils ! Un grand merci à Julien Borloz 😊"
+      },
+      {
+        "note": 5,
+        "auteur": "Loucelouce Manitou",
+        "titre": "C’est comme allumer la lumière",
+        "texte": "Tout est très clair. Et tout semble simple. La voix est très posée. Un petit bémol sur le volume du jingle qui est fort comparé à la voix. Tous mes encouragements pour la suite, ces podcasts m’ont vraiment beaucoup aidés"
+      }
     ]
   }
 }

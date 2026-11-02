@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2021-06-25",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Kerien",
+        "titre": "Excellent podcast sur l’actualité",
+        "texte": "Excellent podcast sur les nouvelles technologies. Ça brasse large et les experts donnent de très bons conseils. De plus le son est vraiment de qualité et on apprend plein de choses à chaque soir épisodes."
+      },
+      {
+        "note": 3,
+        "auteur": "Tom4sk",
+        "titre": "Très bon mais..",
+        "texte": "Souvent de bons sujet d’actualités tech. Pas assez souvent à mon goût contrairement à d’autre podcasteurs tech. Par contre, une chose assez insupportable, même si clairement ce n’est pas de sa faute : un des chroniqueurs doit avoir un appareil dentaire ce qui rend l’écoute assez…"
+      },
+      {
+        "note": 5,
+        "auteur": "leroideskiki",
+        "titre": "Cool",
+        "texte": "Émission intelligente et bien pensée, peut être un peu longue, notamment l’épisode de juillet ☺️"
+      }
+    ]
+  }
 }

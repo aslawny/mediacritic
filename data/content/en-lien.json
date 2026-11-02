@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-10-12",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tchatcha74",
+        "titre": "Libérateur",
+        "texte": "Cette approche éducative centrée sur la méditation plutôt que sur l’arbitrage m’apporte une nouvelle manière d’aborder les conflits entre mes deux filles. Une véritable ouverture d’esprit vers un positionnement plus sain dans la gestion du quotidien.…"
+      },
+      {
+        "note": 5,
+        "auteur": "ElsaPierret",
+        "titre": "Merci!!",
+        "texte": "Franchement hyper utile! C’est très construit et concret! Je pars avec mes enfants, 2 semaines seule donc je peux te dire que ça va grave me servir car ils se tapent l’un et l’autre bcp! Je vais essayer d’appliquer à fond! Ça donne de la force ce genre de podcast!"
+      },
+      {
+        "note": 5,
+        "auteur": "zouffin",
+        "titre": "Un des meilleurs podcast sur le sujet",
+        "texte": "Pourtant assez traditionnel et critiques sur les nouvelles méthodes d’éducation des enfants ce podcast m’a aidé à m’ouvrir l’esprit et entre voir d’autres possibilités"
+      }
+    ]
+  }
 }

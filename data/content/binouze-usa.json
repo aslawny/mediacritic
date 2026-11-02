@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-24",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-02",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Grendel12",
+        "titre": "And (craft) beer for all…",
+        "texte": "Deux voix très radiophoniques pour nous faire voyager et nous faire découvrir (ou pas) des bières américaines certes, mais aussi de tous horizons, dans une ambiance ASMbière, mais pas que : en écoutant les soupirs de bonheur et de contentement dans l’épisode sur la Smithwick’s, m…"
+      },
+      {
+        "note": 5,
+        "auteur": "TYWANS",
+        "titre": "Un must",
+        "texte": "Clairement sur le papier ça fait peur, deux expatriés qui parle de bières américaines. Je me suis dis que le sujet allait vite me lasser entre la coors et la bud light, et bien NON. On a affaire à deux vrais amateurs de bière craft et très différent dans leur culture.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Le Grand Yzmo",
+        "titre": "Une chopine entre copains",
+        "texte": "J’ai attendu d’avoir écouté tous les épisodes avant de donner mon avis (même les premiers, Patrice, oui oui !). Passionné par les USA et la bière, j’ai été conquis par l’ambiance de ce podcast.…"
+      }
     ]
   }
 }

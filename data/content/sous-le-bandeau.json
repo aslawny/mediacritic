@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-07-23",
-  "frequence_jours": 51
+  "frequence_jours": 51,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "frakin1",
+        "titre": "Nº 93 : Superbe émission",
+        "texte": "J’ai écouté cet échange à 3 voix très constructif sur l’Affaire Athanor. Les deux positions défendues par les deux invités sur l’antimaçonnisme en fin d’émission d’émission me paraissent super intéressantes. Pourquoi pas une émission autour du livre ?"
+      },
+      {
+        "note": 5,
+        "auteur": "A-Conseils",
+        "titre": "Au top !",
+        "texte": "Merci Franco, Sylvain, et nos autres frères et sœurs pour ces moments de réflexion et de partage. Bises fraternelles de France"
+      },
+      {
+        "note": 5,
+        "auteur": "Sebastien-Kardinal",
+        "titre": "Super !",
+        "texte": "Enfin, un bon podcast, qui apporte de la lumière sur un sujet pour équipement obscur."
+      }
+    ]
+  }
 }

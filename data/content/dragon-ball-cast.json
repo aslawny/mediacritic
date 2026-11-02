@@ -52,25 +52,29 @@
   "derniere_activite": "2025-04-11",
   "frequence_jours": 36,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-02",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "letyrannosaureducrétaçé",
+        "titre": "Le Ssj4 et dragon ball GT🐉🐉🐉🐉🐉🐉🐉🐉🗡🗡⚔️",
+        "texte": "Ece -que vous pouvez faire un épisode sur le super sayan4 et un autre sur le déplacement transcendantal c’est tout bizous !🥰😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘"
+      },
+      {
+        "note": 5,
+        "auteur": "Arrrrrno",
+        "titre": "MERCI",
+        "texte": "Je suis en retard lol mais quel KIFF d’avoir un podcast qui parle de DBZ sous toute ses coutures !!! 🙏🏻 merci les gars"
+      },
+      {
+        "note": 5,
+        "auteur": "Thiago1083",
+        "titre": "Incroyable",
+        "texte": "C’est trop bien 👍 Moi qui adore dragon ball je suis très contente Je vous conseille ❤️❤️❤️"
+      }
     ]
   }
 }

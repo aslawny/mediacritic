@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-13",
-  "frequence_jours": 3
+  "frequence_jours": 3,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Vibril",
+        "titre": "Une éviDanse 😉",
+        "texte": "Des personnalités inspirantes, des dialogues vivants et accessibles, une plongée dans des parcours de vie et pratiques fascinantes. J’ai adoré découvrir la richesse et la profondeur humaine qui transpire à travers ces portraits de vie authentiques.…"
+      },
+      {
+        "note": 5,
+        "auteur": "CFN 78",
+        "titre": "Magnifique temps de récit de danse !",
+        "texte": "Myriam aborde la danse sous le prisme du sens et des sens et invite ainsi les danseurs et chorégraphes qu’elle nous fait rencontrer à nous raconter avec leur tête mais aussi leur cœur et leurs tripes ce qui fait sens dans la danse …"
+      },
+      {
+        "note": 5,
+        "auteur": "Robert7352629-657483)3-59",
+        "titre": "Magnifique podcast",
+        "texte": "Bravo à Myriam et à ses invités. De très belles rencontres et de beaux témoignages très variés qui donnent du sens à la dance. Je ne suis pas danseur mais intéressé : j’ai envie d’aller plus loin. Merci Patrick"
+      }
+    ]
+  }
 }

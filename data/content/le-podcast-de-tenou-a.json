@@ -51,25 +51,29 @@
   "derniere_activite": "2021-06-25",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-02",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "a.msé",
+        "titre": "Excellent podcast",
+        "texte": "Excellent podcast qui aborde de nombreuses questions de société à la lumière d’une vraie réflexion sur le judaïsme. Bravo !"
+      },
+      {
+        "note": 5,
+        "auteur": "Snobie",
+        "titre": "Le fond et la forme",
+        "texte": "Le ton est léger mais le fond est bel et bien là. Un regard décalé et sympa."
+      },
+      {
+        "note": 5,
+        "auteur": "sosogumo",
+        "titre": "👍🏼👍🏼",
+        "texte": "Bravo pour votre travail ! Hâte d’entendre de nouveaux épisodes"
+      }
     ]
   }
 }

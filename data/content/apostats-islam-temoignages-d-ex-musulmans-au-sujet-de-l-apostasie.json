@@ -51,25 +51,29 @@
   "derniere_activite": "2026-08-17",
   "frequence_jours": 21,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-02",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Cece0111",
+        "titre": "Ouvre l’esprit",
+        "texte": "Non musulmane mais vivant dans un environnement musulman, avec un compagnon musulman, ce podcast m’ouvre à d’autres pensées sur cette religion, et me fait prendre conscience de beaucoup de choses.…"
+      },
+      {
+        "note": 5,
+        "auteur": "ibr4zur",
+        "titre": "Merci pour ton émission",
+        "texte": "Un podcast tellement utile pour les personnes qui se questionnent autour des croyances islamiques et ainsi que pour ceux qui ont quitté l’islam ou qui sont en passe de le faire. Continue à fournir du contenu de qualité!"
+      },
+      {
+        "note": 5,
+        "auteur": "dominiquech",
+        "titre": "Très cool",
+        "texte": "Même si on est pas apostat et même pas musulman cela s’ecoute très bien. Le son des interviewés est parfois moyen mais c’est le prix à payer. Bonne continuation !"
+      }
     ]
   }
 }

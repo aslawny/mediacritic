@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2026-09-19",
-  "frequence_jours": 2
+  "frequence_jours": 2,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Jonathan Béquet",
+        "titre": "Un allié de plus pour les parents",
+        "texte": "Mon fils de huit ans, adore les histoires à écouter. Il passe des heures et des heures. Il devient alors compliqué pour les parents, même avec des abonnements à des services payants, de trouver des histoires pour enfant avec du bon vocabulaire, traitant de sujets intéressants et…"
+      },
+      {
+        "note": 5,
+        "auteur": "heyzaaet",
+        "titre": "Belle découverte",
+        "texte": "Je recommande explique simplement l’histoire et transporte les enfants merci pour ce que vous faites c top les enfants adore !!!!!"
+      },
+      {
+        "note": 5,
+        "auteur": "Thibault92io",
+        "titre": "Super !",
+        "texte": "Excellents podcasts, originaux, bien pensés et parfaits pour bien accompagner les enfants durant leur coucher le soir !"
+      }
+    ]
+  }
 }

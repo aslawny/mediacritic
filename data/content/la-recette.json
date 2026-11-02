@@ -53,25 +53,29 @@
   "derniere_activite": "2026-09-07",
   "frequence_jours": 6,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-03",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lizette By Maud",
+        "titre": "Un goût de trop peu !",
+        "texte": "Ce podcast est juste génial, Merci de nous aider à mettre des mots et à mieux comprendre ce que l’on fait 4 fois par jour et pourtant dont on ne parle pas tant que ça : manger. Un plaisir d’écouter chaque épisode qui donne des conseils concrets liés à de nouvelles connaissances.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Magvanocourtial",
+        "titre": "Hâte d’écouter la suite !",
+        "texte": "Merci Julie ! Hâte d’écouter la suite et d’aller à la rencontre des femmes et des hommes qui agissent pour une alimentation saine et durable. Manger autrement, décarbonation & transition du modèle agricole, transition écologique, gaspillage alimentaire, autant de sujets qui font…"
+      },
+      {
+        "note": 5,
+        "auteur": "charlotte 83",
+        "titre": "1 interview",
+        "texte": "Ravie de découvrir 2 adresses gourmandes et vraiment éco/responsable sur Lyon ! De plus , sommes impatients de goûter cette sauce soja bio et française ! Continuez ce podcast , bien dans son époque !"
+      }
     ]
   }
 }

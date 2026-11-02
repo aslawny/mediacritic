@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-06",
   "frequence_jours": 53,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-02",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "HacheDee",
+        "titre": "super PODCAST sur la sensibilisation",
+        "texte": "Ca faisait longtemps que je devais mettre un avis (merci pour les relances dans le podcast, ça marche !). Je viens d'écouter celui sur la sensibilisation des parents. J'ai beaucoup à faire. Bon courage pour les suivants car c'est du boulot tout ça ! Merci"
+      },
+      {
+        "note": 5,
+        "auteur": "TMD46",
+        "titre": "Pratique et instructif",
+        "texte": "Des conseils pratiques à appliquer dans notre vie de tout les jours. Les explications sont trés compréhensibles. Bravo !"
+      },
+      {
+        "note": 5,
+        "auteur": "Manamatt",
+        "titre": "Super podcast",
+        "texte": "Je viens de découvrir votre travail et c’est vraiment super. On apprend pas mal de trucs. Bonne continuation."
+      }
     ]
   }
 }

@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-29",
   "frequence_jours": 28,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-03",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "alencredunelectrice",
+        "titre": "🔥",
+        "texte": "Super sympathique d’écouter ce podcast. Oui ce n’est pas forcément organisé, scénarisé, millimétré mais on a vraiment l’impression de discuter avec deux copines sur les potentielles séries qu’on aurait vu. Toujours un plaisir de découvrir un nouvel épisode !☺️"
+      },
+      {
+        "note": 1,
+        "auteur": "Victoire1912",
+        "titre": "Gilmore girls",
+        "texte": "Comment gâcher une serie culte , bcp bcp d erreur , passe du coq à l ane , rien de nouveau , un vaste résumé on passe de la saison 1 à la dernière saison pour revenir à la saison 2 . Rien de construit et vraiment et vraiment un travail bâclé. Mauvaise copie de peack tv."
+      },
+      {
+        "note": 5,
+        "auteur": "Perte de tous mes fichiers",
+        "titre": "Super !",
+        "texte": "Podcast très sympa. C’est un plaisir de vous écouter dans un français impeccable et sans anglicismes (ce qui devient rare). J’espère que vous allez continuer à analyser d’autres séries. Je me suis abonnée directement !"
+      }
     ]
   }
 }

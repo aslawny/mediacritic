@@ -47,5 +47,25 @@
     }
   ],
   "derniere_activite": "2023-09-15",
-  "frequence_jours": 28
+  "frequence_jours": 28,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Jérôme 44",
+        "titre": "Intéressant regard sur des deals pas comme les autres M&A !",
+        "texte": "Bravo pour cette belle initiative qui donne quelques clés sur avant / pendant / après la vie d’un rachat de startup... un peu comme si on était sur le siège du copilote."
+      },
+      {
+        "note": 5,
+        "auteur": "Tof055",
+        "titre": "Exitroots",
+        "texte": "Au top ! Très intéressant ce zoom sur ces étapes qui sont souvent des étapes ou des aboutissements d’aventures. Merci"
+      }
+    ]
+  }
 }

@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2025-12-15",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "tynelenva",
+        "titre": "À suivre foooort",
+        "texte": "Il faut suivre ce podcast c’est des itw hyper bien construites avec du temps pour écouter des artistes qu’on entend peu dans ces formats. Même quand on écoute pas les invités de base, les échanges sont riches et éclairent bien le milieu de la musique.…"
+      },
+      {
+        "note": 1,
+        "auteur": "laurentjv",
+        "titre": "Boring",
+        "texte": "Litanie de questions banales posées avec un air inspiré. Rare niveau de nullité."
+      },
+      {
+        "note": 5,
+        "auteur": "hugomrossi",
+        "titre": "prometteur",
+        "texte": "très cool d’écouter Okis et Sandra. les questions sont interessantes et différentes des autres entretiens."
+      }
+    ]
+  }
 }

@@ -53,25 +53,29 @@
   "derniere_activite": "2026-08-26",
   "frequence_jours": 15,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-03",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Audrey rosie",
+        "titre": "Transformée en cactus",
+        "texte": "Bonjour à vous deux et merci. Quel travail formidable, même si je connais l’histoire j’ai maintenant envie de votre récit ! Mais j’en ai découvert aussi beaucoup. Je vais toujours voir les photos en écoutant Alex , ce concept est trop bien. Merci encore pour ce podcast .…"
+      },
+      {
+        "note": 5,
+        "auteur": "Aurelval",
+        "titre": "Un ton différent",
+        "texte": "Un grand merci pour votre façon de raconter les histoires, ça change et ça fait du bien! Le côté papotage entre amis, autour d’un verre de vin, ça vous fait rentrer dans notre salon où vous êtes les bienvenus.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Jessie Cassidy",
+        "titre": "Un podcast de qualité",
+        "texte": "Franchement j’adore cette chaîne ! Les histoires y sont bien racontées, on est captivé du début à la fin. On sent qu’il y a beaucoup de travail et de recherche derrière. Continuez comme ça, c’est vraiment l’un des meilleurs podcasts true crime que j’écoute."
+      }
     ]
   }
 }

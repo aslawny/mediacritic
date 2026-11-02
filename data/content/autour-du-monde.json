@@ -51,5 +51,25 @@
     }
   ],
   "derniere_activite": "2025-01-26",
-  "frequence_jours": 20
+  "frequence_jours": 20,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Anonyme 123!",
+        "titre": "Autour du monde",
+        "texte": "Je recommande ce podcast car il apprend beaucoup de choses . Cependant j’aurais préféré des épisodes plus fréquemment car ils sont intéressant . Continuez comme ça !"
+      },
+      {
+        "note": 5,
+        "auteur": "Wavelover4ever🌊🏄‍♀️",
+        "titre": "Bonjour",
+        "texte": "J adore ses podcasts ! Pouvez-vous en faire d autres????merci"
+      }
+    ]
+  }
 }

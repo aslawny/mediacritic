@@ -51,25 +51,29 @@
   "derniere_activite": "2026-08-31",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-03",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "_Virgile_",
+        "titre": "Merci!",
+        "texte": "Merci à vous deux de prendre le relais de chercheurs de valeur! Cela fait également près de 3 ans que j’investis et bien que convaincu des ETF, le style quality m’est également apparu comme celui qui fait le plus sens si l’on veut sortir des indices.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Charlybigoude",
+        "titre": "Bla-bla-bla …",
+        "texte": "Podcast intéressant mais qui a perdu de son charme, depuis l’arrivée de Mathieu. Celui-ci se transforme trop souvent en « VRP de RICARD », et fait parfois des tunnels solos de 20 mn, en laissant trop peu la parole aux autres.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Andocjsneorncosn",
+        "titre": "Enfin !",
+        "texte": "Des podcasts accès sur la qualité, l’analyse, les ratios, la compréhension de ce qu’est une société, ses métiers. Enfin un podcast qui sort du sempiternel : top 10 dividendes, quoi acheter aujourd’hui etc… un podcast dans la veine de ce qui se fait aux US.…"
+      }
     ]
   }
 }

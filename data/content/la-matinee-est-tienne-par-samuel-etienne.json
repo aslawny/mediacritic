@@ -49,25 +49,29 @@
   "derniere_activite": "2026-09-08",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-03",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Esluperluette",
+        "titre": "Un incontournable",
+        "texte": "Samuel Étienne propose une manière bien à lui de traiter l’information, et c’est clairement ce qui fait la force de ses revues de presse. Le format est à la fois dynamique, accessible et souvent très agréable à suivre, avec une vraie capacité à rendre l’actualité plus digeste.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Aurel__23",
+        "titre": "Très bien mais la pub gagne du terrain",
+        "texte": "Alors j’adore le concept, le rythme, la lecture du chat mais les pubs deviennent de plus en plus nombreuses, ça va finir en podcast de pubs interrompus par des actus. SVP un peu moins de pubs pour retrouver la magie du début !"
+      },
+      {
+        "note": 5,
+        "auteur": "Maïlys ☼",
+        "titre": "LE moyen de suivre les actus",
+        "texte": "Vieweuse plus que régulière de Samumu, je l’adore sur tout ces contenus. Mais le gros + de ce format la, c’est la vulgarisation de l’actualité afin que tous, même sans suivre l’actualité quotidiennement, nous puissions comprendre.…"
+      }
     ]
   }
 }

@@ -53,25 +53,29 @@
   "derniere_activite": "2026-09-01",
   "frequence_jours": 3,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-03",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mfdu47",
+        "titre": "Des récits intimes qui résonnent",
+        "texte": "J’adore l’énergie de Marine, elle met tout de suite à l’aise. Chaque invité se sent libre de parler, ce qui permet d’aller en profondeur et d’entendre des histoires sincères, avec tous les détails qui font la différence.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Loveisu33",
+        "titre": "Mon rendez-vous préféré",
+        "texte": "Merci à vous deux de faire briller des histoires intimes et profondément touchantes. Ce que vous faite est si précieux, longue vie à Eden Stories et merci pour vos belles âmes 🤍"
+      },
+      {
+        "note": 5,
+        "auteur": "Valentin Lecointre",
+        "titre": "Podcast favoris",
+        "texte": "Merci Marine et Tony pour ces récits passionnants à écouter chaque semaine, je les attend avec impatience chaque mardi, continuer ainsi."
+      }
     ]
   }
 }

@@ -50,25 +50,29 @@
   "derniere_activite": "2022-10-13",
   "frequence_jours": 39,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-03",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "@yannisyeah",
+        "titre": "Le meilleur podcast musical francophone - de loin!",
+        "texte": "Bravo à vous et merci pour ce podcast : des sujets fouillés, variés et riches, sur des niches du monde entier et qui donnent à chaque fois envie de danser ! Je ne compte pas le nombre de chansons ajoutées à mon apple music depuis le début de l’émission 💓"
+      },
+      {
+        "note": 5,
+        "auteur": "kokoprisci",
+        "titre": "Excellent !",
+        "texte": "Super podcast 💯. Enfin un podcast musical de qualité qui parle de musiques populaires encore trop méconnues. Un travail de recherche affiné. Ça fait plaisir. Un vent d’air frais ! Merci 🙏🏾"
+      },
+      {
+        "note": 5,
+        "auteur": "nono__lastiko",
+        "titre": "Le feuuuu !",
+        "texte": "Super podcast !! Les thèmes sont vraiment intéressants et la recherche est très poussée, avec une playlist top-i-ssime, je passe mon temps à Shazamer des trucs. Merci pour ça !"
+      }
     ]
   }
 }

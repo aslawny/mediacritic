@@ -48,5 +48,19 @@
     }
   ],
   "derniere_activite": "2026-09-03",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Moukate",
+        "titre": "Génial",
+        "texte": "Mais il est trop bien ! Tellement drôle ! Ça fait du bien ! Ceux qui ont le plus de talents ne sont pas toujours les plus connus ! Continuez ainsi !"
+      }
+    ]
+  }
 }

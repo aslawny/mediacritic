@@ -23,5 +23,31 @@
     "actualite"
   ],
   "addedAt": "2026-10-17",
-  "updatedAt": "2026-11-01"
+  "updatedAt": "2026-11-01",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Soupe Dogg",
+        "titre": "Génial !!!",
+        "texte": "J’ai pu avoir l’honneur de rencontrer l’équipe du carrefour du 5/7, ainsi que Laëtitia Gayet. J’ai même pu prendre un café avec le carrefour. Ce sont des personnes incroyablement attentionnées et intéressantes.…"
+      },
+      {
+        "note": 5,
+        "auteur": "1z4dvgh9)h'chbklj,jfuiguif7",
+        "titre": "Merci à Mathilde Munoz et à tous les chroniqueurs (surtout Anthony Bellanger et Daniel Morin).",
+        "texte": "Mathilde Munoz, contrairement à Laëtitia Gayet, donne envie d’écouter le 5/7. Ma partie préféré est le carrefour du 5/7. Merci beaucoup ❤️"
+      },
+      {
+        "note": 5,
+        "auteur": "Flo claire",
+        "titre": "Excellente émission!",
+        "texte": "J'écoute surtout la partie 6-7 en direct et c'est excellent!bravo à tous les chroniqueurs!!continuez!!👍"
+      }
+    ]
+  }
 }

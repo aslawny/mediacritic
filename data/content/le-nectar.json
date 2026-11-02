@@ -52,25 +52,29 @@
   "derniere_activite": "2026-02-16",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-02",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "SbSmpc",
+        "titre": "Bon et vulgarisateur",
+        "texte": "Excellent podcast, les discussions sur des fonds intéressants sans utiliser de jargon. Cela ressemble à une discussion entre amis sur des sujets profonds. Je regrette cependant que les hôtes n’invitent pas à des lectures ou des écoutes en fin d’épisode.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Ogoué",
+        "titre": "Dommage",
+        "texte": "Themes quelquefois intéressants discutés façon café du commerce par des incultes, dommage."
+      },
+      {
+        "note": 5,
+        "auteur": "Firegreeg",
+        "titre": "Passionnant",
+        "texte": "Continuez comme ça, un bonheur de vous écouter à chaque fois ❤️❤️ (et faites lire un livre à Georges de temps en temps!)"
+      }
     ]
   }
 }

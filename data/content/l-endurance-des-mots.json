@@ -53,25 +53,29 @@
   "derniere_activite": "2026-09-06",
   "frequence_jours": 21,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-03",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "jonescoppola",
+        "titre": "Super! Bravo!",
+        "texte": "J’aime énormément ce concept d’allier la lecture au sport. Je connais bien le travail de Swann et le livre apporte un angle nouveau à l’entrevue. C’est pro et précis tout en restant très fluide à écouter.…"
+      },
+      {
+        "note": 5,
+        "auteur": "☀️SP",
+        "titre": "Merciii",
+        "texte": "Merci beaucoup pour ces podcasts ! Allier sport et littérature permet de découvrir ces personnalités sous un autre angle ! Super podcast à écouter pendant les séances longues en course à pied :)"
+      },
+      {
+        "note": 5,
+        "auteur": "Clem/h",
+        "titre": "Lectrice sportive convaincue",
+        "texte": "Je reviens de la librairie où j’ai acheté Les éléments de John Boyne. Hâte de dévorer les pages, comme on avale les km 😊 merci d’allier sport et littérature, trop bonne idée !"
+      }
     ]
   }
 }

@@ -52,25 +52,29 @@
   "derniere_activite": "2026-05-09",
   "frequence_jours": 28,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-03",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lisaiphone",
+        "titre": "Enfin on parle de livre sur la musique",
+        "texte": "La meilleure émission (la seule ?) sur la littérature musicale. Des tonnes de sujets différents, L'hôte ne restant jamais dans sa zone de confort. Bravo pour ce podcast/émission. Ma bibliothèque vous remercie"
+      },
+      {
+        "note": 5,
+        "auteur": "D#I#Y",
+        "titre": "C’est riche et ça prend le temps",
+        "texte": "J’aime beaucoup, j’en apprends. Pas d’intervenants faussement prescripteurs récitant bêtement une fiche Wikipedia, comme souvent. Ca se prend pas la tête. Merci !"
+      },
+      {
+        "note": 5,
+        "auteur": "juirrtyu",
+        "titre": "Super mais",
+        "texte": "Pourquoi le podcast intitulé Prince est en fait sur MJ? A part ça super podcast, plein d’infos, de bonnes sélections, merci"
+      }
     ]
   }
 }

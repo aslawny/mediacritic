@@ -50,25 +50,29 @@
   "derniere_activite": "2021-05-18",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-02",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Jeekay",
+        "titre": "Incontournable",
+        "texte": "J’écoute tous les matins avant de partir au boulot, un pur régal ! Et j’adore le côté parti pris. On a pas un simple condenser de News lues machinalement, non la on a l’avis de Bruno et ça j’adore.…"
+      },
+      {
+        "note": 1,
+        "auteur": "LaZouilleDu52",
+        "titre": "Pas aimé du tout",
+        "texte": "Bande son énervante. Expressions curieuses Manque d'objectivité flagrant. Prend pour ref Gamekult trop souvent(Ca explique le point précédent.) Je suis déçue car l'idée de revue de presse était interessante. Cdlt"
+      },
+      {
+        "note": 5,
+        "auteur": "DrJonesTHX",
+        "titre": "Impeccable 😊👍",
+        "texte": "Superbe idée, le podcast qui manquait ! Pour tous ceux qui n'ont pas le temps d'écumer les différentes News de JV , beau résumé de l'actualité dès l'aube ( 7:00 ) : et c'est ça qui change tout …"
+      }
     ]
   }
 }

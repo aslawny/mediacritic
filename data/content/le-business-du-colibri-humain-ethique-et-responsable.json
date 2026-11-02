@@ -51,25 +51,29 @@
   "derniere_activite": "2023-02-01",
   "frequence_jours": 13,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-03",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "kmy740",
+        "titre": "Au top",
+        "texte": "Entre l’énergie de Rémy au micro & la passion de ses invités, tout est réunis pour passer un bon moment d’écoutes. Même sans vouloir développer son business on trouve des idées et des informations très enrichissantes même pour notre vie quotidienne.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Lola Sunrise",
+        "titre": "Inspirant !",
+        "texte": "Ce podcast est inspirant, c’est le mot qui me vient en premier à l’esprit. Beaucoup de valeurs partagées, plein de choses intéressantes, des personnes incroyables interviewées. J’adore ! Merci Rémy de participer au développement d’un business plus humain ! 👏🏻"
+      },
+      {
+        "note": 5,
+        "auteur": "Fabrice13620",
+        "titre": "Puissant",
+        "texte": "Je recommande vivement ce podcast puissant et inspirant. Merci à Rémy de l'avoir lancé, et mille mercis à tous les invités qui nous partagent toujours plus de conseils applicables au quotidien. Une perle rare à écouter et réécouter sans modération :)."
+      }
     ]
   }
 }

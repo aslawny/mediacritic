@@ -26,25 +26,23 @@
   "addedAt": "2026-05-20",
   "updatedAt": "2026-11-01",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-02",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Wonderpaulux",
+        "titre": "Excellent",
+        "texte": "Une très belle saga. Belle écriture de l’émission avec des témoignages intéressants et nous éclairant sur l’ambiance du moment. Finalement, je me rends compte que je n’y connaissais pas grand chose et j’en sors grandi de tout ce savoir."
+      },
+      {
+        "note": 4,
+        "auteur": "Dédébg",
+        "titre": "Très bien",
+        "texte": "Très bonne compilation car je suis à fond sur la FF, Psy 4, IAM etc et sa raconte bien leurs histoires et c’est trop interessant"
+      }
     ]
   }
 }

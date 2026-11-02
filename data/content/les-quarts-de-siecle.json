@@ -51,25 +51,29 @@
   "derniere_activite": "2020-05-27",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-02",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Estelle.Plançon",
+        "titre": "Juste un mot : super !",
+        "texte": "Ce podcast est extrêmement intéressant et riche en émotions. Il est très inspirant et donne envie de se surpasser pour atteindre ses objectifs ! Découvrir toutes ces histoires de vie permet de relativiser sur beaucoup de situations au quotidien.…"
+      },
+      {
+        "note": 5,
+        "auteur": "luniversdelaura",
+        "titre": "Découverte via le podcast de Fanny",
+        "texte": "Une bien jolie découverte que sont tes podcasts ! Je prendrais autant plaisir à écouter les autres que j’ai pris de plaisir à écouter la délicate Fanny ❤️ Fanny que je découvre dans son combat après la découvre sur Instagram grâce à ces doigts de fée qui ont fait un merveilleux b…"
+      },
+      {
+        "note": 5,
+        "auteur": "Mathoubidou",
+        "titre": "Inspirant !",
+        "texte": "Ce podcast suit le parcours super inspirant et motivant de jeunes qui entreprennent ou créent dans des domaines très variés, super intéressant ! Un plaisir à écouter."
+      }
     ]
   }
 }

@@ -49,25 +49,29 @@
   "derniere_activite": "2022-05-30",
   "frequence_jours": 12,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-03",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "matoons",
+        "titre": "Donnez nous votre avis !",
+        "texte": "Merci pour vos notes et vos messages. Donnez nous votre avis sur ce podcast, des idées des thémes que vous souhaiteriez voir aborder, des personnes à itw... #Education #Formation #Transformation. Bel été à tous !"
+      },
+      {
+        "note": 5,
+        "auteur": "Équinoxe 69",
+        "titre": "A la découverte de l'éducation AVEC technologie",
+        "texte": "Merci pour toutes ces interviews tellement pleine d'énergie et d'optimisme. Nous apprenons aussi du vocabulaire : gamification, impact, scaler, soft skills, etc. Cela donne envie de rejoindre le mouvement !"
+      },
+      {
+        "note": 5,
+        "auteur": "Stan_56",
+        "titre": "Super interview d’Anne-Charlotte Monerret - EdTech France",
+        "texte": "Bravo et merci pour ce podcast dédié à EdTech France avec beaucoup d’infos et de liens utiles pour tout savoir sur le secteur EdTech en France et à l’international. 👏👍🤙"
+      }
     ]
   }
 }

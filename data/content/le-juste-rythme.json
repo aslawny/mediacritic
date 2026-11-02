@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-06-02",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "MarieHDou",
+        "titre": "Un podcast et inspirant",
+        "texte": "Ce podcast est une pépite. Marion offre un espace à des femmes qui s’expriment avec justesse et authenticité. Chaque épisode est une plongée dans des parcours variés racontés lors d’échanges profonds et très bienveillants.…"
+      },
+      {
+        "note": 5,
+        "auteur": "ArchiX",
+        "titre": "Le bon temps",
+        "texte": "Prendre le temps d’écouter ! Merci à ces femmes qui se racontent, merci à Marion d’être à leur écoute et de nous permettre de rentrer dans leur intimité tout en restant à la bonne distance. Que serait la vie sans les femmes …"
+      },
+      {
+        "note": 5,
+        "auteur": "Emolenha",
+        "titre": "Le temps, si précieux ✨✨✨",
+        "texte": "Merci Marion pour cette pause dans notre course après le temps. Une parenthèse qui va nous permettre de nous interroger sur notre gestion de cette chose si précieuse… Hâte de découvrir les prochains épisodes 💋✨"
+      }
+    ]
+  }
 }

@@ -26,25 +26,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-11-01",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-03",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "deborahlbee",
+        "titre": "J’adore",
+        "texte": "J’adore ce podcast qui nous dévoile les histoires du ballet et nous donne plein d’anecdotes. C’est très bien raconté et très intéressant, et Hyppolyte a une voix très agréable à écouter."
+      },
+      {
+        "note": 2,
+        "auteur": "Gerrycherry",
+        "titre": "Un peu décousu",
+        "texte": "Le titre de l’émission m’attire mais je suis déçue chaque fois trop de musique et pas assez de contenu J’attends plus de cette émission Merci 🙏"
+      },
+      {
+        "note": 5,
+        "auteur": "Danielflorian",
+        "titre": "Bravo !",
+        "texte": "Voilà une délicieuse découverte, on apprend plein de choses sur le ballet. Merci de nous enseigner ainsi dans un juste équilibre entre la musique, le commentaire, l’histoire, l’anecdote."
+      }
     ]
   }
 }

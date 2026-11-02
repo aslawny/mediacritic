@@ -51,25 +51,29 @@
   "derniere_activite": "2024-05-08",
   "frequence_jours": 5,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-02",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "FFTipad",
+        "titre": "Le meilleur podcast sur le développement personnel et l’entrepreunariat !",
+        "texte": "J'écoute de nombreux podcasts anglophones sur le développement personnel et l'entreprenariat depuis des années et ceux qui contiennent autant de contenu de qualité et qui plus est en français sont rares, pour moi celui de Damon est tout simplement le meilleur …"
+      },
+      {
+        "note": 5,
+        "auteur": "Arnaud_de_pantin",
+        "titre": "Un accent plein de fraicheur",
+        "texte": "Merci Damon ! Quelle joie d'écouter à nouveau ce podcast plein d'authenticité et d'intelligence. La puissance des pensées qui forment notre état d'esprit est sidérant.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Nikola Zimmermann",
+        "titre": "Inspirant, essentiel !",
+        "texte": "Oui ça fait du bien d’entendre des propos hors-norme et pleins de sens ! Que vous soyez en phase de création ou que l'idée d’entreprendre quelque chose soit doucement en train de germer au fond de votre tête, Damon ne vous laissera pas insensible.…"
+      }
     ]
   }
 }

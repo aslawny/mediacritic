@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-22",
   "frequence_jours": 9,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-03",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "umm Imany",
+        "titre": "Soit récompensé 🤍",
+        "texte": "As salam ahleyki, Par où commencer ? Et comment ne pas oublier de tout dire parmis les milliers de belles choses que je pense de tes podcasts ma sœur.…"
+      },
+      {
+        "note": 5,
+        "auteur": "md.tzm",
+        "titre": "Magnifique podcast",
+        "texte": "السلام عليكم و رحمة اللَّه و بركاته Qu' الله te récompense pour ton contenu et qu'Il te préserve, ainsi que tes proches.🤍 Tu dis ce qu'on a besoin d'entendre et vraiment je te le dis sincèrement on sent que tu aimes الله et que tu veux qu'on L'aime sincèrement aussi.…"
+      },
+      {
+        "note": 5,
+        "auteur": "@natacha&1234",
+        "titre": "Un magnifique podcast !!!",
+        "texte": "Franchement j’aime tellement ce podcast, quand j’écoute liqalbi j’ai l’impression de discuter avec une amie qui me prodigue des conseils, me partage ses émotions, ses sentiments etc. Elle a une voix douce qui nous transporte et ses mots sont si justes.…"
+      }
     ]
   }
 }

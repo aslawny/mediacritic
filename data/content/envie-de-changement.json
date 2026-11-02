@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-01",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Cochise-37",
+        "titre": "Un sacré rebond courageux",
+        "texte": "Succession de podcasts intéressants d’un jeune homme qui a le courage de changer de vie,de réussir ses objectifs (petits et grands). Converti en coach sportif, il a investi dans des formations lui permettant de devenir crédible, déjà pour lui même et ensuite pour aider d’autres p…"
+      },
+      {
+        "note": 5,
+        "auteur": "Dovracha",
+        "titre": "Un podcast de qualité ✅",
+        "texte": "Voici une capsule auditive de qualité si vous êtes motivés pour devenir la meilleure version de vous-même. Précis et pertinent, Clément donne de bons conseils. J’ai eu la chance de le rencontrer lors d’un voyage en Afrique du Sud, c’est une personne agréable et compétente.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Al3xIsM",
+        "titre": "Un complément après Instagram très inspirant !!!",
+        "texte": "Après la page Instagram le poadacst et une belle découverte. Le contenue correspond à mes recherches de valeur sportive, moral et financière. Le premier épisode m’a convaincu car je suis ouvrier boucher. Au plaisir d’apprendre grâce au contenu partagé 👌 Merci Alexis"
+      }
+    ]
+  }
 }

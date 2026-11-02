@@ -51,25 +51,29 @@
   "derniere_activite": "2026-09-04",
   "frequence_jours": 13,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-03",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "une demoiselle01",
+        "titre": "🦋",
+        "texte": "Mille mercis pour toutes ces paroles dans lesquelles je me reconnais énormément. Tu as réussi à mettre des mots sur les sentiments que j’éprouve mais que je n’arrive pas à exprimer.…"
+      },
+      {
+        "note": 5,
+        "auteur": "BathEst",
+        "titre": "Une nouvelle aventure en beauté !",
+        "texte": "Merci Lison ! Ces paroles dans lesquelles (malheureusement) je me reconnais trop J’ai hâte de te suivre et de voir encore plus que je suis pas si seule… Merci pour ces paroles et je te souhaite plein de belles choses pour la suite de ce podcast qui va grandir !"
+      },
+      {
+        "note": 5,
+        "auteur": "anais_mdel",
+        "titre": "Libre comme un papillon 🦋",
+        "texte": "Incroyable… Bravo Lison et Merci d’avoir mis des mots sur des maux… Tu es une fille formidable, n’en doute jamais. J’ai si hâte d’écouter la suite…."
+      }
     ]
   }
 }

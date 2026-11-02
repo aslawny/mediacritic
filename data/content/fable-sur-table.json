@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-10-07",
-  "frequence_jours": 22
+  "frequence_jours": 22,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Duc Lait",
+        "titre": "J’adore Fable Sur Table",
+        "texte": "C’est vraiment un très podcasts ,le rôle play est très très bon et c’est très intéressant en tant que MJ débutant d’écouter Fable Sur Table et notamment l’ambiance que Mouf donne avec ses des criptions👍👍👍👍👍"
+      },
+      {
+        "note": 5,
+        "auteur": "FatFouine",
+        "titre": "Génial",
+        "texte": "C’est vraiment super, on sent vraiment que les PJ se connaissent et s’amusent ensemble. C’est vraiment très agréable. Belle performance d’acting. Merci beaucoup"
+      },
+      {
+        "note": 5,
+        "auteur": "Groshell",
+        "titre": "Tellement bien !",
+        "texte": "Excellent podcast de JDR ! Dès que j’ai une occasion je l’écoute. J’ai trop envie de savoir la suite !"
+      }
+    ]
+  }
 }

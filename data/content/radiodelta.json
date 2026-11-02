@@ -51,25 +51,29 @@
   "derniere_activite": "2025-12-17",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-03",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "MITCH-AUTEUR",
+        "titre": "Super Radio",
+        "texte": "Une radio éclectique qui permet d’écouter des émissions différentes mais toutes intéressantes. Le choix des sujets varie d’une émission à l’autre et j’aime beaucoup la variété des invités comme des chroniqueurs. Bravo, je recommande les yeux fermés."
+      },
+      {
+        "note": 3,
+        "auteur": "juvdlg",
+        "titre": "G à la technique fais quelque chose !",
+        "texte": "J’adore cette émission mais on a souvent du mal à comprendre tellement le son est inégal. S’il vous plaît faites quelque chose !!!"
+      },
+      {
+        "note": 5,
+        "auteur": "Chaliapine",
+        "titre": "Réponse de Votre Père Noël",
+        "texte": "La liaison par téléphone-satellite n’est, il est vrai, pas très bonne, mais comment pouvait on faire autrement pendant ma tournée… Je vous prie de bien vouloir m'en excuser... Les aléas du direct ! BBB Votre Père Noël"
+      }
     ]
   }
 }

@@ -52,25 +52,29 @@
   "derniere_activite": "2026-07-24",
   "frequence_jours": 33,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-03",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Éliselnw",
+        "titre": "Un podcast enrichissant, altruiste et vulnérable ♥️",
+        "texte": "Que ce soit côté cœur, côté psyché ou qu’il s’agisse d’aborder tout autre aspect de la vie au fil de ses saisons mais encore face à ses sursauts et autres contre-temps : diverses questions sont abordées avec curiosité, justesse et bienveillance.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Krissy_Alycia",
+        "titre": "Les vocaux d’Emma part 1",
+        "texte": "C’est agréable d’écouter cet épisode. Je ressens une certaine proximité avec tes auditeurs et comme tu le dis très bien tu aimes être en meute. J’ai aimé découvrir comment tu as fait pour t’orienter vers ton métier de photographe."
+      },
+      {
+        "note": 5,
+        "auteur": "RJor19",
+        "titre": "Podcast génial et tellement pertinent",
+        "texte": "Les sujets abordés sont tellement pertinents et les personnes invitées sont toujours hyper calées dans leur domaine avec des vraies réflexions pour nous faire comprendre les choses et nous faire avancer!! Bravo Emma!!! Et merci :)"
+      }
     ]
   }
 }

@@ -52,25 +52,29 @@
   "derniere_activite": "2025-12-19",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-03",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Beemo38",
+        "titre": "Au top",
+        "texte": "Malgré quelques épisodes un peu trop rapide, c'est plutôt clair, continue comme ça ! on sent que tu lis de temps en temps mais c'est pas très grave"
+      },
+      {
+        "note": 5,
+        "auteur": "amelel38",
+        "titre": "Super !",
+        "texte": "Merci beaucoup pour ces podcasts qui aident beaucoup à réviser le cours. J’espère que tu vas continuer"
+      },
+      {
+        "note": 5,
+        "auteur": "Stéphanekoné",
+        "titre": "Bon podcast !",
+        "texte": "Un podcast rapide et simple pour réviser ses cours de droit, merci encore !"
+      }
     ]
   }
 }

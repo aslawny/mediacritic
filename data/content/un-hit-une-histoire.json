@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-08-14",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Filledu92",
+        "titre": "Amel Bent",
+        "texte": "J’aimerais beaucoup d’autres chansons sur Amel Bent svp Par exemple, j’aimerais beaucoup Mima, Je suis (na na na), je me sens bien ou encore vivante Mon favori c’est ma philosophie AMEL BENT T’es la meilleure je t’aimerai toujours ♥️❤️♥️❤️♥️❤️♥️❤️♥️❤️♥️❤️♥️❤️♥️❤️♥️❤️♥️❤️♥️"
+      },
+      {
+        "note": 5,
+        "auteur": "JChristophe_",
+        "titre": "Des voyages musicaux fascinants 🎵",
+        "texte": "L’exploration de l’histoire et du contexte de ces succès musicaux est captivante ! On découvre des anecdotes et on en apprend davantage sur les coulisses de la réalisation des plus grands hits !"
+      },
+      {
+        "note": 5,
+        "auteur": "Eva rose13",
+        "titre": "Super podcast",
+        "texte": "J’adore écouter ton podcast, est-ce que tu pourrais faire un épisode sur la chanson how you like that de blackpink Eva 10 ans"
+      }
+    ]
+  }
 }

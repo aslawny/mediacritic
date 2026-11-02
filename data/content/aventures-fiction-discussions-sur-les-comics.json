@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-26",
   "frequence_jours": 15,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-03",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Celimonseb",
+        "titre": "Pédagogie, précision, passion sensible, bravo !",
+        "texte": "Rendre passionnant des sujets très experts et dévoiler nombre de dessous des cartes du monde complexes et contrastés des comics, tel est le talent du conteur Xavier Fournier.…"
+      },
+      {
+        "note": 5,
+        "auteur": "MonsieurU",
+        "titre": "Magistral !",
+        "texte": "C’est définitivement le podcast (et je n’ai écouté à ce jour que les épisodes sur la saga DC au cinéma) le plus intelligent, argumenté, posé, instructif que j’ai écouté sur le sujet. Je vais me pencher sur la suite mais quelle Masterclass ! J’avais du mal à décrocher"
+      },
+      {
+        "note": 5,
+        "auteur": "mmontheillet",
+        "titre": "Une mine d’or de documentation",
+        "texte": "Un vrai point de vue d’historien sur les comics et la culture populaire qui se base sur des recherches et des témoignages et qui explose les a priori et les approximations ? C’est possible et c’est ici ! Le podcast qui va vous faire relire les comics différemment."
+      }
     ]
   }
 }

@@ -50,25 +50,29 @@
   "derniere_activite": "2025-09-04",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-03",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Kroc974",
+        "titre": "Un DJ exceptionnel, une ambiance toujours au top !",
+        "texte": "Impossible de ne pas laisser un avis après avoir écouté ce podcast ! Dj Shuba-K propose des mixes d’une qualité incroyable, toujours bien rythmés, variés et parfaitement enchaînés. On sent l’expérience et la passion derrière chaque session.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Thomgt3",
+        "titre": "DJ À 2 BALLES",
+        "texte": "Musique, très nulle, pas d’ambiance, pas de charisme DJ très hautain."
+      },
+      {
+        "note": 5,
+        "auteur": "DJ d.Street",
+        "titre": "Mix du matin….",
+        "texte": "Quel plaisir en ce moment « d’ouvrir » un nouveau mix chaque jour et découvrir une nouvelle dinguerie avec un nouvel univers à chaque fois. Shuba-K n’a plus rien à prouver depuis bien longtemps mais s’impose malgré tout ce rythme de dingue quotidien pour notre plus grand plaisir…"
+      }
     ]
   }
 }

@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-05-21",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Thi Lan PM",
+        "titre": "Merci. 💖",
+        "texte": "Je suis en train de vivre une épreuve extrêmement difficile et ton podcast m’aide énormément à surmonter cette épreuve. Je sais que je serais triste encore quelques temps mais je sais que ça ira, je place ma confiance en Allah le Très Haut. Merci pour tes mots.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Zinedine_11",
+        "titre": "Très enrichissant !",
+        "texte": "J'ai récemment écouté les deux épisodes, l'un abordant le traumatisme et l'autre la procrastination. J'ai été impressionné par la richesse des contenus, la qualité d'écriture et les explications claires. Une expérience enrichissante que je recommande vivement.…"
+      },
+      {
+        "note": 5,
+        "auteur": "nanaa27_",
+        "titre": "J’aime énormément 💕",
+        "texte": "Super rassurant d’entendre quelqu’un nous parler avec douceur et calme sur un sujet aussi important, j’ai appris plusieurs trucs là et j’ai vrmt hâte d’écouter le prochain épisode ! Merci 🥰"
+      }
+    ]
+  }
 }

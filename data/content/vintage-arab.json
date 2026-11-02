@@ -50,25 +50,29 @@
   "derniere_activite": "2021-10-03",
   "frequence_jours": 9,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-03",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "EMALMO",
+        "titre": "De la musique, mais pas que...",
+        "texte": "Formidable en tous points ! J’aurais aimé vous découvrir plus tôt. Merci pour la précision des informations. Le choix des extraits musicaux est formidable. Quel plaisir de vous écouter deviser avec intelligence de Fairuz, puis de Lunatic, de manière évidente et synthétique.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Melie Nasr",
+        "titre": "Découverte du jour !",
+        "texte": "Un podcast plus pédagogique que ce qui est annoncé dans l’intro ! En tout cas le premier épisode m’a plongé dans des sonorités de mon enfance en m’expliquant le parcours de l’artiste ! Hâte d’écouter les suivants :)"
+      },
+      {
+        "note": 5,
+        "auteur": "yalilyalil",
+        "titre": "Merci !",
+        "texte": "Votre podcast est un travail remarquable. C’est une étreinte pour toute personne sensible à la culture arabe et à sa richesse. Merci vous avez enchantée mon dimanche depuis mon appartement parisien 😘."
+      }
     ]
   }
 }

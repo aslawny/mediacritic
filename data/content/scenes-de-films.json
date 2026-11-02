@@ -52,25 +52,29 @@
   "derniere_activite": "2026-09-16",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-03",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "jeremibenoit",
+        "titre": "Un podcast à suivre !",
+        "texte": "Mais c’est trop cool ! Il y a pleins de films que je n’ai pas le temps de revoir, parce qu’envie d’en voir de nouveaux mais qui me manquent. Ce podcast me fait “revoir” ces films avec une sympathie et une passion que je partage avec vous 3.…"
+      },
+      {
+        "note": 1,
+        "auteur": "kube1208",
+        "titre": "Sympa mais …",
+        "texte": "Édit: après avoir commencé à écouter l’épisode sur Point Break, ma note change et j’arrête d’écouter, équipe puéril qui n’a rien compris au film. Podcast sympa mais on sent et entend que l’équipe est un peu jeune, ça manque quand même d’une forte culture cinématographique.…"
+      },
+      {
+        "note": 5,
+        "auteur": "CharlyBirdy",
+        "titre": "Apéro Ciné!!!",
+        "texte": "Tout est dit j’ai l’impression d’être avec mes potes a discuter cinéma et me bidonner sur des anecdotes. Je découvre de nouveaux points de vue sur des films cultes et ça fait du bien! Par contre deux énormes problèmes, je vais encore regarder des films cultes parce que ça donne e…"
+      }
     ]
   }
 }

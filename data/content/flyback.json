@@ -50,25 +50,29 @@
   "derniere_activite": "2026-08-02",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-03",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Oc.13",
+        "titre": "Enfin!",
+        "texte": "Enfin un podcast horloger où le franc parler est de rigueur ! De vrais avis et discussions motivées par la passion des garde-temps et pas un discours commercial sponsorisé. Je rêve de pouvoir prendre part à une de ces discussions de passionnés …"
+      },
+      {
+        "note": 5,
+        "auteur": "Moussa6831",
+        "titre": "5 étoiles comme le Brésil",
+        "texte": "Ce podcast sur les montres est un vrai bijou ! Les discussions sont tellement captivantes que je me suis retrouvé à vérifier l'heure, non pas par ennui, mais juste pour être sûr que je ne voyageais pas dans le temps.…"
+      },
+      {
+        "note": 5,
+        "auteur": "phocean",
+        "titre": "Ici le marketing reste à la porte",
+        "texte": "Un véritable plaisir d’écouter ces émissions, avec des points de vue riches et surtout honnêtes, sans langue de bois. Cela fait du bien dans ce milieu très feutré, et surtout excessivement architecturé autour du marketing, où tout est son contraire est absolument génial, révoluti…"
+      }
     ]
   }
 }

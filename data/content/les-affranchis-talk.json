@@ -32,5 +32,31 @@
       "date": "2026-10-27"
     }
   ],
-  "derniere_activite": "2026-10-27"
+  "derniere_activite": "2026-10-27",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Me Rédoine",
+        "titre": "Une idée",
+        "texte": "Magnifique émission ! Cependant, un seul thème pour tout le podcast ça fait un peu long et j’ai pu décrocher. Je suggère au moins deux sujets par émission. On veut une suite, vous l’avez compris."
+      },
+      {
+        "note": 5,
+        "auteur": "Itsyatko",
+        "titre": "HATE",
+        "texte": "Un casting qui peut annoncer que du lourd, je sens que ca devenir mon podcast foot préféré !!!"
+      },
+      {
+        "note": 5,
+        "auteur": "otc_est2020",
+        "titre": "Dans le panthéon",
+        "texte": "Déjà dans la conversation des plus grands podcast de France ? Je me le demande."
+      }
+    ]
+  }
 }

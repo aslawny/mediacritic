@@ -49,25 +49,29 @@
   "derniere_activite": "2026-01-27",
   "frequence_jours": 12,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-03",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "nabulione1799",
+        "titre": "Une excellente initiative !",
+        "texte": "Ravi d'assister au lancement de cette série de podcasts de Contrepoints, avec un tenancier talentueux et des invités qui seront de grande qualité, à n'en pas douter. À consommer (et à produire) sans modération !"
+      },
+      {
+        "note": 5,
+        "auteur": "memolyrtille",
+        "titre": "Un grand merci",
+        "texte": "Un grand merci pour ce podcast d’une grande qualité. L’émission avec comme invitée Nathalie Janson est passionnante ce serait avec plaisir de l’entendre à nouveau pour approfondir certains sujets."
+      },
+      {
+        "note": 5,
+        "auteur": "Rocou",
+        "titre": "J’adore!",
+        "texte": "Animateur intelligent et invités de grande qualité, j’espère que cela va continuer ainsi. J’attends chaque épisode avec impatience. J’adore!"
+      }
     ]
   }
 }

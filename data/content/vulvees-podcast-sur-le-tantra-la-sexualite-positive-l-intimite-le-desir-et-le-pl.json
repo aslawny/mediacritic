@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-24",
-  "frequence_jours": 4
+  "frequence_jours": 4,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-02",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Madame Chatte-heureuse",
+        "titre": "Vulvée est mon podcast préféré",
+        "texte": "C’est toujours un vrai plaisir d’écouter les podcasts d’Alexandra. J’en apprends à chaque fois sur ma chatte et tout ce qui l’entoure, et en plus je ris beaucoup 😊 Au-delà de leur richesse et de leur côté instructif, les podcasts d’Alexandra sont aussi remplis d’humour.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Frédérique-54",
+        "titre": "Vive Vulvées !",
+        "texte": "Je suis Vulvées depuis son démarrage et écoute chaque nouvel épisode avec délice. En partant de son histoire personnelle, Alexandra parle de façon rafraichissante et décomplexée de pans souvent méconnus du sexe féminin, toujours avec délicatesse et élégance.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Jlemarchand",
+        "titre": "Très belle découverte",
+        "texte": "J'ai franchi le pas de me dire, tiens et si j'explorais et allais écouter les podcasts d'Alexandra. J'ai 15 minutes, voyons. Finalement je m'en suis fait 6 dans l'après midi. Le flow, les mots, la découverte de nombreuses aspects de la femme (et l'homme) m'ont fait du bien.…"
+      }
+    ]
+  }
 }
