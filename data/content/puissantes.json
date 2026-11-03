@@ -53,25 +53,29 @@
   "derniere_activite": "2026-09-14",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-04",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Sandra Loh",
+        "titre": "Tellement inspirant",
+        "texte": "Que vous connaissiez Nejma ou non, se plonger dans ce podcast est une parenthèse de positivité, de bienveillance et de petits conseils autant utiles qu’inspirants. Et c’est ça la magie… c’est authentique, vrai et actuel, intelligent, pétillant tout comme sa créatrice.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Solenne BLG",
+        "titre": "Un podcast qui montre que toutes les femmes peuvent être puissantes 🤍",
+        "texte": "Avec Puissantes, Nejma pose quelque chose de rare : un espace où ambition et douceur ne s’opposent plus. Les conversations sont profondes, incarnées, loin des discours superficiels.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Chris_fitandfashion",
+        "titre": "Cet épisode a été tellement bouleversant j ai adoré",
+        "texte": "Un épisode absolument bouleversant… J’en ai eu les larmes aux yeux. J’avais l’impression qu’elle racontait mon histoire, qu’elle mettait des mots sur des émotions que je n’avais jamais réussi à exprimer. Ce témoignage m’a profondément touchée et, surtout, il m’a fait du bien.…"
+      }
     ]
   }
 }

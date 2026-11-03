@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2021-08-03",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Gael Aymard",
+        "titre": "La promesse est remplie !",
+        "texte": "Belle découverte, bravo Pierre-Arnaud pour cette belle idée originale mais tellement conviviale ! 1001 mercis et bonne continuation 👌 Gael du podcast Aventure Humaine 🎙"
+      },
+      {
+        "note": 5,
+        "auteur": "Lucile10",
+        "titre": "Excellent",
+        "texte": "Un podcast aussi excellent que Pierre-Arnaud lui même ! On ne s’en lasse pas, je vous le recommande ! Un vrai bol d’air !"
+      },
+      {
+        "note": 5,
+        "auteur": "Mathilde du podcast Flashback",
+        "titre": "Captivant",
+        "texte": "Superbe découverte de ce podcast qui nous fait voyager! Bravo aux intervenants, Mathilde du podcast Flashback"
+      }
+    ]
+  }
 }

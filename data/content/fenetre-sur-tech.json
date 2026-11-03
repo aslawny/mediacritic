@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-27",
-  "frequence_jours": 16
+  "frequence_jours": 16,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Sandra&Serge",
+        "titre": "Mettez une intro bordel ! 😅😘",
+        "texte": "Bravo à vous pour ce podcast. Vraiment. J’ai apprécié le ton, la ligne éditoriale, ainsi que la fluidité des échanges et de l’émission. Avis personnel : l’entrée en matière est un peu rugueuse et il conviendrait, selon moi, d’huiler légèrement les charnières pour plus de plaisir…"
+      },
+      {
+        "note": 5,
+        "auteur": "Isabelle Germouty",
+        "titre": "Bravo les amis!",
+        "texte": "Après avoir donné mon avis sur la V1, je confirme que la suite est au niveau, voire se bonifie en vieillissant! Je suis ok pour payer l’apéro, même si j’ai compris que JC préfère rester sobre …"
+      },
+      {
+        "note": 5,
+        "auteur": "RodolpheG",
+        "titre": "Inspirant, enrichissant",
+        "texte": "Bonjour à tous les 3 ! Un super podcast, très enrichissant. Pour Fabrice (EP 2) : Une idée d'appareil avec stylet ultra-simple (hors iPad) pour des notes manuscrites et des tâches, adapté à un novice en tech ? Pour JC : 100 % d'accord, la plage c'est essentiel …"
+      }
+    ]
+  }
 }

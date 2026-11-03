@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-26",
   "frequence_jours": 21,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-04",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lorna U",
+        "titre": "Inspirant à 360 degrés",
+        "texte": "Actrice et autrice, je n’appartiens pas aux Arts Visuels. Et pourtant, ce podcast formidable parle en creux de toutes les formes de créativités (avec les voyages intimes qui vont avec), et peut je pense passionner à presque tous les artistes dans la mesure où ceux ci sont prêts à…"
+      },
+      {
+        "note": 5,
+        "auteur": "Anoushkap",
+        "titre": "Bien ciblé et très inspirant !",
+        "texte": "Enfin un podcast vraiment dédié aux professionnels créateurs (artisans, artistes…)! Et qui ne s’adresse pas nécessairement à des personnes en début d’activité. Bien au contraire. C’est un rendez vous que j’attends toutes les semaines.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Leezie78",
+        "titre": "Belle découverte",
+        "texte": "Beaucoup de choses s’éclairent en écoutant ce podcast. Quand on monte son entreprise on cherche avant tout les conseils pour se développer commercialement, et peu de personnes qui donnent ces conseils abordent toutes ces notions de créativité qui sont pourtant essentielles quand…"
+      }
     ]
   }
 }

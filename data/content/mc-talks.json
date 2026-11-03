@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2022-10-19",
-  "frequence_jours": 40
+  "frequence_jours": 40,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "IP conseil",
+        "titre": "🤩",
+        "texte": "Quel bonheur d’écouter l’histoire de toutes ces personnes aux parcours atypiques! C’est inspirant et enrichissant. Le ton est spontané, naturels ça donne le smile d’entendre ton smile. Et puis cela me confirme qu’il n’est jamais trop tard pour trouver un job qui rend heureux.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Lootsh",
+        "titre": "Extrêmement enrichissant",
+        "texte": "Grâce à Marvinn, on fait la rencontre de divers profils qui ont des choses passionnantes à raconter et surtout qui peuvent nous inspirer ! A écouter de toute urgence pour faire le plein d’énergie !"
+      },
+      {
+        "note": 5,
+        "auteur": "Betty Par",
+        "titre": "Très intéressant !!!!",
+        "texte": "Woaw super format ! Notre vie est pleine de rebondissements il faut savoir saisir les bonnes opportunités et ne jamais lâcher....Très inspirant :)"
+      }
+    ]
+  }
 }

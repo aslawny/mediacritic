@@ -48,5 +48,25 @@
     }
   ],
   "derniere_activite": "2026-06-15",
-  "frequence_jours": 17
+  "frequence_jours": 17,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Poussin-13",
+        "titre": "Merci",
+        "texte": "Merci beaucoup pour ces explications très claires qui m’aident beaucoup à comprendre les chapitre complexes !"
+      },
+      {
+        "note": 2,
+        "auteur": "zoébtn",
+        "titre": "Je recommande vivement !!!",
+        "texte": "Toujours agréable à écouter, vos explications sont d'une aide précieuse pour mes révisions du bac !"
+      }
+    ]
+  }
 }

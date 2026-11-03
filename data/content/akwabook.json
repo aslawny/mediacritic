@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2022-09-07",
-  "frequence_jours": 23
+  "frequence_jours": 23,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tchelie B.",
+        "titre": "Un super tissage de liens culturels",
+        "texte": "Pour moi, la littérature est le reflet d’une culture, de ce qui fait son fondement et de ce qui l’anime. Immigrée,cette littérature, en plus de l’aspect culturel et intellectuel ,a pris pour moi une dimension sensorielle.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Maureen 🌸",
+        "titre": "Le pouvoir de la transmission ❤️",
+        "texte": "J’ai adoré l’épisode sur la transmission avec Sofia : fort, d’une sensible puissance, enrichissant ! Un bouquet de partages culturels, des réflexions et analyses pertinentes, des questionnements édifiants...…"
+      },
+      {
+        "note": 5,
+        "auteur": "Djounou",
+        "titre": "Podcast très quali !",
+        "texte": "Des invité.e.s et des échanges très intéressants, les sujets abordés sont traités en profondeur. Un vrai travail d’éducation est également fait à travers ce podcast, il suscite la curiosité et donne envie d’aller plus loin."
+      }
+    ]
+  }
 }

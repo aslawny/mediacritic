@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-06-18",
-  "frequence_jours": 22
+  "frequence_jours": 22,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Julien_Blutopia",
+        "titre": "La côte ouest est plein de richesses !",
+        "texte": "J’ai la chance de vivre à La Rochelle sur la côte ouest. Alors à chaque fois que j’écoute un épisode, je m’imagine sur la plage, face au vent avec le bruit des mouettes et des vagues.…"
+      },
+      {
+        "note": 5,
+        "auteur": "mariamalicia",
+        "titre": "Merci !",
+        "texte": "J’adore ce podcast pour mettre en avant le travail des femmes bretonnes et plus largement de l’Ouest ! C’est super enrichissant d’entendre leur histoire et de comprendre comment elles l’ont construite :)"
+      },
+      {
+        "note": 5,
+        "auteur": "Malaury Morin",
+        "titre": "La douceur de l’Atlantique",
+        "texte": "Je ne me lasse pas des conversations menées par la douce voix d’Elizabeth avec des femmes aux parcours variés. Parfait pour s’évader près de l’océan l’espace d’un épisode !"
+      }
+    ]
+  }
 }

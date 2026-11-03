@@ -52,25 +52,29 @@
   "derniere_activite": "2024-01-31",
   "frequence_jours": 27,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-04",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Ségo2cham",
+        "titre": "Super podcast mangas !",
+        "texte": "À tous les fans de mangas, écoutez Loïc ! Déjà, parce qu’il sait parfaitement de quoi il parle, qu’il n’aborde pas seulement l’aspect scénaristique mais aussi l’aspect technique et qu’il invite souvent des gens pour échanger avec lui ! Tout est complet et creusé en profondeur …"
+      },
+      {
+        "note": 5,
+        "auteur": "Kitashino",
+        "titre": "Pour tous les fans de mangas et d’animation!",
+        "texte": "Loïc, présente ce podcast, accompagné d’invités éclectiques et passionnés. Des analyses approfondies d’œuvres, des débats thématiques et des interviews composent les émissions. C’est à la fois accessible pour les néophytes et très précis pour les amateurs. Vivement recommandé. 👍"
+      },
+      {
+        "note": 5,
+        "auteur": "Daddy The Beat",
+        "titre": "Vous fera aimer et comprendre le manga",
+        "texte": "J’aime beaucoup ce podcast. Loïc a une solide culture, il dissèque très bien les œuvres et s’intéresse toujours au travail des auteurs. C’est un podcast que je recommande. J’aime aussi les échanges avec les invités."
+      }
     ]
   }
 }

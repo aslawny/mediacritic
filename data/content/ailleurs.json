@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-02-11",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "EAHRARHT",
+        "titre": "TOP",
+        "texte": "Merci pour ce voyage complet dans ses approches, instructif et authentique Ayant fait plusieurs haltes et séjours à Singapour , je retrouve tout à fait mon ressenti tout en ayant beaucoup apprécié les avis et conseils donnés par ces Français installés dans cette merveilleuse Cite…"
+      },
+      {
+        "note": 5,
+        "auteur": "emmatrrn",
+        "titre": "Envie d’ailleurs ? écoutez ailleurs !",
+        "texte": "Un podcast immersif qui nous transporte dans les rues de Singapour dans lesquelles on s’imagine déambuler … poignant ! J’ai hâte des nouvelles saisons qui arrivent !"
+      },
+      {
+        "note": 5,
+        "auteur": "Ju'I",
+        "titre": "On s’y croirait",
+        "texte": "Que dire à part que j’ai envie de partir à Singapour maintenant! Impatiente de découvrir la suite de ce podcast!"
+      }
+    ]
+  }
 }

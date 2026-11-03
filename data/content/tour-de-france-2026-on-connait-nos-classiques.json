@@ -49,25 +49,29 @@
   "derniere_activite": "2026-09-20",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-04",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "bobi kaiser",
+        "titre": "Excellent!!!",
+        "texte": "J’ai découvert récemment votre podcast grâce à l’algorithme Apple (comme quoi cela fonctionne). Il est fantastique (je pèse mes mots!), les intervenants sont excellents, les analyses aussi. J’écoute beaucoup de podcast sur le cyclisme c’est pour moi de loin le meilleur!"
+      },
+      {
+        "note": 5,
+        "auteur": "Chateaurenard",
+        "titre": "Un plaisir chaque semaine !",
+        "texte": "Merci pour toutes ces émissions que j’attends avec impatience chaque semaine. Nous n’avons rien d’aussi pointu en France, vous me faites me sentir un peu belge !"
+      },
+      {
+        "note": 5,
+        "auteur": "Sausses1994",
+        "titre": "Du pur bonheur",
+        "texte": "Des dialogues et des réactions complètement censé, l’équipe est exceptionnelle de vrai pro avec cetre touche féminine qui rajoute des points. Bravo et merci"
+      }
     ]
   }
 }

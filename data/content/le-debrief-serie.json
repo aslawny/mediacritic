@@ -50,5 +50,25 @@
     }
   ],
   "derniere_activite": "2026-09-08",
-  "frequence_jours": 3
+  "frequence_jours": 3,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Elena-aventure de Tintin",
+        "titre": "Je suis fan de la saison Mercredi",
+        "texte": "J’adore votre boulot et surtout votre participation pour raconter les truc d BD les séries Juste, vous pouvez faire TOUt les épisodes de la saison 1et2 de Mercredi sa serais sympa 🤗😉😉😉😉"
+      },
+      {
+        "note": 5,
+        "auteur": "Ezaekiel",
+        "titre": "Un très bon podcast sur les séries",
+        "texte": "Je recherchais quelques avis, critiques sur la série Gen V, spin-off de The Boys et bam ya pas grand chose. SI ce n’est Le Debrief’s. Bravo à l’équipe 🤩"
+      }
+    ]
+  }
 }

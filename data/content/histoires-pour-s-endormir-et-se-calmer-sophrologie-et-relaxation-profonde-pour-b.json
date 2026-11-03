@@ -33,5 +33,25 @@
       "date": "2020-08-21"
     }
   ],
-  "derniere_activite": "2020-08-21"
+  "derniere_activite": "2020-08-21",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "BlancheDeschamps",
+        "titre": "Parfait pour mon enfant !",
+        "texte": "Les histoires sont apaisantes et bien construites pour un retour au calme efficace :) Merci !!"
+      },
+      {
+        "note": 1,
+        "auteur": "dilili a paris",
+        "titre": "Nul",
+        "texte": "Je ne trouve ça pas super non, moi au contraire je chercher des histoires pour s’endormir facilement éventuellement je suis tomber sur vous, j’ai écouté tout les histoires est ce n’été pas intéressant du tout !!! Est maintenant vous comprenez pourquoi je vous est mis 1 étoile j’a…"
+      }
+    ]
+  }
 }

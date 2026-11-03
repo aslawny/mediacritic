@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2026-09-13",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "CharlyAcciari",
+        "titre": "Le top",
+        "texte": "Wendy n'a plus besoin de prouver qu'elle est excellente dans ce qu'elle fait. Nous avons beaucoup de chance d'avoir une journaliste comme elle. Vous êtes de loin ma journaliste préférée et j'espère vous voir encore très longtemps avec nous 👏🏼"
+      },
+      {
+        "note": 1,
+        "auteur": "grevo2",
+        "titre": "Où est il?",
+        "texte": "Étrange... j’envoie un avis TRÈS négatif sur Poirette, et il disparaît miraculeusement... cela ne fait que confirmer le manque d’impartialité et d’auto critique, il ne faudrait pas égratigner le héros.…"
+      },
+      {
+        "note": 5,
+        "auteur": "BAGUETTEPARISIENNE",
+        "titre": "SEBASTIEN",
+        "texte": "MERCI à Europe 1 d’avoir choisi Eve Roger et Sébastien Guyot pour la matinale du week-end !"
+      }
+    ]
+  }
 }

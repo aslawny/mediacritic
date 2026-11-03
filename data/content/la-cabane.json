@@ -52,25 +52,29 @@
   "derniere_activite": "2026-07-07",
   "frequence_jours": 2,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-04",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "catunicorn32",
+        "titre": "Je recommande (+conseil)",
+        "texte": "J’adore ton podcast que j’écoute régulièrement sur spotify et qui me diverti. Ta voix est très apaisante et les sujets dont tu parles me plaisent bien.…"
+      },
+      {
+        "note": 5,
+        "auteur": "unknow829292",
+        "titre": "podcast 39",
+        "texte": "ce podcast me fait vrmt écho ! je suis en «surcharge d’informations» par rapport aux réseaux. Le podcast c’est un format que j’affectionne justement pour me divertir sans être submergée. Merci pour celui d’aujourd’hui 🫶🏼"
+      },
+      {
+        "note": 5,
+        "auteur": "LaeXg",
+        "titre": "J’adore !",
+        "texte": "Super podcasts que j’écoute le matin en me préparant ou dans ma voiture pour aller au boulot ! Continue comme ça 🙃 Ta coiffeuse Laetitia 😉"
+      }
     ]
   }
 }

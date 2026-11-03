@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-10-12",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mariepaillette",
+        "titre": "« Mais OUIIIIIII : se choisir, enfin!!! »",
+        "texte": "J’ai écouté ton podcast avec le coeur grand ouvert et je l’ai vraiment adoré. Ta façon de parler de « la place à soi » est à la fois d’une douceur infinie et d’une force incroyable. On sent ta sensibilité, ton courage, ta sincérité.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Fred2990",
+        "titre": "Un podcast qui fait du bien",
+        "texte": "Mon regard est un peu particulier puisque c’est ma femme qui est derrière le micro mais ce qu’elle propose est précieux. Cette question de la place est abordé avec justesse, sensibilité et profondeur à chaque épisode.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Laetidbrv",
+        "titre": "Le chemin d’une vie (et le podcast parfait pour nous y accompagner !!!)",
+        "texte": "J’ai personnellement longtemps cherché ma place et le Sens est une valeur très forte chez moi. Sophie traite ce sujet avec brio et passion dans son podcast. Ses exemples sont concrets et ses questions ouvrent des portes intérieures qui laissent entrevoir d’autres possibilités.…"
+      }
+    ]
+  }
 }

@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-29",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-04",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lénalisette",
+        "titre": "Douceur et clairvoyance",
+        "texte": "Cela fait deux ans que je t’écoute au gré de tes aventures. Merci de nous partager ces moments de bonheur et d’amour 🙏 Moi aussi traveler solo j’adore tes audios en voyages . Juste au tel avec Juliette le son serait à améliorer ☺️ Stay authentic as you are 😘"
+      },
+      {
+        "note": 1,
+        "auteur": "Natttaloch",
+        "titre": "Propagande progressiste",
+        "texte": "Globalement on est sur une fille sans doute pourrie gâtée qui compte son histoire en y ajoutant une louche de wokisme et de suprématie féminine. Du miel pour les oreilles…"
+      },
+      {
+        "note": 5,
+        "auteur": "ludovic 91160",
+        "titre": "Magnifique podcast",
+        "texte": "Je les écoutes le soir ou le matin dans la voiture dans les embouteillages. Ils sont magnifiquement bien réalisés. Bravo pour ses interviews avec tes invité qui se livre à toi dans une bienveillance. Continue comme ça bravo 🥰"
+      }
     ]
   }
 }

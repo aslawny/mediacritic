@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-28",
   "frequence_jours": 31,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-04",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Totom42",
+        "titre": "Première écoute et wahou cette belle découverte",
+        "texte": "Je cherchais un podcast à écouter et je viens de prendre en pleine face le sport comme médicament. ENFIN ! J’ai beaucoup apprécié la richesse de l’épisode, le rythme de l’écoute mais surtout la force de ce témoignage d’un docteur qui dit que cela doit être notre réflexe sport san…"
+      },
+      {
+        "note": 2,
+        "auteur": "BA-Tomy",
+        "titre": "Un seul podcast ??",
+        "texte": "Bonjour, je viens de m’abonner à Hypercondriaque, je suis étonné je ne trouve qu’un seul podcast sur le tabac. Pouvez-vous m’aider svp ? J’utilise un iPhone je ne sais si cela à son importance. Cordialement."
+      },
+      {
+        "note": 5,
+        "auteur": "Anne PPsy",
+        "titre": "Merci",
+        "texte": "Merci pour ce podcast de grande qualité qui sort des idées préconçues et nous ouvre l’esprit ! Je pense en particulier à l’épisode sur le surpoids et l’obésité. Bravo ! 🌟🙏🏻"
+      }
     ]
   }
 }

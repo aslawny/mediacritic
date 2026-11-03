@@ -46,5 +46,25 @@
     }
   ],
   "derniere_activite": "2026-04-18",
-  "frequence_jours": 40
+  "frequence_jours": 40,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Eliø",
+        "titre": "Un voyage captivant",
+        "texte": "Un podcast captivant qui donne vie aux grandes figures de l’histoire de France. Les épisodes sont riches en détails et racontés avec passion. Parfait pour les amateurs d’histoire et les curieux qui souhaitent en savoir plus sur les personnalités qui ont façonné notre pays."
+      },
+      {
+        "note": 5,
+        "auteur": "killianenstop",
+        "titre": "Très cool à écouter !",
+        "texte": "Podcast très bien réalisé. La voix de Sirplay est très agréable, c’est dynamique, accompagné de musique. Super pour avoir une entrevue de la vie de personnages ayant marqué l’Histoire."
+      }
+    ]
+  }
 }

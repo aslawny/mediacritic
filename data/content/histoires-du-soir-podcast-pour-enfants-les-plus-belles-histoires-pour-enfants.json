@@ -52,25 +52,29 @@
   "derniere_activite": "2026-09-02",
   "frequence_jours": 2,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-04",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "avis des Podcast sur note",
+        "titre": "Bonjour, je vous adore❤️✨",
+        "texte": "Bonjour, j’adore vos vidéos elles sont incroyables je les écoute tout le temps quand je me réveille quand je vais m’endormir et même toute la journée je mets 5 étoiles c’est incroyable comme ça on vous soutient à 100 % on arrêtait pas ce que vous faisait parce que c’est tout simp…"
+      },
+      {
+        "note": 1,
+        "auteur": "Bonne année🍝",
+        "titre": "Bof NUL 👎",
+        "texte": "C’est NUL 👎 pourie 🤢🤢🤢🤢🤢🤢🤢🤢🤢🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮😤😤😤😤😤😤😤🤯🤯🤯🤯🤬🤬🤬🤬🤬😡😡😡😡😡👺👺👺👺👺👹👹👹👹👹👹👹🐺🐺🐺🐺🐺🐺🐺🐺🐺🐺🐺🐺🐺🐺🐺🐺🐺🐺🐺🐺🐺🐺🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴 Je betest c’est bête"
+      },
+      {
+        "note": 5,
+        "auteur": "Tc trop cool",
+        "titre": "J’adore 😊",
+        "texte": "C trop bien continuer comme sa 😊🫠🫠 c trop bien c interessant incroyable intelligent 🧠 vraiment la continuer À bientôt ✌️ bye bye 🩷❤️❤️❤️❤️❤️❤️❤️ 😝"
+      }
     ]
   }
 }

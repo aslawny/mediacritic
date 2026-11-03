@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-08-18",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Loubobou",
+        "titre": "À ne pas manquer !",
+        "texte": "Le podcast est une mine d’or d’informations si vous envisagez de vous installer au Canada. De plus, Emma est agréable à écouter, elle nous apporte des éléments pertinents, de qualité et surtout assimilables. Elle produit une vision claire et précise d’un tel projet.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Lily Slg",
+        "titre": "Une pépite!",
+        "texte": "Je viens de découvrir ce podcast et je l’ai dévoré! C’est une mine d’informations tellement précieuses ! Emma fait un vrai travail de collection d’informations sur les sujets primordiaux pour ceux qui veulent s’expatrier! Un gain de temps extraordinaire! Merci milles fois"
+      },
+      {
+        "note": 5,
+        "auteur": "VictoriaR.33",
+        "titre": "Un partenaire de choix !",
+        "texte": "Merci Emma pour tous ces précieux conseils. Cela nous donne une vision réaliste de ce qui nous attend. Avec tes podcasts, on se sent vraiment aidé et accompagné ! Hâte de lire tes guides pratiques et de faire des séances individualisées aussi 🤗"
+      }
+    ]
+  }
 }

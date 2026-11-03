@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-07",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "gunwlvs",
+        "titre": "💗",
+        "texte": "hello, je laisse pas souvent des commentaires sous les podcasts, mais ton concours m’a donner une raison pour enfin parler. Je te suis depuis environ fin 2023 notamment sur TikTok et je tiens à dire que tes review son vraiment pas mal, sans spoiler en plus.…"
+      },
+      {
+        "note": 1,
+        "auteur": "🎀G.i.R.L🎀",
+        "titre": "⭐️⭐️⭐️⭐️⭐️",
+        "texte": "Merci beaucoup pour ces conseils ! Ça m’a vraiment donné envie de regarder certain drama que je pensais pas apprécier. Et aussi merci pour ta vidéo où tu nous explique comment tu as appris le coreen ça m’a beaucoup aidée!"
+      },
+      {
+        "note": 5,
+        "auteur": "Mandy_eva_",
+        "titre": "Kdrama",
+        "texte": "Je n’ai pas l’habitude de laisser des commentaires mais j’aime vraiment les podcasts que tu proposes, ça me permet de cibler et découvrir les prochaines séries ou films que je vais regarder.…"
+      }
+    ]
+  }
 }

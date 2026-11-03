@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2023-03-16",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Alexandre Lacharme",
+        "titre": "Très bonne expérience",
+        "texte": "Thomas et moi avons bcp de points communs mais le plus évident pour une personne extérieur est notre approche et notre ton. Il dit ce qu’il pense, sans filtres et avec sincérité.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Christopher Piton",
+        "titre": "Au top 👌",
+        "texte": "Un Podcast conversationnel comme je les aime. On découvre ainsi les invités sur toutes leurs facettes. La preuve, les interviews font en moyenne 1h30. Thomas est curieux et pose un tas de questions intéressantes. Continue !"
+      },
+      {
+        "note": 5,
+        "auteur": "clemWP",
+        "titre": "Keep up the good work !",
+        "texte": "Merci de m’avoir supporté pendant presque 3h ! Ravi d’avoir échangé avec toi, d’autant plus que ça m’a permis de connaître ton podcast que j’ajoute tout de suite à mon appli ;) A très vite, Benjamin."
+      }
+    ]
+  }
 }

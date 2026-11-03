@@ -51,5 +51,25 @@
     }
   ],
   "derniere_activite": "2026-09-18",
-  "frequence_jours": 5
+  "frequence_jours": 5,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "mama_zebrak",
+        "titre": "Top top top !!",
+        "texte": "Bravo Nico pour ce démarrage. Épisode 1 passionnant. Je ne connaissais pas Hyena plus que ça (et g pas vraiment connecté avec le Rosabella, mais qui sait, peut être que cette écoute aura débloqué qqchose), g adoré son mindset, son flow verbal, sa pensée hyper créative et en même…"
+      },
+      {
+        "note": 5,
+        "auteur": "Lol66000",
+        "titre": "J’adore !",
+        "texte": "Merci Nico pour ces épisodes tjrs très bien menés. On apprend à chaque fois. Et merci aussi à tes invité.es de qualité !"
+      }
+    ]
+  }
 }

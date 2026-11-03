@@ -37,25 +37,29 @@
   ],
   "derniere_activite": "2021-12-30",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-04",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "fred08",
+        "titre": "Podcast Relations Internationales et defense",
+        "texte": "Et voilà enfin un podcast defense et relation internationales qui fait du très sérieux sans se prendre au sérieux ! Très bons intervenants et j’adore la minute consommation de produits maltés …"
+      },
+      {
+        "note": 2,
+        "auteur": "Alexdelalibre",
+        "titre": "Poussif",
+        "texte": "Manque de rythme, certains des intervenants peinent à lire leurs notes et butent sur les propres mots de leur chronique, contenu très inégal, certains chroniqueurs contents d’eux s’écoutent parler, j’ai essayé à plusieurs reprises et non, pas possible, je décroche. Dommage."
+      },
+      {
+        "note": 5,
+        "auteur": "gjkfnrj",
+        "titre": "Excellent",
+        "texte": "Un podcast toujours très intéressant, documenté, et qui fournit de bonnes pistes de réflexions sur des thèmes toujours variés pour qui s’intéresse aux questions de défense. A recommander chaudement !"
+      }
     ]
   }
 }

@@ -50,5 +50,25 @@
     }
   ],
   "derniere_activite": "2025-07-14",
-  "frequence_jours": 35
+  "frequence_jours": 35,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Clemence_bs",
+        "titre": "Pour les passionnés nocturnes",
+        "texte": "Sans doute mon podcast préféré, avec des guests éclectiques j’attends chaque épisode avec impatience! A quand le retour ?"
+      },
+      {
+        "note": 5,
+        "auteur": "VictoriaVersailles",
+        "titre": "Pure plaisir",
+        "texte": "Écouter et vivre le moment de chacun des épisodes de ce podcast, c’est vivre une fête ! Merci"
+      }
+    ]
+  }
 }

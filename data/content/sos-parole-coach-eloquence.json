@@ -50,5 +50,25 @@
     }
   ],
   "derniere_activite": "2025-12-09",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Cleever69",
+        "titre": "Bon début mais baissez la musique",
+        "texte": "J'ai tout écouté et j'aime le concept notamment des expériences quotidiennes, just esi vous pouvé baisser la musique qui parfois couvre la voie. Sinon top merci continuez"
+      },
+      {
+        "note": 5,
+        "auteur": "Elodie Chavret",
+        "titre": "Super",
+        "texte": "Je viens de découvrir ce podcast, les contenus sont très intéressants. J’espère atteindre votre niveau bientôt! Merci pour vos conseils et astuces"
+      }
+    ]
+  }
 }

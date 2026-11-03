@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2025-09-01",
-  "frequence_jours": 20
+  "frequence_jours": 20,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Léo.Plh",
+        "titre": "Génial!",
+        "texte": "Hello Audrey, J'ai écouté ton épisode sur David Graeber \" Pour une anthropologie anarchiste\" : merci c'était fabuleux, du début à la fin. J'ai adoré ta lecture et le passage que tu as choisi.…"
+      },
+      {
+        "note": 5,
+        "auteur": "XavierSoler",
+        "titre": "Du complexe est mieux avec le miel de la voix d’Audrey Vernon",
+        "texte": "Rien de tel que de se cultiver quelque peu sur des livres que nous n’aurions pas lu d’emblée avec la voie envoûtante d’Audrey"
+      },
+      {
+        "note": 5,
+        "auteur": "31Tintin",
+        "titre": "Merci",
+        "texte": "Merci pour ce travail ! Améliorez la qualité de l’enregistrement, cela aidera à mieux appréhender le fond de vos textes 😊"
+      }
+    ]
+  }
 }

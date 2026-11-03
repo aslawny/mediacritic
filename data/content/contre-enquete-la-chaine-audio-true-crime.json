@@ -52,25 +52,29 @@
   "derniere_activite": "2024-07-04",
   "frequence_jours": 6,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-04",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "precispointi",
+        "titre": "Super",
+        "texte": "Sur Ed Kemper, je vous recommande aussi le podcast Anatomie du fait divers. Très bien aussi"
+      },
+      {
+        "note": 1,
+        "auteur": "Brunoscagliotti",
+        "titre": "Bien mais…",
+        "texte": "Le coup de Guy Georges!!! là c’est absolument n’importe quoi. C’est Thierry Paylib qui a été arrêté par hasard par un commissaire par hasard. C’est quand même très très fâcheux pour un mec qui prétend avoir participé à l’enquête.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Tout comme tout le monde",
+        "titre": "SUPER PODCAST !",
+        "texte": "Passionnant ! Très bon format et très agréable à écouter. C’est vraiment génial !"
+      }
     ]
   }
 }

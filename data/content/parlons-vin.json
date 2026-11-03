@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-08-27",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Bipbipeux",
+        "titre": "Tellement instructif et agréable!",
+        "texte": "Que ce soit la journaliste par elle-même ou l’angle d’approche choisi pour nous aider à apprivoiser cet art, tout est excellent. Merci beaucoup."
+      },
+      {
+        "note": 5,
+        "auteur": "Laura Dargent",
+        "titre": "Enfin un podcast vin drôle et bourré d’astuces",
+        "texte": "Un podcast qui ne s’embarrasse pas de jargon, et répond à toutes ces petites questions que l’on n’ose jamais poser, en moins de 5 minutes."
+      },
+      {
+        "note": 5,
+        "auteur": "Aimee890",
+        "titre": "Super podcast, instructif et passionnant",
+        "texte": "J’adore ce podcast, on y apprend beaucoup sur le vin, des conseils sur comment le déguster et bien l’apprécier. Je recommande !"
+      }
+    ]
+  }
 }

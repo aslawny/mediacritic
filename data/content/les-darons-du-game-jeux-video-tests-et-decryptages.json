@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-26",
-  "frequence_jours": 3
+  "frequence_jours": 3,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Laladoe40",
+        "titre": "Très cool comme concept",
+        "texte": "Vraiment sympa comme podcast, avec un angle différent de ce qu’on entend d’habitude. On a un avis clair sur les jeux, mais aussi tout ce qui se passe derrière, dans les studios et l’industrie.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Elby40",
+        "titre": "Simple et efficace",
+        "texte": "J’ai pas trop le temps de suivre les actualités en ce moment et vos formats d’épisodes présentent les choses clairement et simplement ! Mais à quand le retour du score éthique ?! C’est dommage de pas l’avoir continué … c’était intéressant d’avoir une note autour des conditions de…"
+      },
+      {
+        "note": 5,
+        "auteur": "Kaeden | Gregoire",
+        "titre": "Un podcast jeu vidéo qui fait plaisir",
+        "texte": "Toujours agréable à écouter pour suivre les dernières sorties jeux vidéo et découvrir ce qui vaut le détour. Un podcast simple, passionné et efficace, que je prends plaisir à retrouver régulièrement !"
+      }
+    ]
+  }
 }

@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-04-30",
-  "frequence_jours": 18
+  "frequence_jours": 18,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Breetzeel",
+        "titre": "Sur le fil ❤️",
+        "texte": "C’est un podcast sur la sensibilité de la vie. Sur le fil où l’on se lève chaque jour. Des talks sur la contemplation de l’absurde avec de la joie et des drôleries, le tout accompagné de questions empouvoirantes afin d’esquisser un chemin.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Bénédicte 91",
+        "titre": "Belle découverte",
+        "texte": "Je découvre ce podcast en cherchant à écouter Pauline Delabroy Allard. Je suis touchée par cet échange et me réjouis d’avances de découvrir les autres enregistrements sur ce thème de l’hypersensibilité - je le sens bien sûr concernée ☺️ Merci, c’est simple, vrai et doux 🙏"
+      },
+      {
+        "note": 5,
+        "auteur": "ClaudiaDimier",
+        "titre": "Extraordinaire",
+        "texte": "Lisa tu es fascinante de vérité, ton podcast est génial, tu es ultra inspirante, merci pour ces partages et ces conversations ultra profondes et interessantes… Bravo d’avoir créé ça ❤️"
+      }
+    ]
+  }
 }

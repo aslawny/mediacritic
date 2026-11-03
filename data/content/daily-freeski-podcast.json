@@ -49,25 +49,29 @@
   "derniere_activite": "2026-04-14",
   "frequence_jours": 29,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-04",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Flo1519",
+        "titre": "Régal",
+        "texte": "Ce podcast a le seul défaut de durer moins de 2h… quel régal, merci les gars"
+      },
+      {
+        "note": 5,
+        "auteur": "Guillaume Douet",
+        "titre": "Au top",
+        "texte": "Un espoir de retrouver un Mickaël Deschenaux , ou un Gigi Couttet ?"
+      },
+      {
+        "note": 5,
+        "auteur": "Éric dampierre",
+        "titre": "Ça sent la pow !",
+        "texte": "Trop bon de retrouver les grosses personnalités du freeski !"
+      }
     ]
   }
 }

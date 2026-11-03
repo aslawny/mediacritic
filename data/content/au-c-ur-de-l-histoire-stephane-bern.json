@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2025-08-22",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 2,
+        "auteur": "draizilr",
+        "titre": "Trop de pubs !",
+        "texte": "J’adore cette émission, je l’écoute tout les jours. Les invités sont très intéressants (quoique parfois un peu trop bavards). Mais là les pubs ce n’est plus possible !! Au temps au début du récit, pourquoi pas, mais toutes les 5-10 minutes …"
+      },
+      {
+        "note": 1,
+        "auteur": "-T.A.-",
+        "titre": "Plus de publicités que de podcast",
+        "texte": "Autant une publicité au début était acceptable, autant le nouveau rythme avec une coupure toutes les 2 minutes est simplement ridicule !"
+      },
+      {
+        "note": 1,
+        "auteur": "384ar",
+        "titre": "Ignoble.",
+        "texte": "Ignoble ce saucissonnage par une pub idiote : 4 fois en quelques minutes. Aucun respect du narrateur et, accessoirement, de l'auditeur du podcast. Et, aujourd'hui, le discours de Stéphane Bern a été coupé AU MILIEU D'UN MOT ..."
+      }
+    ]
+  }
 }

@@ -53,25 +53,29 @@
   "derniere_activite": "2026-09-23",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-04",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Chrys6903",
+        "titre": "Des podcasts riches et variés",
+        "texte": "Merci Helen de prendre ton temps pour partager ta vision du yin associée à la Médecine traditionnelle Chinoise. Même en ayant fait déjà deux des formations proposées par Helen, revoir certains principes sous cette forme de Podcast est très complémentaire …"
+      },
+      {
+        "note": 5,
+        "auteur": "Marion_plbe",
+        "titre": "La douceur incarnée",
+        "texte": "Un vrai coup de cœur pour ce podcast ! La voix douce et apaisante d’Helen nous plonge instantanément dans un univers de bien-être et de sagesse.…"
+      },
+      {
+        "note": 5,
+        "auteur": "ninalcr",
+        "titre": "Le podcats qu’il manquait 🌙",
+        "texte": "Tellement heureuse de découvrir chaque mercredi un nouvel épisode sur LE podcats qu’il manquait. Mille mercis Helen pour ces partages qui nous fonds du bien et nous permettent de ralentir en conscience et de comprends son importance.…"
+      }
     ]
   }
 }

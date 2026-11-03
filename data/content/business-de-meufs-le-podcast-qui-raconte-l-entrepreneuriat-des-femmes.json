@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-02-18",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "laumo85",
+        "titre": "Enrichissant et un booster efficace",
+        "texte": "Un podcast vraiment inspirant et agréable à écouter. Les échanges sont authentiques, intéressants et donnent envie d’avancer dans ses propres projets. J’aime le fait qu’on parle d’entrepreneuriat avec sincérité, sans blabla, mais avec de vraies expériences et de vraies leçons.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Melc1910",
+        "titre": "Un vrai boost de motivation",
+        "texte": "J’adore le podcast, le format live est absolument top c’est génial de pouvoir entendre les questions qu’on se posent être poser en live. Les interviews sont bien menés, c’est une vraie bouffée d’air frais et de motivation pour nous entrepreneuses, merciiiii !"
+      },
+      {
+        "note": 5,
+        "auteur": "RerD95190",
+        "titre": "Enrichissant",
+        "texte": "Ce podcast permet de découvrir des projets, business d’entrepreneuses de différents secteurs qui partagent leurs parcours avec les victoires et les difficultés qu’elles ont rencontrées. C’est inspirant et plein de conseils !"
+      }
+    ]
+  }
 }

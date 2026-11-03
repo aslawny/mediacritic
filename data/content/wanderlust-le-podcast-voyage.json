@@ -53,25 +53,29 @@
   "derniere_activite": "2025-04-15",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-04",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Marie Bordeaux",
+        "titre": "Le podcast qui raconte le voyage autrement",
+        "texte": "Merci Marine de me faire voyager à travers les récits de gens passionnés et passionnants et de découvrir comment l’expérience du voyage - à travers ces récits intimistes - et bien au delà de la simple destination - est une expérience subjective - riche en rencontres , de l’autre,…"
+      },
+      {
+        "note": 5,
+        "auteur": "IkerJH",
+        "titre": "Ça donne envie de prendre l’avion 🌍✈️",
+        "texte": "Toujours un plaisir d’écouter les podcast remplis d’histoires et d’anecdotes! Marine a été ma coordinatrice scolaire quand je suis parti en Laponie (Finlande) faire mon erasmus.…"
+      },
+      {
+        "note": 5,
+        "auteur": "FannySeLivre",
+        "titre": "Voyager sous toutes ses formes, bonheur !",
+        "texte": "Coup de coeur pour ce podcast qui invite au voyage sous toutes ses formes : tant sur l'évasion et le dépaysement que sur l'introspection et le voyage intérieur. Un plaisir d'écoute qui donne envie de (re)voyager. Merci pour la découverte de ces parcours de vie insolites."
+      }
     ]
   }
 }

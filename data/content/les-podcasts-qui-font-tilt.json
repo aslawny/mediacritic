@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2023-04-20",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Gouzigouzi28",
+        "titre": "Des témoignages indispensables !!",
+        "texte": "L’épisode de Seraina m’a bouleversée, quel courage. Et surtout elle exprime vraiment bien la joie que génère le fait de se rendre utile, même à petite échelle dans notre cas si on n’est pas prêt-e-s à embarquer à bord de l’Aquarius !"
+      },
+      {
+        "note": 5,
+        "auteur": "stéphaniebeney",
+        "titre": "Belle découverte!",
+        "texte": "J’ai passé un très bon moment en écoutant le premier épisode de ce podcast. Un beau sujet, celui de l’engagement. Impatiente d’écouter les prochains épisodes."
+      },
+      {
+        "note": 5,
+        "auteur": "sk8yalife",
+        "titre": "Intelligent et intéressant",
+        "texte": "Chaque épisode est différent et très inspirant. Impressionnant et passionnant d’écouter ces vies et ces personnes engagées et aux parcours inspirant."
+      }
+    ]
+  }
 }

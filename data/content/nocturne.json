@@ -53,25 +53,29 @@
   "derniere_activite": "2026-08-09",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-04",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Ckofkof",
+        "titre": "Parfait!",
+        "texte": "Il y a tout dans ce podcast, l’intro élégante et bien pensée, la lecture apaisante , la découverte de lectures inconnues, un vrai déclencheur d’envie de lire … je les écoute avant de dormir c’est idéal , on regrette simplement de ne pas en avoir un par jour !"
+      },
+      {
+        "note": 2,
+        "auteur": "Flobeematic",
+        "titre": "Ce serait mieux avec quelqu’un qui lit bien et incarne ce qu’il lit.",
+        "texte": "Articulez,respectiez les liaisons, l’intonation, la fluidité, le ton. La base pour ce type de podcast, non? J’ai écouté wuthering heights. Déçue."
+      },
+      {
+        "note": 5,
+        "auteur": "Manuline81",
+        "titre": "Une merveilleuse idée",
+        "texte": "J’ai été enchantée par cette idée de podcast. Le dernier épisode m’a énormément plu ce qui m’a donné envie d’acheter le dernier livre de Jérôme Chantreau, auteur que je ne connaissais pas et je dévore actuellement l’affaire de la rue Transnonain..merci !"
+      }
     ]
   }
 }

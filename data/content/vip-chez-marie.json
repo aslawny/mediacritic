@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-16",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "mcpeich",
+        "titre": "Génial !",
+        "texte": "Un excellent podcast : vif, dynamique et intimiste ! J’ai hâte d’écouter les prochains épisodes. Marie Perarnau pose des questions fraîches et guide la conversation avec beaucoup de naturel et d’habileté. C’est drôle, intelligent et réconfortant.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Sabine IG",
+        "titre": "Des parents comme les autres !",
+        "texte": "Un podcast qui nous prouve que les VIP sont des parents comme les autres (enfin presque). Marie sait mettre ses invités à l’aise et ils se confient sur ce sujet intime qu’est la parentalite."
+      },
+      {
+        "note": 5,
+        "auteur": "HortenseLC",
+        "titre": "Excellent!",
+        "texte": "Excellente intervieweuse au service d’une très bonne idée: désacraliser la star et rencontrer le parent qui se cache derrière. Intelligent, spontané, drôle et bien recherché."
+      }
+    ]
+  }
 }

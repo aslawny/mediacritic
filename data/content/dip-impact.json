@@ -50,25 +50,29 @@
   "derniere_activite": "2023-12-05",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-04",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "PatCG63",
+        "titre": "Un podcast équilibré et technique bravo",
+        "texte": "Une revue intéressante et pertinente du tennis homme et femme ( rien à voir avec le concurrent du boys band de RMC) Une sug faire participer une analyste féminine… de la trempe de Justine Henin..?"
+      },
+      {
+        "note": 3,
+        "auteur": "16_ART",
+        "titre": "Le son les gars …",
+        "texte": "Très bon contenu mais sérieusement il faut faire quelque chose pour le son !"
+      },
+      {
+        "note": 5,
+        "auteur": "Tplantier",
+        "titre": "Excellent podcast sur l’actualité du tennis!",
+        "texte": "Une belle découverte dont je ne me passe plus. Merci à toute l’équipe de passionnés! En revanche, la voix de DIP est à peine audible sans monter sensiblement le volume…"
+      }
     ]
   }
 }

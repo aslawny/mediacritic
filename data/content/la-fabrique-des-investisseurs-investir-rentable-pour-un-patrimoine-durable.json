@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-07",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Un apprenti rentier",
+        "titre": "Franchement merci",
+        "texte": "Merci Jérôme pour l’énergie et ton retour de parcours d’expérience. En effet le monde de l’investissement n’est pas simple et il faut s’armer de patience et d’un bon Mindset. Merci pour ton partage. Force à toi et continue comme cela"
+      },
+      {
+        "note": 5,
+        "auteur": "Heloise_lcss",
+        "titre": "Super podcast !",
+        "texte": "Très intéressant, merci beaucoup de démocratiser tout ce savoir ! Les invités sont toujours très intéressants également, un vrai plaisir d’écouter ce podcast !"
+      },
+      {
+        "note": 5,
+        "auteur": "alex laveyronnais",
+        "titre": "Authentique",
+        "texte": "Podcast authentique D’une personne honnête qui expose ses réussites mais aussi ses échecs en toute transparence"
+      }
+    ]
+  }
 }

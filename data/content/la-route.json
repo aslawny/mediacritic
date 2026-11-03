@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2021-11-06",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "SolineFbr",
+        "titre": "Le podcast qui tient La Route !",
+        "texte": "Le podcast La Route est simplement génial. Que vous soyez passionné de course à pied ou non, ces histoires sur les grands champions ou les courses légendaires sont passionnantes.…"
+      },
+      {
+        "note": 5,
+        "auteur": "landouille22",
+        "titre": "Vamos !",
+        "texte": "Dans ce monde de podcaster Bastien se détache par sa vision de la performance et la diversité des sujets traités. Amazing celui de Mehdi Continue comme ça c’est top !"
+      },
+      {
+        "note": 5,
+        "auteur": "Lb gif b",
+        "titre": "De mieux en mieux",
+        "texte": "Bonjour, au tout début du podcast, j’étais septique, et forcé de constater que c’est en constante amélioration, (interview et qualité des invités) bravo continue"
+      }
+    ]
+  }
 }

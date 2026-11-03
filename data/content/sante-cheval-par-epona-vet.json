@@ -49,5 +49,19 @@
     }
   ],
   "derniere_activite": "2026-05-08",
-  "frequence_jours": 40
+  "frequence_jours": 40,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "lilimath",
+        "titre": "Pédagogique",
+        "texte": "Super intéressant, à écouter pour mieux entendre nos chevaux !"
+      }
+    ]
+  }
 }

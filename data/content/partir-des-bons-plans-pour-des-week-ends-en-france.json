@@ -26,5 +26,31 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-01"
+  "updatedAt": "2026-11-01",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Jerome PROD’HOMME",
+        "titre": "Idéal pour découvrir et s’ambiancer avant de partir",
+        "texte": "J’ai découvert des choses sur des endroits que je connaissais déjà et je me suis « ambiancé » pour préparer un petit voyage ce qui me permettra d’arriver avec des infos d’avance et de gagner du temps"
+      },
+      {
+        "note": 5,
+        "auteur": "FlyTof",
+        "titre": "Une superbe collection",
+        "texte": "Idéal pour préparer un week-end ou des vacances en France mais également pour voyager sans quitter son fauteuil !"
+      },
+      {
+        "note": 5,
+        "auteur": "eric.cha",
+        "titre": "merci",
+        "texte": "une super chronique qui fait voyager et permet de découvrir les territoires qu’on ne connaît pas. Merci !"
+      }
+    ]
+  }
 }

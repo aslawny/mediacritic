@@ -53,25 +53,29 @@
   "derniere_activite": "2024-04-08",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-04",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "je t'écoute",
+        "titre": "Je vous adore",
+        "texte": "Depui quelque temps j’ai du mal à m’endormir alors j’ai trouvé se super podcast sa m’aide beaucoup en plus il n’y a pas de pub !!!!!"
+      },
+      {
+        "note": 5,
+        "auteur": "🍒𝑡𝑢𝑡𝑡𝑖 - 𝑓𝑟𝑢𝑖𝑡𝑖 🍒",
+        "titre": "Trop bien 👍🏻",
+        "texte": "J’adore 🥰 ce podcast et le voudrais dire à granger (la personne qui a écrit avant moi ) de ne jamais arrêter de l’écouter ! Bises 😽"
+      },
+      {
+        "note": 5,
+        "auteur": "La petite fille mystère 🤭✨",
+        "titre": "❤️❤️❤️",
+        "texte": "Cette méditation est trop bien !!❤️elle arrive toujours a me faire dormir !😴 😜( juste faite plus d’épisodes stp 🥺)"
+      }
     ]
   }
 }

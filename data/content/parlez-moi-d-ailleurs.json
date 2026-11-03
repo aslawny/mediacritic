@@ -51,5 +51,25 @@
     }
   ],
   "derniere_activite": "2026-07-29",
-  "frequence_jours": 29
+  "frequence_jours": 29,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Clemamore",
+        "titre": "Indispensable !",
+        "texte": "Un contenu hyper complet et de qualité, parfait pour préparer son voyage ou pour mieux découvrir certaines destinations. Une superbe découverte."
+      },
+      {
+        "note": 5,
+        "auteur": "lucasbury",
+        "titre": "Le voyage de l'esprit",
+        "texte": "J'adore! Un super podcast qui permet de voyager depuis son canapé ou son lit! Un concept innovant et passionnant! Hâte des prochains épisodes!"
+      }
+    ]
+  }
 }

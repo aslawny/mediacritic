@@ -50,5 +50,25 @@
     }
   ],
   "derniere_activite": "2026-08-24",
-  "frequence_jours": 2
+  "frequence_jours": 2,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "jocook94",
+        "titre": "Longue vie à Inside Banking 😀",
+        "texte": "Inside Banking, c’est LE podcast qui fait décoller ta culture financière 🚀🎙️"
+      },
+      {
+        "note": 5,
+        "auteur": "EliseSM75",
+        "titre": "Très instructif",
+        "texte": "Super 1er épisode ! Hâte d’écouter les prochains épisodes 🎙️"
+      }
+    ]
+  }
 }

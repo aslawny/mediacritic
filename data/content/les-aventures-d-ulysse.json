@@ -51,5 +51,25 @@
     }
   ],
   "derniere_activite": "2025-01-01",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "#moi et podcast #",
+        "titre": "Cool!",
+        "texte": "Merci à toute l’équipe de l’ina de me faire revivre les petits moments de bonheur de ma jeunesse !!!📻"
+      },
+      {
+        "note": 5,
+        "auteur": "renarbleu12",
+        "titre": "Vraiment super",
+        "texte": "C’est trop bien de faire découvrir ça au enfants c’est vraiment une histoire a connaître"
+      }
+    ]
+  }
 }

@@ -48,5 +48,19 @@
     }
   ],
   "derniere_activite": "2026-06-04",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Xeïa",
+        "titre": "Merci!",
+        "texte": "Super contenus, ça m’aide beaucoup pour mon apprentissage! Merci beaucoup ☺️🇰🇷"
+      }
+    ]
+  }
 }

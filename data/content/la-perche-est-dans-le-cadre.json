@@ -51,25 +51,29 @@
   "derniere_activite": "2026-09-04",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-04",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "melanie_lt",
+        "titre": "Un super podcast sur le cinéma !",
+        "texte": "J’écoute La Perche depuis quelques mois maintenant, et il figure désormais parmi mes écoutes favorites. Je peux suivre l’actualité cinéma, et les différentes critiques m’incitent à aller voir certains films en salle.…"
+      },
+      {
+        "note": 3,
+        "auteur": "No se falta",
+        "titre": "Un peu décu",
+        "texte": "Je suis moins enthousiaste que les autres avis. Les opinions sont intéressantes certes mais le débit et la langue laissent franchement à désirer (sauf la présentatrice). Beaucoup d’à-peu-près et d’anglicismes, de l’énervement, des faux débats.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Marie-Ophélie",
+        "titre": "Mon nouveau RDV cinéma !",
+        "texte": "Merci de ce podcast, je cherchais des gens chill mais connaisseurs pour parler des films et de l’actualité cinéma. Un vrai plaisir pour mes oreilles même en étant dans le milieu de l’exploitation (ce qui met la barre un peu haute) vous avez trouvé la juste mesure entre initiés et…"
+      }
     ]
   }
 }

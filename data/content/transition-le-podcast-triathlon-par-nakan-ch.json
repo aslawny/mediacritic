@@ -52,25 +52,29 @@
   "derniere_activite": "2026-07-30",
   "frequence_jours": 21,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-04",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-03",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Gilbert_J_S",
+        "titre": "Super Podcast avec un bon équilibre entre infos sportives et scientifiques",
+        "texte": "J’aime beaucoup l’approche “sportivo scientifique” de ce Podcast ainsi que la variété des sujets traités. J’ai également bien apprécié l’épisode sur Coros. C’est un marque que j’apprécie et que je suis de plus en plus. Le dernier HR monitor qu’ils ont sorti est une tuerie.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Les chevaux ou rien",
+        "titre": "Un grand bravo pour ce podcast",
+        "texte": "Merci Gregory pour ce podcast. Particulièrement celui sur le marathon de Boston. Tous les retours (les tiens et ceux de tes invités) m’ont rappelé des moments de galère survenus en plein marathon sous de fortes chaleurs - Ibiza, Valence, Florence, Le Havre (eh oui) et avec du dén…"
+      },
+      {
+        "note": 5,
+        "auteur": "TiThion",
+        "titre": "1re épisode prometteur",
+        "texte": "C’est toujours un plaisir d’écouter un épisode de Nakan - sur ce 1er épisode Nakan et son invité ont parfaitement réussit à vulgariser un sujet complexe - outre le fait que cela rend intéressant la discussion cela permet d’apprendre plein de chose. Hâte de découvrir la suite…"
+      }
     ]
   }
 }
