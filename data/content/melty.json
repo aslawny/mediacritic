@@ -15,8 +15,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/melty/id1896794821?uo=2",
       "trackId": 1896794821,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": null
     }
   },
@@ -26,7 +26,7 @@
     "series"
   ],
   "addedAt": "2026-06-09",
-  "updatedAt": "2026-06-09",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "Victime d'une agression par un ancien député, elle se confie !",

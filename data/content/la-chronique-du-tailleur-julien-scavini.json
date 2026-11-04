@@ -27,7 +27,7 @@
     "culture"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "L'art d'habiller l'asymétrie",
@@ -53,25 +53,29 @@
   "derniere_activite": "2025-05-06",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-05",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "The needle and the thread",
+        "titre": "Voyage autour de l’art tailleur",
+        "texte": "Ce podcast est très rafraîchissant pour ceux qui s’intéressent à l’art tailleur. La Variété et la maîtrise des sujets évoqués vous font voyager."
+      },
+      {
+        "note": 5,
+        "auteur": "rthfgj'vfhjkoi",
+        "titre": "L’élégance",
+        "texte": "Fidèle lecteur du blog stiff collar depuis des années, je suis très heureux de pouvoir maintenant écouter la voix de M. Scavini !"
+      },
+      {
+        "note": 5,
+        "auteur": "Pedro de Carrère",
+        "titre": "L’élégance et le verbe",
+        "texte": "Assidu lecteur du blog et fervent client de la maison de Monsieur Scavini, cette chronique est un véritable régal !"
+      }
     ]
   }
 }

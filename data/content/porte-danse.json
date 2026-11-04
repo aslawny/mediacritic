@@ -24,7 +24,7 @@
   "tags": [
     "histoire"
   ],
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "l'ostéopathie pour la danse, Philippe Masuyer",
@@ -50,25 +50,29 @@
   "derniere_activite": "2024-01-20",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-05",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tyetoile",
+        "titre": "J’adore",
+        "texte": "Je suis professeur de danse et j’ai découvert vos podcasts avec la série « être jury » que j’ai trouvé extrêmement intéressant. Je préfère des élèves à l’EAT et d’avoir le point de vue des formateurs et membres de jury permet vraiment de comprendre avec plus de profondeur cet exa…"
+      },
+      {
+        "note": 5,
+        "auteur": "Floriane Blitz",
+        "titre": "Podcasts sur la Danse",
+        "texte": "Vos podcasts sont absolument passionnants et ils me servent beaucoup dans ma formation au diplôme d’état ainsi que pour ma formation professionnelle en général. Je demande à mes danseurs de les écouter régulièrement et ils sont très intéressés par tous les sujets abordés .…"
+      },
+      {
+        "note": 5,
+        "auteur": "Stef Eno",
+        "titre": "Une référence pour la danse",
+        "texte": "Étant un néophyte en danse, grâce à ce Podcast j’apprends beaucoup sur cet art, et dans une multitudes de thèmes tous plus différents les uns que les autres. Charlotte est une spécialiste, passionnée et sait faire partager sa pratique. Merci !"
+      }
     ]
   }
 }

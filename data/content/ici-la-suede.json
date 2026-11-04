@@ -26,7 +26,7 @@
     "societe"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "#5- Est-ce que les Suédois aiment la langue française ? Méryl Maussire de l'Institut Français de Suède",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2023-07-16",
-  "frequence_jours": 28
+  "frequence_jours": 28,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Gazelle200",
+        "titre": "Ici La Suede",
+        "texte": "Mon mari et moi sommes en roadtrip depuis 15 jours et nous apprécions vos podcasts sur votre pays d’accueil : MERCI pour la qualité et intérêt des sujets diffusés👏 Valérie et Pierre (😉)"
+      },
+      {
+        "note": 5,
+        "auteur": "Natouuu",
+        "titre": "Super podcast !!",
+        "texte": "Dommage qu’il n’y ait pas de nouvel épisode !! Des invités et des sujets très intéressants. Espérons que ça reprenne 🙏"
+      },
+      {
+        "note": 5,
+        "auteur": "evabromb",
+        "titre": "Super podcast",
+        "texte": "Super podcast, continuez !! C’est le podcast dont on avait besoin ❤️"
+      }
+    ]
+  }
 }

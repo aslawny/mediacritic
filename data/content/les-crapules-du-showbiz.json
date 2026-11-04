@@ -26,7 +26,7 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "[Spoiler]: Aurélien Préveaux est passé au Zapping ??!",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-11",
-  "frequence_jours": 2
+  "frequence_jours": 2,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Protopopof",
+        "titre": "Tout simplement trop bien",
+        "texte": "Nalla est trop chouette, le concept est très divertissant, et l’ambiance du ppodcast est géniale, longue vie à ce podcast ! Les épisodes sont toujours au top, aussi bien quand il y a des invités que les épisodes hors-série"
+      },
+      {
+        "note": 5,
+        "auteur": "sebpop23",
+        "titre": "Plus qu’un simple divertissement",
+        "texte": "Merci pour ce podcast. Il me permet de découvrir des personnes et des parcours que je n’aurais jamais croisés autrement. Ça ouvre l’esprit, ça divertit, et ça fait réfléchir."
+      },
+      {
+        "note": 5,
+        "auteur": "Emii_kitty",
+        "titre": "Du bonheur",
+        "texte": "J’adore ce podcast vraiment ça me fais rire et ça me détends . Je passe tjs un bon moment 💜 . Bravo pour le nouveau studio Nalla , hâte d’étendre le prochain épisode ."
+      }
+    ]
+  }
 }

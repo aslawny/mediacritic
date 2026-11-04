@@ -27,7 +27,7 @@
     "numerique"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "Ont-ils fait pression sur les médias ? Emission live #429",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-07",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "BadPitFr",
+        "titre": "Plus qu'une emission !",
+        "texte": "Un de mes podcasts préférés ! En plus des conseils et des aides qu'il fournissent, ils répondent à vos questions, nous font par de leurs trouvailles, leurs essais et leurs gamelles !! ;) Ils partagent aussi leurs déplacements dans de grands événements liés à l’univers du son et d…"
+      },
+      {
+        "note": 1,
+        "auteur": "Rukga",
+        "titre": "Inaudible la plupart du temps",
+        "texte": "Pour une émissions hebdomadaires sur le homestudio et la technique du son je trouve ça ironique que depuis une bonne 30ene d’emission ils y a des problèmes technique non stop… exemple episode 302 des coupure qui maches des mots les episodes d’avant c’était des decalages, des lags…"
+      },
+      {
+        "note": 5,
+        "auteur": "_Quenton",
+        "titre": "A ne pas rater!",
+        "texte": "Passionné & amateur de son, je suis ce podcast depuis son premier numéro et n’en rate pas une goute. Il attaquent très fort en plongeant les novices dans le sujet tout en apportant aux plus habitués des informations complémentaires de qualités! On sent tout de suite que ce sont d…"
+      }
+    ]
+  }
 }

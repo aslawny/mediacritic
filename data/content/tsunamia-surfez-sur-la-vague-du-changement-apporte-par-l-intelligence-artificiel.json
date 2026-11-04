@@ -26,7 +26,7 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "#134 - GPT-6 Astra contre Claude Fable 5.1 : le match de la rentrée",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-09-08",
   "frequence_jours": 11,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-05",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Kyrifrance",
+        "titre": "Contenu très qualitatif !",
+        "texte": "Contenu très intéressant et qualitatif pour comprendre l’IA et ses applications dans notre vie quotidienne. Très bonne source de veille et bon résumé des actualités. La présence de Josh est originale et assez impressionnante ! Merci Dimitri pour ce partage de connaissances !"
+      },
+      {
+        "note": 1,
+        "auteur": "CleBd",
+        "titre": "lol",
+        "texte": "Analyse très naïve et complètement faussée par le manque d’expertise et de travail de Dimitri . Un bonne exemple est celui du revenu universel où il mélange l’ensemble des allocations et pense pouvoir redistribuer les retraites des 17 millions de personnes qui les touchent en Fra…"
+      },
+      {
+        "note": 5,
+        "auteur": "atombox",
+        "titre": "Podcast sur un sujet passionnant avec un concept sympa",
+        "texte": "Il n’y a pas beaucoup de podcast francophone sur le domaine de l’IA c’est donc super intéressant d’avoir ce nouveau podcast qui a en plus un concept sympa avec l’assistant IA Josh qui donne une dynamique aux épisodes."
+      }
     ]
   }
 }

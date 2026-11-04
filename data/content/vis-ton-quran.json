@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/vis-ton-quran/id1817659259?uo=2",
       "trackId": 1817659259,
       "rating": 4.9,
-      "ratingCount": 43,
+      "ratingCount": 44,
       "episodeCount": null
     }
   },
@@ -26,7 +26,7 @@
     "vulgarisation"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "S1 E6 : Et n'attarde pas tes yeux sur cela ... quand une notion de tajwid guide vers le tadabbur",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-03",
   "frequence_jours": 17,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-05",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Chlöé.Sc 🌸",
+        "titre": "🌸",
+        "texte": "Salem aleykoum ma soeur, j’ai beaucoup aimé ton épisode sur Al Ikhlas qui a été très bénéfique qu’Allah te récompense pour ton partage. j’ai hâte d’écouter le prochain épisode 🥰"
+      },
+      {
+        "note": 5,
+        "auteur": "Djen78",
+        "titre": "Dunya",
+        "texte": "Magnifique podcast ! Cette Dounia n’est rien … qu’Allah te récompense pour toutes ces réflexions Amin🤍"
+      },
+      {
+        "note": 5,
+        "auteur": "Svsv_404",
+        "titre": "Incroyable",
+        "texte": "Je dévore les episodes. Qu'Allah vous accorde le meilleur ici-bas et dans l'au-delà Ustqdha"
+      }
     ]
   }
 }

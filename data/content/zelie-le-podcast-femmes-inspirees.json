@@ -26,7 +26,7 @@
     "vulgarisation"
   ],
   "addedAt": "2026-06-27",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "Épisode 54. Blandine Desroche : \"Le chocolat apporte du bonheur\"",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-05",
   "frequence_jours": 34,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-05",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Clairemariesuzanne",
+        "titre": "Une pépite",
+        "texte": "Le magazine Zelie est une vraie pépite! Il crépite d étincelles aussi belles qu intelligentes et profondes au service de la féminité toujours dans un esprit bienveillant! I’m magazine qui fait du bien, ,apaise, fait rire… ou pleurer"
+      },
+      {
+        "note": 5,
+        "auteur": "LinouB",
+        "titre": "Un bienfait!",
+        "texte": "Des podcasts inspirants qui nous éclairent sur la façon dont des gens ordinaires peuvent vivre des choses extraordinaires! Ils m’accompagnent en voiture ou en cousant. Merci Zélie!"
+      },
+      {
+        "note": 5,
+        "auteur": "Cécile.Alb.",
+        "titre": "Des interviews édifiantes!",
+        "texte": "Très chouette podcast avec des portraits de femmes aux multiples facettes. C’est toujours édifiant, quelle que soit notre situation on peut y piocher une pépite!"
+      }
     ]
   }
 }

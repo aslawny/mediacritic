@@ -25,27 +25,31 @@
     "interview"
   ],
   "addedAt": "2026-10-05",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-05",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Constance Dom",
+        "titre": "Du grand Swann !",
+        "texte": "Comme à son habitude, Swann maîtrise à la perfection humour, sensibilisation environnementale et positivité. A grand coups de blagues beaufs (qui font du bien), ce podcast fait du bien mais surtout instruit et nous (re)motive, merci Swann !"
+      },
+      {
+        "note": 5,
+        "auteur": "PauulineCab",
+        "titre": "Fabuleux et si drôle !",
+        "texte": "J’attends chaque épisode avec impatience ! C’est toujours si drôle !!! Et en même temps les invités sont tous fabuleux et hyper inspirants et intéressants ! Vous allez tout écouter d’un coup si vous tombez dedans !"
+      },
+      {
+        "note": 5,
+        "auteur": "mamanpoule2019",
+        "titre": "Bravo!",
+        "texte": "J’ai adoré l’épisode avec Salomé saqué! J’ai déjà son livre mais j’adore sa manière de voir les choses et de les expliquer!"
+      }
     ]
   },
   "episodes_recents": [

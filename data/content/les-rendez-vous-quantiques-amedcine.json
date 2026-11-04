@@ -25,7 +25,7 @@
     "vulgarisation"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "Les phénomènes de possession｜Jean-Charles Bouchoux",
@@ -51,25 +51,29 @@
   "derniere_activite": "2026-06-30",
   "frequence_jours": 13,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-05",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "aficionados77",
+        "titre": "Absolument exceptionnel ✨",
+        "texte": "Un duo d’interviewer brillant, des sujets courageux menés d’une manière exceptionnelle avec des invités à couper le souffle vers un éveil des consciences assuré. Je vous félicite, chaque épisode est une délectation. Un véritable bonheur ! Merci"
+      },
+      {
+        "note": 1,
+        "auteur": "Philippeimac2",
+        "titre": "charlatan grotesque",
+        "texte": "PTDR on nous annonce des preuves d’ovnis et puis ça tourne au baratin bidon ou le kevlar est un métal et au final ce n’est qu’une litanie de « témoignages » sur lesquels vous plaquez vos petits jugements donc c’est risible et ridicule: ce podcast est au journalisme ce que le char…"
+      },
+      {
+        "note": 3,
+        "auteur": "FraKOne",
+        "titre": "Dommage",
+        "texte": "Tellement de choses intéressantes mais, malheureusement, de vrais problèmes de son entre le niveau de l’interviewer et celui de son invité. Comme par exemple l’épisode avec Loan Miége. Je n’ai pas pu écouter jusqu’au bout tellement cette différence était désagréable."
+      }
     ]
   }
 }

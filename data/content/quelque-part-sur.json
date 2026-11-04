@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/quelque-part-sur/id1885921449?uo=4",
       "trackId": 1885921449,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": 26
     }
   },
@@ -25,7 +25,7 @@
     "running"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-05-17",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "Préparation mentale - Dans la tête d'un aventurier avec Renaud FULCONIS",

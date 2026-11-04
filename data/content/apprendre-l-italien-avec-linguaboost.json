@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/apprendre-litalien-avec-linguaboost/id1552174098?uo=2",
       "trackId": 1552174098,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.4,
+      "ratingCount": 29,
       "episodeCount": null
     }
   },
@@ -25,7 +25,7 @@
     "education"
   ],
   "addedAt": "2026-11-02",
-  "updatedAt": "2026-11-02",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "Décrire sa routine du matin en italien | Leçon 35",
@@ -49,5 +49,27 @@
     }
   ],
   "derniere_activite": "2026-10-21",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-04",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

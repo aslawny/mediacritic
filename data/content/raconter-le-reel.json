@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/raconter-le-r%C3%A9el/id1537471204?uo=2",
       "trackId": 1537471204,
       "rating": 4.8,
-      "ratingCount": 27,
+      "ratingCount": 28,
       "episodeCount": null
     }
   },
@@ -27,7 +27,7 @@
     "series"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "Le ciné-club - \"A Fidai Film\" de Kamal Aljafari",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-02",
-  "frequence_jours": 18
+  "frequence_jours": 18,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mariette Despres",
+        "titre": "Richard Copans",
+        "texte": "J ai été extrêmement intéressée par le récit de Richard Copans, sa vie, son expérience ses choix, sa réflexion son regard sur le documentaire par rapport au cinéma.…"
+      },
+      {
+        "note": 5,
+        "auteur": "alicedcv",
+        "titre": "Une rare mise en avant du documentaire !!",
+        "texte": "Les espaces pour le documentaire sont rares et un passionné nous mène à la rencontre de grands noms du genre, et aussi des plus petits qu’on adore découvrir. Ça donne envie d’aller en festival merci"
+      },
+      {
+        "note": 5,
+        "auteur": "Banane2003",
+        "titre": "Très intéressant",
+        "texte": "Excellent moyen de découvrir les secrets de fabrication des documentaires. Hâte de découvrir la suite !"
+      }
+    ]
+  }
 }

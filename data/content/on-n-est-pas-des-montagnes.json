@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/on-nest-pas-des-montagnes/id6826937945?uo=2",
       "trackId": 6826937945,
       "rating": 5.0,
-      "ratingCount": 27,
+      "ratingCount": 30,
       "episodeCount": null
     }
   },
@@ -25,12 +25,38 @@
     "culture"
   ],
   "addedAt": "2026-10-29",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "Teki Latex",
       "date": "2026-10-25"
     }
   ],
-  "derniere_activite": "2026-10-25"
+  "derniere_activite": "2026-10-25",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "AzaruiS",
+        "titre": "Enfin…",
+        "texte": "Très bon nouveau podcast de Urbain, très bon moment passé avec tequila tex, hâte de voir les futurs invités et surtout tiens la cadence 😉tout le monde regrette « tout est nul »… Force et courage et merci pour le divertissement. Podcast au top 👌"
+      },
+      {
+        "note": 5,
+        "auteur": "reznor75",
+        "titre": "Bel échange à découvrir",
+        "texte": "Très bon podcast à découvrir avec un super invité…. J’adore quand Urbain parle de ses autres podcasts dans l’intro en omettant totalement de parler de « Tout est nul » et de son pote Thibault 😅"
+      },
+      {
+        "note": 5,
+        "auteur": "la bourriche à Joël",
+        "titre": "Le 7eme !",
+        "texte": "Voilà il l’a fait, un podcast par jour de la semaine. Allez 5 étoiles avant la 1ere écoute. Les Urbanos savent qu’on peut y aller les yeux fermés."
+      }
+    ]
+  }
 }

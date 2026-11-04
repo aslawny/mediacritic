@@ -25,7 +25,7 @@
     "series"
   ],
   "addedAt": "2026-06-09",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "S2 EP Final : Aller simple ou aller-retour ?",
@@ -51,25 +51,29 @@
   "derniere_activite": "2023-05-17",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-05",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Hirsbriel",
+        "titre": "Superbe découverte !",
+        "texte": "Découvert grâce au Floodcast, ce podcast est une surprend découverte ! Le montage, le story telling, les anecdotes, tout est super !"
+      },
+      {
+        "note": 5,
+        "auteur": "shadowcat1710",
+        "titre": "Vivement d’autres épisodes",
+        "texte": "Intéressant, extrêmement bien monté et présenté, c’est rythmé. Le format est parfait ! J’ai adoré et je recommande vivement."
+      },
+      {
+        "note": 5,
+        "auteur": "gnguirane",
+        "titre": "Au top!",
+        "texte": "Super sujet ! Super bien documenté, interviews intéressantes. On en veut encore !"
+      }
     ]
   }
 }

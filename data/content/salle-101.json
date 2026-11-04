@@ -25,7 +25,7 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "L’émission du jeudi 10 septembre 2026",
@@ -49,5 +49,25 @@
     }
   ],
   "derniere_activite": "2026-09-16",
-  "frequence_jours": 5
+  "frequence_jours": 5,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Un nouvel arrivant",
+        "titre": "Une émission populaire",
+        "texte": "Mais qui manque cruellement de séquences de tribunal d’auto-critique. Mais bon, ils ont fait le prix Nobel de Krasznahorkai, donc on les pardonne beaucoup et facilement."
+      },
+      {
+        "note": 5,
+        "auteur": "PAT2436",
+        "titre": "Grandiose !",
+        "texte": "Une Émission sobre et sensuelle. Jamais je n'avais éprouvé tant de plaisir."
+      }
+    ]
+  }
 }

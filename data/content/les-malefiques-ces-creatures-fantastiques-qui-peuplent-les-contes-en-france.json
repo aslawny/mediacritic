@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/les-mal%C3%A9fiques-ces-cr%C3%A9atures-fantastiques-qui-peuplent/id1895110001?uo=2",
       "trackId": 1895110001,
       "rating": 4.7,
-      "ratingCount": 43,
+      "ratingCount": 45,
       "episodeCount": null
     }
   },
@@ -26,27 +26,31 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-05",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "bugigighivibb",
+        "titre": "Le mec n’ayant pas la cuisine douteuse",
+        "texte": "Ton défi est incroyable dans fort boyard et ton podcast l’est tout autant 🐯🐅😍😃j’ai tout simplement adoré les 7 nouvelles histoires des maléfiques 😊🙂😁🤩"
+      },
+      {
+        "note": 5,
+        "auteur": "goguink",
+        "titre": "Salut cuistot de la mort !!!",
+        "texte": "Je t’adore Willy , ton podcast est trop bien 😋🤪🤗mais j’espère que je ne viendrai jamais dans ton restaurant🤢🤢🤢🤢🤢🤢🤢🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮"
+      },
+      {
+        "note": 5,
+        "auteur": "Jsjdbdnkkwkuwhfnckekdnd",
+        "titre": "Merci Willy",
+        "texte": "Merci beaucoup Willy pour ces podcasts !! Ils sont vraiment supers !! Je pense que je vais commencer à faire attention…"
+      }
     ]
   }
 }

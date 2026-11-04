@@ -1,6 +1,6 @@
 {
-  "maj": "2026-11-03",
-  "total": 1243,
+  "maj": "2026-11-04",
+  "total": 1263,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -7300,6 +7300,12 @@
       "fiche": "fiches/precious-talk.html"
     },
     {
+      "slug": "apprendre-l-italien-avec-linguaboost",
+      "titre": "Apprendre l'italien avec LinguaBoost",
+      "notes_apple": 29,
+      "fiche": "fiches/apprendre-l-italien-avec-linguaboost.html"
+    },
+    {
       "slug": "8-milliards-de-voisins",
       "titre": "8 milliards de voisins",
       "notes_apple": 28,
@@ -7390,6 +7396,12 @@
       "fiche": "fiches/yogini-un-oeil-feministe-sur-le-yoga.html"
     },
     {
+      "slug": "la-collection-classic-21",
+      "titre": "La Collection Classic 21",
+      "notes_apple": 28,
+      "fiche": "fiches/la-collection-classic-21.html"
+    },
+    {
       "slug": "1-histoire-pour-chabbath",
       "titre": "1 Histoire pour Chabbath",
       "notes_apple": 27,
@@ -7460,6 +7472,114 @@
       "titre": "Histoire en séries",
       "notes_apple": 27,
       "fiche": "fiches/histoire-en-series.html"
+    },
+    {
+      "slug": "inspirations-maconniques-mieux-connaitre-la-franc-maconneries-et-les-franc-macon",
+      "titre": "Inspirations Maçonniques - Mieux connaître la Franc-Maçonneries et les Franc Macons",
+      "notes_apple": 27,
+      "fiche": "fiches/inspirations-maconniques-mieux-connaitre-la-franc-maconneries-et-les-franc-macon.html"
+    },
+    {
+      "slug": "la-minute-du-traite",
+      "titre": "La Minute du Traité",
+      "notes_apple": 27,
+      "fiche": "fiches/la-minute-du-traite.html"
+    },
+    {
+      "slug": "le-disque-classique-du-jour",
+      "titre": "Le Disque classique du jour",
+      "notes_apple": 27,
+      "fiche": "fiches/le-disque-classique-du-jour.html"
+    },
+    {
+      "slug": "le-livre-de-la-jungle",
+      "titre": "Le Livre de la jungle",
+      "notes_apple": 27,
+      "fiche": "fiches/le-livre-de-la-jungle.html"
+    },
+    {
+      "slug": "les-podcasts-du-droit-et-du-chiffre-lefebvre-dalloz",
+      "titre": "Les Podcasts du Droit et du Chiffre Lefebvre Dalloz",
+      "notes_apple": 27,
+      "fiche": "fiches/les-podcasts-du-droit-et-du-chiffre-lefebvre-dalloz.html"
+    },
+    {
+      "slug": "les-podcasts-de-radiovino-vin-naturel-et-gastronomie",
+      "titre": "Les podcasts de RadioVino, vin naturel et gastronomie",
+      "notes_apple": 27,
+      "fiche": "fiches/les-podcasts-de-radiovino-vin-naturel-et-gastronomie.html"
+    },
+    {
+      "slug": "litterature-islamique",
+      "titre": "Littérature Islamique",
+      "notes_apple": 27,
+      "fiche": "fiches/litterature-islamique.html"
+    },
+    {
+      "slug": "pedale-douce",
+      "titre": "Pédale Douce",
+      "notes_apple": 27,
+      "fiche": "fiches/pedale-douce.html"
+    },
+    {
+      "slug": "prier-avec-la-famille-missionnaire-de-notre-dame-podcast-domini",
+      "titre": "Prier avec la Famille Missionnaire de Notre-Dame - Podcast Domini",
+      "notes_apple": 27,
+      "fiche": "fiches/prier-avec-la-famille-missionnaire-de-notre-dame-podcast-domini.html"
+    },
+    {
+      "slug": "sans-algo",
+      "titre": "Sans Algo",
+      "notes_apple": 27,
+      "fiche": "fiches/sans-algo.html"
+    },
+    {
+      "slug": "sara-outis",
+      "titre": "Sara Outis",
+      "notes_apple": 27,
+      "fiche": "fiches/sara-outis.html"
+    },
+    {
+      "slug": "serial-vc",
+      "titre": "Serial VC",
+      "notes_apple": 27,
+      "fiche": "fiches/serial-vc.html"
+    },
+    {
+      "slug": "simone",
+      "titre": "Simone",
+      "notes_apple": 27,
+      "fiche": "fiches/simone.html"
+    },
+    {
+      "slug": "stars-du-classique",
+      "titre": "Stars du classique",
+      "notes_apple": 27,
+      "fiche": "fiches/stars-du-classique.html"
+    },
+    {
+      "slug": "superpuissance",
+      "titre": "SUPERPUISSANCE",
+      "notes_apple": 27,
+      "fiche": "fiches/superpuissance.html"
+    },
+    {
+      "slug": "sur-le-fil-de-la-creation",
+      "titre": "Sur le fil de la création",
+      "notes_apple": 27,
+      "fiche": "fiches/sur-le-fil-de-la-creation.html"
+    },
+    {
+      "slug": "tu-veux-une-medaille",
+      "titre": "Tu veux une médaille ?",
+      "notes_apple": 27,
+      "fiche": "fiches/tu-veux-une-medaille.html"
+    },
+    {
+      "slug": "adventalks",
+      "titre": "ADVENTALKS",
+      "notes_apple": 26,
+      "fiche": "fiches/adventalks.html"
     }
   ]
 }

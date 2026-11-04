@@ -25,7 +25,7 @@
     "cuisine"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "Épisode 48 : Dans les coulisses des Utopiales 2025",
@@ -51,25 +51,29 @@
   "derniere_activite": "2026-05-30",
   "frequence_jours": 33,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-05",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Julio251",
+        "titre": "Teeeeeeellement bien !",
+        "texte": "Mais c’est exactement ce qui me fallait! Arrive ici un peu par hasard grâce à la chaîne YouTube de L’Oli Phant, je me suis régalé avec ce premier podcast pendant près de 2h vivement la suite !"
+      },
+      {
+        "note": 5,
+        "auteur": "Lyyyysa",
+        "titre": "Belle découverte !",
+        "texte": "Super format : on passe un bon moment avec l’équipe qui nous embarque avec eux, je recommande 🚀 Aïna"
+      },
+      {
+        "note": 5,
+        "auteur": "Maninou1",
+        "titre": "Génial",
+        "texte": "Je vous ai découvert il y a quelques semaines. Je suis fou de Kurt. Quel homme"
+      }
     ]
   }
 }

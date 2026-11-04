@@ -25,7 +25,7 @@
     "sciences",
     "vulgarisation"
   ],
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "Yoga et Poésie, avec Pema Aglossi",
@@ -51,25 +51,29 @@
   "derniere_activite": "2025-12-18",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-05",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Elenaelg",
+        "titre": "Une pépite culturelle à ne pas manquer !",
+        "texte": "Un vrai coup de cœur. Le contenu est à la fois passionnant, accessible et vraiment bien raconté. On sent que le travail de recherche est solide, mais jamais ennuyeux : au contraire, c’est vivant, bien rythmé, et on apprend plein de choses sans même s’en rendre compte.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Charline de lace",
+        "titre": "Passionnant et divertissant : bravo !",
+        "texte": "J’ai toujours aimé les interviews d’Alexis Himeros et dans ce podcast, on voit tout à fait ce qu’il aime faire: des portraits fins et amusants, des rencontres avec des personnalités peu communes, on adore"
+      },
+      {
+        "note": 5,
+        "auteur": "JJVAparis",
+        "titre": "À écouter sans modération !",
+        "texte": "Super format ce podcast j’adore et je recommande Très heureuse de retrouver Jérôme Attal Et hâte de découvrir les prochains invités Tout en buvant mon café allongé à mon comptoir préféré !"
+      }
     ]
   }
 }

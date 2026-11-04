@@ -25,7 +25,7 @@
     "societe"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "Hépatites : comment prévenir ces inflammations du foie?",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-17",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "sobbek",
+        "titre": "Émission vendredi à Lomé",
+        "texte": "Quelle belle émission humaine, humble et précieuse ! Merci Caroline et l’équipe d’être allées carrément près de ces femmes merveilleuses qui malgré l’omerta souvent imposée, veulent savoir. Fidèle presque chaque jour, votre voix douce et ferme, m’apaise. Merci merci Elisabeth"
+      },
+      {
+        "note": 1,
+        "auteur": "Auderville",
+        "titre": "Manque de profondeur émission sur la peau",
+        "texte": "On apprends rien de plus Commentaire redondants A part utiliser la crème solaire qui a été répété maintes fois « Rien de nouveau sous le soleil «"
+      },
+      {
+        "note": 4,
+        "auteur": "Alepia25",
+        "titre": "Hépatites",
+        "texte": "Émission toujours instructive mais serait-il possible de régler la voix de Caroline trop aiguë et élevée par rapport à celle des intervenants ? merci"
+      }
+    ]
+  }
 }

@@ -24,7 +24,7 @@
     "education"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "Le départ de Louise & Julien",
@@ -50,25 +50,29 @@
   "derniere_activite": "2026-07-30",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-05",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "us",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "kikadm",
+        "titre": "Excellent for breaking out of the intermediate-level plateau",
+        "texte": "Five stars. I discovered this podcast only a couple of months ago and it has already helped me considerably in developing my listening skills and learning more day-to-day vocabulary/expressions.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Coatney-Schuler",
+        "titre": "Perfect format",
+        "texte": "This is one of the best podcasts for tuning your ear to fast spoken French! Listening to the short dialogue twice, receiving an explanation in slower spoken French and then listening a third time is a perfect miniature lesson to begin the process of understanding conversational F…"
+      },
+      {
+        "note": 5,
+        "auteur": "travis_robert",
+        "titre": "In love with this podcast",
+        "texte": "I can read almost anything in French but this is exactly what I’ve needed for years to take my listening comprehension to the next level. The short format packed with lots of idioms & slang and spoken quickly followed by slower explanations is perfect for absorbing tons of spoken…"
+      }
     ]
   }
 }

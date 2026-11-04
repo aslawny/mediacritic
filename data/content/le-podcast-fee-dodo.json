@@ -26,7 +26,7 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "#143 - Comment aider un bébé de 1 mois à mieux dormir ? - Consultation filmée ep.26",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-09-08",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-05",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Inès au jardin",
+        "titre": "Des conseils précieux",
+        "texte": "Merci pour toutes ces informations !! Quand on est peu entourée de femmes et de professionnels ce genre de podcast est un trésor. Je vais vivre une grossesse plus sereine et une arrivée de bébé mieux préparée grâce à vous."
+      },
+      {
+        "note": 5,
+        "auteur": "VA_L",
+        "titre": "Super podcast !",
+        "texte": "Merci pour ces podcasts qui, en plus de nous faire nous sentir moins seuls, nous guident dans la parentalité et nous donnent de supers conseils !"
+      },
+      {
+        "note": 5,
+        "auteur": "mylynou",
+        "titre": "De l'or en podcast !",
+        "texte": "Excellent podcast plein de conseils précieux, de témoignages émouvants et surtout d'espoir pour tous les parents un peu perdus que nous sommes !"
+      }
     ]
   }
 }

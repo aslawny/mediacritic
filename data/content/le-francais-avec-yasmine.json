@@ -24,7 +24,7 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "295. Pourquoi les Français n'aiment-ils pas la climatisation ?",
@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-09-09",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "RJVTB",
+        "titre": "Très content",
+        "texte": "J’ai découvert le podcast le français avec Yasmine en train de chercher des podcasts pour m’aider à améliorer ma connaissance de la langue française. Sans doute j’ai trouvé le bon podcast. Je suis super content des podcast de Yasmine.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Marie_Morgane",
+        "titre": "Le français vivant et fun ! J’adore !",
+        "texte": "Ce n’est pas toujours simple de trouver un moyen d’apprendre une nouvelle langue telle qu’elle est parlée tous les jours, avec ses slangs et des mises en situation concrètes, mais Yasmine réussit ce subtil dosage de cours de français et de fun qui permet de découvrir le français…"
+      },
+      {
+        "note": 5,
+        "auteur": "Mariontrt",
+        "titre": "Super podcast, simple et précis !",
+        "texte": "C’est un podcast que je recommande vivement à tous les apprenants du Français, Yasmine t’explique les détails de la langue et éclaircie les questions que tous ceux qui apprennent la langue se posent à un moment ou un autre, c’est simple, claire et très précis (et fait avec beauco…"
+      }
+    ]
+  }
 }

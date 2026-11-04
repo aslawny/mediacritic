@@ -26,7 +26,7 @@
     "education"
   ],
   "addedAt": "2026-05-31",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "Tout ce que nous avons appris sur l'apprentissage des langues cet été [101]",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-22",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-05",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "sinoslav",
+        "titre": "A few suggestions",
+        "texte": "Great podcast, many many thanks! A few small suggestions if you don’t mind. 1) consider speaking at your regular pace instead of slowing down for the learners. People can always slow down the podcast or re-listen; otherwise you lose your advanced speakers.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Jimjimtoto",
+        "titre": "Great way of learning !",
+        "texte": "A fantastically enjoyable way to perfect/improve your grasp of French. Mine is passable (school and holidays) and I’ve long wanted to get better but I struggle to get into the dryness of apps like babbel etc, whereas listening to this pod is actually a pleasant experience …"
+      },
+      {
+        "note": 5,
+        "auteur": "Juandavega",
+        "titre": "Great podcast with interesting topics",
+        "texte": "I recently found this podcast and found it very interesting, good to practice listening skills for intermediate level students with good topics, not the regular and boring topics you found in a language podcast.…"
+      }
     ]
   }
 }

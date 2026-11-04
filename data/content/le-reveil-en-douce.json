@@ -23,7 +23,7 @@
     "education"
   ],
   "addedAt": "2026-06-30",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "La chaîne des causalités",
@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2022-11-08",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "delph974",
+        "titre": "Que dire…",
+        "texte": "J’écoute l’épisode je suis une fille… je marche, je pleure abondamment …vos mots me bouleversent, votre travail intérieur est exceptionnel… je n’ai pas les mots pour décrire les émotions incroyables que je ressens en vous écoutant… c’est fou mais vous ne l’êtes pas du tout …"
+      },
+      {
+        "note": 5,
+        "auteur": "MargGam53",
+        "titre": "Réveil jubilatoire",
+        "texte": "Une vidéo au hasard sur Insta qui m’a saisie par le col puis un épisode au titre d’une question du moment, puis encore un autre à l’intuition.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Louisa_AA",
+        "titre": "Instructif, déroutant et stimulant !",
+        "texte": "La voix apaisante est le bon véhicule pour déconstruire plein de croyances. L’épisode sur le libre-arbitre est sans doute celui que j’ai le plus écouté tant il est 🤯. Alors prêt•e à sortir de la matrice pour prendre un peu de hauteur ?"
+      }
+    ]
+  }
 }

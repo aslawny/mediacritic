@@ -27,7 +27,7 @@
     "vulgarisation"
   ],
   "addedAt": "2026-06-09",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "Les fréquentations nous rendent meilleures ... ou pas",
@@ -53,25 +53,29 @@
   "derniere_activite": "2024-05-13",
   "frequence_jours": 6,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-05",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tiss.B🍉",
+        "titre": "Un podcast qui fais du bien 🩷",
+        "texte": "Les podcast sont vraiment intéressant sa parle de tout en reliant toujours la religion avec la vie d’ici bas . Personnellement j’aime bien écouter car sa ce voit que c’est très spontané et sa ressemble à des vocaux ou même comme si on était en ta compagnie et cela fait beaucoup d…"
+      },
+      {
+        "note": 5,
+        "auteur": "Sakurarose🌸",
+        "titre": "Merci ma douce sœur",
+        "texte": "Salam aleyki Wa rahmatu lLahi Wa Baarakatu ma douce sœur 🌸 je viens découvrir ton podcast j’ai hâte de voir la suite, ta une voix apaisante et douce Allahuma Barek , Baaraka الله u fiki pour tes podcast ma douce sœur , qu’Allah te récompense énormément 🫶🏻❤️"
+      },
+      {
+        "note": 5,
+        "auteur": "aay91-",
+        "titre": "avis",
+        "texte": "salam alaykoum ma chère sœur je te remercie pour ces magnifiques podcasts ! Je les ai remplacé par la musique que j’écoutais en me préparant et Al hamdoulilah ma vison complètement changé que de kheir barakallahoufiki 💕"
+      }
     ]
   }
 }

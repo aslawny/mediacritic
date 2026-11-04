@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/styl%C3%A9-es-le-podcast-mode/id1711789024?uo=2",
       "trackId": 1711789024,
       "rating": 5.0,
-      "ratingCount": 27,
+      "ratingCount": 28,
       "episodeCount": null
     }
   },
@@ -27,7 +27,7 @@
     "culture"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "Les actualités mode de la semaine - 14 septembre au 20 septembre",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-19",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lygg_",
+        "titre": "Belle découverte",
+        "texte": "J’ai découvert ce podcast il y’a quelques mois et j’ai écouté chacun des épisodes depuis sa création. J’ai découvert énormément de choses sur la mode et ma partie préférée le point culture. Mon rendez-vous préférée du Samedi ✨❤️"
+      },
+      {
+        "note": 5,
+        "auteur": "Rayla 🌙",
+        "titre": "Super 🩷👌✨",
+        "texte": "Le podcast est super intéressant et très complet franchement j’adore et attends avec impatience le prochain épisode 🩷🩷🩷"
+      },
+      {
+        "note": 5,
+        "auteur": "🦋✨Just_a_girl ✨🦋",
+        "titre": "❤️",
+        "texte": "J’adore 🥰 Grâce à toi je suis à la page 📃 en mode 👗Mercii 🫶🏻"
+      }
+    ]
+  }
 }

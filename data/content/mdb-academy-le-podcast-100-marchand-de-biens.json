@@ -24,7 +24,7 @@
     "rénovation",
     "DIY"
   ],
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "[REDIFFUSION] La bonne affaire n'est pas toujours celle que vous croyez",
@@ -48,5 +48,25 @@
     }
   ],
   "derniere_activite": "2026-03-12",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Nico_Hirschmann",
+        "titre": "Il y a trop de marchands de biens immobiliers !",
+        "texte": "Quand on interroge Gemini sur le sujet, on apprend que « seul » 35% à 45% des marchands réalisent un CA supérieur à 500k€ soit 10500 à 13500 professionnels; et 10% seulement qui réalisent un CA supérieur à 2M€.…"
+      },
+      {
+        "note": 5,
+        "auteur": "impossible de commenter",
+        "titre": "Tellement attendu !",
+        "texte": "Après la meilleure formation, LE podcast incontournable pour tous les marchands de biens 🚀"
+      }
+    ]
+  }
 }

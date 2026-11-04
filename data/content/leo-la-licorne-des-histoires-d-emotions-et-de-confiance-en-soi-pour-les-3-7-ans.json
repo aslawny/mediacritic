@@ -26,7 +26,7 @@
     "famille"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "Leo la licorne - Le mélange d’émotions",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-02",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "BeaneeB",
+        "titre": "Marcel ne se lave pas tout seul…",
+        "texte": "Moi c est Marcel, j ai 4 ans, et je réclame souvent les épisodes de Léo. J adore celui où Léo se lave tout.e seul.e, et maman m explique chaque fois « tu entends ce que disent les parents de Léo sur le lavage de dents? » alors à chaque fois je dis « oui, oui ».…"
+      },
+      {
+        "note": 5,
+        "auteur": "CamilleFernandez",
+        "titre": "Des histoires précieuses pour tous les enfants",
+        "texte": "Des sujets qui touchent tous les enfants! Un super outil pour les parents qui ne savent pas comment en parler 👏🏻"
+      },
+      {
+        "note": 5,
+        "auteur": "Eloise S",
+        "titre": "Supers histoires pour les petits",
+        "texte": "Parfait pour les temps calmes et pour discuter des sujets du quotidien avec notre fille de 2 ans"
+      }
+    ]
+  }
 }

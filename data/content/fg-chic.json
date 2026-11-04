@@ -24,7 +24,7 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "MIX BY JULIEN JEANNE",
@@ -50,25 +50,29 @@
   "derniere_activite": "2026-09-04",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-05",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "MaelCLEMENT",
+        "titre": "Une HOUSE douce et planante ! Thank You Father !",
+        "texte": "La web radio FG CHIC diffuse une HOUSE douce et planante avec des remixes d’une qualité surprenante ! ADDICTIVE !!! Merci... merci beaucoup pour les excellents mixs dédiés à Frankie KNUCKLES... Dave LEE (Joey NEGRO) et aujourd’hui Larry LEVAN... ce sont des « légendes ».…"
+      },
+      {
+        "note": 5,
+        "auteur": "Nardo6",
+        "titre": "Envoûtant !",
+        "texte": "La qualité et variété des sons est incroyable ! On adore ! Surtout MR RAVIN ! Incroyable 🙏⭐️⭐️⭐️⭐️⭐️🔥😊❣️"
+      },
+      {
+        "note": 4,
+        "auteur": "ScrApple77100",
+        "titre": "ADDICTIF !",
+        "texte": "Excellent, enchaînements au top, titres souvent inspirés et bien choisis (avec une mention spéciale pour le Buddah Bar et son ambiance psyché) mais s’il vous plaît arrêtez de taguer les morceaux par le nom du DJ et l’intitulé du mix qui s’y rapporte à quasiment chaque transition…"
+      }
     ]
   }
 }

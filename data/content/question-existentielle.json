@@ -27,7 +27,7 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "Question N°8 - Alors, cette Fashion Week?",
@@ -53,25 +53,29 @@
   "derniere_activite": "2026-07-06",
   "frequence_jours": 22,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-05",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "sebiii",
+        "titre": "Trop peu",
+        "texte": "Merci mais parler style culture et quotidien avec vous mériterai un peu plus de temps ou de fréquence 😉"
+      },
+      {
+        "note": 5,
+        "auteur": "hed93",
+        "titre": "Culture style mode",
+        "texte": "Voilà un podcast finement travaillé qui propose des discussions subtiles autour de l’art de vivre."
+      },
+      {
+        "note": 5,
+        "auteur": "Vincz7",
+        "titre": "Le graal",
+        "texte": "Un podcast instructif, bien rythmé, avec des personnalités qui font rêver !"
+      }
     ]
   }
 }

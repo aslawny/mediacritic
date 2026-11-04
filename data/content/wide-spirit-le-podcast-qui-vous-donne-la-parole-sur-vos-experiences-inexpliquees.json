@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/wide-spirit-le-podcast-qui-vous-donne-la-parole-sur/id6820549881?uo=2",
       "trackId": 6820549881,
       "rating": 5.0,
-      "ratingCount": 18,
+      "ratingCount": 30,
       "episodeCount": null
     }
   },
@@ -25,7 +25,7 @@
     "culture"
   ],
   "addedAt": "2026-10-29",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "Charlotte : UN MAL POUR UN BIEN, DEUIL ET MÉDIUMNITÉ 2/2",
@@ -49,5 +49,25 @@
     }
   ],
   "derniere_activite": "2026-10-19",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Cocoline35",
+        "titre": "Merci",
+        "texte": "Ces épisodes sont incroyables…simples, factuels, mais qui nous dépassent et nous poussent à vouloir en savoir plus, à espérer que les prochains épisodes arrivent vite, à se demander ce que ça fait de vivre tout ça.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Val écoute",
+        "titre": "Passionnant",
+        "texte": "J’ai hâte d’écouter les suivants. Merci pour ces témoignages passionnant."
+      }
+    ]
+  }
 }

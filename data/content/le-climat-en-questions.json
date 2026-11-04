@@ -25,7 +25,7 @@
     "international"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "Episode 60: Océans et Climat avec Catherine Jeandel",
@@ -51,25 +51,29 @@
   "derniere_activite": "2026-01-25",
   "frequence_jours": 44,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-05",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tristan-n",
+        "titre": "Une pépite pour comprendre les enjeux du climat",
+        "texte": "Un podcast artisanal avec des invités prestigieux (Jean Jouzel, Gilles Ramstein) et remarquablement pédagogique en bonne partie grâce au journaliste scientifique Sylvestre Huet.…"
+      },
+      {
+        "note": 5,
+        "auteur": "CastorW",
+        "titre": "Super",
+        "texte": "Thème passionnant et invités de qualité! Super montage des interviews, pas de temps morts, pas de creux, commentaires en voix off... excellent travail!!"
+      },
+      {
+        "note": 5,
+        "auteur": "mperchais",
+        "titre": "Super podcast !",
+        "texte": "Un podcast très intéressant qui s’adresse à tous et qui permet de poser et d’approfondir les fondamentaux des enjeux climatiques !"
+      }
     ]
   }
 }

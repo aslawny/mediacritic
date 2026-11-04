@@ -23,7 +23,7 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "Podcast des indépendants - Se positionner pour se démarquer - Vendredi 11 septembre",
@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2026-09-11",
-  "frequence_jours": 13
+  "frequence_jours": 13,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Magouz75",
+        "titre": "Podcast hyper pratique et efficace",
+        "texte": "J’écoute ce podcast très pratique en tant qu’autos entrepreneurs. On y apprend des astuces, des faits et des informations essentielles pour débuter ou poursuivre son activité. Ludovic est très clair dans ses questions et reste accessible dans les informations communiquées.…"
+      },
+      {
+        "note": 5,
+        "auteur": "La Fée Tricottine 🧚‍♀️",
+        "titre": "Encouragements 🍀✨🧚‍♀️😊",
+        "texte": "Vous avez tous mes encouragements 🍀Un nouveau podcast que je découvre grâce à Cristel de Foucault . Moi même senior et sur le chemin de l’entreprenariat à bientôt 60 ans, année du Dragon 🐉 de bois. Mon année. J’aime l’intelligence collective et l’intergénérationnel.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Marlène B",
+        "titre": "Excellent podcast",
+        "texte": "Un podcast que j’écoute avec plaisir et qui fait clairement du bien quand on est indépendant. J’aime la diversité des invités et des points de vue, ça change des discours trop lisses qu’on entend partout. Les échanges sont concrets, ancrés dans la réalité du terrain.…"
+      }
+    ]
+  }
 }

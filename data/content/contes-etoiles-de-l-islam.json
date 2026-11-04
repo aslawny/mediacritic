@@ -25,27 +25,31 @@
     "fiction"
   ],
   "addedAt": "2026-10-05",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-05",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mirya57",
+        "titre": "Super",
+        "texte": "Merveilleuse initiative qu’Allah vous récompense pour ce que vous faites. En espérant vous voir alimenter cette chaîne encore longtemps 🤲🏼"
+      },
+      {
+        "note": 3,
+        "auteur": "Habriba",
+        "titre": "Musique dommage pourtant contenu très intéressant",
+        "texte": "La lectrice est le contenu est très agréable mais la musique prends le dessus malheureusement , c est ce qui m a empêché de poursuivre l écoute .. les épisodes sans musique seraient idéal"
+      },
+      {
+        "note": 5,
+        "auteur": "Idsa59370",
+        "titre": "Magnifique et agréable à écouter",
+        "texte": "Merci Nawel, pour ces magnifiques histoires. Ces beaux rappels et ces magnifiques moments que l'on peut partager avec ses enfants."
+      }
     ]
   },
   "episodes_recents": [

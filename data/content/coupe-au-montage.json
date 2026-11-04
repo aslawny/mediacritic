@@ -24,7 +24,7 @@
     "histoire"
   ],
   "addedAt": "2026-06-09",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "EP89 - À partir de quel moment on parle de plagiat et plus d’inspiration ?",
@@ -50,25 +50,29 @@
   "derniere_activite": "2026-08-30",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-05",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Sylvie18321",
+        "titre": "De très bons conseils",
+        "texte": "Je trouve que ton conseil du pourquoi on donne du contenu éducatif est vraiment très pertinent. C’est marrant comme c’est évident mais nous sommes si peu à le faire. En tout cas je vais aborder ma création de contenu comme ça maintenant.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Mo.Po.25",
+        "titre": "AUTHENTICITÉ ET J’ADORE",
+        "texte": "Sincèrement ça fait un bien fou de t’écouter je viens tout juste de te découvrir. Je me relance dans mon business sur insta après un arrêt de 3 ans et le retour n’est pas simple 😅 On a l impression que tout absolument tout est portant sur 💶💶💶💶💶💶 Mais tes mots et ta vision me réco…"
+      },
+      {
+        "note": 5,
+        "auteur": "CHRISTELA.DO",
+        "titre": "Incroyable",
+        "texte": "Pour moi c’est le podcast à écoute cette année 2025 . Nina je te remercie pour la qualité et la bienveillance que tu mets dans chaque épisode je rate jamais un dimanche ni tes story du matin merci pour ton travail incroyable 🤩🤩🤩🤩🤩"
+      }
     ]
   }
 }

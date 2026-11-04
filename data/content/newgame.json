@@ -25,7 +25,7 @@
     "gaming",
     "rétro"
   ],
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "NewGame+ #064 - FAQ - Saison 04",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-28",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "UniversWP",
+        "titre": "Le meilleur Podcast Jeux vidéos",
+        "texte": "Mon Podcast jeux vidéo rétro préféré ! Sujets intéressants et bien abordés, dynamique et une super équipe. Idéal pour se plonger dans différents univers du JV et de l’émulation sur handheld."
+      },
+      {
+        "note": 5,
+        "auteur": "JB From Toulouse",
+        "titre": "Dream team",
+        "texte": "J’adore la team du podcast. Une équipe affûtée qui nous amène avec eux avec passion. Vous suivre est un régal Merci les gars !!! Continuez please :)"
+      },
+      {
+        "note": 5,
+        "auteur": "guigro",
+        "titre": "La passion",
+        "texte": "On sent que c’est la passion qui parle. Pas de prise de tête (mais il y a du boulot derrière !), ça discute et ça rigole, tout ce qu’on aime !!"
+      }
+    ]
+  }
 }

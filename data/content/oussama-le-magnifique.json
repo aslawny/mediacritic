@@ -25,7 +25,7 @@
     "tech",
     "numérique"
   ],
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "Découvrez \"À Brûler Sans Ouvrir\"",
@@ -47,25 +47,29 @@
   "derniere_activite": "2025-06-26",
   "frequence_jours": 137,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-05",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Ed102990.",
+        "titre": "Top",
+        "texte": "Montre les dérives des mythos qui fini en apothéose avec un Oussama qui n’arrive même pas respirer lorsqu’il tente de se défendre. On sent que les mauvaises notes données à ce podcast viennent de l’accusé ;)"
+      },
+      {
+        "note": 1,
+        "auteur": "Paul de Besancon",
+        "titre": "Aucune valeur ajoutée supplémentaire dans ce « documentaire »",
+        "texte": "Presque caricatural. D’autant plus de la part d’une journaliste économique."
+      },
+      {
+        "note": 5,
+        "auteur": "Lamabrielle",
+        "titre": "Bien mais…",
+        "texte": "Travail cherché et de qualité mais le dernier épisode est insupportable de mauvaise foi de l’invité qui ne cesse de jouer sur les mots et d’interrompre son interlocutrice. Quelle patience 😮‍💨"
+      }
     ]
   }
 }

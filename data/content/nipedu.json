@@ -26,7 +26,7 @@
     "retro"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "episodes_recents": [
     {
       "titre": "IA : LES PROFS SONT-ILS DATA DRIVEN ?",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-29",
   "frequence_jours": 28,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-05",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-04",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Ironmano",
+        "titre": "Retour à l’école avec plaisir",
+        "texte": "Comme tous les podcasts de la famille NipCast, on sent vraiment que l’émission est animée par des passionnés, pour des passionnés (ou pas). Vous y parlez d’Ecole (avec un grand E), mais pas que, de technologie et autre, superbe idée, magnifique émission, splendides animateurs …"
+      },
+      {
+        "note": 5,
+        "auteur": "Pinpi64",
+        "titre": "Nipédu au top!",
+        "texte": "J'ai beaucoup aimé ce Nipédu et cette novuelle équipe : c'est frais, spontané, plein d'infos et de commentaires intéressants, un bon moment passé en votre compagnie qui m'a donné envie d'apprendre de choses que je ne connais pas encore.…"
+      },
+      {
+        "note": 5,
+        "auteur": "ZeSteph",
+        "titre": "Un podcast qui devrait être diffusé aux profs en formation à l'ESPE...",
+        "texte": "A faire écouter à tous les profs qui pensent encore qu'ils peuvent travailler seuls dans leur coin : partage d'informations et entraide entre collègues sont maintenant incontournables dans ce métier. Pour le coté pratique, ok, l'émission dure parfois plus de 2h...…"
+      }
     ]
   }
 }
