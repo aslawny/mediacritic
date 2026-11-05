@@ -51,25 +51,29 @@
   "derniere_activite": "2020-03-08",
   "frequence_jours": 40,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Vynsainzo",
+        "titre": "Turbo mega cool",
+        "texte": "Je suis un papa de 35 ans, développeur/geek et j'ai de 2 filles, 6 et 4 ans et la troisième est prévue pour mi novembre. Les sujets que vous abordez sont tellement en adéquation avec mes pensées...…"
+      },
+      {
+        "note": 2,
+        "auteur": "Tonusa31",
+        "titre": "Sympathique",
+        "texte": "Vraiment sympa, La manière d'appréhender les sujets, pas vulgaire et des voix féminines... Pour une fois! Mais si cet avis est lu par les animatrices j'ai un petit grief.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Titeuff_2018",
+        "titre": "Super Frais",
+        "texte": "Je vous adore les filles, vous avez une sacré culture geek, c’est cool j’apprends ou découvre toujours quelque chose. Après chaque épisode j’ai envie de me plonger dans tel ou tel film, livre, BD, serie, jeux vidéo, comics.... par contre je manque de temps #frustration.…"
+      }
     ]
   }
 }

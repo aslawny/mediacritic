@@ -52,25 +52,29 @@
   "derniere_activite": "2025-11-01",
   "frequence_jours": 30,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Stephanie_kinesiologue",
+        "titre": "Signes de vie ✨",
+        "texte": "Bonjour Laury, Je ne sais pas si tu verras ce message mais je me lance quand même ☺️ Je suis entrain d’écouter ton podcast avec Douze Février (merci infiniment pour tout ce que nous offre, tu es tellement inspirante ✨🦋⭐️) et elle parle d’un livre « la mort n’existe pas ».…"
+      },
+      {
+        "note": 1,
+        "auteur": "Herazoll",
+        "titre": "Soyez septique",
+        "texte": "Pseudo-science, ésotérisme, dérive sectaire Ce podcast me semble être une bonne porte d’entré pour tout ça. A fuir"
+      },
+      {
+        "note": 5,
+        "auteur": "Anao.o",
+        "titre": "Belle découverte !",
+        "texte": "J’ai découvert ton podcast il y a très peu de temps avec l’épisode de Styleto et quelle surprise ! J’avoue ne pas te suivre et ne pas te connaître, et avoir eu d’ailleurs des préjugés vis à vis de MissFrance et j’ai pris une claque.…"
+      }
     ]
   }
 }

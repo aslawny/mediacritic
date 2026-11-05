@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2025-07-28",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lisaiphone",
+        "titre": "Intrigant",
+        "texte": "J'ai découvert ce podcast par le biais de la musique se livre (même animateur). Je ne pensais pas m'intéresser au monde de l'influence. Mais Raphaël Melki est un excellent interviewer et rend ces portraits souvent passionnants. Bravo"
+      },
+      {
+        "note": 5,
+        "auteur": "palmitaline",
+        "titre": "Influenceur c’est un grand mot !",
+        "texte": "À travers ce podcast je découvre différents types de créateurs de contenus et certaines personnes sont même inspirantes ! J’essaie de développer mes réseaux sociaux et ce podcast m’aide avec les conseils et expériences de chacun."
+      },
+      {
+        "note": 5,
+        "auteur": "Stella-podcast",
+        "titre": "passionnant",
+        "texte": "quand on m’a dit un Podcasts sur l’influence, j’étais sceptique. Finalement les témoignages sont tous différents , souvent drôles, parfois touchants. Maintenant j’attends chaque semaine le prochain épisode"
+      }
+    ]
+  }
 }

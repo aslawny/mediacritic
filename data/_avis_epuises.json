@@ -1,6 +1,6 @@
 {
-  "maj": "2026-11-04",
-  "total": 1263,
+  "maj": "2026-11-05",
+  "total": 1290,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -4384,6 +4384,12 @@
       "fiche": "fiches/ecoute-le-yoga.html"
     },
     {
+      "slug": "1h-de-rire-avec",
+      "titre": "1h de rire avec",
+      "notes_apple": 55,
+      "fiche": "fiches/1h-de-rire-avec.html"
+    },
+    {
       "slug": "asiattitudes-identites-et-cultures-des-diasporas-asiatiques",
       "titre": "Asiattitudes - Identités et cultures des diasporas asiatiques",
       "notes_apple": 54,
@@ -7306,6 +7312,12 @@
       "fiche": "fiches/apprendre-l-italien-avec-linguaboost.html"
     },
     {
+      "slug": "chalom-bayit",
+      "titre": "Chalom Bayit",
+      "notes_apple": 29,
+      "fiche": "fiches/chalom-bayit.html"
+    },
+    {
       "slug": "8-milliards-de-voisins",
       "titre": "8 milliards de voisins",
       "notes_apple": 28,
@@ -7580,6 +7592,156 @@
       "titre": "ADVENTALKS",
       "notes_apple": 26,
       "fiche": "fiches/adventalks.html"
+    },
+    {
+      "slug": "decryptage",
+      "titre": "Décryptage",
+      "notes_apple": 26,
+      "fiche": "fiches/decryptage.html"
+    },
+    {
+      "slug": "dj-luciano-podcast",
+      "titre": "Dj Luciano Podcast",
+      "notes_apple": 26,
+      "fiche": "fiches/dj-luciano-podcast.html"
+    },
+    {
+      "slug": "epm-eglise-paris-metropole-le-podcast",
+      "titre": "EPM Eglise Paris Métropole | Le Podcast",
+      "notes_apple": 26,
+      "fiche": "fiches/epm-eglise-paris-metropole-le-podcast.html"
+    },
+    {
+      "slug": "la-chute-de-lapinville-les-integrales",
+      "titre": "La Chute de Lapinville : les intégrales",
+      "notes_apple": 26,
+      "fiche": "fiches/la-chute-de-lapinville-les-integrales.html"
+    },
+    {
+      "slug": "la-mort-est-mon-amie",
+      "titre": "La Mort est mon amie",
+      "notes_apple": 26,
+      "fiche": "fiches/la-mort-est-mon-amie.html"
+    },
+    {
+      "slug": "tech-on-me",
+      "titre": "Tech On Me",
+      "notes_apple": 26,
+      "fiche": "fiches/tech-on-me.html"
+    },
+    {
+      "slug": "tea-time-avec-marikigai-mymy-haegel",
+      "titre": "Tea Time avec Marikigai & Mymy Haegel",
+      "notes_apple": 26,
+      "fiche": "fiches/tea-time-avec-marikigai-mymy-haegel.html"
+    },
+    {
+      "slug": "abdullah-al-matrood",
+      "titre": "Abdullah Al Matrood",
+      "notes_apple": 25,
+      "fiche": "fiches/abdullah-al-matrood.html"
+    },
+    {
+      "slug": "des-histoires-dans-la-poche",
+      "titre": "Des histoires dans la poche",
+      "notes_apple": 25,
+      "fiche": "fiches/des-histoires-dans-la-poche.html"
+    },
+    {
+      "slug": "delmas-fait-son-cinema",
+      "titre": "Delmas fait son cinéma",
+      "notes_apple": 25,
+      "fiche": "fiches/delmas-fait-son-cinema.html"
+    },
+    {
+      "slug": "civilisation-mesopotamienne-dominique-charpin",
+      "titre": "Civilisation mésopotamienne - Dominique Charpin",
+      "notes_apple": 25,
+      "fiche": "fiches/civilisation-mesopotamienne-dominique-charpin.html"
+    },
+    {
+      "slug": "echange-climatique",
+      "titre": "Échange Climatique",
+      "notes_apple": 25,
+      "fiche": "fiches/echange-climatique.html"
+    },
+    {
+      "slug": "especes-d-espaces",
+      "titre": "Espèces d'espaces",
+      "notes_apple": 25,
+      "fiche": "fiches/especes-d-espaces.html"
+    },
+    {
+      "slug": "head-of-design",
+      "titre": "Head Of Design",
+      "notes_apple": 25,
+      "fiche": "fiches/head-of-design.html"
+    },
+    {
+      "slug": "histoire-des-systemes-de-pensee-michel-foucault",
+      "titre": "Histoire des systèmes de pensée - Michel Foucault",
+      "notes_apple": 25,
+      "fiche": "fiches/histoire-des-systemes-de-pensee-michel-foucault.html"
+    },
+    {
+      "slug": "histoires-de-dubai-lever-les-cliches-et-mettre-en-lumiere-ses-habitants",
+      "titre": "Histoires de Dubai : lever les clichés et mettre en lumière ses habitants",
+      "notes_apple": 25,
+      "fiche": "fiches/histoires-de-dubai-lever-les-cliches-et-mettre-en-lumiere-ses-habitants.html"
+    },
+    {
+      "slug": "j-peux-pas-j-ai-lecture",
+      "titre": "J’peux pas, j’ai lecture.",
+      "notes_apple": 25,
+      "fiche": "fiches/j-peux-pas-j-ai-lecture.html"
+    },
+    {
+      "slug": "je-pense-donc-j-agis",
+      "titre": "Je pense donc j'agis",
+      "notes_apple": 25,
+      "fiche": "fiches/je-pense-donc-j-agis.html"
+    },
+    {
+      "slug": "kadekol-la-webradio-de-l-institut-francais-de-l-education",
+      "titre": "Kadekol, la webradio de l'Institut Français de l'Éducation",
+      "notes_apple": 25,
+      "fiche": "fiches/kadekol-la-webradio-de-l-institut-francais-de-l-education.html"
+    },
+    {
+      "slug": "l-afrique-en-solo",
+      "titre": "L'Afrique en Solo",
+      "notes_apple": 25,
+      "fiche": "fiches/l-afrique-en-solo.html"
+    },
+    {
+      "slug": "le-futurologue",
+      "titre": "Le Futurologue",
+      "notes_apple": 25,
+      "fiche": "fiches/le-futurologue.html"
+    },
+    {
+      "slug": "la-legende-des-chevaliers-de-la-table-ronde",
+      "titre": "La Légende des chevaliers de la Table ronde",
+      "notes_apple": 25,
+      "fiche": "fiches/la-legende-des-chevaliers-de-la-table-ronde.html"
+    },
+    {
+      "slug": "le-masque-et-la-plume-dans-le-cul",
+      "titre": "Le masque et la plume dans le cul",
+      "notes_apple": 25,
+      "fiche": "fiches/le-masque-et-la-plume-dans-le-cul.html"
+    },
+    {
+      "slug": "les-eclaireurs-de-dialogues-des-auteurs-et-des-livres",
+      "titre": "Les Éclaireurs de Dialogues - Des auteurs et des livres",
+      "notes_apple": 25,
+      "fiche": "fiches/les-eclaireurs-de-dialogues-des-auteurs-et-des-livres.html"
+    },
+    {
+      "slug": "les-petites-histoires-pour-s-endormir",
+      "titre": "Les petites histoires pour s'endormir",
+      "notes_apple": 25,
+      "fiche": "fiches/les-petites-histoires-pour-s-endormir.html"
     }
   ]
 }

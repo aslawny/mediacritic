@@ -28,25 +28,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-11-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Brigitte H!",
+        "titre": "Merci pour cette émission",
+        "texte": "Jean de Loisy mène ses interviews avec talent et sais dire sans complexe quand il ne connaît un mot, une personne, un concept. On ne peut lui retirer sa culture, son parcours l’a conduit à rencontrer beaucoup de gens de l’art et il a et continue d’oeuvrer dans ce domaine.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Salomé 03",
+        "titre": "Quel regret",
+        "texte": "Mais que fait France Culture ? Sous Jean de Loisy l’émission était extraordinaire."
+      },
+      {
+        "note": 5,
+        "auteur": "Elodie BG",
+        "titre": "Émission Passionnante et érudite",
+        "texte": "Une émission de haute volée qui rend plus intelligent, avec un apport de connaissances de spécialistes pour chaque sujet, et une dimension à la fois historique (plongée dans les archives sonores, littéraires) et d’actualité (grands chercheurs et auteurs actuels, dernières expos,…"
+      }
     ]
   }
 }

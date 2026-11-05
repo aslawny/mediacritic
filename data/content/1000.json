@@ -51,25 +51,29 @@
   "derniere_activite": "2026-08-26",
   "frequence_jours": 2,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "cati-m",
+        "titre": "Formidable podcast",
+        "texte": "J’aime trop votre podcast. Merci infiniment. J’ai partagé avec plein d’amis. Enfin des sujets sérieux avec des intervenants sérieux, qui vont profondément dans les sujets. Oui, parfois c’est technique. Et c’est justement ce qu’on aime et ce qu’on recherche. Bravo à votre équipe."
+      },
+      {
+        "note": 1,
+        "auteur": "Atylabab",
+        "titre": "Stop les pub",
+        "texte": "Franchement ce podcast est super intéressant mais les Pub gâchent vraiment tout, je ne suivrai donc plus et c'est vraiment dommage"
+      },
+      {
+        "note": 5,
+        "auteur": "IDB60",
+        "titre": "1000% cinq étoiles : sujets, expertise, clarté et conseils",
+        "texte": "Un grand merci ! Je vous suis avec un très grand intérêt ! Les thèmes abordés sont variés et très ; les intervenants sont des experts pointus de grande qualité. Les questions sont bien choisies. Egalement, clarté des propos et conseils très concrets. Vive 1000%"
+      }
     ]
   }
 }

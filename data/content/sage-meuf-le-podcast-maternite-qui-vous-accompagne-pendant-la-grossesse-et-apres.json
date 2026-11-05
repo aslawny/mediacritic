@@ -29,25 +29,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-11-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Laura Testoni",
+        "titre": "Sage femme à distance",
+        "texte": "Merci Anna car sans le savoir vous avez été à côté de moi et ma fille le jour de sa naissance. Avant de partir à la maternité, ne croyant pas qu’il s’agissait déjà des ‘vraies’ contractions, je regardais en boucle les tutos sur les Maternelles, pour la valise pour la maternité.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Steph.isis",
+        "titre": "Questionnement",
+        "texte": "Pourquoi dans l’épisode du 30 sept, quand la SF accouche, vous êtes passée devant les autres mères ? Étant salariée dans cette mater, connaissant le code d’accès , vous êtes rentrée direct, pas d’attente pour vous ? Dans la salle d’attente comme tous les autres parents …"
+      },
+      {
+        "note": 5,
+        "auteur": "CelineML",
+        "titre": "Merci !",
+        "texte": "Merci, merci, que d’émotions en entendant tous ces témoignages ! Entendre de si belles choses mais aussi si dures, sans tabou, quel apaisement …"
+      }
     ]
   },
   "episodes_recents": [

@@ -53,25 +53,29 @@
   "derniere_activite": "2026-08-24",
   "frequence_jours": 13,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mathis F",
+        "titre": "Très bon podcast",
+        "texte": "Le podcast SaaS Club est un excellent choix pour les entrepreneurs et les passionnés de technologie qui souhaitent en apprendre davantage sur le monde du SaaS.…"
+      },
+      {
+        "note": 5,
+        "auteur": "louisdsl",
+        "titre": "Ma bible",
+        "texte": "Si je ne devais écouter qu’un podcast ça serait celui-ci. Éric et tous les invités nous apportent des conseils actionnables pour évoluer dans l’écosystème SaaS Du PMF à la levé, en passant par le marketing ou le recrutement, je sors toujours d’un épisode en ayant appris quelque c…"
+      },
+      {
+        "note": 5,
+        "auteur": "Savinien L",
+        "titre": "Super qualité",
+        "texte": "Un excellent podcast pour mieux comprendre l’intelligence artificielle, ses évolutions et surtout ses applications concrètes 😍 Éric rend les sujets accessibles, avec des échanges passionnants. On apprend énormément sans jamais voir le temps passer.…"
+      }
     ]
   }
 }

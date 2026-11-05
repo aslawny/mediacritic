@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-24",
   "frequence_jours": 27,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Oomu",
+        "titre": "un podcast de bon geeks",
+        "texte": "C’est un de mes podcasts favoris. Juste une bande de pote qui parlent avec coeur de toutes sortes de sujets farfelus et innocents de jeux vidéo, cinéma, et autres geekeries. Alors y a pas tant de « hate » que ça, c’est très bon enfant.…"
+      },
+      {
+        "note": 1,
+        "auteur": "dirtyyan440",
+        "titre": "Pourquoi tant de haine ?",
+        "texte": "Raz le bol des gens qui s’écoutent parler en croyant tout savoir. Continuez à vous autosatifaire sans moi. Yann B"
+      },
+      {
+        "note": 5,
+        "auteur": "Nay Darvil",
+        "titre": "Tartine et cookie de proust",
+        "texte": "Tel ma tartine et mon coockie de Proust, Kamui (l'otaku qui a cette capacité de tout lire, tout voir, tout jouer alors que la vie de 1000 humains ne suffiraient pas...) et Kwyqs (Le Ace Attorney de Kamui pour le calmer de temps en temps) donnent des friandises à mes oreilles lors…"
+      }
     ]
   }
 }

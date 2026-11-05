@@ -26,25 +26,29 @@
   ],
   "updatedAt": "2026-11-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "fryhvik'gezxgyukkk hhjj",
+        "titre": "Bernard Pivot",
+        "texte": "´ A voix nue ‘ est mon podcast préféré Un vrai cinq étoiles Et en mm temps, et je suis vraiment désolée lorsque l’interviewer tente d’imposer ses propres idées et/ou coupe la parole à l’invité Michel Édouard Leclerc et Bernard Pivot en ont fait les frais Deux personnalités différ…"
+      },
+      {
+        "note": 1,
+        "auteur": "Ktimini24",
+        "titre": "TROP DE MUSIQUE !!",
+        "texte": "Pourquoi rajouter toujours un fond sonore qui finit par gêner?????"
+      },
+      {
+        "note": 5,
+        "auteur": "LN52",
+        "titre": "Jérôme Garcin",
+        "texte": "Merci Jerôme Garcin de vous être confié à Caroline Broué et aux auditeurs du podcast. Fidèle auditrice du Masque et la Plume depuis mes plus jeunes années (j’ai 4 ans de plus que vous), je vous regretterai comme producteur et animateur de l’émission mais je continuerai à l’écoute…"
+      }
     ]
   }
 }

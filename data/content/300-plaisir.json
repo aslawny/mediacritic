@@ -52,7 +52,9 @@
   "frequence_jours": 2,
   "avis_publics": {
     "source": "apple",
-    "releve": "2026-09-06",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
     "extraits": [
       {
         "note": 5,
@@ -68,9 +70,9 @@
       },
       {
         "note": 5,
-        "auteur": "Ffstriker",
-        "titre": "Qui contrôle ?",
-        "texte": "Sur le principe, y a rien à dire, le podcast est très bien et les personnes sont drôles. En revanche le fait qu’elles aient fait leur petite notoriété sur YouTube (apparemment) leur donne un melon incroyable : 300% plaisir ? Mais d’où vient ce nombre sérieusement …"
+        "auteur": "Kazushisaku",
+        "titre": "Du kiff et du rire",
+        "texte": "Envie d’entendre tout un tas d’imitations dopées à l’IA, de personnages claqués et récurrents qui vous feront pouffer, envie d’entendre un mélange de tous les humours, du subtil au plus beauf, de l’anecdotique au décalé …"
       }
     ]
   }

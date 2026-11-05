@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-04-11",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "mielou3558",
+        "titre": "Génial !",
+        "texte": "Merci pour ce podcast d’utilité publique, à la fois tordant et divertissant ! J’aime tellement vous entendre trasher Edward X) Mais par pitié laissez parler Paprika …"
+      },
+      {
+        "note": 3,
+        "auteur": "S_Nymphea",
+        "titre": "Bien",
+        "texte": "J'aime bien le concept et c'est marrant de se replonger adulte dans la saga. Par contre, il y a des moments trop longs de rire entre vous"
+      },
+      {
+        "note": 5,
+        "auteur": "melanie_lt",
+        "titre": "Addictif !",
+        "texte": "Telle Bella face à Edward, je suis devenue addict de ce podcast ! Une belle découverte. C’est avec plaisir que je me replonge dans cet univers littéraire qui a marqué mon adolescence, avec mes yeux (et oreilles) d’adulte éveillée.…"
+      }
+    ]
+  }
 }

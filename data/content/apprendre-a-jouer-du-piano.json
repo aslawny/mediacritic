@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-03-13",
-  "frequence_jours": 46
+  "frequence_jours": 46,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Justin Terrien",
+        "titre": "Formidable",
+        "texte": "Marie-Cécile Baritou dédramatise l'apprentissage du piano. En plus de nous aider par dans la pratique, elle nous montre l'envers du décor, la leçon côté prof. Le dernier podcast sur le fait de jouer devant les autres m’a beaucoup aidé, je me sens beaucoup plus désinhibé.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Paul Caquelard",
+        "titre": "Des conseils précieux",
+        "texte": "C’est une grande chance d’entendre ces conseils et retours d’expériences livrés avec tant de simplicité et de passion. L’apprentissage de la musique est si difficile qu’il est crucial d’être accompagné par des personnes expérimentés et doués pour la transmission.…"
+      },
+      {
+        "note": 5,
+        "auteur": "bernad philippe chou",
+        "titre": "Merci",
+        "texte": "Merci Marie Cécile pour ton intelligence musicale et tes excellents conseils. Je trouve tes vidéos et tes audios très efficace et motivant. Merci pour ce partage."
+      }
+    ]
+  }
 }

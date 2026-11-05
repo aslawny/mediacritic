@@ -52,25 +52,29 @@
   "derniere_activite": "2025-01-23",
   "frequence_jours": 6,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Zosiasophie",
+        "titre": "La méditation pour les nuls",
+        "texte": "Je crois que SML a réussi à trouver une sorte de compromis pour les gens hyperactifs du bulbe qui ont désespérément besoin de se détendre et de faire le vide, mais qui ne sont absolument pas faits pour la méditation « classique », en silence ou accompagnée d’une voie insupportabl…"
+      },
+      {
+        "note": 1,
+        "auteur": "Philippeimac2",
+        "titre": "C’est à quel moment qu’il faut rire?",
+        "texte": "Tout est dans le titre, j’ai essayé bah j’ai trouvé ça grave nul."
+      },
+      {
+        "note": 5,
+        "auteur": "clea2000",
+        "titre": "Une pépite",
+        "texte": "Je n’écoute pas de podcast et je ne fais pas de méditation. Je tombe par hasard sur l’application podcast Apple, je scroole et je vois cette photo et ce titre et j’habite près de Perpignan …..…"
+      }
     ]
   }
 }

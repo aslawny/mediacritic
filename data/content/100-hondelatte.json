@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-26",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "BrightSideOfTheMoon",
+        "titre": "Comment Christophe Hondelatte a relevé le défi",
+        "texte": "Christophe, je te suis depuis tes podcasts sur Europe 1, qui, pour moi, étaient les meilleurs, tout court, parmi tous les podcasts publiés sur les différents canaux. Tu as dû relever ici un défi technique, que j’ai bien perçu, et tu l’as relevé avec talent.…"
+      },
+      {
+        "note": 1,
+        "auteur": "garniousse",
+        "titre": "Pas contente",
+        "texte": "C’est quoi ces pubs hyper longues ? C ‘ est vraiment pénible Je vais arrêter d écouter"
+      },
+      {
+        "note": 5,
+        "auteur": "Calice14",
+        "titre": "Mon podcast du matin",
+        "texte": "Un grand merci pour votre précieux travail. En ce qui concerne les pubs, c'est tout à fait normal d'être rémunéré lorsque l'on se consacre à un podcast. Les auditeurs ne peuvent pas tout avoir sans aucune contrepartie. Je suis heureuse de vous retrouver ici. Belle continuation."
+      }
     ]
   }
 }

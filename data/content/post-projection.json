@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-05",
-  "frequence_jours": 51
+  "frequence_jours": 51,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Laïs&Lulli",
+        "titre": "Passionnant !",
+        "texte": "L’intervenant est seul et tant mieux : il connaît vraiment son affaire et fournit une foule d’infos toujours intéressantes, souvent amusantes aussi. Ne manque qu’un peu d’habillage et une meilleure prise de son pour que ce podcast soit absolument parfait."
+      },
+      {
+        "note": 2,
+        "auteur": "dofidotoinou",
+        "titre": "A propos de Jaws…",
+        "texte": "L’auteur du livre source du film fait effectivement un cameo dans le film mais ce n’est pas le dénommé « Sheinberg » ( le patron des studios Universal à l’époque et accessoirement le mari de Lorraine Gary) mais Peter Benchley….."
+      },
+      {
+        "note": 5,
+        "auteur": "Tiné",
+        "titre": "Remarquable !",
+        "texte": "Podcast d’analyse et de contextualisation des films qui se révèle précis, foisonnant, superbement construit et réellement passionnant. Tous les cinéphiles devraient s’y abonner !"
+      }
+    ]
+  }
 }

@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2022-03-17",
-  "frequence_jours": 17
+  "frequence_jours": 17,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mehdi Boudjemaa",
+        "titre": "Excellents Podcasts !",
+        "texte": "J’écoute à chaque sortie les podcasts et je dois avouer qu’à la fin de chaque épisode j’ai une énorme motivation et une inspiration pour bosser ou faire des projets ! Merci à Emmanuel et à tous les participants pour votre temps et vos partages très inspirants !"
+      },
+      {
+        "note": 5,
+        "auteur": "MagnoliaPower",
+        "titre": "Inspirant et utile",
+        "texte": "Grâce à ce podcast on découvre les coulisses de la création d’entreprise : au-delà des aspects techniques ou économiques, on se met littéralement dans la peau de ces entrepreneurs et on comprend quels sont les ressorts qui ont contribué à leur succès. Merci !"
+      },
+      {
+        "note": 5,
+        "auteur": "CprnBtz",
+        "titre": "Podcast à fort intérêt général",
+        "texte": "J’ai découvert ce podcast à la faveur d’un post Facebook durant le confinement, depuis, j’attends chaque nouvel épisode avec impatience !! Bravo pour le travail, une des émissions les plus intéressantes du genre."
+      }
+    ]
+  }
 }

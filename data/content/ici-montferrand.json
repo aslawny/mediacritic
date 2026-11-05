@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-08-31",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Inside USA",
+        "titre": "Allez ASM",
+        "texte": "Belle découverte. Le duo de podcasts Ici Montferrand & Clermont Foot Club est un must pour les Auvergnats! Merci La Montagne."
+      },
+      {
+        "note": 5,
+        "auteur": "Edgas63",
+        "titre": "Jaunard",
+        "texte": "Je recommande ! Pointu dans l’analyse, on en apprend toujours plus sur le club, et merci de parler des espoirs ❤️"
+      },
+      {
+        "note": 5,
+        "auteur": "Felinois26",
+        "titre": "Bravo, continuez!",
+        "texte": "Bel esprit! Du contenu de qualité, des infos pertinentes et un format agréable."
+      }
+    ]
+  }
 }

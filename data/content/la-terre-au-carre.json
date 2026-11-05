@@ -28,25 +28,29 @@
   "addedAt": "2026-06-27",
   "updatedAt": "2026-11-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "titilyon",
+        "titre": "Les verres de terre",
+        "texte": "Pour notre spécialiste des verres de terre , si a l’occasion elle visite un Fort militaire désaffecter, si il est recouvert d’un couvert végétal Épais, et que ce fort est équipé de cheminée d’aération verticale dans ces souterrain, elle pourra y découvrir au fond de ses puis, les…"
+      },
+      {
+        "note": 1,
+        "auteur": "MaryGC29",
+        "titre": "Incongruité des pubs",
+        "texte": "Comment les podcasts d’une émission comme celle-ci peuvent-ils être pollués par des pubs???"
+      },
+      {
+        "note": 5,
+        "auteur": "Moots 32",
+        "titre": "Remettez le format initial !",
+        "texte": "Très bonne émission avec des infos très interessantes , il y en a peu sur les médias consacrées à l écologie et maintenant elle est coupée , avec de l histoire . Ça devient inaudible .…"
+      }
     ]
   }
 }

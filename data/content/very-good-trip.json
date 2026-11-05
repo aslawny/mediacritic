@@ -26,25 +26,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-11-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Saint-Just-58",
+        "titre": "Always a Very good trip !",
+        "texte": "Chaque soir avec Michka, l’auditeur d’Inter a droit à son « Very Good trip ! » C’est un authentique shoot musical fait de découvertes et de redécouvertes : cette alliance magique de l’ancien, du moderne et du contemporain nous plonge tous les soirs à partir de 21h dans les dédale…"
+      },
+      {
+        "note": 5,
+        "auteur": "AJSijo",
+        "titre": "Robert Whyatt",
+        "texte": "Mille merci pour ce grand moment, fan des premières heures, Carolyne ou Annifib sont toujours aussi merveilleuses, j’ai été marquée à jamais par Robert tout au long de ma vie.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Duchés",
+        "titre": "Remarquable histoire des Stones. Merci",
+        "texte": "M. Assayas, je ne vous dis pas merci 😂. Après avoir dévoré chacun des 4 épisodes consacrés aux Rolling Stones j’ai acheté 5 de leurs vinyles. Votre érudition musicale, culturelle et historique - je viens de découvrir votre formation académique ENS, votre parcours littéraire - m’a…"
+      }
     ]
   }
 }

@@ -26,5 +26,31 @@
     "politique"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-04"
+  "updatedAt": "2026-11-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Le fan number one :)",
+        "titre": "A écouter sans modération",
+        "texte": "Faut-il que j'aime ce podcast pour me fourvoyer sur Itunes !!! Bref, si l'argument ci-dessus n'est pas suffisant (!) imaginez une bande de potes qui se marrent et discutent musique, bouquins, restos, ciné, BD, bonnes adresses... Bref, une bande de potes.…"
+      },
+      {
+        "note": 5,
+        "auteur": "clegot",
+        "titre": "Entrepod - entre potes, vous aviez compris?!",
+        "texte": "Entre amis, telle est la volonté de ces gens, on assite à une discussion pleine de sujet intéressants. mais pas ce genre de discussion où vous pouvez vous sentir à l'écart, ici sont acceptés tout ceux qui veulent bien écouter et on a l'impression d'y participer, à cette discussio…"
+      },
+      {
+        "note": 5,
+        "auteur": "Walter Proof",
+        "titre": "Découvertes et rigolade !",
+        "texte": "Ecouter l’Entrepod, c’est avoir la certitude de passer un bon moment, d’apprendre des trucs à l’écoute de témoignages passionnants, le tout dans une ambiance de franche rigolade, en compagnie de gens qui deviendront vite des pod… euh, des potes …"
+      }
+    ]
+  }
 }

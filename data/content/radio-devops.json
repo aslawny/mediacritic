@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2025-04-02",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "SlimBok6",
+        "titre": "LE podcast du mouvement DevOps",
+        "texte": "Cela fait un moment que Christophe demande des commentaires dans podcast d’Apple… Et bien j’y amène ma petite contribution ! Pour tous les poditeurs à la recherche d’une écoute de qualité sur le mouvement DevOps, et en français svp, c’est LE podcast à écouter.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Landvarx",
+        "titre": "Très bon contenu",
+        "texte": "Le contenu est les échanges sont de bonnes qualités. Par contre la qualité audio est très inégale suivant les intervenants et les épisodes. Faites un effort de ce côté SVP mes oreilles saignent trop souvent."
+      },
+      {
+        "note": 5,
+        "auteur": "Michael BK from 92",
+        "titre": "Un podcast hautement recommandable",
+        "texte": "Un excellent podcast sur le Devops et tout ce qui tourne autour. En tant qu’architecte Si je n’ai pas toujours le temps de tout creuser et ce podcast me permet d’avoir le vernis nécessaire et surtout des vrais retours terrain avec des intervenants passionnés et de qualité.…"
+      }
+    ]
+  }
 }

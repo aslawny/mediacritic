@@ -50,5 +50,25 @@
     }
   ],
   "derniere_activite": "2026-04-28",
-  "frequence_jours": 55
+  "frequence_jours": 55,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 3,
+        "auteur": "woo r u",
+        "titre": "Observer le contenu de l’esprit",
+        "texte": "J’ai bien aimer le podcast mais je n’ai pas compris de quel manière observer l’esprit. Est-ce laisser nos pensées aller ici et là ? Je ne crois pas. Il serait sans doute bien de clarifier ce point pour les novices.…"
+      },
+      {
+        "note": 3,
+        "auteur": "woo r u",
+        "titre": "Observer le contenu de l’esprit",
+        "texte": "J’ai bien aimer le podcast mais je n’ai pas compris de quel manière observer l’esprit. Est-ce laisser nos pensées aller ici et là ? Je ne crois pas. Il serait sans doute bien de clarifier ce point pour les novices.…"
+      }
+    ]
+  }
 }

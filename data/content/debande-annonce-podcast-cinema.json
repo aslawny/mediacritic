@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-13",
-  "frequence_jours": 8
+  "frequence_jours": 8,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Miossuke",
+        "titre": "Fun, informatif et plein de fraîcheur",
+        "texte": "On s’amuse ,on se détend,on est bien . Je rigole à chaque épisode et je ne m’ennuie jamais en écoutant vos voix. De plus comme je ne vais que rarement au cinéma, c’est une occasion de s’informer sur l’actualité cinématographique,qui plus est en pouffant de rire.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Bobileponge",
+        "titre": "Encore un podcast ciné de frustré ratés",
+        "texte": "Le culot de faire l'auto promo de leur podcast pourri à la fin d’un Floodcast alors qu’ils défoncent Vermines. Aucune argumentaire, juste des gonzes qui critiquent gratuitement. Qui disent même de ne pas aller voir le film… la jalousie est palpable.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Laurène ipsum",
+        "titre": "Un pitch efficace",
+        "texte": "Une joyeuse bande zozos qu’on a plaisir à retrouver. Des analyses parfois pertinentes, des blagues souvent hilarantes et des résumés complètement zinzins (avec une préférence pour ceux d’Elo, qui est trop mims je confirme)."
+      }
+    ]
+  }
 }

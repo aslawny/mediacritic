@@ -37,5 +37,31 @@
       "date": "2021-11-10"
     }
   ],
-  "derniere_activite": "2023-08-07"
+  "derniere_activite": "2023-08-07",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Squeazy Sasquatch",
+        "titre": "Super cool!🤩",
+        "texte": "J’adore!j’aimerais trop de nouveaux épisodes !Je me suis enfilé les trois tomes de Bernard Werber !je suis un grand fan!!je n’ai pas encore débuté l’élevage mais je vais commencer bientôt !typiquement des messor barbarus ou des Lasius Niger !je trouve que les camponotus nicobaren…"
+      },
+      {
+        "note": 1,
+        "auteur": "Fs12a",
+        "titre": "Du coup",
+        "texte": "Du coup, du coup, le sujet est intéressant mais la discussion m’a ennuyé, désolé. Je vous laisse discuter entre pot. Du coup….."
+      },
+      {
+        "note": 5,
+        "auteur": "Moulone",
+        "titre": "J’adore",
+        "texte": "Le contenue est vraiment bien. J’aime bien le changement de format qui n’est plus que des vidéos mais pour répondre au autres commentaires comme : Fs12a qui dis que vous discutez entre potes bas non et c’est intéressant et c’est pas normal de mettre une étoile alors que c’est tro…"
+      }
+    ]
+  }
 }

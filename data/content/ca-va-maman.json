@@ -50,5 +50,25 @@
     }
   ],
   "derniere_activite": "2026-08-27",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Emlglbt",
+        "titre": "Super podcast",
+        "texte": "Podcast super intéressant et déculpabilisant. Les retours des différents professionnels sont très riches aux niveau des données scientifiques et les explications très claires !"
+      },
+      {
+        "note": 5,
+        "auteur": "oneyandfamily",
+        "titre": "Merciii",
+        "texte": "Le poadcast qui réconforte les mamans et les parents. Merci pour m’avoir aidé dans mon travail personnel dans mon burn-out maternelle."
+      }
+    ]
+  }
 }

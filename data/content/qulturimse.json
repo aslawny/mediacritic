@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2025-06-01",
-  "frequence_jours": 91
+  "frequence_jours": 91,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Podcastics Community",
+        "titre": "Comme un plaid et un chocolat chaud",
+        "texte": "Dexter, Arnaud Tsamère, Les Fatals Picards, Rammstein ou Dora l'Exploratrice : vous ne trouverez nulle part des thèmes plus éclectiques ! L'avantage en parcourant la liste d'épisodes, c'est qu'on en trouve forcément plusieurs qui nous parlent et nous font envie.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Bratislabat",
+        "titre": "J’ai perdu mon temps à écouter ça",
+        "texte": "J’ai écouté au moins une demi-douzaine d’épisodes avec la meilleure volonté possible mais non ça ne le fait pas. Le problème est assez simple: se contenter de lire une fiche Wikipedia n’est pas un concept assez fort pour faire un programme.…"
+      },
+      {
+        "note": 5,
+        "auteur": "sohoow",
+        "titre": "Drôle et enrichissant",
+        "texte": "J’aime beaucoup l’ambiance de ce podcast ! J’ai commencé récemment alors je dois encore rattraper mon retard ! Mais chaque épisode est drôle on a envie de faire partie de l’équipe ! Continuez ! Solène du podcast Friendship"
+      }
+    ]
+  }
 }

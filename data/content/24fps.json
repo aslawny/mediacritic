@@ -50,25 +50,29 @@
   "derniere_activite": "2026-08-01",
   "frequence_jours": 43,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Canartik",
+        "titre": "Merci les jeunes!",
+        "texte": "Salut les jeunes! Je vous ai découvert il y a seulement 1 semaine. Merci beaucoup pour vos podcasts. Je me retrouve dans beaucoup de vos avis personnels. Vous êtes des hommes de goût. En plus je découvre pas mal de films excellents que je n’aurais jamais vus.…"
+      },
+      {
+        "note": 1,
+        "auteur": "FrelonPizza",
+        "titre": "Largement dispensable",
+        "texte": "Podcast de plusieurs heures pour ne rien dire,rien n’est préparé."
+      },
+      {
+        "note": 5,
+        "auteur": "2_heures_de_gagnees",
+        "titre": "De vrais passionnés de ciné",
+        "texte": "En grand fan de podcast et de ciné, je ne pouvais pas passer à côté de 24 fps. Et le moins qu'on puisse dire, c'est qu'ils n'hésitent pas à prendre le temps qu'il faut pour décortiquer chaque film, allant souvent jusqu'à refaire la genèse de sa création et à repasser la filmo du…"
+      }
     ]
   }
 }

@@ -51,25 +51,29 @@
   "derniere_activite": "2025-11-19",
   "frequence_jours": 60,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Cicis59",
+        "titre": "Forcement excellent!!!",
+        "texte": "J’aime bien Daz, il kiff la Ouest Coast comme moi. 6 est une I.A je le sais, j’ai des preuves. « Une Emission marrante.\" (J’ai lu ça quelque part) J’écoute en faisant mon sport, le Biathlon, et pour les amateurs, sachez que ça peut compliquer la concentration durant les phases de…"
+      },
+      {
+        "note": 5,
+        "auteur": "Foerdom",
+        "titre": "Bon pour ma street cred",
+        "texte": "J’écoutais assez peu de hip-hop, ou alors seulement des artistes ultra connus, un peu parce que je ne savais pas par où aborder le genre. Avec les anecdotes de 6 et les commentaires de Daz, je me fais un grand bol de culture rap et j’alimente mes playlists, le tout avec le sourir…"
+      },
+      {
+        "note": 5,
+        "auteur": "MargaretLustor",
+        "titre": "Un pilote vraiment réussi !",
+        "texte": "Vraiment content de découvrir un podcast qui traite de cette époque dans le hip-hop ! Le pilote est très réussi et les interventions de 6 et Daz super pertinentes, les extraits permettent de se replonger dans les morceaux évoqués."
+      }
     ]
   }
 }

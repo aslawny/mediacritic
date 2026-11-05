@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-17",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "~4L€X💋",
+        "titre": "Vraiment génial 🙏",
+        "texte": "Jsp si tu lis les commentaires sur podcast, mais je tiens énormément à commenter. Je fais partie de la communauté silencieuse, qui écoute mais ne commente jamais, mais franchement ça fais depuis que j’ai 13 ans que je te suis (j’en ai maintenant 16) et J’ADORE.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Imèn dd",
+        "titre": "Le meilleur",
+        "texte": "Je te suis depuis tes débuts! Et je n'ai jamais raté une de tes HVF .. t'es le meilleur MCSKYZ!"
+      },
+      {
+        "note": 5,
+        "auteur": "etuolib",
+        "titre": "Merci merci merci!",
+        "texte": "J’ai connu Isabelle Chicherie fille des mes voisins et je ne l’oublie jamais. J’ai grandi avec le grêlé en ombre, Alègre, Fourniret et les autres en guet apent. Ce que j’aime dans vos récits, c’est toujours la douceur, la gentillesse avec laquelle vous décrivez les victimes.…"
+      }
     ]
   }
 }

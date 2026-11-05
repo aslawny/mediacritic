@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-15",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "FredC1964",
+        "titre": "Passionnant",
+        "texte": "Des thèmes toujours passionnants sur la mode, les costumes et le cinéma. Quel dommage que certains soient en Anglais quand on ne le maîtrise pas assez comme c est mon cas. Mais j’imagine qu’interviewer et traduire à la fois ne dois pas être facile.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Chic.n",
+        "titre": "Des interviews riches et précieux",
+        "texte": "Les thèmes et les invités sont finement trouvés. Ce podcast est un vrai témoignage sociologique. Je me régale à chaque épisode. Merci pour ça. (Juste la qualité sonore a améliorer, beaucoup de bruits parasites, difficiles pour les misophones comme moi)"
+      },
+      {
+        "note": 5,
+        "auteur": "Marionnette44",
+        "titre": "Excellent podcast.",
+        "texte": "Continuez à en réaliser , je les écoute tous . Marion , une créatrice mode depuis de longues années."
+      }
+    ]
+  }
 }

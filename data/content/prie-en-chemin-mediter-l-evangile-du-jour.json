@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-18",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "tridounette",
+        "titre": "Génial",
+        "texte": "Je cherchais justement un support pour m’aider à méditer les textes du jour: je l’ai trouvé! Mille merci. Les méditations sont de grande qualité ! J’ai juste l’impression que les textes du jour ne sont pas encore disponibles tôt le matin. Merci merci merci"
+      },
+      {
+        "note": 1,
+        "auteur": "guillaume 5968",
+        "titre": "Politique",
+        "texte": "Quel est l’intérêt de glisser des opinions politiques dans un discours sur la prière ? Ce sera désormais sans moi, tant pour l’écoute que pour le financement."
+      },
+      {
+        "note": 4,
+        "auteur": "Quinquin 66",
+        "titre": "Un moment de calme intérieur",
+        "texte": "J’apprécie beaucoup ces qq minutes de méditation, un petit bémol cependant parfois la musique proposée m’apparaît un peu niaise"
+      }
+    ]
+  }
 }

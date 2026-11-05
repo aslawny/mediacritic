@@ -49,5 +49,19 @@
     }
   ],
   "derniere_activite": "2026-09-08",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Comment je m'appelle",
+        "titre": "Vous êtes adorable",
+        "texte": "Je vous écoute tous les soirs quand je rentre de l’école parce que je suis en CM2"
+      }
+    ]
+  }
 }

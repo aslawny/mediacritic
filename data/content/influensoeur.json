@@ -52,25 +52,29 @@
   "derniere_activite": "2026-04-27",
   "frequence_jours": 5,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "fkecomment",
+        "titre": "Un bijou pour notre foi .. notre cœur 🫀",
+        "texte": "JazaakiAllahou khayran ma sœur ! J’écoute tes podcasts depuis un petit moment maintenant et Al HamdouliLlah ça m’a toujours fais un grand bien et ça m’a toujours motivée à avancer, me repentir, et surtout me surpasser pour notre Seigneur subhânahu wa ta'âla 👆🏻🤍 Je suis actuelleme…"
+      },
+      {
+        "note": 1,
+        "auteur": "Aminatayara",
+        "titre": "Happy birthday",
+        "texte": "Je n’ai écouté que cet épisode mais ça ne m’a pas donné envie d’écouter la suite. En un mot : obscurantisme Puisse l’Islam rayonner dans la lumière."
+      },
+      {
+        "note": 5,
+        "auteur": "NessZh",
+        "titre": "Merci Pour Tout",
+        "texte": "As Salam Wa Aleiki wa Rahmtuahi wa Barakatuh, W’Allahi tu n’imagines même pas a quel point tes mots, et la douceur de ta voix nous apaise nous tes soeurs. Qu’Allah te récompense de la meilleure des manières, qu’Il t’accorde la santé a toi ainsi qu’a ta famille.…"
+      }
     ]
   }
 }

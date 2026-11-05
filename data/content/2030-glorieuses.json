@@ -51,25 +51,29 @@
   "derniere_activite": "2026-08-23",
   "frequence_jours": 6,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "alexcalm",
+        "titre": "Ca fait du bien!!",
+        "texte": "Une réflexion positive sur notre monde et sur l’écologie. Un enthousiasme sans faille pour réinventer le monde dans un esprit positif et joyeux. Julien nous amène, avec ses invités, à réfléchir sur notre mode de vie et à repenser notre monde.…"
+      },
+      {
+        "note": 5,
+        "auteur": "abylone",
+        "titre": "Une bouffée d’oxygène",
+        "texte": "Merci beaucoup pour ces podcasts rafraîchissant et plein de bonnes vibes. J’ai découvert le podcast ce matin grâce à Usbek&Rica et j’ai rattrapé un peu mon retard... déjà 4 épisodes ont accompagnés ma journée et m’ont empli de volonté a poursuivre mes convictions.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Ellana51",
+        "titre": "A écouter d’urgence!",
+        "texte": "Un podcast à écouter d’urgence, pour ralentir, faire une pause, prendre du recul, rêver à ces utopies positives... Pour être franche, ce podcast réussit parfois à m’arracher quelques larmes de soulagement: enfin, j’ai l’impression de ne plus être seule …"
+      }
     ]
   }
 }

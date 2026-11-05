@@ -48,5 +48,25 @@
     }
   ],
   "derniere_activite": "2026-06-23",
-  "frequence_jours": 34
+  "frequence_jours": 34,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tyler Sixteenth",
+        "titre": "Ces gens sont bons.",
+        "texte": "Très bons. Un groupe dont les membres se connaissent bien et qui intéragissent extrèmement bien pour parler de culture pop. Il en existe beaucoup, des émissions de ce type, mais elles sont rares à être aussi passionnantes à suivre, grâce à la culture poussée de ces intervenants.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Chateigne",
+        "titre": "Le meilleur podcast culturel franco-belge",
+        "texte": "À chaque fois on a l'impression de retrouver une bande de potes avec qui on parle musique, film, BD, etc. Et à chaque fois, comme c'est immersif, on a la frustration de pas pouvoir intervenir pour donner son avis :p"
+      }
+    ]
+  }
 }

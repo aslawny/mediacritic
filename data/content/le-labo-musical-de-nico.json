@@ -24,5 +24,31 @@
     "culture"
   ],
   "addedAt": "2026-06-27",
-  "updatedAt": "2026-11-04"
+  "updatedAt": "2026-11-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "6hfrbdgbfvdfbbdjg",
+        "titre": "Pourquoi ?",
+        "texte": "Pourquoi pourquoi y a plus de femmes que d’hommes dans un musée et aussi pourquoi on dit que les femmes sont plus faibles que les hommes ? Et pourquoi toi qui fait le podcast , est-ce que ça peut être une fille qui fait le podcast ?"
+      },
+      {
+        "note": 5,
+        "auteur": "Hoshi.Guis",
+        "titre": "Super!",
+        "texte": "Très instructif avec des explications faciles à comprendre et très drôle. Je conseille vivement!"
+      },
+      {
+        "note": 5,
+        "auteur": "Ni.M🤩",
+        "titre": "Super",
+        "texte": "C’est quoi les premières musique de l’histoire ? Tu pourrais faire un podcast dessus stp"
+      }
+    ]
+  }
 }

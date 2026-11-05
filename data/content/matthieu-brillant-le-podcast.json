@@ -27,5 +27,31 @@
     "numerique"
   ],
   "addedAt": "2026-07-27",
-  "updatedAt": "2026-11-04"
+  "updatedAt": "2026-11-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Kristouf2",
+        "titre": "Un podcast que j’attends avec impatience 🙌",
+        "texte": "Matthieu propose une approche rafraîchissante et pleine de bon sens : utiliser les outils Apple qu’on a déjà pour vivre un quotidien plus simple, plus fluide et plus aligné.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Calaghan974",
+        "titre": "aussi instructif que rafraîchissant",
+        "texte": "Un podcast aussi instructif que rafraîchissant ! pour une première c’est structuré et bien pensé, cela permet une écoute à la fois fluide et captivante. On sent un vrai travail de fond sur la conception.…"
+      },
+      {
+        "note": 5,
+        "auteur": "akira_78",
+        "titre": "Une nouvelle vision pro d’Apple",
+        "texte": "Trop bien ce podcast, qui me « parle » car pas trop technique mais plus tourné vers l’utilisation de ces appareils / écosystèmes. Merci"
+      }
+    ]
+  }
 }

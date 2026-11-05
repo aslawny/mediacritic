@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-22",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "FredF_Pro",
+        "titre": "Enrichissant à chaque épisode",
+        "texte": "Une véritable invitation au voyage et à la découverte des cultures du monde. Que vous soyez voyageur, expatrié ou simplement curieux, ce podcast nous propose d’enrichir notre vision du monde. Et mieux comprendre l’Autre nous fait du bien !"
+      },
+      {
+        "note": 5,
+        "auteur": "Kathleen Jousse",
+        "titre": "Un grand merci pour ce voyage !",
+        "texte": "Chaque épisode nous embarque dans un univers singulier et passionnant. Je suis toujours impatiente de découvrir ces petites histoires qui me font voyager en permanence. Merci Charlotte pour ces moments forts agréables !"
+      },
+      {
+        "note": 5,
+        "auteur": "cam_bldn",
+        "titre": "Une bonne surprise !",
+        "texte": "J’ai découvert récemment Surprises Interculturelles, et j’adore ! Idéal à écouter le matin avant d’aller travailler pour voyager un peu, et en apprendre plus sur la diversité culturelle du monde."
+      }
+    ]
+  }
 }

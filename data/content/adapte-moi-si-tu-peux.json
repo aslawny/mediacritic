@@ -53,25 +53,29 @@
   "derniere_activite": "2026-08-28",
   "frequence_jours": 18,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Damascena81",
+        "titre": "💖🫖Mon podcast préféré💖",
+        "texte": "Bonjour à vous les filles, Je vous écoute depuis peu mais j’ai comme d’autres auditrices de votre podcast, adoré l’ambiance entre copines, ainsi que la qualité du contenu de vos sources qui demande un vrai travail d’investigation pour chacune de vos interventions.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Beckss75",
+        "titre": "Fond original, forme décevante.",
+        "texte": "Le ton, le langage et les rires bêtes rendent l’écoute pénible et compliquée."
+      },
+      {
+        "note": 5,
+        "auteur": "Leslecturesdesirine",
+        "titre": "Très bon podcast !",
+        "texte": "Découvert grâce à la vidéo YouTube de Jeannot se livre, je suis régulièrement les épisodes de ce podcast très intéressant, enrichissant et surtout finement documenté …"
+      }
     ]
   }
 }

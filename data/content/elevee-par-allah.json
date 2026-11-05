@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-07-08",
-  "frequence_jours": 9
+  "frequence_jours": 9,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Adam le Viet",
+        "titre": "Un chemin de courage et de foi",
+        "texte": "Cela fait maintenant presque un an que j’écoute tes podcasts. Et comment le dire d’une bonne manière… Tes différentes prises de parole et tes confessions nous aident énormément dans notre quête de la compréhension de l’autre et de l’adoration de Dieu.…"
+      },
+      {
+        "note": 5,
+        "auteur": "MahBll",
+        "titre": "Une pépite de plus ❤️",
+        "texte": "Salam Aleykoum ma sœur, merci pour ce podcast et ces doux rappels venant d’une femme convertie qui nous permets de se reconnaître. J’ai lu ton livre en 2 jours, mashaAllah quel plaisir pour le cœur de lire tes mots.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Ikram47",
+        "titre": "💕",
+        "texte": "Podcast très inspirant ! je l’écoute sur la route très souvent , tu es douce et motivante qu’Allah te Récompense pour ce podcast ma soeur 💕"
+      }
+    ]
+  }
 }

@@ -50,5 +50,25 @@
     }
   ],
   "derniere_activite": "2025-03-30",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 2,
+        "auteur": "Bernard Pivo",
+        "titre": "Trop de fautes",
+        "texte": "« Il entendut… sérieusement ? Pas besoin d’avoir fait beaucoup d’études pour savoir qu’on dit : il entendit…"
+      },
+      {
+        "note": 2,
+        "auteur": "Bernard Pivo",
+        "titre": "Trop de fautes",
+        "texte": "« Il entendut… sérieusement ? Pas besoin d’avoir fait beaucoup d’études pour savoir qu’on dit : il entendit…"
+      }
+    ]
+  }
 }

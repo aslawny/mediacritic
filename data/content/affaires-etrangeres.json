@@ -26,25 +26,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-11-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Userlanda",
+        "titre": "L’engrenage nucléaire",
+        "texte": "Question à Thierry Coville: Si vous analyser la situation judiciaire en Iran, vis-à-vis des femmes, de la jeunesse iranienne, et de son opposition politique, depuis 40 ans , vous pouvez qualifier l’Etat iranien dans son ensemble de “ BarBar” sans aucune distinction de fraction mo…"
+      },
+      {
+        "note": 1,
+        "auteur": "Bill Bruce",
+        "titre": "Bobo gaucho et sans intérêt",
+        "texte": "Si vous comprenez l’anglais allez donc sur BBC ou the economist"
+      },
+      {
+        "note": 5,
+        "auteur": "Berlin Charlottenburg 2022",
+        "titre": "Merci beaucoup Madame Ockrent",
+        "texte": "J’aime beaucoup votre émission, vous connaissez très bien vos dossiers, les sujets sont passionnants, vous collez à l’actualité pour répondre à nos questions les plus brûlantes, les quatre intervenants ont des parcours très variés, le ton est alerte, le rythme est soutenu et l’in…"
+      }
     ]
   }
 }

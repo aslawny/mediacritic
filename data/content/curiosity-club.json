@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2025-03-07",
-  "frequence_jours": 16
+  "frequence_jours": 16,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Vicdelav",
+        "titre": "Au top",
+        "texte": "Un moment de découverte avec des invités éclectiques et toujours PASSIONNANTS. Un pur bonheur. Merci le FCC !"
+      },
+      {
+        "note": 3,
+        "auteur": "usagerblasé",
+        "titre": "Passionnant",
+        "texte": "Le podcast avec la scénariste du Bureau des Légendes est passionnant ! A écouter que vous soyez ou non fan de la série. Elle explique avec simplicité, humour et intelligence son parcours et le métier de scénariste. Inspirant !"
+      },
+      {
+        "note": 5,
+        "auteur": "Erobvoe",
+        "titre": "Très bons podcasts",
+        "texte": "Podcasts très diversifiés et intéressants de femmes aux parcours inspirants."
+      }
+    ]
+  }
 }

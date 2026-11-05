@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2025-06-09",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Florent2592",
+        "titre": "Une découverte un voyage",
+        "texte": "Globetucker réunit différente expériences sur les podcast afin de nous transporter ou nous faire découvrir des lieux méconnue afin de nous transporter à travers des locaux ou des voyageurs au divers profils.…"
+      },
+      {
+        "note": 2,
+        "auteur": "Franck.Sacco",
+        "titre": "Une sphère de voyageurs parfois sympas…",
+        "texte": "Parfois cela manque sérieusement d’intérêt lié aux endroits que visitent les intervenants…et surtout pourquoi ils les visitent …ex: faut aller là bas parce que tout le monde y va…"
+      },
+      {
+        "note": 5,
+        "auteur": "AurorePhangan",
+        "titre": "Merci GlobeTucker 😎🧳🌏",
+        "texte": "Samuel est agréable à écouter. À chaque nouvel épisode, découvrez un nouveau pays grâce aux paroles de ses invités. Les sujets sont intéressants.…"
+      }
+    ]
+  }
 }

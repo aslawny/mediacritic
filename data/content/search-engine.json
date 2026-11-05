@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-18",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "EloisrB85",
+        "titre": "So glad PJ is back!",
+        "texte": "I knew I missed Reply All, but I didn’t quite know how much I had missed it until I heard PJ giggle again on Search Engine. Like Reply All, this show is cheerful and smart.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Actively indulgent",
+        "titre": "Trigger warning",
+        "texte": "Great episode, all the stuff I instinctively thought about what warnings do or don’t help has been confirmed."
+      },
+      {
+        "note": 5,
+        "auteur": "Pauleing",
+        "titre": "Très bien !",
+        "texte": "Un podcast anglophone qui creuse des sujets originaux. La narration et la production sont de qualité."
+      }
+    ]
+  }
 }

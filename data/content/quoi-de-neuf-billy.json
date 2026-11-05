@@ -45,5 +45,25 @@
     }
   ],
   "derniere_activite": "2026-09-18",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Guigus44",
+        "titre": "Très sympa !",
+        "texte": "On adore ! C’est clair et intéressant, et on apprécie que l’audio ne soit pas brouillé par trop de bruitages. Plus qu’à envoyer un message répondeur !"
+      },
+      {
+        "note": 1,
+        "auteur": "ellowine",
+        "titre": "Fantastique,génial,incroyable 🥲👍",
+        "texte": "Je ne trouve pas les mots pour dire à quel point c’est génial 👍"
+      }
+    ]
+  }
 }

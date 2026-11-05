@@ -49,5 +49,25 @@
     }
   ],
   "derniere_activite": "2026-08-17",
-  "frequence_jours": 37
+  "frequence_jours": 37,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "justknks",
+        "titre": "Je m’en lasse pas !",
+        "texte": "A écouter et réécouter ! Moment de paix de mes journées ! Merci !"
+      },
+      {
+        "note": 5,
+        "auteur": "Saakinaa",
+        "titre": "Au top !",
+        "texte": "J’aime trop tes podcasts 😍 Allahuma barik continue comme ça !!"
+      }
+    ]
+  }
 }

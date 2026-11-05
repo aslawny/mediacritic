@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-10-19",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Parfaitement imparfaite",
+        "titre": "Mes débuts de semaine avec Marielle",
+        "texte": "Le train démarre pour Paris… un café sur la tablette, un bouquin, mon téléphone … Comme chaque semaine je m’isole avec mes AirPods pour écouter la douce voix de Marielle mais pas que! L’expertise de l’art oratoire de Marielle infuse dans mon cerveau.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Lizkop",
+        "titre": "Un podcast pour s’exprimer avec confiance et impact 💪🏼",
+        "texte": "Le podcast “Speech Society” est une vraie bouffée d’inspiration pour toutes les femmes qui veulent s’épanouir en prenant la parole en public. Ce qui est génial, c’est que Marielle LIEBER CLAIRE aborde chaque sujet avec des angles variés, et ses conseils concrets donnent vraiment…"
+      },
+      {
+        "note": 5,
+        "auteur": "aaaaaa12348",
+        "titre": "Je recommande",
+        "texte": "Des pastilles précieuses, qui abordent avec justesse des thématiques auxquelles nous sommes confrontées en tant que femmes. Un podcast à la fois inspirant et profondément motivant, porté par des mots toujours justes et percutants.…"
+      }
+    ]
+  }
 }

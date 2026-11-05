@@ -51,25 +51,29 @@
   "derniere_activite": "2026-07-26",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mackow1311",
+        "titre": "Banger encore une fois",
+        "texte": "J’aime toujours autant le côté développement perso malgré le fait qu’il y en ait moins dans la saison 4. Mais toujours des points de vue si bien expliqués facile à comprendre. Le fait que toutes les institutions veuillent descendr le raptor ne rend l’épopée que plus épique.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Gaindil",
+        "titre": "L’extrême droite a l’oreille",
+        "texte": "Propos racistes, sexistes, homophobes.. et j’en passes C’est ça l’extrême droite"
+      },
+      {
+        "note": 5,
+        "auteur": "redruum07",
+        "titre": "Force à toi",
+        "texte": "Le podcast est excellent, je donne de la force. Ma seule remarque négative : Je suis pas fan des débats avec l’IA, c’est inintéressant je saute le truc à chaque fois.…"
+      }
     ]
   }
 }

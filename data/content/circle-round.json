@@ -49,5 +49,25 @@
     }
   ],
   "derniere_activite": "2026-08-25",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "SweetOurson",
+        "titre": "Super Podcast pour petits et grands !",
+        "texte": "Thank you very much for that awesome Podcat! Un Podcast en anglais où vous trouverez des contes des quatre coins du monde pour les enfants anglophones de 3 à 10 ans.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Rosie B M",
+        "titre": "From Rosie",
+        "texte": "I just love your stories and you! I would love a shout-out! Thank you, Rosie"
+      }
+    ]
+  }
 }

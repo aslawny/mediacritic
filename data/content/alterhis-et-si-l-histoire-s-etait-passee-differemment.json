@@ -51,25 +51,29 @@
   "derniere_activite": "2026-08-06",
   "frequence_jours": 20,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Geoffroy d'Estissac",
+        "titre": "Toujours un plaisirs à écouter",
+        "texte": "Un excellent podcast car, pour réinventer l’histoire, il faut avoir une très solide érudition historique. L’exercice est peut-être encore plus difficile que de la raconter. Une idée : Richard Coeur de Lion n’a pas été tué bêtement à Chalus.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Eeygufehueufyerrrr",
+        "titre": "Les bacrooms",
+        "texte": "En 2040?! C’est quoi cette blague de…?! Ont est en 2025-2026, hallo la terre à la lune! C’est nul, Pour mentir, j’ai vue mieux! 🤬"
+      },
+      {
+        "note": 5,
+        "auteur": "Yaya_zzzz",
+        "titre": "Paris 1328",
+        "texte": "Je viens de réécouter toute les saisons de Paris 1328. La série est toujours aussi incroyable même pour une réécoute. J’espère qu’il y aura une saison 4! Et une question me vient en tête à chaque fois que je pense à la série, puisque que le Paris moderne est en 1328, est-ce que l…"
+      }
     ]
   }
 }

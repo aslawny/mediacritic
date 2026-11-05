@@ -1,0 +1,53 @@
+{
+  "slug": "nova-y-va",
+  "title": "Nova y va",
+  "author": "Radio Nova",
+  "type": "podcast",
+  "categories": [
+    "musique",
+    "critique"
+  ],
+  "description": "Nos reportages sonores immersifs produits in situ pour faire vivre l'évènement comme si vous y étiez, avec entretiens, micro-trottoirs, musiques et ambiances.",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b6/c2/67/b6c26779-dcdd-4121-b6ba-662e2f9d0b99/mza_11654063369561722550.jpg/170x170bb.png",
+  "language": "fr",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/nova-y-va/id1682220779?uo=2",
+      "trackId": 1682220779,
+      "rating": 5.0,
+      "ratingCount": 2,
+      "episodeCount": null
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "musique",
+    "critique"
+  ],
+  "addedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "episodes_recents": [
+    {
+      "titre": "Nova Y Va : La Mort du Môme à La Colline - théâtre national",
+      "date": "2026-11-03"
+    },
+    {
+      "titre": "Nova Y Va : au Cube Garges",
+      "date": "2026-10-28"
+    },
+    {
+      "titre": "Nova Y Va : à \"Mon premier Festival\"",
+      "date": "2026-10-23"
+    },
+    {
+      "titre": "Nova Y Va : à l'exposition \"Semons nos résistances\" au Maif Social Club",
+      "date": "2026-10-20"
+    },
+    {
+      "titre": "Nova Y Va : à l'expo \"Frontière\" à la Cité des sciences et de l'industrie",
+      "date": "2026-09-28"
+    }
+  ],
+  "derniere_activite": "2026-11-03",
+  "frequence_jours": 8
+}

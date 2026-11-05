@@ -49,25 +49,29 @@
   "derniere_activite": "2026-07-10",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-06",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "tokangel",
+        "titre": "Génial",
+        "texte": "L’histoire d’Elon Musk est fascinante ! Petite suggestion: + s’attarder sur son impact actuel avec des données chiffrées plus concrètes plutôt que sur son enfance. Sinon, format génial, j’ai dévoré les 4 épisodes ! Merci 🤗"
+      },
+      {
+        "note": 1,
+        "auteur": "ElPanda313",
+        "titre": "Bien au début…",
+        "texte": "Quand le podcast était orienté biopic c’était super ! Maintenant ce n’est que des brèves de 2 min sur l’actu tech, comme il en existe beaucoup d’autre :/"
+      },
+      {
+        "note": 5,
+        "auteur": "Jerem_acg",
+        "titre": "Intéressant !",
+        "texte": "Podcast très intéressant, je recommande vivement. Personnellement je l’écoute en voiture et en apprends tous les jours sur ces personnes qui ont bâti ces empires ! Un grand merci pour ce travail !"
+      }
     ]
   }
 }

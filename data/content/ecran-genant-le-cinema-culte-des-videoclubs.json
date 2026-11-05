@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-07-05",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-05",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "FooJane",
+        "titre": "Kumite !",
+        "texte": "Je suis venue pour les films de mes années teens, je suis restée pour les points fashion et doublage, le Bechdel test, le slip de JCVD, et les crises de fou rire. Wish list : Road House - Le pacte des Loups - Subway - Splash - Practical Magic - Speed."
+      },
+      {
+        "note": 5,
+        "auteur": "sebrouxxx",
+        "titre": "Le plaisir",
+        "texte": "Enfin un podcast qui remplace fort avantageusement 2HDP. Des potes, des vrais.es, sans une once de ton pédant et de boboitude qui polluent la podcast sphère ciné hexagonale. Merci!"
+      },
+      {
+        "note": 5,
+        "auteur": "20ABlulaLu",
+        "titre": "Excellent !!",
+        "texte": "Revivre des films qu’on aurait même pas pensé se reprogrammer à la télé (sachant qu’après l’écoute on a ENVIE de se les reprogrammer !) NDLR : The Doom Generation ?!? Soon ?!?"
+      }
+    ]
+  }
 }
