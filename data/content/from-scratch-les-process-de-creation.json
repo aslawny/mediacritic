@@ -50,5 +50,25 @@
     }
   ],
   "derniere_activite": "2024-07-25",
-  "frequence_jours": 27
+  "frequence_jours": 27,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Yayayouyou",
+        "titre": "Un moment agréable",
+        "texte": "On ne voit pas le temps passer quand on écoute un épisode. Les invité.e.s sont intéressant.e.s. J’apprends plein de choses 🤩"
+      },
+      {
+        "note": 5,
+        "auteur": "82bil",
+        "titre": "Dans le mouv",
+        "texte": "J apprends beaucoup à chaque épisode. Belle découverte. Toujours très intéressant et bien mené. Bravo et continue"
+      }
+    ]
+  }
 }

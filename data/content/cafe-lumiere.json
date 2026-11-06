@@ -49,5 +49,25 @@
     }
   ],
   "derniere_activite": "2026-08-05",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Ween0678",
+        "titre": "Super 🤩",
+        "texte": "Merci Lucie pour ton partage. C’est un vrai plaisir de te suivre en podcast, dans un format plus long. J’apprécie particulièrement ces épisodes qui permettent d’aller davantage au fond des sujets."
+      },
+      {
+        "note": 5,
+        "auteur": "Mtnael",
+        "titre": "Merci",
+        "texte": "J’ai adoré cette épisode 🥰 Et moi j’aime bien les 45 min lol ✨"
+      }
+    ]
+  }
 }

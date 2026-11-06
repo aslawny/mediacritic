@@ -50,25 +50,29 @@
   "derniere_activite": "2020-05-09",
   "frequence_jours": 2,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "benoit-28",
+        "titre": "Intéressant",
+        "texte": "Évidemment tout n'est pas forcément convaincant. Le recours au mot \"complot\" est de mon point de vue abusif, puisque les faits rapportés évoquent plutôt un problème de lâcheté et de bêtise de nos dirigeants.…"
+      },
+      {
+        "note": 5,
+        "auteur": "French onion lover",
+        "titre": "Un regard nouveau et sourcé",
+        "texte": "Des actualités sur la géopolitique, les orientations politiques de l'Europe et des entretiens périodiques très complets. Vaut l'écoute ne serait-ce que pour une vision plurielle de l'Union européenne."
+      },
+      {
+        "note": 5,
+        "auteur": "Bajnoun",
+        "titre": "Frexit ecologique",
+        "texte": "Sujet très intéressant et apparemment bien maîtrisé!l’écoute legerement désagréable (des pauses toutes les 3 secondes et manque d’articulation ) !!bravo tout de même pour ce travail !!"
+      }
     ]
   }
 }

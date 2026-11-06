@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-15",
-  "frequence_jours": 20
+  "frequence_jours": 20,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "arteplan",
+        "titre": "Bravo!",
+        "texte": "Chère Lili, Merci pour ce témoignage très pro et en même temps très intime!!! C’est intéressant de connaitre les parcours…Avec du recul, je trouve que l’on comprend que les choses se sont enchainées pas complétement par Hazard… Il y a toujours une part d’inconnu mais aussi on pro…"
+      },
+      {
+        "note": 5,
+        "auteur": "terredesienne_ab",
+        "titre": "Bravo pour ce podcast !",
+        "texte": "Bienvenue à ce podcast qui résonne déjà avec puissance. Quel beau parcours où il est si juste et si sage de se rappeler que rien arrive par hasard et que chaque expérience prend une place de choix dans la construction d’une vie.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Sébastien Gafari",
+        "titre": "Everything happens for a story",
+        "texte": "De magnifiques rencontres qui nous ouvrent le cœur et l’esprit. Merci Lili de faire résonner et connecter les histoires de chacun.e.s"
+      }
+    ]
+  }
 }

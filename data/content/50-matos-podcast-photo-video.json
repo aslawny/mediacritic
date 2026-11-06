@@ -51,25 +51,29 @@
   "derniere_activite": "2026-07-03",
   "frequence_jours": 21,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "NicolasD08",
+        "titre": "Bravo",
+        "texte": "Je prends énormément de plaisir à suivre tes vidéos, propriétaire d’un R6 depuis bientôt 2 ans suite à ton test de l’époque pourtant pas si lointaine. A présent c’est avec un impensable plaisir de te retrouver sous ce nouveau format complémentaire et riche en possibilités.…"
+      },
+      {
+        "note": 5,
+        "auteur": "un videaste pro",
+        "titre": "Merci Damien !",
+        "texte": "Ça fait plaisir de voir tes contenus débarquer en podcast ! J’aime beaucoup tes reviews YouTube (je suis vidéaste pro), et j’écoute pas mal de podcasts pendant mes déplacements. Simplement l’écoute du pilote pour ma part et c’est déjà excellent 🤣🤷‍♂️.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Panouk",
+        "titre": "J’avais un doute sur le format long",
+        "texte": "Le doute est levé après quelques minutes, je suis accroché et ce sera un rendez-vous très intéressant lors de ma pause repas. Toujours dans le bon ton et la qualité, pertinence et invité sont des ingrédients qui proposent un podcast passionnant. Je valide."
+      }
     ]
   }
 }

@@ -51,25 +51,23 @@
   "derniere_activite": "2026-09-04",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Saab-v",
+        "titre": "Essentiel",
+        "texte": "Ce podcast devrait être au programme à l’école et sur des chaînes de grandes écoutes … un bonheur de vous écouter"
+      },
+      {
+        "note": 5,
+        "auteur": "Adra75!",
+        "titre": "Heureuse",
+        "texte": "Heureuse d’être tombée par hasard sur vos podcast et d’en tirer de très conclusions. Merci"
+      }
     ]
   }
 }

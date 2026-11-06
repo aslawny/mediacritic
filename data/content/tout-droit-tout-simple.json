@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-09-23",
-  "frequence_jours": 35
+  "frequence_jours": 35,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "SOSLY31",
+        "titre": "Incontournable",
+        "texte": "Quelle belle découverte! Ce podcast répond à deux de mes exigences : Se former et connaître l’évolution des conditions d’exercice des métiers du droit, Écouter un contenu riche et varié mais toujours rigoureusement délivré (comme les métiers du droit savent le faire).…"
+      },
+      {
+        "note": 5,
+        "auteur": "john34090",
+        "titre": "Merci Delphine!",
+        "texte": "Merci Delphine pour ce podcast que je trouve très inspirant ! Les épisodes « booster sa carrières » sont géniaux ! Je l’écoute tous les jours en voiture depuis quelques mois et je ne m’en passe plus."
+      },
+      {
+        "note": 5,
+        "auteur": "Laure Montpellier",
+        "titre": "Le monde du droit bouge !",
+        "texte": "Ce podcast passionnant m’a permis de découvrir les nouveaux métiers du droit. Cela ouvre pleins de pistes de développement pour les juristes et les avocats. Bravo ! Laure Avocatshakeup"
+      }
+    ]
+  }
 }

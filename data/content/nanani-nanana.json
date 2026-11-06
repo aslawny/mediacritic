@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-06-08",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "88ano88",
+        "titre": "Le meilleur podcast à la cool",
+        "texte": "Je suis fan de ses blagues sur scène, je suis fan de la personne en vrai et je suis fan du podcast 😍 un vrai podcast à la cool qui fait rire 🫶"
+      },
+      {
+        "note": 5,
+        "auteur": "Aljosha",
+        "titre": "Des barres",
+        "texte": "Je rigole beaucoup trop fort et beaucoup trop tout seul dans la rue ou les transports. Mentions spéciales à Ghislain et Mathis."
+      },
+      {
+        "note": 5,
+        "auteur": "PepeSuperCon",
+        "titre": "Incroyab",
+        "texte": "On entre vraiment dans la tête d’Anninka et spoiler : c’est le bordel. Mais qu’est ce que je ris…!"
+      }
+    ]
+  }
 }

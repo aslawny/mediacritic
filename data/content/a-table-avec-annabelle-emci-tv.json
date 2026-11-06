@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-28",
   "frequence_jours": 2,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mel.Mika",
+        "titre": "Très édifiant et je recommande à 100%",
+        "texte": "Je rends grâce à Dieu pour ce programme qui est juste incroyable. Je suis tellement bénie et c’est mon RDV à ne jamais manquer. Merci pour votre engagement et pour les invités du jour qui sont très inspirants.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Virghoo",
+        "titre": "Podscasts édifiants💛",
+        "texte": "Je recommande🌷, Des conversations édifiantes et profondes ancrées sur LA FOI💛! Je le partage et repartage tjr à mes amies🌷."
+      },
+      {
+        "note": 5,
+        "auteur": "Key.agt5",
+        "titre": "Je recommande !",
+        "texte": "Un podcast amical et édifiant, en toute authenticité ✨ Merci pour ces moments et pour ces paroles"
+      }
     ]
   }
 }

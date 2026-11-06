@@ -53,21 +53,27 @@
   "frequence_jours": 3,
   "avis_publics": {
     "source": "apple",
-    "boutique": "be",
+    "boutique": "fr",
     "tri": "mosthelpful",
-    "releve": "2026-09-07",
+    "releve": "2026-11-06",
     "extraits": [
       {
         "note": 5,
-        "auteur": "Jam Bs",
-        "titre": "Super podcast",
-        "texte": "Votre podcast est super enrichissant. En vous écoutant je m’évade … continuez à nous enrichir"
+        "auteur": "andy12357899",
+        "titre": "Retour très positif",
+        "texte": "Bonjour à tous. J’ai connu Dialogue par Fabrice Midal au hasard dans les fils d’actualité maintenant je m’en lasse pas , je suis vraiment impressionné par votre talent c’est incroyable comment vous gérez tout avec autant des calme je suis vraiment reconnaissante de votre travail…"
+      },
+      {
+        "note": 1,
+        "auteur": "Berton Jérôme",
+        "titre": "Pour monsieur Bolloré",
+        "texte": "Même en admettant qu’un ordre rationnel existe, rien ne permet d’en déduire qu’il doit provenir d’un Dieu particulier, encore moins du Dieu d’une tradition religieuse donnée. L’argument saute des étapes cruciales.…"
       },
       {
         "note": 5,
-        "auteur": "Fouax",
-        "titre": "à réécouter",
-        "texte": "Belle découverte que j’écoute sans cesse. Inspirant et aidant !"
+        "auteur": "Jaëlle MBONGO",
+        "titre": "Un podcast qui fait du bien à l’âme.",
+        "texte": "Chaque épisode de Dialogue est un moment suspendu. Fabrice Midal a cette capacité unique à créer un espace de réflexion intime, sensible et profondément humain.…"
       }
     ]
   }

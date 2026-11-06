@@ -53,25 +53,29 @@
   "derniere_activite": "2026-08-12",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Chacha treb",
+        "titre": "Cool",
+        "texte": "Trop bien continue Lena .En tant que vlogos je te connais grâce à ma sœur qui te suit depuis longtemps.Mais j’ai vu que que la saison 9 mais maintenant que j’ai vu la saison je t’adore 😍 tu es trop belle avec tes cheveux bouclés.mais tu es tellement connu que tu es dans des docum…"
+      },
+      {
+        "note": 1,
+        "auteur": "Lola Ro87",
+        "titre": "Aucun intérêt",
+        "texte": "Léna fait malheureusement les questions et les réponses en s’écoutant parler."
+      },
+      {
+        "note": 5,
+        "auteur": "@jamesclawd",
+        "titre": "From Lookbook to Interview with Rihanna LA FOLAKSSS !!",
+        "texte": "Mes deux motivations dans la vie réunis, l’une qui m’a bercé dans les Caraïbes, m’a permis d’avoir confiance en moi, me donne la force de briser les portes.…"
+      }
     ]
   }
 }

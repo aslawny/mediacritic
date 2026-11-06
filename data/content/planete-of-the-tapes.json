@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-12",
-  "frequence_jours": 4
+  "frequence_jours": 4,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Letellier",
+        "titre": "De vrais moments de partage entre amoureux du cinéma",
+        "texte": "Podcast qui est un véritable moment de partage entre amoureux(-ses) du cinéma. Qui plus est, les films abordés sont parfois des métrages généralement moins souvent évoqués ce qui permet de belles découvertes.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Un daron de daron",
+        "titre": "Le No118",
+        "texte": "Bravo pour ce moment vrai et beau des accompagnants, proches et aimants de personnes en souffrances médicales chroniques. Beau et émouvant."
+      },
+      {
+        "note": 5,
+        "auteur": "kamatonojumi",
+        "titre": "👍",
+        "texte": "Ça s’écoute bien qu’on soit en voiture ou en plein rangement et ça donne des idées de films à regarder 👍"
+      }
+    ]
+  }
 }

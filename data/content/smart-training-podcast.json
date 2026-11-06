@@ -48,5 +48,25 @@
     }
   ],
   "derniere_activite": "2026-09-10",
-  "frequence_jours": 27
+  "frequence_jours": 27,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "honnete homme",
+        "titre": "RS",
+        "texte": "où est ce qu’on peut te retrouver sur les réseaux ? je suis étudiant en eops à Brest ça m’intéressait si un jour on parle de PP"
+      },
+      {
+        "note": 5,
+        "auteur": "Sam alias Smart Training",
+        "titre": "Réponse",
+        "texte": "Salut, tu peux me retrouver sur Instagram sous le SmartTraining.fr ! Merci pour ton retour et au plaisir d’échanger avec toi."
+      }
+    ]
+  }
 }

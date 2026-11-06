@@ -51,25 +51,29 @@
   "derniere_activite": "2026-08-19",
   "frequence_jours": 8,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Garylovely",
+        "titre": "Merciiiii !!!",
+        "texte": "Jeaaaann , merciiiiii pour Bruce Lee , je vous aime, et j’aime votre père à la folie , et Philippe 007 bond !! J’ai toujours rêvé de poser une question à Jean votre père. Une scène culte dans la chèvre n’a jamais été mentionné dans vos podcast …"
+      },
+      {
+        "note": 5,
+        "auteur": "aure2002",
+        "titre": "Et au final «there can be only one »",
+        "texte": "Je suis abonné à énormément de podcast cinéma , en français en anglais je n’écoute à peu de chose près que ça. Si au début j’ai eu un peu de mal c’est désormais mon podcast cinéma préféré, notre hôte est délicieux et érudit, ses amis le complètent remarquablement.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Jejero37",
+        "titre": "Une belle exploration cinématographique",
+        "texte": "On passe de très bons moment à écouter tous ces épisodes à propos de films cultes avec nombre d’anecdotes et une vision à la fois de fan et de spécialiste.…"
+      }
     ]
   }
 }

@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-26",
   "frequence_jours": 2,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "i_am_the_stig",
+        "titre": "Très bonne approche",
+        "texte": "Je découvre ce podcast avec l’interview de Jean-François Bandet. C’était un vrai régal. Certes, c’est parce que lui-même est un entrepreneur génial, mais aussi parce que la manière dont Matthieu Laulan mène l’interview avec des questions orientées sur la psychologie et le ressent…"
+      },
+      {
+        "note": 2,
+        "auteur": "Bidourick",
+        "titre": "Qualité inégale des invités",
+        "texte": "Je viens de me fader les 30 premières minutes de l’interview de Thibault Louis, c’est consternant; le gars n’aligne pas une phrase qui comporte au minimum sujet-verbe-complément et affiche une vacuité d’arguments.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Sara - Green my Voyage",
+        "titre": "J’adore !!!",
+        "texte": "J’ai découvert à poil et sans filet et juste j’adore ! On parle ENFIN entrepreneurs, business, développement personnel, enfin un podcast dans lequel je me sent identifiée. Un grand merci ⭐️"
+      }
     ]
   }
 }

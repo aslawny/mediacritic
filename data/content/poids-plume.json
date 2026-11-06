@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2025-04-21",
-  "frequence_jours": 81
+  "frequence_jours": 81,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "obiwanstef",
+        "titre": "Rafraîchissant et techniquement au top...",
+        "texte": "Un podcast rafraîchissant et un son au top , ce qui ne gâche rien, bien au contraire . on sent l’envie de bien faire tant au niveau technique qu’au niveau humain .…"
+      },
+      {
+        "note": 5,
+        "auteur": "Amaublive",
+        "titre": "La culture au bon format",
+        "texte": "Intéressant format proposé par Charlotte et Alexandre aidés de leurs invités. Le podcast est bien réalisé avec un son de qualité, ça c’est pour la partie technique.…"
+      },
+      {
+        "note": 5,
+        "auteur": "FrenchVal",
+        "titre": "Une interview très didactique et enrichissante !",
+        "texte": "Je m’intéresse aux thématiques environnementales sans y être formé. La jeune femme interviewée nous apporte énormément d’infos de façon très digeste. L’animateur est calme, ne coupe jamais la parole et relance intelligemment la conversation, sans voler la vedette à l’invitée.…"
+      }
+    ]
+  }
 }

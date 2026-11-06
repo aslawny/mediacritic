@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-06-10",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "MaellouC",
+        "titre": "Un premier épisode touchant qui fait du bien à écouter",
+        "texte": "Une présentation, une reconversion, un attraie pour cette pratique qui est le yoga et cette spécialisation vers le trauma. Comme tu le dis si bien c’est un mot qu’on n’aime pas utiliser et pourtant… En parler nous aiderait tellement à accepter.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Coraline F",
+        "titre": "Du baume au cœur",
+        "texte": "Merci Tifanny pour ce merveilleux podcast ! Ton approche est fluide et unique, elle m’aide beaucoup. J’arrive mieux à comprendre comment donner de l’écoute à mes sensations grâce à tes éclairages, notamment l’épisode 65, et cela me fait beaucoup de bien. Mille mercis"
+      },
+      {
+        "note": 5,
+        "auteur": "Ram Savar",
+        "titre": "Merci et encouragements",
+        "texte": "Bonjour je suis enseignante de yoga aussi et je suis en train de lire le corps n’oublie rien de Bessel Van der Kolk… ton épisode sur le trauma et système nerveux m’a ravie; clair et accessible. Bravo! Belle continuation à toi. Anna"
+      }
+    ]
+  }
 }

@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-09-10",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mz.Ele",
+        "titre": "Super Podcast",
+        "texte": "Un Podcast à l’écriture efficace et pertinente. Chaque épisode est intéressant et permet d’en apprendre plus sur le fonctionnement du monde et de nos sociétés. A écouter sans modération!"
+      },
+      {
+        "note": 5,
+        "auteur": "Mmmmmmmaaaaaaaag",
+        "titre": "Très bon podcast !",
+        "texte": "Les sujets sont biens choisis et l’angle avec lequel ils sont abordés est original. À écouter et réécouter !"
+      },
+      {
+        "note": 5,
+        "auteur": "Audrey Goss",
+        "titre": "Bravo pour l’enquête sur les invaders !",
+        "texte": "Super cette série sur la recherche des spaces invaders disparus à Genève ! Enquête passionnante"
+      }
+    ]
+  }
 }

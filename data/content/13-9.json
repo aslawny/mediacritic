@@ -52,25 +52,29 @@
   "derniere_activite": "2026-01-05",
   "frequence_jours": 56,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "JohnDoe3545",
+        "titre": "Sympa l’argent publique",
+        "texte": "Cette arnaque intellectuelle répétée en boucle alors que des études sérieuses comme dans The Economist démontent par les faits cette histoire."
+      },
+      {
+        "note": 1,
+        "auteur": "Nino42x",
+        "titre": "Bouffons",
+        "texte": "Arrêtez de vous branler à longueur de journée avec nos billets."
+      },
+      {
+        "note": 5,
+        "auteur": "Le gamer du 31",
+        "titre": "Très bon podcast",
+        "texte": "Très bon podcast qui met en lumière un sujet essentiel qui nous touche toutes!!"
+      }
     ]
   }
 }

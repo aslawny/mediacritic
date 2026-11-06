@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-24",
   "frequence_jours": 4,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Alanovitch007",
+        "titre": "Un podcast plein de soleil!",
+        "texte": "Un podcast frais, intelligent, plein de saveurs Italiennes à découvrir à chaque épisode. Claire est d’une spontanéité et d’une fraîcheur exceptionnelle qui fait du bien à écouter.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Citronetbergamote",
+        "titre": "À écouter sans modération !",
+        "texte": "Quel plaisir de voyager en Italie avec vos invités et de voir il Bel Paese sous toutes ses facettes cachées, intimes et enthousiasmantes ! On a envie d’entendre en boucle ces voix chantantes tellement vos interviews sont passionnantes et charismatiques.…"
+      },
+      {
+        "note": 5,
+        "auteur": "DenisR50",
+        "titre": "De merveilleux podcasts de l’Italie. Bravo Claire !",
+        "texte": "Un voyage vocal à travers l’Italie avec des invités amoureux de ce pays. Claire nous donne envie de découvrir cette botte avec une joie de vivre, une voie chaleureuse et des références qui nous font rêver de partir dans ces villes Italiennes. On adore ! On recommande …"
+      }
     ]
   }
 }

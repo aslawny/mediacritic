@@ -50,5 +50,25 @@
     }
   ],
   "derniere_activite": "2026-09-18",
-  "frequence_jours": 30
+  "frequence_jours": 30,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "🍒𝑡𝑢𝑡𝑡𝑖 - 𝑓𝑟𝑢𝑖𝑡𝑖 🍒",
+        "titre": "Coucou",
+        "texte": "C’est vraiment génial 👍🏻 + d’épisodes s’il vous plaît !!!!!! Je l’adore déjà"
+      },
+      {
+        "note": 4,
+        "auteur": "Pourti et moi",
+        "titre": "Merci Rémi",
+        "texte": "Ça a l’air d’être un bon podcast je vais essayer 🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️😎😎😎"
+      }
+    ]
+  }
 }

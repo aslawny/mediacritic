@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-04-23",
-  "frequence_jours": 15
+  "frequence_jours": 15,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "fannoche_13",
+        "titre": "Super contenu, super questions, je recommande",
+        "texte": "Podcast qui est devenu incontournable dans mes écoutes. Les invitées ont des récits souvent très intéressants, très bien racontés grâce aux questions pertinentes de Nelly. Je me sens inspirée et cela me donne plein d’idées/conseils à appliquer. A partager et pas qu’aux femmes 🤓"
+      },
+      {
+        "note": 5,
+        "auteur": "Reedz75006",
+        "titre": "Belle découverte",
+        "texte": "Podcast qui apporte des témoignages qui portent à réfléchir sur des concepts encrés dans notre société. Nelly nous aide à voir le monde avec un regard différent du pouvoir conjugué au féminin."
+      },
+      {
+        "note": 5,
+        "auteur": "Mrgaptuqi",
+        "titre": "Des femmes, des leadership",
+        "texte": "Ça fait du bien d’entendre autant de voix féminine sur leur vision du leadership et non pas du fameux leadership au féminin ! Merci beaucoup à toutes les femmes qui partagent leur vécu."
+      }
+    ]
+  }
 }

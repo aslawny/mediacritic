@@ -53,25 +53,29 @@
   "derniere_activite": "2026-08-05",
   "frequence_jours": 27,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pand03",
+        "titre": "Parfait pour comprendre ce qu’est le vin.",
+        "texte": "Un podcast clair et didactique, mais aussi très complet. Idéal pour initier le néophyte que je suis. Un moment agréable et très intéressant."
+      },
+      {
+        "note": 3,
+        "auteur": "MaximeBB88",
+        "titre": "Bof",
+        "texte": "Globalement c’est intéressant mais le point de vue est souvent un peu à l’ancienne… sans parler des remarques sexistes de certains intervenants !"
+      },
+      {
+        "note": 5,
+        "auteur": "LaurentD DAVID",
+        "titre": "Excellent",
+        "texte": "Profondeur des questions, des interviews bien préparées et menées avec la touche d’humour et de sourire qui va bien"
+      }
     ]
   }
 }

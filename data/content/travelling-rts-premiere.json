@@ -45,5 +45,31 @@
     }
   ],
   "derniere_activite": "2026-09-20",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Kenny Vaudois",
+        "titre": "Agréable et intéressant",
+        "texte": "Merci pour ce merveilleux podcast axé sur le cinéma que j’écoute dans les transports. Il permet de (re)découvrir des films sous l’angle de la réalisation, la production et l’exploitation.…"
+      },
+      {
+        "note": 5,
+        "auteur": "STEFfromANNECY",
+        "titre": "TRAVELLINGMENT BON",
+        "texte": "L’emission qu’il faut écouter pour tout amoureux de cinema. On se laisse emporter par la magnifique façon de conter de Catherine Fattebert qui nous dévoile toutes les anecdotes et secrets de tournage avec extraits et archives.…"
+      },
+      {
+        "note": 5,
+        "auteur": "jchirac",
+        "titre": "Bonne idée mais très mal traitée...émission pas structurée",
+        "texte": "L idée est bonne mais le sujet est toujours mal traité. L animatrice ne cesse de se répéter et son exposé reste souvent brouillon et le récit manque visiblement d un plan structuré . L ajout musical n a souvent aucun rapport avec le sujet et le film en question."
+      }
+    ]
+  }
 }

@@ -53,25 +53,29 @@
   "derniere_activite": "2026-08-23",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ÉcArlAtA",
+        "titre": "Trop mimi",
+        "texte": "J’adore trop c’est trop mignon ça explique pour les enfants qui sont en maternelle comment ça se passe🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍"
+      },
+      {
+        "note": 1,
+        "auteur": "Waters911",
+        "titre": "Des pub des pubs des pubs",
+        "texte": "Franchement nul C’est des histoires ultras courtes et des pubs en continu Nul"
+      },
+      {
+        "note": 5,
+        "auteur": "zsuebfjbrkakabd",
+        "titre": "Super chouette ! Ma fille est fan !",
+        "texte": "En revanche mega bemol sur les pub pour podcast d adultes en debut d episode…. C est déplacé, les sujets traités n ont rien a voir avec Blou et une audience de maternelle …"
+      }
     ]
   }
 }

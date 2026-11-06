@@ -52,25 +52,29 @@
   "derniere_activite": "2026-04-29",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "-Laurine-",
+        "titre": "Podcast très interessant",
+        "texte": "Vraiment très bien présenté, on en apprend plus sur ces histoires dont on avait entendu parler et c’est très interessant d’écouter les discours des journalistes. Merci La Voix du Nord !"
+      },
+      {
+        "note": 5,
+        "auteur": "lilasdel",
+        "titre": "top",
+        "texte": "le ton est simple et concis, de plus avoir un suivi des dossiers est très intéressant."
+      },
+      {
+        "note": 5,
+        "auteur": "RafffaL",
+        "titre": "👍",
+        "texte": "Saisissant de se replonger dans cette histoire sordide qui a marqué le Nord...."
+      }
     ]
   }
 }

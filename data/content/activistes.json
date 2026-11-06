@@ -49,25 +49,29 @@
   "derniere_activite": "2021-07-27",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Elfishs",
+        "titre": "Superbe début !",
+        "texte": "Je suis extrêmement satisfait de la première invitée ! J’en suis encore tout joie de vous avoir écouté. Une femme dans l’initiative et l’empathie, pionnière et surtout impertinente !! (oops wrong podcast lol) Sa vie et ses actions sont tellement inspirantes! Elle est clairement c…"
+      },
+      {
+        "note": 5,
+        "auteur": "ThierryKuoch",
+        "titre": "Acteurs du nouveau monde",
+        "texte": "Je viens de découvrir ce podcast, où Esther et Clemence, interviewent de manière legere et profonde des personnes engagées. Sur l'épisode sur l'exode urbain, j'ai beaucoup apprécié l'humilité et le militantisme de Claire Desmares: ainsi, elle invite chaque personne intéressée par…"
+      },
+      {
+        "note": 5,
+        "auteur": "AudreyH06",
+        "titre": "Un sans faute",
+        "texte": "J'ai écouté l'episode de Maia mazaurette et l'échange était vraiment tres intéressant. La journaliste est au top niveau question et vit vraiment le moment. L'invité avait une telle connaissance du sujet...…"
+      }
     ]
   }
 }

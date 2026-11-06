@@ -50,25 +50,29 @@
   "derniere_activite": "2026-04-06",
   "frequence_jours": 38,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "somax59",
+        "titre": "Dj HS birthday",
+        "texte": "Super sons merci à tous superbe soirée passée entre amies et avec les tops du tops pour les DJ même si il en manquez mais on peu pas tous au même endroits n est-ce pas 😂😂😂😂 continuez le plus longtemps possible à nous donnez dû sons de oufffff c’est ce l on adore 🥰🥰🥰🥰🥰🥰😘😘😘😘😘"
+      },
+      {
+        "note": 5,
+        "auteur": "Narutoxik",
+        "titre": "Ultime !!!!",
+        "texte": "Une chaîne de podcast par DJ HS !!! Évidemment 😁 Inutile de faire l’apologie du grand résidant du club LAGOA de Menen , grand temple du meilleur son belge !!! Toujours au top même après plus de 20 ans. Respect total 👊."
+      },
+      {
+        "note": 5,
+        "auteur": "Ju 62",
+        "titre": "Line up legend",
+        "texte": "Le titre de mon commentaire est juste, c’est vraiment incroyable d’entendre les anciens toujours aussi Terrible musicalement! La force est avec vous😜!"
+      }
     ]
   }
 }

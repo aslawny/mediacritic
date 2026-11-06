@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2026-08-29",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Dadou95",
+        "titre": "Merci pour le job",
+        "texte": "Très belle découverte depuis plusieurs semaines 🤩 Merci les intervenants de me faire vivre de façon hebdomadaire une passion que je ne peux plus regarder et de nouvelles fédérations Vous faites de votre mieux et merci pour ce superbe partage. Continuez 🙏🏾"
+      },
+      {
+        "note": 1,
+        "auteur": "AuthentikAMD",
+        "titre": "Bon podcast. Mauvaise qualité audio.",
+        "texte": "Bon podcast mais son relativement exécrable. Dommage. Les intervenants ont des connexions pourries et la qualité est donc horrible."
+      },
+      {
+        "note": 5,
+        "auteur": "Tompakk",
+        "titre": "j'adore",
+        "texte": "Je suis depuis quasiment le début , je préfère en podcast plutot que sur youtube . 5 étoiles pour vous soutenir ."
+      }
+    ]
+  }
 }

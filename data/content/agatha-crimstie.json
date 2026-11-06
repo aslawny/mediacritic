@@ -53,25 +53,29 @@
   "derniere_activite": "2026-08-26",
   "frequence_jours": 28,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "clement75011",
+        "titre": "À améliorer",
+        "texte": "Le rendez-vous est sympathique et animé avec bonne humeur mais la prise de son et le montage gagneraient à être améliorés. Le principe de l’invité pose question puisque souvent, selon les épisodes, celui-ci n’a pas lu le bon livre, ou n’a pas eu le temps de le finir quand il n’a…"
+      },
+      {
+        "note": 1,
+        "auteur": "domijean",
+        "titre": "Nullissime",
+        "texte": "Presentation par des adultes qui se congratulent et n intéressent pas. Puis lecture monotone digne d un élève de CM ."
+      },
+      {
+        "note": 5,
+        "auteur": "Halong3",
+        "titre": "Encore encore !",
+        "texte": "Fan d’Agatha depuis ma Jeunesse, je redécouvre son oeuvre grace à vous ! Mes traductions sont anciennes (du fameux Louis…) et du coup je vois certains romans d’un oeil nouveau. Votre approche est vraiment top …"
+      }
     ]
   }
 }

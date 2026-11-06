@@ -52,25 +52,29 @@
   "derniere_activite": "2026-07-03",
   "frequence_jours": 31,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "StephPelap",
+        "titre": "Un autre regard sur les chefs",
+        "texte": "J’ai connu le magazine sur Instagram, et on sent avec les interviews du podcast que ce sont des pro, une vraie conversation de passionnés de gastronomie !! On sort de l’anecdote classique que tout le monde connaît, on va chercher plus loin, la parole est libre, le ton est juste,…"
+      },
+      {
+        "note": 5,
+        "auteur": "Beetho14",
+        "titre": "À écouter sans modération...",
+        "texte": "Étant passionnée de cuisine et encore plus de gastronomie je ne peux que recommander ce superbe podcast dans lequel on (re)découvre des chefs connu mais en toute intimité parfois ! Merveilleusement intéressant et enrichissant, il nous appel à la gourmandise sans modération !"
+      },
+      {
+        "note": 5,
+        "auteur": "Boulytte",
+        "titre": "beau partage",
+        "texte": "Rendre accessible de tel témoignage bravo, sincérité, simplicité, pudeur, authenticité💕 génial ce modèle de podcast pour découvrir nos chefs étoilés et acteurs de la restauration"
+      }
     ]
   }
 }

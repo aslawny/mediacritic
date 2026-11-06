@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2022-07-01",
-  "frequence_jours": 18
+  "frequence_jours": 18,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "elagrum",
+        "titre": "Un podcast très amusant et instructif!",
+        "texte": "L'Ecole des FAQ est un podcast fort sympathique et amusant qui m’a fait beaucoup rire. Le podcast est très amusant et très drôle grâce à des blagues réussis et variées. Les chroniqueurs sont excellents, avec des rôles qui leur vont parfaitement bien.…"
+      },
+      {
+        "note": 5,
+        "auteur": "HermanMendes",
+        "titre": "L’école des foires aux questions",
+        "texte": "Alors ce sont des professeurs un peu geekos qui se réunissent en conseil de classe pour juger les élèves de l’Internet. Certains ne passeront pas la classe supérieure, et d’autres doivent cravacher après un seconde trimestre pas top pas top.…"
+      },
+      {
+        "note": 5,
+        "auteur": "LoïcG",
+        "titre": "Ces gens sont magiques",
+        "texte": "Quand les licornes d’internet (aka les startups) peinent à nous surprendre, il est bon de pouvoir se reposer sur des valeurs sûres. L’école des FAQ est l’une d’elles.…"
+      }
+    ]
+  }
 }

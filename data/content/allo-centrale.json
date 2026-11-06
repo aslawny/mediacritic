@@ -48,25 +48,29 @@
   "derniere_activite": "2023-03-22",
   "frequence_jours": 41,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "jrondoudou",
+        "titre": "Génial",
+        "texte": "Je me rend compte que je n’ai jamais mis de note ni d’avis... voila c’est résolu ! (Merci le concours 😂) Bref, j’écoute depuis le tout début cette émission et j’adore.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Falcon_48",
+        "titre": "La culture, TOUTE la culture",
+        "texte": "Une émission qui parle de culture sur presque toutes les formes, du coup ça fait que chaque émission est unique. Bravo à l'équipe, aux chroniqueurs, chacun a sa personnalité ce qui apporte une couleur à chaque épisode."
+      },
+      {
+        "note": 5,
+        "auteur": "Éric le loup",
+        "titre": "Une super équipe ❤️",
+        "texte": "C’est un super podcast pour une super ambiance. Découvert grâce au prolifique Tmdjc, je ne loupe pas un épisode de ce podcast doudou."
+      }
     ]
   }
 }

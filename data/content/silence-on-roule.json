@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-18",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "GilouGilou",
+        "titre": "Excellent podcast",
+        "texte": "Très clair et très intéressant podcast Très bien documenté et d’excellente Qualité technique Nous avons en France un tel retard par rapport au Québec sur la prise de conscience de l’importance de migrer vers le véhicule électrique Félicitations au présentateur très motivé et mode…"
+      },
+      {
+        "note": 5,
+        "auteur": "JozPir",
+        "titre": "un excellent podcast sur la mobilité électrique",
+        "texte": "je vous écoute depuis Biarritz, et j'ai beaucoup de plaisir à vous suivre car je trouve vos informations et vos commentaires très intéressant très pertinent et surtout très encourageant. À très bientôt et bonne continuation."
+      },
+      {
+        "note": 5,
+        "auteur": "Mlgdrugby",
+        "titre": "Excellent",
+        "texte": "Merci de votre enthousiasme et de la qualite de vos sujets. Tres instructif meme de l autre cote de l atlantique. A dans deux semaines"
+      }
+    ]
+  }
 }

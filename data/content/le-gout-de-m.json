@@ -28,25 +28,29 @@
   "addedAt": "2026-06-06",
   "updatedAt": "2026-11-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Emma Barbera",
+        "titre": "Un rituel hebdomadaire",
+        "texte": "Excellent podcast que j’écoute chaque semaine. Son écoute est devenue un rituel du samedi matin que j’attends à chaque fois avec impatience. Je découvre parfois certaines personnalités que je ne connaissais pas.…"
+      },
+      {
+        "note": 1,
+        "auteur": "mnoyer",
+        "titre": "Un abonnement Podcasts ?",
+        "texte": "J’adorais vous écouter... vraiment dommage qu’on ne puisse pas avoir un abonnement dédié seulement aux podcats. Pouvez vous remédier à cela ?"
+      },
+      {
+        "note": 5,
+        "auteur": "Carophilos",
+        "titre": "Belles découvertes",
+        "texte": "Découvert au hasard de mes recherches, je suis devenu un inconditionnel. On pourra critiquer la répétition des questions mais quand elles sont bonnes, pourquoi les abandonner? Dommage que chaque épisode ne se déroule pas dans le domicile de la personnalité, car cela crée une atmo…"
+      }
     ]
   },
   "episodes_recents": [

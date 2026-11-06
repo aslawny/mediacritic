@@ -26,25 +26,29 @@
   "addedAt": "2026-06-15",
   "updatedAt": "2026-11-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "mariedemontpellier",
+        "titre": "Mon RV culte du dimanche matin !",
+        "texte": "Mon rayon de soleil de BroadWay du dimanche matin depuis des années encore plus réconfortant en cette période ! Avec aussi la lumière sur ce qui se fait ici, the show keeps going on, thank you so much dear Laurent!"
+      },
+      {
+        "note": 5,
+        "auteur": "FFZ Z.",
+        "titre": "Excellent !",
+        "texte": "Emission sublime pour qui apprécie les comédies musicales ! Chapeau à l'équipe ! L'épisode à Londres avec Grease a capella : fantastique ! Encore Bravo !"
+      },
+      {
+        "note": 5,
+        "auteur": "marydubac",
+        "titre": "Super Découverte",
+        "texte": "Cela fait seulement quelques semaines que j’ai découvert 42ème rue. J’en suis Ravie !!!! Les comédies musicales Hollywood j’adore !!! Émission superbe"
+      }
     ]
   }
 }

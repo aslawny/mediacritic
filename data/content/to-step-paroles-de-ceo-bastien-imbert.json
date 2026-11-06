@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2020-05-20",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Hugo-VH",
+        "titre": "Un podcast au top sur l’entrepreneuriat et les Startups",
+        "texte": "J’adore ce podcast ! Je découvre des superbes Startups et les retours d’expériences de plein de fondateurs ! J’ai adoré l’épisode sur Ralph ! L’angle des interviews est top et permet de comprendre en profondeur l’état d’esprit des fondateurs et leurs visions 👌🏻 Continuez comme ça…"
+      },
+      {
+        "note": 5,
+        "auteur": "Viewlz",
+        "titre": "La clé pour tous !",
+        "texte": "Des podcast de très bonne qualité, autant dans le fond que la forme. Les vocaux sont net et bien montés. Chaque thèmes de podcast sont de nouveaux projets à découvrir, et c’est très fort prenant d’écouter et d’apprendre l’histoire de tous !"
+      },
+      {
+        "note": 5,
+        "auteur": "Nicolas Naker.io",
+        "titre": "L'entrepreneuriat pour tous!",
+        "texte": "Un super podcast sur des profils d'entrepreneurs early stage qui parlent simplement de leur démarche et démystifient le \"grand saut\" de l'entrepreneuriat. Au top!"
+      }
+    ]
+  }
 }

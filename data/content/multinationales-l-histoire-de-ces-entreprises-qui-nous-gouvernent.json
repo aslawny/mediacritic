@@ -22,5 +22,31 @@
   "tags": [
     "histoire"
   ],
-  "updatedAt": "2026-11-04"
+  "updatedAt": "2026-11-04",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Bertrand 75/44",
+        "titre": "Émissions d’intérêt public universel",
+        "texte": "Merci pour ces enquêtes qui mériteraient de faire l’objet de débats parlementaires pour inciter nos hommes et femmes politiques à se positionner et à proposer des programmes face aux enjeux mis en exergue."
+      },
+      {
+        "note": 1,
+        "auteur": "jean VII",
+        "titre": "Ce cher service public",
+        "texte": "Sur le papier cela sentait bon le super podcast, et puis la dominance réflexive de gauche de notre cher service public reprend le dessus… La moitié de l’épisode a pointer les côtés négatifs d’entreprise qui même si elles sont capitalistes et ne collent pas avec le dogme des média…"
+      },
+      {
+        "note": 5,
+        "auteur": "Carophilos",
+        "titre": "Éclairant",
+        "texte": "Des reportages rythmés et bien documentés qui nous apportent un éclairage intéressant sur ces multinationales si présentes mais si méconnues."
+      }
+    ]
+  }
 }

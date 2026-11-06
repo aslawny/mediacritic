@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-07",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Gilberte from Montelo",
+        "titre": "Très intéressant",
+        "texte": "Je ne manque pas un épisode ! Ceux sur le café et le vin étaient super. Et là le chocolat ça donne envie de consommer différemment !"
+      },
+      {
+        "note": 5,
+        "auteur": "Churchill à Paris",
+        "titre": "J’adore",
+        "texte": "Chaque semaine j’en apprends sur l’entrepreneuriat. Je vais écouter les versions sur la guestlist pour les thématiques !"
+      },
+      {
+        "note": 5,
+        "auteur": "Alex paris #",
+        "titre": "Super inspirant",
+        "texte": "À chaque fois on apprend des trucs et on découvre des supers projets merci !"
+      }
+    ]
+  }
 }

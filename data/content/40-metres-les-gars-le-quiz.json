@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2025-12-24",
-  "frequence_jours": 8
+  "frequence_jours": 8,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Titanro",
+        "titre": "Merci !",
+        "texte": "Bonjour à tous deux ! Heureux de vous voir de retour après ces quelques mois ! Toujours d’excellentes questions dans une ambiance incroyable ! Votre joie de vivre transparaît dans chaque épisode Totalement pour le fait d’avoir 5 épisodes courts par semaines si ça ne vous rajoute…"
+      },
+      {
+        "note": 5,
+        "auteur": "NRJpower77",
+        "titre": "40 raisons d’écouter ce podcast (mais en 5 termes)",
+        "texte": "J’ai vu qu’on pouvait laisser un message, bon grâce à vous : 1) ma femme est accroc 2) j’ai cherché Perlembourg sur Google 3) j’ai le rire de Charly en boucle dans mon cerveau 4) j’ai raté plusieurs sorties d’autoroute à force de rire 5) j’attends toujours d’être contacté pour pa…"
+      },
+      {
+        "note": 5,
+        "auteur": "Krol9",
+        "titre": "Drôle et ludique",
+        "texte": "On rit, on creuse dans nos connaissances (ou nos non connaissances), on apprend et on rit à nouveau. Parfait pour passer un bon moment de détente en se cultivant en toute simplicité !"
+      }
+    ]
+  }
 }

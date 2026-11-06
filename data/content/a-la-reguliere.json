@@ -26,25 +26,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-11-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Yannick 83210",
+        "titre": "À écouter et à réécouter",
+        "texte": "J’ai découvert Mehdi à travers le mousecast ( recommandation du feu floodcast ) Un rendez-vous essentiel à ma semaine d’homme de 50 ans Je ne suis pas particulièrement fan de rap mais après tout la culture est partout et puis s’ouvrir à autre chose évite de devenir un vieux con a…"
+      },
+      {
+        "note": 2,
+        "auteur": "Védi",
+        "titre": "Copie de Blockbuster",
+        "texte": "Pourquoi avoir annulé l’émission Blockbuster si c’était pour refaire la même émission mais avec un animateur plus lisse ??!! (La réponse serait-elle dans la question ?)"
+      },
+      {
+        "note": 5,
+        "auteur": "Patagato_",
+        "titre": "Mehdi Maïzi et sa bienveillance",
+        "texte": "J’en ai écouté pas mal des ÀLR, encore plus de Mouse cast, de Code, de Mehdi et demi etc… J’apprécie la bienveillance de l’individu, le fait qu’il prépare toujours extrêmement bien ses interviews et que les invités semblent arriver chez un vieil ami, au point d’avoir leur paire d…"
+      }
     ]
   }
 }

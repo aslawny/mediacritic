@@ -51,25 +51,29 @@
   "derniere_activite": "2026-08-27",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "FlorianGandon",
+        "titre": "Merci !",
+        "texte": "Merci pour ce podcast passionnant ! Je vous recommande notamment d’inviter Henri Bong, PDG d’UnaBiz (a notamment racheté Sigfox l’année dernière) et avec un discours particulièrement inspirant sur l’IoT, sa vision de l’entreprenariat et son parcours entre la France et l’Asie."
+      },
+      {
+        "note": 2,
+        "auteur": "Gprupru",
+        "titre": "On survole",
+        "texte": "Les invités sont potentiellement super intéressants mais les sujets ne sont pas poussés, très « beni oui oui », on est toujours d’accord avec les invités qui sont là pour faire leur pub. Sur les premiers épisodes en tout cas, il y a un bon potentiel pour la suite !"
+      },
+      {
+        "note": 5,
+        "auteur": "40nuancesdeNext",
+        "titre": "D’autres envies?",
+        "texte": "Un petit mot des équipes pour vous remercier de vos retours ! On est ravis de vous faire découvrir ces champions de la tech française comme on sera ravis de vous faire d’autres surprises. N’hésitez pas à nous remonter vos envies et suggestions !"
+      }
     ]
   }
 }

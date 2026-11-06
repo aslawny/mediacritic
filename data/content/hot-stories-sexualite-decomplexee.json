@@ -29,25 +29,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-11-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Ssateenn",
+        "titre": "THE podcast Hot !",
+        "texte": "Ce que j’aime dans ce podcast, c’est le format témoignage. Les récits sont de mieux en mieux racontés au fil des saisons : les narratrices donnent l’impression qu’elles revivent la scène au fur et à mesure.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Tokosto",
+        "titre": "Du mytho à l’état pur",
+        "texte": "Des névrosées qui s’inventent des vies tellement les leurs doivent être minables…c’est du mytho de bas de gamme en plus…surtout l’histoire mensongère de « Judith ». Pitoyable."
+      },
+      {
+        "note": 5,
+        "auteur": "BrightSideOfTheMoon",
+        "titre": "Podcast chaud et captivant",
+        "texte": "J’écoute les récits à chaque fois avec intérêt spécial, pris par leur sincérité et la justesse avec laquelle ils sont racontés. Toujours impatient de découvrir le suivant.…"
+      }
     ]
   }
 }

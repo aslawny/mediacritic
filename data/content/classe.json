@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-28",
-  "frequence_jours": 33
+  "frequence_jours": 33,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "AudreyH06",
+        "titre": "J’adore",
+        "texte": "On pourrait le croire, mais ça ne ressemble à aucun autre podcast engagé, car SML a sa manière unique de mener les interviews. Une manière décontractée qui rend ces découvertes pointues hyper accessibles. Hâte d’écouter la suite ! Merci 😍"
+      },
+      {
+        "note": 5,
+        "auteur": "Tugba🥸",
+        "titre": "SML <3 et des semblables",
+        "texte": "Des réussites sociales en dehors des sentiers battus et SML, c’est intéressant et drôle en meme temps. Ça rend les parcours encore plus profonds et plein de sens. Hâte d’entendre la suite."
+      },
+      {
+        "note": 5,
+        "auteur": "Cami 🫧",
+        "titre": "Incroyable",
+        "texte": "Un podcast avec des intervenants de très grande qualité Je recommande !!! 🤌🏼🤌🏼🤌🏼"
+      }
+    ]
+  }
 }

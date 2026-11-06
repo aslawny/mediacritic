@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-08-29",
-  "frequence_jours": 29
+  "frequence_jours": 29,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "gb",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Grogalogs",
+        "titre": "Mon Podcast préféré",
+        "texte": "Comme étudiant de français au niveau B2, ce Podcast d’Émilie me convient parfaitement. Je le trouve très interessant, clair et doux. D’autres commentateurs qui disent que c’est trop “Woke” devraient secouer leur tête et peut-être ouvrir un peu leur esprit.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Money Melon",
+        "titre": "Clear and calm",
+        "texte": "I’m a beginner French learner so I don’t understand most things, but Emilie speaks clearly so I catch words more and more. I listen to her pronunciation and cadence, which helps my speaking and accent. I listen every night before bed as I find her voice calm and soothing.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Jackson M B",
+        "titre": "Excellent podcast!",
+        "texte": "Thank you so much for this podcast. It’s helped me so much in improving both my speaking and comprehension. It’s made a huge difference to my confidence with French. And the content is always super interesting too. Thank you!"
+      }
+    ]
+  }
 }

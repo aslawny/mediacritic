@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2021-12-13",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Xv0lc0mx",
+        "titre": "Top",
+        "texte": "Salut, Du coup comme pas mal de monde je t’es découvert grâce à Lokan. Super podcast. C’est encore mieux qu’une radio. Hâte de d’entendre les prochains podcast. En tout cas super et continue comme ça :)"
+      },
+      {
+        "note": 5,
+        "auteur": "La Cuisine De Laura",
+        "titre": "Très intéressant !",
+        "texte": "Très bon podcast, original et agréable à écouter si on est intéressé par le sujet! Merci du partage et de ton retour d’expérience, bonne continuation, j’ai hâte d’entendre la suite de ton parcours :)"
+      },
+      {
+        "note": 5,
+        "auteur": "stef-/-",
+        "titre": "Ça change !",
+        "texte": "Le pitch est différent de ce que l’on peut entendre, très agréable! Une belle découverte"
+      }
+    ]
+  }
 }

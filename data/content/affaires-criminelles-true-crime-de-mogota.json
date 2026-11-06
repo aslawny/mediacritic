@@ -51,25 +51,29 @@
   "derniere_activite": "2026-08-28",
   "frequence_jours": 3,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "cz p09",
+        "titre": "J’adore ton travail",
+        "texte": "Bonjour, mogo, bravo pour ton travail. Petite remarque, tu es surpris que les femmes ne sont pas libres de s’habiller comme bon leurs semblent et subissent des violences par les hommes ( maris ou pères) et que la lois et la police protège ces ordures.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Fvthljgegjkhjlgg",
+        "titre": "Avis",
+        "texte": "On evite de donner son avis en utlisant des grossieretes et toujours les memes trucs nuls en plus… votre son est pas terrible, restez narrateur et parlez francais!! Je me desabonne c est nul"
+      },
+      {
+        "note": 5,
+        "auteur": "Ninazozo",
+        "titre": "Merci pour votre bon esprit !",
+        "texte": "Vous êtes toujours très juste lors de vos narrations et avez sans doute la chance d’avoir des parents qui vous ont inculqué des valeurs. Merci pour votre travail, je vous souhaite le meilleur."
+      }
     ]
   }
 }

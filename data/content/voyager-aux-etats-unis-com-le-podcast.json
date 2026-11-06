@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-16",
-  "frequence_jours": 43
+  "frequence_jours": 43,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Doudov972",
+        "titre": "Coucou des Martiniquais",
+        "texte": "Je profite de ce petit message pour vous vous adresser tous nos vœux pour 2024 avec bien évidemment encore plein de voyages aux Etats-Unis à votre actif :-) Nous ne rêvons que d’une chose ..…"
+      },
+      {
+        "note": 5,
+        "auteur": "j-o.c",
+        "titre": "Des infos pratiques et très utiles!",
+        "texte": "Merci Sandrine et Silvère d’avoir crée ce podcast qui est une vraie mine d’or! Nous avons vécu plusieurs années aux USA et à chaque épisode, j’apprends toujours quelque chose de nouveau grâce à vos explications très détaillées …"
+      },
+      {
+        "note": 5,
+        "auteur": "Tabiboujoi",
+        "titre": "Très instructif",
+        "texte": "Merci à vous pour ce podcast. Et super intéressant sur les élections américaines Je vous ai découvert, il y a quelques années et dont on avait pris le carnet de route pour la Floride qui fut excellent. J’attends grandement les futures publication dont le Texas :)"
+      }
+    ]
+  }
 }

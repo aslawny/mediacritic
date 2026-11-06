@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-07",
-  "frequence_jours": 34
+  "frequence_jours": 34,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "AurélieM33",
+        "titre": "Super podcast ! Authenticité et qualité au rendez-vous !",
+        "texte": "Laura nous emmène à la rencontre d’ex-Parisiens ayant fait le choix de s’installer ailleurs en France, par le biais de conversations sincères et approfondies, qui aident à se projeter dans le parcours de ces familles, comprendre les difficultés rencontrées et surtout comment elle…"
+      },
+      {
+        "note": 5,
+        "auteur": "Marg75e",
+        "titre": "Génial et inspirant !",
+        "texte": "Merci Laura pour ces épisodes qui nous emmènent aux quatre coins de la France et qui nous donnent envie d’aller vivre en province… Hâte d’écouter de nouveaux témoignages !"
+      },
+      {
+        "note": 5,
+        "auteur": "camilleparisienne",
+        "titre": "Des témoignages enrichissants",
+        "texte": "Une belle découverte, qui nous fait voyager et donne envie de sauter le pas de quitter Paris ! On glane plein de bons conseils grâce à ces témoignages !"
+      }
+    ]
+  }
 }

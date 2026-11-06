@@ -50,25 +50,29 @@
   "derniere_activite": "2026-08-26",
   "frequence_jours": 28,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "PatCG63",
+        "titre": "Un moment trop rare !",
+        "texte": "Un super débriefing synthétique de RG apprécié mais frustrant quant aux publications trop rares de ce podcast…. le tennis délaissé par l’Equipe ?"
+      },
+      {
+        "note": 1,
+        "auteur": "Olivier14750",
+        "titre": "2 de tension",
+        "texte": "Il manque du rythme ! Un peu de tonus, le présentateur semble lire ses fiches ! Pour une fois que l’on a un podcast en français sur le tennis...."
+      },
+      {
+        "note": 5,
+        "auteur": "Galande25",
+        "titre": "Sympa mais parfois un peu long",
+        "texte": "Une chronique sympa. par de vrais spécialistes du tennis. Le format de 30’ est agréable, le dernier à 46’ est trop long. Bonne continuation 🎾"
+      }
     ]
   }
 }

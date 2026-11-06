@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-07",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Magalidkinesio",
+        "titre": "Encourager les retours",
+        "texte": "Salut Marco et merci pour cet épisode qui arrive au parfait timing 👌🏽 Pour répondre à ta question ce qui m’a impactée le plus dans cet épisode… je ne peux me limiter à un seul point : 1- formuler des demandes claires et précises (laisser un commentaire par exemple est trop vague)…"
+      },
+      {
+        "note": 5,
+        "auteur": "LaurenceD66",
+        "titre": "Le TOP du Podcasting Francophone",
+        "texte": "J'adore ces podcasts : il y en a pour tous les niveaux, de ceux qui rêvent d'en lancer un - un jour peut être - aux vieux podasteurs qui nous regardent du haut de leur 143 épisodes. Marco est clair, pédagogue, il partage ses réussites et ses échecs, et fait des interview top.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Séverine-Criqui",
+        "titre": "Une pépite francophone pour les podcasteurs",
+        "texte": "Pour développer son podcast, mais aussi le créer, le refaçonner, se rassurer sur ses difficultés, trouver des idées! Au top Marco Bernard!"
+      }
+    ]
+  }
 }

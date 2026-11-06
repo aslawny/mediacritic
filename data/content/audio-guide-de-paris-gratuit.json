@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2006-11-27",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Stompa wompa",
+        "titre": "<3",
+        "texte": "Personellement je le trouve tres utile car j'ignorer toutes ces chose la ..."
+      },
+      {
+        "note": 1,
+        "auteur": "Laaura.;)",
+        "titre": "De laide SVP",
+        "texte": "Je ne vois vraiment pas a quoi sa sert tout le monde dis que c'est pratique. Mais je ne vois pas en quoi.:/"
+      },
+      {
+        "note": 2,
+        "auteur": "Lejallec",
+        "titre": "Oui, mais...",
+        "texte": "Petits memos sur différents lieux historiques. Tout ceci est intéressant mais j'y ai noté de subtiles erreurs (point graves mais bon) à cause desquelles je ne puis attribuer plus de 3 étoiles. Celà dit ce podcast est plutôt sympa :-)"
+      }
+    ]
+  }
 }

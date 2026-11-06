@@ -52,25 +52,29 @@
   "derniere_activite": "2025-09-07",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Rami gribouille",
+        "titre": "Merci, mais…",
+        "texte": "Bonjour, merci beaucoup pour le travail que vous faites et les conseils que vous transmettez aux petits sportifs que nous sommes. Je me demandais si vous alliez reprendre les Hors Séries où des sportifs amateurs nous racontent leurs exploits.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Violaine0225",
+        "titre": "Excellent",
+        "texte": "Je découvre ce podcast et j’adore autant le format que les sujets abordés . C’est un réel plaisir de vous écouter et j’apprends beaucoup de choses . Bref j’adore"
+      },
+      {
+        "note": 5,
+        "auteur": "wildtiger92",
+        "titre": "Sujets très diversifiés",
+        "texte": "Le contenu est diversifié, j’apprends pleins de choses et chaque épisode est assez court juste assez pour aborder le sujet."
+      }
     ]
   }
 }

@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-19",
-  "frequence_jours": 3
+  "frequence_jours": 3,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "zsdrf",
+        "titre": "Bravo",
+        "texte": "Tes Podcasts sont super top. Par contre est-il possible de faire une un podcast en lien avec l’handicap plus précisément l’approche visuel ? Plus précisément non-voyant"
+      },
+      {
+        "note": 5,
+        "auteur": "crocodilette",
+        "titre": "Excellent",
+        "texte": "Description pertinente et contenu de qualité j’ai écouté certains chapitres en boucle juste avant ma séance: top ✨Merci Théo!"
+      },
+      {
+        "note": 5,
+        "auteur": "Le rouquin 32",
+        "titre": "Merci 🥰",
+        "texte": "Continue tes formats interview, c’est vraiment top ! De l’émotion, de l’humain et du partage. J’adoooooooore 🥰🥰"
+      }
+    ]
+  }
 }

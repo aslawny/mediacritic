@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2025-12-12",
-  "frequence_jours": 15
+  "frequence_jours": 15,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mathilde du podcast Flashback",
+        "titre": "Captivant",
+        "texte": "Je suis ravie d’avoir découvert ce podcast! Le contenu des épisodes est vraiment captivant et on est plongé dans l’histoire! Mathilde du podcast Flashback"
+      },
+      {
+        "note": 5,
+        "auteur": "Jearizzz",
+        "titre": "Du bonheur",
+        "texte": "Que du bonheur de vous écouter, votre format, votre manière d’aborder les séries, on a l’impression de discuter avec vous !"
+      },
+      {
+        "note": 5,
+        "auteur": "Pépère 31383",
+        "titre": "Très agréable",
+        "texte": "Des échanges très intéressants et des conseils pertinents Un vrai plaisir à écouter Bravo à l’équipe"
+      }
+    ]
+  }
 }

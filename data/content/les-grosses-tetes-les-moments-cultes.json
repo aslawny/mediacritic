@@ -49,5 +49,25 @@
     }
   ],
   "derniere_activite": "2023-11-05",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 1,
+        "auteur": "A1---------------------------",
+        "titre": "1 étoile sur 5 Horreur des florilèges (des best of)",
+        "texte": "Je n’aime pas les florilèges et les meilleures des émissions de radio et en plus c’est payant un comble. Je préfère écouter des publicités de 10 minutes avant d’écouter le podcast. Je ne suis pas content."
+      },
+      {
+        "note": 1,
+        "auteur": "Nicolas551",
+        "titre": "Ça ne fonctionne plus",
+        "texte": "Plus rien depuis quelques jours’ sans aucune explication. Nullissime, une honte pour un service payant"
+      }
+    ]
+  }
 }

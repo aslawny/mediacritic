@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-06",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "_indra_",
+        "titre": "Joie insulaire",
+        "texte": "Quelle merveilleuse idée ce podcast! Ces échanges avec un artiste de l’envergure de Nosfell sont un véritable cadeau, hâte de la suite! Merci à vous 2"
+      },
+      {
+        "note": 5,
+        "auteur": "funky good times",
+        "titre": "Quelle découverte",
+        "texte": "Une œuvre que je connaissais à peine et que je découvre comme fascinante. Bravo et merci à vous deux"
+      },
+      {
+        "note": 5,
+        "auteur": "Ramundcho",
+        "titre": "Star Trek",
+        "texte": "Cette émission c’est Star Trek- on continu de découvrir des univers inconnus- très bien"
+      }
+    ]
+  }
 }

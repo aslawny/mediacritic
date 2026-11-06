@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2025-09-03",
-  "frequence_jours": 34
+  "frequence_jours": 34,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mixab",
+        "titre": "Plaisir d’écouter",
+        "texte": "Un plaisir d’écouter ce podcast, merci pour ton travail. Suggestion : Ce serait pas mal de temps en temps de faire des petites « bio » d’artistes que ce soit Jazz ou même autres style."
+      },
+      {
+        "note": 5,
+        "auteur": "Félix642",
+        "titre": "remerciements",
+        "texte": "Bonjour. Je te suis déjà depuis quelques années. Merci pour tous ces petits podcasts. Très agréable à suivre et qui sont pour moi une bonne source de motivation. À très bientôt."
+      },
+      {
+        "note": 5,
+        "auteur": "jeremydrissi",
+        "titre": "Enfin un alternative à BITOUNE",
+        "texte": "Super podcast ! Ça change de la mégalomanie de Bitoune haha. J’espère que tu vas continuer et surtout développer les sujets car 7 minutes c’est trop court."
+      }
+    ]
+  }
 }

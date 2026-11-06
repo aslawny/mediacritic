@@ -51,5 +51,25 @@
     }
   ],
   "derniere_activite": "2025-03-19",
-  "frequence_jours": 8
+  "frequence_jours": 8,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Bien dans nos baskets 🎙",
+        "titre": "Tout ce qu’on attend d’un podcast 🤩",
+        "texte": "Super podcast. Des échanges qui font réfléchir, qui déculpabilisent et qui motivent. Bravo encore !"
+      },
+      {
+        "note": 5,
+        "auteur": "LennaJouot",
+        "titre": "Parfait !",
+        "texte": "Podcast qui respire la joie de vivre, l’envie et qui fait découvrir de très beau profils !"
+      }
+    ]
+  }
 }

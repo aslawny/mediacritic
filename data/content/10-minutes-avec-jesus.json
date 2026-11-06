@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-28",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mkissss",
+        "titre": "Vraiment génial !!",
+        "texte": "Merci bcp à toute l’équipe pour ce merveilleux podcast. Je peux passer 10 petites minutes partout où je suis avec le Seigneur. Merci en particulier au Podcasteur ivoirien que je prends bcp plaisir à écouter. Merci encore ! Je recommande."
+      },
+      {
+        "note": 5,
+        "auteur": "gracia225",
+        "titre": "Très bon podcast",
+        "texte": "Ce podcast m’apaise énormément et m’aide à me rapprocher de Dieu au quotidien. Je vous encourage dans votre initiative et vous envoie mon soutien."
+      },
+      {
+        "note": 5,
+        "auteur": "rwchelle",
+        "titre": "Merci",
+        "texte": "Merci pour ce partage et ces paroles qui nous permettent de nous élever et de nous rapprocher de Dieu notre père."
+      }
     ]
   }
 }

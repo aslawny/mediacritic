@@ -28,25 +28,29 @@
   "addedAt": "2026-07-21",
   "updatedAt": "2026-11-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lbs d",
+        "titre": "Incroyable",
+        "texte": "Alors, je ne sais même pas par où commencer : il y a tellement d’épisodes(100 ou plus) . Les cinq étoiles sont bien méritées je n’ai pas écouté tout vos épisodes mais de ce que j’ai écouté j’ai adoré .…"
+      },
+      {
+        "note": 3,
+        "auteur": "Antoine75006",
+        "titre": "Dommage",
+        "texte": "Quelles incongruités toutes ces pauses musicales, ça n’a aucun intérêt. Qui imaginerait regarder un film et être interrompu 4 a 5 fois pour écouter de la musique ou regarder un clip ? Incompréhensible. Vraiment dommage car l’émission est souvent très intéressante."
+      },
+      {
+        "note": 5,
+        "auteur": "Rascar Capac93",
+        "titre": "Suuuuuuuuuuuper",
+        "texte": "Pouvez-vous faire un(e) épisode/saga sur Poséidon🙏🏻🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼et aparté ça j’adoooooooooore vos épisode 💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕 💕 💕💕💕💕💕💕💕💕💕💕💕💕💕…"
+      }
     ]
   }
 }

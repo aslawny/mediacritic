@@ -26,25 +26,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-11-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "TMags16",
+        "titre": "Parenthèse enchantée",
+        "texte": "J’adore écouter le podcast Allegretto le soir après le travail, c’est un vrai moment de détente et de joie ! La voix de Mme Kerschova et ses anecdotes sont tout aussi agréables que les œuvres qu’elle nous fait écouter.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Xenedra",
+        "titre": "Insupportable",
+        "texte": "Je la trouve insupportable, elle s’adresse aux auditeurs comme à des débiles gâteux. Je l’ai déjà entendue en d’autres occasions où elle n’affecte pas ce ton. Programmation musicale plutôt ringarde."
+      },
+      {
+        "note": 5,
+        "auteur": "bruno gilbert",
+        "titre": "Merci DENISA!",
+        "texte": "Bonjour Merci pour votre accord sur SANGUINE pour illustrer l’œuvre d'Emma KLIMT ET LA RÉFÉRENCE À RUDOF STEINER un ANTHROPOSOPHE ET PEDAGOGUE DE GÉNIE QUI indique L’ORANGE POUR CARACTÉRISER LA JEUNESSE : merci pour ce rappel cordialement votre Bruno Gilbert , un ADMIRATEUR de MO…"
+      }
     ]
   }
 }

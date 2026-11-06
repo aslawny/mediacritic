@@ -51,25 +51,29 @@
   "derniere_activite": "2026-04-22",
   "frequence_jours": 23,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Poggi Avocats IT",
+        "titre": "Initiative formidable",
+        "texte": "Merci pour cette initiative et la démarche très entrepreneuriale dans un univers qui ne l’est pas nécessairement. C’est une petite entreprise qui met une pierre à l’édifice et qui donne du sens aux études pour choisir la fonction publique.…"
+      },
+      {
+        "note": 5,
+        "auteur": "the_brocoli_17",
+        "titre": "Bravo !",
+        "texte": "Un contenu de grande qualité et des intervenants aux parcours et profils aussi divers que passionnants, merci beaucoup pour ce travail ! Je salue au moins passage la pertinence des questions et interventions de l’animateur qui a de plus pour ne rien gâcher une voix très agréable."
+      },
+      {
+        "note": 5,
+        "auteur": "AnaBiacu",
+        "titre": "Merci *1000",
+        "texte": "Je recommande vivement ce podcast pour tous ceux qui veulent suivre ou developper une carrière administrative !!!! Merci beaucoup David et vive AmbitionPublique ! Tes podcasts m’inspirent chaque fois que j’en écoute un!"
+      }
     ]
   }
 }

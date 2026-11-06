@@ -26,25 +26,29 @@
   "addedAt": "2026-05-28",
   "updatedAt": "2026-11-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "FlutistZoé",
+        "titre": "Bravo!",
+        "texte": "Bravo! T’es vraiment super fort (même si tu doutes 🙃!) Tu fait plier de rire tout le monde et t’es le seul humoriste que tout mon entourage connais et aime bien! Merci pour ce que tu fais, de nous donner le sourire quand on t’écoute! Continue!!!! 😁😁😁🤩🤩🤩"
+      },
+      {
+        "note": 3,
+        "auteur": "P’tite bite",
+        "titre": "Noooooon!!",
+        "texte": "C’est incroyable mais pourquoi avoir supprimé les anciens épisodes ?"
+      },
+      {
+        "note": 5,
+        "auteur": "Alinor🌸",
+        "titre": "L’étoile Mirabelle",
+        "texte": "J’adooore écouter ces podcasts !!!☺️ Il sont vraiment trop trop cool !!!😂 Par contre ils sont où les anciens épisodes ??? C’est dommage de les supprimer…😕 Paul tu est le meilleur humoriste que je connaisse !!!🤩"
+      }
     ]
   }
 }

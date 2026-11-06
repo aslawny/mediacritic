@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-07",
-  "frequence_jours": 148
+  "frequence_jours": 148,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "tsonneville",
+        "titre": "Le premier et toujours là...",
+        "texte": "Le PCC est le podcast qui m'a fait découvrir ce que c'était le podcast indépendant. J'écoute le PCC depuis plus de 2005, Houla, cela commence à dater. J'ai adoré découvrir le Canada à ses cotés et j'apprécie ses interventions.…"
+      },
+      {
+        "note": 2,
+        "auteur": "Ternog",
+        "titre": "C'est pas mal, mais attention Pierre...",
+        "texte": "Un Podcast bien fait et bien mené qui nous conduit à la découverte du Canada, de Montréal et de ses environs. Un agréable moyen de découvrir ce pays sous l’angle d’un Français installé à l’étranger et d’y partager sa vie.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Palmipode",
+        "titre": "Tranches de vie, tranches de geek",
+        "texte": "Pierre nous emmène dans sa vie quotidienne, ses passions et ses loisirs outre atlantique. Cet expatrié français au Canada assure avec une réguliarité métronomique une revue hebdomadaire dont les sujets varient au gré des envies et de l'actualité.…"
+      }
+    ]
+  }
 }

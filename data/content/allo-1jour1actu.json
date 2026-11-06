@@ -52,25 +52,29 @@
   "derniere_activite": "2022-02-28",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Luxo31500",
+        "titre": "Super podcast pour répondre à la curiosité des enfants",
+        "texte": "Je connaissais déjà l’hebdo pour enfant de Milan très ludique, pédagogique et aussi pratique pour répondre aux questions que se posent les enfants. Ce podcast complète très bien le journal. La voix adulte a un ton qui capte l’attention des enfants. Bravo à Milan !"
+      },
+      {
+        "note": 1,
+        "auteur": "Eléna2812",
+        "titre": "Nul Je trouves ça trop nul",
+        "texte": "Je déteste Je n’ai jamais vraiment écouté car la première fois je ne trouvais pas ça ouf !! Et maintenant je trouve que c’est totalement nul !"
+      },
+      {
+        "note": 5,
+        "auteur": "NicolasNicoca",
+        "titre": "Super initiative",
+        "texte": "Je connaissais déjà 1jour1question, ce podcast est super pendant le confinement"
+      }
     ]
   }
 }

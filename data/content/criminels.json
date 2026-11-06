@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-31",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Christel G",
+        "titre": "Seul contre tous",
+        "texte": "Philippe Savelli vous êtes un héros ! Comment ne pas s’incliner devant votre intégrité malgré la bêtise de ces hommes ayant prêter serment pour protéger la population et dans cette horrible histoire, des enfants, des petites filles …"
+      },
+      {
+        "note": 1,
+        "auteur": "Moncelos",
+        "titre": "Fatigant",
+        "texte": "A peine débuté , tout de suite arrête . Narration peu audible et musiyde fond insupportable. Dommage"
+      },
+      {
+        "note": 5,
+        "auteur": "Magbook5",
+        "titre": "La conspiration du silence",
+        "texte": "Oh la la la la comme vous m’avez embarquée, happée sur le podcast de la conspiration du silence ! C’est bien simple, j’ai fait un ménage de dingue chez moi alors que j’étais juste partie pour un coup d’aspirateur, plus moyen de m’arrêter d’écouter …"
+      }
     ]
   }
 }

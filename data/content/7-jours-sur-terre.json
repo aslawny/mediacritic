@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-16",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-07",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "saint wck",
+        "titre": "SWCK",
+        "texte": "J’adore cet émission, le contenu est qualitatif et très enrichissant, le choix des sujets... Enfin, abonnez-vous ! J’aimerais tout de même avoir une épisode par semaine et une petite remarque : Le titre des épisodes sont un peu flou, genre ; 13.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Mgraph11",
+        "titre": "Incroyable et Pertinent!",
+        "texte": "Enfin du grand journalisme! Un regard éclairé sur les événements mondiaux qui préoccupent l’actualité et qui n’est pas biaisé par un agenda politique quelconque! Un grand merci et bravo à toutes votre équipe!"
+      },
+      {
+        "note": 5,
+        "auteur": "EricLecosse",
+        "titre": "J’vous attendais",
+        "texte": "Enfin, Vous êtes devenu en podcast. Merci. Je ne sais pas si c’est la place mais si Benjamin se présente à la tête du PQ un jour, je serai un ancien renouveau membre."
+      }
     ]
   }
 }

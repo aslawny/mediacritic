@@ -51,5 +51,25 @@
     }
   ],
   "derniere_activite": "2026-07-23",
-  "frequence_jours": 19
+  "frequence_jours": 19,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-06",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "xmoulin",
+        "titre": "Courage les gars",
+        "texte": "C'est top ce que vous faites. Pas de souci de passer à un format mensuel, tous les 2 mois s'il faut. Mais c'est tellement bien d'entendre parler des gens qui savent de quoi ils parlent sur ce sujet. Merci en tt cas !"
+      },
+      {
+        "note": 5,
+        "auteur": "VSwid",
+        "titre": "Au top",
+        "texte": "Merci pour ce moment d’information éclairée et toujours avec humour et franc parler. J’adore!"
+      }
+    ]
+  }
 }
