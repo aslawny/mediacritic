@@ -176,12 +176,17 @@ CATEGORIES = [
     },
     {
         "slug": "cinema-series", "cats": ["cinema", "series"], "name": "Cinéma & séries", "emoji": "🎬",
-        "title": "Meilleurs podcasts cinéma et séries francophones — 2026",
-        "h1": "Les meilleurs podcasts cinéma et séries francophones",
-        "lede": "Critiques de films, analyses de séries, histoire du 7e art, coulisses et recommandations… Voici les podcasts et chaînes francophones incontournables pour les passionnés de cinéma et de séries.",
+        # Vague 1 SEO (07/11/2026) : « podcast cinema critique » = 3 171
+        # affichages en 3 mois, position 28, 0 clic. Le titre, le H1, le
+        # chapo et la FAQ nomment desormais la critique de films et de series.
+        "title": "Podcasts cinéma et séries : critiques et classement 2026",
+        "h1": "Les meilleurs podcasts de critique cinéma et séries",
+        "lede": "Critiques de films et de séries, débats sur les sorties de la semaine, analyses de fond, histoire du 7e art et coulisses de tournage… Voici les podcasts et chaînes YouTube francophones de critique cinéma, classés par note et par audience, avec ceux que MediaCritic a lui-même critiqués.",
         "faq": [
-            ("Quel podcast pour les amateurs de cinéma ?", "Du débat critique à l'analyse de fond, les podcasts cinéma francophones couvrent tous les styles. Cette page référence les meilleurs, avec le badge MediaCritic pour ceux qu'on a analysés."),
-            ("Y a-t-il des podcasts dédiés aux séries ?", "Oui, de nombreux formats suivent l'actualité des séries, décryptent les sorties et reviennent sur les classiques. Ils sont référencés ici."),
+            ("Quel est le meilleur podcast de critique cinéma ?", "Tout dépend du ton recherché. Les plus suivis sont classés ici par note Apple Podcasts et par nombre d'avis ; ceux que MediaCritic a analysés en détail, comme 2 Heures De Perdues ou BlockBusters, portent notre note sur 10 et renvoient vers notre critique complète."),
+            ("Quel podcast pour les amateurs de cinéma ?", "Du débat critique à l'analyse de fond, les podcasts cinéma francophones couvrent tous les styles : critique des sorties, cinéma de genre, nanars, histoire du cinéma, entretiens avec des réalisateurs. Cette page les référence tous, avec le badge MediaCritic pour ceux que nous avons analysés."),
+            ("Existe-t-il des podcasts de critique de séries ?", "Oui, de nombreux formats suivent l'actualité des séries, critiquent les sorties des plateformes et reviennent sur les classiques. Ils sont référencés sur cette page avec le cinéma."),
+            ("Podcast ou chaîne YouTube pour la critique de films ?", "Les deux formats sont représentés ici : les podcasts pour l'écoute en mobilité, les chaînes YouTube pour les analyses illustrées par les images des films."),
         ],
     },
     {

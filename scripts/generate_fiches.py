@@ -7,6 +7,7 @@ Usage: python scripts/generate_fiches.py  (depuis la racine du repo)
 import json
 import os
 import re
+import unicodedata
 import sys
 import xml.etree.ElementTree as ET
 from datetime import date, datetime
@@ -267,30 +268,83 @@ def couper(txt, limite):
     return (bout[:espace] if espace > limite * 0.6 else bout).rstrip(" ,;:—-") + "…"
 
 
-def titre_page(titre, t_label, analyse):
-    """Titre <= 60 caracteres, sinon Google tronque.
+def titre_page(titre, t_label, data):
+    """Titre <= 60 caracteres, ecrit pour donner envie de cliquer (vague 1 SEO,
+    07/11/2026 : « babel tv » affiche 3 989 fois en 6e position, 0,7 % de
+    clics, avec un titre « Babel TV  — Chaine YouTube | MediaCritic »).
 
-    « Avis & Critique » n'est appose QUE sur les 45 fiches reellement analysees :
-    l'annoncer sur les 8 400 autres promettrait un avis qui n'existe pas. C'est
-    la meme regle que pour le balisage Review.
-
-    Degradation progressive : titre complet, puis sans « | MediaCritic », puis
-    nom tronque. On ne sacrifie jamais le nom du contenu, qui est le mot-cle."""
-    suffixe = ("Avis & Critique " + ("YouTube" if t_label != "Podcast" else "Podcast")
-               if analyse else t_label)
-    for essai in (f"{titre} — {suffixe} | MediaCritic",
-                  f"{titre} — {suffixe}",
-                  f"{titre} | MediaCritic",
-                  titre):
+    Chaque mot du titre doit etre TENU par la page :
+      - « avis » seulement si la fiche affiche de vrais avis d'auditeurs ;
+      - « note » si une note Apple (podcast) ou MediaCritic existe ;
+      - les fiches CRITIQUEES ne disent plus « critique » : c'est la page de
+        notre critique qui porte ce mot (la fiche du Floodcast concurrencait
+        notre critique, reléguée en 42e position).
+    Degradation : complet + « | MediaCritic », complet, version courte, nom."""
+    titre = " ".join((titre or "").split())
+    yt = t_label != "Podcast"
+    avis = bool((data.get("avis_publics") or {}).get("extraits"))
+    note_mc_ = note_mc(data)
+    note_apple = (data.get("platforms", {}).get("apple") or {}).get("rating")
+    if note_mc_ is not None:
+        n = str(note_mc_).replace(".", ",").replace(",0", "")
+        complet = (f"chaîne YouTube notée {n}/10, où la regarder" if yt
+                   else f"podcast noté {n}/10, où l'écouter")
+        court = f"notée {n}/10" if yt else f"noté {n}/10"
+    elif yt:
+        complet = "chaîne YouTube, " + ("avis, vidéos et abonnés" if avis else "vidéos et abonnés")
+        court = "chaîne YouTube"
+    else:
+        complet = "podcast, " + ("avis, note et épisodes" if avis else
+                                 "note et épisodes" if note_apple else "épisodes et écoute")
+        court = "podcast"
+    for essai in (f"{titre} : {complet} | MediaCritic", f"{titre} : {complet}",
+                  f"{titre} : {court} | MediaCritic", f"{titre} : {court}",
+                  f"{titre} | MediaCritic", titre):
         if len(essai) <= 60:
             return essai
-    # Nom trop long meme seul : on tronque par le MILIEU, jamais par la fin.
-    # Couper la fin faisait collapser trois fiches distinctes sur le meme
-    # titre (« Le talisman brise: le podcast en... ») : c'est justement le
-    # suffixe -- la langue -- qui les distingue.
     garde_fin = 18
     tete = 60 - garde_fin - 1
     return titre[:tete].rstrip() + "…" + titre[-garde_fin:].lstrip()
+
+
+_URL_RE = re.compile(r"(https?://|www\.)\S+|\S+@\S+\.\S+|(?<!\w)[@#][\w.]+", re.I)
+
+
+def nettoyer_meta(txt):
+    """Texte d'editeur rendu presentable dans Google : sans liens, adresses,
+    @comptes, #hashtags, emojis ni caracteres casses (« Vision IA » affichait
+    une URL d'affiliation et un emoji coupe en « ? »)."""
+    txt = _URL_RE.sub(" ", txt or "")
+    txt = "".join(ch for ch in txt if not (
+        unicodedata.category(ch) in ("So", "Cs", "Co", "Cn") or ch == "\ufffd"
+        or 0x1F000 <= ord(ch) <= 0x1FAFF or 0x2600 <= ord(ch) <= 0x27BF or ch in "\u200d\ufe0f"))
+    txt = re.sub(r"\s*([|•·▶►→➡])\s*", " — ", txt)
+    txt = re.sub(r"(\s*—\s*){2,}", " — ", txt)
+    txt = " ".join(txt.split()).strip(" —-:;,")
+    txt = re.sub(r"\s+([,.;:!?)])", lambda m: m.group(1) if m.group(1) in ",.)" else " " + m.group(1), txt)
+    return txt
+
+
+def accroche_meta(data, t_label):
+    """Ce que la fiche OFFRE vraiment, en fin de description."""
+    p = data.get("platforms", {})
+    morceaux = []
+    a = p.get("apple") or {}
+    if a.get("rating") and a.get("ratingCount"):
+        morceaux.append(f"note {float(a['rating']):.1f}".replace(".", ",") + "/5 sur Apple")
+    y = p.get("youtube") or {}
+    if y.get("subscribers"):
+        n = int(y["subscribers"])
+        morceaux.append((f"{n / 1e6:.1f}".replace(".", ",").replace(",0", "") + " M d'abonnés") if n >= 1e6
+                        else (f"{round(n / 1000)} k abonnés" if n >= 1000 else f"{n} abonnés"))
+    if (data.get("avis_publics") or {}).get("extraits"):
+        morceaux.append("avis d'auditeurs")
+    if data.get("episodes_recents"):
+        morceaux.append("dernières vidéos" if t_label != "Podcast" else "derniers épisodes")
+    if not morceaux:
+        return ""
+    phrase = ", ".join(morceaux)
+    return " " + phrase[0].upper() + phrase[1:] + "."
 
 
 def stars_html(rating):
@@ -618,17 +672,21 @@ def render_fiche(data):
         desc_meta = couper(
             f"{title} : note {_n}/10 par MediaCritic. Plateformes d'écoute, "
             f"catégories et contenus similaires dans notre annuaire.", 160)
-    elif description.strip():
-        desc_meta = couper(description.replace('"', "'"), 160)
-        # Texte d'editeur partage par plusieurs fiches (mention type de Radio
-        # France, Torah-Box, Radio Campus...) : Google voyait N pages avec la
-        # meme description. On prefixe le NOM du contenu, sans reecrire le
-        # texte (audit du 18/10/2026 : 43 pages en 15 groupes).
-        if desc_meta in DESC_PARTAGEES:
-            desc_meta = couper(f"{title} : " + description.replace('"', "'"), 160)
     else:
-        desc_meta = couper(f"{title} — {t_label} francophone référencé dans "
-                           f"l'annuaire MediaCritic.", 160)
+        # Vague 1 SEO (07/11/2026) : nom en tete (la requete est presque
+        # toujours le nom de l'emission), texte d'editeur nettoye, puis ce que
+        # la fiche offre reellement (note, abonnes, avis, episodes). Le nom en
+        # tete regle aussi les descriptions d'editeur partagees (audit 18/10).
+        nom = " ".join(title.split())
+        fin = accroche_meta(data, t_label)
+        texte = nettoyer_meta(description).replace('"', "'")
+        if texte.lower().startswith(nom.lower()):
+            texte = texte[len(nom):].lstrip(" :—-,")
+        if texte:
+            desc_meta = couper(f"{nom} : {texte}", 160 - len(fin)) + fin
+        else:
+            desc_meta = couper(f"{nom}, {t_label.lower() if t_label == 'Podcast' else t_label} "
+                               f"francophone dans l'annuaire MediaCritic.", 160 - len(fin)) + fin
     desc_full = description  # description complète pour la fiche (peut rester vide)
 
     # Cover block
@@ -827,7 +885,7 @@ def render_fiche(data):
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>{h(titre_page(title, t_label, note_mc(data) is not None))}</title>
+  <title>{h(titre_page(title, t_label, data))}</title>
   <meta name="description" content="{h(desc_meta)}" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="{BASE_URL}/fiches/{slug}.html" />
@@ -835,14 +893,14 @@ def render_fiche(data):
 
   <meta property="og:type" content="website" />
   <meta property="og:url" content="{BASE_URL}/fiches/{slug}.html" />
-  <meta property="og:title" content="{h(title)} — {h(t_label)} | MediaCritic" />
+  <meta property="og:title" content="{h(titre_page(title, t_label, data))}" />
   <meta property="og:description" content="{h(desc_meta)}" />
   <meta property="og:image" content="{h(image) if image else BASE_URL + '/assets/banner.png'}" />
   <meta property="og:site_name" content="MediaCritic" />
   <meta property="og:locale" content="fr_FR" />
 
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="{h(title)} — {h(t_label)} | MediaCritic" />
+  <meta name="twitter:title" content="{h(titre_page(title, t_label, data))}" />
   <meta name="twitter:description" content="{h(desc_meta)}" />
   <meta name="twitter:image" content="{h(image) if image else BASE_URL + '/assets/banner.png'}" />
 
