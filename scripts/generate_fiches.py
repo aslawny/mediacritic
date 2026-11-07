@@ -225,7 +225,8 @@ footer a:hover{color:var(--c-orange)}
 # Les styles de l'ancien en-tete encore presents ci-dessus sont retires a
 # l'ecriture de fiche.css (charte.nettoyer_feuille).
 from charte import nettoyer_feuille as charte_nettoyer_feuille  # noqa: E402
-CSS_BLOCK = charte_nettoyer_feuille(CSS_BLOCK)
+import badges  # noqa: E402  badges MediaCritic pour les editeurs (vague 2 SEO)
+CSS_BLOCK = charte_nettoyer_feuille(CSS_BLOCK + badges.CSS)
 
 
 # ─── Helpers ──────────────────────────────────────────────────────────────────
@@ -635,6 +636,19 @@ def bloc_partage(data):
     return ('  <div class="card pt-card"><h2>🔗 Partager cette fiche</h2>'
             '<div class="pt-row">' + liens + copie + "</div></div>")
 
+def bloc_badge(data):
+    """« Vous faites cette emission ? » : le badge a afficher (vague 2 SEO).
+    Emission critiquee : badge avec sa note, lien vers NOTRE CRITIQUE."""
+    slug = data["slug"]
+    n = note_mc(data)
+    cible = None
+    if n is not None:
+        page = next((v.get("page") for v in MC_REVIEWS.values() if v.get("slug") == slug), None)
+        if page:
+            cible = f"{BASE_URL}/episodes/{page}"
+    return badges.bloc_fiche(slug, data.get("title") or slug, n, slug in DU_JOUR, cible=cible)
+
+
 DESC_PARTAGEES = set()   # rempli par main() avant le rendu
 
 
@@ -956,6 +970,7 @@ def render_fiche(data):
 {bloc_episodes(data)}
 {_avis}{bloc_similaires(data)}
 {bloc_partage(data)}
+{bloc_badge(data)}
   <div class="card">
     <h2>📻 MediaCritic, c'est quoi ?</h2>
     <p>MediaCritic est le podcast francophone indépendant qui analyse et critique des podcasts, émissions et chaînes YouTube. Chaque semaine, Alex et Lolo décortiquent un média avec méthode, passion et humour.</p>

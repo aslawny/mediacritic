@@ -32,6 +32,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 from charte import appliquer as charte_appliquer  # noqa: E402
+from badges import code_badge  # noqa: E402
 
 ROOT = Path(__file__).parent.parent
 BASE = "https://www.mediacritic.fr"
@@ -285,6 +286,36 @@ def textes_reseaux(c):
     }
 
 
+def message_emission(c):
+    """Message prive a envoyer a l'emission choisie (vague 2 SEO) : la
+    prevenir, et lui donner le code de son badge. Chaque badge affiche est un
+    lien vers nous ; c'est l'emission qui choisit de l'afficher."""
+    titre = c["titre"]
+    page = f"{BASE}/{PAGE}"
+    if c.get("mode") == "episode":
+        url = (c.get("episode") or {}).get("url") or f"{BASE}/fiches/{c['slug']}.html"
+        note = c.get("mcNote")
+        intro = (f"nous venons de consacrer un épisode de MediaCritic à {titre}"
+                 + (f", avec une note de {str(note).replace('.', ',')}/10" if note else "")
+                 + f" : {url}")
+        badge = code_badge(c["slug"], titre, note, cible=url)
+    else:
+        intro = f"{titre} est aujourd'hui le podcast du jour sur MediaCritic : {page}"
+        badge = code_badge(c["slug"], titre, du_jour=True)
+    return (f"Bonjour,\n\nPetit mot pour vous prévenir : {intro}\n\n"
+            f"MediaCritic est un annuaire et un podcast de critiques des podcasts et chaînes "
+            f"YouTube francophones. Si ça vous fait plaisir, voici un badge à afficher sur votre "
+            f"site, votre page de liens ou la description de vos épisodes (code à coller) :\n\n"
+            f"{badge}\n\nBelle journée,\nAlex & Lolo — MediaCritic")
+
+
+def bloc_message(c):
+    return ('<section class="kit-b"><h2>✉️ Message à l\'émission (e-mail ou message privé)</h2>'
+            f'<textarea readonly rows="12" id="t-msg">{h(message_emission(c))}</textarea>'
+            '<button type="button" onclick="navigator.clipboard.writeText(document.getElementById(\'t-msg\').value);'
+            'this.textContent=\'Copié ✓\'">Copier</button></section>')
+
+
 def bloc_a_taguer(c):
     """Comptes officiels de l'emission, reseau par reseau, avec leur source."""
     r = c.get("reseaux") or {}
@@ -352,6 +383,7 @@ Chaque lien porte un marqueur de suivi par réseau, visible dans Google Analytic
 (campagne « du-jour »).</p>
 {carte(c, titre_tag="h2", lien_archive=False)}
 {bloc_a_taguer(c)}
+{bloc_message(c)}
 {visuels}
 {blocs}
 </main>
