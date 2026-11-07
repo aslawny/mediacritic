@@ -77,8 +77,8 @@ def main():
         f'<li><a href="{h(url or BASE + "/fiches/" + slug + ".html")}">{h(titre)}</a>'
         f' <span>{str(note).replace(".", ",")}/10</span></li>' for slug, titre, note, url in liste)
     titre = "Badges MediaCritic pour podcasts et chaînes YouTube"
-    desc = ("Affichez votre badge MediaCritic : critiqué par MediaCritic avec votre note, podcast "
-            "du jour ou référencé dans l'annuaire des podcasts et chaînes YouTube francophones.")
+    desc = ("Affichez votre badge MediaCritic : critiqué avec votre note, podcast du jour ou "
+            "référencé dans l'annuaire des podcasts et chaînes YouTube francophones.")
     ld = {"@context": "https://schema.org", "@type": "WebPage", "url": f"{BASE}/{PAGE}",
           "name": titre, "description": desc, "inLanguage": "fr-FR",
           "isPartOf": {"@id": BASE + "/#annuaire"}}

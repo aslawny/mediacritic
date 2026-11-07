@@ -81,7 +81,10 @@ def main():
                                 '<a href="podcasts-independants.html">').replace("&lt;/a&gt;", "</a>")
             sections.append(bloc)
             listes.append(ld)
-            sommaire.append(f'<a href="#{args[0]}">{h(args[1].replace("Les meilleures chaînes YouTube ", "").replace("Les chaînes YouTube ", ""))}</a>')
+            court = {"plus-suivies": "Les plus suivies", "independantes": "Indépendantes",
+                     "critiquees": "Critiquées par MediaCritic"}.get(
+                args[0], args[1].replace("Les meilleures chaînes YouTube ", "").capitalize())
+            sommaire.append(f'<a href="#{args[0]}">{h(court)}</a>')
 
     titre = "Annuaire des chaînes YouTube francophones | MediaCritic"
     desc = (f"L'annuaire de {_nombre(len(yt) // 100 * 100)}+ chaînes YouTube francophones : les plus "
