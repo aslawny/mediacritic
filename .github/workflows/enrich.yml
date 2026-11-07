@@ -204,7 +204,7 @@ jobs:
         run: |
           # independants, label des episodes et podcast du jour : pages derivees
           # ajoutees le 24-25/10/2026 (elles doivent suivre le catalogue chaque nuit).
-          for s in generate_classement generate_comparateur generate_independants patch_indep_episodes generate_du_jour; do
+          for s in generate_classement generate_comparateur generate_independants patch_indep_episodes generate_du_jour generate_badges generate_youtube; do
             if [ -f "scripts/$s.py" ]; then
               python "scripts/$s.py"
             else
