@@ -682,6 +682,11 @@ def render_fiche(data):
         texte = nettoyer_meta(description).replace('"', "'")
         if texte.lower().startswith(nom.lower()):
             texte = texte[len(nom):].lstrip(" :—-,")
+        # « Bienvenue sur Babel TV, le media… » repetait le nom deja en tete.
+        _i = texte.lower().find(nom.lower())
+        if texte.lower().startswith("bienvenue") and 0 <= _i < 45:
+            texte = texte[_i + len(nom):].lstrip(" !:—-,.")
+        texte = texte[:1].upper() + texte[1:]
         if texte:
             desc_meta = couper(f"{nom} : {texte}", 160 - len(fin)) + fin
         else:
