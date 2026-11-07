@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/le-podcast-de-victor-ferry/id6820659797?uo=2",
       "trackId": 6820659797,
       "rating": 5.0,
-      "ratingCount": 22,
+      "ratingCount": 23,
       "episodeCount": null
     }
   },
@@ -25,7 +25,7 @@
     "business"
   ],
   "addedAt": "2026-10-11",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
       "titre": "Pourquoi tu dois créer un podcast souverain",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-10-10",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Erikannarella",
+        "titre": "Du grand Victor",
+        "texte": "Ce podcast est une véritable bouffée d’air frais. Une parole libre, qui libère et donne énormément à réfléchir, loin de la pensée consensuelle dans laquelle on étouffe littéralement en France.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Goudeneche",
+        "titre": "Ferry is the new Stefani",
+        "texte": "Victor n’est pas coach de développement personnel Non ! c’est un inspirateur, que dis-je un ré éducateur. Son objectif, vous dégauchir de l’enseignement et de la moraline collectiviste. Respectez-vous un peu bon sang …"
+      },
+      {
+        "note": 5,
+        "auteur": "Arthur Debons",
+        "titre": "Toujours un régal",
+        "texte": "Victor est excellent pour analyser des débats, des problématiques ou ses expériences personnelles. Toujours pertinent et instructif sur le plan réthorique."
+      }
+    ]
+  }
 }

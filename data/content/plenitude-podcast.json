@@ -25,7 +25,7 @@
     "psychologie"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
       "titre": "40. Psychologique ou physiologique : d’où vient vraiment ton stress?",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2025-06-04",
-  "frequence_jours": 22
+  "frequence_jours": 22,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Aso MRN",
+        "titre": "La boîte à Routine ❤️",
+        "texte": "Une voix douce qui berce… Merci Julie pour cette initiative. Je me retrouve complètement dans cette cible des hypersensibles ! Mon coup de cœur que j aimerais partager ici—> la boîte à routine que tu proposes! Ca me parle énormément cette idée de se « lâcher la grappe » et de se…"
+      },
+      {
+        "note": 5,
+        "auteur": "Mag_31",
+        "titre": "Un podcast très agréable à écouter",
+        "texte": "Ce podcast est une véritable petite parenthèse de prise de savoir et de conseils pour son propre bien-être. La voix de Julie est très agréable à écouter, c’est fluide, logique et elle explique les choses avec simplicité ce qui nous permet de mieux comprendre notre fonctionnement…"
+      },
+      {
+        "note": 5,
+        "auteur": "natedenevan",
+        "titre": "Super podcast",
+        "texte": "J'écoute le podcast Plenitude de Julie depuis le premier épisode et j'avoue que je commence a m impatienter de la sortie de chaque épisode ! Ce podcast permet de decouvrir des pratiques et informations intéressantes et enrichissantes pour gérer ses émotions, son stress, ses troub…"
+      }
+    ]
+  }
 }

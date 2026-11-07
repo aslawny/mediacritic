@@ -23,27 +23,31 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-08",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "hgfl57",
+        "titre": "Vulgarisation Yann Barthes",
+        "texte": "Typhaine de Rocquigny Faites vous inviter par Quotidien sur TMC de Yann Barthès…!(par exemple) Il a su dans une émission de divertissement et de dérision mélanger des sujets d’actualités sérieux en invitant des politiques, des syndicalistes , des chroniqueurs, des personnalités ……"
+      },
+      {
+        "note": 1,
+        "auteur": "Oene bjaij",
+        "titre": "Trop consensuel",
+        "texte": "Trop consensuel, aucun débats avec des avis opposés contrairement à la librairie de l’eco."
+      },
+      {
+        "note": 5,
+        "auteur": "WhiplashPan",
+        "titre": "Pluralité du débat public",
+        "texte": "On peut regretter le manque de pluralité à l’intérieur même de l’émission (invités souvent membres des économistes atterrés) mais elle a au moins le mérite de donner la parole à des économistes à contre-courant du néolibéralisme alors que la plupart des émissions télévisées invit…"
+      }
     ]
   }
 }

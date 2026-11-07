@@ -26,7 +26,7 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
       "titre": "#16 Pauline Champon sur la face nord du Cholatse",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2024-05-17",
-  "frequence_jours": 68
+  "frequence_jours": 68,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "F.luchino",
+        "titre": "Rêver d'expé",
+        "texte": "Ça y est on est a haute altitude ! On veut encore des podcasts et plus des reportages si possible que des récits. Mais sinon super"
+      },
+      {
+        "note": 5,
+        "auteur": "from_gre",
+        "titre": "Génial",
+        "texte": "Récit super impressionnant ! Très chouette de pouvoir revivre ce type d’expéditions"
+      },
+      {
+        "note": 5,
+        "auteur": "<3yoda",
+        "titre": "Super podcast !",
+        "texte": "Un récit incroyable qui nous plonge au cœur de cette ascension !"
+      }
+    ]
+  }
 }

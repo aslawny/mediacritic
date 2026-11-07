@@ -24,27 +24,31 @@
     "culture",
     "société"
   ],
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-08",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "bruno gilbert",
+        "titre": "LIVRY et non IVRY",
+        "texte": "Madame de Sévigné, une excellente série de podcast, avec juste une petite erreur, du présentateur lorsqu’il parle de l’envoi de sa lettre lue,elle habitait à Livry maintenant Livry-Gargan, une demeure près d’un petit étang Que l’on appelle le lac de SEVIGNE Pas loin du château, D…"
+      },
+      {
+        "note": 1,
+        "auteur": "Leaaaslg",
+        "titre": "Lecture robotique",
+        "texte": "Je ne trouve pas Agréable d’entendre lire la chroniqueuse d’une voix robotique"
+      },
+      {
+        "note": 5,
+        "auteur": "LaForceDuTemps",
+        "titre": "Avec un Grand Plaisir",
+        "texte": "Savoir savoir Nourriture terrestre Des centaines de Madeleines une clef USB complète de bijoux Paul Leautaud, Gustav Jung Susie Manthe Proust, et tant et tant, Un exemple Fançois Mauriac, que j'aimais tant enfant, et que j'aime encore plus adulte.…"
+      }
     ]
   }
 }

@@ -25,7 +25,7 @@
     "cours"
   ],
   "addedAt": "2026-08-20",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
       "titre": "La honte du bonnet vert",
@@ -49,5 +49,25 @@
     }
   ],
   "derniere_activite": "2026-06-07",
-  "frequence_jours": 34
+  "frequence_jours": 34,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "inezknm",
+        "titre": "Super pour les étudiants en droit",
+        "texte": "Un podcast enrichissant et agréable à écouter ! Merci beaucoup pour ce partage 🫶🏽"
+      },
+      {
+        "note": 5,
+        "auteur": "Walter97313",
+        "titre": "Top",
+        "texte": "Top pour les étudiants en droit ou les adèptent de culture générale"
+      }
+    ]
+  }
 }

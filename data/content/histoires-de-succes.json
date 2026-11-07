@@ -26,7 +26,7 @@
     "sciences",
     "vulgarisation"
   ],
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
       "titre": "BILAN ÉTÉ 2026 : le point sur ma vie, mon business et mon activité !",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-07-20",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-08",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pauline Bld",
+        "titre": "Des podcast qui devraient être remboursés par la Sécu",
+        "texte": "Si vous arrivez tout juste ici, ne vous attendez pas à écouter juste l’épisode qui vous a fait venir. Commencer un podcast de Fabrice Florent, c’est accepter de passer les jours à venir à écouter l’intégralité des épisodes, tant ils sont tous intéressants.…"
+      },
+      {
+        "note": 1,
+        "auteur": "jb75012*",
+        "titre": "Trop de pubs",
+        "texte": "Bon interviewer, concept intéressant mais trop trop de pubs… j’ai jamais vu ça sur aucun podcast! Faut pas abuser non plus. Du coup je me désabonne, c’est fatiguant"
+      },
+      {
+        "note": 5,
+        "auteur": "JuanitaPJ",
+        "titre": "Inspirant, touchant",
+        "texte": "J’ai découvert histoire de succès il y’a quelques semaines (je connaissais Histoires de darons). J’aime beaucoup ce que tu fais Fab, je me suis enfin rappelée de venir sur Apple podcast pour te laisser un avis car j’écoute les épisodes sur Spotify.…"
+      }
     ]
   }
 }

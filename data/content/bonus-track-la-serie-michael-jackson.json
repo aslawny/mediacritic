@@ -24,7 +24,7 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
       "titre": "Les années Quincy Jones (1/4)",
@@ -44,5 +44,31 @@
     }
   ],
   "derniere_activite": "2026-04-23",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "#moonwalker4ever",
+        "titre": "Podcast très sympa",
+        "texte": "Merci pour ce podcast ! On apprend des choses (même si je sais presque tout, étant donné que je suis fan de MJ 👀✨) En tout cas je suis très contente d’être tombée sur un podcast sur mon artiste préféré 💗 Dommage qu’il n’y ait pas plus d’épisode."
+      },
+      {
+        "note": 5,
+        "auteur": "#fandemochaeljackson",
+        "titre": "Avis sur ce podcast",
+        "texte": "Bon déjà c’est un super podcast car je suis un fan de Michael Jackson donc forcément c’est un régal d’écouter un podcast sur lui et je le trouve très intéressant et bien monté donc vraiment c’est à écouter !!!!!!!🎤🎙️"
+      },
+      {
+        "note": 5,
+        "auteur": "rael bank 2000",
+        "titre": "MJ",
+        "texte": "Ce podcast nous apprend plein de choses intéressantes et de très bon morceaux 👌👍"
+      }
+    ]
+  }
 }

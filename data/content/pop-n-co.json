@@ -24,27 +24,31 @@
     "culture"
   ],
   "addedAt": "2026-07-12",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-08",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Strickland4487",
+        "titre": "De la poésie hypnotique à travers les chansons",
+        "texte": "Merci Rebecca MANZONI pour ces minis escapades à travers les chansons et ses anecdotes! Tous les styles sont proposés, et sont décryptés. Super addictif, c’est trop court, on en redemande et on attend les chroniques suivantes avec impatience! A quand une émission plus longues, av…"
+      },
+      {
+        "note": 1,
+        "auteur": "Christopher Crue",
+        "titre": "Je n’ai rien appris",
+        "texte": "Sans doute bluffant pour les nés après 1990 mais décevant pour moi..."
+      },
+      {
+        "note": 5,
+        "auteur": "AJSijo",
+        "titre": "Du bonheur, de la douceur, des découvertes.",
+        "texte": "Merci Rebecca pour ces moments délicieux et passionnants.grâce à vous je retrouve , je découvre ,je m’échappe d’un quotidien pas facile ( infirmière de 64 ans tj au boulot) je podcaste désormais et je recherche vos anciennes émissions.je les partage avec mes fils aussi !!! Merci…"
+      }
     ]
   }
 }

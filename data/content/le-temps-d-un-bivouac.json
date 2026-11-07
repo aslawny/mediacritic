@@ -26,27 +26,31 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-08",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Arnowornever",
+        "titre": "Eh voilà !",
+        "texte": "« Vous m’avez fait pleurer dans l’épisode avec Matthieu Tordeur, lorsqu’il est arrivé au Pôle Sud et qu’il a appelé ses parents. Bravo. J’aimerai tant réaliser des expéditions de ce genre ! Bravo …"
+      },
+      {
+        "note": 1,
+        "auteur": "Diable 56",
+        "titre": "Trop de musique",
+        "texte": "Sujets très intéressants malheureusement interrompus par trop de musique. Cela devient très rapidement inécoutable. Vraiment dommage; C'est la nouvelle politique de France Inter ."
+      },
+      {
+        "note": 5,
+        "auteur": "AuroreM75",
+        "titre": "Un bonheur",
+        "texte": "Cette émission est une pure merveille. Le journaliste est excellent et rend ses invités toujours incroyablement intéressants. Je n'arrive pas à écouter les podcasts les plus anciens quel dommage.…"
+      }
     ]
   }
 }

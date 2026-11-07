@@ -25,7 +25,7 @@
     "numerique"
   ],
   "addedAt": "2026-09-14",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
       "titre": "Recapping the Apple Event -- iPhone 18 and iPhone Duo!",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-12",
-  "frequence_jours": 28
+  "frequence_jours": 28,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "BenchFiddler",
+        "titre": "Sunday morning coffee with Same Brain",
+        "texte": "Hi Justine and Jenna, you guys have been podcasting for a while now, I listened to many of them and also thanks to you discovered other podcasts, I somehow feel bad I really had missed out on that.…"
+      },
+      {
+        "note": 5,
+        "auteur": "fberanger23",
+        "titre": "A-MA-ZING",
+        "texte": "I've been following Jenna and Justine on YouTube for years, the podcast is the thing I didn't know I needed ! Such high and fun energy, amazing topics …"
+      },
+      {
+        "note": 5,
+        "auteur": "Sania Arshad",
+        "titre": "Hi Jenna and Justine",
+        "texte": "I love your podcast it keeps me entertained, And I am a huge Apple fan, what is the most weird is that I have a lot of facts that are the same as Justine like the color pink it is also my favorite color you have beautiful voices I hope you have a nice day Love you both from Franc…"
+      }
+    ]
+  }
 }

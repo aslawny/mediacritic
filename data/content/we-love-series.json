@@ -25,27 +25,31 @@
     "critique"
   ],
   "addedAt": "2026-10-08",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-08",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "djpoulet",
+        "titre": "Excellent podcast série 👌",
+        "texte": "Le renouveau de ce podcast depuis le changement d’équipe est un bol d’air. Les analyses en plusieurs épisodes sur des séries cultes sont un régal, j’attends chaque épisode avec impatience.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Michelyne 1",
+        "titre": "Nouvelle version 😰",
+        "texte": "La nouvelle version est tellement plate et triste. Avoir une très bonne connaissance de l’univers sériel ne fait vraiment pas tout"
+      },
+      {
+        "note": 5,
+        "auteur": "lekalov",
+        "titre": "Du bon boulot (:",
+        "texte": "Émission passionnante, qui dépasse la seule critique de séries pour présenter en toile de fond les coulisses et les différents processus de fabrication de la télévision.…"
+      }
     ]
   },
   "episodes_recents": [

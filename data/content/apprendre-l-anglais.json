@@ -24,7 +24,7 @@
     "education"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
       "titre": "Lesson 009",
@@ -50,25 +50,29 @@
   "derniere_activite": "2007-03-27",
   "frequence_jours": 2,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-08",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Heloiseinphilly",
+        "titre": "Au top!",
+        "texte": "Je suis déçue de voir que Thomas ne fait plus de podcasts car c’est une découverte formidable! Pour ceux qui commencent tout juste l’anglais ou ceux qui ont un niveau avancé voir confirmé, Thomas est là pour reprendre les bases avec vous pour aller même très loin par la suite! In…"
+      },
+      {
+        "note": 1,
+        "auteur": "cjdndndnwn",
+        "titre": "Dommage",
+        "texte": "Je suis française et j’apprends à parler anglais (je parle bien). Vous parlez en anglais puis vous traduisez en français et je pense que ce n’est pas une bonne méthode. J’ai eu une professeure qui utilisait cette méthode et je n’ai rien appris avec elle.…"
+      },
+      {
+        "note": 5,
+        "auteur": "world_isfun",
+        "titre": "Awesome!",
+        "texte": "J’étais prête à abandonner l’idée d’améliorer mon anglais à cause de toutes ces méthodes qui ne me convenait pas et puis j’ai écouté ton podcast! Aujourd’hui, je t’écoute presque tous les jours, et l’anglais devient cohérent et très amusant à apprendre …"
+      }
     ]
   }
 }

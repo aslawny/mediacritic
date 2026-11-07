@@ -25,7 +25,7 @@
     "stand-up"
   ],
   "addedAt": "2026-09-17",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
       "titre": "Nos majestés les bêtes",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-15",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "LalyD79",
+        "titre": "Inspirant",
+        "texte": "J’adore écouter, c’est thérapeutique 🥰. Suivre des scènes de vie que j’ai vécu dans la peine mais les écouter maintenant racontées par Céline en joie et humour cela me guérit et m’offre une lecture tellement plus légère. À écouter et réécouter!"
+      },
+      {
+        "note": 5,
+        "auteur": "DocteurCG",
+        "titre": "L'humour des mamans",
+        "texte": "Ça faisait longtemps que je n'avais pas autant rigolé ! Merci, c'est tellement juste !"
+      },
+      {
+        "note": 5,
+        "auteur": "sellesstine",
+        "titre": "Idée",
+        "texte": "Pourquoi pas « la chambre des enfants » ? ☺️☺️☺️☺️☺️☺️☺️☺️☺️☺️☺️☺️"
+      }
+    ]
+  }
 }

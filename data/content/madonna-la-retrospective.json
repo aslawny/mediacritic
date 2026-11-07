@@ -25,7 +25,7 @@
     "culture"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
       "titre": "[Cinémadonna] Recherche Susan Désespérément - Susan Seidelman : le film féministe avec Madonna et Rosanna Arqu",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-26",
-  "frequence_jours": 21
+  "frequence_jours": 21,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Toto75011",
+        "titre": "Infos et bonne vibe",
+        "texte": "Excellent podcast sur la carrière de Madonna. Très bien documenté et les anecdotes sont très nombreuses. On apprécie aussi la complémentarité des intervenants et la good vibe. Bravo pour ce travail. C’est le podcast de référence sur queen Madonna."
+      },
+      {
+        "note": 3,
+        "auteur": "Theus44",
+        "titre": "Des améliorations à apporter",
+        "texte": "Bravo pour le travail et les recherches. Vous gagneriez en clarté en faisant un montage plus précis avant de mettre en ligne. À chaque épisode il y a entre 20 et 30 minutes qui pourraient être supprimés (les incessantes digressions sur des futurs épisodes, le statut d’icône de Ma…"
+      },
+      {
+        "note": 5,
+        "auteur": "You75013",
+        "titre": "Des infos pertinentes",
+        "texte": "Je découvre par hasard ce podcast ce matin en me réveillant et c'est super de découvrir autant d'infos pertinentes sur le travail d'une telle artiste. Bravo pour votre travail ! Très bonne élocution des animateurs !"
+      }
+    ]
+  }
 }

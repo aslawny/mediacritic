@@ -25,7 +25,7 @@
     "business"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
       "titre": "AI Agents: The New Decision-Making Layer in Commerce",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-18",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Gône",
+        "titre": "Un podcast inspirant !",
+        "texte": "J'ai découvert le podcast Techlipstick et je le recommande fortement à quiconque s'intéresse à la technologie, à l'innovation et, surtout, à l'impact des femmes dans ce domaine.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Naneofromage",
+        "titre": "Un podcast à haute valeur ajoutée",
+        "texte": "J’aborde chaque épisodes de ce podcast avec curiosité et parfois distance par rapport au sujet, et mon intérêt pour le digital et la tech est toujours grandement satisfait. C’est fluide, smart, ultra instructif et animé avec talent je trouve.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Sylpherea",
+        "titre": "Inspirant et enrichissant",
+        "texte": "Je suis le podcast depuis ses débuts et je suis toujours admirative des parcours impressionnants et des sujets abordés. Je recommande chaudement à toute personne qui s’intéresse à la tech, à l’entrepreneuriat, peu importe son âge ou son expérience 💪"
+      }
+    ]
+  }
 }

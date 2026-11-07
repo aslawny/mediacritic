@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/petite-licorne/id1765749292?uo=2",
       "trackId": 1765749292,
-      "rating": 4.1,
-      "ratingCount": 941,
+      "rating": 4.0,
+      "ratingCount": 946,
       "episodeCount": null
     }
   },
@@ -27,27 +27,31 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-08",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "BCI_84",
+        "titre": "J’adore même si j’ai 7 et 8 le 30 Mai",
+        "texte": "💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💝💝💝💝💝💝💝💝💝💝💝💝💝💝💝💝💝💝💝💝💝🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳👸🏼👸🏼👸🏼👸🏼👸🏼👸🏼👸🏼👸🏼👸🏼👸🏼👸🏼👸🏼👸🏼👸🏼👸🏼👸🏼👸🏼👸🏼👸🏼👸🏼👸🏼👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️🩷🩷🩷🩷🩷🩷🩷…"
+      },
+      {
+        "note": 1,
+        "auteur": "Link225er",
+        "titre": "Bof",
+        "texte": "Bof 🤷 une licorne j aime pas (c est peut-être parce que je suis un garçon)"
+      },
+      {
+        "note": 5,
+        "auteur": "💯 avec vous",
+        "titre": "Omg",
+        "texte": "J’adore vraiment vous m’aider vous m’apprenez des choses moi et mon frère on adore et ça veut pas dire que les personne qui on plus de 5 ans que vous avez pas le droit d’écouter franchement pépite ps: j’ai plus de 5 ans .…"
+      }
     ]
   },
   "episodes_recents": [

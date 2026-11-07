@@ -26,7 +26,7 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
       "titre": "Résumé — J’ai refusé d’obéir à mon manager… et j’ai été licencié",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-09-05",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-08",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "MalaikaSanté",
+        "titre": "Épisode 2154",
+        "texte": "Très enrichissant, merci pour cet aperçu complet sur les habitudes que nous adoptons en entreprise , elles mêmes très révélatrices de notre vision et rapport au travail, un rapport qui a mon sens se doit d’être transformé d’un point de vue culturel.…"
+      },
+      {
+        "note": 5,
+        "auteur": "SabrinaDu6.8.",
+        "titre": "Le contenu qui vous donne des supers pouvoirs 🫶🏼",
+        "texte": "C’est pour moi de très loin le meilleur podcast dans ce domaine. En tant que manager ayant plusieurs fois été confrontée à des managers et collègues malveillants par le passé, de nature hypersensible et étant très attentive au bien être de mes collaborateurs, c’est mon coup de bo…"
+      },
+      {
+        "note": 5,
+        "auteur": "Besoin quotidien",
+        "titre": "Une aide et soutient précieux",
+        "texte": "Tout d’abord merci pour ce contenu qui est très humain positif constructif et aidant. Je suis confrontée pour la première fois à une personne toxique lourde, et suite à une discussion avec mon manager, j’ai prochainement une réunion de gestion de conflit avec la personne en quest…"
+      }
     ]
   }
 }

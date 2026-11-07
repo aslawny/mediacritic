@@ -22,27 +22,31 @@
   "tags": [
     "histoire"
   ],
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-08",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Fukushima Kamacrazy Warboy",
+        "titre": "Excellent (sauf l’épisode 185)",
+        "texte": "Cinq étoiles pour un an d'écoute et un rendez-vous auquel je tiens vraiment. Je n’ai juste pas pu aller au bout de l'épisode 185… Entre 1:12:25 et 1:15:00, l'invité — le frère de Medoc — tient deux fois le même raisonnement problématique...…"
+      },
+      {
+        "note": 1,
+        "auteur": "Ludo veto",
+        "titre": "Cozy x LFI",
+        "texte": "Y’a moyen d’avoir une version sans opinion politique dont on se balek ?"
+      },
+      {
+        "note": 5,
+        "auteur": "Yayuu",
+        "titre": "Merci a vous deux",
+        "texte": "Présent day one, ce podcast en plus d’être mon bonbon quand je monte dans ma voiture, a été la « Closure » dont j’avais besoin pour soigner mon ado intérieur suite a la fermeture de Nolife. Vous êtes un peu plus âgé que moi donc comme des grands khere finalement.…"
+      }
     ]
   },
   "episodes_recents": [

@@ -26,7 +26,7 @@
     "series"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
       "titre": "Dix Pour Cent : On Débrief !",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-16",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Totoche292",
+        "titre": "À écouter vraiment",
+        "texte": "De l’humour, de la légèreté et pas seulement. Chaque femme peut se reconnaître dans de nombreuses situations et l’appui de la série « Sex and the city » pour les commentaires et les analyses est extrêmement malin"
+      },
+      {
+        "note": 5,
+        "auteur": "AveraBts",
+        "titre": "Ça me régale",
+        "texte": "Je suis entrain de me re-refaire sex and the City, je suis tombée sur votre podcast par hasard et quel plaisir de suivre vos analyse en travaillant ! Si vous cherchez une bff, je suis dispo !"
+      },
+      {
+        "note": 5,
+        "auteur": "Iris Laf",
+        "titre": "Iconiques et Incollables",
+        "texte": "Avec Salomé on ne prétend pas analyser le show en tout objectivité mais bien en fan girls. On espère que ça vous plaira ❤️"
+      }
+    ]
+  }
 }

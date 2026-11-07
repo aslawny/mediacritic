@@ -25,7 +25,7 @@
     "education"
   ],
   "addedAt": "2026-06-15",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
       "titre": "Tes relations amoureuses sont douloureuses jusqu'à ce que tu comprennes ça.",
@@ -51,25 +51,29 @@
   "derniere_activite": "2026-03-15",
   "frequence_jours": 21,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-08",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "changer les choses",
+        "titre": "Merci",
+        "texte": "Je considère néanmoins que les podcast que j’écoute font partie intégrante des réseaux sociaux... un jour je les hais !!!/ils font ressortir le pire du futile de la débilité et de la cruauté humaine Mais si l’on s’en sert pour apprendre et améliorer sa vie c’est vraiment un outil…"
+      },
+      {
+        "note": 5,
+        "auteur": "Ma~ Hilfe",
+        "titre": "Motivant, engageant... les coups de pieds au c*l dont on a tous besoin. Avec bienveillance.",
+        "texte": "J’ai commencé à écouter David il y a quelques semaines et son approche m’a fait du bien. J’ai compris grâce à son approche que je ne me faisais pas un cadeau en trouvant des excuses au lieu de mettre en place des solutions.…"
+      },
+      {
+        "note": 5,
+        "auteur": "caaaam😊",
+        "titre": "Tes vidéos m’inspirent 🥰",
+        "texte": "Je viens de regarder ta vidéo sur comment devenir la personne que tu mérites d’être, tu m’as mise les larmes aux yeux. J’admire ton travail et toute cette volonté que tu mets à vouloir nous rendre meilleur.…"
+      }
     ]
   }
 }

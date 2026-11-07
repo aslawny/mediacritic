@@ -24,7 +24,7 @@
     "tech",
     "numérique"
   ],
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
       "titre": "#6 The Family x GoldUp x Koudetat - avec Alice Zagury, Mélanie Dinane, Nesrine Sahraoui, Quentin Adam, Simon R",
@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2021-12-16",
-  "frequence_jours": 105
+  "frequence_jours": 105,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "rouxvince",
+        "titre": "Juste génial !",
+        "texte": "Un format inédit mixant Burger Quizz et Grosses Têtes mais en moderne. Un moment de franche rigolade. Pour les locaux mais pas que. À écouter sans modération !"
+      },
+      {
+        "note": 5,
+        "auteur": "YannCBienMoi",
+        "titre": "Fun et bien fait !",
+        "texte": "Bon concept, bonne exécution un super moment d'écoute et de bons éclats de rire. Vivement les prochains !"
+      },
+      {
+        "note": 5,
+        "auteur": "akstab",
+        "titre": "nickel!",
+        "texte": "Super podcast, drôle, bien animé et rythmé. Continuez comme ça on attend la suite!!"
+      }
+    ]
+  }
 }

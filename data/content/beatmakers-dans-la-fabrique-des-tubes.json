@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/beatmakers-dans-la-fabrique-des-tubes/id1828427770?uo=2",
       "trackId": 1828427770,
       "rating": 5.0,
-      "ratingCount": 21,
+      "ratingCount": 22,
       "episodeCount": null
     }
   },
@@ -26,7 +26,7 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
       "titre": "Bénédicte Schmitt pour « Dans la Merco Benz » de Benjamin Biolay [Saison 3 - 10/10]",
@@ -50,5 +50,27 @@
     }
   ],
   "derniere_activite": "2025-12-10",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-07",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

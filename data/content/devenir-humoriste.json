@@ -26,7 +26,7 @@
     "humour",
     "comédie"
   ],
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
       "titre": "(3/3) Vérino : \"mon objectif, c'est faire des blagues toute ma vie, pas de remplir des salles ou faire des vue",
@@ -50,5 +50,27 @@
     }
   ],
   "derniere_activite": "2022-12-21",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-07",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

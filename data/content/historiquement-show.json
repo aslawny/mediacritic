@@ -25,7 +25,7 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
       "titre": "Spéciale coups de cœur",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-06-11",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "sb167537",
+        "titre": "Intéressant mais…",
+        "texte": "La coupure pub du milieu est insupportable pendant les épisodes interessants"
+      },
+      {
+        "note": 5,
+        "auteur": "SevdesMazery",
+        "titre": "Meilleure émission historique",
+        "texte": "La meilleure émission d’histoire de la télévision française !"
+      },
+      {
+        "note": 4,
+        "auteur": "pitczirn",
+        "titre": "Problème",
+        "texte": "Les deux derniers épisodes sont identiques . Merci de faire le nécessaire"
+      }
+    ]
+  }
 }

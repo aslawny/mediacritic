@@ -24,7 +24,7 @@
   "tags": [
     "gaming"
   ],
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
       "titre": "S11E11 LAVOIEDUGEEK DERNIERE DE L'ANNEE+ TINTIN",
@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2023-12-22",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Dannywild",
+        "titre": "Les ambianceurs",
+        "texte": "Excellent podcast sur les jeux vidéos, les animateurs sont de véritables pro et ont la pèche, sans oublier un ... excellent sens de l'humour, que vous soyez amateurs de jeux vidéos ou non, de films et/ou de séries ( car de temps en temps l'émission brasse large ) je recommande ch…"
+      },
+      {
+        "note": 2,
+        "auteur": "yumekaizo",
+        "titre": "A éviter",
+        "texte": "Des intervenants qui ne bosse pas leur sujet, des blagues pas drôle, des silences gênants. Bref, inutile"
+      },
+      {
+        "note": 5,
+        "auteur": "dioux33",
+        "titre": "La meilleure émission jeux vidéo!",
+        "texte": "Grand fan de podcasts sur les jeux vidéo c'est de loin la meilleure émission. Dans une ambiance déjantée nos experts décortique chaque semaine l'actualité console, pc ou mobile.…"
+      }
+    ]
+  }
 }

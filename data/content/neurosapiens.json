@@ -25,27 +25,31 @@
     "vulgarisation"
   ],
   "addedAt": "2026-09-08",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-08",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "soniasoon",
+        "titre": "Déçue du podcast sur les hpi et sur le mentalisme",
+        "texte": "J’avais trouvé les autres épisodes globalement bien traités et pertinents. Celui sur le mentalisme était léger mais Celui sur les hpi n’est guère mieux.…"
+      },
+      {
+        "note": 5,
+        "auteur": "lunardu",
+        "titre": "Quelle pédagogie !",
+        "texte": "Un pur régal. Une virtuose de la pédagogie. Toujours soucieuse d’aller à l’essentiel tout en… disant tout ! J’ai été personnellement conforté dans mon approche de la vie. La mécanique quantique m’avait conduit à revoir certaines approches.…"
+      },
+      {
+        "note": 5,
+        "auteur": "AwjBE",
+        "titre": "Que dire...",
+        "texte": "Je mets 5 étoiles malgré moi car j'aurais aimé en mettre 10,15 ou 20.. j'ai écouté absolument tous les épisodes, ces épisodes qui m'ont aidé dans la période où j'ai été au plus et où le sommeil était mon ennemi.…"
+      }
     ]
   },
   "episodes_recents": [

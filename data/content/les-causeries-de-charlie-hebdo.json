@@ -24,7 +24,7 @@
     "politique"
   ],
   "addedAt": "2026-05-28",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
       "titre": "L’Allemagne, ses nazis, et les pédocriminels : les causeries de Charlie, épisode n°128",
@@ -48,5 +48,25 @@
     }
   ],
   "derniere_activite": "2026-09-10",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 4,
+        "auteur": "Danielflorian",
+        "titre": "Bravo, vous y arrivez.",
+        "texte": "L’émission 65 est de bonne tenue avec de l’humour. Bravo, pour une fois j’ai écouté en entier."
+      },
+      {
+        "note": 1,
+        "auteur": "Nicolas Williart",
+        "titre": "Indispensable",
+        "texte": "Pour moi, qui suis aveugle, ce podcast est mon seul moyen d’avoir accès à toute l’intelligence et l’humour qui caractérise Charlie Hebdo et ses journalistes. Je ne manquerai aucun épisode pour rien au monde."
+      }
+    ]
+  }
 }

@@ -25,7 +25,7 @@
   "tags": [
     "gaming"
   ],
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
       "titre": "Informel #35 : La remise en question... (PodRennes 2026)",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-07",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Roch Voisine94",
+        "titre": "Quelle chance!",
+        "texte": "Quelle chance, quelle joie de vivre dans la même temporalité que TMDJC! Parangon protéiforme de l’audio qui a fait du podcast son moyen d’expression.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Éric le loup",
+        "titre": "Incroyable de multiplicité",
+        "texte": "Tmdjc est partout et pourtant c’est toujours bien. Bravo pour cet effort sur l’inclusivité, le nombre incroyable de format, la qualité du son et les jolies vignettes des chapitres."
+      },
+      {
+        "note": 5,
+        "auteur": "leburpy",
+        "titre": "Quel vieux monsieur",
+        "texte": "Pratique pour retrouver l’intégralité des podcasts avec Tmdjc, vous trouverez sans doute quelque chose à votre goût ici"
+      }
+    ]
+  }
 }

@@ -24,7 +24,7 @@
     "géopolitique",
     "international"
   ],
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
       "titre": "BIEN-ÊTRE ET NUMÉRIQUE ÉDUCATIF ?",
@@ -35,5 +35,31 @@
       "date": "2023-07-19"
     }
   ],
-  "derniere_activite": "2023-08-26"
+  "derniere_activite": "2023-08-26",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Arganel",
+        "titre": "Incontournable",
+        "texte": "Une série de podcasts francophones incontournable. Niptech le podcast historique (plus de 4 ans) qui suit l'actualité tech startup et innovation. Niplife le podcast sur le développement de soi et sur des astuces de la vie de tous les jours.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Romain rhumiz",
+        "titre": "Nipcast une étape de plus pour les nip",
+        "texte": "Regroupement de podcasts sur la tech, les startup, le lifehacking, la vente, le développement, le sport … Les tags de nipcast correspondent tout à fait aux contenus des potcasts, ce sont des personnes aussi passionnées que passionnantes qui partagent leurs expériences et incitent…"
+      },
+      {
+        "note": 5,
+        "auteur": "Algernon_W",
+        "titre": "Nipcast, une réjouissance pour les oreilles",
+        "texte": "À vous écouter, progressivement, la technologie se dévoile sous une facette très humaine, ancrée dans nos sociétés. Vous êtes simultanément pratique et philosophique.…"
+      }
+    ]
+  }
 }

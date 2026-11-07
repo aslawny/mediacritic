@@ -27,27 +27,31 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-08",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "klerann",
+        "titre": "Toujours intéressant",
+        "texte": "Quel que soit le sujet, je trouve que Fabien manie à merveille ces « promenades sur les fils mentaux », il y a toujours à prendre, même quand je ne déroulerais pas le sujet de la même manière ou si je ne suis pas d’accord (la plupart du temps, je le suis… faut dire que nous avons…"
+      },
+      {
+        "note": 5,
+        "auteur": "MadYtb",
+        "titre": "Incroyable",
+        "texte": "Les mots ne suffisent pas pour exprimer à quel point ce podcast ne m’apporte que des choses positives. Il m’aide vraiment à réfléchir, à remettre en question certaines idées, à m’intéresser à d’autres, puis Fabien est un si bon conteur …"
+      },
+      {
+        "note": 5,
+        "auteur": "Deuxlanoe",
+        "titre": "L’IA sait tout, sauf…",
+        "texte": "Merci. Ton fils m’a fait avancer dans mes réflexions. Ce qui m’a frappé c’est un non-dits. Tu pars d’un préambule sans le nommer. Quand tu nous évoque nous les humains tu souligne quelque fois notre divinité. C’est vrai que c’est une force.…"
+      }
     ]
   },
   "episodes_recents": [

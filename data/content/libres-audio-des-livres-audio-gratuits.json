@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/libres-audio-des-livres-audio-gratuits/id1896801138?uo=2",
       "trackId": 1896801138,
       "rating": 3.5,
-      "ratingCount": 23,
+      "ratingCount": 25,
       "episodeCount": null
     }
   },
@@ -27,7 +27,7 @@
     "culture"
   ],
   "addedAt": "2026-06-18",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
       "titre": "La Vénus d'Ille (Prosper Mérimée) - Texte intégral",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-05-28",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 2,
+        "auteur": "La fille hypersensible",
+        "titre": "Bof",
+        "texte": "Il n’y a pas d’émotion dans la voix, c’est robotique Dommage"
+      },
+      {
+        "note": 1,
+        "auteur": "SansanDanser",
+        "titre": "Au secours",
+        "texte": "C’est pas vraiment écoutable… j’ai abandonné au bout de 3 minutes"
+      },
+      {
+        "note": 1,
+        "auteur": "Adela 77",
+        "titre": "IA",
+        "texte": "Lecture par une IA! La ponctuation est mal respectée, il n’y a aucun rythme, aucune émotion. Quel dommage, je me régalais d’avance !"
+      }
+    ]
+  }
 }

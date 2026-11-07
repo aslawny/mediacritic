@@ -25,7 +25,7 @@
     "series"
   ],
   "addedAt": "2026-05-28",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
       "titre": "Celui où on fait le bilan",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-02-15",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "polozamlou",
+        "titre": "J’adore",
+        "texte": "Ce podcast est super cool mais il reste quand même quelques défaut !sinon c’est 😊 bien"
+      },
+      {
+        "note": 3,
+        "auteur": "FloweRomane",
+        "titre": "Absences trop longues !",
+        "texte": "Bon podcast quand on veut se replonger dans la série, mais des absences trop longues sans explication.. voir un arrêt ?"
+      },
+      {
+        "note": 4,
+        "auteur": "Emmallnd",
+        "titre": "Impatiente",
+        "texte": "J’ai adoré les 2 premières saisons, étant une grande fan de friends et ayant vu et revue la série une bonne dizaines de fois, votre podcast me permet de devenir une spectatrice des oreilles ;) de friends …"
+      }
+    ]
+  }
 }

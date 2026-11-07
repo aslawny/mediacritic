@@ -24,7 +24,7 @@
     "sciences"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
       "titre": "Françoise, Dirigeante stratégique dans les High Tech de la Silicon Valley",
@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2023-11-13",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "LeGarsDéçu",
+        "titre": "Un vent d’inspiration",
+        "texte": "Dans chaque épisode, on a l’opportunité de s’identifier à l’interviewé. Se crée alors naturellement une mise en abime de nos propres choix de vies, en comparaison avec les leurs. Ça donne envie de se poser encore plus de question, et ça inspire pour l’avenir !"
+      },
+      {
+        "note": 5,
+        "auteur": "Nathanael77000",
+        "titre": "Témoignages passionnants",
+        "texte": "Des témoignages passionnants. Très inspirant de pouvoir découvrir les parcours/métiers possibles avec un diplôme d’ingénieur généraliste, peu connus lorsqu’on ne baigne pas dans ce milieu."
+      },
+      {
+        "note": 5,
+        "auteur": "MatthieuReumaux99",
+        "titre": "Icam. L'art et la manière de faire monde",
+        "texte": "Bravo pour cet excellent Podcast qui me permet de maintenir un lien avec cette très belle école d’ingénieurs qu’est l’Icam."
+      }
+    ]
+  }
 }

@@ -1,6 +1,6 @@
 {
-  "maj": "2026-11-06",
-  "total": 1316,
+  "maj": "2026-11-07",
+  "total": 1343,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -7636,6 +7636,12 @@
       "fiche": "fiches/tea-time-avec-marikigai-mymy-haegel.html"
     },
     {
+      "slug": "laureen-s-bad-asmr",
+      "titre": "Laureen's Bad ASMR",
+      "notes_apple": 26,
+      "fiche": "fiches/laureen-s-bad-asmr.html"
+    },
+    {
       "slug": "abdullah-al-matrood",
       "titre": "Abdullah Al Matrood",
       "notes_apple": 25,
@@ -7816,6 +7822,12 @@
       "fiche": "fiches/remember-the-time.html"
     },
     {
+      "slug": "les-secrets-du-grenier",
+      "titre": "Les secrets du grenier",
+      "notes_apple": 24,
+      "fiche": "fiches/les-secrets-du-grenier.html"
+    },
+    {
       "slug": "analysis-paralysis",
       "titre": "Analysis Paralysis",
       "notes_apple": 23,
@@ -7898,6 +7910,156 @@
       "titre": "In-Flower",
       "notes_apple": 23,
       "fiche": "fiches/in-flower.html"
+    },
+    {
+      "slug": "journal-afrique",
+      "titre": "Journal Afrique",
+      "notes_apple": 23,
+      "fiche": "fiches/journal-afrique.html"
+    },
+    {
+      "slug": "l-instant-zen-par-le-monastere",
+      "titre": "L'Instant Zen - par Le Monastère",
+      "notes_apple": 23,
+      "fiche": "fiches/l-instant-zen-par-le-monastere.html"
+    },
+    {
+      "slug": "la-bible-en-francais",
+      "titre": "La Bible en français",
+      "notes_apple": 23,
+      "fiche": "fiches/la-bible-en-francais.html"
+    },
+    {
+      "slug": "le-journal-imprevisible",
+      "titre": "Le Journal Imprévisible",
+      "notes_apple": 23,
+      "fiche": "fiches/le-journal-imprevisible.html"
+    },
+    {
+      "slug": "les-petits-reveurs-histoires-et-aventures-pour-enfants",
+      "titre": "Les Petits Rêveurs : histoires et aventures pour enfants",
+      "notes_apple": 23,
+      "fiche": "fiches/les-petits-reveurs-histoires-et-aventures-pour-enfants.html"
+    },
+    {
+      "slug": "les-rencontres-de-petrarque",
+      "titre": "Les Rencontres de Pétrarque",
+      "notes_apple": 23,
+      "fiche": "fiches/les-rencontres-de-petrarque.html"
+    },
+    {
+      "slug": "nova-stories",
+      "titre": "Nova Stories",
+      "notes_apple": 23,
+      "fiche": "fiches/nova-stories.html"
+    },
+    {
+      "slug": "radio-recyclerie",
+      "titre": "Radio REcyclerie",
+      "notes_apple": 23,
+      "fiche": "fiches/radio-recyclerie.html"
+    },
+    {
+      "slug": "orbinea-le-monde-des-odyssees-documentaire-podcast-histoire-pour-dormir-livre-au",
+      "titre": "Orbinéa Le Monde des Odyssées| Documentaire Podcast Histoire pour dormir Livre Audio Enfant & Adulte",
+      "notes_apple": 23,
+      "fiche": "fiches/orbinea-le-monde-des-odyssees-documentaire-podcast-histoire-pour-dormir-livre-au.html"
+    },
+    {
+      "slug": "speculations-by-sofilm",
+      "titre": "SPECULATIONS by Sofilm",
+      "notes_apple": 23,
+      "fiche": "fiches/speculations-by-sofilm.html"
+    },
+    {
+      "slug": "tiktok",
+      "titre": "TikTok",
+      "notes_apple": 23,
+      "fiche": "fiches/tiktok.html"
+    },
+    {
+      "slug": "toute-l-actualite-en-temps-reel-avec-europe-1",
+      "titre": "Toute l'actualité en temps réel avec Europe 1",
+      "notes_apple": 23,
+      "fiche": "fiches/toute-l-actualite-en-temps-reel-avec-europe-1.html"
+    },
+    {
+      "slug": "adnm-acteurs-du-nouveau-monde",
+      "titre": "ADNM - Acteurs Du Nouveau Monde",
+      "notes_apple": 22,
+      "fiche": "fiches/adnm-acteurs-du-nouveau-monde.html"
+    },
+    {
+      "slug": "beatmakers-dans-la-fabrique-des-tubes",
+      "titre": "Beatmakers : dans la fabrique des tubes",
+      "notes_apple": 22,
+      "fiche": "fiches/beatmakers-dans-la-fabrique-des-tubes.html"
+    },
+    {
+      "slug": "bon-temps-rouler",
+      "titre": "Bon Temps Rouler",
+      "notes_apple": 22,
+      "fiche": "fiches/bon-temps-rouler.html"
+    },
+    {
+      "slug": "business-of-music",
+      "titre": "Business Of Music",
+      "notes_apple": 22,
+      "fiche": "fiches/business-of-music.html"
+    },
+    {
+      "slug": "dans-le-bain",
+      "titre": "Dans Le Bain",
+      "notes_apple": 22,
+      "fiche": "fiches/dans-le-bain.html"
+    },
+    {
+      "slug": "debrouillard",
+      "titre": "Débrouillard",
+      "notes_apple": 22,
+      "fiche": "fiches/debrouillard.html"
+    },
+    {
+      "slug": "defuntes",
+      "titre": "DÉFUNTES",
+      "notes_apple": 22,
+      "fiche": "fiches/defuntes.html"
+    },
+    {
+      "slug": "des-elles-en-cuisine",
+      "titre": "Des Elles en Cuisine",
+      "notes_apple": 22,
+      "fiche": "fiches/des-elles-en-cuisine.html"
+    },
+    {
+      "slug": "devenir-humoriste",
+      "titre": "Devenir Humoriste",
+      "notes_apple": 22,
+      "fiche": "fiches/devenir-humoriste.html"
+    },
+    {
+      "slug": "deviens-genial-le-podcast-pour-trouver-sa-voie",
+      "titre": "Deviens Génial ! Le podcast pour trouver sa voie.",
+      "notes_apple": 22,
+      "fiche": "fiches/deviens-genial-le-podcast-pour-trouver-sa-voie.html"
+    },
+    {
+      "slug": "dj-m-zo",
+      "titre": "DJ M'Zo",
+      "notes_apple": 22,
+      "fiche": "fiches/dj-m-zo.html"
+    },
+    {
+      "slug": "e-herge2-tintin-et-la-bande-dessinee",
+      "titre": "E=Hergé2: Tintin et la bande dessinée",
+      "notes_apple": 22,
+      "fiche": "fiches/e-herge2-tintin-et-la-bande-dessinee.html"
+    },
+    {
+      "slug": "elan-par-hugodecrypte-decryptage-et-interview",
+      "titre": "Elan par HugoDécrypte - Décryptage et interview",
+      "notes_apple": 22,
+      "fiche": "fiches/elan-par-hugodecrypte-decryptage-et-interview.html"
     }
   ]
 }

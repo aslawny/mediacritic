@@ -26,7 +26,7 @@
     "societe"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
       "titre": "Autochtone la Bande-Annonce - le podcast voyage en Amérique du Sud",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-07-10",
-  "frequence_jours": 34
+  "frequence_jours": 34,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Chacourtois",
+        "titre": "Très très fan",
+        "texte": "Je suis très très fan de ce podcast qui réunit tout ce que j'aime: des histoires de vie de personnes \"normales\", du voyage, une voix qui vous emporte et la qualité journalistique qui va avec. Je ne m'en lasse pas! Bravo!!"
+      },
+      {
+        "note": 5,
+        "auteur": "ni'ls",
+        "titre": "Merci !",
+        "texte": "Bravo à Maud pour ce podcast, très bien produit, très intéressant, de très grande qualité. On part à la rencontre de femmes et d’hommes d’Amérique du sud, vraiment très dépaysant"
+      },
+      {
+        "note": 5,
+        "auteur": "Scoff42",
+        "titre": "Bénéfice de la MAD Jacques",
+        "texte": "Merci Maud pour cette découverte, j’apprécie beaucoup l’immersion que tu proposes ainsi que ta voix. Belle et longue réussite à Autochtone. Philippe"
+      }
+    ]
+  }
 }

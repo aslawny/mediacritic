@@ -24,27 +24,31 @@
   "tags": [
     "gaming"
   ],
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-08",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Plume2ficus",
+        "titre": "Merci pour la pilule",
+        "texte": "Cher.e.s membres de madmoizelle, Merci, je suis un mec, je vous ai connu au travers des nuits originales de ce bon Thomas Hercouet, et depuis, grâce à vous j’ai pris la pilule rouge (ou bleu je sais jamais... Bref, je me suis éveillé au féminisme). Depuis ma vie a changé.…"
+      },
+      {
+        "note": 2,
+        "auteur": "melomania75",
+        "titre": "A revoir",
+        "texte": "Probablement le moins féministe des magazines / podcasts sensés l'être (après Causette). On se souvient encore des articles ventant la teneur des films 50 nuances xD très peu s'en sont remis-es >< Dans ces podcasts, beaucoup de propos non-safe, sexistes (surtout dans les LMK) et…"
+      },
+      {
+        "note": 5,
+        "auteur": "gethuliel",
+        "titre": "Anecdote à Monaco",
+        "texte": "Alors là, je me reconnais dans l’anecbof de star à Monaco. J’étais petite, place du Casino, il y a le Café de Paris (un resto prout prout). Avec ma grand-mère, avant d’aller au ballet de fin d’année de l’académie de danse princesse Grace comme chaque année, on y déjeune.…"
+      }
     ]
   },
   "episodes_recents": [

@@ -23,7 +23,7 @@
     "education"
   ],
   "addedAt": "2026-07-27",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
       "titre": "365. ¿No tienes ni un duro? Expresiones de dinero en España",
@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2026-09-10",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "didoupitch",
+        "titre": "Le meilleur Podcast pour apprendre l’espagnol",
+        "texte": "Sara est formidable. Elle partage chaque semaine des sujets différents avec des notions grammaticale, des expressions du quotidien… vous y trouverez l’espagnol parlé au quotidien et non dans les livres scolaires…c’est un vrai plaisir de l’écouter.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Guillawme",
+        "titre": "👍🏼👍🏼🇪🇸",
+        "texte": "Soy francés y me gusta mucho este podcast porque cada semana puedo escuchar y aprender nuevas palabras y expresiones españolas para entender y hablar un poquito mejor español."
+      },
+      {
+        "note": 5,
+        "auteur": "Prat Ardoun",
+        "titre": "Una pasada",
+        "texte": "Suelo escuchar este podcast que es una pasada. Siempre las temas son muy pero muy interesantes. Sara habla de manera natural y es más maja que las pesetas."
+      }
+    ]
+  }
 }

@@ -25,7 +25,7 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
       "titre": "J'ai pas fait exprès - Les mots du docteur Catherine Dolto",
@@ -51,25 +51,29 @@
   "derniere_activite": "2024-08-27",
   "frequence_jours": 6,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-08",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "afla greyce",
+        "titre": "Cool",
+        "texte": "Je te déteste, tu recopies juste les idées des autres et moi j’aime pas ça c’est pas contre toi en fait moi je croyais que c’était avec tout ça des sorcières et tout ça parce que sur l’image c’est écrit fin c’est pas écrit mais les dessins qui sont de la petite sirène cendrillon…"
+      },
+      {
+        "note": 1,
+        "auteur": "ronvonkleef",
+        "titre": "T’es bêtes Charlie",
+        "texte": "Ta mi 3 étoile est tu dis que c’est nul🤪😒T’est bêtes🤭😝Écrit moi.Réponds moi.Juste t’a quel âges 🧐"
+      },
+      {
+        "note": 5,
+        "auteur": "vyfkkvgfjngtgjgf ho c",
+        "titre": "Zaccaria",
+        "texte": "Tarzan ponei méchant 💚💙💚💛💛🧡❤️❤️❤️❤️❤️❤️❤️🧡❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️🧡💛💚💙💚💛🧡❤️🧡💛💚💙💚💛🧡❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️…"
+      }
     ]
   }
 }

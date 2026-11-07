@@ -25,27 +25,31 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-08",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "pauline kamga",
+        "titre": "❤️🎧🎼👍🏾Le meilleure podcast du monde👍🏾🎼🎧 ❤️",
+        "texte": "J’adore j écoute sa H24 j’adore dommage qu’il les supprime en allant sa serais bien du Koba ,naps ,jul dommage. j’aicoute tout le temps Vald mais il ni est plus donc c chient de ouf 😅 . C bien on l écouter sur 📱, 💻, tablette ...…"
+      },
+      {
+        "note": 1,
+        "auteur": "Maellebg",
+        "titre": "Nul",
+        "texte": "Franchement j’adore skyrock mais c’est chiant quand il y a des restrictions 😩😭"
+      },
+      {
+        "note": 5,
+        "auteur": "Eliodu 75",
+        "titre": "INCROYABLE",
+        "texte": "Je trouve cette émission très bien qui nous fait découvrir des rappeurs pas forcément connus. Les freestyles sont épiques et c’est ça qui le fait vibrer. Vive planète rap, vive Fred, vive SKYROCK!!!!"
+      }
     ]
   },
   "episodes_recents": [

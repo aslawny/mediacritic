@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/100-mabrouk/id6805003593?uo=2",
       "trackId": 6805003593,
       "rating": 4.0,
-      "ratingCount": 21,
+      "ratingCount": 22,
       "episodeCount": null
     }
   },
@@ -25,7 +25,7 @@
     "societe"
   ],
   "addedAt": "2026-08-29",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
       "titre": "L'intégrale de 100% Mabrouk du jeudi 27 août 2026",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-27",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "manu ",
+        "titre": "quel professionnalisme",
+        "texte": "quel bonheur de suivre cette émission menée de main de maître par Sonia Mabrouk."
+      },
+      {
+        "note": 1,
+        "auteur": "davidh_psycho",
+        "titre": "ridicule",
+        "texte": "cette insupportable manie de systématiquement couper la parole de vos invités fait de vous de bien piètres journalistes politiques. pas étonnant que vous soyez sur cette chaîne."
+      },
+      {
+        "note": 2,
+        "auteur": "sylvidv",
+        "titre": "Insupportable",
+        "texte": "Mme Mabrouk Votre émission est inaudible tout le monde parle en même temps et l on ne perçoit qu’ une cacophonie insupportable à suivre Quand on a un plateau d invités à gérer on les arrête lorsque ils se coupent la parole or vous même couper sans cesse la parole .…"
+      }
+    ]
+  }
 }

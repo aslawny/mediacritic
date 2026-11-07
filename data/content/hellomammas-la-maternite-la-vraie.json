@@ -26,7 +26,7 @@
     "famille"
   ],
   "addedAt": "2026-06-18",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
       "titre": "Bérénice, le corps au bord",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-06-23",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-08",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lélé chocolat",
+        "titre": "Exceptionnel podcast",
+        "texte": "Merci beaucoup à toutes ces mamans qui nous partagent leurs grossesses , leur quotidien charge d’amour , leurs désir de maternité … Mais merci à toi Shane de laisser parler ces mamans que l’on entend si peu . Félicitations aux mamans qui ont partager leurs vies .…"
+      },
+      {
+        "note": 1,
+        "auteur": "Maksou ca",
+        "titre": "Très décevant",
+        "texte": "Les témoignages de ces mamans ne sont absolument pas mis en valeur. Quel gâchis! Le ton de voix monocorde de la podcasteuse est affreux, aucune répartie, elle ne rebondie sur rien mais pose ses questions de façon automatique… J’ai voulu écouté l’episode de Kim qui est une femme e…"
+      },
+      {
+        "note": 5,
+        "auteur": "Krilin300",
+        "titre": "Ne change rien 🙏🏻 Shane !!!!!",
+        "texte": "Témoignage top et sans tabou En temps que mère d’une petite fille de 3 ans et future mère de jumeaux, ce podcast m’est extrêmement utile je suis préparée à TOUT 🙂 j’écoute ce podcast quand ma fille est à l’école et il me permet de me divertir durant les longues journées alitée 🙃…"
+      }
     ]
   }
 }

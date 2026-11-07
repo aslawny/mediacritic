@@ -26,27 +26,31 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-08",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "caramelle obstinee",
+        "titre": "Soporifique",
+        "texte": "J étais une fidèle de la libre antenne depuis plus de 15 ans , j ai suivi Caroline Dublanche sur RTL après le départ de SOPHIE PETERS d Europe 1 et je n y trouve plus mon compte ..…"
+      },
+      {
+        "note": 1,
+        "auteur": "Sonia&Mila",
+        "titre": "C’est long en août",
+        "texte": "C’est vraiment laborieux avec Fabienne, ça ne va nul part… Cecilia ou Caroline revenez vite 😭"
+      },
+      {
+        "note": 5,
+        "auteur": "Dauphine94",
+        "titre": "Merci",
+        "texte": "Merci à Joseph Agostini dimanche 5 janvier pour l’émission autour de témoignages de mères , sur l’ambivalence que provoque une naissance pour la maman mais aussi pour le témoignage et l’accueil fait à Chris dont la petite fille est anorexique .…"
+      }
     ]
   },
   "episodes_recents": [

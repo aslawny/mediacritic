@@ -25,7 +25,7 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
       "titre": "Frérot et Soeurette, de Jacob et Wilhelm Grimm",
@@ -51,25 +51,29 @@
   "derniere_activite": "2026-09-07",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-08",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "# leya",
+        "titre": "J’adore",
+        "texte": "J’adore tellement vos podcasts moi je les écoute depuis trois ans c’est trop bien depuis que j’ai trois ans je fais que les écouter mon frère Ella il est un peu plus petit que moi et moi je fais que rêver de vous pas qu’est-ce adore ça merci pour tout ce que vous faites.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Plus d’épisodes",
+        "titre": "😱😱😱les publicités horribles",
+        "texte": "Des podcasts cannibales des pubs déplacées 🔞et sans arrêt 😱🙀👎👎👎👎👎👎👎👎👎"
+      },
+      {
+        "note": 5,
+        "auteur": "leenaïdja",
+        "titre": "ILYES ET CASSANDRA",
+        "texte": "Salut 👋 quand je vais dormir ma sœur vas écouter vos histoires je vous écrit car ma sœur aime ❤️🫶🏽vos histoire la personne qui vous écrit c’est ilyes j’ai 17 ans et ma sœur à 6 ans et voilà continuer comme ça bisous 😘 vous êtes trop fort pour faire ça tout les jours 👍🏽ma sœur a t…"
+      }
     ]
   }
 }

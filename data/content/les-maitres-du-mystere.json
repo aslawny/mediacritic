@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/les-ma%C3%AEtres-du-myst%C3%A8re/id1672297528?uo=2",
       "trackId": 1672297528,
       "rating": 4.7,
-      "ratingCount": 886,
+      "ratingCount": 889,
       "episodeCount": null
     }
   },
@@ -27,27 +27,31 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-08",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "y homme genre hhf",
+        "titre": "Le premier est le premier à la fin du monde en novembre et le premier tour du tour des oscars",
+        "texte": "Le tout dans un monde où les enfants ont des petits yeux qui brulent les gens de leur famille qui ont des problèmes avec les autres enfants qui sont des personnes de la police qui ont des problèmes avec les autres enfants qui sont des personnes que je ne connais plus je ne suis p…"
+      },
+      {
+        "note": 1,
+        "auteur": "Shannahée",
+        "titre": "Très très bien",
+        "texte": "Ça c’était du théâtre. Trop trop bien à écouter ça n’a pas pris une ride."
+      },
+      {
+        "note": 5,
+        "auteur": "Yabama",
+        "titre": "BRAVO",
+        "texte": "1000 bravo, j’apprécie énormément vos podcasts, j’attends avec impatience tous les mardis afin d’écouter les nouveaux épisodes sortis… Si je devais vraiment dire quelque chose de négatif sur votre podcast (et j’ai dû chercher pour le trouver) je dirais juste qu’il est dommage qu’…"
+      }
     ]
   },
   "episodes_recents": [

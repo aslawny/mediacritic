@@ -26,7 +26,7 @@
     "societe"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
       "titre": "#19 - 11 hôtels de charme au Vietnam à moins de 100€",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2025-08-09",
-  "frequence_jours": 32
+  "frequence_jours": 32,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-07",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Isatour",
+        "titre": "Super, top, merci, bravo!!",
+        "texte": "Merci cher Brice pour ce superbe podcast!! Très intéressant, dynamique, varié, et bien ponctué par les jingle des gares japonaises! Fidèle de ton blog, ayant habité en Asie - Chine et Japon - de 2014 à 2020, et adorant barouder et découvrir ce « continent » si incroyable, j’ai mi…"
+      },
+      {
+        "note": 1,
+        "auteur": "dhjiadiste du 93",
+        "titre": "Vincent curions Taïwan",
+        "texte": "Salut Brice je tiens à te remercier car grâce à ton podcast sur Taïwan j’ai pu entrer en contact avec Vincent et je sais donc que tu es à Taïwan avec ton fils amusez vous bien et profitez bien du voyage j’adore le podcast j’aimerais énormément avoir une dédicace dans le prochain…"
+      },
+      {
+        "note": 5,
+        "auteur": "FrédériquedlR",
+        "titre": "Enthousiaste !",
+        "texte": "Fidèle de ton blog depuis plusieurs années, je trouve que tes podcasts complètent super bien tes photos et articles. Ça reste dynamique et concret, avec quelques touches d'histoire pour enrichir le propos.…"
+      }
+    ]
+  }
 }
