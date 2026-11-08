@@ -52,6 +52,7 @@ from enrich_episodes import _lire, _texte  # noqa: E402
 from independance import _mots, est_independant  # noqa: E402
 import evenements  # noqa: E402  calendrier d'evenements (interne)
 from reseaux_emission import reseaux as reseaux_emission  # noqa: E402
+from rafraichir_fiche import rafraichir  # noqa: E402
 
 ROOT = Path(__file__).parent.parent
 DATA = ROOT / "data"
@@ -551,6 +552,22 @@ def date_fr(iso):
 DEEZER_MC = "https://api.deezer.com/podcast/1002376672/episodes?limit=3"
 
 
+def actualiser(slug, c, ecrire=True):
+    """Fiche de l'emission retenue mise a jour JUSTE AVANT publication : note,
+    avis, abonnes, episodes (demande de l'utilisateur, 08/11/2026). Une panne
+    de source ne bloque jamais le podcast du jour."""
+    try:
+        faits = rafraichir(slug, ecrire=ecrire)
+    except Exception as e:
+        print(f"  ! fiche de {slug} non rafraîchie : {e}")
+        return c
+    print(f"   fiche rafraîchie : {sorted(faits) or 'chiffres inchangés'}")
+    for champ in ("rating", "ratingCount", "subscribers"):
+        if champ in faits:
+            c[champ] = faits[champ][1]
+    return c
+
+
 def sortie_du_jour(jour):
     """Episode de MediaCritic sorti ce jour-la : {num, titre, url} ou None."""
     try:
@@ -580,9 +597,9 @@ def trouver_slug(titre, cat):
     return par_titre[proches[0]] if proches else None
 
 
-def entree_episode(jour, slug, num, url, note=None, verdict=None):
+def entree_episode(jour, slug, num, url, note=None, verdict=None, ecrire=True):
     cat = charger_catalogue()
-    c = cat.get(slug) or {}
+    c = actualiser(slug, cat.get(slug) or {}, ecrire)
     f = fiche(slug) or {}
     titre = c.get("title") or f.get("title") or slug
     type_ = c.get("type") or f.get("type")
@@ -671,7 +688,7 @@ def main():
         sortie = sortie_du_jour(jour)
         slug = trouver_slug(sortie["titre"], charger_catalogue()) if sortie else None
         if slug:
-            choix = entree_episode(jour, slug, sortie["num"], sortie["url"])
+            choix = entree_episode(jour, slug, sortie["num"], sortie["url"], ecrire=not a.dry_run)
             print(f"Jour de sortie : {choix['titre']}")
             for t, v in choix["sections"]:
                 print(f"  ## {t} : {v}")
@@ -861,6 +878,7 @@ def main():
     sujet_buzz = trouves[0][1] if trouves else (gardes[0] if gardes else None)
     if trouves:
         sc, s, c, ep = trouves[0]
+        c = actualiser(c["slug"], c, ecrire=not a.dry_run)
         f = fiche(c["slug"]) or {}
         genre = "sa vidéo" if c.get("type") == "youtube" else "son épisode"
         publie = "publiée" if c.get("type") == "youtube" else "publié"
