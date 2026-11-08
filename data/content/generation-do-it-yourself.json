@@ -21,12 +21,15 @@
       "episodeCount": 995
     }
   },
-  "mediacritic": null,
+  "mediacritic": {
+    "ep": 53,
+    "url": "https://www.mediacritic.fr/episodes/generation-do-it-yourself.html"
+  },
   "tags": [
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
   "episodes_recents": [
     {
       "titre": "#577 - Eloi Spinnler - Chef, Groupe Bonaloi - Viser l'excellence sans sacrifier l'humain",
