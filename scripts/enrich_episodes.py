@@ -18,6 +18,10 @@ Budget par execution (--limit) : la charge s'etale sur plusieurs nuits plutot
 que de lancer 8 000 requetes d'un coup. Les echecs sont memorises et ne sont
 pas retentes avant 30 jours.
 
+Rotation permanente (08/11/2026) : les fiches deja remplies sont relues, les
+plus suivies et les emissions critiquees chaque semaine, les autres selon leur
+activite (14, 45 ou 90 jours). Une fiche n'est reecrite que si elle a change.
+
 Tous les podcasts ne sont pas couverts : certains n'exposent aucun feedUrl via
 iTunes (verifie sur « Face a l'histoire »). C'est attendu, pas une erreur.
 
@@ -44,6 +48,12 @@ FEEDS = ROOT / "data" / "_feed_urls.json"
 UA = {"User-Agent": "Mozilla/5.0 (compatible; MediaCriticBot/1.0)"}
 MAX_EPISODES = 5
 RETENTER_APRES = 30
+# Rotation : jours entre deux relectures d'une fiche deja remplie.
+TAILLE_TETE = 500         # les plus suivies (avis Apple ou abonnes)
+INTERVALLE_TETE = 7       # tete + emissions critiquees
+INTERVALLE_ACTIF = 14     # un episode depuis moins de 60 jours
+INTERVALLE_AUTRE = 45
+INTERVALLE_DORMANT = 90   # rien depuis plus d'un an
 
 
 def _texte(x):
@@ -118,33 +128,71 @@ def episodes_youtube(channel_id):
     return _synthese(eps, dates)
 
 
+def audience(d):
+    pf = d.get("platforms") or {}
+    return max((pf.get("apple") or {}).get("ratingCount") or 0,
+               ((pf.get("youtube") or {}).get("subscribers") or 0) / 1000)
+
+
+def intervalle(d, tete, aujourdhui):
+    """Jours entre deux relectures d'une fiche deja remplie."""
+    if d["slug"] in tete or d.get("mediacritic"):
+        return INTERVALLE_TETE
+    derniere = d.get("derniere_activite") or ""
+    if derniere >= (aujourdhui - timedelta(days=60)).isoformat():
+        return INTERVALLE_ACTIF
+    if derniere and derniere < (aujourdhui - timedelta(days=365)).isoformat():
+        return INTERVALLE_DORMANT
+    return INTERVALLE_AUTRE
+
+
 def enrich(limit=300, dry_run=False):
+    """Depuis le 08/11/2026 : ROTATION PERMANENTE. Avant, une fiche deja remplie
+    n'etait plus jamais relue : 144 fiches sur 8 892 avaient un episode de
+    moins de 14 jours, et les « derniers episodes » affiches vieillissaient
+    indefiniment. Etat : « ok:AAAA-MM-JJ » = lue ce jour-la ; « ok » (ancien
+    format) = date inconnue, donc a relire en priorite ; « AAAA-MM-JJ » =
+    echec, a retenter apres RETENTER_APRES jours."""
     etat = json.loads(ETAT.read_text(encoding="utf-8")) if ETAT.exists() else {}
     feeds = json.loads(FEEDS.read_text(encoding="utf-8")) if FEEDS.exists() else {}
-    seuil = (date.today() - timedelta(days=RETENTER_APRES)).isoformat()
+    aujourdhui = date.today()
+    seuil = (aujourdhui - timedelta(days=RETENTER_APRES)).isoformat()
 
-    cibles = []
+    fiches = []
     for f in sorted(glob.glob(str(DATA / "*.json"))):
         try:
             d = json.loads(open(f, encoding="utf-8-sig").read())
         except Exception:
             continue
-        slug = d.get("slug")
-        if not slug or d.get("episodes_recents"):
-            continue
-        marque = etat.get(slug)
-        if marque and marque > seuil:
-            continue
+        if d.get("slug"):
+            fiches.append((Path(f), d))
+    tete = {d["slug"] for _, d in sorted(fiches, key=lambda x: -audience(x[1]))[:TAILLE_TETE]}
+
+    nouvelles, dues = [], []
+    for path, d in fiches:
+        slug = d["slug"]
         pf = d.get("platforms") or {}
         cid = (pf.get("youtube") or {}).get("channelId")
         tid = (pf.get("apple") or {}).get("trackId")
-        if cid or tid:
-            cibles.append((Path(f), d, cid, tid))
-        if len(cibles) >= limit:
-            break
+        if not (cid or tid):
+            continue
+        marque = etat.get(slug) or ""
+        if not d.get("episodes_recents"):
+            # Jamais remplie : prioritaire, sauf echec recent.
+            if not (marque[:2].isdigit() and marque > seuil):
+                nouvelles.append((path, d, cid, tid))
+            continue
+        lue = marque[3:] if marque.startswith("ok:") else ""
+        limite = (aujourdhui - timedelta(days=intervalle(d, tete, aujourdhui))).isoformat()
+        if lue <= limite:
+            # Les plus en retard d'abord ; a retard egal, les plus suivies.
+            dues.append((lue, -audience(d), path, d, cid, tid))
+    # Tete et emissions critiquees d'abord : ce sont les fiches les plus vues.
+    dues.sort(key=lambda x: (not (x[3]["slug"] in tete or x[3].get("mediacritic")), x[0], x[1]))
+    cibles = (nouvelles + [(p_, d_, c_, t_) for _, _, p_, d_, c_, t_ in dues])[:limit]
 
     if not cibles:
-        print("  episodes : rien a completer")
+        print("  episodes : rien a relire")
         return 0
 
     manquants = {}
@@ -184,18 +232,27 @@ def enrich(limit=300, dry_run=False):
         except Exception:
             return path, d, None
 
-    remplies = vides = 0
+    remplies = vides = inchangees = 0
     with ThreadPoolExecutor(max_workers=10) as ex:
         futs = [ex.submit(traiter, c) for c in cibles]
         for fu in as_completed(futs):
             path, d, res = fu.result()
             if not res or not res[0]:
                 vides += 1
-                etat[d["slug"]] = date.today().isoformat()
+                # Une fiche deja remplie garde ses episodes : flux muet n'efface
+                # rien, et elle sera relue au prochain tour de son intervalle.
+                etat[d["slug"]] = (("ok:" + aujourdhui.isoformat()) if d.get("episodes_recents")
+                                   else aujourdhui.isoformat())
                 continue
             eps, derniere, freq = res
+            etat[d["slug"]] = "ok:" + aujourdhui.isoformat()
+            # Reecrire seulement si quelque chose a change : la date du sitemap
+            # ne doit bouger que pour de vraies nouveautes.
+            if (d.get("episodes_recents") == eps and d.get("derniere_activite") == derniere
+                    and d.get("frequence_jours") == freq):
+                inchangees += 1
+                continue
             remplies += 1
-            etat[d["slug"]] = "ok"
             if not dry_run:
                 d["episodes_recents"] = eps
                 if derniere:
@@ -207,8 +264,8 @@ def enrich(limit=300, dry_run=False):
     if not dry_run:
         ETAT.write_text(json.dumps(etat, ensure_ascii=False), encoding="utf-8")
     suffixe = " (simulation)" if dry_run else ""
-    print("  episodes : %d fiche(s) enrichie(s), %d sans flux exploitable%s"
-          % (remplies, vides, suffixe))
+    print("  episodes : %d fiche(s) relue(s) : %d mise(s) à jour, %d inchangée(s), %d sans flux%s"
+          % (len(cibles), remplies, inchangees, vides, suffixe))
     return remplies
 
 

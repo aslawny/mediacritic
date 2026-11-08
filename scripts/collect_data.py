@@ -1377,7 +1377,7 @@ if __name__ == "__main__":
 
     # Derniers episodes, frequence et derniere activite, par petits lots.
     try:
-        enrich_episodes(limit=600)   # 300 -> 600 le 28/10/2026
+        enrich_episodes(limit=1200)  # rotation permanente depuis le 08/11/2026
     except Exception as e:
         print(f"  ! enrichissement des episodes ignore : {e}")
 
