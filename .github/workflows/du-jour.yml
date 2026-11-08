@@ -71,6 +71,9 @@ jobs:
       - name: Choix du podcast du jour
         if: steps.deja.outputs.deja != 'true'
         working-directory: site
+        env:
+          # Abonnes exacts de l'emission retenue (rafraichir_fiche.py).
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python scripts/du_jour.py
 
       # La fiche de l'emission choisie porte la mention « Podcast du jour » :
