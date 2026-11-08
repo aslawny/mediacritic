@@ -36,6 +36,7 @@ import json
 import re
 import time
 import urllib.request
+import zlib
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import date, datetime, timedelta
 from email.utils import parsedate_to_datetime
@@ -67,7 +68,13 @@ def _texte(x):
 def _lire(url, ko=140, timeout=25):
     req = urllib.request.Request(url, headers={**UA, "Range": "bytes=0-%d" % (ko * 1024)})
     with urllib.request.urlopen(req, timeout=timeout) as r:
-        return r.read(ko * 1024 + 1).decode("utf-8", "replace")
+        brut = r.read(ko * 1024 + 1)
+    # YouTube repond en gzip a une requete Range, meme sans Accept-Encoding :
+    # sans cette ligne, le flux est illisible et paraissait vide (08/11/2026).
+    # decompressobj tolere un flux tronque par le Range.
+    if brut[:2] == b"\x1f\x8b":
+        brut = zlib.decompressobj(31).decompress(brut, 5 * 1024 * 1024)
+    return brut.decode("utf-8", "replace")
 
 
 def _synthese(eps, dates):
