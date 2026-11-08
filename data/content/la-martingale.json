@@ -20,12 +20,15 @@
       "episodeCount": null
     }
   },
-  "mediacritic": null,
+  "mediacritic": {
+    "ep": 54,
+    "url": "https://www.mediacritic.fr/episodes/la-martingale.html"
+  },
   "tags": [
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",

@@ -1,0 +1,26 @@
+{
+  "ep": 54,
+  "saison": 2,
+  "slug": "la-martingale",
+  "page": "la-martingale.html",
+  "title": "La Martingale",
+  "tagline": "Le podcast finances perso de Matthieu Stefani",
+  "meta_desc": "MediaCritic analyse La Martingale, le podcast finances perso de Matthieu Stefani : les frais sans tabou, trois formats, et nos réserves sur ses partenaires.",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/f7/ad/5ff7ad4f-8218-c9c9-c5d0-d15b05c9757d/mza_4765272428608991403.jpg/600x600bb.jpg",
+  "initials": "LM",
+  "type_line": "Podcast · Finances personnelles · Investissement · Depuis 2019",
+  "hosts_line": "Animé par <strong>Alex · Lolo</strong>",
+  "authors": [
+    "Alex",
+    "Lolo"
+  ],
+  "buttons": [
+    {
+      "href": "https://podcasts.apple.com/fr/podcast/la-martingale/id1457342478",
+      "label": "🎙️ Le podcast"
+    }
+  ],
+  "note": 8,
+  "verdict": "Le podcast qui a rendu l'argent discutable à voix haute. Pas un conseil en investissement : un cours de vocabulaire. Et quand on comprend le vocabulaire, on se fait moins avoir.",
+  "content_file": "manifests/ep54-content.html"
+}
