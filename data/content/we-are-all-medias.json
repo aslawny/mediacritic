@@ -51,25 +51,29 @@
   "derniere_activite": "2026-04-23",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-09",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Knileef",
+        "titre": "Excellent et rare!",
+        "texte": "Très belle découverte que ce podcast sur les coulisses des médias! On y découvre tout ce qu’on a voulu savoir sur ce milieu. Et surtout, hyper inspirant du découvrir le parcours d’invités prestigieux. Hâte d’écouter les autres!"
+      },
+      {
+        "note": 5,
+        "auteur": "Ben Thomas T",
+        "titre": "Belle découverte",
+        "texte": "Je viens de découvrir ce podcast et j'aime beaucoup. Je me suis toujours intéressé de près à ce milieu des medias, qui est aussi fascinant que secret. Merci pour ces épisodes riches en enseignements !"
+      },
+      {
+        "note": 5,
+        "auteur": "Hugo.R.",
+        "titre": "Très utile",
+        "texte": "Le premier podcast sur la télé-réalité a été une mine d'informations précieuses et une réelle porte d'entrée vers l'étude de ce sujet, qui m'a aidé à constituer mon Mémoire de Master. Merci encore."
+      }
     ]
   }
 }

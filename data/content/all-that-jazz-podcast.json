@@ -51,25 +51,29 @@
   "derniere_activite": "2026-07-14",
   "frequence_jours": 28,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-09",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "____Florian____",
+        "titre": "À écouter sans modération",
+        "texte": "Un très bon podcast. Les conceptrices ont su trouver le juste équilibre entre analyse sérieuse et ambiance décontractée, expertise universitaire et format divertissant, pour créer le parfait mélange d'information et d'humour, à la fois rigoureux et accessible.…"
+      },
+      {
+        "note": 5,
+        "auteur": "paulinelewis",
+        "titre": "Un excellent podcast sur la comédie musicale !",
+        "texte": "Très bon podcast très complet sur la comédie musicale qui revient aussi bien sur des classiques que sur des films/artistes moins connu.e.s. Parfait pour les amateurs de l'âge d'or hollywoodien, pour les fans de Broadway et pour celles et ceux qui voudraient découvrir le genre !"
+      },
+      {
+        "note": 5,
+        "auteur": "Ania14888",
+        "titre": "Super podcast !",
+        "texte": "Un vrai régal à écouter pour les amoureux de comédies musicales. Intéressant, bien documenté et donne envie de découvrir des tonnes de films et de spectacles. Tout ça avec humour et bonne humeur, top! 👍🏻"
+      }
     ]
   }
 }

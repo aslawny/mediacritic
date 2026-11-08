@@ -53,25 +53,29 @@
   "derniere_activite": "2024-08-25",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-09",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "DelfDine",
+        "titre": "Un pur bonheur",
+        "texte": "Ces podcasts sont plein de bonne humeur, d’énergie, de conseils et d’apprentissages. J’adore les écouter lorsque je suis en voiture. Cela me permet de profiter de ce temps où l’on ne fait rien pour enrichir mes connaissances, me recentrer sur moi mais aussi me donner un coup de b…"
+      },
+      {
+        "note": 5,
+        "auteur": "Frederique T",
+        "titre": "Inspirant chaque semaine",
+        "texte": "Je suis tombée également dans le management il y a bien longtemps et me retrouve beaucoup dans les conseils de Fabienne qui parle vrai sans tabou et prenant même à contre pied certaines injonctions comme le laxisme 😉 et qui par ses exemples personnels donnent de la contenance rée…"
+      },
+      {
+        "note": 5,
+        "auteur": "FredMcologirl",
+        "titre": "Positivité à fond",
+        "texte": "Je viens d'écouter ton podcast sur les tâches/activités à énergie positive et j'ai beaucoup aimé tes conseils. Je retrouve déjà des bonnes pratiques que je mets en place comme courir à la pause du midi pour me redonner de l'énergie.…"
+      }
     ]
   }
 }

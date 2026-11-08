@@ -52,25 +52,29 @@
   "derniere_activite": "2023-05-04",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-09",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "AuroreB05",
+        "titre": "Pertinent, efficace, applicable",
+        "texte": "Ce podcast est très inspirant. Laurian aborde des thématiques riches et importantes dans le champs du management. On ressort de chaque épisode avec des pistes concrètes et applicables ce qui permet très vite de s’en inspirer. Je recommande vivement. Beau travail !"
+      },
+      {
+        "note": 5,
+        "auteur": "Victoire_Hopia",
+        "titre": "Chaque épisode est une pépite !",
+        "texte": "Merci pour ces nombreux partages très inspirants. Je passe chaque épisode branché sur mes notes pour garder en mémoire les nombreuses astuces (dont certaines déjà appliquées !) qui peuvent changer la vie d’un manager, surtout quand on débute."
+      },
+      {
+        "note": 5,
+        "auteur": "saramonteirosoares",
+        "titre": "Transparent et honnête ❤️",
+        "texte": "Laurian pose des super questions et les invités se prêtent au jeu, un podcast indispensable pour tous les jeunes managers"
+      }
     ]
   }
 }

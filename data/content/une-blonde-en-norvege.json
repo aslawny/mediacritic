@@ -53,25 +53,29 @@
   "derniere_activite": "2026-09-22",
   "frequence_jours": 6,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-09",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Fanch Breizh",
+        "titre": "Instructif et très intéressant",
+        "texte": "De supers podcasts très intéressant pour qui se passionne pour la culture nordique et ce joli pays qu’est la Norvège. Anne-Sophie nous conte sa vie et ses connaissances de ce pays qui l’a accueilli.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Nico Reagit",
+        "titre": "A ajouter dans votre playlist",
+        "texte": "Bravo pour ces beaux épisodes sur la Norvège! Belles qualité, chouettes interviews, voyages garanti! Merci 🙏👌😍🤟🏻👍"
+      },
+      {
+        "note": 5,
+        "auteur": "Laure Sch",
+        "titre": "Passionnant et éclairant !",
+        "texte": "J’ai beaucoup appris en écoutant ce podcast. Des beaux sujets et de supers invités ! Bravo 🤗"
+      }
     ]
   }
 }

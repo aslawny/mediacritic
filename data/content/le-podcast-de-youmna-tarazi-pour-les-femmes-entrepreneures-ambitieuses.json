@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-10",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Blue eyes Flow",
+        "titre": "Que du bonheur",
+        "texte": "Merci infiniment pour ces soupirs… Tellement nécessaire pour se remettre au rythme de la nature … Baisser les armes et les boucliers…être dans son vrai !🙏❤️ Cette méditation est très apaisante pour se re-poser sur nos fondations profondes et faire confiance au processus avant d’a…"
+      },
+      {
+        "note": 5,
+        "auteur": "PowPow66",
+        "titre": "Merci !",
+        "texte": "Merci pour toutes ces chouettes méditations et réflexions. Vous êtes une des personnes avec qui j’arrive le plus à me projeter lors des méditations guidées et elles me font un bien fou !"
+      },
+      {
+        "note": 5,
+        "auteur": "AmélieSu",
+        "titre": "Inspirant",
+        "texte": "J’ai pris le podcast en cours et j’ai écouté tous les épisodes avec beaucoup d’intérêt. L’univers de Youmna est riche et pluri-forme. Il inspire différentes parts de moi-même."
+      }
+    ]
+  }
 }

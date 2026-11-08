@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-15",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "FranckPARIENTI",
+        "titre": "Excellent podcast sur la finance",
+        "texte": "Ravi d’écouter une pro de la TV faire un podcast intéressant pour comprendre les différents aspects de la finance."
+      },
+      {
+        "note": 1,
+        "auteur": "Nezzuummyu",
+        "titre": "Sujet très intéressant",
+        "texte": "Mais il faudrait laisser parler un peu plus les invités qui ont rarement le temps de finir leurs phrases et donc d’approfondir la thématique."
+      },
+      {
+        "note": 2,
+        "auteur": "LucieLaw",
+        "titre": "Intéressants",
+        "texte": "Les sujets sont intéressants. Cependant la présentatrice l'est moins. Il est important d'éviter de couper la parole car il y a des personnes qui écoutent et ne reçoivent pas le fil de pensée des interviewés jusqu'au bout. Personne un peu suffisante...…"
+      }
+    ]
+  }
 }

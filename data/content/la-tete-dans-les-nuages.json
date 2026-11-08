@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2023-05-08",
-  "frequence_jours": 33
+  "frequence_jours": 33,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Captain_gini",
+        "titre": "Une pépite ce Podcast 🤩",
+        "texte": "Merci Ralitsa pour ce podcast et le Pitch. De la bienveillance et une mine d’informations motivantes, inspirantes avec tous ces portraits / interviews. Merci pour cette qualité également."
+      },
+      {
+        "note": 5,
+        "auteur": "Juliandcom",
+        "titre": "Onde de positivités",
+        "texte": "J’aime beaucoup ses podcast: bienveillante, relaxante et optimiste; c’est la dose de bonne humeur et de bienveillance qu’il nous faut. Merci pour tout ce que tu fais 🙏✨"
+      },
+      {
+        "note": 5,
+        "auteur": "Thais Toudert",
+        "titre": "Une pépite !",
+        "texte": "Merci à Ralitsa pour ce podcast qui fait du bien ! De la légèreté, des bon conseils bref un super moment selfcare ! ✨"
+      }
+    ]
+  }
 }

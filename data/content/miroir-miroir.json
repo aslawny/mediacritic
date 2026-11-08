@@ -27,25 +27,29 @@
   "addedAt": "2026-05-25",
   "updatedAt": "2026-11-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-09",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "rapha1967",
+        "titre": "Mais où est-elle",
+        "texte": "Bonjour Je me suis à l’écoute de Podcasts récemment du vôtre je dirais que c’est l’un des meilleurs. je suis inquiet à l’idée de savoir que vous ne publiez plus depuis un certain temps.…"
+      },
+      {
+        "note": 1,
+        "auteur": "chloe 75010",
+        "titre": "Grosse déception",
+        "texte": "J’ai été très déçue car je trouve que les thèmes sont passionnants mais traités sans profondeur. C’est vraiment le café du commerce. Exemple: pour dénoncer le mythe de la parisienne (femme parfaite) on renvoie à un autre stéréotype (jeune fille qui galère dans son stage cdisé) po…"
+      },
+      {
+        "note": 5,
+        "auteur": "Ja 💅🏾",
+        "titre": "Superbe podcast !!!",
+        "texte": "J'ai découvert M.M en écoutant le dernier épisode de Kiffe Ta Race (Nos corps appropriés)... et depuis je stan haha. J'ai écouté presque tous les épisodes. 👏🏾👏🏾 L'épisode avec Pr. Mèmeteau est juste mon fave pour de multiples raisons.…"
+      }
     ]
   },
   "episodes_recents": [

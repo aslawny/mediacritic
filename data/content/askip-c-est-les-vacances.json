@@ -53,25 +53,29 @@
   "derniere_activite": "2026-07-28",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-09",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lilas3531",
+        "titre": "Salut",
+        "texte": "Coucou moi c’est lilas juste un petit message pour vous dire : super podcast franchement continuer j’adore 🥰 d’ailleurs je reguarde aussi la série,par contre j’ai pas encore écoutée les épisodes spécial Toussaint mais on est le 26 octobre et il n’y a que 6 épisodes je crois donc…"
+      },
+      {
+        "note": 1,
+        "auteur": "Invtrdbl.🧞‍♀️🌺",
+        "titre": "Léa",
+        "texte": "Bah si, si on a nos, nos…fin qd t est au stade de la puberté… Brff bisouss 😘"
+      },
+      {
+        "note": 5,
+        "auteur": "Kazushisaku",
+        "titre": "Trrrop 👍🏼 bien",
+        "texte": "Mega cool mais j’avoue Dorian c’est bastian fan de la star académie !!!!!!🤩🤩🤩🤩🤩😃😃😃😃sinon je m’appelle Alice et j’ai 11ans. Et trouve l’intrus :😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😁😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄. 😛😛😛😛😛😛😛😛😛😛😛😛😛😛😛😛😛😛😛😛😛😛😛😛😛😛😛😝😛😛😛😛😛😛😛😛😛😛😛😛😛😛😛😛😛😛😛😛😛😛😛😛😛😛😛😛😛.…"
+      }
     ]
   }
 }

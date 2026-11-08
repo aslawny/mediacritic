@@ -51,25 +51,29 @@
   "derniere_activite": "2023-07-01",
   "frequence_jours": 17,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-09",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "abeille Balland Marie",
+        "titre": "Allonsenfants",
+        "texte": "Bravo quelle bonne idée très intéressant on connaît un peu mieux le parcours de ces célébrités . C est sympas belle narration . Abonnez vous e. Plus l intérêt on peut écouter en plusieurs fois . Romain on reconnaît tes talents de journaliste , Félicitations ."
+      },
+      {
+        "note": 3,
+        "auteur": "onseleremate",
+        "titre": "Allons enfants",
+        "texte": "Belle découverte de l’animateur de Koh Lanta dans une interview où l’on prend son temps et où l’on sent que l’invité, en totale confiance, peut se livrer en donnant des détails de sa vie qui le rendent plus humain que ne le laisse supposer sa célébrité.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Bastos Demnos",
+        "titre": "Un angle neuf",
+        "texte": "L’idée semblait simple et pourtant c’est le premier podcast qui se consacre en profondeur à l’enfance de ses invités. Un angle original dans un exercice - l’interview de personnalité - qui semblait compliqué à renouveler. Un grand bravo !"
+      }
     ]
   }
 }

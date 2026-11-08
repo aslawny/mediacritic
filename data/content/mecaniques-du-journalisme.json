@@ -26,25 +26,29 @@
   "addedAt": "2026-08-05",
   "updatedAt": "2026-11-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-09",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "comtois rends toi nenni ma foi",
+        "titre": "Lance Armstrong",
+        "texte": "Podcast passionnant, qui nous permet de mieux approcher, non seulement le système de dopage professionnalisé de l’équipe de ce coureur, mais aussi un peu le système environnant. Et ce qui confirme aussi que « patience et longueur de temps font plus que force ni que rage ».…"
+      },
+      {
+        "note": 2,
+        "auteur": "benjaminageorges",
+        "titre": "EP",
+        "texte": "D’habitude fantastique, le dernier EP est un peu gênant… le tutoiement est il une bonne idée ??"
+      },
+      {
+        "note": 5,
+        "auteur": "Unegouttedoz",
+        "titre": "Passionnant !",
+        "texte": "Podcast passionnant. Si intéressant d’avoir le témoignage du journaliste Mediapart qui a révélé l’affaire Cahuzac pour connaître l’enquête, le point de vue de Mediapart sur le déroulement de l’affaire mais également avoir un autre regard sur l’affaire dont les conséquences vont a…"
+      }
     ]
   }
 }

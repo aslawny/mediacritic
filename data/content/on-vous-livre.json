@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-15",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "LunaMLR",
+        "titre": "Un bon premier épisode !",
+        "texte": "J'ai été surprise de découvrir le monde du livre via ce prisme des réseaux sociaux. C'est intéressant d'ouvrir le débat sous cet angle-là. Ça change des podcasts littéraires un peu trop élitistes, puis cette ambiance sincère et bienveillante fait vraiment du bien.…"
+      },
+      {
+        "note": 1,
+        "auteur": "CZagore",
+        "titre": "Déçue",
+        "texte": "Moi aussi j’ai été déçue. La vie d’influenceurs Bookstagram m’intéresse assez peu. Je trouve le sujet très éloigné de l’écriture. J’aurais préféré un thème sur les techniques d’écriture ou des éditeurs parlant de ce qui détermine leur choix d’éditer un manuscrit.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Ax?_",
+        "titre": "Super intéressant",
+        "texte": "Un vrai regard qui permet de comprendre les enjeux complexes de l’édition de nos jours, qui doit prendre en compte l’influence, les tendances actuelles et les outils de communication. Une conversation sincère à laquelle on a l’impression de participer !"
+      }
+    ]
+  }
 }

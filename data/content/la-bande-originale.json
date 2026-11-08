@@ -26,25 +26,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-11-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-09",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Djabawal",
+        "titre": "Pourquoi tant de haine dans les comments...",
+        "texte": "Je comprends pas cet acharnement sur Nagui. OK il peut paraître prétentieux et hautain. Mais le gars arrive à réunir la crème des chroniqueurs et des humoristes français et en plus il s’intéresse vraiment à ses invités et leurs œuvres alors laissez-le tranquille.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Rem5411",
+        "titre": "Paul mirabel svp",
+        "texte": "Peut on avoir les chroniques de paul mirabel en podcast svp !!!!!"
+      },
+      {
+        "note": 5,
+        "auteur": "RenéeBonneau",
+        "titre": "Franche Culture",
+        "texte": "Un véritable bonheur, d’entendre la voix de Maïtena Biraben au micro de Franche. Un vrai régal, que d’avoir ce sourire joyeux et sérieux, ça me rappelle Nous ne sommes pas des anges. Je lui un merveilleux retour, une belle revanche .…"
+      }
     ]
   }
 }

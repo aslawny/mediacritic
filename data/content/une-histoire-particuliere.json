@@ -25,25 +25,29 @@
   ],
   "updatedAt": "2026-11-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-09",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "sobbek",
+        "titre": "Le procès des arméniens à Berlin",
+        "texte": "Que ça fait du bien de voir la justice rendue à ce point !. Merci pour ce podcast et cette histoire judiciaire que j’ignorais, croyant souvent au pot de terre contre le pot de fer. Malheureusement il m’a fallu beaucoup d’efforts pour y comprendre quelque chose.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Bernard mole",
+        "titre": "Le logiciel est nul",
+        "texte": "Les émissions sont passionnantes, mais la gestion et l’accessibilité aussi épisodes est lamentable"
+      },
+      {
+        "note": 5,
+        "auteur": "MaDesBouc",
+        "titre": "Benita Anguinet, illusioniste",
+        "texte": "Bravo pour cette série sur Bénita Anguinet, cette célèbre illusionniste du 19e que je ne connaissais pas. Une artiste de talent singulière et à la longévité impressionnante. J’ai été glacée de comprendre le lien entre suffragisme et tour de magie “la femme coupée”.…"
+      }
     ]
   }
 }

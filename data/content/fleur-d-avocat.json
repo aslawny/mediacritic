@@ -52,21 +52,27 @@
   "frequence_jours": 6,
   "avis_publics": {
     "source": "apple",
-    "boutique": "be",
-    "tri": "mostrecent",
-    "releve": "2026-09-09",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
     "extraits": [
       {
         "note": 5,
-        "auteur": "gaetan noel",
-        "titre": "Un podcast qui ouvre l’esprit !",
-        "texte": "Un podcast découvert par hasard, mais qui fait beaucoup de bien. Des invités intéressants, qui se bougent pour trouver des solutions innovantes. Très chouette, à recommander. Merci !"
+        "auteur": "benmiouc",
+        "titre": "Écoutez Fleur d’avocat, c’est formidable",
+        "texte": "Avocat depuis 1998, je viens de découvrir Fleur d’avocat il y a quelques jours à travers les podcasts. C’est extrêmement intéressant parce que l’animatrice laisse parler mes confrères et les amène à parler de sujets dont on entend rarement parlé (les patrons qui vous ont formé, l…"
+      },
+      {
+        "note": 2,
+        "auteur": "cece33760",
+        "titre": "Problème sur le dernier podcast",
+        "texte": "Bonjour il y a un problème à la lecture du dernier podcast Ça revient sans cesse en arrière Merci"
       },
       {
         "note": 5,
-        "auteur": "Sonia-B.",
-        "titre": "Inspirant",
-        "texte": "Un podcast qui fait du bien! On ne voit pas le temps passer tellement l’ambiance y est bienveillante, instructive et chaleureuse! Un must pour les juristes ET non-juristes!"
+        "auteur": "margotte19987",
+        "titre": "Instructif et distrayant",
+        "texte": "C’est toujours un grand plaisir de découvrir le parcours de ces confrères rencontrés par Lilas Louise. Au début, je me concentrais sur des parcours similaires au mien mais le hasard de la lecture automatique durant de longues heures en voiture m’a fait découvrir d’autres profils…"
       }
     ]
   }

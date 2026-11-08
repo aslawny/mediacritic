@@ -51,5 +51,25 @@
     }
   ],
   "derniere_activite": "2026-06-29",
-  "frequence_jours": 13
+  "frequence_jours": 13,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "jcouturi12",
+        "titre": "Hyper interessant",
+        "texte": "Podcast hyper interessant avec un angle novateur. Hâte de pouvoir écouter les prochains épisodes !"
+      },
+      {
+        "note": 5,
+        "auteur": "Hitch68110",
+        "titre": "Passionnant",
+        "texte": "C’est simple : je n’ai pas vu le temps passé. Ces échanges sont passionnants, on en redemande !"
+      }
+    ]
+  }
 }

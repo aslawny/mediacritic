@@ -52,21 +52,27 @@
   "frequence_jours": 12,
   "avis_publics": {
     "source": "apple",
-    "boutique": "be",
+    "boutique": "fr",
     "tri": "mosthelpful",
-    "releve": "2026-09-09",
+    "releve": "2026-11-08",
     "extraits": [
       {
         "note": 5,
-        "auteur": "Tofwel",
-        "titre": "Vive le cinéma!",
-        "texte": "Un des meilleurs podcasts cinéma! Drôle, intelligent, hyper complet. Continuez comme ça!❤️❤️❤️"
+        "auteur": "DantesBelmond",
+        "titre": "Cathartique et efficace",
+        "texte": "C’est toujours un plaisir de vous écouter à chaque nouvelle sortie d’épisode. Des formats efficaces traités pour certains avec une justesse et une profondeur aiguisé. D’autres juste là pour nous inviter à hurler avec la meute.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Zguigui23Z",
+        "titre": "Vive la pub",
+        "texte": "3 coupures pub en 45 minutes, ça devient une habitude dans tous les podcasts ! Franchement saoulant."
       },
       {
         "note": 5,
-        "auteur": "Swirvluca",
-        "titre": "Super intéréessant",
-        "texte": "Podcast très intéressant fait par des personnes qui savent de quoi elles parlent. C'est rare"
+        "auteur": "bigguyeddie",
+        "titre": "Les indispensables podcasts de Capture Mag",
+        "texte": "Je lisais Messieurs Djoumi, Bordas, Dupuis et Mossaïkis lorsque ils écrivaient dans Mad Movies. À l’époque déjà, ils faisaient preuve d’une grande rigueur analytique, d’une érudition pointue et d’un enthousiasme rafraichissant...…"
       }
     ]
   }

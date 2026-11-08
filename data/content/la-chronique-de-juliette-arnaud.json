@@ -49,25 +49,29 @@
   "derniere_activite": "2026-10-04",
   "frequence_jours": 3,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-09",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Melan33000",
+        "titre": "Intelligentes et sensibles",
+        "texte": "Des chroniques intelligentes, sensibles, pleines de références et qui donnent à réfléchir sur nous même, notre humanité et notre rapport aux autres, humain et non humain."
+      },
+      {
+        "note": 5,
+        "auteur": "Coco&Peter",
+        "titre": "Un régal...",
+        "texte": "On se sent plus intelligent après avoir écouté cette belle dame! Ses références résonnent en nous, Goldman, Dion, Ferrante ce dimanche... Bravo!"
+      },
+      {
+        "note": 5,
+        "auteur": "Cé Gé",
+        "titre": "Julieeeeeette !",
+        "texte": "Tu vas me manquer tout l'été 💔 Tes chroniques déjà trop rates me donnent l'impression de discuter avec une amie."
+      }
     ]
   }
 }

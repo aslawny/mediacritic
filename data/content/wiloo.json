@@ -28,25 +28,29 @@
   "addedAt": "2026-06-12",
   "updatedAt": "2026-11-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-09",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "El Pollo Listo",
+        "titre": "Point faible trop fort",
+        "texte": "Je suis pas un grand passionné (coupe du monde, match de mon club, L’OL, et les les résultats de temps en temps des autres compétitions) mais j’aime écouter ce podcast …"
+      },
+      {
+        "note": 5,
+        "auteur": "🦁🦁🦁🦁OL",
+        "titre": "Trop bien",
+        "texte": "Incroyable, avant j’écoutais des vieux podcasts de foot nuls qui sortent tout les mois et maintenant que j’ai commencé à écouter Wiloo, il y a des podcasts presque toutes les semaines et ses analyses sont incroyables… Pourrais-Tu commencer par le 20ème joueur jusqu’au 1er quand t…"
+      },
+      {
+        "note": 5,
+        "auteur": "PEDRI ❤️ PODCASTS",
+        "titre": "Le prime du podcast français",
+        "texte": "Wiloo est un super podcast qui est à la base une chaîne de vidéos (qui sont très bien aussi). Les analyses précises, previews, pronos, débrifs, focus sur des équipes nationales avant les grandes compétitions, focus sur des clubs de Champions League,… TRÈS COMPLET, TRÈS INTÉRESSAN…"
+      }
     ]
   },
   "episodes_recents": [

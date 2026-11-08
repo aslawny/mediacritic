@@ -53,25 +53,29 @@
   "derniere_activite": "2026-08-26",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-09",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "lagriffedemaho",
+        "titre": "Toujours passionnant !",
+        "texte": "J’écoute Baleine sous Gravillon depuis des années et je n’ai jamais été déçue d’un seul épisode. Ils sont tous intéressants (pour peu qu’on soit intéressé), et toujours très bien racontés, imagés, même pour sur des sujets parfois un peu complexes, Marc trouve toujours l’exemple p…"
+      },
+      {
+        "note": 5,
+        "auteur": "Perd son intérêt",
+        "titre": "Merci et bravo !!!",
+        "texte": "Podcast découvert grâce au bouche à oreille qui correspond tellement à mes convictions, chacun à son niveau peut faire un petit pas pour rendre ce monde meilleur, en voici quelques uns !🫶🏻 De mon côté j’ai décidé de créer une entreprise de paysagiste pour travailler avec le végét…"
+      },
+      {
+        "note": 5,
+        "auteur": "Oli Gobi",
+        "titre": "La plus belle 🤩 ⭐️⭐️⭐️⭐️⭐️",
+        "texte": "C’est trop bien j’ai l’impression d’être dans l’exploration 🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩…"
+      }
     ]
   }
 }

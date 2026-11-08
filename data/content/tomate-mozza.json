@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2024-09-07",
-  "frequence_jours": 58
+  "frequence_jours": 58,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Gianni Molinaro",
+        "titre": "Stupendo",
+        "texte": "Un podcast ultra intéressant pour quiconque a des liens avec l’Italie. On apprend beaucoup grâce aux invités et Cristofer, avec une vraie curiosité sur les parcours, les points communs et différences qu’on pourrait avoir avec eux.…"
+      },
+      {
+        "note": 5,
+        "auteur": "habilka",
+        "titre": "Passionnant !",
+        "texte": "Je découvre des destins incroyables et de belles histoires de famille. N'étant pas d'origine italienne, ces parcours sont néanmoins très enrichissants pour mieux comprendre l'évolution de la France d'un point de vue sociétal.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Fsftw",
+        "titre": "A découvrir quand on aime l’Italie",
+        "texte": "Un super podcast pour découvrir les gens issues de l’immigration italienne. Très intéressant d’entendre des expériences de vie différentes et le rapport des invités avec leurs « italiennités »"
+      }
+    ]
+  }
 }

@@ -48,5 +48,25 @@
     }
   ],
   "derniere_activite": "2026-09-14",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 1,
+        "auteur": "So Socrates",
+        "titre": "Comprends pas ?",
+        "texte": "Bonjour, C'était supposé être des podcasts sur le bien être et, depuis septembre nous avons des sujets très politiques, avec de la colère. Je ne comprends pas..."
+      },
+      {
+        "note": 1,
+        "auteur": "leregicide",
+        "titre": "Pubs durant le podcast",
+        "texte": "Les podcasts sur les affirmations positives… entrecoupés par des pubs pour shopify …. Que dire ??? C’est ridicule et insupportable !"
+      }
+    ]
+  }
 }

@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-27",
-  "frequence_jours": 21
+  "frequence_jours": 21,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Poppy59",
+        "titre": "Des rencontres authentiques",
+        "texte": "Un podcast pour voyager en France sans bouger de chez soi et découvrir des gens, des produits authentiques et des paysages. Et même quand on est de la région qui est évoquée, on se rend compte qu’on passe à côté de tellement de richesses ! Merci, l’écoute est un pur bonheur."
+      },
+      {
+        "note": 5,
+        "auteur": "Paul BRESSE",
+        "titre": "Authentique",
+        "texte": "Très intéressant et agréable à entendre. La parole est réservée et donnée aux intervenants. Format un peu court qui pourrait être plus long sans lasser… Bobine double la mise avec son magazine, tout aussi intéressant, et surtout très esthétique."
+      },
+      {
+        "note": 5,
+        "auteur": "Céphise",
+        "titre": "Chocovore",
+        "texte": "Miam! Je viens d’écouter l’épisode sur le chocolat en faisant mes courses… mauvaise idée ??? Oui! Mais c’était top cet épisode et j’ai hâte de rentrer et d’encore plus déguster mon paquet de chocolat la baleine à cabosse ! Merci François !"
+      }
+    ]
+  }
 }

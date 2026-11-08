@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-07-12",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "acrosims3",
+        "titre": "À renouveler",
+        "texte": "Émission parfaite pour le dimanche Détente humour convivialité l’animation est à la fois professionnelle et chaleureuse, ce qui donne une vraie impression de proximité L intervention du chroniqueur enrichie par des archives est passionnante"
+      },
+      {
+        "note": 1,
+        "auteur": "Nulachier223",
+        "titre": "Passez votre chemin - que leurs amis qui commentent",
+        "texte": "Pas ouf, parle bcp pour ne rien dire, pas à l’aise à la caméra. Faut arrêter de forcer quand c’est pas fait pour soi"
+      },
+      {
+        "note": 5,
+        "auteur": "Coussin de rêve",
+        "titre": "Un délice !",
+        "texte": "Émission particulièrement agréable à écouter, très adapté au dimanche. Une discussion saine, sans prise de tête mais pas sans opinion, avec un duo d’animateurs top, des chroniques pertinentes. Bref, hâte de la suite !"
+      }
+    ]
+  }
 }

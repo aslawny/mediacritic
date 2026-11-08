@@ -50,25 +50,29 @@
   "derniere_activite": "2026-09-22",
   "frequence_jours": 5,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-09",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Nikidone",
+        "titre": "Excellent podcast cyclo",
+        "texte": "Excellent podcast cycliste qui contrairement à d’autres audio du même genre prend le temps de parler cyclisme féminin. Bien que ce ne soit pas nécessairement ce que je regarde le plus cela permet de connaître un peu plus cet univers qui monte gentiment en notoriété.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Fab75974",
+        "titre": "Trop de découpages !",
+        "texte": "Le peu que j’ai écouté, le podcast est peut-être intéressant mais… je n’en sais finalement rien tant le contenu est découpé ! Quel est l’intérêt pour l’auditeur et son confort d’écoute ?"
+      },
+      {
+        "note": 5,
+        "auteur": "laurent 79",
+        "titre": "The Podcast",
+        "texte": "Quelle impatience d’écouter Guillaume et François Pierre décrypter l’actualité et les coulisses du monde du monde cyclisme pro. Les intervenants donnent un éclairage vu de l’intérieur. Le tout dans la bonne humeur ! Beaucoup de professionnalisme. Bravo les gars.…"
+      }
     ]
   }
 }

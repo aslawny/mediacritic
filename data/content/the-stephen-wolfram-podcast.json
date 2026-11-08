@@ -1,0 +1,53 @@
+{
+  "slug": "the-stephen-wolfram-podcast",
+  "title": "The Stephen Wolfram Podcast",
+  "author": "Wolfram Research",
+  "type": "podcast",
+  "categories": [
+    "tech",
+    "numerique"
+  ],
+  "description": "Stephen Wolfram is the creator of Mathematica, Wolfram|Alpha and Wolfram Language; the author of A New Kind of Science; and the founder and CEO of Wolfram Research. Over the course of nearly four decades, he has been a pioneer in the development and application of computational thinking—and has been responsible for many discoveries, inventions and innovations in science, technology and business. On his podcast, Stephen discusses topics ranging from the history of science to the future of civilization and ethics of AI.",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/c6/11/74/c6117437-ca95-e056-3a78-4a016207f095/mza_9643851438300389494.jpg/170x170bb.png",
+  "language": "",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/the-stephen-wolfram-podcast/id1296350707?uo=2",
+      "trackId": 1296350707,
+      "rating": 5.0,
+      "ratingCount": 4,
+      "episodeCount": null
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "tech",
+    "numerique"
+  ],
+  "addedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "episodes_recents": [
+    {
+      "titre": "What’s the Future for Pure Math Research in the Age of AI?",
+      "date": "2026-10-09"
+    },
+    {
+      "titre": "Personal Update & AMA (September 18, 2026)",
+      "date": "2026-10-08"
+    },
+    {
+      "titre": "2026 Wolfram Summer Research Institute: Opening Keynote",
+      "date": "2026-07-16"
+    },
+    {
+      "titre": "History of Science & Technology Q&A (June 17, 2026)",
+      "date": "2026-06-30"
+    },
+    {
+      "titre": "Future of Science and Technology Q&A (June 12, 2026)",
+      "date": "2026-06-29"
+    }
+  ],
+  "derniere_activite": "2026-10-09",
+  "frequence_jours": 1
+}

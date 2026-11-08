@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-02-20",
-  "frequence_jours": 9
+  "frequence_jours": 9,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Beun14",
+        "titre": "Un podcast de qualité",
+        "texte": "Je te félicite pour la qualité du contenu du podcast et également pour la qualité de tes invités."
+      },
+      {
+        "note": 5,
+        "auteur": "Flowrianh",
+        "titre": "un des meilleurs",
+        "texte": "Monsieur Vincent Issartel ça régal podcast quali invité top propre net précis merci 🙏"
+      },
+      {
+        "note": 5,
+        "auteur": "Le Squad de la Performance 🚀",
+        "titre": "Épisode avec Guillaume Peltier",
+        "texte": "2h sans langue de bois et très explicite sur son métier ! Très cool 🥊"
+      }
+    ]
+  }
 }

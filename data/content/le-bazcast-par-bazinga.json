@@ -26,25 +26,29 @@
   "addedAt": "2026-05-25",
   "updatedAt": "2026-11-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-09",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Adripetit",
+        "titre": "Le meilleur podcast que j’écoute!",
+        "texte": "Merci Baz de donner ton temps pour nous partager ta vision (et te faire kiffer). J’ai 17 ans et tu es l’une de mes principales motivations pour avoir commencé la muscu il y a 2 ans et pour m’encourager à me mettre au running à côté du fitness.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Kenza________",
+        "titre": "Une pépite !",
+        "texte": "Grande consommatrice de podcast depuis des années, je suis tombée par hasard sur le tiens. Je ne te connaissais pas avant mais vraiment quelle pépite ! Tu véhicules une énergie qui donne envie de donner le meilleur de soi et tu interroges des invités avec une telle fraîcheur.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Mathys 54330",
+        "titre": "Arrête jamais s’il te plaît !!!",
+        "texte": "Comme toi avec Max ou Christian, tu es un véritable exemple, même si tu me connais pas, tu m’as tellement apporté depuis ces 3 années que je te suis.…"
+      }
     ]
   },
   "episodes_recents": [

@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2025-10-31",
-  "frequence_jours": 89
+  "frequence_jours": 89,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Celia Grandhomme",
+        "titre": "Génial ! Vivement les prochains épisodes ! :)",
+        "texte": "Très intéressant de pouvoir rencontrer les artisans et professionnels de la lettre et découvrir leur passion, leur savoir et sa transmission. Un super podcast qui nous fait apprendre et découvrir les personnes qui créent des signes et des lettres, que l'on soit déjà initié ou non…"
+      },
+      {
+        "note": 5,
+        "auteur": "Djeepay",
+        "titre": "Une thématique originale.",
+        "texte": "Par le choix pertinent des intervenant.es et une très bonne gestion des échanges, « lettres mobiles » nous permet d’approcher, de mieux comprendre la création typographique sous toutes ses formes. Deux premiers épisodes qui ne laissent augurer que du bon pour la suite."
+      },
+      {
+        "note": 5,
+        "auteur": "marionrnr10",
+        "titre": "Une très belle ouverture sur les métiers de la lettre",
+        "texte": "Avec un sujet de podcast inédit, Anton nous emporte dans son univers et ses questionnements de façon très intéressante"
+      }
+    ]
+  }
 }

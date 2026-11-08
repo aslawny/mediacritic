@@ -26,25 +26,29 @@
   ],
   "updatedAt": "2026-11-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-09",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Éludent",
+        "titre": "La littérature a son émission",
+        "texte": "Une bien belle émission attendue chaque semaine avec impatience. François Busnel et ses invités sont les meilleurs ambassadeurs pour les livres, les libraires et la lecture. Ce podcast est complémentaire à l’émission TV et permet la (ré)écoute sans la contrainte de l’écran."
+      },
+      {
+        "note": 1,
+        "auteur": "Beadu93",
+        "titre": "Hommage à Paul Auster ?",
+        "texte": "Très étonnée et peinée qu’il n’y ait pas une émission hommage à Paul Auster."
+      },
+      {
+        "note": 5,
+        "auteur": "La Laiterie du Gontey",
+        "titre": "Tu n’as qu’une vie : défends-la.",
+        "texte": "Merci pour la richesse des échanges, des témoignages, des intelligences offertes à nos oreilles, je vais tous vous réécouter plusieurs fois tellement il y a à recevoir dans cette émission et merci pour vos mots, Nicolas Mathieu, mots qui résonnent particulièrement en moi."
+      }
     ]
   },
   "episodes_recents": [

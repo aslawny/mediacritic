@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-06",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Sylvie VK",
+        "titre": "Salma",
+        "texte": "Merci Salma et Alix pour cet épisode où la parole honnête, authentique de Salma nous émeut et nous permet de nous interroger sur notre capacité à dire ce qui est bon … ou pas … pour nous en tant que femme et en tant que mère.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Lovoa",
+        "titre": "À toutes les mamans et celle en devenir",
+        "texte": "Des expériences partagées , on ne sent pas le temps passer on s attache aux invités à leurs histoires, L’animatrice et les sujets abordés sont toujours intéressants et instructifs. Je recommande vivement à tous ceux qui cherchent à élargir leurs horizons de l'écouter.\""
+      },
+      {
+        "note": 5,
+        "auteur": "Safi dia",
+        "titre": "Top",
+        "texte": "Qu’est-ce que ça fait du bien d’entendre ces différents témoignages et merci aux intervenants professionnels. Bravo Alix, tu permets aux parents de s’exprimer et de partager leurs expériences. Merci 🥰"
+      }
+    ]
+  }
 }

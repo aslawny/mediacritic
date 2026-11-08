@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-05-24",
-  "frequence_jours": 55
+  "frequence_jours": 55,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Jb22628",
+        "titre": "A écouter sans modération",
+        "texte": "Foncez découvrir Glouglou! Au travers de personnalités inspirantes Pyves nous fait découvrir l’univers infini du vin. Attention c’est addictif! 😉"
+      },
+      {
+        "note": 5,
+        "auteur": "hugo.arch",
+        "titre": "Glouglou, nouveau rendez-vous mensuel !",
+        "texte": "Bravo Pyves, le podcast régale ! En toute humilité, ça transpire la passion et donne envie de déboucher des pépites. Forza GlouGlou !"
+      },
+      {
+        "note": 5,
+        "auteur": "kladawoua",
+        "titre": "Top! Rafraîchissant 👌",
+        "texte": "Très sympa, une approche ludique et pas pompeuse. Échanges toujours instructifs et amusant! Bravo. Go on!"
+      }
+    ]
+  }
 }

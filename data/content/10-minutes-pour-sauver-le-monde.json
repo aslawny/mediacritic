@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-26",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Esther.p99",
+        "titre": "Infos qui donnent le sourire",
+        "texte": "J’adore écouter Sogood, ils partagent des sujets d’actualité toujours très intéressants et qu’on ne retrouve pas forcément par les biais d’informations plus classiques. On apprends toujours quelque chose de nouveau et le positivisme des deux présentateurs fait toujours plaisir …"
+      },
+      {
+        "note": 5,
+        "auteur": "banana3009",
+        "titre": "Super !",
+        "texte": "Des infos qu’on n’entend pas ailleurs, et qui mettent de bonne humeur pour donner l’énergie d’agir. Je recommande !"
+      },
+      {
+        "note": 5,
+        "auteur": "ChantalRégale",
+        "titre": "Super émission",
+        "texte": "A écouter tous les jours pour retrouver l’envie d’agir et le sourire"
+      }
+    ]
+  }
 }

@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2025-12-01",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "NfkfkamoandjflL",
+        "titre": "Excellent travail",
+        "texte": "Un grand merci pour ces podcast!!! Je trouve ça super bien expliqué. Les anecdotes. Seul minuscule bémol (selon moi) les musiques, je n’y trouve pas d’intérêt mais ça n’est que mon avis …"
+      },
+      {
+        "note": 5,
+        "auteur": "BuzzLeGrand",
+        "titre": "Très bon travail",
+        "texte": "Merci pour ce Podcast, venant d’arriver à Lyon, cela m’aide à m’imprégner de la culture de la ville, démarche non évidente au vue de la situation actuelle ne permettant pas d’échanger avec les Lyonnais."
+      },
+      {
+        "note": 5,
+        "auteur": "_r3m",
+        "titre": "Indispensable",
+        "texte": "L’écoute est indispensable pour tout amoureux de Lyon qui se respecte Passionnant de bout en bout"
+      }
+    ]
+  }
 }

@@ -28,25 +28,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-11-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-09",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "mimite07",
+        "titre": "Super",
+        "texte": "Salem moi j’ai 9 ans et je t écoute . Quand j’ai vu ta vidéo 3 aliment haram que beaucoup pense… j ai foncer dans le frigo vérifier les produits. J’ai parler de ta chaîne YouTube a mon entourage . Et en écrivant l a j écoute un de tes podcasts.…"
+      },
+      {
+        "note": 2,
+        "auteur": "AS🇩🇿",
+        "titre": "As Salem Arleykoum",
+        "texte": "Serait-il possible d’avoir les sources avec le noms des hadiths l’auteur ou les sourates avec les versets, pour les prochains podcast insha Allah."
+      },
+      {
+        "note": 5,
+        "auteur": "MusaKoub",
+        "titre": "Merci d’avance",
+        "texte": "Barakallah oufik tonton j’ai 12 ans et j’aime bien écouter tes podcasts est ce que tu pourrais faire des épisodes pour la prière , par exemple comment bien se concentrer pendant ça prière et penser à sa prière peux tu m’aider s’il te plaît"
+      }
     ]
   },
   "episodes_recents": [

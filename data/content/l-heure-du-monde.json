@@ -50,25 +50,29 @@
   "derniere_activite": "2026-09-08",
   "frequence_jours": 2,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-09",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Hideto15",
+        "titre": "Merci",
+        "texte": "Bonjour, je viens de dévorer le podcast Espagne Écho du silence. Petit fils de républicain et donc d’origine espagnole, je ne pensais pas que ce sujet enfoui dans la mémoire familiale dont je ne m’étais que rarement intéressé me remue autant et me fasse ressentir autant d’émotion…"
+      },
+      {
+        "note": 1,
+        "auteur": "E.M.2025",
+        "titre": "Publicité intempestive",
+        "texte": "Je pensais qu’en payant un abonnement pour une presse de qualité, je ne subirais pas la publicité des médias gratuits, je me suis manifestement trompé."
+      },
+      {
+        "note": 5,
+        "auteur": "sophie s'énerve",
+        "titre": "Pédagogique, dense et fiable",
+        "texte": "En 20 minutes une synthèse très claire et lumineuse par un des grands journalistes spécialisés du Monde. Permet de rattraper rapidement et facilement ce qu’on n’a pas suivi, tout autant que d’avoir les dernières actualités pointues fiables mises en perspective de ce qu’on suit ha…"
+      }
     ]
   }
 }

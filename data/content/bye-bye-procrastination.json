@@ -51,25 +51,29 @@
   "derniere_activite": "2026-08-20",
   "frequence_jours": 13,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-09",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ghani2019",
+        "titre": "Podcast efficace",
+        "texte": "Un petit pas après l’autre. Un conseil que j’applique en me programmant une tâche par jour de repos. Aujourd’hui c’est un placard de cuisine trié et rangé. Comme motivation, je met le podcast en route.…"
+      },
+      {
+        "note": 2,
+        "auteur": "Socratemoi",
+        "titre": "Pas passionnant Narcisse",
+        "texte": "Claire passe plus de temps à raconter sa vie qu’à donner des conseils."
+      },
+      {
+        "note": 5,
+        "auteur": "sandclu",
+        "titre": "Claire est une magicienne !",
+        "texte": "J’ai été tellement conquise par le podcast de Claire, son énergie, sa rigueur, sa grande intelligence, sa générosité que je me suis inscrite à son programme de coaching « Better Faster Smarter ».…"
+      }
     ]
   }
 }

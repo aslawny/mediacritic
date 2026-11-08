@@ -47,25 +47,29 @@
   "derniere_activite": "2026-05-18",
   "frequence_jours": 6,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-09",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Azertyooooo",
+        "titre": "Des questionnements importants",
+        "texte": "J’ai adoré le côté immersif du podcast mais surtout ses questionnements importants. En tant que médecins on oublie parfois de remettre en question le système et le rouleau compresseur qui entraîne tout sur son passage y compris notre santé mentale.…"
+      },
+      {
+        "note": 5,
+        "auteur": "fafadéziles",
+        "titre": "Bravo !",
+        "texte": "Bravo cher confrère pour votre sincérité . Nous avons 20 ans d écart et je viens juste de terminer le premier épisode . J espère que dans les suivants, je vous écouterai avoir retrouvé une sérénité dans l exercice de votre métier et le plaisir qu il peut procurer .…"
+      },
+      {
+        "note": 5,
+        "auteur": "Romaypunto",
+        "titre": "Super série de fiction",
+        "texte": "Yassine et son équipe nous embarquent, dès le début de cette incroyable fiction, dans un voyage insoupçonné : celui d’un médecin qui, à peine « validé » par le système, se questionne sur ses motivations profondes.…"
+      }
     ]
   }
 }

@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-03-26",
-  "frequence_jours": 22
+  "frequence_jours": 22,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "lbv0",
+        "titre": "Au top !",
+        "texte": "J’ai découvert ce podcast un peu par hasard et je le trouve vraiment très intéressant. J’espère que j’aurai l’occasion de passer également dans ce programme qui m’inspire énormément. Bonne continuation."
+      },
+      {
+        "note": 5,
+        "auteur": "brenda94340",
+        "titre": "Hâte",
+        "texte": "Hâte de découvrir les podcasts donnant la parole à des entrepreneurs industriels et pas seulement à des startupeurs."
+      },
+      {
+        "note": 5,
+        "auteur": "Shealiou",
+        "titre": "Très intéressant",
+        "texte": "Podcast très original et très intéressant. C’est très enrichissant d’écouter l’expérience des entrepreneurs!"
+      }
+    ]
+  }
 }

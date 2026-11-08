@@ -1,6 +1,6 @@
 {
-  "maj": "2026-11-07",
-  "total": 1343,
+  "maj": "2026-11-08",
+  "total": 1378,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -7984,6 +7984,12 @@
       "fiche": "fiches/toute-l-actualite-en-temps-reel-avec-europe-1.html"
     },
     {
+      "slug": "we-rise",
+      "titre": "We rise",
+      "notes_apple": 23,
+      "fiche": "fiches/we-rise.html"
+    },
+    {
       "slug": "adnm-acteurs-du-nouveau-monde",
       "titre": "ADNM - Acteurs Du Nouveau Monde",
       "notes_apple": 22,
@@ -8060,6 +8066,210 @@
       "titre": "Elan par HugoDécrypte - Décryptage et interview",
       "notes_apple": 22,
       "fiche": "fiches/elan-par-hugodecrypte-decryptage-et-interview.html"
+    },
+    {
+      "slug": "l-histoire-americaine",
+      "titre": "L'histoire américaine",
+      "notes_apple": 22,
+      "fiche": "fiches/l-histoire-americaine.html"
+    },
+    {
+      "slug": "l-entretien-de-l-intelligence-economique",
+      "titre": "L'Entretien de l'intelligence économique",
+      "notes_apple": 22,
+      "fiche": "fiches/l-entretien-de-l-intelligence-economique.html"
+    },
+    {
+      "slug": "le-cab",
+      "titre": "Le Cab'",
+      "notes_apple": 22,
+      "fiche": "fiches/le-cab.html"
+    },
+    {
+      "slug": "le-divan",
+      "titre": "LE DIVAN",
+      "notes_apple": 22,
+      "fiche": "fiches/le-divan.html"
+    },
+    {
+      "slug": "ledrivertl2",
+      "titre": "#LeDriveRTL2",
+      "notes_apple": 22,
+      "fiche": "fiches/ledrivertl2.html"
+    },
+    {
+      "slug": "les-emissions-culturelles-d-inter",
+      "titre": "Les émissions culturelles d'Inter",
+      "notes_apple": 22,
+      "fiche": "fiches/les-emissions-culturelles-d-inter.html"
+    },
+    {
+      "slug": "litteratures-comparees-william-marx",
+      "titre": "Littératures comparées - William Marx",
+      "notes_apple": 22,
+      "fiche": "fiches/litteratures-comparees-william-marx.html"
+    },
+    {
+      "slug": "on-refait-la-planete",
+      "titre": "On refait la planète",
+      "notes_apple": 22,
+      "fiche": "fiches/on-refait-la-planete.html"
+    },
+    {
+      "slug": "pleinement-epanouie",
+      "titre": "Pleinement épanouie",
+      "notes_apple": 22,
+      "fiche": "fiches/pleinement-epanouie.html"
+    },
+    {
+      "slug": "podcast-spiritualite",
+      "titre": "Podcast Spiritualité",
+      "notes_apple": 22,
+      "fiche": "fiches/podcast-spiritualite.html"
+    },
+    {
+      "slug": "poipoines-podcast",
+      "titre": "POIPOINES PODCAST",
+      "notes_apple": 22,
+      "fiche": "fiches/poipoines-podcast.html"
+    },
+    {
+      "slug": "radio-metal-podcasts",
+      "titre": "Radio Metal Podcasts",
+      "notes_apple": 22,
+      "fiche": "fiches/radio-metal-podcasts.html"
+    },
+    {
+      "slug": "revue-parfum-le-podcast",
+      "titre": "Revue parfum - Le podcast",
+      "notes_apple": 22,
+      "fiche": "fiches/revue-parfum-le-podcast.html"
+    },
+    {
+      "slug": "riolo-club",
+      "titre": "Riolo Club",
+      "notes_apple": 22,
+      "fiche": "fiches/riolo-club.html"
+    },
+    {
+      "slug": "rtl-humour",
+      "titre": "RTL Humour",
+      "notes_apple": 22,
+      "fiche": "fiches/rtl-humour.html"
+    },
+    {
+      "slug": "s-d-f-sorties-du-four",
+      "titre": "S.D.F : Sorties du four",
+      "notes_apple": 22,
+      "fiche": "fiches/s-d-f-sorties-du-four.html"
+    },
+    {
+      "slug": "secrets-d-agence-by-the-quest",
+      "titre": "Secrets d'agence by The Quest",
+      "notes_apple": 22,
+      "fiche": "fiches/secrets-d-agence-by-the-quest.html"
+    },
+    {
+      "slug": "suite-404-by-the-dorns",
+      "titre": "Suite 404 by the Dorns",
+      "notes_apple": 22,
+      "fiche": "fiches/suite-404-by-the-dorns.html"
+    },
+    {
+      "slug": "the-patronne-podcast-attention-le-courage-est-contagieux",
+      "titre": "the Patronne podcast  (attention, le courage est contagieux)",
+      "notes_apple": 22,
+      "fiche": "fiches/the-patronne-podcast-attention-le-courage-est-contagieux.html"
+    },
+    {
+      "slug": "tout-pour-ma-sante",
+      "titre": "Tout pour ma Santé",
+      "notes_apple": 22,
+      "fiche": "fiches/tout-pour-ma-sante.html"
+    },
+    {
+      "slug": "antispe-le-podcast",
+      "titre": "Antispé le podcast",
+      "notes_apple": 21,
+      "fiche": "fiches/antispe-le-podcast.html"
+    },
+    {
+      "slug": "apprendre-l-italien",
+      "titre": "Apprendre l'Italien",
+      "notes_apple": 21,
+      "fiche": "fiches/apprendre-l-italien.html"
+    },
+    {
+      "slug": "au-c-ur-du-jazz",
+      "titre": "Au cœur du jazz",
+      "notes_apple": 21,
+      "fiche": "fiches/au-c-ur-du-jazz.html"
+    },
+    {
+      "slug": "aujourd-hui-l-economie",
+      "titre": "Aujourd'hui l'économie",
+      "notes_apple": 21,
+      "fiche": "fiches/aujourd-hui-l-economie.html"
+    },
+    {
+      "slug": "borne-podcast",
+      "titre": "Borne podcast",
+      "notes_apple": 21,
+      "fiche": "fiches/borne-podcast.html"
+    },
+    {
+      "slug": "cafe-sans-filtre",
+      "titre": "Café Sans Filtre",
+      "notes_apple": 21,
+      "fiche": "fiches/cafe-sans-filtre.html"
+    },
+    {
+      "slug": "ces-voix-qu-il-faut-entendre",
+      "titre": "Ces voix qu'il faut entendre",
+      "notes_apple": 21,
+      "fiche": "fiches/ces-voix-qu-il-faut-entendre.html"
+    },
+    {
+      "slug": "crimes-et-mysteres-des-alpes-jusqu-a-marseille",
+      "titre": "Crimes et mystères, des Alpes jusqu'à Marseille",
+      "notes_apple": 21,
+      "fiche": "fiches/crimes-et-mysteres-des-alpes-jusqu-a-marseille.html"
+    },
+    {
+      "slug": "debutez-dans-la-vente",
+      "titre": "Débutez dans la vente",
+      "notes_apple": 21,
+      "fiche": "fiches/debutez-dans-la-vente.html"
+    },
+    {
+      "slug": "domotique-chronique",
+      "titre": "Domotique Chronique",
+      "notes_apple": 21,
+      "fiche": "fiches/domotique-chronique.html"
+    },
+    {
+      "slug": "entre-meres",
+      "titre": "Entre mères",
+      "notes_apple": 21,
+      "fiche": "fiches/entre-meres.html"
+    },
+    {
+      "slug": "expat-et-cie-l-expatriation-sans-filtre",
+      "titre": "Expat et Cie : L’expatriation sans filtre.",
+      "notes_apple": 21,
+      "fiche": "fiches/expat-et-cie-l-expatriation-sans-filtre.html"
+    },
+    {
+      "slug": "fonction-publique-mon-amour",
+      "titre": "Fonction Publique Mon Amour",
+      "notes_apple": 21,
+      "fiche": "fiches/fonction-publique-mon-amour.html"
+    },
+    {
+      "slug": "frequence-pop-culture-podcast-cinema-du-grand-ecran-a-vos-oreilles",
+      "titre": "Fréquence Pop Culture – Podcast Cinéma : Du grand écran à vos oreilles",
+      "notes_apple": 21,
+      "fiche": "fiches/frequence-pop-culture-podcast-cinema-du-grand-ecran-a-vos-oreilles.html"
     }
   ]
 }

@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-07-06",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Oliviadb78",
+        "titre": "Super",
+        "texte": "Sujets bien sélectionnés, entretiens dynamiques, format et durée idéals. A écouter quand on veut. Recap des références dans la présentation. Je suis une grande grande fan!!!!!"
+      },
+      {
+        "note": 5,
+        "auteur": "MissaParis",
+        "titre": "Super moment juridique et de détente !",
+        "texte": "Très bonne idée que ce podcast qui invite des personnalités du monde juridique (ou non) pour faire passer un moment agréable tout en apprenant des choses très intéressantes !"
+      },
+      {
+        "note": 5,
+        "auteur": "Ianou33",
+        "titre": "Un vrai bol d’air pour les juristes !",
+        "texte": "Un podcast intéressant, fluide et impactant, avec de supers invités ! Un grand merci aux trois animateurs, notamment Audrey Déléris, toujours pétillante et pertinente."
+      }
+    ]
+  }
 }

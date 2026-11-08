@@ -49,5 +49,25 @@
     }
   ],
   "derniere_activite": "2026-06-04",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Vgjrsk",
+        "titre": "Indispensable",
+        "texte": "Comme a dit Bismarck « celui qui ne sait pas d’où il vient ne peut savoir où il va «"
+      },
+      {
+        "note": 5,
+        "auteur": "LuDeProvence",
+        "titre": "Passionnant !",
+        "texte": "Ce podcast traduit l’avenir que doit être notre système de santé !"
+      }
+    ]
+  }
 }

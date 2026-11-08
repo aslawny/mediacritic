@@ -48,5 +48,25 @@
     }
   ],
   "derniere_activite": "2021-09-08",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "PixiDark 🥨👑",
+        "titre": "Ça fait longtemps…",
+        "texte": "Ça fait longtemps que le podcast existe mais je viens à peine de le découvrir c’est incroyable et ouf d’entendre soprano Et si sopra le goat regarde les commentaires j’étais au concert à l’accor arena en décembre"
+      },
+      {
+        "note": 5,
+        "auteur": "Veggy_Cat",
+        "titre": "Merveilleux & Amazigh",
+        "texte": "J’adore ce podcast il est marvelous !!!!!!!!!!!!! Tous mes chanteurs et slameur préférés sont là ! Sopra je t’adore 😍 !!!"
+      }
+    ]
+  }
 }

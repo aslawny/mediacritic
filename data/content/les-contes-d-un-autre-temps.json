@@ -27,25 +27,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-11-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-09",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-08",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Loup blanc de Noël🎇🎇",
+        "titre": "C'est pas du tout mal!🎇🎆❤️",
+        "texte": "Moi je trouve que c'est super parce que déjà les histoires sont super bien inventées, mais aussi quand on écoute l'histoire, bah on a l'impression qu'on est dans l'histoire et ceux qui disent qu'ils sont pas bien, c'est eux qui sont pas bien et qui sont que des gros bêta!🎇🎇🎇🎇🎇🎇🎇🎇…"
+      },
+      {
+        "note": 3,
+        "auteur": "Didifury",
+        "titre": "Cool",
+        "texte": "Les histoires sont bien mais la voie ce n’est pas trop ça!!!!!!!!!!!!!😉🤟😁"
+      },
+      {
+        "note": 5,
+        "auteur": "R0M1G",
+        "titre": "La voix (Lionel Tua si je ne m’abuse) est Géniale !",
+        "texte": "Les enfants sont bien trop habitués aux voix stupides des dessins animés…. On ne pouvait trouver meilleur conteur. Bien sûr c’est exigeant, le débit est quelque peu élevé, mais mon fils de 4 ans arrive à suivre ! Et il écoute sans broncher pendant plus d’une heure …"
+      }
     ]
   },
   "episodes_recents": [
