@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-16",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "tiph1011",
+        "titre": "Podcast inspirant !",
+        "texte": "Je suis entrepreneuse dans un domaine totalement different et je me reconnais pourtant dans certains épisodes. Cette série est source d’inspiration. Merci pour le partage de ces échanges de qualité ! Bravo aux créatrices"
+      },
+      {
+        "note": 5,
+        "auteur": "Gael Aymard",
+        "titre": "Média sérieux !",
+        "texte": "Un magnifique duo qui valorise à merveille leur invité.e ! Ariane et Armelle sont expertes et construisent chaque saison autour d’un thème précis. Longue vie à Outdoor Minds Gaël d’Aventure Humaine"
+      },
+      {
+        "note": 5,
+        "auteur": "AnneDownhill",
+        "titre": "Du vrai. Passionnant!",
+        "texte": "Merci Armelle et Ariane pour ces belles et profondes discussions, où vous savez si bien extraire l’authentique dans vos interlocuteurs. Au plaisir de vous écouter encore et encore :)"
+      }
+    ]
+  }
 }

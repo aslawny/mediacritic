@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-09",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Vincent ----",
+        "titre": "Un régal",
+        "texte": "Je suis tombé par hasard sur ce podcast. Je me suis régalé avec les épisodes que je viens d’écouter, sur des sujets qui m’intéressent ou avec des personnes que j’ai déjà lu ou ecouté."
+      },
+      {
+        "note": 5,
+        "auteur": "bienvaillance",
+        "titre": "Des rencontres merveilleuses",
+        "texte": "Une immense gratitude de me permettre de croiser le chemin de ces belles âmes qui renforcent mon envie et ma détermination de contribuer à un monde meilleur. 🙏🍀🧚‍♂️"
+      },
+      {
+        "note": 5,
+        "auteur": "Kurungou",
+        "titre": "Un podcast bienveillant",
+        "texte": "Merci Alexandre pour la mise en ligne de tes podcast. Des podcast bienveillants avec beaucoup d’humilité."
+      }
+    ]
+  }
 }

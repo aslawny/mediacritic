@@ -49,5 +49,19 @@
     }
   ],
   "derniere_activite": "2021-02-13",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "reve2voyage",
+        "titre": "Top et en français!!",
+        "texte": "Je viens de découvrir c’est super! Merci pour tout ce partage!"
+      }
+    ]
+  }
 }

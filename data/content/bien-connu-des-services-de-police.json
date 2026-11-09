@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-03",
-  "frequence_jours": 47
+  "frequence_jours": 47,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Kertvallon17",
+        "titre": "Un des meilleurs podcasts cinéma tout court !",
+        "texte": "Animé par un passionné passionnant qui laisse la parole à ces invités sans verser dans des monologues rébarbatifs. Un des meilleurs podcast cinéma dans le marasme et l’overdose actuelle."
+      },
+      {
+        "note": 5,
+        "auteur": "Mergrin",
+        "titre": "C’est génial !",
+        "texte": "Rondement mené, cet interrogatoire sur les films policiers nous redonne le goût des récits bien menés. L’enquête est parfaitement menée. L’animation est brillante. Mergrin"
+      },
+      {
+        "note": 5,
+        "auteur": "Rémi Brument",
+        "titre": "Top !",
+        "texte": "Super intéressant, un film traité dans un format plutôt court, deux intervenants qui maîtrisent leur sujet, que demander de plus ? Hâte de suivre les autres épisodes !"
+      }
+    ]
+  }
 }

@@ -28,49 +28,53 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-11-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-10",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Julie Décarité",
+        "titre": "Merci Mariel !",
+        "texte": "Coucou Mariel, Je prends enfin le temps de t’écrire, parce que je ressens depuis longtemps le besoin de te dire à quel point ton podcast est un vrai trésor. C’est un bonbon pour l’esprit et pour le cœur, à la fois doux, réconfortant, et toujours juste.…"
+      },
+      {
+        "note": 5,
+        "auteur": "SolennLn",
+        "titre": "Tu m’as cueillie",
+        "texte": "Ton épisode sur ton patient qui a tout changé pour toi m’a littéralement brisé le cœur ❤️‍🩹. Merci de ta confiance envers nous tes auditeurs pour nous confier ce récit avec tant d’émotions.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Sandgiu",
+        "titre": "Merci",
+        "texte": "Bonjour Mariel, quelques lignes pour te remercier de cet épisode aujourd’hui, tellement triste, mais si touchant, poignant et d’une extrême justesse dans la façon de le raconter. Il m’a tiré les larmes.…"
+      }
     ]
   },
   "episodes_recents": [
     {
-      "titre": "#131 : Encore plus de rêves bizarres",
-      "date": "2026-09-14"
+      "titre": "#138 : Mon repas du condamné",
+      "date": "2026-11-02"
     },
     {
-      "titre": "#130 : Le conseil de classe de Moralité",
-      "date": "2026-09-07"
+      "titre": "#137 : Ma candidature pour Secret Story",
+      "date": "2026-10-26"
     },
     {
-      "titre": "#129 - STORY TIME : Mon mec est (presque) un chauffard",
-      "date": "2026-08-31"
+      "titre": "#136 : Mon dîner (presque) parfait #2",
+      "date": "2026-10-19"
     },
     {
-      "titre": "#128 - STORY TIME : Ceci aurait pu être un épisode de Transfert",
-      "date": "2026-08-17"
+      "titre": "#135 : J'ai plus envie de courir",
+      "date": "2026-10-12"
     },
     {
-      "titre": "#127 - STORY TIME : Une voyante avait tout prédit",
-      "date": "2026-08-03"
+      "titre": "#134 : J'ai vécu une rupture amicale",
+      "date": "2026-10-05"
     }
   ],
-  "derniere_activite": "2026-09-14",
+  "derniere_activite": "2026-11-02",
   "frequence_jours": 7
 }

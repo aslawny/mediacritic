@@ -28,49 +28,53 @@
   "addedAt": "2026-05-20",
   "updatedAt": "2026-11-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-10",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "LiviePatpat",
+        "titre": "Si inspirant !",
+        "texte": "J’ai découvert récemment Les Locomotives, le point positif d’avoir découvert tardivement, c’est que je peux écouter les épisodes sans attendre leur sortie, et j’en profite pleinement.…"
+      },
+      {
+        "note": 3,
+        "auteur": "eva_aloha",
+        "titre": "Laisser de l’ESPACE",
+        "texte": "Si les sujets abordés et les invités sont riches, deux bémols récurrents : • est ce qu’il est possible de laisser de l’espace aux invités pour s’exprimer SANS interrompre avec des interjections ?!? « Oh ! - ah ouais ?! - trop bien …"
+      },
+      {
+        "note": 5,
+        "auteur": "BérengèreE",
+        "titre": "Mon podcast préféré",
+        "texte": "Les conversations entre Sandra et les femmes interviewées sont toujours passionnantes. Les sujets abordés sont variés, la conversation est fluide et naturelle, on passe d’un angle de vue à un autre.…"
+      }
     ]
   },
   "episodes_recents": [
     {
-      "titre": "07/21 - Qu’est-ce que tu voudrais si personne ne pouvait te juger ?",
-      "date": "2026-09-13"
+      "titre": "D'un date raté à un business à succès avec Audrey Gagnaire | E216",
+      "date": "2026-11-03"
     },
     {
-      "titre": "06/21 - Tu ne détestes peut-être pas ton métier. Tu détestes la vie qu’il t’impose",
-      "date": "2026-09-12"
+      "titre": "Repartir de zéro : ce que je ferais différemment aujourd'hui",
+      "date": "2026-10-27"
     },
     {
-      "titre": "05/21 - Et si les indices étaient là depuis ton enfance ?",
-      "date": "2026-09-11"
+      "titre": "Les Locomotives Show #7 - Peut-on tout recommencer sans tout abandonner ?",
+      "date": "2026-10-20"
     },
     {
-      "titre": "04/21 - Arrête de chercher ta passion.",
-      "date": "2026-09-10"
+      "titre": "Lucie Coste - De SDF à photographe de célébrités | E215",
+      "date": "2026-10-13"
     },
     {
-      "titre": "03/21 - Le meilleur investissement de ta vie n’est pas financier",
-      "date": "2026-09-09"
+      "titre": "Jade Haustey - De 5 jobs étudiants à sa propre marque de mode | E214",
+      "date": "2026-10-06"
     }
   ],
-  "derniere_activite": "2026-09-13",
-  "frequence_jours": 1
+  "derniere_activite": "2026-11-03",
+  "frequence_jours": 2
 }

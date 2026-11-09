@@ -50,25 +50,23 @@
   "derniere_activite": "2026-08-27",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-10",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Dewey71",
+        "titre": "Nouveauté à suivre !",
+        "texte": "Très enrichissant ! Vivement les prochains épisodes avec toujours plus de partage ! Merci"
+      },
+      {
+        "note": 4,
+        "auteur": "Usual 2016",
+        "titre": "Insupportable la censure des bipe dans le podcast",
+        "texte": "Le podcast est super quali rien à dire les intervenants sont super ! Mais j’en peux plus de cette censure sur internet pour biper les gros mots (qui ne le sont parfois pas du tout).…"
+      }
     ]
   }
 }

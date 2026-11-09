@@ -30,48 +30,52 @@
   "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
+      "titre": "# 184 - Bientôt Noêl: Et si le cadeau c’était NOUS?",
+      "date": "2026-10-30"
+    },
+    {
+      "titre": "# 183 - Du développement personnel au développement relationnel",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "# 182 - Mon couple va mal … mais est-ce toxique?",
+      "date": "2026-10-02"
+    },
+    {
+      "titre": "# 181 - Et si votre couple s'éteignait déjà... sans bruit",
+      "date": "2026-09-18"
+    },
+    {
       "titre": "# 180 - On reste ensemble pour les enfants",
       "date": "2026-09-04"
-    },
-    {
-      "titre": "# 179 - \"Message à toi qui aime un \"secure\" - Best of de l'été",
-      "date": "2026-08-28"
-    },
-    {
-      "titre": "# 178 - \"Message à toi qui aime un \"désorganisé\" - Best of de l'été",
-      "date": "2026-08-21"
-    },
-    {
-      "titre": "# 177 - \"Message à toi qui aime un anxieux\" - Best of de l'été",
-      "date": "2026-08-14"
-    },
-    {
-      "titre": "# 176 - Message à toi qui aime un \"évitant\" - Best of de l'été",
-      "date": "2026-08-07"
     }
   ],
-  "derniere_activite": "2026-09-04",
+  "derniere_activite": "2026-10-30",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-10",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Emmanuel Mangatia",
+        "titre": "Incroyablement juste",
+        "texte": "Florentine, vous êtes incroyable ! Ma femme et moi, qui avons la chance d’avoir une relation saine et amoureusement intelligente 😉, vous écoutons depuis plusieurs années, presque depuis le début de votre podcast. Je trouve que vous avez une justesse incroyable …"
+      },
+      {
+        "note": 5,
+        "auteur": "CocoNS22",
+        "titre": "Du sens, enfin du sens sur nos difficultés relationnelles",
+        "texte": "J’ai découvert vos podcasts hier. J’en ai déjà écouté 4. Je crois que je vais devenir addict😂 J’adoooore. Florentine, vous nous expliquez les difficultés relationnelles avec tellement de simplicité mais surtout tellement de justesse.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Art Mots Nid",
+        "titre": "Programme A nos amours",
+        "texte": "Un immense merci à Florentine pour nous montrer d’autres chemins, possibilités, ouvertures dans le couple ou pour nos prochaines relations, rencontres. Le programme A nos amours est d’une richesse incroyable. Il permet d’avancer en douceur avec son/sa partenaire ou en solo.…"
+      }
     ]
   }
 }

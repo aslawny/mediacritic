@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-07-07",
-  "frequence_jours": 60
+  "frequence_jours": 60,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "macheroquette",
+        "titre": "On vous adore ❤️",
+        "texte": "J’adore votre duo et j’adore vous écouter ! Je retourne régulièrement sur YT pour revoir vos vidéos. On se sent trop bien avec vous et vous avez ce pouvoir de captiver et de donner envie quand vous parler ciné/séries. Merci merci 🤩"
+      },
+      {
+        "note": 5,
+        "auteur": "Eejil_",
+        "titre": "Quel bonheur",
+        "texte": "Trop heureuse de retrouver Seb et Julia dans un podcast. Vous m’avez convaincue à me lancer dans The Good Universe et j’adore vous entendre discuter séries, interrompus parfois par un miaulement discret en fond sonore ;)"
+      },
+      {
+        "note": 5,
+        "auteur": "Daaxh",
+        "titre": "Super podcast",
+        "texte": "J’ai toujours adoré l’énergie très conviviale que projette le duo, et peu importe leur nouveau projet c'est toujours un sans faute, y compris ce nouveau podcast très chaleureux dont je suis fan !"
+      }
+    ]
+  }
 }

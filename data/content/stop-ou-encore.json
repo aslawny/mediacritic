@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-20",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Upsa Déale",
+        "titre": "Stop ou encore du 17 septembre à Astaffort.",
+        "texte": "Une très bonne idée d'être à l'extérieur et défendre les jeunes artistes, expérience à renouveler.☺️ Ça serait bien de diffuser le concert comme il y a quelques années pour les découvrir."
+      },
+      {
+        "note": 3,
+        "auteur": "🫶🏿👍++",
+        "titre": "Anecdotes intéressantes mais",
+        "texte": "Les tics de langage gâchent tout Heu, hum à répétition c’est trop"
+      },
+      {
+        "note": 5,
+        "auteur": "k'kjfésgh",
+        "titre": "C’est génial",
+        "texte": "RTL à de la musique cool que nous n’écoutons pas tout le temps c’est pour cela que c’est trop bien"
+      }
+    ]
+  }
 }

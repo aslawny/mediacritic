@@ -26,46 +26,50 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-11-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-10",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Gowylist",
+        "titre": "Le meilleur",
+        "texte": "Que dire, j’ai écouté un tas de podcast sur l’histoire mais celui-ci est de loin le meilleur. Je me marre à chaque épisode tout en apprenant des choses, c’est génial vraiment bravo. Une amie me l’a fait découvrir et j’ai dévoré les 5 saisons en une semaine.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Didijennie",
+        "titre": "Merci !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        "texte": "Vraiment incroyable, j’écoute votre podcast depuis mars 2023 tous les soirs ! Merci pour votre travail et votre podcast d’extrême qualité! À chaque fois qu’une saison est sort, ma vie s’illumine d’hilarité grâce à vous …"
+      },
+      {
+        "note": 5,
+        "auteur": "Marie Gilda",
+        "titre": "Encore !",
+        "texte": "Alors je n’écoute pas ce podcast avant de me coucher, trop énergique mais le matin en allant au travail, dans la journée, en pause, j’adore !!! Hyper instructif, ton décalé que j’adore (même si j’ai pas toujours les références québécoises ^^ je m’accroche et j’apprends) Continuez…"
+      }
     ]
   },
   "episodes_recents": [
     {
-      "titre": "Napoléon",
+      "titre": "S8E47 - Napoléon",
       "date": "2025-12-19"
     },
     {
-      "titre": "Le voyage de Magellan",
+      "titre": "S8E49 - Le voyage de Magellan",
       "date": "2025-12-19"
     },
     {
-      "titre": "Tchernobyl",
+      "titre": "S8E48 - Tchernobyl",
       "date": "2025-12-19"
     },
     {
-      "titre": "L'assassinat de Jules César",
+      "titre": "S8E46 - L'assassinat de Jules César",
       "date": "2025-12-19"
     },
     {
-      "titre": "Le Cardinal de Richelieu",
+      "titre": "S8E45 - Le Cardinal de Richelieu",
       "date": "2025-12-19"
     }
   ],

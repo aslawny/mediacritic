@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-18",
-  "frequence_jours": 5
+  "frequence_jours": 5,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Leyanelle",
+        "titre": "Stop playing small",
+        "texte": "Madame! Thanks for the advice! Ça boost et remet les pendules à l’heure 🫶🏾 on va pas think small pour nos bébés ( brand ). Ps: tes franglish moments never stop them please"
+      },
+      {
+        "note": 5,
+        "auteur": "Just_Meeeeeeeee",
+        "titre": "The podcast",
+        "texte": "Incroyable podcast. La qualité du contenue et le charisme de l’autrice. Incroyable merci pour ces pépites. Que Dieu te récompense 🫶🏻"
+      },
+      {
+        "note": 5,
+        "auteur": "Aissa K",
+        "titre": "Merci à toi Tanya",
+        "texte": "Merciii pour toutes ces pépites! ✨ Maintenant, je comprends à quel point l’identité visuelle est très importante. 💛"
+      }
+    ]
+  }
 }

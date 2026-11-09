@@ -52,7 +52,9 @@
   "frequence_jours": 7,
   "avis_publics": {
     "source": "apple",
-    "releve": "2026-09-06",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
     "extraits": [
       {
         "note": 5,
@@ -68,7 +70,7 @@
       },
       {
         "note": 5,
-        "auteur": "FredPerl",
+        "auteur": "SpalPerl",
         "titre": "Génial ! 👍 ",
         "texte": "J’ai découvert l’auteur du podcast sur ClubHouse par hasard et je suis vraiment heureux qu’un tel podcast existe. C’est La bonne nouvelle de la semaine et je vous conseille vivement cette mine d’information et de retour d’expériences ! Bravo 🎉"
       }

@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-07-23",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pascal Petit.",
+        "titre": "Un podcast technique secu pédagogique et actuel",
+        "texte": "Un point de détail : ça serait bien que vos intervenants utilisent un vocabulaire faisant la différence entre le mot de passe en clair et son hash. Ex.: dans le registre, on trouve le mot de passe (non, c’est son hash)"
+      },
+      {
+        "note": 5,
+        "auteur": "Techpunx",
+        "titre": "Le bon niveau",
+        "texte": "Au top ! Merci pour ces podcastes complets ! Continuez je suis accroc :)"
+      },
+      {
+        "note": 4,
+        "auteur": "Bastish",
+        "titre": "Pas mal mais…",
+        "texte": "Les interviews et les sujets sont intéressants mais sur les épisodes récents on a l’impression que c’est une IA avec vos voix qui parle à votre place (ou alors vous lisez un texte généré par IA). L’intonation plus naturelle (comme dans les interviews) reste à privilégier"
+      }
+    ]
+  }
 }

@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-27",
   "frequence_jours": 2,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-10",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "MaeDanum",
+        "titre": "Incontournable et passionant",
+        "texte": "Un immense merci à Pauline Leroux pour le travail exceptionnel qu’elle accomplit chaque semaine pour mettre en valeur la teinture végétale et en faire découvrir la richesse inépuisable. Ce podcast est une mine d’informations pour quiconque s’intéresse au sujet.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Châtaigne 39",
+        "titre": "Génial !",
+        "texte": "Juste génial ! Le contenu est présenté de manière accessible à tous et tout est abordé : chimie, marketing, règlementation, agriculture, économie, culture et social….…"
+      },
+      {
+        "note": 5,
+        "auteur": "PetitScarabee80",
+        "titre": "Très instructif",
+        "texte": "Je ne suis pas du métier, je ne connais rien aux plantes tinctoriales mais je m’intéresse à l’artisanat au sens large. Ce podcast est très riche, on découvre plein d’activités et les personnes interrogées sont tjs passionnées et vraies.…"
+      }
     ]
   }
 }

@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-10-08",
-  "frequence_jours": 4
+  "frequence_jours": 4,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Itsmelyc",
+        "titre": "Une véritable bouffée d’air frais.",
+        "texte": "Clémentine met tout son cœur dans ce podcast et cela se ressent. Un plaisir à écouter, des sujets qui sauront parler à tout le monde. Sa voix est calme, posée, apaisante.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Isabouwl",
+        "titre": "Des sujets décomplexés !",
+        "texte": "Merci d’aborder des sujets importants avec tant de légèreté, ça déculpabilise et ça fait du bien !"
+      },
+      {
+        "note": 5,
+        "auteur": "Claire Chaplin",
+        "titre": "Très Interessant",
+        "texte": "Notions développées de manière pertinente, notamment l’épisode sur le passif agressif"
+      }
+    ]
+  }
 }

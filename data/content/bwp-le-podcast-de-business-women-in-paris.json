@@ -50,25 +50,29 @@
   "derniere_activite": "2026-08-25",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-10",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "CélineMazzo",
+        "titre": "Honnête et inspirant!",
+        "texte": "J’ai adoré commencer ma journée avec ce podcast! Je me suis réveillée ce matin avec une question que je connais beaucoup : vais-je dans la bonne direction avec mon projet? J’ai écouté cette interview et je sais maintenant que je doute mais que c’est normal, que cela ne doit pas m…"
+      },
+      {
+        "note": 1,
+        "auteur": "Johanacntro",
+        "titre": "Le son est horrible",
+        "texte": "Je suis désolée mais je n’ai même pas pu écouter l’épisode jusqu’au bout tellement la qualité du son est mauvaise Et c’est vraiment dommage parce que le contenu est plutôt bon"
+      },
+      {
+        "note": 5,
+        "auteur": "Pamela Lessel Wahnich",
+        "titre": "Oser prendre sa place",
+        "texte": "Un épisode inspirant et très juste. Merci Olivia pour ce podcast, et pour la qualité des échanges. Laure-Emmanuelle Filly met des mots clairs sur l’ambition féminine et la place que l’on s’autorise à prendre.…"
+      }
     ]
   }
 }

@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-15",
-  "frequence_jours": 20
+  "frequence_jours": 20,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "odrayjade",
+        "titre": "Très intéressant",
+        "texte": "Étant en étude de costumes et plus particulièrement attirée par l’univers du cinéma ce podcast m’a beaucoup aidé. Il est très intéressant pour enrichir sa culture personnelle.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Juliettahaha",
+        "titre": "Manque de diversité",
+        "texte": "Super idée de podcast ! Le métier de costumier est fascinant et ceux qui l’exercent en parlent bien souvent avec une passion communicative. Mais les épisodes que j’ai écouté ne reflètent pas du tout la très grande diversité de profils qu’abrite ce métier.…"
+      },
+      {
+        "note": 5,
+        "auteur": "clarita75010",
+        "titre": "Un podcast haute couture",
+        "texte": "C’est un plaisir d’écouter chaque épisode de ce podcast. Tout est bien construit: du choix des invités aux questions de l’hôte ! Un régal bravo!"
+      }
+    ]
+  }
 }

@@ -49,5 +49,25 @@
     }
   ],
   "derniere_activite": "2026-07-03",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "OniLink028",
+        "titre": "Contenu de qualité",
+        "texte": "La diversité des formats et le contenu est très intéressant."
+      },
+      {
+        "note": 1,
+        "auteur": "nicolas.1234",
+        "titre": "Nul",
+        "texte": "Épisode Agora 07 particulièrement nul. Pas d’exemples, n’ont pas joué (à peine vu) le(s) jeux cité(s), mauvaises fois, font des généralités de cas minoritaires (mais qui restent importants / grave)…etc Ne soutenez pas, il y a mieux. Pas assez de place pour tout écrire.…"
+      }
+    ]
+  }
 }

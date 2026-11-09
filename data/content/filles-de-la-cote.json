@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2025-07-31",
-  "frequence_jours": 24
+  "frequence_jours": 24,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Chloé Adam",
+        "titre": "Une dose hebdomadaire d’inspiration et de motivation",
+        "texte": "J’adore écouter des podcasts en travaillant ou pour un moment plus détente! J’ai découvert cette nouvelle chaîne et il me tarde à chaque fois la sortie d’un nouvel épisode …"
+      },
+      {
+        "note": 5,
+        "auteur": "Meetoune",
+        "titre": "Voyage voyage",
+        "texte": "Des jeunes femmes à la voix douce, nous font découvrir leur univers, leurs valeurs et leurs lieux fétiches sur la côte d’Azur. J’ai voyagé en écoutant ce court format et noté ces lieux pour ma prochaine escapade sur la côte. A écouter avec son petit note Book .👏👏"
+      },
+      {
+        "note": 5,
+        "auteur": "Sarah_frcs",
+        "titre": "Ma terre d’adoption ❤️",
+        "texte": "Un 1er épisode très inspirant, hâte d’écouter les suivants. Je me replonge dans mes années Antiboises grâce à cette émission. Je vais me régaler avec tous ces vécus et toutes ces adresses à découvrir je le sens ! Bravooooo"
+      }
+    ]
+  }
 }

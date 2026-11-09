@@ -51,5 +51,25 @@
     }
   ],
   "derniere_activite": "2026-07-16",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ivannengt",
+        "titre": "Une thérapie",
+        "texte": "Vraiment le podcast de l’amour, du réconfort, de la thérapie 🫶🏽✨"
+      },
+      {
+        "note": 2,
+        "auteur": "Motsroses",
+        "titre": "Épisode : relation low maintenance",
+        "texte": "On était plus sur 1h de podcast où elle le call out tout du long plutôt que sur une discussion. Un long jugement sur les personnes qui ne s'investissent pas comme elle. Les gens qui ne sont pas comme toi n'ont pas forcément des lacunes comportementales ma belle.…"
+      }
+    ]
+  }
 }

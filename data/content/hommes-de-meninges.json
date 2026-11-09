@@ -50,5 +50,25 @@
     }
   ],
   "derniere_activite": "2026-09-01",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Nour0!",
+        "titre": "Très pertinent, propos rigoureux, et bon esprit critique",
+        "texte": "Je n’ai écouté qu’un seul épisode avec Paul Denoël et je tiens à souligner la pertinence du propos !"
+      },
+      {
+        "note": 5,
+        "auteur": "Eugene3042",
+        "titre": "Très cool",
+        "texte": "Des sujets très divers, bcp de philo, c’est impec pour passer le temps en voiture…"
+      }
+    ]
+  }
 }

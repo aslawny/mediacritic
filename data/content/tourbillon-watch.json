@@ -50,5 +50,25 @@
     }
   ],
   "derniere_activite": "2026-09-17",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "BVE-12",
+        "titre": "Des invités de qualité !",
+        "texte": "Au fil des épisodes on a pu constater une net amélioration et une prise de confiance ! C’est personnellement toujours un plaisir de découvrir ces acteurs d’une industrie qui me plaît tant !!"
+      },
+      {
+        "note": 3,
+        "auteur": "Kolia 75",
+        "titre": "Room for improvement",
+        "texte": "Invités souvent intéressants mais les interviews gagneraient en spontanéité si les questions n’étaient les mêmes d’un épisode à l’autre. Il faudrait rebondir sur certaines réponses et les creuser et ne pas plaquer une liste de questions prédéterminées."
+      }
+    ]
+  }
 }

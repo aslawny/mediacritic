@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2022-10-26",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "choupijoue",
+        "titre": "Bravo",
+        "texte": "Bravo et merci pour ces podcasts que j’écoute depuis la France… en attendant un éventuel départ… Les sujets sont variés et les discussions toujours sympathiques.…"
+      },
+      {
+        "note": 5,
+        "auteur": "xxxezzaziii",
+        "titre": "Bravo",
+        "texte": "J'adore ce podcast ! C'est un vrai plaisir d'écouter toutes ces histoires d'expatriés. Un podcast à écouter pour toute personne déjà expatriée, qui va s'expatrier ou juste pour s'évader. Bravo ! Depuis la France, je suis une fidèle."
+      },
+      {
+        "note": 5,
+        "auteur": "emilielaroze",
+        "titre": "Je suis fan",
+        "texte": "Merci beaucoup pour ces super podcasts Toujours très instructifs décontractés qui remettent le moral quand le visa semble inaccessible J ai adoré l histoire d Émilie et Steven ils m ont donné envie de partir en van a mon tour!"
+      }
+    ]
+  }
 }

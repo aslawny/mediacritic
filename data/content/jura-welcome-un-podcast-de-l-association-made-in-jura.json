@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-04-16",
-  "frequence_jours": 45
+  "frequence_jours": 45,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "wood 39",
+        "titre": "Une première très réussie",
+        "texte": "Un super moment d’échanges qui révèle le savant cocktail humilité et génie jurassien. Bravo à Christophe Baud et à Julbo de porter si haut les couleurs du Jura et de Made in Jura"
+      },
+      {
+        "note": 5,
+        "auteur": "06450pat",
+        "titre": "Hip hip hip Jura !",
+        "texte": "Bravo pour cette magnifique mise en lumière du Jura et de ses habitants ! J espère avoir le plaisir de parcourir vos magnifiques paysages à vélo prochainement !"
+      },
+      {
+        "note": 5,
+        "auteur": "Fraisee390",
+        "titre": "Des émissions croustillantes !",
+        "texte": "Podcasts divers et variés qui traitent de sujets très intéressants. Du monde professionnel en passant par le sport, tout le monde y trouve son compte !!"
+      }
+    ]
+  }
 }

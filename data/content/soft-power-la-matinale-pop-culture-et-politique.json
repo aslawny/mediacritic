@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2025-07-02",
-  "frequence_jours": 15
+  "frequence_jours": 15,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Wowties",
+        "titre": "Une émission pop culture de haute tenue",
+        "texte": "Quel plaisir d’écouter Soft Power et d’apprendre sur les actualités pop culturelles mondiales (et pas seulement américaines !) avec un regard vif et acéré sur celles-ci.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Sam5315",
+        "titre": "Lex is back",
+        "texte": "Excellente émission engagée, fait trop rare dans le paysage des podcasts culturels qui fait largement oublier le plagiat de l’émission de Frederic Martel pour le nom! Un balayage des politiques culturelles à la fois mainstream mais aussi parfois oubliées de l’information générali…"
+      },
+      {
+        "note": 5,
+        "auteur": "aschese",
+        "titre": "Un podcast indispensable",
+        "texte": "A l’heure de la sur consommation de Pop culture, un podcast qui rappelle qu’il y a des femmes et des hommes derrière ces produits et sur tout n’est pas aussi rose que dans les dramas. A ne pas louper."
+      }
+    ]
+  }
 }

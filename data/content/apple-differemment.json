@@ -27,6 +27,10 @@
   "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
+      "titre": "iPhone Duo, iPhone 18 Pro, Apple Watch 12 et AirPods 5",
+      "date": "2026-09-21"
+    },
+    {
       "titre": "Nouveautés iOS 27, iPadOS 27 et macOS 27 : le meilleur est à venir (ou pas)",
       "date": "2026-07-31"
     },
@@ -41,34 +45,34 @@
     {
       "titre": "Qui est John Ternus, le nouveau boss d’Apple ? Les nouveautés Apple du printemps 2026",
       "date": "2026-05-06"
-    },
-    {
-      "titre": "Apple Aperçu fait des miracles, l'assemblée des actionnaires d'Apple et l'intelligence artificielle qui s'emba",
-      "date": "2026-02-27"
     }
   ],
-  "derniere_activite": "2026-07-31",
-  "frequence_jours": 33,
+  "derniere_activite": "2026-09-21",
+  "frequence_jours": 36,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-10",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Gribouillis",
+        "titre": "Allons au bout de l’analyse",
+        "texte": "Merci pour votre podcast sympathique. Parfois, j’ai l’impression que certaines de vos analyses ne sont pas assez profondes. Sur le dernier épisode, je vous propose un complément d’analyse. Qu’en pensez-vous ? Pourquoi les capteurs photos de l’iPhone ne sont-ils pas alignés …"
+      },
+      {
+        "note": 1,
+        "auteur": "Lancelot_2050",
+        "titre": "Redécouverte",
+        "texte": "C’est avec plaisir que je retrouve ce podcast. J’apprécie toujours les échanges sereins orientés usage."
+      },
+      {
+        "note": 5,
+        "auteur": "Wanadou",
+        "titre": "bonne année",
+        "texte": "Bonjour, et avant tout, très bonne année ! Je tiens à vous féliciter pour votre excellent podcast, que je recommande à tous les fans de la marque à la pomme.…"
+      }
     ]
   }
 }

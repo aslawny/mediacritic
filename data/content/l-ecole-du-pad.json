@@ -44,5 +44,31 @@
     }
   ],
   "derniere_activite": "2020-02-26",
-  "frequence_jours": 104
+  "frequence_jours": 104,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Fayole",
+        "titre": "« Non je peux pas j’ai pyramide ! »",
+        "texte": "Quand comme moi tu adores l’Histoire avec un grand H et que tu as arrêté ta carrière de « gameuse » avec Crash Bandicoot playstation 2 ce podcast va te donner envie de te racheter une console.…"
+      },
+      {
+        "note": 5,
+        "auteur": "JolieDragonne",
+        "titre": "Passionnant !",
+        "texte": "1er épisode rempli toutes ses promesses : Clément est sympa, on apprend des choses et ça nous donne envie de jouer au jeu vidéo pour voir les pyramides de nos propres yeux !"
+      },
+      {
+        "note": 5,
+        "auteur": "lekconcept",
+        "titre": "Excellent",
+        "texte": "Joueur et ayant fais de l’histoire de l’art antique, j’ai trouvé ce podcast passionnant. Hâte d’ecouter la suite !"
+      }
+    ]
+  }
 }

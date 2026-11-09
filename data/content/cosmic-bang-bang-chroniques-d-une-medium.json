@@ -45,5 +45,31 @@
     }
   ],
   "derniere_activite": "2026-06-10",
-  "frequence_jours": 9
+  "frequence_jours": 9,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Cess34",
+        "titre": "Génial !",
+        "texte": "Je te suis déjà sur les réseaux, on s’est croisées il y a quelques années par une amie commune à l’époque. J’aime beaucoup ton parlé, tu nous pousses à nous écouter , à être nous même , ça fait du bien 💜 Les sujets sont variés et accessibles à tous. Hâte du prochain épisode 🤗"
+      },
+      {
+        "note": 5,
+        "auteur": "cmej21",
+        "titre": "Formidable",
+        "texte": "Merci Zoé pour ce 1er épisode qui j’espère sera suivi de nombreux autres. J’ai eu le sentiment d’une conversation intimiste et sincère avec toi sur des sujets tellement passionnants. Hâte d’écouter le prochain épisode 😊"
+      },
+      {
+        "note": 5,
+        "auteur": "Stephsac",
+        "titre": "Steph",
+        "texte": "J’aime tout : le nom du podcast trop bien choisi, le format informel et accessible, le naturel, la spontanéité, le ton amical et léger, et ce chemin de vie atypique et intrigant entre la spiritualité et l’ancrage."
+      }
+    ]
+  }
 }

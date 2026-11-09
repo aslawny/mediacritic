@@ -30,48 +30,52 @@
   "updatedAt": "2026-11-07",
   "episodes_recents": [
     {
-      "titre": "15 minutes dans une bulle de paix et de tranquillité - Méditation guidée",
-      "date": "2026-08-27"
+      "titre": "15 minutes pour sortir les poubelles de votre esprit - Méditation guidée",
+      "date": "2026-09-20"
     },
     {
-      "titre": "6 minutes pour une pause de tranquillité et de joie - Méditation guidée",
-      "date": "2026-05-22"
+      "titre": "18 minutes pour lâcher prise et libérer les ballons - Méditation guidée",
+      "date": "2026-09-19"
     },
     {
-      "titre": "15 minutes pour retrouver une joie cachée - Méditation guidée",
-      "date": "2026-04-24"
+      "titre": "12 minutes pour trouver les ressources en vous-mêmes - Méditation guidée",
+      "date": "2026-09-18"
     },
     {
-      "titre": "12 minutes pour redevenir léger et lâcher prise - Méditation guidée",
-      "date": "2026-04-23"
+      "titre": "19 minutes pour arroser vos rêves laissés de côté - Méditation guidée",
+      "date": "2026-09-14"
     },
     {
-      "titre": "16 minutes pour lâcher prise - Méditation guidée",
-      "date": "2026-03-29"
+      "titre": "15 minutes pour faire disparaître l'anxiété - Méditation guidée",
+      "date": "2026-09-08"
     }
   ],
-  "derniere_activite": "2026-08-27",
-  "frequence_jours": 24,
+  "derniere_activite": "2026-09-20",
+  "frequence_jours": 3,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-10",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Myrylonis",
+        "titre": "J’adore !",
+        "texte": "Bonjour Harry, merci pour vos méditations, elles m’encouragent et me permettent de rester « solaire » au quotidien :) Avez-vous abordé le thème du lâcher prise pour une vie sexuelle/sensuelle épanouie …"
+      },
+      {
+        "note": 1,
+        "auteur": "leo@31000",
+        "titre": "Trop de pub horrible",
+        "texte": "Vraiment ça a beaucoup changé trop de publicité avant le début de la séance"
+      },
+      {
+        "note": 5,
+        "auteur": "sandec83",
+        "titre": "Respect",
+        "texte": "Cher Harry! Je ne peux pas cacher que tes méditations guidées quotidiennes me manquent. Je vais puiser dans les anciennes publications pour poursuivre avec toi. Ta voix singulière et sympathique, tes musiques et ton récit m’accompagnent depuis plusieurs années.…"
+      }
     ]
   }
 }

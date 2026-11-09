@@ -26,49 +26,53 @@
   ],
   "updatedAt": "2026-11-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-10",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Laura Serfaty",
+        "titre": "Interviews inspirantes ! Invitation sur mon podcast",
+        "texte": "Merci Laura pour toutes ces interviews inspirantes. Je suis entrepreneuse et en parcours pma depuis 4 ans, je sais que tu es passée par là aussi et j’aimerai beaucoup t’inviter sur mon podcast que je viens de lancer « (Re)concevoir la vie » dédié à apporter du soutien, de l’espoi…"
+      },
+      {
+        "note": 1,
+        "auteur": "Wonia-Ziade",
+        "titre": "Choix des invités à revoir",
+        "texte": "J’aimais beaucoup ce podcast jusqu’à ce qu’il prenne le parti d’inviter des personnalités politiques aux opinions plus que douteuses (Fourest et Enthoven entre autres)."
+      },
+      {
+        "note": 5,
+        "auteur": "Mélamariposa",
+        "titre": "1 heure de booste et de bonheur!",
+        "texte": "Aujourd’hui, je me suis dit que j’allais écouter un podcast. Là je tombe sur le vôtre avec Julie Douarin. Là j’ai pris une heure pour moi à vous écouter. Cela m’a rappelé que ma mère m’a toujours dit que le non est pour moi déjà.…"
+      }
     ]
   },
   "episodes_recents": [
     {
-      "titre": "#10 SAISON 16: SOPHIE IBORRA - ITINÉRAIRE D'UNE ENTREPRENEURE ENGAGÉE",
-      "date": "2026-09-09"
+      "titre": "HORS SÉRIE - SANTÉ DES FEMMES: MIEUX COMPRENDRE POUR MIEUX AGIR",
+      "date": "2026-11-04"
     },
     {
-      "titre": "#9 SAISON 16: HORTENSE LE GENTIL: LE COURAGE DE REDESSINER SA VIE",
-      "date": "2026-09-02"
+      "titre": "REDIFFUSION #12 SAISON 13: JULIA DE FUNÈS, PHILOSOPHE - OSER BOUSCULER LA BIEN-PENSANCE",
+      "date": "2026-10-28"
     },
     {
-      "titre": "#8 SAISON 16: ESTHER ABRAMI - VIOLONISTE ET COMPOSITRICE : LA MUSIQUE EST AUSSI UNE AFFAIRE DE FEMMES",
-      "date": "2026-08-26"
+      "titre": "#12 SAISON 17 - ANDRÉA BESCOND : FAIRE ENTENDRE SA VOIX ET OUVRIR LA VOIE",
+      "date": "2026-10-21"
     },
     {
-      "titre": "REDIFFUSION #16 SAISON 15: CHARLOTTE CASIRAGHI - FAIRE DE SES FÊLURES DES SOURCES DE CRÉATIVITÉ",
-      "date": "2026-08-05"
+      "titre": "#11 SAISON 17 : ELLA ETIENNE-DENOY - L'AMOUR, LA PERTE ET LA FORCE D'AGIR",
+      "date": "2026-10-14"
     },
     {
-      "titre": "#7 SAISON 16: ROSELYNE BACHELOT - LE COURAGE DES CONVICTIONS",
-      "date": "2026-07-15"
+      "titre": "HORS SÉRIE - PASCAL DEMURGER: DE CANCRE À DIRIGEANT, L'ART DE GOUVERNER AUTREMENT",
+      "date": "2026-10-07"
     }
   ],
-  "derniere_activite": "2026-09-09",
+  "derniere_activite": "2026-11-04",
   "frequence_jours": 7
 }

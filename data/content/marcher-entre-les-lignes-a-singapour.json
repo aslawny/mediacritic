@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-05-20",
-  "frequence_jours": 37
+  "frequence_jours": 37,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "JuliMoulin",
+        "titre": "Merci !",
+        "texte": "Un grand merci à toutes et tous pour votre écoute! Et aux autrices et auteurs qui me font confiance à Singapour pour présenter en français leur travail, vous faire voyager à travers leurs mots et créer des ponts entre nos cultures 📚 Merci aux journaux dont Télérama qui mettent en…"
+      },
+      {
+        "note": 5,
+        "auteur": "AurelieM.",
+        "titre": "Une écoute indispensable",
+        "texte": "Julie nous livre un Singapour méconnu et secret, par sa voix et par un dialogue éclairant avec les auteurs. Elle nous donne envie de lire ces auteurs singapouriens que l’on apprend à connaître au fil des épisodes.…"
+      },
+      {
+        "note": 5,
+        "auteur": "JQInSG",
+        "titre": "Singapour, tout en finesse d’esprit",
+        "texte": "Je recommande vivement ce podcast à tout expatrié désireux de se frotter à l’âme de Singapour : ce petit territoire, pourtant si riche, loin d’être aussi plat qu’on l’imagine et bien moins « boring » qu’on ne le dit.…"
+      }
+    ]
+  }
 }

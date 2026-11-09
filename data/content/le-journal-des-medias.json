@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-07-03",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 3,
+        "auteur": "gf75004",
+        "titre": "Trop de podcasts tiers",
+        "texte": "Je me désabonne. Insupportable d’avoir plus de podcast « découverte » que de podcast du programme. Podcast qui n’ont rien à voir avec l’émission. Arrêtez de forcer les vues"
+      },
+      {
+        "note": 2,
+        "auteur": "otezuka",
+        "titre": "Remi Jacob ?",
+        "texte": "Vous dormez sur Europe 1 ou quoi ? Faudrait peut être penser à changer le cover et la description car ce n’est plus Remi depuis cette rentrée !"
+      },
+      {
+        "note": 2,
+        "auteur": "Annick49",
+        "titre": "Émission de pub pour les médias et surtout la télé et plateformes",
+        "texte": "Rien a redire sur les animateurs. Mais avez vous pensé qu’on écoute la radio pour avoir des émissions différentes de la télévision.Cette émission est une forme de publicité pour les émissions télévisées.Aucun esprit critique ou débat intéressant.…"
+      }
+    ]
+  }
 }

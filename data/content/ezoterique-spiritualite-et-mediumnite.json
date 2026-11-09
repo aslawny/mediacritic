@@ -53,25 +53,29 @@
   "derniere_activite": "2026-09-01",
   "frequence_jours": 21,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-10",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Marine YCB",
+        "titre": "J’adore 🥰",
+        "texte": "J’ai découvert Léa sur la chaîne YT On ne vous demande pas d’y croire. C’est bluffant à quel point une si jeune âme peut dégager autant de sagesse 😌 c’est très agréable d’écouter Léa, et bien sûr les contenus sont très intéressants 🙂 merci Léa pour tes partages !"
+      },
+      {
+        "note": 5,
+        "auteur": "Sacha toto",
+        "titre": "Super",
+        "texte": "J aime vraiment vous écouter et ça fait du bien !!! De plus, j ai été agréablement surprise d apprendre des choses nouvelles aussi enrichissantes."
+      },
+      {
+        "note": 5,
+        "auteur": "Noan2909",
+        "titre": "Bluffant",
+        "texte": "Quelle sagesse ! Merci pour tout ce que vous partagez. C’est, à chaque fois, un plaisir de vous écouter, de vous entendre … Merci 🙏"
+      }
     ]
   }
 }

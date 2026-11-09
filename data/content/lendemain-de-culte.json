@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2021-05-24",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Benjamin SIMON",
+        "titre": "Un régal pour les amateurs de ciné",
+        "texte": "Je me régale à chaque épisode, de bonne critique et analyse, et surtout de l’humour autour de films qui ont bercés notre jeunesse. Cette bande de pote me fait vraiment passer un agréable moment à chaque fois.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Bergkamp 4",
+        "titre": "Ça aurait pu être bien...",
+        "texte": "Assez pauvre et condescendant dans les analyses, les mecs ne font pas beaucoup d’efforts pour comprendre ce qu’ils ont regardé...dommage"
+      },
+      {
+        "note": 5,
+        "auteur": "KevGyver",
+        "titre": "Retour en enfance ...",
+        "texte": "Voilà une émission qui fait plaisir, qui nous fait replonger en enfance avec nostalgie. On apprend des choses et on se refait un avis avec un autre regard 20ans plus tard. Ça nous redonne envie (ou pas...) de revoir tous ces films cultes de notre enfance.…"
+      }
+    ]
+  }
 }

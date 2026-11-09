@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2020-06-10",
-  "frequence_jours": 20
+  "frequence_jours": 20,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Chris Potier",
+        "titre": "L’excellent podcast des BO de films",
+        "texte": "J’attendais ce type d’émission depuis mon adolescence où a débuté ma passion pour les musiques de film (depuis Forrest Gump). Qualité des intervenants. Qualité du son (ce qui n’est pas le cas de tous les podcasts musicaux).…"
+      },
+      {
+        "note": 5,
+        "auteur": "LeoMatou",
+        "titre": "Prélude à l'ataraxie",
+        "texte": "This is one ogf the best podcast I've ever met. I realky appreciate that pretty people do exist these days."
+      },
+      {
+        "note": 5,
+        "auteur": "Anselme Beresford",
+        "titre": "hop hop hop",
+        "texte": "Podcast passionnant par de vrais passionnés ; alors on réfléchit pas et on s'abonne. Aller hop hop hop"
+      }
+    ]
+  }
 }

@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2023-09-13",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Jonh68200",
+        "titre": "Très bons conseils !!",
+        "texte": "J’en ai écouté des podcasts ! J’ai commencé à investir grâce aux conseils de certains podcasts et de beaucoup de lecture. Je continue à m’informer au quotidien. Et la , je tombe sur Anthony et ces podcasts .…"
+      },
+      {
+        "note": 5,
+        "auteur": "Amadøu",
+        "titre": "Très bon conseils",
+        "texte": "De bons conseils au top, un avis sincère et étudié quand on pose des questions et un lifestyle plaisant à écouter. ça motive J’en apprends pas mal et j’ai hâte de voir la suite. Ça mérite beaucoup plus de soutiens Merci à toi pour ce travail de qualité"
+      },
+      {
+        "note": 5,
+        "auteur": "portos596",
+        "titre": "Super podcast !",
+        "texte": "Super podcast ! Je suis à l’écoute chaque semaine ! Dans l’attente du nouvel épisode ! Anthony est quelqu’un de vrai et authentique ! Hyper disponible et ayant répondu à toutes mes interrogations ! Merci !"
+      }
+    ]
+  }
 }

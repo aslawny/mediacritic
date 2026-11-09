@@ -28,25 +28,29 @@
   "addedAt": "2026-06-09",
   "updatedAt": "2026-11-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-10",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Makaron75",
+        "titre": "Bouleversant",
+        "texte": "Super initiative, j'adore l'idée du podcast partage d'expérience, j'ai vécu un peu le même genre d'accouchement que Marie avec pas mal de péripéties (dilatation rapide, pas de péri, hémorragie de la délivrance etc) et l'écouter raconter m'a beaucoup beaucoup touchée, ce mélange d…"
+      },
+      {
+        "note": 1,
+        "auteur": "katias25",
+        "titre": "Intéressant sang mais mauvais son",
+        "texte": "Dommage Le mix est une cata on entend les questions mais pas l’itw."
+      },
+      {
+        "note": 5,
+        "auteur": "camifri",
+        "titre": "Sincérité et bienveillance",
+        "texte": "Ici pas de recherche du consensuel, pas de tabou, juste de l'ouverture d'esprit, de la sincérité et, forcément, une certaine émotion devant tous ces récits de vies.…"
+      }
     ]
   },
   "episodes_recents": [

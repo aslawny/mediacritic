@@ -26,25 +26,29 @@
   "addedAt": "2026-07-03",
   "updatedAt": "2026-11-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-10",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ThunderPrz",
+        "titre": "Au top",
+        "texte": "L’émission est au top, l’équipe est au top, tous les dimanches où l’émission passe c’est des barres de rire ! On vous aime ! Et surtout... DU SEXE DU CUL DU SEXE DU CUL DU SEXE"
+      },
+      {
+        "note": 1,
+        "auteur": "Louis.rmz",
+        "titre": "Problème",
+        "texte": "Les podcasts de manuel ferrara et de mister V ne marche pas, il n’y a aucun son qui sort !!!"
+      },
+      {
+        "note": 5,
+        "auteur": "wewesleylol",
+        "titre": "FC TROUFION",
+        "texte": "Du fion branllette sexe seins miam GROOAR CUL, Dédicace au gros doigts de pied dans l’fion."
+      }
     ]
   },
   "episodes_recents": [

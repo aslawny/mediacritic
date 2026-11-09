@@ -26,25 +26,29 @@
   "addedAt": "2026-08-02",
   "updatedAt": "2026-11-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-10",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pascale Filosa",
+        "titre": "Ouhahouh !",
+        "texte": "Non mais c’est quoi ce truc ! ? La notation de ce podcast m’a arrêtée. Je me suis dit c’est quoi ce truc. Sans aucune conviction, mais tout de même interloquée par les appréciations, je me suis dit « bon allez ! tu écoutes 5 minutes et puis ce sera bon …"
+      },
+      {
+        "note": 1,
+        "auteur": "Julllef",
+        "titre": "Mono-sujet",
+        "texte": "Très réducteur, trop orienté autour de l’obsession du racisme."
+      },
+      {
+        "note": 5,
+        "auteur": "Benyahmed",
+        "titre": "Clin d’oeil de la Tunisie",
+        "texte": "Bonjour Yassine, Thomas, Remy, Eric, Wita et le formidable Sun Je suis gérant d’une société d’ingénierie et je suis ramené à faire beaucoup de route chaque jour. Vous êtes formidables, vous meublez les heures de voiture quotidiennes.…"
+      }
     ]
   },
   "episodes_recents": [

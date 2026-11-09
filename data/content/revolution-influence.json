@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2021-07-27",
-  "frequence_jours": 17
+  "frequence_jours": 17,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tarass Boulba",
+        "titre": "Bienveillant et fort instructif",
+        "texte": "Avec beaucoup de générosité et d’empathie, Carine Arasa nous fait découvrir les coulisses du monde souvent opaque de l’influence digitale et de ceux qui la font, les fameux influenceurs.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Fan de blog",
+        "titre": "Super découverte",
+        "texte": "Bravo à La créatrice de ce podcast, qui sait nous fait découvrir de nouveaux univers et l’envers du décor de l’e-influence"
+      },
+      {
+        "note": 5,
+        "auteur": "Cami-F",
+        "titre": "Le podcast qui manquait",
+        "texte": "Merci énormément à la créatrice du podcast qui nous fait découvrir à travers ses invités les dessous de l’influence"
+      }
+    ]
+  }
 }

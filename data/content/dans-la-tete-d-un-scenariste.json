@@ -52,25 +52,29 @@
   "derniere_activite": "2026-06-15",
   "frequence_jours": 30,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-10",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "TheoCptn",
+        "titre": "7h en 2 jours",
+        "texte": "Ce podcast vient à point nommé avec mon ambition d’écrire enfin , merci pour les partages d’expérience , j’ai vraiment dévoré les 7 premiers épisodes en 2 jours et ce n’est pas fini , je vais bientôt être en manque"
+      },
+      {
+        "note": 5,
+        "auteur": "Emmarouch",
+        "titre": "Génial et addictif!",
+        "texte": "Un super podcast, tellement riche, intelligent et généreux avec de super scénaristes qui partagent leurs expériences, leurs questions pertinentes et leur avis et conseils sur le métier! À écouter absolument!"
+      },
+      {
+        "note": 5,
+        "auteur": "YovSim",
+        "titre": "Excellent mais on en veut +",
+        "texte": "Exactement ce que je recherchais. Très bon podcast qui raconte l’envers du décor. On aimerait de nouveaux épisodes plus souvent … bravo"
+      }
     ]
   }
 }

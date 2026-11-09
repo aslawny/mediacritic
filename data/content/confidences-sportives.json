@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2025-01-07",
-  "frequence_jours": 38
+  "frequence_jours": 38,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Hugo Roure JVY",
+        "titre": "Super podcast, continue !",
+        "texte": "Bravo pour ton travail, je te souhaite une belle réussite dans ce projet que tu mènes avec rigueur et passion ! J’avais pas encore pris le temps de t’écrire un commentaire donc je le fais maintenant, force à toi Thomas !"
+      },
+      {
+        "note": 5,
+        "auteur": "Gwen758",
+        "titre": "J’attends chaque épisode avec impatience",
+        "texte": "Les épisodes s’écoutent très facilement et en plus le sport féminin est mis en avant également. Bravo 😀 hâte d’écouter la suite, je suis vraiment fan !"
+      },
+      {
+        "note": 5,
+        "auteur": "clodettededieblingg",
+        "titre": "Génial",
+        "texte": "Excellent moment à écouter ce podcast à Diebling! Je recommande. Tu inspires beaucoup les gens."
+      }
+    ]
+  }
 }

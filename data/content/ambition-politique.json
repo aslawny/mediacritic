@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2025-02-14",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "fabrchd",
+        "titre": "Bravo !",
+        "texte": "Une très belle initiative qui permet de découvrir les personnalités politiques sous un angle plus personnel, et sans langue de bois ; l'écoute est très agréable et intéressante ; Bravo pour cette nouvelle approche de l'interview politique !"
+      },
+      {
+        "note": 5,
+        "auteur": "Mart31",
+        "titre": "Pour un peu je m’engage avec eux !!",
+        "texte": "Merci pour ces interviews toutes passionnantes qui donnent une autre (et belle) idée de l’engagement Bravo aussi aux journalistes qui participent beaucoup à la qualité du podcast"
+      },
+      {
+        "note": 5,
+        "auteur": "PP75010",
+        "titre": "Des discussions qui tranchent avec les interviews des médias traditionnels",
+        "texte": "Un rapport au temps différents des interviews politiques coup-de-poings et chronométrés que l'on entend dans les médias traditionnels."
+      }
+    ]
+  }
 }

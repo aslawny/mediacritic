@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-10-14",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pocket81",
+        "titre": "Parfait pour apprendre en s’amusant!",
+        "texte": "Des thèmes variés, des réponses aux questions que se posent nos enfants, que demander de mieux pour nous accompagner sur les routes des vacances.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Ed & Chacha",
+        "titre": "On adore !",
+        "texte": "Les enfants ont 5 et 8 ans et adorent le format court et les sujets variés : sport, géographie, culture pop… vivement les prochains épisodes ! Quelques idées dans le désordre : les premiers pas sur la lune, l’Himalaya, le système solaire, le Mexique, les soeurs Williams…"
+      },
+      {
+        "note": 5,
+        "auteur": "Cambbb-17",
+        "titre": "Podcasts éducatifs pour petits et grands 😊",
+        "texte": "Toute la famille adore les podcasts QUARE. Les enfants apprennent beaucoup de choses sur des thèmes variés (sport, histoire, culture, …). Le format court est idéal pour garder leur concentration. C’est top, merci QUARE !"
+      }
+    ]
+  }
 }

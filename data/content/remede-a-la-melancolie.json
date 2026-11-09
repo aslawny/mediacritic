@@ -27,25 +27,29 @@
   "addedAt": "2026-06-21",
   "updatedAt": "2026-11-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-10",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "darnouna",
+        "titre": "Voulez vous m’épouser ?",
+        "texte": "La voix, d’abord la voix et puis l’intelligence qui sait rendre n’importe quel invité aussi brillant que le plus brillant des philosophes, la modestie et la culture qui sont les 2 qualités qu’on a tellement peu l’habitude de voir se côtoyer.…"
+      },
+      {
+        "note": 5,
+        "auteur": "hanneton52",
+        "titre": "Je dis oui",
+        "texte": "Une thérapie un souffle une gourmandise de la hauteur de la légèreté dans la profondeur des âmes que vous interviewez Quelle délicatesse quelle finesse Les justes rendez vous qui me suivent en boucle pour certaines rencontres que vous nous livrez à tous moments disponibles dans m…"
+      },
+      {
+        "note": 5,
+        "auteur": "paris brest",
+        "titre": "Émission délicieuse",
+        "texte": "J’attends avec ferveur ,tous les Dimanches ,l’émission d’Eva Bester je découvre à chaque fois, à travers les choix des invités,des références culturelles qui me ravissent que je recherche vite sur internet..…"
+      }
     ]
   }
 }

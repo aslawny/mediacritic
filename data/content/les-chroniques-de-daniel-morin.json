@@ -26,25 +26,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-11-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-10",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Vince dit GY",
+        "titre": "Ces Chroniques qui ont changé ma vie !",
+        "texte": "Moi, le matin, dans ma voiture, au milieu des embouteillages parisiens, j'écoute Daniel Morin en Podcast, et quand j'écoute Daniel Morin, je m'détend, et quand je m'détend, je positive. Du coup j'arrive comme une balle au boulot, sourire au lèvres.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Mathieu87",
+        "titre": "Perplexité",
+        "texte": "Qu'est-ce que ce mec fait-il sur une radio du service public ? Il n'est jamais drôle."
+      },
+      {
+        "note": 5,
+        "auteur": "Loustik.Geek",
+        "titre": "Quel talent !",
+        "texte": "Une imagination qui déborde mais toujours avec le ton juste, un renouvellement constant et une inventivité qui fait que je ne m'ennuie jamais en l'écoutant …"
+      }
     ]
   }
 }

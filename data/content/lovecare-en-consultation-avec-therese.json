@@ -29,49 +29,53 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-11-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-10",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "mabienve",
+        "titre": "Magnifique cadeau pour son couple et pour soi-même",
+        "texte": "Le nouveau format proposé par Thérèse autour des témoignages de situations personnelles est tout simplement magnifique. À travers ces personnes qui osent se livrer avec authenticité, on réalise que, quelles que soient nos propres expériences, il y a toujours des leçons à tirer et…"
+      },
+      {
+        "note": 1,
+        "auteur": "Keychiri",
+        "titre": "Un podcast amateur et voyeuriste",
+        "texte": "Cette thérapeute est-elle supervisée ? Ces consultations sont-elle réelles ou mises en scène ? Étrange comme podcast en terme de déontologie. Les pseudo “thérapies” sont bourrées de biais. Gentiment bêta, préférez un vrai professionnel."
+      },
+      {
+        "note": 5,
+        "auteur": "Maddie.bg",
+        "titre": "Merci d’exister et de partager ces témoignages",
+        "texte": "Je vous écoute depuis bien un an maintenant, c’est toujours très intéressant d’écouter les témoignages de tous ces hommes et ces femmes. Merci à eux pour leur courage.…"
+      }
     ]
   },
   "episodes_recents": [
     {
-      "titre": "Laurent de l'épisode 74 nous donne de ses nouvelles...",
-      "date": "2026-09-14"
+      "titre": "#97 Elodie est affectée de voir son conjoint échanger avec sa collègue...",
+      "date": "2026-11-05"
     },
     {
-      "titre": "Louise de l'épisode 78 nous donne de ses nouvelles...",
-      "date": "2026-09-13"
+      "titre": "Sandra de l'épisode 73 nous donne de ses nouvelles...",
+      "date": "2026-10-22"
     },
     {
-      "titre": "Antoine de l'épisode 47 nous donne de ses nouvelles...",
-      "date": "2026-09-12"
+      "titre": "#96 Mélissa refuse la décision de son mari de se séparer...",
+      "date": "2026-10-15"
     },
     {
-      "titre": "Charlotte de l'épisode 50 nous donne de ses nouvelles...",
-      "date": "2026-09-11"
+      "titre": "#95 Lisa a été trompée et pense que c'est de sa faute...",
+      "date": "2026-10-08"
     },
     {
-      "titre": "Camille de l'épisode 29 nous donne de ses nouvelles...",
-      "date": "2026-09-10"
+      "titre": "#94 Raphaëlle n'arrive pas à faire le deuil de sa relation passée...",
+      "date": "2026-10-01"
     }
   ],
-  "derniere_activite": "2026-09-14",
-  "frequence_jours": 7
+  "derniere_activite": "2026-11-05",
+  "frequence_jours": 6
 }

@@ -29,49 +29,53 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-11-07",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-10",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "sigurdurlavik",
+        "titre": "« I fell into the pit » de Andy Dwyer est un chef d’œuvre musical.",
+        "texte": "Merci beaucoup pour les épisodes exceptionnels sur Parks and Rec et The Americans qui font partie de mes séries préférées et un peu méconnues …"
+      },
+      {
+        "note": 1,
+        "auteur": "MicBook",
+        "titre": "Anaïs nous fait un cinéma",
+        "texte": "Un mercredi sur deux, Anaïs Bordages et Marie Telling déroulent sur Slate.fr un ramassis de jugements condescendants sur les tendances et l'actualité des séries TV.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Gée88",
+        "titre": "Votre livre",
+        "texte": "Je suis en train de lire avec beaucoup de plaisir votre éloge des anti-héroïnes,(et je ne savais pas trop où vous donner mon avis) et si je ne devine pas toujours qui a écrit quel texte, la remarque sur les sous-verres à la fin du portrait sur Monica Geller m’a fait penser à l’un…"
+      }
     ]
   },
   "episodes_recents": [
     {
-      "titre": "Les séries TV, plan B doré des stars du ciné",
-      "date": "2020-02-26"
+      "titre": "Chères et chers Peakies, un dernier message pour vous",
+      "date": "2026-02-05"
     },
     {
-      "titre": "Pourquoi les couples des séries TV sont si importants pour nous",
-      "date": "2020-02-12"
+      "titre": "[Anaïs se fait des films] Anaïs vous répond #9: comment se créer une culture ciné à l'ère de la «cancel cultur",
+      "date": "2026-01-25"
     },
     {
-      "titre": "Pourquoi les meurtriers et stalkers de séries TV nous fascinent",
-      "date": "2020-01-29"
+      "titre": "[Anaïs se fait des films] On a parlé du «Mage du Kremlin et d'«Hamnet» avec Olivier Assayas, Chloé Zhao et Jes",
+      "date": "2026-01-21"
     },
     {
-      "titre": "À quoi ressembleront les séries de demain?",
-      "date": "2020-01-15"
+      "titre": "[Anaïs se fait des films] «28 ans plus tard: Le Temple des morts» et les meilleurs films de zombies",
+      "date": "2026-01-18"
     },
     {
-      "titre": "Comment choisir les 20 meilleures séries des 20 dernières années?",
-      "date": "2019-12-18"
+      "titre": "[Anaïs se fait des films] Anaïs à Hollywood #4: Débrief des Golden Globes (live Twitch)",
+      "date": "2026-01-13"
     }
   ],
-  "derniere_activite": "2020-02-26",
-  "frequence_jours": 14
+  "derniere_activite": "2026-02-05",
+  "frequence_jours": 5
 }

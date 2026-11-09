@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-07-21",
-  "frequence_jours": 20
+  "frequence_jours": 20,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lamorellade",
+        "titre": "Très intéressant !",
+        "texte": "En ces périodes qui ont bouleversé nos manières de travailler et d’apprendre, ce podcast permet de s’immiscer au cœur du réacteur RH pour avoir un retour sur expérience concret, enrichissant et sans langue de bois. Bravo !"
+      },
+      {
+        "note": 5,
+        "auteur": "Maud93",
+        "titre": "Human power!",
+        "texte": "Un podcast qui souffle un vent de fraicheur sur les ressources humaines qui retrouvent ainsi leur lettres de noblesse : l’humain au centre du progrès de nos sociétés. Merci!"
+      },
+      {
+        "note": 5,
+        "auteur": "OPM James",
+        "titre": "Meilleur podcast RH & Learning",
+        "texte": "Je recommande la lecture de ce podcast qui permet de mieux comprendre les enjeux et best practices dans le monde RH, de la formation, des équipes Learning en général"
+      }
+    ]
+  }
 }

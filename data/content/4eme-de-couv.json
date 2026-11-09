@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-08-05",
-  "frequence_jours": 28
+  "frequence_jours": 28,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "CaptainCaro33",
+        "titre": "Une pépite !",
+        "texte": "J’ai découvert ce podcast il y a quelques mois, par hasard. Désormais, je ne le lâche plus ! Nous sommes plongés dans l’univers de ces deux lectrices qui partagent avec enthousiasme leur lecture et nous donnent envie de les lire.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Jeanne377",
+        "titre": "Triste….",
+        "texte": "Mais quelle tristesse d’entendre tant de jugement…. Zéro bienveillance…. Êtes vous frustrée mesdames ? J’ai écouté le quart d’un épisode (le 26)…. Ça n’apporte rien…. A part sûrement vous défouler… quelle méchanceté …..…"
+      },
+      {
+        "note": 5,
+        "auteur": "Rose Livres",
+        "titre": "De la bonne humeur et des livres, un régal !",
+        "texte": "Agnès et Charlotte adorent les livres et ça s’entend. Elles me font découvrir plein de livres, dans la bonne humeur. J’adore le duo qu’elles forment et la diversité qu’on trouve dans leurs lectures mais aussi dans le podcast avec les points lectures, point presse, des invitées… B…"
+      }
+    ]
+  }
 }

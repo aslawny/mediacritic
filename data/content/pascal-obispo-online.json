@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2034-11-30",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-09",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "calobispo",
+        "titre": "Obis",
+        "texte": "trop mortel Obis est un dieu de la sik je le kiff jaimerai top le revoir en concert c'est trop whaoooo *"
+      },
+      {
+        "note": 1,
+        "auteur": "rhumatomoto",
+        "titre": "trop nul obispo",
+        "texte": "heureusement que j'ecoute d'autre radios , c'est un usurpateur plein de vide !!!!"
+      },
+      {
+        "note": 5,
+        "auteur": "LJM130846",
+        "titre": "VERITABLE ARTISTE",
+        "texte": "NOUS FRANCAIS SOYONS TRES FIERS DE NOS ARTISTES ET PLUS PARTICULIÈREMENT D' OBISPO. BRAVO..BRAVO.."
+      }
+    ]
+  }
 }
