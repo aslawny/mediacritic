@@ -134,14 +134,24 @@ def lire_texte(url, timeout=20):
 # --------------------------------------------------------------------------
 # 1. Sujets du jour
 # --------------------------------------------------------------------------
-def sujets_wikipedia(jour):
-    veille = jour - timedelta(days=1)
-    url = ("https://wikimedia.org/api/rest_v1/metrics/pageviews/top/fr.wikipedia/"
-           f"all-access/{veille:%Y/%m/%d}")
-    try:
-        arts = lire_json(url)["items"][0]["articles"]
-    except Exception as e:
-        print(f"  ! Wikipédia indisponible : {e}")
+def sujets_wikipedia(jour, repli=False):
+    """Lectures de la veille. Wikimedia les publie parfois tard dans la
+    matinee (09/11/2026 : toujours absentes a 10 h 30 UTC, aucun choix ce
+    jour-la). Avec `repli`, on prend alors celles de l'avant-veille, et le
+    texte affiche dit de quel jour il s'agit."""
+    arts = None
+    for recul in ((1, 2) if repli else (1,)):
+        jour_lu = jour - timedelta(days=recul)
+        url = ("https://wikimedia.org/api/rest_v1/metrics/pageviews/top/fr.wikipedia/"
+               f"all-access/{jour_lu:%Y/%m/%d}")
+        try:
+            arts = lire_json(url)["items"][0]["articles"]
+            if recul > 1:
+                print(f"  lectures Wikipédia du {jour_lu:%d/%m} (veille pas encore publiée)")
+            break
+        except Exception as e:
+            print(f"  ! Wikipédia du {jour_lu:%d/%m} indisponible : {e}")
+    if arts is None:
         return []
     sujets = []
     for a in arts:
@@ -168,6 +178,7 @@ def sujets_wikipedia(jour):
     for rang, s in enumerate(sujets, 1):
         lib = re.sub(r"\s*\(.*?\)\s*$", "", s["titre_wiki"].replace("_", " ")).strip()
         out.append({"sujet": lib, "source": "wikipedia", "rang": rang, "poids": s["vues"],
+                    "jour_lu": jour_lu.isoformat(),
                     "contexte": f'{s["description"]} {s["extrait"]}',
                     "personne": bool(re.search(r"\bnée? (le|en)\b", s["extrait"]))})
     return out
@@ -701,7 +712,8 @@ def main():
             return
 
     print("1. Sujets du jour")
-    wiki = [] if a.sujet else sujets_wikipedia(jour)
+    apres_9h = bool(a.date) or datetime.now(timezone.utc).hour >= 9
+    wiki = [] if a.sujet else sujets_wikipedia(jour, repli=apres_9h)
     # Le bot passe toutes les 15 min des 3 h UTC (29/10/2026). Tant que les
     # lectures Wikipedia de la veille ne sont pas publiees, on attend le
     # passage suivant plutot que de choisir avec la moitie des sources ;
@@ -833,7 +845,9 @@ def main():
         elif s["source"] == "equipe":
             force = f"« {s['sujet']} » fait l'actu."
         elif s["source"] == "wikipedia":
-            force = f"« {s['sujet']} » a été l'un des sujets les plus lus de Wikipédia hier ({n(s['poids'])} lectures)."
+            quand = ("hier" if s.get("jour_lu", "") >= (jour - timedelta(days=1)).isoformat()
+                     else "avant-hier")
+            force = f"« {s['sujet']} » a été l'un des sujets les plus lus de Wikipédia {quand} ({n(s['poids'])} lectures)."
         else:
             force = f"« {s['sujet']} » s'envole dans les recherches Google en France ({n(s['poids'])}+ recherches)."
         titres = titres_presse(s["sujet"])
