@@ -26,7 +26,7 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
       "titre": "Wait For It - S0701 - Tip-Toe, The Hawk, Furious, Trying, Lanterns",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-09-14",
   "frequence_jours": 37,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-11",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "BB BANG",
+        "titre": "Vraiment encourageant !",
+        "texte": "Ces premiers épisodes sont vraiment encourageant j’ai eu beaucoup de plaisir à écouter Pacome parler de Damon Lindelof avec autant d’amour, c’est toujours les plus amoureux qui sont les plus intéressants merci...Grâce à vous je me suis lancé dans Lost que je n’avais jamais vu...…"
+      },
+      {
+        "note": 2,
+        "auteur": "Aza Ray",
+        "titre": "Attention Spoilers",
+        "texte": "Si vous êtes allergiques aux spoilers, passez votre chemin. Dommage."
+      },
+      {
+        "note": 5,
+        "auteur": "Soomarine",
+        "titre": "Merci 🥰",
+        "texte": "Merci enfin un podcast sur les séries intelligent sans se prendre au sérieux… je savoure vos épisodes, en découvrant de nouvelles série et appréciant un nouvel éclairage sur mes préférées!!! Seul bémol : il en faut plus🙏🙏🙏"
+      }
     ]
   }
 }

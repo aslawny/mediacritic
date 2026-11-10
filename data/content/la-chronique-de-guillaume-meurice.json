@@ -25,7 +25,7 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
       "titre": "Je suis CNews ! - La chronique de Guillaume Meurice",
@@ -51,25 +51,29 @@
   "derniere_activite": "2026-11-08",
   "frequence_jours": 6,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-11",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ZoWoreWar",
+        "titre": "En français dans le texte",
+        "texte": "La culture (et la liberté) ne s’héritent pas, elles se conquièrent ! À quand une dernière en direct à Jérusalem, cahin-caha, qu’on puissent rigoler un peu dans vos habits de pèlerin armés. Non pour nous, Seigneur, non pour vous, mais pour la gloire de l’humour ! 😂"
+      },
+      {
+        "note": 5,
+        "auteur": "Philippeimac2",
+        "titre": "Guillôôôme a pris du galon ;)",
+        "texte": "Génial de pouvoir retrouver Guillaume et sa clique avec en prime le bien nommé Barré. Manquent toutefois encore à l’appel les trouffions Wally Dia et Djamil le Schlag pour que la mauvaise troupe soit au complet ;)"
+      },
+      {
+        "note": 5,
+        "auteur": "Cdhermine",
+        "titre": "Incontournable ! Drôlissime et décapant",
+        "texte": "Une équipe qu’on suit sans faute : Guillaume Meurice parfait interviewer, Aymeric Lompret le faux raté et sa chronique, Pierre-Emmanuel Barré et son jubilatoire StRoustan, l’émouvante Juliette Arnaud"
+      }
     ]
   }
 }

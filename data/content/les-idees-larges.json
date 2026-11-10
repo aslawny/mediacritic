@@ -27,8 +27,20 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
+    {
+      "titre": "A-t-on toujours fait la guerre ?",
+      "date": "2026-10-22"
+    },
+    {
+      "titre": "Le libéralisme rend-il libre ?",
+      "date": "2026-10-08"
+    },
+    {
+      "titre": "Pourquoi éclate-t-on en sanglots ?",
+      "date": "2026-09-24"
+    },
     {
       "titre": "L'IA nous rend-elle bêtes ?",
       "date": "2026-07-02"
@@ -36,22 +48,10 @@
     {
       "titre": "À quoi sert l'histoire ?",
       "date": "2026-06-18"
-    },
-    {
-      "titre": "Comment réconcilier les villes et les campagnes ?",
-      "date": "2026-05-21"
-    },
-    {
-      "titre": "Et si on supprimait l’héritage ?",
-      "date": "2026-04-23"
-    },
-    {
-      "titre": "Et s'il n'y en avait pas assez pour tout le monde ?",
-      "date": "2026-03-26"
     }
   ],
-  "derniere_activite": "2026-07-02",
-  "frequence_jours": 21,
+  "derniere_activite": "2026-10-22",
+  "frequence_jours": 27,
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",

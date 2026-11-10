@@ -13,8 +13,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/les-heures-l%C3%A9g%C3%A8res/id6805409710?uo=2",
       "trackId": 6805409710,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 1.0,
+      "ratingCount": 1,
       "episodeCount": null
     }
   },
@@ -23,7 +23,7 @@
     "musique"
   ],
   "addedAt": "2026-09-08",
-  "updatedAt": "2026-09-08",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
       "titre": "Les Heures légères du 11 Septembre 2026",

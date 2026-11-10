@@ -27,7 +27,7 @@
     "vulgarisation"
   ],
   "addedAt": "2026-07-21",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
       "titre": "Et si l'éveil spirituel ne s'apprenait pas mais se traversait ? - Conversation avec Tiphaine Gualda",
@@ -51,5 +51,25 @@
     }
   ],
   "derniere_activite": "2026-09-10",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Jo F Diaz",
+        "titre": "Très bon podcast!",
+        "texte": "Intéressant, inspirant et puissant partage des visions. Merci pour ce contenu de qualité!"
+      },
+      {
+        "note": 5,
+        "auteur": "Morgane CM",
+        "titre": "Merveilleux",
+        "texte": "Sublime podcast, rempli de bonnes énergies et de transmission. Un vrai moment de bonheur"
+      }
+    ]
+  }
 }

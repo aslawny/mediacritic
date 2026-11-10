@@ -27,7 +27,7 @@
     "business"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
       "titre": "#100 - Girl math : comment mon cerveau m'a convaincue que Disneyland était gratuit",
@@ -53,25 +53,29 @@
   "derniere_activite": "2026-04-28",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-11",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Barbichou32",
+        "titre": "Un puit infos pertinentes",
+        "texte": "J’anime beaucoup le ton décomplexé du podcast qui reste très accessible et super motivant. On y apprend de vraies choses utiles, le podcast nous pousse à aller plus loin. Un podcast a avoir dans ses abonnements !"
+      },
+      {
+        "note": 5,
+        "auteur": "sab_dmt",
+        "titre": "Super podcast",
+        "texte": "Ce podcast est devenu mon petit rituel hebdomadaire pour me motiver à tenir mon budget. Sophie est très pédagogue et punchy, j’adore son ton décalé. Merci pour tous tes conseils !"
+      },
+      {
+        "note": 5,
+        "auteur": "salounaima",
+        "titre": "Un podcast au top !",
+        "texte": "J’adore ce podcast, le ton décalé sans prise de tête est vraiment plaisant, Sophie nous donne envie de prendre notre gestion financière en main ! Merci"
+      }
     ]
   }
 }

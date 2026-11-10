@@ -26,7 +26,7 @@
     "culture"
   ],
   "addedAt": "2026-08-05",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
       "titre": "Joy Majdalani - Épisode 2",
@@ -42,5 +42,31 @@
     }
   ],
   "derniere_activite": "2026-09-13",
-  "frequence_jours": 34
+  "frequence_jours": 34,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Claire Ninn",
+        "titre": "Le meilleur podcast ❤️",
+        "texte": "Je ne suis pas sûre qu’il existe un meilleur concept de podcast que celui ci, qui fait se rencontrer pop culture et littérature ! Vous êtes géniaux tous les 2 ! C’est un bonheur de vous écouter ! On veut plein d’épisodes encore et encore …"
+      },
+      {
+        "note": 5,
+        "auteur": "flbouvier",
+        "titre": "Génial et dynamique",
+        "texte": "Un super mélange entre littérature et pop, qui nous fait oublier les « plaisirs coupables ». Épisode très dynamique, on rigole, on apprend et on a envie de lire et d’écouter de la musique en finissant l’écoute !"
+      },
+      {
+        "note": 5,
+        "auteur": "Emparisspain",
+        "titre": "À écouter sans attendre !",
+        "texte": "Génial ! Les références pop, la littérature, Nadia Daam évidemment et les 2 animateurs. C’est passionnant, c’est bien écrit, c’est drôle bref foncez !"
+      }
+    ]
+  }
 }

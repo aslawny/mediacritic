@@ -23,7 +23,7 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
       "titre": "Les Bras Cassés",
@@ -47,5 +47,25 @@
     }
   ],
   "derniere_activite": "2026-09-11",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "raphco83",
+        "titre": "Du lourd de cher top",
+        "texte": "Comme le titre le dit, c'est vraiment top avec des blagues, de la bonne musique et de la bonne humeur! Comme le dit si bien un autre auditeur: \" on a l'impression de passer deux heures avec une bande de potes \""
+      },
+      {
+        "note": 5,
+        "auteur": "evyOrra",
+        "titre": "Coool",
+        "texte": "Vraiement drole, décalé, c'est comme passez 2h avec des potes à jouer et discuter, une vraie détente!!"
+      }
+    ]
+  }
 }

@@ -25,7 +25,7 @@
     "series"
   ],
   "addedAt": "2026-07-18",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
       "titre": "Faille temporelle, UFO en Malaise & Nuit particulière",
@@ -49,5 +49,25 @@
     }
   ],
   "derniere_activite": "2022-09-20",
-  "frequence_jours": 18
+  "frequence_jours": 18,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-10",
+    "extraits": [
+      {
+        "note": 4,
+        "auteur": "Jim’s62",
+        "titre": "Peu de suivi",
+        "texte": "Dommage que les émissions sur les podcasts ne suivent pas ceux de Youtube….. et c’est contre-productif. Je ne veux pas impacter votre travail de part ma note , mais SVP , améliorez sa vous n’en tirerez que du bonus et upload une émission toutes les semaines sa prend 15 mn"
+      },
+      {
+        "note": 1,
+        "auteur": "pain lacrymal",
+        "titre": "Complètement à l’abandon",
+        "texte": "C’est vraiment dommage que cette émission culte sur YouTube ce soit arrêté en 2022 sans jamais continuer à déposé des émissions 22 épisodes sans plus c’est triste."
+      }
+    ]
+  }
 }

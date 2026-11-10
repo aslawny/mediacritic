@@ -24,8 +24,12 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
+    {
+      "titre": "Ep 37 - 5 prises de conscience",
+      "date": "2026-09-17"
+    },
     {
       "titre": "Ep 36 - Andréa, 102 ans et les âges de la vie !",
       "date": "2025-07-24"
@@ -41,14 +45,10 @@
     {
       "titre": "Ep 33 - 👋 Adulescence & Syndrome de Peter Pan",
       "date": "2025-05-28"
-    },
-    {
-      "titre": "Ep 32 - 👋 Les \"flammes jumelles\"",
-      "date": "2025-05-02"
     }
   ],
-  "derniere_activite": "2025-07-24",
-  "frequence_jours": 15,
+  "derniere_activite": "2026-09-17",
+  "frequence_jours": 19,
   "avis_publics": {
     "epuise": true,
     "releve": "2026-10-21",

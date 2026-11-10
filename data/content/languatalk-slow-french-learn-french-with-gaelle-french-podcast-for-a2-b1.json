@@ -25,8 +25,20 @@
     "cuisine"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
+    {
+      "titre": "Are French Books Ugly, Expensive and Snobbish?",
+      "date": "2026-11-06"
+    },
+    {
+      "titre": "Lycéens, manifestation et problème dans l’éducation nationale",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Thomas Brail et son combat pour les arbres",
+      "date": "2026-10-01"
+    },
     {
       "titre": "Le Familistère de Guise - utopie sociale ouvrière",
       "date": "2026-09-04"
@@ -34,21 +46,9 @@
     {
       "titre": "Comment vont les artistes et la culture en France",
       "date": "2026-08-13"
-    },
-    {
-      "titre": "La ville de Grass et l’industrie des parfums",
-      "date": "2026-07-23"
-    },
-    {
-      "titre": "Marjane Satrapi, autrice franco-iranienne",
-      "date": "2026-07-02"
-    },
-    {
-      "titre": "Les espaces sans enfants en France",
-      "date": "2026-06-18"
     }
   ],
-  "derniere_activite": "2026-09-04",
+  "derniere_activite": "2026-11-06",
   "frequence_jours": 21,
   "avis_publics": {
     "source": "apple",

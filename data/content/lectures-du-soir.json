@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/lectures-du-soir/id1766310311?uo=2",
       "trackId": 1766310311,
       "rating": 4.4,
-      "ratingCount": 40,
+      "ratingCount": 41,
       "episodeCount": null
     }
   },
@@ -26,27 +26,25 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-11",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "phokgg",
+        "titre": "Quelle lecture époustouflante",
+        "texte": "Merci à la comédienne qui a lu Le mur ! J’ai grandi dans une ferme et j’ai eu beaucoup de plaisir à découvrir ce texte de Jules Renard."
+      },
+      {
+        "note": 5,
+        "auteur": "Marinedv",
+        "titre": "Contes fantastiques et les chats",
+        "texte": "J’adore ces histoires inédites qui font que j’ai envie d’aller m’endormir avec elles!!!"
+      }
     ]
   }
 }

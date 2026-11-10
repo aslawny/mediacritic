@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/no-night-club/id6807880324?uo=2",
       "trackId": 6807880324,
       "rating": 4.8,
-      "ratingCount": 135,
+      "ratingCount": 138,
       "episodeCount": null
     }
   },
@@ -25,18 +25,30 @@
     "temoignage"
   ],
   "addedAt": "2026-09-05",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
-      "titre": "Nos unpopular opinions",
-      "date": "2026-09-10"
+      "titre": "Ce qui nous rend aigris",
+      "date": "2026-11-05"
     },
     {
-      "titre": "La maigreur sur les réseaux sociaux",
-      "date": "2026-09-02"
+      "titre": "Vos threads horreur",
+      "date": "2026-10-29"
+    },
+    {
+      "titre": "Tu préfères ... ?",
+      "date": "2026-10-22"
+    },
+    {
+      "titre": "Vos pires anecdotes d'horreur",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "La solitude",
+      "date": "2026-10-08"
     }
   ],
-  "derniere_activite": "2026-09-10",
+  "derniere_activite": "2026-11-05",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-10-22",
@@ -58,5 +70,6 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "frequence_jours": 7
 }

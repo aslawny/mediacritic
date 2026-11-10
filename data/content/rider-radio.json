@@ -27,7 +27,7 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -56,6 +56,10 @@
   },
   "episodes_recents": [
     {
+      "titre": "Peut-on vraiment aimer la moto électrique quand on vient du thermique ?",
+      "date": "2026-09-20"
+    },
+    {
       "titre": "ANNE-FRANCE DAUTHEVILLE DE PARIS A L'AFGANISTAN",
       "date": "2026-07-16"
     },
@@ -70,12 +74,8 @@
     {
       "titre": "Laurent Cochet : Sa Vraie Définition De L’Aventure",
       "date": "2026-03-19"
-    },
-    {
-      "titre": "Ben Blake: Objectif Alaska",
-      "date": "2026-03-12"
     }
   ],
-  "derniere_activite": "2026-07-16",
+  "derniere_activite": "2026-09-20",
   "frequence_jours": 28
 }

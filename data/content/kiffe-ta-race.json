@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/kiffe-ta-race/id1712695823?uo=2",
       "trackId": 1712695823,
       "rating": 4.9,
-      "ratingCount": 496,
+      "ratingCount": 497,
       "episodeCount": null
     }
   },
@@ -25,7 +25,7 @@
     "education"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
       "titre": "Entretemps #1",
@@ -51,25 +51,29 @@
   "derniere_activite": "2026-04-09",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-11",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "rapha1967",
+        "titre": "Une épistémologie raciale est en œuvre en France.",
+        "texte": "Votre podcast est une archive Qui alimente le récit des personnes racialisee qui témoignent ici. Nous sommes à une période charnière ou l’échéance politique de 2027 sauf dissolution de l’AN ancre durablement une épistémologie raciste en France au plus niveau de l’Etat par l’extrê…"
+      },
+      {
+        "note": 5,
+        "auteur": "Gilles Horvilleur",
+        "titre": "L’Esprit de conversation",
+        "texte": "« Le genre de bien-être que fait éprouver une conversation animée ne consiste pas précisément dans le sujet de cette conversation ; les idées ni les connaissances n’en sont pas le principal intérêt ; c’est une certaine manière d’agir les uns sur les autres, de se faire plaisir ré…"
+      },
+      {
+        "note": 5,
+        "auteur": "JulieHega",
+        "titre": "Force structurante",
+        "texte": "Édifiant pour comprendre le monde dans lequel on vit. Le système est déshabillé avec une précision bouleversante et nos expériences y sont décortiquées avec les mots qui nous manquaient jusque là pour parvenir à nous comprendre nous-mêmes, au plus profond de notre intimité.…"
+      }
     ]
   }
 }

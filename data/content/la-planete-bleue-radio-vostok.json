@@ -24,8 +24,16 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
+    {
+      "titre": "La Planete Bleue no 1054",
+      "date": "2026-11-01"
+    },
+    {
+      "titre": "La Planete Bleue no 1053",
+      "date": "2026-10-02"
+    },
     {
       "titre": "La Planete Bleue no 1052",
       "date": "2026-09-04"
@@ -37,18 +45,10 @@
     {
       "titre": "La Planete Bleue no 1050",
       "date": "2026-07-03"
-    },
-    {
-      "titre": "La Planete Bleue no 1049",
-      "date": "2026-06-08"
-    },
-    {
-      "titre": "La Planete Bleue no 1048",
-      "date": "2026-05-02"
     }
   ],
-  "derniere_activite": "2026-09-04",
-  "frequence_jours": 30,
+  "derniere_activite": "2026-11-01",
+  "frequence_jours": 29,
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",

@@ -27,27 +27,31 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-11",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Cam camillette 10 ans 🌸❤️",
+        "titre": "C’est vraiment vraiment BIEN 🤩",
+        "texte": "C’est vraiment une bonne idée de faire ça en plus avec nos petits amis les animaux les chats 🐈‍⬛ , les chiens 🐕, les hamster 🐹 , et les lapins 🐇 etc. etc.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Chaolinette",
+        "titre": "🙄",
+        "texte": "😴😴😴😴😴😴😴😴😴😴😴🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱😴😴😴😴😴😴😴😴😴😴😴🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱😴😴😴😴😴😴😴😴😴😴😴. Je m’enui"
+      },
+      {
+        "note": 5,
+        "auteur": "🎀🎱ClemR🎱🎀",
+        "titre": "Propositions🎀",
+        "texte": "Pouvez-vous faire un épisode exceptionnel sur les chiens guides 🦮 car c’est très important, un épisode sur les chats sauvages du froid ou chaud, un épisode sur les chevaux de prewolskiet un épisode sur les axolotl.…"
+      }
     ]
   },
   "episodes_recents": [

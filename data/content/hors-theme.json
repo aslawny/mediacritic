@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/hors-th%C3%A8me/id6825255155?uo=2",
       "trackId": 6825255155,
       "rating": 4.7,
-      "ratingCount": 19,
+      "ratingCount": 30,
       "episodeCount": null
     }
   },
@@ -25,12 +25,34 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-02",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
       "titre": "Bienvenue sur Hors Thème",
       "date": "2026-10-23"
     }
   ],
-  "derniere_activite": "2026-10-23"
+  "derniere_activite": "2026-10-23",
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-10",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

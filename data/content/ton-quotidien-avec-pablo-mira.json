@@ -23,27 +23,31 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-11",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mikl7593",
+        "titre": "Très sympa on reconnaît bien le ton de Pablo",
+        "texte": "Première assez drôle avec Camille qui est vraiment le bon client qui fait souvent rire 😃 par contre tu peux virer le Van Gogh du son c’est très mauvais j’étais à fond dans ma voiture et encore je comprenais pas tout …à quand le prochain pas dans 1 an Pablo merci 😜"
+      },
+      {
+        "note": 1,
+        "auteur": "Douche comprise",
+        "titre": "4 minutes",
+        "texte": "4 minutes, c’est peut être le bon format surtout suffisant pour écouter Maurice"
+      },
+      {
+        "note": 5,
+        "auteur": "digryjj",
+        "titre": "🤩🤩🤩🤩🤩🤩",
+        "texte": "Ce podcast est juste trop bien !!!! D’ailleurs j’ai eu aucun problème de son donc je suis contente mais je trouve que le podcast n’est pas assez récurent mais chaque épisode est meilleur que le précédent donc BRAVO À TOUS CEUX QUI PARTICIPENT À CE PODCAST 👏👏"
+      }
     ]
   },
   "episodes_recents": [

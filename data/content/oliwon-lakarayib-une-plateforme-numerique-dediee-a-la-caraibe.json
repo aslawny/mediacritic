@@ -25,7 +25,7 @@
     "international"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
       "titre": "Episode 54 - Mots et mémoires de Martinique avec Gilbert Pago",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-06-08",
-  "frequence_jours": 31
+  "frequence_jours": 31,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "mi_minella",
+        "titre": "Audio",
+        "texte": "Tres belle initiative ! Cependant la qualité sonore n’est pas au top (on entend pas assez bien )"
+      },
+      {
+        "note": 5,
+        "auteur": "FURTIVEMENT quelque chose",
+        "titre": "Mèsi",
+        "texte": "Plateforme indispensable pour mieux connaître l’histoire de nos territoires. Très beau projet !"
+      },
+      {
+        "note": 5,
+        "auteur": "Fwansis",
+        "titre": "Excellent",
+        "texte": "Excellent A suivre également sur YouTube pour les infographies"
+      }
+    ]
+  }
 }

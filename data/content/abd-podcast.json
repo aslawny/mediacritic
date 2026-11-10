@@ -23,27 +23,31 @@
     "education"
   ],
   "addedAt": "2026-10-11",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-11",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tom Bellouin",
+        "titre": "La crème de la crème pour les mordus de prépa physique !!",
+        "texte": "Les podcasts sont toujours de qualité! À chaque sujet de podcast on est sur d’apprendre de nouvelles choses et Aurélien Broussal invite à chaque fois des intervenants d’expériences. L’écoute est toujours intéressante et je ne m’en lasse pas !"
+      },
+      {
+        "note": 5,
+        "auteur": "2510A",
+        "titre": "Le podcast incontournable",
+        "texte": "Si vous êtes coach, kiné, préparateur physique ou autre spécialiste du sport, ce podcast est INDISPENSABLE et incontournable pour être à jour des avancées scientifiques et obtenir les meilleurs conseils de terrain. Je recommande à 1000%"
+      },
+      {
+        "note": 5,
+        "auteur": "pas sa ger",
+        "titre": "Générique",
+        "texte": "Si y’a une chose à te reproché sa serait le générique c’est vraiment trop fort, sa agresse...mais c’est un détail parce que le Contenu est vraiment très très bien je viens de découvrir et c’est très inspirant...merci 🙏"
+      }
     ]
   },
   "episodes_recents": [

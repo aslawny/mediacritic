@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/major-pr%C3%A9pa-le-podcast/id1330319294?uo=4",
       "trackId": 1330319294,
       "rating": 4.8,
-      "ratingCount": 125,
+      "ratingCount": 126,
       "episodeCount": 180
     }
   },
@@ -27,8 +27,16 @@
     "international"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
+    {
+      "titre": "Continuer à la fac et à l'ENS après une prépa littéraire (Parole de Prépa #38)",
+      "date": "2026-09-15"
+    },
+    {
+      "titre": "Il intègre ENS Ulm en maths... avec 4 ans d'avance (Parole de Prépa #37)",
+      "date": "2026-09-14"
+    },
     {
       "titre": "Faire HEC pour vendre des burgers ?? (Parole de prépa #36 avec Graffi)",
       "date": "2026-09-02"
@@ -40,18 +48,10 @@
     {
       "titre": "19,3 à HEC sans s'être inscrite ! (Parole de prépa #34)",
       "date": "2026-07-18"
-    },
-    {
-      "titre": "Devenir enseignant-chercheur après HEC (Parole de Prépa #33)",
-      "date": "2026-07-17"
-    },
-    {
-      "titre": "Intégrer l'X après un an de prépa : le parcours hors normes de Grégory (Parole de prépa #32)",
-      "date": "2026-07-16"
     }
   ],
-  "derniere_activite": "2026-09-02",
-  "frequence_jours": 1,
+  "derniere_activite": "2026-09-15",
+  "frequence_jours": 11,
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",

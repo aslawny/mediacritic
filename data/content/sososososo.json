@@ -26,7 +26,7 @@
     "societe"
   ],
   "addedAt": "2026-06-21",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
       "titre": "TOKYO - KOENJI NAKANO KICHIJOJI",
@@ -42,5 +42,19 @@
     }
   ],
   "derniere_activite": "2020-03-11",
-  "frequence_jours": 20
+  "frequence_jours": 20,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "elodienelson",
+        "titre": "Enfin un podcast passionnant sur le Japon",
+        "texte": "Mais vite ! Enregistrez l’épisode 3 et faites de la promo. C’est dingue que je vous découvre seulement maintenant 🤪"
+      }
+    ]
+  }
 }

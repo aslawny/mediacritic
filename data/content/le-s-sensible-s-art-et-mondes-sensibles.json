@@ -26,7 +26,7 @@
     "culture"
   ],
   "addedAt": "2026-07-27",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
       "titre": "#26 Ouvrir les perspectives et les imaginaires comme force d'agir des artistes avec Dalila Dalléas Bouzar",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-08-31",
-  "frequence_jours": 15
+  "frequence_jours": 15,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "JeanneJane",
+        "titre": "Oubliez tout ce que vous savez, écoutez !",
+        "texte": "Ce podcast va bien au-delà de tout ce qu’on a l’habitude d’écouter. C’est un podcast à vivre. À expérimenter. Avec son cœur. Avec tout son corps. Ce n’est pas seulement un podcast pour comprendre, pour apprendre mais un moment intime pour ressentir.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Flozsity",
+        "titre": "Captivante approche",
+        "texte": "Une approche de la création artistique sous un angle captivant. Eugénie explore là sobrement un angle de vision sur un sujet dont on pensait qu’il ne pouvait être encore plus élargi.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Bastien B.",
+        "titre": "Un podcast à suivre absolument !",
+        "texte": "Superbes conversations autour de l’art et des mondes sensibles, bravo Eugénie !"
+      }
+    ]
+  }
 }

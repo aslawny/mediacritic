@@ -26,7 +26,7 @@
     "true crime",
     "société"
   ],
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
       "titre": "BABABAM ORIGINALS | Pamela Anderson et Tommy Lee",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-11-08",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-11",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "vbiancat",
+        "titre": "Wow 😮",
+        "texte": "Salut ! Je viens de commencer ce podcast, et là, grande surprise : une narration digne de ce nom, j’adore ! Je suis en train d’écouter l’histoire de Redoine Faid et c’est passionnant.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Rg au chômage",
+        "titre": "Médiocre",
+        "texte": "C’est nulllissime, aucun intérêt, le montage, la narration… c’est bidon."
+      },
+      {
+        "note": 5,
+        "auteur": "Tetet68",
+        "titre": "Très réussi !",
+        "texte": "La narration a 2 voix est un plus ; les 2 voix sont agréables . Le rythme des histoires est parfait , les bruitages aussi . Dommage que les épisodes soient scindés en plusieurs parties , pas pratique! L’histoire complète en un seul épisode serait plus appréciable 😉"
+      }
     ]
   }
 }

@@ -25,7 +25,7 @@
     "societe"
   ],
   "addedAt": "2026-10-14",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-10-14",
@@ -50,6 +50,10 @@
   },
   "episodes_recents": [
     {
+      "titre": "Jean d'Arthuys - Un tour du monde en 200 jours en mer, la course d’une vie",
+      "date": "2026-10-30"
+    },
+    {
       "titre": "Claude : confession d'une IA",
       "date": "2026-10-09"
     },
@@ -64,12 +68,8 @@
     {
       "titre": "David Atlan - Producteur : dans les coulisses du cinéma",
       "date": "2025-11-28"
-    },
-    {
-      "titre": "Lélé O - Présentatrice du Journal du Hard",
-      "date": "2025-10-17"
     }
   ],
-  "derniere_activite": "2026-10-09",
+  "derniere_activite": "2026-10-30",
   "frequence_jours": 35
 }

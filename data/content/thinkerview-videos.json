@@ -24,7 +24,7 @@
   "tags": [
     "histoire"
   ],
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -53,6 +53,10 @@
   },
   "episodes_recents": [
     {
+      "titre": "Christophe Boutry : Fuites de Données, Grand banditisme ?",
+      "date": "2026-09-17"
+    },
+    {
       "titre": "Jean-Marc Jancovici : Crise pétrolière, effondrement, émeutes de la faim ?",
       "date": "2026-03-16"
     },
@@ -67,12 +71,8 @@
     {
       "titre": "Henri Guaino : Comprendre la guerre qui vient ?",
       "date": "2024-03-27"
-    },
-    {
-      "titre": "Bluetouff, Fabrice Epelboin et Marc-Antoine Ledieu : Les Hackers face aux cyberguerres ?",
-      "date": "2024-03-21"
     }
   ],
-  "derniere_activite": "2026-03-16",
+  "derniere_activite": "2026-09-17",
   "frequence_jours": 7
 }

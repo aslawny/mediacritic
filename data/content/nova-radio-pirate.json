@@ -26,8 +26,12 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
+    {
+      "titre": "MC Solaar éclipse Radio Nova",
+      "date": "2026-11-06"
+    },
     {
       "titre": "Nova Radio Pirate spéciale 40 ans des Inrockuptibles",
       "date": "2026-07-06"
@@ -43,14 +47,10 @@
     {
       "titre": "Nova Radio Pirate, la Sans Valentin.e avec Fanny Ruwet et Silly Boy Blue",
       "date": "2026-02-16"
-    },
-    {
-      "titre": "Nova Radio Pirate, Myd recherche sa 1ère partie",
-      "date": "2025-11-07"
     }
   ],
-  "derniere_activite": "2026-07-06",
-  "frequence_jours": 35,
+  "derniere_activite": "2026-11-06",
+  "frequence_jours": 57,
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",

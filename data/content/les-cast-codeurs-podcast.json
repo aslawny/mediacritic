@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/les-cast-codeurs-podcast/id312239675?uo=4",
       "trackId": 312239675,
       "rating": 4.8,
-      "ratingCount": 120,
+      "ratingCount": 121,
       "episodeCount": 340
     }
   },
@@ -25,14 +25,18 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
-      "titre": "LCC 342 - Bun en Rust, TypeScript en Go",
-      "date": "2026-07-21"
+      "titre": "LCC 344 - Feature flags - 2^n raisons de ne pas dormir la nuit",
+      "date": "2026-10-20"
+    },
+    {
+      "titre": "LCC 343 - Trois IA, une seule prise électrique",
+      "date": "2026-09-14"
     }
   ],
-  "derniere_activite": "2026-07-21",
+  "derniere_activite": "2026-10-20",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",

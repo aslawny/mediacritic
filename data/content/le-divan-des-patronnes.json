@@ -24,7 +24,7 @@
     "histoire"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
       "titre": "Standardiser pour grandir sans recruter",
@@ -50,25 +50,29 @@
   "derniere_activite": "2026-09-08",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-11",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Delanna11",
+        "titre": "Des mots qui font mouche à chaque fois !",
+        "texte": "Nina, tu as ce talent rare de mettre les bons mots sur des choses qu’on ressent toutes, sans forcément réussir à les formuler. Chacune de tes parole est percutante et pertinente ! Il n’y a vraiment rien à jeter …"
+      },
+      {
+        "note": 5,
+        "auteur": "Misslife47",
+        "titre": "Quelle révélation !",
+        "texte": "Enfin un podcast qui envoi du lourd et qui sait autant parler pro que perso… car nous ne sommes pas que des bêtes de travail mais aussi des mères, des femmes avec nos faiblesses et nos craintes …"
+      },
+      {
+        "note": 5,
+        "auteur": "PaulineGrumel",
+        "titre": "Mon rdv de la semaine",
+        "texte": "Merci Nina pour tout ce que tu partages 🙏 Ça fait tellement écho avec ce que les femmes entrepreneures traversent. Je viens d’écouter le podcast « la ligne de douleur » qui est tellement juste. Il fait réfléchir sur la relation au travail. Ne pas confondre souffrance et effort."
+      }
     ]
   }
 }

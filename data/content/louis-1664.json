@@ -23,7 +23,7 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
       "titre": "Louis 1664 #37 : Tous les 8 mars, les femmes de pouvoir surfent avec Richard Francis Burton sur la 4ème vague ",
@@ -47,5 +47,27 @@
     }
   ],
   "derniere_activite": "2025-03-07",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-10",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

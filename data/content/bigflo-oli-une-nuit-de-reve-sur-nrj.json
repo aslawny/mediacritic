@@ -23,27 +23,31 @@
     "musique"
   ],
   "addedAt": "2026-10-11",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-11",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "_______-________",
+        "titre": "J’ai kiffé",
+        "texte": "J’ai bien aimé l’idée et en plus je suis fan de vos chansons. Il faudrait juste un peu plus de podcast et qu’il dure plus longtemps mais c’était top"
+      },
+      {
+        "note": 2,
+        "auteur": "le manageur",
+        "titre": "Bof",
+        "texte": "Cette émission était attendu par les auditeurs de cauet mais le résultat est moyen ennuyant et long. C’est sensé être divertissant mais on s’endors trop vite .Les vannes ne sont pas drôles et il n’ont pas de sujet d’émission concret A améliorer"
+      },
+      {
+        "note": 5,
+        "auteur": "Gxpygyolwkfvugfitc",
+        "titre": "C trop bien !!!",
+        "texte": "Je vous kiffe trop surtout Bigflo et oli vous êtes mes chanteur préféré je rêves trop de vous rencontrer"
+      }
     ]
   },
   "episodes_recents": [

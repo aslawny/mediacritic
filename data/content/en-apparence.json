@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/en-apparence/id1877628982?uo=2",
       "trackId": 1877628982,
       "rating": 4.7,
-      "ratingCount": 523,
+      "ratingCount": 525,
       "episodeCount": null
     }
   },
@@ -25,7 +25,7 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
       "titre": "Eddy de Pretto, grand coeur atypique",
@@ -51,25 +51,29 @@
   "derniere_activite": "2026-11-05",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-11",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Anne D28",
+        "titre": "Mais quelle joie !",
+        "texte": "Les thèmes abordés sont tout simplement délicieux. J’avoue être une passionnée de skincare donc sans doute cela aide-t-il…Je me délecte à chaque invité, Nora vous êtes si généreuse ! Et le dernier épisode, avec Augustin Trapenard, était hilarant.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Voi madeleine",
+        "titre": "Nombrilisme bonjour",
+        "texte": "Le principe d’un podcast c’est interviewer son invité pas de parler de soi !"
+      },
+      {
+        "note": 5,
+        "auteur": "CS fleur",
+        "titre": "Tellement bien",
+        "texte": "J’adore Nora hamzawi et je suis ravie de l’entendre toutes les semaines . Les interviews sont drôles, en apparence un poil superficielles, mais au fond, le fait de creuser sur l’avis que chacun a sur son apparence et la manière dont il en prend soin ou pas, donne lieu à des échan…"
+      }
     ]
   }
 }

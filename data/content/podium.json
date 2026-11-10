@@ -25,8 +25,12 @@
     "cuisine"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
+    {
+      "titre": "Podium #85 - Le parcours de Roland Anstett",
+      "date": "2026-10-23"
+    },
     {
       "titre": "Podium #84 - Le parcours de Sandra Geiger",
       "date": "2026-09-11"
@@ -42,13 +46,9 @@
     {
       "titre": "Podium #81 - Le parcours de Cécile Sornin",
       "date": "2026-06-05"
-    },
-    {
-      "titre": "Podium #80 - Le parcours de William Laîné",
-      "date": "2026-04-24"
     }
   ],
-  "derniere_activite": "2026-09-11",
+  "derniere_activite": "2026-10-23",
   "frequence_jours": 35,
   "avis_publics": {
     "source": "apple",

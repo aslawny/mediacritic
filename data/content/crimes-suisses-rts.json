@@ -25,7 +25,7 @@
     "societe"
   ],
   "addedAt": "2026-10-14",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-10-14",
@@ -50,6 +50,14 @@
   },
   "episodes_recents": [
     {
+      "titre": "Fabrice, violé et tué à La Chaux-de-Fonds",
+      "date": "2026-10-29"
+    },
+    {
+      "titre": "Quand l'arme du crime révèle ses secrets",
+      "date": "2026-10-15"
+    },
+    {
       "titre": "Casse du siècle à Zurich",
       "date": "2026-10-01"
     },
@@ -60,16 +68,8 @@
     {
       "titre": "René Osterwalder, le tortionnaire de bébés",
       "date": "2026-06-25"
-    },
-    {
-      "titre": "Le kidnapping de Joséphine Dard",
-      "date": "2026-06-11"
-    },
-    {
-      "titre": "L’affaire Nicolo: jalousie mortelle",
-      "date": "2026-05-28"
     }
   ],
-  "derniere_activite": "2026-10-01",
+  "derniere_activite": "2026-10-29",
   "frequence_jours": 14
 }

@@ -26,5 +26,31 @@
     "culture"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-07"
+  "updatedAt": "2026-11-10",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Florence Podcast",
+        "titre": "Le plein de découvertes",
+        "texte": "Je prends beaucoup de plaisir à écouter les épisodes de ce podcast. Quand je connais le film en question, j’aime voir l’impact qu’il a pu avoir chez les autres. Quand je ne le connais pas, ça attise toujours un peu ma curiosité en me donnant envie de le regarder.…"
+      },
+      {
+        "note": 5,
+        "auteur": "LilyLit_blog",
+        "titre": "Une vision intime du cinéma",
+        "texte": "Une vision intime et originale du cinéma, qui replace chaque œuvre dans le contexte de la vie de l'invité(e). Parfois drôle, souvent émouvant, un bel hommage à l'impact du Septième Art dans nos vies …"
+      },
+      {
+        "note": 5,
+        "auteur": "Julie Serpentine",
+        "titre": "Une manière plus intime de découvrir le cinéma",
+        "texte": "Quelle belle idée de faire connaître tel ou tel film au travers des yeux d’une personnalité ! C’est un nouvel angle très intéressant dans le foisonnement des podcasts ciné.…"
+      }
+    ]
+  }
 }

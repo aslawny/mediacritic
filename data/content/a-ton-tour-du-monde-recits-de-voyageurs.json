@@ -27,7 +27,7 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
       "titre": "Trois amis, un projet fou au bout du monde : ouvrir un restaurant à Lombok",
@@ -53,25 +53,29 @@
   "derniere_activite": "2026-06-22",
   "frequence_jours": 33,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-11",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Yo^46^",
+        "titre": "@les 5 baroudeurs",
+        "texte": "Un grand MERCI FLorence pour ton professionnalisme et sensibilité partagée! Je n’étais pas prédisposée à faire ce podcast vu les circonstances mais cela m’a fait un bien fou car grâce à toi j’ai revécu ces beaux moments partagés avec mes enfants et tu m’as beaucoup encouragé… Bis…"
+      },
+      {
+        "note": 5,
+        "auteur": "iGuiGeek",
+        "titre": "Inspirant, authentique et passionnant",
+        "texte": "Merci Florence pour ce podcast et ces magnifiques échanges très inspirants. Les échanges sont authentiques et sains. Ton écoute et ta bienveillance lors des interviews nous transportent.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Lydie - Les4envoyage",
+        "titre": "On rêve avec toi",
+        "texte": "Bravo Florence pour ce podcast! On se régale vraiment en écoutant tes invités! Cela nous replonge avec délice dans le plaisir et le bonheur du tour du monde et des voyages. Grâce à toi, nous découvrons de belles personnes inspirantes !!!"
+      }
     ]
   }
 }

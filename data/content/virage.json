@@ -25,7 +25,7 @@
     "education"
   ],
   "addedAt": "2026-05-31",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
       "titre": "Ep 108 Laurence Audras: Mieux comprendre l'emprise et la violence.",
@@ -51,25 +51,29 @@
   "derniere_activite": "2026-09-24",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-11",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Wanderfull Raph",
+        "titre": "Bravo pour ce podcast inspirant",
+        "texte": "Merci pour ces histoires que tu nous fais vivre, qui résonnent si souvent et permettent de lever le voile sur le parcours d’autres personnes qui ont su “répondre à l’appel”, ne pas faire nécessairement ce que lemon attendait d’eux et tracer leur route en-dehors des sentiers battu…"
+      },
+      {
+        "note": 5,
+        "auteur": "Flo78760",
+        "titre": "Inspirant !",
+        "texte": "Dès que le sujet nous touche de près ou de loin, l’invité, par le déroulé de son histoire, nous emmène sur des chemins qui nous parlent et nous permettent à notre tour d’avancer. Le dernier épisode sur Maureen et Paul est incroyable de transmission d’émotions."
+      },
+      {
+        "note": 5,
+        "auteur": "Sarah CapoupasCap",
+        "titre": "Une podcast inspirant à écouter !",
+        "texte": "Des histoires inspirantes, un podcast qui fait du bien, qui permet de découvrir pleins de parcours. J’ai adoré ! Bravo pour ton travail Pauline Maria ! Appuyez sur play et laissez vous porter ;)"
+      }
     ]
   }
 }

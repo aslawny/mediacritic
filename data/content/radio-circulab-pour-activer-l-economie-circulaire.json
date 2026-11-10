@@ -26,7 +26,7 @@
     "cuisine"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -55,6 +55,10 @@
   },
   "episodes_recents": [
     {
+      "titre": "Réussir dans le réemploi du bâtiment : l'exemple d'Articonnex, avec Emmanuel Morel",
+      "date": "2026-10-09"
+    },
+    {
       "titre": "Immersion au Village EC 2027. Hors-Série 3/3",
       "date": "2026-07-08"
     },
@@ -69,12 +73,8 @@
     {
       "titre": "Ceux qui réinventent le réemploi. Hors-Série 2/3",
       "date": "2026-06-17"
-    },
-    {
-      "titre": "La lettre de Joséphine - Une reconfiguration profonde",
-      "date": "2026-06-17"
     }
   ],
-  "derniere_activite": "2026-07-08",
+  "derniere_activite": "2026-10-09",
   "frequence_jours": 7
 }

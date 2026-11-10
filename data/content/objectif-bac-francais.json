@@ -23,7 +23,7 @@
     "education"
   ],
   "addedAt": "2026-05-28",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
       "titre": "SPÉCIAL #5 Mes conseils à J-3 !",
@@ -49,25 +49,29 @@
   "derniere_activite": "2026-06-09",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-11",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "sauvé !",
+        "titre": "Merci Arthur d’avoir sauvé mon année !",
+        "texte": "Ce podcast génial, détaillé et d’une grande intelligence m’a accompagné tout au long de l’année alors que mon professeur de français était absent. Je conseille vivement l’achat des cours sur son site qui m’ont énormément facilité la révision !"
+      },
+      {
+        "note": 5,
+        "auteur": "Iegsen",
+        "titre": "Dyslexique",
+        "texte": "Merciiii ! Mon fils est dyslexique et demandeur de ce genre de podcasts qui pour lui sont stratégiques car c’est ce qu’il retient mieux…. a contrario des heures passées à lire des notes."
+      },
+      {
+        "note": 5,
+        "auteur": "Ghipont",
+        "titre": "Très incroyablement super !",
+        "texte": "Génial ! C’est exactement ce que je recherchais. Merciiiiiii infiniment. De très bonnes analyses expliquées simplement et c’est essentiel. Je vous soutiens. Belle découverte !!!!"
+      }
     ]
   }
 }

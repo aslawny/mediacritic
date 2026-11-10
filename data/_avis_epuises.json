@@ -1,6 +1,6 @@
 {
-  "maj": "2026-11-09",
-  "total": 1407,
+  "maj": "2026-11-10",
+  "total": 1430,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -7186,6 +7186,12 @@
       "fiche": "fiches/quai-23.html"
     },
     {
+      "slug": "hors-theme",
+      "titre": "Hors Thème",
+      "notes_apple": 30,
+      "fiche": "fiches/hors-theme.html"
+    },
+    {
       "slug": "archi-interessant",
       "titre": "Archi intéressant",
       "notes_apple": 29,
@@ -8444,6 +8450,138 @@
       "titre": "La Pensée du Jour",
       "notes_apple": 20,
       "fiche": "fiches/la-pensee-du-jour.html"
+    },
+    {
+      "slug": "maneltmi-mon-pvt-en-australie",
+      "titre": "Maneltmi - Mon PVT en Australie",
+      "notes_apple": 20,
+      "fiche": "fiches/maneltmi-mon-pvt-en-australie.html"
+    },
+    {
+      "slug": "louis-1664",
+      "titre": "Louis 1664",
+      "notes_apple": 20,
+      "fiche": "fiches/louis-1664.html"
+    },
+    {
+      "slug": "meditation-guidee-reiki-protection-nettoyage-energetique-et-karmique-www-cimbaro",
+      "titre": "Méditation guidée Reiki. Protection, Nettoyage énergétique et karmique . Www.cimbarosophro.com",
+      "notes_apple": 20,
+      "fiche": "fiches/meditation-guidee-reiki-protection-nettoyage-energetique-et-karmique-www-cimbaro.html"
+    },
+    {
+      "slug": "objectif-mars",
+      "titre": "Objectif Mars",
+      "notes_apple": 20,
+      "fiche": "fiches/objectif-mars.html"
+    },
+    {
+      "slug": "on-lache-rien",
+      "titre": "On lâche rien !",
+      "notes_apple": 20,
+      "fiche": "fiches/on-lache-rien.html"
+    },
+    {
+      "slug": "parigo",
+      "titre": "Parigo",
+      "notes_apple": 20,
+      "fiche": "fiches/parigo.html"
+    },
+    {
+      "slug": "paris-podcast-festival",
+      "titre": "Paris Podcast Festival",
+      "notes_apple": 20,
+      "fiche": "fiches/paris-podcast-festival.html"
+    },
+    {
+      "slug": "police-le-podcast",
+      "titre": "Police, le podcast",
+      "notes_apple": 20,
+      "fiche": "fiches/police-le-podcast.html"
+    },
+    {
+      "slug": "radioscopie",
+      "titre": "Radioscopie",
+      "notes_apple": 20,
+      "fiche": "fiches/radioscopie.html"
+    },
+    {
+      "slug": "road-to-1-million",
+      "titre": "Road to 1 Million",
+      "notes_apple": 20,
+      "fiche": "fiches/road-to-1-million.html"
+    },
+    {
+      "slug": "silence-on-joue-la-chronique-jeux-de-societe",
+      "titre": "Silence on Joue ! La chronique jeux de société",
+      "notes_apple": 20,
+      "fiche": "fiches/silence-on-joue-la-chronique-jeux-de-societe.html"
+    },
+    {
+      "slug": "studio-ground-control",
+      "titre": "Studio Ground Control",
+      "notes_apple": 20,
+      "fiche": "fiches/studio-ground-control.html"
+    },
+    {
+      "slug": "thesard-es",
+      "titre": "Thésard-es",
+      "notes_apple": 20,
+      "fiche": "fiches/thesard-es.html"
+    },
+    {
+      "slug": "507-heures",
+      "titre": "507 Heures",
+      "notes_apple": 19,
+      "fiche": "fiches/507-heures.html"
+    },
+    {
+      "slug": "al-bayyinah-podcast",
+      "titre": "Al Bayyinah Podcast",
+      "notes_apple": 19,
+      "fiche": "fiches/al-bayyinah-podcast.html"
+    },
+    {
+      "slug": "aller-retour",
+      "titre": "Aller-Retour",
+      "notes_apple": 19,
+      "fiche": "fiches/aller-retour.html"
+    },
+    {
+      "slug": "au-c-ur-des-archives",
+      "titre": "Au cœur des archives",
+      "notes_apple": 19,
+      "fiche": "fiches/au-c-ur-des-archives.html"
+    },
+    {
+      "slug": "apothicast",
+      "titre": "Apothicast",
+      "notes_apple": 19,
+      "fiche": "fiches/apothicast.html"
+    },
+    {
+      "slug": "au-coeur-du-jeu",
+      "titre": "Au Coeur Du Jeu",
+      "notes_apple": 19,
+      "fiche": "fiches/au-coeur-du-jeu.html"
+    },
+    {
+      "slug": "backlog-le-podcast",
+      "titre": "Backlog le Podcast",
+      "notes_apple": 19,
+      "fiche": "fiches/backlog-le-podcast.html"
+    },
+    {
+      "slug": "brocast",
+      "titre": "Brocast",
+      "notes_apple": 19,
+      "fiche": "fiches/brocast.html"
+    },
+    {
+      "slug": "cap-australie",
+      "titre": "Cap Australie",
+      "notes_apple": 19,
+      "fiche": "fiches/cap-australie.html"
     }
   ]
 }

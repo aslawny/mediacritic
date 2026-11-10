@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/marc-geiger-justice/id1718750123?uo=4",
       "trackId": 1718750123,
       "rating": 4.9,
-      "ratingCount": 491,
+      "ratingCount": 492,
       "episodeCount": 29
     }
   },
@@ -25,27 +25,31 @@
     "culture",
     "société"
   ],
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-11",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tyskrel",
+        "titre": "Merci pour votre considération envers les victimes",
+        "texte": "Ce podcast, animé par Maître G, donne une voix aux victimes grâce à sa bienveillance, son expertise et sa voix apaisante. Il écoute avec attention et pose les bonnes questions sans intrusion ni voyeurisme.…"
+      },
+      {
+        "note": 5,
+        "auteur": "kiryelle",
+        "titre": "Top",
+        "texte": "Enfin un podcast digne de ce nom , en grande partie ,par l’éloquence, la bienveillance, le sens de l’écoute du témoin (ce qui est plutôt rare dans les podcast) de Marc Gieger.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Laetitia888",
+        "titre": "Très bon podcast",
+        "texte": "Quelle bonne idée de donner la possibilité aux victimes de témoigner sur ce qu’ils ont subi et sur leur parcours Mais ce podcast ne serait pas de qualité sans la justesse des questions posées toujours avec bienveillance, sans les précisions ou compléments apportés par Me GEIGER p…"
+      }
     ]
   },
   "episodes_recents": [

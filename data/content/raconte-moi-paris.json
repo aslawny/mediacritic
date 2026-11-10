@@ -27,7 +27,7 @@
     "famille"
   ],
   "addedAt": "2026-05-31",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -56,6 +56,14 @@
   },
   "episodes_recents": [
     {
+      "titre": "48- Le Palais de Justice II : un palais riche de symboles",
+      "date": "2026-10-07"
+    },
+    {
+      "titre": "47- Le Palais de Justice: 700 ans d'Histoire",
+      "date": "2026-09-30"
+    },
+    {
       "titre": "46 - Il était une fois l’école",
       "date": "2026-08-29"
     },
@@ -66,16 +74,8 @@
     {
       "titre": "[REDIFF] La Sainte-Chapelle: l'église aux mille vitraux",
       "date": "2026-07-11"
-    },
-    {
-      "titre": "[REDIFF] Le Panthéon",
-      "date": "2026-06-23"
-    },
-    {
-      "titre": "[1 min à Paris] Le Pont-Neuf",
-      "date": "2026-06-20"
     }
   ],
-  "derniere_activite": "2026-08-29",
-  "frequence_jours": 13
+  "derniere_activite": "2026-10-07",
+  "frequence_jours": 7
 }

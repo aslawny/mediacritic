@@ -25,7 +25,7 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,26 +54,26 @@
   },
   "episodes_recents": [
     {
+      "titre": "Le jour où j'ai fait du sirop d'érable",
+      "date": "2026-11-04"
+    },
+    {
+      "titre": "Le jour où je suis restée seule à la maison",
+      "date": "2026-11-04"
+    },
+    {
+      "titre": "Promenons-nous",
+      "date": "2026-10-07"
+    },
+    {
       "titre": "Tétine addict",
       "date": "2026-09-02"
     },
     {
       "titre": "Le jour où j’ai cru qu’un monstre se cachait sous mon lit",
       "date": "2026-08-05"
-    },
-    {
-      "titre": "Le jour où la terre a tremblé",
-      "date": "2026-08-05"
-    },
-    {
-      "titre": "Le jour où j'ai eu la honte de ma vie",
-      "date": "2026-07-01"
-    },
-    {
-      "titre": "Le jour où j'ai adopté mon chat",
-      "date": "2026-07-01"
     }
   ],
-  "derniere_activite": "2026-09-02",
+  "derniere_activite": "2026-11-04",
   "frequence_jours": 27
 }

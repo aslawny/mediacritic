@@ -25,27 +25,25 @@
     "culture"
   ],
   "addedAt": "2026-10-11",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-11",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-10",
+    "extraits": [
+      {
+        "note": 4,
+        "auteur": "Kahlouch",
+        "titre": "Taper les fiston",
+        "texte": "Je voudrais bien avoir des album de booba sûre mon ipod touch"
+      },
+      {
+        "note": 2,
+        "auteur": "9053814",
+        "titre": "Merci mais le son ce n'est pas possible!",
+        "texte": "J'ai été ravi de cette trouvaille, mais le son le rend inécoutable pour ma part! Dommage"
+      }
     ]
   },
   "episodes_recents": [

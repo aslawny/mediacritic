@@ -15,7 +15,7 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/cinecast-sorties-cin%C3%A9ma-streaming/id1304545801?uo=2",
       "trackId": 1304545801,
-      "rating": 3.9,
+      "rating": 3.8,
       "ratingCount": 41,
       "episodeCount": null
     }
@@ -26,7 +26,7 @@
     "series"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
       "titre": "MUTINY : Jason Statham contre tout le bateau",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-19",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-11",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "DGR1150",
+        "titre": "Un podcast sympa animé par des passionnés",
+        "texte": "Podcast super sympa animé par 2 passionnés et ça s’entend tout au long de l’episode. Petit bémol pour la musique de fond pendant la revue de presse : elle pourrait être moins forte (épisode La reine des neige 2)"
+      },
+      {
+        "note": 1,
+        "auteur": "👊💪👌",
+        "titre": "Laborieux",
+        "texte": "Pardon mais vous ne pouvez pas prendre un micro et dire pêle-mêle tout ce qu’il vous passe par la tête. Il faut bosser, préparer et structurer vos interventions car là en l’état c’est très dur à écouter, voire même pénible."
+      },
+      {
+        "note": 3,
+        "auteur": "julievgr3",
+        "titre": "Sympa",
+        "texte": "Sympa à écouter bien que beaucoup trop court c’est un peu frustrant et désolée les gars mais le son est vraiment très mauvais c’est dommage…"
+      }
     ]
   }
 }

@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/tous-les-go%C3%BBts-sont-permis/id6804628962?uo=2",
       "trackId": 6804628962,
       "rating": 4.9,
-      "ratingCount": 53,
+      "ratingCount": 54,
       "episodeCount": null
     }
   },
@@ -25,7 +25,7 @@
     "societe"
   ],
   "addedAt": "2026-09-02",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
       "titre": "L'INTÉGRALE - \"Tous les goûts sont permis\" du 20 septembre 2026",
@@ -51,25 +51,29 @@
   "derniere_activite": "2026-09-20",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-11",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Soomarine",
+        "titre": "MERCI 🙏",
+        "texte": "Quel ravissement de retrouver un rdv du dimanche soir dans l’esprit du masque et la plume dont je me sentais si orpheline…. Votre impertinence, votre intelligence sans haine est une vrai bouffée d’air frais .…"
+      },
+      {
+        "note": 5,
+        "auteur": "Fredko91",
+        "titre": "La pub…",
+        "texte": "Pour tous ceux qui n’aiment pas la pub : RTL est une radio privée qui ne touche pas d’argent public. Si vous n’aimez pas la pub, écoutez Radio France ! (Pas de bol, il y a de la pub aussi…..)"
+      },
+      {
+        "note": 5,
+        "auteur": "Gael19780821",
+        "titre": "Bonheur, plaisir, et joie",
+        "texte": "Une superbe énergie pour parler de l’actualité culturelle. FB donne envie d’y participer depuis chez soi! Et E.Neuhoff: un pur régal!!!! Longue vie à cette émission!"
+      }
     ]
   }
 }

@@ -24,8 +24,12 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
+    {
+      "titre": "24FPS HS Août Septembre Octobre 2026",
+      "date": "2026-10-26"
+    },
     {
       "titre": "24FPS 155 - L'Odyssée",
       "date": "2026-08-01"
@@ -41,14 +45,10 @@
     {
       "titre": "24FPS HS Janvier Février 2026",
       "date": "2026-03-08"
-    },
-    {
-      "titre": "24FPS Bilan 2025",
-      "date": "2026-03-04"
     }
   ],
-  "derniere_activite": "2026-08-01",
-  "frequence_jours": 43,
+  "derniere_activite": "2026-10-26",
+  "frequence_jours": 44,
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",

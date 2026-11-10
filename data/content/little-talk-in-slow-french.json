@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/little-talk-in-slow-french/id1541856876?uo=2",
       "trackId": 1541856876,
       "rating": 5.0,
-      "ratingCount": 100,
+      "ratingCount": 101,
       "episodeCount": null
     }
   },
@@ -25,8 +25,12 @@
     "education"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
+    {
+      "titre": "Manifestations, jeunes en colère, violences policières... Qu'est ce qu'il se passe en France ?",
+      "date": "2026-10-31"
+    },
     {
       "titre": "3/3｜À quoi pourrait ressembler la France de demain ?",
       "date": "2026-09-12"
@@ -42,14 +46,10 @@
     {
       "titre": "4/4｜L’évolution de Paris : De la reconstruction à aujourd'hui",
       "date": "2026-05-31"
-    },
-    {
-      "titre": "3/4｜L’histoire de Paris : Entre joie de vivre et temps de guerre",
-      "date": "2026-04-13"
     }
   ],
-  "derniere_activite": "2026-09-12",
-  "frequence_jours": 39,
+  "derniere_activite": "2026-10-31",
+  "frequence_jours": 42,
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",

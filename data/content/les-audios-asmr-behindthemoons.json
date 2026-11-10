@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/les-audios-asmr-behindthemoons/id1851422670?uo=2",
       "trackId": 1851422670,
-      "rating": 4.5,
-      "ratingCount": 87,
+      "rating": 4.6,
+      "ratingCount": 89,
       "episodeCount": null
     }
   },
@@ -27,8 +27,16 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
+    {
+      "titre": "Asmr - Vampire vend manoir (venez)",
+      "date": "2026-10-26"
+    },
+    {
+      "titre": "Asmr - FAQ - Le grand retour ?",
+      "date": "2026-09-14"
+    },
     {
       "titre": "Asmr - On commande des vêtements en 2003",
       "date": "2026-09-07"
@@ -40,18 +48,10 @@
     {
       "titre": "Asmr - Examen des oreilles : Nettoyage des conduits auditifs et test auditif",
       "date": "2026-07-27"
-    },
-    {
-      "titre": "Asmr - L’examen des nerfs crâniens expliqué",
-      "date": "2026-05-18"
-    },
-    {
-      "titre": "Asmr - Résolution de l’enquête : La disparition des Blancheton",
-      "date": "2026-04-26"
     }
   ],
-  "derniere_activite": "2026-09-07",
-  "frequence_jours": 1,
+  "derniere_activite": "2026-10-26",
+  "frequence_jours": 6,
   "avis_publics": {
     "epuise": true,
     "releve": "2026-10-23",

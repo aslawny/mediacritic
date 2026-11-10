@@ -25,7 +25,7 @@
     "culture"
   ],
   "addedAt": "2026-06-09",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
       "titre": "Rencontre avec Joseph Haydn",
@@ -49,5 +49,25 @@
     }
   ],
   "derniere_activite": "2024-12-19",
-  "frequence_jours": 28
+  "frequence_jours": 28,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "valoche",
+        "titre": "J adore",
+        "texte": "Une manière originale de découvrir les grands compositeurs de musique classique. J adore 💕"
+      },
+      {
+        "note": 5,
+        "auteur": "mmmpn",
+        "titre": "Un vrai bonheur",
+        "texte": "Merci pour votre conversation riche d’humour et de pédagogie qui s’ignore"
+      }
+    ]
+  }
 }

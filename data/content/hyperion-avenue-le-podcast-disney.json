@@ -25,7 +25,7 @@
     "series"
   ],
   "addedAt": "2026-10-26",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-10-26",
@@ -50,6 +50,10 @@
   },
   "episodes_recents": [
     {
+      "titre": "Episode 99 : Coco ( 2017 )",
+      "date": "2026-10-31"
+    },
+    {
       "titre": "Episode 98 : The Twilight zone : Tower of Terror",
       "date": "2026-10-24"
     },
@@ -64,12 +68,8 @@
     {
       "titre": "Episode 95 : Bien organiser votre séjour à Disneyland Paris - Partie 2",
       "date": "2026-09-26"
-    },
-    {
-      "titre": "Episode 94 : Bien organiser son séjour à Disneyland Paris - Partie 1",
-      "date": "2026-09-19"
     }
   ],
-  "derniere_activite": "2026-10-24",
+  "derniere_activite": "2026-10-31",
   "frequence_jours": 7
 }

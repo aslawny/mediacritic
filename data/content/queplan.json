@@ -23,7 +23,7 @@
     "rénovation",
     "DIY"
   ],
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -52,6 +52,10 @@
   },
   "episodes_recents": [
     {
+      "titre": "Samy André : L'homme de l'ombre derrière Inox, Rilès, Amine et Nico là",
+      "date": "2026-10-26"
+    },
+    {
       "titre": "Arrêtés par la douane en Tunisie, la saleté en Inde, piloter un avion",
       "date": "2026-08-05"
     },
@@ -66,12 +70,8 @@
     {
       "titre": "Henri Hihacks : Ses plus folles inventions, son inondation, ses prochains projets 👀",
       "date": "2026-05-29"
-    },
-    {
-      "titre": "Dr Nozman : Il a plus de force que nous, sa transfo physique, l'évolution de Youtube",
-      "date": "2026-05-19"
     }
   ],
-  "derniere_activite": "2026-08-05",
+  "derniere_activite": "2026-10-26",
   "frequence_jours": 22
 }

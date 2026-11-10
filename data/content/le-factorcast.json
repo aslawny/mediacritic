@@ -25,12 +25,38 @@
     "gaming",
     "rétro"
   ],
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
       "titre": "Factorcast Spécial Gamescom 2025 #3",
       "date": "2025-08-26"
     }
   ],
-  "derniere_activite": "2025-08-26"
+  "derniere_activite": "2025-08-26",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "thenew.fr",
+        "titre": "Pandabear",
+        "texte": "Très bon épisode 9 sur des idées de game design. De mieux en mieux. Mais beaucoup trop de Cacolac pour être honnête."
+      },
+      {
+        "note": 3,
+        "auteur": "Kimaill",
+        "titre": "Intéressant mais problème avec la prise de son",
+        "texte": "Les sujets et le contenu des débats sont très bon. Par contre le denier épisode très difficile à écouter à cause de bruit de fond (quelqu’un joue avec une canette ou un gobelet). J’écoute au casque et j’ai du arrêter à cause de ce bruit bien que soit intéressé."
+      },
+      {
+        "note": 5,
+        "auteur": "guillemmz",
+        "titre": "Le ton, le thon, letton",
+        "texte": "Podcast agréable par son ton légèrement décalé (mais pas trop) et ses sujets !"
+      }
+    ]
+  }
 }

@@ -25,7 +25,7 @@
     "international"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
       "titre": "La Pologne de retour au coeur de l'Europe",
@@ -51,25 +51,29 @@
   "derniere_activite": "2023-10-23",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-11",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ctct2323",
+        "titre": "Addictif",
+        "texte": "Un contenu d’une qualité exceptionnelle, des points de vue fouillés et argumentés, on peut ne pas être d’accord mais on ne peut qu’apprécier cet enrichissement intellectuel (on apprend à chaque épisode) et surtout, une pensée libre et détachée des “modes”.…"
+      },
+      {
+        "note": 5,
+        "auteur": "GabiUp",
+        "titre": "Des perspectives fascinantes",
+        "texte": "J'ai adoré écouter leur conversation ! Je pense qu'ils ont de très bons arguments sur tous les sujets abordés et qu'ils sont très bien informés, mais la façon dont la conversation se déroule, on a l'impression d'être à table avec ses amis les plus avertis."
+      },
+      {
+        "note": 5,
+        "auteur": "Aline.A",
+        "titre": "Haut niveau !",
+        "texte": "Pas un des habituels chroniqueurs / experts / spécialistes qui encombrent BFM, CNews ou LCI n’a cette culture ni cette clarté d’expression. Les chaînes pré-citées devraient prêter une oreille, si toutefois elles souhaitent quitter leur ronron quotidien…"
+      }
     ]
   }
 }

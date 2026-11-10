@@ -25,7 +25,7 @@
     "culture"
   ],
   "addedAt": "2026-09-29",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,6 +54,14 @@
   },
   "episodes_recents": [
     {
+      "titre": "La Fabrique #39 - Nadège Érika",
+      "date": "2026-10-27"
+    },
+    {
+      "titre": "La Fabrique #38 - François Desagnat",
+      "date": "2026-10-05"
+    },
+    {
       "titre": "La Fabrique #37 - Papy 2/2",
       "date": "2025-08-24"
     },
@@ -64,16 +72,8 @@
     {
       "titre": "La Fabrique #36 - Papy 1/2",
       "date": "2025-08-17"
-    },
-    {
-      "titre": "La Fabrique #35 bonus - Justinien Schricke",
-      "date": "2025-08-15"
-    },
-    {
-      "titre": "La Fabrique #35 - Justinien Schricke",
-      "date": "2025-08-10"
     }
   ],
-  "derniere_activite": "2025-08-24",
-  "frequence_jours": 2
+  "derniere_activite": "2026-10-27",
+  "frequence_jours": 4
 }

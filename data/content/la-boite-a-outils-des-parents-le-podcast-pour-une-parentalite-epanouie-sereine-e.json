@@ -26,7 +26,7 @@
     "famille"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
       "titre": "Les meilleurs outils de la boîte à outils des parents (100) – Le témoignage de 3 coachées",
@@ -52,25 +52,29 @@
   "derniere_activite": "2024-05-07",
   "frequence_jours": 13,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-11",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-10",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Noah et cynthia",
+        "titre": "Un coach qui a changé ma vie",
+        "texte": "Oui, vous l’aurez deviné. J’étais enthousiaste mais je ne connaissais pas ce que pouvait apporter dans ma vie une coach parental. Ben le terme c’est un changement radical avec juste une écoute active, un apport d’idées qui malgré tout l’amour qu’on a pour nos enfants, ne viennent…"
+      },
+      {
+        "note": 5,
+        "auteur": "Sophie Brd",
+        "titre": "Le podcast pour tous les parents",
+        "texte": "J’ai découvert le podcast de la boîte à outils des parents par le biais d’une amie. Je l’écoute depuis régulièrement. J’adore comment Juliette aborde les sujets autour de la parentalité en toute bienveillance et transparence. Pas toujours évident d’être mumpreneuse.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Aurelie 🤩",
+        "titre": "La boîte à outils qui sauve la vie",
+        "texte": "Ma meilleure découverte cette année ! Enfin un podcast qui donne des clés pour mieux vivre sa parentalité sans culpabilité🤩 Des épisodes courts et complets sur des sujets que je vit très souvent dans mon quotidien de maman.…"
+      }
     ]
   }
 }

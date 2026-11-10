@@ -25,7 +25,7 @@
     "business"
   ],
   "addedAt": "2026-09-26",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-10-26",
@@ -50,6 +50,10 @@
   },
   "episodes_recents": [
     {
+      "titre": "Faire de l’IA LE moteur de développement pour son cabinet : les conseils de Mamadou Waggeh",
+      "date": "2026-10-22"
+    },
+    {
       "titre": "Consultation de marketing pour avocats entrepreneurs : Les conseils de Louis Gaillot",
       "date": "2026-09-24"
     },
@@ -64,12 +68,8 @@
     {
       "titre": "Comment devenir VRAIMENT visible et innover : petite leçon de Pierre Colliot",
       "date": "2026-06-25"
-    },
-    {
-      "titre": "Comment présider l'une des associations les plus exposées de France ET continuer à faire tourner son cabinet :",
-      "date": "2026-05-21"
     }
   ],
-  "derniere_activite": "2026-09-24",
+  "derniere_activite": "2026-10-22",
   "frequence_jours": 28
 }

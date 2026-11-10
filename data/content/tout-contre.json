@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/tout-contre/id6823218502?uo=2",
       "trackId": 6823218502,
-      "rating": 4.7,
-      "ratingCount": 55,
+      "rating": 4.6,
+      "ratingCount": 62,
       "episodeCount": null
     }
   },
@@ -25,14 +25,26 @@
     "societe"
   ],
   "addedAt": "2026-10-20",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-10",
   "episodes_recents": [
+    {
+      "titre": "Midterms : Trump sanctionné, et maintenant ?",
+      "date": "2026-11-05"
+    },
+    {
+      "titre": "Dette française : qui paiera la facture ? | Brésil : une démocratie sous tension",
+      "date": "2026-10-29"
+    },
+    {
+      "titre": "France : comprendre la colère | Trump face aux midterms",
+      "date": "2026-10-25"
+    },
     {
       "titre": "La colère des lycéens | Trump-Poutine : le deal scandaleux ?",
       "date": "2026-10-15"
     }
   ],
-  "derniere_activite": "2026-10-15",
+  "derniere_activite": "2026-11-05",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-10-28",
@@ -54,5 +66,6 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "frequence_jours": 7
 }
