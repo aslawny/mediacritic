@@ -27,6 +27,10 @@
   "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
+      "titre": "Docker, le dernier rempart avant les IA barbares",
+      "date": "2026-11-01"
+    },
+    {
       "titre": "Kestra, le petit dernier mais pas moins le plus prometteur des orchestrateurs",
       "date": "2024-03-27"
     },
@@ -41,13 +45,9 @@
     {
       "titre": "WebAssembly avec Philippe Charrière",
       "date": "2023-05-29"
-    },
-    {
-      "titre": "R2DEVOPS - Make your GitLab CI/CD simple and reusable",
-      "date": "2023-05-20"
     }
   ],
-  "derniere_activite": "2024-03-27",
+  "derniere_activite": "2026-11-01",
   "frequence_jours": 48,
   "avis_publics": {
     "source": "apple",

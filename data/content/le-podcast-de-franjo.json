@@ -28,6 +28,10 @@
   "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
+      "titre": "Les extrêmes se rencontrent en chicha - Djamil le Schlag - Le Podcast de Franjo",
+      "date": "2026-11-05"
+    },
+    {
       "titre": "\"Il a une tumeur cérébrale mais c'est ok\" - Le Parfait Inconnu - Le podcast de Franjo",
       "date": "2026-06-04"
     },
@@ -42,34 +46,34 @@
     {
       "titre": "Menacé de mort pour son spectacle \"coming out\" - Mehdi Djaadi - Le Podcast de Franjo #8",
       "date": "2026-03-05"
-    },
-    {
-      "titre": "On peut plus rire de tout : Elie Semoun - Le Podcast de Franjo #7",
-      "date": "2026-02-05"
     }
   ],
-  "derniere_activite": "2026-06-04",
+  "derniere_activite": "2026-11-05",
   "frequence_jours": 28,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-12",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "MrKite64",
+        "titre": "Idée de génie",
+        "texte": "« Le podcast de Franjo »…c’est brillant…fallait y penser…comment t’as eu l’idée?🤔 Hâte d’écouter le premier épisode en tout cas…en revanche, si jamais tu comptes faire du merch, personnellement j’ai déjà acheté le mug Podkassos…il est sympa, et je ne regrette pas mon achat, mais…"
+      },
+      {
+        "note": 1,
+        "auteur": "jacobito34",
+        "titre": "Dieudo comme invité !?!?",
+        "texte": "Désolé Franjo mais inviter ce gars pour dire de lui que c’est un dieu de l’humour… t’es sérieux ?!?!"
+      },
+      {
+        "note": 5,
+        "auteur": "Niflette71",
+        "titre": "Super 👍",
+        "texte": "Je marche beaucoup et j’ai écouté tous vos podcasts durant mes marches, j’adore ! C’est naturel et spontané et quand c’est terminé on se dit « déjà ! ». Continuez j’attends le prochain avec impatience.…"
+      }
     ]
   }
 }

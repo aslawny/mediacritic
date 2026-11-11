@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-07-07",
-  "frequence_jours": 21
+  "frequence_jours": 21,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "chloé6906",
+        "titre": "UN PODCAST VIVIFIANT",
+        "texte": "Une énergie se dégage de ce podcast qui donne envie de voyager, c’est aussi agréable que frustrant ! Idéal quand on est à la recherche d’un itinéraire pour nos vacances ! Il me tarde de découvrir les prochaines destinations"
+      },
+      {
+        "note": 5,
+        "auteur": "DidiC77",
+        "titre": "Le podcast qui fait voyager ! ✈️",
+        "texte": "Merci à Selectour pour cette idée innovante de podcast sur les voyages ! Petit clin d’œil à l’épisode sur la Crète qui a rendu mon voyage estival encore plus enrichissant ! ☀️"
+      },
+      {
+        "note": 5,
+        "auteur": "Sarah-Az",
+        "titre": "Excellent",
+        "texte": "Excellent Podcast qui nous fait voyager et découvrir de nouvelles terres ! Mention Spéciale pour l’épisode sur la Crète qui donne vraiment envie de découvrir l’île !"
+      }
+    ]
+  }
 }

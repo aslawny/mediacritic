@@ -52,25 +52,29 @@
   "derniere_activite": "2026-11-05",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-12",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "hedwige41",
+        "titre": "Entourage d’un addict",
+        "texte": "Bonjour Karen-Rose Merci de tes podcasts qui sont vraiment très enrichissants pour moi. Il y a 10 ans j’ai découvert que mon petit frère (de 42 ans aujourd’hui) buvait, se scarifiait et consommait des anxiolytiques et autres drogues sous ordonnance pour ses « shoots », en les pre…"
+      },
+      {
+        "note": 1,
+        "auteur": "Benoitokau",
+        "titre": "Mon dieu",
+        "texte": "Quelle est relou a tout ramener a elle non stop, pète un coup la star"
+      },
+      {
+        "note": 5,
+        "auteur": "lupa1973",
+        "titre": "Merci Rose",
+        "texte": "Merci pour tes podcasts qui m’accompagnent tous les jours dans mon cheminement quotidien vers la libération Et j’en suis loin Je vis à Nice depuis fort longtemps et malheureusement les structures manquent cruellement dans cette grande ville à la fois si belle et si cruelle Je sui…"
+      }
     ]
   }
 }

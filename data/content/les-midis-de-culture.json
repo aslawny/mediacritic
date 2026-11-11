@@ -27,25 +27,29 @@
   "addedAt": "2026-05-23",
   "updatedAt": "2026-11-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-12",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "mireille Thibault",
+        "titre": "Fabrice Epelboin très éclairant",
+        "texte": "Bravo à la Grande Table de m’avoir fait découvrir le spécialiste des réseaux sociaux Fabrice Epelboin. Une voix claire qui explique la fracture entre l’élite politico-médiatique et les 80 % de la population qui appuie les gilets jaunes.…"
+      },
+      {
+        "note": 1,
+        "auteur": "sealoudenice",
+        "titre": "Almadovar",
+        "texte": "Ça doit pas être facile tous les jours d’être critique et trouver autant d’âneries à dire."
+      },
+      {
+        "note": 5,
+        "auteur": "antifake 64",
+        "titre": "Marie Labory a transformé les midis",
+        "texte": "Pour moi la meilleure source d’information sur les Evénements Culturels. Marie Labory a un style frais, direct et non pédant. Elle ne passe pas tout aux filtres politiques habituels. Juste son intelligence, sa fraicheur et et son honnêteté. Cela « ruisselle » sur ses invités.…"
+      }
     ]
   }
 }

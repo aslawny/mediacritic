@@ -27,25 +27,29 @@
   ],
   "updatedAt": "2026-11-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-12",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "chachichachon",
+        "titre": "Ma pause fun quotidienne !",
+        "texte": "Quel fun chaque jour de retrouver Matthieu Noël et sa joyeuse bande parler de tout et n’importe quoi. Quel que soit le thème du jour, je me marre comme rarement, avec l’impression d’être installée à la table de potes qui se cherchent des poux.…"
+      },
+      {
+        "note": 1,
+        "auteur": "zorrobzh",
+        "titre": "Ça fait mal",
+        "texte": "Symbole du détricotage de la grille par Sybille. On a touché le fond."
+      },
+      {
+        "note": 5,
+        "auteur": "JoeAude",
+        "titre": "Instructif et divertissant",
+        "texte": "Bonne émission qui permet de s’informer sur les mots qui font l’actualité tout en s’amusant. L’ambiance tire sur la « déconne », on assiste à de nombreux tacles entre les animateurs.…"
+      }
     ]
   }
 }

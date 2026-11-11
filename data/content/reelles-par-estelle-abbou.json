@@ -26,25 +26,29 @@
   "addedAt": "2026-05-20",
   "updatedAt": "2026-11-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-12",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "f a t i h a",
+        "titre": "MERCIIIII",
+        "texte": "Que de sens, d’intelligence, de sensibilité et surtout de VRAI de RÉEL…., ce dont on a besoin pour mettre les virgules, les points de suspension d’interrogations d’Exclamations !! Merci pour ces moments qui chouchoutent mon esprit… Et mention spéciale pour cette hypnotherapeute e…"
+      },
+      {
+        "note": 1,
+        "auteur": "qebhdfjbdy",
+        "titre": "Interview Sabina Socol",
+        "texte": "Pas très inspirant Pas vraiment qualitatif Pourtant j’adore la mode, les contenus beauté, wellness, partage d’expériences de vie, sport"
+      },
+      {
+        "note": 5,
+        "auteur": "ivandra.cs",
+        "titre": "Une bouffée d’air frais, inspirant et audacieux.",
+        "texte": "Ce podcast est très inspirant, je l’écoute quotidiennement c’est une bouffée d’air frais, un réconfort et beaucoup de questionnement plus que nécessaire, une approche différente de notre société actuelle.…"
+      }
     ]
   },
   "episodes_recents": [

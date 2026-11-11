@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-02",
-  "frequence_jours": 13
+  "frequence_jours": 13,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pavaiis",
+        "titre": "Format super sympa et punchy !",
+        "texte": "La sélection de films est aussi variée que pertinente. C'est toujours un moment agréable, même quand on n'a pas vu le film (ce qui m'arrive régulièrement). Un podcast à recommander sans hésiter pour tous les amoureux de cinéma où le combat tient une place de choix."
+      },
+      {
+        "note": 5,
+        "auteur": "TrivialPanPan",
+        "titre": "De l'amour du pied-bouche",
+        "texte": "À partir du moment où un podcast parle de \"Best of the Best\", on ne peut que l'apprécier."
+      },
+      {
+        "note": 5,
+        "auteur": "Spidey5617",
+        "titre": "Pour les fans les films d’actions et d’arts martiaux",
+        "texte": "Podcast fait par deux passionnés du genre À consommer sans modération 👊"
+      }
+    ]
+  }
 }

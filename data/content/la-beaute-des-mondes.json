@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2022-12-02",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Nico Reagit",
+        "titre": "Tellement bien!",
+        "texte": "Ce podcast devrait être reconnu d’utilité publique. Je met mon casque, je ferme les yeux et je voyages avec cette voix douce et posé sur un fond sonore d’une qualité incroyable! Pour moi ce podcast rentre direct dans mes pépites de l’année 2021.…"
+      },
+      {
+        "note": 5,
+        "auteur": "SebStoucky",
+        "titre": "Voyage",
+        "texte": "En rentrant du boulot, j’ai 45 minutes de route. Une route qui a bifurquée ce soir en Louisiane et plus particulièrement à la Nouvelle Orléans. Ce transport m’a fait m’évader et retrouver un apaisement après une grosse journée de travail. Expérience à renouveler sans aucun doute."
+      },
+      {
+        "note": 5,
+        "auteur": "Constance_93",
+        "titre": "Magnifique",
+        "texte": "Un podcast qui vous fait voyager. Les voyages sont magnifiquement bien racontés avec une voix qui vous emporte. On a envie de partir faire les destinations écoutées afin de vivre toutes ces choses. J’espère que d’autres épisodes suivront :)"
+      }
+    ]
+  }
 }

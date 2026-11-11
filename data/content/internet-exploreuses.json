@@ -28,6 +28,14 @@
   "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
+      "titre": "S04E02 - Les technofascistes sont-ils JALOUX de ta mère ? Avec Nastasia Hadjadji",
+      "date": "2026-10-22"
+    },
+    {
+      "titre": "S04E01 - Le jeu vidéo est-il une fanfiction ? Avec Chloé Stawski",
+      "date": "2026-10-08"
+    },
+    {
       "titre": "S03E09 - Internet Exploreuses : All Stars ✨",
       "date": "2026-06-30"
     },
@@ -38,38 +46,28 @@
     {
       "titre": "S03E07 - Mascus et les réseaux sociaux : on en fait trop ? avec Pauline Ferrari",
       "date": "2026-04-29"
-    },
-    {
-      "titre": "S03E06 - Sommes-nous les DERNIERS humains sur internet ? Avec Lisa Blumen",
-      "date": "2026-04-02"
-    },
-    {
-      "titre": "S03E05 - Faut-il interdire les RS aux vieux ? avec Audrey Randriamandrato",
-      "date": "2026-02-26"
     }
   ],
-  "derniere_activite": "2026-06-30",
+  "derniere_activite": "2026-10-22",
   "frequence_jours": 34,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-12",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mimolilys",
+        "titre": "Super podcast !",
+        "texte": "J’adore ce podcast ! On apprend plein de trucs et entendre la parole des femmes dans le domaine du numérique ça fait du bien. C’est hyper inclusif comme une sorte de petit cocon !!! Continuez svp …"
+      },
+      {
+        "note": 2,
+        "auteur": "Draxredd",
+        "titre": "Mouais",
+        "texte": "Début 2025 et sans aucun recul critique sur les réseaux sociaux … Mais je suis sûrement trop vieux pour le ton du podcast."
+      }
     ]
   }
 }

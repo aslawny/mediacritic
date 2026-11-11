@@ -50,5 +50,19 @@
     }
   ],
   "derniere_activite": "2026-09-14",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "darkbg75013",
+        "titre": "bah c’est le top du top",
+        "texte": "d’un point de vue TOTALEMENT objectif : c’est le meilleur talk musical français"
+      }
+    ]
+  }
 }

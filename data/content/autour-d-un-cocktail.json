@@ -50,5 +50,25 @@
     }
   ],
   "derniere_activite": "2026-06-17",
-  "frequence_jours": 28
+  "frequence_jours": 28,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Sebastien-Kardinal",
+        "titre": "Très cool et instructif",
+        "texte": "J’adore la chaine YouTube, j’aime tout autant ce podcast. Les sujets sont passionnants, les invités de qualité et le plaisir de la découverte toujours au rendez-vous."
+      },
+      {
+        "note": 5,
+        "auteur": "Sonar Flo",
+        "titre": "Super intéressant",
+        "texte": "Encore un très bon épisode Ça me donne de découvrir un peu plus le monde du Gin"
+      }
+    ]
+  }
 }

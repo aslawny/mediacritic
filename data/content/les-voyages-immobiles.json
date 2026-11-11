@@ -51,25 +51,29 @@
   "derniere_activite": "2021-06-19",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-12",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Vict&Lau",
+        "titre": "Top !",
+        "texte": "Une voix apaisante, des chansons uniques et incroyables à découvrir, des explorations qui nous font voyager dans l’espace et dans le temps."
+      },
+      {
+        "note": 5,
+        "auteur": "mammarion",
+        "titre": "🤩",
+        "texte": "Merci Nova, j’adore chaque épisode, je découvre des musiques magnifiques et je m’évade... j’espère que l’émission continuera !"
+      },
+      {
+        "note": 5,
+        "auteur": "NicholasFR92",
+        "titre": "Belle chronique !",
+        "texte": "J’attends l’épisode de l’Australie, car je n’ai pas pu l’écouter en entier « on air » :)"
+      }
     ]
   }
 }

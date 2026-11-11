@@ -28,11 +28,27 @@
   "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
+      "titre": "Versailles, la cour parfumée : de l'Orangerie de Louis XIV au parfum de Marie-Antoinette",
+      "date": "2026-11-04"
+    },
+    {
+      "titre": "De la peste à la Renaissance : le parfum, de remède à objet de désir",
+      "date": "2026-10-19"
+    },
+    {
+      "titre": "De Jésus à Bagdad : quand le parfum a appris à s'évaporer",
+      "date": "2026-10-10"
+    },
+    {
+      "titre": "Grèce et Rome : quand le parfum est descendu sur la peau des hommes",
+      "date": "2026-09-26"
+    },
+    {
       "titre": "Pourquoi dit-on un parfum ? L'histoire cachée derrière le mot que vous dites tous les jours",
       "date": "2026-09-06"
     }
   ],
-  "derniere_activite": "2026-09-06",
+  "derniere_activite": "2026-11-04",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-11-08",
@@ -54,5 +70,6 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "frequence_jours": 15
 }

@@ -28,48 +28,52 @@
   "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
-      "titre": "Et le cyclope il presse les brebis - S03E01",
-      "date": "2026-08-25"
+      "titre": "La famille Addams dans les 90's - s03e06",
+      "date": "2026-11-03"
     },
     {
-      "titre": "Ils ont chaud et ne comprennent rien - L'hebdo #75",
-      "date": "2026-06-23"
+      "titre": "Vision à des Carrie soigné par un éléphant qui joue de la country - S03e05",
+      "date": "2026-10-20"
     },
     {
-      "titre": "Des démos, des films, de la musique et un livre - L'hebdo #74",
-      "date": "2026-06-16"
+      "titre": "Les doudous culturels - s03e04",
+      "date": "2026-10-06"
     },
     {
-      "titre": "Spécial \"The Four Seasons\" (Série et Film)",
-      "date": "2026-06-09"
+      "titre": "Marcus King et une prise d'otage d' oiseaux à la guimauve",
+      "date": "2026-09-22"
     },
     {
-      "titre": "All you need is kill l'Obsession de Westworld - L'hebdo #73",
-      "date": "2026-06-02"
+      "titre": "Les guilty pleasures ou les huileux plaisirs - s03e02",
+      "date": "2026-09-08"
     }
   ],
-  "derniere_activite": "2026-08-25",
-  "frequence_jours": 6,
+  "derniere_activite": "2026-11-03",
+  "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-12",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Podcastics Community",
+        "titre": "Des anecdotes et de la bonne humeur",
+        "texte": "Ambiance bande de potes pour ce podcast qui parle de films et de séries dans la bonne humeur. Il ne faut pas plus de quelques minutes pour se sentir à l'aise et presque intégré à cette équipe de copains.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Graziella974",
+        "titre": "Débiles !",
+        "texte": "Des vrais débiles à l'humour bébête show et la mauvaise période des Guignols ! À fuir!"
+      },
+      {
+        "note": 5,
+        "auteur": "Lolo le chaton",
+        "titre": "Police Squad",
+        "texte": "Merci pour cet épisode sur les origines de Franck Drebin et de ses aventures. Je suis un fan absolu ! Vous parlez à un moment d'une série inspirée par ce genre d'humour. Je n'ai pas bien compris le titre (Indie Tribeca ?). Pourriez vous me donner le vrai titre de cette série …"
+      }
     ]
   }
 }

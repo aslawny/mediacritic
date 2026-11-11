@@ -29,25 +29,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-11-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-12",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ÉcArlAtA",
+        "titre": "COOL 😎😎😎",
+        "texte": "Trop cool,mais plus d’épisode svp😎🙏🏼🙇🏽‍♀️🥺❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛…"
+      },
+      {
+        "note": 2,
+        "auteur": "Coyard🥐",
+        "titre": "👍🏻👍🏻👍🏻",
+        "texte": "Très bien racontez sous un angle drôle , mais plus d’épisode svp"
+      },
+      {
+        "note": 5,
+        "auteur": "Agathe 10/10 super!!!",
+        "titre": "Cool et super",
+        "texte": "C’est hyper rigolo mais bon j’adore quand même je peux pas me passer ça avec ma petite sœur regarde tout le temps et aussi de temps en temps sur la télé j’adore surtout l’histoire de la princesse aux petits pois où ils disent n’importe quoi oh là là c’est tellement cool c’est pas…"
+      }
     ]
   },
   "episodes_recents": [

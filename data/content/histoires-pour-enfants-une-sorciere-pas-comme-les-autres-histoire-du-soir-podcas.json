@@ -47,25 +47,29 @@
   "derniere_activite": "2022-12-06",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-12",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Maxbretzel",
+        "titre": "Sorcière 🧙🏻‍♀️",
+        "texte": "Je m’appelle Maxime J’ai 7 ans.C’est trop bien .C’est le quatrième meilleure podcast. Şuna ben maksim eşitse tamam. Keske yemeği yok podcast.マキシム歩きよ石墨月原宮歩歩キャスト🧙🏻‍♀️🧙🏻‍♀️🧙🏻‍♀️🧙🏻‍♀️🧙🏻‍♀️🧙🏻‍♀️🧙🏻‍♀️🧙🏻‍♀️🧙🏻‍♀️🧙🏻‍♀️🧙🏻‍♀️🧙🏻‍♀️🧙🏻‍♀️🧙🏻‍♀️🧙🏻‍♀️🧙🏻‍♀️🧙🏻‍♀️🥬🧙🏻‍♀️🧙🏻‍♀️🧙🏻‍♀️🧙🏻‍♀️🧙🏻‍♀️🧙🏻‍♀️🧙🏻‍♀️…"
+      },
+      {
+        "note": 1,
+        "auteur": "🦄🐴🐉🐢",
+        "titre": "😫",
+        "texte": "C’est TROP Nul 👎 c’est vraiment que pour les petits c’est nul"
+      },
+      {
+        "note": 5,
+        "auteur": "Roro🐆",
+        "titre": "Méga cool 👍 💓💜💙💚💖🧡💛🩵❤️",
+        "texte": "J’adore, j’ai deux petites sœurs et même si la plus grande m’embête un peu, je sais que dans le sens je tiens vraiment à elle et ça m’a fait sentir beaucoup plus de choses pour elle c’est c’est vraiment un super podcast. Merci beaucoup et s’il vous plaît.…"
+      }
     ]
   }
 }

@@ -53,25 +53,29 @@
   "derniere_activite": "2026-11-08",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-12",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Sarah7famille",
+        "titre": "Épisode le statut de la mère au foyer",
+        "texte": "Salam anleykoum! Je suis très heureuse d’écouter un tel contenu surtout d’une fee qui n’est pas encore mère. C’est très juste mais très difficile à accepter pour beaucoup parce que ces sociétés soit disant laïque ( anti Dieu en vérité ) ont bien fait le job tellement bien que pou…"
+      },
+      {
+        "note": 5,
+        "auteur": "Noranananana",
+        "titre": "Ma copine de trajet,",
+        "texte": "Salam aleykom, Je suis tombé sur le podcast pendant un trajet en voiture via Ali habibi al hamdoulilah Podcasts toujours structurés même quand on a l’impression de parler avec sa copine de tout et de rien… Thèmes divers et variés ! Que demande le peuple …"
+      },
+      {
+        "note": 5,
+        "auteur": "Meybhd",
+        "titre": "Hâte d’écouter les prochains épisodes ! 🌟",
+        "texte": "Un vrai plaisir d’écouter chaque épisode du podcast de Hanane ! Son engagement sincère en fait un rendez-vous incontournable. Ce podcast est bien plus qu’un simple divertissement, c’est un véritable outil d’utilité publique pour la communauté musulmane….…"
+      }
     ]
   }
 }

@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-09-05",
-  "frequence_jours": 4
+  "frequence_jours": 4,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "dou.nia",
+        "titre": "Une bonne dose de sakina ✨",
+        "texte": "Un podcast qui porte très bien son nom, parce qu’il nous apporte une bonne dose de sakina, en nous rappelant la préciosité de la lecture al hamdoulillah 🫶🏼 Qu’Allah te préserve et t’accorde le meilleur ici-bas et dans l’au-delà Selma ✨"
+      },
+      {
+        "note": 5,
+        "auteur": "Fati2611",
+        "titre": "Une vraie découverte",
+        "texte": "Merci pour ces podcasts qui parlent de tout et mettent à l’aise. Le dernier une pépite que chaque femme musulmane devrait écouter 🥰❤️. Un bon bol d’air frais par rapport à tout ce qu’on entend sur le sujet 🙌"
+      },
+      {
+        "note": 5,
+        "auteur": "Laynaa17",
+        "titre": "Super podcast",
+        "texte": "J’aime beaucoup le format podcast et celui-ci est particulièrement intéressant. J’aime beaucoup les sujets abordés et en plus on a des références livresques si on veut approfondir les sujets de notre côté !"
+      }
+    ]
+  }
 }

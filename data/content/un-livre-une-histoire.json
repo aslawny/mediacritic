@@ -49,5 +49,25 @@
     }
   ],
   "derniere_activite": "2024-08-01",
-  "frequence_jours": 9
+  "frequence_jours": 9,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "habisbox",
+        "titre": "Promesse tenue",
+        "texte": "Le concept de ce podcast semble tenir pleinement ses promesses. Passionnant d’un épisode l’autre. Des re-visites en profondeur des livres/histoires que je croyais connaitre pour les avoir lus. Quel plaisir de les retrouver sous des éclairages nouveaux.…"
+      },
+      {
+        "note": 5,
+        "auteur": "ChantalDe",
+        "titre": "Un livre, une histoire",
+        "texte": "Quelle belle initiative ! Hâte d’écouter le premier numéro ! Bravo !"
+      }
+    ]
+  }
 }

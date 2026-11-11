@@ -28,25 +28,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-11-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-12",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Hammadi Derdach",
+        "titre": "Foi et intelligence",
+        "texte": "Au XIIe siècle, Anselme de Cantorbéry (St Anselme plus tard) disait que « la foi a besoin de l’intelligence ». Les mu’tazilites avaient développé ce thème dès le VIIIe siècle.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Egebano",
+        "titre": "Excellente émission dans un excellent Français pour moi!",
+        "texte": "C’est à chaque émission que je m’abreuve de connaissance et de savoir sur une religion fascinante : l’islam. Merci pour votre émission."
+      },
+      {
+        "note": 5,
+        "auteur": "NBNOMA",
+        "titre": "Cultures d Islam",
+        "texte": "Merci de votre ijtihad ! Je trouve votre émission formidable et en adéquation avec mes valeurs. Je suis instituteur, coordinateur pédagogique, enseignant de langue arabe/ traducteur et président de l’association maison de langues et des cultures méditerranéennes.…"
+      }
     ]
   }
 }

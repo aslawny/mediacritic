@@ -27,25 +27,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-11-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-12",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Nausicaä90",
+        "titre": "bibouille veut un épisode sur les morses",
+        "texte": "Je trouve ça top et trop bien mais le problème c’est que mon morse domestiqué n’aime pas alors ce serait bien que vous preniez ma question que j’ai posé sur les morses le jour où j’ai adopté mon morse c’est à dire il y a 10 ans quand j’avais 2 ans parce l’a mon morse Bibouille bo…"
+      },
+      {
+        "note": 1,
+        "auteur": "Bakerlie",
+        "titre": "Bien mais moins bien qu avant",
+        "texte": "C’est quand même dommage que la présentatrice trouve correct de parler français comme au lycée : « ouais », « c’est chaud quand même »… A quand les interviews avec des bruits chewing gum ou peut être que j’ai manqué cet épisode …"
+      },
+      {
+        "note": 5,
+        "auteur": "Levallois11",
+        "titre": "J’adore votre émission",
+        "texte": "J’écoute l’émission depuis au moins 15 ans et je ne peux pas m’en passer. Trop de souvenirs tristes malheureusement ont égrené ces 15 ans. Mais l’émission est tendre et au combien intéressante, voir captivante. J’aime moins le nouveau format. Je préfère l’ancienne émission.…"
+      }
     ]
   }
 }

@@ -29,6 +29,10 @@
   "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
+      "titre": "Manette à Trois : Control Resonant, Enshrouded, la Blizzcon et plus encore !",
+      "date": "2026-10-20"
+    },
+    {
       "titre": "Manette à Trois : GTA 6 se dévoile et le gros débrief de la Gamescom",
       "date": "2026-09-07"
     },
@@ -43,34 +47,34 @@
     {
       "titre": "Manette à Trois: Saros et la nouvelle stratégie Xbox pour marquer 2026?",
       "date": "2026-05-17"
-    },
-    {
-      "titre": "Manette à Trois: Super Mario Galaxy et les hausses tarifaires du jeu vidéo !",
-      "date": "2026-04-13"
     }
   ],
-  "derniere_activite": "2026-09-07",
-  "frequence_jours": 33,
+  "derniere_activite": "2026-10-20",
+  "frequence_jours": 34,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-12",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Muronichese",
+        "titre": "De retour",
+        "texte": "Quel bonheur de retrouver les analyses pertinentes d’Alvin, presque 2 ans après la fin du Journal de JV"
+      },
+      {
+        "note": 2,
+        "auteur": "06 95 61 35 58",
+        "titre": ".",
+        "texte": "Ils ne parlent pas assez de jeu sous côté comme minecraft fornite brawl star roblox ect.."
+      },
+      {
+        "note": 3,
+        "auteur": "—JofB—",
+        "titre": "Un fan décu...",
+        "texte": "Je suis un grand amateur et défenseur de ce podcast, j’apprécie le point de vue d’un angle un peu différent de ce qu’on a l’habitude d’entendre. Evidemment j’aime surtout l’expertise et les analyses pertinentes d’Antistar.…"
+      }
     ]
   }
 }

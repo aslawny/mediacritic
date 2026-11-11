@@ -47,5 +47,25 @@
     }
   ],
   "derniere_activite": "2026-09-11",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Miaouuuuuu12",
+        "titre": "Coool",
+        "texte": "C’est super !!! J’adore apprendre des infos aléatoires !!! Merci beaucoup !!!! Grâce aux podcasts je peux les écouter toutes même quand je rate l’émission en direct c’est super vraiment merciiiii 😻😊"
+      },
+      {
+        "note": 5,
+        "auteur": "Hél*ïse😜",
+        "titre": "Salut !",
+        "texte": "Salut salut ! Je vous écoute tous les matins, avant d’aller au collège vous me faites rire, vous êtes géniaux ! ✌🏻👋"
+      }
+    ]
+  }
 }

@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-10-05",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "BeneMNR2",
+        "titre": "Bravo !",
+        "texte": "Merci beaucoup pour ce premier podcast. Je suis psy, et votre spontanéité fait beaucoup de bien. tout me parle, surtout l’authenticité d’être soi même dans une relation, même de psy à patient. Alors merci !"
+      },
+      {
+        "note": 5,
+        "auteur": "BarbaraVanves",
+        "titre": "Excellent podcast",
+        "texte": "Excellent podcast. Ce que j’ai entendu de mieux sur le TDAH (le trouble que je connais le mieux). A écouter et faire découvrir à vos proches. (Pour moi, votre débit est parfait, ne changez rien)"
+      },
+      {
+        "note": 5,
+        "auteur": "ouizz22",
+        "titre": "Passionnant",
+        "texte": "Les épisodes sur le TDAH sont vraiment passionnants ! Serait il possible de traiter de l’hypersensibilité et de ses conséquences ?"
+      }
+    ]
+  }
 }

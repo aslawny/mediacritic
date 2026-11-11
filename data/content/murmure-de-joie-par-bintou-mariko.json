@@ -51,5 +51,25 @@
     }
   ],
   "derniere_activite": "2026-09-15",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Arno13100",
+        "titre": "Un podcast lumineux et inspirant",
+        "texte": "Un podcast profondément positif, porté par l’énergie et la générosité de Bintou Mariko. Les échanges sont sincères, vivants et inspirants, avec des invités et des parcours qui donnent matière à réfléchir autant qu’ils transmettent de l’optimisme.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Bintou M",
+        "titre": "Un petit moment pour moi",
+        "texte": "J’adore ces conversations, authentiques. De belles transmissions 🙏"
+      }
+    ]
+  }
 }

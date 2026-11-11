@@ -30,7 +30,11 @@
   "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
-      "titre": "Sandra Sisley : addictions, chirurgie esthétique, amour… ses confidences sans filtre",
+      "titre": "Caroline Goldman : La psy qui ose dire “non” aux enfants",
+      "date": "2026-09-22"
+    },
+    {
+      "titre": "Sandra Sisley : drogue, Tomer Sisley, son fils… Elle raconte tout",
       "date": "2026-07-15"
     },
     {
@@ -38,7 +42,7 @@
       "date": "2026-06-10"
     }
   ],
-  "derniere_activite": "2026-07-15",
+  "derniere_activite": "2026-09-22",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-11-06",
@@ -60,5 +64,6 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "frequence_jours": 69
 }

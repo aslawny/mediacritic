@@ -50,21 +50,27 @@
   "frequence_jours": 2,
   "avis_publics": {
     "source": "apple",
-    "boutique": "be",
+    "boutique": "fr",
     "tri": "mosthelpful",
-    "releve": "2026-09-12",
+    "releve": "2026-11-11",
     "extraits": [
       {
         "note": 5,
-        "auteur": "Un utilisateur Googleee",
-        "titre": "Incroyable",
-        "texte": "J’écoute chaque jour ce podcast très complet et très passionnant ✨✨✨"
+        "auteur": "~OhMonCapitaine!~",
+        "titre": "Efficace, accessible et intéressant !",
+        "texte": "Efficace, accessible et intéressant. Ça permet de toucher à une multitude de sujets pour avoir une « base » suffisante pour percevoir les enjeux et les infos principales à retenir. Ça pousse également à se renseigner par la suite. Merci pour ce travail !"
       },
       {
         "note": 1,
-        "auteur": "Meurtrie",
-        "titre": "Munich 1972: vous appelez cela un incident!",
-        "texte": "Quelle honte. C’est une catastrophe. Vous vous devez de corriger."
+        "auteur": "David05100",
+        "titre": "Non! Pas la politique !",
+        "texte": "Dommage de basculer dans la politique ! Je parle de ce premier episode consacré à Melenchon."
+      },
+      {
+        "note": 5,
+        "auteur": "Librk001",
+        "titre": "Sujets traités dans leur essentiel",
+        "texte": "Sujets traités au bon niveau de détails. Ni trop court ni trop long. Ça demande sûrement un travail significatif en amont. J’aime bien. Merci"
       }
     ]
   }

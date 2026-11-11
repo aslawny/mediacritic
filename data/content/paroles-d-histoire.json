@@ -28,25 +28,29 @@
   "addedAt": "2026-05-23",
   "updatedAt": "2026-11-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-12",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "@fgoussi",
+        "titre": "Excellent pour comprendre le monde actuel",
+        "texte": "Après Emma Rothchild qui évoque Angoulême et une étude sociologique au travers l’histoire de familles entre 1700 et aujourd’hui Un entretien sur Jimmy Carter emblématique looser qui a pourtant bossé et moment où l’on voit émerger la doctrine néolibérale sous Brizinsky ouvrant la…"
+      },
+      {
+        "note": 2,
+        "auteur": "superzelladz",
+        "titre": "Merci",
+        "texte": "Merci à Malika Rahal pour son travail admirable et sa sincérité ainsi que son excellente idée dans l’épisode sur l’année 1962 et l’indépendance de l’Algérie… Petite fille de martyre, petite fille de Moujahid torturé par l’armée coloniale et fille d’un orphelin de la révolution, j…"
+      },
+      {
+        "note": 5,
+        "auteur": "Kler_h",
+        "titre": "Le seul successeur d’Emmanuel Laurentin",
+        "texte": "Le ton amical, le choix éditorial, le talent de l’interviewer au service de ses invités, la véritable connaissance des livres proposés, l’éclectisme dans les périodes considérées...…"
+      }
     ]
   },
   "episodes_recents": [

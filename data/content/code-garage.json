@@ -28,6 +28,10 @@
   "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
+      "titre": "Votre téléviseur vous espionne ?",
+      "date": "2026-09-10"
+    },
+    {
       "titre": "Comprendre le principe SOLID en programmation",
       "date": "2026-07-17"
     },
@@ -42,14 +46,10 @@
     {
       "titre": "GemPlus, où quand la CIA infiltre une entreprise française",
       "date": "2026-06-18"
-    },
-    {
-      "titre": "Le monde merveilleux des ADR !",
-      "date": "2026-06-03"
     }
   ],
-  "derniere_activite": "2026-07-17",
-  "frequence_jours": 8,
+  "derniere_activite": "2026-09-10",
+  "frequence_jours": 10,
   "avis_publics": {
     "epuise": true,
     "releve": "2026-11-03",

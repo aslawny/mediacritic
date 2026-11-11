@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-06-24",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "keliaremy0112 lol",
+        "titre": "TOUT LE MONDE DOIT L’ÉCOUTER !!!",
+        "texte": "J’adooooooore les podcasts d’Aline Laurent-Mayard, c’est toujours hyper enrichissant. Je ne suis ni mère ni spécialiste ou chercheuse autour du genre, je suis juste une jeune adulte féministe qui s’intéresse à comment on aborde et on se confronte au genre.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Morgane Sanquer",
+        "titre": "Merciiii",
+        "texte": "J’ai adoré Free from desire, et encore plus bienvenu.e bébé ! En projet de parentalité avec mon partenaire, je m’interroge énormément au sujet de l’éducation non genrée. Ce podcast est plein de témoignages très riches, et de ressources. Merci encore Aline pour ce travail.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Poutriskayou",
+        "titre": "Véritable pépite pour les parents féministes",
+        "texte": "Chaque épisode offre une réflexion riche et nuancée sur ce que signifie élever un enfant libre des carcans du genre. À écouter d'urgence et à partager !"
+      }
+    ]
+  }
 }

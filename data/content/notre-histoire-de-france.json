@@ -26,25 +26,29 @@
   ],
   "updatedAt": "2026-11-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-12",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Sable 🏝️🏝️",
+        "titre": "Notre histoire de France 🇫🇷",
+        "texte": "🏰🏰🏰🏰🏰🏰🏰🏰🏰🏰🏰🏰🏰🏰🏰🏰🏰🏰🏰🏰🏰🏰🌫️🏰🏰🏰🏰🏰🏰🏰🏰🏰🏰🏰🏰🏰🏰🏰🏰🏰🏰🏰🏰🏰🏰🏰🏰🏰🏰🌫️🏰🏰🏰🏰🏰🏰🏰🏰💎🏰🏰🏰🏰🏰🏰🏰🌫️❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥😱❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥😱😱😱😱😱😱😱😱😱😱😱.…"
+      },
+      {
+        "note": 2,
+        "auteur": "Fredo06230",
+        "titre": "Bien mais dommage",
+        "texte": "Quel dommage que les noms et CV des intervenants soient cités quasiment à chaque fois, les phrases en sont tronquées, très désagréable !"
+      },
+      {
+        "note": 5,
+        "auteur": "Rom_1",
+        "titre": "Enrichissant et captivant",
+        "texte": "C’est très bien raconté et on est plongé dans l’Histoire avec un grand H. En réalité c’est bien mieux scénarisé et palpitant qu’une série ! Bémol cependant sur la redondance de la présentation de chaque intervenant.…"
+      }
     ]
   },
   "episodes_recents": [

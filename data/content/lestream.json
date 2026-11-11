@@ -49,5 +49,19 @@
     }
   ],
   "derniere_activite": "2023-05-31",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Couki69",
+        "titre": "Super",
+        "texte": "Le plaisir de retrouver la fine équipe du streaming qui m’accompagne tous au long de mes trajets ou pendant mon jardin"
+      }
+    ]
+  }
 }

@@ -51,25 +51,29 @@
   "derniere_activite": "2026-11-06",
   "frequence_jours": 3,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-12",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mazeus37",
+        "titre": "Un Podcast de qualité",
+        "texte": "Très bon podcast avec des invités de divers horizons et toujours renouvelés au cours du temps. Ce petit rendez-vous ravira les aficionados de la finance et de l’investissement. Un bon moyen de découvrir l’univers Finary !"
+      },
+      {
+        "note": 1,
+        "auteur": "La Danze",
+        "titre": "Écœurant",
+        "texte": "Il suffit de voir comment ça lèche les bottes de Bolloré et Gave pour se faire une petite idée de l’ambiance. Podcast à éviter si vous ne voulez pas désespérer du genre humain. Enfin, celui qui porte des cols roulés et n’a aucune conscience politique.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Clementth",
+        "titre": "Au top",
+        "texte": "Un excellent podcast sur les possibilités de gérer ses finances, des invités ultra pointus et Mounir qui fait avancer la discussion de façon fluide et toujours dans l’intérêt des gens qui écoutent, un grand merci"
+      }
     ]
   }
 }

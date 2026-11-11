@@ -26,25 +26,29 @@
   "addedAt": "2026-05-17",
   "updatedAt": "2026-11-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-12",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "158zmiqb",
+        "titre": "MERCI!!!",
+        "texte": "Toujours génial d’avoir des news de la NBA sous ce format. J’adore Jacques Monclard évidemment et toute l’équipe est très bonne. Je n’ai plus assez de temps de regarder les matchs la nuit, j’écoute ces podcast religieusement dès qu’ils sortent pour me tenir au courant.…"
+      },
+      {
+        "note": 1,
+        "auteur": "meldouka",
+        "titre": "Déçu",
+        "texte": "Mr Monclar, merci de ne pas parler de foot, ce n'est pas votre sport"
+      },
+      {
+        "note": 5,
+        "auteur": "Tibo8462",
+        "titre": "Top mais…..",
+        "texte": "… s’il vous plait arrêtez de donner à Baptiste Denis l’animation du podcast, c’est poussif, rempli de « euh », n’a pas réellement d’avis et va dans el sens de ce que le consultant dit.. Dommage quand on connait la qualité des journalistes chez Bein"
+      }
     ]
   },
   "episodes_recents": [

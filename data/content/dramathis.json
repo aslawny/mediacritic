@@ -30,48 +30,52 @@
   "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
+      "titre": "S5E1 — Théâtre, danse, performance... Des étiquettes encombrantes ?",
+      "date": "2026-09-30"
+    },
+    {
+      "titre": "S4E11 — L'heure du thé : l'intermittence, la planque ?",
+      "date": "2026-09-10"
+    },
+    {
+      "titre": "S411 — Le bilan de l'été (Cannes, Avignon, Lausanne, Arles, Aurillac...)",
+      "date": "2026-09-03"
+    },
+    {
       "titre": "S4E9 — Le bilan critique de mai",
       "date": "2026-07-12"
     },
     {
       "titre": "S4E10 — Le bilan critique de juin",
       "date": "2026-07-12"
-    },
-    {
-      "titre": "S4E10 — L'heure du thé : Comment la scène bouleverse le rapport au corps ?",
-      "date": "2026-07-10"
-    },
-    {
-      "titre": "Épisode hors-série : rencontre avec (LA)HORDE",
-      "date": "2026-07-01"
-    },
-    {
-      "titre": "S4E8 — Le bilan critique d'avril (avec du retard)",
-      "date": "2026-05-31"
     }
   ],
-  "derniere_activite": "2026-07-12",
+  "derniere_activite": "2026-09-30",
   "frequence_jours": 8,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-12",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pauummm",
+        "titre": "Merci !",
+        "texte": "On m’a recommandé le dernier épisode de la saison 2, je viens de le finir et c’est super ! Quel boost ! Ça fait du bien d’entendre que l’on peut faire quelque chose, que l’on a du poids et que le théâtre, la culture permet d’éveiller les gens, nous sommes nécessaires."
+      },
+      {
+        "note": 1,
+        "auteur": "babadr",
+        "titre": "Ca passe sur tiktok mais pas ici",
+        "texte": "Au bout de 3 min ca insulte les habitants de Dreux. Ok parigot"
+      },
+      {
+        "note": 5,
+        "auteur": "Stagnette",
+        "titre": "Meilleur podcast théâtre et meilleures blagues",
+        "texte": "Vraiment le meilleur podcast sur le théâtre, et qui ne cache pas son aspect politique. Meilleures recos aussi. Et tellement drôle et mims. Bref, merci de m’avoir redonné envie d’aller au théâtre ! <3 (Promis je connais pas Mathis malgré cette déclaration d’amour.)"
+      }
     ]
   }
 }

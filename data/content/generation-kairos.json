@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2024-03-06",
-  "frequence_jours": 62
+  "frequence_jours": 62,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Marc Teddy",
+        "titre": "Essentiel",
+        "texte": "Exactement le podcast qui manquait, en particulier aux marocains de la diaspora, pour leur donner un regard/une vision de l’intérieur afin d’encourager et d’outiller les entrepreneurs de demain. Un grand bravo pour la qualité des échanges a chaque fois 👏"
+      },
+      {
+        "note": 5,
+        "auteur": "poupeemagique",
+        "titre": "Professionnalisme et délicatesse",
+        "texte": "Karim Guennouni porte un regard attentif et bienveillant sur ses invités tout en les amenant à ouvrir une nouvelle fenêtre afin qu’ils racontent leur histoire différemment ! Voyage initiatique !"
+      },
+      {
+        "note": 5,
+        "auteur": "Mathilde du podcast Flashback",
+        "titre": "Top",
+        "texte": "C’est un podcast très enrichissant, on découvre et apprend pleins de choses. Bravo, Mathilde du podcast Flashback"
+      }
+    ]
+  }
 }

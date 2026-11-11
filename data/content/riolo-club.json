@@ -28,6 +28,14 @@
   "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
+      "titre": "Kidnapping, Vahid, PSG, départ de l'OM : L'interview folle de Fabrice Fiorese",
+      "date": "2026-11-10"
+    },
+    {
+      "titre": "L'interview incroyable de Younes Belhanda qui envoie du lourd pendant 1 heure",
+      "date": "2026-10-29"
+    },
+    {
       "titre": "Benzema, Valbuena, EDF, Marseillaise, Karim Djaziri l'agent historique de Benzema dit tout !",
       "date": "2026-10-16"
     },
@@ -36,7 +44,7 @@
       "date": "2026-10-15"
     }
   ],
-  "derniere_activite": "2026-10-16",
+  "derniere_activite": "2026-11-10",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-11-08",
@@ -58,5 +66,6 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "frequence_jours": 12
 }

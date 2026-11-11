@@ -51,25 +51,29 @@
   "derniere_activite": "2026-11-02",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-12",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "thaillaure",
+        "titre": "Endométriose épisode top",
+        "texte": "Génial cet épisode non dramatisant et plein d’info. On se sent moins seule. Pour info, j’ai mis 5 ans à venir à bout de cette maladie( du moins po ur l’instant) après un parcours d’accompagnement par plein de thérapies alternatives et douces (la douceur à son importance) qui m’on…"
+      },
+      {
+        "note": 2,
+        "auteur": "fitinicel",
+        "titre": "Intéressant mais son lamentable",
+        "texte": "Podcast un peu marketing mais qui part d’une intention d’instruire (et séduire) sur tous les aspects un peu healthy actuels. Problème : son inaudible, pas de salle d’enregistrement, ça résonne, on entend les interlocuteurs chuchoter parfois et des bruits de porte ou de pas dans l…"
+      },
+      {
+        "note": 5,
+        "auteur": "Michèle Giraud",
+        "titre": "Bravo et merci pour ton travail",
+        "texte": "Je viens d’écouter l’épisode de début septembre 2025 et je voulais te féliciter pour ce nouveau virage. Ce n’est pas facile de se re renouveler et j’aime beaucoup ce que tu nous promets à partir de cette huitième année.…"
+      }
     ]
   }
 }

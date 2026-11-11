@@ -28,25 +28,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-11-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-12",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Clem 🛍️🗽🪩🫶🏼",
+        "titre": "🪴🪴",
+        "texte": "Coucou Marie je voulais vraiment te féliciter car je te sushis depuis 3 ans et j’aime tellement te regarder sur YouTube mais malheureusement je n’ai plus YouTube et ces podcast me rende vraiment dans ton mood vraiment continue j’aime vraiment ce que tu fait je te fait de gros bis…"
+      },
+      {
+        "note": 1,
+        "auteur": "_mathildelou",
+        "titre": "Ennuyant…",
+        "texte": "Ce podcast est tout sauf motivant ou inspirant. J’ai arrêté ma course à pied pour suspendre l’écoute, ce qui m’arrive très rarement. Je pense qu’il n’a d’intérêt que pour les personnes qui ont envie de savoir ce qu’elle fait de ses journées…"
+      },
+      {
+        "note": 5,
+        "auteur": "josephinepcrd",
+        "titre": "🪴",
+        "texte": "Hello Marie, je te suis pas depuis longtemps mais j’adore. L’organisation est notre point commun (enfin c’est plus toi car moi c’est plutôt bordel organisé 😂). Voir tes vidéos chaque dimanche, tes storys , post ou encore le canal sur insta donc déjà top …"
+      }
     ]
   },
   "episodes_recents": [

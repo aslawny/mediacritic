@@ -28,25 +28,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-11-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-12",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Zakiya.B",
+        "titre": "Excellent travail",
+        "texte": "Rarement entendu des poèmes aussi captivant, poignant et à la fois apaisant. 💯 Continue de nous faire profiter de cela ! Qu’Allah te récompense par ce qu’il y a de meilleur 🤲🏼✨"
+      },
+      {
+        "note": 5,
+        "auteur": "Libtan",
+        "titre": "Juste excellent !",
+        "texte": "Un travail incroyable ! Je suis fane. C’est un vrai bonheur et une vraie bouffée de rappel tout ses podcast. Bravo 👏 et merci pour ces merveilleux partages qui font réfléchir…"
+      },
+      {
+        "note": 5,
+        "auteur": "Asseta 93",
+        "titre": "Poèmes",
+        "texte": "Merci pour ces beaux poèmes bénéfique tellement apaisant Qu allah te récompense Qu allah t accorde les plus hauts degré du paradis 🥰🥰💕"
+      }
     ]
   },
   "episodes_recents": [

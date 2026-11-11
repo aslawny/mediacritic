@@ -1,0 +1,53 @@
+{
+  "slug": "archi-culturel",
+  "title": "Archi Culturel",
+  "author": "ArchimedCorp",
+  "type": "podcast",
+  "categories": [
+    "tech",
+    "numerique"
+  ],
+  "description": "Bonjour et bienvenue sur Archi Culturel, le podcast d’Archimed pensé pour les acteurs culturels ! 📚 Au programme, on découvre ensemble les missions et le quotidien des professionnels de la documentation et de l’information au sein des bibliothèques, des musées, des opéras ou encore des fondations, en clair tout organisme qui a pour vocation de promouvoir la culture sur leurs territoires. Nous parlerons également de la gestion documentaire à l’ère du numérique et de la manière dont elle est opérée au sein de ces organisations. 💻 Enfin des paroles d’expert permettront d’ouvrir le débat et de remettre en perspective des problématiques plus larges du monde de la culture. Alors, prêt.e.s à nous rejoindre ? 😎",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/23/e3/d4/23e3d49b-b41c-659b-4111-d35a450e0018/mza_1736807859394302655.png/170x170bb.png",
+  "language": "fr",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/archi-culturel/id1658506331?uo=2",
+      "trackId": 1658506331,
+      "rating": 5.0,
+      "ratingCount": 11,
+      "episodeCount": null
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "tech",
+    "numerique"
+  ],
+  "addedAt": "2026-11-11",
+  "updatedAt": "2026-11-11",
+  "episodes_recents": [
+    {
+      "titre": "Le réseau des médiathèques de Grand Poitiers, avec Stephan Joseph, Céline Blanchet et Marion Perrié",
+      "date": "2026-10-07"
+    },
+    {
+      "titre": "La Bibliothèque et la Ludothèque communales d'Ecublens, avec Isabelle Emery et Vincent Rocher",
+      "date": "2026-04-28"
+    },
+    {
+      "titre": "La médiathèque départementale du Rhône, avec Stéphane Waquier",
+      "date": "2025-02-11"
+    },
+    {
+      "titre": "La Politique Documentaire et la Charte des Collections",
+      "date": "2024-11-29"
+    },
+    {
+      "titre": "La Politique Documentaire et le portail",
+      "date": "2024-11-15"
+    }
+  ],
+  "derniere_activite": "2026-10-07",
+  "frequence_jours": 12
+}

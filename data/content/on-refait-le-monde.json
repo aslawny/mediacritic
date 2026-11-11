@@ -26,25 +26,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-11-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-12",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tamaefx",
+        "titre": "Nouveau format du podcast",
+        "texte": "Pourquoi découper ainsi l'émission et se retrouver avec des thèmes en doublon et 4 ou 5 podcasts par jour au lieu d'un (les 3 thèmes + l'émission entière ? Ça n'est absolument pas pratique. De plus les podcasts ont parfois du mal à se charger.…"
+      },
+      {
+        "note": 1,
+        "auteur": "on ne refait plus le monde",
+        "titre": "Pub",
+        "texte": "Depuis quand on laisse là pub sur ce podcast ? Laisse tomber"
+      },
+      {
+        "note": 5,
+        "auteur": "Coptere",
+        "titre": "Le meilleur du meilleur",
+        "texte": "C’est à mon humble avis le meilleur podcast d’actualités. Un vrai régal pour se faire sa propre réflexion sur les sujets d’actualité à l’abris des avis éclairés des brillants polémistes.…"
+      }
     ]
   },
   "episodes_recents": [

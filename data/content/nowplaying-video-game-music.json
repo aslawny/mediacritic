@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2026-10-05",
-  "frequence_jours": 31
+  "frequence_jours": 31,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Liseré Baroque",
+        "titre": "Le best",
+        "texte": "Juste le meilleur podcast de VGM francophone voilà c’est dit !! 👑 très fouillé, agréable à écouter (et une incroyable DA), que demande le peuple ? Encore plus de Now Playing, voilà ce qu’il demande."
+      },
+      {
+        "note": 5,
+        "auteur": "yohann.thirapathi",
+        "titre": "Indispensable",
+        "texte": "Travail titanesque de curation pour nous livrer un échantillon de ce qui a pu sortir chaque mois dans la musique JV. Longue vie à NowPlaying"
+      },
+      {
+        "note": 5,
+        "auteur": "Racing Manager",
+        "titre": "Au top!! Merci beaucoup",
+        "texte": "Superbe découverte, excellent travail. Longue vie à ce podcast!!"
+      }
+    ]
+  }
 }

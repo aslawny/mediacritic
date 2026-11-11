@@ -1,6 +1,6 @@
 {
-  "maj": "2026-11-10",
-  "total": 1430,
+  "maj": "2026-11-11",
+  "total": 1468,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -8582,6 +8582,234 @@
       "titre": "Cap Australie",
       "notes_apple": 19,
       "fiche": "fiches/cap-australie.html"
+    },
+    {
+      "slug": "ca-lit-quoi",
+      "titre": "Ça lit quoi ?",
+      "notes_apple": 19,
+      "fiche": "fiches/ca-lit-quoi.html"
+    },
+    {
+      "slug": "dialna",
+      "titre": "Dialna",
+      "notes_apple": 19,
+      "fiche": "fiches/dialna.html"
+    },
+    {
+      "slug": "ecoutes-voyageuses",
+      "titre": "Écoutes Voyageuses",
+      "notes_apple": 19,
+      "fiche": "fiches/ecoutes-voyageuses.html"
+    },
+    {
+      "slug": "grand-palais",
+      "titre": "Grand Palais",
+      "notes_apple": 19,
+      "fiche": "fiches/grand-palais.html"
+    },
+    {
+      "slug": "histoires-de-fa-m-ille",
+      "titre": "HISTOIRES DE FA(M)ILLE",
+      "notes_apple": 19,
+      "fiche": "fiches/histoires-de-fa-m-ille.html"
+    },
+    {
+      "slug": "l-equipe-de-greg",
+      "titre": "L'Équipe de Greg",
+      "notes_apple": 19,
+      "fiche": "fiches/l-equipe-de-greg.html"
+    },
+    {
+      "slug": "la-drole-d-humeur-d-oldelaf",
+      "titre": "La drôle d'humeur d'Oldelaf",
+      "notes_apple": 19,
+      "fiche": "fiches/la-drole-d-humeur-d-oldelaf.html"
+    },
+    {
+      "slug": "la-revue-juridique",
+      "titre": "La Revue Juridique",
+      "notes_apple": 19,
+      "fiche": "fiches/la-revue-juridique.html"
+    },
+    {
+      "slug": "les-bonus-du-morning",
+      "titre": "Les bonus du Morning",
+      "notes_apple": 19,
+      "fiche": "fiches/les-bonus-du-morning.html"
+    },
+    {
+      "slug": "mc2i-podcasts",
+      "titre": "mc2i podcasts",
+      "notes_apple": 19,
+      "fiche": "fiches/mc2i-podcasts.html"
+    },
+    {
+      "slug": "mode-avion",
+      "titre": "Mode Avion",
+      "notes_apple": 19,
+      "fiche": "fiches/mode-avion.html"
+    },
+    {
+      "slug": "moteur-de-recherche",
+      "titre": "Moteur de recherche",
+      "notes_apple": 19,
+      "fiche": "fiches/moteur-de-recherche.html"
+    },
+    {
+      "slug": "notre-haggadah-recits-de-femmes",
+      "titre": "Notre Haggadah - Récits de femmes",
+      "notes_apple": 19,
+      "fiche": "fiches/notre-haggadah-recits-de-femmes.html"
+    },
+    {
+      "slug": "offset-podcast",
+      "titre": "Offset Podcast",
+      "notes_apple": 19,
+      "fiche": "fiches/offset-podcast.html"
+    },
+    {
+      "slug": "ombre-lumiere",
+      "titre": "Ombre & Lumière",
+      "notes_apple": 19,
+      "fiche": "fiches/ombre-lumiere.html"
+    },
+    {
+      "slug": "on-part-en-prod",
+      "titre": "On part en prod",
+      "notes_apple": 19,
+      "fiche": "fiches/on-part-en-prod.html"
+    },
+    {
+      "slug": "on-vit-dans-une-saucisse",
+      "titre": "On vit dans une saucisse",
+      "notes_apple": 19,
+      "fiche": "fiches/on-vit-dans-une-saucisse.html"
+    },
+    {
+      "slug": "paroles-de-plumes",
+      "titre": "Paroles de Plumes",
+      "notes_apple": 19,
+      "fiche": "fiches/paroles-de-plumes.html"
+    },
+    {
+      "slug": "petit-frere-le-podcast",
+      "titre": "Petit Frère - Le Podcast",
+      "notes_apple": 19,
+      "fiche": "fiches/petit-frere-le-podcast.html"
+    },
+    {
+      "slug": "que-la-neef",
+      "titre": "QUE LA NEEF",
+      "notes_apple": 19,
+      "fiche": "fiches/que-la-neef.html"
+    },
+    {
+      "slug": "quelle-comedie",
+      "titre": "Quelle Comédie !",
+      "notes_apple": 19,
+      "fiche": "fiches/quelle-comedie.html"
+    },
+    {
+      "slug": "sens-figure-portraits-de-passionnes-de-parfums-gastronomie",
+      "titre": "Sens figuré. : Portraits de passionnés de parfums & gastronomie",
+      "notes_apple": 19,
+      "fiche": "fiches/sens-figure-portraits-de-passionnes-de-parfums-gastronomie.html"
+    },
+    {
+      "slug": "take-off",
+      "titre": "Take off",
+      "notes_apple": 19,
+      "fiche": "fiches/take-off.html"
+    },
+    {
+      "slug": "tapage",
+      "titre": "Tapage",
+      "notes_apple": 19,
+      "fiche": "fiches/tapage.html"
+    },
+    {
+      "slug": "tdah-et-parentalite",
+      "titre": "TDAH et Parentalité",
+      "notes_apple": 19,
+      "fiche": "fiches/tdah-et-parentalite.html"
+    },
+    {
+      "slug": "veille-sanitaire",
+      "titre": "Veille sanitaire",
+      "notes_apple": 19,
+      "fiche": "fiches/veille-sanitaire.html"
+    },
+    {
+      "slug": "vrai-rap-francais",
+      "titre": "Vrai Rap Francais",
+      "notes_apple": 19,
+      "fiche": "fiches/vrai-rap-francais.html"
+    },
+    {
+      "slug": "ainsi-soit-style",
+      "titre": "Ainsi Soit Style",
+      "notes_apple": 18,
+      "fiche": "fiches/ainsi-soit-style.html"
+    },
+    {
+      "slug": "atelier-des-medias",
+      "titre": "Atelier des médias",
+      "notes_apple": 18,
+      "fiche": "fiches/atelier-des-medias.html"
+    },
+    {
+      "slug": "bpm-by-runmotion-coach-le-podcast-running-et-trail",
+      "titre": "BPM by RunMotion Coach - Le podcast running et trail",
+      "notes_apple": 18,
+      "fiche": "fiches/bpm-by-runmotion-coach-le-podcast-running-et-trail.html"
+    },
+    {
+      "slug": "brut-d-accordeon",
+      "titre": "Brut d'accordéon",
+      "notes_apple": 18,
+      "fiche": "fiches/brut-d-accordeon.html"
+    },
+    {
+      "slug": "ckbshow",
+      "titre": "CkbShow",
+      "notes_apple": 18,
+      "fiche": "fiches/ckbshow.html"
+    },
+    {
+      "slug": "contes-pour-enfants-les-aventures-de-noisette-autour-du-monde",
+      "titre": "Contes pour enfants : \"Les aventures de Noisette autour du monde\"",
+      "notes_apple": 18,
+      "fiche": "fiches/contes-pour-enfants-les-aventures-de-noisette-autour-du-monde.html"
+    },
+    {
+      "slug": "couple-ouvert",
+      "titre": "Couple Ouvert",
+      "notes_apple": 18,
+      "fiche": "fiches/couple-ouvert.html"
+    },
+    {
+      "slug": "d-comme-dys",
+      "titre": "D comme Dys",
+      "notes_apple": 18,
+      "fiche": "fiches/d-comme-dys.html"
+    },
+    {
+      "slug": "dans-l-intimite-de-l-histoire",
+      "titre": "Dans l'intimité de l'Histoire",
+      "notes_apple": 18,
+      "fiche": "fiches/dans-l-intimite-de-l-histoire.html"
+    },
+    {
+      "slug": "darons",
+      "titre": "DARONS",
+      "notes_apple": 18,
+      "fiche": "fiches/darons.html"
+    },
+    {
+      "slug": "de-rien",
+      "titre": "DE RIEN",
+      "notes_apple": 18,
+      "fiche": "fiches/de-rien.html"
     }
   ]
 }

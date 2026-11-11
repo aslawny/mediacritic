@@ -28,25 +28,29 @@
   "addedAt": "2026-05-17",
   "updatedAt": "2026-11-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-12",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-11",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Garambar",
+        "titre": "Fantastique mais",
+        "texte": "où sont les sportives ? C’est bien d’avoir rajouté une voix féminine, mais seulement 4 sportives en une cinquantaine d’épisodes, c’est peu. Pourtant je suis sûr qu’il y en a plein qui en valent la peine.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Corto 357",
+        "titre": "Changer de narrateur please",
+        "texte": "C’est le fils du patron ? Les sujets sont passionnants mais impossible d’écouter plus de 5 min tant la narration est fade"
+      },
+      {
+        "note": 5,
+        "auteur": "Pierofrelon",
+        "titre": "Au Top",
+        "texte": "Bravo pour la qualité de ce podcast. On est transporté à chaque fois, quel que soit le sport considéré. Comme demandé par un autre auditeur, est-il possible d’obtenir les crédits musicaux? Notamment la bande son de l’épisode sur L. Fignon / G.Lemond sur le TdF’89.…"
+      }
     ]
   },
   "episodes_recents": [
