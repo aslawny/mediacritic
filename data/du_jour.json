@@ -1,6 +1,71 @@
 {
  "historique": [
   {
+   "date": "2026-11-11",
+   "mode": "actu",
+   "slug": "les-nuits-du-cazarre-enchaine",
+   "titre": "Les nuits du Cazarre enchaîné",
+   "type": "podcast",
+   "auteur": "RMC",
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/75/7b/3f/757b3f09-83fa-ffc6-7b76-00ef18cd2afe/mza_14401212762433404421.jpg/600x600bb.jpg",
+   "independant": false,
+   "mcNote": 8.5,
+   "sujet": "Teddy Riner",
+   "source": "wikipedia",
+   "episode": {
+    "titre": "Viens défier Cazarre du 10 novembre - Quiz Teddy Riner – 10/11",
+    "date": "2026-11-11",
+    "url": "https://rmc.bfmtv.com/mediaplayer/podcast/julien-cazarre/"
+   },
+   "pourquoi": "« Teddy Riner » fait l'actu : Les nuits du Cazarre enchaîné y a consacré son épisode « Viens défier Cazarre du 10 novembre - Quiz Teddy Riner – 10/11 », publié le 11 novembre.",
+   "presentation": "Humour sur l'actualité foot, imitations, débats absurdes, mauvaise foi assumée et joutes verbales avec les auditeurs — un fouillis savamment organisé, après les grands matchs ou en pleine nuit.",
+   "sections": [
+    [
+     "L'actu qui a fait le buzz",
+     "« Teddy Riner » a été l'un des sujets les plus lus de Wikipédia hier (89 958 lectures). À la une : « Teddy Riner : à qui peut-il capter des électeurs ? - 10/11 » (BFM)."
+    ],
+    [
+     "L'émission",
+     "Les nuits du Cazarre enchaîné — podcast de RMC. Humour sur l'actualité foot, imitations, débats absurdes, mauvaise foi assumée et joutes verbales avec les auditeurs — un fouillis savamment organisé, après les grands matchs ou en pleine nuit."
+    ],
+    [
+     "Pourquoi l'écouter",
+     "Pour prolonger l'actu : dans son épisode « Viens défier Cazarre du 10 novembre - Quiz Teddy Riner – 10/11 », publié le 11 novembre, Les nuits du Cazarre enchaîné revient justement sur « Teddy Riner ». Une émission notée 4,6/5 sur Apple Podcasts (671 notes), 8,5/10 dans notre critique."
+    ]
+   ],
+   "reseaux": {
+    "instagram": [
+     {
+      "compte": "rmc_sport",
+      "url": "https://www.instagram.com/rmc_sport/",
+      "source": "site officiel"
+     }
+    ],
+    "x": [
+     {
+      "compte": "RMCsport",
+      "url": "https://x.com/RMCsport",
+      "source": "site officiel"
+     }
+    ],
+    "facebook": [
+     {
+      "compte": "rmcsport",
+      "url": "https://www.facebook.com/rmcsport",
+      "source": "site officiel"
+     }
+    ],
+    "twitch": [
+     {
+      "compte": "rmcsport",
+      "url": "https://www.twitch.tv/rmcsport",
+      "source": "site officiel"
+     }
+    ]
+   },
+   "thematique": "humour"
+  },
+  {
    "date": "2026-11-10",
    "mode": "actu",
    "slug": "les-gens-qui-doutent",
