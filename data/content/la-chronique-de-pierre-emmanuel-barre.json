@@ -51,25 +51,29 @@
   "derniere_activite": "2026-11-08",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-13",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "@fgoussi",
+        "titre": "Explosif",
+        "texte": "Derrière les chroniques des heures et des heures de travail ! On l’entend. Du travail de précision même dans le texte l’intonation le souffle tout est écrit jugé jaugé. Classieux de la prose du niveau des grands poètes de la Littérature"
+      },
+      {
+        "note": 1,
+        "auteur": "Philippeimac2",
+        "titre": "Mémoires de Croisille et Labro insultées",
+        "texte": "Autant j’aime son humour autant cette semaine s’en prendre à 2 anciennes célébrités décédées j’ai trouvé ça facile et minable -.- Peu importe que vous appréciez ou non une célébrité, c’est odieux de salir sa mémoire."
+      },
+      {
+        "note": 5,
+        "auteur": "Charli🏳️‍🌈🏳️‍⚧️",
+        "titre": "Incrrrrrr",
+        "texte": "Génial mais petit avertissement si vous n’avez pas de scd degrés n’allez pas l’écouter vous risqueriez d’être blesser 😊🤭 hooo bichette mais ça va aller hein 🥹"
+      }
     ]
   }
 }

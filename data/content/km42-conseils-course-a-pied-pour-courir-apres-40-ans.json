@@ -54,21 +54,27 @@
   "frequence_jours": 3,
   "avis_publics": {
     "source": "apple",
-    "boutique": "be",
-    "tri": "mostrecent",
-    "releve": "2026-09-13",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-12",
     "extraits": [
       {
         "note": 5,
-        "auteur": "_w_e_s_i_",
-        "titre": "Je recommande !",
-        "texte": "J’ai découvert ce podcast suite à la recherche d’un contenu pouvant casser la monotonie et remplacer la récurrente écoute de musique lors de mes sorties longues.…"
+        "auteur": "sylvain nacio",
+        "titre": "Je me reconnais dans ce podcast",
+        "texte": "J’étais un nageur à bon niveau quand j’étais ado. Je suis devenu un peu plus sédentaire pendant mes études sup. Grosse prise de poids (je suis monté jusqu’à 120kg pour 1m74). J’ai repris le sport via la course à pieds et la muscu.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Running.bob",
+        "titre": "Je ne cours plus sans lui",
+        "texte": "Un podcast devenu indispensable pour aller courir, des sujets et intervenants variés, mais toujours traités avec attention et bienveillance. Un état d esprit qui se démarque. On ne peut qu adhérer. Top !"
       },
       {
         "note": 5,
-        "auteur": "Tanguy2007",
-        "titre": "Lorsque que le commun des mortels nous parle de notre sport..",
-        "texte": "Un podcast pour Mr et Mme tout le monde qui aime la course à pied, qui ne se prend la tête. Bertrand répond de manière simple aux questions que nous nous sommes tous posées un jour. Pour cela MERCI! En plus très agréable à écouter pendant les sorties…"
+        "auteur": "Audrey0706",
+        "titre": "Merci tu viens de lever mes doutes 😁",
+        "texte": "Bonjour j ai commencé la course a pieds il y a 18 mois . D abord une demi heure , puis 10 km , le semi . J aurai 50 ans cette année . J ai le semi de Lille la semaine dernière. À la fin de ma prépa , l idée commençait à poindre que faire un marathon .…"
       }
     ]
   }

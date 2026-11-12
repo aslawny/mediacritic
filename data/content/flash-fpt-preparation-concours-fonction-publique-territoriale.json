@@ -27,26 +27,48 @@
   "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
-      "titre": "Comprendre le referendum initiative citoyenne pour réussir le concours fonction publique territoriale",
-      "date": "2026-09-02"
+      "titre": "Gestion de l'eau et compétences EPCI pour l'oral de la fonction publique territoriale",
+      "date": "2026-11-09"
     },
     {
-      "titre": "Réussir l'examen du concours fonction publique territoriale grâce au plan action coeur de ville",
-      "date": "2026-08-26"
+      "titre": "Management public et modernisation de l’administration : réussir l’oral du concours territorial",
+      "date": "2026-11-04"
     },
     {
-      "titre": "Spécial Rentrée - De nouveaux outils pour obtenir votre concours !",
-      "date": "2026-08-24"
+      "titre": "Administration libérée et posture de manager pour l'oral de la fonction publique territoriale",
+      "date": "2026-11-02"
     },
     {
-      "titre": "Comprendre le rôle de la HATVP pour réussir le concours fonction publique territoriale",
-      "date": "2026-08-19"
+      "titre": "Finances publiques locales : budget, fiscalité et dette pour réussir le concours territorial",
+      "date": "2026-10-28"
     },
     {
-      "titre": "Comprendre le mécanisme de la motion de censure pour réussir votre concours fonction publique territoriale",
-      "date": "2026-08-12"
+      "titre": "Crise du logement et rôle des collectivités pour réussir son concours de la territoriale",
+      "date": "2026-10-26"
     }
   ],
-  "derniere_activite": "2026-09-02",
-  "frequence_jours": 6
+  "derniere_activite": "2026-11-09",
+  "frequence_jours": 4,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-12",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

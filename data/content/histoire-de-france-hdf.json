@@ -28,26 +28,48 @@
   "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
-      "titre": "Saint Augustin : Le plus grand Génie de l'Histoire Chrétienne",
-      "date": "2026-08-21"
+      "titre": "Robert le Pieux : Le roi qui brûlait les hérétiques - HDF #11",
+      "date": "2026-11-06"
     },
     {
-      "titre": "Charles le Chauve : seul contre ses frères et les Vikings",
-      "date": "2026-08-02"
+      "titre": "Saint Thomas d’Aquin : sa Vie et ses Œuvres (de A à Z)",
+      "date": "2026-10-27"
     },
     {
-      "titre": "Louis le Pieux : La naissance tragique de la France - HDF #7",
-      "date": "2026-07-03"
+      "titre": "Hugues Capet : Le début d'une dynastie qui a régné 800 ans - HDF #10",
+      "date": "2026-10-15"
     },
     {
-      "titre": "La Chanson de Roland : le poème qui a forgé la France (mais que tout le monde a oublié)",
-      "date": "2026-06-11"
+      "titre": "La Preuve Ontologique de Dieu par Kurt Gödel",
+      "date": "2026-10-01"
     },
     {
-      "titre": "Charlemagne : Le Roi qui a unifié l'Europe (il a 1200 ans) - HDF #6",
-      "date": "2026-04-25"
+      "titre": "Comment les Carolingiens ont perdu le trône de France - HDF #9",
+      "date": "2026-09-25"
     }
   ],
-  "derniere_activite": "2026-08-21",
-  "frequence_jours": 19
+  "derniere_activite": "2026-11-06",
+  "frequence_jours": 19,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-12",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

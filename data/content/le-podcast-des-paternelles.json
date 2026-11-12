@@ -53,25 +53,29 @@
   "derniere_activite": "2026-10-28",
   "frequence_jours": 13,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-13",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "abouAHML",
+        "titre": "Comment concilier son engagement pro avec son rôle de père ?",
+        "texte": "Aujourd'hui, de plus en plus d'hommes prennent une part active et engagée dans la vie de leurs enfants, jonglant entre carrière et responsabilités familiales. Il en découle plein de question de ces nouveaux schéma : 🔸Comment intégrer cette évolution …"
+      },
+      {
+        "note": 2,
+        "auteur": "davdavlin37",
+        "titre": "Intéressant mais laborieux.",
+        "texte": "Je reste abasourdi par l'effondrement du niveau de langue des journalistes. Celui-ci a chuté de façon vertigineuse en quelques années. Attention, il ne s'agit pas simplement d'une coquetterie ou d'un caprice de ma part : ce podcast pourrait être encore plus touchant et intéressan…"
+      },
+      {
+        "note": 5,
+        "auteur": "angbzk",
+        "titre": "Bravo !",
+        "texte": "Témoignages émouvants Je ne vous connaissais pas ! Là, je vous encourage ! Excellente prestation Mamie Angèle😉😊 (cinq petits enfants dont 2 jeunes adultes !) Mon époux (paix a son âme ) était le mm genre de Papa qu’Emmanuel PETIT, présent et d’un grand soutien pour nos 2 filles !"
+      }
     ]
   }
 }

@@ -53,25 +53,29 @@
   "derniere_activite": "2026-11-08",
   "frequence_jours": 13,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-13",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Oyhanaa",
+        "titre": "Vraiment génial!",
+        "texte": "Mes sentiments sont toujours partagés quand j’écoute ce podcast. D’un côté, je suis follement jalouse de ne pas faire partie de ce groupe de meufs stylées qui organise des week end buddy read et ont un groupe chat pour parler livres.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Al64434",
+        "titre": "Un vrai podcast",
+        "texte": "Un tel plaisir de les écouter débattre, adorer, détester des livres de fantasy et romantasy de participer à leurs lectures communes tous les mois grace a leur discord."
+      },
+      {
+        "note": 5,
+        "auteur": "Marie-Aurelie",
+        "titre": "Le podcast qui nous fallait",
+        "texte": "Merci pour ce podcast les filles. J’ai hâte de vous entendre sur la suite."
+      }
     ]
   }
 }

@@ -54,15 +54,27 @@
   "frequence_jours": 14,
   "avis_publics": {
     "source": "apple",
-    "boutique": "ca",
+    "boutique": "fr",
     "tri": "mosthelpful",
-    "releve": "2026-09-13",
+    "releve": "2026-11-12",
     "extraits": [
       {
         "note": 5,
-        "auteur": "armelipat",
-        "titre": "De belles découvertes",
-        "texte": "Toujours beaucoup de plaisir à écouter ces récits de voyages variés et si riches."
+        "auteur": "meirosso",
+        "titre": "THE podcast",
+        "texte": "Découvert il y a peu de temps, ce podcast est une véritable mine d’or. Je rattrape tranquillement mais sûrement les quelques 70 épisodes déjà sortis.…"
+      },
+      {
+        "note": 2,
+        "auteur": "Une celib",
+        "titre": "Très inspirant",
+        "texte": "Tous les épisodes sont une invitation au voyage intérieur comme à l’exploration du monde. C’est exotique, inattendu, inspirant ou effrayant mais ça ne laisse jamais indifférent."
+      },
+      {
+        "note": 5,
+        "auteur": "eymeric backpackerinrussia.com",
+        "titre": "un vrai palliatif en attendant de pouvoir repartir!",
+        "texte": "Quel plaisir d’écouter ce genre de podcasts, que de souvenirs qui reviennent. 10 ans que je voyage régulièrement seul en sac à dos, je me retrouve parfaitement dans leurs aventures.…"
       }
     ]
   }

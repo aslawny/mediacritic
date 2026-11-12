@@ -27,26 +27,52 @@
   "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
+      "titre": "S05E03 Frat Pack avec Colin tout court",
+      "date": "2026-11-09"
+    },
+    {
+      "titre": "S05E02 Frat Pack avec Anne Marivin",
+      "date": "2026-10-14"
+    },
+    {
+      "titre": "S05E01 Frat Pack avec Sebastien Vaniček",
+      "date": "2026-10-07"
+    },
+    {
       "titre": "S04E15 Frat Pack avec Fosko",
       "date": "2026-07-09"
     },
     {
       "titre": "S04E14 Frat Pack avec Babidaxx",
       "date": "2026-06-24"
-    },
-    {
-      "titre": "S04E013 Frat Pack avec Jason Brokerss",
-      "date": "2026-06-15"
-    },
-    {
-      "titre": "Frat Pack le Talk #4 Florent Mercier - Co-fondateur de Pizza Cosy",
-      "date": "2026-06-08"
-    },
-    {
-      "titre": "S04E011 Frat Pack avec Guigui Pop",
-      "date": "2026-05-25"
     }
   ],
-  "derniere_activite": "2026-07-09",
-  "frequence_jours": 13
+  "derniere_activite": "2026-11-09",
+  "frequence_jours": 13,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "larazou94",
+        "titre": "Mon moment préféré de la semaine",
+        "texte": "Je recommande fort cette petite parenthèse de bienveillance, de discussion interessante et de légèreté ! Mention spéciale pour les quiz 🥰"
+      },
+      {
+        "note": 5,
+        "auteur": "Odlaz",
+        "titre": "Excellent podcast",
+        "texte": "J’aime beaucoup la manière avec laquelle l’émission est rythmée, avec pas mal de confidences pour retracer le parcours des invités !"
+      },
+      {
+        "note": 5,
+        "auteur": "Sebcast69",
+        "titre": "Génial",
+        "texte": "J’écoute depuis la saison 1. C’est excellent. Bravo Zama ! Ultra enrichissant ces interviews."
+      }
+    ]
+  }
 }

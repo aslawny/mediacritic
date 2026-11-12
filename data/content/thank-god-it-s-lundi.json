@@ -41,25 +41,29 @@
   "derniere_activite": "2023-02-06",
   "frequence_jours": 720,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-13",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "v_dantes",
+        "titre": "Excellent",
+        "texte": "Un binôme extrêmement sympathique, on aurait presque envie de vivre en province (enfin dans le 77) pour être ami avec eux. 10 ans que j’écoute des podcasts et ils font partie de ceux que j’écoutes avec plaisir même si les 5 dernières minutes sont un calvaire à chaque fois.(je par…"
+      },
+      {
+        "note": 1,
+        "auteur": "chezwam26",
+        "titre": "La petite touche de fraîcheur en début de semaine",
+        "texte": "Podcast dynamique, drôle et sans prétentions qui pourtant est déjà très bien rodé."
+      },
+      {
+        "note": 5,
+        "auteur": "Frigo2007",
+        "titre": "Divertissant",
+        "texte": "Excellent podcast amateur, si vous ne connaissez pas les animateurs vous allez bien rire, si vous les connaissez c’est encore plus drôle!! Podcast sans prise de tête, léger et parfait pour les transports en commun 👍👍 !"
+      }
     ]
   }
 }

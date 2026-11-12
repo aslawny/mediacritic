@@ -27,26 +27,48 @@
   "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
-      "titre": "RADIOSHOW DU 03.09.2026",
-      "date": "2026-09-03"
+      "titre": "RADIOSHOW DU 11.11.2026",
+      "date": "2026-11-11"
     },
     {
-      "titre": "RADIOSHOW DU 02.09.2026",
-      "date": "2026-09-02"
+      "titre": "RADIOSHOW DU 10.11.2026",
+      "date": "2026-11-10"
     },
     {
-      "titre": "RADIOSHOW DU 01.09.2026",
-      "date": "2026-09-01"
+      "titre": "RADIOSHOW DU 09.11.2026",
+      "date": "2026-11-09"
     },
     {
-      "titre": "RADIOSHOW DU 31.08.2026",
-      "date": "2026-08-31"
+      "titre": "RADIOSHOW DU 04.11.2026",
+      "date": "2026-11-05"
     },
     {
-      "titre": "RADIOSHOW DU 27.08.2026",
-      "date": "2026-08-28"
+      "titre": "RADIOSHOW DU 03.11.2026",
+      "date": "2026-11-03"
     }
   ],
-  "derniere_activite": "2026-09-03",
-  "frequence_jours": 1
+  "derniere_activite": "2026-11-11",
+  "frequence_jours": 1,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-12",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

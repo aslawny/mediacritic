@@ -53,25 +53,29 @@
   "derniere_activite": "2021-06-27",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-13",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Nico2as",
+        "titre": "Avis",
+        "texte": "Je ne suis pas runner mais pratiquant de sport d’endurance et je m’intéresse aux différentes techniques d’entraînement . J’écoute beaucoup de podcast histoire de trouver un maximum d’informations.…"
+      },
+      {
+        "note": 2,
+        "auteur": "Jtudor22",
+        "titre": ".....la musique...",
+        "texte": "contenu interressant, mais pour ma part gaché par cette:👹👹👹 de musique insuportaaaable"
+      },
+      {
+        "note": 5,
+        "auteur": "Farod 1975",
+        "titre": "Je valide",
+        "texte": "Pas tjs facile de trouver des thématiques intéressantes sans se répéter. Bravo pour le ton bienveillant et pour les sujets proposés"
+      }
     ]
   }
 }

@@ -52,25 +52,29 @@
   "derniere_activite": "2024-06-03",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-13",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Allez_Paris",
+        "titre": "Incroyable",
+        "texte": "Alors moi je trouve que c’est très bien mais il y a les prix qui sont un peu trop cher mais à par sa tous est incroyable 😻 les contes les voix et puis la décoration du site je kiffe ❤️❤️❤️❤️❤️❤️🥰🥰😘🥰🥰🥰😘😘🤞🤞🫶🫶🫶🫶🫶🫶🫶🫶🫶🫶"
+      },
+      {
+        "note": 2,
+        "auteur": "Théo bouquet",
+        "titre": "Y a pas d’épisode",
+        "texte": "Je veux plus d’épisodes sur les veggies je peux rien, écouter y a que veggie patate"
+      },
+      {
+        "note": 5,
+        "auteur": "En plus c’est trop bien 👍",
+        "titre": "🥹😍😍😍😍😍😍🥰🥰🥰🥰😘😘😘",
+        "texte": "Je trouve ça trop mignon et ça nous apprend beaucoup de chose sur tout 🧬🦠🧪💉🔮❔❔❔❔❔"
+      }
     ]
   }
 }

@@ -52,25 +52,29 @@
   "derniere_activite": "2026-11-06",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-13",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Podcastics Community",
+        "titre": "Une référence du podcast séries TV",
+        "texte": "Le principe est simple : un épisode par série (ou par pilote de série pour Un Pilote Presque Parfait). Les choix de séries sont très bons et balaient large : de Buffy à The Boys en passant par For All Mankind ou Pam&Tommy.…"
+      },
+      {
+        "note": 2,
+        "auteur": "nicolas farmer77",
+        "titre": "Bien",
+        "texte": "dommage que charmed ou queer as folk ou autre series gay que vous me parler pas"
+      },
+      {
+        "note": 5,
+        "auteur": "sohoow",
+        "titre": "Merci pour ce podcast !",
+        "texte": "Enfin un podcast qui parle série comme on en parle entre amis accros aux séries ! Merci Junior pour ce beau travail ! Mention spéciale pour le format PPP, j’ai eu la chance d’y participer et j’adore ce format ! Je suis à fond avec toi Junior ✨ Foncez écouter ce podcast !"
+      }
     ]
   }
 }

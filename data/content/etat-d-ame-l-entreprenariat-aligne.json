@@ -29,26 +29,52 @@
   "updatedAt": "2026-11-10",
   "episodes_recents": [
     {
+      "titre": "48 % de charges au lieu de 12 % : le choix le plus cher de mon business",
+      "date": "2026-10-29"
+    },
+    {
+      "titre": "10 000 personnes formées à la prise de parole et son premier conseil ? Se taire - avec Emmanuel Chila",
+      "date": "2026-10-14"
+    },
+    {
+      "titre": "Argent et temps : ce que coûte vraiment une vie alignée",
+      "date": "2026-10-01"
+    },
+    {
+      "titre": "25 ans, 4 entreprises, un bébé : le vrai secret, c'est l'énergie, pas le temps avec Meryl Bissonnier",
+      "date": "2026-09-17"
+    },
+    {
       "titre": "Ce que mon entourage a changé dans mon business en 7 ans (et comment choisir le vôtre)",
       "date": "2026-09-03"
-    },
-    {
-      "titre": "Troubles alimentaires, perfectionnisme, business : et si c'était le même combat ? Avec Marine Giovannini",
-      "date": "2026-08-20"
-    },
-    {
-      "titre": "Non tu n'es pas en retard. Tu crois juste que tu devrais réussir à tout faire.",
-      "date": "2026-08-06"
-    },
-    {
-      "titre": "25h/semaine, le même revenu et 10 fois moins de stress - avec Laure Dodier",
-      "date": "2026-07-23"
-    },
-    {
-      "titre": "Fixer ses prix (et oser les augmenter)",
-      "date": "2026-07-09"
     }
   ],
-  "derniere_activite": "2026-09-03",
-  "frequence_jours": 14
+  "derniere_activite": "2026-10-29",
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "NmcreationLR",
+        "titre": "Inspirant et efficace",
+        "texte": "podcasts dont chacun des épisodes concis éclairent selon leur thématique notre vision et permettent de développer la confiance en soi . Eléonore est une professionnelle au cœur de l’humain qui accompagne pour entreprendre et permettre d’avancer .…"
+      },
+      {
+        "note": 5,
+        "auteur": "ClémentineWH",
+        "titre": "Génial !",
+        "texte": "Les podcasts sont superbes ! Personnellement c’est une source motivation pour moi,cela me donne des idées supplémentaires pour créer du contenu. Ne change pas ton état d’esprit. Merci beaucoup pour les conseils. Clémentine"
+      },
+      {
+        "note": 5,
+        "auteur": "fantomas444",
+        "titre": "Excellent podcast !",
+        "texte": "En tant que content marketing manager, j’ai appris beaucoup de choses qui me servent au quotidien pour mon entreprise ! Bravo, j’ai hâte d’écouter les prochains épisodes."
+      }
+    ]
+  }
 }

@@ -26,25 +26,29 @@
   "addedAt": "2026-05-25",
   "updatedAt": "2026-11-10",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-13",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Annie Croche",
+        "titre": "Les matinées du samedi",
+        "texte": "Comme pour tous les podcasts, par définition, l’écoute différée devrait être confiée à un concepteur de logiciel qui permette au lecteur de choisir rapidement soit les enregistrements soit les enregistrés, et l’ordre de présentation chronologique ou inverse, dans une optique de r…"
+      },
+      {
+        "note": 1,
+        "auteur": "R Camblor",
+        "titre": "Partisan",
+        "texte": "C’est assez scandaleux cette matinale du week-end : tout y est partisan. C’est la matinale Nupes. Où est le pluralisme journalistique ?"
+      },
+      {
+        "note": 5,
+        "auteur": "satisfaite etonnee",
+        "titre": "Merci",
+        "texte": "Merci Caroline Broué d’avoir reçu Khaled Bencheikh qui est remarquable en ces moments difficiles. Merci beaucoup. Cordialement. J. Cassini"
+      }
     ]
   }
 }

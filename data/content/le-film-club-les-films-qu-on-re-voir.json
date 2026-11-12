@@ -51,25 +51,29 @@
   "derniere_activite": "2024-04-28",
   "frequence_jours": 28,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-13",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-12",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Claire Ninn",
+        "titre": "Super podcast !",
+        "texte": "Super super super idée de podcast que de revoir des films un peu anciens et de donner votre avis et votre analyse ! Vous restez compréhensibles pour qui n’est pas un technicien du cinéma, tout en donnant quelques éléments de compréhension et d’histoire (je pense notamment au plan…"
+      },
+      {
+        "note": 1,
+        "auteur": "Pasdub33",
+        "titre": "Des donneurs de leçons",
+        "texte": "La présentation du podcast sur Harry Potter est parfaitement insupportable car elle tourne à une attaque de J.K.Rowling sur une soit disante transphobie..…"
+      },
+      {
+        "note": 5,
+        "auteur": "gethuliel",
+        "titre": "Un délice",
+        "texte": "C’est génial !! Un petit bonbon à écouter sans modération et mon histoire de patronus pref reste de loin celle de la biche de Rogue <333"
+      }
     ]
   }
 }
