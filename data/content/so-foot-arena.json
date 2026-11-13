@@ -30,7 +30,7 @@
     "source": "apple",
     "boutique": "fr",
     "tri": "mosthelpful",
-    "releve": "2026-11-11",
+    "releve": "2026-11-13",
     "extraits": [
       {
         "note": 5,
@@ -54,6 +54,10 @@
   },
   "episodes_recents": [
     {
+      "titre": "S03 - EP08 : Le foot se portera-t-il mieux sans Ronaldo et Messi ?",
+      "date": "2026-11-09"
+    },
+    {
       "titre": "S03 - EP07 : Zinédine Zidane en état de grâce",
       "date": "2026-11-02"
     },
@@ -68,12 +72,8 @@
     {
       "titre": "S03 - E03 : Quel héritage va laisser Lionel Messi au football ?",
       "date": "2026-10-05"
-    },
-    {
-      "titre": "S03 - E02 : Qu’est-ce que Zidane a déjà changé chez les Bleus ?",
-      "date": "2026-09-28"
     }
   ],
-  "derniere_activite": "2026-11-02",
-  "frequence_jours": 6
+  "derniere_activite": "2026-11-09",
+  "frequence_jours": 7
 }
