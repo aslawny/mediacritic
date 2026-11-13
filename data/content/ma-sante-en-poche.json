@@ -24,7 +24,7 @@
   "tags": [
     "santé"
   ],
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "[Tout comprendre des problèmes digestifs] Qu'est-ce que le microbiote intestinal ?",
@@ -48,5 +48,27 @@
     }
   ],
   "derniere_activite": "2022-12-26",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-13",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/podkassos/id1714420932?uo=2",
       "trackId": 1714420932,
       "rating": 4.6,
-      "ratingCount": 321,
+      "ratingCount": 322,
       "episodeCount": null
     }
   },
@@ -27,27 +27,31 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-14",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Thi3u",
+        "titre": "Fan du Urbain Podcast Universe",
+        "texte": "Je n’ai pas vraiment d’avis sur le Podcast, je l’ai très peu écouté. Je suis ici car à force de me faire hurler dessus par Urbain pour que je daigne mettre 5 étoiles et un commentaire sur ses podcasts, j’ai décidé de m’y atteler et de les distribuer à la pelle sur tous les podcas…"
+      },
+      {
+        "note": 1,
+        "auteur": "Arthur93500",
+        "titre": "lol des ricains ou quoi",
+        "texte": "Les pubs en milieu d’episode, au secours pour qui ils se prennent 🤣"
+      },
+      {
+        "note": 5,
+        "auteur": "Cfr655638",
+        "titre": "Plus de pub pour vos lives !",
+        "texte": "Vous nous faites beaucoup rire (souvent encore plus sans invité), y compris pendant vos lives à l’Apollo mais il faut faire plus de pub et d’annonces via le podcast …"
+      }
     ]
   },
   "episodes_recents": [

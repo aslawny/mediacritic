@@ -25,8 +25,16 @@
     "business"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
+    {
+      "titre": "La finance engagée avec Eliott Bernard",
+      "date": "2026-10-21"
+    },
+    {
+      "titre": "La finance engagée avec Christian Maviel",
+      "date": "2026-09-07"
+    },
     {
       "titre": "La finance engagée avec Olivier Hamant",
       "date": "2026-07-05"
@@ -38,16 +46,8 @@
     {
       "titre": "La finance engagée chez Asterion Ventures",
       "date": "2026-03-11"
-    },
-    {
-      "titre": "La finance engagée chez Arrago",
-      "date": "2026-02-02"
-    },
-    {
-      "titre": "La finance engagée par Christopher Guerin",
-      "date": "2026-01-07"
     }
   ],
-  "derniere_activite": "2026-07-05",
-  "frequence_jours": 30
+  "derniere_activite": "2026-10-21",
+  "frequence_jours": 36
 }

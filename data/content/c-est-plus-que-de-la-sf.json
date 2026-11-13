@@ -25,7 +25,7 @@
   "tags": [
     "gaming"
   ],
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "L'effondrement va t'il avoir lieu ? Débat entre Antoine Buéno et Thomas Guénolé",
@@ -51,25 +51,29 @@
   "derniere_activite": "2026-11-08",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-14",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "broutelune",
+        "titre": "Excellent !",
+        "texte": "Je renouvelle mon commentaire, ça fait quelques temps que j’écoute ce podcast maintenant et c’est chaque fois un vrai plaisir. Je me lance dans la lecture du problème à 3 corps, et avec retard j’écoute l’épisode interview de l’auteur.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Corto 357",
+        "titre": "Un podcast de SF Francophone qui manque d’intervenants de qualité",
+        "texte": "Par exemple Ariel Kyriou qui exprime sur la SF des banalités sans la moindre dose de subtilité."
+      },
+      {
+        "note": 5,
+        "auteur": "Benny2104",
+        "titre": "Un podcast qui m’a fait découvrir la SF",
+        "texte": "Je viens de m’apercevoir que je n’avais pas noter ce podcast alors je le fais. C’est plus que de la SF m’a fait découvrir la SF et de l’appréhender sous un œil nouveau. La SF ce n’est pas que du Space opera c’est plus que ça.…"
+      }
     ]
   }
 }

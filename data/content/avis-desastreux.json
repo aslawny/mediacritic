@@ -25,8 +25,16 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
+    {
+      "titre": "S5E2 - Cinespaña 2026 (La Bola Negra, Un Cœur Fidèle, Amílcar, Le Sud, etc...)",
+      "date": "2026-10-18"
+    },
+    {
+      "titre": "S5E1 - LE FIFIGROT 2026 (Les Roches Rouges, Roma Elastica, L'Espèce Explosive, Gabin, etc...)",
+      "date": "2026-09-27"
+    },
     {
       "titre": "S4E15 - Un été 2026 à la cinémathèque de Toulouse, partie 2",
       "date": "2026-08-01"
@@ -38,16 +46,8 @@
     {
       "titre": "S4E14 - Un été 2026 à la cinémathèque de Toulouse, partie 1",
       "date": "2026-07-08"
-    },
-    {
-      "titre": "S4E13 - Obsession, Disclosure Day, Irréalisable & Il n'y aura plus de nuit",
-      "date": "2026-06-22"
-    },
-    {
-      "titre": "Avis Désastreux à Cannes 2026 - Jour 12 (Palmarès, Moulin, Bilan et remerciements)",
-      "date": "2026-05-24"
     }
   ],
-  "derniere_activite": "2026-08-01",
-  "frequence_jours": 1
+  "derniere_activite": "2026-10-18",
+  "frequence_jours": 12
 }

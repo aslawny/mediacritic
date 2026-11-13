@@ -24,7 +24,7 @@
     "histoire"
   ],
   "addedAt": "2026-08-05",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "On répond à TOUT : couple, outils, argent, projets",
@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-09-07",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "CélineMTL",
+        "titre": "La définition d’un podcast business sans chichis",
+        "texte": "J’adore les podcasts respectifs de Jess et Tony mais j’avoue que j’ai aussi adoré les entendre débattre, échanger, et partager leur avis sur Bizz & Crocs! Ça fait réfléchir et c’est aussi déculpabilisant ! Merci les gars pour ça !"
+      },
+      {
+        "note": 5,
+        "auteur": "Racheldasi",
+        "titre": "Dinguerie votre podcast",
+        "texte": "Trop cool de pouvoir vous retrouver ensemble sur ce format. J’ai ris (beaucoup), j’ai été inspiré et j’ai bcp appris. J’ai aussi saigné votre podcast en moins de 2 jours (oups). Vivement la saison 2 !!"
+      },
+      {
+        "note": 5,
+        "auteur": "GéC32",
+        "titre": "Vivement les prochains !!!",
+        "texte": "J’ai adoré cette série de podcasts avec ce duo de choc, c’était trop bien, vivement la prochaine série d’épisodes !!!"
+      }
+    ]
+  }
 }

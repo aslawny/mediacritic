@@ -27,7 +27,7 @@
     "running"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "Se nourrir de son passé pour avancer avec Thomas Billot (ancien obèse > 24 000km à vélo à travers la France)",
@@ -53,25 +53,29 @@
   "derniere_activite": "2026-11-03",
   "frequence_jours": 8,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-14",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "jonathan.saintleger",
+        "titre": "Un podcast exceptionnel pour réapprendre à rêver",
+        "texte": "Je suis tombé par un total hasard sur ce podcast, étant à la recherche de récit d’aventure et de dépassement pour m’accompagner pendant mon voyage, et depuis il ne m’a plus jamais quitté.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Canet682",
+        "titre": "Vraiment nul",
+        "texte": "Interviews fatiguantes et rébarbatives Je ne recommande pas ce podcast !"
+      },
+      {
+        "note": 5,
+        "auteur": "Julien traf.",
+        "titre": "Un incroyable partage d’expériences",
+        "texte": "On retrouve tout dans ce podcast inspirant : escalader les plus grandes montagnes du monde, partir en mission avec des forces spéciales… Et surtout ce que j’adore c’est la démocratisation de l’aventure, et c’est ce qui revient le plus parmi les invités.…"
+      }
     ]
   }
 }

@@ -26,7 +26,7 @@
     "tech",
     "numérique"
   ],
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "Le jour où Mory Sacko a lancé son restaurant... en plein Covid",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-11-02",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-14",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Marcelspeedo",
+        "titre": "Excellent, moderne et percutant",
+        "texte": "Habitué des podcasts d’actualité que je dévore chaque jour, j’ai découvert ce nouveau podcast il y a peu. Et bien des les premiers numéros j’ai adoré le ton dynamique et jeune tout en étant sérieux! Les sujets toujours intéressants.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Alnnzl",
+        "titre": "Le meilleur podcast d’actu",
+        "texte": "Formats originaux, sujets frais et indispensables pour comprendre notre époque agitée… Vive la Loupe, la bonne surprise de ce début d’été dans le monde (souvent trop conventionnel) du podcast d’actu !"
+      },
+      {
+        "note": 5,
+        "auteur": "Tom d'Annecy",
+        "titre": "un des meilleurs moyens de s'endormir plus instruit que la veille",
+        "texte": "L'actualité va plus vite que ne permet le temps disponible pour s'informer. Donc il est crucial de sélectionner ses sources pour la qualité du fond et de la forme.…"
+      }
     ]
   }
 }

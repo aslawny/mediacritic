@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/sans-filtres-par-lumi/id1791348756?uo=2",
       "trackId": 1791348756,
       "rating": 5.0,
-      "ratingCount": 6,
+      "ratingCount": 7,
       "episodeCount": null
     }
   },
@@ -26,8 +26,16 @@
     "education"
   ],
   "addedAt": "2026-07-03",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
+    {
+      "titre": "arrêt de la pilule : mon bilan après 1 an",
+      "date": "2026-10-19"
+    },
+    {
+      "titre": "partir en voyage avec de l'anxiété",
+      "date": "2026-10-12"
+    },
     {
       "titre": "à force de vouloir trop bien faire, je ne fais rien",
       "date": "2026-09-07"
@@ -39,16 +47,8 @@
     {
       "titre": "ce que j'ai fait récemment pour diminuer mon anxiété",
       "date": "2026-08-24"
-    },
-    {
-      "titre": "tout ce qui vaut/ne vaut pas ton argent",
-      "date": "2026-08-10"
-    },
-    {
-      "titre": "avoir une mauvaise vision de soi-même",
-      "date": "2026-07-27"
     }
   ],
-  "derniere_activite": "2026-09-07",
+  "derniere_activite": "2026-10-19",
   "frequence_jours": 14
 }

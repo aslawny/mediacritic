@@ -25,7 +25,7 @@
     "societe"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "Radio X-Files - Intégral du 06-11-2026",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-11-06",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "beef 527",
+        "titre": "Le Christian page show",
+        "texte": "J écoute depuis ses débuts l’émission .. Un bonheur …. Je ne me lasse pas de ce rdv du Christian page Show , l’homme plus fort que les zeteticiens qui debunke tout , qui a un avis sur tout, qui explique tout …"
+      },
+      {
+        "note": 1,
+        "auteur": "Patr83",
+        "titre": "Dommage",
+        "texte": "Excellent podcast présente de main de maître par Christian et Camille mais..... Serait-il possible de dire à la personne qui s'occupe de découper et poster le podcast, d'arrêter de couper l'émission avant la fin car c'est vraiment très très très embêtant.…"
+      },
+      {
+        "note": 5,
+        "auteur": "chaumière76",
+        "titre": "Bonjour de Dieppe en Normandie.",
+        "texte": "Bonjour Camille et Christian. Je rêve de voir un jour les extraterrestres, de naviguer dans un vaisseau, de comprendre l’univers expliqué par des individus venus d’ailleurs.…"
+      }
+    ]
+  }
 }

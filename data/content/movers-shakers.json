@@ -27,7 +27,7 @@
     "business"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "Ep 97: Tom Wallace-Smith (Astral Systems) – Rethinking Cancer Treatment with Nuclear Fusion",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-10-21",
-  "frequence_jours": 10
+  "frequence_jours": 10,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Sybille.hrv",
+        "titre": "Well done Daphni !",
+        "texte": "Super initiative ! Je viens d’écouter le premier épisode, on attend la suite impatiemment :) 🔥 super format, très bien animé, et coup de cœur pour l’intro qui donne vraiment envie d’écouter ! Bravo daphni !"
+      },
+      {
+        "note": 5,
+        "auteur": "Pascake",
+        "titre": "Inspirant",
+        "texte": "Très inspirant mr Simoncini !! Bravo pour cette interview de qualité. Vivement la suite, je m’abonne."
+      },
+      {
+        "note": 5,
+        "auteur": "Fandereplay",
+        "titre": "Super !",
+        "texte": "Vraiment hâte d’écouter ces témoignages de personnalités inspirantes !!! Vive la communauté Daphni."
+      }
+    ]
+  }
 }

@@ -25,27 +25,31 @@
     "societe"
   ],
   "addedAt": "2026-10-14",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-14",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Raramouri",
+        "titre": "Excellent travail !",
+        "texte": "Nous écoutons vos podcast depuis la région Parisienne et apprécions particulièrement la qualité de vos récits. La voix de Mr Droux, l'écriture, la musique d'ambiance, l'atmosphère et également les interviews, c'est précis et de qualité ...…"
+      },
+      {
+        "note": 5,
+        "auteur": "bergamote-baroque",
+        "titre": "Passionnant",
+        "texte": "Formidable podcast. La réalisation est impeccable, avec une évocation du contexte et des protagonistes très vivante et précise, à l’aide notamment d’extraits sonores d’époque. Le ton est calme, posé, sans pathos, sans jugement, et met bien en valeur les histoires racontées.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Jules_charly",
+        "titre": "Tres très bonne qualité",
+        "texte": "Les podcastes sont très très bien narrées. Le fil de l’histoire est chronologie et complet. Les aspects médico-légal, judiciaires et psychologiques sont abordés d’une manière simple et rend ce podcaste accessible à tout publique.…"
+      }
     ]
   },
   "episodes_recents": [

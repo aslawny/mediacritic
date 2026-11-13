@@ -25,7 +25,7 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "#68 - Sébastien Derivaux - Il conseille les plus grandes DAO sur les sujets financiers et légaux complexes",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2025-03-15",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Famousseur",
+        "titre": "Faire connaissance avec les personnes qui façonnent le nouveau Web",
+        "texte": "Si l’univers de la blockchain reste encore flou pour madame et monsieur Tout le monde, la série de podcasts de Romain nous permet d’en savoir plus sur celui-ci, et de l’appréhender simplement.…"
+      },
+      {
+        "note": 5,
+        "auteur": "moose8000",
+        "titre": "Enrichissant!",
+        "texte": "Parcours très enrichissant qui donne une vision sur le monde de demain avec le Web 3.0. À travers ce podcast on retiendra surtout qu’avec de la motivation et de envie tout est possible.…"
+      },
+      {
+        "note": 5,
+        "auteur": "M@sterclem",
+        "titre": "Au top!",
+        "texte": "Romain nous plonge dans l’univers Crypto et Blockchain avec une simplicité remarquable… Podcast très enrichissant avec toutes les clés nécessaires pour appréhender le web 3.0 !! A mettre dans vos favoris !! 🔥💫"
+      }
+    ]
+  }
 }

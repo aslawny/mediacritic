@@ -24,5 +24,31 @@
     "comedie"
   ],
   "addedAt": "2026-07-03",
-  "updatedAt": "2026-11-10"
+  "updatedAt": "2026-11-13",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Grosdoigts5",
+        "titre": "JA-DORE",
+        "texte": "JA-DORE le podcast (en deux syllabes comme le prononcerait Sam)! J’aime beaucoup découvrir de nouvelles personnalités publiques ou même rédécouvrir des gens, avec une perspective personnelle.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Mylllannou",
+        "titre": "Stérilet",
+        "texte": "Je suis dans l’incompréhension totale concernant l’installation de stérilet (podcast avec Pascale). J’ai eu 3 installations au fil des ans, et je n’ai jamais eu aucun relaxant, attivent, et surtout à aucune piqûre, et je n’ai jamais ressenti AUCUNE douleur!! Il faut dire que mon…"
+      },
+      {
+        "note": 5,
+        "auteur": "Marie-Evw",
+        "titre": "Excellent podcast",
+        "texte": "J’adore vous écouter. On a l’impression d’apprendre des secrets et de faire partie de vos conversations, comme si on était caché dans la pièce.…"
+      }
+    ]
+  }
 }

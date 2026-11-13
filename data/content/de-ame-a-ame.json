@@ -25,7 +25,7 @@
     "vulgarisation"
   ],
   "addedAt": "2026-06-24",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "Si tu te sens perdu/e...",
@@ -51,25 +51,29 @@
   "derniere_activite": "2025-04-07",
   "frequence_jours": 63,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-14",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Axmlaxs",
+        "titre": "Avis",
+        "texte": "Pour commencer c’est incroyable comment elle m’a aidé avec ses rappels ‎sur tiktok, depuis sa première vidéo je la suis et maintenant elle ouvre son podcast. Je pense que c’est inné chez elle, elle a une facilité à parler d’une voix douce et apaisante ‎‎الله i baarek fiha.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Hmaaaaa05",
+        "titre": "BRAVO 🤍",
+        "texte": "Je t’ai découvert récemment et vraiment top top ça apaise énormément 🤍🥹."
+      },
+      {
+        "note": 5,
+        "auteur": "mademoisellemaki",
+        "titre": "mâcha الله",
+        "texte": "as salamou aleyki ma sœur juste pour te dire que tes podcasts sont très bénéfiques الله y barik. tu as une voix très douce et apaisante. j’ai découvert tes réseaux grâce à la vidéo de assiatique sur le ramadan et mâcha الله j’ai bcp aimer ta manière de parler et de penser durant…"
+      }
     ]
   }
 }

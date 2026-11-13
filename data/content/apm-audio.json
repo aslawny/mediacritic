@@ -24,8 +24,12 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
+    {
+      "titre": "L’éloquence, un levier pour convaincre, avec Noémie Gorin et Aimée Kleiman",
+      "date": "2026-09-01"
+    },
     {
       "titre": "Dirigeants : pourquoi il est temps de prendre la parole sur les réseaux sociaux, avec Élouan Pacault et Baltha",
       "date": "2026-08-25"
@@ -41,12 +45,8 @@
     {
       "titre": "Convention Internationale Apm 2026 : ce que les dirigeants retiennent",
       "date": "2026-07-16"
-    },
-    {
-      "titre": "Diriger autrement : produire moins, produire mieux, avec Vincent Liegey",
-      "date": "2026-07-08"
     }
   ],
-  "derniere_activite": "2026-08-25",
+  "derniere_activite": "2026-09-01",
   "frequence_jours": 7
 }

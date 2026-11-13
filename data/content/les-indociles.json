@@ -25,8 +25,16 @@
     "fiction"
   ],
   "addedAt": "2026-10-11",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
+    {
+      "titre": "Épisode 4 : L’oiseau qui avait le vertige",
+      "date": "2026-10-23"
+    },
+    {
+      "titre": "Épisode 3 : La cigale qui chantait l'hiver",
+      "date": "2026-10-16"
+    },
     {
       "titre": "Épisode 2 : La fourmi agoraphobe",
       "date": "2026-10-09"
@@ -36,5 +44,6 @@
       "date": "2026-10-09"
     }
   ],
-  "derniere_activite": "2026-10-09"
+  "derniere_activite": "2026-10-23",
+  "frequence_jours": 7
 }

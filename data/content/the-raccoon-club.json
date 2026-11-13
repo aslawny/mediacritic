@@ -27,27 +27,31 @@
     "humour"
   ],
   "addedAt": "2026-10-14",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-14",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "manoncordier",
+        "titre": "Bienveillance et authenticité",
+        "texte": "Depuis 5 ans maintenant, Léa c’est une des nanas les plus cools de ma vie (et je ne la connais même pas : c’est en écrivant ça que je me rends compte comment c’est triste ça haha).…"
+      },
+      {
+        "note": 5,
+        "auteur": "chacha24750",
+        "titre": "Découverte",
+        "texte": "Je découvre ce podcast qui parle d’une personne que je connais depuis le collège. Florie, une personne qu’on a tous envie d’avoir comme amie. Gentille, rigolote, intelligente, nos chemins se sont vites séparés mais j’ai toujours gardé un petit œil sur son parcours (merci les rése…"
+      },
+      {
+        "note": 5,
+        "auteur": "emmAarig",
+        "titre": "🤟💕🦝",
+        "texte": "Je viens d’écouter l’épisode 3. J’ai failli pleurer avec Pauline, je ne suis pas bipolaire, mais je comprends un minimum. Je suis passé par un petit épisode de gros burn out ces vacances, où je ne pouvais plus rien faire, j’avais l’impression de ne plus servir à rien à ce moment…"
+      }
     ]
   },
   "episodes_recents": [

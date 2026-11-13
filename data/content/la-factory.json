@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/la-factory/id6824265625?uo=2",
       "trackId": 6824265625,
       "rating": 5.0,
-      "ratingCount": 17,
+      "ratingCount": 18,
       "episodeCount": null
     }
   },
@@ -25,7 +25,7 @@
     "interview"
   ],
   "addedAt": "2026-10-26",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "FAQTORY : on élit l'employé du mois",
@@ -45,5 +45,19 @@
     }
   ],
   "derniere_activite": "2026-11-08",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "HabibaGalbé",
+        "titre": "My opinion 😼",
+        "texte": "Fact1, c’est totalement vrai. Une personne qui est au lycée [qui étudie bien] a plus de culture générale qu’un.e français.e lambda. Bonus si l’élève est cultivée. Fact 2, je ne suis pas d’accord avec Juliette et je me suis disputée vite fait avec une amie sur ça.…"
+      }
+    ]
+  }
 }

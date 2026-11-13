@@ -27,7 +27,7 @@
     "business"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "Expert Gastronomie : le savoir-faire français peut-il disparaître ? | Alexandre Lavatine - Bordeus #7",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-10-13",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Virgenzo13",
+        "titre": "Félicitation",
+        "texte": "Thibaud est vraiment un mec génial, Plein d’énergie et une vision moderne. Merci à toi pour les podcasts de qualités et tous ces témoignages. À bientôt"
+      },
+      {
+        "note": 5,
+        "auteur": "Cirouf",
+        "titre": "Une mine de conseils éclairés",
+        "texte": "Joris nous livre un retour d’expérience sur la création de sa startup, très inspirant pour un futur entrepreneur en quête de conseils avisés."
+      },
+      {
+        "note": 5,
+        "auteur": "carolinemignaux",
+        "titre": "Top Podcast de Mindset et d’Entrepreneuriat",
+        "texte": "Bravo Thibault et bravo pour ce que tu fais ! Plein de force pour ton podcast ❤️ À vite, Caroline de Marketing Square"
+      }
+    ]
+  }
 }

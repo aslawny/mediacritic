@@ -26,27 +26,31 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-14",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Églantine12",
+        "titre": "Totale addict !",
+        "texte": "Comme je vous aime ! Je suis couturière à Marseille, c’est ma fille de 12 ans qui m’a fait découvrir Tourista et je kiffe mais grave ! Je vous écoute dans l’atelier et j’adore, tous les épisodes sont tops, à chaque fois moi je voyage avec vous, ça me donne envie de partir partout…"
+      },
+      {
+        "note": 2,
+        "auteur": "Arnaud.pez",
+        "titre": "Bon podcast mais exécrable présentateur",
+        "texte": "Bon podcast pour découvrir des invités et en savoir plus sur le voyage ! Une ambiance très chill et Marie est mega sympathique ! Par contre Maxime quelle catastrophe, inintéressant, pas drôle, imbu de sa personne et coupe la parole aux invités en parlant plus qu’eux …"
+      },
+      {
+        "note": 5,
+        "auteur": "Niock-Niâm",
+        "titre": "Super podcast",
+        "texte": "J’adore, j’ai commencé à écouter pendant mon congé maternité en berçant mon bébé, ça faisait passer le temps (parce que des fois il fallait le bercer trèèès longtemps !). Maintenant j’écoute en cuisinant comme ça j’entends plus la hotte et je découvre plein de trucs …"
+      }
     ]
   },
   "episodes_recents": [

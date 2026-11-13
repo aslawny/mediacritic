@@ -27,7 +27,7 @@
     "culture geek"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "Des jeux sur le thème de la ferme - Episode 111",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-11-10",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Thomas_rn",
+        "titre": "Au top !",
+        "texte": "Pour avoir gagné une boîte de jeu (ni plus ni moins), podcast au top avec le talentueux Cédric ! Des conseils et plein d’idées pour faire des cadeaux et passer de bons moments entre amis ou en famille ! ☺️"
+      },
+      {
+        "note": 1,
+        "auteur": "FM 31416",
+        "titre": "c'était mieux avant !",
+        "texte": "le podcast a beaucoup perdu en intérêt depuis qu'il est pollué par d'autres recommandations sans aucun rapport."
+      },
+      {
+        "note": 5,
+        "auteur": "AlexFody",
+        "titre": "Trop bien",
+        "texte": "Le podcast indispensable pour découvrir les nouveaux jeux de société, je les teste souvent grâce à ce podcast ☺️"
+      }
+    ]
+  }
 }

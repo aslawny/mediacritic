@@ -24,8 +24,12 @@
   "tags": [
     "santé"
   ],
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
+    {
+      "titre": "Polluants dans l’assiette : comment protéger notre santé ?",
+      "date": "2026-10-06"
+    },
     {
       "titre": "Aidants : les clés pour aider sans s’oublier",
       "date": "2026-06-30"
@@ -41,12 +45,8 @@
     {
       "titre": "Sexualité des seniors : le plaisir à tout âge, c’est possible !",
       "date": "2025-12-19"
-    },
-    {
-      "titre": "Le cancer de la prostate sans tabou",
-      "date": "2025-11-03"
     }
   ],
-  "derniere_activite": "2026-06-30",
-  "frequence_jours": 45
+  "derniere_activite": "2026-10-06",
+  "frequence_jours": 49
 }

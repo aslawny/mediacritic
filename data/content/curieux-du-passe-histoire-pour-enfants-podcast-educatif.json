@@ -24,8 +24,16 @@
     "education"
   ],
   "addedAt": "2026-06-21",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
+    {
+      "titre": "Galilée et les étoiles",
+      "date": "2026-10-25"
+    },
+    {
+      "titre": "Léonard de Vinci et ses machines incroyables",
+      "date": "2026-09-27"
+    },
     {
       "titre": "Le micro-ondes découvert par accident",
       "date": "2026-08-26"
@@ -37,16 +45,8 @@
     {
       "titre": "Enfants cachés durant la secondaire guerre mondiale (partie 2)",
       "date": "2026-06-10"
-    },
-    {
-      "titre": "Enfants cachés durant la seconde guerre mondiale (partie 1)",
-      "date": "2026-06-07"
-    },
-    {
-      "titre": "Le réfrigérateur",
-      "date": "2026-05-18"
     }
   ],
-  "derniere_activite": "2026-08-26",
-  "frequence_jours": 6
+  "derniere_activite": "2026-10-25",
+  "frequence_jours": 20
 }

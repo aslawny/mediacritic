@@ -24,7 +24,7 @@
     "culture geek"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "Les Franchises Envahissent les Jeux de Rôle 🚀 Action Bonus",
@@ -48,5 +48,25 @@
     }
   ],
   "derniere_activite": "2026-11-06",
-  "frequence_jours": 21
+  "frequence_jours": 21,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Sir_elrond",
+        "titre": "Excellent !",
+        "texte": "2 Jeux Bacon est un super complément de la chaîne YouTube, qui nous en apprend plus sur les membres, les projets, etc, plus une discussion intéressante sur le domaine du jeu à chaque fois."
+      },
+      {
+        "note": 5,
+        "auteur": "Rocking dead",
+        "titre": "Super",
+        "texte": "Excellent podcast pour débuter dans l’univers des jeux de rôle ( dnd …) Et pour s’améliorer dans le jdr Très bon format qui complète parfaitement la chaîne YouTube"
+      }
+    ]
+  }
 }

@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/amaanah/id6809226279?uo=2",
       "trackId": 6809226279,
       "rating": 5.0,
-      "ratingCount": 3,
+      "ratingCount": 6,
       "episodeCount": null
     }
   },
@@ -25,12 +25,29 @@
     "education"
   ],
   "addedAt": "2026-09-08",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
+    {
+      "titre": "Avant de parler des écrans de nos enfants, parlons des nôtres 📱",
+      "date": "2026-11-09"
+    },
+    {
+      "titre": "La lecture chez nos enfants 📚",
+      "date": "2026-10-26"
+    },
+    {
+      "titre": "Les cours d’arabe pour nos enfants 📚",
+      "date": "2026-10-04"
+    },
+    {
+      "titre": "Les activités extrascolaires : indispensables pour nos enfants ? 🏀🎨🎶",
+      "date": "2026-09-20"
+    },
     {
       "titre": "🎒 C’est la rentrée… le jour de gloire est arrivé !",
       "date": "2026-09-06"
     }
   ],
-  "derniere_activite": "2026-09-06"
+  "derniere_activite": "2026-11-09",
+  "frequence_jours": 14
 }

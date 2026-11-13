@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/le-r%C3%A9veil-de-lhumanit%C3%A9/id1807824557?uo=2",
       "trackId": 1807824557,
-      "rating": 5.0,
-      "ratingCount": 17,
+      "rating": 4.9,
+      "ratingCount": 18,
       "episodeCount": null
     }
   },
@@ -25,7 +25,7 @@
     "vulgarisation"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "🎙️ Épisode 10 – C'est l'heure, préparons-nous",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-10-31",
-  "frequence_jours": 49
+  "frequence_jours": 49,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "avatar75000",
+        "titre": "unique",
+        "texte": "a écouter absolument vous qui vous éveilles cette video vous donne des clés une aide unique et spéciale une voix vibrante a écouter les yeux fermes et laissez vous porter par cette vibration cette musique d’éveil magique et connecte"
+      },
+      {
+        "note": 5,
+        "auteur": "rachel12234543321",
+        "titre": "Mon âme te salue",
+        "texte": "Merci , du fond du cœur merci! J’ai écouté chacun de tes podcasts en quelques jours . Chacun de tes mots est juste ta vibration à eu une telle résonance dans chacune de mes cellules . J’ai frissonnée , j’ai été émue , pleurée"
+      },
+      {
+        "note": 5,
+        "auteur": "Maëva2910",
+        "titre": "Incroyable",
+        "texte": "Quelle immersion ! Quelle vibration ! Comme ça fait du bien quelqu’un qui parle le même langage merci"
+      }
+    ]
+  }
 }

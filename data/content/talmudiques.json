@@ -26,27 +26,31 @@
     "vulgarisation"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-14",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Prads1266",
+        "titre": "Talmudiques",
+        "texte": "J’adore. Et j’aime beaucoup la voix de Marc-Alain Ouaknin. Myriam Mas Ce jour dimanche 20 janvier 2019. : Question : « Depuis quand tous les français descendent de Clovis? » Myriam Mas Depuis quand peut-on affirmer que les Juifs sont une civilisation …"
+      },
+      {
+        "note": 1,
+        "auteur": "pauljobin",
+        "titre": "Et Gaza dans tout ça ?",
+        "texte": "J’adorais votre émission autrefois. Mais votre silence est devenu insupportable. A quoi bon tout votre travail de mémoire sur la Shoah?"
+      },
+      {
+        "note": 5,
+        "auteur": "Daphiy",
+        "titre": "Talmudiques",
+        "texte": "Merci infiniment pour cette émission tellement nourrissante ! Je l’écoute chaque semaine, bien que je ne sois ni juive ni hébraïsante, mais culturellement et spirituellement j’apprends et je comprends tellement mieux mes questionnements fondamentaux et des réponses possibles...…"
+      }
     ]
   }
 }

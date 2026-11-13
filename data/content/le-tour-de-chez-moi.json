@@ -26,8 +26,12 @@
     "societe"
   ],
   "addedAt": "2026-05-31",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
+    {
+      "titre": "A la découverte d'Aix-les-Bains côté forêt",
+      "date": "2026-10-26"
+    },
     {
       "titre": "Les mystères des profondeurs du lac du Bourget",
       "date": "2026-08-31"
@@ -45,6 +49,6 @@
       "date": "2026-02-16"
     }
   ],
-  "derniere_activite": "2026-08-31",
+  "derniere_activite": "2026-10-26",
   "frequence_jours": 60
 }

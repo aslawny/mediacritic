@@ -25,29 +25,29 @@
     "numerique"
   ],
   "addedAt": "2026-07-21",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
+    {
+      "titre": "We now have Kerr’s Law (Interview)",
+      "date": "2026-11-04"
+    },
+    {
+      "titre": "The future is Postgres (Interview)",
+      "date": "2026-10-28"
+    },
+    {
+      "titre": "Building what's next (Interview)",
+      "date": "2026-10-22"
+    },
+    {
+      "titre": "From zero to NanoClaw (Interview)",
+      "date": "2026-10-09"
+    },
     {
       "titre": "Forking Cal.com to closed source (Interview)",
       "date": "2026-09-03"
-    },
-    {
-      "titre": "Postgres at PlanetScale (Interview)",
-      "date": "2026-08-25"
-    },
-    {
-      "titre": "Canary tokens and digital tripwires (Interview)",
-      "date": "2026-07-21"
-    },
-    {
-      "titre": "From open source hits to OpenAI (Interview)",
-      "date": "2026-06-05"
-    },
-    {
-      "titre": "MCP on Code Mode (Interview)",
-      "date": "2026-05-15"
     }
   ],
-  "derniere_activite": "2026-09-03",
-  "frequence_jours": 14
+  "derniere_activite": "2026-11-04",
+  "frequence_jours": 12
 }

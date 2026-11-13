@@ -24,29 +24,29 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
+    {
+      "titre": "EP20 - Laurent Thillaye du Boullay, fondateur de Westiti",
+      "date": "2026-10-22"
+    },
+    {
+      "titre": "EP19 - François Singer, le couteau suisse de l'écosystème sportif",
+      "date": "2026-10-10"
+    },
+    {
+      "titre": "EP18 - Olivier Rousseau, cofondateur de Flycup",
+      "date": "2026-09-24"
+    },
+    {
+      "titre": "EP17 - Edouard Desmettre, fondateur de KOP Media",
+      "date": "2026-09-18"
+    },
     {
       "titre": "EP16 - Romain Lauvergnat, fondateur de StadiumGo",
       "date": "2026-04-03"
-    },
-    {
-      "titre": "EP15 - Alix Trebaol, VC chez Serena",
-      "date": "2026-03-13"
-    },
-    {
-      "titre": "EP14 - Joseph Mestrallet, fondateur d'Enduraw - la data au service de la performance",
-      "date": "2026-02-27"
-    },
-    {
-      "titre": "EP13 - Barthélémy Fendt, fondateur d'Extraterrien et cofondateur de Storiz",
-      "date": "2026-02-12"
-    },
-    {
-      "titre": "EP12 - Benjamin Dupont, cofondateur de Kotcha",
-      "date": "2025-12-04"
     }
   ],
-  "derniere_activite": "2026-04-03",
-  "frequence_jours": 27
+  "derniere_activite": "2026-10-22",
+  "frequence_jours": 15
 }

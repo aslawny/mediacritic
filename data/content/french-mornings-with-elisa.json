@@ -24,7 +24,7 @@
     "education"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "Ep 76 - Plus d’un an à Marseille, est-ce que mon accent a changé ? Podcast français intermédiaire",
@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-11-09",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "us",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "reviuuu",
+        "titre": "A favorite!",
+        "texte": "This is one of my favorite, if not my very favorite podcasts to listen to, at the intermediate+ French level. Elisa clearly puts a lot of work and preparation into each podcast, and in addition to it helping me with my French capabilities, they’re just on really interesting topic…"
+      },
+      {
+        "note": 5,
+        "auteur": "#Lueydabomb",
+        "titre": "Just what I was looking for!",
+        "texte": "I am a beginner French learner and I want to start listening to French regularly so I can get a feeling for the sound of the language, especially because I am required to take Spanish in school and it gets confusing learning two languages simultaneously.…"
+      },
+      {
+        "note": 5,
+        "auteur": "CM878787",
+        "titre": "Great French Refresher!",
+        "texte": "It’s been a long time since I spoke and lived in France so this podcast has been perfect to get back into the swing of French. She speaks just a little slowly so you can really hear and follow what she’s talking about. It’s such a great podcast and good and interesting content.…"
+      }
+    ]
+  }
 }

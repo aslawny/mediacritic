@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/le-journal-dun-marchand-de-biens/id6816678568?uo=2",
       "trackId": 6816678568,
       "rating": 5.0,
-      "ratingCount": 4,
+      "ratingCount": 6,
       "episodeCount": null
     }
   },
@@ -25,12 +25,21 @@
     "business"
   ],
   "addedAt": "2026-09-29",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
+    {
+      "titre": "Ep3 - Si je devais repartir de zéro demain (en achat revente immobilier)",
+      "date": "2026-11-09"
+    },
+    {
+      "titre": "Ep2 - Entrepreneuriat : les sacrifices, l’entourage et le prochain niveau, passe à l'action",
+      "date": "2026-10-05"
+    },
     {
       "titre": "Ep1 - Le marché immobilier Q4, AchatRevente.io, Passer enfin à l'action",
       "date": "2026-09-27"
     }
   ],
-  "derniere_activite": "2026-09-27"
+  "derniere_activite": "2026-11-09",
+  "frequence_jours": 35
 }

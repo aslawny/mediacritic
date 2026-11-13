@@ -24,27 +24,31 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-14",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pimouss :-)",
+        "titre": "Excellente chaîne !",
+        "texte": "J’ai tellement espéré retrouver ces podcasts sur iOS. Le Chairman ✨👌🏾. Interviewer hors pair, qui reçoit à sa table des personnalités toutes aussi sur différentes que très intéressantes. Il y a de tout. Vraiment ce podcast c’est vraiment qqch. Je le recommande 1000 fois.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Klf_94",
+        "titre": "Donne la parole à un moins que rien",
+        "texte": "Vous donner une tribune à Attal, c’est désolant. Je me suis désabonner sur toutes les plateformes."
+      },
+      {
+        "note": 5,
+        "auteur": "BoubouSSK",
+        "titre": "Discussion avec Énora Ep#4",
+        "texte": "Merci de nous donner l’opportunité de découvrir un autre et magnifique voisinage de cette femme impliquée pour l’Humanité et qui parle de tout sans complexe, sans tabou ni censure. C’est avec des personnalités comme cela que l’on fait bouger les choses. Encore merci ☺️."
+      }
     ]
   },
   "episodes_recents": [

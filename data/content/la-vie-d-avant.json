@@ -29,27 +29,31 @@
     "humour"
   ],
   "addedAt": "2026-10-14",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-14",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "nath06822",
+        "titre": "Un pur bonheur !",
+        "texte": "Merci de faire revivre de manière si poétique des souvenirs qui me ramènent à mon enfance, à me parents aujourd’hui disparus, à une qualité de vie qui n’existe plus. Les points de vue sur le quotidien de cette époque nous font réfléchir à ce que nous vivons de nos jours.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Pousticlotte",
+        "titre": "Réconfortant !",
+        "texte": "Une seule critique… c’est trop court… j’aimerais tellement les entendre parler plus longtemps ❤️ où peut-on trouver les épisodes en entier ? Merci pour ce podcast incroyable que je fais découvrir à mes enfants pour qu’ils sachent « comment c’était avant… »"
+      },
+      {
+        "note": 5,
+        "auteur": "titeya",
+        "titre": "J’adore !",
+        "texte": "Tellement intéressant d’entendre le point de vue, les histoires au moment où elles se sont déroulées. Parfois étonnant, parfois marrant ou triste, parfois « désolant » mais toujours instructif !"
+      }
     ]
   },
   "episodes_recents": [

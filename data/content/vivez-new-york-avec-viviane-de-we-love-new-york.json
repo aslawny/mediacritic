@@ -26,7 +26,7 @@
     "societe"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "Episode 13 - French bee, mon avis en tant qu'habituée et ex-salariée de l'aérien",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-07-29",
-  "frequence_jours": 104
+  "frequence_jours": 104,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Séllya",
+        "titre": "New York nous voilà!",
+        "texte": "Viviane est une amoureuse de New York, avec 69 voyages elle connais son sujet. Je recommande, ses conseils pour visiter New York différemment, découvrir des lieux peu connu. Vivre l’expérience comme un new-yorkais :)"
+      },
+      {
+        "note": 5,
+        "auteur": "Farah Real Estate",
+        "titre": "« The Big Apple »",
+        "texte": "Super podcast et sans hésitation la meilleure guide pour préparer son voyage à New York et découvrir la ville, son énergie et ses secrets … 🗽 je recommande vivement 💯"
+      },
+      {
+        "note": 5,
+        "auteur": "ansofi",
+        "titre": "Une superbe découverte",
+        "texte": "Découvert très récemment et au moment de la reprise. C’est une évasion dans les rues de NYC avec des bons plans 😍😍"
+      }
+    ]
+  }
 }

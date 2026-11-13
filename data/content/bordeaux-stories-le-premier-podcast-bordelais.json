@@ -25,7 +25,7 @@
     "culture"
   ],
   "addedAt": "2026-09-17",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "#28 ⭐️ Bordeaux 5 étoiles : immersion dans l’hôtellerie de luxe avec Maxime, Meilleur Ouvrier de France classe",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2025-06-30",
-  "frequence_jours": 30
+  "frequence_jours": 30,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Gvwx7531",
+        "titre": "Bell découverte",
+        "texte": "Découvert ce podcast par hasard en recherchant des émissions sur la ville dans laquelle j’habite depuis de longtemps. Format original et très sympa pour découvrir Bordeaux à travers ces témoignages"
+      },
+      {
+        "note": 5,
+        "auteur": "MarineBourj",
+        "titre": "Très original",
+        "texte": "Un format innovant pour découvrir l’histoire des quartiers de Bordeaux ! Super idée !"
+      },
+      {
+        "note": 5,
+        "auteur": "Nicolas bdx cxblanche",
+        "titre": "👍🤩",
+        "texte": "Très bon moment passé à écouter ces premiers épisodes, super découverte !"
+      }
+    ]
+  }
 }

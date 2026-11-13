@@ -26,7 +26,7 @@
     "sciences"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "Le temps qui passe",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2025-03-20",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Eshe11",
+        "titre": "With love",
+        "texte": "Merci beaucoup pour ce que tu fais. A travers le partage d’opinions sur ces diverses thématiques que tu abordes, tu nous donnes l’opportunité de mettre des mots sur ce que nous vivons au quotidien. J’ai beaucoup aimé l’épisode sur l’harcèlement scolaire.…"
+      },
+      {
+        "note": 5,
+        "auteur": "misslym",
+        "titre": "Une routine à en faire 🤍",
+        "texte": "Ce podcast est une ode à la vie. On se retrouve dans chaque chapitre : un doute, une questionnement, une certitude, un positionnement, toutes ces questions de la vie qu'on se pose au quotidien.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Leslie🙏❤️",
+        "titre": "La douceur de la vérité",
+        "texte": "J’aime beaucoup ce mélange de simplicité et d’ouverture d’esprit. La voix est tellement apaisante qu’on pourrait l’écouter des heures et des heures.…"
+      }
+    ]
+  }
 }

@@ -24,27 +24,31 @@
     "education"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-14",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "J0814._07",
+        "titre": "Bravo",
+        "texte": "Un grand bravo et félicitations pour cet incroyable travail, qui j’en suis certaine en a déjà aidé plus d’un ! C’est une superbe idee, notamment pour ceux qui retiennent plus facilement comme moi :) et j’adore le concept ! Bravo bravo"
+      },
+      {
+        "note": 3,
+        "auteur": "S17k10",
+        "titre": "intéressant",
+        "texte": "Un peu + d’œuvre littéraire de Stav ou filière technologique serait très intéressant !"
+      },
+      {
+        "note": 5,
+        "auteur": "antoine 🇨🇭",
+        "titre": "…",
+        "texte": "Je suis d’accord, c’est pratique, cependant je pense qu’il devrait mettre de la grammaire. Comment faire un commentaire composé parfaitement bien. Une dissertation etc. je trouve que c’est Podcasts n’est pas complet ."
+      }
     ]
   },
   "episodes_recents": [

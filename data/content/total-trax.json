@@ -26,27 +26,31 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-14",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "MayRetz",
+        "titre": "L’excellence a un podcast",
+        "texte": "Du point de vue du fond comme de la forme, rien à redire. Merci à tous les trois de votre travail, qui ranime une passion assoupie depuis trop d’années.…"
+      },
+      {
+        "note": 2,
+        "auteur": "Saigneur Blood666",
+        "titre": "Trop de spoil",
+        "texte": "J’aurais bien mis le maximum d’étoile car en terme de qualité on est au top SAUF que…désolé mais spoiler une fin tout les 3 films environ c’est juste pas possible. Ça me peine car c’est vraiment très bien mais je ne vais plus écouter à cause des spoils…"
+      },
+      {
+        "note": 5,
+        "auteur": "guyguyjeanjean",
+        "titre": "La maison",
+        "texte": "Ce podcast est fait pour ceux qui aiment les blockbusters de qualité d’autrefois, le cinéma de genre, les bof avec de beaux thèmes, joués par de grands orchestres. Ayant connu le mad movies des années 90 et 2000, je suis chez moi, c’est clair. C’est réconfortant.…"
+      }
     ]
   },
   "episodes_recents": [

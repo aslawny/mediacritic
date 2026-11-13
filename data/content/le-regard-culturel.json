@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/le-regard-culturel/id461341866?uo=4",
       "trackId": 461341866,
       "rating": 4.0,
-      "ratingCount": 383,
+      "ratingCount": 384,
       "episodeCount": 40
     }
   },
@@ -27,27 +27,31 @@
     "actualite"
   ],
   "addedAt": "2026-10-14",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-14",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Komakinogo",
+        "titre": "Eclectisme, expertise et ouverture",
+        "texte": "Emission toujours intéressante et qui permet de découvrir de nombreux artistes et formes d’expression. Si l’on a ne serait-ce qu’une pointe de curiosité pour la chose artistique, La Dispute est véritable une mine d’or.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Ultima necat",
+        "titre": "Préservez nous des cuistres",
+        "texte": "Lucile Commeaux, personne tendance moderne qui aime tant s’écouter disserter."
+      },
+      {
+        "note": 5,
+        "auteur": "Lauredardonvil",
+        "titre": "On aimerait que cela dure plus longtemps",
+        "texte": "Les commentaires de certains fâcheux sur la diction sont minables. Je ne suis pas toujours d’accord avec L. Commeaux mais ses critiques sont pensées selon une structure efficace et des arguments qui donnent à réfléchir.…"
+      }
     ]
   }
 }

@@ -27,7 +27,7 @@
     "business"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "#126 | Porter la vie",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-11-06",
-  "frequence_jours": 13
+  "frequence_jours": 13,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Sanrasanra",
+        "titre": "Merci Valérie !!",
+        "texte": "Un podcast tellement riche en contenu!! Des connaissances mises à la portée de tous qui nous permettent de s’interroger sur nous même en toute simplicité !!! Merci Valérie pour le travail que tu fais !!! Sandra"
+      },
+      {
+        "note": 5,
+        "auteur": "macaronsucresale",
+        "titre": "Merci",
+        "texte": "Merci pour ces podcasts, pour le partage Tu as une voix apaisante tout étant pêchue Hâte d’écouter les podcasts à venir A podcast to be shared widely ......."
+      },
+      {
+        "note": 5,
+        "auteur": "Abilinanes",
+        "titre": "Enfin",
+        "texte": "Enfin un podcast animée par une personne complète qui ne fait pas que du développement personnel pour son intérêt."
+      }
+    ]
+  }
 }

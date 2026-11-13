@@ -26,7 +26,7 @@
     "jeux inde"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "On fait pas d’E3 sans parler des jeux (Respawn #32, in Paris 5)",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2014-06-28",
-  "frequence_jours": 41
+  "frequence_jours": 41,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "DrLuthor",
+        "titre": "Le podcast 5 étoiles du jeu video",
+        "texte": "1 étoile pour le présentateur 1 étoile pour les sujets abordés 1 étoile pour les invités 1 étoile pour l'ambiance 1 étoile pour les pauses musicales Le compte est bon :)"
+      },
+      {
+        "note": 5,
+        "auteur": "DimxDisaster",
+        "titre": "Une émission complète!",
+        "texte": "Une émission longue mais PAS ennuyeuse! Un animateur dynamique avec une voix sympathique et des invités aux avis intéressants!"
+      },
+      {
+        "note": 5,
+        "auteur": "Docteur Falcon",
+        "titre": ";)",
+        "texte": "23eme Podcast jeux vidéo sur iTunes. Selon la formule d'InkS: 5 étoiles car vous le méritez :)"
+      }
+    ]
+  }
 }

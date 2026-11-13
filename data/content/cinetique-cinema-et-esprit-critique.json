@@ -15,8 +15,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/cin%C3%A9tique-cin%C3%A9ma-et-esprit-critique/id1572646123?uo=4",
       "trackId": 1572646123,
-      "rating": 3.4,
-      "ratingCount": 5,
+      "rating": 3.0,
+      "ratingCount": 6,
       "episodeCount": 62
     }
   },
@@ -26,8 +26,16 @@
     "culture"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
+    {
+      "titre": "L'Ultime Souper - S06E02 partie 1",
+      "date": "2026-11-04"
+    },
+    {
+      "titre": "They Live (Invasion Los Angeles) - S06E01 partie 2",
+      "date": "2026-10-07"
+    },
     {
       "titre": "Les gourous au cinéma - S05 SPÉCIAL - Partie 2",
       "date": "2026-08-19"
@@ -37,18 +45,10 @@
       "date": "2026-07-12"
     },
     {
-      "titre": "Bugonia & Save the green planet - S05E05 Part 2",
-      "date": "2026-05-06"
-    },
-    {
       "titre": "Bugonia & Save the green planet - S05E05 Part 1",
       "date": "2026-04-01"
-    },
-    {
-      "titre": "The Wonder - S05E04 Part 2",
-      "date": "2026-03-08"
     }
   ],
-  "derniere_activite": "2026-08-19",
+  "derniere_activite": "2026-11-04",
   "frequence_jours": 34
 }

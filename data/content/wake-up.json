@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/wake-up/id6823111306?uo=2",
       "trackId": 6823111306,
-      "rating": 4.0,
-      "ratingCount": 4,
+      "rating": 4.4,
+      "ratingCount": 8,
       "episodeCount": null
     }
   },
@@ -25,16 +25,25 @@
     "interview"
   ],
   "addedAt": "2026-10-20",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
-      "titre": "7h du matin et Léopold Lemarchand parle déjà de son côlon",
+      "titre": "On se réveille avec Paul de Saint Sernin",
+      "date": "2026-11-07"
+    },
+    {
+      "titre": "On se réveille avec Léandre",
+      "date": "2026-10-31"
+    },
+    {
+      "titre": "On se réveille avec Léopold Lemarchand",
       "date": "2026-10-20"
     },
     {
-      "titre": "Bande annonce : Wake Up! La matinale sans filtre de Konbini présentée par Margot Coriolan (aka lagomart)",
+      "titre": "Wake Up! La matinale sans filtre de Konbini de Margot Coriolan (aka lagomart)",
       "date": "2026-10-13"
     }
   ],
-  "derniere_activite": "2026-10-20"
+  "derniere_activite": "2026-11-07",
+  "frequence_jours": 7
 }

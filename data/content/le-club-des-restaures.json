@@ -25,27 +25,31 @@
     "christianisme"
   ],
   "addedAt": "2026-10-14",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-14",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ilopablo",
+        "titre": "Un podcast inspirant et",
+        "texte": "C’est un excellent podcast où l’on ressent véritablement l’inspiration de l’Esprit de Dieu. J’apprécie la façon dont vous utilisez des métaphores visuelles à partir d’éléments du quotidien, modernes et simples, pour illustrer des concepts complexes chrétiens ou des défis de la vi…"
+      },
+      {
+        "note": 5,
+        "auteur": "6hfrbdgbfvdfbbdjg",
+        "titre": "MERCI POUR TOUT !!!!J",
+        "texte": "Mon Dieu je prie 🙏 toujours à tes côtés même jusqu’à ma mort. Grâce à vous le club des restaurer (désolé pour l’orthographe)je viens de la découvrir l’amour pour Dieu et me comprendre.❤️ Je vais dans un centre où tous les mercredis après-midi jusqu’à 18 heures je prient je fais d…"
+      },
+      {
+        "note": 5,
+        "auteur": "Asile.b",
+        "titre": "Une douceur",
+        "texte": "Je viens de finir l’épisode 8 « pleure ça fait du bien », ce podcast m’a tellement parlé, je me suis sentie concernée et il m’a fait beaucoup de bien. Tu as un vrai don pour toucher l’âme à travers tes paroles et ta voix, merci à toi, que Dieu te bénisse 🌺🙏🏾"
+      }
     ]
   },
   "episodes_recents": [

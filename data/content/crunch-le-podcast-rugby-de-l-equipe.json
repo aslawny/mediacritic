@@ -24,7 +24,7 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "Encore une nouvelle paire de centres : ce que ça peut changer",
@@ -50,25 +50,29 @@
   "derniere_activite": "2026-11-03",
   "frequence_jours": 6,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-14",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "YG75011",
+        "titre": "Humour et compétence",
+        "texte": "Bravo à tous les participants à ce podcast, commentateurs et animatrice (fine et pertinente quoi qu’aient pu écrire quelques poissé-vinaigre dans leurs avis).…"
+      },
+      {
+        "note": 1,
+        "auteur": "Rrafsan",
+        "titre": "Bof bof",
+        "texte": "Des journalistes complètement imbus de leur personne et une animatrice (?) à l’humour douteux déblatèrent 45 minutes de brèves de comptoir.... sur le rugby..."
+      },
+      {
+        "note": 5,
+        "auteur": "leyonnais",
+        "titre": "Des joueurs étrangers dans le top 14 ?",
+        "texte": "Souvent est fustigé le nombre de non sélectionable dans le too 14. Mais quid des étrangers en pro D2 ouvfédérale 1 ou 2. Comment les jeunes peuvent ils éclore et se faire remarquer s ils ne jouent pas à ces niveaux …"
+      }
     ]
   }
 }

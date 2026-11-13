@@ -25,27 +25,31 @@
     "societe"
   ],
   "addedAt": "2026-10-14",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-14",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "eloise35",
+        "titre": "Merci",
+        "texte": "Je viens d’écouter le podcast dédié à monsieur Martinon. Je suis très émue de ce témoignage et du sens du devoir dont lui et ses équipes ont fait preuve. Merci pour ce témoignage, merci de lui avoir donné la parole."
+      },
+      {
+        "note": 5,
+        "auteur": "hay baikar",
+        "titre": "Passionnant podcast",
+        "texte": "Excellente idée de mettre en lumière les hommes et les femmes qui travaillent dans l’ombre et qui sont - la plupart du temps- une pièce du succès du projet."
+      },
+      {
+        "note": 5,
+        "auteur": "Mouligames",
+        "titre": "Interview Claude",
+        "texte": "Passionnant, ce serait bien de pousser plus loin dans un débat croisé entre diverses ia… merci"
+      }
     ]
   },
   "episodes_recents": [

@@ -25,8 +25,12 @@
     "series"
   ],
   "addedAt": "2026-07-06",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
+    {
+      "titre": "BAZAAR - Pourquoi Bazaar ?",
+      "date": "2026-11-06"
+    },
     {
       "titre": "BAZAAR - Jumpers",
       "date": "2026-03-05"
@@ -42,12 +46,8 @@
     {
       "titre": "BAZAAR - Avatar : de Feu et de Cendres",
       "date": "2025-12-21"
-    },
-    {
-      "titre": "BAZAAR - Frankenstein, une question de matière (bonus)",
-      "date": "2025-11-08"
     }
   ],
-  "derniere_activite": "2026-03-05",
-  "frequence_jours": 19
+  "derniere_activite": "2026-11-06",
+  "frequence_jours": 29
 }

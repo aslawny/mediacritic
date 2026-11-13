@@ -27,27 +27,31 @@
     "actualite"
   ],
   "addedAt": "2026-10-14",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-14",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ad.venus",
+        "titre": "diversité",
+        "texte": "chaque episode est un baume au coeur rouge er noir, pourriez-vous cependant de temps à autre inviter une non doctorante à s’exprimer, comme un appel d’air à la grande bourgeoisie éduquée, de gauche mais bourgeoise, ça serait une action gravement anarchiste"
+      },
+      {
+        "note": 5,
+        "auteur": "Virginie6801",
+        "titre": "Très intéressant",
+        "texte": "Le format est parfois un peu difficile à écouter en podcast. Sinon, contenu et invité-es vraiment passionnants, et… si, il y a bien des femmes invitées !!!"
+      },
+      {
+        "note": 5,
+        "auteur": "LBELLYNCK",
+        "titre": "Merci",
+        "texte": "De votre travail. Merci de préparer vos entretiens. Merci de votre ligne éditoriale. Courage continuez!"
+      }
     ]
   },
   "episodes_recents": [

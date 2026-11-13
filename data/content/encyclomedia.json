@@ -24,8 +24,12 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
+    {
+      "titre": "Astra vs TDF : la bataille des satellites",
+      "date": "2026-10-10"
+    },
     {
       "titre": "Cyclades : la France aux origines d'internet",
       "date": "2026-06-20"
@@ -41,12 +45,8 @@
     {
       "titre": "Le jeu vidéo à la télévision française",
       "date": "2026-02-28"
-    },
-    {
-      "titre": "Quand la télévision faisait rêver les enfants",
-      "date": "2026-01-31"
     }
   ],
-  "derniere_activite": "2026-06-20",
+  "derniere_activite": "2026-10-10",
   "frequence_jours": 28
 }

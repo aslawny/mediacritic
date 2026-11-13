@@ -25,7 +25,7 @@
     "societe"
   ],
   "addedAt": "2026-09-17",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "Douce Dibondo : le racisme nous empêche d'être nous-mêmes !",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-11-10",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "lepseudodebty",
+        "titre": "Bravo",
+        "texte": "Bravo, j'ai hâte d'écouter vos prochains épisodes ! Merci 😊 J'ai adoré l'épisode avec Noam et sa prière Superstar 😉"
+      },
+      {
+        "note": 5,
+        "auteur": "Ame_rogs",
+        "titre": "Hyper interessant",
+        "texte": "Bravo encore pour ce nouveau thème qui bien qu’inquiétant, redonne de l espoir."
+      },
+      {
+        "note": 5,
+        "auteur": "Nathalie Baraban",
+        "titre": "Tres rigolo est intéressant",
+        "texte": "Merci pour votre approche rigolote sur des sujets qui peuvent être lourds"
+      }
+    ]
+  }
 }

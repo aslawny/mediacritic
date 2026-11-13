@@ -25,7 +25,7 @@
     "numerique"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "#11 Actu. pourquoi le bitcoin s’effondre, La chine et les ICO",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2017-09-12",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "SebastienBossoutrot",
+        "titre": "Les bases",
+        "texte": "Merci pour ce podcast super utile pour les débutants en crypto monnaie et plus. Merci."
+      },
+      {
+        "note": 5,
+        "auteur": "Peter_AB",
+        "titre": "Vraiment super",
+        "texte": "Clair, agréable et cool. Pour les grands-mères et les novices comme moi !"
+      },
+      {
+        "note": 5,
+        "auteur": "Lso133",
+        "titre": "Top",
+        "texte": "J'avais du mal à assimiler le concept avant l'écoute de ce podcast. Merci"
+      }
+    ]
+  }
 }

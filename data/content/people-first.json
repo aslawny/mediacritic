@@ -27,7 +27,7 @@
     "business"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "#20 - [SALES SPECIAL - B2B] Caroline Franczia (Sprinklr, Datadog): Dis-moi quel est ton pain, je te dirai qui ",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2024-09-15",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Valentine Mal",
+        "titre": "Ce podcast est un must pour réfléchir sur les bases d’une bonne culture de star hum",
+        "texte": "Je suis toujours impressionnée par la qualité des intervenants et la pertinence des questions qui leurs sont posées. Merci Sarah pour ce questionnement continu sur ce qu’est une « bonne culture d’entreprise » et de nous partager les leviers pour l’améliorer ! Je recommande."
+      },
+      {
+        "note": 5,
+        "auteur": "Manon Furst",
+        "titre": "Top!",
+        "texte": "Un ton décontracté, des questions pertinentes, une interview hyper instructive. Très chouette épisode, well done Sarah !"
+      },
+      {
+        "note": 5,
+        "auteur": "SEB de Montmartre",
+        "titre": "Enfin",
+        "texte": "Ça manquait un tel podcast ! Merci, bravo Sarah et longue vie à People First Performance 🔥"
+      }
+    ]
+  }
 }

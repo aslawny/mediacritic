@@ -25,7 +25,7 @@
     "bien-etre"
   ],
   "addedAt": "2026-08-26",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "EP 19. J'ai pété un câble. J'en retiens quoi ?",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-07-31",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Cha Hoppe",
+        "titre": "Du sunshiiine en barre !",
+        "texte": "Si vous ne connaissez pas encore Double Hoppe, foncez écouter TOUS les épisodes de ses podcasts car chacun est une pépite réalisée par une pépitasse …"
+      },
+      {
+        "note": 5,
+        "auteur": "☀️ B",
+        "titre": "Let the sunshine in",
+        "texte": "Merci Sarah de nous saupoudrer de joie et de paillettes notre vie ✨🫶 Tes podcasts en plus d’être fait avec humour et bienveillance nous déculpabilisent, nous donne du courage, nous apportent de la joie, de la bonne humeur… Tu donnes beaucoup 🙏 Et le format 20-30 mn est parfait …"
+      },
+      {
+        "note": 5,
+        "auteur": "crambiche",
+        "titre": "Merci Sarah pour tes mots!",
+        "texte": "Petite bulle, safe place où on sent qu’on se fait du bien, qu’on prend du temps, qu’on fait un break dans le quotidien juste pour nous. Hâte d’écouter les autres épisodes."
+      }
+    ]
+  }
 }

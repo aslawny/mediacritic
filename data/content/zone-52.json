@@ -27,7 +27,7 @@
     "series"
   ],
   "addedAt": "2026-07-03",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "#112 : Le jour où la terre prit feu, L'histoire de Souleymane, Evil Dead Burn, Yellowstone, Légitime Violence ",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-09-21",
-  "frequence_jours": 23
+  "frequence_jours": 23,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "bacara fr",
+        "titre": "Petit message",
+        "texte": "Bon il est 00h41 le 13 juillet est je viens de finir d’écouter le 111 épisode et ses bonus de vieux. Merci à vous ça fait plaisir de vous écouter depuis toutes ces années et en effets on se sens moins seul quand on écoutes de vieux geeks parler de sujets niches ou de jeux….…"
+      },
+      {
+        "note": 5,
+        "auteur": "WallaceDoom",
+        "titre": "De haut vol !",
+        "texte": "Il y a les podcasts d'amateurs... et les podcasts de conaisseurs. Zone 52 entre clairement dans la seconde catégorie ! L'équipe touche sérieusement sa bille, que ce soit en musique, ciné ou romans et autres mauvais genres ! Bravo !"
+      },
+      {
+        "note": 5,
+        "auteur": "-[Quelqu’un]-",
+        "titre": "Suggestion de sujet",
+        "texte": "Vous devriez essayer « No man’s sky », c’est un jeu vidéo super avec, certes des éléments qui ont été pris d’autres grandes œuvres, mais un lore ultra fourni qui arrive à se tisser parmi tout ça"
+      }
+    ]
+  }
 }

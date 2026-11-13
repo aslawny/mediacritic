@@ -25,7 +25,7 @@
     "histoire"
   ],
   "addedAt": "2026-08-11",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "Retour à l'Écran - Pourquoi voir ou revoir - À Toute Épreuve",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-06-08",
-  "frequence_jours": 21
+  "frequence_jours": 21,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Le Saint patriote",
+        "titre": "Que du bonheur 👍🏻",
+        "texte": "On se replonge et on revit de bon souvenirs grâce à un choix de films judicieux, on apprend des choses grâce au travail de recherche méticuleux, une équipe sympa et homogène qui arrive très bien à nous (re)passionner pour le film en question ... Que du bonheur …"
+      },
+      {
+        "note": 5,
+        "auteur": "Edgar 37",
+        "titre": "Un bon podcast sur le cinéma de mon enfance",
+        "texte": "Un bon podcast qui fait du bien, ça parle de films dont on a entendu parler ou vu quand on était gosse, plein de souvenirs, j’ai presque tout écouté et je suis fan. Depuis la fin de 2 Heures de Perdues, j’ai enfin trouvé un podcast qui me convienne."
+      },
+      {
+        "note": 5,
+        "auteur": "élisecln",
+        "titre": "Excellent",
+        "texte": "Un podcast de grande qualité avec une équipe de passionnés passionnante ! Gros coup de cœur pour l’épisode sur Slumber Party Massacre ! Merci de remettre en lumière des chefs d’œuvres comme celui là ! Bravo Adrien !"
+      }
+    ]
+  }
 }

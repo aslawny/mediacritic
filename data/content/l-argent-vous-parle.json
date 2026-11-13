@@ -27,8 +27,12 @@
     "business"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
+    {
+      "titre": "De Québec à Wall Street : son parcours jusqu’à New York",
+      "date": "2026-10-26"
+    },
     {
       "titre": "1ère place sur 3 085 à Bourstad : son secret pour gagner",
       "date": "2026-08-14"
@@ -44,12 +48,8 @@
     {
       "titre": "Trading d’électricité avec Alain Brisebois",
       "date": "2026-02-02"
-    },
-    {
-      "titre": "Fraudes financières : les nouveaux pièges qui frappent",
-      "date": "2025-11-26"
     }
   ],
-  "derniere_activite": "2026-08-14",
-  "frequence_jours": 55
+  "derniere_activite": "2026-10-26",
+  "frequence_jours": 57
 }

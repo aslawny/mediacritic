@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/mission-info/id6808652958?uo=2",
       "trackId": 6808652958,
-      "rating": 4.8,
-      "ratingCount": 4,
+      "rating": 4.6,
+      "ratingCount": 5,
       "episodeCount": null
     }
   },
@@ -25,8 +25,20 @@
     "fiction"
   ],
   "addedAt": "2026-10-26",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
+    {
+      "titre": "Comment peut-on lutter contre le racisme ?",
+      "date": "2026-11-11"
+    },
+    {
+      "titre": "Peut-on faire confiance à l'intelligence artificielle pour s'informer ?",
+      "date": "2026-11-04"
+    },
+    {
+      "titre": "Pourquoi les traces de dinosaures nous fascinent-elles autant ?",
+      "date": "2026-10-28"
+    },
     {
       "titre": "Pourquoi les lycéens manifestent-ils ?",
       "date": "2026-10-21"
@@ -34,20 +46,8 @@
     {
       "titre": "Comment faire quand tout devient cher ?",
       "date": "2026-10-14"
-    },
-    {
-      "titre": "Pourquoi les pompiers sont-ils en grève ?",
-      "date": "2026-10-07"
-    },
-    {
-      "titre": "Pourquoi le pape vient-il en France ?",
-      "date": "2026-09-30"
-    },
-    {
-      "titre": "Fort Boyard : Comment protéger notre patrimoine ?",
-      "date": "2026-09-23"
     }
   ],
-  "derniere_activite": "2026-10-21",
+  "derniere_activite": "2026-11-11",
   "frequence_jours": 7
 }

@@ -25,7 +25,7 @@
     "critique"
   ],
   "addedAt": "2026-08-26",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "S08E00 - Faut-il forcément regarder les séries dans l'ordre ?",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-10-12",
-  "frequence_jours": 8
+  "frequence_jours": 8,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Shin Niko",
+        "titre": "Excellent podcast séries",
+        "texte": "J’écoute le podcast depuis ses débuts, 5 ans déjà et bientôt 100 épisodes et j’adore toujours autant les écouter partager leurs avis souvent assez tranchés aussi bien sur les séries du moment que des séries plus anciennes, voir classiques.…"
+      },
+      {
+        "note": 5,
+        "auteur": "melaniefog",
+        "titre": "Au top ! À écouter.",
+        "texte": "Je dévore tous les épisodes en peu de temps et j'adore. Les sujets sont intéressants, c'est drôle et dynamique. Je passe d'excellents moments à vous écouter.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Luttigames",
+        "titre": "Très bon podcast pour les passionnés de séries",
+        "texte": "Chaque épisode porte sur un sujet choisi, à partir duquel les intervenants échangent sur les séries qui les ont marqués... Ou pas. Les débats sur les séries sont très intéressants, et on découvre plein de nouvelles séries …"
+      }
+    ]
+  }
 }

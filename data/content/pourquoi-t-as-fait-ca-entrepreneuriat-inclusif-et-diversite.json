@@ -27,7 +27,7 @@
     "societe"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "70 - Vivre plutôt que survivre : quelle posture média pour les indépendantes ?",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-11-11",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "NLS_7",
+        "titre": "Bravo!",
+        "texte": "Ces podcast sont des véritables pépites! Une démarche louable accompagnée d'un contenu de qualité qui captive l'auditeur. Une source inestimable d'informations intéressantes. Félicitations, et que cette belle aventure perdure pour notre plus grand plaisir!"
+      },
+      {
+        "note": 5,
+        "auteur": "AdSi_001",
+        "titre": "Un podcast inclusif et accessible",
+        "texte": "On pense toujours que, seuls ceux qui ont une vie extraordinaire, méritent de la raconter. En écoutant ce podcast on se rend compte que toutes les histoires méritent d'être raconté !"
+      },
+      {
+        "note": 5,
+        "auteur": "chicochicachic",
+        "titre": "Tellement inspirant",
+        "texte": "Des parcours hors des sentiers battus. Ça fait du bien d’entendre des témoignages de personnes qui pour une fois ne sortent pas tous de grandes écoles de commerce… je valide fort 💜💜💜"
+      }
+    ]
+  }
 }

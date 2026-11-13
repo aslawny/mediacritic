@@ -26,7 +26,7 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "Décoince Ta Bulle E26 - Pauline Rolland Jean Tartine - Qui n’aimait pas",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-06-01",
-  "frequence_jours": 32
+  "frequence_jours": 32,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Kitashino",
+        "titre": "Déjà un incontournable du podcast bd!!",
+        "texte": "Aurélien reçoit des invités de tout domaine (auteurs, dessinateurs, journaliste, écrivain, simple passionnés…) pour discuter avec eux de la bd dans toute sa diversité. Il anime également des émissions spéciales sur les dessins animés accompagné d’amis et invités.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Bat-Naru-FanGirl",
+        "titre": "THE podcast sur le 9e art !",
+        "texte": "Aurélien fait un travail colossal pour assurer non seulement une productivité exceptionnelle 😌 mais surtout des épisodes de qualité dans Décoince ta Bulle ! Toujours des invités ultra intéressants, des gens passionnés. Les sujets abordés sont variés : On ne s’ennuie pas …"
+      },
+      {
+        "note": 5,
+        "auteur": "Thomas Croisière",
+        "titre": "Un podcast aussi remarquable que son parrain",
+        "texte": "Merci Aurélien de passer tout ce temps à partager une passion 🙏 Si les podcasts ont une utilité, c’est bien celle de partager, recommander, transmettre la culture, ce qui fait qu’ensemble nous sommes un peu moins cons"
+      }
+    ]
+  }
 }

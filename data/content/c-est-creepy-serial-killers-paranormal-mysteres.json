@@ -26,7 +26,7 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "#109 - La Maison trop Hantée (Thread Horreur des Abonnées #3)",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-10-06",
   "frequence_jours": 31,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-14",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Zompa92",
+        "titre": "Une petite pépite du True Crime",
+        "texte": "J’ai des attentes super précises pour un podcast de true crime. « C’est creepy » a exactement le ton que j’adore. Mystérieux, posé, avec un peu d’humour noir pour détendre l’atmosphère de temps en temps. C’est super bien dosé.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Kashaya",
+        "titre": "Bof",
+        "texte": "Ça pourrait être bien mais le niveau intellectuel est très très bas … on dirait une ado attardée sur une radio pirate"
+      },
+      {
+        "note": 5,
+        "auteur": "DP91120",
+        "titre": "Mon podcast préféré et ma podcasteuse préférée",
+        "texte": "Je fais partie des fans de Vanyll 🫶Elle a un univers bien à elle qui se traduit de manière harmonieuse dans tout ce qu’elle propose (podcast, marchandise). Je trouve son écriture excellente et quand elle traite un sujet elle le travaille réellement et se l’approprie.…"
+      }
     ]
   }
 }

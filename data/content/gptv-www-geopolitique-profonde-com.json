@@ -15,8 +15,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/gptv-www-geopolitique-profonde-com/id1841864897?uo=4",
       "trackId": 1841864897,
-      "rating": 3.9,
-      "ratingCount": 17,
+      "rating": 4.0,
+      "ratingCount": 18,
       "episodeCount": 1322
     }
   },
@@ -25,7 +25,7 @@
     "géopolitique",
     "international"
   ],
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "Les 3 révélations sur TEDDY RINER que personne n'attendait | GPTV",
@@ -49,5 +49,25 @@
     }
   ],
   "derniere_activite": "2026-11-11",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Chabadabada22",
+        "titre": "Le meilleur site d’information",
+        "texte": "J’écoute tous les jours, les émissions sont de grande qualité et les informations confirmées, contrairement à ce que dit un crétin qui a mis une seule étoile."
+      },
+      {
+        "note": 1,
+        "auteur": "Moimoi1010102",
+        "titre": "Fake news",
+        "texte": "Site complotiste qui propage des fausses nouvelles Qui devrait être interdit Le site est dramatique et le podcast est pire"
+      }
+    ]
+  }
 }

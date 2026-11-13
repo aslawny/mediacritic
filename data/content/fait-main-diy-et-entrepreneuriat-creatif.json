@@ -24,7 +24,7 @@
     "rénovation",
     "DIY"
   ],
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "#187 Fairy Factory : coudre des tissus unis",
@@ -50,25 +50,29 @@
   "derniere_activite": "2026-11-07",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-14",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "MireiaSalazar",
+        "titre": "Une pause fraîcheur",
+        "texte": "Ce podcast est un vrai moment de détente : Mélanie a le don de nous faire partager ces conversations comme si on y était, on a l’impression de déjà connaître la personne interviewée et de participer à une conversation entre ami(e)s …"
+      },
+      {
+        "note": 3,
+        "auteur": "atlanteaa",
+        "titre": "Mitigé",
+        "texte": "J’ai écouté le podcast sur maho l’illustratrice, je pensais avoir un échange sur son travail, ses inspirations, ses projets. L’épisode évoque cela certes mais j’ai surtout eu l’impression d’écouter l’intervieweuse s’autointerviewer et surtout l’échange traite (trop) d’Instagram,…"
+      },
+      {
+        "note": 5,
+        "auteur": "Vanessa Crazycattransfer",
+        "titre": "Fait Main, le Podcast qui fait du Bien !",
+        "texte": "Fait Main, c’est comme un café copines hebdomadaire, un rendez vous qu’on ne louperait pour rien au monde pour s’émerveiller, et découvrir de nouveaux horizons créatifs, des problématiques d’entrepreuneuses/mamans qui déplacent des montagnes et qui nous émeuvent avec leurs parcou…"
+      }
     ]
   }
 }

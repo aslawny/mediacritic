@@ -26,7 +26,7 @@
     "humour"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "Isabelle Morizet avec Jean-Pierre Foucault",
@@ -52,25 +52,29 @@
   "derniere_activite": "2025-07-05",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-14",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Le lecteur en herbe",
+        "titre": "Depuis mon enfance",
+        "texte": "Bonjour, isabelle; Pourriez-vous un jour, programmer votre propre interview? En effet, je pense que vous incarnez le mieux le concept qu’il n’y a pas qu’une vie dans la vie. Vous étiez dans ma jeunesse ma chanteuse préférée.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Evp33",
+        "titre": "Insupportable",
+        "texte": "Sur joue, reçois des artistes sans en être ou plutôt se fait passer pour, rien de sincère tout dans l’apparence, le paraître. Rien d’intéressant Insupportable"
+      },
+      {
+        "note": 5,
+        "auteur": "LinkDeNova",
+        "titre": "Intervieweuse sensible pour invité(e)s sensibles !",
+        "texte": "Isabelle M. a une merveilleuse façon d’interviewer ses invités. Les questions sont travaillées, adaptées et toujours formulées dans une langue riche et impeccable. Le résultat est immédiat.…"
+      }
     ]
   }
 }

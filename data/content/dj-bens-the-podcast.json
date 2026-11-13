@@ -24,7 +24,7 @@
     "culture"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "Dj Bens MIX JOUR DE L'AN 2026",
@@ -50,25 +50,29 @@
   "derniere_activite": "2025-12-12",
   "frequence_jours": 13,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-14",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tatajo29",
+        "titre": "Nice one",
+        "texte": "Ca fait plus de trois ans que je télécharge des podcasts, et je n'en ai jamais noté un.. Mais là, tu m'as fais troop plaisir, les deux podcasts sont bien mixés, super séléction, mix très propre. Tout simplement bravo.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Tom312488841569633",
+        "titre": "Merci",
+        "texte": "Passionné de musique mais allerique au Rap, j'ai découvert un monde et une culture musicale qui me donne du plaisir maintenant. DJ Généraliste anti-rap, je me suis converti et ne fais jamais un set sans deux trois touches hip-hop, alors même si ça manque de technique, ben j'écout…"
+      },
+      {
+        "note": 5,
+        "auteur": "Ama.Benj",
+        "titre": "Super Dj ❤️",
+        "texte": "Je recommande a 100% ce Dj. Il es vraiment génial. Il assure de ouff, il vraiment sympa ce laisse facilement approcher etc, allez y a une des ces soirée vous allez pas le regretter 🥰 ( Part contre S’IL VOUS PLAIT lui demander pas de JUL quand il mixe 🤣) #humourmaisvrai"
+      }
     ]
   }
 }

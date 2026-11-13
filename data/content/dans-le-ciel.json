@@ -26,7 +26,7 @@
     "espace"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "Ce qu'il ne faut pas manquer dans le ciel en novembre 2026",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-10-28",
   "frequence_jours": 30,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-14",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Podcasts Ciel & Espace Radio",
+        "titre": "Pas d'inquiétude",
+        "texte": "Ne vous inquiétez pas, l'arrêt de nos émissions n'est pas programmé. Nous souhaitons vous rappeler que la réalisation de nos podcasts repose sur un modèle de développement gratuit.…"
+      },
+      {
+        "note": 1,
+        "auteur": "cinetose",
+        "titre": "Et alors??????????",
+        "texte": "Armstrong est mort et cela ne déclenche pas d'émission spéciale???"
+      },
+      {
+        "note": 5,
+        "auteur": "Arnaud_V",
+        "titre": "Toujours du bon, du tres, tres bon !",
+        "texte": "Avis au amateur, aux passionnés ou tout juste aux curieux ! Qui plus est, même aux hasard, les passionnantes histoires, la tête pêrché dans les etoiles et aux autres aventures de nos astres cosmiques. Vous n'en louperez pas une quand à la nouveauté Astronomique.…"
+      }
     ]
   }
 }

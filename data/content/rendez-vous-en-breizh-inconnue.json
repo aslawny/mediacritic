@@ -27,7 +27,7 @@
     "societe"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "Avec Nadia Roz sur la presqu'île de Quiberon",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2022-10-20",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tipaïne",
+        "titre": "A quand les prochains",
+        "texte": "Super podcast j’adore !!! On a envie de continuer l’aventure bretonne avec toi. A quand les prochaines visites ?"
+      },
+      {
+        "note": 5,
+        "auteur": "Cindhouse",
+        "titre": "Ça sent bon les embruns breton",
+        "texte": "Un super podcast où on se laisse porter! On y est et on adore! A quand la suite??!!"
+      },
+      {
+        "note": 5,
+        "auteur": "KuhnMaine",
+        "titre": "J’ai faim",
+        "texte": "C’était vraiment super et maintenant j’ai envie de manger des huîtres plates !"
+      }
+    ]
+  }
 }

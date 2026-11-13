@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/le-droit-au-bien-%C3%AAtre/id6829795245?uo=2",
       "trackId": 6829795245,
       "rating": 5.0,
-      "ratingCount": 12,
+      "ratingCount": 18,
       "episodeCount": null
     }
   },
@@ -25,12 +25,32 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-05",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "« Se déculpabiliser de prendre soin de soi » avec Blandine Lehout",
       "date": "2026-11-02"
     }
   ],
-  "derniere_activite": "2026-11-02"
+  "derniere_activite": "2026-11-02",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Claire45240",
+        "titre": "J adore",
+        "texte": "Une Laury avec une Blandine … J adore … simple et efficace, qui me rappelle aussi que je suis ma priorité … Merci de tout cœur"
+      },
+      {
+        "note": 5,
+        "auteur": "ValMusic94",
+        "titre": "Merci !",
+        "texte": "Parfait timing pour entendre ce mantra !!! 1000 mercis pour cette bienveillance et cette inspiration."
+      }
+    ]
+  }
 }

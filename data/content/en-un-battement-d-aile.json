@@ -26,7 +26,7 @@
     "societe"
   ],
   "addedAt": "2026-06-09",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "59. Énergie citoyenne : comment des habitants s’engagent dans le solaire à Lyon",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-11-04",
-  "frequence_jours": 8
+  "frequence_jours": 8,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "AyaDeYop",
+        "titre": "Merci !",
+        "texte": "Merci Florence pour cet épisode sur l’écologie en quartier populaire. Cela m’ouvre des pistes sur les moyens et les postures à imaginer pour faire avec les habitants. Merci de mettre en lumière ces initiatives intelligentes parce que pensées et construites avec les usagers."
+      },
+      {
+        "note": 5,
+        "auteur": "Martine du Mourillon",
+        "titre": "Le journaliste dans une société qui ne s’écoute pas",
+        "texte": "Cet épisode avec Nina Fasciaux était très intéressant et ouvre plein de perspectives sur le journalisme. Bravo et merci."
+      },
+      {
+        "note": 5,
+        "auteur": "Mark TheSpark",
+        "titre": "Podcasts",
+        "texte": "Hello podcasts toujours intéressants et souvent avec des sujets originaux c’est très bien"
+      }
+    ]
+  }
 }

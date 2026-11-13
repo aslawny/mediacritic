@@ -26,7 +26,7 @@
     "histoire"
   ],
   "addedAt": "2026-07-03",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "Hélène Bourbouloux : « Il faut rester libre et ne pas faire de compromis sur l’éthique »",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-02-06",
   "frequence_jours": 28,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-14",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Olbourbon",
+        "titre": "Envie d’en savoir plus",
+        "texte": "Un grand merci pour ce partage tout à fait inspirant. Je vous invite à faire s’exprimer les invités sur leur aventure entrepreneuriale au moment même : quels échecs ou difficultés ont-elles rencontrées ? Quelles solutions ont-elles trouvées / déployées …"
+      },
+      {
+        "note": 3,
+        "auteur": "isa9c",
+        "titre": "Trop court",
+        "texte": "Invitées au top mais un peu court pour rentrer dans le fond des choses on reste sur sa faim"
+      },
+      {
+        "note": 5,
+        "auteur": "Anne soiz",
+        "titre": "Le podcast qui donne des ailes 💪🏻💪🏻",
+        "texte": "Regards croisés de 2 generations de femmes entrepreneures qui un jour ont osé, osent toujours et deviennent Grandes!!! À partager sans modération parce que OUI les femmes entrepreneurEs existent et réussissent …"
+      }
     ]
   }
 }

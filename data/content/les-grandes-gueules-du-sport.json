@@ -25,7 +25,7 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "L'intégrale des Grandes Gueules du Sport du dimanche 8 novembre 2026",
@@ -51,25 +51,29 @@
   "derniere_activite": "2026-11-08",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-14",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": ".Enzo.1",
+        "titre": "Au top!",
+        "texte": "Quelle excellente émission, des GG toutes plus interessantes les unes que les autres. Merci à JC Drouet, tu vas nous manquer dans les GG bien que Georges a pris la relève de la présentation de l’émission de la meilleure des manières.…"
+      },
+      {
+        "note": 1,
+        "auteur": "pitczirn",
+        "titre": "Char et",
+        "texte": "Charvet il est débile profond ? Inculte ou tout simplement incompétent ?"
+      },
+      {
+        "note": 5,
+        "auteur": "Dams.D",
+        "titre": "👌👍",
+        "texte": "Émission bien sympathique avec pas mal d'info et d'humour Avec des GG qui mâchent pas leurs mots. De bonnes analyses, des sujets et débat sportif d'actualité, bien mené par un JC Drouet très drôle, qui tient bien la barque"
+      }
     ]
   }
 }

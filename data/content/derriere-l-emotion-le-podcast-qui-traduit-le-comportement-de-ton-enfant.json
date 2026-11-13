@@ -25,27 +25,31 @@
     "parentalite"
   ],
   "addedAt": "2026-10-14",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-14",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Julie Rose Chatel",
+        "titre": "Une belle rencontre",
+        "texte": "Merci pour tous ces podcasts qui sont très agréables à écouter et une mine de ressources. Ils me permettent de trouver ma voie dans ma parentalité et d’être en accord avec mes valeurs et bien dans ma parentalité.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Kiri95",
+        "titre": "😳😳😳",
+        "texte": "Un enfant soumis à l’autorité parentale sera un adulte soumis 😮‍💨 C’est ce qui explique que tant de femmes battues restent 🤨🤨🤨"
+      },
+      {
+        "note": 5,
+        "auteur": "BabyAsleep",
+        "titre": "Une pépite ce podcast pour les parents",
+        "texte": "Ma belle-Soeur m’a partagé ce podcast, car elle sait que comme elle, je suis dans une approche bienveillante avec mon fils concernant son éducation et notre relation. J’ai dévoré les épisodes les uns après les autres …"
+      }
     ]
   },
   "episodes_recents": [

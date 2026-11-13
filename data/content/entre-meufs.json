@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/entre-meufs/id1794331899?uo=2",
       "trackId": 1794331899,
       "rating": 4.3,
-      "ratingCount": 371,
+      "ratingCount": 372,
       "episodeCount": null
     }
   },
@@ -25,7 +25,7 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
       "titre": "Sexe, Fails & Sans Tabou",
@@ -51,25 +51,29 @@
   "derniere_activite": "2026-11-02",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-14",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-13",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "jajanin",
+        "titre": "Drôle !",
+        "texte": "Je vous écoute depuis quasiment le début ! J’aime la légèreté avec la qu’elle vous abordez les sujets. Bien que parfois on sens que vous faites partie d’un milieu assez privilégié ce qui créer un peu un décalage avec certains de vos auditeurs.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Lush Kervern",
+        "titre": "Top mais le micro c’est hard 🎤",
+        "texte": "Génial mais pourquoi vous ne faites rien pour le micro ? 🫶🏻🎤"
+      },
+      {
+        "note": 5,
+        "auteur": "Nell 🧸☀️",
+        "titre": "Du love 🌺",
+        "texte": "J’ai découvert le podcast sur insta, et c’est vous qui m’avez initié aux podcasts, ça me donne en projet d’en faire et c’est vraiment génial, j’adore d’avoir pleins d’anecdotes, d’avoir l’impression d’être dans une discussion entre copines c’est incroyable.…"
+      }
     ]
   }
 }

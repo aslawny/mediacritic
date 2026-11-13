@@ -25,10 +25,18 @@
     "culture"
   ],
   "addedAt": "2026-10-02",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
-      "titre": "Vibrer Sous La Loupe",
+      "titre": "La Naissance d’un Bijou",
+      "date": "2026-11-05"
+    },
+    {
+      "titre": "Le Diamant à l'état brut",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Vibrer sous la Loupe",
       "date": "2026-10-01"
     },
     {
@@ -36,5 +44,6 @@
       "date": "2026-09-30"
     }
   ],
-  "derniere_activite": "2026-10-01"
+  "derniere_activite": "2026-11-05",
+  "frequence_jours": 14
 }

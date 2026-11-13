@@ -25,8 +25,12 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
+    {
+      "titre": "Voir l'intelligence des enfants avec Olivier Houdé",
+      "date": "2026-10-23"
+    },
     {
       "titre": "De la physique quantique à l'Académie française - avec Alain Aspect, Prix Nobel de physique",
       "date": "2026-06-11"
@@ -42,12 +46,8 @@
     {
       "titre": "Comprendre les civilisations par les langues avec Jean-Noël Robert",
       "date": "2026-03-31"
-    },
-    {
-      "titre": "Se souvenir de la Chine maoïste avec Marianne Bastid-Bruguière",
-      "date": "2026-01-09"
     }
   ],
-  "derniere_activite": "2026-06-11",
-  "frequence_jours": 35
+  "derniere_activite": "2026-10-23",
+  "frequence_jours": 42
 }

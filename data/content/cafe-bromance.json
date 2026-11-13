@@ -24,8 +24,12 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-13",
   "episodes_recents": [
+    {
+      "titre": "Es-tu plutôt ville ou campagne ?",
+      "date": "2026-11-02"
+    },
     {
       "titre": "C'est quoi ton rapport aux plantes ?",
       "date": "2026-07-21"
@@ -41,12 +45,8 @@
     {
       "titre": "Le test des amoureux pt.1",
       "date": "2026-04-14"
-    },
-    {
-      "titre": "C'est quoi l'émission télé de ton enfance?",
-      "date": "2026-03-30"
     }
   ],
-  "derniere_activite": "2026-07-21",
+  "derniere_activite": "2026-11-02",
   "frequence_jours": 22
 }
