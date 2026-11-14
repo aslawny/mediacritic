@@ -1,6 +1,71 @@
 {
  "historique": [
   {
+   "date": "2026-11-14",
+   "mode": "actu",
+   "slug": "rothen-s-enflamme",
+   "titre": "Rothen s'enflamme",
+   "type": "podcast",
+   "auteur": "RMC",
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/18/9e/3f/189e3f77-beea-76e7-11bf-a9d2ee12d23a/mza_4738811903579805547.jpg/170x170bb.png",
+   "independant": false,
+   "mcNote": null,
+   "sujet": "Mauricio Pochettino",
+   "source": "wikipedia",
+   "episode": {
+    "titre": "LÉGENDE OU PAS LÉGENDE : MAURICIO POCHETTINO",
+    "date": "2026-11-13",
+    "url": "https://rmc.bfmtv.com/mediaplayer/podcast/rothen-s-enflamme/"
+   },
+   "pourquoi": "« Mauricio Pochettino » fait l'actu : Rothen s'enflamme y a consacré son épisode « LÉGENDE OU PAS LÉGENDE : MAURICIO POCHETTINO », publié le 13 novembre.",
+   "presentation": "« Rothen s’enflamme », le rendez-vous qui vous plonge dans un vestiaire de foot. Tous les soirs, des anciens joueurs professionnels analysent et débattent autour de l’actualité du foot.",
+   "sections": [
+    [
+     "L'actu qui a fait le buzz",
+     "« Mauricio Pochettino » a été l'un des sujets les plus lus de Wikipédia hier (8 773 lectures). À la une : « Mauricio Pochettino Manchester United prend ses fonctions » (Sud Radio)."
+    ],
+    [
+     "L'émission",
+     "Rothen s'enflamme — podcast de RMC. « Rothen s’enflamme », le rendez-vous qui vous plonge dans un vestiaire de foot. Tous les soirs, des anciens joueurs professionnels analysent et débattent autour de l’actualité du foot."
+    ],
+    [
+     "Pourquoi l'écouter",
+     "Pour prolonger l'actu : dans son épisode « LÉGENDE OU PAS LÉGENDE : MAURICIO POCHETTINO », publié le 13 novembre, Rothen s'enflamme revient justement sur « Mauricio Pochettino ». Une émission notée 3,6/5 sur Apple Podcasts (456 notes)."
+    ]
+   ],
+   "reseaux": {
+    "instagram": [
+     {
+      "compte": "rmc_sport",
+      "url": "https://www.instagram.com/rmc_sport/",
+      "source": "site officiel"
+     }
+    ],
+    "x": [
+     {
+      "compte": "RMCsport",
+      "url": "https://x.com/RMCsport",
+      "source": "site officiel"
+     }
+    ],
+    "facebook": [
+     {
+      "compte": "rmcsport",
+      "url": "https://www.facebook.com/rmcsport",
+      "source": "site officiel"
+     }
+    ],
+    "twitch": [
+     {
+      "compte": "rmcsport",
+      "url": "https://www.twitch.tv/rmcsport",
+      "source": "site officiel"
+     }
+    ]
+   },
+   "thematique": "sport"
+  },
+  {
    "date": "2026-11-13",
    "mode": "actu",
    "slug": "so-foot-arena",
