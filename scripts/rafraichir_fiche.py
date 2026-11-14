@@ -127,16 +127,24 @@ def rafraichir(slug, ecrire=True):
             poser(yt, champ, val)
 
     eps, derniere, freq = None, None, None
-    try:
-        if d.get("type") == "youtube" and cid:
-            eps, derniere, freq = episodes_youtube(cid)
-        else:
-            feeds_p = DATA / "_feed_urls.json"
-            feeds = json.loads(feeds_p.read_text(encoding="utf-8")) if feeds_p.exists() else {}
-            if feeds.get(slug):
-                eps, derniere, freq = episodes_podcast(feeds[slug])
-    except Exception as e:
-        print(f"  ! épisodes de {slug} : {e}")
+    # Podcast ET chaine (L'Esprit Critique : podcast arrete en 2024, Shorts
+    # chaque semaine) : on garde la source la plus recente (14/11/2026).
+    sources = []
+    if cid:
+        sources.append(("youtube", lambda: episodes_youtube(cid)))
+    if d.get("type") != "youtube":
+        feeds_p = DATA / "_feed_urls.json"
+        feeds = json.loads(feeds_p.read_text(encoding="utf-8")) if feeds_p.exists() else {}
+        if feeds.get(slug):
+            sources.append(("podcast", lambda: episodes_podcast(feeds[slug])))
+    for nom, lire in sources:
+        try:
+            r = lire()
+        except Exception as e:
+            print(f"  ! épisodes {nom} de {slug} : {e}")
+            continue
+        if r and r[0] and (r[1] or "") > (derniere or ""):
+            eps, derniere, freq = r
     if eps:
         poser(d, "episodes_recents", eps, "episodes")
         poser(d, "derniere_activite", derniere)

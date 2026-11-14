@@ -519,6 +519,24 @@ def bloc_episodes(data):
             % (intro, liste))
 
 
+def bloc_presse(data):
+    """Articles publies SUR l'emission (champ `presse`, saisi a la main) :
+    source nommee et liee, date, et un resume NEUTRE ecrit par nous -- jamais
+    le texte de l'article. Une critique s'accompagne de la reponse de
+    l'interesse quand l'article la publie. Ajoute le 14/11/2026."""
+    articles = data.get("presse") or []
+    if not articles:
+        return ""
+    items = "".join(
+        '<li class="av-item"><div class="av-tete"><span class="av-titre">'
+        '<a href="%s" rel="noopener" target="_blank">%s</a></span>'
+        '<span class="av-auteur">— %s, %s</span></div><p class="av-texte">%s</p></li>'
+        % (h(a["url"]), h(a["titre"]), h(a["source"]), h(a["date"]), h(a["resume"]))
+        for a in articles)
+    return ('  <div class="card"><h2>Ce qu\'en dit la presse</h2>'
+            '<ul class="av-liste">%s</ul></div>' % items)
+
+
 def bloc_avis(data):
     """Ce qu'en pense le public : avis REELS, cites et attribues.
 
@@ -665,6 +683,8 @@ def render_fiche(data):
     # Porte son propre saut de ligne : vide, il ne doit rien laisser.
     _avis = bloc_avis(data)
     _avis = _avis + chr(10) if _avis else ""
+    _presse = bloc_presse(data)
+    _avis = _avis + (_presse + chr(10) if _presse else "")
     _d = data.get("description") or ""
     description = _d.replace(chr(13) + chr(10), chr(10)).replace(chr(13), chr(10))
     image = data.get("image")
@@ -846,10 +866,21 @@ def render_fiche(data):
             f'<div class="stat-item"><span class="stat-val">{platforms["youtube"]["videoCount"]}</span>'
             f'<span class="stat-lbl">vidéos</span></div>'
         )
-    if rating_count:
+    if platforms.get("youtube", {}).get("subscribers"):
+        # Une fiche podcast peut avoir sa chaine (L'Esprit Critique) : sans
+        # cette case, ses abonnes n'apparaissaient nulle part (14/11/2026).
+        n = int(platforms["youtube"]["subscribers"])
+        val = (f"{n / 1e6:.1f}".replace(".", ",").replace(",0", "") + " M" if n >= 1e6
+               else f"{round(n / 1000)} k" if n >= 1000 else str(n))
         stats_items.append(
-            f'<div class="stat-item"><span class="stat-val">{rating_count:,}</span>'
-            f'<span class="stat-lbl">notes</span></div>'
+            f'<div class="stat-item"><span class="stat-val">{val}</span>'
+            f'<span class="stat-lbl">abonnés YouTube</span></div>'
+        )
+    if rating_count:
+        # Format francais (« 1 472 », pas « 1,472 »), 14/11/2026.
+        stats_items.append(
+            f'<div class="stat-item"><span class="stat-val">{rating_count:,}</span>'.replace(",", "\u00a0")
+            + '<span class="stat-lbl">notes</span></div>'
         )
     stats_html = ""
     if stats_items:

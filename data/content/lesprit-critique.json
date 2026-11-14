@@ -9,7 +9,7 @@
     "education",
     "cours"
   ],
-  "description": "Critique et analyse du podcast L&#39;Esprit Critique par MediaCritic. Épisode 2 — pensée rationnelle et scepticisme.",
+  "description": "L'esprit critique, d'Alexis Bellas et Nathan Aubineau, décortique le discours politique et médiatique pour « muscler notre esprit critique ». Né en podcast, le projet vit désormais surtout en vidéos courtes sur YouTube, Instagram et TikTok. Leur devise, empruntée à Kant : « Sapere aude ! », ose te servir de ton propre entendement.",
   "image": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f750659b65ecaa9814f44a09e",
   "language": "fr",
   "platforms": {
@@ -17,8 +17,15 @@
       "url": "https://podcasts.apple.com/fr/podcast/lesprit-critique-le-podcast/id1695160584?uo=4",
       "trackId": 1695160584,
       "rating": 4.8,
-      "ratingCount": 1470,
+      "ratingCount": 1472,
       "episodeCount": 7
+    },
+    "youtube": {
+      "url": "https://www.youtube.com/@lespritcritique",
+      "channelId": "UCxSeJKYcO_4G_VrOlFykbSA",
+      "subscribers": 723000,
+      "totalViews": 122644832,
+      "videoCount": 252
     }
   },
   "mediacritic": {
@@ -33,26 +40,42 @@
   "updatedAt": "2026-11-14",
   "episodes_recents": [
     {
-      "titre": "Le savoir, Jordan Bardella et la laïcité",
-      "date": "2024-02-09"
+      "titre": "S5E09 - Le doute",
+      "date": "2026-11-13"
     },
     {
-      "titre": "Le sophisme de l'homme de paille",
-      "date": "2023-12-28"
+      "titre": "S5E08 - Le paradoxe de la tolérance",
+      "date": "2026-11-06"
     },
     {
-      "titre": "Aller à l'essentiel",
-      "date": "2023-11-10"
+      "titre": "Prendre position",
+      "date": "2026-10-30"
     },
     {
-      "titre": "Le choix des mots en politique",
-      "date": "2023-10-10"
+      "titre": "S5E07 - La violence",
+      "date": "2026-10-23"
     },
     {
-      "titre": "Reconnaître un faux dilemme",
-      "date": "2023-09-04"
+      "titre": "S5E06 - Les lycéens",
+      "date": "2026-10-16"
     }
   ],
-  "derniere_activite": "2024-02-09",
-  "frequence_jours": 38
+  "derniere_activite": "2026-11-13",
+  "frequence_jours": 7,
+  "presse": [
+    {
+      "source": "Les Gens d'Internet",
+      "date": "6 janvier 2025",
+      "titre": "Près de 2 millions d'euros récoltés pour le projet Cogito, de la chaîne YouTube L'esprit Critique",
+      "url": "https://gensdinternet.fr/2025/01/06/pres-de-2-millions-deuros-recoltes-pour-le-projet-cogito-de-la-chaine-youtube-lesprit-critique/",
+      "resume": "La campagne de financement participatif de Cogito, un parcours de formation à l'esprit critique en trois niveaux porté par la chaîne, se clôt à 1 858 259 € pour un objectif de 50 000 €, avec 24 646 contributions."
+    },
+    {
+      "source": "Stup Média",
+      "date": "9 juin 2025",
+      "titre": "1 800 000 € pour mieux penser : L'Esprit Critique à l'épreuve de ses ambiguïtés",
+      "url": "https://stup.media/1-800-000-e-pour-mieux-penser-lesprit-critique-a-lepreuve-de-ses-ambiguites/",
+      "resume": "Enquête critique : le média interroge la lisibilité de la ligne politique de la chaîne, ses références et son modèle économique, et relève que les promesses de Cogito ont été revues. Alexis Bellas a décliné les questions détaillées ; sa réponse, publiée dans l'article, conteste la méthode des journalistes."
+    }
+  ]
 }

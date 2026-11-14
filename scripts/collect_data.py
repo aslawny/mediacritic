@@ -55,7 +55,7 @@ BLOCKLIST = load_blocklist()
 # --- Episodes MediaCritic -----------------------------------------------------
 MEDIACRITIC_EPISODES = [
     {"ep": 1,  "slug": "la-5e-de-couv",             "title": "La 5e de Couv'",            "type": "podcast", "categories": ["livres","culture"],            "itunes_id": None, "spotify_show": None,                      "youtube": None},
-    {"ep": 2,  "slug": "lesprit-critique",           "title": "L'Esprit Critique",         "type": "podcast", "categories": ["sciences","societe"],          "itunes_id": None, "spotify_show": None,                      "youtube": None},
+    {"ep": 2,  "slug": "lesprit-critique",           "title": "L'Esprit Critique",         "type": "podcast", "categories": ["sciences","societe"],          "itunes_id": None, "spotify_show": None,                      "youtube": "@lespritcritique"},
     {"ep": 3,  "slug": "hardisk-stories",            "title": "Hardisk Stories",            "type": "podcast", "categories": ["tech","geek"],                 "itunes_id": None, "spotify_show": None,                      "youtube": None},
     {"ep": 4,  "slug": "le-podcast-du-weekend",      "title": "Le Podcast du Weekend",      "type": "podcast", "categories": ["culture","actualite"],         "itunes_id": None, "spotify_show": None,                      "youtube": None},
     {"ep": 5,  "slug": "braincast",                  "title": "BrainCast",                  "type": "podcast", "categories": ["sciences","vulgarisation"],    "itunes_id": None, "spotify_show": None,                      "youtube": None},
