@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2025-05-20",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "beli D",
+        "titre": "Changez votre approche et décuplez vos ventes !",
+        "texte": "Ce podcast est une pépite et change le rapport et la vision de l’agent immobilier avec son métier. Vendre naturellement en plaçant son client au cœur de ses préoccupations. Apporter des conseils personnalisés pour construire une relation durable."
+      },
+      {
+        "note": 5,
+        "auteur": "Bambinuche",
+        "titre": "Très intéressant",
+        "texte": "J’ai adoré l’immobilier en qualité de syndic mais surtout en gérance avec la liaison entre le propriétaire et le locataire deux univers différents à bien appréhender aussi. J’ai hâte d’entendre la suite bravo en tt cas Anne"
+      },
+      {
+        "note": 5,
+        "auteur": "Amale Cosma",
+        "titre": "Encore un superbe épisode",
+        "texte": "Bravo à l’hôte de ce podcast qui donne beaucoup de contenu. J’ai particulièrement aimé l’épisode avec Aurore Diezma! Plein d’info utiles pour moi, c’est très concret et accessible!"
+      }
+    ]
+  }
 }

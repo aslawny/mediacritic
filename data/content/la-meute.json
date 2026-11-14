@@ -53,25 +53,29 @@
   "derniere_activite": "2025-02-05",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-15",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Maisnontudates!!!",
+        "titre": "J’adore !!!!",
+        "texte": "Hey!! N’ayant pas de chien mais les aimant quand même j’ai bingewatché votre chaîne YouTube (même les vidéos les plus vieilles et oui!! Et j’ai vu des choses que je ne peux effacer de ma mémoire…).…"
+      },
+      {
+        "note": 1,
+        "auteur": "macafranck",
+        "titre": "Trop de grossièretés, dommage",
+        "texte": "L’émission part d’une bonne idée, mais elle se détourne de plus en plus vers la grossièreté en s’éloignant du monde du chien… L’équipe d’Esprit Dog est en train de se fourvoyer, et c’est vraiment dommage."
+      },
+      {
+        "note": 5,
+        "auteur": "Sylvie HL",
+        "titre": "Molly la pie",
+        "texte": "Cette triste histoire à plusieurs, voire beaucoup d’identiques en France des animaux sont retirés à leur « famille », « soigneurs »,… car les conditions ne sont pas légales mais sans tenir compte de leur adaptation à leur nouvelle vie et souvent meurent en « détention » de chagri…"
+      }
     ]
   }
 }

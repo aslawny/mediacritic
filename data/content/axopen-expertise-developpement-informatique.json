@@ -52,25 +52,29 @@
   "derniere_activite": "2026-10-06",
   "frequence_jours": 15,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-15",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Emmanuel REMY",
+        "titre": "Toujours aussi remuant",
+        "texte": "Les épisodes s’enchaînent et toujours autant de plaisir à les écouter. Ils pourraient être un peu plus long. ce serait cool. Le contenu est varié, sans filtre, et vraiment pertinent.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Pierrot5678",
+        "titre": "Bravo",
+        "texte": "Un grand bravo pour la façon dont l’univers de la tech et des devs est rendu accessible à travers les questions posées et les intervenants. Ça sort des podcasts ou c’est la course aux terminologies complètement incompréhensibles à ceux qui se lancent."
+      },
+      {
+        "note": 5,
+        "auteur": "StefaniNotta",
+        "titre": "Très intéressant !",
+        "texte": "Un podcast super ! De vrais retours d’expériences d’experts et de développeurs , des explications simples et pointues à la fois, des avis francs... bref, je m’abonne :) Continuez c’est vraiment chouette !"
+      }
     ]
   }
 }

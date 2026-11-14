@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-11-06",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "PiCM333",
+        "titre": "Les expériences…",
+        "texte": "Les podcasts ont été un chemin d’espoir… des autres personnes ont vécu des choses pire que moi et se sont reconstruit après la séparation et voilà que l’inspiration est arrivée à ma vie! Merci!!!"
+      },
+      {
+        "note": 5,
+        "auteur": "Emm@-A",
+        "titre": "Inspirant !",
+        "texte": "Merci Vanessa pour ce podcast qui permet de retrouver une respiration, un espoir, de s’inspirer et d’imaginer enfin une nouvelle vie."
+      },
+      {
+        "note": 5,
+        "auteur": "Maëve B",
+        "titre": "Génialissime !",
+        "texte": "Un podcast inspirant, des invités exceptionnels et une hôtesse de qualité. J’adore !"
+      }
+    ]
+  }
 }

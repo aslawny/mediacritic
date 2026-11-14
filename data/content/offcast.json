@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2021-03-18",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Gael Aymard",
+        "titre": "Enfin derrière des micros 🎤",
+        "texte": "Merci pour l’initiative de la team ! Quel plaisir de comprendre qui se cache derrière les voix qui questionnent toutes les semaines toutes ces personnes inspirantes et talentueuses.…"
+      },
+      {
+        "note": 5,
+        "auteur": "laetlondon",
+        "titre": "Enfin!",
+        "texte": "Enfin l’on découvre l’envers du décor podcastique ! Pour moi, le host est la vraie star du podcast alors un grand bravo pour ce coup de projecteur très pro, qui respecte les limites et ne tombe dans aucun des travers de l’interview podcast. Très belle continuation !"
+      },
+      {
+        "note": 5,
+        "auteur": "Marie Cécile Esperluette",
+        "titre": "Mieux connaître le monde du podcast",
+        "texte": "Toujours intéressant de comprendre ce qui se cache derrière une tendance. Ici on parle podcast avec des créateurs.trices de podcasts qui expliquent comment ils.elles fonctionnent. Chaque podcast a son histoire et elle est racontée ici."
+      }
+    ]
+  }
 }

@@ -49,25 +49,23 @@
   "derniere_activite": "2026-11-06",
   "frequence_jours": 28,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-15",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Zablie",
+        "titre": "Très bon podcast",
+        "texte": "Undercut est un très bon podcast complet et avec des contenus intéressants."
+      },
+      {
+        "note": 5,
+        "auteur": "F’el’god’fld",
+        "titre": "Très bon podcast",
+        "texte": "Podcast très intéressant et très très bien expliqué j’ai adoré 😀😀👍"
+      }
     ]
   }
 }

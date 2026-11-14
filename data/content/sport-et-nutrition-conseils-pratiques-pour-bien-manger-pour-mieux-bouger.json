@@ -29,25 +29,29 @@
   "addedAt": "2026-08-05",
   "updatedAt": "2026-11-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-15",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "CAMILLE6266",
+        "titre": "Nutrition sportive",
+        "texte": "Super intéressant, plein de sujets abordés. Je ne fais pas de course à pied, mais de la muscu et du krav maga et bien sûr la nutrition m'intéresse énormément.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Le Hic",
+        "titre": "Arrêtez avec ces EXTRAITS",
+        "texte": "Tous les podcasts font ça maintenant c’est PÉNIBLE, vous y avez sûrement un intérêt pour le référencement mais vous cassez les pieds de vos auditeurs à spammer avec du contenu inutile."
+      },
+      {
+        "note": 5,
+        "auteur": "sined54",
+        "titre": "Très pertinent et accessible",
+        "texte": "Je viens d’écouter le podcast sur les boissons d’effort et les solutions faites maison. J’ai apprécié le ton et le contenu qui se veut accessible et sans prise de risque.…"
+      }
     ]
   },
   "episodes_recents": [

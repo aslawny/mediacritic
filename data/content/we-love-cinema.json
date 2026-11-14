@@ -49,5 +49,25 @@
     }
   ],
   "derniere_activite": "2024-05-09",
-  "frequence_jours": 27
+  "frequence_jours": 27,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Manab7",
+        "titre": "J’aime beaucoup",
+        "texte": "Ce podcast est intéressant car il donne la parole a ceux que l’on entend pas ailleurs. Quel plaisir de decouvrir les metiers du cinema backstage. Bonne idee !"
+      },
+      {
+        "note": 5,
+        "auteur": "djam0",
+        "titre": "Bravo",
+        "texte": "J’ai bien aimé ce 1er episode. L’interview de Géraldine Nakache était vraiment sympa à écouter . Ça change des interviews promo des acteurs à la Tv"
+      }
+    ]
+  }
 }

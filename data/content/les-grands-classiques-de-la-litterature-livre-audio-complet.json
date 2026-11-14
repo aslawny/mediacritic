@@ -52,25 +52,29 @@
   "derniere_activite": "2026-11-10",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-15",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "sergineH",
+        "titre": "Une bonne façon de lire les classiques",
+        "texte": "Quand on a pas le temps de se poser avec un livre. La fiction « IA » n’est pas un problème"
+      },
+      {
+        "note": 2,
+        "auteur": "Lub84",
+        "titre": "Thérèse raquin",
+        "texte": "L utilisation de l’I A rend l’écoute pénible , quel dommage !"
+      },
+      {
+        "note": 4,
+        "auteur": "calosonido",
+        "titre": "En cas d’stupidité naturelle faible laissez en filer deux ou trois.",
+        "texte": "À cause de la IA le somnifères de tout genre seront bien tôt sans travaille !"
+      }
     ]
   }
 }

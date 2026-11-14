@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-06-01",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "clementineCC",
+        "titre": "Comment l'opéra va bien au-delà de la musique",
+        "texte": "Opéra mon amour mon nouveau rendez vous podcast ! Mention particulière au dernier épisode avec Caroline MacPhie… Une discussion inspirante sur la croissance personnelle et le travail d'équipe. Merci Charlotte Goupille-Lebret pour ce beau podcast !"
+      },
+      {
+        "note": 5,
+        "auteur": "Julvorecette",
+        "titre": "Tellement hâte",
+        "texte": "Super podcast, rythmé par la musique qui nous transporte très vite dans l’univers de l’opéra. Tellement hâte d’écouter la suite et de tomber amoureuse ♥️"
+      },
+      {
+        "note": 5,
+        "auteur": "Davidopera",
+        "titre": "Passionnément!",
+        "texte": "Qu’on soit passionné d’opéra ou qu’on n’y connaisse rien, ce super podcast permet de partager l’essentiel: l’émotion! Merci et bravo À Charlotte"
+      }
+    ]
+  }
 }

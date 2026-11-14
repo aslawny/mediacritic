@@ -51,25 +51,29 @@
   "derniere_activite": "2026-06-11",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-15",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Manuela_obz",
+        "titre": "Une incroyable découverte qui tombe au bon moment ❤️",
+        "texte": "Merci Cerise pour ta douceur, ta vision de vie et ce partage ! En plein développement personnel pour avoir la vie de rêve tes mots m’aident tellement et renforce mon coaching et mes motivations.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Alexandra_Dgy",
+        "titre": "Une si belle rencontre",
+        "texte": "Après une rencontre express lors d’un bel événement, ravie de pouvoir en apprendre plus via ce contenu inspirant, spontané et frais ! De beaux moments où on entre dans le cerveau d’une femme qui sait où elle va et ce qu’elle veut, qui propose des visions de tout et rien en déculp…"
+      },
+      {
+        "note": 5,
+        "auteur": "Myriam (C)",
+        "titre": "Un bonheur à écouter",
+        "texte": "Cerise, avec son agréable voix, nous fait passer des messages qui nous aide à nous élever au delà de ce que l’on est déjà. Le partage d’expérience qu’elle nous donne est rare et ça ne s’arrête pas là, il y a toute la réflexion qui en découle : c’est humain, c’est pertinent , c’es…"
+      }
     ]
   }
 }

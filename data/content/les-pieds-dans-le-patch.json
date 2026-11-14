@@ -51,25 +51,29 @@
   "derniere_activite": "2018-04-06",
   "frequence_jours": 27,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-15",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Momiok",
+        "titre": "Excellent",
+        "texte": "Emission intéressante par une équipe sympa, jeune et critique. Je n’ai raté aucun épisode jusqu’ici. Continuez comme ça et merci pour votre site internet, Audiofanzine c’est la bible de la musique, j’y ai appris tellement de choses, acheté et vendu tellement de matos et rencontré…"
+      },
+      {
+        "note": 5,
+        "auteur": "Et la lumiere fut",
+        "titre": "Vive les pieds dans le patch !!",
+        "texte": "Podcast audio tip-top ! Nos deux compères ont l'air moins c** qu'ils en ont l'air..^^ : On apprend plein de choses avec les invités, les thématiques etc... Bonne ambiance sur le \"plateau\". bref, je suis accro."
+      },
+      {
+        "note": 5,
+        "auteur": "BamBoom38",
+        "titre": "🤘LE podcast des Musiciens",
+        "texte": "Des invités, des essais de matos, des idées, de l’inspiration. Un podcast dont je ne manque aucun numéro. Encore mieux en direct, où l’on peut interagir avec l’équipe, on demeurant super sympa. Yes !"
+      }
     ]
   }
 }

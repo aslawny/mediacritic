@@ -45,5 +45,25 @@
     }
   ],
   "derniere_activite": "2020-02-13",
-  "frequence_jours": 16
+  "frequence_jours": 16,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Benjam_préjent",
+        "titre": "Encore !",
+        "texte": "Très agréable à écouter, joli montage, chouettes ces petits riens qui font tout, invités de qualité et beaucoup de pédagogie. A faire tourner à tous les techno curieux (et presque encore plus à ceux qui le sont moins !)"
+      },
+      {
+        "note": 5,
+        "auteur": "Sonia2208",
+        "titre": "Passionnant et très clair !",
+        "texte": "On apprend toujours plein de choses que l’on s’y connaisse ou pas en nouvelles technologies...!"
+      }
+    ]
+  }
 }

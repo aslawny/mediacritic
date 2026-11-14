@@ -53,25 +53,29 @@
   "derniere_activite": "2026-07-30",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-15",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Nas2045",
+        "titre": "Master class",
+        "texte": "Frédérick nous régale à chaque émission: on apprend , on partage , on rit et on a envie de lire/voir plein de choses . Il était un pilier du service public , il reste aussi fort et drôle !"
+      },
+      {
+        "note": 5,
+        "auteur": "Roro490",
+        "titre": "Retrouvailles",
+        "texte": "Même si je vous écoute régulièrement sur les sorties DC, je dois dire, en toute pudeur, que vous m’avez manqué. Voilà ! C’est dit et je ne reviendrai pas dessus !!"
+      },
+      {
+        "note": 5,
+        "auteur": "Bart from this universe",
+        "titre": "Ça fait kiffer !",
+        "texte": "Merci Frederic et tous les invites parce que c’est toujours pertinent et intéressant ! En vidéo ou en audio ;)"
+      }
     ]
   }
 }

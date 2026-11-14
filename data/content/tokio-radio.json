@@ -51,5 +51,25 @@
     }
   ],
   "derniere_activite": "2026-11-03",
-  "frequence_jours": 23
+  "frequence_jours": 23,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "marniecherie",
+        "titre": "Dans la voie de Boris Pierre",
+        "texte": "Ecouter Tokio radio c’est entrer dans une intimité et une proximité avec les invités que Boris maîtrise avec douceur et discrétion… un régal et une envie de prolonger …"
+      },
+      {
+        "note": 5,
+        "auteur": "Jusqu’aux étoiles",
+        "titre": "En mode conversation de fin de soirée",
+        "texte": "Lové dans un sofa moelleux, éclairé par une nuée d’étoiles, j’écoute TOKIO radio, je suis bien."
+      }
+    ]
+  }
 }

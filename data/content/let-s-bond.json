@@ -51,25 +51,29 @@
   "derniere_activite": "2021-10-27",
   "frequence_jours": 9,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-15",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "mauddu93",
+        "titre": "Le meilleur podcast",
+        "texte": "Depuis que j’écoute Let’s Bond, je me surprends parfois à rire à gorge déployée dans le métro au point que les gens me regardent bizarrement 😂. On sent que le montage est travaillé, et P-E le présentateur fait des impros de malade.…"
+      },
+      {
+        "note": 2,
+        "auteur": "Dr4nem",
+        "titre": "Un peu trop proche de 2HDP",
+        "texte": "L'idée est chouette, il y a moyen de bien rigoler à décortiquer les 007, mais le style 2HDP assumé est assez maladroit et un peu lourd. J'aurais aimé que les présentateurs donne moins l'impression d'être tout le temps à lire leur notes, ça rend les blagues peu naturelles, et donc…"
+      },
+      {
+        "note": 5,
+        "auteur": "sophie94800",
+        "titre": "Très chouette",
+        "texte": "Super idée de faire les épisodes à la suite. Ça permet de vraiment voir l’évolution des films et de la société. Ça m’a donné envie de revoir les anciens ! C’est rigolo de voir que vous ne connaissez pas toujours les acteurs/trices qui étaient des stars en leur temps.…"
+      }
     ]
   }
 }

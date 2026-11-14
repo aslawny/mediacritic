@@ -51,25 +51,29 @@
   "derniere_activite": "2026-11-09",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-15",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Paulinemsnd",
+        "titre": "Vraiment top !",
+        "texte": "J'apprécie énormément la diversité des thèmes traités dans ce podcast. Les épisodes ne se contentent pas de parler du travail, mais explorent également les aspects humains et sociaux de l'industrie du bâtiment.…"
+      },
+      {
+        "note": 5,
+        "auteur": "floflo_",
+        "titre": "Top !",
+        "texte": "J'avoue, je suis pas du tout expert en BTP, mais ce podcast m'a changé la donne. C'est pas juste des discours techniques, c’est cool de voir que le bâtiment est loin de l’image que l’on véhicule habituellement."
+      },
+      {
+        "note": 5,
+        "auteur": "Rim'k974",
+        "titre": "La meilleur chaîne de podcast du BTP",
+        "texte": "Les intervenants sont très bien choisis ! Les sujets sont variés ! Les formats sont super. Points négatif : la qualité audio mérite d’être améliorée."
+      }
     ]
   }
 }

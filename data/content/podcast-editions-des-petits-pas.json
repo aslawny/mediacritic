@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2020-07-16",
-  "frequence_jours": 11
+  "frequence_jours": 11,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Petite ´fleur",
+        "titre": "École des petits pas",
+        "texte": "Je trouve ce principe d’éducation très bon !…Cette pratique est ouverte à tous les enfants, Il faut absolument demander une formation sérieuse à des personnes ouvertes aux instituteurs qui sont intéressés (es).…"
+      },
+      {
+        "note": 5,
+        "auteur": "bruno_k",
+        "titre": "Podcast d’une très grande utilité",
+        "texte": "Merci à Maïté et à toutes le participantes de nous offrir ce contenu de grande qualité sur les différentes pédagogies. Comment accompagner l’enfant est une question centrale, pourvu que ce podcast contribue à éveiller les consciences..!"
+      },
+      {
+        "note": 5,
+        "auteur": "GPleinDAvisSurTout",
+        "titre": "Bienveillance, éducation positive et éducation",
+        "texte": "Un très bon podcast qui amène à porter un regard empli de bienveillance sur l’enfance, l’éducation et les apprentissages."
+      }
+    ]
+  }
 }

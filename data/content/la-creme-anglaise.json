@@ -51,5 +51,25 @@
     }
   ],
   "derniere_activite": "2026-06-04",
-  "frequence_jours": 29
+  "frequence_jours": 29,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Sardinedeloire",
+        "titre": "Scotch eggs",
+        "texte": "Je suis une fan absolue des podcasts de Sarah. J’ attends toujours les nouveaux avec beaucoup d’impatience. Bravo et pinkie up ! 💕💕💕"
+      },
+      {
+        "note": 5,
+        "auteur": "Magperzel",
+        "titre": "Un délice !",
+        "texte": "Quel plaisir! J’ai écouté chacun de vos épisodes :) Bonne continuation"
+      }
+    ]
+  }
 }

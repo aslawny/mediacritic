@@ -52,25 +52,29 @@
   "derniere_activite": "2026-06-23",
   "frequence_jours": 21,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-15",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Chrystel-LvousConseil",
+        "titre": "Inspirant et éclairant",
+        "texte": "Je viens d’écouter le dernier épisode avec Philippe Goetzmann. Merci Fabien Foulon. Un épisode très riche autour de sujets passionnants. Toujours un plaisir d’écouter le Podcast du Retail qui traite de sujets variés avec d’excellents invités. Bravo ! 👏👏👏"
+      },
+      {
+        "note": 5,
+        "auteur": "PJCP 26",
+        "titre": "Un très bon podcast",
+        "texte": "Un très bon poscast qui permet de prendre du recul par rapport ce qu’on vit et invente chaque jour. A écouter même pour ceux qui ne sont pas dans le retail."
+      },
+      {
+        "note": 5,
+        "auteur": "yvette 38",
+        "titre": "Très bon podcast ...",
+        "texte": "... Inspirant sur la distribution. Varié, avec des invités toujours intéressants . Et du temps pour approfondir les sujets. Je recommande"
+      }
     ]
   }
 }

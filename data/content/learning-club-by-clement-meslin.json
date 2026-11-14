@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-11-06",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Cha_T28",
+        "titre": "Super podcast dans le milieu de formation !",
+        "texte": "Des sujets pertinents qui manquaient dans le monde des podcasts. Hâte de voir d’autres épisodes."
+      },
+      {
+        "note": 5,
+        "auteur": "alex cabon",
+        "titre": "Podcast de classe mondiale !",
+        "texte": "J adore ces contenus merveilleux !! Merci aux experts e à Clément et tout Edflex !"
+      },
+      {
+        "note": 5,
+        "auteur": "lcljln",
+        "titre": "Super podcast",
+        "texte": "Les épisodes sont intéressants et les sujets toujours bien choisis"
+      }
+    ]
+  }
 }

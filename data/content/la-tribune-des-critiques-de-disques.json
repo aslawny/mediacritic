@@ -26,25 +26,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-11-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-15",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "PieceDeHuit",
+        "titre": "Souvenir de Naples",
+        "texte": "J’ai entendu l’un des critiques présents pour la Bohème dire qu’il ne supportait plus d’entendre les rires et les sanglots des chanteurs polluer la noblesse d’une partition… Mes grands-parents, d’origine napolitaine, m’ont fait écouter, enfant, les premiers 78 tours de Caruso… et…"
+      },
+      {
+        "note": 1,
+        "auteur": "SOS musique",
+        "titre": "Diversité en question",
+        "texte": "Il semble décidément que l’interprétation de Bach fasse désormais l’objet d’une étrange censure . Un peu plus de diversité serait la bienvenue, de Julia Fischer à Kremer…."
+      },
+      {
+        "note": 5,
+        "auteur": "loulilou",
+        "titre": "que dire de l’intelligence",
+        "texte": "Que dire de l’intelligence ? C’est le bout de phrase et la réflexion qui m’est venu spontanément à l’esprit pour La Tribune des disques. Au début on est surpris, on pense que comparer ça va être rébarbatif. Donnez nous la meilleure et que l’on s’en aille.…"
+      }
     ]
   }
 }

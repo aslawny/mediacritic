@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-05-15",
-  "frequence_jours": 38
+  "frequence_jours": 38,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "RonnieUAC",
+        "titre": "Immersif",
+        "texte": "Enfin un podcast immersif au cœur du milieu de l’art urban !! Ambiance sonore au rendez vous, histoires passionnantes !!! Encore encore"
+      },
+      {
+        "note": 5,
+        "auteur": "Sebastian_encinas",
+        "titre": "Le meilleur podcast d’art urbain",
+        "texte": "Écoute ce podcast il est très intéressant et informatif sur le monde de l’art urbain, je vous le recommande!!!"
+      },
+      {
+        "note": 5,
+        "auteur": "kelkin.klk",
+        "titre": "Top",
+        "texte": "Super podcast pour apprendre et voyager à travers l’art urbain !"
+      }
+    ]
+  }
 }

@@ -27,25 +27,29 @@
   "addedAt": "2026-05-17",
   "updatedAt": "2026-11-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-15",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "PERNOT Dylan",
+        "titre": "L’embarcation dans la galaxibrahimovic",
+        "texte": "Merci beaucoup pour ce podcast, captivant du début à la fin ! Il faut continuer, on en veut encore. Le travail est splendide, on a l’impression d’être dans un hélicoptère d’étoiles filantes et de voyager sur Jupiter. Bref, que c’est captivant !"
+      },
+      {
+        "note": 1,
+        "auteur": "Vonsalza10",
+        "titre": "Insupportable",
+        "texte": "Walid monopolise le débat, il ne laisse la place à personne. Le tout en s’exprimant au-dessus des 4500 décibels. Ce n’est que du football."
+      },
+      {
+        "note": 5,
+        "auteur": "Tsanchez45",
+        "titre": "Génial",
+        "texte": "Je ne connaissais pas votre podcast, je suis venu pour l’interview de Matthieu Bodmer. Si vous aimez le foot les 2heures passent en 30 secondes. Votre discussion est incroyable. Merci pour ce moment je vais m’abonner à votre podcast."
+      }
     ]
   }
 }

@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2024-10-07",
-  "frequence_jours": 3
+  "frequence_jours": 3,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pierrebonche",
+        "titre": "Topissime",
+        "texte": "Une équipe de crac! On sent l’amour pour le sport et le plaisir d’en débattre autour d’un micro ! Merci à vous messieurs"
+      },
+      {
+        "note": 4,
+        "auteur": "Chcdrm",
+        "titre": "El Loco",
+        "texte": "J’ai trouvé votre podcast sur Marcelo Bielsa de qualité ! Je pouvais sentir la joie qui vous animait lorsque vous évoquiez vos souvenirs de ses matchs passés à travers ses nombreux clubs.…"
+      },
+      {
+        "note": 4,
+        "auteur": "MilanACfra",
+        "titre": "Les Podcasts sont INCROYABLE",
+        "texte": "J’adore cette émission. On ne voit pas du tout le temps passé. Bonne humeur et avis très intéressant ! Je recommmande"
+      }
+    ]
+  }
 }

@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-10-21",
-  "frequence_jours": 26
+  "frequence_jours": 26,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "bincazablanca",
+        "titre": "Fan de Zellige",
+        "texte": "J’ai adoré l’épisode sur le #zellige avec Ghalia Sebti. Il y a tellement de marques de carrelage industriel qui mettent sur le marché des collections imitant le « Zellige » sans se faire inquiéter… Il est important de rappeler que le zellige est un savoir faire ancestral marocain…"
+      },
+      {
+        "note": 5,
+        "auteur": "Coumbichou",
+        "titre": "Une superbe écoute !!",
+        "texte": "Juste top ! Leïla nous partage énormément de valeur et de bons conseils avec beaucoup de passion. Dynamique, entrainant, et boosté par des invités super interessants, ce podcast est un véritable moment feel-good.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Chloé de la Rochelle",
+        "titre": "Un podcast riche, passionnant et inspirant pour notre monde",
+        "texte": "Des épisodes qui m’accompagnent au quotidien et m’inspirent ! Beaucoup de sujets sont traités sur ce podcast et les questions posées aux invités sont profondes et donnent vraiment à réfléchir. Un pur plaisir lors de chaque écoute ! Je conseille !"
+      }
+    ]
+  }
 }

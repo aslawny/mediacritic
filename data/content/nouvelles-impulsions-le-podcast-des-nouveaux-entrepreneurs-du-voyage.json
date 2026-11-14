@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-10-29",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Fliya971",
+        "titre": "A écouter !!",
+        "texte": "Nouvelles Impulsions est un super Podcast qui aborde qui combine, entreprenariat et voyage. Quelle belle idée 💡 Celui-ci m’a accompagné et m’accompagne encore dès lors que j’ai eu le déclic de vouloir avoir une profession dans le domaine.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Fanny Mood Goyave",
+        "titre": "Contenu très instructif",
+        "texte": "J’ai eu l’occasion de faire deux podcast avec Ludivine pour parler de mon activité d’agence de voyage. Le débat était très intéressant. Ludivine pose les questions pertinentes pour que les auditeurs trouvent des réponses à leurs questions. Un vrai chouette moment de partage ☺️"
+      },
+      {
+        "note": 5,
+        "auteur": "Tlsophie",
+        "titre": "Une véritable pépite !",
+        "texte": "Ce Podcast offre une diversité incroyable autour du voyage et de l’entreprenariat, ce qui le rend vraiment enrichissant. Ludivine apporte une belle énergie qui vous donne envie de poursuivre votre propre aventure entreprenariale. A écouter sans modération !"
+      }
+    ]
+  }
 }

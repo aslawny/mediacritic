@@ -51,25 +51,29 @@
   "derniere_activite": "2026-11-06",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-15",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Liam(?)- better.a.witty.fool…",
+        "titre": "J’adore !",
+        "texte": "J’ai un peu honte d’avoir attendu si longtemps avant de remercier et de féliciter toute l’équipe de Doctor What pour leur super podcast, qui me met de bonne humeur dès que je vois qu’il y a un nouvel épisode.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Loviie16",
+        "titre": "Dommage",
+        "texte": "Ça aurait pu être une super équipe mais pour moi « Pomme » plombe tout, elle me donne juste envie de couper."
+      },
+      {
+        "note": 5,
+        "auteur": "Benjamin SIMON",
+        "titre": "Super Podcast",
+        "texte": "J’ai découvert ce podcast un peu par hasard, sur une série dont j’entends parler depuis longtemps mais que je n’avais jamais pris le temps de regarder, c’est désormais chose faite, youhou! L’équipe est vraiment top et j’aime beaucoup le déroulement de chaque émission, de bonnes i…"
+      }
     ]
   }
 }

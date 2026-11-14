@@ -51,25 +51,23 @@
   "derniere_activite": "2024-11-06",
   "frequence_jours": 17,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-15",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Saphir Bleu 💎",
+        "titre": "Découvre le podcast",
+        "texte": "Génial, je découvre un nouveau support pour être édifié dans ma foi. Bravo pour le travail accompli. J’ai hâte d’en écouter pleins d’autres merci pour cette découverte Saint-Esprit 🫶🏽"
+      },
+      {
+        "note": 5,
+        "auteur": "Damaris_5021",
+        "titre": "Podcast",
+        "texte": "Contenu édifiant, gratifiant spirituellement je la recommande à 10000% sa chaîne youtube est incroyable aussi 👍🏾🤍"
+      }
     ]
   }
 }

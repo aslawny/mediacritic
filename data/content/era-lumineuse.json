@@ -51,25 +51,29 @@
   "derniere_activite": "2025-09-01",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-15",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tiguidanké diaby",
+        "titre": "Témoignage inspirant",
+        "texte": "J’ai beaucoup apprécié. Ce qui m’a particulièrement touché, c’est de voir que, malgré les défis, vous avez su avancer sans que cette décision n’arrête vos élan de vie.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Aamn.221",
+        "titre": "Medina je t’aime",
+        "texte": "Salam aleykoum ma soeur, Premièrement merci pour ton podcast juste exceptionnel, enrichissant sans être maladroit et répétitifs. Milles merci. 🌸💞 Est ce que tu pourrais refaire des épisodes comme celui sur les fréquentations, tirée de l’islam et de la psychologie.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Nwllwn",
+        "titre": "D’une sagesse humble",
+        "texte": "Dans l’optique d’arrêter d’écouter de la musique, j’étais en quête de podcasts qui retiennent mon attention et je pense avoir trouvé la perle rare! Généralement j’arrête d’écouter les podcasts des soeurs lorsque le jugement envers autrui est trop prononcé à mon goût (ce qui à mon…"
+      }
     ]
   }
 }

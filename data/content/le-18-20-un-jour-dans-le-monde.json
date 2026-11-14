@@ -25,25 +25,29 @@
   ],
   "updatedAt": "2026-11-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-15",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "FleuréA",
+        "titre": "Culture et Curiosité(s)",
+        "texte": "Je suis une jeune femme fervente passionnée et même addict des podcasts de Francd inter et France culture et celui ci est mon préféré. Je ne regarde plus la télévision et ne lis pas les journaux depuis des années : ma connaissance et ma compréhension de l actualité sont quasiment…"
+      },
+      {
+        "note": 1,
+        "auteur": "QWERTYDFFG",
+        "titre": "Guidé par l’idéologie",
+        "texte": "Après un an d’écoute, principalement en raison de la qualité des reportages, j’annule mon abonnement car je n’en peux plus de la ligne éditoriale, des opinions personnelles, petits apartés et autres commentaires des chroniqueurs qui vont toujours dans le même sens idéologique.…"
+      },
+      {
+        "note": 5,
+        "auteur": "celineuk",
+        "titre": "La meilleure emission dinformation",
+        "texte": "Tres bon equilibre entre les differents reportages, interviews, entre les sujets et pays aussi. j’apprécie beaucoup Fabienne Sintes et les intervenants, leur esprit critique et la qualité de l’information"
+      }
     ]
   }
 }

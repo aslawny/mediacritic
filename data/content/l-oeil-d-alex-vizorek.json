@@ -50,25 +50,29 @@
   "derniere_activite": "2026-11-06",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-15",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Petitmoine",
+        "titre": "Le meilleur podcast de la radio RTL",
+        "texte": "Soyons franc et totalement honnête, mon titre parle de lui même. Alex est vraiment très bon, même si il lui manque Charline et Guillaume pour toucher le sommet.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Slybart",
+        "titre": "bazar dans les podcasts",
+        "texte": "merci d’éviter de mélanger tous les artistes sous un seul podcast."
+      },
+      {
+        "note": 5,
+        "auteur": "FannyB9",
+        "titre": "Chronique du 10 octobre",
+        "texte": "Excellente chronique et rappel de la semaine de débâcles au gouvernement. Merci à Alex Vizorek de nous faire rire en dépit de la situation catastrophique du pays. Il faudrait qu’on vous entende plus régulièrement"
+      }
     ]
   }
 }

@@ -49,25 +49,29 @@
   "derniere_activite": "2021-05-06",
   "frequence_jours": 35,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-15",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Carofromparis",
+        "titre": "Très intéressant",
+        "texte": "Des interviews très pertinentes qui interrogent les enjeux du journalisme à travers la présentation de nouveaux formats de narration. Les projets des invités sont très intéressants.…"
+      },
+      {
+        "note": 5,
+        "auteur": "@gregoire",
+        "titre": "Appréhender le futur des médias",
+        "texte": "Une couverture très complète et avec le ton approprié de la façon dont les médias se transforment et des chemins à suivre et explorer pour les nouvelles générations des talents de l’information."
+      },
+      {
+        "note": 5,
+        "auteur": "Cyceron92",
+        "titre": "Eclairant et dynamique !",
+        "texte": "Un éclairage constructif, dynamique sur les problématiques médiatiques, l'avenir des médias, des journalistes et de l'information. Très agréable !"
+      }
     ]
   }
 }

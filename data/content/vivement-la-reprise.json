@@ -51,25 +51,29 @@
   "derniere_activite": "2026-11-10",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-15",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "TF93666",
+        "titre": "Coût et protection sociale",
+        "texte": "Je me régale à écouter Déborah Guillotin qui a un peu contrarié la pensée générale sur le coût des charges pour les dirigeants et leurs prestations liées … Alors on est ok sur le fait que globalement les cotisations sociales pour les salariés sont exhorbitantes … ceci dit..…"
+      },
+      {
+        "note": 5,
+        "auteur": "DBC974",
+        "titre": "Très bonne surprise !",
+        "texte": "Alors comment dire ? Peut être tout simplement merci pour cette excellente idée de podcast, la qualité des questions et la valeur des conseils des invités.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Runner de lyon",
+        "titre": "Excellent début",
+        "texte": "Alors là bravo! Je reprends les épisodes depuis le début et la qualité du podcast est incroyable. Les questions sont pertinentes, les invités sont intéressants, bref, bravo! Juste un point : si l’on pouvait avoir un peu plus de données chiffrées cela serait parfait, mais continue…"
+      }
     ]
   }
 }

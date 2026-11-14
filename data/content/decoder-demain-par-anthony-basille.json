@@ -28,6 +28,10 @@
   "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
+      "titre": "Le jour où l'IA s'est arrêtée trois heures",
+      "date": "2026-09-09"
+    },
+    {
       "titre": "L’IA peut-elle vous remplacer ? Posez-vous cette seule question",
       "date": "2026-09-06"
     },
@@ -36,5 +40,6 @@
       "date": "2026-09-01"
     }
   ],
-  "derniere_activite": "2026-09-06"
+  "derniere_activite": "2026-09-09",
+  "frequence_jours": 4
 }

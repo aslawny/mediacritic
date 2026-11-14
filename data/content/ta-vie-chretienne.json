@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-10-31",
-  "frequence_jours": 38
+  "frequence_jours": 38,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Naomie236",
+        "titre": "Remerciement",
+        "texte": "Ce podcast est tellement inspirant et nous encourage à nous rapprocher de Dieu. Merci à oratrice pour cette édification et que Dieu la bénisse."
+      },
+      {
+        "note": 5,
+        "auteur": "prefinakamzer",
+        "titre": "Encourageant et édifiant",
+        "texte": "Des mots simples mais pourtant si profonds et efficaces. Puisse le seigneur continuer à soutenir et porter ce podcast"
+      },
+      {
+        "note": 5,
+        "auteur": "Noahbrown2016",
+        "titre": "Magnifique podcast",
+        "texte": "Contenu vraiment bénissant ! J’ai beaucoup apprécié l’épisode sur l’identité en Christ, un bon enseignement 🙏"
+      }
+    ]
+  }
 }

@@ -50,25 +50,29 @@
   "derniere_activite": "2026-11-09",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-15",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mikado16",
+        "titre": "Enfin plus de visibilité pour la playlist",
+        "texte": "Visiblement depuis quelques jours ils ont une personne censé s’occuper des podcasts avec une logique. Car la playlist est enfin lisible. Il faut en profiter le temps que cela va durer. Sinon 5 étoiles surtout pour le dimanche."
+      },
+      {
+        "note": 5,
+        "auteur": "Méliorobicdu56",
+        "titre": "RTL2 c’est trop bien 👍",
+        "texte": "J’adore RTL2 et j’écoute avec ma mère tout les matins mais le problème c’est qu’on peut pas écouté le direct 🥺 PS:Si j’ai fait des fautes d’orthographes c’est normal j’ai que 10 ans MERCI 😊"
+      },
+      {
+        "note": 5,
+        "auteur": "alxsandrine",
+        "titre": "Parfait pour mes cages à miel",
+        "texte": "Des nouveautés, des classiques, des reprises mais surtout la musique que j’aime. Merci Tonton Z et plus récemment Marjorie de flatter mes cages à miel."
+      }
     ]
   }
 }

@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2025-12-05",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Philippe MK",
+        "titre": "Vivement la suite",
+        "texte": "Au départ, j’ai pensé qu’il s’agissait d’un podcast de plus sur le surnaturel (ce qui est le cas), mais l’ambiance et le ton sont très enveloppants. Les sujets semblent originaux également. Alors vivement la suite…"
+      },
+      {
+        "note": 5,
+        "auteur": "2f2n",
+        "titre": "Belle surprise",
+        "texte": "Quel plaisir de retrouver Sandy Lakdar ! Ce podcast est une belle surprise, hâte de découvrir la suite"
+      },
+      {
+        "note": 5,
+        "auteur": "Pascake",
+        "titre": "Extra",
+        "texte": "On est plongé dans l’ambiance c’est vraiment génial. Bravo super podcast."
+      }
+    ]
+  }
 }

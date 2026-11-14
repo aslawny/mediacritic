@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2024-02-13",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "_YoZu",
+        "titre": "Top",
+        "texte": "Un podcast où on en apprend un petit peu plus sur les coulisses des événements, et qui dévoile leurs acteurs."
+      },
+      {
+        "note": 5,
+        "auteur": "framibalé",
+        "titre": "Félicitations",
+        "texte": "Merci pour ce beau partage Nous souhaitons longue vie à tes interventions"
+      },
+      {
+        "note": 5,
+        "auteur": "Cissou345",
+        "titre": "Bravo",
+        "texte": "Félicitations pour ce premier épisode. Il me tarde d’écouter le suivant."
+      }
+    ]
+  }
 }

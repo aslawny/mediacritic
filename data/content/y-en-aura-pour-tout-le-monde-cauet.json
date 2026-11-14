@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2026-11-11",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Indurain13",
+        "titre": "Une bonne surprise",
+        "texte": "Parachute à la dernière seconde à l’antenne c’est une bonne surprise des chroniqueurs à grande expérience radio et du rythme"
+      },
+      {
+        "note": 5,
+        "auteur": "Shmike93",
+        "titre": "Superbe émission",
+        "texte": "J’adore l’émission !!! Il faudrait 2h. On voit que Cauet est un vrai animateur radio."
+      },
+      {
+        "note": 5,
+        "auteur": "EmmyO2",
+        "titre": "Bulle de bonne humeur",
+        "texte": "Un délice pour la joie de vivre 👍. Continuez comme cela. Merci à tout l’équipe"
+      }
+    ]
+  }
 }

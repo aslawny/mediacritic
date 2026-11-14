@@ -48,5 +48,19 @@
     }
   ],
   "derniere_activite": "2026-11-09",
-  "frequence_jours": 13
+  "frequence_jours": 13,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-14",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "k'dii",
+        "titre": "Parfait !",
+        "texte": "Bonjour, je vous remercie énormément pour votre travail car vous arrivez en très peu de temps à expliquer parfaitement des notions qui sont de bases très compliquées à comprendre.…"
+      }
+    ]
+  }
 }
