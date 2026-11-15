@@ -1,0 +1,26 @@
+{
+  "ep": 55,
+  "saison": 2,
+  "slug": "crimes-oublies",
+  "page": "crimes-oublies.html",
+  "title": "Crimes Oubliés",
+  "tagline": "Le podcast true crime de Camille Debreuille",
+  "meta_desc": "MediaCritic analyse Crimes Oubliés, le podcast true crime historique de Camille Debreuille : des affaires d'avant l'ADN, une artisane seule, et nos réserves.",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/99/ed/a4/99eda493-4bd3-a62f-1d15-ade606e72b86/mza_126642419277798623.jpeg/600x600bb.jpg",
+  "initials": "CO",
+  "type_line": "Podcast · True crime · Histoire · Depuis 2023",
+  "hosts_line": "Animé par <strong>Alex · Lolo</strong>",
+  "authors": [
+    "Alex",
+    "Lolo"
+  ],
+  "buttons": [
+    {
+      "href": "https://podcasts.apple.com/fr/podcast/crimes-oubli%C3%A9s/id1706485310",
+      "label": "🎙️ Le podcast"
+    }
+  ],
+  "note": 8,
+  "verdict": "Du true crime fait par une artisane : écrit, raconté et réalisé seule, chaque semaine, sans labo pour sauver l'enquête. Le fait divers devient une leçon d'histoire.",
+  "content_file": "manifests/ep55-content.html"
+}

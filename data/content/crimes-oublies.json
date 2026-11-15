@@ -26,14 +26,17 @@
       "episodeCount": null
     }
   },
-  "mediacritic": null,
+  "mediacritic": {
+    "ep": 55,
+    "url": "https://www.mediacritic.fr/episodes/crimes-oublies.html"
+  },
   "tags": [
     "true crime",
     "societe",
     "histoire"
   ],
   "addedAt": "2026-09-09",
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-15",
   "episodes_recents": [
     {
       "titre": "L'affaire Bravo : qui se cache au Prieuré de Balham ? [1/3]",
