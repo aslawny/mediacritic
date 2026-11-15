@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2023-12-14",
-  "frequence_jours": 83
+  "frequence_jours": 83,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "CinEmma!",
+        "titre": "Super moment de cinéma",
+        "texte": "Je viens d’écouter ce podcast et je viens de passer un super moment de cinéma. Entendre parler ces auteurs-réalisateurs de leur métier, comment ils voient le cinéma et surtout les entendre parler de la direction d’acteur, un vrai plaisir.…"
+      },
+      {
+        "note": 5,
+        "auteur": "A. Cahen d'Anvers",
+        "titre": "À conseiller",
+        "texte": "Excellent podcast, où les cinéastes parlent de leur expérience, se confient... Un podcast qui donne envie de voir et de faire des films!"
+      },
+      {
+        "note": 5,
+        "auteur": "auditricefervente",
+        "titre": "Bravo",
+        "texte": "Super casting et super montage, chaque épisode est passionnant !! Merci"
+      }
+    ]
+  }
 }

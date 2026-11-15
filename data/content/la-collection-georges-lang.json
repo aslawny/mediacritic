@@ -51,25 +51,29 @@
   "derniere_activite": "2026-11-08",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "jojo la patisse",
+        "titre": "Les nocturnes",
+        "texte": "Salut George j’écoute toute tes émission maintenant en podcast,je suis un fidèle Auditeurs depuis le début en 1973 .la nuit je t écoutais de minuit à cinq heures et pendant la journée j’étais branché sur Radio Caroline que j’avais découvert quand j’ai eu mon premier transistor en…"
+      },
+      {
+        "note": 1,
+        "auteur": "Hytgjku",
+        "titre": "Dommage",
+        "texte": "L’émission serait parfaite si George Lang arrêté de parler et nous donnez l’heure ou la météo de villes américaines pour n’avoir plus qu’une minute de chanson à écouter"
+      },
+      {
+        "note": 5,
+        "auteur": "Joe Perry 25",
+        "titre": "La meilleure émission en France",
+        "texte": "Amateurs de Led Zep, Bowie, Sinatra, le King ou les Eagles ..... Retrouvez Georges Lang, une encyclopédie de la bonne zik : les amateurs de country retrouveront aussi les meilleurs titres de leurs chanteurs préférés.…"
+      }
     ]
   }
 }

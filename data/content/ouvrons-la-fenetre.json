@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2023-02-17",
-  "frequence_jours": 28
+  "frequence_jours": 28,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Dilhoim",
+        "titre": "Marie",
+        "texte": "Des que je prends la route toutes les semaines j’écoute les podcasts de « ouvrons la fenêtre », je suis happée du début à la fin par ces témoignages de vie qui me font découvrir l’homme et son amour du travail. Merci..."
+      },
+      {
+        "note": 5,
+        "auteur": "Morova11",
+        "titre": "Abbaye de St Martin à Avallon",
+        "texte": "Merci pour le bon moment. Pendant que je peins ds mon atelier je vous écoute pour la 1 ère fois Veronique"
+      },
+      {
+        "note": 5,
+        "auteur": "Soif de Sens",
+        "titre": "Une bouffée d’évasion",
+        "texte": "Merci Sophie pour ce podcast où l’on peut découvrir 1001 vies !"
+      }
+    ]
+  }
 }

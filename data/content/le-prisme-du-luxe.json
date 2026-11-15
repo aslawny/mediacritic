@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-09-24",
-  "frequence_jours": 18
+  "frequence_jours": 18,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Alice Tétienne",
+        "titre": "Penser le leadership autrement",
+        "texte": "Le prisme du luxe est une série que j’écoute avec attention pour la qualité de ses échanges et la liberté de ton qu’on y trouve. Les conversations sont incarnées, sans vernis inutiles et cela fait la différence.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Stéphanie Barret",
+        "titre": "LE podcast sur le Luxe",
+        "texte": "Un podcast qui met en lumière des conversations authentiques et en profondeur pour éclairer sur les enjeux et l’univers du luxe. Merci Solange pour ces échanges passionnants et qui font du bien (tous les conseils sont très utiles). J’attends chaque épisode avec impatience!"
+      },
+      {
+        "note": 5,
+        "auteur": "Gautier51450",
+        "titre": "Des podcasts très enrichissants",
+        "texte": "À titre personnel et professionnel, Merci Solange pour ces podcasts travaillés qui mettent en lumière ces métiers d’excellences. C’est un plaisir de les découvrir et redécouvrir !"
+      }
+    ]
+  }
 }

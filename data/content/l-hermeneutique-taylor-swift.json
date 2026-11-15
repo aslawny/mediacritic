@@ -49,5 +49,25 @@
     }
   ],
   "derniere_activite": "2026-11-10",
-  "frequence_jours": 5
+  "frequence_jours": 5,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "melissa-thr",
+        "titre": "Podcast au top 👍🏻",
+        "texte": "Un super podcast avec des bonnes analyses. Ça permet d’apprendre des choses sans être pour autant influencé. Franchement podcast au top et c’est devenu le rdv de la semaine 😊"
+      },
+      {
+        "note": 4,
+        "auteur": "swiftie_1389",
+        "titre": "Podcast très sympa",
+        "texte": "Je fais des traductions et analyses de chansons chez moi et j’aime bien m’appuyer sur votre podcast qui est intéressant et vraiment pertinent. Si je pourrais vous donner un conseil : après folklore faire l’analyse de l’album The Life of a showgirl s’il vous plaît. Merci ❤️"
+      }
+    ]
+  }
 }

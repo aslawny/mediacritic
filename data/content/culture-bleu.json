@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-10-19",
-  "frequence_jours": 117
+  "frequence_jours": 117,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "feels_goodforever",
+        "titre": "Le bleu piscine 🤩🤩",
+        "texte": "Écouté au petit matin sur ma terrasse, cet épisode m’a totalement embarquée. Les voix sont super agréables, le contenu passionnant. J’ai découvert plein de choses, j’ai même été chercher certaines piscines sur Internet tellement ça m’a intriguée …"
+      },
+      {
+        "note": 5,
+        "auteur": "flo_nv",
+        "titre": "Balade bleue",
+        "texte": "Un premier épisode très prometteur. Le bleu de Klein est exploré sous de multiples facettes. Des aspects sensoriels, scientifiques et théoriques sont abordés sur le ton d’une conversation entre ami.es. Hâte de poursuivre cette balade bleue, au musée et ailleurs !"
+      },
+      {
+        "note": 5,
+        "auteur": "Gabgabm",
+        "titre": "🩵💙🩵💙🩵",
+        "texte": "Fan de cette approche transversale, originale et hyper intéressante ! Je ne m’attendais pas à être aussi passionnée par le bleu piscine par exemple :))"
+      }
+    ]
+  }
 }

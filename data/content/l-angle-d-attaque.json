@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-07-10",
-  "frequence_jours": 43
+  "frequence_jours": 43,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Louisroarejelou",
+        "titre": "Angle droit",
+        "texte": "Podcast qui prend le temps de creuser les sujets avec des invités choisis, vraiment très intéressant quand on s’intéresse à l’univers de la réalisation !"
+      },
+      {
+        "note": 5,
+        "auteur": "Seb_dejautilise",
+        "titre": "LE podcast sur la création en fiction",
+        "texte": "Des invités toujours passionnants et un super intervieweur qui connaît clairement super bien le métier."
+      },
+      {
+        "note": 5,
+        "auteur": "Oizal",
+        "titre": "Un podcast à suivre",
+        "texte": "Bravo pour cet angle d’attaque ! Vivement les prochains, supers invités"
+      }
+    ]
+  }
 }

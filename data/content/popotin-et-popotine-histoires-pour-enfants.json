@@ -29,25 +29,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-11-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Gamer Mbappé🤙🏻🎮🏆",
+        "titre": "C’est trop bien",
+        "texte": "♥️♥️♥️♥️♥️🏳️‍🌈🏳️‍🌈💖💖💖💖♥️♥️♥️♥️♥️💖💖💖💖💖💖♥️♥️♥️♥️♥️♥️💖💖💖💖💖🦄🦄💖♥️♥️♥️♥️♥️♥️💖💖💖💖💖💖💖💖💖💖♥️♥️♥️♥️♥️♥️♥️♥️♥️💖💖💖🦄♥️♥️♥️♥️💖💖♥️♥️♥️🏓🏓🏓🐹🦊♥️♥️💖💖♥️♥️💖💖♥️♥️💖♥️💖♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖🦋🦋🦋🦋🦋🦋🦋♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️🐹🐹🐹🐹🐹🐹🐹🐹🐹🐹🐹🐹🐹🐹🐹🐹🐹🐹🐹🐹🐹…"
+      },
+      {
+        "note": 1,
+        "auteur": "XrayLeVrai",
+        "titre": "Ou la",
+        "texte": "Trooooooooop gênant je suis d’accord avec vous c’est pour les bébé sa"
+      },
+      {
+        "note": 5,
+        "auteur": "vink274",
+        "titre": "Top",
+        "texte": "Si vous trouvez ça gênant c’est que vous n’avez pas compris le but de ce podcast. Et si vous trouvez ça gênant c’est que vous êtes incapable d’avoir des sujets de conversation important avec vos enfants du coup vous leur créer des complexes et il peuvent être incapable de se conf…"
+      }
     ]
   },
   "episodes_recents": [

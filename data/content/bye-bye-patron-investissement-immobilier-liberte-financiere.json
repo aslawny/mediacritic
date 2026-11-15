@@ -55,25 +55,29 @@
   "derniere_activite": "2026-11-04",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Rentiers Sympas",
+        "titre": "🤑 Gros Billets 💶",
+        "texte": "Byebyepatron est devenu un rendez-vous fixe de mes trajets voiture. Ce qui me plaît, c’est l’angle multi-casquettes de Thibaut : immobilier locatif, immeuble de rapport, colocation et courte durée, bourse, cryptos, création de business.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Momo Ham",
+        "titre": "Bla bla moi moi",
+        "texte": "Pas agréable à écouter ! Defonce des portes ouvertes ! Et l auditeur apprend très très peu… Il parle de lui, c est long, non constructif. Et tellement de « moi je » c est fatiguant !"
+      },
+      {
+        "note": 5,
+        "auteur": "Fab67000",
+        "titre": "Un podcast sérieux, clair et accessible",
+        "texte": "Le podcast de Thibaut est une véritable source d’inspiration et de motivation pour tous ceux qui s’intéressent à l’investissement, à l’immobilier ou à l’indépendance financière. Les épisodes sont concrets, bien construits, et toujours enrichissants.…"
+      }
     ]
   }
 }

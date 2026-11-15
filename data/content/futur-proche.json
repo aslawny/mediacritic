@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-10-22",
-  "frequence_jours": 30
+  "frequence_jours": 30,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Loridjak",
+        "titre": "Un excellent podcast et des invités de qualité",
+        "texte": "Un format talk show qui fonctionne bien pour parler de sujets marketing au travers l’expérience et l’expertise d’invités de qualité, d’université différents mais avec une solide expertise marketing.…"
+      },
+      {
+        "note": 5,
+        "auteur": "MathAve",
+        "titre": "Super intéressant",
+        "texte": "Peu de podcasts sur le marketing et encore moins sous le format conversation. Longue vie à celui ci"
+      },
+      {
+        "note": 5,
+        "auteur": "Marion-C.",
+        "titre": "Sharp et actionnable, top !",
+        "texte": "Un incontournable pour les passionnés de marketing, au sens large"
+      }
+    ]
+  }
 }

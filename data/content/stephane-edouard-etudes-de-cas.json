@@ -25,25 +25,29 @@
   "addedAt": "2026-05-28",
   "updatedAt": "2026-11-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "fatys hanayama",
+        "titre": "Super",
+        "texte": "Stéphane aborde avec finesse et sensibilité les relations homme-femme dans ses discussions avec ses interlocuteurs. Son analyse profonde et éclairée offre des perspectives nouvelles et enrichissantes sur ce sujet complexe et souvent débattu.…"
+      },
+      {
+        "note": 1,
+        "auteur": "SBIgJohn",
+        "titre": "Nullissime",
+        "texte": "J’ai écouté par erreur ce podcast, véritable monceau d’inepties abjectes sur les relations femmes-hommes. Sidérant."
+      },
+      {
+        "note": 5,
+        "auteur": "TheYfromDallas",
+        "titre": "Instructif, rassurant et divertissant à la fois",
+        "texte": "Après avoir découvert stéphane sur sa chaîne youtube ‘principale’ (et ses fameuses vidéoscopies), j’apprécie encore davantage cette chaine secondaire. On se surprend à enchainer les podcasts.…"
+      }
     ]
   },
   "episodes_recents": [

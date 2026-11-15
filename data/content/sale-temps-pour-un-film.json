@@ -29,25 +29,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-11-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Oocani",
+        "titre": "Le plus intéressant des podcasts…",
+        "texte": "…même si je suis pas toujours de leurs avis ! Je les écoute depuis des années, leur donne (un peu) de sous chaque mois sur Tipee. Bref, je suis vraiment fan de leurs tafs.…"
+      },
+      {
+        "note": 1,
+        "auteur": "laurentjv",
+        "titre": "À éviter",
+        "texte": "Le conformisme et la sinistrose des intervenants de ce podcast est un vrai repoussoir. On ne m’y prendra plus."
+      },
+      {
+        "note": 5,
+        "auteur": "SaitoChizue",
+        "titre": "Indispensable",
+        "texte": "Vous souhaitez avoir un avis sur les sorties loin des discours pré mâchés de fanatiques conquis d’avance ? Loin du snobisme citadin conditionné aux casiers de rangement étiquetés « intelligents », « fun », « auteureee », « blockbeusteur » ou encore « horreur bien élevé …"
+      }
     ]
   },
   "episodes_recents": [

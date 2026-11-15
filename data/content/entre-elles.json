@@ -50,5 +50,25 @@
     }
   ],
   "derniere_activite": "2023-04-27",
-  "frequence_jours": 21
+  "frequence_jours": 21,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Iloverich2015",
+        "titre": "Excellent!",
+        "texte": "Un premier épisode dans lesquelles les entrepreneuses de tous bords pourront se retrouver: on y parle de passion, de la difficulté de professionnaliser un hobby, de l’importance de la formation pour faire évoluer son business, mais aussi de l’équilibre entre vie personnelle et vi…"
+      },
+      {
+        "note": 5,
+        "auteur": "mimicoo1619",
+        "titre": "Super podcast",
+        "texte": "Bravo pour ce podcast qui met en avant des profils de femmes de qualité et nous offre une lucarne sur des métiers et des secteurs d’une grande diversité. Merci Tombany!"
+      }
+    ]
+  }
 }

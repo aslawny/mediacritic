@@ -28,25 +28,29 @@
   ],
   "updatedAt": "2026-11-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Dib_00",
+        "titre": "Manger des pensées goûteuses...",
+        "texte": "... au sujet de votre assiette ! Un podcast passionnant qui posent des questions sans jamais imposer des réponses, ouvre des perspectives et nous incite à cultiver notre regard et prendre conscience de nos choix en matière d’alimentation. À mettre dans toutes les oreilles …"
+      },
+      {
+        "note": 1,
+        "auteur": "Linouchka92100",
+        "titre": "Ça récite",
+        "texte": "Ça récite, pas de fluide dans la voix.... pas de journalisme , de la lecture pure sans intonation"
+      },
+      {
+        "note": 5,
+        "auteur": "tdomergue",
+        "titre": "L'utile à l'agréable",
+        "texte": "Super podcast : à la fois intéressant et plaisant à l'écoute. Les sujets et les intervenants sont bien choisis. Avec ces deux formats \"Sur le Grill\" et \"Les Militants de l'Assiette\", il y en a pour tous les goûts et toutes les curiosités. Je recommande vivement !"
+      }
     ]
   },
   "episodes_recents": [

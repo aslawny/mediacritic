@@ -27,25 +27,29 @@
   ],
   "updatedAt": "2026-11-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "PatorLePlusFort",
+        "titre": "Ambiance sympa, débats et info intéressantes",
+        "texte": "Dès que j’ai l’occasion (trajet en voiture seul ou train), je lance ce podcast sympa qui passe très vite malgré des épisodes assez long autour d’une heure et demi. Ou via YouTube lors des keynotes. Sympa les épisodes de « on refait la pop »"
+      },
+      {
+        "note": 1,
+        "auteur": "#iMedy#",
+        "titre": "Comment peut-on",
+        "texte": "Sortir un podcast abec un son aussi minable ? Pour des soit disant pro…"
+      },
+      {
+        "note": 5,
+        "auteur": "so-gu",
+        "titre": "Enfin disponible en podcast",
+        "texte": "Ouf, fini le Dailymotion et orange ces voleurs, j'en ai rater des émissions car elles étaient disponible que sur Dailymotion et plus sur YouTube, maintenant que c'est disponible en podcast je vais rattraper les émissions que j'ai rater"
+      }
     ]
   },
   "episodes_recents": [

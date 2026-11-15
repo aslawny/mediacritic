@@ -26,25 +26,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-11-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mathildebtmps",
+        "titre": "Perfect for intermediate level learners like me",
+        "texte": "This podcast is wonderful to progress when you are looking for an audio material to improve your ears and your speaking skills ! 🇫🇷 j’ai galéré avant de trouver un podcast qui ne soit ni trop à destination des débutants, ni trop compliqué à comprendre par la rapidité du débit de…"
+      },
+      {
+        "note": 1,
+        "auteur": "Sylvana06",
+        "titre": "Thank you !!",
+        "texte": "Because of you, my motivation for my English journey has increased. I feel more confident when I am speaking with others people even if I made some mistakes 😅.…"
+      },
+      {
+        "note": 5,
+        "auteur": "RomCalvel",
+        "titre": "Plaisir d’écoute",
+        "texte": "De bons épisodes interessants et utiles pour perfectionner son « oreille » sur la compréhension orale en anglais. Bel effort de Tom pour poser et ralentir sa voix et articuler permettant de bien capter chaque mot. De bonnes explications également pour donner du sens.…"
+      }
     ]
   },
   "episodes_recents": [

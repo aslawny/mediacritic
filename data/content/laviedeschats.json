@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-11-07",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Manon/aivilo",
+        "titre": "Super chat!!",
+        "texte": "Bonjour moi j’ai un chat qui s’appelle Bastet et franchement je l’adore !! 😍 !!!! Et j’adore vos podcast parce que je veux vraiment en savoir plus sur mon chat et sur les autres qui sont dans mon impasse, comme pistache (c’est un mâle) !"
+      },
+      {
+        "note": 5,
+        "auteur": "Magalette56",
+        "titre": "Une pensée",
+        "texte": "De tout cœur avec vous Morgan 🙏Wifi vous a apporté le bonheur et réciproquement … Je suis touchée car j’ai plaisir à écouter vos conseils et anecdotes sur vos boules de poils d’amour 🤗 Caresses à Garfield et Sacha 😻"
+      },
+      {
+        "note": 5,
+        "auteur": "Une fan de hrt ❤️",
+        "titre": "J’adore 🥰 !!",
+        "texte": "J’écoute le podcast très souvent,et j’adore ! les conseils sont trop bien expliqué, et j’adore suivre les anecdotes de wi-fi, Garfield, Sacha et Charlie (jsp si j’en est oubliée 🥲) 🫶"
+      }
+    ]
+  }
 }

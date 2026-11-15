@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-21",
-  "frequence_jours": 34
+  "frequence_jours": 34,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Francilien t malin",
+        "titre": "Une bien belle initiative",
+        "texte": "Un premier épisode très prometteur ! Ce podcast reprend le pragmatisme de Benjamin et son acolyte le complète bien. J’ai hâte d’écouter le prochain épisode 😃"
+      },
+      {
+        "note": 5,
+        "auteur": "magtail",
+        "titre": "Très belle introduction à Power BI !",
+        "texte": "Bravo pour cette initiative, podcast très instructif sur l’outil BI de Microsoft. J’attends les prochains avec impatience.. Merci à vous 2!"
+      },
+      {
+        "note": 5,
+        "auteur": "camille peilhon",
+        "titre": "merci",
+        "texte": "je galère avec dax et power bi autodidacte alors je rame! mais vous écoutez me motive et reboost alors merci"
+      }
+    ]
+  }
 }

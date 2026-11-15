@@ -53,25 +53,29 @@
   "derniere_activite": "2026-08-11",
   "frequence_jours": 27,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "WillexSimon4ever",
+        "titre": "Gééééééniaaaal n’arrête pas 🤪",
+        "texte": "Coucou Auden ! Tes podcast sont vraiment bien 🤩 je sais que je suis un peu grande (j’ai 12 ans) mais je pense que tu peux vraiment continuer car ça me détend et ça me fait rire tes histoires 📚y a des gens mais vraiment pas bcp ils ont mis que tes podcasts étaient pas cool… mais c…"
+      },
+      {
+        "note": 1,
+        "auteur": "Fleurs￼🌸",
+        "titre": "Bye",
+        "texte": "Je ne veux pas être méchante,: Je trouve que j’ai passé l’âge d’écouter des choses comme ça je préfère Askip et SOS BFF je crois que je son mes podcasts préférés 😞😞😞😞😞😞😞😞😞DÉSOLÉ"
+      },
+      {
+        "note": 5,
+        "auteur": "Youtube : ZZ Xtreme",
+        "titre": "Incroyable Podcasts",
+        "texte": "AuDen Tes Podcasts sont vraiment bien continuer à en faire tu me fais rire j’ai 13 ans et j’en fais écouter à mon frère qui est plus petit il aime beaucoup et à chaque fois il me demande de lui refaire écouter un.…"
+      }
     ]
   }
 }

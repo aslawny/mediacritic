@@ -53,25 +53,29 @@
   "derniere_activite": "2026-11-04",
   "frequence_jours": 6,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Elodie16410",
+        "titre": "Une de vos lectrice",
+        "texte": "Bonjour, je tenais juste à vous dire qu’en plus de vous lire vous et Serena j’ai trouvé votre podcast excellent. 🥰Il l’es par votre naturel, votre authenticité et votre folie, vous m’avez faite rire et vous m’avez touchée alors que j’étais en train de courir (pas facile de respir…"
+      },
+      {
+        "note": 5,
+        "auteur": "Jeanne__Hor",
+        "titre": "Génialissime",
+        "texte": "Après beaucoup de temps sans avoir trouvé comment laisser un commentaire (on dirait vraiment que j’ai 75 ans et que je découvre les nouvelles technologies), mon tout premier commentaire est pour ce podcast.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Tsitsily",
+        "titre": "Un vrai coup de cœur ❤️",
+        "texte": "Un vrai coup de cœur pour ce podcast 🥰 Je connaissais Virginie Grimaldi comme autrice, mais je la découvre ici avec encore plus de plaisir. C’est drôle, spontané, touchant et passionnant.…"
+      }
     ]
   }
 }

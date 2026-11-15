@@ -27,25 +27,29 @@
   "addedAt": "2026-06-03",
   "updatedAt": "2026-11-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Audrey1034",
+        "titre": "Agréablement surprise",
+        "texte": "Honnêtement je ne m’attendais pas à écouter un podcast d’une nana des marseillais Quand j’ai compris j’ai failli arrêter mais en fait l’écoute est sympa Malgré tout elle s’exprime bien elle est rigolote et attachante Interessante aussi si on aime l’attraction etc Bref très sympa"
+      },
+      {
+        "note": 1,
+        "auteur": "Freud 111",
+        "titre": "Oups",
+        "texte": "Le contenu pourrait être intéressant mais quel vocabulaire « en fait ». Un peu de préparation et un discours plus construit serait un plus."
+      },
+      {
+        "note": 5,
+        "auteur": "Paolena9797",
+        "titre": "Je m’attendais pas à autant aimé",
+        "texte": "Je n’ai jamais suivi la télé-réalité et avais des aprioris sur les gens de la tv. Mais j’ai adoré Vivi, ses réseaux et son podcast ! C’est VRAI et authentique, on a envi de le faire ce girl dinner avec Vivi !!!"
+      }
     ]
   },
   "episodes_recents": [

@@ -27,25 +27,29 @@
   "addedAt": "2026-06-06",
   "updatedAt": "2026-11-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "johnny 7ama",
+        "titre": "Top 3 de mes podcast préférés et il est pas troisième",
+        "texte": "Bonjoir, ça fait 3ans que je vous suis à chaque épisode et que vous m’accompagnez sur le chemin du travail! Effectivement il est plus agréable de pouvoir faire ses propres choix et erreurs, étant trentenaire j’ai eu la chance de pouvoir reprendre mes études jusqu’à un Bac + 5, ça…"
+      },
+      {
+        "note": 1,
+        "auteur": "wildberries222",
+        "titre": "Fatiguant",
+        "texte": "Si la chroniqueuse peut arrêter de rire comme une hystérique toute les 2 minutes ... elle se croit au bistrot du coin Décevant"
+      },
+      {
+        "note": 5,
+        "auteur": "Coucou 🍋",
+        "titre": "Coucou",
+        "texte": "Coucou c moi ! Je me permets de vous recommander un podcast, qui s’appelle « Japon, fait moi peur » qui raconte des histoires qui font peur sur le Japon, dont certaines que vous avez déjà citées, comme la Kuchisake Onna ou akamento.…"
+      }
     ]
   }
 }

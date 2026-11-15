@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2026-11-08",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "DeMatrix",
+        "titre": "Amazing 👍",
+        "texte": "He is a superb DJ but has to keep up with Tiesto and AVB :-) lost him on iOS podcast. Write a review people, he is an amazing DJ, and we get his hard an amazing art for free. Write a comment people."
+      },
+      {
+        "note": 1,
+        "auteur": "Xazard",
+        "titre": "Embarrassing to listen",
+        "texte": "I listen in the car with an open top, and when this girly whiny garbage comes up, I have to skip forward, some mixes are okay others are made for 14 year old girls.…"
+      },
+      {
+        "note": 5,
+        "auteur": "MorticiA MissFit",
+        "titre": "Fantastic trance podcast with superior mixes",
+        "texte": "This podcase is getting me through many nights of coding and writing. Paul has a soothing voice, and plays fantastic mixes."
+      }
+    ]
+  }
 }

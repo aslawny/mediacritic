@@ -26,25 +26,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-11-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Prune_Perez",
+        "titre": "Très bon podcast",
+        "texte": "Podcast très intéressant et ludique! Mes enfants se sont beaucoup amusés et cultivés. Merci beaucoup ☺️ Podcast que je recommande à toutes les familles les enfants (et les parents 😅) apprennent un peu de tout sur les stars de la musique tout en s’amusant! Très bon podcast !"
+      },
+      {
+        "note": 1,
+        "auteur": "Bibi8mars",
+        "titre": "MDR",
+        "texte": "MDR, c’est très bien, sauf que c’est censé être un Podcasts sur la musique et qu’il y a pas du tout de musique! En tout cas, je vous adore, sauf que laDame qui raconte ce podcastFais trop sa Malines et ça ça m’énerve.Mais sinon c’est bien, mais faites plus d’épisodes parce que là…"
+      },
+      {
+        "note": 5,
+        "auteur": "JK picpic",
+        "titre": "Meilleur podcast",
+        "texte": "Bonjour merci beaucoup ce podcast est super . Est-Ce que vous pensez que vous pourriez faire un épisode sur Bourvil ou Louis de Funès ? Merci beaucoup si vous le faites je serais vraiment super contente 🥰😁 je vous adore ⭐️⭐️⭐️⭐️⭐️"
+      }
     ]
   }
 }

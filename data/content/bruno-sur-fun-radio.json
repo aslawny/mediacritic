@@ -50,25 +50,29 @@
   "derniere_activite": "2026-11-06",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Raphifoul",
+        "titre": "A",
+        "texte": "❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤…"
+      },
+      {
+        "note": 2,
+        "auteur": "Lune d'argent",
+        "titre": "Mauvais découpage",
+        "texte": "Dommage que la suite de la musicale soit si mal découpée, il manque la télé de Mika, et on a toutes les musiques ce qui ne sert à rien. J’espère une meilleure prestation."
+      },
+      {
+        "note": 5,
+        "auteur": "karo baud",
+        "titre": "MERCI DE NOUS DONNER LA PÊCHE TOUT LES MATINS",
+        "texte": "On vous suit sur fun depuis toujours, on a suivi Bruno depuis le 6-9 d’ NRJ, que du bonheur vous êtes vraiment complémentaire , on aimerait maintenant tellement pouvoir venir vous voir en studio pour un futur proche😊👋😘"
+      }
     ]
   }
 }

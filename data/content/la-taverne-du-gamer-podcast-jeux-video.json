@@ -50,25 +50,29 @@
   "derniere_activite": "2026-11-02",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "aniki198183",
+        "titre": "Un grand Merci",
+        "texte": "Merci les Potos ! Fraîcheur dans le milieu audiovisuel des chroniqueurs du monde vidéo ludique… loin dés influenceurs YouTube aux titres aguicheurs (certains sont déjà en train de teaser la PS6) et vides de tout contenu… Merci à vous de vous concentrer sur l’essentiel, de nous pe…"
+      },
+      {
+        "note": 1,
+        "auteur": "Sugar.dash",
+        "titre": "Qualité audio 👎🏼",
+        "texte": "Ci-dessous ton micro est horrible pour les oreilles, qualité audio vraiment insupportable, contrairement aux autres intervenant . A améliorer au plus vite je pense si tu veux évoluer"
+      },
+      {
+        "note": 5,
+        "auteur": "Alex932",
+        "titre": "Super Poscast",
+        "texte": "Bonjour a vous deux, Je fais tous les jours 3 heures de route pour mon travail et je cherchais des podcasts de jeux vidéos, et j’ai vraiment adoré le ton posé, avec une bonne élocution et parfois avec des avis divergents mais toujours respectueux sans jugements de votre podcast.…"
+      }
     ]
   }
 }

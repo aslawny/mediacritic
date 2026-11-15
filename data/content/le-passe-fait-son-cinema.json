@@ -45,5 +45,31 @@
     }
   ],
   "derniere_activite": "2026-10-28",
-  "frequence_jours": 27
+  "frequence_jours": 27,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mandarine64",
+        "titre": "Passionnante plongée dans l’histoire avec un grand et petit H",
+        "texte": "Passionnante analyse de l’Odyssée de Nolan. J’y ai particulièrement aimé la lecture approfondie, intelligente, humble, nuancée, sourcée de l’œuvre ainsi que sa remise en perspective historique et sociétale.…"
+      },
+      {
+        "note": 5,
+        "auteur": "katyleroux",
+        "titre": "Délicieux",
+        "texte": "Ce podcast se déguste tel un bon repas. Tous les ingrédients y sont présents de l’entrée au dessert. Le décryptage de l’Odyssée par le prisme du présent qui nous est proposé nous ouvre de nouvelles perspectives que je n’avais absolument pas perçus lors du visionnage.…"
+      },
+      {
+        "note": 5,
+        "auteur": "NatiB93",
+        "titre": "Passionnant",
+        "texte": "Podcast hyper intéressant, un angle différent, vivement la suite."
+      }
+    ]
+  }
 }

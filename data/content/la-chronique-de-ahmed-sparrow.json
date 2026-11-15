@@ -24,5 +24,19 @@
     "comedie"
   ],
   "addedAt": "2026-05-28",
-  "updatedAt": "2026-11-13"
+  "updatedAt": "2026-11-13",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Carophilos",
+        "titre": "Excellent",
+        "texte": "Super chroniques. Et je cautionne l'idée de taxer la haine pour équilibrer notre budget."
+      }
+    ]
+  }
 }

@@ -26,25 +26,29 @@
   ],
   "updatedAt": "2026-11-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Shokiro",
+        "titre": "Un podcast de qualité",
+        "texte": "Très bon podcast parlant des séries TV, on a le droit sans défauts à notre podcast toutes les semaines. Les 2 animateurs principaux que sont Sophie et Alex nous informent des news du milieu, les prochaines séries qui vont arriver, celles qui passent en ce moment, ce qui vallent o…"
+      },
+      {
+        "note": 1,
+        "auteur": "SebNYD",
+        "titre": "Intervenants souvent peu pertinents",
+        "texte": "Un podcast très très léger sur le fond, ça manque souvent cruellement de préparation..."
+      },
+      {
+        "note": 5,
+        "auteur": "dpostardust",
+        "titre": "Vraiment très bon podcast",
+        "texte": "J'ai découvert ce podcast il y a peu Exactement 15 jours et j'ai tout de suite accroché Du coup je me suis fait un marathon et je viens de finir Et la ....…"
+      }
     ]
   },
   "episodes_recents": [

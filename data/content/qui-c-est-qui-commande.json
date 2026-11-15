@@ -25,25 +25,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-11-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "PerrinePR",
+        "titre": "Prise de conscience",
+        "texte": "Le meilleur podcast de tout les temps , il a parlait à mon enfant intérieur autant qu'à la jeune maman que je suis. Une grande prise de conscience sur la société dans laquelle nous vivons et comment remettre les enfants au centre de nos préoccupations pourraient avoir un effet po…"
+      },
+      {
+        "note": 5,
+        "auteur": "Perrine.ladrt",
+        "titre": "Merci !",
+        "texte": "Je vis désormais en Autriche et j’ai pris une claque en découvrant la façon dont on traitait différemment les enfants et les familles ici, et en constatant que notre vision de l’enfance en France, et donc celle avec laquelle j’avais grandi, était en fait très problématique.…"
+      },
+      {
+        "note": 5,
+        "auteur": "zazoulalla",
+        "titre": "L’avenir des enfances",
+        "texte": "Juste parfait, en effet pour rien au monde je n’aimerais revivre mon enfance bien que j’ai tenté de n’en garder qu’une partie heureuse… peut etre qui me guidera dans le role de guide pour ma petite enfant de 4ans que « j’aime de toute ma vie » le superlatif prefere!"
+      }
     ]
   },
   "episodes_recents": [

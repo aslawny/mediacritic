@@ -25,25 +25,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-11-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Le.petit.prince",
+        "titre": "Une chronique parfaite",
+        "texte": "Y’a pas à tortiller : y’a tout dans cette chronique ! La diversité des thèmes abordés, la précision des faits (mal grès le format), les pistes d’analyses et les quelques débuts d’interprétation possible (vous laissant le choix de la votre)...…"
+      },
+      {
+        "note": 1,
+        "auteur": "GGIACC",
+        "titre": "L’édito économique de D. Deux",
+        "texte": "Dommage que cette formidable radio du service public ne puisse s’offrir un véritable édito économique et non un mauvais réchauffé du journal Les Échos."
+      },
+      {
+        "note": 5,
+        "auteur": "un_bouseux",
+        "titre": "Super! Juste une remarque..",
+        "texte": "J'aime beaucoup le format, les sujets traités, le recul, et l'esprit de Dominique Seux. Ses remplaçants sont bien aussi. Juste une remarque, pas forcément dirigée envers une personne en particulier: je trouve étonnant qu'un intervenant homme, accueilli dans l'émission par son nom…"
+      }
     ]
   }
 }

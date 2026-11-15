@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-10-08",
-  "frequence_jours": 21
+  "frequence_jours": 21,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "shel68eril",
+        "titre": "Une fabuleuse expérience d’écoute",
+        "texte": "Merci pour ces podcasts qui me font voyager ! Ça fait du bien de pouvoir partir sans bouger de son bureau 🥰"
+      },
+      {
+        "note": 5,
+        "auteur": "Cecloeb",
+        "titre": "Au top",
+        "texte": "Super podcasts qui donnent des envies d’ailleurs A écouter sans modération"
+      },
+      {
+        "note": 5,
+        "auteur": "chieyophe",
+        "titre": "Super",
+        "texte": "J’aime beaucoup ce podcast Je voyage avec vous A quand les prochains ?!"
+      }
+    ]
+  }
 }

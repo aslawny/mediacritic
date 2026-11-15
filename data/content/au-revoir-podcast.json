@@ -53,25 +53,29 @@
   "derniere_activite": "2026-06-18",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Dr Minifiona",
+        "titre": "Les mots sur l’inconcevable",
+        "texte": "Ce podcast est une aide précieuse dans le monde très inconnu des parents endeuillés. Quand on le découvre ce n’est jamais par hasard. On a été touché soit même par la perte d’un enfant. Ou bien un de nos proches est en train de le vivre.…"
+      },
+      {
+        "note": 5,
+        "auteur": "SaFig63",
+        "titre": "Merci infiniment",
+        "texte": "Il y a eu un moment où parler ne m’a plus suffit. Je ne voulais plus parler…je voulais qu’on me réponde. Sauf que… où trouver quelqu’un qui le puisse parce qu’il a vécu un drame similaire dont il souhaite parler quand on vit à la campagne et que les groupes de parole sont rares (…"
+      },
+      {
+        "note": 5,
+        "auteur": "Cielinpois",
+        "titre": "Tellement utile et... fidèle",
+        "texte": "Comme d’autres, comme j’aurais aimé disposer de ce podcast il y a 2 ans et demi quand Milo est parti. Et même si je suis aujourd’hui debout, heureuse et sereine, comme je suis ravie de poursuivre mon cheminement, mon deuil aussi, dans la douceur, sans amertume, avec humour aussi…"
+      }
     ]
   }
 }

@@ -23,5 +23,31 @@
     "musique"
   ],
   "addedAt": "2026-09-17",
-  "updatedAt": "2026-11-13"
+  "updatedAt": "2026-11-13",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Romarin44",
+        "titre": "Revivre de festival de folie",
+        "texte": "Très intéressant de découvrir l’envers du décor. Plaisant de revivre l’ambiance unique de ce festival tellement décalé. Chaque épisode respire la bonne humeur. Bravo aux deux compères."
+      },
+      {
+        "note": 5,
+        "auteur": "Simon Alpinos",
+        "titre": "Merci !!",
+        "texte": "Excellent podcast !! J’ai adoré écouter cette histoire où deux mondes se rencontrent. Merci pour ce partage."
+      },
+      {
+        "note": 5,
+        "auteur": "vincentsch",
+        "titre": "Un super podcast",
+        "texte": "Bravo c’est super intéressant, très bien fait, à écouter même si on n’écoute pas de métal :)"
+      }
+    ]
+  }
 }

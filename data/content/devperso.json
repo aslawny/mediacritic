@@ -45,5 +45,31 @@
     }
   ],
   "derniere_activite": "2019-10-15",
-  "frequence_jours": 166
+  "frequence_jours": 166,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Kevin Margo",
+        "titre": "J’adore",
+        "texte": "J’adore le développement personnel et ce mélange avec la pop culture est super instructif et original et très different de la concurrence. Pour moi, avec du temps et du travaille, cela va être un futur succès.…"
+      },
+      {
+        "note": 5,
+        "auteur": "benythecat",
+        "titre": "Grandir à travers la pop culture !",
+        "texte": "Le développement personnel à travers les références de la pop culture ! L’occasion de réfléchir sur des œuvres à travers un autre prisme et de réfléchir sur soi dans un format sérieux mais qui ne se prend pas au sérieux !"
+      },
+      {
+        "note": 5,
+        "auteur": "Tyler Sixteenth",
+        "titre": "D'utilité publique",
+        "texte": "Si l'enrobage de pop culture est appréciable, l'émission est bien plus profonde et permet non seulement de mieux connaître nos héros, mais aussi nous-même..."
+      }
+    ]
+  }
 }

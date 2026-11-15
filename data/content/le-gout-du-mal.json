@@ -28,7 +28,15 @@
   "updatedAt": "2026-11-13",
   "episodes_recents": [
     {
-      "titre": "ÉPISODE 1 - ÉGYPTE : Quand les morts refusent de se taire",
+      "titre": "ÉPISODE 3 - MEXIQUE / LA LLORONA : Quand les larmes deviennent une malédiction",
+      "date": "2026-11-13"
+    },
+    {
+      "titre": "ÉPISODE 2 - IRLANDE / JACK O' LANTERN : Quand les légendes refusent de mourir",
+      "date": "2026-10-13"
+    },
+    {
+      "titre": "ÉPISODE 1 - ÉGYPTE / LA MOMIE : Quand les morts refusent de se taire",
       "date": "2026-09-13"
     },
     {
@@ -36,5 +44,6 @@
       "date": "2026-08-13"
     }
   ],
-  "derniere_activite": "2026-09-13"
+  "derniere_activite": "2026-11-13",
+  "frequence_jours": 30
 }

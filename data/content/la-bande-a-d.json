@@ -52,25 +52,29 @@
   "derniere_activite": "2026-11-05",
   "frequence_jours": 3,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Anne So BZH29",
+        "titre": "Un talk show de qualité plus plus",
+        "texte": "Bonjour Je suis une grande fan de votre émission Les sujets sont variés et les avis des intervenants également J’apprécie particulièrement la bienveillance des invités qui ne sont jamais dans le jugement mais qui expriment leur point de vue de façon étayée Il y a un grand respect…"
+      },
+      {
+        "note": 1,
+        "auteur": "gbo45",
+        "titre": "Objectivité ?",
+        "texte": "Dur d’être objectif avec l’utmb quand certains intervenants y sont salariés ! On sent que vous aimeriez critiquer mais…la « famille Pol***i » vous tient par les coui**s Et puis…que c’est long, abrège frère Casquette verte invité…c’est décidé, je me désabonne !"
+      },
+      {
+        "note": 5,
+        "auteur": "Brostagni",
+        "titre": "Un épisode ultra complet pour bien démarrer la saison trail 2025 !",
+        "texte": "⭐⭐⭐⭐⭐ La revue d’actu est riche, rythmée, et super bien animée. Les retours sur Walmsley, Dauwalter, Zegama ou encore Clavery sont à la fois pointus et accessibles.…"
+      }
     ]
   }
 }

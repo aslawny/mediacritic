@@ -51,25 +51,29 @@
   "derniere_activite": "2026-10-11",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "erika 🫶🏼",
+        "titre": "🫶🏼",
+        "texte": "tu abordes très bien ce sujet qui est très tabous. pour la première fois je me sens comprise et me retrouve très bien dans tes propos ce qui me fait me sentir moins seule. merci bcp et je te souhaite de guérir. love u 🫶🏼"
+      },
+      {
+        "note": 1,
+        "auteur": "tsacdopednaf",
+        "titre": "Moins vite !!!!",
+        "texte": "Après les louanges exagérés des copines avec différents pseudos, j'apporte un gros bémol : diction vraiment trop rapide, sans respiration, très pénible. Sans compter les tics de langage (en fait en fait en fait du coup du coup) . Si aucune amélioration, j'abandonne."
+      },
+      {
+        "note": 5,
+        "auteur": "Mattoumatta 🇺🇸",
+        "titre": "L’épisode sur l’anxiété",
+        "texte": "Tout d'abord, je voulais te dire merci de partager ce que tu vie. Et merci, car enfin, une personne comprend ce que je vie. MERCI BEAUCOUP 🩷🫶🏻🫶🏻 (Désoler pour les fautes d’orthographe je suis dysorthographique)"
+      }
     ]
   }
 }

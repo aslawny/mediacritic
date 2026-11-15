@@ -50,25 +50,29 @@
   "derniere_activite": "2026-05-15",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pierre Dautry",
+        "titre": "Thinkerview en mieux ?",
+        "texte": "Ayant été un fervent consommateur des podcasts de Thinkerview , j’apprécie énormément le format d’interview longue de personnalités publiques plus ou moins connues.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Tom Rublé",
+        "titre": "Un don de soi formidable",
+        "texte": "Bonjour Charles Gaves, toute sa famille et son équipe. Je m’appelle Tom Rublé, j’ai 21 ans et je tenais à vous remercier pour votre engagement auprès de vos auditeurs / communauté.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Nicolas Millefeuille",
+        "titre": "Un podcast très intéressant !",
+        "texte": "Je recommande ce podcast pour la diversité des thèmes abordés et pour la pertinence des conseils qui y sont prodigués. De mon côté, j’ai beaucoup apprécié les conseils entrepreneuriaux, les points de vue sur le salariat et sur le développement de l’IA.…"
+      }
     ]
   }
 }

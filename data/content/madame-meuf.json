@@ -50,25 +50,29 @@
   "derniere_activite": "2026-11-03",
   "frequence_jours": 4,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Me très bien",
+        "titre": "Merci Courageuse Mme Meuf!",
+        "texte": "Raaaalala heureusement que Mme Meuf est la en ce moment pour me remonter le moral ou parfois juste pour me permettre de me défouler intérieurement sur des sujets « super importants » sur lesquels son regard me fait toujours rire! Courage Mme Meuf, les temps sont durs pour les art…"
+      },
+      {
+        "note": 1,
+        "auteur": "NicolasVALLET",
+        "titre": "Comme le titre du podcast le montre…",
+        "texte": "La beauferie au féminin…les sujets, le traitement sujet, etc."
+      },
+      {
+        "note": 5,
+        "auteur": "zhaya94",
+        "titre": "Mais meuf, je te kiffe !!!",
+        "texte": "Depuis que je t’ai découverte via un autre podcast bababam durant ce confinement, je suis aux anges. J’ai tout écouté depuis le 1er janvier façon binge, partagé à toutes mes potes, voulu prendre des places pour ton spectacle...…"
+      }
     ]
   }
 }

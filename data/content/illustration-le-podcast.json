@@ -53,25 +53,29 @@
   "derniere_activite": "2026-09-16",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "CupCakeMyrtille",
+        "titre": "Énergie, boost, inspiration & good vibes ✨",
+        "texte": "Tout est dans le titre ! Les podcasts d’Ëlodie sont une vraie source d’inspiration, d’énergie positive et de good vibes. Elle nous explique tout, nous boost, nous aide à nous sentir légitime et nous accompagne sur toutes sortes de sujets en rapport avec l’illustration et parfois…"
+      },
+      {
+        "note": 5,
+        "auteur": "Thefrancu34",
+        "titre": "Un souffle d’espoir",
+        "texte": "J’ai découvert ce podcast en découvrant tout le contenu richissime gratuit d’Élodie. La qualité de ses blogs, des ressources gratuites et de ce podcast m’ont juste automatiquement amené à rejoindre également son membership mensuel que j’adore! Ce podcast est une mine d’informatio…"
+      },
+      {
+        "note": 5,
+        "auteur": "SarrafFrr89",
+        "titre": "Les podcasts d’Ëlodie",
+        "texte": "Les podcasts proposés par Ëlodie sont une grande source d’informations touchant à tous les aspects de l’illustration. Elle fait intervenir sa propre expérience et celle de ses invités par le biais d’interviews qu’elle mène.…"
+      }
     ]
   }
 }

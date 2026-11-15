@@ -50,5 +50,25 @@
     }
   ],
   "derniere_activite": "2026-04-13",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Zioytif",
+        "titre": "Z 12ans",
+        "texte": "C’est flippant mais c’est cool😅😅❤️ Par contre c’est long et c’est toujours la même chose"
+      },
+      {
+        "note": 2,
+        "auteur": "Le commentateur du 22",
+        "titre": "Voix IA",
+        "texte": "Je reviens sur l’avis de l’IA c’est vraiment très dérangeant 😂😅"
+      }
+    ]
+  }
 }

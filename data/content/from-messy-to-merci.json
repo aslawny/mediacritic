@@ -51,25 +51,29 @@
   "derniere_activite": "2026-11-01",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ccstrk12",
+        "titre": "Néhal, MERCI !",
+        "texte": "J’ai découvert ton podcast grâce à une amie y’a seulement quelques jours et j’ai déjà écouté presque une dizaine d’épisodes (je consomme énormément de podcast et j’ai presque tout mis en pause pour t’écouter toi !).…"
+      },
+      {
+        "note": 5,
+        "auteur": "MGAH95",
+        "titre": "À écouter et réécouter !",
+        "texte": "From Messy to Merci est typiquement le style de podcast que l’on écoute sans en perdre une miette et que l’on réécoute pour être sûre d’en avoir saisi tous les détails. Le contenu y est si riche que l’on ressort de l’écoute avec pleins d’idées et d’envies de développement.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Minasomina",
+        "titre": "Tout le monde n a pas sa place à ta table",
+        "texte": "INCROYABLE MERCI ! Une amie entrepreneuse m a envoyé ton potcast mais merci je commençais à me dire mais stop tu es folle 👀🫩imagine je viens seulement depuis 48h d ouvrir mes réseaux et annoncer la création de ma marque et déjà j ai des remarques « à ton âge c’est risqué … tu es…"
+      }
     ]
   }
 }

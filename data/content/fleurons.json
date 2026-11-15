@@ -52,25 +52,29 @@
   "derniere_activite": "2026-09-26",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-16",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Katemanzana",
+        "titre": "Instructif, structuré, narratif",
+        "texte": "Je viens d’écouter les épisodes sur Dassault et Hermes et je les ai trouvés très bien construits, instructifs, analytiques, avec un petit côté suspense qui incite à continuer l’écoute.…"
+      },
+      {
+        "note": 1,
+        "auteur": "A_vasseur",
+        "titre": "Difficile a ecouter",
+        "texte": "La voix de Clémence est difficile à écouter on dirait une ado qui rentre de soirée. Enthousiaste c est sur mais impression que c est pour les like. Sur le PSG on sent que ca n est pas son sujet mais elle a les expressions toute faites pour donner impression qu elle maitrise"
+      },
+      {
+        "note": 5,
+        "auteur": "Point2Vue",
+        "titre": "Passionnant mais travail sur la forme",
+        "texte": "Podcast très intéressant sur le fond, notamment grâce aux éléments factuels, précis et étayés apportés par David Carzon. En revanche, les commentaires et jugements de valeur, notamment sur des personnalités qu’ils ne semblent pas connaître personnellement, apportent peu à l’analy…"
+      }
     ]
   }
 }

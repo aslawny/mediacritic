@@ -50,5 +50,25 @@
     }
   ],
   "derniere_activite": "2026-05-29",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-15",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Smur973",
+        "titre": "Podcast intelligible",
+        "texte": "Merci pour ce podcast très abordable. Vous donnez des exemples et cela aide à la compréhension. J’ai une question concernant les points faibles de la SCI. Pouvez-vous nous en parler ?"
+      },
+      {
+        "note": 5,
+        "auteur": "Tintin3426",
+        "titre": "Excellent",
+        "texte": "Bravo David. C’est clair, simple tout en étant très instructif. Je recommande à 100%!"
+      }
+    ]
+  }
 }
