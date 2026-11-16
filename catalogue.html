@@ -404,8 +404,10 @@
     <button class="filter-btn active" data-cat="all">Tous</button>
     <button class="filter-btn mc-only" data-cat="mc">⭐ Analysés par MediaCritic</button>
     <button class="filter-btn indep-only" data-cat="indep">Indépendants</button>
+    <button class="filter-btn desirs-btn" data-cat="desirs">🌙 Désirs &amp; intimité</button>
   </div>
   <p class="mc-legende"><span class="mc-indep">Indépendant</span> podcast ou chaîne YouTube publiés hors médias, studios, marques et institutions · <a href="podcasts-independants.html">le guide des indépendants</a></p>
+  <a class="mc-raccourci" id="desirs-raccourci" href="categories/podcasts-erotiques.html" hidden>🌙 <strong>Désirs &amp; intimité</strong> : tous les podcasts érotiques, sensuels et sur la sexualité →</a>
 
   <div class="results-info" id="results-info"></div>
 </div>
@@ -465,7 +467,7 @@
   function updateMeta(cat) {
     const canonicalEl = document.getElementById('canonical-tag');
     const metaDescEl  = document.getElementById('meta-description');
-    if (cat === 'all' || cat === 'mc' || cat === 'indep') {
+    if (cat === 'all' || cat === 'mc' || cat === 'indep' || cat === 'desirs') {
       document.title = DEFAULT_TITLE;
       if (metaDescEl)  metaDescEl.setAttribute('content', DEFAULT_DESC);
       if (canonicalEl) canonicalEl.href = BASE_URL;
@@ -483,7 +485,7 @@
   // Build category buttons
   function buildFilters(cats) {
     const existing = filtersCt.querySelectorAll('[data-cat]');
-    existing.forEach(b => { if(b.dataset.cat !== 'all' && b.dataset.cat !== 'mc' && b.dataset.cat !== 'indep') b.remove(); });
+    existing.forEach(b => { if(b.dataset.cat !== 'all' && b.dataset.cat !== 'mc' && b.dataset.cat !== 'indep' && b.dataset.cat !== 'desirs') b.remove(); });
     CATS_ORDER.filter(c => cats.has(c)).concat([...cats].filter(c => !CATS_ORDER.includes(c)).sort()).forEach(cat => {
       const btn = document.createElement('button');
       btn.className = 'filter-btn';
@@ -503,7 +505,16 @@
     });
   }
 
+  // Raccourci « Desirs & intimite » : un mot du theme dans la recherche
+  // affiche le lien direct vers la page (16/11/2026).
+  const DESIRS_RE=/\bsex|erot|\bsensu|porn|coquin|libertin|tantra|libido|orgasm|kamasutra|charnel|hot stor|bdsm|kink/;
+  function majRaccourci(){
+    const r=document.getElementById('desirs-raccourci'); if(!r) return;
+    const q=(searchTerm||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
+    r.hidden=!(q.length>=3&&DESIRS_RE.test(q));
+  }
   function applyFilters() {
+    majRaccourci();
     let base = catalog;
 
     // Category filter
@@ -511,6 +522,8 @@
       base = base.filter(i => i.hasMediacritic);
     } else if (activecat === 'indep') {
       base = base.filter(i => i.independant);
+    } else if (activecat === 'desirs') {
+      base = base.filter(i => i.desirs);
     } else if (activecat !== 'all') {
       base = base.filter(i => i.categories && i.categories.includes(activecat));
     }
