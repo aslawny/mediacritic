@@ -249,6 +249,15 @@ DESIRS_CFG = {
                  ("sexualite", "Sexualité, couple & désir"),
                  ("tantra", "Tantra & intimité")],
     "faq": [
+        ("Qu'est-ce que le « sex audio » ?",
+         "L'expression désigne les contenus audio à caractère érotique : histoires, lectures "
+         "et fictions sonores à écouter au casque. Contrairement à la vidéo, l'audio laisse "
+         "toute la place à l'imaginaire. Les podcasts de la section « Fictions & lectures "
+         "érotiques » en sont la version francophone, gratuite sur les plateformes d'écoute."),
+        ("Où écouter des histoires érotiques audio en français ?",
+         "Hot Stories, Les lectures érotiques de Charlie, Le Verrou et Les chemins de désir "
+         "(ARTE Radio) proposent des récits et des lectures à écouter sur Apple Podcasts, "
+         "Spotify ou Deezer. Chaque fiche de cette page donne les liens d'écoute."),
         ("Qu'est-ce qu'un podcast érotique ?",
          "Un récit ou une lecture à caractère sensuel, pensé pour l'écoute : nouvelles "
          "érotiques, fictions audio, textes littéraires lus par des voix choisies. L'audio "
@@ -257,6 +266,10 @@ DESIRS_CFG = {
          "Les émissions animées par des sexologues ou des thérapeutes de couple répondent "
          "aux questions concrètes ; les podcasts de témoignages racontent des expériences "
          "vécues. Cette page les réunit dans la section « Sexualité, couple & désir »."),
+        ("Quels podcasts sont animés par des sexologues ?",
+         "Lovecare, de Thérèse Hargot, sexologue et thérapeute de couple, ouvre la porte de "
+         "son cabinet ; Apéro Sexo est animé par une professionnelle en sexologie. Tous deux "
+         "figurent dans la section « Sexualité, couple & désir »."),
     ],
 }
 

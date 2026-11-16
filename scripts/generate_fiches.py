@@ -392,6 +392,12 @@ def construire_index(all_data):
                  "image": d.get("image"), "type": d.get("type", "podcast"),
                  "auteur": d.get("author", ""), "pop": pop,
                  "mc": bool(d.get("mediacritic"))}
+        # « Desirs & intimite » : ces fiches se recommandent ENTRE ELLES et
+        # sortent des categories generiques (un podcast erotique ne doit pas
+        # etre suggere sur une fiche d'education ou de societe).
+        if desirs_section(d):
+            INDEX_SIMILAIRES.setdefault("__desirs__", []).append(fiche)
+            continue
         for c in (d.get("categories") or [])[:3]:
             INDEX_SIMILAIRES.setdefault(c, []).append(fiche)
     for lst in INDEX_SIMILAIRES.values():
@@ -420,8 +426,9 @@ def similaires(data, maxi=6):
     # pertinence. Deux suffisent a ramener vers le podcast.
     MAX_MC = 2
     nb_mc = 0
+    cats_sim = ["__desirs__"] if desirs_section(data) else (data.get("categories") or [])
     for meme_type in (True, False):
-        for c in (data.get("categories") or []):
+        for c in cats_sim:
             for f in INDEX_SIMILAIRES.get(c, []):
                 if f["slug"] in vus:
                     continue
@@ -462,7 +469,11 @@ def bloc_similaires(data):
             % (h(f["slug"]), vign, etoile, h(f["title"]), h(f["auteur"][:30])))
     cats = data.get("categories") or []
     lien = ""
-    if cats:
+    if desirs_section(data):
+        lien = ('<div style="margin-top:18px"><a class="btn btn-mc" '
+                'href="../categories/podcasts-erotiques.html">'
+                'Tous les podcasts érotiques et sensuels →</a></div>')
+    elif cats:
         lien = ('<div style="margin-top:18px"><a class="btn btn-mc" href="%s">'
                 'Tout voir en %s →</a></div>' % (category_href(cats[0]), h(cats[0])))
     return ('  <div class="card">    <h2>À découvrir aussi</h2>'
