@@ -235,7 +235,7 @@ CATEGORIES = [
 # autres categories n'y renvoient pas), du menu et de l'accueil. Membres :
 # champ « desirs » du catalogue, pose par generate_fiches (scripts/desirs.py).
 DESIRS_CFG = {
-    "slug": "podcasts-erotiques", "cats": [], "desirs": True,
+    "slug": "podcasts-erotiques", "cats": [], "desirs": True, "max": 400,
     "name": "Désirs & intimité", "emoji": "🌙", "nom_top": "sur le désir et l'intimité",
     "title": "Podcasts érotiques et audio sensuel : notre sélection",
     "h1": "Désirs & intimité : podcasts érotiques et audio sensuel",
@@ -386,7 +386,9 @@ def build_page(cfg, catalog, moyenne):
     if cfg.get("desirs"):
         items = [x for x in catalog if x.get("desirs")]
     else:
-        items = [x for x in catalog if cats & set(x.get("categories") or [])]
+        # Les contenus « Desirs & intimite » n'apparaissent QUE sur leur page,
+        # pas sur Culture & societe, Humour, etc. (16/11/2026).
+        items = [x for x in catalog if not x.get("desirs") and cats & set(x.get("categories") or [])]
     classement, plancher = top_categorie(items, moyenne)
     nb_eligibles = sum(1 for x in items if x.get("rating") and x.get("ratingCount")
                        and int(x["ratingCount"]) >= plancher) if plancher else 0
@@ -394,7 +396,7 @@ def build_page(cfg, catalog, moyenne):
     mc = sorted([x for x in items if x.get("hasMediacritic")],
                 key=lambda x: x.get("mcEpisode") or 999)
     others = sorted([x for x in items if not x.get("hasMediacritic")],
-                    key=sort_key, reverse=True)[:MAX_OTHERS]
+                    key=sort_key, reverse=True)[:cfg.get("max", MAX_OTHERS)]
     total = len(items)
     shown_others = others
 
