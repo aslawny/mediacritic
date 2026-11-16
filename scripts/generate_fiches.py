@@ -691,19 +691,14 @@ def bloc_avertissement(data):
     a = data.get("avertissement")
     if not a:
         return ""
+    # Deux phrases, rien de plus (decision de l'utilisateur, 16/11/2026 : les
+    # titres cites et la source « c'est trop »). Les preuves restent dans le
+    # champ `avertissement` (exemples, sources), non affichees.
     qui = "Cette chaîne" if data.get("type") == "youtube" else "Cette émission"
     corps = ['<p>%s relaie des thèses contestées, présentées comme de l\'information '
-             'sans vérification.%s</p>' % (qui, (" " + h(a["faits"])) if a.get("faits") else "")]
-    if a.get("exemples"):
-        corps.append('<p>Exemples de titres qu\'elle a publiés :</p><ul>%s</ul>' % "".join(
-            '<li>« %s »<span class="av-date">%s</span></li>' % (h(e["titre"]), h(e["date"]))
-            for e in a["exemples"]))
-    if a.get("sources"):
-        corps.append('<p class="av-sources">Pour aller plus loin : %s.</p>' % " ; ".join(
-            '<a href="%s" rel="noopener" target="_blank">%s</a> (%s, %s)'
-            % (h(s["url"]), h(s["titre"]), h(s["source"]), h(s["date"])) for s in a["sources"]))
-    corps.append("<p><strong>Référencer n'est pas recommander : MediaCritic recense, "
-                 "il ne cautionne pas.</strong></p>")
+             'sans vérification.</p>' % qui,
+             "<p><strong>Référencer n'est pas recommander : MediaCritic recense, "
+             "il ne cautionne pas.</strong></p>"]
     return ('  <div class="card mc-avert"><h2>⚠️ Note de MediaCritic</h2>%s</div>\n'
             % "".join(corps))
 
