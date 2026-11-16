@@ -695,9 +695,10 @@ def bloc_avertissement(data):
     # titres cites et la source « c'est trop »). Les preuves restent dans le
     # champ `avertissement` (exemples, sources), non affichees.
     qui = "Cette chaîne" if data.get("type") == "youtube" else "Cette émission"
-    corps = ['<p>%s relaie des thèses contestées, présentées comme de l\'information '
-             'sans vérification.</p>' % qui,
-             "<p><strong>Référencer n'est pas recommander : MediaCritic recense, "
+    # Texte exact de l'utilisateur (16/11/2026), accord « avérée » corrige.
+    corps = ['<p>%s relaie des thèses contestées, présentées comme de l’information '
+             'mais sans vérification avérée.</p>' % qui,
+             "<p><strong>Référencer n’est pas recommander : MediaCritic recense, "
              "il ne cautionne pas.</strong></p>"]
     return ('  <div class="card mc-avert"><h2>⚠️ Note de MediaCritic</h2>%s</div>\n'
             % "".join(corps))
