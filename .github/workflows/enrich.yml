@@ -172,6 +172,17 @@ jobs:
             echo "repair_authors.py absent — ignoré"
           fi
 
+      # 5c. Medias complotistes : avertissement factuel, plus de label
+      # independant ni de badge, jamais podcast du jour (16/11/2026).
+      # AVANT les fiches : generate_fiches rend le champ `avertissement`.
+      - name: Detect complot
+        working-directory: site
+        continue-on-error: true
+        run: |
+          if [ -f "scripts/detect_complot.py" ]; then
+            python scripts/detect_complot.py
+          fi
+
       # 6. Régénération des fiches HTML individuelles
       - name: Generate fiches HTML
         working-directory: site
