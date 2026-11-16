@@ -301,6 +301,32 @@ def est_marque_exclue(c):
     return any(m in noms for m in MARQUES_EXCLUES)
 
 
+# Emissions complotistes : jamais mises en avant (decision de l'utilisateur,
+# 16/11/2026). Elles restent dans l'annuaire. Liste nominative, relue a la
+# main, + filet sur les titres d'episodes recents pour les nouvelles venues.
+# Regle SECRETE comme les autres : jamais affichee.
+COMPLOTISTES = {
+    "geopolitique-profonde", "geopolitique-profonde-www-geopolitique-profonde-com",
+    "gptv-www-geopolitique-profonde-com", "babel-tv", "adnm-acteurs-du-nouveau-monde",
+    "katetv", "tocsin", "la-matinale-tocsin",
+    "idriss-j-aberkane-ph-d-x3", "idriss-aberkane-official",
+}
+# Marqueurs sans ambiguite (pas « Kraken » seul, plateforme crypto ; pas
+# « nouvel ordre mondial », titre d'un vrai debat d'economie).
+MARQUEURS_COMPLOT = re.compile(
+    r"qanon|op[ée]ration q\b|pland[ée]mie|grand reset|great reset|g[ée]nocide vaccinal"
+    r"|chemtrail|terre plate|grand remplacement|lib[ée]ration du kraken"
+    r"|g[ée]opolitique profonde", re.I)
+
+
+def est_complotiste(c):
+    if c.get("slug") in COMPLOTISTES:
+        return True
+    f = fiche(c.get("slug") or "") or {}
+    titres = " ".join(e.get("titre") or "" for e in f.get("episodes_recents") or [])
+    return bool(MARQUEURS_COMPLOT.search(titres + " " + (f.get("description") or "")))
+
+
 def est_info(c):
     cats = c.get("categories") or []
     if cats and cats[0] in CATEGORIES_INFO:
@@ -322,6 +348,8 @@ def vivier(cat, jour):
         # la chaine de l'OM pour une video en anglais) : pas des emissions a
         # faire decouvrir.
         if c.get("type") == "youtube" and not c.get("independant"):
+            continue
+        if est_complotiste(c):
             continue
         if c.get("type") == "youtube":
             if c.get("subscribers"):
