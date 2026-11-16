@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/next-gen-patrimoine/id6818568863?uo=2",
       "trackId": 6818568863,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": null
     }
   },
@@ -25,11 +25,19 @@
     "business"
   ],
   "addedAt": "2026-10-29",
-  "updatedAt": "2026-10-29",
+  "updatedAt": "2026-11-16",
   "episodes_recents": [
     {
-      "titre": "De 100 M€ à 1 milliard d’encours : le déclic de ce cabinet de CGP #shorts",
-      "date": "2026-10-26"
+      "titre": "Vendre sa boîte 100 M€ et toucher 2 M€ : comment c'est possible ?",
+      "date": "2026-11-13"
+    },
+    {
+      "titre": "Crise de la dette, à qui la faute ?",
+      "date": "2026-11-06"
+    },
+    {
+      "titre": "ETF : la fin du rendement facile ?",
+      "date": "2026-10-30"
     },
     {
       "titre": "Il trouvait ses clients dans les annonces de Porsche : l’histoire du Groupe Rayne par son fondateur",
@@ -38,16 +46,8 @@
     {
       "titre": "Comment les gros patrimoines se protègent avant 2027 : il gère 750M€ et nous explique",
       "date": "2026-10-16"
-    },
-    {
-      "titre": "Ex-trader en hedge fund (5 milliards gérés) : les pièges des ETF",
-      "date": "2026-10-09"
-    },
-    {
-      "titre": "Pourquoi les Français restent pauvres ? Elle conseille des millionaires et nous répond",
-      "date": "2026-10-02"
     }
   ],
-  "derniere_activite": "2026-10-26",
+  "derniere_activite": "2026-11-13",
   "frequence_jours": 7
 }

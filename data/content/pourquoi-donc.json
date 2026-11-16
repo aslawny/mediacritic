@@ -23,7 +23,7 @@
     "education"
   ],
   "addedAt": "2026-09-20",
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-16",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -52,6 +52,10 @@
   },
   "episodes_recents": [
     {
+      "titre": "Le Caravage: peindre pour obtenir le pardon",
+      "date": "2026-11-12"
+    },
+    {
       "titre": "Le coup de feu derrière Le Rouge et le Noir",
       "date": "2026-11-07"
     },
@@ -66,12 +70,8 @@
     {
       "titre": "Pourquoi les cartes du monde entier ont-elles inventé une île fantôme ?",
       "date": "2026-04-22"
-    },
-    {
-      "titre": "Pourquoi les Japonais célèbrent les cerisiers en fleurs ?",
-      "date": "2026-04-21"
     }
   ],
-  "derniere_activite": "2026-11-07",
+  "derniere_activite": "2026-11-12",
   "frequence_jours": 1
 }

@@ -25,7 +25,7 @@
     "education"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-16",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,6 +54,10 @@
   },
   "episodes_recents": [
     {
+      "titre": "143. La bataille de Verdun (1916)",
+      "date": "2026-11-09"
+    },
+    {
       "titre": "Les chocs pétroliers [REDIFF]",
       "date": "2026-10-26"
     },
@@ -68,12 +72,8 @@
     {
       "titre": "140. Romulus, Rémus et la louve : comment est née Rome ?",
       "date": "2026-09-14"
-    },
-    {
-      "titre": "Lyon, histoire d'une ville-carrefour [Hors-série]",
-      "date": "2026-08-31"
     }
   ],
-  "derniere_activite": "2026-10-26",
+  "derniere_activite": "2026-11-09",
   "frequence_jours": 14
 }

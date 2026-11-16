@@ -23,7 +23,7 @@
     "sport"
   ],
   "addedAt": "2026-08-14",
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-16",
   "avis_publics": {
     "source": "apple",
     "boutique": "ch",
@@ -52,6 +52,14 @@
   },
   "episodes_recents": [
     {
+      "titre": "12 novembre 2026",
+      "date": "2026-11-12"
+    },
+    {
+      "titre": "11 novembre 2026",
+      "date": "2026-11-11"
+    },
+    {
       "titre": "Les états généreux de la bioéthique",
       "date": "2026-11-04"
     },
@@ -62,16 +70,8 @@
     {
       "titre": "La Salle du Trésor",
       "date": "2026-10-21"
-    },
-    {
-      "titre": "Balado avec Hakan",
-      "date": "2026-10-14"
-    },
-    {
-      "titre": "Retrouvailles avec Auréa",
-      "date": "2026-10-07"
     }
   ],
-  "derniere_activite": "2026-11-04",
-  "frequence_jours": 6
+  "derniere_activite": "2026-11-12",
+  "frequence_jours": 3
 }

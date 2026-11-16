@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/tftc-le-podcast/id1483918693?uo=2",
       "trackId": 1483918693,
       "rating": 4.8,
-      "ratingCount": 1141,
+      "ratingCount": 1140,
       "episodeCount": null
     }
   },
@@ -27,7 +27,7 @@
     "series"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-16",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -56,6 +56,10 @@
   },
   "episodes_recents": [
     {
+      "titre": "En boucle : Michael Cera, Tom Waits, etc.",
+      "date": "2026-11-15"
+    },
+    {
       "titre": "En boucle : Merle Haggard, Josh Ritter, etc.",
       "date": "2026-11-08"
     },
@@ -70,12 +74,8 @@
     {
       "titre": "L'Amour ouf avec Gilles Lellouche",
       "date": "2026-10-29"
-    },
-    {
-      "titre": "En boucle : Mark Kozelek, U2, etc.",
-      "date": "2026-10-26"
     }
   ],
-  "derniere_activite": "2026-11-08",
+  "derniere_activite": "2026-11-15",
   "frequence_jours": 3
 }

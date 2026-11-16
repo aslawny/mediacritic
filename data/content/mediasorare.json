@@ -24,7 +24,7 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-16",
   "episodes_recents": [
     {
       "titre": "#Hors-série avec Mehdi alias MagicMehdi, habitué des podiums en SO5 et animateur du podcast MediaSorare !",
@@ -50,25 +50,23 @@
   "derniere_activite": "2023-12-13",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-17",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-16",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Kangoosaure",
+        "titre": "Incontournable",
+        "texte": "Incontournable podcast si vous jouez de près ou de loin à Sorare, chaque épisode est un régal à écouter, merci Mehdi et continue comme ça"
+      },
+      {
+        "note": 5,
+        "auteur": "Mercéee le 100",
+        "titre": "Au top",
+        "texte": "Étant un amateur de SoRare. Chaque épisode est un moment d’écoute et aussi apprentissage. Félicitations pour le travail les gars 👍"
+      }
     ]
   }
 }

@@ -28,8 +28,20 @@
     "tech",
     "numérique"
   ],
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-16",
   "episodes_recents": [
+    {
+      "titre": "#362.exe - Le LEAN à l'ère de l'IA: Réapprendre à produire du code (vraiment) Lean avec l'IA par Jordan Nourry",
+      "date": "2026-11-13"
+    },
+    {
+      "titre": "#384.src - Usine logicielle 100% AI: Qui réveille-t-on quand l'usine prend feu ? avec Nikolay Rodionov",
+      "date": "2026-11-11"
+    },
+    {
+      "titre": "#237.diff - Exotec: Une reine et une armée de robots avec Sophie Paquereau",
+      "date": "2026-11-09"
+    },
     {
       "titre": "#371.exe - Everyone can build: La révolution du code ouvert chez Alan par Yves Brissaud",
       "date": "2026-11-06"
@@ -37,20 +49,8 @@
     {
       "titre": "#383.src - Contexte Engineering: Dresser ses agents IA avec Florian Bruniaux",
       "date": "2026-11-04"
-    },
-    {
-      "titre": "#358.exe - DevSecOps: Pourquoi l'automatisation ne sauvera pas (toute seule) la sécu par Florian Bruniaux",
-      "date": "2026-10-30"
-    },
-    {
-      "titre": "#382.src - Rapprocher la CI: L'IA a 20x la cadence, nos CI doivent suivre avec Yves Brissaud",
-      "date": "2026-10-28"
-    },
-    {
-      "titre": "#381.src - AI Coding: Réécrire des applications legacy avec Quentin Pleplé",
-      "date": "2026-10-21"
     }
   ],
-  "derniere_activite": "2026-11-06",
+  "derniere_activite": "2026-11-13",
   "frequence_jours": 6
 }

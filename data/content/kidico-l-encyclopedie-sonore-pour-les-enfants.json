@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/kidico-lencyclop%C3%A9die-sonore-pour-les-enfants/id1479198522?uo=2",
       "trackId": 1479198522,
-      "rating": 4.4,
-      "ratingCount": 1326,
+      "rating": 4.3,
+      "ratingCount": 1328,
       "episodeCount": null
     }
   },
@@ -25,7 +25,7 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-16",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,26 +54,26 @@
   },
   "episodes_recents": [
     {
+      "titre": "A comme Amérique",
+      "date": "2026-11-15"
+    },
+    {
+      "titre": "P comme Pokémon",
+      "date": "2026-11-14"
+    },
+    {
+      "titre": "P comme Pat'Patrouille",
+      "date": "2026-11-12"
+    },
+    {
+      "titre": "G comme Gâteaux",
+      "date": "2026-11-11"
+    },
+    {
       "titre": "E Comme Escargot",
       "date": "2026-11-08"
-    },
-    {
-      "titre": "E comme Ecologie",
-      "date": "2026-11-07"
-    },
-    {
-      "titre": "F comme Football",
-      "date": "2026-11-05"
-    },
-    {
-      "titre": "S comme Savane",
-      "date": "2026-11-04"
-    },
-    {
-      "titre": "D comme Docteurs",
-      "date": "2026-11-01"
     }
   ],
-  "derniere_activite": "2026-11-08",
+  "derniere_activite": "2026-11-15",
   "frequence_jours": 1
 }

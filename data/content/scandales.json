@@ -25,7 +25,7 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-16",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,6 +54,10 @@
   },
   "episodes_recents": [
     {
+      "titre": "[REDIFF] La princesse Charlene : le grand mystère de Monaco",
+      "date": "2026-11-09"
+    },
+    {
       "titre": "Céline Dion 3/3 : les ombres derrière la lumière",
       "date": "2026-10-26"
     },
@@ -68,12 +72,8 @@
     {
       "titre": "Prochainement : Céline Dion, la superstar qui revient de loin",
       "date": "2026-09-21"
-    },
-    {
-      "titre": "[REDIFF] Kylie Jenner : la plus énigmatique des sœurs Kardashian",
-      "date": "2026-08-31"
     }
   ],
-  "derniere_activite": "2026-10-26",
+  "derniere_activite": "2026-11-09",
   "frequence_jours": 7
 }

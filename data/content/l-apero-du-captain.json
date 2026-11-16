@@ -26,7 +26,7 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-16",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -55,6 +55,10 @@
   },
   "episodes_recents": [
     {
+      "titre": "ADC #444 : Le frigo hacké de la Trump Tower",
+      "date": "2026-11-10"
+    },
+    {
       "titre": "ADC #443 : 20 ans de Patrick Beja",
       "date": "2026-11-05"
     },
@@ -69,12 +73,8 @@
     {
       "titre": "ADC #440 : Le spécial futur à 360° de Nostradanus",
       "date": "2026-10-23"
-    },
-    {
-      "titre": "ADC #439 : Le fiak fiak fiak d'artifice de l'UFC Maison Blanche",
-      "date": "2026-09-05"
     }
   ],
-  "derniere_activite": "2026-11-05",
+  "derniere_activite": "2026-11-10",
   "frequence_jours": 7
 }

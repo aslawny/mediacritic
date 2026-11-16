@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/happy-end-le-podcast/id1878471112?uo=2",
       "trackId": 1878471112,
       "rating": 4.9,
-      "ratingCount": 866,
+      "ratingCount": 877,
       "episodeCount": null
     }
   },
@@ -27,8 +27,12 @@
     "news"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-16",
   "episodes_recents": [
+    {
+      "titre": "Episode 23 : L'animateur du mariage",
+      "date": "2026-11-09"
+    },
     {
       "titre": "Episode 22 : Après la tempête",
       "date": "2026-11-02"
@@ -44,13 +48,9 @@
     {
       "titre": "Episode 19 : Le pouvoir du moment présent",
       "date": "2026-10-12"
-    },
-    {
-      "titre": "Episode 18 : Pourvu que ça dure",
-      "date": "2026-10-05"
     }
   ],
-  "derniere_activite": "2026-11-02",
+  "derniere_activite": "2026-11-09",
   "frequence_jours": 7,
   "avis_publics": {
     "source": "apple",

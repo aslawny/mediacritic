@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/maison-borniol/id6818556313?uo=2",
       "trackId": 6818556313,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": null
     }
   },
@@ -25,16 +25,29 @@
     "critique"
   ],
   "addedAt": "2026-10-05",
-  "updatedAt": "2026-10-05",
+  "updatedAt": "2026-11-16",
   "episodes_recents": [
     {
-      "titre": "épisode 02 : … tout corps vivant branché sur le secteur étant appelé à s’émouvoir… partie 1",
-      "date": "2026-10-03"
+      "titre": "épisode 09 : dernières balises (avant mutation) - partie 1",
+      "date": "2026-11-14"
     },
     {
-      "titre": "épisode 01 : présentation du projet (hors-série n°1)",
-      "date": "2026-10-02"
+      "titre": "épisode 08 : de l'amour, de l'art ou du cochon ? - partie 2",
+      "date": "2026-11-07"
+    },
+    {
+      "titre": "épisode 07 : de l'amour, de l'art ou du cochon ? - partie 1",
+      "date": "2026-10-31"
+    },
+    {
+      "titre": "Episode interview n°3 : Benjamin \"c'est ma zone de refuge\"",
+      "date": "2026-10-30"
+    },
+    {
+      "titre": "épisode interview n°2 : Kevin, une affaire de famille",
+      "date": "2026-10-25"
     }
   ],
-  "derniere_activite": "2026-10-03"
+  "derniere_activite": "2026-11-14",
+  "frequence_jours": 4
 }

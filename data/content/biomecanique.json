@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/biom%C3%A9canique/id1456142727?uo=4",
       "trackId": 1456142727,
       "rating": 4.8,
-      "ratingCount": 1334,
+      "ratingCount": 1335,
       "episodeCount": 326
     }
   },
@@ -25,8 +25,12 @@
   "tags": [
     "histoire"
   ],
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-16",
   "episodes_recents": [
+    {
+      "titre": "La fin d’Internet est pour 2027 : un ingénieur IA ALERTE",
+      "date": "2026-11-09"
+    },
     {
       "titre": "Mémoire de l'eau : ce médecin revient sur l'une des plus grandes controverses scientifiques",
       "date": "2026-11-02"
@@ -42,13 +46,9 @@
     {
       "titre": "Voici ce qu’ils ont déjà décidé pour votre futur (Insider de la Silicon Valley)",
       "date": "2026-10-12"
-    },
-    {
-      "titre": "35 ans chez BIG PHARMA : ce qu'il a vu de l'intérieur",
-      "date": "2026-10-05"
     }
   ],
-  "derniere_activite": "2026-11-02",
+  "derniere_activite": "2026-11-09",
   "frequence_jours": 7,
   "avis_publics": {
     "source": "apple",

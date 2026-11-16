@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/les-ma%C3%AEtres-du-myst%C3%A8re/id1672297528?uo=2",
       "trackId": 1672297528,
       "rating": 4.6,
-      "ratingCount": 897,
+      "ratingCount": 898,
       "episodeCount": null
     }
   },
@@ -27,7 +27,7 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-16",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -56,6 +56,10 @@
   },
   "episodes_recents": [
     {
+      "titre": "[Parties de chasse] - La Flèche magique",
+      "date": "2026-11-10"
+    },
+    {
       "titre": "[Parties de chasse] - Le Crime de Rothbury",
       "date": "2026-11-03"
     },
@@ -70,12 +74,8 @@
     {
       "titre": "[Crimes côté cour] - Dernier acte",
       "date": "2026-10-13"
-    },
-    {
-      "titre": "[Crimes côté cour] - Fausse note",
-      "date": "2026-10-06"
     }
   ],
-  "derniere_activite": "2026-11-03",
+  "derniere_activite": "2026-11-10",
   "frequence_jours": 7
 }

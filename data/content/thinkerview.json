@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/thinkerview/id1196519121?uo=4",
       "trackId": 1196519121,
       "rating": 4.6,
-      "ratingCount": 3169,
+      "ratingCount": 3173,
       "episodeCount": 417
     }
   },
@@ -25,7 +25,7 @@
   "tags": [
     "histoire"
   ],
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-16",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,6 +54,10 @@
   },
   "episodes_recents": [
     {
+      "titre": "Jérôme Clech : Les nouveaux maîtres du futur ?",
+      "date": "2026-11-11"
+    },
+    {
       "titre": "Bruno Le Maire : Face à la Guerre, Civile, Économie, Mondiale ?",
       "date": "2026-11-02"
     },
@@ -68,12 +72,8 @@
     {
       "titre": "Charles Alloncle : La mafia de l’audiovisuel public ?",
       "date": "2026-10-07"
-    },
-    {
-      "titre": "Arancha González : L’arme d’immigration de masse ? Menace ou opportunité ?",
-      "date": "2026-10-06"
     }
   ],
-  "derniere_activite": "2026-11-02",
-  "frequence_jours": 5
+  "derniere_activite": "2026-11-11",
+  "frequence_jours": 9
 }

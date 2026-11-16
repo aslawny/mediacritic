@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/folie-douce-genre-et-sant%C3%A9-mentale/id1726024334?uo=4",
       "trackId": 1726024334,
       "rating": 4.8,
-      "ratingCount": 789,
+      "ratingCount": 790,
       "episodeCount": 102
     }
   },
@@ -27,8 +27,12 @@
     "culture"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-16",
   "episodes_recents": [
+    {
+      "titre": "[PETITE DOUCEUR] Amandine Gay sur le traumatisme racial",
+      "date": "2026-11-13"
+    },
     {
       "titre": "Danser et flamboyer sur les ruines du vieux monde avec Noam Sinseau",
       "date": "2026-11-05"
@@ -44,14 +48,10 @@
     {
       "titre": "[PETITE DOUCEUR] Isabelle Carré, cri d’alerte sur une jeunesse en souffrance",
       "date": "2026-10-16"
-    },
-    {
-      "titre": "De la solitude à la scène : sortir de sa chrysalide avec Solann",
-      "date": "2026-10-08"
     }
   ],
-  "derniere_activite": "2026-11-05",
-  "frequence_jours": 6,
+  "derniere_activite": "2026-11-13",
+  "frequence_jours": 8,
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",

@@ -26,7 +26,7 @@
     "vulgarisation"
   ],
   "addedAt": "2026-06-09",
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-16",
   "episodes_recents": [
     {
       "titre": "CHAPELET - NDML 🙏 Lundi 9 Novembre",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-11-09",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-17",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-16",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Marie Nathanaelle",
+        "titre": "Merci !",
+        "texte": "Merci pour la retransmission de vos chapelets si précieuse ! Je vous suit avec bonheur chaque jour depuis l’été de la pandémie de Covid J’ai découvert tout récemment que vous le retransmettez aussi en podcast, ce qui permet de le reprendre uniquement par l’écoute, car on n’a pas…"
+      },
+      {
+        "note": 5,
+        "auteur": "Garcamant",
+        "titre": "Un temps précieux",
+        "texte": "Formidable de pouvoir réciter et chanter le chapelet en communauté où que l’on soit. Est il possible d’actualiser les chapelets plus régulièrement ? Merci beaucoup 🙏🏻"
+      },
+      {
+        "note": 5,
+        "auteur": "GOUPIL 54450",
+        "titre": "Super agréable pour bien commencer la journée",
+        "texte": "Petit plus on croirait la voix de Raphaël Glüqusann (c’est peut être un secret bien gardé)"
+      }
     ]
   }
 }

@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/ontime/id1726204645?uo=2",
       "trackId": 1726204645,
       "rating": 4.0,
-      "ratingCount": 40,
+      "ratingCount": 41,
       "episodeCount": null
     }
   },
@@ -27,7 +27,7 @@
     "series"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-16",
   "episodes_recents": [
     {
       "titre": "\"J'allais au cinéma de 9h à 23h\" Albert Dupontel",
@@ -53,25 +53,29 @@
   "derniere_activite": "2026-11-09",
   "frequence_jours": 3,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-17",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-16",
+    "extraits": [
+      {
+        "note": 2,
+        "auteur": "Rmaruani",
+        "titre": "Pourquoi ?",
+        "texte": "Contenu de qualité mais son et production médiocre, quel dommage. Avec un invité aussi prestigieux que Vincent Lindon, comment est-ce possible ?"
+      },
+      {
+        "note": 1,
+        "auteur": "AymPC",
+        "titre": "On entend rien",
+        "texte": "Comparé à tous mes autres podcast le son est mauvais. Monte le son du vocal stp"
+      },
+      {
+        "note": 1,
+        "auteur": "*FRED35*",
+        "titre": "Son TRÈS mauvais!!!",
+        "texte": "Sur les 2 derniers épisodes dont celui avec Vincent Lindon (Très bon contenu), celui avec Éric Judor c’est une horreur à trois voix en même temps. Problèmes de micros ou autres??? Dommage."
+      }
     ]
   }
 }

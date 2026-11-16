@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/petit-lapin/id1659380569?uo=2",
       "trackId": 1659380569,
       "rating": 4.1,
-      "ratingCount": 1424,
+      "ratingCount": 1430,
       "episodeCount": null
     }
   },
@@ -27,7 +27,7 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-16",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -56,6 +56,10 @@
   },
   "episodes_recents": [
     {
+      "titre": "Petit Lapin apprend à trier ses déchets",
+      "date": "2026-11-13"
+    },
+    {
       "titre": "Petit Lapin se déguise pour Halloween",
       "date": "2026-11-06"
     },
@@ -70,12 +74,8 @@
     {
       "titre": "Petit Lapin va à la chasse aux champignons",
       "date": "2026-10-16"
-    },
-    {
-      "titre": "Petit Lapin dort chez un copain",
-      "date": "2026-10-09"
     }
   ],
-  "derniere_activite": "2026-11-06",
+  "derniere_activite": "2026-11-13",
   "frequence_jours": 7
 }

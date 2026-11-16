@@ -25,7 +25,7 @@
     "enfants",
     "éducation"
   ],
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-16",
   "episodes_recents": [
     {
       "titre": "Épisode 8 rematerisé : L'Épée de Jeanne d'Arc",
@@ -51,25 +51,29 @@
   "derniere_activite": "2026-11-10",
   "frequence_jours": 3,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-17",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-16",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "🦄🐴🐉🐢",
+        "titre": "Oki",
+        "texte": "C’est bien 🙂 mais il faut changer la voix des enfants et des chiens . Je vous mais. 5 étoiles ⭐️ mais vraiment changer la voix c’est HORRIBLE 🤕😞."
+      },
+      {
+        "note": 1,
+        "auteur": "Fan(e) des voyages d’Amélia",
+        "titre": "La voie … c’est dommage",
+        "texte": "La voie on dirait de l’IA + on dirait qu’il n’y as pas d’aventure, c’est à dire pas de poursuite ou autre, …c’est dommage"
+      },
+      {
+        "note": 3,
+        "auteur": "Malo64!",
+        "titre": "Voix de synthèse",
+        "texte": "Contenu tellement interessant c’est tellement dommage que cela soit des voix de synthèse"
+      }
     ]
   }
 }
