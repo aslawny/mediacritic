@@ -226,7 +226,15 @@ footer a:hover{color:var(--c-orange)}
 # l'ecriture de fiche.css (charte.nettoyer_feuille).
 from charte import nettoyer_feuille as charte_nettoyer_feuille  # noqa: E402
 import badges  # noqa: E402  badges MediaCritic pour les editeurs (vague 2 SEO)
-CSS_BLOCK = charte_nettoyer_feuille(CSS_BLOCK + badges.CSS)
+CSS_AVERT = """
+.mc-avert{border:1px solid rgba(232,98,45,.55);background:rgba(232,98,45,.07)}
+.mc-avert ul{margin:10px 0 12px 18px;display:flex;flex-direction:column;gap:6px}
+.mc-avert li{font-size:.9rem}
+.mc-avert .av-date{color:var(--c-muted2);font-size:.82rem;margin-left:6px}
+.mc-avert .av-sources{font-size:.88rem}
+.mc-avert .av-sources a{color:var(--c-orange)}
+"""
+CSS_BLOCK = charte_nettoyer_feuille(CSS_BLOCK + badges.CSS + CSS_AVERT)
 
 
 # ─── Helpers ──────────────────────────────────────────────────────────────────
@@ -654,9 +662,38 @@ def bloc_partage(data):
     return ('  <div class="card pt-card"><h2>🔗 Partager cette fiche</h2>'
             '<div class="pt-row">' + liens + copie + "</div></div>")
 
+def bloc_avertissement(data):
+    """Note de MediaCritic sur une fiche de media complotiste (decision de
+    l'utilisateur, 16/11/2026). FACTUEL, jamais une accusation : leurs propres
+    titres, cites et dates, et une source exterieure quand elle existe. La
+    fiche reste indexee : l'internaute qui arrive par Google voit notre
+    position. Champ `avertissement` saisi a la main : {faits?, exemples
+    [{titre, date}], sources [{source, titre, url, date}]}."""
+    a = data.get("avertissement")
+    if not a:
+        return ""
+    qui = "Cette chaîne" if data.get("type") == "youtube" else "Cette émission"
+    corps = ['<p>%s relaie des thèses contestées, présentées comme de l\'information '
+             'sans vérification.%s</p>' % (qui, (" " + h(a["faits"])) if a.get("faits") else "")]
+    if a.get("exemples"):
+        corps.append('<p>Exemples de titres qu\'elle a publiés :</p><ul>%s</ul>' % "".join(
+            '<li>« %s »<span class="av-date">%s</span></li>' % (h(e["titre"]), h(e["date"]))
+            for e in a["exemples"]))
+    if a.get("sources"):
+        corps.append('<p class="av-sources">Pour aller plus loin : %s.</p>' % " ; ".join(
+            '<a href="%s" rel="noopener" target="_blank">%s</a> (%s, %s)'
+            % (h(s["url"]), h(s["titre"]), h(s["source"]), h(s["date"])) for s in a["sources"]))
+    corps.append("<p><strong>Référencer n'est pas recommander : MediaCritic recense, "
+                 "il ne cautionne pas.</strong></p>")
+    return ('  <div class="card mc-avert"><h2>⚠️ Note de MediaCritic</h2>%s</div>\n'
+            % "".join(corps))
+
+
 def bloc_badge(data):
     """« Vous faites cette emission ? » : le badge a afficher (vague 2 SEO).
     Emission critiquee : badge avec sa note, lien vers NOTRE CRITIQUE."""
+    if data.get("avertissement"):
+        return ""   # un badge MediaCritic vaudrait caution
     slug = data["slug"]
     n = note_mc(data)
     cible = None
@@ -993,7 +1030,7 @@ def render_fiche(data):
     </div>
   </div>
 {mc_block}
-  <div class="card">
+{bloc_avertissement(data)}  <div class="card">
     <h2>À propos de {h(title)}</h2>
     <p>{h(desc_full).replace(chr(10), '<br>')}</p>{stats_html}{cats_html}
   </div>

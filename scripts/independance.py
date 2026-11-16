@@ -143,8 +143,20 @@ _EXCLUS_MOTS = [_mots(e) for e in EDITEURS_EXCLUS if _norm(e) not in NOMS_ENTIER
 _EXCLUS_YT = [_mots(e) for e in EXCLUS_YOUTUBE]
 
 
+# Medias complotistes (decision de l'utilisateur, 16/11/2026) : le label
+# vert vaut recommandation sur ce site. Leur fiche porte un avertissement
+# (champ `avertissement`, scripts/generate_fiches.py).
+COMPLOTISTES = {
+    "geopolitique-profonde", "geopolitique-profonde-www-geopolitique-profonde-com",
+    "gptv-www-geopolitique-profonde-com", "babel-tv", "adnm-acteurs-du-nouveau-monde",
+    "katetv", "tocsin", "la-matinale-tocsin",
+}
+
+
 def est_independant(item):
     """True si le podcast ou la chaine passe le filtre d'independance."""
+    if item.get("slug") in COMPLOTISTES:
+        return False
     yt = item.get("type") == "youtube"
     # Pour une chaine, l'« editeur » est le nom de la chaine (le bot y
     # recopie le titre) : on juge les deux.
