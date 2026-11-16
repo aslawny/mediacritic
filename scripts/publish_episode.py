@@ -48,6 +48,7 @@ def die(msg):
 # ⚠️ Toute nouvelle page generee du site doit etre ajoutee ICI, sinon elle se
 # fige a sa date de creation des la publication d'un episode.
 REGENERATEURS = [
+    "scripts/detect_complot.py",        # avertissement des medias complotistes (avant les fiches)
     "scripts/generate_fiches.py",       # fiches + catalog.json + catalog-lite
     "scripts/generate_categories.py",   # 13 pages categories + Top 10
     "scripts/generate_palmares.py",     # palmares

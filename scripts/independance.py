@@ -151,6 +151,14 @@ COMPLOTISTES = {
     "gptv-www-geopolitique-profonde-com", "babel-tv", "adnm-acteurs-du-nouveau-monde",
     "katetv", "tocsin", "la-matinale-tocsin",
 }
+# + detections automatiques (scripts/detect_complot.py, chaque nuit).
+try:
+    import json as _json
+    from pathlib import Path as _Path
+    COMPLOTISTES |= set(_json.loads((_Path(__file__).parent.parent / "data"
+                                     / "_complotistes.json").read_text(encoding="utf-8")))
+except Exception:
+    pass
 
 
 def est_independant(item):

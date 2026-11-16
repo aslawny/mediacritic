@@ -319,6 +319,12 @@ MARQUEURS_COMPLOT = re.compile(
     r"|g[ée]opolitique profonde", re.I)
 
 
+try:   # + detections automatiques (scripts/detect_complot.py)
+    COMPLOTISTES |= set(json.loads((DATA / "_complotistes.json").read_text(encoding="utf-8")))
+except Exception:
+    pass
+
+
 def est_complotiste(c):
     if c.get("slug") in COMPLOTISTES:
         return True
