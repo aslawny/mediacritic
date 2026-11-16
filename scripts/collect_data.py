@@ -443,6 +443,15 @@ ITUNES_QUERIES = [
     ("podcast spiritualite religion",              ["culture", "societe"]),
     ("podcast sante feminine gynecologie",         ["sante", "societe"]),
     ("podcast sciences politiques democratie",     ["geopolitique", "politique"]),
+    # « Desirs & intimite » (16/11/2026) : recherches qui rapportent des clics.
+    ("podcast erotique",                           ["culture", "societe"]),
+    ("histoires erotiques audio",                  ["culture", "societe"]),
+    ("lecture erotique",                           ["culture", "societe"]),
+    ("podcast sexualite",                          ["societe", "sante"]),
+    ("sexologue podcast",                          ["societe", "sante"]),
+    ("podcast desir plaisir feminin",              ["societe", "sante"]),
+    ("podcast couple intimite",                    ["societe", "psychologie"]),
+    ("podcast tantra",                             ["bien-etre", "societe"]),
 ]
 ITUNES_QUERIES_PER_RUN = 15   # nombre de requetes utilisees par run
 

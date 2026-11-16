@@ -18,6 +18,7 @@ _sys_charte.path.insert(0, str(Path(__file__).parent))
 from charte import appliquer as charte_appliquer  # noqa: E402  en-tete/pied uniques
 from independance import INFOBULLE as INDEP_INFOBULLE, est_independant, libelle as indep_libelle  # noqa: E402
 from urllib.parse import quote
+from desirs import section as desirs_section  # noqa: E402  categorie « Désirs & intimité »
 
 # ─── Chemins ──────────────────────────────────────────────────────────────────
 ROOT       = Path(__file__).parent.parent
@@ -302,6 +303,13 @@ def titre_page(titre, t_label, data):
     elif yt:
         complet = "chaîne YouTube, " + ("avis, vidéos et abonnés" if avis else "vidéos et abonnés")
         court = "chaîne YouTube"
+    elif desirs_section(data) and (data.get("description") or "").strip():
+        # Categorie « Desirs & intimite » (16/11/2026) : les mots que tapent
+        # les internautes (« audio erotique », « podcast sexualite »).
+        fiction = desirs_section(data) == "fictions"
+        complet = (("podcast audio érotique, " if fiction else "podcast sur la sexualité, ")
+                   + ("avis et épisodes" if avis else "écoute et épisodes"))
+        court = "podcast érotique" if fiction else "podcast sexualité"
     else:
         complet = "podcast, " + ("avis, note et épisodes" if avis else
                                  "note et épisodes" if note_apple else "épisodes et écoute")
@@ -928,6 +936,10 @@ def render_fiche(data):
         f'<a href="{category_href(cat)}" style="color:var(--c-orange);font-weight:600">{h(cat)}</a>'
         for cat in categories
     )
+    if desirs_section(data):
+        cat_links += (" · " if cat_links else "") + (
+            '<a href="../categories/podcasts-erotiques.html" style="color:var(--c-orange);'
+            'font-weight:600">Désirs &amp; intimité</a>')
     cats_html = f'\n    <p style="margin-top:14px;font-size:.85rem;color:var(--c-muted)">Catégories : {cat_links}</p>' if cat_links else ""
 
     # JSON-LD
@@ -1102,6 +1114,8 @@ def update_catalog(all_data):
         # inutile d'alourdir les autres. Lu par les vignettes (label + filtre).
         if est_independant(d):
             catalog[-1]["independant"] = True
+        if desirs_section(d):   # page categories/podcasts-erotiques.html
+            catalog[-1]["desirs"] = desirs_section(d)
     with open(CATALOG, "w", encoding="utf-8") as f:
         json.dump(catalog, f, ensure_ascii=False, separators=(",", ":"))
     print(f"  catalog.json → {len(catalog)} entrées")

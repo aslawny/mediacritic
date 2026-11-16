@@ -231,6 +231,35 @@ CATEGORIES = [
     },
 ]
 
+# « Desirs & intimite » (16/11/2026) : DISCRETE, absente de ALL_PAGES (les
+# autres categories n'y renvoient pas), du menu et de l'accueil. Membres :
+# champ « desirs » du catalogue, pose par generate_fiches (scripts/desirs.py).
+DESIRS_CFG = {
+    "slug": "podcasts-erotiques", "cats": [], "desirs": True,
+    "name": "Désirs & intimité", "emoji": "🌙", "nom_top": "sur le désir et l'intimité",
+    "title": "Podcasts érotiques et audio sensuel : notre sélection",
+    "h1": "Désirs & intimité : podcasts érotiques et audio sensuel",
+    "desc": ("Podcasts érotiques, audio sensuel et sexualité : {total} podcasts francophones "
+             "référencés, notés et classés par MediaCritic. Réservé aux adultes."),
+    "lede": ("Réservé aux adultes. Lectures érotiques, récits sensuels à écouter au casque, "
+             "émissions de sexologues, témoignages et conversations sans tabou sur le désir et "
+             "le couple : voici les podcasts francophones qui parlent d'intimité, triés et notés. "
+             "Aucune image explicite ici, seulement des voix."),
+    "sections": [("fictions", "Fictions & lectures érotiques"),
+                 ("sexualite", "Sexualité, couple & désir"),
+                 ("tantra", "Tantra & intimité")],
+    "faq": [
+        ("Qu'est-ce qu'un podcast érotique ?",
+         "Un récit ou une lecture à caractère sensuel, pensé pour l'écoute : nouvelles "
+         "érotiques, fictions audio, textes littéraires lus par des voix choisies. L'audio "
+         "laisse toute la place à l'imaginaire, sans image."),
+        ("Quels podcasts écouter pour parler de sexualité sans tabou ?",
+         "Les émissions animées par des sexologues ou des thérapeutes de couple répondent "
+         "aux questions concrètes ; les podcasts de témoignages racontent des expériences "
+         "vécues. Cette page les réunit dans la section « Sexualité, couple & désir »."),
+    ],
+}
+
 # Liens croisés : toutes les pages catégories (existantes + nouvelles)
 ALL_PAGES = [
     ("histoire", "Histoire"), ("gaming", "Gaming"), ("tech", "Tech"),
@@ -323,7 +352,7 @@ def bloc_top(cfg, classement, plancher, nb_eligibles):
             f'<span class="top-auteur">{auteur}</span></span></a>'
             f'<span class="top-val">{note}<span class="top-leg">sur 5 · Apple</span></span></li>')
 
-    nom = cfg["name"].lower()
+    nom = cfg.get("nom_top") or cfg["name"].lower()
     bloc = (f'<section class="podcast-section" id="top"><h2>Les {TOP_N} meilleurs podcasts {nom}</h2>'
             f'<p class="top-note">Note Apple Podcasts pondérée, parmi les {nb_eligibles} podcasts '
             f'{nom} comptant au moins {plancher} avis. En dessous de ce seuil, une moyenne '
@@ -341,7 +370,10 @@ def bloc_top(cfg, classement, plancher, nb_eligibles):
 
 def build_page(cfg, catalog, moyenne):
     cats = set(cfg["cats"])
-    items = [x for x in catalog if cats & set(x.get("categories") or [])]
+    if cfg.get("desirs"):
+        items = [x for x in catalog if x.get("desirs")]
+    else:
+        items = [x for x in catalog if cats & set(x.get("categories") or [])]
     classement, plancher = top_categorie(items, moyenne)
     nb_eligibles = sum(1 for x in items if x.get("rating") and x.get("ratingCount")
                        and int(x["ratingCount"]) >= plancher) if plancher else 0
@@ -361,6 +393,8 @@ def build_page(cfg, catalog, moyenne):
         desc += f', dont {len(mc)} analysé{"s" if len(mc)>1 else ""} par MediaCritic : {mc_titles}.'
     else:
         desc += ', référencés, notés et classés par MediaCritic.'
+    if cfg.get("desc"):
+        desc = cfg["desc"].format(total=total)
     desc = couper(desc, 160)
 
     # JSON-LD ItemList (MC d'abord, puis autres, max 30)
@@ -408,6 +442,18 @@ def build_page(cfg, catalog, moyenne):
     others_section = (f'<section class="podcast-section"><h2>{heading} {cfg["name"].lower()} '
                       f'<span class="pill">{pill}</span></h2>'
                       f'<div class="grid">{"".join(card(x) for x in shown_others)}</div></section>')
+    if cfg.get("sections"):
+        # Sections thematiques ; une section de moins de 3 contenus rejoint
+        # la deuxieme (une grille d'une vignette fait page vide).
+        par = {k: [x for x in shown_others if x.get("desirs") == k] for k, _ in cfg["sections"]}
+        cle_repli = cfg["sections"][1][0]
+        for k, _ in cfg["sections"]:
+            if k != cle_repli and len(par[k]) < 3:
+                par[cle_repli] += par.pop(k)
+        others_section = "".join(
+            f'<section class="podcast-section"><h2>{h(nom)} <span class="pill">{len(par[k])}</span></h2>'
+            f'<div class="grid">{"".join(card(x) for x in sorted(par[k], key=sort_key, reverse=True))}</div></section>'
+            for k, nom in cfg["sections"] if par.get(k))
 
     faq = "".join(
         f'<details class="faq-item"><summary>{h(q)}</summary><p>{h(a)}</p></details>'
@@ -515,7 +561,11 @@ def main():
         (OUT / f'{cfg["slug"]}.html').write_text(page, encoding="utf-8")
         n = sum(1 for x in catalog if set(cfg["cats"]) & set(x.get("categories") or []))
         print(f'  {cfg["slug"]}.html  ({n} contenus)')
-    print(f'{len(CATEGORIES)} pages catégories générées.')
+    page = build_page(DESIRS_CFG, catalog, moyenne)
+    page, _ = charte_appliquer(page, "annuaire")
+    (OUT / f'{DESIRS_CFG["slug"]}.html').write_text(page, encoding="utf-8")
+    print(f'  {DESIRS_CFG["slug"]}.html  ({sum(1 for x in catalog if x.get("desirs"))} contenus)')
+    print(f'{len(CATEGORIES)} pages catégories générées (+ Désirs & intimité).')
 
 if __name__ == "__main__":
     main()

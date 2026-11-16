@@ -355,7 +355,8 @@ def vivier(cat, jour):
         # faire decouvrir.
         if c.get("type") == "youtube" and not c.get("independant"):
             continue
-        if est_complotiste(c):
+        if est_complotiste(c) or c.get("desirs"):
+            # « Desirs & intimite » : contenus adultes, jamais mis en avant.
             continue
         if c.get("type") == "youtube":
             if c.get("subscribers"):
