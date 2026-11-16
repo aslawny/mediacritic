@@ -493,6 +493,9 @@
       btn.textContent = cat;
       filtersCt.appendChild(btn);
     });
+    // « Desirs & intimite » en dernier, apres les categories (16/11/2026).
+    const btnDesirs = filtersCt.querySelector('[data-cat="desirs"]');
+    if (btnDesirs) filtersCt.appendChild(btnDesirs);
     filtersCt.addEventListener('click', e => {
       const btn = e.target.closest('[data-cat]');
       if(!btn) return;

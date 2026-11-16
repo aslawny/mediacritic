@@ -701,6 +701,10 @@
       btn.className='filter-btn'; btn.dataset.cat=cat; btn.textContent=cat;
       filtersCt.appendChild(btn);
     });
+    // « Desirs & intimite » en dernier, apres les categories (choix de
+    // l'utilisateur, 16/11/2026) : appendChild deplace le bouton existant.
+    const btnDesirs=filtersCt.querySelector('[data-cat="desirs"]');
+    if(btnDesirs) filtersCt.appendChild(btnDesirs);
     syncFilterUI();
     // Sort button click handler — toggle direction if already active
     document.querySelectorAll('[data-sort]').forEach(btn=>{
