@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/sexe-r%C3%A9volution-par-aur%C3%A9lie-leveau/id1876814029?uo=4",
       "trackId": 1876814029,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.9,
+      "ratingCount": 63,
       "episodeCount": 39
     }
   },
@@ -29,5 +29,29 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "J’ai pris un mec pour la première fois (et c’est moi qui avais peur)",
+      "date": "2026-11-12"
+    },
+    {
+      "titre": "Couple : J’ai arrêté de compter combien de fois on fait l’amour par semaine !",
+      "date": "2026-11-05"
+    },
+    {
+      "titre": "J’ai fêté mes 40 ans avec une orgie à 50 ! 💃🏽🥳",
+      "date": "2026-10-29"
+    },
+    {
+      "titre": "J’ai mouillé sur 50 Shades (même si Christian Grey est ultra toxique)",
+      "date": "2026-10-22"
+    },
+    {
+      "titre": "Pourquoi je cachais que j'étais maman à mes plans cul",
+      "date": "2026-10-15"
+    }
+  ],
+  "derniere_activite": "2026-11-12",
+  "frequence_jours": 7
 }

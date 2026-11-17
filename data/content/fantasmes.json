@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/fantasmes/id1620398249?uo=4",
       "trackId": 1620398249,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.2,
+      "ratingCount": 19,
       "episodeCount": 32
     }
   },
@@ -29,5 +29,29 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "S6|E5 La tête, les corps et les culs",
+      "date": "2025-02-02"
+    },
+    {
+      "titre": "S6|E4 Une partie de pêche",
+      "date": "2025-01-05"
+    },
+    {
+      "titre": "S6|E3 Un Noël inattendu",
+      "date": "2024-12-01"
+    },
+    {
+      "titre": "S6|E1 La couleur de l’excitation",
+      "date": "2024-10-06"
+    },
+    {
+      "titre": "S5|E5 - Éveil Bisexuel",
+      "date": "2024-09-01"
+    }
+  ],
+  "derniere_activite": "2025-02-02",
+  "frequence_jours": 31
 }

@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/sexualit%C3%A9-et-handicap-levons-les-tabous/id6821847466?uo=4",
       "trackId": 6821847466,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 2,
       "episodeCount": 1
     }
   },
@@ -29,5 +29,12 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "Elles parlent d'amour, de désir et de sexualité.",
+      "date": "2026-10-12"
+    }
+  ],
+  "derniere_activite": "2026-10-12"
 }

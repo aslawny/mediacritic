@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/sexologiquement-v%C3%B4tre/id1837178828?uo=4",
       "trackId": 1837178828,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 2,
       "episodeCount": 12
     }
   },
@@ -29,5 +29,29 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "Sexologie inclusive : repenser les normes et les pratiques avec Denise Medico",
+      "date": "2026-10-11"
+    },
+    {
+      "titre": "Sexualité et Handicap, avec Laetitia Rebord",
+      "date": "2026-09-01"
+    },
+    {
+      "titre": "Accompagner les femmes excisées, avec Stéphanie Dugast",
+      "date": "2026-06-01"
+    },
+    {
+      "titre": "Les Premiers secours en Santé sexuelle - Sandrine Carême",
+      "date": "2026-05-01"
+    },
+    {
+      "titre": "Combien gagnent les sexologues ?",
+      "date": "2026-02-28"
+    }
+  ],
+  "derniere_activite": "2026-10-11",
+  "frequence_jours": 31
 }

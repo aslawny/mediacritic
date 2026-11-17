@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/me-my-sexe-and-i/id1374902686?uo=4",
       "trackId": 1374902686,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.9,
+      "ratingCount": 384,
       "episodeCount": 8
     }
   },
@@ -25,5 +25,55 @@
     "societe"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Ginger286",
+        "titre": "La bienveillance entre femmes 🙏",
+        "texte": "Le témoignage de Christine m’ a bouleversée . Sa resilience , le pardon a sa grand mere , sa joie de vivre, sa capacité de raconté tous ces episodes traumatiques de la vie en souriant presque . Cette phrase on m’ a pris mon clitoris mais elle choisi de ressentir le plaisir.…"
+      },
+      {
+        "note": 5,
+        "auteur": "DorahB",
+        "titre": "Un podcast qui fait du bien",
+        "texte": "Axelle tu fais du très bon travail. Ce podcast nous permet à nous femmes et surtout femmes noires de nous retrouver dans des sujets qui peuvent paraître assez tabou du fait de notre culture. Chaque podcast mène à une réflexion.…"
+      },
+      {
+        "note": 5,
+        "auteur": "@callmeaf",
+        "titre": "Merci !",
+        "texte": "Merci beaucoup de donner la parole à ces femmes noires, avec leurs différences, leurs similitudes, leurs histoires, vraiment une source d’informations et de discussions que je n’avais jamais eu auparavant qui me forcent aussi à m’interroger sur mon identité et mon his go it e J’a…"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "ME MY SEXE AND I® - Épisode 7- Christine",
+      "date": "2018-08-03"
+    },
+    {
+      "titre": "ME MY SEXE AND I® - Épisode 6- Gaëlle",
+      "date": "2018-07-20"
+    },
+    {
+      "titre": "ME MY SEXE AND I® - Épisode 5- Paoline",
+      "date": "2018-07-06"
+    },
+    {
+      "titre": "ME MY SEXE AND I® - Épisode 4- Fatou",
+      "date": "2018-06-22"
+    },
+    {
+      "titre": "ME MY SEXE AND I® - Épisode 3- Marie",
+      "date": "2018-06-08"
+    }
+  ],
+  "derniere_activite": "2018-08-03",
+  "frequence_jours": 14
 }

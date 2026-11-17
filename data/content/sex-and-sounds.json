@@ -13,8 +13,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/sex-and-sounds/id1294313969?uo=4",
       "trackId": 1294313969,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.3,
+      "ratingCount": 181,
       "episodeCount": 28
     }
   },
@@ -23,5 +23,55 @@
     "education"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "fortane 64",
+        "titre": "Pertinent et léger",
+        "texte": "Ça aborde des sujets de fonds avec légèreté et nuance. C’est souvent drôle et soulève de vraies incongruités Très agréable à écouter"
+      },
+      {
+        "note": 2,
+        "auteur": "Leaaaslg",
+        "titre": "Stop les sons/chansons",
+        "texte": "Les sujets sont intéressants mais l’entrecoupement incessant de chansons/sons et effets spéciaux rend l’écoute difficile..."
+      },
+      {
+        "note": 5,
+        "auteur": "negoroshu",
+        "titre": "Excellent",
+        "texte": "Les sujets sont bien traités, c’est instructif et de bonne humour. Cerise sur le gâteau c’est émoustillant !!"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "Sex and sounds (n°28) : La petite voix",
+      "date": "2018-06-26"
+    },
+    {
+      "titre": "Sex and sounds (n°27) : Rire au lit",
+      "date": "2018-06-12"
+    },
+    {
+      "titre": "Sex and sounds (n°26) : Les voisins bruyants",
+      "date": "2018-05-29"
+    },
+    {
+      "titre": "Sex and sounds (n°25) : Comme des bêtes",
+      "date": "2018-05-15"
+    },
+    {
+      "titre": "Sex and sounds (n°24) : Le bâillon",
+      "date": "2018-05-02"
+    }
+  ],
+  "derniere_activite": "2018-06-26",
+  "frequence_jours": 13
 }

@@ -29,29 +29,25 @@
   "addedAt": "2026-05-25",
   "updatedAt": "2026-11-16",
   "avis_publics": {
-    "source": "apple",
-    "boutique": "fr",
-    "tri": "mosthelpful",
-    "releve": "2026-09-18",
-    "extraits": [
-      {
-        "note": 5,
-        "auteur": "Flowfly2810",
-        "titre": "Je recommande",
-        "texte": "J’aime l’angle que Claudia utilise pour avoir un autre regard sur la dimension amoureuse Elle aide à se reconnecter à la confiance en soi et au fait de, en priorité, ne pas se perdre soi-même de vue dans une société où il n’est pas toujours si simple d’avoir une vie amoureuse épa…"
-      },
-      {
-        "note": 1,
-        "auteur": "Petrouch´",
-        "titre": "👎🏻",
-        "texte": "Sur le papier c’était une bonne idée mais la qualité de ce podcast le rend difficile d’écoute et les intervenants ne sont pas toujours bien choisis..."
-      },
-      {
-        "note": 5,
-        "auteur": "Armelle P-W",
-        "titre": "Super émission !",
-        "texte": "J’ai trouvé le premier épisode super intéressant, du coup, vous avez gagné une nouvelle abonnée :) Hâte d’écouter les nouvelles ITW !"
-      }
+    "epuise": true,
+    "releve": "2026-11-17",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
     ]
   },
   "episodes_recents": [

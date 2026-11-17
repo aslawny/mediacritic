@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/parlons-cul-ture-de-norah-lounas/id1793628203?uo=4",
       "trackId": 1793628203,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 3,
       "episodeCount": 37
     }
   },
@@ -29,5 +29,29 @@
     "sante"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "E#18 Sexualité, féminisme et tabous : quand l'art représente nos sexes",
+      "date": "2026-11-14"
+    },
+    {
+      "titre": "E#17 Sport et Post partum : mouvement, bien être et partage avec Bulle' mouV",
+      "date": "2026-10-14"
+    },
+    {
+      "titre": "E#16 Handicap et sexualité . Dépasser les idées reçues avec Pas à pas en Impro",
+      "date": "2026-09-14"
+    },
+    {
+      "titre": "Cartes d'été 9/9 : Fantasmes secrets, Syndrome du bébé secoué et \"laisser-aller\"",
+      "date": "2026-08-27"
+    },
+    {
+      "titre": "Cartes d'été 8/9 : Trouble du désir, Séparation et Week-end sans bébé",
+      "date": "2026-08-20"
+    }
+  ],
+  "derniere_activite": "2026-11-14",
+  "frequence_jours": 7
 }

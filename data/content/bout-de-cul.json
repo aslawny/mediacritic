@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/bout-de-cul/id1487833761?uo=4",
       "trackId": 1487833761,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 3.7,
+      "ratingCount": 17,
       "episodeCount": 16
     }
   },
@@ -29,5 +29,29 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "16 • Les hommes ont vraiment plus de libido que les femmes ?",
+      "date": "2024-09-01"
+    },
+    {
+      "titre": "n°15 • Vie sexuelle, allaitement et cododo... est-ce compatible ?",
+      "date": "2021-01-22"
+    },
+    {
+      "titre": "n°14 • Combien de fois faire l'amour pour être normal ?",
+      "date": "2020-02-03"
+    },
+    {
+      "titre": "n°13 • Casser la routine dans son couple",
+      "date": "2020-01-17"
+    },
+    {
+      "titre": "n°12 • Comment parler de sexe sans braquer",
+      "date": "2020-01-03"
+    }
+  ],
+  "derniere_activite": "2024-09-01",
+  "frequence_jours": 16
 }

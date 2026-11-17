@@ -26,29 +26,25 @@
   "addedAt": "2026-05-31",
   "updatedAt": "2026-11-16",
   "avis_publics": {
-    "source": "apple",
-    "boutique": "fr",
-    "tri": "mostrecent",
-    "releve": "2026-09-18",
-    "extraits": [
-      {
-        "note": 5,
-        "auteur": "Mathieu Zind",
-        "titre": "Émission exceptionnelle",
-        "texte": "Le choix des versions du thème exploré chaque semaine est vraiment excellent. Quel plaisir de découvrir des musiciens, des arrangeurs un peu oubliés ou peu médiatisés… que de pépites exhumées.…"
-      },
-      {
-        "note": 5,
-        "auteur": "chrisetfab68",
-        "titre": "Bravissimo",
-        "texte": "Nous attendons tous les dimanches avec impatience votre émission. De grandes et belles sélections que nous découvrons et ré ecoutons avec plaisir. La radio intelligente, vous l’avez inventez...... Mercy Mercy pour vos partages."
-      },
-      {
-        "note": 5,
-        "auteur": "arsèneBdeaux",
-        "titre": "de la radio, de la vraie …",
-        "texte": "merci laurent valero de faire de la vraie radio, pas du pousse disques. une émission composée, écrite. une radio qui se fait rare. alors on ne vous écoute pas seulement en rentrant de la plage !"
-      }
+    "epuise": true,
+    "releve": "2026-11-17",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
     ]
   }
 }

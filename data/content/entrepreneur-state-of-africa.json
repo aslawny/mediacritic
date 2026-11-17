@@ -49,25 +49,29 @@
   "derniere_activite": "2026-11-08",
   "frequence_jours": 6,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-18",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "@LaaNuanceiy",
+        "titre": "Un podcast de qualité 🤩",
+        "texte": "En tant qu’entrepreneure et salariée ayant des ambitions d’aller plus loin dans mon business et de retour en Afrique, j’ai été heureuse de découvrir votre podcast. Je suis une consommatrice de podcast et celui-ci à cocher de nombreuses cases.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Naysha D",
+        "titre": "De belles choses mais certains propos a nuancer",
+        "texte": "Votre podcast pousse à de multiples réflexions sur soi et sur notre rapport à l’entrepreneuriat mais aussi à l’argent. Bravo à vous! Je tiens toutefois à apporter un bémol à tout cela par rapport à l’épisode sur la spiritualité… Tout ce qui a été dit sur l’islam est vraiment à nu…"
+      },
+      {
+        "note": 5,
+        "auteur": "Diva.G",
+        "titre": "The Podcast pour les entrepreneurs",
+        "texte": "En pleine création de mon entreprise, à la première écoute j’aurai pu penser que les thèmes, les idées, les sources évoquées ne pourraient être adaptés à mon secteur d’activité qui est la coiffure.…"
+      }
     ]
   }
 }

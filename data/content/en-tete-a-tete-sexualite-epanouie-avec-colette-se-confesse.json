@@ -15,8 +15,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/en-t%C3%AAte-%C3%A0-t%C3%AAte-sexualit%C3%A9-%C3%A9panouie-avec-colette-se-confesse/id1499468821?uo=4",
       "trackId": 1499468821,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.6,
+      "ratingCount": 250,
       "episodeCount": 91
     }
   },
@@ -27,5 +27,55 @@
     "culture"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "fan de Colette se confesse",
+        "titre": "tendresse et rigolades...",
+        "texte": "Citation qui va dans le sens de ce podcast : \"Le corps n'est pas de marbre. Son but est de protéger, de contenir, de soutenir, d'enflammer l'esprit et l'âme qu'il renferme, d'être un reposoir pour la mémoire, de nous remplir de sensations - c'est la plus haute forme de nourriture…"
+      },
+      {
+        "note": 5,
+        "auteur": "Gilles Lakoste",
+        "titre": "Pari réussi !",
+        "texte": "Pas évident de raconter des histoires coquines sans tomber dans le déjà vu ou bien dans le vulgaire . Colette est pétillante aimant les mots comme les situations excitantes qu’elle nous confie . Légèreté et bienveillance sont au rendez vous .…"
+      },
+      {
+        "note": 5,
+        "auteur": "Jess Bond007",
+        "titre": "Podcast sans tabous",
+        "texte": "Enfin un podcast sur lequel les personnes peuvent s’exprimer de façon totalement libre leur désir. Cela me donne envie d’assumer encore plus mon amour pour le sexe!! De plus, les invité.es ont très souvent une voix très sensuelle.…"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "Bilan du sondage de l’été 2026 (et annonces)",
+      "date": "2026-08-19"
+    },
+    {
+      "titre": "Contraception masculine : Quand est-ce qu'on se bouge ? Sam de Otoko nous explique tout pour prendre ses couil",
+      "date": "2026-05-16"
+    },
+    {
+      "titre": "Noochka, Cam-Girl - Colette | Le consentement (12/15)",
+      "date": "2026-04-12"
+    },
+    {
+      "titre": "Longues relations, nouvelles discussions : Et si vous osiez enfin parler de sexualité avec votre partenaire ? ",
+      "date": "2026-01-16"
+    },
+    {
+      "titre": "Comment se renouveler dans la durée - Colette | Le consentement (11/15)",
+      "date": "2025-11-03"
+    }
+  ],
+  "derniere_activite": "2026-08-19",
+  "frequence_jours": 10
 }

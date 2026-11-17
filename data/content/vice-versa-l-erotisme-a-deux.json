@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/vice-versa-l%C3%A9rotisme-%C3%A0-deux/id1782798889?uo=4",
       "trackId": 1782798889,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 3,
       "episodeCount": 41
     }
   },
@@ -29,5 +29,29 @@
     "sante"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "Le goût du Véniel / femme",
+      "date": "2026-09-25"
+    },
+    {
+      "titre": "Le goût du Véniel / homme",
+      "date": "2026-09-25"
+    },
+    {
+      "titre": "Dictée derrière l'écran / femme",
+      "date": "2026-08-28"
+    },
+    {
+      "titre": "Dictée derrière l'écran / homme",
+      "date": "2026-08-28"
+    },
+    {
+      "titre": "Train couchette / femme",
+      "date": "2026-07-31"
+    }
+  ],
+  "derniere_activite": "2026-09-25",
+  "frequence_jours": 3
 }

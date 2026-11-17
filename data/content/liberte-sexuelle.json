@@ -15,8 +15,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/libert%C3%A9-sexuelle/id6828383173?uo=4",
       "trackId": 6828383173,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": 3
     }
   },
@@ -27,5 +27,21 @@
     "societe"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "S'inscrire sur un site libertin",
+      "date": "2026-11-12"
+    },
+    {
+      "titre": "OMG Il veut ouvrir notre couple !!!",
+      "date": "2026-11-05"
+    },
+    {
+      "titre": "La pluralité t'en penses quoi?",
+      "date": "2026-10-29"
+    }
+  ],
+  "derniere_activite": "2026-11-12",
+  "frequence_jours": 6
 }

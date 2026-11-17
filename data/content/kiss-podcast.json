@@ -1,0 +1,57 @@
+{
+  "slug": "kiss-podcast",
+  "title": "Kiss Podcast",
+  "author": "KISS",
+  "type": "podcast",
+  "categories": [
+    "sante",
+    "bien-etre",
+    "culture",
+    "societe"
+  ],
+  "description": "KISS, l’émission de podcast qui parle de relations humaines, amoureuses et sexuelles.",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0d/1d/f7/0d1df774-6267-3b25-714a-43a5dbe77f8e/mza_4136811280801880569.jpeg/600x600bb.jpg",
+  "language": "fr",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/kiss-podcast/id1521831295?uo=4",
+      "trackId": 1521831295,
+      "rating": 5.0,
+      "ratingCount": 20,
+      "episodeCount": 108
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "sante",
+    "bien-etre",
+    "culture",
+    "societe"
+  ],
+  "addedAt": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "episodes_recents": [
+    {
+      "titre": "#103 - Voilà, c'est fini... Kiss&Goodbye!",
+      "date": "2025-06-30"
+    },
+    {
+      "titre": "#102 - Choc des générations, 82 ans vs 19 ans !",
+      "date": "2024-11-29"
+    },
+    {
+      "titre": "#101 - Actu insolites, bruits et vulve",
+      "date": "2024-11-14"
+    },
+    {
+      "titre": "#100 - On l'a ENFIN fait !",
+      "date": "2024-11-14"
+    },
+    {
+      "titre": "#99 - L'influence de la pop-culture sur les relations",
+      "date": "2024-10-29"
+    }
+  ],
+  "derniere_activite": "2025-06-30",
+  "frequence_jours": 14
+}

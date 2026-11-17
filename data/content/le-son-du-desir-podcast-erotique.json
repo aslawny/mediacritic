@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/le-son-du-d%C3%A9sir-podcast-%C3%A9rotique/id1460704047?uo=4",
       "trackId": 1460704047,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 3.9,
+      "ratingCount": 223,
       "episodeCount": 288
     }
   },
@@ -29,5 +29,55 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "MagBPA",
+        "titre": "Ou comment renouer avec soi",
+        "texte": "Grâce à l’écoute de ce podcast j’ai pu renouer avec mon corps et ma sexualité. En effet, je me suis longtemps oublié et la manière dont sont écrits les épisodes permettent de se sentir à tout instant en sécurité, désirée, chérie, aimée. Non, ce n’est pas que du fantasme.…"
+      },
+      {
+        "note": 3,
+        "auteur": "alphonsinette",
+        "titre": "La voix",
+        "texte": "C'est évidemment très personnel, mais la voix très virile ne marche pas du tout sur moi et entre en dissonance avec la revendication d'un contenu féministe. Dommage, les textes sont sûrement très bien mais c'est totalement rédhibitoire..."
+      },
+      {
+        "note": 5,
+        "auteur": "Blooberry 2308",
+        "titre": "Le Son du Plaisir",
+        "texte": "Imaginez... Un homme à la voix de velours vous laisse un message tendre et plein de sensualité sur votre répondeur... C’est le point de départ d’une série d’aventures érotiques.…"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "Tel est pris… en mode ceinture",
+      "date": "2026-11-07"
+    },
+    {
+      "titre": "il la prend... nue... en photo. !",
+      "date": "2026-10-17"
+    },
+    {
+      "titre": "Ils n’étaient pas seuls",
+      "date": "2026-10-09"
+    },
+    {
+      "titre": "À bord de l’Orient Express",
+      "date": "2026-09-26"
+    },
+    {
+      "titre": "Ce qu'il cache sous la couette",
+      "date": "2026-09-12"
+    }
+  ],
+  "derniere_activite": "2026-11-07",
+  "frequence_jours": 7
 }

@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/corps-sant%C3%A9-et-sexualit%C3%A9/id6814850464?uo=4",
       "trackId": 6814850464,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": 1
     }
   },
@@ -29,5 +29,12 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "Les règles et la précarité menstruelle",
+      "date": "2026-09-22"
+    }
+  ],
+  "derniere_activite": "2026-09-22"
 }

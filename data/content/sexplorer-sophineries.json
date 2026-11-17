@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/sexplorer-sophineries/id1451209017?uo=4",
       "trackId": 1451209017,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.6,
+      "ratingCount": 196,
       "episodeCount": 45
     }
   },
@@ -29,5 +29,55 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ajdlzps2dj",
+        "titre": "Un podcast important",
+        "texte": "Une découverte surprenante qui donne à voir les sexualités sous un angle totalement inhabituel. Débarrassez-vous de toutes vos idées préconçues sur le sujet et laissez-vous embarquer dans des témoignages tout aussi divers qu’humains.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Gouzigouzi28",
+        "titre": "Des vrais témoignages sur la sexualité",
+        "texte": "J’adore particulièrement découvrir les points communs que je peux avoir avec les intervenantes et intervenants. Mais aussi je n’aurais pas pu imaginer la diversité des pratiques et préférences. Pas de prosélytisme, juste des vrais témoignages. Ça me donne même des idées !"
+      },
+      {
+        "note": 5,
+        "auteur": "LenaBzn",
+        "titre": "Merci !",
+        "texte": "Une vraie belle découverte! Décomplexé et décomplexant à fond ! Podcast plein de bienveillance, un bonheur à écouter! C’est très bien réalisé et il faut souligner un choix musical génial !! Fin bref : force !"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "To pécho or not to pécho ? (2/2) B!te de goujat",
+      "date": "2024-11-04"
+    },
+    {
+      "titre": "To pécho or not to pécho ? (1/2) Le tribunal",
+      "date": "2024-10-23"
+    },
+    {
+      "titre": "[Bande d'annonce] To pécho or not to pécho ?",
+      "date": "2024-10-16"
+    },
+    {
+      "titre": "Boys (3/3) Comment choisir un mari",
+      "date": "2023-03-19"
+    },
+    {
+      "titre": "Boys (2/3) Le cœur ou de la raison ?",
+      "date": "2023-03-15"
+    }
+  ],
+  "derniere_activite": "2024-11-04",
+  "frequence_jours": 16
 }

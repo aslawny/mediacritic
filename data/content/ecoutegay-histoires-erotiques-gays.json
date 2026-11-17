@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/ecoutegay-histoires-%C3%A9rotiques-gays/id1693195710?uo=4",
       "trackId": 1693195710,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.6,
+      "ratingCount": 23,
       "episodeCount": 83
     }
   },
@@ -29,5 +29,29 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "[ RECIT ] Patate chaude – Une rencontre avec un homme rond | Histoire gay érotique",
+      "date": "2026-11-07"
+    },
+    {
+      "titre": "[ RECIT ] Vestiaire vide – Mascotte d’un club de rugby | Histoire gay érotique",
+      "date": "2026-10-17"
+    },
+    {
+      "titre": "[ INTERVIEW ] Benjamin n’a de désir que pour les hommes âgés et ventrus – Une attirance loin des standards",
+      "date": "2026-08-15"
+    },
+    {
+      "titre": "[ RECIT ] Le gîte creux - Deux amis gays font une escapade à la montagne",
+      "date": "2026-07-04"
+    },
+    {
+      "titre": "[ LIVRE ] Désirs Enflammés : Le Berger et son Roi - agriculteurs gay / Le goût de la terre, de la sueur et du ",
+      "date": "2026-05-23"
+    }
+  ],
+  "derniere_activite": "2026-11-07",
+  "frequence_jours": 28
 }

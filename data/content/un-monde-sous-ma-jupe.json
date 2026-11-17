@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/un-monde-sous-ma-jupe/id1739154900?uo=4",
       "trackId": 1739154900,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 12,
       "episodeCount": 19
     }
   },
@@ -29,5 +29,29 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "#18 - L'énergie sexuelle, une autre manière de l'incarner.",
+      "date": "2026-08-07"
+    },
+    {
+      "titre": "#17 - Ranimer le désir, l'art de durer en couple",
+      "date": "2026-06-19"
+    },
+    {
+      "titre": "#16 - Éloge du plaisir solitaire",
+      "date": "2026-05-08"
+    },
+    {
+      "titre": "#15 - Redonner vie au corps !",
+      "date": "2026-02-28"
+    },
+    {
+      "titre": "#14 - Comment lâcher prise dans sa sexualité",
+      "date": "2026-01-11"
+    }
+  ],
+  "derniere_activite": "2026-08-07",
+  "frequence_jours": 48
 }

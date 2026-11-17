@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/ta-pause-sexy/id1718994749?uo=4",
       "trackId": 1718994749,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.7,
+      "ratingCount": 27,
       "episodeCount": 127
     }
   },
@@ -29,5 +29,29 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "HS #30 - Ce soir, il a choisi un homme pour moi",
+      "date": "2026-04-24"
+    },
+    {
+      "titre": "#83 - Tu t’es abandonné·e pour ne pas être abandonné·e",
+      "date": "2026-04-17"
+    },
+    {
+      "titre": "#82 - Tu ne manques ni de temps, ni d’argent. Tu manques de courage.",
+      "date": "2026-04-10"
+    },
+    {
+      "titre": "#81 - Trauma religieux : ce que la religion a fait à ta sexualité",
+      "date": "2026-04-03"
+    },
+    {
+      "titre": "#80 - T’as pas besoin de tromper pour être infidèle",
+      "date": "2026-03-27"
+    }
+  ],
+  "derniere_activite": "2026-04-24",
+  "frequence_jours": 7
 }

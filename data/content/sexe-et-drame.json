@@ -13,8 +13,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/sexe-et-drame/id1163605570?uo=4",
       "trackId": 1163605570,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 3.5,
+      "ratingCount": 8,
       "episodeCount": 3
     }
   },
@@ -23,5 +23,21 @@
     "humour"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "100 amis - Musique générique",
+      "date": "2017-05-24"
+    },
+    {
+      "titre": "Sexe et drame - Ep01 - Trump, Daft punk et explosion",
+      "date": "2016-10-13"
+    },
+    {
+      "titre": "Sexe et drame - Épisode 0 : Cyprien, Portugal et Tour Eiffel",
+      "date": "2016-10-09"
+    }
+  ],
+  "derniere_activite": "2017-05-24",
+  "frequence_jours": 223
 }

@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/et-pourquoi-pas-sexe-amour-et-pas-de-rock-n-roll/id1437742844?uo=4",
       "trackId": 1437742844,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.3,
+      "ratingCount": 16,
       "episodeCount": 82
     }
   },
@@ -29,5 +29,29 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "Et Pourquoi Pas La Taille du Sexe !",
+      "date": "2021-06-26"
+    },
+    {
+      "titre": "Et Pourquoi Pas Tintin sexualisé !",
+      "date": "2021-06-19"
+    },
+    {
+      "titre": "Et Pourquoi Pas un Podcast dans un Gite !",
+      "date": "2021-06-13"
+    },
+    {
+      "titre": "Et Pourquoi Pas La Rupture !",
+      "date": "2021-06-05"
+    },
+    {
+      "titre": "Et Pourquoi Pas un Quiz Sexo !",
+      "date": "2021-05-22"
+    }
+  ],
+  "derniere_activite": "2021-06-26",
+  "frequence_jours": 7
 }

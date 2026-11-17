@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/sex-and-roses/id1741813652?uo=4",
       "trackId": 1741813652,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 6,
       "episodeCount": 57
     }
   },
@@ -29,5 +29,29 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "# 30 Lorie : sortir d'une relation toxique",
+      "date": "2026-01-20"
+    },
+    {
+      "titre": "C'est la rentrée du podcast !",
+      "date": "2026-01-20"
+    },
+    {
+      "titre": "EPISODE SPECIAL",
+      "date": "2025-10-07"
+    },
+    {
+      "titre": "# 29 Michel : soigner un agresseur",
+      "date": "2025-09-30"
+    },
+    {
+      "titre": "INTERVIEW # 8 : Adeline Gilet : sexologue au Pays Basque",
+      "date": "2025-09-23"
+    }
+  ],
+  "derniere_activite": "2026-01-20",
+  "frequence_jours": 7
 }

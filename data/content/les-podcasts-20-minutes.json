@@ -1,0 +1,55 @@
+{
+  "slug": "les-podcasts-20-minutes",
+  "title": "Les podcasts 20 Minutes",
+  "author": "20 Minutes",
+  "type": "podcast",
+  "categories": [
+    "actualite",
+    "culture",
+    "societe"
+  ],
+  "description": "Pour suivre l'actualité, se cultiver ou s'évader, retrouvez-ici tous les contenus audio de la rédaction de 20 Minutes France.",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c5/8a/57/c58a5740-3be4-db61-50cd-496715bc2c5b/mza_13586660434942606415.png/600x600bb.jpg",
+  "language": "fr",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/les-podcasts-20-minutes/id1711051408?uo=4",
+      "trackId": 1711051408,
+      "rating": 5.0,
+      "ratingCount": 5,
+      "episodeCount": 100
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "actualite",
+    "culture",
+    "societe"
+  ],
+  "addedAt": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "episodes_recents": [
+    {
+      "titre": "Story - Pierre Chesnot, agriculteur bio, a survécu au cancer lié aux pesticides",
+      "date": "2026-11-10"
+    },
+    {
+      "titre": "Story - Michel Zecler, victime de violences policières",
+      "date": "2026-10-27"
+    },
+    {
+      "titre": "Story - Bernard Marc, dans le quotidien d'un médecin légiste",
+      "date": "2026-10-13"
+    },
+    {
+      "titre": "Story - Ludivine : atteinte d'un cancer du sein agressif, la recherche lui a sauvé la vie",
+      "date": "2026-09-29"
+    },
+    {
+      "titre": "Story - Martin Petit, ancien sportif devenu tétraplégique",
+      "date": "2026-09-15"
+    }
+  ],
+  "derniere_activite": "2026-11-10",
+  "frequence_jours": 14
+}

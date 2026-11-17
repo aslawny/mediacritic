@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/gang-de-rideuses-sexualit%C3%A9-douleurs-intimes/id1692418580?uo=4",
       "trackId": 1692418580,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 7,
       "episodeCount": 16
     }
   },
@@ -29,5 +29,29 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "12. Le dating quand on a des douleurs sexuelles",
+      "date": "2026-03-01"
+    },
+    {
+      "titre": "11. En 2026, il faut arrêter... (version douleurs sexuelles)",
+      "date": "2026-01-26"
+    },
+    {
+      "titre": "10. Docteur Love (édition vaginisme)",
+      "date": "2025-03-03"
+    },
+    {
+      "titre": "09. Douleurs intimes : remettre le plaisir au cœur de ses rapports",
+      "date": "2024-11-03"
+    },
+    {
+      "titre": "08. Octobre Rose : prendre soin de ses boobs...et de son vagin",
+      "date": "2024-10-16"
+    }
+  ],
+  "derniere_activite": "2026-03-01",
+  "frequence_jours": 34
 }

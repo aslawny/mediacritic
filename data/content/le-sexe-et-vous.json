@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/le-sexe-et-vous/id1593659557?uo=4",
       "trackId": 1593659557,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 3.7,
+      "ratingCount": 3,
       "episodeCount": 359
     }
   },
@@ -29,5 +29,29 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "3/3 Le démon de midi",
+      "date": "2022-07-01"
+    },
+    {
+      "titre": "2/3 Le démon de midi",
+      "date": "2022-07-01"
+    },
+    {
+      "titre": "1/3 Le démon de midi",
+      "date": "2022-06-28"
+    },
+    {
+      "titre": "3/3 La communication dans le couple",
+      "date": "2022-06-28"
+    },
+    {
+      "titre": "2/3 La communication dans le couple",
+      "date": "2022-06-28"
+    }
+  ],
+  "derniere_activite": "2022-07-01",
+  "frequence_jours": 0
 }

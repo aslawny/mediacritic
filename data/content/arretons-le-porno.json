@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/arretons-le-porno/id1562804315?uo=4",
       "trackId": 1562804315,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.2,
+      "ratingCount": 20,
       "episodeCount": 6
     }
   },
@@ -25,5 +25,29 @@
     "societe"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "#1 Les solutions contre le porno",
+      "date": "2021-04-15"
+    },
+    {
+      "titre": "#1 Les dangers de la pornographie",
+      "date": "2021-04-14"
+    },
+    {
+      "titre": "Arretons le porno- Le danger de la masturbation solitaire",
+      "date": "2021-04-13"
+    },
+    {
+      "titre": "Arretons le porno - Pourquoi sommes- nous addict au porno?",
+      "date": "2021-04-13"
+    },
+    {
+      "titre": "Arretons le Porno - Mon Histoire",
+      "date": "2021-04-10"
+    }
+  ],
+  "derniere_activite": "2021-04-15",
+  "frequence_jours": 0
 }

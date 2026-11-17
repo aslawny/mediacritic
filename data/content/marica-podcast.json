@@ -1,0 +1,44 @@
+{
+  "slug": "marica-podcast",
+  "title": "Marica Podcast",
+  "author": "Marica Podcast",
+  "type": "podcast",
+  "categories": [
+    "societe",
+    "psychologie",
+    "sante",
+    "bien-etre"
+  ],
+  "description": "",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5d/b3/30/5db3301c-64f8-8a04-38ce-2393e6d51591/mza_666678092717724050.jpg/600x600bb.jpg",
+  "language": "",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/marica-podcast/id1520208374?uo=4",
+      "trackId": 1520208374,
+      "rating": null,
+      "ratingCount": null,
+      "episodeCount": 2
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "societe",
+    "psychologie",
+    "sante",
+    "bien-etre"
+  ],
+  "addedAt": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "episodes_recents": [
+    {
+      "titre": "El Closet (Piloto)",
+      "date": "2020-07-05"
+    },
+    {
+      "titre": "EDITORIAL: ¡Bienvenidas Maricas!",
+      "date": "2020-06-24"
+    }
+  ],
+  "derniere_activite": "2020-07-05"
+}

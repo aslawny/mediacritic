@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/le-podken/id1646976713?uo=4",
       "trackId": 1646976713,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 12,
       "episodeCount": 6
     }
   },
@@ -29,5 +29,29 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "Un mal invisible : Endométriose",
+      "date": "2022-12-06"
+    },
+    {
+      "titre": "L'orgasme Féminin : Masturbation et Orgasme",
+      "date": "2022-11-22"
+    },
+    {
+      "titre": "J'ai perdu mon bébé : IVG & Grossesse Extra-utérine",
+      "date": "2022-11-09"
+    },
+    {
+      "titre": "Libido et rapport au corps pendant la grossesse : on est 3 dans mon lit",
+      "date": "2022-10-25"
+    },
+    {
+      "titre": "Sexualité et intimité des personnes en situation de handicap : roule ma poule",
+      "date": "2022-10-11"
+    }
+  ],
+  "derniere_activite": "2022-12-06",
+  "frequence_jours": 14
 }

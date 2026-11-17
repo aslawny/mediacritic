@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/sac-%C3%A0-dos-et-libido/id1629047770?uo=4",
       "trackId": 1629047770,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 5,
       "episodeCount": 11
     }
   },
@@ -25,5 +25,29 @@
     "societe"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "Le culte des grosses fesses en Afrique",
+      "date": "2023-07-10"
+    },
+    {
+      "titre": "La Grèce c'est vraiment gay ?",
+      "date": "2023-05-09"
+    },
+    {
+      "titre": "L'Islande ou le défi du sexe sans inceste",
+      "date": "2023-02-13"
+    },
+    {
+      "titre": "Comment contourner les lois anti-amour au Maroc ?",
+      "date": "2022-11-25"
+    },
+    {
+      "titre": "Les culs nuls allemands",
+      "date": "2022-10-07"
+    }
+  ],
+  "derniere_activite": "2023-07-10",
+  "frequence_jours": 44
 }

@@ -1,0 +1,57 @@
+{
+  "slug": "podcast-afu",
+  "title": "PODCAST'AFU",
+  "author": "Association Française d'Urologie",
+  "type": "podcast",
+  "categories": [
+    "sante",
+    "sciences",
+    "bien-etre",
+    "cuisine"
+  ],
+  "description": "PODCAST’AFU est le podcast dédié aux professionnels et propulsé par l’Association Française d’Urologie. En trois questions, trouvez les réponses à toutes vos questions ! Musique du générique : AudioNetwork Responsable projet AFU : Alexandra Devillers Supervision AFU : Benjamin Pradère Responsable de projet La Toile : Lucie Coquart Supervision La Toile : Pénélope Boeuf Production : Agence La Toile",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/3e/85/6e/3e856e83-41b7-2e33-c14a-c058439a3b27/mza_6835492539895368849.jpeg/600x600bb.jpg",
+  "language": "fr",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/podcastafu/id1734217106?uo=4",
+      "trackId": 1734217106,
+      "rating": 5.0,
+      "ratingCount": 2,
+      "episodeCount": 65
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "sante",
+    "sciences",
+    "bien-etre",
+    "cuisine"
+  ],
+  "addedAt": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "episodes_recents": [
+    {
+      "titre": "Le cancer de la vessie : point de vue du patient et du chirurgien",
+      "date": "2026-05-27"
+    },
+    {
+      "titre": "La santé sexuelle de l’homme : que peut-on mettre en place pour la soutenir ?",
+      "date": "2026-02-19"
+    },
+    {
+      "titre": "Les symptômes du bas appareil urinaire dans le cadre d'un cancer de la prostate",
+      "date": "2025-12-18"
+    },
+    {
+      "titre": "Les prostatites chroniques/syndrome pelvien douloureux chronique",
+      "date": "2025-12-11"
+    },
+    {
+      "titre": "La radiothérapie interne vectorisée",
+      "date": "2025-04-16"
+    }
+  ],
+  "derniere_activite": "2026-05-27",
+  "frequence_jours": 15
+}

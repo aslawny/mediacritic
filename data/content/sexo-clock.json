@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/sexoclock/id1692142377?uo=4",
       "trackId": 1692142377,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 5,
       "episodeCount": 107
     }
   },
@@ -25,5 +25,29 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "LE SECRET D'UNE MEILLEURE SEXUALITÉ N'EST PAS DANS VOTRE LIT !",
+      "date": "2026-09-21"
+    },
+    {
+      "titre": "EST-CE QU'ON PEUT ÊTRE FÉMINISTE ET REGARDER DU PORNO ?",
+      "date": "2026-09-14"
+    },
+    {
+      "titre": "\"TROIS SOIRS PAR SEMAINE\" : LE MENSONGE DU COUPLE ÉPANOUI ?",
+      "date": "2026-09-07"
+    },
+    {
+      "titre": "REDIFF - Comment booster son orgasme ? Secrets des mouvements et stimulations dans la sexualité féminine",
+      "date": "2026-08-17"
+    },
+    {
+      "titre": "REDIFF - Quel est le bon moment pour avoir un rapport sexuel ?",
+      "date": "2026-08-10"
+    }
+  ],
+  "derniere_activite": "2026-09-21",
+  "frequence_jours": 7
 }

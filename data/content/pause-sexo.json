@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/pause-sexo/id1726418140?uo=4",
       "trackId": 1726418140,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.8,
+      "ratingCount": 16,
       "episodeCount": 18
     }
   },
@@ -29,5 +29,29 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "L'orgasme, partie 3",
+      "date": "2024-09-02"
+    },
+    {
+      "titre": "L'orgasme, partie 2 - les différents types d'orgasme",
+      "date": "2024-08-19"
+    },
+    {
+      "titre": "L'orgasme",
+      "date": "2024-08-05"
+    },
+    {
+      "titre": "[EXTRAIT] L'orgasme - sortie de l'épisode le 5 Aout",
+      "date": "2024-07-29"
+    },
+    {
+      "titre": "Les zone érogènes de la femme",
+      "date": "2024-07-15"
+    }
+  ],
+  "derniere_activite": "2024-09-02",
+  "frequence_jours": 14
 }

@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/terres-intimes/id1556004776?uo=4",
       "trackId": 1556004776,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 17,
       "episodeCount": 59
     }
   },
@@ -29,5 +29,29 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "#52 • S'autoriser la sauvagerie, la douceur et les profiteroles",
+      "date": "2026-10-14"
+    },
+    {
+      "titre": "#51 • Couple : respecter comment l'autre se ressource",
+      "date": "2026-09-30"
+    },
+    {
+      "titre": "#50 • Orgasme : comment sortir de l'injonction et prendre plus de plaisir",
+      "date": "2026-04-08"
+    },
+    {
+      "titre": "#49 • Self-talk : comment apprendre à s'écouter et se parler",
+      "date": "2026-03-27"
+    },
+    {
+      "titre": "#48 • Désir : sortir de l’injonction sexuelle",
+      "date": "2026-03-13"
+    }
+  ],
+  "derniere_activite": "2026-10-14",
+  "frequence_jours": 14
 }

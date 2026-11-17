@@ -1,0 +1,49 @@
+{
+  "slug": "wavelength-podcast",
+  "title": "Wavelength Podcast",
+  "author": "Wavelength Podcast",
+  "type": "podcast",
+  "categories": [
+    "societe",
+    "psychologie",
+    "sante",
+    "bien-etre"
+  ],
+  "description": "4 queer individuals talking about all things LGBTQ+!",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/5f/88/96/5f8896e9-9be5-529a-af14-cc807367568a/mza_1382744875394257421.png/600x600bb.jpg",
+  "language": "",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/wavelength-podcast/id1571238366?uo=4",
+      "trackId": 1571238366,
+      "rating": null,
+      "ratingCount": null,
+      "episodeCount": 3
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "societe",
+    "psychologie",
+    "sante",
+    "bien-etre"
+  ],
+  "addedAt": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "episodes_recents": [
+    {
+      "titre": "The One With All The Flags",
+      "date": "2021-07-16"
+    },
+    {
+      "titre": "The One With All The Queer-Baiting",
+      "date": "2021-06-20"
+    },
+    {
+      "titre": "The One With All The Coming Out Stories",
+      "date": "2021-06-05"
+    }
+  ],
+  "derniere_activite": "2021-07-16",
+  "frequence_jours": 26
+}

@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/its-friday-bae-explorez-une-sexualit%C3%A9-sans-filtre/id1709174393?uo=4",
       "trackId": 1709174393,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 3,
       "episodeCount": 23
     }
   },
@@ -29,5 +29,29 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "#20 - Comment s’initier au sexe anal ?",
+      "date": "2024-03-27"
+    },
+    {
+      "titre": "#19 - Quels sont les zones érogènes de notre corps ?",
+      "date": "2024-03-20"
+    },
+    {
+      "titre": "#18 - Dis-moi tout ce qu’il faut savoir sur le pénis ?",
+      "date": "2024-03-13"
+    },
+    {
+      "titre": "#17 - Quelles sont les meilleures positions au lit ?",
+      "date": "2024-03-06"
+    },
+    {
+      "titre": "#16 - Des conseils pour faire un bon cunnilingus ?",
+      "date": "2024-02-28"
+    }
+  ],
+  "derniere_activite": "2024-03-27",
+  "frequence_jours": 7
 }

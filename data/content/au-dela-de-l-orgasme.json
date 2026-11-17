@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/au-del%C3%A0-de-lorgasme/id1644943391?uo=4",
       "trackId": 1644943391,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 3,
       "episodeCount": 13
     }
   },
@@ -29,5 +29,29 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "Ep 12: Comment la peur d’être rejetée et le people pleasing impactent votre vie sexuelle",
+      "date": "2023-01-31"
+    },
+    {
+      "titre": "Ep 11: Utilisez-vous le Slut-Shaming contre vous-même ou d’autres femmes ?",
+      "date": "2022-11-17"
+    },
+    {
+      "titre": "Ep 10: Comment communiquer vos désirs à votre partenaire – 3ème partie : Outils pratiques",
+      "date": "2022-10-19"
+    },
+    {
+      "titre": "Ep 9: Comment communiquer vos désirs à votre partenaire – 2ème partie : Le patriarcat",
+      "date": "2022-10-05"
+    },
+    {
+      "titre": "Ep 8: Comment communiquer vos désirs à votre partenaire – 1ère partie : Quand vous craignez de le·la blesser",
+      "date": "2022-09-28"
+    }
+  ],
+  "derniere_activite": "2023-01-31",
+  "frequence_jours": 6
 }

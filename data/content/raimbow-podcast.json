@@ -1,0 +1,44 @@
+{
+  "slug": "raimbow-podcast",
+  "title": "Raimbow Podcast",
+  "author": "Raimbow Podcast",
+  "type": "podcast",
+  "categories": [
+    "societe",
+    "psychologie",
+    "sante",
+    "bien-etre"
+  ],
+  "description": "",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/b9/86/69/b9866923-00cc-a161-0bd6-002ecc3f32f9/mza_6059320933327170697.jpg/600x600bb.jpg",
+  "language": "",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/raimbow-podcast/id1523862497?uo=4",
+      "trackId": 1523862497,
+      "rating": null,
+      "ratingCount": null,
+      "episodeCount": 2
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "societe",
+    "psychologie",
+    "sante",
+    "bien-etre"
+  ],
+  "addedAt": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "episodes_recents": [
+    {
+      "titre": "2. Puto",
+      "date": "2020-07-23"
+    },
+    {
+      "titre": "1. Marimacho",
+      "date": "2020-07-16"
+    }
+  ],
+  "derniere_activite": "2020-07-23"
+}

@@ -15,8 +15,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/le-pouvoir-a-t-il-un-sexe/id1652294970?uo=4",
       "trackId": 1652294970,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 2,
       "episodeCount": 7
     }
   },
@@ -27,5 +27,29 @@
     "politique"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "Vers un pouvoir asexué",
+      "date": "2022-12-12"
+    },
+    {
+      "titre": "Le pouvoir religieux échappe-t-il au sexe ?",
+      "date": "2022-12-05"
+    },
+    {
+      "titre": "Quand le sexe féminin prend le pouvoir",
+      "date": "2022-11-28"
+    },
+    {
+      "titre": "La naissance du pouvoir",
+      "date": "2022-11-21"
+    },
+    {
+      "titre": "Le pharaon était une femme",
+      "date": "2022-11-14"
+    }
+  ],
+  "derniere_activite": "2022-12-12",
+  "frequence_jours": 7
 }

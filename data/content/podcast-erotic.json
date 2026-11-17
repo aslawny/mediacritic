@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/podcast-erotic/id1779928723?uo=4",
       "trackId": 1779928723,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 3,
       "episodeCount": 352
     }
   },
@@ -29,5 +29,29 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "Sexualité et spiritualité : quand le sacré réveille les sens",
+      "date": "2026-10-13"
+    },
+    {
+      "titre": "Orgasme : la pharmacie secrète du cerveau",
+      "date": "2026-10-06"
+    },
+    {
+      "titre": "Womanizer Next Liberty : le plaisir en silence, au creux de la main",
+      "date": "2026-09-29"
+    },
+    {
+      "titre": "Santé intime masculine : accorder l'instrument avant la panne",
+      "date": "2026-09-22"
+    },
+    {
+      "titre": "Combien de fois par semaine ? Pourquoi la fréquence idéale n'existe pas",
+      "date": "2026-09-20"
+    }
+  ],
+  "derniere_activite": "2026-10-13",
+  "frequence_jours": 3
 }

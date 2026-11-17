@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/sexe-oral/id1547085665?uo=4",
       "trackId": 1547085665,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.5,
+      "ratingCount": 147,
       "episodeCount": 297
     }
   },
@@ -29,5 +29,55 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Vamicaa",
+        "titre": "Meilleur podcast EVER",
+        "texte": "J’ai découvert ce podcast parce que je suis Lysandre depuis quelques années. Et quel fun de vous écouter parler de sex avec Joanie et Maryève 🤩 Des sujets et des guests tellement intéressant …"
+      },
+      {
+        "note": 1,
+        "auteur": "HuGoogle74",
+        "titre": "Inécoutable",
+        "texte": "Entre l’accent horrible et le fait que ça parle de tout sauf du sexe, j’en pouvais plus."
+      },
+      {
+        "note": 5,
+        "auteur": "Chache_L",
+        "titre": "Tellement cool",
+        "texte": "Je suis française et votre accent ♥️ n’en déplaise à certains autres avis. Vraiment ce podcast c’est mon rdv hebdomadaire et ça permet de réfléchir à pleins de choses. Oui certes il y a des sujets qui me parlent moins que d’autres mais ça vaut le coup d’écouter ! 🥰"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "Ryan Bones raconte les coulisses de l’industrie p0rno",
+      "date": "2026-11-12"
+    },
+    {
+      "titre": "Poetry Panacée sur le féminisme, le masculinisme et la non-monogamie",
+      "date": "2026-11-05"
+    },
+    {
+      "titre": "Spécial Halloween : Vos pires (et meilleures) histoires d’Halloween 🎃",
+      "date": "2026-10-29"
+    },
+    {
+      "titre": "Couple ouvert et travail du s3xe avec Kyle Smiles et Bunny Mandie",
+      "date": "2026-10-22"
+    },
+    {
+      "titre": "Renzel Dashington sur la fétichisation, le TDAH et la masculinité",
+      "date": "2026-10-15"
+    }
+  ],
+  "derniere_activite": "2026-11-12",
+  "frequence_jours": 7
 }

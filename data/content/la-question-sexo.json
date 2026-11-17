@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/la-question-sexo/id1573715481?uo=4",
       "trackId": 1573715481,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.8,
+      "ratingCount": 4,
       "episodeCount": 138
     }
   },
@@ -29,5 +29,29 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "Ecouter la Question Sexo I La communication dans sa vie sexuelle",
+      "date": "2024-12-20"
+    },
+    {
+      "titre": "Ecouter la Question Sexo I Les podcasts érotiques",
+      "date": "2024-12-13"
+    },
+    {
+      "titre": "Ecouter la Question Sexo I Les sextoys, bon pour la santé ?",
+      "date": "2024-12-06"
+    },
+    {
+      "titre": "Ecouter la Question Sexo I Le lubrifiant",
+      "date": "2024-11-29"
+    },
+    {
+      "titre": "Ecouter la Question Sexo I Le shibari",
+      "date": "2024-11-22"
+    }
+  ],
+  "derniere_activite": "2024-12-20",
+  "frequence_jours": 7
 }

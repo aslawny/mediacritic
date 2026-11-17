@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/la-louve-respire-tantra-d%C3%A9sir-sexualit%C3%A9-sacr%C3%A9e/id1884651907?uo=4",
       "trackId": 1884651907,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 2,
       "episodeCount": 12
     }
   },
@@ -29,5 +29,29 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "#12 – Sororité - Guérir sa relations aux femmes",
+      "date": "2026-07-30"
+    },
+    {
+      "titre": "#11 – Système nerveux - L'importance de se réguler en tantra",
+      "date": "2026-07-21"
+    },
+    {
+      "titre": "#10 – Guérison de nos organes segksuels - Massages Yoni & Lingam",
+      "date": "2026-07-09"
+    },
+    {
+      "titre": "#9 – Pörnö & Mästurbatiön - Avec le tantra, ça donne quoi ?",
+      "date": "2026-06-18"
+    },
+    {
+      "titre": "#8 – La nüdité - Pourquoi se met-on nü en tantra ?",
+      "date": "2026-05-21"
+    }
+  ],
+  "derniere_activite": "2026-07-30",
+  "frequence_jours": 11
 }

@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/piment/id1629313002?uo=4",
       "trackId": 1629313002,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.8,
+      "ratingCount": 53,
       "episodeCount": 13
     }
   },
@@ -29,5 +29,29 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "La vie \"sans sexe\" avec le prêtre Paul-Adrien",
+      "date": "2022-11-27"
+    },
+    {
+      "titre": "La sexualité épanouie avec la coach Lyvia Cairo",
+      "date": "2022-11-13"
+    },
+    {
+      "titre": "Le sexe devant les caméras avec Grégory Dorcel",
+      "date": "2022-10-30"
+    },
+    {
+      "titre": "Le sexe décomplexé avec Rosa Bursztein",
+      "date": "2022-10-16"
+    },
+    {
+      "titre": "Le sexe \"pour plaire\" avec Juliette Katz de \"Coucou les girls\"",
+      "date": "2022-10-02"
+    }
+  ],
+  "derniere_activite": "2022-11-27",
+  "frequence_jours": 14
 }

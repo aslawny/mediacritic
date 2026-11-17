@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/le-blog-sexologue/id1508750385?uo=4",
       "trackId": 1508750385,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.2,
+      "ratingCount": 6,
       "episodeCount": 3
     }
   },
@@ -29,5 +29,21 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "Le porno : trois inconvénients un avantage",
+      "date": "2020-07-03"
+    },
+    {
+      "titre": "Préjugés sur la sexualité des femmes : les origines",
+      "date": "2020-05-11"
+    },
+    {
+      "titre": "Comment une expérience a créé la sexologie moderne",
+      "date": "2020-04-18"
+    }
+  ],
+  "derniere_activite": "2020-07-03",
+  "frequence_jours": 53
 }

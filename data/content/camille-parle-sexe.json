@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/camille-parle-sexe/id1641901845?uo=4",
       "trackId": 1641901845,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.7,
+      "ratingCount": 114,
       "episodeCount": 272
     }
   },
@@ -29,5 +29,55 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "famillevv",
+        "titre": "Une vraie découverte !!",
+        "texte": "j ai découvert votre podcast il y a quelques jours, je les ai écouté d un trait . Je me régale. J avais des appréhensions sur le contenu car des podcast sexo il y en a déjà quelques uns .…"
+      },
+      {
+        "note": 1,
+        "auteur": "Gérard des Rousses",
+        "titre": "Trop intello pour moi",
+        "texte": "Ça parle, ça parle, ça parle… si vous cherchez un puissant somnifère, je pense que vous avez trouvé le produit qu’il vous faut : pas remboursé par la sécurité sociale, mais sans effet secondaire (mise à part la sensation d’un ennui abyssal). Bonne nuit."
+      },
+      {
+        "note": 5,
+        "auteur": "Gladys75017",
+        "titre": "Merci pour ce 2e épisode !",
+        "texte": "Un grand merci d’avoir mis les mots sur ce que je ressens depuis un moment : je n’arrive pas à montrer ma vulnérabilité ! Je sais maintenant vers où aller… Et merci de nous fournir autant de sources dans les notes du podcast, une mine d’or.…"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "#231: Dans le coeur (et la tête) des hommes avec Pierre Dubol",
+      "date": "2026-11-12"
+    },
+    {
+      "titre": "#230: Attirance envers les mineur·es : le rôle clé du Dispositif STOP dans la prévention avec Mathias Poitau e",
+      "date": "2026-11-05"
+    },
+    {
+      "titre": "#229: Se lancer en sexo : ce qu'on ne vous dit JAMAIS sur ce métier",
+      "date": "2026-11-02"
+    },
+    {
+      "titre": "sexologie post-traumatique avec Caroline Fierens (Best Of ❤️‍🔥)",
+      "date": "2026-10-29"
+    },
+    {
+      "titre": "#228 : Les pires aberrations de la prise en charge en santé sexuelle avec Sébastien Landry",
+      "date": "2026-10-22"
+    }
+  ],
+  "derniere_activite": "2026-11-12",
+  "frequence_jours": 4
 }

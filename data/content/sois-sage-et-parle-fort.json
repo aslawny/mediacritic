@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/sois-sage-et-parle-fort/id1439640680?uo=4",
       "trackId": 1439640680,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.6,
+      "ratingCount": 310,
       "episodeCount": 131
     }
   },
@@ -29,5 +29,55 @@
     "education"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Loliyiyiyiyiyiloliyiyi",
+        "titre": "Un podcast à écouter d'urgence",
+        "texte": "J'écoute ce podcast depuis le début , il m'arrive peu de laisser des avis , mais j'avais envie de prendre le temps d'en laisser un pour le tiens Marie , car il mérite d'être connu et écouté par toutes les oreilles et tous les cœurs !! C'est un podcast tellement enrichissant , il…"
+      },
+      {
+        "note": 1,
+        "auteur": "Corine de la compta",
+        "titre": "Meilleur son svp!",
+        "texte": "Les sujets sont intéressants mais la qualité du son est vraiment mauvaise. Ça ne donne pas du tout envie d’écouter les autres podcasts."
+      },
+      {
+        "note": 5,
+        "auteur": "lea_tlp",
+        "titre": "N’hésitez pas pour écouter !!!!",
+        "texte": "Des questionnements, des sujets d’actualités, des prises de consciences, des réalités .... et j’en passe. Si vous n’avez pas encore écouter un seul de ces podcasts, foncez : les sujets sont tellement divers et variés que vous devriez au moins en trouver un à votre goût.…"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "Coach, consultant, mentor : ton business plafonne ? Ce n’est pas une question de stratégie, de positionnement ",
+      "date": "2026-09-25"
+    },
+    {
+      "titre": "Le coaching : de l’art, de l’amour et de la technique",
+      "date": "2025-11-01"
+    },
+    {
+      "titre": "Médecines sacrées et psychédéliques : quelles dérives et comment bénéficier de leurs bienfaits ?",
+      "date": "2025-09-23"
+    },
+    {
+      "titre": "Comment réintégrer un masculin leader et intègre en tant qu’homme et femme ? Focus business et relations",
+      "date": "2025-09-23"
+    },
+    {
+      "titre": "Plaisir et traumas, sexualité, tantra, dérives de la spiritualité, polarités, entreprenariat féminin",
+      "date": "2025-04-03"
+    }
+  ],
+  "derniere_activite": "2026-09-25",
+  "frequence_jours": 38
 }

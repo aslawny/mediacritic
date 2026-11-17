@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/les-podcasts-sexo-de-madmoizelle/id1406372241?uo=4",
       "trackId": 1406372241,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.7,
+      "ratingCount": 232,
       "episodeCount": 90
     }
   },
@@ -29,5 +29,55 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Bernard !",
+        "titre": "Le feu 😍",
+        "texte": "Super format au niveau de la construction témoignage/réponse et au niveau de la durée des épisodes. Vraiment frais, décomplexant et surtout plus vaste, nouveau et pertinent au niveau des sujets par rapport à d'autres podcasts qui parlent de sexe <3 Merciiii je vais le conseiller…"
+      },
+      {
+        "note": 1,
+        "auteur": "Tchicoun",
+        "titre": "Les tabous sexuelles",
+        "texte": "Écoute insupportable, bla bla-bla-bla entre copines qui d’écoute entre elles en ne s’adressant pas du tout aux personnes qui écoutent ! Parle comme une mitraillette !"
+      },
+      {
+        "note": 5,
+        "auteur": "victoria_mlf",
+        "titre": "Juste une réflexion",
+        "texte": "On apprend aux femmes tout au long de leurs vies à ne pas prendre de place, de ne pas s’exprimer autant que les hommes. Mais alors pourquoi leur demander, juste au lit, de crier, de se lâcher à l’inverse de ce qu’on leur a appris. Comme dans un film porno ?"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "Entre Tchoins #10 - Les mauvais films",
+      "date": "2021-08-10"
+    },
+    {
+      "titre": "Entre Tchoins #9 - Les tabous sexuels",
+      "date": "2021-08-05"
+    },
+    {
+      "titre": "Entre Tchoins #8 - Faire le premier pas quand on est une femme",
+      "date": "2021-08-03"
+    },
+    {
+      "titre": "Entre Tchoins #7 - La masturbation",
+      "date": "2021-07-29"
+    },
+    {
+      "titre": "Entre Tchoins #6 - La drague",
+      "date": "2021-07-27"
+    }
+  ],
+  "derniere_activite": "2021-08-10",
+  "frequence_jours": 5
 }

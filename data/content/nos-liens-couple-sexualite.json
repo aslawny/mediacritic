@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/nos-liens-couple-sexualit%C3%A9/id1809922110?uo=4",
       "trackId": 1809922110,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.2,
+      "ratingCount": 5,
       "episodeCount": 31
     }
   },
@@ -29,5 +29,29 @@
     "sante"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "6 signes qui donnent envie de fuir une relation (et comment les transformer)",
+      "date": "2026-08-11"
+    },
+    {
+      "titre": "3 clés pour atteindre l'orgasme à coup sûr",
+      "date": "2026-07-28"
+    },
+    {
+      "titre": "6 phrases pour être sûr de ne PAS faire l'amour ce soir",
+      "date": "2026-07-14"
+    },
+    {
+      "titre": "Pourquoi avons nous besoin de conflit pour aimer ?",
+      "date": "2026-06-30"
+    },
+    {
+      "titre": "Amour vs Désir : Peut-on être en couple sans sexe ?",
+      "date": "2026-06-16"
+    }
+  ],
+  "derniere_activite": "2026-08-11",
+  "frequence_jours": 14
 }

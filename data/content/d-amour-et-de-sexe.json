@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/damour-et-de-sexe/id1434416916?uo=4",
       "trackId": 1434416916,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 3.9,
+      "ratingCount": 45,
       "episodeCount": 419
     }
   },
@@ -29,5 +29,29 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "Vanessa & Meeka | DAEDS #419",
+      "date": "2026-11-14"
+    },
+    {
+      "titre": "RèN Darah & Nadia | DAEDS #418",
+      "date": "2026-11-07"
+    },
+    {
+      "titre": "Kiki Morand | DAEDS #417",
+      "date": "2026-10-31"
+    },
+    {
+      "titre": "Ash | DAEDS #416",
+      "date": "2026-10-24"
+    },
+    {
+      "titre": "Colo & Kalibre | DAEDS #415",
+      "date": "2026-10-17"
+    }
+  ],
+  "derniere_activite": "2026-11-14",
+  "frequence_jours": 7
 }

@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/sexosafe/id1637101229?uo=4",
       "trackId": 1637101229,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.7,
+      "ratingCount": 15,
       "episodeCount": 61
     }
   },
@@ -25,5 +25,29 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "30 ans de trithérapies",
+      "date": "2026-11-05"
+    },
+    {
+      "titre": "La dermatophilose",
+      "date": "2026-07-22"
+    },
+    {
+      "titre": "Chemsex, paroles d'usagers. William.",
+      "date": "2026-06-01"
+    },
+    {
+      "titre": "Chemsex, paroles d'usagers. Jean-Patrick",
+      "date": "2026-05-19"
+    },
+    {
+      "titre": "Chemsex, paroles d'usagers. Fabrice",
+      "date": "2026-05-08"
+    }
+  ],
+  "derniere_activite": "2026-11-05",
+  "frequence_jours": 20
 }

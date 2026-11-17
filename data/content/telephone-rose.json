@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/t%C3%A9l%C3%A9phone-rose/id1668648404?uo=4",
       "trackId": 1668648404,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.6,
+      "ratingCount": 66,
       "episodeCount": 21
     }
   },
@@ -29,5 +29,29 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "S02#10 - J'ai été surpris.e pedant le sexe",
+      "date": "2024-11-15"
+    },
+    {
+      "titre": "S02#09 - J'ai eu un coup de foudre virtuel",
+      "date": "2024-10-23"
+    },
+    {
+      "titre": "S02#08 - J'ai essayé la pénétration anale",
+      "date": "2024-08-11"
+    },
+    {
+      "titre": "S02#07 - Je l'ai fait avec un.e ami.e",
+      "date": "2024-06-18"
+    },
+    {
+      "titre": "S02#06 - J'ai fait l'amour à distance",
+      "date": "2024-05-21"
+    }
+  ],
+  "derniere_activite": "2024-11-15",
+  "frequence_jours": 28
 }

@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/on-the-verge/id1453002493?uo=4",
       "trackId": 1453002493,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.6,
+      "ratingCount": 798,
       "episodeCount": 191
     }
   },
@@ -29,5 +29,55 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Michelange281",
+        "titre": "Merci",
+        "texte": "J’ai découvert le podcast il y a environs deux semaines et je viens de dévorer tous les épisodes attaquant aujourd’hui le 64e. Je me suis mis au podcasts il y a tout juste 1 an découvrant de nombreux sujets concernant la sexualité à travers différent podcast, je dois avouer que j…"
+      },
+      {
+        "note": 1,
+        "auteur": "Ouam2020",
+        "titre": "Qualité du son",
+        "texte": "Dommage que la qualité de son soit souvent très mauvaise sur ce podcast pourtant très intéressant"
+      },
+      {
+        "note": 5,
+        "auteur": "JeanDuChangement",
+        "titre": "Un gros travail et une grande qualité",
+        "texte": "Un podcast que j'écoute depuis ses débuts, et je ne m'en lasse pas, même après 4 saisons. Je me reconnais à chaque fois dans une part de chacun des invités. Toutes ces histoires m'ont permis de me sentir bien plus \"normal\" que je ne le pensais au départ.…"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "#136 Loïc : « Je crois que je sais ce que ça fait de mourir de son vivant. »",
+      "date": "2026-11-06"
+    },
+    {
+      "titre": "#135 Pierre : « Je me sens constamment en décalage. »",
+      "date": "2026-10-23"
+    },
+    {
+      "titre": "#134 Alain : « Avec un homme, ce n'est pas vraiment tromper. »",
+      "date": "2026-10-09"
+    },
+    {
+      "titre": "#FAQ volume 2 - Episode Spécial sur la sexualité masculine avec Gilbert Bou Jaoudé (Charles.co)",
+      "date": "2026-09-17"
+    },
+    {
+      "titre": "#133 Clem : « Je me suis dit : c’est eux ou moi »",
+      "date": "2026-09-11"
+    }
+  ],
+  "derniere_activite": "2026-11-06",
+  "frequence_jours": 14
 }

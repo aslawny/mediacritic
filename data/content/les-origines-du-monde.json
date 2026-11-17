@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/les-origines-du-monde/id1380076051?uo=4",
       "trackId": 1380076051,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.7,
+      "ratingCount": 18,
       "episodeCount": 31
     }
   },
@@ -25,5 +25,29 @@
     "societe"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "ROMPRE",
+      "date": "2026-07-06"
+    },
+    {
+      "titre": "MON CORPS",
+      "date": "2026-05-20"
+    },
+    {
+      "titre": "L'ÂGE ADULTE",
+      "date": "2026-03-17"
+    },
+    {
+      "titre": "L'AMITIÉ #2",
+      "date": "2026-02-16"
+    },
+    {
+      "titre": "L'AMITIÉ #1",
+      "date": "2026-01-19"
+    }
+  ],
+  "derniere_activite": "2026-07-06",
+  "frequence_jours": 27
 }

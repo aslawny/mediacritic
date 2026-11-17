@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/dis-moi-oui-handi/id1584552867?uo=4",
       "trackId": 1584552867,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.5,
+      "ratingCount": 11,
       "episodeCount": 26
     }
   },
@@ -29,5 +29,29 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "Comment érotiser le consentement ?",
+      "date": "2024-12-16"
+    },
+    {
+      "titre": "L'accompagnement sexuel, mode d'emploi",
+      "date": "2024-12-09"
+    },
+    {
+      "titre": "Comment les fanfictions érotisent le monde ?",
+      "date": "2024-12-02"
+    },
+    {
+      "titre": "Les nouvelles contraceptions masculines",
+      "date": "2024-11-25"
+    },
+    {
+      "titre": "S'aimer sans pénétrer",
+      "date": "2024-11-18"
+    }
+  ],
+  "derniere_activite": "2024-12-16",
+  "frequence_jours": 28
 }

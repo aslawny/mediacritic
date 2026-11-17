@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/actif-ou-passif-le-podcast-qui-lib%C3%A8re-lintime-gay/id1582348284?uo=4",
       "trackId": 1582348284,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.9,
+      "ratingCount": 716,
       "episodeCount": 388
     }
   },
@@ -29,5 +29,55 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "H24-257",
+        "titre": "Déso, pas déso",
+        "texte": "Je ne sais pas qui pourra venir aider Josay du 25/05/25, malheureusement, trolls et épanouissement ne font pas bon ménage, nous savons 😔 Je comprends que ça ne doit pas être facile d’entendre que d’autres cherchent et trouvent des solutions pour avoir la vie la + chouette possibl…"
+      },
+      {
+        "note": 1,
+        "auteur": "Un fille normale 🎀",
+        "titre": "J’aime pas du tout",
+        "texte": "Coucou Guillaume j’espère que tu vas bien J’aime pas ton podcast Mais c’est super bien 🤩 bravo Continue à t’exprimer comme ça c’est très bien 👍 La liberté de parole est très importante"
+      },
+      {
+        "note": 5,
+        "auteur": "DiDi&r",
+        "titre": "DiDi3r",
+        "texte": "Un podcast captivant et inspirant qui allie parfaitement divertissement et réflexion ! Ce podcast gay se distingue par la qualité de ses échanges, la diversité des sujets abordés et la richesse des témoignages.…"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "Gay et épanoui 🥳 (1/3) La fin de mes blocages pas des angoisses",
+      "date": "2025-10-26"
+    },
+    {
+      "titre": "Gay et épanoui 🥳 (2/3) Comment je me suis enfin libéré",
+      "date": "2025-10-24"
+    },
+    {
+      "titre": "Gay et épanoui 🥳 (3/3) Devenir une fée (et la suite de ce podcast)",
+      "date": "2025-10-22"
+    },
+    {
+      "titre": "“L’ennemi, c’est la honte” : confidences d'un acteur porno éthique - Alex 3/3 🇨🇦",
+      "date": "2025-09-23"
+    },
+    {
+      "titre": "De sexologue à acteur porno : le stress du \"bon passif\" - Alex 2/3 🇨🇦",
+      "date": "2025-09-21"
+    }
+  ],
+  "derniere_activite": "2025-10-26",
+  "frequence_jours": 2
 }

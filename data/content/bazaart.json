@@ -1,0 +1,53 @@
+{
+  "slug": "bazaart",
+  "title": "BazaArt",
+  "author": "BazaArt",
+  "type": "podcast",
+  "categories": [
+    "culture",
+    "societe"
+  ],
+  "description": "🌍 Hub artistique pluridisciplinaire hybride 🌀 Recherche • Production • Création • Diffusion• Médiation culturelle",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/78/2b/83/782b8305-dc93-11d8-55c4-f799d3d90c83/mza_8728756190151329946.jpg/600x600bb.jpg",
+  "language": "fr",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/bazaart/id1510457763?uo=4",
+      "trackId": 1510457763,
+      "rating": 4.9,
+      "ratingCount": 8,
+      "episodeCount": 22
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "culture",
+    "societe"
+  ],
+  "addedAt": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "episodes_recents": [
+    {
+      "titre": "FANMTECH | Le design au service des nouvelles technologies",
+      "date": "2022-05-26"
+    },
+    {
+      "titre": "FACETTES | Extrait de Corsé de cuirs",
+      "date": "2021-03-09"
+    },
+    {
+      "titre": "FANMTECH | CRM et système d'information avec Emmanuelle Ozier",
+      "date": "2020-12-05"
+    },
+    {
+      "titre": "FANMTECH | Les biais des algorithmes avec Maëliza Seymour",
+      "date": "2020-09-28"
+    },
+    {
+      "titre": "Sexuality Matter Ep.17 | MYMY",
+      "date": "2020-04-30"
+    }
+  ],
+  "derniere_activite": "2022-05-26",
+  "frequence_jours": 78
+}

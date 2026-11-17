@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/et-on-a-parl%C3%A9-sexe/id1549912944?uo=4",
       "trackId": 1549912944,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 4,
       "episodeCount": 11
     }
   },
@@ -29,5 +29,29 @@
     "sante"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "Et on a parlé sexe : Toute(s) première(s) fois - Episode 1/10",
+      "date": "2022-05-02"
+    },
+    {
+      "titre": "Et on a parlé sexe : Tinder surprise - Episode 7/10",
+      "date": "2022-05-02"
+    },
+    {
+      "titre": "Et on a parlé sexe : Sang tabou - Episode 5/10",
+      "date": "2022-05-02"
+    },
+    {
+      "titre": "Et on a parlé sexe : Mésaventures masturbo-fantasmagoriques - Episode 3/10",
+      "date": "2022-05-02"
+    },
+    {
+      "titre": "Et on a parlé sexe : Le meilleur et le pire - Episode 10/10",
+      "date": "2022-05-02"
+    }
+  ],
+  "derniere_activite": "2022-05-02",
+  "frequence_jours": 0
 }

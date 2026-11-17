@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/orgasmiq/id1465110916?uo=4",
       "trackId": 1465110916,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.1,
+      "ratingCount": 267,
       "episodeCount": 100
     }
   },
@@ -29,5 +29,55 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Moi ( la 4 eme❤️😍🫠)",
+        "titre": "Merci 🤩",
+        "texte": "Je me cherche et ce podcaste m’a beaucoup aidée au niveau de la sexualité et je vous suis très reconnaissant je me suis trouvé même si je n’ai encore jamais fait l’amour ( est-ce normal que j’ai envie alors que je suis ado ???) breffff mmmeeeeerrrrrrcccccciiiiiiiiiiiii😍😍😍😍"
+      },
+      {
+        "note": 5,
+        "auteur": "Marine ML",
+        "titre": "Enfin une parole vraiment libérée !",
+        "texte": "Très bon podcast ! Des femmes de tous les âges, une parole complètement libérée. La durée du podcast est parfaite en plus !"
+      },
+      {
+        "note": 5,
+        "auteur": "fisso na bisso",
+        "titre": "Génial!",
+        "texte": "Super bien fait, j’aime la voix et cette double intimité : les propos révélés et l’écoute individuelle"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "RENCONTRE ORGASMIQ - \"Pendant ces huit ans, j'étais focus que sur la douleur et pas sur le plaisir\", dit Lisa ",
+      "date": "2024-11-15"
+    },
+    {
+      "titre": "LES CONFESSIONS DE MARIE - \"Je suis amoureuse de ce mec, mais j'ai pas envie de lui\"",
+      "date": "2024-11-14"
+    },
+    {
+      "titre": "LA PAUSE Q - \"Le mec m'a proposé de faire l'amour devant un miroir\"",
+      "date": "2024-11-13"
+    },
+    {
+      "titre": "LE POINT G - Que faire en cas de dyspareunie ?",
+      "date": "2024-11-12"
+    },
+    {
+      "titre": "MISE EN BOUCHE - \"Le rôle du partenaire dans les blocages sexuels des femmes est absolument crucial\"",
+      "date": "2024-11-11"
+    }
+  ],
+  "derniere_activite": "2024-11-15",
+  "frequence_jours": 1
 }

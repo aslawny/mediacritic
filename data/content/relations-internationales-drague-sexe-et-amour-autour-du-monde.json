@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/relations-internationales-drague-sexe-et-amour-autour/id1525869568?uo=4",
       "trackId": 1525869568,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.9,
+      "ratingCount": 141,
       "episodeCount": 10
     }
   },
@@ -25,5 +25,55 @@
     "societe"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Analovechoco",
+        "titre": "Ça donne envie !",
+        "texte": "Plus d’un an que je suis leur magnifique voyage à travers tous ses pays ! Très contente de voir la finalité de ce projet très enrichissant ! En plus d’une belle histoire, on apprend beaucoup ! Je recommande vivement, le détour en vaut la peine …"
+      },
+      {
+        "note": 5,
+        "auteur": "ClemcyDC",
+        "titre": "Un voyage depuis chez soi",
+        "texte": "Série bien réalisée sur un thème particulièrement original. Les deux narrateurs Marion et Victor nous prennent par la main et nous convient à leur voyage : on s’y croirait. Les rencontres sont authentiques, pleines d’enseignements et d'anecdotes."
+      },
+      {
+        "note": 5,
+        "auteur": "Fg_paris",
+        "titre": "Podcasts à écouter absolument",
+        "texte": "Les Podcasts de R internationales sont très bien documentés, parfaitement relatés. Grande qualité dans la production. Et surtout instructifs sur les habitudes / traditions des autres pays. Une découverte à chaque podcast !"
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "À Cuba, «le sexe permet de se sentir libre»",
+      "date": "2020-09-29"
+    },
+    {
+      "titre": "Au Cambodge, «les sextoys sont illégaux et le plaisir féminin tabou»",
+      "date": "2020-09-22"
+    },
+    {
+      "titre": "En Mongolie, «les garçons n'ont rien à faire parce qu'ils ont un pénis»",
+      "date": "2020-09-15"
+    },
+    {
+      "titre": "Au Mexique, «le romantisme est une forme de violence»",
+      "date": "2020-09-07"
+    },
+    {
+      "titre": "En Inde, «la femme n'a aucune valeur et il n'y a pas d'amour: il n'y a que les castes»",
+      "date": "2020-08-31"
+    }
+  ],
+  "derniere_activite": "2020-09-29",
+  "frequence_jours": 7
 }

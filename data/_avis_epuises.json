@@ -1,6 +1,6 @@
 {
-  "maj": "2026-11-16",
-  "total": 1574,
+  "maj": "2026-11-17",
+  "total": 1585,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -2416,6 +2416,18 @@
       "fiche": "fiches/f-d-up-movies.html"
     },
     {
+      "slug": "sphere5",
+      "titre": "SPHERE5",
+      "notes_apple": 126,
+      "fiche": "fiches/sphere5.html"
+    },
+    {
+      "slug": "fan-fiction",
+      "titre": "Fan Fiction",
+      "notes_apple": 125,
+      "fiche": "fiches/fan-fiction.html"
+    },
+    {
       "slug": "le-morning-de-difool",
       "titre": "Le Morning de Difool",
       "notes_apple": 124,
@@ -2444,6 +2456,12 @@
       "titre": "À la régulière",
       "notes_apple": 112,
       "fiche": "fiches/a-la-reguliere.html"
+    },
+    {
+      "slug": "la-voie-d-un-yogi",
+      "titre": "La voie d'un yogi",
+      "notes_apple": 109,
+      "fiche": "fiches/la-voie-d-un-yogi.html"
     },
     {
       "slug": "ted-en-francais",
@@ -2500,6 +2518,18 @@
       "fiche": "fiches/abracadapod.html"
     },
     {
+      "slug": "plan-kube-le-podcast-litteraire-decontracte",
+      "titre": "Plan Kube - Le podcast littéraire décontracté",
+      "notes_apple": 97,
+      "fiche": "fiches/plan-kube-le-podcast-litteraire-decontracte.html"
+    },
+    {
+      "slug": "integrale-coupe-du-monde-de-la-fifa",
+      "titre": "Intégrale Coupe du Monde de la FIFA",
+      "notes_apple": 96,
+      "fiche": "fiches/integrale-coupe-du-monde-de-la-fifa.html"
+    },
+    {
       "slug": "gouinement-lundi",
       "titre": "Gouinement Lundi",
       "notes_apple": 95,
@@ -2518,6 +2548,12 @@
       "fiche": "fiches/les-mez-cast.html"
     },
     {
+      "slug": "le-cercle-des-bedouines",
+      "titre": "Le cercle des Bedouines",
+      "notes_apple": 95,
+      "fiche": "fiches/le-cercle-des-bedouines.html"
+    },
+    {
       "slug": "l-equipe-du-tour",
       "titre": "L'Équipe du Tour",
       "notes_apple": 94,
@@ -2528,6 +2564,36 @@
       "titre": "Pack de Potes Rugby Podcast",
       "notes_apple": 94,
       "fiche": "fiches/pack-de-potes-rugby-podcast.html"
+    },
+    {
+      "slug": "effrontee",
+      "titre": "Effrontée",
+      "notes_apple": 94,
+      "fiche": "fiches/effrontee.html"
+    },
+    {
+      "slug": "foudre",
+      "titre": "Foudre",
+      "notes_apple": 94,
+      "fiche": "fiches/foudre.html"
+    },
+    {
+      "slug": "la-daronnie-tmtc",
+      "titre": "La Daronnie TMTC",
+      "notes_apple": 94,
+      "fiche": "fiches/la-daronnie-tmtc.html"
+    },
+    {
+      "slug": "r-evolution-aimer-en-conscience",
+      "titre": "(R)évolution : aimer en conscience",
+      "notes_apple": 94,
+      "fiche": "fiches/r-evolution-aimer-en-conscience.html"
+    },
+    {
+      "slug": "repassez-moi-l-standard",
+      "titre": "Repassez-moi l'standard",
+      "notes_apple": 94,
+      "fiche": "fiches/repassez-moi-l-standard.html"
     },
     {
       "slug": "daniel-morin-en-liberte",

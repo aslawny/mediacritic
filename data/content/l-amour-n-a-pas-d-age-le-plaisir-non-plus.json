@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/lamour-na-pas-d%C3%A2ge-le-plaisir-non-plus/id1794771189?uo=4",
       "trackId": 1794771189,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": 1
     }
   },
@@ -29,5 +29,12 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "Régine : \"Séduisez-vous ! Séduisez-vous, jusqu'au bout !\"",
+      "date": "2025-02-06"
+    }
+  ],
+  "derniere_activite": "2025-02-06"
 }

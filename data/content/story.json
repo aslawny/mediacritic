@@ -1,0 +1,57 @@
+{
+  "slug": "story",
+  "title": "Story",
+  "author": "20 Minutes TV",
+  "type": "podcast",
+  "categories": [
+    "societe",
+    "temoignage",
+    "culture",
+    "psychologie"
+  ],
+  "description": "Derrière chaque voix se cache une histoire. Nous donnons la parole à ceux que l’on croise tous les jours, mais dont on ne soupçonne pas les histoires extraordinaires. Story, un podcast de 20 Minutes. Pour proposer une histoire, vous pouvez nous contacter à audio@20minutes.fr",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/df/21/7a/df217a7b-0a85-4459-1e1b-9cfa0fd69add/mza_8931566513311466102.jpeg/600x600bb.jpg",
+  "language": "fr",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/story/id1373765584?uo=4",
+      "trackId": 1373765584,
+      "rating": 4.8,
+      "ratingCount": 56,
+      "episodeCount": 1279
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "societe",
+    "temoignage",
+    "culture",
+    "psychologie"
+  ],
+  "addedAt": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "episodes_recents": [
+    {
+      "titre": "Pierre Chesnot, agriculteur bio, a survécu au cancer lié aux pesticides",
+      "date": "2026-11-10"
+    },
+    {
+      "titre": "Michel Zecler, victime de violences policières",
+      "date": "2026-10-27"
+    },
+    {
+      "titre": "Bernard Marc, dans le quotidien d'un médecin légiste",
+      "date": "2026-10-13"
+    },
+    {
+      "titre": "Ludivine : atteinte d'un cancer du sein agressif, la recherche lui a sauvé la vie",
+      "date": "2026-09-29"
+    },
+    {
+      "titre": "Martin Petit, ancien sportif devenu tétraplégique",
+      "date": "2026-09-15"
+    }
+  ],
+  "derniere_activite": "2026-11-10",
+  "frequence_jours": 14
+}

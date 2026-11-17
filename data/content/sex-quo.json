@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/sex-%C3%A6quo/id1790686909?uo=4",
       "trackId": 1790686909,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 23,
       "episodeCount": 13
     }
   },
@@ -29,5 +29,29 @@
     "sante"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "Munch libertin : comment trouver sa tribu kinky ?",
+      "date": "2026-07-17"
+    },
+    {
+      "titre": "Kink et sexualité créative : comment explorer ses désirs ?",
+      "date": "2026-06-19"
+    },
+    {
+      "titre": "Sexploration et vie de parents : deux mondes incompatibles ?",
+      "date": "2026-05-21"
+    },
+    {
+      "titre": "Libertinage : les Wyylders répondent à vos questions",
+      "date": "2025-12-18"
+    },
+    {
+      "titre": "Mate-moi si tu peux !",
+      "date": "2025-12-03"
+    }
+  ],
+  "derniere_activite": "2026-07-17",
+  "frequence_jours": 35
 }

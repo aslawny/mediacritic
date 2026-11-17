@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/exploratrice-de-lintime/id1566365478?uo=4",
       "trackId": 1566365478,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.8,
+      "ratingCount": 45,
       "episodeCount": 140
     }
   },
@@ -29,5 +29,29 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "5 façons d'aborder la masturbation facilement (✨ à redécouvrir)",
+      "date": "2024-12-24"
+    },
+    {
+      "titre": "Quand et comment parler de tes douleurs intimes avec ton partenaire ? Avec Léa de Mercibeaucul (✨ à redécouvri",
+      "date": "2024-12-17"
+    },
+    {
+      "titre": "Planifier des moments intimes : la clé pour une sexualité épanouie (✨ à redécouvrir)",
+      "date": "2024-12-10"
+    },
+    {
+      "titre": "5 pistes pour retrouver des sensations pendant les rapports (✨ à redécouvrir)",
+      "date": "2024-12-03"
+    },
+    {
+      "titre": "(Re)conquérir ton imaginaire érotique, avec Madame Q (✨ à redécouvrir)",
+      "date": "2024-11-26"
+    }
+  ],
+  "derniere_activite": "2024-12-24",
+  "frequence_jours": 6
 }

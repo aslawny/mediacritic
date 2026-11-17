@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/si-sexe-si/id1657881367?uo=4",
       "trackId": 1657881367,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.3,
+      "ratingCount": 6,
       "episodeCount": 59
     }
   },
@@ -29,5 +29,29 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "Épisode 36 - Le pénis",
+      "date": "2026-03-10"
+    },
+    {
+      "titre": "Épisode 35 - Le clitoris",
+      "date": "2026-02-09"
+    },
+    {
+      "titre": "Épisode 34 (une seule version) - L'éternité",
+      "date": "2026-01-09"
+    },
+    {
+      "titre": "Épisode 33 (une seule version) - Ralentir",
+      "date": "2025-12-10"
+    },
+    {
+      "titre": "Épisode 32 (une seule version) - Le massage",
+      "date": "2025-11-09"
+    }
+  ],
+  "derniere_activite": "2026-03-10",
+  "frequence_jours": 30
 }

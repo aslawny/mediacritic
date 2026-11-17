@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/lieux-du-sexe/id1473034928?uo=4",
       "trackId": 1473034928,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.4,
+      "ratingCount": 536,
       "episodeCount": 6
     }
   },
@@ -29,5 +29,55 @@
     "societe"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-17",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "amour et partage",
+        "titre": "Pour une soirée cool...",
+        "texte": "Mon amie m’ayant parlé d’un de ces clubs ns ns y sommes rendu un samedi soir J’avais refusé plusieurs fois de ns y rendre car j’avais l’angoisse de ma réaction en imaginant des hommes s’approcher de mon amie plus jeune que moi et très attirante...…"
+      },
+      {
+        "note": 5,
+        "auteur": "FedorTMS",
+        "titre": "Excellente Lucile as usual !",
+        "texte": "Très bon podcast, très fin et très sensible comme tout ce que fait Lucile Bellan ! Ne vous arrêtez pas à l’étiquette « «slate » magazine putaclic très moralisateur, donnant la parole à des féministes misandres, des racialistes communautaristes haineux et relayant essentiellement…"
+      },
+      {
+        "note": 5,
+        "auteur": "inlawwetrust",
+        "titre": "Excellent",
+        "texte": "Très bon podcast qui déconstruit beaucoup de lieux communs autour de la sexualité. La sexualité y est traitée comme un objet social qui permet de comprendre les mœurs de notre société ainsi que les évolutions sociétales."
+      }
+    ]
+  },
+  "episodes_recents": [
+    {
+      "titre": "Jouir dans un cinéma porno",
+      "date": "2019-08-19"
+    },
+    {
+      "titre": "Des parkings au Cap d'Agde, le sexe en extérieur",
+      "date": "2019-08-12"
+    },
+    {
+      "titre": "La chambre d'hôtel, cadre de tous les fantasmes",
+      "date": "2019-08-05"
+    },
+    {
+      "titre": "Sur internet, le sexe à portée de clic",
+      "date": "2019-07-29"
+    },
+    {
+      "titre": "Derrière la porte des clubs libertins",
+      "date": "2019-07-22"
+    }
+  ],
+  "derniere_activite": "2019-08-19",
+  "frequence_jours": 7
 }

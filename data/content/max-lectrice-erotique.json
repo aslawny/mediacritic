@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/max-lectrice-%C3%A9rotique/id1511409015?uo=4",
       "trackId": 1511409015,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.6,
+      "ratingCount": 48,
       "episodeCount": 6
     }
   },
@@ -29,5 +29,29 @@
     "societe"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "Chapitre 4: Rencontre à l'hôtel",
+      "date": "2020-05-26"
+    },
+    {
+      "titre": "Chapitre 3: Premier rendez-vous",
+      "date": "2020-05-19"
+    },
+    {
+      "titre": "Chapitre 2: Première lecture et fétichismes",
+      "date": "2020-05-12"
+    },
+    {
+      "titre": "Chapitre 1: Réaliser leurs fantasmes",
+      "date": "2020-05-05"
+    },
+    {
+      "titre": "La bande-annonce",
+      "date": "2020-05-04"
+    }
+  ],
+  "derniere_activite": "2020-05-26",
+  "frequence_jours": 7
 }

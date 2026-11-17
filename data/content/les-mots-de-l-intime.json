@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/les-mots-de-lintime/id1847044592?uo=4",
       "trackId": 1847044592,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 4,
       "episodeCount": 20
     }
   },
@@ -25,5 +25,29 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "Parole d'auditeur : Une rencontre intime avec Jean-Marc | épisode spécial",
+      "date": "2026-11-11"
+    },
+    {
+      "titre": "Polyamour : Tout savoir sur les relations plurielles avec Isabelle Broué",
+      "date": "2026-11-04"
+    },
+    {
+      "titre": "La sexualité des Français en 2026 (Sondage JoyClub) | Nathalie Giraud Desforges",
+      "date": "2026-10-28"
+    },
+    {
+      "titre": "FOMO : Qu'est-ce que la peur de manquer quelque chose ?",
+      "date": "2026-10-21"
+    },
+    {
+      "titre": "L’ASMR sexuelle, un bon moyen pour booster sa sexualité : Mode d’emploi",
+      "date": "2026-10-14"
+    }
+  ],
+  "derniere_activite": "2026-11-11",
+  "frequence_jours": 14
 }

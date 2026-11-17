@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/antichambre-sexe-sans-tabou/id1754977784?uo=4",
       "trackId": 1754977784,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.5,
+      "ratingCount": 35,
       "episodeCount": 53
     }
   },
@@ -29,5 +29,29 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-16",
+  "episodes_recents": [
+    {
+      "titre": "Au-delà de la séduction : masculinité, émotions et relations",
+      "date": "2026-11-01"
+    },
+    {
+      "titre": "Les shooting boudoir/ero - Peut-on photographier l'intimité sans la sexualiser ?",
+      "date": "2026-10-02"
+    },
+    {
+      "titre": "Les plans à 3",
+      "date": "2026-09-18"
+    },
+    {
+      "titre": "À quoi ressemble le sexe à 60 ans ?",
+      "date": "2026-09-01"
+    },
+    {
+      "titre": "Le doigt dans le cul, encore un tabou ?",
+      "date": "2026-08-01"
+    }
+  ],
+  "derniere_activite": "2026-11-01",
+  "frequence_jours": 15
 }
