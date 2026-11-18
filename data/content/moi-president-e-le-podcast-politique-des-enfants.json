@@ -52,25 +52,23 @@
   "derniere_activite": "2022-05-09",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-19",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Nausicaä90",
+        "titre": "Top",
+        "texte": "Ouais salut, en fait je suis allé voir le millénaire de Caen et en fait il était tellement débile, parce qu’il raconter des histoires de mer dans des coquillages et puis la goutte de la mère, elle s’en va et puis voilà c’est tout et du coup ça m’a rendu complètement débile, et vo…"
+      },
+      {
+        "note": 5,
+        "auteur": "Rilark_29",
+        "titre": "Les épisodes",
+        "texte": "Il manque beaucoup trop d’épisodes, il faudrait un par semaine minimum"
+      }
     ]
   }
 }

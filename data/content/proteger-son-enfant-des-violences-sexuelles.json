@@ -52,25 +52,29 @@
   "derniere_activite": "2024-04-19",
   "frequence_jours": 4,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-19",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "109Shirley",
+        "titre": "Podcast d’utilité publique !",
+        "texte": "Très clair, accessible, structuré, une véritable expertise délivrée dans un langage simple pour parler de ce sujet tabou. Merci Joanna Smith de nous partager une véritable instruction qui vise à prévenir des risques d’agression sexuelle sur nos enfants.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Marie. L.",
+        "titre": "À écouter et à partager un maximum",
+        "texte": "Joanna Smith est une experte dans son domaine et elle partage de façon claire et simple des données au grand public sur les violences sexuelles faites aux enfants.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Guisavis",
+        "titre": "Podcast nécessaire !!!",
+        "texte": "Ce podcast aborde un sujet des plus délicats auquel il est cependant nécessaire de se confronter. Il aide à réfléchir, à approfondir intelligemment, à se positionner objectivement.…"
+      }
     ]
   }
 }

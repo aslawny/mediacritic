@@ -48,25 +48,23 @@
   ],
   "derniere_activite": "2026-11-05",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-18",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "SueLynneInk",
+        "titre": "Très très bon",
+        "texte": "Bravo pour ce premier épisode très réussi, étant agricultrice j’ai beaucoup apprécié le recul et l’humilité des propos tout en gardant de l’espoir, après cet été de l’enfer c’est pile ce dont j’avais besoin.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Michel Fdujura",
+        "titre": "Enfin du positif",
+        "texte": "Merci beaucoup pour votre travail. Ce podcast est très intéressant. Beaucoup de pédagogie et d’analyses, c’est vraiment très positif et pertinent."
+      }
     ]
   },
   "frequence_jours": 14

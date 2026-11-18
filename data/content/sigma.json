@@ -27,25 +27,29 @@
   "addedAt": "2026-05-23",
   "updatedAt": "2026-11-16",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-19",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Melotte93",
+        "titre": "Et le prochain épisode ?",
+        "texte": "Bonjour à quand le prochain? Il y a tellement de personnes super dans vos laboratoires…"
+      },
+      {
+        "note": 5,
+        "auteur": "Ramim's",
+        "titre": "Aujourd’hui c’est un beau jour pour la science",
+        "texte": "Excellent podcast, que ce soit pour le contenu ou la présentation. Je recommande"
+      },
+      {
+        "note": 4,
+        "auteur": "Loupnoir25",
+        "titre": "Super idée",
+        "texte": "Top de la part de l’x. J espère que les sujets seront variés et évolutifs. Bravo ! Ps : petit détail : dans le clip publicitaire, il est écrit connection, au lieu de conneXion, avec un X :) un comble pour l’école :)"
+      }
     ]
   },
   "episodes_recents": [

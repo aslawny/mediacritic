@@ -53,5 +53,31 @@
     }
   ],
   "derniere_activite": "2026-11-10",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Grapedoor2@",
+        "titre": "J’adore",
+        "texte": "J’adore ce podcast, très rythmé sur la forme et sérieux sur des sujets variés sur le fond. Bravo!"
+      },
+      {
+        "note": 2,
+        "auteur": "Liodu69",
+        "titre": "Moins bien qu’avant...",
+        "texte": "Dommage que vous ne fassiez plus de condensé d’infos comme auparavant ! J’aimais bien..."
+      },
+      {
+        "note": 5,
+        "auteur": "Alice Journe",
+        "titre": "Un contenu très pertinent",
+        "texte": "Des sujets qui concernent tout le monde et dont il est important de parler ! Bravo"
+      }
+    ]
+  }
 }

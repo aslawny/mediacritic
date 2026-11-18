@@ -50,25 +50,29 @@
   "derniere_activite": "2026-11-05",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-17",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Yowa19",
+        "titre": "Toujours fidèle !",
+        "texte": "Depuis le dernier épisode de Stay Geek Radio, jusqu’à aujourd’hui, il est toujours aussi plaisant d’écouter GameCraft. De suivre l’évolution technique et du contenu m’a beaucoup plu ; les jeux-vidéos m’intéressant moins, ils sont justement devenus très à part.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Blackwolf_fr",
+        "titre": "Très bon",
+        "texte": "Découvert il y a peu sur twitter, le titre du podcast ne m’attirait pas, mais j’ai heureusement écouté par curiosité et j’ai découvert un podcast finalement généraliste, avec une bonne ambiance, qui donne un résumé complet et précis de l’actu tech’, jeux vidéo voir et parfois des…"
+      },
+      {
+        "note": 5,
+        "auteur": "Picaboubx",
+        "titre": "Excellent et éclectique",
+        "texte": "Un podcast sur la high tech et l’actualité Web et bien plus du moment. Je l’ai découvert il y a plusieurs mois et je suis resté coller depuis. Quenton tient son émission d'une main de fer dans un gants de velour mais avec beaucoup d’humour et de travail.…"
+      }
     ]
   }
 }

@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2021-04-07",
-  "frequence_jours": 50
+  "frequence_jours": 50,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "CallmeCoco❤️",
+        "titre": "Merci pour ce podcasts",
+        "texte": "Vaginisme, un mot que toute femme devrait connaître... Maux qui peut nous emprisonner ou nous empoisonner la vie. A travers ces témoignages très intéressant, des femmes qui parlent à cœur ouvert et qui nous font découvrir leurs expériences de la douleur face à leurs vécues...…"
+      },
+      {
+        "note": 5,
+        "auteur": "happycolombe",
+        "titre": "Merci Let’s chatte !!",
+        "texte": "Se sentir moins seule, se sentir écoutée, pouvoir partager nos expériences sans tabous et ensemble...merci pour ce podcast qui nous apprend sur nous, sur notre corps et bien plus encore …"
+      },
+      {
+        "note": 5,
+        "auteur": "angbenoit",
+        "titre": "Enfin un regard non expert qui remet la parole des concernees au centre",
+        "texte": "J'aime beaucoup le principe de donner la parole aux personnes en tant qu'expertes de ce qui leur arrive et dans un but de solidarite et de soutien mutuel, plutot que de faire parler les habituels gynecos etc. C'est tres chouette."
+      }
+    ]
+  }
 }

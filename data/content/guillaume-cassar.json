@@ -53,25 +53,29 @@
   "derniere_activite": "2026-11-02",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-18",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "seb.girard",
+        "titre": "Excellent",
+        "texte": "Tout aussi bien que sur YouTube les épisodes sont bien amenés, le contenu très intéressant on apprend de vrais bonnes anecdotes et infos. Bravo !"
+      },
+      {
+        "note": 5,
+        "auteur": "Jack.B86",
+        "titre": "Un plaisir auditif",
+        "texte": "Déjà excellent narrateur pour ses vidéos YouTube, quel plaisir de retrouver la douce voix de M. Cassar. On écoute et on imagine."
+      },
+      {
+        "note": 5,
+        "auteur": "fred core",
+        "titre": "Juste évident",
+        "texte": "Le passage de la video au podcast est juste tellement évident. C’est agréable à écouter, bien mené et instructif. Beau boulot"
+      }
     ]
   }
 }

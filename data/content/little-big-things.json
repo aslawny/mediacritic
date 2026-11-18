@@ -53,25 +53,29 @@
   "derniere_activite": "2026-10-29",
   "frequence_jours": 6,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-18",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "erose.b",
+        "titre": "Spontané et incisif. Beau premier Podcast.",
+        "texte": "Un podcast honnête, sans filtre. Une discussion entre deux entrepreneurs passionnés qui nous fait oublier qui est l’interviewé. Matthieu Stefani passe ici de l’autre côté du micro et raconte son expérience d’entrepreneur.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Momo Ham",
+        "titre": "Fatiguant",
+        "texte": "Intéressant, mais fatiguant, sa manière de parler et de couper tout le temps! Dommage."
+      },
+      {
+        "note": 5,
+        "auteur": "mathleharicot",
+        "titre": "Un podcast inspirant",
+        "texte": "J’aime beaucoup LITTLE BIG THINGS car il met en avant des histoires de personnes inspirantes. J’ai trouvé l’épisode avec Arthur Auboeuf vraiment captivant.…"
+      }
     ]
   }
 }

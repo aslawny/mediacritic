@@ -53,5 +53,31 @@
     }
   ],
   "derniere_activite": "2026-10-13",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "SJ85209",
+        "titre": "Excellent",
+        "texte": "J’adore ce posdacst, il est vraiment bien amené. Le petit plus pour l’épisode sur le train, je l’ai écouté dans le train et je m’arrête à Limoges ! La petite anecdote était très drôle ! Mais merci à vous de décomplexer la sexualité et de parler de sujet aussi plus trash."
+      },
+      {
+        "note": 1,
+        "auteur": "Gérard des Rousses",
+        "titre": "Nul",
+        "texte": "Discussions entre copines, niveau collège, et encore, je suis gentil."
+      },
+      {
+        "note": 5,
+        "auteur": "Leatoune",
+        "titre": "Instructif et drôle",
+        "texte": "Je viens d’écouter l’épisode sur les légendes urbaines. Génial ! Il y a tellement d’idées reçues et de fake news qui circulent encore sur la sexualité que ce podcast est d’utilité publique. Je suis pour qu’on le diffuse dans tous les collèges et lycées de France. Bravo 👏"
+      }
+    ]
+  }
 }

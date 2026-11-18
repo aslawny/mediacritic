@@ -53,5 +53,31 @@
     }
   ],
   "derniere_activite": "2026-07-05",
-  "frequence_jours": 20
+  "frequence_jours": 20,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Jubellier",
+        "titre": "Plein de sincérité",
+        "texte": "Je recommande vraiment ce podcast qui montre qu’avec envie, détermination et sincérité on fait forcément les choses bien. Fidèle depuis la première heure de Sérieusement Gourmand je suis épaté par cette évolution.…"
+      },
+      {
+        "note": 5,
+        "auteur": "AuréSweety",
+        "titre": "Vivre avec bon sens",
+        "texte": "L’ensemble de tes épisodes sont vraiment très intéressant! J’ai adoré celui réalisé avec ta mamie qui je trouve introduit bien celui avec Gilles Lartigot! Bref toujours aussi génial d écouter tes podcasts! Je t arrêtes surtout pas!"
+      },
+      {
+        "note": 5,
+        "auteur": "nicole 24130",
+        "titre": "Nicole",
+        "texte": "Bonjour Cet épisode m a fait un bien fou .. entendre ce message si bienveillant et si intéressant en ce début 2020 où tout à mal commencé pour moi .. me permet de sortir ma tête hors de l eau .. merci"
+      }
+    ]
+  }
 }

@@ -50,25 +50,29 @@
   "derniere_activite": "2026-11-09",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-19",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Reivaxtheo",
+        "titre": "Du très haut niveau",
+        "texte": "Le plaisir est toujours nouveau. Ne dit-on pas : à questions intelligentes réponses intelligentes? C’est un véritable Personal MBA en audio. Tous les entrepreneurs pourraient tirer de gros bénéfices à les écouter en toute occasion.…"
+      },
+      {
+        "note": 5,
+        "auteur": "theo__vvl",
+        "titre": "Retour d’expérience",
+        "texte": "J’ai passé un super moment avec Yannick ! Il est empathique, il pose des questions réfléchies et qui ont du sens (ce que je trouve primordial aujourd’hui où presque tout est fait par IA).…"
+      },
+      {
+        "note": 5,
+        "auteur": "david-assessfirst",
+        "titre": "Un condensé de ressources et d’inspiration sur l’entrepreneuriat !",
+        "texte": "Podcast passionnant qui permet de se plonger directement dans le quotidien et les problématiques très concrètes rencontrées par les CEO. C’est à la fois une ressource ultra riche (avec des expériences et des conseils activables) et aussi une source d’inspiration pour quiconque es…"
+      }
     ]
   }
 }

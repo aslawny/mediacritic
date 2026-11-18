@@ -49,25 +49,23 @@
   "derniere_activite": "2026-03-22",
   "frequence_jours": 70,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-17",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mynameis__",
+        "titre": "Des podcasts passionnants",
+        "texte": "Des podcasts très variés avec des conférenciers vraiment passionnants. Une collection de podcasts à découvrir !"
+      },
+      {
+        "note": 5,
+        "auteur": "ALRmeji",
+        "titre": "Top!!",
+        "texte": "Podcast très intéressant et enrichissant! Belle ouverture d’esprit ! Merci"
+      }
     ]
   }
 }

@@ -50,25 +50,29 @@
   "derniere_activite": "2026-09-03",
   "frequence_jours": 28,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-17",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Stonewall.Jackson",
+        "titre": "Un podcast plaisant et indispensable sur l’actu SVOD",
+        "texte": "J’ai découvert récemment ce podcast et ai écouté tous les enregistrements chronologiquement depuis le premier numéro. Ce podcast a beaucoup progressé depuis ses débuts (aidé par le développement de la SVOD), les animateurs ont pris de l’assurance, les commentaires sont pertinents…"
+      },
+      {
+        "note": 3,
+        "auteur": "dofidotoinou",
+        "titre": "Nouveau tarif Netflix….",
+        "texte": "Attention Netflix est à 1€ de l’abo Amazon avec son pass ligue1….certes l’offre Prime est moins importante ( en quantité, pas en qualité ) sur les séries et films mais il y a le service livraison en plus dans le site marchand…à mon avis, pas mal d’abonnements annuels vont se tran…"
+      },
+      {
+        "note": 5,
+        "auteur": "Elenn92",
+        "titre": "SVOD",
+        "texte": "Source d'infos sur Netflix et ses conccurents, mensuel permettant d'avoir les news et des bons conseils sur les films et séries diffusés sur Netflix."
+      }
     ]
   }
 }

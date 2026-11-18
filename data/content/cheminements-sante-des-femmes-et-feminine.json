@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-11-15",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Une autre podcasteuse",
+        "titre": "Une « safe place » pour parler de santé féminine",
+        "texte": "Cheminements porte très bien son nom : il accompagne les invitées comme les auditrices à « cheminer » dans l’acceptation de leur histoire. Un vrai exercice cathartique. Et puis les épisodes sont très joliment écrits ! Bravo !"
+      },
+      {
+        "note": 5,
+        "auteur": "alycia034",
+        "titre": "excellent",
+        "texte": "super découverte. j’aime découvrir les témoignages de ses personnes qui ont une maladie rare et de voir comment est leur manière de voir la vie. merci beaucoup cette bienveillance. je vais partager ce podcast !"
+      },
+      {
+        "note": 5,
+        "auteur": "SimonV03",
+        "titre": "L’incontournable de l’info leadership santé !",
+        "texte": "Podcasts très intéressants et enrichissants sur la vie de femmes ayant un leadership impactant dans le secteur santé / pharma (épisodes favoris : EP. 1 - Hkind et EP. 4 - MyDiabby Healthcare !)"
+      }
+    ]
+  }
 }

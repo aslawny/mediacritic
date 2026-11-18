@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-29",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-17",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "ch",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Chap en vélo",
+        "titre": "Une démystification bienvenue",
+        "texte": "La sensibilisation à un sujet qui change notre environnement et va continuer à le changer est primordiale. Les invités sont clairement des experts et G.…"
+      },
+      {
+        "note": 1,
+        "auteur": "KI_power",
+        "titre": "L’illusion du savoir, version podcast",
+        "texte": "IA qu’à m’expliquer? Faudrait-il encore comprendre les enjeux."
+      },
+      {
+        "note": 5,
+        "auteur": "Jo_Tenshi",
+        "titre": "Simple et efficace.",
+        "texte": "Podcast facile d’accès pour n’importe quel intéressé au sujet de l’IA. Les infos sont de qualité avec une réflexion intéressante et des invités qui le sont tout autant. A écouter sans hésiter 👍"
+      }
     ]
   }
 }

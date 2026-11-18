@@ -27,25 +27,29 @@
   "addedAt": "2026-05-20",
   "updatedAt": "2026-11-16",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-19",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Zellejuju",
+        "titre": "Merci !!",
+        "texte": "Je vous ai découvertes il y a un an… dans un moment de ma vie où tout a valsé !! Santé, vie pro et sentimentale… une bonne année 2025 !!! J’ai aimé vous écouté : votre complicité, vos émotions vraies et sans filtre, votre authenticité et votre fragilité !!! C’est très beau et tou…"
+      },
+      {
+        "note": 1,
+        "auteur": "Mathylde 78*",
+        "titre": "Déçue",
+        "texte": "Je m’attendais à plus d’honnêteté de la par de Camille , je trouve le concept très chouette mais les réponses superficielles . Dommage ! Jenny par contre j’aime beaucoup ton honnêteté . Belle découverte ."
+      },
+      {
+        "note": 5,
+        "auteur": "Ludi11aaron",
+        "titre": "Se remettre en question",
+        "texte": "Mais j’ai tellement aimé, en faisant mes interventions, solo , a vous écouter les filles , je pensais qu’il n’y avait que rares personnes qui se posaient ce genre de questionnement ! A part mon fils asperger et moi dans mon entourage je passe pour une extra-terrestre.…"
+      }
     ]
   },
   "episodes_recents": [

@@ -51,25 +51,29 @@
   "derniere_activite": "2025-05-09",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-19",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "PoFloris",
+        "titre": "Superbe",
+        "texte": "Des voix exceptionnelles, un jeu d’acteur authentique qui donne vie au texte de façon réaliste, et une musique magnifique, que demander de mieux? Avec les résumés en début d’épisode qui aident à mieux reprendre l’histoire et les pauses musicales délicates et bien placées, c’est u…"
+      },
+      {
+        "note": 5,
+        "auteur": "elya 23",
+        "titre": "Quelle justesse !",
+        "texte": "Un véritable enchantement. Je n’ai pas lu l’éducation sentimentale depuis 30 ans alors l’écouter est un plaisir. Je suis ravie d’entendre lal voix du feu Michel Galabru."
+      },
+      {
+        "note": 5,
+        "auteur": "M@rie49",
+        "titre": "Excellent !",
+        "texte": "Je regrette seulement de ne trouver nulle part une distribution exhaustive. Certaines voix me sont familières -notamment celle de M. Arnoux-, mais quel est cet acteur ?"
+      }
     ]
   }
 }

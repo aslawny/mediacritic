@@ -52,25 +52,29 @@
   "derniere_activite": "2026-07-02",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-17",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "SKT133",
+        "titre": "Ça bouscule !",
+        "texte": "Excellent podcast ! Innovant, instructif, transparent ! Je kiffe :) Jérémy va droit au but avec une telle authenticité et simplicité ! Ça change. Quelque soit l’épisode, on en sort avec des pépites, des pistes de réflexion, des prises de conscience… je recommande fortement !"
+      },
+      {
+        "note": 5,
+        "auteur": "coahc22",
+        "titre": "Au top!",
+        "texte": "Podcast clair et efficace pour defoncer ses idées reçues et se remettre en question."
+      },
+      {
+        "note": 4,
+        "auteur": "mabe.kht",
+        "titre": "Excellent 💫",
+        "texte": "Excellent podcast, ça change totalement ma vision de l’argent et brise les fausses croyances que je peux avoir autour de l’argent Merci beaucoup Jeremy"
+      }
     ]
   }
 }

@@ -53,5 +53,25 @@
     }
   ],
   "derniere_activite": "2026-11-12",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Michel Coif",
+        "titre": "Fan récent de ton émission",
+        "texte": "Connu via une copine, j’en ai appris beaucoup sur les femmes et sur moi même via tes émissions. J’étais pourtant déjà à leur écoute mais là, la façon dont tu en parles permet d’arriver à une osmose des partenaires, un lien qui s’intensifie pour un plaisir démultiplié et multi dir…"
+      },
+      {
+        "note": 5,
+        "auteur": "Magali from Toulon",
+        "titre": "Rabelais t’aurait kiffé",
+        "texte": "Chère Aurélie. J’ai 61 ans et j’écoute avec délice tes posts. Quelle merveille : une femme épanouie, gourmande et joyeuse sexuellement accompagnant tout celleux qui souhaitent qu’il en soit de même dans leur vie.…"
+      }
+    ]
+  }
 }

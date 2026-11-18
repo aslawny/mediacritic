@@ -53,25 +53,29 @@
   "derniere_activite": "2025-08-06",
   "frequence_jours": 12,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-19",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Cyrille Gou",
+        "titre": "Vraiment top !",
+        "texte": "Si la liberté c'est se fixer soit même un cap, ca peut donner le vertige au moment de commencer. Productiv'you apporte des perspectives pertinentes et des outils efficaces pour aborder les projets pro et perso.…"
+      },
+      {
+        "note": 2,
+        "auteur": "Mamant'aime",
+        "titre": "Prb de son",
+        "texte": "Musique trop forte en intro on n’entend pas. Voix avec écho assez dérangeant pour les oreilles sensibles..."
+      },
+      {
+        "note": 5,
+        "auteur": "Maxime Binet",
+        "titre": "Une référence en la matière !",
+        "texte": "Excellent podcast ! Priscille nous offre à chaque fois un contenu de qualité, plein de life hacking, des astuces de productivité, des interviews de qualité etc c'est toujours un plaisir de t'écouter …"
+      }
     ]
   }
 }

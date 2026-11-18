@@ -37,25 +37,23 @@
   ],
   "derniere_activite": "2024-02-08",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-18",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 1,
+        "auteur": "vio🪽",
+        "titre": "😪",
+        "texte": "J’aime pas du tout désolée mais non . Bonne intention mais non c’est … voila quoi ."
+      },
+      {
+        "note": 1,
+        "auteur": "vio🪽",
+        "titre": "😪",
+        "texte": "J’aime pas du tout désolée mais non . Bonne intention mais non c’est … voila quoi ."
+      }
     ]
   }
 }

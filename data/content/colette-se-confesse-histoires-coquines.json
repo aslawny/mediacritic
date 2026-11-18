@@ -53,5 +53,31 @@
     }
   ],
   "derniere_activite": "2026-07-06",
-  "frequence_jours": 25
+  "frequence_jours": 25,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Gg97433",
+        "titre": "Très chaud et instructif",
+        "texte": "La voix sensuelle de Colette, les discrets, mais perceptibles bruits de plaisir font monter la température comme jamais . À écouter ou à re écouter pour se chauffer seul ou en couple …"
+      },
+      {
+        "note": 5,
+        "auteur": "Jeanmi7",
+        "titre": "Un podcast à écouter sans modération",
+        "texte": "Ce podcast est merveilleux et permet de découvrir des histoires immersives différentes qui sont très bien écrites et qui font bien monter la température. Bravo Colette pour ton travail"
+      },
+      {
+        "note": 5,
+        "auteur": "camillecbz",
+        "titre": "Incroyable",
+        "texte": "Un bonheur de profiter de contenu éthique et si bien pensé. Bravo pour ce travail Colette !"
+      }
+    ]
+  }
 }

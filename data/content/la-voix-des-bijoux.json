@@ -52,25 +52,29 @@
   "derniere_activite": "2026-11-05",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-19",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "frasidfracar",
+        "titre": "Anglais",
+        "texte": "Je connais un joaillier orfèvre à Sydney qui serait ravi d’écouter vos podcasts mais en anglais. Est-ce possible ? Moi qui ai la chance de vous écouter et d’enregistrer certains épisodes, je vous remercie pour ces histoires qui me font rêver dans ce monde qui se repaît d’histoire…"
+      },
+      {
+        "note": 5,
+        "auteur": "bruno gilbert",
+        "titre": "Merci de nous enchanter par Un ton adapté aux qualités captivantes de vos sujets",
+        "texte": "Voici un exercice de styles qui mérite que l’on s’y arrête : histoire, art joaillier et faculté de dévoiler tant de mystères… ce podcast est enrichissant ! Bruno Gilbert"
+      },
+      {
+        "note": 5,
+        "auteur": "Annabelle83",
+        "titre": "Well done and fun.",
+        "texte": "It’s in French, but it’s delightful. Well done. Well written. Gréât stories."
+      }
     ]
   }
 }

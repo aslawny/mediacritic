@@ -51,25 +51,29 @@
   "derniere_activite": "2021-11-26",
   "frequence_jours": 27,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-19",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Key List",
+        "titre": "Une perle pour les amoureux du cinema de genre",
+        "texte": "Tout est dit dans mon titre. J'aime le sérieux et l'intelligence de discussions de ces amoureux du cinema d'horreur, fantastique, d'exploitation, du Japon, etc. combiné à une ambiance à la cool avec des bonnes vannes entre les participants.…"
+      },
+      {
+        "note": 5,
+        "auteur": "God Tsohg",
+        "titre": "Genre, c’est mortel !!",
+        "texte": "Podcast incontournable pour les fans de films de genre avec une pure équipe de passionnés qui transmettent avec précision, humour, humeurs et sens du partage ! C’est complet, fun, cash, et ça parle aussi de BOF, littérature, comics...…"
+      },
+      {
+        "note": 5,
+        "auteur": "Mihona_adachi",
+        "titre": "J'adore",
+        "texte": "J'ai découvert ce podcast un peu par hasard, alors que je recherchais des émissions sur le cinéma, et je suis vraiment emballée ! Après chaque écoute, je ressors avec une liste de films à regarder.…"
+      }
     ]
   }
 }

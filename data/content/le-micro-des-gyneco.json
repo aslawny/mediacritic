@@ -53,5 +53,31 @@
     }
   ],
   "derniere_activite": "2026-11-16",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Marwa.Masmoudi",
+        "titre": "Super podcast !",
+        "texte": "Super podcast que j’écoute régulièrement en allant à l’hôpital depuis plus de 3 ans! Bravo pour le travail colossal que vous faites! On attend des épisodes sur la santé mentale, grossesse & le post partum! 🙈 Bonne continuation ! 👏👏"
+      },
+      {
+        "note": 5,
+        "auteur": "manuemarieleco",
+        "titre": "Super podcast",
+        "texte": "Très intéressant , sujets variés , bonne initiative il manquait un podcast pour continuer à se former en gyneco facilement Merci!"
+      },
+      {
+        "note": 5,
+        "auteur": "D33333333333333333333333",
+        "titre": "Excellente initiative",
+        "texte": "Podcast qualitatif. Sujets pertinents. Bravo pour votre travail."
+      }
+    ]
+  }
 }

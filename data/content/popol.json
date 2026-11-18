@@ -53,25 +53,29 @@
   "derniere_activite": "2026-07-02",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-19",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Julie_waitforit",
+        "titre": "Podcast intéressant, on entend enfin des paroles de femmes",
+        "texte": "Eh bien moi je trouve le podcast très intéressant. Des femmes discutent entre elles de sujets politiques et d’actualité. Le podcast laisse la parole aux femmes et il est intéressant de l’écouter rien que pour avoir un point de vue différent de ce qu’on a l’habitude de nous servir…"
+      },
+      {
+        "note": 1,
+        "auteur": "Cg98000",
+        "titre": "Déçu",
+        "texte": "J’ai entendu une pub pour ce podcast, j’étais très curieux et content d’entendre parler de politique autrement. Mais très déçu toujours la même choses des jeunes femmes parisiennes qui s’écoutent parler.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Victor Lefranc",
+        "titre": "Un podcast complet.",
+        "texte": "Non initié au format du podcast, j’aiété impressionné par Popol puisqu’il permet de donner la parole aux femmes, choses ô combien d’actualité dans un milieu très masculin et ce, sur des sujets passionnants et d’actualité! Je suis content de m’être abonné et je vais continuer à éc…"
+      }
     ]
   }
 }

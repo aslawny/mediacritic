@@ -53,5 +53,31 @@
     }
   ],
   "derniere_activite": "2024-11-15",
-  "frequence_jours": 28
+  "frequence_jours": 28,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tiphus69",
+        "titre": "Un plaisir",
+        "texte": "Brillante dans la littérature érotique, Celle qui aimait nous propose un podcast qui sort des sentiers battus et c’est un régal d’écouter chaque nouvel épisode ! Attention : à écouter loin des oreilles indiscrètes et surtout pas en conduisant !"
+      },
+      {
+        "note": 5,
+        "auteur": "Teerla",
+        "titre": "Un bonheur",
+        "texte": "Pour éveiller sa curiosité, ses envies, s’instruire, nourrir un désir. Podcast à la fois éducatif, plaisant, et déculpabilisant, le Téléphone Rose nous permet de trouver des témoignages qui font écho à nos envies, nos questions. Un régal !"
+      },
+      {
+        "note": 5,
+        "auteur": "Elsa Lechat",
+        "titre": "Excellent podcast",
+        "texte": "C’est très agréable d’entendre des témoignages de personnes qui se livrent sur leur sexualité sans tabous. Un grand merci pour dédramatiser le sexe !"
+      }
+    ]
+  }
 }

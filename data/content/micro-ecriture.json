@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-11-15",
-  "frequence_jours": 38
+  "frequence_jours": 38,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Estellyze",
+        "titre": "Superbe podcast",
+        "texte": "Moi qui ne suit pas podcast, c’est devenu mon rdv quotidien (comme je découvre j’ai de quoi faire en épisode, c’est plutôt cool 🤗). Les échanges avec les invités sont pertinents, les épisodes solo amènent à la réflexion… vraiment une très belle découverte que je recommande pour l…"
+      },
+      {
+        "note": 1,
+        "auteur": "lulipampin2025",
+        "titre": "Heuuummmmmm",
+        "texte": "Un peu de montage svp!! Coupez les innombrables heuuuuuuu hummmmm heuuuuu heuuuuuu hummmmmm hummmm heuuuuuu hummmmmm heuuuuuuu hummmmm désolée mais c’est insupportable dans les écouteurs"
+      },
+      {
+        "note": 5,
+        "auteur": "GDENPROVENCE",
+        "titre": "Un podcast à suivre",
+        "texte": "J’ai découvert ce podcast il n’y a pas très longtemps et j’ai commencé par les épisodes « à cœur ouvert », tous très intéressants. C’est un plaisir d’écouter Elise, et j’ai beaucoup appris sur l’évolution de son roman qu’il me tarde maintenant de lire.…"
+      }
+    ]
+  }
 }

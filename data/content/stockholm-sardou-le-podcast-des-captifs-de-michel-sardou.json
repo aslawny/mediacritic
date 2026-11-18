@@ -25,25 +25,29 @@
   ],
   "updatedAt": "2026-11-16",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-19",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Thomas Crayon",
+        "titre": "Je suis pour...",
+        "texte": "... les podcasts au concept original principalement, et celui-ci en est évidemment puisqu’il est addictif et super intéressant en restant drôle, le tout, c’est là que c’est fort, traitant d’un type que je n’écoute pas et que beaucoup détestent.…"
+      },
+      {
+        "note": 1,
+        "auteur": "JDU2",
+        "titre": "Sujet intéressant mais …",
+        "texte": "Le sujet est intéressant, mais l'écoute s'avère difficile. Les animateurs, hésitants, ponctuent fréquemment leur discours de \"euh\" et de silences. Il semble manquer une préparation adéquate."
+      },
+      {
+        "note": 5,
+        "auteur": "Privilege90",
+        "titre": "Original et jouissif",
+        "texte": "Si vous aimez sardou vous ne serez pas d’accord sur tout, vous entendrez des erreurs, vous allez mourrir d’envie de les interpeler pour donner votre avis.…"
+      }
     ]
   },
   "episodes_recents": [

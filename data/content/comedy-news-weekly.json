@@ -49,25 +49,29 @@
   "derniere_activite": "2025-12-11",
   "frequence_jours": 12,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-19",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "lalaï de paris",
+        "titre": "Welcome back!!",
+        "texte": "Bonjour Dan et Antonin 😁 Je vous dois des excuses pour vous avoir pris pour des feignants. J’ai été désolée d’apprendre que vous aviez tous les deux traversé des moments difficiles. Nous sommes ravis de vous retrouver …"
+      },
+      {
+        "note": 5,
+        "auteur": "Pierre Bunk",
+        "titre": "Ce podcast est au génie ce que les écureuils sont aux feux d'artifice.",
+        "texte": "Anthony Mirelli est à la bonne humeur ce qu'un comptable est à l'humour. Dan Gagnon aborde le sujet de la comédie en parlant de choses qu'il n'a pas vues avec tout le professionnalisme d'un chien dans une usine de balles rebondissantes.…"
+      },
+      {
+        "note": 5,
+        "auteur": "hakugei_",
+        "titre": "Je les déteste",
+        "texte": "Ils sont ennemis féroces à vie, twitter en est témoin, mais ce sont mes deux podcasts préférés de tous les temps : Comedy News Weekly et le Floodcast. Ces gens sont bien, ces gens sont drôles, et ces gens conseillent toujours des oeuvres qui égayeront vos jours.…"
+      }
     ]
   }
 }

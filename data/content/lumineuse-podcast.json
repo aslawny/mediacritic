@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2023-11-12",
-  "frequence_jours": 20
+  "frequence_jours": 20,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "LuneetSoleil",
+        "titre": "Développement personnel",
+        "texte": "Je recommande à chacun de prendre le temps d’écouter les podcasts de Sanara sur le développement personnel. Elle vous apprend à prendre connaissance de vous par une analyse de soi par soi même, car c’est en vous même que vous trouverez à vous épanouir.…"
+      },
+      {
+        "note": 5,
+        "auteur": "swdr4",
+        "titre": "Juste merci !!!",
+        "texte": "Merci à toi d’oser dire fort toutes ces vérités cachées ! Tu m’aides tellement dans mon chemin et dans le fait d’avancer chaque jour en me disant « mais meuf tu n’es pas là seule et ouais en faite tes en vie et tu mérites de vivre cette vie ! ».…"
+      },
+      {
+        "note": 5,
+        "auteur": "Titemimy",
+        "titre": "Quelle merveille",
+        "texte": "Merci Sanara, j’espère que tu vas bien et que tu as une vie aussi lumineuse que ton podcast et aussi belle que ta voix. Tu fais désormais partie de ces personnes qui m’auront aidée sur mon chemin difficile, je t’en suis infiniment reconnaissante.…"
+      }
+    ]
+  }
 }

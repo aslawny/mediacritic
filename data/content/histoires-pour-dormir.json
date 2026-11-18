@@ -48,25 +48,29 @@
   "derniere_activite": "2021-01-13",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-19",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tutti- fruity 🍒🌻",
+        "titre": "Vraiment incroyable",
+        "texte": "Mais vraiment ce qui disent que vous savez pas raconter des histoires ils ont pas à dire ça il ne se mettent pas à votre place continuer comme ça mais par contre aucun effort sur la continuité des épisodes y'en a que 4 et en plus c'était en 2021 on est en 2026 allo"
+      },
+      {
+        "note": 1,
+        "auteur": "zoufah",
+        "titre": "Tres désagréable",
+        "texte": "Vraiment tres désagréable a écouter Comment peut-on lire des histoires pour enfants de cette manière…"
+      },
+      {
+        "note": 4,
+        "auteur": "1cleangirl🎀",
+        "titre": "J’aime bien",
+        "texte": "Même si c’est toujours les même histoire et que il faudrait en faire d’autre il y a des faute de liaisons à apprendre est bruit de bouche à contrôlez mais sinon j’adore 🩷🩷🎀🎀🎀"
+      }
     ]
   }
 }

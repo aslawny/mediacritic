@@ -53,5 +53,31 @@
     }
   ],
   "derniere_activite": "2025-10-04",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mélanie B.1984",
+        "titre": "D’une sensualité rare…",
+        "texte": "Merci… merci Elias pour ces partages envoûtants… votre voix, vos mots, l’élégance des tournures de phrases (auxquelles je suis particulièrement sensible et qui font toute la différence) et cet art de la suggestion pour racontent avec précision mais aucune vulgarité vos expérience…"
+      },
+      {
+        "note": 1,
+        "auteur": "Charline de lace",
+        "titre": "Pas très original",
+        "texte": "Voix qui endort et textes copiés sur d’autres podcast on dirait.. dommage"
+      },
+      {
+        "note": 5,
+        "auteur": "Lilou_des_iles",
+        "titre": "Pépite !",
+        "texte": "Des textes bien construits, poétiques, une voix d’une sensualité incroyable ! Un vrai contenu immersif érotique ! Pépite ! Merci pour ce contenu"
+      }
+    ]
+  }
 }

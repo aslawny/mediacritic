@@ -40,5 +40,31 @@
       "date": "2026-10-14"
     }
   ],
-  "derniere_activite": "2026-10-29"
+  "derniere_activite": "2026-10-29",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "luknice",
+        "titre": "Excellent",
+        "texte": "J’apprécie votre approche moderne de notre mode de vie. Pourquoi ? Parce qu’aujourd’hui on se doit de toucher à tout, humainement et professionnellement. Rester ouvert aux autres, avoir une vision à 360 degrés pour rater le moins d’opportunités possibles d’apprendre.…"
+      },
+      {
+        "note": 5,
+        "auteur": "ScHinZe",
+        "titre": "Kmeo, ou comment se sentir moins seul...",
+        "texte": "Bon, ok, je ne suis pas très objectif car je suis l'interviewé de l'épisode n°5... Mais je peux tout de même objectivement dire que ce podcast aide les personnalités comme nous à s'identifier, mettre un mot sur un tsunami cérébral qui régit notre vie et qui nous fait nous sentir…"
+      },
+      {
+        "note": 5,
+        "auteur": "Toy 76",
+        "titre": "Revigorant",
+        "texte": "Comme beaucoup de vos auditeurs, c’est après pas mal de recherche associées que je viens de vous découvrir. Me voilà à l’épisode 13 et je me décide à vous laisser un commentaire. Tous vos échanges sont passionnants et me font faire le yoyo.…"
+      }
+    ]
+  }
 }

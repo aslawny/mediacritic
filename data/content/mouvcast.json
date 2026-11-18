@@ -51,25 +51,29 @@
   "derniere_activite": "2026-11-04",
   "frequence_jours": 34,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-18",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Darkunder77",
+        "titre": "Constructif",
+        "texte": "J’ai particulièrement apprécié l’échange avec Flavio qui a répondu à des questions que je n’osais pas lui poser lors de mes rencontres avec lui! Pour les jeunes diplômés… et les moins jeunes."
+      },
+      {
+        "note": 5,
+        "auteur": "CyrilGtrt",
+        "titre": "Super podcast !",
+        "texte": "Enfin du contenu de qualité sur des thématiques que l’on n’a pas l’habitude d’aborder mais pourtant essentiel lorsque l’on est libéral !"
+      },
+      {
+        "note": 5,
+        "auteur": "skfvehka",
+        "titre": "J’ai adoré le 1er épisode",
+        "texte": "Thématique qui sort vraiment du lot pour les soignants libéraux, c’est passionnant j’ai hâte d’écouter la suite ! 🔥🎧"
+      }
     ]
   }
 }

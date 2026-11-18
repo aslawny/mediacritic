@@ -28,25 +28,29 @@
   "addedAt": "2026-06-21",
   "updatedAt": "2026-11-16",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-19",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "P. Rivoire",
+        "titre": "Le podcast de Marcel",
+        "texte": "Quelle merveilleuse idée que ce podcast ! Un grand merci à France Culture qui nous offre une vision étendue et élargie de l’œuvre de Proust à tous les domaines que traitent les différentes émissions.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Tot 50",
+        "titre": "Éblouissant",
+        "texte": "C est presque trop. Quelques avis dissonants ne seraient pas mal venus."
+      },
+      {
+        "note": 5,
+        "auteur": "garnana",
+        "titre": "La dissonance est pour bientôt :",
+        "texte": "A paraître sous peu : comment Proust peut gâcher votre vie !"
+      }
     ]
   }
 }

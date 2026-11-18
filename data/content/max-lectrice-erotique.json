@@ -53,5 +53,31 @@
     }
   ],
   "derniere_activite": "2020-05-26",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "FedorTMS",
+        "titre": "Encore du bon Lucile Bellan",
+        "texte": "Comme d’habitude très bon travail, empathique, fouillé et passionnant. Ne vous arrêtez pas au fait que ça vienne de Slate qui relaie toutes les obsessions de la bourgeoisie urbaine actuelle notamment les théories racialistes nauséabondes qui nous mèneront probablement à heures tr…"
+      },
+      {
+        "note": 3,
+        "auteur": "alt226",
+        "titre": "Chouette voix, sujet intéressant mais tellement de pub",
+        "texte": "Fizzup ou je ne sais .... c est bien trop .... redondant ... vomitif sûrement cela la perte de poids.... En tout cas Max c’est une agréable et intéressante aventure à découvrir, écouter mais trop courte En espérant une autre saison.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Lilyausoleil",
+        "titre": "Excellent !",
+        "texte": "Cela faisait longtemps qu’un podcast ne m’avait pas captivée. Empathie, sensibilité, curiosité intellectuelle, authenticité. Et quelle justesse dans la lecture. Conquise par l’épisode 2."
+      }
+    ]
+  }
 }

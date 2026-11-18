@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2020-11-17",
-  "frequence_jours": 13
+  "frequence_jours": 13,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Didou888",
+        "titre": "Auditrice fidèle!",
+        "texte": "Je recommande vivement ce podcast. Les sujets sont passionants, pas de formatage du côté de l'animatrice (spontannée et, on le sent, passionnée) comme de celui de la durée des émissions.…"
+      },
+      {
+        "note": 5,
+        "auteur": "UltraNanou",
+        "titre": "Un vrai shoot de \"possible\"",
+        "texte": "Crise, chappe de plomb et bad news sont derrière nous quand on écoute 2050. Les invités sont d'horizons très différents mais à chaque fois ils nous démontrent (sans le vouloir directment je pense) que dans tous les domaines de notre vie, on peut ouvrir des portes pour voir autrem…"
+      },
+      {
+        "note": 5,
+        "auteur": "Daddy The Beat",
+        "titre": "Attention petit bijou",
+        "texte": "Ce podcast est un petit bijou car dans la perspective de 2050, il nous offre le luxe d’explorer le futur, le vrai. Pas celui qu’on nous présente de façon réductrice à travers les seules technologies.…"
+      }
+    ]
+  }
 }

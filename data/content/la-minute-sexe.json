@@ -53,5 +53,31 @@
     }
   ],
   "derniere_activite": "2024-12-23",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Hirschmann06",
+        "titre": "Vraiment intéressant",
+        "texte": "On apprend beaucoup de choses avec toujours bienveillance et douceur. Merci Louise pour ce travail 🙏"
+      },
+      {
+        "note": 3,
+        "auteur": "Caipirozinho",
+        "titre": "J’adore !",
+        "texte": "J’adore ce podcast super intéressant, très bien présenté et agréable à écouter 😸✌🏼"
+      },
+      {
+        "note": 5,
+        "auteur": "RaphRoof",
+        "titre": "🙂",
+        "texte": "Instructif et très agréable à écouter, on apprend plein de choses. C’est super."
+      }
+    ]
+  }
 }

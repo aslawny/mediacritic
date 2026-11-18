@@ -49,25 +49,23 @@
   "derniere_activite": "2025-07-03",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-18",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "loki_fr",
+        "titre": "Super podcast pour qui souhaite se tenir au courant de l’eco",
+        "texte": "Super podcast avec Nicolas Doze qui vitamine l’actualité eco. J’adore son franc parler et sa capacité à vulgariser. Attention au coupage des enregistrements : certains podcasts n’étaient juste pas complets !!"
+      },
+      {
+        "note": 5,
+        "auteur": "RuruMoscow",
+        "titre": "Super podcast",
+        "texte": "Nicolas Doze met des mots sur ce que je pense. Un type brillant."
+      }
     ]
   }
 }

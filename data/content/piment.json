@@ -53,5 +53,31 @@
     }
   ],
   "derniere_activite": "2022-11-27",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "lexy.19!",
+        "titre": "Avis",
+        "texte": "Une super interview des questions bien pensée et des invitées qui se prête à jeu sans gêne. Pas vulgaire mais belle et bien pimenté !! Un super concept qui j’espère a un beau futur devant lui !! (Bravo a Émilie)"
+      },
+      {
+        "note": 5,
+        "auteur": "JT1970",
+        "titre": "Vraiment top !",
+        "texte": "Une vraie voix radio, des invités tous très différents. C’est vraiment très très sympa à écouter 👍🏽"
+      },
+      {
+        "note": 5,
+        "auteur": "Raoh213",
+        "titre": "Génial",
+        "texte": "Après Liza on découvre enfin Emilie et plein d’invités super intéressant je recommande vivement"
+      }
+    ]
+  }
 }

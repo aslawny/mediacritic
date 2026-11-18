@@ -53,5 +53,31 @@
     }
   ],
   "derniere_activite": "2026-11-14",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Sania-0",
+        "titre": "Je suis fan",
+        "texte": "Le duo est excellent ! N'arrêtez pas et continuer de nous faire kiffer 👍🏻"
+      },
+      {
+        "note": 1,
+        "auteur": "julietisplaying",
+        "titre": "Partez",
+        "texte": "Au secours ces deux personnes Le gars il faut revoir toute son éducation et comment il parle des femmes Il mérite pas d’amour pour lui les femmes sont pas des sujets de quoi il parle et elle, elle laisse trop passer"
+      },
+      {
+        "note": 3,
+        "auteur": "Estelleee_6",
+        "titre": "Ok",
+        "texte": "Épisode intéressant, mais j’ai trouvé que l’animatrice manque d’écoute … Elle coupe souvent la parole de l’interviewée… Dommage"
+      }
+    ]
+  }
 }

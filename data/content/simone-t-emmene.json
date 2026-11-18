@@ -53,25 +53,29 @@
   "derniere_activite": "2024-06-29",
   "frequence_jours": 27,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-17",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mélanie Uma888",
+        "titre": "Simone m’emmène",
+        "texte": "Dans un voyage dans le temps, dans la mémoire des anciens et leur vie d’avant. Et aussi dans le présent avec la réflexion de Laure sur l’écologie aujourd’hui, et le futur qu’elle nous invite à dessiner pour demain.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Toctonn13",
+        "titre": "Bonne idée",
+        "texte": "Merci pour ce podcast! Je regrette cependant que le second épisode soit éloigné du « sujet » et donne bcp de place a la pollution plastique (cause o combien importante certes). Je m’attendais à plus de récit de votre grand mère - qui a l’air formidable!"
+      },
+      {
+        "note": 5,
+        "auteur": "SandraL83",
+        "titre": "Parler d'écologie avec sa mamie",
+        "texte": "J'ai adoré les épisodes à Gonfaron, c'est très touchant d'entendre Simone raconter ses souvenirs, d'apprendre sur l'Histoire du village, et de se questionner sur \"comment habiter le territoire du feu\". Un podcast très poétique. Et Simone est adorable 😍"
+      }
     ]
   }
 }

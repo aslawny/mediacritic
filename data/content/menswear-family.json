@@ -53,25 +53,29 @@
   "derniere_activite": "2026-10-30",
   "frequence_jours": 13,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-19",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "MarcoALML",
+        "titre": "Addictif",
+        "texte": "Tellement content ! Je suis Jordan sur les réseaux sociaux depuis cet hiver ou il réalisais une vidéos par jour en donnant une idée de cadeau de Noël pour les hommes.…"
+      },
+      {
+        "note": 5,
+        "auteur": "sacradel",
+        "titre": "Un plaisir pour les curieux",
+        "texte": "Je suis une femme, et je regrette juste qu’il n’existe pas l’équivalent pour la gent féminine ! Pas grave, je pique des idées pour moi, ou pour mon mari quand même. Quoi qu’il en soit, une mine d’informations et de culture mode sans snobisme. Longue vie à votre podcast !"
+      },
+      {
+        "note": 5,
+        "auteur": "Maximou32",
+        "titre": "Vous reprendrez bien une dose de bonne humeur ?",
+        "texte": "Menswear Family, c’est le podcast qui vous mettra en joie si vous vous intéressez un tant soit peu au style masculin (non, je ne parle pas de mode) et au ressentie de ceux qui les portes. A écouter sans modération !"
+      }
     ]
   }
 }

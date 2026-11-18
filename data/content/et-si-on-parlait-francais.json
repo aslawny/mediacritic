@@ -50,25 +50,29 @@
   "derniere_activite": "2026-11-09",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-19",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "N'zo56",
+        "titre": "Un émerveillement quotidien",
+        "texte": "La langue française regorge de trésors et de curiosités. Avec légèreté et une grande érudition, Karine Dijou nous les fait découvrir au quotidien. Un véritable plaisir.…"
+      },
+      {
+        "note": 5,
+        "auteur": "grigrytheone",
+        "titre": "D’utilité publique",
+        "texte": "Chronique instructive et bienveillante . Karine a l’art d’expliquer les mots, la langue française avec clarté et élégance et dérision quand cela le permet. Toujours juste, sans excès . Chronique d’utilité publique !! A quand une émission hebdomadaire d’une heure minimum ?"
+      },
+      {
+        "note": 5,
+        "auteur": "Stéphane MTV",
+        "titre": "Indispensable",
+        "texte": "Toujours intéressantes et pertinentes, les petites leçons de Français par Karine sont indispensables pour progresser et enrichir son vocabulaire de cette si belle langue, le Français 🧚🏻⭐️"
+      }
     ]
   }
 }

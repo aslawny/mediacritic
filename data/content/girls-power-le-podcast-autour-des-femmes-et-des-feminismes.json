@@ -52,25 +52,29 @@
   "derniere_activite": "2024-07-10",
   "frequence_jours": 44,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-17",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-18",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pophie276",
+        "titre": "Un nouveau podcast top !",
+        "texte": "Après avoir écouté les deux premiers épisodes, je suis ravie de l’arrivée de ce nouveau podcast féministe de grande qualité tant dans les invitées que dans les questions des intervieweuses ! Bravo !"
+      },
+      {
+        "note": 5,
+        "auteur": "Anne M22",
+        "titre": "Alchimie de littérature et de féminisme",
+        "texte": "Ambiance détendue, autrices et ouvrages bien mis en valeur, je me délecte de l'écoute de ces interviews."
+      },
+      {
+        "note": 5,
+        "auteur": "Louloute 🕊❤️",
+        "titre": "Génial",
+        "texte": "Ce podcast est génial et super simple a comprendre merci beaucoup"
+      }
     ]
   }
 }
