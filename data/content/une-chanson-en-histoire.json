@@ -26,27 +26,31 @@
     "culture"
   ],
   "addedAt": "2026-07-09",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-20",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "yannick-m",
+        "titre": "Tout ce qu’il manquait à ma culture musicale",
+        "texte": "Concept génial et animatrice passionnée et qui connaît son sujet (et fait ses recherches). 👍🏾 Vraiment un top podcast pour qui s’intéresse de près ou de loin à la musique antillaise et caribéenne.…"
+      },
+      {
+        "note": 5,
+        "auteur": "LnBéwa",
+        "titre": "Je recommande !!!",
+        "texte": "Excellent podcast. Le format, pas trop long, permet de l’écouter sur un trajet 😄 Quant au contenu, waw ! Plongée dans les souvenirs, découverte d’anecdotes et explication de texte. Valy donne à ces morceaux une autre saveur, de quoi leur assurer encore de beaux jours de succès !"
+      },
+      {
+        "note": 5,
+        "auteur": "mimi_vanille",
+        "titre": "Super podcast",
+        "texte": "Génial ce podcast. Je n’aurais jamais cru que quelqu’un aurait eu cette idée! J’apprends beaucoup de choses. Svp un p’tit épisode sur komparézon de kwak, le bijou des bijoux qui caractérise bien l’influence du compas aux Antilles! A bientôt"
+      }
     ]
   },
   "episodes_recents": [

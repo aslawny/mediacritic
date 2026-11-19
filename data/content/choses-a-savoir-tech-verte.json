@@ -24,7 +24,7 @@
     "tech",
     "numérique"
   ],
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
       "titre": "Un data center géant dégage autant de chaleur que 23 bombes atomiques par jour ?",
@@ -50,25 +50,29 @@
   "derniere_activite": "2026-11-08",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-20",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Le.petit.prince",
+        "titre": "Top, clair, documenté, constructif",
+        "texte": "Bien à l’opposé des lignes éditoriales des groupes de presse standards ici : - anti catastrophisme avec juste l’annoncé de faits - des coups de projecteurs sur un bon nombre d’initiatives tous azimuts. …"
+      },
+      {
+        "note": 2,
+        "auteur": "HugoWallet",
+        "titre": "Pub et greenwashing",
+        "texte": "Bien que le fond soit souvent intéressant, ce podcast souffre du greenwashing déconcertant des publicités faites avant et après chaque épisode, c’est dommage et ça dénature totalement le ton de ce format, le rendant assez incohérent je trouve."
+      },
+      {
+        "note": 5,
+        "auteur": "gallusquidam",
+        "titre": "Podcast très intéressant. Merci",
+        "texte": "Suggestions de sujets de prochaines chroniques : - la cogénération - le bilan carbone d’un panneau photovoltaïque avec cellules fabriquées en France versus cellules fabriquées en Chine - la méthanisation des déchets alimentaires : bilan des sites pionniers (Montpellier ?) ..."
+      }
     ]
   }
 }

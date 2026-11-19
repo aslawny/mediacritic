@@ -29,7 +29,7 @@
     "culture"
   ],
   "addedAt": "2026-11-17",
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
       "titre": "Campus Drivers",
@@ -53,5 +53,31 @@
     }
   ],
   "derniere_activite": "2026-11-17",
-  "frequence_jours": 25
+  "frequence_jours": 25,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pierrre",
+        "titre": "Merci",
+        "texte": "Merci pour le podcast ! On rigole bien avec vous. Pour jkr, peut être de réfléchir à ses arguments et se mettre dans les souliers des personnes avant de crier au diable? Peut être de voir les motivations de son actrice et de sa carrière …"
+      },
+      {
+        "note": 5,
+        "auteur": "MaAlie01",
+        "titre": "J’adore !",
+        "texte": "J’adore ce podcast. Les recommandations de lecture sont super chouettes ! Ça met aussi en question les clichés véhiculés par la littérature et ça déconstruit certaines images que l’on a normalisé ! Je recommande à fond !"
+      },
+      {
+        "note": 5,
+        "auteur": "Kateline02",
+        "titre": "De bonnes barres à chaque épisode !",
+        "texte": "Enfin sur Apple Podcasts YES !!!! Vraiment continuez les filles, je me prends un fou rire à chaque épisode !"
+      }
+    ]
+  }
 }

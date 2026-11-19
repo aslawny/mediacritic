@@ -27,7 +27,7 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
       "titre": "#83 - Avotcha - Ce que les Réunionnais pensent tout bas",
@@ -53,25 +53,29 @@
   "derniere_activite": "2026-11-04",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-20",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "wonderbald",
+        "titre": "Bat karé",
+        "texte": "Je ne suis pas réunionnais. Je n’ai jamais mis les pieds à la Réunion mais j’ai été interpellé par le visuel et le nom de ce podcast. J’ai eu envie de savoir ce qu’il se cachait derrière. J’ai eu du nez :) Je suis tombé sur le 1er episode.…"
+      },
+      {
+        "note": 5,
+        "auteur": "In dégou solèy dann péi la fré",
+        "titre": "Podcast intéressant",
+        "texte": "Ce podcast propose souvent des sujets intéressants (il en faut pour tous les goûts). Dès qu’un sujet me semble intéressant, je l’écoutais sans attendre. Le podcast #63 sur la géopolitique de La Réunion est notamment très intéressant.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Na97490",
+        "titre": "❤️",
+        "texte": "Merci beaucoup pour ce projet, j’aurais aimé qu’il soit déjà là quand je suis arrivée en métropole il y a 10 ans et que j’ai perdu mes repères.…"
+      }
     ]
   }
 }

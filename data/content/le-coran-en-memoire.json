@@ -26,7 +26,7 @@
     "vulgarisation"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
       "titre": "Ep10 - Apprentissage du Coran: mon organisation",
@@ -52,25 +52,29 @@
   "derniere_activite": "2025-09-12",
   "frequence_jours": 22,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-20",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Maria' 😊",
+        "titre": "Baaraka Allah Oufik",
+        "texte": "Qu’Allah taala te récompense de la meilleure des manières ici bas et dans l’au delà ! J’aime tellement ton podcast Subhanallah c’est un honneur qu’Allah m’a accordé la découverte de ton podcast Allahouma Barik …"
+      },
+      {
+        "note": 5,
+        "auteur": "Umm jj",
+        "titre": "Baarak Allah u fik",
+        "texte": "Merci beaucoup pour ce podcast très bénéfique je vais planifier dès aujourd’hui des moments d’apprentissage. Qu’Allah te récompense en bien ❤️"
+      },
+      {
+        "note": 5,
+        "auteur": "Anaaa.s",
+        "titre": "Barakallahoufik",
+        "texte": "Merci pour tous tes conseils !! Qu’Allah te récompense grandement pour tout ce que tu nous apporte et tout ce que tu nous partage 🌸☺️"
+      }
     ]
   }
 }

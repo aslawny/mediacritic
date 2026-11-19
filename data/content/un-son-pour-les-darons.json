@@ -14,7 +14,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/un-son-pour-les-darons/id1555452985?uo=2",
       "trackId": 1555452985,
       "rating": 4.4,
-      "ratingCount": 89,
+      "ratingCount": 88,
       "episodeCount": null
     }
   },
@@ -24,27 +24,31 @@
     "culture"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-20",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Kk anonyme du 67 🐷",
+        "titre": "Merci beaucoup 😭😭",
+        "texte": "C’est trop bien mes parents m’ont interdit la musique à cause de mes bêtise et grâce à toi je peux écouter Mais juste essaye de faire des son plus d’actualité Et je suis grave d’accord pour niska en rappeur préféré 🤪🤪🤪"
+      },
+      {
+        "note": 1,
+        "auteur": "best musique forever",
+        "titre": "Doudou Koba La D et Naps",
+        "texte": "Leur musique elle sont trop bien et en plus sa remonte le moral Les chansons font le tour du monde ( Dady Chocolat, la kiffance ) Bon ecoutage"
+      },
+      {
+        "note": 5,
+        "auteur": "zarit78",
+        "titre": "Un son pour les darons",
+        "texte": "Perso mes parents m’ont mis un temps d écran et je ne peux pas écouter de la musique (RAP) mais quand j’ai découvert les podcasts de Raphaël et j’étais très heureux MERCI RAPHAËL"
+      }
     ]
   },
   "episodes_recents": [

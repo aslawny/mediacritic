@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/lebouseuh-podcast/id1790702797?uo=4",
       "trackId": 1790702797,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.9,
+      "ratingCount": 545,
       "episodeCount": 56
     }
   },
@@ -25,7 +25,7 @@
     "sport"
   ],
   "addedAt": "2026-11-17",
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
       "titre": "Le Corbz : drogue, sexe, sa pire rencontre YouTube…",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-04-28",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "abece",
+        "titre": "Une super énergie, de fil en aiguille on s’abonne",
+        "texte": "Alors que tout devrait faire que ces deux mecs, dans l’épisode avec Isack, cela pètent pour tout ce qu’ils ont accompli, j’ai entendu un podcast, efficace, sympathique, informatif, chaleureux, profondément, humain et très enrichissant.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Secret chut",
+        "titre": "Ça fais trop longtemps !",
+        "texte": "J’adore ce podcast mais ça fais 3 MOIS que tu n’a pas sortis de podcast ! Qu’est ce qui se passe ? Pourtant sur ta chaine Youtube, tu sors des vidéo! On veut écouter tes podcast ( surtout avec les vacances et la pluie )! Je n’ai plus de podcast à écouter donc refais un podcast vi…"
+      },
+      {
+        "note": 5,
+        "auteur": "Batosphere",
+        "titre": "Merci",
+        "texte": "Je viens de finir le podcast avec Valouzz, quel plaisir d’écouter deux potes, j’ai eu la réelle sensation d’avoir partagé cette conversation avec vous c’était assez cool et nostalgique. Je me suis reconnu dans chacun d’entre vous. Merci"
+      }
+    ]
+  }
 }

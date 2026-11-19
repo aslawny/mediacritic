@@ -27,7 +27,7 @@
     "famille"
   ],
   "addedAt": "2026-06-12",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
       "titre": "Un jeune homme sur trois pense qu’une femme doit lui obéir… comment élever nos fils autrement ?",
@@ -53,25 +53,29 @@
   "derniere_activite": "2026-03-11",
   "frequence_jours": 2,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-20",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Camille Moreau",
+        "titre": "Un indispensable sur la parentalité",
+        "texte": "Excellent podcast qui ratisse large sur le sujet de la parentalité, avec la bonne dose de nuance pour nous amener à réfléchir sans nous enfermer dans des avis tranchés. Merci pour ces précieuses ressources !"
+      },
+      {
+        "note": 1,
+        "auteur": "Flofitaaa",
+        "titre": "Déçue déçue !",
+        "texte": "J’ai uniquement écouté l’épisode sur l’éducation bienveillante et je m’arrête là car je suis très déçue. On parle d’absence de cadre, d’absence de limites, d’évitement à tout prix des émotions désagréables pour nos enfants, ce qui, pour information, ne correspond absolument pas à…"
+      },
+      {
+        "note": 5,
+        "auteur": "JFKEst",
+        "titre": "Merci !!",
+        "texte": "Merci pour ce podcast d’utilité publique ! Ça fait un bien fou.. ça déculpabilise et ça permet de prendre du recul face à des questions de parents pas évidentes ! Hâte d’entendre les prochains épisodes !!!"
+      }
     ]
   }
 }

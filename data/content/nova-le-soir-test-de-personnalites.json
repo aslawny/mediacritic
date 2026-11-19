@@ -27,27 +27,31 @@
     "musique"
   ],
   "addedAt": "2026-09-20",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-20",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Arnaud1224",
+        "titre": "Super émission pour découvrir les invités en musique",
+        "texte": "Programmation des invités topissime, super sélection musicale , et Charline qui anime de main de maître entre humour et complicité. Je recommande pour passer une heure sympa."
+      },
+      {
+        "note": 2,
+        "auteur": "Nahoy9",
+        "titre": "Let the music play (please)",
+        "texte": "Plus grand intérêt depuis que les extraits musicaux ont été supprimés…"
+      },
+      {
+        "note": 5,
+        "auteur": "Plouple",
+        "titre": "Délicieux Augustin Trapenard",
+        "texte": "Un entretien réjouissant mais pitié Augustin, si vous vous mettez à dire « genre » dans une phrase… Néanmoins et tendresse en plus, merci pour cet excellent moment🍒"
+      }
     ]
   },
   "episodes_recents": [

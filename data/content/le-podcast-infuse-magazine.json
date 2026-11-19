@@ -29,7 +29,7 @@
     "societe"
   ],
   "addedAt": "2026-11-17",
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
       "titre": "Le cerveau en hiver : Discussion avec Dre Marie-Pier Lavoie, psychologue",
@@ -53,5 +53,31 @@
     }
   ],
   "derniere_activite": "2026-11-09",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "emma's family",
+        "titre": "Merci pour cette bulle de bien être",
+        "texte": "Découvert il y a peu de temps je dévore les podcast d’infuse magazine Je suis une grande fan Avec leurs invités elles déploient tant de douceur de bien-être et de savoir Je les remercie pour ce partage Belle vie à cette histoire Em’"
+      },
+      {
+        "note": 5,
+        "auteur": "santagolda",
+        "titre": "Super",
+        "texte": "Merci les filles pour votre continu tout autour divertissant qu’instructif ! Un bol d’air frais dans les oreilles."
+      },
+      {
+        "note": 5,
+        "auteur": "Holy_kiki",
+        "titre": "Belle écoute",
+        "texte": "Découvert par hasard, j’aime bcp les thèmes et les discussions, merci pour ce partage!"
+      }
+    ]
+  }
 }

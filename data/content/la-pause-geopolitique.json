@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/la-pause-g%C3%A9opolitique/id1597745956?uo=4",
       "trackId": 1597745956,
       "rating": 4.9,
-      "ratingCount": 86,
+      "ratingCount": 87,
       "episodeCount": 51
     }
   },
@@ -24,7 +24,7 @@
     "géopolitique",
     "international"
   ],
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
       "titre": "Les ambitions contrariées de l'Arabie Saoudite",
@@ -50,25 +50,23 @@
   "derniere_activite": "2026-10-22",
   "frequence_jours": 43,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-20",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "BHR-BGR",
+        "titre": "Bravo",
+        "texte": "Je découvre aujourd’hui vos posts audio, présente à vos interventions depuis le début à TIA, je voudrais vous féliciter de nouveau. 👏👏👏"
+      },
+      {
+        "note": 5,
+        "auteur": "Mathieu Sarran",
+        "titre": "Excellent nouveau podcast sur l’Europe",
+        "texte": "Rien à redire. J’aime beaucoup le podcast et celui-ci est brillant."
+      }
     ]
   }
 }

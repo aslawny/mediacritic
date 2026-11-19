@@ -24,7 +24,7 @@
     "humour"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
       "titre": "Michel Denisot fait son \"Bon Dimanche Show\"",
@@ -50,25 +50,29 @@
   "derniere_activite": "2026-06-28",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-19",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Freestyl90",
+        "titre": "Vive le dimanche",
+        "texte": "C’est toujours un plaisir d’écouter Bruno et ses invités. Bravo pour cette chouette émission."
+      },
+      {
+        "note": 5,
+        "auteur": "Phildar2011",
+        "titre": "J’adore",
+        "texte": "Originale, fraîche, drôle j’adore cette émission. Un régal tout les lundi en podcast."
+      },
+      {
+        "note": 5,
+        "auteur": "christ2776",
+        "titre": "Émission aux top",
+        "texte": "J adore cette émission et j’adore l’humour de l’équipe de Bruno"
+      }
     ]
   }
 }

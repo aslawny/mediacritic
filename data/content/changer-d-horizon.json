@@ -27,7 +27,7 @@
     "societe"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
       "titre": "L'importance de s'assurer en PVT",
@@ -53,25 +53,29 @@
   "derniere_activite": "2026-11-03",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-18",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "GregTrouveCaPasBonDuTout",
+        "titre": "Super podcast",
+        "texte": "Outre la qualité des récits qui donneraient envie aux plus casaniers de prendre un vol dès demain pour n’importe quelle destination exotique (ou autre), voici des conseils utiles et adaptés aux personnes désireuses de voyager sur une longue durée."
+      },
+      {
+        "note": 5,
+        "auteur": "Ludii42",
+        "titre": "Top 😀",
+        "texte": "Fraîchement arrivée en PVT au Canada, le site pvtistes m’a beaucoup aidé. J’ai adoré l’épisode où l’on découvre l’histoire de pvtistes ! Hâte d’écouter les prochains épisodes de ce podcast 😃"
+      },
+      {
+        "note": 5,
+        "auteur": "Sly200362",
+        "titre": "Horizon",
+        "texte": "Merci pour ces histoire qui nous mène dans différents endroits merveilleux et en même temps nous donne de très bons conseils pour pouvoir partir à l’aventure."
+      }
     ]
   }
 }

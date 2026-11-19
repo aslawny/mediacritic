@@ -25,27 +25,19 @@
     "series"
   ],
   "addedAt": "2026-07-06",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-20",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 4,
+        "auteur": "mama 🐴",
+        "titre": "Un si grand soleil",
+        "texte": "J’habite juste à côté des studios 🤩 ! J’ai commencé la série il y a 2 jour et je suis déjà super fan ❤️ ! Je le regarde toute seul, j’ai 13 ans et je rêve de jouer dedans ⭐️ ! J’ai mon ancienne maîtresse qui y travaille dans les studios 💖 !"
+      }
     ]
   },
   "episodes_recents": [

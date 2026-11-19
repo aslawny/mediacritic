@@ -29,7 +29,7 @@
     "culture"
   ],
   "addedAt": "2026-11-17",
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
       "titre": "Bertrand, sensibiliser aux violences faites aux enfants avec France Bébé Secoué - épisode Podcasthon",
@@ -53,5 +53,31 @@
     }
   ],
   "derniere_activite": "2025-03-21",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "perinatetpérinée",
+        "titre": "Très bon podcast!",
+        "texte": "J’aime les histoires de parentalité, de grossesse, d’accouchement, de post-partum… alors j’ai commencé avec les plus connus forcément. Mais je ne me reconnais plus toujours car maintenant ce sont souvent des influenceurs ou des personnalités connues qui ont le micro encore une fo…"
+      },
+      {
+        "note": 5,
+        "auteur": "Claire6877",
+        "titre": "Tout en délicatesse !!",
+        "texte": "J’adore écouter ce podcast qui met en valeur les histoires de vie de familles d’horizons si différentes ! Un bravo particulier à Pauline qui, par ses interventions pleines de bienveillance relance son interlocuteur au bon moment pour rendre le témoignage dynamique et fluide …"
+      },
+      {
+        "note": 5,
+        "auteur": "emilien le renardeau",
+        "titre": "J’adore ma petite famille.",
+        "texte": "Je trouve incroyable tous les podcasts. Mais il y’a un podcast qui me tient le plus à cœur. Celui ci s’intitule : devenir maman grâce à l’adoption. J’adore l’histoire et je voudrais encore entendre des histoires sur ce sujet .…"
+      }
+    ]
+  }
 }

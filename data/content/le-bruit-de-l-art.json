@@ -27,7 +27,7 @@
     "culture"
   ],
   "addedAt": "2026-06-18",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
       "titre": "Épisode 48 - Pol Taburet, artiste plasticien",
@@ -53,25 +53,29 @@
   "derniere_activite": "2026-10-28",
   "frequence_jours": 26,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-20",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "marionbxn",
+        "titre": "Humilité, sincérité et propos passionnants",
+        "texte": "Je suis devenue adepte de ce podcast depuis peu. Moi même jeune artiste en quête d’acceptation, de compréhension de mes propres processus et de mes fonctionnements, ce podcast est une mine d’or dans laquelle je puise quotidiennement alors que je suis entrain de créer.…"
+      },
+      {
+        "note": 5,
+        "auteur": "supermai",
+        "titre": "J’adore !",
+        "texte": "Quelle douceur et bienveillance dans ces discussions avec des artistes. Ça me touche beaucoup et les écouter permet vraiment d’apprécier encore plus leur univers. Aussi merci pour ces jolies découvertes d’artistes au début de leur voyage."
+      },
+      {
+        "note": 5,
+        "auteur": "Évapod",
+        "titre": "Top",
+        "texte": "Génial que ce podcast existe C’est pile ce que je recherchais comme écoute en ce moment Très intéressant Et ça va du bien d’écouter d’autres artistes quand on se retrouve un peu déconnecté d’un certain monde"
+      }
     ]
   }
 }

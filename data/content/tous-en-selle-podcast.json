@@ -14,7 +14,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/tous-en-selle-podcast/id1801697764?uo=4",
       "trackId": 1801697764,
       "rating": 4.7,
-      "ratingCount": 86,
+      "ratingCount": 87,
       "episodeCount": 61
     }
   },
@@ -23,27 +23,31 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-20",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Romuald WILLERY",
+        "titre": "Gravel",
+        "texte": "Hello. Encore un super épisode. Bravo à tous les deux. Vous avez tout dit ! Quelques spots testés. Gerone (+++), le Nord de Lyon zone de la Dombes et vers l’est (perouges , pont d’Ain etc). Massif des Maures (Var), autour de Serre Ponçon et le Vallée de L’ubaye."
+      },
+      {
+        "note": 1,
+        "auteur": "JojoDz29",
+        "titre": "Excellent",
+        "texte": "J’adore écouter ces podcasts depuis que je connais cette chaîne"
+      },
+      {
+        "note": 5,
+        "auteur": "Vincent BRÉMOND",
+        "titre": "Pour les amoureux de vélo au sens large",
+        "texte": "Un premier épisode captivant qui donne immédiatement envie d’écouter la suite ! Une approche passionnante du vélo sous toutes ses formes, avec des mots justes et inspirants. Hâte de découvrir la suite !"
+      }
     ]
   },
   "episodes_recents": [

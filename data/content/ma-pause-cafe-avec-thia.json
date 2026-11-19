@@ -27,7 +27,7 @@
     "cuisine"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
       "titre": "BAD BUNNY : L'authenticité radicale comme moteur de réussite",
@@ -53,25 +53,29 @@
   "derniere_activite": "2026-02-13",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-20",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Chabinelle",
+        "titre": "SuperThia !",
+        "texte": "Salut Thia, Je salue ton nouveau projet, il est vraiment top ce format et il tombe à point nommé dans ma vie. Comme toutes les nouvelles aventures où tu nous emmènes avec toi je te suis volontiers parce que je sais que je ne serai pas déçue ❤️ Aujourd’hui, clairement, lancer ton…"
+      },
+      {
+        "note": 5,
+        "auteur": "Mabs83",
+        "titre": "Épisode 12",
+        "texte": "Je te remercie pour ce podcast en particulier, car ton époux et toi avez fait voler en éclats tous les idées reçues !!!! J’ai adorée !!! Je suis restée jusqu’au bout et je n’ai pas vue le temps passé.…"
+      },
+      {
+        "note": 5,
+        "auteur": "LauriiCeliiia",
+        "titre": "Retour épisode Mariage",
+        "texte": "Bonjour, J’ai écouté cet épisode plusieurs fois jusqu’à la fin! Votre vision du couple fait écho à celui que nous avons avec mon fiancé. Votre sagesse surtout votre message de « se faire plaisir pour son mariage et imposer sa vision à la famille ».…"
+      }
     ]
   }
 }

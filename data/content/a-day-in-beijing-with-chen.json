@@ -15,8 +15,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/a-day-in-beijing-with-chen/id6783617960?uo=2",
       "trackId": 6783617960,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": null
     }
   },
@@ -26,7 +26,7 @@
     "societe"
   ],
   "addedAt": "2026-07-30",
-  "updatedAt": "2026-07-30",
+  "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
       "titre": "Hutongs | Beijing's DNA | Season 1 Finale",

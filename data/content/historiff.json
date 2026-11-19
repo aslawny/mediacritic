@@ -24,7 +24,7 @@
     "culture"
   ],
   "addedAt": "2026-08-02",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
       "titre": "Bob Dylan - \"Like A Rolling Stone\"",
@@ -50,25 +50,29 @@
   "derniere_activite": "2022-05-24",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-20",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Totonerobis",
+        "titre": "le theme meritait mieux",
+        "texte": "Quelques petites erreurs ou omissions - recemment il a dit 2 fois \" en prison \" pour house of the rising sun mais ... c'est un bordel pas une prison ; c'est Johnny qui a adapté ( du moins ses auteurs ) en pénitencier . humour un peu bébête.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Belettemagique",
+        "titre": "Des erreurs de traduction grossières",
+        "texte": "Quand Dave Grohl parle de Jack and coke, il veut dire whisky-coca et pas de la coke (Coke étant le mot pour coca utilisé par les anglophones). C’est inadmissible de laisser entendre qu’il faisait l’apologie de la drogue !"
+      },
+      {
+        "note": 5,
+        "auteur": "Max 666",
+        "titre": "Passionant",
+        "texte": "Des anecdotes pas toujours pertinentes, mais l’occasion de découvrir ou redécouvrir des monuments du rock et leurs reprises improbables. Dommage ça s’est arrêté alors qu’il y a encore des tas de titres à explorer… au passage, où est donc passé U2 ?"
+      }
     ]
   }
 }

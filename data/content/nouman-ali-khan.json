@@ -27,27 +27,31 @@
     "vulgarisation"
   ],
   "addedAt": "2026-06-18",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-20",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Roessaptono",
+        "titre": "❤️❤️❤️",
+        "texte": "I love this! It’s so addicting to me i like the episode Called the work that makes you a leader in Allah’s Eyes !!! The way that makes me addicted is when you said I can’t say Ba I say bluh 😂"
+      },
+      {
+        "note": 3,
+        "auteur": "neelektarong",
+        "titre": "I wish",
+        "texte": "I wish I could hear the lecture properly but it seems the microphone is close enough to the speaker. Please could you repost the these new posts with better sound quality. JazzakAllah hu khayer."
+      },
+      {
+        "note": 5,
+        "auteur": "MarwaSuraj",
+        "titre": "Insightful",
+        "texte": "I totally enjoy listening to you. Especially when the sermon is in a series _ the anticipation to learning something new each week_ absolutely thrilling! May Allah reward you and your team."
+      }
     ]
   }
 }

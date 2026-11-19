@@ -27,7 +27,7 @@
     "societe"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
       "titre": "Les habitudes à tester pour slay en 2026 !",
@@ -53,25 +53,29 @@
   "derniere_activite": "2026-01-05",
   "frequence_jours": 31,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-20",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "B.marlene",
+        "titre": "Coup de cœur !",
+        "texte": "Je recommande pleinement ce podcast complet avec des sujets variés et hyper intéressants! Du développement personnels aux conseils professionnels, parfait pour booster son moral et mental ✨ Petit + : Un bonheur d’écouter la voix de Claire pleine de douceur et de bienveillance !!…"
+      },
+      {
+        "note": 5,
+        "auteur": "muriel.s",
+        "titre": "Bravo",
+        "texte": "Bravo pour ces deux épisodes . Cela promet de jolies choses. Sujets intéressants et bien traités. La voix est douce et nous accompagne avec cette bienveillance qui au cœur du projet. Une écoute que je recommande sincèrement. Bravo pour ce lancement. Hâte d’écouter la suite ."
+      },
+      {
+        "note": 5,
+        "auteur": "ele.pwl",
+        "titre": "J’adore et c’est adapté même pour les ado ☕️☁️🧸",
+        "texte": "Je sais que je suis assez jeune mais je voulais vraiment mettre un com car ce podcast est adapté à tout les âges ce qui n’est pas le cas de tous les podcast, donc voilà ce podcast c’est un coup de cœur"
+      }
     ]
   }
 }

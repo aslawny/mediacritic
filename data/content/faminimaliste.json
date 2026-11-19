@@ -25,7 +25,7 @@
     "bien-etre"
   ],
   "addedAt": "2026-08-17",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
       "titre": "Il n'y a pas d'objet providentiel",
@@ -51,25 +51,29 @@
   "derniere_activite": "2026-08-17",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-20",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Ju2610",
+        "titre": "Très bon podcast",
+        "texte": "Découvert dans les suggestions Apple, j’ai tout écouté et attends les jeudis soirs avec impatience ! C’est frais, c’est inspirant, c’est motivant …"
+      },
+      {
+        "note": 5,
+        "auteur": "deborahlbee",
+        "titre": "Super podcast",
+        "texte": "Clair, concis, où comment avoir envie de désencombrer en écoutant un podcast, même quand on aime avoir beaucoup de choses! J’ai déjà commencé avec mes vêtements, et l’année prochaine je m’y mets vraiment!"
+      },
+      {
+        "note": 5,
+        "auteur": "Marionstouff",
+        "titre": "Tellement inspirant",
+        "texte": "J’ai écouté dans l’ordre pendant plusieurs semaines et ça a changé radicalement ma façon de consommer et même de vivre. Merci pour ce podcast accessible et réaliste !"
+      }
     ]
   }
 }

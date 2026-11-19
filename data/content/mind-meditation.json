@@ -25,7 +25,7 @@
     "psychologie"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
       "titre": "Start - 5. Lâcher Prise",
@@ -51,25 +51,29 @@
   "derniere_activite": "2019-01-10",
   "frequence_jours": 33,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-20",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "_Sido",
+        "titre": "Super feeling avec le prof en direct",
+        "texte": "Très bonne méditations guidées. J’ ai téléchargé l’App de Mind !"
+      },
+      {
+        "note": 3,
+        "auteur": "Houzame!",
+        "titre": "Super meditation",
+        "texte": "On rentre un peu trop dans la description des du ciel, et on perd le sens de la meditation parfois, et le lien avec notre corps. Sinon, presque parfait ! 👌🏼"
+      },
+      {
+        "note": 5,
+        "auteur": "Judel12",
+        "titre": "Superbes méditations !!",
+        "texte": "J’en ai écouté beaucoup, celles-ci sont vraiment géniales. Merci"
+      }
     ]
   }
 }

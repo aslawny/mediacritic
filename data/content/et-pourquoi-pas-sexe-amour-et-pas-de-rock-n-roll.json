@@ -29,7 +29,7 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
       "titre": "Et Pourquoi Pas La Taille du Sexe !",
@@ -53,5 +53,25 @@
     }
   ],
   "derniere_activite": "2021-06-26",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "CéliCélia",
+        "titre": "Super podcast !",
+        "texte": "Un chouette podcast d’une bande d’amis à écouter sans modération !"
+      },
+      {
+        "note": 5,
+        "auteur": "JosyOli",
+        "titre": "Chapeau !",
+        "texte": "Podcast très quali et super fluide ! En attente du prochain :-))"
+      }
+    ]
+  }
 }

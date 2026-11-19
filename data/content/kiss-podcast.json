@@ -29,7 +29,7 @@
     "societe"
   ],
   "addedAt": "2026-11-17",
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
       "titre": "#103 - Voilà, c'est fini... Kiss&Goodbye!",
@@ -53,5 +53,25 @@
     }
   ],
   "derniere_activite": "2025-06-30",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Graphigarou",
+        "titre": "Une équipe déchaînée",
+        "texte": "Parler de soi, de nous, donner la parole sans se prendre au sérieux ! Une super équipe qui donne la patate, des potes qu’on aimerait avoir pour potes, pour parler de tout, sans tabou, parfois dans le désordre,avec sérieux... mais pas trop ! Addictif :- D"
+      },
+      {
+        "note": 5,
+        "auteur": "Jeanmi7",
+        "titre": "Top",
+        "texte": "Un super podcast avec de la bonne humeur qui aborde des sujets sans tabous. Continuez comme ça ;)"
+      }
+    ]
+  }
 }

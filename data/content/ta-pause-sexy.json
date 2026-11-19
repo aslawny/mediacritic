@@ -29,7 +29,7 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
       "titre": "HS #30 - Ce soir, il a choisi un homme pour moi",
@@ -53,5 +53,25 @@
     }
   ],
   "derniere_activite": "2026-04-24",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Elisaruby",
+        "titre": "Tout simplement wow",
+        "texte": "J’ai découvert Anne-Elisabeth il y a à peine quelques minutes sur Insta et me voilà à écouter plusieurs podcasts. J’adore! Je me retrouve et me dis, enfin quelqu’un qui a les mêmes pensées que moi et je ne me sens plus seule…J’adore !"
+      },
+      {
+        "note": 5,
+        "auteur": "Mathilde.sextoylogist",
+        "titre": "J’adore !",
+        "texte": "Complètement fan de l’authenticité d’Anne Élisabeth. Je m’abonne pour ne rater aucun de ses épisodes de qualités 👏🏼"
+      }
+    ]
+  }
 }

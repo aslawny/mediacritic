@@ -27,7 +27,7 @@
     "culture"
   ],
   "addedAt": "2026-07-03",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
       "titre": "Emile Zola, Témoin de son temps",
@@ -53,25 +53,29 @@
   "derniere_activite": "2023-12-11",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-20",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Miloane36",
+        "titre": "Instructif",
+        "texte": "Des épisodes courts qui permettent de découvrir la vie et l’œuvre d’auteurs qui ont fait la littérature. C’est très intéressant et instructif (presque un peu trop court car on en voudrait encore :)"
+      },
+      {
+        "note": 1,
+        "auteur": "Outis Reading",
+        "titre": "Lecture et Prononciation",
+        "texte": "Impossible de se concentrer sur le propos tellement la lecture et la prononciation sont indigentes. Il faut n’avoir jamais allumé de poste radio ou de télévision pour prononcer Jean Seberg « Jean Cébère ».…"
+      },
+      {
+        "note": 5,
+        "auteur": "monjef",
+        "titre": "Intéressant et intelligent",
+        "texte": "Très bonne série pour (re)découvrir les grands auteurs classiques. Le format assez court permet de déguster les contenus dans de nombreux contextes. Bravo à l’équipe !"
+      }
     ]
   }
 }

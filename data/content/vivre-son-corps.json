@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/vivre-son-corps/id1767177655?uo=4",
       "trackId": 1767177655,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.8,
+      "ratingCount": 25,
       "episodeCount": 22
     }
   },
@@ -29,7 +29,7 @@
     "education"
   ],
   "addedAt": "2026-11-17",
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
       "titre": "Rediff Épisode 9: Justine Rojat \"Tu es la pièce et le jukebox de ta vie\"",
@@ -53,5 +53,31 @@
     }
   ],
   "derniere_activite": "2026-08-30",
-  "frequence_jours": 28
+  "frequence_jours": 28,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "g_vico",
+        "titre": "Vivre l’intimité",
+        "texte": "Chaque épisode nous plonge dans l’intimité de femmes, guidées par les questions bienveillantes de Virginie. Comment mieux vivre, accepter — ou parfois se battre contre — son corps pour mieux se retrouver …"
+      },
+      {
+        "note": 5,
+        "auteur": "Laurence Haurat",
+        "titre": "Une promenade autour du corps",
+        "texte": "Avoir été interviewée par Virginie est une expérience extrêmement gratifiante. J’ai souri, été émue, étonnée par ce que j’entendais alors que j’étais la personne interviewée !!! Merci, Virginie, pour ton écoute douce, pour tes sourires et tes rires, pour mettre cette légèreté ard…"
+      },
+      {
+        "note": 5,
+        "auteur": "supermai",
+        "titre": "Universel et intime",
+        "texte": "À chaque épisode, Virginie explore avec son invitée des thèmes universels du rapport au corps mais aussi travers du récit intime. Un podcast à fleur de peau et au cœur d’âme, sensible et doux comme le travail d’artiste de Virginie"
+      }
+    ]
+  }
 }

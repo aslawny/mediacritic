@@ -25,7 +25,7 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
       "titre": "Le futur de l'art - Laurence Bonicalzi-Bridier, YourArt",
@@ -51,25 +51,29 @@
   "derniere_activite": "2026-09-02",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-20",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "marvaline",
+        "titre": "Quand la finance se convertit en mission solidaire",
+        "texte": "Episode passionnant qui permet de comprendre l’étendue du champ des possibles dans les metiers du futur, même quand on a à la base une formation et une expérience assez « classique » issue du monde de la finance.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Toluna92",
+        "titre": "Belle Prise de hauteur",
+        "texte": "Je découvre ce podcast grâce à LinkedIn et quel plaisir : apprendre, s enrichir, se questionner et s interroger sur sa propre organisation. J ai recommandé à tous mes collaborateurs et partenaires d écouter ces podcasts. Ce devrait être obligatoire au sein des DRH …"
+      },
+      {
+        "note": 5,
+        "auteur": "Séba5tien",
+        "titre": "Varié, moderne, intéressant, en un mot UTILE !",
+        "texte": "J’écoute depuis un moment 👀 et je me décide à laisser ces belles 5 étoiles suite à la découverte de l’épisode rediffusé avec la si tonique Catherine Barba qui donne tellement ENVI ! Bravo pour cet épisode et pour tous les autres aussi.…"
+      }
     ]
   }
 }

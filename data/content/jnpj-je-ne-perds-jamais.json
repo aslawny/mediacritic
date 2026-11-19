@@ -27,7 +27,7 @@
     "culture"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
       "titre": "#110. Vincent Fourdrinier Eveia : de la faillite frôlée au meilleur pédalier de bureau du monde (Made in Franc",
@@ -53,25 +53,29 @@
   "derniere_activite": "2026-03-28",
   "frequence_jours": 15,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-19",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pascale Caron",
+        "titre": "Merci",
+        "texte": "Merci pour cette belle mise en lumière ! 🙏 Participer à cet épisode de “Je Ne Perds Jamais” a été l’occasion de poser des mots sur un parcours fait de virages inattendus, de résilience, mais aussi d’un engagement constant envers l’innovation et l’humain.…"
+      },
+      {
+        "note": 5,
+        "auteur": "mielbop",
+        "titre": "\"Inspirant et Éclairant : Un Podcast Incontournable pour les Entrepreneurs\"",
+        "texte": "\"Inspirant et Éclairant : Un Podcast Incontournable pour les Entrepreneurs\" En tant qu'entrepreneure passionnée, les discussions et les invités de ce podcast sont vraiment incroyables.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Loridjak",
+        "titre": "Un excellent podcast d’entrepreneurs",
+        "texte": "JNPJ est un excellent podcast qui met en lumière de super entrepreneurs et leur parcours. Patrick De Carvalho, l’hôte du podcast, a un véritable talent pour poser des questions ultra pertinentes et obtenir des réponses captivantes de ses invités.…"
+      }
     ]
   }
 }

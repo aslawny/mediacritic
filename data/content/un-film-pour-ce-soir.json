@@ -25,27 +25,31 @@
     "series"
   ],
   "addedAt": "2026-10-20",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-20",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Brice Chrtsn",
+        "titre": "Bien joué",
+        "texte": "Suivant le travail de Victor depuis plusieurs années, le format et le ton lui ressemblent ce qui donne envie de voir les films qu’il recommande, très curieux des prochains"
+      },
+      {
+        "note": 5,
+        "auteur": "LeBlogDeAnto",
+        "titre": "Très bon!",
+        "texte": "Très bon premier épisode qui donne envie de voir le film conseillé! Peut être un peu court, un épisode de 6mn à chaque fois serait parfait!"
+      },
+      {
+        "note": 5,
+        "auteur": "Lahorde",
+        "titre": "Qualitatif comme toujours",
+        "texte": "Très intéressant, j’aime beaucoup ce format, il apprend des choses, en propose et donne envie de découvrir ou redécouvrir du cinéma !"
+      }
     ]
   },
   "episodes_recents": [

@@ -27,7 +27,7 @@
     "numerique"
   ],
   "addedAt": "2026-07-24",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
       "titre": "Assistance en gare : j'ai tout cumulé en un week-end, et je suis quand même rentré chez moi",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-10-29",
-  "frequence_jours": 13
+  "frequence_jours": 13,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "vibe_douce",
+        "titre": "Un podcast inspirant !",
+        "texte": "Votre podcast est vraiment intéressant et inspirant car par exemple l’épisode sur l’accessibilité numérique me donne envie d’inciter les responsables de ma ville pour améliorer l’accessibilité pour les aveugles et les malvoyants."
+      },
+      {
+        "note": 5,
+        "auteur": "Mag 42",
+        "titre": "Longue vie au podcast !!",
+        "texte": "Merci !! J’ai enfin trouvé un podcast dédié au handicap visuel. Vivre avec une déficience visuelle n’est pas simple mais pas impossible. Ce podcast sera une mine d’informations."
+      },
+      {
+        "note": 5,
+        "auteur": "Mike750XX",
+        "titre": "Excellent podcast !",
+        "texte": "Bravo pour votre podcast, je suis fan ! Étant non-voyant, votre podcast est super utile. Merci et continue comme ça."
+      }
+    ]
+  }
 }

@@ -23,7 +23,7 @@
     "musique"
   ],
   "addedAt": "2026-09-17",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
       "titre": "Guigui Pop parle de Rage Against The Machine",
@@ -49,25 +49,29 @@
   "derniere_activite": "2026-11-08",
   "frequence_jours": 16,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-19",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "RNFDNG",
+        "titre": "Merci pour ces longs formats",
+        "texte": "C’est un plaisir d’entendre des artistes prendre le temps de parler de leurs influences, leur rapport à la musique et leurs inspirations (l’ancien format était très cool aussi). Ça donne envie de voir le format revenir plus souvent et étendu à d’autres arts (cinéma notamment).…"
+      },
+      {
+        "note": 5,
+        "auteur": "Bergkamp 4",
+        "titre": "Smooth",
+        "texte": "J’aime beaucoup Nemo et sa manière de parler. C’est agréable à écouter et malgré pas mal de digressions, ce n’est pas gênant parce que ça glisse tout seul. En plus j’ai à peu près le même âge et ses souvenirs me parlent beaucoup.…"
+      },
+      {
+        "note": 5,
+        "auteur": "AlexLP56",
+        "titre": "Tout est lié !",
+        "texte": "Quand il s’agit de parler des liens entre les cultures, il n’y a pas meilleur que Nemo. On pourrait l’écouter pendant des heures parler de musiques, films, art, mode… Un podcast de passionné de cultures pour les passionnés. Merci pour le format"
+      }
     ]
   }
 }

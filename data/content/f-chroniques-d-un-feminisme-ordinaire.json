@@ -29,5 +29,25 @@
     "enfants"
   ],
   "addedAt": "2026-11-17",
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-19",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Claraaa9",
+        "titre": "Le féminisme pour les nuls !",
+        "texte": "Jen ai parfois marre d’entendre parler de féminisme et franchement là ça change ! Avec les archives, les voix, la musique, c’est hyper agréable. On commence un épisode et on n’arrive plus à s’arrêter :)"
+      },
+      {
+        "note": 1,
+        "auteur": "agathe.jpeg",
+        "titre": "5ème épisode trigger warning fragilité du privilège de l’homme blanc",
+        "texte": "J’ai écouté plusieurs épisodes avant d’écouter le 5ème… c’est très bien de mobiliser la pensée d’un homme qui se questionne au quotidien sur ce que c’est que d’être un homme, mais la c’est vraiment plus que border… les références utilisées pour se placer “moins border” que le roi…"
+      }
+    ]
+  }
 }

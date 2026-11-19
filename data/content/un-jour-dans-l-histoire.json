@@ -23,27 +23,31 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-20",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Camâme",
+        "titre": "Bien documenté et bien écrit !",
+        "texte": "Épisodes concis mais précis, clairs, sourcés, approfondis, bien montés, avec des intervenant/es de qualité pour qui la place à la parole est large… Top quali !"
+      },
+      {
+        "note": 1,
+        "auteur": "Francois7777",
+        "titre": "je me désabonne",
+        "texte": "Marre du politiquement correct. C'est une émission d'histoire ou une plateforme pour faire passer des messages sur les sujets de société ??"
+      },
+      {
+        "note": 5,
+        "auteur": "laurentbernardrichard",
+        "titre": "Premières dames",
+        "texte": "Bonjour Bravo pour votre émission. Pourriez-vous mettre en ligne le premier podcast de la série sur les premières dames de France ? Merci à vous"
+      }
     ]
   },
   "episodes_recents": [

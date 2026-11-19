@@ -29,7 +29,7 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-17",
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
       "titre": "TalQ Podcast : Le Bilan et \"CCDIP\" : Contrat de Cloture à Durée Indéterminée de mon Podcast",
@@ -53,5 +53,31 @@
     }
   ],
   "derniere_activite": "2022-12-27",
-  "frequence_jours": 20
+  "frequence_jours": 20,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lou-Anne.C",
+        "titre": "Super Podcast !!!",
+        "texte": "Enfin un podcast qui change et qui aborde des sujets très importants que l'on ait 13, 24 ou 45 ans ! Pas de tabous, plein d’anecdotes et des invités passionnés et passionnants ! Super ! A écouter et découvrir, sans modération et sans hésitation ! Lou-Anne, du podcast Flashback"
+      },
+      {
+        "note": 5,
+        "auteur": "MarineMarine1990",
+        "titre": "Très bon podcast !",
+        "texte": "Bons sujets, intervenants intéressants ! Et questions pertinentes. Enfin un podcast sur l’entrepreneuriat dans la sexualité, qui aborde aussi de façon transverse d’autres facettes comme le féminin."
+      },
+      {
+        "note": 5,
+        "auteur": "Robin & Mélanie Blash",
+        "titre": "super moment",
+        "texte": "Bravo pour cette belle aventure. On a passé un très bon moment avec toi. Tes podcast sont vraiment top on apprend beaucoup et c'est un plaisir a écouté. On recommande graveeeee bisous bisous"
+      }
+    ]
+  }
 }

@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/10000-pas-saison-5/id1836749514?uo=2",
       "trackId": 1836749514,
       "rating": 4.9,
-      "ratingCount": 416,
+      "ratingCount": 417,
       "episodeCount": null
     }
   },
@@ -25,27 +25,31 @@
     "societe"
   ],
   "addedAt": "2026-10-20",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-20",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Liam Bogaert",
+        "titre": "Toujours le plus réel du Game depuis quatre saisons.",
+        "texte": "Ayant connu la chaîne du raptor dissident à l’époque où celle ci était au plus haut de sa popularité (mi 2017) j’ai tout de suite accroché pour le style violent et sans concession du personnage tout en abordant des sujets sérieux.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Elophotos",
+        "titre": "Aucun intérêt",
+        "texte": "Il ne fait rire que lui. Croit avoir la science infuse. Objectif de ce podcast : augmenter son melon et la taille de ses chevilles, démontrer son peu de vocabulaire même au niveau des injures, très répétitif… La vulgarité pour se sentir un masculiniste.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Rimamobarak",
+        "titre": "Essentiel",
+        "texte": "Un podcast à la hauteur de ce que l’on est en droit d’attendre de ce format et qui se distingue au moins des autres sans aucune saveur, sponsorisés par des marques ou des investisseurs qui ne veulent que des clones et des contenus lisses et uniformes.…"
+      }
     ]
   },
   "episodes_recents": [

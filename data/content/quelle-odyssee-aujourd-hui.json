@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/quelle-odyss%C3%A9e-aujourdhui/id1540796920?uo=2",
       "trackId": 1540796920,
       "rating": 4.9,
-      "ratingCount": 35,
+      "ratingCount": 36,
       "episodeCount": null
     }
   },
@@ -27,7 +27,7 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
       "titre": "#100- La boucle est bouclée, merci",
@@ -53,25 +53,29 @@
   "derniere_activite": "2025-11-19",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-18",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "SylvainLBDN",
+        "titre": "Super immersion",
+        "texte": "Le podcast de Jérémy donne des super immersions pleines de conseils, c’est une super alternative aux guides qu'on achète ou aux blogs qu'on consulte pour préparer un voyage."
+      },
+      {
+        "note": 2,
+        "auteur": "Stroussi",
+        "titre": "Problème de sons",
+        "texte": "Dommage on n’entend pas votre invité Alors que j’écoute régulièrement vos podcasts mais là pas possible"
+      },
+      {
+        "note": 5,
+        "auteur": "glad-coco",
+        "titre": "Des voyages dans mes oreilles..",
+        "texte": "Poscast super intéressant avec une immersion dans chaque épisode !!! 🤩 Et merci à tous les invités de partager leurs expériences avec nous ! @quelle_odyssee_ajd"
+      }
     ]
   }
 }

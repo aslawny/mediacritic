@@ -26,7 +26,7 @@
     "societe"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
       "titre": "Gaijinsan - Episode 80",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-10-15",
   "frequence_jours": 32,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-20",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lesyeuxnoir",
+        "titre": "J’adore",
+        "texte": "Passionnée de Japon, et passionnée de podcast, j’adore ce que vous faites. Les sujets sont très intéressants, sur la vie de tous les jours au japon, j’espère que vous allez continuer treeeees longtemps. Bravo et merci Nat"
+      },
+      {
+        "note": 1,
+        "auteur": "Nyxxw",
+        "titre": "Chiant",
+        "texte": "Scandaleusement chiant. Et surtout trop long. On a parfois envie de se taper la tête contre les murs."
+      },
+      {
+        "note": 5,
+        "auteur": "FireRafou",
+        "titre": "Très bon premier podcast !",
+        "texte": "Passionnant, calme et avec des intervenants intéressants, je recommande pour les curieux de la vie à la japonaise ! Vivement les prochains épisodes et merci !"
+      }
     ]
   }
 }

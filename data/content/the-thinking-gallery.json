@@ -25,7 +25,7 @@
     "entrepreneuriat"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
       "titre": "#49. Mathieu Merian - Redonner la mobilité avec des exosquelettes / L’impression 3D, une révolution - My3D / S",
@@ -51,25 +51,29 @@
   "derniere_activite": "2024-04-16",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-18",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "carolinemignaux",
+        "titre": "Au top !",
+        "texte": "Super pour découvrir et anticiper les changements technologiques de notre société. Bravo au podcast et aux podcasteurs 👏 Caroline Mignaux de Marketing Square"
+      },
+      {
+        "note": 5,
+        "auteur": "David Barriet !",
+        "titre": "Un des meilleurs podcast",
+        "texte": "J’ai participé à un épisode et c’est de loin le meilleur podcast que j’ai tourné. Merci beaucoup Arthur et Paul 🫶"
+      },
+      {
+        "note": 5,
+        "auteur": "Tcha17",
+        "titre": "Le meilleur podcast",
+        "texte": "Un podcast incroyable pour comprendre ce qui se passe autour de nous !"
+      }
     ]
   }
 }

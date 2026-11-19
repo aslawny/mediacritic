@@ -29,7 +29,7 @@
     "developpement personnel"
   ],
   "addedAt": "2026-09-11",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
       "titre": "Pourquoi mes projets n’avancent pas ? Bilan honnête d’octobre... (2/4 mois focus)",
@@ -55,25 +55,29 @@
   "derniere_activite": "2026-10-31",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-18",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "julietver",
+        "titre": "J’adore ce podcast",
+        "texte": "Il a le parfait équilibre entre inspiration business, organisation, vie de freelance et même un peu de développement personnel. Lisa est une fille inspirante et motivante, qui donne envie de se dépasser dans notre propre business. Merci pour ce podcast …"
+      },
+      {
+        "note": 5,
+        "auteur": "Cocochaella",
+        "titre": "Super podcast",
+        "texte": "J'adore ce podcast, c'est inspirant et motivant ! J'ai appris à découvrir de belles personnalités et surtout à enlever le voile sur le métier d'auto-entrepreneur. Merci pour la Host qui pose toujours des questions très pertinentes."
+      },
+      {
+        "note": 5,
+        "auteur": "Léa 1999",
+        "titre": "INSPIRANT",
+        "texte": "Vraiment intéressant tes podcast Lisa merci de nous partager des histoires inspirantes , la suite logique de tes contenus déjà inspirant sur Instagram et Tiktok 🥰"
+      }
     ]
   }
 }

@@ -29,7 +29,7 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-16",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
       "titre": "#52 • S'autoriser la sauvagerie, la douceur et les profiteroles",
@@ -53,5 +53,31 @@
     }
   ],
   "derniere_activite": "2026-10-14",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Constiprot",
+        "titre": "Podcast touchant, qui fait réfléchir et décomplexe",
+        "texte": "Juliette fait parler les personnes qu’elle rencontre avec beaucoup d’émotions de leurs chemins de vie, de leurs sentiments et de leur sexualité.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Celloflobass",
+        "titre": "Absolument extraordinaire, simple et juste.",
+        "texte": "Voilà un podcast qui nous parle de nous, un nous multiple et sans limite, en toute simplicité, avec une rare intelligence et sensibilité. Aucun de tabou, mais tout en délicatesse, avec un niveau de réflexion assez hallucinant.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Juuliettteee",
+        "titre": "Podcast si aidant !",
+        "texte": "Terres Intimes et surtout Juliette Cervera qui conduit ce podcast avec tellement de générosité que très souvent ça vient toucher en plein dans le mille …"
+      }
+    ]
+  }
 }

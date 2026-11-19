@@ -26,27 +26,31 @@
     "vulgarisation"
   ],
   "addedAt": "2026-06-24",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-20",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "RubiW",
+        "titre": "Facinant",
+        "texte": "Ici on découvre le coeur de la torah: le questionnement Par des anecdotes, des histoires, des contes bibliques on apprend ou réapprend les fondamentaux de l'être humain dans sa dimension morale et spirituelle, en toute simplicité, étrangement moderne et merveilleusement nourrissa…"
+      },
+      {
+        "note": 3,
+        "auteur": "Omstef",
+        "titre": "Podcast audio non disponible",
+        "texte": "J'écoute vos cours tout le temps, mais les podcasts vidéo prennent trop de place et sont long a télécharger. Ne pouvez vous pas convertir vos video en audio ?"
+      },
+      {
+        "note": 5,
+        "auteur": "B26B",
+        "titre": "Torah-box : ma source d'eau fraiche",
+        "texte": "Chaque semaine je telecharge les nouveaux enseignements de Torah que j'écoute là où je suis. Je me remplis de connaisances passionnantes et fondamentales. Un grand merci pour ce Podcast qui me régénère!"
+      }
     ]
   },
   "episodes_recents": [

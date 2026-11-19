@@ -25,7 +25,7 @@
     "culture"
   ],
   "addedAt": "2026-07-30",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
       "titre": "Rita Mitsouko",
@@ -45,5 +45,31 @@
     }
   ],
   "derniere_activite": "2026-10-30",
-  "frequence_jours": 34
+  "frequence_jours": 34,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-19",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Charlesknu",
+        "titre": "Un Podcast bien ficelé",
+        "texte": "J’adore le principe qui est de faire découvrir (ou redécouvrir) un artiste au travers de précieuses anecdotes et de superbes morceaux dénichés, le tout dans un format qui s’écoute très facilement avec une agréable narration."
+      },
+      {
+        "note": 5,
+        "auteur": "schkopi",
+        "titre": "Super concept",
+        "texte": "Excellente idée que de parler d’un artiste à travers tout un tas de chansons qui ne sont pas de lui. C’est un portrait troublant et réellement intéressant. Bravo !!"
+      },
+      {
+        "note": 5,
+        "auteur": "Colchimax",
+        "titre": "A suivre…",
+        "texte": "Bien plus enrichissant qu’une playlist IA…Merci pour les découvertes et les redécouvertes !"
+      }
+    ]
+  }
 }
