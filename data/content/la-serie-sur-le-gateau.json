@@ -52,25 +52,29 @@
   "derniere_activite": "2025-07-20",
   "frequence_jours": 21,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-21",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Margueritedecadenet",
+        "titre": "🦆",
+        "texte": "J’adore votre podcast, vos analyses, vos recommendations, c’est toujours un grand plaisir de vous écouter ! Merci pour ce travail. Note cependant : la bande à picsou de 2017 ne reprend pas du tout les illustrations de Don Rosa ou celles de Carl Barks.…"
+      },
+      {
+        "note": 1,
+        "auteur": "La Pancarte",
+        "titre": "Un bon concept mais une vision étriquée",
+        "texte": "Quel dommage. J’ai écouté le podcast sur The Big Bang Theory et il m’a fallu un courage fou pour aller au bout de celui-ci tant deux des intervenantes racontaient n’importe quoi.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Taram326",
+        "titre": "La cerise sur le podcast",
+        "texte": "Meilleur podcast! Les avis différents des serial killers sont bien amenés. Même si la série traitée n’était pas à leurs goûts, nous avons des anecdotes de tournages et des informations pointues.…"
+      }
     ]
   }
 }

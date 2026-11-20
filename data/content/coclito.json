@@ -53,5 +53,31 @@
     }
   ],
   "derniere_activite": "2022-08-01",
-  "frequence_jours": 28
+  "frequence_jours": 28,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Josette Jeanne Marie",
+        "titre": "Il ya bien longtemps ..",
+        "texte": "Il ya bien longtemps que je n’avais entendu une telle qualité d’entretiens et d’émission. Remarquable de nuances, de sensibilités et de puissances de la parole libre.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Marie 7819",
+        "titre": "Enveloppant et intelligent",
+        "texte": "La part belle est laissée aux invités enveloppés par la voix de Caroline Facy. Questions intéressantes, intelligentes et entretiens menés avec délicatesse et pertinence.Un grand coup de cœur et un grand merci pour ce podcast!"
+      },
+      {
+        "note": 5,
+        "auteur": "Antoinedup",
+        "titre": "Intime, chaleureux et dynamisant",
+        "texte": "Je viens de dévorer ces trois épisodes de Coclito… c’est jubilatoire, original, chaleureux, instructif, généreux, bienvenu, profond, dynamique, bref MAGNIFIQUE ! (Et quelle belle voix pour animer ces voies !)"
+      }
+    ]
+  }
 }

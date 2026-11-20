@@ -50,25 +50,29 @@
   "derniere_activite": "2026-11-09",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-21",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "jay b 29486372",
+        "titre": "Meilleur programme de Fun",
+        "texte": "Party Fun est certainement le meilleur programme de Fun Radio. J’adore Fun Radio Anthology ça rappelle plein de souvenirs et de bons sons que j’avais oublié! Et le coup de cœur Hardstyle m’a fait connaître un style que je ne connaissais pas et maintenant j’en écoute de temps en t…"
+      },
+      {
+        "note": 1,
+        "auteur": "Desdesch",
+        "titre": "C’était mieux avant",
+        "texte": "Pourquoi depuis quelques jours on a un message comme quoi le contenu n’est pas disponible dans notre zone de région. Je suis en France et ça fonctionnait très bien avant …"
+      },
+      {
+        "note": 5,
+        "auteur": "jrm33200",
+        "titre": "Trop fort",
+        "texte": "Mico C tu déchires avec les anthologies tu me fais revivre ma jeunesse ❤️❤️❤️ Par contre Matt toi tu me fais vivre le moment présent vous déchirez grave encore merci beaucoup pour mes réveils du matin 😉"
+      }
     ]
   }
 }

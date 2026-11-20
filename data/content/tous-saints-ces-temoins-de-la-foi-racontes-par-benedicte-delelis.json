@@ -28,25 +28,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-11-19",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-21",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mariefairy",
+        "titre": "Édifiant !",
+        "texte": "Merci pour ce beau podcast très bien écrit et lu sur des saints peu connus et pourtant si proches de nous. Génial pour ce Carême de mettre nos pas dans les leurs pour se rapprocher du Christ !"
+      },
+      {
+        "note": 5,
+        "auteur": "smmlwsmmlw",
+        "titre": "Très interessant",
+        "texte": "Merci beaucoup pour ce podcast que je trouve vraiment très intéressant, qui nous permet d’en apprendre bien plus sur nos saints. Hâte d’écouter les prochains. Que Dieu vous bénisse 🙏🏼"
+      },
+      {
+        "note": 5,
+        "auteur": "Maylis 18/05",
+        "titre": "Carlo",
+        "texte": "Mes enfants ont beaucoup aimé ❤️ Il y a t’il une église de st Carlo ?! BRAVO 🎉🎊🍾🎈 et FÉLICITATION 👍!!! Passionnant ! Maylis, Gaëtane Wandrille Helie Faustine THOMAZO"
+      }
     ]
   },
   "episodes_recents": [

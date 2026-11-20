@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-11-04",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Masterxxjoug",
+        "titre": "Passionnant",
+        "texte": "Podcast très sympa animé par des personnes qui sont des passionnés du cinéma et qui nous font partager leur passion et leur avis. J’adore"
+      },
+      {
+        "note": 5,
+        "auteur": "Flou Mastoc",
+        "titre": "Le meilleur podcast ciné",
+        "texte": "J'adore ce podcast, la sélection de films est varié et les deux co host sont pertinents et drôles"
+      },
+      {
+        "note": 5,
+        "auteur": "renepkpas",
+        "titre": "in water",
+        "texte": "hong sang soo et menu plaisir les 3 gros j’ai crié de rire super épisode merci!!!"
+      }
+    ]
+  }
 }

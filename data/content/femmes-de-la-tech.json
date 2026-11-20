@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-11-10",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Gathgathe",
+        "titre": "Encore un super épisode !",
+        "texte": "J’ai beaucoup aimé ce deuxième épisode avec Laure… hâte de connaître l’invitée du prochain épisode !!"
+      },
+      {
+        "note": 3,
+        "auteur": "Wonia-Ziade",
+        "titre": "Super initiative mais manque de vrai profils Tech",
+        "texte": "Super idée de mettre en lumière des femmes de la tech. Cependant, je trouve qu'il manque de 'vrais' profils tech. Des femmes issues d’écoles d’ingénieurs ou d’autres cursus techniques seraient les bienvenues.…"
+      },
+      {
+        "note": 5,
+        "auteur": "stevenhab",
+        "titre": "On adore !",
+        "texte": "Excellent podcast et belle initiative ! Hâte d’écouter les prochains episodes !"
+      }
+    ]
+  }
 }

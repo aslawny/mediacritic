@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-09-30",
-  "frequence_jours": 15
+  "frequence_jours": 15,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "MHSCM",
+        "titre": "Magnifiquement magnifique 😍",
+        "texte": "Tes podcasts seront d’une utilité publique je n’en doute pas.Allahouma barik.J’attends la suite avec impatience"
+      },
+      {
+        "note": 5,
+        "auteur": "Madysey",
+        "titre": "Puissant",
+        "texte": "Chacun de tes podcast et tellement puissant Allahouma barek ça donne envie de suivre tes accompagnements 🙏🏾🙏🏾"
+      },
+      {
+        "note": 5,
+        "auteur": "HourayeD",
+        "titre": "Bravo 👏🏾 ma sœur pour le lancement de ton Podcast",
+        "texte": "Merci pour tes partages puissants qui vont élever le niveau de conscience de beaucoup de femmes ! 🔥"
+      }
+    ]
+  }
 }

@@ -35,25 +35,29 @@
   ],
   "derniere_activite": "2023-01-30",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-21",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-20",
+    "extraits": [
+      {
+        "note": 4,
+        "auteur": "Bekzmwkjzjs",
+        "titre": "alerte, alerte, alerte, alerte, alerte, alerte, alerte🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨",
+        "texte": "vous n’avez pas le droit de faire des épisodes payants et en plus c’est pour les bébés 🚨🚨🚨👮🏾👮🏻‍♀️👮🏼‍♂️ sinon je préviens la police des podcasts.😂😂😂😂😂😂😂😂😂 bien sûr, j’ai pas écouté mais bon je pense pas que et désolé si j’ai dit que c’est nul, et peut-être que c’est bien😅😅😅"
+      },
+      {
+        "note": 1,
+        "auteur": "Jspki",
+        "titre": "C N IMPORTE KOI EN FAIT 💄🫦",
+        "texte": "Pov : moi qui regarde les commentaires de tt les podcasts parce que j’ai rien à faire 😑"
+      },
+      {
+        "note": 1,
+        "auteur": "Lamehawkeye",
+        "titre": "🚨 Editeur Paradiso Media en liquidation judiciaire 🚨",
+        "texte": "Attention ! Depuis le 11 juillet 2024, PARADISO MEDIA, propriétaire de DISO est en liquidation judiciaire. Il n’y a plus personne derrière DISO à part un liquidateur judiciaire. Plus de service client.…"
+      }
     ]
   }
 }

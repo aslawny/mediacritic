@@ -47,5 +47,31 @@
     }
   ],
   "derniere_activite": "2026-11-11",
-  "frequence_jours": 2
+  "frequence_jours": 2,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "La Vast",
+        "titre": "Super podcast",
+        "texte": "Un super podcast avec des gens drôles et des avis pertinents sur le football. Un plaisir à écouter ! Si vous ne les connaissez pas encore, foncez !!"
+      },
+      {
+        "note": 5,
+        "auteur": "Huggydog",
+        "titre": "De la bonne merguez",
+        "texte": "Excellent podcast sportif à l'ambiance amicale. Les intervenants sont sympas et on parle sans se prendre la tête :)"
+      },
+      {
+        "note": 5,
+        "auteur": "Astrid_F",
+        "titre": "Le sport comme on l’aime !",
+        "texte": "L’équipe est passionnée et passionnante, chaque épisode est un morceau de convivialité."
+      }
+    ]
+  }
 }

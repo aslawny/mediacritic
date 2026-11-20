@@ -52,25 +52,29 @@
   "derniere_activite": "2026-10-14",
   "frequence_jours": 45,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-21",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Boule2Vice",
+        "titre": "Un must pour les funksters",
+        "texte": "Je ne suis pas seul! Avant je pensais que je n’étais qu’un geek isolé qui décortiquait les pochettes et lisait toute sorte de littérature musicale autour de la black music, au sens large du terme, avec une sérieuse atteinte du côté Funk / Boogie / RnB..…"
+      },
+      {
+        "note": 5,
+        "auteur": "Aloïs Vdc",
+        "titre": "Superbe !",
+        "texte": "Né en 1991, je n’ai pas connu ces années et c’est avec grand plaisir que je découvre ou redécouvre les artistes évoqués. J’ai quand même une sensibilité pour la funk, le rnb et la musique afro américaine en général, donc je ne suis pas venu ici par hasard.…"
+      },
+      {
+        "note": 5,
+        "auteur": "ChatteBoy",
+        "titre": "Raphy + Belkacem = True Funk Soldiers",
+        "texte": "01/10/25 : toujours top mais svp montez le son - Perfect 👍 What else 21/09/23: quel plaisir de retrouver Jam mais alors on entend rien au casque, il faudrait pousser un peu le volume svp 🥹 28/11/23: c’est mieux niveau volume mais c’est toujours pas assez fort.…"
+      }
     ]
   }
 }

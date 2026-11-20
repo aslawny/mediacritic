@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-11-01",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "l'honnête homme",
+        "titre": "Bravo",
+        "texte": "Père de trois enfants, éberlué par les horribles choses qu’on leur met dans la tête à l’école, j’adore votre manière honnête d’aborder les choses avec des intervenants compétents que l’on rêverait d’entendre sur les sources d’informations mainstream.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Freddi Gigi",
+        "titre": "Ce podcast = TRANSPHOBIE",
+        "texte": "Ce podcast est transphobe, il véhicule de la haine et des idées fausses au sujet des personnes transgenres. Pour rappel transsexuel est une insulte"
+      },
+      {
+        "note": 5,
+        "auteur": "Moame007",
+        "titre": "Merci Cyril pour tes podcast",
+        "texte": "J’en ai écouté environ 50. Le format avec de longues discussions est celui que je préfère. Les debats “musclés” sont mes preférés. Ta theorie sur le “racisme de classe” est bien trouvé et m’a fait beaucoup reflechir.…"
+      }
+    ]
+  }
 }

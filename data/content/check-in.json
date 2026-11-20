@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-01-13",
-  "frequence_jours": 29
+  "frequence_jours": 29,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Zira_loves_LA",
+        "titre": "Je vous aime de plus en plus !",
+        "texte": "Ce dernier podcast sur comment voyager en avion est excpetionnel, on apprend plein de petites choses très utiles. J'avais aussi adoré ceux de Joana nous parlant de Los Angeles ainsi que les épisodes de Nicolas en Californie. Encore merci et bravo !"
+      },
+      {
+        "note": 5,
+        "auteur": "cafeduprojet",
+        "titre": "Une nouvelle mini série qui nous apporte un peu de chaleur !",
+        "texte": "Cette nouvelle série d’épisodes sur le road trip de Joana est très intéressant et nous permet de nous projeter dans les immenses campings de l’ouest américain malgré le froid ambiant, ici en France. Merci pour ces épisodes courts et dépaysants !"
+      },
+      {
+        "note": 5,
+        "auteur": "duolaser",
+        "titre": "Super SunsetBld Check In!",
+        "texte": "Le process de la location de voiture est complètement expliqué, les incontournables et les pièges… Une vraie bible pour les futurs voyageurs Bravo pour ce nouvel épisode"
+      }
+    ]
+  }
 }

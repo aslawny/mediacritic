@@ -53,25 +53,29 @@
   "derniere_activite": "2026-10-26",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-21",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "lea wurt",
+        "titre": "Super podcast!!!",
+        "texte": "Épisodes très intéressants, j’adore ce format et la diversité des sujets abordés. Comme toujours Mymy nous attrape et on devient vite accro. J’attends chaque nouvel épisode avec impatience. Merci beaucoup pour ton travail, ta façon de te livrer et de faire bouger les choses.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Caramelie G.",
+        "titre": "Merci Mymy !",
+        "texte": "Matez le premier épisode de la S2 de House of the dragons en ayant trop hâte de pouvoir écouter le debrief de Mymy et Teki et entendre « le point homme poisson » dans ma tête dès qu’un perso s’approche de l’eau. Un régal."
+      },
+      {
+        "note": 5,
+        "auteur": "Lilmeena",
+        "titre": "10/10",
+        "texte": "J’attends d’abord chaque épisode de HOTD avec impatience le lundi et ensuite j’attends avec impatience le debrief de Mymy et Teki"
+      }
     ]
   }
 }

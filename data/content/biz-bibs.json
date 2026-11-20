@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-11-11",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "lducommun",
+        "titre": "Superbe podcast même quand on n’est pas parent",
+        "texte": "Que vous souhaitiez en savoir plus sur la parentalité, que vous soyez curieux du sujet, parent ou grand-parent, ce podcast est fait pour vous …"
+      },
+      {
+        "note": 5,
+        "auteur": "isa et ses 5 filles",
+        "titre": "Mettre en lumière la poussette Vidiamo",
+        "texte": "Merci pour la mise en lumière d’une maman qui a créé un objet ! On a tous besoin de nous faciliter la vie grâce à des objets innovants ! Quelle énergie Bénédicte dans cette interview ! Bravo pour le podcast"
+      },
+      {
+        "note": 5,
+        "auteur": "PaulineRoseBerry",
+        "titre": "Inspirationnel !",
+        "texte": "De beaux échanges, qui donnent de la motivation et de l’inspiration pour aligner au mieux entreprendrait et parentalité … Merci Estelle !"
+      }
+    ]
+  }
 }

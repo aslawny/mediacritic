@@ -29,25 +29,29 @@
   "addedAt": "2026-07-03",
   "updatedAt": "2026-11-19",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-21",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "cléa 💕",
+        "titre": "(J’écris décidément trop🫣)",
+        "texte": "Coucou! Je viens d’apprendre que vous vouliez faire moins d’épisodes sur des documentaires. Je trouve que ce n’est pas une super idée car même si ce n’est pas pour l’endormissement, les épisodes de ce genre sont bien pour des moments de relaxation,des moments vides où on ne fait…"
+      },
+      {
+        "note": 1,
+        "auteur": "6hfrbdgbfvdfbbdjg",
+        "titre": "Nuuuuuuuuuuuuul!!👎🏼👎🏼👎🏼",
+        "texte": "Je vais te faire une petite sieste et je vais te faire une bonne baffe !!"
+      },
+      {
+        "note": 5,
+        "auteur": "Marhyn ✨",
+        "titre": "J’adore cette chaîne",
+        "texte": "Merci d’avoir créer cette chaîne. Je trouve le contenu tellement inintéressant que je m’endors à chaque épisode. Mon épisode préféré : quand il tente de chercher une place pour son rdv chez le dentiste. Sujet très léger, bourré de détails inutiles. C’est parfait.…"
+      }
     ]
   },
   "episodes_recents": [

@@ -53,25 +53,29 @@
   "derniere_activite": "2019-11-20",
   "frequence_jours": 48,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-21",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "princeveli7",
+        "titre": "J’apprécie vraiment ce podcast sur la violence conjugale",
+        "texte": "Franchement, j’ai beaucoup aimé ce podcast. J’ai trouvé les échanges vraiment intéressants et surtout très humains. Certaines idées m’ont particulièrement fait réfléchir. J’ai apprécié le fait que chacun puisse développer son point de vue simplement.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Jujuparismiami",
+        "titre": "Bravo!",
+        "texte": "Super découverte! Merci. J’interviens en prison depuis plus d’un an et demi pour aider des détenus qui s’apprêtent à sortir à se préparer à la réinsertion. Merci de faire découvrir l’univers carcéral à tout le monde.…"
+      },
+      {
+        "note": 5,
+        "auteur": "S.RLT",
+        "titre": "Un podcast à mettre dans toutes les oreilles",
+        "texte": "Belle découverte grâce à l'épisode sur le droit du travail, qui nous concerne tous mais qui souffre de beaucoup de méconnaissances. Un sujet complexe rendu accessible et traité de manière très pratique. Hâte de découvrir les autres épisodes !"
+      }
     ]
   }
 }

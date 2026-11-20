@@ -51,25 +51,29 @@
   "derniere_activite": "2025-03-31",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-21",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pseudo nyl",
+        "titre": "Remerciements",
+        "texte": "Merci bcp à ce qui contribue à ce que cette chaîne de podcasts soit toujours agréable. Ma sœur et moi aimons énormément passer des moments comme ça à se relaxer. Quand il pleut et puis ça nous calme quand on vient de s’embrouiller. La voix est vraiment super apaisante.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Yanjug",
+        "titre": "Merci",
+        "texte": "Je remercie l’auteur de ce podcast, qui me permet de créer une bulle de sérénité, et me déposer dans l’instant présent. 🙏🌸"
+      },
+      {
+        "note": 5,
+        "auteur": "MarionLR78",
+        "titre": "Juste parfait",
+        "texte": "Podcast tellllement relaxant. Le format est vraiment parfait, la voix est douce. C’est enivrant et reposant à souhait."
+      }
     ]
   }
 }

@@ -51,25 +51,29 @@
   "derniere_activite": "2025-10-05",
   "frequence_jours": 20,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-21",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Dagobah09",
+        "titre": "Très intéressant ce regard décalé sur l’actualité du numérique",
+        "texte": "J’aime beaucoup écouter ce podcast qui propose de regarder le monde du numérique sous un angle différent des grands médias. La nouvelle formule présente les sujets différemment mais propose également un survol bref de quelques actualités en plus des sujets de fond.…"
+      },
+      {
+        "note": 1,
+        "auteur": "poussindesbois",
+        "titre": "Pauvre",
+        "texte": "Très pauvre sur le fond. Trois animateurs qui passent leur temps a dire qu’ils avaient raison depuis 10 ans. Dommage, c’était prometteur"
+      },
+      {
+        "note": 5,
+        "auteur": "Guillaume Republik",
+        "titre": "Pédagogeek !",
+        "texte": "Contenu au top, propos concis et clairs. Des avis parfois tranchés mais sans polémiques inutiles. On comprend ici les enjeux et les tendances numériques qu'on pressent parfois sans arriver à les verbaliser.…"
+      }
     ]
   }
 }

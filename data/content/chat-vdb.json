@@ -50,25 +50,29 @@
   "derniere_activite": "2026-11-06",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-21",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "@fgoussi",
+        "titre": "Décalé",
+        "texte": "Décale ta définition ! VDB sur France Inter désormais sur Nova avec ses potes Arnaud Barré Lompret Meurice Giedre OMIRI La roche Foucault Et tous les invités À revoir sur YouTube À écouter sur nova ou sur ce support Retrouvez La bamboche L’actualizic Et qui veut gagner une flûte…"
+      },
+      {
+        "note": 1,
+        "auteur": "Philippeimac2",
+        "titre": "Y’as plus de pub que de VDB :(",
+        "texte": "Les chroniques de VDB sont si courtes qu’on a l’impression d’entendre plus de pubs que lui et franchement c’est trop chiant -.-"
+      },
+      {
+        "note": 5,
+        "auteur": "MASMASL",
+        "titre": "Chat vdb",
+        "texte": "Très drôle amusant divertissant à part les voix parfois un peu dur à comprendre c’est vraiment le meilleur chroniqueur"
+      }
     ]
   }
 }

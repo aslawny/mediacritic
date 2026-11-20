@@ -43,5 +43,31 @@
     }
   ],
   "derniere_activite": "2026-08-26",
-  "frequence_jours": 41
+  "frequence_jours": 41,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "NMRacing",
+        "titre": "BANGER",
+        "texte": "Bravo à vous pour cette première pierre à l’édifice « Chaises Pliantes ». Romain est un grand sportif, avec du « bulbe », on l’écouterait des heures à parler de tous ces sujets avec pertinence, expertise et simplicité.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Mathis09200*",
+        "titre": "Super",
+        "texte": "Grave bien je suis fan de velo et j’adore ecouter vos podcaste. un tout petit peu dommage que il en ai pas plus souvent mais c’est pas grave"
+      },
+      {
+        "note": 5,
+        "auteur": "N0N01324",
+        "titre": "Incroyable",
+        "texte": "Podcast excellent que je recommande vivement hâte d’écouter les suivants"
+      }
+    ]
+  }
 }

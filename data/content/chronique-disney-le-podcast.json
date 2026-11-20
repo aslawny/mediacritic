@@ -49,25 +49,29 @@
   "derniere_activite": "2025-04-17",
   "frequence_jours": 13,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-21",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "THE-RAPTOR",
+        "titre": "Très bon podcast.",
+        "texte": "Des sujets très bien traités, des super infos et des anecdotes incroyables. Bravo. PS : je pourrais écoutez Carl des heures. 😀"
+      },
+      {
+        "note": 1,
+        "auteur": "Theus44",
+        "titre": "Catastrophique",
+        "texte": "Cette saison est catastrophique : un simple enregistrement de live switch sans aucun montage avec un son de qualité horrible. Aucune préparation des animateurs qui alignent les privates jokes, gloussent et rient continuellement et surtout sont incapables d’animer correctement l’é…"
+      },
+      {
+        "note": 4,
+        "auteur": "Cream-Puff94",
+        "titre": "Intéressant",
+        "texte": "Les sujets et analyses sont intéressants. Dommage que le podcast se soit arrêté. L'écoute de certains épisodes est rendue difficile, les intervenants parlant en même temps et se coupant souvent la parole."
+      }
     ]
   }
 }

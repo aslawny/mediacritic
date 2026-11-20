@@ -53,25 +53,29 @@
   "derniere_activite": "2026-11-08",
   "frequence_jours": 2,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-21",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Maaaaaarydance",
+        "titre": "Ma petite habitude quotidienne",
+        "texte": "Merci à Raphael pour toutes les infos partagées au quotidien, pour moi c’est ma petite habitude pendant mes trajets en voiture et parfois quand la séance devient trop difficile. Grace à lui j ai gagné en connaissances et je suis plus à l’aise dans mes sorties."
+      },
+      {
+        "note": 2,
+        "auteur": "Davidenim",
+        "titre": "Trop de pub",
+        "texte": "Le podcast est sympa et agréable, mais certains épisodes sont entièrement dédiés à faire de la publicité pour certains produit et c’est très frustrant quand on part courir avec ce genre d’épisode dans les oreilles…"
+      },
+      {
+        "note": 5,
+        "auteur": "OD67",
+        "titre": "A suivre",
+        "texte": "Une analyse fine, une expérience véritable qui “parle” à celles et à ceux qui débutent la course à pied sans autre but mais aussi, à celles et à ceux qui se préparent pour des objectifs. Le tout avec un ton calme, de l’humour et de l’écoute. A suivre"
+      }
     ]
   }
 }

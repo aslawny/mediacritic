@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-11-09",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Gonzague Dambricourt",
+        "titre": "Enrichissant",
+        "texte": "Le contenu & les échanges de Donatien avec ses invités sont d’une grande richesse, sensibilité et pertinence qui rend ce podcast intéressant même aux non développeurs."
+      },
+      {
+        "note": 5,
+        "auteur": "Neldion",
+        "titre": "Excellent podcast",
+        "texte": "Un podcast vraiment très agréable, avec des sujets passionnants. Et puis quel plaisir de voir passer des personnes que je connais personnellement 🙂."
+      },
+      {
+        "note": 5,
+        "auteur": "Supergénial0000",
+        "titre": "Nouvelles perspectives sur notre métier",
+        "texte": "Le choix varié des invités offre une définition plural du métier de développeur, ainsi que de nouvelles perspectives sur le milieu entrepreneurial."
+      }
+    ]
+  }
 }

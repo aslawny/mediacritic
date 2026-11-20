@@ -53,25 +53,29 @@
   "derniere_activite": "2026-11-05",
   "frequence_jours": 3,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-21",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Vince14000",
+        "titre": "Un peu de recul dans ce monde de fou",
+        "texte": "Cela fait du bien d’avoir un peu de contraste dans l’information. Les épisodes prennent du recul sur les faits, démontent les opérations de com et pointent souvent du doigt la forêt cachée par l’arbre.…"
+      },
+      {
+        "note": 3,
+        "auteur": "AuréMed",
+        "titre": "Avis d’un Mécène :)",
+        "texte": "Podcast presque obligatoire pour moi afin de profiter des émissions sur mon vélo le matin ou le soir. Je regrette un peu l’émission hebdo du mercredi matin, même si je comprends que ça pouvait un peu tourner en rond.…"
+      },
+      {
+        "note": 5,
+        "auteur": "jjphone",
+        "titre": "Toujours aussi indispensable !",
+        "texte": "Ce podcast continue d'être absolument indispensable, pour mieux démêler le faux du vrai, alors que les grands media nous assènent en permanence tellement de contre-vérités. Merci pour votre excellent travail !"
+      }
     ]
   }
 }

@@ -50,25 +50,29 @@
   "derniere_activite": "2026-09-17",
   "frequence_jours": 19,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-21",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Caro Santi",
+        "titre": "Je recommande !",
+        "texte": "D’abord un super sujet, celui des métiers passions. Parce que l’on en rêve tous un peu secrètement au final. Et les podcasts de ‘Ma passion, mon job’ répondent à des tas de questions que l’on se pose : ce qui fait qu’on décide un jour de changer de vie, les épreuves à traverser m…"
+      },
+      {
+        "note": 1,
+        "auteur": "Emmahy",
+        "titre": "Excellent Podcast très inspirant",
+        "texte": "Merci pour ce podcast qui permet de rentrer dans l’intimité d’artistes et de créateurs avec beaucoup de bienveillance et de douceur. Le format est parfait.…"
+      },
+      {
+        "note": 5,
+        "auteur": "GaëlleO",
+        "titre": "Podcast très inspirant!",
+        "texte": "Bravo Célia pour ce super projet. Les sujets sont passionnants et très agréables à écouter. Un bon rituel à mettre en place dans notre quotidien pour réfléchir, s’ouvrir et s’autoriser à développer nos propres passions! L’épisode de Loïc est particulièrement génial, et raisonne t…"
+      }
     ]
   }
 }

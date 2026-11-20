@@ -48,5 +48,25 @@
     }
   ],
   "derniere_activite": "2026-11-05",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Sandie G.",
+        "titre": "On l’attendait depuis longtemps !",
+        "texte": "Et ça valait le coup :-) Des épisodes qui transpirent l’expérience, le terrain avec ce qu’il faut de scientifique et un ton qui secoue pour se remettre en question. On retrouve ici tout ce qu’on aimait déjà dans la newsletter et les posts de Laura, mais avec sa voix. Merci Laura."
+      },
+      {
+        "note": 5,
+        "auteur": "Maud CLERICE",
+        "titre": "Générosité et efficacité",
+        "texte": "Il n’y a pas un épisode du podcast de Laura Bokobza dont on ne ressorte avec quelque chose en plus. Bref… Écouter le podcast de Laura, c’est choisir de faire quelque chose de bien pour soi au moins une fois dans la journée. 🤍"
+      }
+    ]
+  }
 }

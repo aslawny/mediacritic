@@ -26,25 +26,29 @@
   "addedAt": "2026-05-17",
   "updatedAt": "2026-11-19",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-21",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-20",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Clément matis gogo",
+        "titre": "Un redécouverte pour nous enfants de la 5 république",
+        "texte": "En se jour de campagne gardon la seul séquence qui compte ses chansons qui on changer la France ... Alors on continue ses du lourd et même les prof ses bon pour vos élèves merci a vous continuer à vous documenter Christophe..."
+      },
+      {
+        "note": 1,
+        "auteur": "oliver747",
+        "titre": "Bof",
+        "texte": "Vraiment pas très enthousiasmant...à moins d'avoir plus de 80 ans... Et encore. On survole, des commentaires sans interet. On n'aprend rien sur le dessous des cartes, sur l'histoire des chansons."
+      },
+      {
+        "note": 5,
+        "auteur": "Paupau13",
+        "titre": "Ludiques, divertissantes et instructives",
+        "texte": "Quel dommage qu'on ne puisse pas toutes les télécharger depuis le début de l'été tellement ces chroniques sont ludiques, divertissantes et follement instructives. Bravo France Info pour ce programme de grande qualité !"
+      }
     ]
   }
 }
