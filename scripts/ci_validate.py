@@ -293,6 +293,7 @@ if not errors:
 #    une seule feuille. Le site comptait 7 en-têtes ; ce contrôle empêche une
 #    page, un générateur ou une retouche à la main d'en réintroduire un 8e.
 from charte import entete as _entete, pied as _pied, CSS_LIEN as _CSS_LIEN, CSP_META as _CSP_META  # noqa: E402
+from charte import CSP_META_LECTEURS as _CSP_LECT, MARQUEUR_LECTEURS as _MARQ_LECT  # noqa: E402
 _norm = lambda s: re.sub(r"©\s*\d{4}", "©", re.sub(r'\s*aria-current="page"', "", s))
 _H_REF, _F_REF = _norm(_entete()), _norm(_pied())
 _pages_charte = (sorted(ROOT.glob("*.html")) + sorted((ROOT / "categories").glob("*.html"))
@@ -314,7 +315,10 @@ for _f in _pages_charte:
     if not _p or _norm(_p.group(0)) != _F_REF:
         _ecarts["pied de page"].append(_nom)
     _tete = _t.split("</head>")[0]
-    if _tete.count("Content-Security-Policy") != 1 or _CSP_META not in _tete:
+    # Variante « lecteurs » (lecteurs officiels en iframe) : seulement sur une
+    # page qui porte le marqueur, et alors exactement celle de la charte.
+    _csp_attendue = _CSP_LECT if _MARQ_LECT in _t else _CSP_META
+    if _tete.count("Content-Security-Policy") != 1 or _csp_attendue not in _tete:
         _ecarts["CSP absente ou différente de charte.CSP"].append(_nom)
     if _CSS_LIEN not in _tete or _tete.rstrip().endswith(_CSS_LIEN) is False:
         _ecarts["mc.css absente ou pas en dernier"].append(_nom)

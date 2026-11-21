@@ -41,6 +41,15 @@ CSP = ("default-src 'self'; "
        "frame-src 'none'; object-src 'none'; base-uri 'self'; form-action 'self' mailto:; "
        "upgrade-insecure-requests")
 CSP_META = '<meta http-equiv="Content-Security-Policy" content="%s" />' % CSP
+# Variante « lecteurs » : SEULE difference, frame-src autorise les lecteurs
+# OFFICIELS des plateformes (Le Mystere du Jour, 21/11/2026). Posee sur toute
+# page portant MARQUEUR_LECTEURS ; ci_validate verifie exactement celle-ci.
+MARQUEUR_LECTEURS = "<!-- mc-lecteurs -->"
+CSP_LECTEURS = CSP.replace(
+    "frame-src 'none'",
+    "frame-src https://open.spotify.com https://embed.podcasts.apple.com "
+    "https://widget.deezer.com https://www.youtube-nocookie.com")
+CSP_META_LECTEURS = '<meta http-equiv="Content-Security-Policy" content="%s" />' % CSP_LECTEURS
 DEBUT_H, FIN_H = "<!-- mc-header -->", "<!-- /mc-header -->"
 DEBUT_F, FIN_F = "<!-- mc-footer -->", "<!-- /mc-footer -->"
 
@@ -315,7 +324,8 @@ def appliquer(html, actif=None, palette=None):
     m = re.search(r"<meta charset=[^>]*>", html, re.I)
     if not m:
         return orig, None
-    html = html[:m.end()] + "\n" + CSP_META + html[m.end():]
+    csp = CSP_META_LECTEURS if MARQUEUR_LECTEURS in html else CSP_META
+    html = html[:m.end()] + "\n" + csp + html[m.end():]
     # Feuille de la charte : derniere chose du <head>, pour primer.
     html = html.replace(CSS_LIEN + "\n", "").replace(CSS_LIEN, "")
     if html.count("</head>") != 1:

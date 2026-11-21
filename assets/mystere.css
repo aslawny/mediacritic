@@ -1,0 +1,76 @@
+/* Le Mystere du Jour — mobile d'abord, jetons de la charte (assets/mc.css). */
+body{margin:0;background:var(--mc-bg);color:var(--mc-text)}
+.mys{max-width:680px;margin:0 auto;padding:clamp(20px,5vw,48px) 16px 56px}
+.mys [hidden]{display:none !important}
+.mys-vh{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.mys-tete{text-align:center;margin-bottom:var(--mc-s5)}
+.mys-sur{margin:0 0 6px;font-size:var(--mc-fs-small);color:var(--mc-accent);font-weight:700;letter-spacing:.02em}
+.mys-tete h1{margin:0}
+.mys-sous{margin:8px 0 0;color:var(--mc-text-2)}
+
+.mys-indices{list-style:none;margin:0 0 var(--mc-s4);padding:0;display:flex;flex-direction:column;gap:var(--mc-s2)}
+.mys-indice{background:var(--mc-surface);border:1px solid var(--mc-line);border-radius:var(--mc-r-md);padding:12px 14px;animation:mys-entree .35s ease-out}
+.mys-indice-cle{display:block;font-size:var(--mc-fs-label);text-transform:uppercase;letter-spacing:.06em;color:var(--mc-accent);font-weight:700;margin-bottom:3px}
+.mys-indice-texte{margin:0;font-size:17px;line-height:1.4}
+.mys-indice-cache{background:transparent;border-style:dashed;color:var(--mc-text-3);font-size:var(--mc-fs-small);animation:none}
+.mys-flou{display:block;width:120px;height:120px;border-radius:var(--mc-r-sm);object-fit:cover;filter:blur(9px) saturate(.8);margin-top:6px}
+@keyframes mys-entree{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){.mys-indice{animation:none}}
+
+.mys-carres{display:flex;justify-content:center;gap:6px;font-size:22px;margin:0 0 var(--mc-s4);letter-spacing:2px}
+.mys-label{display:block;font-weight:600;margin-bottom:6px}
+.mys-ligne{display:flex;gap:var(--mc-s2)}
+.mys-saisie{flex:1;min-width:0;min-height:48px;padding:0 14px;font:inherit;font-size:16px;color:var(--mc-text);background:var(--mc-surface-2);border:1px solid var(--mc-line-2);border-radius:var(--mc-r-md)}
+.mys-saisie:focus{outline:2px solid var(--mc-accent);outline-offset:1px}
+.mys-btn{min-height:48px;min-width:48px;padding:0 18px;font:inherit;font-weight:700;border-radius:var(--mc-r-md);border:1px solid var(--mc-line-2);background:var(--mc-surface-2);color:var(--mc-text);cursor:pointer;display:inline-flex;align-items:center;justify-content:center;gap:6px;text-decoration:none}
+.mys-btn:focus-visible{outline:2px solid var(--mc-accent);outline-offset:2px}
+.mys-btn-plein{background:var(--mc-accent);border-color:var(--mc-accent);color:var(--mc-on-accent)}
+.mys-btn-plein:hover{background:var(--mc-accent-hover)}
+.mys-btn-lien{background:none;border:none;color:var(--mc-text-2);font-weight:500;text-decoration:underline;text-underline-offset:3px;padding:0 4px;margin-top:4px}
+.mys-aide{margin:6px 0 0;font-size:var(--mc-fs-small);color:var(--mc-text-3)}
+.mys-retour{margin:6px 0 0;min-height:1.4em;font-weight:600;color:#ffb38f}
+.mys-essais{list-style:none;padding:0;margin:var(--mc-s3) 0 0;display:flex;flex-wrap:wrap;gap:6px}
+.mys-essais li{font-size:var(--mc-fs-small);padding:4px 10px;border-radius:var(--mc-r-pill);background:rgba(232,98,45,.12);border:1px solid rgba(232,98,45,.35);text-decoration:line-through;text-decoration-color:rgba(238,242,247,.5)}
+
+.mys-attente,.mys-revel,.mys-stats,.mys-regles{margin-top:var(--mc-s6)}
+.mys-attente{text-align:center;background:var(--mc-surface);border:1px solid var(--mc-line);border-radius:var(--mc-r-lg);padding:var(--mc-s5)}
+.mys-revel{background:var(--mc-surface);border:1px solid var(--mc-line-2);border-radius:var(--mc-r-lg);padding:var(--mc-s5) var(--mc-s4)}
+.mys-revel h2{margin:0 0 var(--mc-s4);text-align:center}
+.mys-revel h2:focus{outline:none}
+.mys-carte{display:flex;gap:var(--mc-s4);align-items:flex-start}
+.mys-carte img{width:96px;height:96px;border-radius:var(--mc-r-md);object-fit:cover;flex:none}
+.mys-carte-nom{margin:0;font-size:20px;font-weight:800;line-height:1.25}
+.mys-carte-auteur{margin:2px 0 6px;color:var(--mc-text-2);font-size:var(--mc-fs-small)}
+.mys-carte-phrase{margin:0;color:var(--mc-text-2);font-size:15px;line-height:1.5}
+.mys-humeur{margin:var(--mc-s4) 0;padding:12px 14px;border-left:3px solid var(--mc-accent);background:rgba(232,98,45,.08);border-radius:0 var(--mc-r-sm) var(--mc-r-sm) 0;font-style:italic}
+.mys-lecteur{margin:var(--mc-s4) 0 0}
+.mys-lecteur iframe{display:block;width:100%;border:0;border-radius:var(--mc-r-md);background:var(--mc-surface-2)}
+.mys-lecteur-video{aspect-ratio:16/9;height:auto}
+.mys-avis{margin-top:var(--mc-s5);padding-top:var(--mc-s4);border-top:1px solid var(--mc-line)}
+.mys-avis h3{margin:0 0 6px;font-size:var(--mc-fs-h3)}
+.mys-avis-note{font-size:28px;font-weight:800;color:var(--mc-gold)}
+.mys-actions{display:flex;flex-direction:column;gap:var(--mc-s2);margin-top:var(--mc-s5)}
+.mys-copie{text-align:center;margin:4px 0 0;font-size:var(--mc-fs-small);color:#7ee2a8;min-height:1.3em}
+
+.mys-chiffres{display:grid;grid-template-columns:repeat(4,1fr);gap:var(--mc-s2);margin:0 0 var(--mc-s4)}
+.mys-chiffres div{background:var(--mc-surface);border:1px solid var(--mc-line);border-radius:var(--mc-r-md);padding:10px 4px;text-align:center}
+.mys-chiffres dt{font-size:11px;color:var(--mc-text-2);order:2}
+.mys-chiffres dd{margin:0;font-size:22px;font-weight:800}
+.mys-chiffres div{display:flex;flex-direction:column-reverse}
+.mys-h3{font-size:var(--mc-fs-small);margin:0 0 6px;color:var(--mc-text-2)}
+.mys-distrib{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:4px}
+.mys-distrib li{display:flex;align-items:center;gap:8px;font-size:var(--mc-fs-small)}
+.mys-distrib span:first-child{width:14px;text-align:right;color:var(--mc-text-2)}
+.mys-barre{display:block;min-width:24px;padding:2px 8px;border-radius:4px;background:var(--mc-surface-2);text-align:right;font-weight:700}
+.mys-barre.mys-auj{background:var(--mc-accent);color:var(--mc-on-accent)}
+.mys-prochain{margin:var(--mc-s4) 0 0;text-align:center;color:var(--mc-text-2)}
+.mys-prochain strong{color:var(--mc-text);font-variant-numeric:tabular-nums}
+.mys-note{font-size:var(--mc-fs-small);color:var(--mc-text-3);text-align:center}
+.mys-regles p{color:var(--mc-text-2);line-height:1.7}
+.mys-regles a{color:var(--mc-text);text-decoration:underline;text-underline-offset:2px}
+
+@media (min-width:560px){
+  .mys-actions{flex-direction:row;flex-wrap:wrap}
+  .mys-actions .mys-btn{flex:1}
+  .mys-carte img{width:120px;height:120px}
+}

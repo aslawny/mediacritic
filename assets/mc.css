@@ -265,3 +265,10 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{ou
 @media (max-width:900px){.mcf-in{grid-template-columns:repeat(2,minmax(0,1fr))}.mcf-brand{grid-column:1/-1}}
 @media (max-width:480px){.mcf-in{grid-template-columns:minmax(0,1fr)}}
 @media (prefers-reduced-motion:reduce){.mc-btn,.mch *{transition:none!important}}
+/* Le Mystere du Jour : encart d'appel (accueil, podcast du jour) */
+.mys-appel-zone{max-width:1100px;margin:0 auto;padding:0 clamp(16px,4vw,48px)}
+.mys-appel{display:flex;align-items:center;gap:12px;margin:var(--mc-s4) 0;padding:14px 16px;min-height:44px;border-radius:var(--mc-r-lg);border:1px solid rgba(232,98,45,.5);background:linear-gradient(90deg,rgba(232,98,45,.16),rgba(232,98,45,.04));color:var(--mc-text);text-decoration:none}
+.mys-appel:hover{border-color:var(--mc-accent)}
+.mys-appel-ico{font-size:28px;flex:none}
+.mys-appel strong{display:block;color:var(--mc-text);font-size:16px}
+.mys-appel span{color:var(--mc-text-2);font-size:var(--mc-fs-small)}

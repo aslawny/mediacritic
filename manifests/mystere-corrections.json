@@ -1,0 +1,34 @@
+{
+  "_lisez-moi": "FACULTATIF. Le mystere se construit SEUL chaque matin a partir du podcast du jour. Ce fichier ne sert qu'a corriger ou completer un jour precis : toute cle absente garde la valeur calculee. Cles possibles : annee (nombre), duree_min (nombre), animateur (texte), phrase (presentation affichee a la revelation), lecteur ({\"type\": \"spotify|apple|deezer|youtube\", \"src\": \"URL du lecteur officiel\"}), indices ({\"2\": {\"cle\": \"...\", \"texte\": \"...\"}} pour remplacer l'indice n). Les dates ci-dessous sont des EXEMPLES a remplir ou a supprimer ; une valeur vide (\"\" ou null) est ignoree.",
+  "2026-11-23": {
+    "annee": null,
+    "animateur": "",
+    "phrase": "",
+    "lecteur": null
+  },
+  "2026-11-24": {
+    "annee": null,
+    "duree_min": null,
+    "animateur": ""
+  },
+  "2026-11-25": {
+    "annee": null,
+    "phrase": ""
+  },
+  "2026-11-26": {
+    "annee": null,
+    "lecteur": null
+  },
+  "2026-11-27": {
+    "animateur": "",
+    "phrase": ""
+  },
+  "2026-11-28": {
+    "annee": null,
+    "indices": {}
+  },
+  "2026-11-29": {
+    "_note": "Dimanche : le podcast du jour est l'emission de l'episode MediaCritic sorti le matin ; notre note et notre lecteur s'ajoutent seuls.",
+    "phrase": ""
+  }
+}

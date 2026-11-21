@@ -217,6 +217,7 @@ a{{color:inherit}}
 <p>Chaque jour, l'actu qui fait le buzz et l'émission de <a href="catalogue.html">notre
 annuaire</a> qui en parle : un podcast ou une chaîne YouTube francophone à écouter pour aller
 plus loin que les gros titres.</p>
+<a class="mys-appel" href="mystere.html"><span class="mys-appel-ico" aria-hidden="true">🕵️</span><span><strong>Le Mystère du Jour</strong><span>Devine-le avant de l'écouter : le podcast du jour en 6 indices →</span></span></a>
 <section class="mcj-zone">{carte(dernier, titre_tag="h2", lien_archive=False)}</section>
 {archive}
 </main>
