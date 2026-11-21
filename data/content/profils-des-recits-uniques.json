@@ -55,23 +55,33 @@
   "episodes_recents": [
     {
       "titre": "Bêtes de foire",
-      "date": "2026-11-05"
+      "date": "2026-11-05",
+      "audio": "https://flex2.acast.com/s/profils/u/cdn.arteradio.com/permanent/arteradio/sites/default/files/BETE_DE_FOIRE_hq_fr.mp3",
+      "duree": 3513
     },
     {
       "titre": "Un micro à la DGSE : La vie privée (6/6)",
-      "date": "2026-10-26"
+      "date": "2026-10-26",
+      "audio": "https://flex2.acast.com/s/profils/u/cdn.arteradio.com/permanent/arteradio/sites/default/files/6_LA_VIE_PRIVEE_hq_fr.mp3",
+      "duree": 1074
     },
     {
       "titre": "Un micro à la DGSE : La traque (5/6)",
-      "date": "2026-10-26"
+      "date": "2026-10-26",
+      "audio": "https://flex2.acast.com/s/profils/u/cdn.arteradio.com/permanent/arteradio/sites/default/files/5_LA_TRAQUE_hq_fr.mp3",
+      "duree": 1049
     },
     {
       "titre": "Un micro à la DGSE : La folle routine (4/6)",
-      "date": "2026-10-26"
+      "date": "2026-10-26",
+      "audio": "https://flex2.acast.com/s/profils/u/cdn.arteradio.com/permanent/arteradio/sites/default/files/4_LA_FOLLE_ROUTINE_hq_fr.mp3",
+      "duree": 1053
     },
     {
       "titre": "Un micro à la DGSE : Le risque (3/6)",
-      "date": "2026-10-26"
+      "date": "2026-10-26",
+      "audio": "https://flex2.acast.com/s/profils/u/cdn.arteradio.com/permanent/arteradio/sites/default/files/3_LE_RISQUE_hq_fr.mp3",
+      "duree": 1134
     }
   ],
   "derniere_activite": "2026-11-05",

@@ -18,6 +18,7 @@ _sys_charte.path.insert(0, str(Path(__file__).parent))
 from charte import appliquer as charte_appliquer  # noqa: E402  en-tete/pied uniques
 from independance import INFOBULLE as INDEP_INFOBULLE, est_independant, libelle as indep_libelle  # noqa: E402
 from urllib.parse import quote
+import ecoute  # noqa: E402  lecteur du site (boutons Ecouter / + Ma liste)
 from desirs import section as desirs_section  # noqa: E402  categorie « Désirs & intimité »
 
 # ─── Chemins ──────────────────────────────────────────────────────────────────
@@ -536,14 +537,21 @@ def bloc_episodes(data):
             meta.append("dernier contenu le %s" % j.strftime("%d/%m/%Y"))
         except ValueError:
             pass
-    lignes = "".join(
-        '<li><span class="ep-date">%s</span>%s</li>'
-        % (h(e.get("date") or ""), h(e.get("titre") or ""))
-        for e in eps)
+    # Lecteur du site (21/11/2026) : boutons « Ecouter / + Ma liste » sur
+    # chaque episode lisible ; script charge seulement si la fiche en a un.
+    lisibles = []
+    lignes = ""
+    for e in eps:
+        el = ecoute.element(e, data.get("title"), f"/fiches/{data.get('slug')}.html", data.get("image"))
+        if el:
+            lisibles.append(el)
+        lignes += ('<li><span class="ep-date">%s</span><span class="ep-titre">%s</span>%s</li>'
+                   % (h(e.get("date") or ""), h(e.get("titre") or ""), ecoute.boutons(el) if el else ""))
     liste = '<ul class="ep-list">%s</ul>' % lignes if lignes else ""
     intro = '<p>%s.</p>' % h(" — ".join(meta)) if meta else ""
-    return ('  <div class="card"><h2>Derniers contenus publiés</h2>%s%s</div>'
-            % (intro, liste))
+    lecteur = (ecoute.donnees(lisibles) + ecoute.SCRIPT) if lisibles else ""
+    return ('  <div class="card"><h2>Derniers contenus publiés</h2>%s%s%s</div>'
+            % (intro, liste, lecteur))
 
 
 def bloc_presse(data):

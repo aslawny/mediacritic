@@ -27,23 +27,33 @@
   "episodes_recents": [
     {
       "titre": "ATG #99 On parle Photo et Vidéo",
-      "date": "2021-11-01"
+      "date": "2021-11-01",
+      "audio": "http://podcast.agencetousgeeks.com/atg_mission_99.mp3",
+      "duree": 6720
     },
     {
       "titre": "ATG Express #5 Les Projets de Post Carbone",
-      "date": "2020-03-07"
+      "date": "2020-03-07",
+      "audio": "http://podcast.agencetousgeeks.com/atg_express_05.m4a",
+      "duree": 5640
     },
     {
       "titre": "ATG#98 : On retourne sur l'Île aux Enfants",
-      "date": "2019-11-04"
+      "date": "2019-11-04",
+      "audio": "http://podcast.agencetousgeeks.com/atg_mission_98.m4a",
+      "duree": 6180
     },
     {
       "titre": "ATG#97 : Expérience Microsoft",
-      "date": "2019-10-28"
+      "date": "2019-10-28",
+      "audio": "http://podcast.agencetousgeeks.com/atg_mission_97.m4a",
+      "duree": 6960
     },
     {
       "titre": "ATG#96 : La Rentrée Perdue",
-      "date": "2019-10-20"
+      "date": "2019-10-20",
+      "audio": "http://podcast.agencetousgeeks.com/atg_mission_96.m4a",
+      "duree": 7620
     }
   ],
   "derniere_activite": "2021-11-01",

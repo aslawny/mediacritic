@@ -52,26 +52,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "Balado à la Cinémathèque de Montagne 2",
+      "date": "2026-11-19",
+      "audio": "https://sphinx.acast.com/p/open/s/62063a74b5f15c0013c076dc/e/6ae63813497ef148b86d7764/media.mp3",
+      "duree": 1291
+    },
+    {
+      "titre": "Balado à la Cinémathèque de Montagne",
+      "date": "2026-11-18",
+      "audio": "https://sphinx.acast.com/p/open/s/62063a74b5f15c0013c076dc/e/6ae63724339f23a726f7f363/media.mp3",
+      "duree": 1228
+    },
+    {
       "titre": "12 novembre 2026",
-      "date": "2026-11-12"
+      "date": "2026-11-12",
+      "audio": "https://sphinx.acast.com/p/open/s/62063a74b5f15c0013c076dc/e/6aed0b493be80be7f3def711/media.mp3",
+      "duree": 1340
     },
     {
       "titre": "11 novembre 2026",
-      "date": "2026-11-11"
+      "date": "2026-11-11",
+      "audio": "https://sphinx.acast.com/p/open/s/62063a74b5f15c0013c076dc/e/6aed0a3a3be80be7f3de9e24/media.mp3",
+      "duree": 1340
     },
     {
       "titre": "Les états généreux de la bioéthique",
-      "date": "2026-11-04"
-    },
-    {
-      "titre": "Véronique et Patrick au Vatican",
-      "date": "2026-10-28"
-    },
-    {
-      "titre": "La Salle du Trésor",
-      "date": "2026-10-21"
+      "date": "2026-11-04",
+      "audio": "https://sphinx.acast.com/p/open/s/62063a74b5f15c0013c076dc/e/6ad13ab937f0bd18cc7010e1/media.mp3",
+      "duree": 1265
     }
   ],
-  "derniere_activite": "2026-11-12",
-  "frequence_jours": 3
+  "derniere_activite": "2026-11-19",
+  "frequence_jours": 6
 }

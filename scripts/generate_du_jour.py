@@ -31,6 +31,7 @@ from datetime import date, timedelta
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
+import ecoute  # noqa: E402  lecteur du site
 from charte import appliquer as charte_appliquer  # noqa: E402
 from badges import code_badge  # noqa: E402
 
@@ -87,10 +88,26 @@ def sections_html(c):
     return f'<div class="mcj-raisons"><p class="mcj-raisons-t">Pourquoi ce choix</p>{blocs}</div>'
 
 
+def element_ecoute(c):
+    """Episode du jour lisible dans le lecteur du site (21/11/2026), ou None.
+    Jour d'episode MediaCritic : le lien est notre critique, pas un episode."""
+    if c.get("mode") == "episode":
+        return None
+    ep = c.get("episode") or {}
+    try:
+        f = json.loads((ROOT / "data" / "content" / f"{c['slug']}.json").read_text(encoding="utf-8-sig"))
+    except Exception:
+        f = {"slug": c["slug"]}
+    return ecoute.element_episode(f, ep.get("titre"), ep.get("url"), c.get("titre"), cover(c.get("image")))
+
+
 def carte(c, prefixe="", titre_tag="h2", lien_archive=True):
     """Le bloc mis en avant (accueil et haut de l'archive)."""
     ep = c.get("episode") or {}
     boutons = []
+    lecteur = element_ecoute(c)
+    if lecteur:
+        boutons.append(ecoute.boutons(lecteur, libelle=True))
     if ep.get("url"):
         lib = "▶ Voir la vidéo" if c.get("type") == "youtube" else "▶ Écouter l'épisode"
         if c.get("mode") == "episode":
@@ -114,7 +131,8 @@ def carte(c, prefixe="", titre_tag="h2", lien_archive=True):
         f'<p class="mcj-labels">{label_indep(c, prefixe)}{note}</p>'
         + (sections_html(c) if c.get("sections") else f'<p class="mcj-pourquoi">{h(c["pourquoi"])}</p>')
         + f'<div class="mcj-actions">{"".join(boutons)}</div>'
-        f'</div></article>')
+        + ((ecoute.donnees([lecteur]) + ecoute.SCRIPT) if lecteur else "")
+        + f'</div></article>')
 
 
 # --------------------------------------------------------------------------

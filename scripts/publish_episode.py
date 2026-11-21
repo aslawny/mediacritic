@@ -61,6 +61,8 @@ REGENERATEURS = [
     "scripts/patch_indep_episodes.py",   # label « Podcast indépendant » en tete
     "scripts/generate_du_jour.py",       # podcast du jour : accueil, archive, kit
     "scripts/generate_mystere.py",       # Le Mystere du Jour (derive du podcast du jour)
+    "scripts/patch_ecoute_episodes.py",  # lecteur du site sur nos pages episodes
+    "scripts/generate_ecouter.py",       # page « Ma liste d'ecoute »
     "scripts/generate_badges.py",        # badges des editeurs (vague 2 SEO)
     "scripts/generate_youtube.py",       # annuaire des chaines YouTube
     "scripts/patch_partage_global.py",   # bouton « Partager » en tete de page

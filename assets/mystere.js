@@ -212,6 +212,14 @@
       bPartage,
       el('a', { classe: 'mys-btn', href: 'podcast-du-jour.html', texte: '🎧 Écouter le podcast du jour' }),
       el('a', { classe: 'mys-btn', href: r.fiche, texte: 'Voir sa fiche' })]));
+    // Lecteur du site : l'episode du jour dans « Ma liste d'ecoute ».
+    if (r.ecoute && window.MCListe) {
+      var bAjout = el('button', { type: 'button', classe: 'mys-btn', texte: '+ Ajouter l\'épisode à ma liste' });
+      bAjout.addEventListener('click', function () {
+        bAjout.textContent = window.MCListe.ajouter(r.ecoute) === 'deja' ? 'Déjà dans ta liste' : 'Ajouté à ta liste ✓';
+      });
+      sec.querySelector('.mys-actions').appendChild(bAjout);
+    }
     sec.appendChild(retour);
     sec.hidden = false;
     lecteursCharges = true;

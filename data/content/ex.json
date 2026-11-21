@@ -30,27 +30,37 @@
   "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
+      "titre": "L’inconnu du téléphone",
+      "date": "2026-11-20",
+      "audio": "https://sphinx.acast.com/p/open/s/5e6a404cd22bfc26784b114c/e/6afca0972cc43798856a6a5d/media.mp3",
+      "duree": 1934
+    },
+    {
+      "titre": "TEASER, vendredi dans EX… \"L’inconnu du téléphone \"",
+      "date": "2026-11-18",
+      "audio": "https://sphinx.acast.com/p/open/s/5e6a404cd22bfc26784b114c/e/6afca0ee2cc43798856a6a5e/media.mp3",
+      "duree": 100
+    },
+    {
+      "titre": "L’hommage",
+      "date": "2026-11-17",
+      "audio": "https://sphinx.acast.com/p/open/s/5e6a404cd22bfc26784b114c/e/6a478522fa75587ada68f83d/media.mp3",
+      "duree": 2344
+    },
+    {
       "titre": "Le 13",
-      "date": "2026-11-13"
+      "date": "2026-11-13",
+      "audio": "https://sphinx.acast.com/p/open/s/5e6a404cd22bfc26784b114c/e/6af36984fac841e7f1d55e29/media.mp3",
+      "duree": 1724
     },
     {
       "titre": "TEASER, vendredi dans EX… \"Le 13\"",
-      "date": "2026-11-11"
-    },
-    {
-      "titre": "S’engager",
-      "date": "2026-11-10"
-    },
-    {
-      "titre": "L’épopée",
-      "date": "2026-11-06"
-    },
-    {
-      "titre": "TEASER, vendredi dans EX… \"L’épopée\"",
-      "date": "2026-11-04"
+      "date": "2026-11-11",
+      "audio": "https://sphinx.acast.com/p/open/s/5e6a404cd22bfc26784b114c/e/6af369acfac841e7f1d55e2a/media.mp3",
+      "duree": 89
     }
   ],
-  "derniere_activite": "2026-11-13",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 2,
   "avis_publics": {
     "source": "apple",

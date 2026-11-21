@@ -41,14 +41,21 @@ CSP = ("default-src 'self'; "
        "frame-src 'none'; object-src 'none'; base-uri 'self'; form-action 'self' mailto:; "
        "upgrade-insecure-requests")
 CSP_META = '<meta http-equiv="Content-Security-Policy" content="%s" />' % CSP
-# Variante « lecteurs » : SEULE difference, frame-src autorise les lecteurs
-# OFFICIELS des plateformes (Le Mystere du Jour, 21/11/2026). Posee sur toute
-# page portant MARQUEUR_LECTEURS ; ci_validate verifie exactement celle-ci.
+# Variante « lecteurs » (21/11/2026) : Le Mystere du Jour et le lecteur du
+# site (/ecouter). Differences, et SEULEMENT celles-ci : frame-src autorise les
+# lecteurs OFFICIELS des plateformes ; media-src l'audio publie par les
+# podcasteurs chez leur hebergeur (https) ; script-src le script officiel de
+# pilotage du lecteur YouTube. Posee sur toute page portant MARQUEUR_LECTEURS ;
+# ci_validate verifie exactement celle-ci.
 MARQUEUR_LECTEURS = "<!-- mc-lecteurs -->"
 CSP_LECTEURS = CSP.replace(
     "frame-src 'none'",
     "frame-src https://open.spotify.com https://embed.podcasts.apple.com "
-    "https://widget.deezer.com https://www.youtube-nocookie.com")
+    "https://widget.deezer.com https://www.youtube-nocookie.com https://www.youtube.com; "
+    "media-src 'self' https:").replace(
+    "https://cdn.jsdelivr.net; ",
+    "https://cdn.jsdelivr.net https://www.youtube.com; ")
+assert CSP_LECTEURS.count("media-src") == 1 and "cdn.jsdelivr.net https://www.youtube.com" in CSP_LECTEURS
 CSP_META_LECTEURS = '<meta http-equiv="Content-Security-Policy" content="%s" />' % CSP_LECTEURS
 DEBUT_H, FIN_H = "<!-- mc-header -->", "<!-- /mc-header -->"
 DEBUT_F, FIN_F = "<!-- mc-footer -->", "<!-- /mc-footer -->"

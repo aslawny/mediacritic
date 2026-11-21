@@ -385,6 +385,15 @@ def construire(c, info, corr):
         "fiche": f"fiches/{c['slug']}.html",
         "avis": avis,
     }
+    if c.get("mode") != "episode":
+        try:
+            import ecoute
+            el = ecoute.element_episode(f or {"slug": c["slug"]}, (c.get("episode") or {}).get("titre"),
+                                        (c.get("episode") or {}).get("url"), c["titre"], rev["image"])
+            if el:
+                rev["ecoute"] = el
+        except Exception:
+            pass
     n = (date.fromisoformat(c["date"]) - LANCEMENT).days + 1
     charge = {"n": n, "r": [empreinte(a) for a in alias(c["titre"])],
               "indices": ind, "rev": rev}
@@ -494,6 +503,7 @@ def page():
 <script async src="https://www.googletagmanager.com/gtag/js?id={GA}"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments);}}gtag('js',new Date());gtag('config','{GA}');</script>
 <script defer src="/assets/mystere.js"></script>
+<script defer src="/assets/liste.js"></script>
 <script defer src="/assets/partage.js"></script>
 </body>
 </html>"""

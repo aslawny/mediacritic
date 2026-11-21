@@ -30,27 +30,37 @@
   "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
+      "titre": "L'atelier secret du Père Noël",
+      "date": "2026-11-20",
+      "audio": "https://sphinx.acast.com/p/open/s/670d1795df4dd6f896655670/e/6b0006bf73381802b4d26605/media.mp3",
+      "duree": 551
+    },
+    {
+      "titre": "La demande de Tomy",
+      "date": "2026-11-17",
+      "audio": "https://sphinx.acast.com/p/open/s/670d1795df4dd6f896655670/e/6afb7fb11633e7cafb5840bb/media.mp3",
+      "duree": 150
+    },
+    {
       "titre": "La grande commande de la Nat",
-      "date": "2026-11-13"
+      "date": "2026-11-13",
+      "audio": "https://sphinx.acast.com/p/open/s/670d1795df4dd6f896655670/e/6af5f4f205dc66c15dae43e8/media.mp3",
+      "duree": 551
     },
     {
       "titre": "PART 2 - Le mot interdit",
-      "date": "2026-11-11"
+      "date": "2026-11-11",
+      "audio": "https://sphinx.acast.com/p/open/s/670d1795df4dd6f896655670/e/6af46b2b35f773631571bebe/media.mp3",
+      "duree": 649
     },
     {
       "titre": "PART 1 - Le mot interdit",
-      "date": "2026-11-11"
-    },
-    {
-      "titre": "La promenade en forêt",
-      "date": "2026-11-06"
-    },
-    {
-      "titre": "Un sacré dimanche de peur",
-      "date": "2026-10-30"
+      "date": "2026-11-11",
+      "audio": "https://sphinx.acast.com/p/open/s/670d1795df4dd6f896655670/e/6af46b0035f773631571ac1c/media.mp3",
+      "duree": 673
     }
   ],
-  "derniere_activite": "2026-11-13",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 2,
   "avis_publics": {
     "source": "apple",

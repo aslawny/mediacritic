@@ -55,6 +55,10 @@ INTERVALLE_TETE = 7       # tete + emissions critiquees
 INTERVALLE_ACTIF = 14     # un episode depuis moins de 60 jours
 INTERVALLE_AUTRE = 45
 INTERVALLE_DORMANT = 90   # rien depuis plus d'un an
+# Changement de format : toute fiche lue AVANT cette date est a relire une
+# fois, quel que soit son intervalle (21/11/2026 : adresse audio et video des
+# episodes, pour le lecteur du site). Changer la date = nouvelle passe complete.
+FORMAT_DEPUIS = "2026-11-21"
 
 
 def _texte(x):
@@ -67,8 +71,18 @@ def _texte(x):
 
 def _lire(url, ko=140, timeout=25):
     req = urllib.request.Request(url, headers={**UA, "Range": "bytes=0-%d" % (ko * 1024)})
-    with urllib.request.urlopen(req, timeout=timeout) as r:
-        brut = r.read(ko * 1024 + 1)
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            brut = r.read(ko * 1024 + 1)
+    except Exception:
+        # Repli curl : le Python de la machine locale echoue sur les
+        # certificats HTTPS (chez GitHub, urllib suffit).
+        import subprocess
+        rr = subprocess.run(["curl", "-sL", "--compressed", "-m", str(timeout), "-A", UA["User-Agent"],
+                             "-r", "0-%d" % (ko * 1024), url], capture_output=True, timeout=timeout + 10)
+        if rr.returncode != 0 or not rr.stdout:
+            raise
+        brut = rr.stdout
     # YouTube repond en gzip a une requete Range, meme sans Accept-Encoding :
     # sans cette ligne, le flux est illisible et paraissait vide (08/11/2026).
     # decompressobj tolere un flux tronque par le Range.
@@ -108,10 +122,36 @@ def episodes_podcast(feed_url):
             except Exception:
                 dt = None
         if titre:
-            eps.append({"titre": titre, "date": dt.date().isoformat() if dt else None})
+            ep = {"titre": titre, "date": dt.date().isoformat() if dt else None}
+            # Lecteur du site (21/11/2026) : fichier audio PUBLIE par le
+            # podcasteur dans son flux (jamais copie chez nous) + duree.
+            enc = re.search(r"<enclosure\b[^>]*\burl=[\"']([^\"']+)[\"'][^>]*>", it)
+            typ = re.search(r"\btype=[\"']([^\"']+)", enc.group(0)) if enc else None
+            if enc and (not typ or typ.group(1).startswith("audio")):
+                audio = _html.unescape(enc.group(1)).strip()
+                if audio.startswith("http"):
+                    ep["audio"] = audio
+                    du = re.search(r"<itunes:duration>(.*?)</itunes:duration>", it, re.S)
+                    sec = _secondes(du.group(1)) if du else None
+                    if sec:
+                        ep["duree"] = sec
+            eps.append(ep)
         if dt:
             dates.append(dt)
     return _synthese(eps, dates)
+
+
+def _secondes(v):
+    """'01:03:01' | '55:23' | '3781' -> secondes, ou None."""
+    v = _texte(v)
+    try:
+        if ":" in v:
+            p = [int(x) for x in v.split(":")]
+            return p[0] * 3600 + p[1] * 60 + p[2] if len(p) == 3 else p[0] * 60 + p[1]
+        n = int(float(v))
+        return n if n > 0 else None
+    except Exception:
+        return None
 
 
 def episodes_youtube(channel_id):
@@ -121,6 +161,7 @@ def episodes_youtube(channel_id):
     for e in re.findall(r"<entry>(.*?)</entry>", x, re.S)[:12]:
         t = re.search(r"<media:title>(.*?)</media:title>", e, re.S)
         d = re.search(r"<published>(.*?)</published>", e)
+        v = re.search(r"<yt:videoId>([\w-]{11})</yt:videoId>", e)
         titre = _texte(t.group(1))[:110] if t else None
         dt = None
         if d:
@@ -129,7 +170,10 @@ def episodes_youtube(channel_id):
             except Exception:
                 dt = None
         if titre:
-            eps.append({"titre": titre, "date": dt.date().isoformat() if dt else None})
+            ep = {"titre": titre, "date": dt.date().isoformat() if dt else None}
+            if v:
+                ep["video"] = v.group(1)     # lecteur officiel YouTube (lecteur du site)
+            eps.append(ep)
         if dt:
             dates.append(dt)
     return _synthese(eps, dates)
@@ -191,7 +235,7 @@ def enrich(limit=300, dry_run=False):
             continue
         lue = marque[3:] if marque.startswith("ok:") else ""
         limite = (aujourdhui - timedelta(days=intervalle(d, tete, aujourdhui))).isoformat()
-        if lue <= limite:
+        if lue <= limite or lue < FORMAT_DEPUIS:
             # Les plus en retard d'abord ; a retard egal, les plus suivies.
             dues.append((lue, -audience(d), path, d, cid, tid))
     # Tete et emissions critiquees d'abord : ce sont les fiches les plus vues.
