@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2025-06-01",
-  "frequence_jours": 32
+  "frequence_jours": 32,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lucasdbdm",
+        "titre": "Lance toi, tu vas être surpris ! Banger",
+        "texte": "Cherchant un podcast sur le lac du der pour ma grand mère (elle est fan de lac et je lui en ai déjà offert un sur celui du Satif) je suis tombé sur cette série incroyable parlant des 5 Der.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Lorraine.brt",
+        "titre": "Hilarant",
+        "texte": "Podcast au top, où absurdité, génie comique et autres jeux de mots toujours fins et subtils (non) s’entremêlent. En revanche je l’écoute le soir quand mon chéri dort, du coup ça le réveille et il se demande pourquoi je ris comme une mouette toute seule.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Raphaelrc78",
+        "titre": "A écouter !",
+        "texte": "Excellent podcast si on adhère à l’absurde, aux jeux de mots sans vergogne et au bavardage entre amis. Un petit air de feu Fruits de la station."
+      }
+    ]
+  }
 }

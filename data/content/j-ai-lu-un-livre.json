@@ -51,25 +51,29 @@
   "derniere_activite": "2026-07-02",
   "frequence_jours": 33,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-22",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "@GT3RS",
+        "titre": "Excellent",
+        "texte": "Je vous connaissais sur YouTube, mais c’est vraiment un plaisir de vous retrouver sur Apple Podcast !"
+      },
+      {
+        "note": 1,
+        "auteur": "Sambot87",
+        "titre": "Une épistémologie d’extrême-droite",
+        "texte": "À classer dans la catégorie « propagande ». Déceptif pour qui souhaite comprendre un point de vue dit « de droite », l’argumentaire systématisé étant que les « gauchistes racontent n’importe quoi »… on ne saura pas vraiment ce « qu’ils » disent ni quel est l’argumentaire qui leur…"
+      },
+      {
+        "note": 5,
+        "auteur": "soleil du chariot",
+        "titre": "Une qualité exceptionnelle",
+        "texte": "Merci pour ce travail remarquable et cette intelligibilité sur chaque podcast."
+      }
     ]
   }
 }

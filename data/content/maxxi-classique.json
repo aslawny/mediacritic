@@ -26,25 +26,29 @@
   "addedAt": "2026-05-16",
   "updatedAt": "2026-11-19",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-22",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Culture Tours",
+        "titre": "Didactique",
+        "texte": "Max nous rends clair et évident les liens discrets ou triviaux qui se cachent dans toutes les musiques. Merci beaucoup pour votre savoir mis à la portée de tous qui permet d’aller écouter d’autres musiques avec celles que nous aimons."
+      },
+      {
+        "note": 3,
+        "auteur": "Danielflorian",
+        "titre": "J’enlève une étoile",
+        "texte": "Grâce à Max, j’améliore mon français et découvre scénarimage pour storyboard."
+      },
+      {
+        "note": 5,
+        "auteur": "SegoPASroyal",
+        "titre": "Ne changez rien…",
+        "texte": "Juste peut-être la longueur des chroniques bien trop courtes…"
+      }
     ]
   }
 }

@@ -53,25 +53,29 @@
   "derniere_activite": "2026-11-04",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-22",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Laurence Mullenders",
+        "titre": "Bravo les Voix de la Photo !",
+        "texte": "Entretiens profonds, hyper instructifs pour tous les passionnés de la photo, pro ou amateurs ! Marine prend le temps d’aborder des aspects variés et cruciaux de la pratique de la photo et de sa commercialisation, ainsi que ses interlocuteurs.…"
+      },
+      {
+        "note": 5,
+        "auteur": "slampion",
+        "titre": "La voix",
+        "texte": "Ces émissions est très intéressantes par la variété des personnes interrogées. Bon nombre de personnes qui « podcastent » Négligent la qualité de la voix. Or ici les voix sont toujours agréable à entendre. Merci."
+      },
+      {
+        "note": 5,
+        "auteur": "FAirvolt",
+        "titre": "Merci pour ce contenu riche",
+        "texte": "J’apprécie beaucoup de découvrir des métiers que je ne soupçonnais pas derrière la photographie, et de voir que cela dépasse maintenant les 50 épisodes ! Que cela dure le plus longtemps possible !"
+      }
     ]
   }
 }

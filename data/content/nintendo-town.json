@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-08-31",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "juju_05000",
+        "titre": "Le meilleur de l’actualité Nintendo",
+        "texte": "Merci pour vos émissions avec de beaux invités, débats et interviews. Un RDV incontournable chaque semaine pour tout connaître de l’actualité Nintendo !"
+      },
+      {
+        "note": 1,
+        "auteur": "Nono🫵😂",
+        "titre": "****+*",
+        "texte": "Nul les manettes de switch c nul J’an est acheté 2 jour plus tard elle beugu Je jouer à fifa et j’ai fais menu pour mon équipe j’ai rien touché et ça a sélectionné Quitté le tournoi…. Je vais porter plainte 🤬🤬🤬🤬🤬🤬*****"
+      },
+      {
+        "note": 5,
+        "auteur": "Parconico",
+        "titre": "Un tres bon contenu",
+        "texte": "Du bon contenu sur l'actu de la Nintendo Switch et jeux video en general"
+      }
+    ]
+  }
 }

@@ -51,25 +51,29 @@
   "derniere_activite": "2026-03-18",
   "frequence_jours": 9,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-22",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ROMUALDELPHENOR",
+        "titre": "Félicitations et encouragements",
+        "texte": "Hey, Je m'appelle Romuald alias Roro je suis un jeune guadeloupéen et je vis a paris ! Je perds du coup en chaleur humaine !! Mais je pense avoir retrouvé par tes podcasts la force de me remettre en question et orienter mes projets professionnels dans une optique qualitative et h…"
+      },
+      {
+        "note": 5,
+        "auteur": "Lelemademoiselle",
+        "titre": "A écouter sans modération!",
+        "texte": "Très très bon podcast que je viens de découvrir aujourd’hui. elle explique vraiment des concepts qui méritent d’être entendus par tous les entrepreneurs et si possible avant de commencer leur business.…"
+      },
+      {
+        "note": 5,
+        "auteur": "drey_beaute",
+        "titre": "Le syndrome de l’inposteur",
+        "texte": "Super podcast, concis et enrichissant. À chaque épisode je suis sûre d’apprendre et de pouvoir mettre en pratique rapidement une nouvelle chose. Vue que le format n’est pas trop long on l’écoute puis on l’écoute à nouveau. Un de mes podcast chouchou du moment."
+      }
     ]
   }
 }

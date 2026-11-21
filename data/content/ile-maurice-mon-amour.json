@@ -52,25 +52,29 @@
   "derniere_activite": "2024-06-20",
   "frequence_jours": 13,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-22",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "les norrent fontois",
+        "titre": "Île Maurice mon amour",
+        "texte": "Très bon reportage sur l’île Maurice Qui donne envie de la visiter pour découvrir ces merveilles et la gentillesse de ses habitants. À ceux qui ne la connaissent pas,faites en vos prochaines vacances.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Nico Gunner",
+        "titre": "Bon voyage!",
+        "texte": "Une belle découverte! un beau témoignage, on s’y croirait. Intéressant, touchant, donne envie de partir à la rencontre des mauriciens, un vrai voyage sonore. Merci pour cette belle pause. Très belle réalisation par ailleurs!"
+      },
+      {
+        "note": 5,
+        "auteur": "Nanardo 13",
+        "titre": "Une évasion depuis le métro",
+        "texte": "Un bel entretien d’un Mauricien qui ouvre la porte de sa vie et qui sait partager ses envies, ses aspirations au fil de sa vie. Un beau moment avec plein d’humanité. Vivement le prochain entretien!"
+      }
     ]
   }
 }

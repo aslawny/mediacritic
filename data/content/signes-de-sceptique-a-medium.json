@@ -53,25 +53,29 @@
   "derniere_activite": "2026-11-04",
   "frequence_jours": 35,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-22",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mylpul",
+        "titre": "Touchant …",
+        "texte": "Je vous ai découverte dans votre témoignage sur le podcast « la petite voix » et j’ai été bouleversée tellement votre histoire ressemble à mon parcours.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Tewagui",
+        "titre": "Réconfortant",
+        "texte": "Tombée par le « plus grand hasard » sur une pub insta, je suis venue écouter avec beaucoup d’attention ce podcast de qualité ! La voix de Sylvie est d’une douceur enveloppante et les témoignages ainsi que les recherches sont d’une grande qualité …"
+      },
+      {
+        "note": 5,
+        "auteur": "adlh51",
+        "titre": "Merci 🙏",
+        "texte": "J’ai écouté ce podcast avec beaucoup d’attention et j’en ressors profondément touché(e). La sincérité, l’authenticité et la simplicité avec lesquelles Sylvie parle de sa médiumnité rendent son témoignage particulièrement inspirant.…"
+      }
     ]
   }
 }

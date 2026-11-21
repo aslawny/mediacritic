@@ -52,25 +52,29 @@
   "derniere_activite": "2025-10-28",
   "frequence_jours": 10,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-22",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Born-To-Shine-Coach",
+        "titre": "Inspirant !",
+        "texte": "Bravo pour ce podcast que j’ai découvert cet été. J’adore le concept !!! Je suis pas sure d’être tout à fait la cible. J’ai cru que cela s’adressait d’avantage à ceux qui voulait se lancer dans l’entrepreunariat engagé.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Caroline Dunod",
+        "titre": "Inspirant pour tous ceux qui se posent des questions sur comment construire leur vie d’après",
+        "texte": "J’ai écouté le premier épisode en me disant que peut être, c’était encore un podcast sur l’ESS comme il en existe déjà des centaines, erreur ! Bravo Antoine pour la variété des gens qui interviennent dans ces podcasts, c’est inspirant à la fois pour agir à son échelle au quotidie…"
+      },
+      {
+        "note": 5,
+        "auteur": "Loo04",
+        "titre": "Très intéressant !",
+        "texte": "J’avais une petite appréhension au début car ce n’est pas un sujet qui m’intéresse et pourtant grâce aux podcasts de « demain et durable » j’ai réussi progressivement a m’intéresser et maintenant je les écoute régulièrement. Les conseils des invités m’aide au quotidien.…"
+      }
     ]
   }
 }

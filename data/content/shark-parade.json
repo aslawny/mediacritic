@@ -51,25 +51,29 @@
   "derniere_activite": "2026-04-27",
   "frequence_jours": 58,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-22",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "sharkside",
+        "titre": "Incontournable 19,9/20",
+        "texte": "Les 'sharKmovies' c'est comme un Burger. Parfois froid, tiède ou chaud, dégueu ou pas trop mauvais selon la cuisine, rarement bon.. Ca dépend des jours et des circonstances, des envies.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Erzsy",
+        "titre": "Enfin ! Edit",
+        "texte": "Enfin un podcast sur les films de requins. Après un premier épisode réjouissant, j’attends avec impatience les prochains. Merci pour cette somptueuse idée ! Bien des mois plus tard, le plaisir d’écoute est toujours au rendez-vous …"
+      },
+      {
+        "note": 5,
+        "auteur": "MonsieurU",
+        "titre": "Rico vs les requins",
+        "texte": "Le professeur Rico de Nanarland partage sa passion, parfois douloureuse, pour les films de requins. Amateurs de curiosité, de bisseries nanardesques ou d’authentiques chefs d’œuvre, un podcast indispensable sans fioritures mais riche d’extraits originaux ! Merci Rico !"
+      }
     ]
   }
 }

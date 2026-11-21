@@ -49,5 +49,19 @@
     }
   ],
   "derniere_activite": "2026-10-05",
-  "frequence_jours": 23
+  "frequence_jours": 23,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "MickyBLTpowaa",
+        "titre": "Toujours un plaisir",
+        "texte": "Des interviews à chaque fois sans langue de bois, avec l’argent en trame de fond. Très cool !"
+      }
+    ]
+  }
 }

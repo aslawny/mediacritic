@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-11-10",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ismlr",
+        "titre": "Chouette la reprise !!!!",
+        "texte": "Dr Curtay Quelle joie et quelle chance de pouvoir profiter de votre partage si précieux , j’attendais cette nouvelle saison avec impatience ! et évidemment merci à Nutriradio pour ces émissions de qualité qui me font dire tous les jours que le monde de la médecine n’est pas si fe…"
+      },
+      {
+        "note": 5,
+        "auteur": "Olianne42",
+        "titre": "Instructifs mais aussi plaisants à écouter",
+        "texte": "Merci docteur Curtay pour ces podcasts scientifiques, clairs , pratiques et instructifs. La santé est notre bien le plus précieux et vous nous aidez concrètement à la préserver voire l’améliorer !"
+      },
+      {
+        "note": 5,
+        "auteur": "naturo.joliepeau",
+        "titre": "J’adore vous écouter",
+        "texte": "Je suis naturopathe très intéressé par les micronutriment et j’adore vous écouter. J’apprends beaucoup de choses celà est très enrichissant"
+      }
+    ]
+  }
 }

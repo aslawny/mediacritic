@@ -52,25 +52,29 @@
   "derniere_activite": "2024-12-30",
   "frequence_jours": 20,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-22",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Evadoune",
+        "titre": "Super !",
+        "texte": "J’ai débarqué depuis le compte insta L’aventure Nomade, et j’adore le podcast, des épisodes vrais, très bien faits et avec du fond. En particulier l’épisode 7 avec Brubru sur le digital Nomadisme, sans langue de bois, sans paillettes. Merci et bonne continuation !"
+      },
+      {
+        "note": 5,
+        "auteur": "Mike Khemara",
+        "titre": "Sharing is caring",
+        "texte": "Je t’ai découvert sur Instagram ! J’ai adoré l’idée d’interviewer les différents backpackers. Tes épisodes sont d’une grande qualité ! Merci pour le partage. Bon voyage !"
+      },
+      {
+        "note": 5,
+        "auteur": "Lalaulaq",
+        "titre": "Exceptionnel",
+        "texte": "L’épisode 2 m’a transpercé vraiment… j’aurai pu noter chacune des phrases que j’entendais. Merci à toi pour ce taff de dingue, j’adore ton insta également"
+      }
     ]
   }
 }

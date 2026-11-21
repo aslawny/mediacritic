@@ -51,25 +51,29 @@
   "derniere_activite": "2020-07-10",
   "frequence_jours": 31,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-22",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Stereolab",
+        "titre": "Sans tabous ni détours",
+        "texte": "“Les Artichauts” ne se perdent pas en chemin, on entre dans le vif du sujet et de la conversation illico, sans tabous ni détours. C'est riche et foisonnant, on se sent plus intelligent à la fin qu'au début : bref, on ne perd pas son temps !"
+      },
+      {
+        "note": 3,
+        "auteur": "Midiiiiiiia",
+        "titre": "Très intéressant mais très héteronormé",
+        "texte": "Pourquoi si peu d’inclusivité ?! Je suis au deuxième épisode, ça m’intéresse beaucoup et je prends beaucoup de plaisir à écouter alors merci mais quand j’entends dans le second épisodes « je n’ai rien contre les autres genres... » arfffff dommage !!"
+      },
+      {
+        "note": 5,
+        "auteur": "nathalieeva",
+        "titre": "Bettina Lioret et Esther Perel",
+        "texte": "Duo féminin de choc qui aborde sans retenue les questions fondamentales liées à l’amour et au désir, à l’essence même de la vie. Merci pour ce partage ! Hâte d’écouter les prochains podcasts."
+      }
     ]
   }
 }

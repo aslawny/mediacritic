@@ -51,25 +51,23 @@
   "derniere_activite": "2026-01-27",
   "frequence_jours": 165,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-22",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "NawelNwl",
+        "titre": "Salam Aleykoum",
+        "texte": "Magnifique podcast que je viens de découvrir j’espère que tu continuera ma sœur qu’Allah te préserve j’attend la suite 😊 inchallah ❤️"
+      },
+      {
+        "note": 5,
+        "auteur": "Wij.j",
+        "titre": "Magnifique",
+        "texte": "Une pépite ✨ du miel pour les oreilles et du baume pour le cœur 🤍"
+      }
     ]
   }
 }

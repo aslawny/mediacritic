@@ -25,25 +25,29 @@
   "addedAt": "2026-10-20",
   "updatedAt": "2026-11-19",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-22",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "samcasey3157",
+        "titre": "DAMN!!!!!!!!!!!!",
+        "texte": "Du lourd, du frais et du old!! Au Top les mecs ! A quand un special 1995-2005 avec tous les top tracks de l'epoque ! Merci pour la seule emission de la bande Fm qui dechire tout!!"
+      },
+      {
+        "note": 5,
+        "auteur": "M88N91",
+        "titre": "Extraordinaire !!!",
+        "texte": "Je ne mets pas souvent de commentaire, mais c une de mes émotions préférées sur Mouv. J'attend l'émission à chaque fois avec impatience !! L'écouter c l adopter :)"
+      },
+      {
+        "note": 5,
+        "auteur": "Merti92",
+        "titre": "Qualitatif à souhait",
+        "texte": "Un des rares podcast que j'écoute. Le mood est parfait, les choix de sons sont plus que pertinents et juste. On sent la maitrise. Merci à toute l'equipe."
+      }
     ]
   }
 }

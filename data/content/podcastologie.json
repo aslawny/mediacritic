@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2023-05-03",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "MC_Soleil",
+        "titre": "La bible audio du Podcast !",
+        "texte": "Décryptage des tendances podcasts pour notre plus grand plaisir ! De l’amour en passant par le rap et la food, les grandes tendances sociétales vues par le prisme de l’audio. A écouter pour découvrir de nouveaux podcasts et mieux comprendre ce phénomène."
+      },
+      {
+        "note": 5,
+        "auteur": "Le Mans 2019",
+        "titre": "Le format manquant",
+        "texte": "Telle la théorie de l’évolution, il manquait au monde du podcast un chaînon manquant : Podcastologie ! Un podcast qui parle du podcast game et qui nous fait découvrir de jolie pépites ! Continuez à construire ce joli totem !"
+      },
+      {
+        "note": 5,
+        "auteur": "StvnSchl8",
+        "titre": "Top!",
+        "texte": "Bien rythmé et très détaillé, un podcast qui parle de podcasts et qui personnellement m’a fait découvrir et aimer de nouveau podcasts! Le grand plus : il est diffusé en live sur Twitch aussi!"
+      }
+    ]
+  }
 }

@@ -51,25 +51,29 @@
   "derniere_activite": "2026-08-17",
   "frequence_jours": 6,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-22",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "YvesLe",
+        "titre": "Très bon podcast",
+        "texte": "Bonjour Adrien, Tu voulais des questions, en voilà: 1) Quelle est ta part de lectures fiction/non fiction ? 50/50 ou 60/40 ou 30/70 ou … 2) Tu as déjà fait entre autres une émssion sur Frankenstein, une autre sur Philip K Dick, une autre sur Carrie.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Simon2810",
+        "titre": "Merci Adrien",
+        "texte": "À l’instar de sa chaîne YouTube, ce podcast est génial. Je suis un lecteur débutant et je fais parfois des mauvais choix de livres. Adrien me donne envie de lire plus et surtout me permet de lire mieux ! (Et en plus le personnage est très sympathique)"
+      },
+      {
+        "note": 5,
+        "auteur": "Plouple",
+        "titre": "Passionnant",
+        "texte": "Tout comme vos vidéos YouTube, votre proposition ici est pertinente, inspirante et enrichissante. Merci pour ces moments de partage."
+      }
     ]
   }
 }

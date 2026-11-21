@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-11-06",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Spidey5617",
+        "titre": "Super Podcast",
+        "texte": "Un vrai coup de cœur ! Le Pitch était presque parfait est devenu un rendez-vous incontournable. Le concept est original, le rythme est excellent et chaque épisode est un plaisir à écouter.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Pavaiis",
+        "titre": "Très bonne ambiance et instructif",
+        "texte": "Un podcast bien sympa avec des films connus et d’autres que je ne connaissais pas. Ambiance détendue mais pas lourdingue, des avis intéressants et pas prétentieux. Avec les différents formats d’émission, il y en a pour tout le monde."
+      },
+      {
+        "note": 5,
+        "auteur": "Sacha-K",
+        "titre": "Découvertes",
+        "texte": "Après le calendrier de l’avent, j’ai continué et leur concept de février est vraiment sympa. J’ai plein de choses à voir maintenant ! Merci et je vais écouter les anciens épisodes. Je participe à votre concours sur l’amitié #Amitie"
+      }
+    ]
+  }
 }

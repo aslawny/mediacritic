@@ -50,25 +50,29 @@
   "derniere_activite": "2025-06-22",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-22",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "L’histoire est génial",
+        "titre": "Bien 👍🏼 mais",
+        "texte": "Je trouve que c’est très bien mais les histoires sont racontées un peu trop vite,il faudrait juste ajouter un peu plus d’épisode et je trouve que ce n’est pas très adapté pour les enfants de 6ans car certains mots sont compliqués et pas expliquer .…"
+      },
+      {
+        "note": 1,
+        "auteur": "Saperlipopette de croquette",
+        "titre": "IA",
+        "texte": "Insupportable à écouter…trop rapide..pas de nuance de voix…erreurs de prononciation…l’IA quoi !!! Il y a tellement de bons narrateurs…grosse déception pour moi"
+      },
+      {
+        "note": 5,
+        "auteur": "Ievinj",
+        "titre": "Très bonnes histoires éducatives",
+        "texte": "Et très bien racontées. Merci beaucoup aux créateurs pour ce contenu de qualité!"
+      }
     ]
   }
 }

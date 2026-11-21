@@ -53,25 +53,29 @@
   "derniere_activite": "2026-10-23",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-22",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tsé Yao Tsu",
+        "titre": "Continuez!",
+        "texte": "Enfin le podcast en hebdo! Continuez! Et n’hésitez pas à inviter des distributeurs mais aussi les scénaristes et réalisateurs. (Petite info technique, le son du podcast est très bas par rapport aux autres, vous pouvez encore pousser le master)"
+      },
+      {
+        "note": 5,
+        "auteur": "Yoann_O",
+        "titre": "Une référence !",
+        "texte": "Analyse très précise du marché, intervenants de qualité, remise en contexte des chiffres… un incontournable chaque semaine pour les professionnels du cinéma et ceux qui s’y intéressent."
+      },
+      {
+        "note": 5,
+        "auteur": "LeGeeeee",
+        "titre": "Continuez !",
+        "texte": "Très bon podcast, passionnant pour les professionnels concernant la distribution et l'exploitation, tout comme pour le grand public. Bravo !"
+      }
     ]
   }
 }

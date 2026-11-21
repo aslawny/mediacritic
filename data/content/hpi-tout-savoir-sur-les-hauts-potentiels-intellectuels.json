@@ -53,25 +53,29 @@
   "derniere_activite": "2026-11-03",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-22",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "martinfwy",
+        "titre": "C’est mieux quand on sait",
+        "texte": "Une description des hpi, zèbres et autres surdoués qui m’apporte beaucoup. J’ai accepté le diagnostic tardivement, à presque 60 ans. Je relis ma vie et lui trouve des profondeurs nouvelles et me construis un avenir dans l’accueil de mes particularités avec lesquelles j’ai appris…"
+      },
+      {
+        "note": 1,
+        "auteur": "Charlotte Gustave",
+        "titre": "Invalide scientifiquement",
+        "texte": "Quel dommage de participer à diffuser des informations scientifiquement invalidées depuis plusieurs années. Vous véhiculez des idées caricaturales qui ont eu le vent en poupe il y a 10 ans…"
+      },
+      {
+        "note": 5,
+        "auteur": "IsmaëlLecoin",
+        "titre": "Court et clair",
+        "texte": "Je ne sais pas si je suis HPI et je ne suis pas sûr que toutes les explications données concernent uniquement les profils HPI. Mais je les trouve très éclairantes sur mon fonctionnement et celui de certains des membres de mon entourage."
+      }
     ]
   }
 }

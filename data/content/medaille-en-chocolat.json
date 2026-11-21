@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-10-14",
-  "frequence_jours": 30
+  "frequence_jours": 30,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Fijette",
+        "titre": "De la bonne humeur et de l’authenticité !",
+        "texte": "Un podcast rempli de bonne humeur et de bons tuyaux ! Mais surtout, hyper vrai sur les difficultés qu’on peut rencontrer en tant qu’athlète amateur: sans faux semblant mais avec beaucoup de bienveillance ce podcast revient sur les petites victoires et les difficultés auxquelles o…"
+      },
+      {
+        "note": 5,
+        "auteur": "Turcopolo",
+        "titre": "Super podcast sur le sport",
+        "texte": "C’est très drôle et ça parle principalement de la pratique sportive des amateurs, ça manquait. Les présentateurs sont vraiment sympas. J’adore et j’attends les prochains épisodes avec impatience."
+      },
+      {
+        "note": 5,
+        "auteur": "peterpanacota",
+        "titre": "Super podcast",
+        "texte": "Très chouette. L’épisode sur l’HMDS est particulièrement cool."
+      }
+    ]
+  }
 }

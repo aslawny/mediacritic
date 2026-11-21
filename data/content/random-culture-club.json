@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2025-05-12",
-  "frequence_jours": 68
+  "frequence_jours": 68,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Spidey5617",
+        "titre": "J’adore le concept !😍",
+        "texte": "Un joyeux bazar autour d’un article wikipedia tiré au sort tel le concept de ce podcast de bande ! Super sympa ! A écouter 🔥🔥"
+      },
+      {
+        "note": 5,
+        "auteur": "Jo Pae",
+        "titre": "Random mais bien !",
+        "texte": "Concept sympa et intervenants très intéressants. On découvre des œuvres et on rigole bien. Merci."
+      },
+      {
+        "note": 5,
+        "auteur": "Xunkk",
+        "titre": "A écouter d’urgence ….",
+        "texte": "Comment se cultiver sans se prendre la tête et tout ça avec une équipe des plus préparées !!!"
+      }
+    ]
+  }
 }

@@ -53,25 +53,29 @@
   "derniere_activite": "2025-08-01",
   "frequence_jours": 6,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-22",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Boutaina S.",
+        "titre": "Prometteur",
+        "texte": "Thématiques intéressantes qui touchent à plusieurs domaines différents d’actualité. Un podcast prometteur surtout dans un environnement francophone qui a besoin d’apprentissage et progression."
+      },
+      {
+        "note": 5,
+        "auteur": "MarieScu",
+        "titre": "Top !!",
+        "texte": "C'est exactement ce que je cherchais comme podcast ! Je suis impatiente d'écouter les prochains épisodes 💪🏻"
+      },
+      {
+        "note": 5,
+        "auteur": "magnuy",
+        "titre": "Lancement du podcast",
+        "texte": "Je trouve ça vraiment intéressant, et j’ai hâte d’écouter ce qui va arriver ! Lourddddd !"
+      }
     ]
   }
 }

@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2020-09-01",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "fingarde0293",
+        "titre": "Vous êtes au top",
+        "texte": "Bravo les gars, vous êtes au top ! Je vous ai connu debut 2018 au travers d'Ars Moriendi. Premier épisode que j'écoute, vous parlez de vous jeunes, errant dans les allées du vidéo club, au rayon horreur, regardant chaque jaquette.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Stéphane A.",
+        "titre": "Francophone vos oreilles vont saigner.",
+        "texte": "Bon broadcast sur les films peu commerciaux. [SPOLIER ALERT] Seul bémol mais non piètre : le manque de vocabulaire, une totale ignorance de la grammaire, concordance des temps des animateurs. Niveau d’un enfant de 6 ans ; 7 s’il présente des retards d’apprentissages."
+      },
+      {
+        "note": 5,
+        "auteur": "Hangagud",
+        "titre": "Super Podcast",
+        "texte": "Salut Félicitation d'un cousin français (ex montréalais), fan de film d'horreur old school. Je viens de découvrir votre émission et j'écoute en boucle. Vraiment génial continuez comme ça. Bye Romain"
+      }
+    ]
+  }
 }

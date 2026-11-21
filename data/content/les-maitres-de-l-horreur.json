@@ -27,5 +27,31 @@
     "series"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19"
+  "updatedAt": "2026-11-19",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Floydus",
+        "titre": "Déjà culte",
+        "texte": "1 épisode et déjà culte ! Non je n’exagère pas. Pas mon style. Deux cinevores passionnants et passionnés qui parlent des maîtres de l’horreur, c’est à ne manquer sous aucun prétexte. Passionnant et de qualité. Alors vous aimez le cinéma d’horreur …"
+      },
+      {
+        "note": 5,
+        "auteur": "God Tsohg",
+        "titre": "Les Maîtres du Podcasthorror",
+        "texte": "Génial podcast aux épisodes, fouillés et complets, réalisés par deux passionnés pour d’autres passionnés ! Merci à Romain de Jumpscare ✌🏻"
+      },
+      {
+        "note": 5,
+        "auteur": "J’aime les chats #miaou#lol",
+        "titre": "J’aime beaucoup",
+        "texte": "J’adore follement les chats noirs 🐈‍⬛ surtout dans l’épisode qui parle du chat noir Miaou miaou miaou Hahahahaha"
+      }
+    ]
+  }
 }

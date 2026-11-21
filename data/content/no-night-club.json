@@ -50,25 +50,29 @@
   ],
   "derniere_activite": "2026-11-05",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-22",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "La mini 5* ♥️👯‍♀️👑🧸",
+        "titre": "Omgg",
+        "texte": "OK OK stop c’est pas normal là le meilleur Podcasts du monde a à peine quatre,9. C’est une dinguerie, il faudrait lui mettre cinq sur cinq franchement je vous adore le podcast, je l’écoute en boucle depuis une Semaine, et je n’en ai toujours pas marre d’écouter les mêmes épisode…"
+      },
+      {
+        "note": 3,
+        "auteur": "Dragon cityli",
+        "titre": "No night club review",
+        "texte": "Guys le podcast est super, l’idée j’adore. Mais par pitié réglez les problèmes liés au micros ou essayez d’upgrade les micros car lorsque l’on écoute le podcast avec des écouteurs ou autre on a du mal à tout comprendre. No hate et encore une fois génial l’idée continuez."
+      },
+      {
+        "note": 5,
+        "auteur": "Jude fan girl ❤️",
+        "titre": "Trop bien je ne me suis pas ennuyée !!",
+        "texte": "Ce podcast est incroyable je ne me suis pas ennuyée : les sujets sont intéressants et ils sont bien traités ! De plus, de nouveaux épisodes sont souvent postés …"
+      }
     ]
   },
   "frequence_jours": 7

@@ -53,25 +53,29 @@
   "derniere_activite": "2026-10-08",
   "frequence_jours": 12,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-22",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Gaelhadrock",
+        "titre": "Top ce 1er podcast !",
+        "texte": "Super idée de la part de Louison que ce projet de podcasts mensuels. On découvre ici Steven, un chef authentique, curieux, sans filtre, plein d’humour, attachant, qui nous décrit son parcours atypique tellement riche d’enseignements, mais aussi les raisons d’être de Morfal, son r…"
+      },
+      {
+        "note": 5,
+        "auteur": "Sophiemrs",
+        "titre": "À écouter sans modération",
+        "texte": "Quelle belle représentation de l’aspect le plus important de notre ville lyonnaise : la bouffe ! Ces écoutes me donnent des adresses toujours chouettes à découvrir tout comme des potes restaurateurs à écouter Louison et sa team nous donnent l’impression d’être avec eux.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Aure S",
+        "titre": "Une pépite 👌🏼",
+        "texte": "Un podcast génial avec des invités passionnants et des interviews menées d’une main de maître par Louison ! C’est à la fois frais, fun et vraiment enrichissant. À écouter sans hésiter !"
+      }
     ]
   }
 }

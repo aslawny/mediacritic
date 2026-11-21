@@ -51,25 +51,29 @@
   "derniere_activite": "2026-11-08",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-22",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "luffy panda",
+        "titre": "Reposant",
+        "texte": "J’aime bien écouter ces magnifiques musiques pendant que je lis ça me détend et l’atmosphère de ces magnifiques morceaux est tellement douce En tant que guitariste je trouve ces morceaux de piano extraordinaires.…"
+      },
+      {
+        "note": 5,
+        "auteur": "#hermioneettauriel",
+        "titre": "Wouah !",
+        "texte": "De magnifiques musiques ! Cela m’aide à me concentrer et à me reposer ! Franchement, continuez comme ça !"
+      },
+      {
+        "note": 5,
+        "auteur": "sasha_gxn",
+        "titre": "Danse contemporaine",
+        "texte": "Idéal pour créer ces danse avec modernité sans perdre le sens de l’art de la musique contemporaine 👏👍"
+      }
     ]
   }
 }

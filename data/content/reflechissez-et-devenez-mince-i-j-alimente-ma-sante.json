@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-07-09",
-  "frequence_jours": 17
+  "frequence_jours": 17,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tilia4251409",
+        "titre": "Céline et Pierre Présidents!",
+        "texte": "Présentez-vous je serais la 1ere à voter pour vous! On marche tellement sur la tête avec nos gouvernements actuels. Je cherchais le pourquoi de mon anxieté mais quand je vois les aberrations qui nous mènent droit vers l’extinction c’est pas étonnant que je me sente dépitée.…"
+      },
+      {
+        "note": 5,
+        "auteur": "MathildeLortion",
+        "titre": "Vous m’inspirez tellement",
+        "texte": "Salut Pierre Salut Céline, Merci infiniment pour le contenu que vous proposez. Votre approche est inspirante et quand on empruntes le beau chemin de la perte de poids, on se rend compte que le résultat n’est que secondaire.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Meganelpn",
+        "titre": "Youtube",
+        "texte": "Bonjour, ça serait génial d’avoir le contenu des vidéo YouTube en podcast 👌🏼"
+      }
+    ]
+  }
 }

@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-11-06",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-21",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Nat.the.bat",
+        "titre": "Très bon podcast pour choisir quoi regarder sur les plateformes",
+        "texte": "J’aime beaucoup le ton enthousiaste des deux animateurs, très cultivés mais aussi drôles et sympas. Les invités changent chaque semaine et apportent beaucoup d’expertise. Je recommande !"
+      },
+      {
+        "note": 5,
+        "auteur": "Pierrot poum",
+        "titre": "Bravo !!",
+        "texte": "Un nouveau podcast sur les séries, j’écoute un épisode et là, totalement conquis !!! Pour les passionnés de séries comme moi, c’est du caviar 😀 Bravo à vous deux, un abonné en plus 😉"
+      },
+      {
+        "note": 5,
+        "auteur": "JP panazol",
+        "titre": "Enfin un bon podcast sur les séries",
+        "texte": "Complet, détaillé, des avis pertinents et argumentés, un ton léger mais pas discussion de cours de récréation, comme trop souvent ailleurs. Merci. Et continuez longtemps 👍"
+      }
+    ]
+  }
 }
