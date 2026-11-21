@@ -74,3 +74,4 @@ body{margin:0;background:var(--mc-bg);color:var(--mc-text)}
   .mys-actions .mys-btn{flex:1}
   .mys-carte img{width:120px;height:120px}
 }
+.mys-avis a,.mys-revel a:not(.mys-btn){color:#ff9a6b;text-decoration:underline;text-underline-offset:3px}
