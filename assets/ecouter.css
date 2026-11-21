@@ -45,3 +45,15 @@ body{margin:0;background:var(--mc-bg);color:var(--mc-text)}
 .ecl-vide .ecl-btn{margin:4px 6px 0 0}
 .ecl-note,.ecl-mentions{font-size:var(--mc-fs-small);color:var(--mc-text-3);margin-top:var(--mc-s5);line-height:1.6}
 @media (max-width:420px){.ecl-commandes{gap:6px}.ecl-btn{padding:0 10px}.ecl-el img{display:none}}
+/* Etape 2 : plusieurs listes, partage, import (21/11/2026) */
+.ecl-listes{background:var(--mc-surface);border:1px solid var(--mc-line);border-radius:var(--mc-r-lg);padding:var(--mc-s4);margin-bottom:var(--mc-s4)}
+.ecl-listes-lib{display:block;font-weight:700;margin-bottom:6px}
+.ecl-choix{width:100%;min-height:48px;padding:0 12px;font:inherit;font-weight:600;color:var(--mc-text);background:var(--mc-surface-2);border:1px solid var(--mc-line-2);border-radius:var(--mc-r-md)}
+.ecl-listes-actions{display:flex;flex-wrap:wrap;gap:var(--mc-s2);margin-top:var(--mc-s3)}
+.ecl-btn:disabled{opacity:.45;cursor:not-allowed}
+.ecl-partage-retour{margin:8px 0 0;min-height:1.2em;font-size:var(--mc-fs-small);color:#7ee2a8;overflow-wrap:anywhere}
+.ecl-import{background:rgba(232,98,45,.1);border:1px solid var(--mc-accent);border-radius:var(--mc-r-lg);padding:var(--mc-s4);margin-bottom:var(--mc-s5)}
+.ecl-import h2{margin:0 0 6px}
+.ecl-import-nom{margin:0 0 8px;font-weight:700}
+.ecl-import-liste{margin:0 0 var(--mc-s3);padding-left:20px;color:var(--mc-text-2);font-size:var(--mc-fs-small);line-height:1.6}
+.ecl-import-actions{display:flex;flex-wrap:wrap;gap:var(--mc-s2)}

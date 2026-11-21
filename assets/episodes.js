@@ -83,7 +83,8 @@
       ajout.addEventListener('click', function () {
         if (!window.MCListe) return;
         var r = window.MCListe.ajouter(item);
-        if (window.MCListe.toast) window.MCListe.toast(r === 'deja' ? 'Déjà dans ta liste' : 'Ajouté à ta liste 🎧');
+        var nom = window.MCListe.nomActif ? window.MCListe.nomActif() : 'ta liste';
+        if (window.MCListe.toast) window.MCListe.toast(r === 'deja' ? 'Déjà dans « ' + nom + ' »' : 'Ajouté à « ' + nom + ' » 🎧');
       });
       ul.appendChild(el('li', {}, [
         el('span', { classe: 'ep-date', texte: e.date || '' }),

@@ -9,6 +9,18 @@
 <meta name="description" content="Écoute les épisodes des podcasts et chaînes YouTube de l'annuaire MediaCritic et compose ta propre liste." />
 <meta name="robots" content="noindex, follow" />
 <meta name="referrer" content="strict-origin-when-cross-origin" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.mediacritic.fr/ecouter.html" />
+<meta property="og:title" content="Une liste d'écoute à découvrir sur MediaCritic" />
+<meta property="og:description" content="Des épisodes de podcasts et de chaînes YouTube francophones, à écouter à la suite. Ouvre la liste et ajoute-la à tes listes." />
+<meta property="og:image" content="https://www.mediacritic.fr/assets/ecouter-og.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:locale" content="fr_FR" />
+<meta property="og:site_name" content="MediaCritic" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Une liste d'écoute à découvrir sur MediaCritic" />
+<meta name="twitter:image" content="https://www.mediacritic.fr/assets/ecouter-og.png" />
 <link rel="icon" href="assets/logo.png" type="image/png" />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Syne:wght@700;800&display=swap" rel="stylesheet" />
@@ -20,6 +32,7 @@
 <main class="ecl" id="ecl">
   <h1>Ma liste d'écoute</h1>
   <p class="ecl-intro">Les épisodes que tu ajoutes avec <strong>▶</strong> ou <strong>+</strong> depuis l'annuaire s'enchaînent ici. Garde cet onglet ouvert : tu peux continuer à naviguer sur le site sans couper le son.</p>
+  <section class="ecl-import" id="ecl-import" aria-labelledby="ecl-import-titre" hidden></section>
 
   <section class="ecl-lecteur" id="ecl-lecteur" aria-label="Lecteur" hidden>
     <div class="ecl-entete">
@@ -54,6 +67,17 @@
   </section>
 
   <section class="ecl-file" aria-labelledby="ecl-file-titre">
+    <div class="ecl-listes">
+      <label for="ecl-choix" class="ecl-listes-lib">Mes listes</label>
+      <select id="ecl-choix" class="ecl-choix"></select>
+      <div class="ecl-listes-actions">
+        <button type="button" class="ecl-btn ecl-btn-txt" id="ecl-nouvelle">+ Nouvelle</button>
+        <button type="button" class="ecl-btn ecl-btn-txt" id="ecl-renommer">Renommer</button>
+        <button type="button" class="ecl-btn ecl-btn-txt" id="ecl-supprimer">Supprimer</button>
+        <button type="button" class="ecl-btn ecl-btn-txt ecl-btn-plein" id="ecl-partager">🔗 Partager cette liste</button>
+      </div>
+      <p class="ecl-partage-retour" id="ecl-partage-retour" role="status" aria-live="polite"></p>
+    </div>
     <div class="ecl-file-tete">
       <h2 id="ecl-file-titre">À suivre <span id="ecl-nombre"></span></h2>
       <div class="ecl-file-actions">

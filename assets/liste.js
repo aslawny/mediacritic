@@ -1,7 +1,9 @@
-/* Ma liste d'ecoute — boutons « ▶ / + » des pages du site (21/11/2026).
- * La liste vit dans localStorage (cle mc-liste-v1), protegee par try/catch.
- * Le lecteur est la page /ecouter.html, ouverte dans UN onglet nomme
- * « mc-lecteur » : changer de page sur le site ne coupe donc pas le son.
+/* Ma liste d'ecoute — boutons « ▶ / + » des pages du site.
+ * Etape 1 (21/11/2026) : une liste. Etape 2 : plusieurs listes nommees ; la
+ * liste ACTIVE recoit les ajouts. Stockage : localStorage « mc-liste-v1 »
+ * (nom de cle conserve), format v2, protege par try/catch.
+ * Le lecteur est /ecouter.html, ouvert dans UN onglet nomme « mc-lecteur » :
+ * changer de page sur le site ne coupe donc pas le son.
  * Donnees des episodes : blocs <script type="application/json"
  * class="mc-ecoute-data"> (jamais de texte tiers dans un attribut). */
 (function () {
@@ -9,13 +11,25 @@
   var CLE = 'mc-liste-v1';
   var memoire = null;
 
+  /* v1 {items,…} -> v2 {listes:[{id,nom,items}], active,…}. DOIT rester
+   * identique a migrer() de assets/ecouter.js. */
+  function migrer(l) {
+    if (!l || typeof l !== 'object') l = {};
+    if (l.v === 2 && Array.isArray(l.listes) && l.listes.length) return l;
+    return { v: 2, listes: [{ id: 'l1', nom: 'Ma liste', items: Array.isArray(l.items) ? l.items : [] }],
+             active: 'l1', courant: l.courant || null, positions: l.positions || {},
+             vitesse: l.vitesse || 1, ecoutes: l.ecoutes || {}, aJouer: l.aJouer };
+  }
   function lire() {
-    try { var s = localStorage.getItem(CLE); if (s) return JSON.parse(s); } catch (e) {}
-    return memoire || { v: 1, items: [], courant: null, positions: {}, vitesse: 1 };
+    try { var s = localStorage.getItem(CLE); if (s) return migrer(JSON.parse(s)); } catch (e) {}
+    return memoire || migrer(null);
   }
   function ecrire(l) {
     memoire = l;
     try { localStorage.setItem(CLE, JSON.stringify(l)); return true; } catch (e) { return false; }
+  }
+  function active(l) {
+    return l.listes.find(function (x) { return x.id === l.active; }) || l.listes[0];
   }
   function catalogue() {
     var tout = {};
@@ -23,9 +37,6 @@
       try { var o = JSON.parse(s.textContent); for (var k in o) tout[k] = o[k]; } catch (e) {}
     });
     return tout;
-  }
-  function canal() {
-    try { return new BroadcastChannel('mc-lecteur'); } catch (e) { return null; }
   }
 
   function toast(texte) {
@@ -40,7 +51,8 @@
   }
 
   function pastille() {
-    var l = lire(), n = l.items.length, p = document.getElementById('mc-liste-pill');
+    if (document.getElementById('ecl')) return;            // pas sur le lecteur lui-meme
+    var l = lire(), a = active(l), n = a.items.length, p = document.getElementById('mc-liste-pill');
     if (!n) { if (p) p.hidden = true; return; }
     if (!p) {
       p = document.createElement('button'); p.type = 'button'; p.id = 'mc-liste-pill'; p.className = 'mc-liste-pill';
@@ -48,22 +60,22 @@
       document.body.appendChild(p);
     }
     p.hidden = false;
-    p.textContent = '🎧 Ma liste (' + n + ')';
-    p.setAttribute('aria-label', 'Ouvrir ma liste d\'écoute, ' + n + ' élément' + (n > 1 ? 's' : ''));
+    p.textContent = '🎧 ' + a.nom + ' (' + n + ')';
+    p.setAttribute('aria-label', 'Ouvrir la liste d\'écoute « ' + a.nom + ' », ' + n + ' élément' + (n > 1 ? 's' : ''));
   }
 
   function ajouter(item, enTete) {
-    var l = lire();
-    var deja = l.items.findIndex(function (x) { return x.id === item.id; });
+    var l = lire(), a = active(l);
+    var deja = a.items.findIndex(function (x) { return x.id === item.id; });
     if (deja >= 0) {
       if (!enTete) return 'deja';
-      l.items.splice(deja, 1);
+      a.items.splice(deja, 1);
     }
     // « Ecouter » : juste apres l'element en cours ; « + » : en fin de liste.
     if (enTete) {
-      var i = l.items.findIndex(function (x) { return x.id === l.courant; });
-      l.items.splice(i >= 0 ? i + 1 : 0, 0, item);
-    } else l.items.push(item);
+      var i = a.items.findIndex(function (x) { return x.id === l.courant; });
+      a.items.splice(i >= 0 ? i + 1 : 0, 0, item);
+    } else a.items.push(item);
     ecrire(l);
     pastille();
     return 'ok';
@@ -72,8 +84,7 @@
   function ouvrirLecteur(id) {
     var l = lire();
     if (id) { l.aJouer = id; ecrire(l); }
-    var c = canal();
-    if (c && id) { c.postMessage({ jouer: id }); c.close(); }
+    try { var c = new BroadcastChannel('mc-lecteur'); if (id) c.postMessage({ jouer: id }); c.close(); } catch (e) {}
     // window.open('', nom) retrouve l'onglet du lecteur s'il est deja ouvert
     // (sans le recharger : la lecture en cours n'est pas coupee).
     var w = null;
@@ -84,6 +95,8 @@
     } catch (e) { w.location.href = '/ecouter.html'; }
     try { w.focus(); } catch (e) {}
   }
+
+  function nomActif() { return active(lire()).nom; }
 
   function clic(e) {
     var b = e.target.closest('[data-mc-ec]');
@@ -96,7 +109,7 @@
       try { if (window.gtag) window.gtag('event', 'ecoute_lancer', { type: item.type }); } catch (x) {}
     } else {
       var r = ajouter(item, false);
-      toast(r === 'deja' ? 'Déjà dans ta liste' : 'Ajouté à ta liste 🎧');
+      toast(r === 'deja' ? 'Déjà dans « ' + nomActif() + ' »' : 'Ajouté à « ' + nomActif() + ' » 🎧');
       try { if (window.gtag) window.gtag('event', 'ecoute_ajouter', { type: item.type }); } catch (x) {}
     }
   }
@@ -104,8 +117,11 @@
   document.addEventListener('click', clic);
   window.addEventListener('storage', function (e) { if (e.key === CLE) pastille(); });
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', pastille); else pastille();
-  // Pour les pages qui construisent leurs boutons en JS (Le Mystere du Jour).
-  window.MCListe = { ajouter: function (item) { return ajouter(item, false); },
-                     ecouter: function (item) { ajouter(item, true); ouvrirLecteur(item.id); },
-                     toast: toast };
+  // Pages qui construisent leurs boutons en JS (Mystere du Jour, tous les episodes).
+  window.MCListe = {
+    ajouter: function (item) { return ajouter(item, false); },
+    ecouter: function (item) { ajouter(item, true); ouvrirLecteur(item.id); },
+    toast: toast,
+    nomActif: nomActif
+  };
 })();
