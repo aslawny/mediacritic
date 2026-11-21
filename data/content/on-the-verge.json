@@ -58,26 +58,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "#137 Julien Chavanes : « Les hommes ont peur d’eux-mêmes. »",
+      "date": "2026-11-20",
+      "audio": "https://sphinx.acast.com/p/acast/s/on-the-verge/e/6aff4643c838fad86f3ba003/media.mp3",
+      "duree": 3244
+    },
+    {
       "titre": "#136 Loïc : « Je crois que je sais ce que ça fait de mourir de son vivant. »",
-      "date": "2026-11-06"
+      "date": "2026-11-06",
+      "audio": "https://sphinx.acast.com/p/acast/s/on-the-verge/e/6aec8b4051ac9ecbba5a5a59/media.mp3",
+      "duree": 4096
     },
     {
       "titre": "#135 Pierre : « Je me sens constamment en décalage. »",
-      "date": "2026-10-23"
+      "date": "2026-10-23",
+      "audio": "https://sphinx.acast.com/p/acast/s/on-the-verge/e/6ada72e313113bbc76452e55/media.mp3",
+      "duree": 4700
     },
     {
       "titre": "#134 Alain : « Avec un homme, ce n'est pas vraiment tromper. »",
-      "date": "2026-10-09"
+      "date": "2026-10-09",
+      "audio": "https://sphinx.acast.com/p/acast/s/on-the-verge/e/6ac7aafd29b9fbfbe29747e9/media.mp3",
+      "duree": 3171
     },
     {
       "titre": "#FAQ volume 2 - Episode Spécial sur la sexualité masculine avec Gilbert Bou Jaoudé (Charles.co)",
-      "date": "2026-09-17"
-    },
-    {
-      "titre": "#133 Clem : « Je me suis dit : c’est eux ou moi »",
-      "date": "2026-09-11"
+      "date": "2026-09-17",
+      "audio": "https://sphinx.acast.com/p/acast/s/on-the-verge/e/6aabbd7dfca3d5c77bf877e7/media.mp3",
+      "duree": 2465
     }
   ],
-  "derniere_activite": "2026-11-06",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 14
 }

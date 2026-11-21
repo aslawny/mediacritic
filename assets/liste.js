@@ -106,5 +106,6 @@
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', pastille); else pastille();
   // Pour les pages qui construisent leurs boutons en JS (Le Mystere du Jour).
   window.MCListe = { ajouter: function (item) { return ajouter(item, false); },
-                     ecouter: function (item) { ajouter(item, true); ouvrirLecteur(item.id); } };
+                     ecouter: function (item) { ajouter(item, true); ouvrirLecteur(item.id); },
+                     toast: toast };
 })();

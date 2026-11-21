@@ -48,6 +48,11 @@ ETAT = ROOT / "data" / "_eps_state.json"
 FEEDS = ROOT / "data" / "_feed_urls.json"
 UA = {"User-Agent": "Mozilla/5.0 (compatible; MediaCriticBot/1.0)"}
 MAX_EPISODES = 5
+# Lecteur du site, etape 3 (21/11/2026) : pour une chaine, les 15 dernieres
+# videos (maximum du flux public videos.xml), champ `videos` de la fiche.
+# Les podcasts n'en ont pas besoin : tous leurs episodes sont lus a la
+# demande dans l'API publique d'Apple (assets/episodes.js).
+MAX_VIDEOS = 15
 RETENTER_APRES = 30
 # Rotation : jours entre deux relectures d'une fiche deja remplie.
 TAILLE_TETE = 500         # les plus suivies (avis Apple ou abonnes)
@@ -58,7 +63,7 @@ INTERVALLE_DORMANT = 90   # rien depuis plus d'un an
 # Changement de format : toute fiche lue AVANT cette date est a relire une
 # fois, quel que soit son intervalle (21/11/2026 : adresse audio et video des
 # episodes, pour le lecteur du site). Changer la date = nouvelle passe complete.
-FORMAT_DEPUIS = "2026-11-21"
+FORMAT_DEPUIS = "2026-11-22"     # 22/11 : + 15 dernieres videos des chaines
 
 
 def _texte(x):
@@ -158,7 +163,7 @@ def episodes_youtube(channel_id):
     url = "https://www.youtube.com/feeds/videos.xml?channel_id=" + channel_id
     x = _lire(url, ko=60)
     eps, dates = [], []
-    for e in re.findall(r"<entry>(.*?)</entry>", x, re.S)[:12]:
+    for e in re.findall(r"<entry>(.*?)</entry>", x, re.S)[:MAX_VIDEOS]:
         t = re.search(r"<media:title>(.*?)</media:title>", e, re.S)
         d = re.search(r"<published>(.*?)</published>", e)
         v = re.search(r"<yt:videoId>([\w-]{11})</yt:videoId>", e)
@@ -176,7 +181,13 @@ def episodes_youtube(channel_id):
             eps.append(ep)
         if dt:
             dates.append(dt)
-    return _synthese(eps, dates)
+    videos = sorted([e for e in eps if e.get("video")], key=lambda e: e.get("date") or "", reverse=True)
+    VIDEOS[channel_id] = [{"titre": e["titre"], "date": e.get("date"), "video": e["video"]} for e in videos]
+    return _synthese(eps[:12], dates[:12])
+
+
+# channelId -> 15 dernieres videos, rempli par episodes_youtube().
+VIDEOS = {}
 
 
 def audience(d):
@@ -299,13 +310,17 @@ def enrich(limit=300, dry_run=False):
             etat[d["slug"]] = "ok:" + aujourdhui.isoformat()
             # Reecrire seulement si quelque chose a change : la date du sitemap
             # ne doit bouger que pour de vraies nouveautes.
+            cid_d = ((d.get("platforms") or {}).get("youtube") or {}).get("channelId")
+            videos = VIDEOS.get(cid_d) if cid_d else None
             if (d.get("episodes_recents") == eps and d.get("derniere_activite") == derniere
-                    and d.get("frequence_jours") == freq):
+                    and d.get("frequence_jours") == freq and (not videos or d.get("videos") == videos)):
                 inchangees += 1
                 continue
             remplies += 1
             if not dry_run:
                 d["episodes_recents"] = eps
+                if videos:
+                    d["videos"] = videos
                 if derniere:
                     d["derniere_activite"] = derniere
                 if freq is not None:

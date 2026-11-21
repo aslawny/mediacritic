@@ -31,26 +31,36 @@
   "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
+      "titre": "#360.exe - Docker Sandbox: Sécuriser les agents IA sans ralentir les devs par Quentin de Quelen",
+      "date": "2026-11-20",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/c87ad1ee-c3c1-4a4a-b813-6e8e07e7ad53.mp3?_=1795093235",
+      "duree": 883
+    },
+    {
+      "titre": "#385.src - AT Protocol: Décentraliser son identité numérique avec Julien Wittouck",
+      "date": "2026-11-18",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/1ebca351-8f11-461b-9acf-0e842b5cd5a9.mp3?_=1794920431",
+      "duree": 3865
+    },
+    {
       "titre": "#362.exe - Le LEAN à l'ère de l'IA: Réapprendre à produire du code (vraiment) Lean avec l'IA par Jordan Nourry",
-      "date": "2026-11-13"
+      "date": "2026-11-13",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/a1a2f062-9387-43eb-ab07-60d955870338.mp3?_=1794488441",
+      "duree": 900
     },
     {
       "titre": "#384.src - Usine logicielle 100% AI: Qui réveille-t-on quand l'usine prend feu ? avec Nikolay Rodionov",
-      "date": "2026-11-11"
-    },
-    {
-      "titre": "#237.diff - Exotec: Une reine et une armée de robots avec Sophie Paquereau",
-      "date": "2026-11-09"
-    },
-    {
-      "titre": "#371.exe - Everyone can build: La révolution du code ouvert chez Alan par Yves Brissaud",
-      "date": "2026-11-06"
+      "date": "2026-11-11",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/2d2ae4ea-acb6-4ff5-883b-3680913dce53.mp3?_=1794315645",
+      "duree": 3701
     },
     {
       "titre": "#383.src - Contexte Engineering: Dresser ses agents IA avec Florian Bruniaux",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/1c3c40a5-bd08-49fd-bdaa-5fb716849506.mp3?_=1793710900",
+      "duree": 3626
     }
   ],
-  "derniere_activite": "2026-11-13",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 6
 }

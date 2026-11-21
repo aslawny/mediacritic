@@ -33,27 +33,37 @@
   "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
+      "titre": "Sécurité et IA: \"On a pas le temps de tout patcher\"",
+      "date": "2026-11-17",
+      "audio": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/6afc3121bd05b48ec8b22305/media.mp3",
+      "duree": 4838
+    },
+    {
       "titre": "400 000 volts en lignes de commandes",
-      "date": "2026-11-10"
+      "date": "2026-11-10",
+      "audio": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/6af2ed7c4019cd2655ff5f13/media.mp3",
+      "duree": 4774
     },
     {
       "titre": "Virtualisation, Containers : On explique l'histoire du Cloud",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/6ae9bf0df5930510a0da01cb/media.mp3",
+      "duree": 5548
     },
     {
       "titre": "Pourquoi l’IA fait exploser le prix de la RAM",
-      "date": "2026-10-27"
+      "date": "2026-10-27",
+      "audio": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/6adfe576feb8d1e39c38d576/media.mp3",
+      "duree": 4361
     },
     {
       "titre": "La révolution Deeptech : Quand l'IA réinvente la génétique, le climat et l'industrie",
-      "date": "2026-10-20"
-    },
-    {
-      "titre": "Comment penser sa startup IA native en 2026",
-      "date": "2026-10-13"
+      "date": "2026-10-20",
+      "audio": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/6ad7389c6a9e2a41c3d8ff46/media.mp3",
+      "duree": 4376
     }
   ],
-  "derniere_activite": "2026-11-10",
+  "derniere_activite": "2026-11-17",
   "frequence_jours": 7,
   "avis_publics": {
     "epuise": true,

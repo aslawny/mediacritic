@@ -97,7 +97,7 @@ def main():
 <script defer src="/assets/partage.js"></script>
 </body>
 </html>"""
-    html, etat = charte_appliquer(html, None)
+    html, etat = charte_appliquer(html, "liste")
     assert etat is not None, "charte non appliquée"
     (ROOT / "ecouter.html").write_text(html, encoding="utf-8")
     print("  ecouter.html générée")

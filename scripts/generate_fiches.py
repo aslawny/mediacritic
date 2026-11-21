@@ -519,7 +519,8 @@ def bloc_episodes(data):
     eps = data.get("episodes_recents") or []
     freq = data.get("frequence_jours")
     derniere = data.get("derniere_activite")
-    if not eps and not freq and not derniere:
+    tous = ecoute.bloc_tous(data)          # etape 3 : tous les episodes
+    if not eps and not freq and not derniere and not tous:
         return ""
     meta = []
     if freq is not None:
@@ -549,9 +550,10 @@ def bloc_episodes(data):
                    % (h(e.get("date") or ""), h(e.get("titre") or ""), ecoute.boutons(el) if el else ""))
     liste = '<ul class="ep-list">%s</ul>' % lignes if lignes else ""
     intro = '<p>%s.</p>' % h(" — ".join(meta)) if meta else ""
-    lecteur = (ecoute.donnees(lisibles) + ecoute.SCRIPT) if lisibles else ""
-    return ('  <div class="card"><h2>Derniers contenus publiés</h2>%s%s%s</div>'
-            % (intro, liste, lecteur))
+    lecteur = ecoute.donnees(lisibles) + tous + (ecoute.SCRIPT if (lisibles or tous) else "")
+    titre = "Derniers contenus publiés" if (eps or meta) else "Épisodes"
+    return ('  <div class="card"><h2>%s</h2>%s%s%s</div>'
+            % (titre, intro, liste, lecteur))
 
 
 def bloc_presse(data):

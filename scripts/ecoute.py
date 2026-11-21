@@ -97,3 +97,29 @@ def boutons(e, libelle=False):
             f'aria-label="Écouter {quoi} dans le lecteur du site">{lecture}</button>'
             f'<button type="button" class="mc-ec-btn mc-ec-add" data-mc-ec="{i}" '
             f'aria-label="Ajouter {quoi} à ma liste d\'écoute">{ajout}</button></span>')
+
+
+SCRIPT_TOUS = '<script defer src="/assets/episodes.js"></script>'
+
+
+def bloc_tous(d):
+    """Etape 3 (21/11/2026) : bouton « Tous les episodes » d'une fiche.
+    Podcast : chargement a la demande dans l'API publique d'Apple (trackId).
+    Chaine : les 15 dernieres videos gardees par le bot (champ `videos`).
+    Rien si aucune des deux sources n'existe."""
+    pf = d.get("platforms") or {}
+    infos = {"emission": d.get("title") or "", "image": d.get("image") or "",
+             "lien": f"/fiches/{d.get('slug')}.html"}
+    if d.get("type") == "youtube":
+        videos = [v for v in (d.get("videos") or []) if v.get("video")]
+        if len(videos) <= 5:
+            return ""
+        infos["videos"] = videos
+    else:
+        tid = (pf.get("apple") or {}).get("trackId")
+        if not tid:
+            return ""
+        infos["trackId"] = int(tid)
+    js = json.dumps(infos, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/").replace("<!--", "<\\!--")
+    return (f'<div class="ep-tous" id="ep-tous"></div>'
+            f'<script type="application/json" id="mc-fiche-ecoute">{js}</script>' + SCRIPT_TOUS)

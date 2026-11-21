@@ -36,8 +36,10 @@ CSP = ("default-src 'self'; "
        "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; "
        "font-src 'self' https://fonts.gstatic.com; "
        "img-src 'self' data: https:; "
+       # itunes.apple.com : liste de tous les episodes d'un podcast, lue a la
+       # demande sur les fiches (lecteur du site, etape 3, 21/11/2026).
        "connect-src 'self' https://www.googletagmanager.com https://*.google-analytics.com "
-       "https://*.analytics.google.com https://analytics.google.com; "
+       "https://*.analytics.google.com https://analytics.google.com https://itunes.apple.com; "
        "frame-src 'none'; object-src 'none'; base-uri 'self'; form-action 'self' mailto:; "
        "upgrade-insecure-requests")
 CSP_META = '<meta http-equiv="Content-Security-Policy" content="%s" />' % CSP
@@ -68,6 +70,8 @@ RUBRIQUES = [
     # « Indépendants » a remplacé « Comparateur » dans le menu (choix de
     # l'utilisateur, 25/10/2026) ; le comparateur reste dans le pied de page.
     ("independants", "/podcasts-independants.html", "Indépendants"),
+    # Lecteur du site (choix de l'utilisateur, 21/11/2026).
+    ("liste", "/ecouter.html", "Ma liste"),
     ("equipe", "/qui-sommes-nous.html", "L'équipe"),
 ]
 
