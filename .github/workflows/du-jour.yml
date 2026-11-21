@@ -88,6 +88,15 @@ jobs:
         working-directory: site
         run: python scripts/generate_du_jour.py
 
+      # Le Mystere du Jour (21/11/2026) : derive du podcast du jour qu'on
+      # vient de choisir. Un echec ne bloque pas le podcast du jour.
+      - name: Le Mystere du Jour
+        if: steps.deja.outputs.deja != 'true'
+        working-directory: site
+        continue-on-error: true
+        run: |
+          if [ -f scripts/generate_mystere.py ]; then python scripts/generate_mystere.py; fi
+
       - name: Validate site
         if: steps.deja.outputs.deja != 'true'
         working-directory: site
