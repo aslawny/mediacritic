@@ -65,6 +65,7 @@ REGENERATEURS = [
     "scripts/generate_ecouter.py",       # page « Ma liste d'ecoute »
     "scripts/generate_badges.py",        # badges des editeurs (vague 2 SEO)
     "scripts/generate_youtube.py",       # annuaire des chaines YouTube
+    "scripts/generate_rangs.py",         # bulletin du createur (apres TOUTES les pages de classement)
     "scripts/patch_partage_global.py",   # bouton « Partager » en tete de page
     "scripts/patch_charte.py",           # en-tete, pied de page, mc.css (charte)
     "scripts/sync_compteurs.py",         # compteurs : source unique

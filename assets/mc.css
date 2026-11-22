@@ -317,3 +317,15 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{ou
 .ep-tous-plus{margin-top:12px}
 .ep-tous-plus[hidden]{display:none}
 .ep-tous-source{margin:10px 0 0;font-size:12px;color:var(--mc-text-3)}
+/* Bulletin du createur : encart « N° x » des fiches (scripts/rangs.py, 22/11/2026) */
+.mc-rang{border:1px solid rgba(232,98,45,.45)!important;background:linear-gradient(135deg,rgba(232,98,45,.14),rgba(232,98,45,.03) 60%),var(--mc-surface)!important}
+.mc-rang-titre{display:flex;gap:14px;align-items:center;margin:0;font-size:18px;line-height:1.35;color:var(--mc-text)}
+.mc-rang-ico{font-size:34px;flex:none}
+.mc-rang-n{color:var(--mc-accent);font-size:26px;font-weight:800;margin-right:6px;white-space:nowrap}
+.mc-rang-titre a{color:var(--mc-text);font-weight:700;text-decoration:underline;text-underline-offset:3px}
+.mc-rang-src{margin:8px 0 0;font-size:13px;color:var(--mc-text-2)}
+.mc-rang-actions{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:12px 0 0}
+.mc-rang-prog{font-weight:700;color:#3ddc84;font-size:14px}
+.mc-rang-partager{min-height:44px;padding:0 16px;border-radius:999px;border:1px solid var(--mc-accent);background:var(--mc-accent);color:var(--mc-on-accent);font:inherit;font-weight:700;cursor:pointer;margin-left:auto}
+.mc-rang-partager:focus-visible{outline:3px solid #fff;outline-offset:2px}
+@media (max-width:560px){.mc-rang-partager{margin-left:0;width:100%}}

@@ -314,7 +314,10 @@ def sort_key(x):
 # redescend, parce que gaming ou voyage n'ont pas la profondeur de
 # culture-societe. Le seuil retenu est affiché sur la page — on ne cache pas
 # la règle du jeu.
-PLANCHERS = (200, 100, 50)
+# 22/11/2026 (bulletin du createur, decision de l'utilisateur) : plancher
+# unique de 50 avis ; la moyenne bayesienne (M_BAYES) empeche toujours une
+# note parfaite sur peu d'avis de passer devant.
+PLANCHERS = (50,)
 M_BAYES = 200
 TOP_N = 10
 

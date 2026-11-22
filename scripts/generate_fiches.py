@@ -19,6 +19,7 @@ from charte import appliquer as charte_appliquer  # noqa: E402  en-tete/pied uni
 from independance import INFOBULLE as INDEP_INFOBULLE, est_independant, libelle as indep_libelle  # noqa: E402
 from urllib.parse import quote
 import ecoute  # noqa: E402  lecteur du site (boutons Ecouter / + Ma liste)
+import rangs  # noqa: E402  bulletin du createur (encart « N° x », image de partage)
 from desirs import section as desirs_section  # noqa: E402  categorie « Désirs & intimité »
 
 # ─── Chemins ──────────────────────────────────────────────────────────────────
@@ -1011,14 +1012,14 @@ def render_fiche(data):
   <meta property="og:url" content="{BASE_URL}/fiches/{slug}.html" />
   <meta property="og:title" content="{h(titre_page(title, t_label, data))}" />
   <meta property="og:description" content="{h(desc_meta)}" />
-  <meta property="og:image" content="{h(image) if image else BASE_URL + '/assets/banner.png'}" />
+  <meta property="og:image" content="{h(rangs.og(slug, image or BASE_URL + '/assets/banner.png'))}" />
   <meta property="og:site_name" content="MediaCritic" />
   <meta property="og:locale" content="fr_FR" />
 
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="{h(titre_page(title, t_label, data))}" />
   <meta name="twitter:description" content="{h(desc_meta)}" />
-  <meta name="twitter:image" content="{h(image) if image else BASE_URL + '/assets/banner.png'}" />
+  <meta name="twitter:image" content="{h(rangs.og(slug, image or BASE_URL + '/assets/banner.png'))}" />
 
   <script type="application/ld+json">{json.dumps(schema, ensure_ascii=False)}</script>
   <script type="application/ld+json">{json.dumps(breadcrumb_schema, ensure_ascii=False)}</script>{mc_review_ld}
@@ -1059,6 +1060,7 @@ def render_fiche(data):
     </div>
   </div>
 {mc_block}
+{rangs.bloc(slug)}
 {bloc_avertissement(data)}  <div class="card">
     <h2>À propos de {h(title)}</h2>
     <p>{h(desc_full).replace(chr(10), '<br>')}</p>{stats_html}{cats_html}
