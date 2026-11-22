@@ -59,10 +59,15 @@ def type_contenu(txt):
     """Type du contenu critique, lu dans sa fiche (data/content), qui fait foi.
     None si la page ne renvoie a aucune fiche : la FAQ de fin de saison n'est
     la critique de rien, elle garde son titre."""
-    m = re.search(r'href="\.\./fiches/([^"]+)\.html"', txt)
-    if not m:
+    liens = re.findall(r'href="\.\./fiches/([^"]+)\.html"', txt)
+    if not liens:
         return None
-    src = ROOT / "data" / "content" / (m.group(1) + ".json")
+    # La page peut citer d'autres fiches dans son texte (ep. 56 : le podcast
+    # « L'Entretien » avant la chaine critiquee) : la fiche qui porte le nom de
+    # la page fait foi, sinon la premiere.
+    c = re.search(r'<link rel="canonical" href="[^"]*/episodes/([^"/]+)\.html"', txt)
+    slug = c.group(1) if c and c.group(1) in liens else liens[0]
+    src = ROOT / "data" / "content" / (slug + ".json")
     if not src.exists():
         return None
     return json.loads(src.read_text(encoding="utf-8")).get("type")
