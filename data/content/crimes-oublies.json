@@ -26,7 +26,10 @@
       "episodeCount": null
     }
   },
-  "mediacritic": null,
+  "mediacritic": {
+    "ep": 55,
+    "url": "https://www.mediacritic.fr/episodes/crimes-oublies.html"
+  },
   "tags": [
     "true crime",
     "societe",
