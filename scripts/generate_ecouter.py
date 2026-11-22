@@ -51,7 +51,7 @@ def main():
 <nav></nav>
 <main class="ecl" id="ecl">
   <h1>Ma liste d'écoute</h1>
-  <p class="ecl-intro">Les épisodes que tu ajoutes avec <strong>▶</strong> ou <strong>+</strong> depuis l'annuaire s'enchaînent ici. Garde cet onglet ouvert : tu peux continuer à naviguer sur le site sans couper le son.</p>
+  <p class="ecl-intro">Les épisodes que tu ajoutes avec <strong>▶</strong> ou <strong>+</strong>, partout sur le site, s'enchaînent ici. Garde cet onglet ouvert : tu peux continuer à naviguer sur le site sans couper le son.</p>
   <section class="ecl-import" id="ecl-import" aria-labelledby="ecl-import-titre" hidden></section>
 
   <section class="ecl-lecteur" id="ecl-lecteur" aria-label="Lecteur" hidden>
@@ -107,7 +107,7 @@ def main():
     </div>
     <ol class="ecl-liste" id="ecl-liste"></ol>
     <div class="ecl-vide" id="ecl-vide" hidden>
-      <p><strong>Ta liste est vide.</strong> Ouvre la fiche d'un podcast ou d'une chaîne YouTube : chaque épisode récent a un bouton <strong>▶</strong> (écouter tout de suite) et <strong>+</strong> (ajouter à ta liste).</p>
+      <p><strong>Ta liste est vide.</strong> Chaque vignette de podcast ou de chaîne YouTube du site porte un bouton <strong>+</strong> qui ajoute son dernier épisode ; sur une fiche, chaque épisode a aussi <strong>▶</strong> (écouter tout de suite) et <strong>+</strong>.</p>
       <p><a class="ecl-btn ecl-btn-plein" href="podcast-du-jour.html">Le podcast du jour</a> <a class="ecl-btn" href="catalogue.html">L'annuaire</a></p>
     </div>
     <p class="ecl-note" id="ecl-stockage" hidden>Ton navigateur bloque l'enregistrement : la liste ne sera pas conservée après fermeture.</p>

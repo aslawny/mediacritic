@@ -43,6 +43,12 @@ KIT = "kit-du-jour.html"
 VISUELS = ROOT / "assets" / "du-jour"
 GARDER_VISUELS = 30
 DEBUT, FIN = "<!-- du-jour -->", "<!-- /du-jour -->"
+# Le Mystere du Jour fait deviner le podcast du jour : a partir de son
+# lancement, le podcast du jour reste CACHE (accueil, page du jour, apercus de
+# partage) tant que le visiteur n'a pas fini la partie du jour (gagnee ou
+# abandonnee). Etat de la partie : localStorage « mc-mystere-v1 »
+# (assets/mystere.js), lu par VERROU_JS. Sans JavaScript : bloc visible.
+MYSTERE_DEPUIS = "2026-11-23"
 MOIS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août",
         "septembre", "octobre", "novembre", "décembre"]
 
@@ -90,9 +96,13 @@ def sections_html(c):
 
 def element_ecoute(c):
     """Episode du jour lisible dans le lecteur du site (21/11/2026), ou None.
-    Jour d'episode MediaCritic : le lien est notre critique, pas un episode."""
+    Jour d'episode MediaCritic : NOTRE episode (table de patch_ecoute_episodes.py)."""
     if c.get("mode") == "episode":
-        return None
+        page = ((c.get("episode") or {}).get("url") or "").split("?")[0].rstrip("/").split("/")[-1]
+        try:
+            return json.loads((ROOT / "data" / "ecoute-mc.json").read_text(encoding="utf-8")).get(page)
+        except Exception:
+            return None
     ep = c.get("episode") or {}
     try:
         f = json.loads((ROOT / "data" / "content" / f"{c['slug']}.json").read_text(encoding="utf-8-sig"))
@@ -138,9 +148,39 @@ def carte(c, prefixe="", titre_tag="h2", lien_archive=True):
 # --------------------------------------------------------------------------
 # Accueil
 # --------------------------------------------------------------------------
+def cache_mystere(c):
+    return c.get("date", "") >= MYSTERE_DEPUIS
+
+
+# Lu de facon synchrone juste apres le bloc : pas d'eclair du nom avant masquage.
+# Verrou seulement le JOUR MEME (heure de Paris) : le mystere de la veille ne se
+# joue plus, le bloc reste donc visible en attendant le choix du matin.
+VERROU_JS = ("<script>(function(){var z=document.currentScript.previousElementSibling;"
+             "if(!z||!z.classList.contains('mcj-verrou'))return;var d=z.getAttribute('data-mys-date'),f=false;"
+             "var j=new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Paris',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());"
+             "if(d!==j)return;try{var e=JSON.parse(localStorage.getItem('mc-mystere-v1')||'{}');"
+             "f=!!(e&&e.parties&&e.parties[d]&&e.parties[d].fini);}catch(x){}"
+             "if(!f)z.classList.add('mcj-ferme');})();</script>")
+
+
+def verrou(c, interieur, prefixe=""):
+    """Le bloc du jour, cache derriere le Mystere du Jour (voir MYSTERE_DEPUIS)."""
+    if not cache_mystere(c):
+        return interieur
+    cache = (f'<div class="mcj-cache" role="group" aria-label="Le podcast du jour est caché">'
+             f'<span class="mcj-cache-ico" aria-hidden="true">🕵️</span><div>'
+             f'<p class="mcj-eyebrow">Le podcast du jour · {h(date_fr(c["date"]))}</p>'
+             f'<p class="mcj-cache-titre">Qui est le podcast du jour ?</p>'
+             f'<p>Il se dévoile quand tu as joué au <strong>Mystère du Jour</strong> : devine-le '
+             f'en 6 indices, puis reviens l’écouter ici.</p>'
+             f'<div class="mcj-actions"><a class="mcj-btn mcj-btn-1" href="{prefixe}mystere.html">'
+             f'🕵️ Jouer au Mystère du Jour</a></div></div></div>')
+    return f'<div class="mcj-verrou" data-mys-date="{h(c["date"])}">{cache}{interieur}</div>' + VERROU_JS
+
+
 def bloc_accueil(dernier):
     return (DEBUT + '\n<section class="mcj-zone" aria-label="Le podcast du jour">'
-            + carte(dernier, titre_tag="h2") + '</section>\n' + FIN)
+            + verrou(dernier, carte(dernier, titre_tag="h2")) + '</section>\n' + FIN)
 
 
 def maj_accueil(dernier):
@@ -182,6 +222,14 @@ def page_archive(hist):
             "l'actualité, preuve à l'appui : l'épisode, sa date, son lien.")
     og = f"{BASE}/assets/du-jour/{dernier['date']}.jpg" \
         if (VISUELS / f"{dernier['date']}.jpg").exists() else f"{BASE}/assets/banner.png"
+    og_titre = f"{libelle(dernier)} : {dernier['titre']}"
+    og_desc = dernier["pourquoi"]
+    if cache_mystere(dernier):
+        # Un apercu de lien (reseaux, messageries) ne doit pas donner la reponse.
+        og = f"{BASE}/assets/mystere-og.png"
+        og_titre = "Le podcast du jour : sauras-tu le deviner ?"
+        og_desc = ("Chaque matin, un podcast ou une chaîne YouTube qui parle de l'actu. "
+                   "Devine-le en 6 indices avec le Mystère du Jour, puis écoute-le.")
     ld = {"@context": "https://schema.org", "@graph": [
         {"@type": "CollectionPage", "@id": f"{BASE}/{PAGE}", "url": f"{BASE}/{PAGE}",
          "name": titre, "description": desc, "inLanguage": "fr-FR",
@@ -207,13 +255,13 @@ def page_archive(hist):
 <link rel="canonical" href="{BASE}/{PAGE}" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{BASE}/{PAGE}" />
-<meta property="og:title" content="{h(libelle(dernier))} : {h(dernier['titre'])}" />
-<meta property="og:description" content="{h(dernier['pourquoi'])}" />
+<meta property="og:title" content="{h(og_titre)}" />
+<meta property="og:description" content="{h(og_desc)}" />
 <meta property="og:image" content="{og}" />
 <meta property="og:locale" content="fr_FR" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="{h(libelle(dernier))} : {h(dernier['titre'])}" />
-<meta name="twitter:description" content="{h(dernier['pourquoi'])}" />
+<meta name="twitter:title" content="{h(og_titre)}" />
+<meta name="twitter:description" content="{h(og_desc)}" />
 <meta name="twitter:image" content="{og}" />
 <link rel="icon" href="assets/logo.png" type="image/png" />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -236,7 +284,7 @@ a{{color:inherit}}
 annuaire</a> qui en parle : un podcast ou une chaîne YouTube francophone à écouter pour aller
 plus loin que les gros titres.</p>
 <a class="mys-appel" href="mystere.html"><span class="mys-appel-ico" aria-hidden="true">🕵️</span><span><strong>Le Mystère du Jour</strong><span>Devine-le avant de l'écouter : le podcast du jour en 6 indices →</span></span></a>
-<section class="mcj-zone">{carte(dernier, titre_tag="h2", lien_archive=False)}</section>
+<section class="mcj-zone">{verrou(dernier, carte(dernier, titre_tag="h2", lien_archive=False))}</section>
 {archive}
 </main>
 <footer></footer>

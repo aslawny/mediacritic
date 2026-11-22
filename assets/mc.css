@@ -287,6 +287,24 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{ou
 .mc-toast{position:fixed;left:50%;bottom:76px;transform:translate(-50%,20px);z-index:61;padding:10px 16px;border-radius:12px;background:var(--mc-surface-2);border:1px solid var(--mc-line-2);color:var(--mc-text);font-weight:600;opacity:0;pointer-events:none;transition:opacity .2s,transform .2s}
 .mc-toast-on{opacity:1;transform:translate(-50%,0)}
 @media (prefers-reduced-motion:reduce){.mc-toast{transition:none}}
+/* « + » greffe sur toute carte de contenu (assets/liste.js, 22/11/2026) */
+.mc-ec-hote{position:relative}
+.mc-ec-carte{position:absolute;right:6px;bottom:6px;z-index:3;width:40px;height:40px;padding:0;border-radius:999px;border:1px solid rgba(255,255,255,.35);background:rgba(10,14,22,.78);color:#fff;font:inherit;font-weight:800;font-size:22px;line-height:1;display:inline-flex;align-items:center;justify-content:center;cursor:pointer;box-shadow:0 2px 10px rgba(0,0,0,.45);-webkit-backdrop-filter:blur(4px);backdrop-filter:blur(4px)}
+.mc-ec-carte:hover{background:var(--mc-accent);border-color:var(--mc-accent);color:var(--mc-on-accent)}
+.mc-ec-carte:focus-visible{outline:3px solid var(--mc-accent);outline-offset:2px}
+.mc-ec-carte[aria-busy="true"]{cursor:progress;opacity:.8}
+.mc-ec-carte.mc-ec-carte-coin{top:8px;bottom:auto;right:8px}
+.mc-ec-carte.mc-ec-carte-ligne{position:static;flex:none;width:44px;height:44px;margin-left:8px;align-self:center;background:rgba(232,98,45,.12);border-color:rgba(232,98,45,.55);color:var(--mc-text);box-shadow:none;font-size:20px}
+.mc-ec-carte.mc-ec-carte-ligne:hover{background:var(--mc-accent);color:var(--mc-on-accent)}
+/* Podcast du jour cache tant que le Mystere du Jour n'est pas joue (22/11/2026) */
+.mcj-verrou.mcj-ferme>.mcj{display:none}
+.mcj-verrou:not(.mcj-ferme)>.mcj-cache{display:none}
+.mcj-cache{display:flex;gap:clamp(14px,3vw,24px);align-items:center;background:linear-gradient(135deg,rgba(232,98,45,.14),rgba(232,98,45,.03) 60%),var(--mc-surface);border:1px dashed rgba(232,98,45,.55);border-radius:var(--mc-r-lg);padding:clamp(16px,3vw,24px)}
+.mcj-cache-ico{flex:none;width:96px;height:96px;border-radius:14px;display:flex;align-items:center;justify-content:center;font-size:44px;background:rgba(255,255,255,.05)}
+.mcj-cache p{margin:0 0 6px;color:var(--mc-text-2);line-height:1.55}
+.mcj-cache .mcj-cache-titre{font-family:Syne,Inter,sans-serif;font-weight:800;font-size:clamp(20px,3vw,26px);color:var(--mc-text);margin:2px 0 6px}
+.mcj-cache .mcj-actions{margin-top:12px}
+@media (max-width:560px){.mcj-cache{flex-direction:column;align-items:flex-start}.mcj-cache-ico{width:64px;height:64px;font-size:30px}}
 /* Lecteur du site, etape 3 : tous les episodes d'une fiche (21/11/2026) */
 .ep-tous{margin-top:14px}
 .mc-btn-tous{min-height:44px;padding:0 16px;border-radius:999px;border:1px solid var(--mc-line-2);background:var(--mc-surface-2);color:var(--mc-text);font:inherit;font-weight:700;cursor:pointer}

@@ -59,6 +59,7 @@ CSP_LECTEURS = CSP.replace(
     "https://cdn.jsdelivr.net https://www.youtube.com; ")
 assert CSP_LECTEURS.count("media-src") == 1 and "cdn.jsdelivr.net https://www.youtube.com" in CSP_LECTEURS
 CSP_META_LECTEURS = '<meta http-equiv="Content-Security-Policy" content="%s" />' % CSP_LECTEURS
+SCRIPT_LISTE = '<script defer src="/assets/liste.js"></script>'
 DEBUT_H, FIN_H = "<!-- mc-header -->", "<!-- /mc-header -->"
 DEBUT_F, FIN_F = "<!-- mc-footer -->", "<!-- /mc-footer -->"
 
@@ -160,6 +161,9 @@ def entete(actif=None):
         'aria-label="Ouvrir le menu" onclick="%s">' % _BURGER_JS, ICONE_MENU, '</button>',
         '</div></div></header>',
         '<script>', _MAJ_JS, '</script>',
+        # « Ma liste » sur TOUTES les pages : pastille, et bouton « + » greffe
+        # sur chaque carte de contenu (lecteur du site, 22/11/2026).
+        SCRIPT_LISTE,
         FIN_H,
     ])
 

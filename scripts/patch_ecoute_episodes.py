@@ -55,6 +55,7 @@ def main():
         return
     revues = json.loads((ROOT / "data" / "mc_reviews.json").read_text(encoding="utf-8"))
     faits = 0
+    table = {}          # page -> element : bouton « + » des cartes (assets/liste.js)
     for num, r in revues.items():
         page = ROOT / "episodes" / (r.get("page") or "")
         ep = flux.get(int(num))
@@ -65,6 +66,7 @@ def main():
         html = retirer(retirer(html, D1, F1), D2, F2)
         item = ecoute.element(ep, "MediaCritic", f"/episodes/{page.name}", LOGO)
         item["titre"] = ep["titre"]
+        table[page.name] = item
         if 'class="ep-actions-row">' not in html or "</body>" not in html:
             continue
         html = html.replace('class="ep-actions-row">',
@@ -73,6 +75,10 @@ def main():
         if html != avant:
             page.write_text(html, encoding="utf-8")
             faits += 1
+    sortie = ROOT / "data" / "ecoute-mc.json"
+    neuf = json.dumps(table, ensure_ascii=False, separators=(",", ":"), sort_keys=True)
+    if not sortie.exists() or sortie.read_text(encoding="utf-8") != neuf:
+        sortie.write_text(neuf, encoding="utf-8")
     print(f"  épisodes : lecteur du site posé ou mis à jour sur {faits} page(s), {len(flux)} épisode(s) dans le flux")
 
 

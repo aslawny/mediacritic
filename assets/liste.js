@@ -8,6 +8,9 @@
  * class="mc-ecoute-data"> (jamais de texte tiers dans un attribut). */
 (function () {
   'use strict';
+  // Charge sur TOUTES les pages par l'en-tete commun (charte.py) et parfois
+  // aussi par la page elle-meme : une seule execution.
+  if (window.MCListe) return;
   var CLE = 'mc-liste-v1';
   var memoire = null;
 
@@ -66,7 +69,8 @@
 
   function ajouter(item, enTete) {
     var l = lire(), a = active(l);
-    var deja = a.items.findIndex(function (x) { return x.id === item.id; });
+    // Meme episode sous deux identifiants (fiche / API Apple) : on compare aussi la source.
+    var deja = a.items.findIndex(function (x) { return x.id === item.id || (x.src && x.src === item.src); });
     if (deja >= 0) {
       if (!enTete) return 'deja';
       a.items.splice(deja, 1);
@@ -114,9 +118,132 @@
     }
   }
 
+  /* ---------- « + » sur TOUTE carte de contenu du site (22/11/2026) ----------
+   * Lien vers une fiche (fiches/slug.html) ou vers une critique MediaCritic
+   * (episodes/page.html) portant une image : on y greffe un bouton « + » qui
+   * ajoute le DERNIER episode lisible. Resolution au clic seulement :
+   *   critique MC -> /data/ecoute-mc.json (patch_ecoute_episodes.py) ;
+   *   fiche -> /data/content/slug.json (episodes_recents, videos), sinon API
+   *   publique d'Apple (trackId) ; rien de lisible -> message, pas d'ajout. */
+  function cyrb(s) {
+    var h1 = 0xdeadbeef, h2 = 0x41c6ce57;
+    for (var i = 0, c; i < s.length; i++) { c = s.charCodeAt(i); h1 = Math.imul(h1 ^ c, 2654435761); h2 = Math.imul(h2 ^ c, 1597334677); }
+    h1 = Math.imul(h1 ^ (h1 >>> 16), 2246822507) ^ Math.imul(h2 ^ (h2 >>> 13), 3266489909);
+    h2 = Math.imul(h2 ^ (h2 >>> 16), 2246822507) ^ Math.imul(h1 ^ (h1 >>> 13), 3266489909);
+    return (4294967296 * (2097151 & h2) + (h1 >>> 0)).toString(16);
+  }
+  var RE_FICHE = /(?:^|\/)fiches\/([a-z0-9][a-z0-9-]*)\.html(?:[?#].*)?$/;
+  var RE_EP = /(?:^|\/)episodes\/([a-z0-9][a-z0-9-]*\.html)(?:[?#].*)?$/;
+  var EXCLU = 'header,footer,nav,.mch,.mcf,.mcj,.ecl,#mys,.mc-ec,.ep-list,.ep-tous,.ep-nav,.bd-apercu';
+  var cacheMC = null;
+  function jsonDe(url) {
+    return fetch(url, { cache: 'no-cache' }).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); });
+  }
+  function texte(s) { return typeof s === 'string' ? s : ''; }
+  function depuisFiche(slug) {
+    return jsonDe('/data/content/' + slug + '.json').then(function (d) {
+      var base = { emission: texte(d.title), lien: '/fiches/' + slug + '.html',
+                   image: /^https:\/\//.test(d.image || '') ? d.image : '' };
+      function fait(type, src, titre, date, duree) {
+        return { id: cyrb(src), type: type, src: src, titre: texte(titre), emission: base.emission,
+                 lien: base.lien, image: base.image, date: texte(date), duree: typeof duree === 'number' ? duree : null };
+      }
+      var eps = (d.episodes_recents || []).slice().sort(function (a, b) { return (a.date || '') < (b.date || '') ? 1 : -1; });
+      for (var i = 0; i < eps.length; i++) {
+        if (/^https:\/\//.test(eps[i].audio || '')) return fait('audio', eps[i].audio, eps[i].titre, eps[i].date, eps[i].duree);
+        if (/^[\w-]{11}$/.test(eps[i].video || '')) return fait('youtube', eps[i].video, eps[i].titre, eps[i].date, null);
+      }
+      var vids = d.videos || [];
+      for (var j = 0; j < vids.length; j++) if (/^[\w-]{11}$/.test(vids[j].video || '')) return fait('youtube', vids[j].video, vids[j].titre, vids[j].date, null);
+      var tid = ((d.platforms || {}).apple || {}).trackId;
+      if (!tid) return null;
+      return jsonDe('https://itunes.apple.com/lookup?id=' + encodeURIComponent(tid) + '&country=fr&entity=podcastEpisode&limit=10').then(function (j) {
+        var r = (j.results || []).filter(function (x) { return x.wrapperType === 'podcastEpisode' && /^https:\/\//.test(x.episodeUrl || ''); })
+          .sort(function (a, b) { return (a.releaseDate || '') < (b.releaseDate || '') ? 1 : -1; })[0];
+        return r ? fait('audio', r.episodeUrl, r.trackName, (r.releaseDate || '').slice(0, 10),
+                        r.trackTimeMillis ? Math.round(r.trackTimeMillis / 1000) : null) : null;
+      });
+    });
+  }
+  function depuisCritique(page) {
+    cacheMC = cacheMC || jsonDe('/data/ecoute-mc.json');
+    return cacheMC.then(function (t) { return t[page] || null; });
+  }
+  function nomCarte(a) {
+    var t = a.querySelector('.card-title,.cl-titre,.top-titre,.sim-title,.c-title,h2,h3');
+    var img = a.querySelector('img');
+    return ((t && t.textContent) || (img && img.alt) || a.getAttribute('aria-label') || '').trim();
+  }
+  function equiperCarte(a) {
+    if (a.hasAttribute('data-mc-plus')) return;
+    a.setAttribute('data-mc-plus', '');
+    // URL resolue : les fiches se lient entre elles en relatif (« autre.html »).
+    var href = '';
+    try { var u = new URL(a.href, location.href); if (u.origin === location.origin) href = u.pathname; } catch (x) {}
+    var m = href.match(RE_FICHE), e = m ? null : href.match(RE_EP);
+    if (!(m || e) || a.closest(EXCLU)) return;
+    var img = a.querySelector('img,.card-cover-ph,.card-cover-placeholder');
+    if (!img) return;
+    var nom = nomCarte(a);
+    var b = document.createElement('button');
+    b.type = 'button'; b.className = 'mc-ec-carte'; b.textContent = '+';
+    b.setAttribute(m ? 'data-mc-fiche' : 'data-mc-critique', m ? m[1] : e[1]);
+    b.setAttribute('aria-label', (m ? 'Ajouter le dernier épisode de ' : 'Ajouter notre critique de ') + (nom || 'ce contenu') + ' à ma liste d\'écoute');
+    b.title = m ? 'Ajouter le dernier épisode à ma liste' : 'Ajouter notre épisode à ma liste';
+    // Petite vignette (lignes de classement) : bouton a cote du lien ;
+    // grande vignette (cartes) : bouton pose dans le coin de l'image.
+    var hote = img.parentElement === a ? a : img.parentElement;
+    var petit = (img.getBoundingClientRect().width || img.width || 0) < 90;
+    if (petit && a.parentElement && a.parentElement.tagName === 'LI') {
+      b.classList.add('mc-ec-carte-ligne');
+      a.insertAdjacentElement('afterend', b);
+    } else {
+      hote.classList.add('mc-ec-hote');
+      // Image posee directement dans la carte : coin haut droit (le bas porte le texte).
+      if (hote === a) b.classList.add('mc-ec-carte-coin');
+      hote.appendChild(b);
+    }
+  }
+  function balayer(racine) {
+    if (document.getElementById('ecl')) return;            // lecteur : rien a greffer
+    (racine.querySelectorAll ? racine : document).querySelectorAll('a[href]').forEach(equiperCarte);
+  }
+  function clicCarte(ev) {
+    var b = ev.target.closest && ev.target.closest('.mc-ec-carte');
+    if (!b) return;
+    ev.preventDefault(); ev.stopPropagation();
+    if (b.getAttribute('aria-busy') === 'true') return;
+    b.setAttribute('aria-busy', 'true'); b.textContent = '…';
+    var slug = b.getAttribute('data-mc-fiche'), page = b.getAttribute('data-mc-critique');
+    (slug ? depuisFiche(slug) : depuisCritique(page)).then(function (item) {
+      if (!item) { toast('Pas encore d\'épisode lisible ici : ouvre la fiche pour l\'écouter sur ta plateforme.'); b.textContent = '+'; return; }
+      var r = ajouter(item, false);
+      toast(r === 'deja' ? 'Déjà dans « ' + nomActif() + ' »' : 'Ajouté à « ' + nomActif() + ' » 🎧 ' + (item.titre ? '· ' + item.titre.slice(0, 60) : ''));
+      b.textContent = '✓';
+      setTimeout(function () { b.textContent = '+'; }, 2500);
+      try { if (window.gtag) window.gtag('event', 'ecoute_ajouter', { type: item.type, depuis: 'carte' }); } catch (x) {}
+    }, function () {
+      toast('Impossible de récupérer l\'épisode. Vérifie ta connexion et réessaie.'); b.textContent = '+';
+    }).then(function () { b.removeAttribute('aria-busy'); });
+  }
+
+  document.addEventListener('click', clicCarte, true);
   document.addEventListener('click', clic);
   window.addEventListener('storage', function (e) { if (e.key === CLE) pastille(); });
-  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', pastille); else pastille();
+  function demarrer() {
+    pastille();
+    balayer(document);
+    // Grilles construites en JS (accueil, annuaire, comparateur) et « afficher plus ».
+    try {
+      new MutationObserver(function (ms) {
+        ms.forEach(function (m) { m.addedNodes.forEach(function (n) {
+          if (n.nodeType !== 1) return;
+          if (n.matches && n.matches('a[href]')) equiperCarte(n); else balayer(n);
+        }); });
+      }).observe(document.body, { childList: true, subtree: true });
+    } catch (e) {}
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', demarrer); else demarrer();
   // Pages qui construisent leurs boutons en JS (Mystere du Jour, tous les episodes).
   window.MCListe = {
     ajouter: function (item) { return ajouter(item, false); },
