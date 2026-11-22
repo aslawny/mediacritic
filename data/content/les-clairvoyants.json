@@ -25,31 +25,41 @@
     "series"
   ],
   "addedAt": "2026-06-12",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
-      "titre": "Les Clairvoyants #115 : 🎶 Doom, quand votre cœur fait Doom 🎶",
-      "date": "2026-10-01"
+      "titre": "Les Clairvoyants #116 : Secret Wars, Marvel fait sa guerre des mondes",
+      "date": "2026-11-19",
+      "audio": "https://podcasts.geekzone.fr/LC/lc116_160.mp3",
+      "duree": 4400
     },
     {
-      "titre": "Les Clairvoyants #114 : [spoiler], la [spoiler] qui retourne les cerveaux",
-      "date": "2026-08-06"
+      "titre": "Les Clairvoyants #115 : 🎶 Doom, quand votre cœur fait Doom 🎶",
+      "date": "2026-10-01",
+      "audio": "https://podcasts.geekzone.fr/LC/lc115_160.mp3",
+      "duree": 3661
+    },
+    {
+      "titre": "Les Clairvoyants #114 : Jean Grey, la mutante rousse qui retourne les cerveaux",
+      "date": "2026-08-06",
+      "audio": "https://podcasts.geekzone.fr/LC/lc114_160.mp3",
+      "duree": 4434
     },
     {
       "titre": "Les Clairvoyants #113 : Brand New Day dans les comics, l’arc qui a déchiré les fans",
-      "date": "2026-06-11"
+      "date": "2026-06-11",
+      "audio": "https://podcasts.geekzone.fr/LC/lc113_160.mp3",
+      "duree": 4461
     },
     {
       "titre": "Les Clairvoyants #112 : Tombstone et Scorpion, les Sinister Two",
-      "date": "2026-03-27"
-    },
-    {
-      "titre": "Les Clairvoyants #111 : Simon Williams aka Wonder Man, l’homme ionique",
-      "date": "2026-01-15"
+      "date": "2026-03-27",
+      "audio": "https://podcasts.geekzone.fr/LC/lc112_160.mp3",
+      "duree": 4544
     }
   ],
-  "derniere_activite": "2026-10-01",
-  "frequence_jours": 70,
+  "derniere_activite": "2026-11-19",
+  "frequence_jours": 56,
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",

@@ -25,30 +25,40 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "La guerre c'est mal - La chronique d'Aymeric Lompret",
+      "date": "2026-11-15",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/7646cdc8-0313-4f74-a8ff-c9d742efd706.mp3?_=1794781064&ps=d76ed85b-40cf-4634-998e-842f9cce9453",
+      "duree": 322
+    },
+    {
       "titre": "Vous êtes trop durs avec moi - La chronique d'Aymeric Lompret",
-      "date": "2026-11-08"
+      "date": "2026-11-08",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/56d8a106-8617-49c4-958f-61b80bb59c27.mp3?_=1794169220&ps=d76ed85b-40cf-4634-998e-842f9cce9453",
+      "duree": 316
     },
     {
       "titre": "La faute à LFI - La chronique d'Aymeric Lompret",
-      "date": "2026-10-25"
+      "date": "2026-10-25",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/59261ca4-f6b9-4c84-ac39-86d589b21383.mp3?_=1792962392&ps=d76ed85b-40cf-4634-998e-842f9cce9453",
+      "duree": 350
     },
     {
       "titre": "Le congrès du RN - La chronique d'Aymeric Lompret",
-      "date": "2026-10-18"
+      "date": "2026-10-18",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/118ef62d-65a7-46d1-8ed4-18697f338d72.mp3?_=1792350029&ps=d76ed85b-40cf-4634-998e-842f9cce9453",
+      "duree": 311
     },
     {
       "titre": "Pas de police pas de police - La chronique d'Aymeric Lompret",
-      "date": "2026-10-11"
-    },
-    {
-      "titre": "Lycéens vs CRS - La chronique d'Aymeric Lompret",
-      "date": "2026-10-04"
+      "date": "2026-10-11",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/0772b51f-9563-4043-81a2-9127ad1a875a.mp3?_=1791746060&ps=d76ed85b-40cf-4634-998e-842f9cce9453",
+      "duree": 262
     }
   ],
-  "derniere_activite": "2026-11-08",
+  "derniere_activite": "2026-11-15",
   "frequence_jours": 6,
   "avis_publics": {
     "source": "apple",

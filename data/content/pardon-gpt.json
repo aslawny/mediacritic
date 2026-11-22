@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/pardon-gpt/id1687086031?uo=2",
       "trackId": 1687086031,
       "rating": 4.8,
-      "ratingCount": 593,
+      "ratingCount": 595,
       "episodeCount": null
     }
   },
@@ -25,7 +25,7 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,26 +54,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "Episode 116 : Paul & Quentin",
+      "date": "2026-11-18",
+      "audio": "https://sphinx.acast.com/p/open/s/645a2f1921ff900011823028/e/6ae5c1d5e8cdbf26dd2b979b/media.mp3",
+      "duree": 4568
+    },
+    {
+      "titre": "Episode 115 : Marine Ella",
+      "date": "2026-11-11",
+      "audio": "https://sphinx.acast.com/p/open/s/645a2f1921ff900011823028/e/6ae5c2177f979512c10e3c64/media.mp3",
+      "duree": 5153
+    },
+    {
       "titre": "Episode 114 : JeanJean",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://sphinx.acast.com/p/open/s/645a2f1921ff900011823028/e/6ae5c1f5e8cdbf26dd2b9e70/media.mp3",
+      "duree": 5658
     },
     {
       "titre": "Episode 113 : Qu'est ce qu'on devient.. - en live au Point Virgule",
-      "date": "2026-10-28"
+      "date": "2026-10-28",
+      "audio": "https://sphinx.acast.com/p/open/s/645a2f1921ff900011823028/e/6ae0c232ab1b1d113de2b69c/media.mp3",
+      "duree": 4163
     },
     {
       "titre": "Episode 112 : Mehdi Bousaidan",
-      "date": "2026-10-21"
-    },
-    {
-      "titre": "Episode 111 : Thea",
-      "date": "2026-10-14"
-    },
-    {
-      "titre": "Episode 110 : Nos petites addictions - en live au Point Virgule",
-      "date": "2026-10-07"
+      "date": "2026-10-21",
+      "audio": "https://sphinx.acast.com/p/open/s/645a2f1921ff900011823028/e/6ad498513243d006bb8b1e51/media.mp3",
+      "duree": 5230
     }
   ],
-  "derniere_activite": "2026-11-04",
+  "derniere_activite": "2026-11-18",
   "frequence_jours": 7
 }

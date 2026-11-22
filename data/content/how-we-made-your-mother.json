@@ -26,7 +26,7 @@
     "series"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "How We Met Under the Table | S4E6 \"Happily Ever After\"",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-11-09",
-  "frequence_jours": 5
+  "frequence_jours": 5,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mostrecent",
+    "releve": "2026-11-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Isafries",
+        "titre": "Legendary",
+        "texte": "This is an awesome podcast. I’ve been listening from the very beginning and have been a fan of HIMYM for forever. I’ve rewatched the show at least 10 times. It’s so cool to hear the back story to this amazingly timeless show.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Roooooo03",
+        "titre": "Love it so much!",
+        "texte": "Love this podcast so much! And it made me rewatch the episodes while listening too!! Starting the listening for season 2 right now — I hope that they keep Jordana (Josh’s wife) segment… I really liked her opinions and questions… only on ep 1 of season 2 but she wasn’t it 😭😭 But t…"
+      },
+      {
+        "note": 5,
+        "auteur": "Improjoe",
+        "titre": "Right? RIGHT?!",
+        "texte": "This podcast is everything HIMYM fans didn’t know they wanted and is definitely what they needed. So excited to re-journey through this legendary show with you guys. Will Jason Segal guest? Please say yes!"
+      }
+    ]
+  }
 }

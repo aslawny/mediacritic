@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/hang-out-with-hanane/id1660050859?uo=2",
       "trackId": 1660050859,
       "rating": 4.9,
-      "ratingCount": 406,
+      "ratingCount": 407,
       "episodeCount": null
     }
   },
@@ -27,30 +27,40 @@
     "vulgarisation"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Santé mentale et foi",
+      "date": "2026-11-20",
+      "audio": "https://audio.ausha.co/w038RSGd9eR1.mp3?t=1795193682",
+      "duree": 2072
+    },
+    {
+      "titre": "Les mystères du Vatican",
+      "date": "2026-11-16",
+      "audio": "https://audio.ausha.co/VOvJKc8LL8lD.mp3?t=1794777523",
+      "duree": 1094
+    },
+    {
       "titre": "Le sexe",
-      "date": "2026-11-08"
+      "date": "2026-11-08",
+      "audio": "https://audio.ausha.co/Zg293TNRekeK.mp3?t=1794170591",
+      "duree": 961
     },
     {
       "titre": "Chut hchouma 🤫",
-      "date": "2026-11-02"
+      "date": "2026-11-02",
+      "audio": "https://audio.ausha.co/drxpqtNGRPqD.mp3?t=1793555298",
+      "duree": 5133
     },
     {
       "titre": "Le porno",
-      "date": "2026-10-12"
-    },
-    {
-      "titre": "La société de la fatigue",
-      "date": "2026-08-13"
-    },
-    {
-      "titre": "L’IA au service de la médecine ?",
-      "date": "2026-06-22"
+      "date": "2026-10-12",
+      "audio": "https://audio.ausha.co/kkxlAfkPPm7V.mp3?t=1791818127",
+      "duree": 2312
     }
   ],
-  "derniere_activite": "2026-11-08",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 7,
   "avis_publics": {
     "source": "apple",

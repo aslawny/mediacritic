@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/le-plaisir-de-partager/id1591729738?uo=2",
       "trackId": 1591729738,
       "rating": 4.8,
-      "ratingCount": 503,
+      "ratingCount": 504,
       "episodeCount": null
     }
   },
@@ -24,7 +24,7 @@
     "histoire"
   ],
   "addedAt": "2026-07-15",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -53,26 +53,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "044 - Audit sécurité, 4 HomePod et Claude coach : j’organise ma boîte comme un DSI",
+      "date": "2026-11-18",
+      "audio": "https://podcast.lokan.fr/le-plaisir-de-partager/044_PROLED_Enterprise.mp3",
+      "duree": 2523
+    },
+    {
+      "titre": "043 - MacBook Pro PROLED XDR, iPad mini et 300 € d’IA par mois",
+      "date": "2026-11-12",
+      "audio": "https://podcast.lokan.fr/le-plaisir-de-partager/043_MacBook_PROLED_XDR.mp3",
+      "duree": 2601
+    },
+    {
       "titre": "042 - iPhone Duo, MacBook Pro tactile : ma semaine Apple sans filtre",
-      "date": "2026-10-30"
+      "date": "2026-10-30",
+      "audio": "https://podcast.lokan.fr/le-plaisir-de-partager/042_iPhone_Duo.mp3",
+      "duree": 3608
     },
     {
       "titre": "041 - Apple nous tente, ChatGPT nous bluffe (avec Manon)",
-      "date": "2026-09-12"
+      "date": "2026-09-12",
+      "audio": "https://podcast.lokan.fr/le-plaisir-de-partager/041_iPhoneDuo_ChatGPT6_Astra.mp3",
+      "duree": 5320
     },
     {
       "titre": "040 - Moins d'algorithmes, plus de voyages (avec Manon)",
-      "date": "2026-08-19"
-    },
-    {
-      "titre": "039 - Comment travaille une coach de coachs ? (avec Déborah Valdeavero)",
-      "date": "2026-08-06"
-    },
-    {
-      "titre": "038 - L'IA m'aide à faire ce que je repousse depuis des années",
-      "date": "2026-07-22"
+      "date": "2026-08-19",
+      "audio": "https://podcast.lokan.fr/le-plaisir-de-partager/040_Algorithmes_Manon.mp3",
+      "duree": 4189
     }
   ],
-  "derniere_activite": "2026-10-30",
+  "derniere_activite": "2026-11-18",
   "frequence_jours": 15
 }

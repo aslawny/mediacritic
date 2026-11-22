@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/torr%C3%A9faction/id1233715899?uo=2",
       "trackId": 1233715899,
       "rating": 4.8,
-      "ratingCount": 209,
+      "ratingCount": 211,
       "episodeCount": null
     }
   },
@@ -26,7 +26,7 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -55,26 +55,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "Torréfaction #392 : GTA VI, Alfred 6, le bug tueur de SSD chez Nvidia, teasing DDR6 et Anthropic cartonne en b",
+      "date": "2026-11-20",
+      "audio": "https://podcasts.geekzone.fr/TORRE/torrefaction392.mp3",
+      "duree": 3104
+    },
+    {
+      "titre": "Torréfaction #391 : Le PSN est une passoire, l’explosion des “recomps”, OpenZ, Jensen Huang se fait démissionn",
+      "date": "2026-11-13",
+      "audio": "https://podcasts.geekzone.fr/TORRE/torrefaction391.mp3",
+      "duree": 3824
+    },
+    {
       "titre": "Torréfaction #390 : GTA6 vs. Internet, The Legend of Zelda: Ocarina of Time, Professeur Raoult vs. Le gang des",
-      "date": "2026-11-06"
+      "date": "2026-11-06",
+      "audio": "https://podcasts.geekzone.fr/TORRE/torrefaction390.mp3",
+      "duree": 2179
     },
     {
       "titre": "Torréfaction #389 : Deadlock, Phantom Blade Zero, du firmware custo pour vos synthés, Bleach, Macbook PROLED X",
-      "date": "2026-10-30"
+      "date": "2026-10-30",
+      "audio": "https://podcasts.geekzone.fr/TORRE/torrefaction389.mp3",
+      "duree": 2556
     },
     {
       "titre": "Torréfaction #388 : nouvel agent Valorant, RIP BioWare, la PS5 sur PC, failles PHP, VisionQuest, Nvidia RTX Sp",
-      "date": "2026-10-23"
-    },
-    {
-      "titre": "Torréfaction #387 : Dragon’s Dogma 2: Dark Arisen, W40K: Boltgun 2, Over the Hill, clavier Centauri 80 Dark Ed",
-      "date": "2026-10-16"
-    },
-    {
-      "titre": "Torréfaction #386 : des patches pour Arc Raider et Escape from Tarkov, Star Wars Galactic Racer, Enshrouded 1.",
-      "date": "2026-10-09"
+      "date": "2026-10-23",
+      "audio": "https://podcasts.geekzone.fr/TORRE/torrefaction388.mp3",
+      "duree": 3590
     }
   ],
-  "derniere_activite": "2026-11-06",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 7
 }

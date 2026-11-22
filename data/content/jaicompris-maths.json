@@ -28,26 +28,108 @@
   "updatedAt": "2026-07-31",
   "episodes_recents": [
     {
-      "titre": "Construire la différence de deux vecteurs 🚀 Expliqué pas à pas 💪 Cours 💥 Maths Seconde",
-      "date": "2026-09-06"
+      "titre": "S'ENTRAÎNER À LA DÉMONSTRATION 💪 Montrer que 3m + 2n est un multiple de 5 🚀 Exercice corrigé",
+      "date": "2026-11-18",
+      "video": "h3l7tD0rm3g"
     },
     {
-      "titre": "Construire la somme de deux vecteurs 🚀 Expliqué pas à pas 💪 Cours 💥 Maths Seconde",
-      "date": "2026-09-05"
+      "titre": "🎨 TRAVAIL ENSEMBLE 🚀 Deux peintres, un mur : combien de TEMPS ? 💪 Formule facile | TAGE MAGE ♕",
+      "date": "2026-11-15",
+      "video": "_Gx6mV0yolU"
     },
     {
-      "titre": "Vecteurs en Seconde 🚀 Bien comprendre ce que c’est 💥 Cours + exemples 💪",
-      "date": "2026-09-02"
+      "titre": "🚗 VITESSE – PROBLÈME DE RATTRAPAGE 🚀 Démontrer la formule t = d/(vₐ−vᵦ) 💪 Exercice corrigé",
+      "date": "2026-11-11",
+      "video": "gWYKXcuTanA"
     },
     {
-      "titre": "Taux d’évolution moyen - Pourcentage 🚀 +45,6 % en 3 mois, combien par mois ? 💥 Première Maths ♕",
-      "date": "2026-08-30"
+      "titre": "VITESSE MOYENNE sur un ALLER-RETOUR 💪 Démontrer la formule V = 2V₁V₂/(V₁+V₂) | Attention au piège !",
+      "date": "2026-11-08",
+      "video": "zkRz8jToAsg"
     },
     {
-      "titre": "Statistiques : nuage de points 🚀 Calculer et placer le point moyen 💪 Première Maths (36 p22) ♕",
-      "date": "2026-08-30"
+      "titre": "🚀 CALCULER AVEC DES RELATIFS 💪 Fractions, priorités opératoires et parenthèses | Exercice corrigé ♕",
+      "date": "2026-11-04",
+      "video": "af84nKfoXrs"
     }
   ],
-  "derniere_activite": "2026-09-06",
-  "frequence_jours": 0
+  "derniere_activite": "2026-11-18",
+  "frequence_jours": 3,
+  "videos": [
+    {
+      "titre": "S'ENTRAÎNER À LA DÉMONSTRATION 💪 Montrer que 3m + 2n est un multiple de 5 🚀 Exercice corrigé",
+      "date": "2026-11-18",
+      "video": "h3l7tD0rm3g"
+    },
+    {
+      "titre": "🎨 TRAVAIL ENSEMBLE 🚀 Deux peintres, un mur : combien de TEMPS ? 💪 Formule facile | TAGE MAGE ♕",
+      "date": "2026-11-15",
+      "video": "_Gx6mV0yolU"
+    },
+    {
+      "titre": "🚗 VITESSE – PROBLÈME DE RATTRAPAGE 🚀 Démontrer la formule t = d/(vₐ−vᵦ) 💪 Exercice corrigé",
+      "date": "2026-11-11",
+      "video": "gWYKXcuTanA"
+    },
+    {
+      "titre": "VITESSE MOYENNE sur un ALLER-RETOUR 💪 Démontrer la formule V = 2V₁V₂/(V₁+V₂) | Attention au piège !",
+      "date": "2026-11-08",
+      "video": "zkRz8jToAsg"
+    },
+    {
+      "titre": "🚀 CALCULER AVEC DES RELATIFS 💪 Fractions, priorités opératoires et parenthèses | Exercice corrigé ♕",
+      "date": "2026-11-04",
+      "video": "af84nKfoXrs"
+    },
+    {
+      "titre": "PYTHON : Comprendre le MODULO % 🚀 Combien de boîtes de 6 pour ranger n œufs ? Seconde - SNT",
+      "date": "2026-11-01",
+      "video": "LCZP9QeZp8E"
+    },
+    {
+      "titre": "Calculer TAUX D'ÉVOLUTION MOYEN 🚀 Mensuel Trimestriel Semestriel 💪 Prix augmente de 30 % en 1 an",
+      "date": "2026-10-28",
+      "video": "xIlmtLRfu5M"
+    },
+    {
+      "titre": "Calculer un TAUX D'ÉVOLUTION MOYEN 🚀 Très facilement 💪 Cours + Exemple | Maths",
+      "date": "2026-10-25",
+      "video": "J-cw_ovLOfw"
+    },
+    {
+      "titre": "FONCTIONS Python 🚀 Trouver le maximum de 2 puis 3 nombres 💪 Réutiliser une fonction | seconde SNT",
+      "date": "2026-10-14",
+      "video": "iUsXq8UKPHE"
+    },
+    {
+      "titre": "FONCTIONS en Python 🚀 Comment les créer et les utiliser ? 💪 Cours + exemples | SNT Seconde",
+      "date": "2026-10-11",
+      "video": "D6-sL669ksY"
+    },
+    {
+      "titre": "CALCULER ASTUCIEUSEMENT 🚀 Avec des nombres relatifs 💪 Règle des signes | Automatismes maths",
+      "date": "2026-10-10",
+      "video": "rjafkYtcNfc"
+    },
+    {
+      "titre": "FONCTIONS 🚀 Image & antécédent 💪 Le cours complet | Troisième & Seconde",
+      "date": "2026-10-07",
+      "video": "ByH7NuCW0oo"
+    },
+    {
+      "titre": "CONVEXITÉ & INÉGALITÉS 🚀 Montrer que (2/π)x ≤ sin(x) ≤ x 💪 Un classique | Terminale spé maths",
+      "date": "2026-10-04",
+      "video": "O7lYnz1jVHY"
+    },
+    {
+      "titre": "CONVEXITÉ & INÉGALITÉS 🚀 Comment démontrer x ln(x) ≥ x − 1 💪 Terminale spé maths Fonction Logarithme",
+      "date": "2026-09-30",
+      "video": "sXAR4kShxf8"
+    },
+    {
+      "titre": "ÉQUATIONS en Seconde 🚀 L'essentiel pour réussir le contrôle 💪 Cours + conseils + erreurs à éviter ♕",
+      "date": "2026-09-26",
+      "video": "1ftcufJdY7I"
+    }
+  ]
 }

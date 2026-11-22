@@ -24,7 +24,7 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,23 +54,33 @@
   "episodes_recents": [
     {
       "titre": "Flashback - Titanic",
-      "date": "2021-03-24"
+      "date": "2021-03-24",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/e05c2d40-41ff-4a71-b411-55922f03e43f.mp3?_=1734468560",
+      "duree": 2378
     },
     {
       "titre": "Flashback - Lost",
-      "date": "2021-03-17"
+      "date": "2021-03-17",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/7e378cda-bf09-4f4c-b59a-0a4b36d8e189.mp3?_=1734468560",
+      "duree": 1998
     },
     {
       "titre": "Flashback - How I met your mother",
-      "date": "2021-03-10"
+      "date": "2021-03-10",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/16dd7c95-94e6-4a0b-9ee2-c86d4ea09c2a.mp3?_=1734468560",
+      "duree": 1784
     },
     {
       "titre": "Flashback - Scrubs",
-      "date": "2021-03-03"
+      "date": "2021-03-03",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/27c13a59-edb5-45d7-b834-6a845e2c39e2.mp3?_=1734468560",
+      "duree": 1599
     },
     {
       "titre": "Xtra - Panic sur Florida Beach",
-      "date": "2020-01-27"
+      "date": "2020-01-27",
+      "audio": "https://audio.audiomeans.fr/file/d1bfceeb-1fdd-4075-99f0-3db6d8c4c057.mp3?u=tOaYOEDSpc&_=1734468560",
+      "duree": 1215
     }
   ],
   "derniere_activite": "2021-03-24",

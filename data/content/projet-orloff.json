@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/projet-orloff/id1480388672?uo=2",
       "trackId": 1480388672,
       "rating": 4.8,
-      "ratingCount": 684,
+      "ratingCount": 685,
       "episodeCount": null
     }
   },
@@ -25,27 +25,31 @@
     "fiction"
   ],
   "addedAt": "2026-10-23",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-23",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "mandarine128",
+        "titre": "Tout simplement génial",
+        "texte": "Et hautement addictif ! Moi qui avait une envie d'un bon roman d'espionnage, j'ai trouvé ce que je cherchais, et même mieux ! C'était ma première fiction radio, alors autant vous dire que je suis tout de suite allée en chercher d'autres.…"
+      },
+      {
+        "note": 3,
+        "auteur": "So Fa Fa 2019",
+        "titre": "« Allias »?",
+        "texte": "Les sons sont très bons. En fermant les yeux on s’y croirait. Déception toutefois avec ce goût de déjà vu (entendu?) avec la série Allias, cette relation ambiguë entre un père et sa fille..."
+      },
+      {
+        "note": 5,
+        "auteur": "Luin Gor",
+        "titre": "Excellent",
+        "texte": "Très bien joué, immersif, j’ai adoré... Le directeur du SDECE, Mathieu Fouché est peut-être le seul personnage un tout petit peu moins crédible (bizarrement un peu tendre, il hésite sur certaines répliques). Et la fin est peut-être légèrement abrupte, mais ça reste excellent.…"
+      }
     ]
   }
 }

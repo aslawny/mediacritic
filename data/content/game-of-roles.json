@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/game-of-roles/id1350491357?uo=2",
       "trackId": 1350491357,
       "rating": 4.9,
-      "ratingCount": 554,
+      "ratingCount": 555,
       "episodeCount": null
     }
   },
@@ -27,30 +27,40 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Game of Rôles Odyssée - Episode 4 : Les quatre matins (3/3)",
+      "date": "2026-11-14",
+      "audio": "https://sphinx.acast.com/p/acast/s/game-of-roles-magic/e/6af6f03628531eda45d86aa0/media.mp3",
+      "duree": 3162
+    },
+    {
+      "titre": "Game of Rôles Odyssée - Episode 4 : Les quatre matins (2/3)",
+      "date": "2026-11-14",
+      "audio": "https://sphinx.acast.com/p/acast/s/game-of-roles-magic/e/6af6f01dcc76a302c4ad5f96/media.mp3",
+      "duree": 3402
+    },
+    {
+      "titre": "Game of Rôles Odyssée - Episode 4 : Les quatre matins (1/3)",
+      "date": "2026-11-14",
+      "audio": "https://sphinx.acast.com/p/acast/s/game-of-roles-magic/e/6af6efcdcc76a302c4ad1e52/media.mp3",
+      "duree": 3823
+    },
+    {
       "titre": "Game of Rôles Odyssée - Episode 3 : Quatre destinées (3/3)",
-      "date": "2026-10-31"
+      "date": "2026-10-31",
+      "audio": "https://sphinx.acast.com/p/acast/s/game-of-roles-magic/e/6ae5196eb478422f9135fd3c/media.mp3",
+      "duree": 2999
     },
     {
       "titre": "Game of Rôles Odyssée - Episode 3 : Quatre destinées (2/3)",
-      "date": "2026-10-31"
-    },
-    {
-      "titre": "Game of Rôles Odyssée - Episode 3 : Quatre destinées (1/3)",
-      "date": "2026-10-31"
-    },
-    {
-      "titre": "Le pays merveilleux de Charleroi pour CAP 48H (4/4)",
-      "date": "2026-10-29"
-    },
-    {
-      "titre": "Le pays merveilleux de Charleroi pour CAP 48H (3/4)",
-      "date": "2026-10-29"
+      "date": "2026-10-31",
+      "audio": "https://sphinx.acast.com/p/acast/s/game-of-roles-magic/e/6ae51958e57912cf6fd53a8c/media.mp3",
+      "duree": 3725
     }
   ],
-  "derniere_activite": "2026-10-31",
+  "derniere_activite": "2026-11-14",
   "frequence_jours": 0,
   "avis_publics": {
     "source": "apple",

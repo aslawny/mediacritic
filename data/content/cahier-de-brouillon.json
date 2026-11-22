@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/cahier-de-brouillon/id6785305616?uo=2",
       "trackId": 6785305616,
       "rating": 4.8,
-      "ratingCount": 318,
+      "ratingCount": 321,
       "episodeCount": null
     }
   },
@@ -27,30 +27,40 @@
     "news"
   ],
   "addedAt": "2026-06-30",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Faïza Guène : succès, inspiration et Goncourt en marbre",
+      "date": "2026-11-18",
+      "audio": "https://sphinx.acast.com/p/open/s/6a2fe587685069f99ffcc455/e/6afdc8d358de7292de6c5901/media.mp3",
+      "duree": 5578
+    },
+    {
+      "titre": "Extrait Kalindi : \"On m'a volé mon premier roman\"",
+      "date": "2026-11-11",
+      "audio": "https://sphinx.acast.com/p/open/s/6a2fe587685069f99ffcc455/e/6ac438c79610f265be2d3629/media.mp3",
+      "duree": 863
+    },
+    {
       "titre": "Sophie Astrabie : écriture, chances et accoudoirs",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://sphinx.acast.com/p/open/s/6a2fe587685069f99ffcc455/e/6ac422599610f265be26592a/media.mp3",
+      "duree": 6736
     },
     {
       "titre": "Extrait Sophie Astrabie : \"C'était en fait une chance\"",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "audio": "https://sphinx.acast.com/p/open/s/6a2fe587685069f99ffcc455/e/6ac4205c9610f265be24db6e/media.mp3",
+      "duree": 731
     },
     {
       "titre": "Extrait Tristan Lopin : le premier rire",
-      "date": "2026-10-28"
-    },
-    {
-      "titre": "Hoshi : transmission, musique et prosopagnosie",
-      "date": "2026-10-21"
-    },
-    {
-      "titre": "Extrait Hoshi : \"Je suis une humaine engagée\"",
-      "date": "2026-10-20"
+      "date": "2026-10-28",
+      "audio": "https://sphinx.acast.com/p/open/s/6a2fe587685069f99ffcc455/e/6ac412977c84f5d4dd72e635/media.mp3",
+      "duree": 759
     }
   ],
-  "derniere_activite": "2026-11-04",
+  "derniere_activite": "2026-11-18",
   "frequence_jours": 6,
   "avis_publics": {
     "source": "apple",

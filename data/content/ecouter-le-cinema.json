@@ -26,7 +26,7 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "Écouter le cinéma (5/5) : Shebam, blop, wizz !",
@@ -52,25 +52,29 @@
   "derniere_activite": "2019-02-13",
   "frequence_jours": 6,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-23",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Coline in Paris",
+        "titre": "Plein les oreilles",
+        "texte": "Une série passionnante ludique et instructive avec un goût de trop peu . J’ai bcp appris sur ces métiers méconnus ,sur les techniques pour produire ces sons qui tout autant que l’image voire plus flattent notre imaginaire . Bravo !"
+      },
+      {
+        "note": 5,
+        "auteur": "initquinn",
+        "titre": "Enrichissant !!",
+        "texte": "Superbes séries sur les sons au cinéma! Ça va être difficile de trouver une série de podcast aussi intéressante! Merci infiniment ☺️"
+      },
+      {
+        "note": 5,
+        "auteur": "Pow_her",
+        "titre": "Fascinant",
+        "texte": "Un podcast original, instructif et fascinant pour qui le cinéma représente plus qu’une distraction!"
+      }
     ]
   }
 }

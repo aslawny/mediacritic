@@ -25,7 +25,7 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -55,23 +55,33 @@
   "episodes_recents": [
     {
       "titre": "Épisode 49 – Annabelle et la correspondance au XVIIIème siècle (Passion Modernistes)",
-      "date": "2026-09-25"
+      "date": "2026-09-25",
+      "audio": "https://passionmedievistes.fr/podcast-download/8877/modernistes-ep-49-correspondance.mp3",
+      "duree": 2928
     },
     {
       "titre": "Épisode 48 – Carla et les collectionneuses au XVIIIème siècle (Passion Modernistes)",
-      "date": "2026-05-29"
+      "date": "2026-05-29",
+      "audio": "https://passionmedievistes.fr/podcast-download/8506/modernistes-ep-48-carla-collectionneuses.mp3",
+      "duree": 2874
     },
     {
       "titre": "Bonus du hors-série 5 de Passion Modernistes",
-      "date": "2026-03-15"
+      "date": "2026-03-15",
+      "audio": "https://passionmedievistes.fr/podcast-download/8309/bonus-du-hors-serie-5.mp3",
+      "duree": 752
     },
     {
       "titre": "Hors-série 5 – Hubert Robert et Fragonard au Musée de Valence",
-      "date": "2026-03-13"
+      "date": "2026-03-13",
+      "audio": "https://passionmedievistes.fr/podcast-download/8302/modernistes-hs-hubert-robert-fragonard-musee-valence.mp3",
+      "duree": 3758
     },
     {
       "titre": "Super Joute Modernistes #3 – Les rois du XVIIème siècle (partie 1)",
-      "date": "2026-02-27"
+      "date": "2026-02-27",
+      "audio": "https://passionmedievistes.fr/podcast-download/8250/sjr-modernistes-3-rois-xviieme-siecle-pt-1.mp3",
+      "duree": 6252
     }
   ],
   "derniere_activite": "2026-09-25",

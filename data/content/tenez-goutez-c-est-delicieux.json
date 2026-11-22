@@ -27,7 +27,7 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -56,26 +56,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "Roman Doduik : Les secrets de sa série verticale, sa vie amoureuse et un fantôme dans son appart !",
+      "date": "2026-11-17",
+      "audio": "https://sphinx.acast.com/p/open/s/680e31a650eb1025285246b5/e/6afc80a254e40389c7649d3c/media.mp3",
+      "duree": 3679
+    },
+    {
+      "titre": "Philippine Delaire : « sur scène j'ose tout et je m'en fiche ! »",
+      "date": "2026-11-10",
+      "audio": "https://sphinx.acast.com/p/open/s/680e31a650eb1025285246b5/e/6af349c5375b4f309fd4bfc1/media.mp3",
+      "duree": 3256
+    },
+    {
       "titre": "Yann Guillarme : Du supermarché aux salles pleines, la TV et les soirées arrosées avec son père !",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "audio": "https://sphinx.acast.com/p/open/s/680e31a650eb1025285246b5/e/6aea1298366f1537f6ec0455/media.mp3",
+      "duree": 3694
     },
     {
       "titre": "Pierre de Maere : « je ne suis pas né pour faire fortune mais pour bien dormir ! »",
-      "date": "2026-10-27"
+      "date": "2026-10-27",
+      "audio": "https://sphinx.acast.com/p/open/s/680e31a650eb1025285246b5/e/6ae0e404353571b3ca6c7c1a/media.mp3",
+      "duree": 3335
     },
     {
       "titre": "Marie de Brauer : « J’assume la gourmandise, de la bouffe au sexe »",
-      "date": "2026-10-20"
-    },
-    {
-      "titre": "Sébastien Tellier : « J’ai gardé mon âme d’enfant… et je me drogue à la vie ! »",
-      "date": "2026-10-13"
-    },
-    {
-      "titre": "La collection TGCD : Miam !",
-      "date": "2026-06-29"
+      "date": "2026-10-20",
+      "audio": "https://sphinx.acast.com/p/open/s/680e31a650eb1025285246b5/e/6ad78154e48771c23f315825/media.mp3",
+      "duree": 3787
     }
   ],
-  "derniere_activite": "2026-11-03",
+  "derniere_activite": "2026-11-17",
   "frequence_jours": 7
 }

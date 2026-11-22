@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/vraiment-riches/id1896928866?uo=2",
       "trackId": 1896928866,
       "rating": 4.5,
-      "ratingCount": 215,
+      "ratingCount": 216,
       "episodeCount": null
     }
   },
@@ -24,7 +24,7 @@
     "histoire"
   ],
   "addedAt": "2026-06-18",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,23 +54,33 @@
   "episodes_recents": [
     {
       "titre": "Comment réussir financièrement sans passer à côté de sa vie ?",
-      "date": "2026-11-08"
+      "date": "2026-11-08",
+      "audio": "https://sphinx.acast.com/p/open/s/6a03312837a1e7308dfcf309/e/6aec735bd4f8b3b748d5ff35/media.mp3",
+      "duree": 5512
     },
     {
       "titre": "Comment investir comme les riches ?",
-      "date": "2026-10-25"
+      "date": "2026-10-25",
+      "audio": "https://sphinx.acast.com/p/open/s/6a03312837a1e7308dfcf309/e/6adbb787f38f36c23445e3c3/media.mp3",
+      "duree": 4539
     },
     {
       "titre": "Les 5 révolutions qui vont créer les fortunes de demain",
-      "date": "2026-10-11"
+      "date": "2026-10-11",
+      "audio": "https://sphinx.acast.com/p/open/s/6a03312837a1e7308dfcf309/e/6ac7c5245f788808a76ccac4/media.mp3",
+      "duree": 4993
     },
     {
       "titre": "Comment bâtir votre personal brand ?",
-      "date": "2026-09-27"
+      "date": "2026-09-27",
+      "audio": "https://sphinx.acast.com/p/open/s/6a03312837a1e7308dfcf309/e/6ab61b9562a47b6becf9ca1a/media.mp3",
+      "duree": 4571
     },
     {
       "titre": "Comment gagner votre premier million ?",
-      "date": "2026-09-13"
+      "date": "2026-09-13",
+      "audio": "https://sphinx.acast.com/p/open/s/6a03312837a1e7308dfcf309/e/6aa2f757a6e9aef4cca7b551/media.mp3",
+      "duree": 5430
     }
   ],
   "derniere_activite": "2026-11-08",

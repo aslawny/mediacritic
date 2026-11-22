@@ -27,7 +27,7 @@
     "series"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "ca",
@@ -56,26 +56,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "Doctor Sleep, Life of Chuck, Jessie... que vaut Mike Flanagan côté films ?",
+      "date": "2026-11-19",
+      "audio": "https://sphinx.acast.com/p/open/s/644a8a32adac0f00105359d5/e/6afc541a228213ae4e40b373/media.mp3",
+      "duree": 2582
+    },
+    {
       "titre": "De Hill House à Carrie : quelle est la meilleure série de Mike Flanagan ?",
-      "date": "2026-11-05"
+      "date": "2026-11-05",
+      "audio": "https://sphinx.acast.com/p/open/s/644a8a32adac0f00105359d5/e/6aea14449cb48f65ea11399b/media.mp3",
+      "duree": 2833
     },
     {
       "titre": "Stephen King : le meilleur du pire en 6 films",
-      "date": "2026-10-22"
+      "date": "2026-10-22",
+      "audio": "https://sphinx.acast.com/p/open/s/644a8a32adac0f00105359d5/e/6abfc4678da1db2e6fab1875/media.mp3",
+      "duree": 2798
     },
     {
       "titre": "Stephen King : les meilleurs films méconnus tirés de ses romans",
-      "date": "2026-10-08"
+      "date": "2026-10-08",
+      "audio": "https://sphinx.acast.com/p/open/s/644a8a32adac0f00105359d5/e/6abf86a9174ee37fcf4ea674/media.mp3",
+      "duree": 2692
     },
     {
       "titre": "Resident Evil (2026) : une bonne adaptation des jeux... et un bon film d'horreur ?",
-      "date": "2026-09-24"
-    },
-    {
-      "titre": "Spider-Man, Obsession, L'Odyssée... que retenir du box-office de l'été 2026 ?",
-      "date": "2026-09-03"
+      "date": "2026-09-24",
+      "audio": "https://sphinx.acast.com/p/open/s/644a8a32adac0f00105359d5/e/6ab3a69ef161207303575e4e/media.mp3",
+      "duree": 1543
     }
   ],
-  "derniere_activite": "2026-11-05",
+  "derniere_activite": "2026-11-19",
   "frequence_jours": 14
 }

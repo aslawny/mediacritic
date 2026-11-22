@@ -26,7 +26,7 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -56,23 +56,33 @@
   "episodes_recents": [
     {
       "titre": "Tim Henman, le héros inachevé [REDIFFUSION]",
-      "date": "2024-06-26"
+      "date": "2024-06-26",
+      "audio": "https://sphinx.acast.com/p/open/s/5d0b9462741a47da30341e85/e/65f990db1cea080016731b22/media.mp3",
+      "duree": 1375
     },
     {
       "titre": "De débutant à champion du monde en 18 mois : l'incroyable ascension de Donald Thomas [REDIFFUSION]",
-      "date": "2024-05-01"
+      "date": "2024-05-01",
+      "audio": "https://sphinx.acast.com/p/open/s/5d0b9462741a47da30341e85/e/65f995d21cea08001673de68/media.mp3",
+      "duree": 1458
     },
     {
       "titre": "Et Raquil surgit de nulle part... [REDIFFUSION]",
-      "date": "2024-04-24"
+      "date": "2024-04-24",
+      "audio": "https://sphinx.acast.com/p/open/s/5d0b9462741a47da30341e85/e/65f99485613e7800160560d5/media.mp3",
+      "duree": 1683
     },
     {
       "titre": "Lou Gehrig, vie et mort d’un immortel [REDIFFUSION]",
-      "date": "2024-04-17"
+      "date": "2024-04-17",
+      "audio": "https://sphinx.acast.com/p/open/s/5d0b9462741a47da30341e85/e/65f99401d324f800165220f2/media.mp3",
+      "duree": 1169
     },
     {
       "titre": "Guy Stéphan, la bonne étoile de Deschamps [REDIFFUSION]",
-      "date": "2024-04-10"
+      "date": "2024-04-10",
+      "audio": "https://sphinx.acast.com/p/open/s/5d0b9462741a47da30341e85/e/65f990407012ab00183522df/media.mp3",
+      "duree": 1163
     }
   ],
   "derniere_activite": "2024-06-26",

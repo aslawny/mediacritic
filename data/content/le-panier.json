@@ -26,31 +26,41 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "#381 - Maison Lejaby : la réinvention digitale d'une maison centenaire",
+      "date": "2026-11-20",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/7b0a4ed9-5de4-43f7-9896-0be3f6f85592.mp3?_=1794895370",
+      "duree": 4039
+    },
+    {
+      "titre": "#380 - Kokoro Lingua : Quitter le luxe pour apprendre les langues à 800 000 enfants",
+      "date": "2026-11-13",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/d13df7bf-67dc-4aab-b9b9-0dd0364c77c7.mp3?_=1794476770",
+      "duree": 4377
+    },
+    {
+      "titre": "Le Panier Solutions #1 – Global-e : vendre à l’international comme en France",
+      "date": "2026-11-10",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/ca635ea7-68a1-476b-9eab-c89c881ea940.mp3?_=1793944295",
+      "duree": 1807
+    },
+    {
       "titre": "#379 - Les Commis : CAC divisé par deux, CA doublé, sans VC",
-      "date": "2026-11-06"
+      "date": "2026-11-06",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/fc21054d-b64f-476f-a5e8-731061110b67.mp3?_=1793787786",
+      "duree": 4673
     },
     {
       "titre": "Chronique SEO Oct. 26 - YouTube perd 91 % de citations dans ChatGPT : faut-il paniquer ?",
-      "date": "2026-10-30"
-    },
-    {
-      "titre": "Chronique Amazon nov 2026 - Black Friday, négos, IA : Amazon cherche la marge partout",
-      "date": "2026-10-30"
-    },
-    {
-      "titre": "#378 - Photoroom : 73 % des images générées par IA ne sont pas fidèles au produit",
-      "date": "2026-10-23"
-    },
-    {
-      "titre": "HS Biarritz 2026 - Thomas Husson : Agentic commerce : pourquoi ce n'est pas pour demain",
-      "date": "2026-10-16"
+      "date": "2026-10-30",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/09d9d5f6-7a4d-41b6-8e47-8eeeaae4971b.mp3?_=1793260215",
+      "duree": 1322
     }
   ],
-  "derniere_activite": "2026-11-06",
-  "frequence_jours": 0,
+  "derniere_activite": "2026-11-20",
+  "frequence_jours": 3,
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",

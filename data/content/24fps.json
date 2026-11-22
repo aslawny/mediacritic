@@ -24,27 +24,37 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "24FPS HS Août Septembre Octobre 2026",
-      "date": "2026-10-26"
+      "date": "2026-10-26",
+      "audio": "https://stats.podcloud.fr/24fps/24fps-hs-aout-septembre-octobre-2026/enclosure.a1f5e40b96e74b1cd9382d2d646117a78dd92e424af30dc9f9b77fc9002a8d7b.mp3?p=f",
+      "duree": 21040
     },
     {
       "titre": "24FPS 155 - L'Odyssée",
-      "date": "2026-08-01"
+      "date": "2026-08-01",
+      "audio": "https://stats.podcloud.fr/24fps/24fps-155-lodyssee/enclosure.eea06b2903cedea9788da0c578ea1e2107b33441bd2e0e2eecc5315b9b335a16.mp3?p=f",
+      "duree": 11923
     },
     {
       "titre": "24FPS HS Juin Juillet 2026",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "audio": "https://stats.podcloud.fr/24fps/24fps-hs-juin-juillet-2026/enclosure.f3d40c65943d37367bbd2b28f6a7a732b2517eb1104ea3dec9b1b6e66be26946.mp3?p=f",
+      "duree": 17473
     },
     {
       "titre": "24FPS HS Mars Avril Mai 2026",
-      "date": "2026-05-18"
+      "date": "2026-05-18",
+      "audio": "https://stats.podcloud.fr/24fps/24fps-hs-mars-avril-mai-2026/enclosure.cfa93b3477a8e94f8ec453a8764a940cfe70066f05fc968f0a6d6d829e093c15.mp3?p=f",
+      "duree": 17093
     },
     {
       "titre": "24FPS HS Janvier Février 2026",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "audio": "https://stats.podcloud.fr/24fps/24fps-hs-janvier-fevrier-2026/enclosure.dba15740a6e1ba2df3e58f7a911a73c07946836a1ecd51e167a60b5db1dfd307.mp3?p=f",
+      "duree": 15582
     }
   ],
   "derniere_activite": "2026-10-26",

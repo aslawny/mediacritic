@@ -23,30 +23,40 @@
     "humour"
   ],
   "addedAt": "2026-08-17",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "La question de trop - Les pires malaises (avec Alexis)",
+      "date": "2026-11-09",
+      "audio": "https://track.podcastics.com/9362/438830.mp3",
+      "duree": 5630
+    },
+    {
       "titre": "La question de trop - Les meilleures inventions",
-      "date": "2026-10-26"
+      "date": "2026-10-26",
+      "audio": "https://track.podcastics.com/9362/436589.mp3",
+      "duree": 5823
     },
     {
       "titre": "La question de trop - Les pires dates (avec Kenza)",
-      "date": "2026-10-12"
+      "date": "2026-10-12",
+      "audio": "https://track.podcastics.com/9362/434801.mp3",
+      "duree": 6099
     },
     {
       "titre": "La question de trop - L'illégalité (avec Grimkujow)",
-      "date": "2026-09-28"
+      "date": "2026-09-28",
+      "audio": "https://track.podcastics.com/9362/433594.mp3",
+      "duree": 7227
     },
     {
       "titre": "La question de trop - Un vœu pour le génie",
-      "date": "2026-09-14"
-    },
-    {
-      "titre": "La question de trop - Les red flags",
-      "date": "2026-08-31"
+      "date": "2026-09-14",
+      "audio": "https://track.podcastics.com/9362/432052.mp3",
+      "duree": 5068
     }
   ],
-  "derniere_activite": "2026-10-26",
+  "derniere_activite": "2026-11-09",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",

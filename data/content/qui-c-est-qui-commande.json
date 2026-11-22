@@ -23,7 +23,7 @@
     "education"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -53,23 +53,33 @@
   "episodes_recents": [
     {
       "titre": "Épisode 6 : De quoi tu te plains ?",
-      "date": "2025-12-04"
+      "date": "2025-12-04",
+      "audio": "https://sphinx.acast.com/p/open/s/68fb8fcd18bcdad2ab23affd/e/692ef089c64206293337f12f/media.mp3",
+      "duree": 2469
     },
     {
       "titre": "Épisode 5 : Va jouer dehors !",
-      "date": "2025-11-27"
+      "date": "2025-11-27",
+      "audio": "https://sphinx.acast.com/p/open/s/68fb8fcd18bcdad2ab23affd/e/69242a18cd88baf588e84fc1/media.mp3",
+      "duree": 1781
     },
     {
       "titre": "Épisode 4 : À quoi sert l’école ?",
-      "date": "2025-11-20"
+      "date": "2025-11-20",
+      "audio": "https://sphinx.acast.com/p/open/s/68fb8fcd18bcdad2ab23affd/e/691c3fc3589629f7d6b9807d/media.mp3",
+      "duree": 2298
     },
     {
       "titre": "Épisode 3 - Les enfants peuvent-ils se défendre ?",
-      "date": "2025-11-13"
+      "date": "2025-11-13",
+      "audio": "https://sphinx.acast.com/p/open/s/68fb8fcd18bcdad2ab23affd/e/6911c56dc1ed8717c58aa671/media.mp3",
+      "duree": 2742
     },
     {
       "titre": "Épisode 2 - C’est pour ton bien",
-      "date": "2025-11-06"
+      "date": "2025-11-06",
+      "audio": "https://sphinx.acast.com/p/open/s/68fb8fcd18bcdad2ab23affd/e/690882391c12353455c5dc63/media.mp3",
+      "duree": 2721
     }
   ],
   "derniere_activite": "2025-12-04",

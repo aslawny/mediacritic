@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/c-dans-lair/id1438726711?uo=2",
       "trackId": 1438726711,
       "rating": 4.0,
-      "ratingCount": 2157,
+      "ratingCount": 2158,
       "episodeCount": null
     }
   },
@@ -26,8 +26,20 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
+    {
+      "titre": "Trump, son « ami » Poutine… et le retour de l’affaire Epstein - Vos questions sms -",
+      "date": "2026-11-21",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3069655.mp3?origin=rss",
+      "duree": 268
+    },
+    {
+      "titre": "Trump, son « ami » Poutine… et le retour de l’affaire Epstein - L'intégrale -",
+      "date": "2026-11-21",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3069656.mp3?origin=rss",
+      "duree": 3614
+    },
     {
       "titre": "Xavier Tytelman - \"Pont de Poutine\" attaqué: les coulisses de l'opération secrète",
       "date": "2026-11-21",
@@ -45,18 +57,6 @@
       "date": "2026-11-20",
       "audio": "https://api.octopus.saooti.com/podcast/download/3060069.mp3?origin=rss",
       "duree": 3744
-    },
-    {
-      "titre": "Jean-Louis Borloo - Il veut \"réparer la république\"...mais comment?",
-      "date": "2026-11-20",
-      "audio": "https://api.octopus.saooti.com/podcast/download/3048989.mp3?origin=rss",
-      "duree": 788
-    },
-    {
-      "titre": "Xi, Trump, Poutine : un deal dans le dos de l'Ukraine ? - Vos questions sms -",
-      "date": "2026-11-19",
-      "audio": "https://api.octopus.saooti.com/podcast/download/3048995.mp3?origin=rss",
-      "duree": 320
     }
   ],
   "derniere_activite": "2026-11-21",

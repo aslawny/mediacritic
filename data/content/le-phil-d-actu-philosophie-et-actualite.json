@@ -25,7 +25,7 @@
     "philosophie"
   ],
   "addedAt": "2026-09-29",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-10-29",
@@ -50,26 +50,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "Olivia Gazalé, la philosophie de la virilité, et la philosophie du rire",
+      "date": "2026-11-18",
+      "audio": "https://audio.ausha.co/B1Pgq9IdlKe3.mp3?t=1791300511",
+      "duree": 4265
+    },
+    {
+      "titre": "Jean-Baptiste Brenet et la philosophie arabe",
+      "date": "2026-11-11",
+      "audio": "https://audio.ausha.co/JZk2eIKjKE4L.mp3?t=1791299998",
+      "duree": 3731
+    },
+    {
       "titre": "Céline Marty et la philosophie du travail",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://audio.ausha.co/0ml0RURkg0kW.mp3?t=1791299728",
+      "duree": 4057
     },
     {
       "titre": "Edouard Jourdain et la philosophie anarchiste",
-      "date": "2026-10-28"
+      "date": "2026-10-28",
+      "audio": "https://audio.ausha.co/QQpD8SYRnORN.mp3?t=1791299267",
+      "duree": 4386
     },
     {
       "titre": "Camille Froidevaux-Metterie et la philosophie féministe",
-      "date": "2026-10-21"
-    },
-    {
-      "titre": "Bonus : une philosophie des privilèges",
-      "date": "2026-10-17"
-    },
-    {
-      "titre": "Norman Ajari et la philosophie afrodécoloniale",
-      "date": "2026-10-14"
+      "date": "2026-10-21",
+      "audio": "https://audio.ausha.co/JZk2eIwzM61l.mp3?t=1791298979",
+      "duree": 3698
     }
   ],
-  "derniere_activite": "2026-11-04",
+  "derniere_activite": "2026-11-18",
   "frequence_jours": 7
 }

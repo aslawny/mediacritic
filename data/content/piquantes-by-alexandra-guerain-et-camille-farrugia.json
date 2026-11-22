@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/piquantes-by-alexandra-guerain-et-camille-farrugia/id1761626974?uo=2",
       "trackId": 1761626974,
       "rating": 4.6,
-      "ratingCount": 402,
+      "ratingCount": 403,
       "episodeCount": null
     }
   },
@@ -25,7 +25,7 @@
     "psychologie"
   ],
   "addedAt": "2026-08-29",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,26 +54,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "Doit-on tout pardonner ? En amour, en amitié, en famille…",
+      "date": "2026-11-18",
+      "audio": "https://sphinx.acast.com/p/open/s/66b3a257129e9b2ef69daf0f/e/6afce0da09470f94201e5b91/media.mp3",
+      "duree": 1858
+    },
+    {
+      "titre": "Couples : est-ce qu'on en attend trop de l'autre ?",
+      "date": "2026-11-11",
+      "audio": "https://sphinx.acast.com/p/open/s/66b3a257129e9b2ef69daf0f/e/6af393c0c2a93694e242005b/media.mp3",
+      "duree": 2091
+    },
+    {
       "titre": "Courrier du Chaos #21 : fils à maman, hommes mariés et vampires",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://sphinx.acast.com/p/open/s/66b3a257129e9b2ef69daf0f/e/6aea49bcdc2860cef4c57b70/media.mp3",
+      "duree": 2062
     },
     {
       "titre": "En couple : qu'est-ce qui nous fait vraiment quitter quelqu'un ?",
-      "date": "2026-10-28"
+      "date": "2026-10-28",
+      "audio": "https://sphinx.acast.com/p/open/s/66b3a257129e9b2ef69daf0f/e/6ae140c64288e950ede2b950/media.mp3",
+      "duree": 2169
     },
     {
       "titre": "A-t-on le droit de ne pas aimer les gens que nos amis aiment ?",
-      "date": "2026-10-21"
-    },
-    {
-      "titre": "On avoue tout : on avait tort…",
-      "date": "2026-10-14"
-    },
-    {
-      "titre": "Zone de confort : et si on avait le droit de ne pas la quitter ?",
-      "date": "2026-10-07"
+      "date": "2026-10-21",
+      "audio": "https://sphinx.acast.com/p/open/s/66b3a257129e9b2ef69daf0f/e/6ad7767dd068f317960e1ff3/media.mp3",
+      "duree": 1661
     }
   ],
-  "derniere_activite": "2026-11-04",
+  "derniere_activite": "2026-11-18",
   "frequence_jours": 7
 }

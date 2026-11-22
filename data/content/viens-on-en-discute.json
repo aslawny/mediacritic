@@ -24,7 +24,7 @@
     "sciences"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,23 +54,33 @@
   "episodes_recents": [
     {
       "titre": "Viens on en discute - Aestcart (elle fait venir des inconnus peindre chez elle) vient discuter de son art",
-      "date": "2025-05-04"
+      "date": "2025-05-04",
+      "audio": "https://sphinx.acast.com/p/open/s/6303c4f7dd670c001428d662/e/6816a903cea668298658c99e/media.mp3",
+      "duree": 2224
     },
     {
       "titre": "Viens on discute - Retour sur les différences 18-25 ans et digressions habituelles",
-      "date": "2025-04-27"
+      "date": "2025-04-27",
+      "audio": "https://sphinx.acast.com/p/open/s/6303c4f7dd670c001428d662/e/680a614d3e9267867b31b04c/media.mp3",
+      "duree": 2317
     },
     {
       "titre": "Viens on en discute : L'amitié avec un grand \"A\"",
-      "date": "2024-02-15"
+      "date": "2024-02-15",
+      "audio": "https://sphinx.acast.com/p/open/s/6303c4f7dd670c001428d662/e/65ce63cccf47e60017d68757/media.mp3",
+      "duree": 3587
     },
     {
       "titre": "Viens on en discute - hors série : Partir",
-      "date": "2023-08-10"
+      "date": "2023-08-10",
+      "audio": "https://sphinx.acast.com/p/open/s/6303c4f7dd670c001428d662/e/64d4676d4016130011ebd9d0/media.mp3",
+      "duree": 1844
     },
     {
       "titre": "Viens on en discute - Episode 23 : Travailler à deux",
-      "date": "2023-06-19"
+      "date": "2023-06-19",
+      "audio": "https://sphinx.acast.com/p/open/s/6303c4f7dd670c001428d662/e/64907b6e7ded6b001121c5c0/media.mp3",
+      "duree": 2024
     }
   ],
   "derniere_activite": "2025-05-04",

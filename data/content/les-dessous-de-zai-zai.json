@@ -52,25 +52,29 @@
   "derniere_activite": "2023-08-29",
   "frequence_jours": 36,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-23",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "rogercageot",
+        "titre": "Parfait",
+        "texte": "Super qualité, super sympa, super inspirant ! Ce n’est pas du Podcast c’est de la radio de voyage et reportage de la grande époque Là Bas si j’y suis !"
+      },
+      {
+        "note": 5,
+        "auteur": "Mathilde. M..",
+        "titre": "On en rêve !",
+        "texte": "Quand une famille pleine de pep’s nous embarque dans son aventure. On y est… et ça fait tellement de bien ! Merci pour ce voyage"
+      },
+      {
+        "note": 5,
+        "auteur": "Jacques (Altaïde)",
+        "titre": "Envie de partir",
+        "texte": "On s’y croirais. Je cours m’acheter un nouveau bateau pour partir. 👏"
+      }
     ]
   }
 }

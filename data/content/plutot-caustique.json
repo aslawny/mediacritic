@@ -24,7 +24,7 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -53,26 +53,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "S6E17 : Épisode spécial candidature de Teddy Riner",
+      "date": "2026-11-11",
+      "audio": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/6af340b81f5126ac85ba4496/media.mp3",
+      "duree": 5935
+    },
+    {
       "titre": "S6E16 : Plutôt Call Center #3",
-      "date": "2026-10-26"
+      "date": "2026-10-26",
+      "audio": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/6adc74e8f38f36c2348ba6b5/media.mp3",
+      "duree": 6508
     },
     {
       "titre": "S6E15 : Soralo-bardellien ? Nuñézo-pétainiste ? On ne sait plus très bien",
-      "date": "2026-10-12"
+      "date": "2026-10-12",
+      "audio": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/6acbf50b3b4184313783c522/media.mp3",
+      "duree": 3989
     },
     {
       "titre": "S6E14 : Plutôt Call Center #2",
-      "date": "2026-09-29"
+      "date": "2026-09-29",
+      "audio": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/6aba6e9cf4720dfefb0d8343/media.mp3",
+      "duree": 5094
     },
     {
       "titre": "S6E13 : Cet épisode est sponsorisé par la Ritaline",
-      "date": "2026-09-16"
-    },
-    {
-      "titre": "S6E12 : Plutôt Call Center #1",
-      "date": "2026-08-19"
+      "date": "2026-09-16",
+      "audio": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/6aa9254c4cef87591dd5b733/media.mp3",
+      "duree": 5620
     }
   ],
-  "derniere_activite": "2026-10-26",
+  "derniere_activite": "2026-11-11",
   "frequence_jours": 14
 }

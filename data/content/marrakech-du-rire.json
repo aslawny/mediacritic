@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/marrakech-du-rire/id1677378410?uo=2",
       "trackId": 1677378410,
       "rating": 4.5,
-      "ratingCount": 501,
+      "ratingCount": 502,
       "episodeCount": null
     }
   },
@@ -27,7 +27,7 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -57,23 +57,33 @@
   "episodes_recents": [
     {
       "titre": "Florence Foresti et Jamel Debbouze - La danse du Marrakech du rire - Marrakech du rire 2014",
-      "date": "2024-06-07"
+      "date": "2024-06-07",
+      "audio": "https://sphinx.acast.com/p/open/s/69451ab99a00ace34f1d7864/e/0f71649a-e5eb-11ee-ad78-53dc28d2b8f6/media.mp3",
+      "duree": 342
     },
     {
       "titre": "Kad Merad - Disco painting - Marrakech du rire 2014",
-      "date": "2024-05-31"
+      "date": "2024-05-31",
+      "audio": "https://sphinx.acast.com/p/open/s/69451ab99a00ace34f1d7864/e/f885a7dc-e5ea-11ee-881e-8fc90280ed34/media.mp3",
+      "duree": 318
     },
     {
       "titre": "Jamel Debbouze, Zinedine Zidane et Omar Sy - Le tour de magie - Marrakech du Rire 2011",
-      "date": "2024-05-24"
+      "date": "2024-05-24",
+      "audio": "https://sphinx.acast.com/p/open/s/69451ab99a00ace34f1d7864/e/e08f8486-e5ea-11ee-a3af-0f871934e404/media.mp3",
+      "duree": 481
     },
     {
       "titre": "Jamel, Jarry, Booder, Caroline Vignault, Bun Hay Mean - La pièce de théâtre - Marrakech du Rire 2019",
-      "date": "2024-05-17"
+      "date": "2024-05-17",
+      "audio": "https://sphinx.acast.com/p/open/s/69451ab99a00ace34f1d7864/e/d8d9c06a-e5ec-11ee-93df-e737e89cdfe5/media.mp3",
+      "duree": 934
     },
     {
       "titre": "Jeff Panacloc - Embrouilles entre Jean-Marc et Jamel - Marrakech du Rire 2018",
-      "date": "2024-05-10"
+      "date": "2024-05-10",
+      "audio": "https://sphinx.acast.com/p/open/s/69451ab99a00ace34f1d7864/e/ca29bd40-e5ec-11ee-a7fa-c30353b620f9/media.mp3",
+      "duree": 241
     }
   ],
   "derniere_activite": "2024-06-07",

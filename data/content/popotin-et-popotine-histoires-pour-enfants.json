@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/popotin-et-popotine-histoires-pour-enfants/id1766346210?uo=2",
       "trackId": 1766346210,
-      "rating": 4.1,
-      "ratingCount": 283,
+      "rating": 4.0,
+      "ratingCount": 284,
       "episodeCount": null
     }
   },
@@ -27,7 +27,7 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -56,26 +56,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "EP53 ▪️ Les parties intimes",
+      "date": "2026-11-19",
+      "audio": "https://traffic.360.audion.fm/e4843905-ff2b-4ba6-a1d8-1cb690c00525.mp3",
+      "duree": 284
+    },
+    {
+      "titre": "EP52 ▪️ Les amoureux et les amoureuses",
+      "date": "2026-11-12",
+      "audio": "https://traffic.360.audion.fm/a0577710-19ba-4a61-97dd-37a59ec99ee5.mp3",
+      "duree": 218
+    },
+    {
       "titre": "La fabuleuse Maison Cerveau... un nouveau projet !",
-      "date": "2026-11-08"
+      "date": "2026-11-08",
+      "audio": "https://traffic.360.audion.fm/53ac1b0c-7fe4-4643-a50e-e179f6e2cbfb.mp3",
+      "duree": 294
     },
     {
       "titre": "EP51 ▪️ Cours de gym",
-      "date": "2026-11-05"
+      "date": "2026-11-05",
+      "audio": "https://traffic.360.audion.fm/551876e0-9fca-44ba-81b6-1a74b3b9fb4a.mp3",
+      "duree": 223
     },
     {
       "titre": "EP50 ▪️ À l’époque de Mamie Popo !",
-      "date": "2026-10-29"
-    },
-    {
-      "titre": "EP49 ▪️ Tu préfères ?",
-      "date": "2026-10-22"
-    },
-    {
-      "titre": "EP48 ▪️ On n'est plus des bébés !",
-      "date": "2026-10-15"
+      "date": "2026-10-29",
+      "audio": "https://traffic.360.audion.fm/71bf8dca-c0e6-4b01-93bd-5b75165441f2.mp3",
+      "duree": 262
     }
   ],
-  "derniere_activite": "2026-11-08",
+  "derniere_activite": "2026-11-19",
   "frequence_jours": 7
 }

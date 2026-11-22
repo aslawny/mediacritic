@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/podcast-enfant-nemrod-une-histoire-pour-les-enfants/id1533956851?uo=2",
       "trackId": 1533956851,
       "rating": 4.6,
-      "ratingCount": 632,
+      "ratingCount": 633,
       "episodeCount": null
     }
   },
@@ -26,7 +26,7 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "ch",
@@ -56,23 +56,33 @@
   "episodes_recents": [
     {
       "titre": "#67 Arsène",
-      "date": "2026-08-02"
+      "date": "2026-08-02",
+      "audio": "https://anchor.fm/s/37254c84/podcast/play/62872504/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-30%2F0f02a073-786b-0a26-5772-74156bd11e45.mp3",
+      "duree": 617
     },
     {
       "titre": "#66 Énigmes",
-      "date": "2026-07-26"
+      "date": "2026-07-26",
+      "audio": "https://anchor.fm/s/37254c84/podcast/play/62871957/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-30%2F84e68243-b509-f3b8-930a-88594c97c3a4.mp3",
+      "duree": 543
     },
     {
       "titre": "🦊 Le tome 2 de Nemrod est sorti 🦜",
-      "date": "2026-07-08"
+      "date": "2026-07-08",
+      "audio": "https://anchor.fm/s/37254c84/podcast/play/122476568/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-6%2F33b2c53c-8463-ff9c-e6e1-b4f532b5ee19.mp3",
+      "duree": 872
     },
     {
       "titre": "#65 Les versatiles",
-      "date": "2026-06-28"
+      "date": "2026-06-28",
+      "audio": "https://anchor.fm/s/37254c84/podcast/play/62643221/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-24%2Fc4bbff4f-a2ad-1ab2-fcba-34894baf96f1.mp3",
+      "duree": 861
     },
     {
       "titre": "#64 L’amputé",
-      "date": "2026-06-21"
+      "date": "2026-06-21",
+      "audio": "https://anchor.fm/s/37254c84/podcast/play/62348158/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-17%2Fe3cfcd0f-266d-baa7-4c82-07b90708d92f.mp3",
+      "duree": 642
     }
   ],
   "derniere_activite": "2026-08-02",

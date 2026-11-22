@@ -25,7 +25,7 @@
     "culture"
   ],
   "addedAt": "2026-06-24",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -55,23 +55,33 @@
   "episodes_recents": [
     {
       "titre": "Studio 404 / Au revoir",
-      "date": "2019-06-21"
+      "date": "2019-06-21",
+      "audio": "https://sphinx.acast.com/studio-404/studio404-aurevoir/media.mp3",
+      "duree": 337
     },
     {
       "titre": "Studio 404 #67 / Janvier 2019 : Les millenials, les millenials, les robots et la French Tech",
-      "date": "2019-01-30"
+      "date": "2019-01-30",
+      "audio": "https://sphinx.acast.com/studio-404/studio404-67-janvier2019-lesmillenials-lesmillenials-lesrobotsetlafrenchtech/media.mp3",
+      "duree": 7648
     },
     {
       "titre": "Studio 404 #66 / Décembre 2018 : 404 Christmas Special",
-      "date": "2018-12-20"
+      "date": "2018-12-20",
+      "audio": "https://sphinx.acast.com/studio-404/studio404-66-decembre2018-404christmasspecial/media.mp3",
+      "duree": 6288
     },
     {
       "titre": "Studio 404 #65 / Novembre 2018 : le co-living, la fin du scoring, le shoulder surfing et le safe-spacing",
-      "date": "2018-11-27"
+      "date": "2018-11-27",
+      "audio": "https://sphinx.acast.com/studio-404/studio404-65-novembre2018-leco-living-lafinduscoring-leshouldersurfingetlesafe-spacing/media.mp3",
+      "duree": 7604
     },
     {
       "titre": "Studio 404 #64 / Octobre 2018 : Studio 404 x Surfrider",
-      "date": "2018-10-15"
+      "date": "2018-10-15",
+      "audio": "https://sphinx.acast.com/studio-404/studio404-64-octobre2018-studio404xsurfrider/media.mp3",
+      "duree": 9165
     }
   ],
   "derniere_activite": "2019-06-21",

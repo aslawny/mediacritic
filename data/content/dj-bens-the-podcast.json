@@ -24,27 +24,37 @@
     "culture"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "Dj Bens MIX JOUR DE L'AN 2026",
-      "date": "2025-12-12"
+      "date": "2025-12-12",
+      "audio": "http://download.djpod.com/dj.bens/Mix_du_Jour_de_l_an_2026.mp3",
+      "duree": 9392
     },
     {
       "titre": "DJ BENS MIX JOUR DE L'AN 2025",
-      "date": "2024-12-30"
+      "date": "2024-12-30",
+      "audio": "http://download.djpod.com/dj.bens/DJ_BENS_MIX_JOUR_DE_L_AN_2025.mp3",
+      "duree": 7256
     },
     {
       "titre": "DJ BENS - MIX DU JOUR DE L'AN 2024",
-      "date": "2023-12-29"
+      "date": "2023-12-29",
+      "audio": "http://download.djpod.com/dj.bens/Mix_Jour_de_l_an_2024.mp3",
+      "duree": 7825
     },
     {
       "titre": "DJ BENS SUMMER BIG PODCAST 2023",
-      "date": "2023-06-28"
+      "date": "2023-06-28",
+      "audio": "http://download.djpod.com/dj.bens/SUMMER_BIG_PODCAST_2023.mp3",
+      "duree": 10751
     },
     {
       "titre": "DJ BENS SUR NRJ 10.06",
-      "date": "2023-06-10"
+      "date": "2023-06-10",
+      "audio": "http://download.djpod.com/dj.bens/DJ_BENS_SUR_NRJ_10.06.mp3",
+      "duree": 3280
     }
   ],
   "derniere_activite": "2025-12-12",

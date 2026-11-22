@@ -25,7 +25,7 @@
     "rénovation",
     "DIY"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -55,23 +55,33 @@
   "episodes_recents": [
     {
       "titre": "Elle a vu naître la Guinée indépendante : le témoignage de Mme Salimatou Diallo Barry",
-      "date": "2026-10-30"
+      "date": "2026-10-30",
+      "audio": "https://sphinx.acast.com/p/acast/s/les-deviations/e/6ae466cc9fd2fa3c1605c3b8/media.mp3",
+      "duree": 3170
     },
     {
       "titre": "Hadja Fatoumata Sall : membre fondatrice de la Croix-Rouge guinéenne",
-      "date": "2026-09-25"
+      "date": "2026-09-25",
+      "audio": "https://sphinx.acast.com/p/acast/s/les-deviations/e/6ab683e2c974afb1545a5373/media.mp3",
+      "duree": 2961
     },
     {
       "titre": "L’ethnopsychiatrie face au racisme : Comment la France a refoulé ses monstres",
-      "date": "2026-09-22"
+      "date": "2026-09-22",
+      "audio": "https://sphinx.acast.com/p/acast/s/les-deviations/e/6ab27b9993749e4c0b38b910/media.mp3",
+      "duree": 3069
     },
     {
       "titre": "Elles ont transformé leurs expériences en projet entrepreneurial",
-      "date": "2026-09-17"
+      "date": "2026-09-17",
+      "audio": "https://sphinx.acast.com/p/acast/s/les-deviations/e/6aabe0044cef87591d81d320/media.mp3",
+      "duree": 2898
     },
     {
       "titre": "De la SNCF à la rénovation : le pari audacieux d'une auditrice énergétique",
-      "date": "2026-08-09"
+      "date": "2026-08-09",
+      "audio": "https://sphinx.acast.com/p/acast/s/les-deviations/e/6a7339ef9a5e4ed16511ad18/media.mp3",
+      "duree": 1133
     }
   ],
   "derniere_activite": "2026-10-30",

@@ -24,30 +24,40 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Profession : mercenaire - Richard Rouget",
+      "date": "2026-11-20",
+      "audio": "https://sphinx.acast.com/p/open/s/634d80ce406c2a001118ac79/e/6af43f583925cd47eb574de6/media.mp3",
+      "duree": 2449
+    },
+    {
+      "titre": "Les Balkans : la poudrière des peuples",
+      "date": "2026-11-17",
+      "audio": "https://sphinx.acast.com/p/open/s/634d80ce406c2a001118ac79/e/6a9199fb0911a561971e4ac3/media.mp3",
+      "duree": 610
+    },
+    {
+      "titre": "Electricité : le danger français - Hervé Machenaud",
+      "date": "2026-11-13",
+      "audio": "https://sphinx.acast.com/p/open/s/634d80ce406c2a001118ac79/e/6af439d536d94b58ef7bdfe0/media.mp3",
+      "duree": 2767
+    },
+    {
       "titre": "Carpates : le trou noir de l'Europe",
-      "date": "2026-11-10"
+      "date": "2026-11-10",
+      "audio": "https://sphinx.acast.com/p/open/s/634d80ce406c2a001118ac79/e/6abfbcaa52a5384444c5a771/media.mp3",
+      "duree": 907
     },
     {
       "titre": "Technoland : comment l'IA change la géopolitique",
-      "date": "2026-11-06"
-    },
-    {
-      "titre": "Géopolitique de la France - Jean-Baptiste Noé",
-      "date": "2026-11-03"
-    },
-    {
-      "titre": "Brésil : pourquoi Lula a gagné",
-      "date": "2026-10-31"
-    },
-    {
-      "titre": "Tsars et tsarines de Russie - Anna Moretti",
-      "date": "2026-10-30"
+      "date": "2026-11-06",
+      "audio": "https://sphinx.acast.com/p/open/s/634d80ce406c2a001118ac79/e/6abf59be7cc37804e3b3fb91/media.mp3",
+      "duree": 684
     }
   ],
-  "derniere_activite": "2026-11-10",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 3,
   "avis_publics": {
     "source": "apple",

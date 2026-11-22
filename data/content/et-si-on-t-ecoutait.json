@@ -25,7 +25,7 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-08",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -55,23 +55,33 @@
   "episodes_recents": [
     {
       "titre": "Petite discussion entre nous",
-      "date": "2026-11-06"
+      "date": "2026-11-06",
+      "audio": "https://audio.ausha.co/KwLXmfdrNKwL.mp3?t=1793982375",
+      "duree": 1473
     },
     {
       "titre": "Acab",
-      "date": "2026-10-22"
+      "date": "2026-10-22",
+      "audio": "https://audio.ausha.co/jedMWuA0nYnk.mp3?t=1792615690",
+      "duree": 3069
     },
     {
       "titre": "Suis-je le diable ?",
-      "date": "2026-08-31"
+      "date": "2026-08-31",
+      "audio": "https://audio.ausha.co/jedMWuQMVA3e.mp3?t=1788132272",
+      "duree": 3248
     },
     {
       "titre": "55. soyez infidèle",
-      "date": "2026-06-16"
+      "date": "2026-06-16",
+      "audio": "https://audio.ausha.co/10xngsX9J1PQ.mp3?t=1781410978",
+      "duree": 1596
     },
     {
       "titre": "54. bavardages",
-      "date": "2026-06-14"
+      "date": "2026-06-14",
+      "audio": "https://audio.ausha.co/B6rGPgHDXZG4.mp3?t=1781407661",
+      "duree": 1740
     }
   ],
   "derniere_activite": "2026-11-06",

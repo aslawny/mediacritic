@@ -26,7 +26,7 @@
     "vulgarisation"
   ],
   "addedAt": "2026-07-18",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "Hiram : l'artisan de Dieu",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-07",
   "frequence_jours": 28,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-23",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Kanoumba",
+        "titre": "Au commencement…",
+        "texte": "Bravo pour cette belle façon de faire découvrir ces textes bibliques essentiels. C’est très bien fait, c’est bien lu, la musique est bien choisie et cela reste proche des sources. Un baume pour le cœur en ces temps troublés où on a tant besoin de nourrir l’âme.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Gette.Jorjet",
+        "titre": "Wow 😍",
+        "texte": "Merci Seigneur pour ces audios ! C’est tellement béni ! Merci à vous l’équipe 🔥💖 J’avais une question: pour l’épisode d’Anne pouvez vous me dire le nom de la musique de fond à 5 minutes 25 s’il vous plaît ? ( la femme qui chante) Merci infiniment ❤️"
+      },
+      {
+        "note": 5,
+        "auteur": "Myla_95",
+        "titre": "Enrichissant",
+        "texte": "Des épisodes qui replonge au cœur du texte et nous invite à avoir un nouveau regard sur la parole de Dieu. C’est pour moi un très bon moyen de me replonger dans la lecture de la Bible. Merci pour ce travail"
+      }
     ]
   }
 }

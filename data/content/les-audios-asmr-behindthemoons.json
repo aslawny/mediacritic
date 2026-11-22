@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/les-audios-asmr-behindthemoons/id1851422670?uo=2",
       "trackId": 1851422670,
       "rating": 4.6,
-      "ratingCount": 90,
+      "ratingCount": 91,
       "episodeCount": null
     }
   },
@@ -27,7 +27,7 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "Asmr - Vampire vend manoir (venez)",
@@ -53,25 +53,29 @@
   "derniere_activite": "2026-10-26",
   "frequence_jours": 6,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-23",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Melie-Melwo",
+        "titre": "Au top",
+        "texte": "J’adore vraiment ce que tu fait. Ta voix est très apaisante. Je trouve ça dommage pour le harcèlement que tu as subis. Les gens sont horribles mais je te souhaite tout mon courage et merci d’avoir trouver la force de te relever et d’être revenue pour les gens qui t’apprécient"
+      },
+      {
+        "note": 5,
+        "auteur": "Kelle istoire",
+        "titre": "❤️",
+        "texte": "J'adore j'écoute tout les jours tu est mon ASMRiste préférée ❤️ continue comme ça même si tu peux faire plus d'épisodes 🤣et en faire en français STP , Bon GROS GROS GROS GROS bisous 😘 PS : je m'appelle Héloïse"
+      },
+      {
+        "note": 5,
+        "auteur": "Carine LSK",
+        "titre": "Adorable",
+        "texte": "Ces podcast sont vraiment adorables, c’est chaleureux, attentionné, fin sans trop de « gadget sonore » bravo !"
+      }
     ]
   }
 }

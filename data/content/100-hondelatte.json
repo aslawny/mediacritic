@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/100-hondelatte/id1866982143?uo=2",
       "trackId": 1866982143,
       "rating": 4.3,
-      "ratingCount": 543,
+      "ratingCount": 546,
       "episodeCount": null
     }
   },
@@ -26,30 +26,40 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
-      "titre": "Parlons Crime : Hondelatte/ Richard",
-      "date": "2026-11-06"
+      "titre": "Les frères Menendez : le procès - Episode 4",
+      "date": "2026-11-21",
+      "audio": "https://sphinx.acast.com/p/open/s/68d3a6b5b6dc789b27ff236c/e/6afd6324357f44bcd54f31ed/media.mp3",
+      "duree": 1250
     },
     {
-      "titre": "Yacine Sid : meilleur ami, meilleur ennemi - Episode 2",
-      "date": "2026-11-04"
+      "titre": "Les frères Menendez : le procès - Episode 3",
+      "date": "2026-11-21",
+      "audio": "https://sphinx.acast.com/p/open/s/68d3a6b5b6dc789b27ff236c/e/6afd61f0da978fb0906ca70d/media.mp3",
+      "duree": 765
     },
     {
-      "titre": "Yacine Sid : meilleur ami, meilleur ennemi - Episode 1",
-      "date": "2026-11-04"
+      "titre": "Les frères Menendez : l’enquête - Episode 2",
+      "date": "2026-11-21",
+      "audio": "https://sphinx.acast.com/p/open/s/68d3a6b5b6dc789b27ff236c/e/6afd6156357f44bcd54eb430/media.mp3",
+      "duree": 736
     },
     {
-      "titre": "Généalogie génétique : L’ex-procureur Dallest est pour",
-      "date": "2026-11-02"
+      "titre": "Les frères Menendez : l’enquête - Episode 1",
+      "date": "2026-11-21",
+      "audio": "https://sphinx.acast.com/p/open/s/68d3a6b5b6dc789b27ff236c/e/6afd60e6853da57052004bed/media.mp3",
+      "duree": 1048
     },
     {
-      "titre": "Généalogie génétique : L’affaire Sabine Dumont, l’espoir…",
-      "date": "2026-11-02"
+      "titre": "Raynald Barguet, meurtre dans une caravane - Episode 2",
+      "date": "2026-11-18",
+      "audio": "https://sphinx.acast.com/p/open/s/68d3a6b5b6dc789b27ff236c/e/6aeca03f3a774bc73125f456/media.mp3",
+      "duree": 948
     }
   ],
-  "derniere_activite": "2026-11-06",
+  "derniere_activite": "2026-11-21",
   "frequence_jours": 0,
   "avis_publics": {
     "source": "apple",

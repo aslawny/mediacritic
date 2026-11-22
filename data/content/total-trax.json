@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/total-trax/id1454960894?uo=2",
       "trackId": 1454960894,
       "rating": 4.9,
-      "ratingCount": 322,
+      "ratingCount": 323,
       "episodeCount": null
     }
   },
@@ -26,7 +26,7 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -55,26 +55,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "(267) Spike Lee / Terence Blanchard",
+      "date": "2026-11-03",
+      "audio": "https://audio.ausha.co/yp9xafkJDXzp.mp3?t=1793703796",
+      "duree": 7855
+    },
+    {
+      "titre": "(266) Evil Dead",
+      "date": "2026-10-27",
+      "audio": "https://audio.ausha.co/bj5ZxIX7d8Av.mp3?t=1793088904",
+      "duree": 7246
+    },
+    {
       "titre": "(265) Federico Fellini / Nino Rota – Chapitre #2",
-      "date": "2026-10-20"
+      "date": "2026-10-20",
+      "audio": "https://audio.ausha.co/BDpaOcPrpjAE.mp3?t=1792483944",
+      "duree": 4847
     },
     {
       "titre": "(264) Federico Fellini / Nino Rota – Chapitre #1",
-      "date": "2026-10-12"
+      "date": "2026-10-12",
+      "audio": "https://audio.ausha.co/Bnv0LTaRQLvv.mp3?t=1791817338",
+      "duree": 5421
     },
     {
       "titre": "(263) Bruce Broughton – Chapitre #3",
-      "date": "2026-10-06"
-    },
-    {
-      "titre": "(262) Bruce Broughton – Chapitre #2",
-      "date": "2026-09-29"
-    },
-    {
-      "titre": "(261) Bruce Broughton – Chapitre #1",
-      "date": "2026-09-23"
+      "date": "2026-10-06",
+      "audio": "https://audio.ausha.co/yp9xafg2EjnR.mp3?t=1791287513",
+      "duree": 6950
     }
   ],
-  "derniere_activite": "2026-10-20",
+  "derniere_activite": "2026-11-03",
   "frequence_jours": 7
 }

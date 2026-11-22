@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/histoires-pour-enfants-une-sorci%C3%A8re-pas-comme-les-autres/id1659380629?uo=2",
       "trackId": 1659380629,
       "rating": 4.1,
-      "ratingCount": 466,
+      "ratingCount": 468,
       "episodeCount": null
     }
   },
@@ -25,23 +25,31 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "Épisode 3",
-      "date": "2022-12-06"
+      "date": "2022-12-06",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/77bc15d7-d3e1-41fd-bcb8-5cf3172ce554.mp3?_=1709308648",
+      "duree": 252
     },
     {
       "titre": "Épisode 4",
-      "date": "2022-12-06"
+      "date": "2022-12-06",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/7d8e0cbc-b53e-423f-850c-45faa6c7f5ea.mp3?_=1709308647",
+      "duree": 260
     },
     {
       "titre": "Épisode 2",
-      "date": "2022-12-06"
+      "date": "2022-12-06",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/9cfb2ebb-ddf8-4521-9e44-ceed9012e001.mp3?_=1709308649",
+      "duree": 265
     },
     {
       "titre": "Épisode 1",
-      "date": "2022-12-06"
+      "date": "2022-12-06",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/875a613d-dfcc-4585-9f96-878b1b835a4f.mp3?_=1709308646",
+      "duree": 191
     }
   ],
   "derniere_activite": "2022-12-06",

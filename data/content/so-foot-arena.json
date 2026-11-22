@@ -25,7 +25,7 @@
     "sciences"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,26 +54,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "S03 - EP09 : Libertés individuelles, manifestions/supporters même combat !",
+      "date": "2026-11-16",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/712f658b-3de4-4cc1-abe8-601afb82a804.mp3?_=1794849832",
+      "duree": 1204
+    },
+    {
       "titre": "S03 - EP08 : Le foot se portera-t-il mieux sans Ronaldo et Messi ?",
-      "date": "2026-11-09"
+      "date": "2026-11-09",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/509ae81e-a784-4cda-b964-785bac8a8ccc.mp3?_=1794251296",
+      "duree": 1213
     },
     {
       "titre": "S03 - EP07 : Zinédine Zidane en état de grâce",
-      "date": "2026-11-02"
+      "date": "2026-11-02",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/a011f885-1f01-4579-8a5c-a0ca1545f3ad.mp3?_=1793642775",
+      "duree": 1043
     },
     {
       "titre": "S03 - EP05 : Le PSG d'Enrique est-il déjà l'égal du Barça de Guardiola ?",
-      "date": "2026-10-19"
+      "date": "2026-10-19",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/6a1d0900-60ca-4fff-b4f3-3f2bd3f26ef6.mp3?_=1792430225",
+      "duree": 1256
     },
     {
       "titre": "S03 - E04 : Manchester City est-il le grand méchant du football mondial ?",
-      "date": "2026-10-12"
-    },
-    {
-      "titre": "S03 - E03 : Quel héritage va laisser Lionel Messi au football ?",
-      "date": "2026-10-05"
+      "date": "2026-10-12",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/a570def9-ec27-4973-8a24-114c5b46b7c2.mp3?_=1791911619",
+      "duree": 1165
     }
   ],
-  "derniere_activite": "2026-11-09",
+  "derniere_activite": "2026-11-16",
   "frequence_jours": 7
 }

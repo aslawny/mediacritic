@@ -25,7 +25,7 @@
     "societe"
   ],
   "addedAt": "2026-09-17",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,26 +54,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "#191 - IA : quels impacts sur l'environnement ? Lou Welgryn",
+      "date": "2026-11-10",
+      "audio": "https://audio.ausha.co/yAe2gtDNzlN1.mp3?t=1794304521",
+      "duree": 3638
+    },
+    {
       "titre": "#190 - 2026 : la pire crise agricuole du siècle ? Serge Zaka",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://audio.ausha.co/o96Z0Sn3N2W5.mp3?t=1793805814",
+      "duree": 3518
     },
     {
       "titre": "#189 - Peut-on s'adapter à +4°C ? Ilian Moundib",
-      "date": "2026-11-02"
+      "date": "2026-11-02",
+      "audio": "https://audio.ausha.co/B1lkYSd6qlvV.mp3?t=1793636161",
+      "duree": 5074
     },
     {
       "titre": "#188 - RN & le climat : le discours... et les votes avec Bon Pote",
-      "date": "2026-10-21"
+      "date": "2026-10-21",
+      "audio": "https://audio.ausha.co/bYWvqIv5azkL.mp3?t=1792591149",
+      "duree": 3969
     },
     {
       "titre": "Hors série : LA PLUS GRANDE ANNONCE DEPUIS LE LANCEMENT DU GREENLETTER CLUB",
-      "date": "2026-10-10"
-    },
-    {
-      "titre": "#187 - Pourquoi les pénuries de médicaments explosent-elles ?",
-      "date": "2026-10-04"
+      "date": "2026-10-10",
+      "audio": "https://audio.ausha.co/o96Z0SYWZQJR.mp3?t=1791540105",
+      "duree": 3116
     }
   ],
-  "derniere_activite": "2026-11-04",
-  "frequence_jours": 11
+  "derniere_activite": "2026-11-10",
+  "frequence_jours": 9
 }

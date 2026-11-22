@@ -26,7 +26,7 @@
     "cuisine"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "Perpétuer le modèle de pastoralisme et de transhumance",
@@ -50,5 +50,25 @@
     }
   ],
   "derniere_activite": "2026-11-10",
-  "frequence_jours": 28
+  "frequence_jours": 28,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Abeilleariegeoise",
+        "titre": "Un media avant gardiste et qui est prometteur",
+        "texte": "Un véritable bonheur d’écouter les podcast de Sophie qui met en lumière les valeurs et le savoir faire de l’agriculture française . J’apprends à chaque nouvel épisode sur le métier de mes homologues et je comprends mieux ce qu’ils peuvent eux aussi rencontrer comme difficultés su…"
+      },
+      {
+        "note": 5,
+        "auteur": "Mathilde🌱",
+        "titre": "Un podcast à écouter absolument",
+        "texte": "Merci Sophie de mieux faire notre belle agriculture et ses réalités ! 🌱 Un podcast que je recommande fortement si vous souhaitez mieux connaître les enjeux et défis des agriculteurs et agricultrices"
+      }
+    ]
+  }
 }

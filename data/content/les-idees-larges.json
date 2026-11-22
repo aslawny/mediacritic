@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/les-id%C3%A9es-larges/id1660969118?uo=4",
       "trackId": 1660969118,
       "rating": 4.7,
-      "ratingCount": 212,
+      "ratingCount": 213,
       "episodeCount": 64
     }
   },
@@ -27,31 +27,41 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Mon prénom m'appartient-il ?",
+      "date": "2026-11-12",
+      "audio": "https://flex2.acast.com/s/les-idees-larges/u/cdn.arteradio.com/permanent/arteradio/sites/default/files/LIL_Podcast_COULMONT_V1_320Kbits_stereo.mp3",
+      "duree": 1158
+    },
+    {
       "titre": "A-t-on toujours fait la guerre ?",
-      "date": "2026-10-22"
+      "date": "2026-10-22",
+      "audio": "https://flex2.acast.com/s/les-idees-larges/u/cdn.arteradio.com/permanent/arteradio/sites/default/files/LIL_Podcast_DARMANGEAT_V2_320Kbitsstereo.mp3",
+      "duree": 1573
     },
     {
       "titre": "Le libéralisme rend-il libre ?",
-      "date": "2026-10-08"
+      "date": "2026-10-08",
+      "audio": "https://flex2.acast.com/s/les-idees-larges/u/cdn.arteradio.com/permanent/arteradio/sites/default/files/LIL_Podcast_YPI_V1_320Kbitsstereo.mp3",
+      "duree": 1372
     },
     {
       "titre": "Pourquoi éclate-t-on en sanglots ?",
-      "date": "2026-09-24"
+      "date": "2026-09-24",
+      "audio": "https://flex2.acast.com/s/les-idees-larges/u/cdn.arteradio.com/permanent/arteradio/sites/default/files/LIL_Podcast_FERRARESE_V1_320Kbits_stereo.mp3",
+      "duree": 1172
     },
     {
       "titre": "L'IA nous rend-elle bêtes ?",
-      "date": "2026-07-02"
-    },
-    {
-      "titre": "À quoi sert l'histoire ?",
-      "date": "2026-06-18"
+      "date": "2026-07-02",
+      "audio": "https://flex2.acast.com/s/les-idees-larges/u/cdn.arteradio.com/permanent/arteradio/sites/default/files/LIL_Podcast_ALOMBERT_V1_320.mp3",
+      "duree": 1524
     }
   ],
-  "derniere_activite": "2026-10-22",
-  "frequence_jours": 27,
+  "derniere_activite": "2026-11-12",
+  "frequence_jours": 21,
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",

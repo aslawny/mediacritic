@@ -26,7 +26,7 @@
     "international"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -55,26 +55,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "457. Quotidiens populaires, avec le collectif d'historiennes \"genre et classes populaires\"",
+      "date": "2026-11-16",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/0cf1088c-ba3b-4654-ac3a-d43baa979001.mp3?_=1794649006",
+      "duree": 4518
+    },
+    {
+      "titre": "456. Énigmatique érotique artichaut, avec Florent Quellier",
+      "date": "2026-11-09",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/e602a1bb-b325-4f2b-870f-11d8604f7d1f.mp3?_=1794152671",
+      "duree": 2485
+    },
+    {
       "titre": "455. Sons protestataires, avec Marion Henry et Adrien Quièvre",
-      "date": "2026-11-02"
+      "date": "2026-11-02",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/d37167a9-781b-41ca-9f83-8507770b06a5.mp3?_=1793572352",
+      "duree": 2914
     },
     {
       "titre": "454. La Turquie change d'alphabet, avec Emmanuel Szurek",
-      "date": "2026-10-26"
+      "date": "2026-10-26",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/74b8c13b-ceb8-4808-aaa4-b6efbf0db21d.mp3?_=1792921108",
+      "duree": 3454
     },
     {
       "titre": "453. Le passé aux enchères, avec Violette Stcherbatcheff",
-      "date": "2026-10-19"
-    },
-    {
-      "titre": "452. L'histoire à hauteur d'enfants, avec Manon Pignot",
-      "date": "2026-10-12"
-    },
-    {
-      "titre": "451. Pierres politiques du Moyen âge, avec Pauline Guillemet",
-      "date": "2026-10-05"
+      "date": "2026-10-19",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/4aa9138f-b4ea-40e9-b50d-94145802dc79.mp3?_=1792347772",
+      "duree": 3647
     }
   ],
-  "derniere_activite": "2026-11-02",
+  "derniere_activite": "2026-11-16",
   "frequence_jours": 7
 }

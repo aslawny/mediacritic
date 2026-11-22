@@ -25,7 +25,7 @@
     "business"
   ],
   "addedAt": "2026-10-17",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,26 +54,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "Clara Delétraz - Comment se confronter sans s’affronter ?",
+      "date": "2026-11-11",
+      "audio": "https://audio.ausha.co/nrXd5sK6XNYW.mp3?t=1794298463",
+      "duree": 3408
+    },
+    {
       "titre": "Yohann Hebi Daher - Le Corps parle avant le verbe [LIVE RELIER à Paris]",
-      "date": "2026-10-15"
+      "date": "2026-10-15",
+      "audio": "https://audio.ausha.co/Aj5KGSLvNazE.mp3?t=1791967384",
+      "duree": 2821
     },
     {
       "titre": "Laetitia Vitaud - La diversité générationnelle est une force",
-      "date": "2026-09-16"
+      "date": "2026-09-16",
+      "audio": "https://audio.ausha.co/M38K9FxROV0w.mp3?t=1789460366",
+      "duree": 2935
     },
     {
       "titre": "Philippe Benquet - Favoriser la confiance : cadrer sans contrôler",
-      "date": "2026-07-22"
+      "date": "2026-07-22",
+      "audio": "https://audio.ausha.co/2V1nPHqV7Pxd.mp3?t=1784635735",
+      "duree": 3330
     },
     {
       "titre": "Martin Serralta - Agir ensemble : retrouver l’élan quand le collectif s’essouffle",
-      "date": "2026-06-17"
-    },
-    {
-      "titre": "Renaud Borderie - Le charisme ou l’art de retrouver sa grâce",
-      "date": "2026-05-13"
+      "date": "2026-06-17",
+      "audio": "https://audio.ausha.co/Zgj3GCYPedJr.mp3?t=1781648379",
+      "duree": 3392
     }
   ],
-  "derniere_activite": "2026-10-15",
-  "frequence_jours": 35
+  "derniere_activite": "2026-11-11",
+  "frequence_jours": 29
 }

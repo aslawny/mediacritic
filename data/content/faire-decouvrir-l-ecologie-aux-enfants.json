@@ -25,7 +25,7 @@
     "enfants",
     "éducation"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "Parler d’écologie aux enfants sans être expert : l’exemple inspirant de Marie à Munich",
@@ -49,5 +49,25 @@
     }
   ],
   "derniere_activite": "2026-10-20",
-  "frequence_jours": 42
+  "frequence_jours": 42,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "l'elfe gotique",
+        "titre": "Écolo",
+        "texte": "Je suis une écolo hors pair je ne mange de la viande que deux fois par jour."
+      },
+      {
+        "note": 4,
+        "auteur": "🐅Tess 🐆",
+        "titre": "🛩",
+        "texte": "C’est bien 🙂 J’ai bien aimé l’histoire de la bouteille en plastique Au revoir et merci 😊"
+      }
+    ]
+  }
 }

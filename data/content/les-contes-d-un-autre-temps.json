@@ -25,7 +25,7 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,26 +54,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "La fille aux choix volés",
+      "date": "2026-11-19",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/3e469f97-bafc-476f-b866-43e191b242ff.mp3?_=1709308790",
+      "duree": 758
+    },
+    {
+      "titre": "Le roi Harald",
+      "date": "2026-11-12",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/ce9e80a8-6b19-467f-8676-a2dfc8f8145d.mp3?_=1755510344",
+      "duree": 815
+    },
+    {
       "titre": "Lonndir, la ville des chants",
-      "date": "2026-11-05"
+      "date": "2026-11-05",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/f1c66dee-2dd6-4610-964e-c49801081fa7.mp3?_=1753454207",
+      "duree": 844
     },
     {
       "titre": "La cité sous les sables",
-      "date": "2026-10-29"
+      "date": "2026-10-29",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/2090e77b-30f2-4959-9ddb-bbd8d7baa497.mp3?_=1720536767",
+      "duree": 810
     },
     {
       "titre": "Les géants de pierre",
-      "date": "2026-10-22"
-    },
-    {
-      "titre": "Le chevalier elfe",
-      "date": "2026-10-15"
-    },
-    {
-      "titre": "Nigel et le château maudit",
-      "date": "2026-10-08"
+      "date": "2026-10-22",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/474d17a5-b321-4107-811c-289585c39256.mp3?_=1774020193",
+      "duree": 399
     }
   ],
-  "derniere_activite": "2026-11-05",
+  "derniere_activite": "2026-11-19",
   "frequence_jours": 7
 }

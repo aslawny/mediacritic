@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/ma-vie-dado-au-coll%C3%A8ge/id1671576191?uo=2",
       "trackId": 1671576191,
-      "rating": 4.4,
-      "ratingCount": 249,
+      "rating": 4.3,
+      "ratingCount": 250,
       "episodeCount": null
     }
   },
@@ -27,27 +27,37 @@
     "famille"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "#MeToo.... Au collège aussi !",
-      "date": "2025-06-17"
+      "date": "2025-06-17",
+      "audio": "https://audio.ausha.co/WxY4DhVzvYME.mp3?t=1750164652",
+      "duree": 190
     },
     {
       "titre": "#MeToo... C'est quoi, ça vient d'où ?",
-      "date": "2025-06-17"
+      "date": "2025-06-17",
+      "audio": "https://audio.ausha.co/yp0QEAhgV2wP.mp3?t=1750164278",
+      "duree": 342
     },
     {
       "titre": "La relation profs / élèves idéale !",
-      "date": "2025-06-17"
+      "date": "2025-06-17",
+      "audio": "https://audio.ausha.co/6rq4jsrJ6Wk1.mp3?t=1750333006",
+      "duree": 765
     },
     {
       "titre": "Les devoirs à la maison... Pour quoi faire ?",
-      "date": "2025-06-13"
+      "date": "2025-06-13",
+      "audio": "https://audio.ausha.co/WxY4Dh38R5Xw.mp3?t=1749825272",
+      "duree": 403
     },
     {
       "titre": "Ces gens qui nous inspirent !",
-      "date": "2025-06-13"
+      "date": "2025-06-13",
+      "audio": "https://audio.ausha.co/Aje4xSpv0LaK.mp3?t=1749813799",
+      "duree": 153
     }
   ],
   "derniere_activite": "2025-06-17",

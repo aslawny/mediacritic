@@ -25,7 +25,7 @@
     "societe"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -55,23 +55,33 @@
   "episodes_recents": [
     {
       "titre": "Faire la paix avec son assiette",
-      "date": "2019-12-03"
+      "date": "2019-12-03",
+      "audio": "https://audio.audiomeans.fr/file/191f4c78-98fe-4512-a06f-578506d4c946.mp3?u=tOaYOEDSpc&_=1734471588",
+      "duree": 1948
     },
     {
       "titre": "Le maquillage, une affaire de classe",
-      "date": "2019-11-19"
+      "date": "2019-11-19",
+      "audio": "https://audio.audiomeans.fr/file/5f893d3a-1c89-4f3d-b642-31a45c0bf39e.mp3?u=tOaYOEDSpc&_=1734471588",
+      "duree": 1754
     },
     {
       "titre": "Y a pas que la taille qui compte",
-      "date": "2019-11-05"
+      "date": "2019-11-05",
+      "audio": "https://audio.audiomeans.fr/file/dcbf66f5-0c2e-451f-bfd5-586e175e3ddb.mp3?u=tOaYOEDSpc&_=1734471588",
+      "duree": 1582
     },
     {
       "titre": "Drague, échec et match",
-      "date": "2019-10-22"
+      "date": "2019-10-22",
+      "audio": "https://audio.audiomeans.fr/file/c1f9427a-0775-4709-b495-7706df6dfe08.mp3?u=tOaYOEDSpc&_=1734471588",
+      "duree": 2204
     },
     {
       "titre": "Beauté colonisée, corps domestiqués",
-      "date": "2019-10-15"
+      "date": "2019-10-15",
+      "audio": "https://audio.audiomeans.fr/file/fab28410-6cc4-45bd-a445-1d9c47fe3c39.mp3?u=tOaYOEDSpc&_=1734471588",
+      "duree": 2381
     }
   ],
   "derniere_activite": "2019-12-03",

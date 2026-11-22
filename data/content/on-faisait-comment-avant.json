@@ -23,7 +23,7 @@
     "histoire"
   ],
   "addedAt": "2026-09-08",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -53,23 +53,33 @@
   "episodes_recents": [
     {
       "titre": "Un petit mot...",
-      "date": "2024-07-16"
+      "date": "2024-07-16",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1931292.mp3?origin=rss",
+      "duree": 197
     },
     {
       "titre": "Alors on danse ?",
-      "date": "2024-07-09"
+      "date": "2024-07-09",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1931293.mp3?origin=rss",
+      "duree": 1962
     },
     {
       "titre": "Voter - épisode 2",
-      "date": "2024-07-02"
+      "date": "2024-07-02",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1931295.mp3?origin=rss",
+      "duree": 1723
     },
     {
       "titre": "Voter - épisode 1",
-      "date": "2024-07-02"
+      "date": "2024-07-02",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1931296.mp3?origin=rss",
+      "duree": 1424
     },
     {
       "titre": "Porter secours",
-      "date": "2024-06-14"
+      "date": "2024-06-14",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1931297.mp3?origin=rss",
+      "duree": 1938
     }
   ],
   "derniere_activite": "2024-07-16",

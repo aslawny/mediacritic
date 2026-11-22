@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/trench-tech/id1631380109?uo=4",
       "trackId": 1631380109,
       "rating": 4.9,
-      "ratingCount": 73,
+      "ratingCount": 74,
       "episodeCount": 326
     }
   },
@@ -26,27 +26,31 @@
     "tech",
     "numérique"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-23",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Plmdc",
+        "titre": "Très bon podcast",
+        "texte": "Suis en train d’écouter sur guerre et tech, j’ai l’impression d’être sur France Culture (ce qui en terme de podcast est le sommet !!). Une voix, un ton, une approche de journalistes soucieux du fond : pédagogie, curiosité, profondeur sans ésotérisme.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Arnaud Malouin",
+        "titre": "Navrant",
+        "texte": "Comment des professionnels de la TECH peuvent ils cautionner de tels propos ? Le dernier épisode avec Laure Salmona m’a édifié ! 3 minutes après les présentations d’usage, voilà l’invité qui explique que des femmes sont victimes de cyber harcèlement et de cyber violence grâce à H…"
+      },
+      {
+        "note": 5,
+        "auteur": "Marc.levrai",
+        "titre": "Des invités de qualités",
+        "texte": "J’adore la manière dont les sujets sont abordés, les questions direct des 3 hôtes. Ça remet en cause ce qu’on voit dans les média populaire, histoire de forger son esprit critique hehe (indispensable à l’heure où on ne sait pas qui paie qui pour parler, Une belle approche indépen…"
+      }
     ]
   },
   "episodes_recents": [

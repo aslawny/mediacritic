@@ -26,7 +26,7 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -55,26 +55,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "#140 : Mon anti to-do list",
+      "date": "2026-11-16",
+      "audio": "https://sphinx.acast.com/p/open/s/64c8e082cf5d1e0011d0fa03/e/6af720aada1c080cb9214129/media.mp3",
+      "duree": 1971
+    },
+    {
+      "titre": "#139 : Comment je sais que j'ai vieilli",
+      "date": "2026-11-09",
+      "audio": "https://sphinx.acast.com/p/open/s/64c8e082cf5d1e0011d0fa03/e/6aec5db9d4f8b3b748caa968/media.mp3",
+      "duree": 1291
+    },
+    {
       "titre": "#138 : Mon repas du condamné",
-      "date": "2026-11-02"
+      "date": "2026-11-02",
+      "audio": "https://sphinx.acast.com/p/open/s/64c8e082cf5d1e0011d0fa03/e/6ae7f87ab478422f91ffe91e/media.mp3",
+      "duree": 1738
     },
     {
       "titre": "#137 : Ma candidature pour Secret Story",
-      "date": "2026-10-26"
+      "date": "2026-10-26",
+      "audio": "https://sphinx.acast.com/p/open/s/64c8e082cf5d1e0011d0fa03/e/6ade1758959e7ea69d1d462e/media.mp3",
+      "duree": 1626
     },
     {
       "titre": "#136 : Mon dîner (presque) parfait #2",
-      "date": "2026-10-19"
-    },
-    {
-      "titre": "#135 : J'ai plus envie de courir",
-      "date": "2026-10-12"
-    },
-    {
-      "titre": "#134 : J'ai vécu une rupture amicale",
-      "date": "2026-10-05"
+      "date": "2026-10-19",
+      "audio": "https://sphinx.acast.com/p/open/s/64c8e082cf5d1e0011d0fa03/e/6ad0b84d94a3daa98ebf41b7/media.mp3",
+      "duree": 1973
     }
   ],
-  "derniere_activite": "2026-11-02",
+  "derniere_activite": "2026-11-16",
   "frequence_jours": 7
 }

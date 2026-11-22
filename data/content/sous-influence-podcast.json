@@ -25,7 +25,7 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "ca",
@@ -55,23 +55,33 @@
   "episodes_recents": [
     {
       "titre": "Gurky part en France!",
-      "date": "2022-10-15"
+      "date": "2022-10-15",
+      "audio": "https://anchor.fm/s/e1356b0/podcast/play/59098996/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-15%2F4f2925be-a584-5c5a-91fb-22cfe68058ac.mp3",
+      "duree": 14301
     },
     {
       "titre": "Yacine et coach Abdel de retour pour un incroyable podcast!",
-      "date": "2022-01-22"
+      "date": "2022-01-22",
+      "audio": "https://anchor.fm/s/e1356b0/podcast/play/58582373/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-5%2F289319871-44100-1-2915223958eccd58.mp3",
+      "duree": 8702
     },
     {
       "titre": "Kameto nous raconte son incroyable parcours",
-      "date": "2020-07-20"
+      "date": "2020-07-20",
+      "audio": "https://anchor.fm/s/e1356b0/podcast/play/58582357/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-5%2F289319867-44100-1-f9c65fc16ee77018.mp3",
+      "duree": 6246
     },
     {
       "titre": "Scandales Twitch, l'affaire Thekairi78 et des histoires sombres..",
-      "date": "2020-07-06"
+      "date": "2020-07-06",
+      "audio": "https://anchor.fm/s/e1356b0/podcast/play/58582372/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-5%2F289319879-44100-1-1e7d79e7427f4d0f.mp3",
+      "duree": 9980
     },
     {
       "titre": "Abdel Medjedoub nous raconte sa vie de boxeur pro, combattant MMA, et ancien videur",
-      "date": "2020-01-22"
+      "date": "2020-01-22",
+      "audio": "https://anchor.fm/s/e1356b0/podcast/play/58582358/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-5%2F289319872-44100-1-0dcda39eed9078b5.mp3",
+      "duree": 6914
     }
   ],
   "derniere_activite": "2022-10-15",

@@ -25,7 +25,7 @@
     "series"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -55,23 +55,33 @@
   "episodes_recents": [
     {
       "titre": "Parlons Péloches 2000 #4 - Le film fantastique",
-      "date": "2022-06-26"
+      "date": "2022-06-26",
+      "audio": "https://dts.podtrac.com/redirect.mp3/gateway.zippycast.io/ssp/535e70f282ae40c9b9f56d9a5521a91b/feeds.soundcloud.com/stream/1294259536-parlons-peloches-parlons-peloches-2000-4-le-film-fantastique.mp3",
+      "duree": 5323
     },
     {
       "titre": "Parlons Péloches 90's #6 - Le film d'action",
-      "date": "2022-03-27"
+      "date": "2022-03-27",
+      "audio": "https://dts.podtrac.com/redirect.mp3/gateway.zippycast.io/ssp/535e70f282ae40c9b9f56d9a5521a91b/feeds.soundcloud.com/stream/1237837615-parlons-peloches-parlons-peloches-90s-6-le-film-daction.mp3",
+      "duree": 5965
     },
     {
       "titre": "Parlons Péloches #91 - La comédie musicale",
-      "date": "2022-02-13"
+      "date": "2022-02-13",
+      "audio": "https://dts.podtrac.com/redirect.mp3/gateway.zippycast.io/ssp/535e70f282ae40c9b9f56d9a5521a91b/feeds.soundcloud.com/stream/1214579038-parlons-peloches-parlons-peloches-91-la-comedie-musicale.mp3",
+      "duree": 6475
     },
     {
       "titre": "Parlons Péloches #90 - Le film de 2021 (partie 2)",
-      "date": "2022-01-16"
+      "date": "2022-01-16",
+      "audio": "https://dts.podtrac.com/redirect.mp3/gateway.zippycast.io/ssp/535e70f282ae40c9b9f56d9a5521a91b/feeds.soundcloud.com/stream/1194407335-parlons-peloches-parlons-peloches-90-le-film-de-2021-partie-2.mp3",
+      "duree": 7964
     },
     {
       "titre": "Parlons Péloches #89 - Le film de 2021 (partie 1)",
-      "date": "2022-01-02"
+      "date": "2022-01-02",
+      "audio": "https://dts.podtrac.com/redirect.mp3/gateway.zippycast.io/ssp/535e70f282ae40c9b9f56d9a5521a91b/feeds.soundcloud.com/stream/1188507052-parlons-peloches-parlons-peloches-89-le-film-de-2021-partie-1.mp3",
+      "duree": 4272
     }
   ],
   "derniere_activite": "2022-06-26",

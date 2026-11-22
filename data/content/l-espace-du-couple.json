@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/lespace-du-couple/id1509266404?uo=2",
       "trackId": 1509266404,
       "rating": 4.9,
-      "ratingCount": 523,
+      "ratingCount": 526,
       "episodeCount": null
     }
   },
@@ -27,30 +27,40 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "# 185 - La rencontre: avant de s’attacher il est bon de …",
+      "date": "2026-11-13",
+      "audio": "https://sphinx.acast.com/p/acast/s/l-espace-du-couple/e/6abe6b2ea195b13a1abd7783/media.mp3",
+      "duree": 809
+    },
+    {
       "titre": "# 184 - Bientôt Noêl: Et si le cadeau c’était NOUS?",
-      "date": "2026-10-30"
+      "date": "2026-10-30",
+      "audio": "https://sphinx.acast.com/p/acast/s/l-espace-du-couple/e/6abe6d9915f07e5481998f94/media.mp3",
+      "duree": 586
     },
     {
       "titre": "# 183 - Du développement personnel au développement relationnel",
-      "date": "2026-10-16"
+      "date": "2026-10-16",
+      "audio": "https://sphinx.acast.com/p/acast/s/l-espace-du-couple/e/6abe6ad3f06e2ab6b7d15498/media.mp3",
+      "duree": 1050
     },
     {
       "titre": "# 182 - Mon couple va mal … mais est-ce toxique?",
-      "date": "2026-10-02"
+      "date": "2026-10-02",
+      "audio": "https://sphinx.acast.com/p/acast/s/l-espace-du-couple/e/6abe6a4c82177b9ab8b5fde6/media.mp3",
+      "duree": 710
     },
     {
       "titre": "# 181 - Et si votre couple s'éteignait déjà... sans bruit",
-      "date": "2026-09-18"
-    },
-    {
-      "titre": "# 180 - On reste ensemble pour les enfants",
-      "date": "2026-09-04"
+      "date": "2026-09-18",
+      "audio": "https://sphinx.acast.com/p/acast/s/l-espace-du-couple/e/69e7297366c3374f7ec6ff53/media.mp3",
+      "duree": 746
     }
   ],
-  "derniere_activite": "2026-10-30",
+  "derniere_activite": "2026-11-13",
   "frequence_jours": 7,
   "avis_publics": {
     "source": "apple",

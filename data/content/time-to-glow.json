@@ -27,7 +27,7 @@
     "culture"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -56,26 +56,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "#75 François Bonnat & Ivan Kricak - The Smilist : ils réinventent le soin dentaire pour mieux prendre soin de ",
+      "date": "2026-11-16",
+      "audio": "https://audio.ausha.co/3m1GxCM6RqPa.mp3?t=1794592940",
+      "duree": 4922
+    },
+    {
+      "titre": "#74 Monica Bibalou : Comment se faire un nom dans l’univers du maquillage ?",
+      "date": "2026-11-09",
+      "audio": "https://audio.ausha.co/Ee5m2FR3Dqm1.mp3?t=1794084472",
+      "duree": 4442
+    },
+    {
       "titre": "#73 Anthony Gonnet Vanderpoorte - Comment le BIOHACKING peut changer votre VIE",
-      "date": "2026-11-02"
+      "date": "2026-11-02",
+      "audio": "https://audio.ausha.co/nZRYOFjakD32.mp3?t=1793450057",
+      "duree": 3048
     },
     {
       "titre": "#72 Dr Naomi : Les secrets de la peau, entre science, skincare et idées reçues",
-      "date": "2026-10-26"
+      "date": "2026-10-26",
+      "audio": "https://audio.ausha.co/MnAxVcxjZP3a.mp3?t=1792916903",
+      "duree": 4683
     },
     {
       "titre": "#71 Jennifer Addor - Une seconde vie pour apprendre à vivre autrement",
-      "date": "2026-10-19"
-    },
-    {
-      "titre": "#70 Laurence Moulin - CEW France : La beauté n’est pas futile, elle aide à mieux vivre",
-      "date": "2026-10-12"
-    },
-    {
-      "titre": "#69 Kam Hugh - Des réseaux à Drag Race : créer pour faire passer ses messages",
-      "date": "2026-10-05"
+      "date": "2026-10-19",
+      "audio": "https://audio.ausha.co/oRDzGpiJGmpV.mp3?t=1792229468",
+      "duree": 4251
     }
   ],
-  "derniere_activite": "2026-11-02",
+  "derniere_activite": "2026-11-16",
   "frequence_jours": 7
 }

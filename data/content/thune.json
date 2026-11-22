@@ -26,7 +26,7 @@
     "histoire"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "be",
@@ -55,26 +55,36 @@
   },
   "episodes_recents": [
     {
-      "titre": "Shopping, liftings et argent de poche… elle rêvait d’être entretenue, elle l’est !",
-      "date": "2026-11-05"
+      "titre": "Avoir l’air riche, ça s’apprend ?",
+      "date": "2026-11-20",
+      "audio": "https://sphinx.acast.com/p/open/s/6569d320c27dae001249cf18/e/6adb08401eb6e512e5d7113e/media.mp3",
+      "duree": 3307
     },
     {
-      "titre": "TEASER : \"Et après je prends le bus pour aller chez Dior\"",
-      "date": "2026-11-05"
+      "titre": "TEASER : \"Moi, je ne demande que ça, de parvenir\"",
+      "date": "2026-11-20",
+      "audio": "https://sphinx.acast.com/p/open/s/6569d320c27dae001249cf18/e/6afdb4d020b40c3539aad0a3/media.mp3",
+      "duree": 69
     },
     {
-      "titre": "Le sens ou la thune… faut-il choisir ?",
-      "date": "2026-10-29"
+      "titre": "Et vous, votre épargne, vous en faites quoi ?",
+      "date": "2026-11-18",
+      "audio": "https://sphinx.acast.com/p/open/s/6569d320c27dae001249cf18/e/6afc7854e234c45df1df2eb9/media.mp3",
+      "duree": 2578
     },
     {
-      "titre": "TEASER : \"On est beaucoup à envisager une porte de sortie\"",
-      "date": "2026-10-29"
+      "titre": "BONUS THUNE EXPRESS : gérer sa thune en prison",
+      "date": "2026-11-12",
+      "audio": "https://sphinx.acast.com/p/open/s/6569d320c27dae001249cf18/e/6af486800b161a86d083dab8/media.mp3",
+      "duree": 116
     },
     {
-      "titre": "📞 \"Mon associé vend ses parts à un concurrent dans mon dos : je peux l'en empêcher ?\" | Thune Hotline",
-      "date": "2026-10-22"
+      "titre": "Trafic, pots-de-vin et piscines gonflables : gérer sa thune en prison",
+      "date": "2026-11-12",
+      "audio": "https://sphinx.acast.com/p/open/s/6569d320c27dae001249cf18/e/6af486807d020b369bcb66dc/media.mp3",
+      "duree": 4008
     }
   ],
-  "derniere_activite": "2026-11-05",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 0
 }

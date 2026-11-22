@@ -24,27 +24,25 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-23",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "dgerbier",
+        "titre": "Ma drogue quotidienne !",
+        "texte": "Je ne crois pas avoir loupé une seule chronique de Lisa ! Insolente, vulgaire juste ce qu’il faut, provocatrice … enfin !!!! Drôle quoi !! Et bravo pour sortir quotidiennement de telles chroniques si qualitatives ! La suite de Morgane parfaitement assurée !"
+      },
+      {
+        "note": 4,
+        "auteur": "Carophilos",
+        "titre": "Sans interdit",
+        "texte": "Un humour direct. Une vulgarité bien dosée. Un excellent moment."
+      }
     ]
   }
 }

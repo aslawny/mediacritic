@@ -27,7 +27,7 @@
     "culture"
   ],
   "addedAt": "2026-06-18",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "Je veux maigrir",
@@ -53,25 +53,29 @@
   "derniere_activite": "2026-03-26",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-23",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Dyslectricemeline",
+        "titre": "À écouter sans fin",
+        "texte": "Des podcasts super, qui parle de tout et sans langue de bois. J adore. C est vraiment chouette. Et on peut se retrouver dans certaine situation. Merci à toi Yasmine d oser parler. 😊"
+      },
+      {
+        "note": 1,
+        "auteur": "BonsoirMarseille",
+        "titre": "Le genre de meilleure amie à fuir !",
+        "texte": "On sent que cette personne adore s’entendre parler… elle ne parle que d’elle, tout en se frottant le ventre avec contentement, et enfonce des portes ouvertes."
+      },
+      {
+        "note": 5,
+        "auteur": "Louloubertilille",
+        "titre": "On adore",
+        "texte": "Émotion, franc parler, humour, chemin de vie … un doux mélange … continuez Yasmine ! Enfin des témoignages vrais, entiers !! Pour moi, vous rayonnez depuis de nombreuses années…"
+      }
     ]
   }
 }

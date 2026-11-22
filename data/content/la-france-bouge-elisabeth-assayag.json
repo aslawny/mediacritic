@@ -27,7 +27,7 @@
     "cuisine"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "Matchy Matcha, le premier matcha latté prêt-à-boire",
@@ -53,25 +53,29 @@
   "derniere_activite": "2026-11-09",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-23",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Youyou46",
+        "titre": "Parfait !",
+        "texte": "Innovant et pertinent, bravo à la rédac d'E1 et à W.Bouchard, continuez !!!"
+      },
+      {
+        "note": 1,
+        "auteur": "Moimoi1010102",
+        "titre": "La France bouge mais Europe 1 rétrograde en soutenant explicitement la droite",
+        "texte": "En soutenant la droite ( extrême) cette radio Bolloré parut ici peu au détricotages de lois écologiques de protection de la nature ( humanité comprise)"
+      },
+      {
+        "note": 5,
+        "auteur": "Henry20219",
+        "titre": "Rien a dire",
+        "texte": "W.Bouchard tres pro dommage quand corse problème de réception."
+      }
     ]
   }
 }

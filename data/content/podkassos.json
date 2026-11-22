@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/podkassos/id1714420932?uo=2",
       "trackId": 1714420932,
       "rating": 4.6,
-      "ratingCount": 322,
+      "ratingCount": 323,
       "episodeCount": null
     }
   },
@@ -27,7 +27,7 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -56,26 +56,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "PODKASSOS LIVE #17 - On a débarqué à Bordeaux !!",
+      "date": "2026-11-18",
+      "audio": "https://sphinx.acast.com/p/open/s/66f91bc5b696dfdc6dce0a01/e/6afdd0704cc42f9e4187faa9/media.mp3",
+      "duree": 5593
+    },
+    {
+      "titre": "Podkassos Saison 4 #7 - Mariages à 1000, concerts de rap et basket (avec Yazid Assoumani)",
+      "date": "2026-11-11",
+      "audio": "https://sphinx.acast.com/p/open/s/66f91bc5b696dfdc6dce0a01/e/6af383fb4019cd265537d306/media.mp3",
+      "duree": 3016
+    },
+    {
       "titre": "Podkassos Saison 4 #6 - Patriarcat, voix gay, et voyeurisme",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://sphinx.acast.com/p/open/s/66f91bc5b696dfdc6dce0a01/e/6aeafc0fe17aeb138ae3c078/media.mp3",
+      "duree": 3469
     },
     {
       "titre": "Podkassos Saison 4 #5 - Gosses de riche horribles, enterrement et magie",
-      "date": "2026-10-28"
+      "date": "2026-10-28",
+      "audio": "https://sphinx.acast.com/p/open/s/66f91bc5b696dfdc6dce0a01/e/6ae10ebd664593f8061f1341/media.mp3",
+      "duree": 3567
     },
     {
       "titre": "Podkassos Saison 4 #4 - Pierre et Anninka règlent leurs comptes en direct",
-      "date": "2026-10-14"
-    },
-    {
-      "titre": "Podkassos Saison 4 #3 - Doully est enfin là, et elle dit tout",
-      "date": "2026-10-07"
-    },
-    {
-      "titre": "Podkassos Saison 4 #2 - Franjo remplacé par Ghislain pour toujours ?",
-      "date": "2026-09-30"
+      "date": "2026-10-14",
+      "audio": "https://sphinx.acast.com/p/open/s/66f91bc5b696dfdc6dce0a01/e/6ac4eedb22e4cb85bd9f9985/media.mp3",
+      "duree": 3225
     }
   ],
-  "derniere_activite": "2026-11-04",
+  "derniere_activite": "2026-11-18",
   "frequence_jours": 7
 }

@@ -23,7 +23,7 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -52,26 +52,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "[EXTRAIT] - Interview de Sidney Gavignet",
+      "date": "2026-11-16",
+      "audio": "https://audio.ausha.co/Bxe7NSqjm7xG.mp3?t=1793281312",
+      "duree": 236
+    },
+    {
+      "titre": "[CLÉ DE VIE] - Observer selon Sidney Gavignet",
+      "date": "2026-11-11",
+      "audio": "https://audio.ausha.co/ypjwXI8XOzxY.mp3?t=1793281180",
+      "duree": 62
+    },
+    {
+      "titre": "\"Revenir à soi\" avec Sidney Gavignet",
+      "date": "2026-11-09",
+      "audio": "https://audio.ausha.co/brX79cREmKL9.mp3?t=1793281033",
+      "duree": 3016
+    },
+    {
       "titre": "[EXTRAIT] - Interview de Fanny Walter",
-      "date": "2026-11-02"
+      "date": "2026-11-02",
+      "audio": "https://audio.ausha.co/yed0mcA2aV01.mp3?t=1790256266",
+      "duree": 251
     },
     {
       "titre": "[CLÉ DE VIE] - Oser se lancer selon Fanny Walter",
-      "date": "2026-10-28"
-    },
-    {
-      "titre": "\"Redéfinir la richesse à travers le bonheur\" avec Fanny Walter",
-      "date": "2026-10-26"
-    },
-    {
-      "titre": "[EXTRAIT] - Interview de Hélène Vuillet",
-      "date": "2026-10-19"
-    },
-    {
-      "titre": "[CLÉ DE VIE] - Devenir adulte selon Hélène Vuillet",
-      "date": "2026-10-14"
+      "date": "2026-10-28",
+      "audio": "https://audio.ausha.co/yA3kntp303m3.mp3?t=1790256119",
+      "duree": 59
     }
   ],
-  "derniere_activite": "2026-11-02",
+  "derniere_activite": "2026-11-16",
   "frequence_jours": 5
 }

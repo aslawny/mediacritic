@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/en-apparence/id1877628982?uo=2",
       "trackId": 1877628982,
       "rating": 4.7,
-      "ratingCount": 535,
+      "ratingCount": 537,
       "episodeCount": null
     }
   },
@@ -25,30 +25,40 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Elena Nagapetyan, Deep et glam",
+      "date": "2026-11-19",
+      "audio": "https://sphinx.acast.com/p/open/s/6992e4438dc5f2047a71d132/e/6afdaef70ba450fc6bece1c2/media.mp3",
+      "duree": 3201
+    },
+    {
+      "titre": "Teddy Bear, beau ou un truc comme ça",
+      "date": "2026-11-12",
+      "audio": "https://sphinx.acast.com/p/open/s/6992e4438dc5f2047a71d132/e/6af32cbe4a05194ebf4f1b25/media.mp3",
+      "duree": 3297
+    },
+    {
       "titre": "Eddy de Pretto, grand coeur atypique",
-      "date": "2026-11-05"
+      "date": "2026-11-05",
+      "audio": "https://sphinx.acast.com/p/open/s/6992e4438dc5f2047a71d132/e/6aeb4b7616eb3ebb7612a89e/media.mp3",
+      "duree": 3231
     },
     {
       "titre": "Jennifer Ayache de Superbus, la fille cool du collège",
-      "date": "2026-10-29"
+      "date": "2026-10-29",
+      "audio": "https://sphinx.acast.com/p/open/s/6992e4438dc5f2047a71d132/e/6ae21d80051c13710c4d5f50/media.mp3",
+      "duree": 3059
     },
     {
       "titre": "Anne-Élisabeth Lemoine, c'est une joie",
-      "date": "2026-10-22"
-    },
-    {
-      "titre": "Barbara Pravi, entre Disney et Clueless",
-      "date": "2026-10-15"
-    },
-    {
-      "titre": "Alex Ramires, to be or not to be viril",
-      "date": "2026-10-08"
+      "date": "2026-10-22",
+      "audio": "https://sphinx.acast.com/p/open/s/6992e4438dc5f2047a71d132/e/6ad8c90a9b0402c503579bd5/media.mp3",
+      "duree": 3268
     }
   ],
-  "derniere_activite": "2026-11-05",
+  "derniere_activite": "2026-11-19",
   "frequence_jours": 7,
   "avis_publics": {
     "source": "apple",

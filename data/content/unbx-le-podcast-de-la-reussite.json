@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/unbx-le-podcast-de-la-r%C3%A9ussite/id6813632977?uo=2",
       "trackId": 6813632977,
       "rating": 4.7,
-      "ratingCount": 203,
+      "ratingCount": 208,
       "episodeCount": null
     }
   },
@@ -25,30 +25,40 @@
     "business"
   ],
   "addedAt": "2026-09-20",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "David Pujadas balance les coulisses les plus folles du JT",
+      "date": "2026-11-18",
+      "audio": "https://sphinx.acast.com/p/open/s/6aaba7448577b7eb504cf325/e/6afdd0d1d6de6295726cff0b/media.mp3",
+      "duree": 3413
+    },
+    {
+      "titre": "Kelly Massol a gagné 22 millions en commençant avec son 13e mois de 1500 €",
+      "date": "2026-11-11",
+      "audio": "https://sphinx.acast.com/p/open/s/6aaba7448577b7eb504cf325/e/6af38e6fd398bd98a35d2297/media.mp3",
+      "duree": 3655
+    },
+    {
       "titre": "Travailler moins peut rapporter plus : la méthode pour réussir d’Antoine Le Nel (Revolut)",
-      "date": "2026-11-07"
+      "date": "2026-11-07",
+      "audio": "https://sphinx.acast.com/p/open/s/6aaba7448577b7eb504cf325/e/6aee4a1b6a5aa43b58488cc8/media.mp3",
+      "duree": 3256
     },
     {
       "titre": "Elle a fait évader Paul Watson : Lamya Essemlali, la pirate au grand cœur",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://sphinx.acast.com/p/open/s/6aaba7448577b7eb504cf325/e/6ae9f1880760840f99146af0/media.mp3",
+      "duree": 3942
     },
     {
       "titre": "Mélenchon veut virer cet homme s’il est élu",
-      "date": "2026-10-31"
-    },
-    {
-      "titre": "« Personne n’y croyait » : Isabel Marant a construit une boîte à (presque) 1 milliard",
-      "date": "2026-10-28"
-    },
-    {
-      "titre": "Khala est devenue une star grâce à OnlyFans et elle vous déconseille de faire pareil",
-      "date": "2026-10-24"
+      "date": "2026-10-31",
+      "audio": "https://sphinx.acast.com/p/open/s/6aaba7448577b7eb504cf325/e/6ae33017b794b75c678c6d02/media.mp3",
+      "duree": 3356
     }
   ],
-  "derniere_activite": "2026-11-07",
+  "derniere_activite": "2026-11-18",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",

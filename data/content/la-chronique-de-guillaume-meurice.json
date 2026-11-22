@@ -25,31 +25,41 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Jean-Luc Méchanlon - La chronique de Guillaume Meurice dans La dernière",
+      "date": "2026-11-15",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/5e2433b2-c2ea-4183-aa68-fb783bd54e3a.mp3?_=1794768415&ps=c93fc680-2aac-4c87-880b-611da0d643f4",
+      "duree": 219
+    },
+    {
       "titre": "Je suis CNews ! - La chronique de Guillaume Meurice",
-      "date": "2026-11-08"
+      "date": "2026-11-08",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/df759212-bbbd-4a43-b4a7-ce24bdc31976.mp3?_=1794162577&ps=c93fc680-2aac-4c87-880b-611da0d643f4",
+      "duree": 260
     },
     {
       "titre": "Wokistan et islamistan - La chronique de Guillaume Meurice",
-      "date": "2026-10-25"
+      "date": "2026-10-25",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/5b4ab07b-a424-4550-ba21-5d4eb5ff38ae.mp3?_=1792961630&ps=c93fc680-2aac-4c87-880b-611da0d643f4",
+      "duree": 268
     },
     {
       "titre": "La jeunesse est un naufrage - La chronique de Guillaume Meurice",
-      "date": "2026-10-18"
+      "date": "2026-10-18",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/1b4e0d76-2972-43e3-b477-bae90fb880ea.mp3?_=1792345493&ps=c93fc680-2aac-4c87-880b-611da0d643f4",
+      "duree": 271
     },
     {
       "titre": "Les jeunes, c’était mieux avant ! - La chronique de Guillaume Meurice",
-      "date": "2026-10-11"
-    },
-    {
-      "titre": "Bally Bagayoko, le danger ! - La chronique de Guillaume Meurice",
-      "date": "2026-10-04"
+      "date": "2026-10-11",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/560f0420-e13a-405a-b268-fc97dd85d453.mp3?_=1791745092&ps=c93fc680-2aac-4c87-880b-611da0d643f4",
+      "duree": 218
     }
   ],
-  "derniere_activite": "2026-11-08",
-  "frequence_jours": 6,
+  "derniere_activite": "2026-11-15",
+  "frequence_jours": 7,
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",

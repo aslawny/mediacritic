@@ -26,7 +26,7 @@
     "comedie"
   ],
   "addedAt": "2026-07-30",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -56,23 +56,33 @@
   "episodes_recents": [
     {
       "titre": "BD et masculinistes - Rencontre avec Laurie Agusti",
-      "date": "2026-01-23"
+      "date": "2026-01-23",
+      "audio": "https://sphinx.acast.com/p/acast/s/on-s-tient-au-jus/e/697202cc45f2be66884fcef2/media.mp3",
+      "duree": 3925
     },
     {
       "titre": "Drag Race, Les yeux fermés et Mamari (Top/flop #67)",
-      "date": "2024-07-12"
+      "date": "2024-07-12",
+      "audio": "https://sphinx.acast.com/p/acast/s/on-s-tient-au-jus/e/669009050e0546b8a8101096/media.mp3",
+      "duree": 339
     },
     {
       "titre": "#67 Andréa Bescond",
-      "date": "2024-07-09"
+      "date": "2024-07-09",
+      "audio": "https://sphinx.acast.com/p/acast/s/on-s-tient-au-jus/e/668bc93bfc882c395b9ade49/media.mp3",
+      "duree": 3750
     },
     {
       "titre": "Mirion Malle et Furiosa (Top/flop #66)",
-      "date": "2024-07-04"
+      "date": "2024-07-04",
+      "audio": "https://sphinx.acast.com/p/acast/s/on-s-tient-au-jus/e/667ed40f38312b16fcbbc3cd/media.mp3",
+      "duree": 403
     },
     {
       "titre": "#66 Morgan Noam",
-      "date": "2024-07-01"
+      "date": "2024-07-01",
+      "audio": "https://sphinx.acast.com/p/acast/s/on-s-tient-au-jus/e/667ec0ed482fca9c1b52309f/media.mp3",
+      "duree": 4178
     }
   ],
   "derniere_activite": "2026-01-23",

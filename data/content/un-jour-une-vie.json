@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/un-jour-une-vie/id459464113?uo=4",
       "trackId": 459464113,
       "rating": 4.1,
-      "ratingCount": 565,
+      "ratingCount": 566,
       "episodeCount": 110
     }
   },
@@ -25,7 +25,7 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "ch",
@@ -48,26 +48,36 @@
   },
   "episodes_recents": [
     {
-      "titre": "Georges, il a traqué le pédocriminel qui s'en est pris à sa fille",
-      "date": "2026-11-05"
+      "titre": "Thibault, survivaliste, il se prépare à toutes les situations",
+      "date": "2026-11-20",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/d266f990-e17b-4226-8a08-1899a48533a9.mp3?_=1795168981",
+      "duree": 1169
     },
     {
-      "titre": "Nicolas, coincé dans une grotte pendant 10 jours",
-      "date": "2026-11-04"
+      "titre": "Maître Philippe Pressecq, la revanche d'un bègue",
+      "date": "2026-11-19",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/94b189d8-ed09-4721-b3e0-4b48d6b9c245.mp3?_=1794823083",
+      "duree": 1366
     },
     {
-      "titre": "Mélissa, 25 ans, a choisi de vivre avec son arrière-grand-mère de 103 ans",
-      "date": "2026-11-03"
+      "titre": "Julien, il a découvert que sa compagne était mythomane",
+      "date": "2026-11-18",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/763720ff-fabc-49aa-b1a1-1b65fb43586d.mp3?_=1794998881",
+      "duree": 1198
     },
     {
-      "titre": "Christophe, il habille et arme les stars des plus grands films",
-      "date": "2026-10-30"
+      "titre": "Alizée, une vie sans douleur mais pas sans danger",
+      "date": "2026-11-17",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/e0c84a4a-2942-4f15-a4ed-27a0668ad8da.mp3?_=1794823082",
+      "duree": 1304
     },
     {
-      "titre": "Funeral planner, quand le deuil devient personnalisé",
-      "date": "2026-10-29"
+      "titre": "Thierry, les missions à haut risque d'un pilote de Canadair",
+      "date": "2026-11-13",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/a3ec4d1a-463c-4b67-b787-b63b15fdedf1.mp3?_=1794322987",
+      "duree": 1222
     }
   ],
-  "derniere_activite": "2026-11-05",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 1
 }

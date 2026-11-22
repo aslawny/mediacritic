@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/cordialement-zo%C3%A9/id1704464426?uo=4",
       "trackId": 1704464426,
       "rating": 4.6,
-      "ratingCount": 377,
+      "ratingCount": 381,
       "episodeCount": 116
     }
   },
@@ -27,30 +27,40 @@
     "culture"
   ],
   "addedAt": "2026-06-24",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "On juge nos ex (et nos parcours amoureux)",
+      "date": "2026-11-18",
+      "audio": "https://sphinx.acast.com/p/open/s/64e3693a755e350011e3c500/e/6afc7110228213ae4e4e85d7/media.mp3",
+      "duree": 2986
+    },
+    {
+      "titre": "On vous confie nos pires hontes",
+      "date": "2026-11-11",
+      "audio": "https://sphinx.acast.com/p/open/s/64e3693a755e350011e3c500/e/6af1a74ee7c6d309d116dec4/media.mp3",
+      "duree": 2530
+    },
+    {
       "titre": "Sommes nous des bonnes personnes ? - Le test",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://sphinx.acast.com/p/open/s/64e3693a755e350011e3c500/e/6aea417875cd7e958943ad68/media.mp3",
+      "duree": 3011
     },
     {
       "titre": "Nos complexes nous gâchent la vie",
-      "date": "2026-10-28"
+      "date": "2026-10-28",
+      "audio": "https://sphinx.acast.com/p/open/s/64e3693a755e350011e3c500/e/6ae0bdfc33b363c95de4ffce/media.mp3",
+      "duree": 3147
     },
     {
       "titre": "On joue à \"tu préfères\" entre soeurs",
-      "date": "2026-10-21"
-    },
-    {
-      "titre": "Travailler entre soeurs ça donne quoi ?",
-      "date": "2026-10-14"
-    },
-    {
-      "titre": "On a appris qu'on avait des maladies et c'est ok",
-      "date": "2026-10-07"
+      "date": "2026-10-21",
+      "audio": "https://sphinx.acast.com/p/open/s/64e3693a755e350011e3c500/e/6ad7eb403ad7f68551bb675e/media.mp3",
+      "duree": 2270
     }
   ],
-  "derniere_activite": "2026-11-04",
+  "derniere_activite": "2026-11-18",
   "frequence_jours": 7,
   "avis_publics": {
     "source": "apple",

@@ -26,7 +26,7 @@
     "societe"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -56,23 +56,33 @@
   "episodes_recents": [
     {
       "titre": "Enfant intérieur : Cultiver la paix",
-      "date": "2025-11-28"
+      "date": "2025-11-28",
+      "audio": "https://api.spreaker.com/download/episode/68784501/enfant_interieur.mp3",
+      "duree": 1309
     },
     {
       "titre": "La page blanche",
-      "date": "2025-09-11"
+      "date": "2025-09-11",
+      "audio": "https://api.spreaker.com/download/episode/67719402/la_page_blanche.mp3",
+      "duree": 528
     },
     {
       "titre": "L'appel de l'instinct",
-      "date": "2025-06-25"
+      "date": "2025-06-25",
+      "audio": "https://api.spreaker.com/download/episode/66723382/lappel_de_linstinct.mp3",
+      "duree": 607
     },
     {
       "titre": "Sous l'olivier",
-      "date": "2025-05-12"
+      "date": "2025-05-12",
+      "audio": "https://api.spreaker.com/download/episode/66052198/sous_lolivier.mp3",
+      "duree": 655
     },
     {
       "titre": "The garden of Rest",
-      "date": "2025-05-12"
+      "date": "2025-05-12",
+      "audio": "https://api.spreaker.com/download/episode/66052156/the_garden_of_rest.mp3",
+      "duree": 493
     }
   ],
   "derniere_activite": "2025-11-28",

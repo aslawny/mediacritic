@@ -24,7 +24,7 @@
     "culture",
     "société"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -53,26 +53,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "Autour du pouvoir",
+      "date": "2026-11-19",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3050019.mp3?origin=rss",
+      "duree": 5472
+    },
+    {
+      "titre": "Souleymane Bachir Diagne, droit dans les yeux",
+      "date": "2026-11-16",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3015705.mp3?origin=rss",
+      "duree": 131
+    },
+    {
+      "titre": "Trouver les mots",
+      "date": "2026-11-12",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2982985.mp3?origin=rss",
+      "duree": 5566
+    },
+    {
       "titre": "Des défis pour demain !",
-      "date": "2026-11-05"
+      "date": "2026-11-05",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2936437.mp3?origin=rss",
+      "duree": 5464
     },
     {
       "titre": "Clémentine Mélois, droit dans les yeux",
-      "date": "2026-11-02"
-    },
-    {
-      "titre": "Nos inachèvements",
-      "date": "2026-10-29"
-    },
-    {
-      "titre": "Les docs de La Grande Librairie - Victor Hugo",
-      "date": "2026-10-22"
-    },
-    {
-      "titre": "Boris Bergmann, droit dans les yeux",
-      "date": "2026-10-19"
+      "date": "2026-11-02",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2924421.mp3?origin=rss",
+      "duree": 110
     }
   ],
-  "derniere_activite": "2026-11-05",
+  "derniere_activite": "2026-11-19",
   "frequence_jours": 3
 }

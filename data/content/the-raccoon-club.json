@@ -27,7 +27,7 @@
     "humour"
   ],
   "addedAt": "2026-10-14",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -57,23 +57,33 @@
   "episodes_recents": [
     {
       "titre": "Doit-on faire de sa vie une comédie romantique ?",
-      "date": "2024-10-17"
+      "date": "2024-10-17",
+      "audio": "https://sphinx.acast.com/p/open/s/6152f0bd2a270300128312d4/e/671110edfb3e5769611024c7/media.mp3",
+      "duree": 3169
     },
     {
       "titre": "Sommes-nous tous en burnout du dating ?",
-      "date": "2024-10-02"
+      "date": "2024-10-02",
+      "audio": "https://sphinx.acast.com/p/open/s/6152f0bd2a270300128312d4/e/66fd6bc8687515ec94357e0d/media.mp3",
+      "duree": 4389
     },
     {
       "titre": "Pourquoi les serial killers nous fascinent ?",
-      "date": "2024-09-18"
+      "date": "2024-09-18",
+      "audio": "https://sphinx.acast.com/p/open/s/6152f0bd2a270300128312d4/e/66eaf6d1e34b4562374fec2b/media.mp3",
+      "duree": 3150
     },
     {
       "titre": "Doit-on avoir peur de voyager seul.e.s?",
-      "date": "2024-09-04"
+      "date": "2024-09-04",
+      "audio": "https://sphinx.acast.com/p/open/s/6152f0bd2a270300128312d4/e/66d87588717e28522915a347/media.mp3",
+      "duree": 3570
     },
     {
       "titre": "Je ne suis pas les autres nan nan ouh yeah",
-      "date": "2023-03-09"
+      "date": "2023-03-09",
+      "audio": "https://sphinx.acast.com/p/open/s/6152f0bd2a270300128312d4/e/640a22e123b51e001112f23b/media.mp3",
+      "duree": 3368
     }
   ],
   "derniere_activite": "2024-10-17",

@@ -25,7 +25,7 @@
     "vulgarisation"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,26 +54,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "La vie en société - Sursum Corda S03 EP11",
+      "date": "2026-11-15",
+      "audio": "https://tr.ausha.co/ll79LcL2xjNZ/api.soundcast.io/v1/stitch/ausha.mp3?tags=E12FDB83&keywords=episodeId:ll79LcL2xjNZ,showId:B1qE7ktNNgqx&kw_applecategory=Religion&kw_showname=Sursum+Corda&kw_episodeid=ll79LcL2xjNZ&kw_podcastid=B1qE7ktNNgqx&kw_showrss=https%3A%2F%2Ffeed.ausha.co%2FB1qE7ktNNgqx&kw_language=fr&kw_position=preroll&apiKey=c1a94b3301c64853868548ac73233ca1&podcastUrl=https%3A%2F%2Faudio.ausha.co%2Fll79LcL2xjNZ.mp3%3Ft%3D1794493234",
+      "duree": 1601
+    },
+    {
       "titre": "Péchés mortels et véniels : Sursum Corda S03 épisode 10",
-      "date": "2026-11-08"
+      "date": "2026-11-08",
+      "audio": "https://tr.ausha.co/gkeMDFv7x5Jv/api.soundcast.io/v1/stitch/ausha.mp3?tags=E12FDB83&keywords=episodeId:gkeMDFv7x5Jv,showId:B1qE7ktNNgqx&kw_applecategory=Religion&kw_showname=Sursum+Corda&kw_episodeid=gkeMDFv7x5Jv&kw_podcastid=B1qE7ktNNgqx&kw_showrss=https%3A%2F%2Ffeed.ausha.co%2FB1qE7ktNNgqx&kw_language=fr&kw_position=preroll&apiKey=c1a94b3301c64853868548ac73233ca1&podcastUrl=https%3A%2F%2Faudio.ausha.co%2FgkeMDFv7x5Jv.mp3%3Ft%3D1793615418",
+      "duree": 1601
     },
     {
       "titre": "Le péché : Sursum Corda SO3 épisode 9",
-      "date": "2026-11-01"
+      "date": "2026-11-01",
+      "audio": "https://tr.ausha.co/E01kVIAGnWwk/api.soundcast.io/v1/stitch/ausha.mp3?tags=E12FDB83&keywords=episodeId:E01kVIAGnWwk,showId:B1qE7ktNNgqx&kw_applecategory=Religion&kw_showname=Sursum+Corda&kw_episodeid=E01kVIAGnWwk&kw_podcastid=B1qE7ktNNgqx&kw_showrss=https%3A%2F%2Ffeed.ausha.co%2FB1qE7ktNNgqx&kw_language=fr&kw_position=preroll&apiKey=c1a94b3301c64853868548ac73233ca1&podcastUrl=https%3A%2F%2Faudio.ausha.co%2FE01kVIAGnWwk.mp3%3Ft%3D1793204106",
+      "duree": 1648
     },
     {
       "titre": "Les dons du Saint-Esprit : Sursum Corda S03 épisode 8",
-      "date": "2026-10-25"
+      "date": "2026-10-25",
+      "audio": "https://tr.ausha.co/BQQeP9cnr6LL/api.soundcast.io/v1/stitch/ausha.mp3?tags=E12FDB83&keywords=episodeId:BQQeP9cnr6LL,showId:B1qE7ktNNgqx&kw_applecategory=Religion&kw_showname=Sursum+Corda&kw_episodeid=BQQeP9cnr6LL&kw_podcastid=B1qE7ktNNgqx&kw_showrss=https%3A%2F%2Ffeed.ausha.co%2FB1qE7ktNNgqx&kw_language=fr&kw_position=preroll&apiKey=c1a94b3301c64853868548ac73233ca1&podcastUrl=https%3A%2F%2Faudio.ausha.co%2FBQQeP9cnr6LL.mp3%3Ft%3D1792683690",
+      "duree": 1638
     },
     {
       "titre": "Les vertus théologales : Sursum Corda S03 épisode 7",
-      "date": "2026-10-18"
-    },
-    {
-      "titre": "Les vertus morales : Sursum Corda S03 épisode 6",
-      "date": "2026-10-11"
+      "date": "2026-10-18",
+      "audio": "https://tr.ausha.co/dzvNwUNeMq2J/api.soundcast.io/v1/stitch/ausha.mp3?tags=E12FDB83&keywords=episodeId:dzvNwUNeMq2J,showId:B1qE7ktNNgqx&kw_applecategory=Religion&kw_showname=Sursum+Corda&kw_episodeid=dzvNwUNeMq2J&kw_podcastid=B1qE7ktNNgqx&kw_showrss=https%3A%2F%2Ffeed.ausha.co%2FB1qE7ktNNgqx&kw_language=fr&kw_position=preroll&apiKey=c1a94b3301c64853868548ac73233ca1&podcastUrl=https%3A%2F%2Faudio.ausha.co%2FdzvNwUNeMq2J.mp3%3Ft%3D1792167588",
+      "duree": 1643
     }
   ],
-  "derniere_activite": "2026-11-08",
+  "derniere_activite": "2026-11-15",
   "frequence_jours": 7
 }

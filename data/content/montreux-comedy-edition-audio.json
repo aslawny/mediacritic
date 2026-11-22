@@ -25,7 +25,7 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "be",
@@ -48,26 +48,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "Lala Sagna - Vive l'école maternelle ! (Montreux Comedy Festival 2024)",
+      "date": "2026-11-20",
+      "audio": "https://sphinx.acast.com/p/acast/s/montreux-comedy-edition-audio/e/68760db5d0b9594ba56674ff/media.mp3",
+      "duree": 532
+    },
+    {
+      "titre": "Kev Adams – Montreux 2025 (Montreux Comedy Festival 2025)",
+      "date": "2026-11-16",
+      "audio": "https://sphinx.acast.com/p/acast/s/montreux-comedy-edition-audio/e/6ae9d8d9da7c744de04416c6/media.mp3",
+      "duree": 532
+    },
+    {
+      "titre": "Yacine Belhousse - Bye bye Montreux (Montreux Comedy Festival 2024)",
+      "date": "2026-11-13",
+      "audio": "https://sphinx.acast.com/p/acast/s/montreux-comedy-edition-audio/e/68b988cd4199e5a9ce0c3839/media.mp3",
+      "duree": 426
+    },
+    {
+      "titre": "Amandine Lourdel – Les chiottes de bar (Montreux Comedy Festival 2025)",
+      "date": "2026-11-09",
+      "audio": "https://sphinx.acast.com/p/acast/s/montreux-comedy-edition-audio/e/6ae86df567ec565f7fd4855a/media.mp3",
+      "duree": 569
+    },
+    {
       "titre": "Hugo Pêcheur - Tout pour plaire aux femmes (Montreux Comedy Festival 2023)",
-      "date": "2026-11-06"
-    },
-    {
-      "titre": "Yellow Mic # 83 – Yann Guillarme",
-      "date": "2026-11-04"
-    },
-    {
-      "titre": "Yann Guillarme – La bête de l'homme (Montreux Comedy Festival 2025)",
-      "date": "2026-11-02"
-    },
-    {
-      "titre": "Bruno Peki - L'immigré suisse (Montreux Comedy Festival 2024)",
-      "date": "2026-10-30"
-    },
-    {
-      "titre": "Antek – Chicha, chaleur et Jésus Christ (Montreux Comedy Festival 2025)",
-      "date": "2026-10-26"
+      "date": "2026-11-06",
+      "audio": "https://sphinx.acast.com/p/acast/s/montreux-comedy-edition-audio/e/6777ffcb569bdb75d604eb22/media.mp3",
+      "duree": 424
     }
   ],
-  "derniere_activite": "2026-11-06",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 3
 }

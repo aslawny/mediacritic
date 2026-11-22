@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/club-citrouillade/id1633732193?uo=2",
       "trackId": 1633732193,
-      "rating": 4.4,
-      "ratingCount": 333,
+      "rating": 4.5,
+      "ratingCount": 336,
       "episodeCount": null
     }
   },
@@ -27,27 +27,37 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "LE MYSTÈRE DE LA FONTAINE AU CENTAURE",
-      "date": "2025-10-22"
+      "date": "2025-10-22",
+      "audio": "https://sphinx.acast.com/p/open/s/62b59c55442a810014be5b51/e/68f943137f8d776a0b905d4e/media.mp3",
+      "duree": 1676
     },
     {
       "titre": "LE MYSTÈRE DES PIERRES DE MACHIN BIDULE",
-      "date": "2025-10-17"
+      "date": "2025-10-17",
+      "audio": "https://sphinx.acast.com/p/open/s/62b59c55442a810014be5b51/e/68f1f755ca0e7f7545aedb04/media.mp3",
+      "duree": 1370
     },
     {
       "titre": "LE MYSTÈRE DES SYMBOLES",
-      "date": "2025-10-09"
+      "date": "2025-10-09",
+      "audio": "https://sphinx.acast.com/p/open/s/62b59c55442a810014be5b51/e/68e82e18de9a2a62c468ef87/media.mp3",
+      "duree": 1220
     },
     {
       "titre": "LE MYSTÈRE DU PARCHEMIN",
-      "date": "2025-10-02"
+      "date": "2025-10-02",
+      "audio": "https://sphinx.acast.com/p/open/s/62b59c55442a810014be5b51/e/68ab1019352b565deb56b95e/media.mp3",
+      "duree": 1308
     },
     {
       "titre": "LE MYSTÈRE DU COFFRE",
-      "date": "2025-09-25"
+      "date": "2025-09-25",
+      "audio": "https://sphinx.acast.com/p/open/s/62b59c55442a810014be5b51/e/68ab0fac73bf5b6298aa93c9/media.mp3",
+      "duree": 1243
     }
   ],
   "derniere_activite": "2025-10-22",

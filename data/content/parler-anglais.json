@@ -24,7 +24,7 @@
     "education"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -53,26 +53,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "My new podcast: The English Show with Ben",
+      "date": "2026-11-19",
+      "audio": "https://sphinx.acast.com/p/open/s/66068fb853b2df001661a220/e/6afec05c3c298292f3b543c1/media.mp3",
+      "duree": 56
+    },
+    {
+      "titre": "Practising the 3rd Conditional for hypothetical past situations",
+      "date": "2026-11-12",
+      "audio": "https://sphinx.acast.com/p/open/s/66068fb853b2df001661a220/e/6aef69d09272884e579cfae0/media.mp3",
+      "duree": 429
+    },
+    {
+      "titre": "Do you believe in angels?",
+      "date": "2026-11-10",
+      "audio": "https://sphinx.acast.com/p/open/s/66068fb853b2df001661a220/e/6aef63a6baaf18ccf9ee7205/media.mp3",
+      "duree": 458
+    },
+    {
       "titre": "Using whatever, wherever, however etc",
-      "date": "2026-11-08"
+      "date": "2026-11-08",
+      "audio": "https://sphinx.acast.com/p/open/s/66068fb853b2df001661a220/e/6aef60279527a78175439536/media.mp3",
+      "duree": 409
     },
     {
       "titre": "The Flaming Tar Barrels of Ottery St Mary",
-      "date": "2026-11-04"
-    },
-    {
-      "titre": "October Pub Quiz",
-      "date": "2026-10-31"
-    },
-    {
-      "titre": "Why do we carve pumpkins at Halloween?",
-      "date": "2026-10-29"
-    },
-    {
-      "titre": "To go + activity (verb-ing): speaking about activities",
-      "date": "2026-10-27"
+      "date": "2026-11-04",
+      "audio": "https://sphinx.acast.com/p/open/s/66068fb853b2df001661a220/e/6ae46eaa61856eee59a705fb/media.mp3",
+      "duree": 514
     }
   ],
-  "derniere_activite": "2026-11-08",
-  "frequence_jours": 4
+  "derniere_activite": "2026-11-19",
+  "frequence_jours": 3
 }

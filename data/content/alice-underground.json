@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/alice-underground/id1811608020?uo=2",
       "trackId": 1811608020,
       "rating": 4.4,
-      "ratingCount": 453,
+      "ratingCount": 454,
       "episodeCount": null
     }
   },
@@ -25,30 +25,40 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Tout un fromage avec Anaïde Rozam",
+      "date": "2026-11-18",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/749479a3-abac-438a-98ff-a113e3c5f0de.mp3?_=1794921571",
+      "duree": 3231
+    },
+    {
       "titre": "Aux petits oignons avec Maxime Biaggi",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/b31c25fa-b178-4b8f-99a8-c5fb93965418.mp3?_=1793698057",
+      "duree": 3673
     },
     {
       "titre": "Dans les étoiles avec Guillaume Diop",
-      "date": "2026-10-28"
+      "date": "2026-10-28",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/d7cb68ab-fc96-4bea-8a72-d4f8153ad1b8.mp3?_=1793107424",
+      "duree": 3621
     },
     {
       "titre": "Sans les mains ! Avec Marion Cotillard",
-      "date": "2026-10-21"
+      "date": "2026-10-21",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/f392682f-1957-48cf-98c0-3a034f6b60f3.mp3?_=1792405811",
+      "duree": 3585
     },
     {
       "titre": "En Terre du Milieu avec Éric Judor",
-      "date": "2026-10-14"
-    },
-    {
-      "titre": "Pestacle muet avec Vassili Schneider",
-      "date": "2026-10-07"
+      "date": "2026-10-14",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/9810b2b6-2008-4d0a-b2c7-df7f8772ac71.mp3?_=1791887548",
+      "duree": 4051
     }
   ],
-  "derniere_activite": "2026-11-04",
+  "derniere_activite": "2026-11-18",
   "frequence_jours": 7,
   "avis_publics": {
     "source": "apple",

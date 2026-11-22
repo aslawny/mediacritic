@@ -27,7 +27,7 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -56,26 +56,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "Pierrot et Poupouche au restaurant",
+      "date": "2026-11-21",
+      "audio": "https://sphinx.acast.com/p/open/s/6915fcb37a0043834aea013c/e/6b0063034f7f96174d87bd90/media.mp3",
+      "duree": 494
+    },
+    {
+      "titre": "Pierrot et Poupouche et les poux",
+      "date": "2026-11-14",
+      "audio": "https://sphinx.acast.com/p/open/s/6915fcb37a0043834aea013c/e/6af6cff51f9433e997ac53fe/media.mp3",
+      "duree": 406
+    },
+    {
+      "titre": "Épisode #2 spécial chanson",
+      "date": "2026-11-11",
+      "audio": "https://sphinx.acast.com/p/open/s/6915fcb37a0043834aea013c/e/6af38f3fc2a93694e23fc620/media.mp3",
+      "duree": 468
+    },
+    {
       "titre": "Pierrot et Poupouche et l'accident de pipi",
-      "date": "2026-11-07"
+      "date": "2026-11-07",
+      "audio": "https://sphinx.acast.com/p/open/s/6915fcb37a0043834aea013c/e/6aeda405d256fade1245b061/media.mp3",
+      "duree": 423
     },
     {
       "titre": "Pierrot et Poupouche font la fête à Rennes",
-      "date": "2026-10-31"
-    },
-    {
-      "titre": "Pierrot et Poupouche font la fête à Caen",
-      "date": "2026-10-31"
-    },
-    {
-      "titre": "Pierrot et Poupouche font la fête à Bordeaux",
-      "date": "2026-10-31"
-    },
-    {
-      "titre": "Pierrot et Poupouche font la fête à Soisy-sous-Montmorency",
-      "date": "2026-10-31"
+      "date": "2026-10-31",
+      "audio": "https://sphinx.acast.com/p/open/s/6915fcb37a0043834aea013c/e/6ae35898092a0dff19abfac1/media.mp3",
+      "duree": 457
     }
   ],
-  "derniere_activite": "2026-11-07",
-  "frequence_jours": 7
+  "derniere_activite": "2026-11-21",
+  "frequence_jours": 6
 }

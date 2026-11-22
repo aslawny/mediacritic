@@ -26,7 +26,7 @@
     "news"
   ],
   "addedAt": "2026-06-12",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -55,26 +55,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "😂 Tiens, tiens...",
+      "date": "2026-11-20",
+      "audio": "https://sphinx.acast.com/p/open/s/62fd0ceae0c13d001228edf9/e/6b0085798e8174f98382a39d/media.mp3",
+      "duree": 2075
+    },
+    {
       "titre": "🏆 Les oubliés du Ballon d'Or...",
-      "date": "2026-10-30"
+      "date": "2026-10-30",
+      "audio": "https://sphinx.acast.com/p/open/s/62fd0ceae0c13d001228edf9/e/6ae48418ca7c04d39882d858/media.mp3",
+      "duree": 5218
     },
     {
       "titre": "🤨 Mon avis sur ce Ballon d'Or...",
-      "date": "2026-10-27"
+      "date": "2026-10-27",
+      "audio": "https://sphinx.acast.com/p/open/s/62fd0ceae0c13d001228edf9/e/6ae09d9833b363c95dd4b1e8/media.mp3",
+      "duree": 2402
     },
     {
       "titre": "😳😳😳 Et si...",
-      "date": "2026-10-26"
+      "date": "2026-10-26",
+      "audio": "https://sphinx.acast.com/p/open/s/62fd0ceae0c13d001228edf9/e/6adf79d729dd53209d1ed9b7/media.mp3",
+      "duree": 1974
     },
     {
       "titre": "🏆 Notre top 5 de LDC, une nouvelle ville, et des faux trades...",
-      "date": "2026-10-22"
-    },
-    {
-      "titre": "😂😂😂 Bah ouais...",
-      "date": "2026-10-20"
+      "date": "2026-10-22",
+      "audio": "https://sphinx.acast.com/p/open/s/62fd0ceae0c13d001228edf9/e/6ada020b3ad7f685515019a2/media.mp3",
+      "duree": 4517
     }
   ],
-  "derniere_activite": "2026-10-30",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 2
 }

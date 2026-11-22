@@ -26,7 +26,7 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -56,23 +56,33 @@
   "episodes_recents": [
     {
       "titre": "Dernier épisode - Vieilles Charrues 2025",
-      "date": "2025-07-23"
+      "date": "2025-07-23",
+      "audio": "https://sphinx.acast.com/p/open/s/602d0338c071a03808b200ec/e/687fbe9be0a86cc3ab0468df/media.mp3",
+      "duree": 1506
     },
     {
       "titre": "Paulette Grisoni, recherche confort désespérément",
-      "date": "2025-01-12"
+      "date": "2025-01-12",
+      "audio": "https://sphinx.acast.com/p/open/s/602d0338c071a03808b200ec/e/677be15bb2b69b369b5293a7/media.mp3",
+      "duree": 2920
     },
     {
       "titre": "Guigui Pop, le globe-dormeur aguerri",
-      "date": "2024-11-30"
+      "date": "2024-11-30",
+      "audio": "https://sphinx.acast.com/p/open/s/602d0338c071a03808b200ec/e/67487556bbe21d4794bcf524/media.mp3",
+      "duree": 3529
     },
     {
       "titre": "Patrick Watson, l'aventurier de l'art éperdu",
-      "date": "2024-10-26"
+      "date": "2024-10-26",
+      "audio": "https://sphinx.acast.com/p/open/s/602d0338c071a03808b200ec/e/671b7278e1ae5a1f282ae2f3/media.mp3",
+      "duree": 2127
     },
     {
       "titre": "La meilleure colo pour adultes - Bike to Basics 2024",
-      "date": "2024-09-21"
+      "date": "2024-09-21",
+      "audio": "https://sphinx.acast.com/p/open/s/602d0338c071a03808b200ec/e/66eeb5c4ae7dc3a81d401b57/media.mp3",
+      "duree": 4077
     }
   ],
   "derniere_activite": "2025-07-23",

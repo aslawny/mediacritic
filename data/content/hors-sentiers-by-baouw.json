@@ -26,7 +26,7 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "Les 10 erreurs de nutrition à éviter en trail, avec Benoît Nave et Thibaut Garrivier",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-08-11",
   "frequence_jours": 28,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-23",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Myriamc73",
+        "titre": "Va jouer dehors !",
+        "texte": "Inspirant et vivifiant, ce podcast pour les amoureux du sport et de « l’outdoor ». À écouter sans modération pour avoir l’impression de faire une balade dans la nature et un bout de chemin avec cette belle âme qu’est Xavier Thévenard."
+      },
+      {
+        "note": 2,
+        "auteur": "La Voix du Bonheur",
+        "titre": "Baouw vends du Baouw …",
+        "texte": "Toujours très intéressant dans le contenu ; par contre, attention aux questions qi sont toujours aussi mielleuse afin de toujours et encore vanter les produits BAOUW … Dommage car les invités ont sans doute autre chose à partager … Peut être que le changement récent de speaker do…"
+      },
+      {
+        "note": 5,
+        "auteur": "Christophe Renard 🦊",
+        "titre": "Nourrissant !",
+        "texte": "Un premier épisode réconfortant, au rythme apaisant et au contenu enrichissant et inspirant ! Longue route … pardon, longs sentiers et tous mes vœux de mieux être à Xavier ! Croquez la vie !"
+      }
     ]
   }
 }

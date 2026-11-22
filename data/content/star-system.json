@@ -25,7 +25,7 @@
     "societe"
   ],
   "addedAt": "2026-08-08",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,26 +54,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "Que deviennent les maisons où des crimes ont été commis ? (bonus)",
+      "date": "2026-11-19",
+      "audio": "https://sphinx.acast.com/p/open/s/674ef0d65e1cc0fabeec0e06/e/6afe29197101714c628bce05/media.mp3",
+      "duree": 1693
+    },
+    {
+      "titre": "Charles Manson, un meurtrier à Hollywood (3/4) avec Maxime Musqua",
+      "date": "2026-11-16",
+      "audio": "https://sphinx.acast.com/p/open/s/674ef0d65e1cc0fabeec0e06/e/6afa1fbc0e317e40626966c3/media.mp3",
+      "duree": 1589
+    },
+    {
+      "titre": "Mes hot takes sur les célébrités (bonus)",
+      "date": "2026-11-12",
+      "audio": "https://sphinx.acast.com/p/open/s/674ef0d65e1cc0fabeec0e06/e/6af5122ed3b196f90c89f574/media.mp3",
+      "duree": 866
+    },
+    {
+      "titre": "Charles Manson, un meurtrier à Hollywood (2/4) avec Maxime Musqua",
+      "date": "2026-11-09",
+      "audio": "https://sphinx.acast.com/p/open/s/674ef0d65e1cc0fabeec0e06/e/6af0f1f60eb24e81b714738f/media.mp3",
+      "duree": 2284
+    },
+    {
       "titre": "Pourquoi la nouvelle marque de Jennifer Lawrence fait polémique (bonus)",
-      "date": "2026-11-06"
-    },
-    {
-      "titre": "Charles Manson, un meurtrier à Hollywood (1/4) avec Maxime Musqua",
-      "date": "2026-11-02"
-    },
-    {
-      "titre": "Ce que j'aime et ce que je n'aime pas à New York (bonus)",
-      "date": "2026-10-29"
-    },
-    {
-      "titre": "Qui est vraiment Mark Zuckerberg ? (4/4) avec David Honnorat",
-      "date": "2026-10-26"
-    },
-    {
-      "titre": "Comment les célébrités réagissent aux révoltes en France ? (bonus)",
-      "date": "2026-10-22"
+      "date": "2026-11-06",
+      "audio": "https://sphinx.acast.com/p/open/s/674ef0d65e1cc0fabeec0e06/e/6aecf2ef146c5631dcb92aeb/media.mp3",
+      "duree": 1394
     }
   ],
-  "derniere_activite": "2026-11-06",
+  "derniere_activite": "2026-11-19",
   "frequence_jours": 3
 }

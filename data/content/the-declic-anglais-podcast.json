@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/the-d%C3%A9clic-anglais-podcast/id1542770737?uo=2",
       "trackId": 1542770737,
       "rating": 4.8,
-      "ratingCount": 265,
+      "ratingCount": 266,
       "episodeCount": null
     }
   },
@@ -24,7 +24,7 @@
     "education"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,23 +54,33 @@
   "episodes_recents": [
     {
       "titre": "Word of the Week #56: STARE",
-      "date": "2026-08-30"
+      "date": "2026-08-30",
+      "audio": "https://sphinx.acast.com/p/open/s/6606931d7433270016796494/e/6a8d41bcec72659474f73616/media.mp3",
+      "duree": 102
     },
     {
       "titre": "Word of the Week #55: CHUBBY",
-      "date": "2026-08-25"
+      "date": "2026-08-25",
+      "audio": "https://sphinx.acast.com/p/open/s/6606931d7433270016796494/e/6a8d40da66c4a1e81a3b03df/media.mp3",
+      "duree": 104
     },
     {
       "titre": "Episode 165: Baby Expressions",
-      "date": "2026-08-17"
+      "date": "2026-08-17",
+      "audio": "https://sphinx.acast.com/p/open/s/6606931d7433270016796494/e/6a82c9af83128ee3d22db79e/media.mp3",
+      "duree": 1365
     },
     {
       "titre": "Episode 164: Babies",
-      "date": "2026-08-13"
+      "date": "2026-08-13",
+      "audio": "https://sphinx.acast.com/p/open/s/6606931d7433270016796494/e/6a7d855e51319a521dec43b7/media.mp3",
+      "duree": 2081
     },
     {
       "titre": "Word of the Week #54: TAKE OFF and LAND",
-      "date": "2026-05-24"
+      "date": "2026-05-24",
+      "audio": "https://sphinx.acast.com/p/open/s/6606931d7433270016796494/e/69d4cf50d2e95f51319aa032/media.mp3",
+      "duree": 97
     }
   ],
   "derniere_activite": "2026-08-30",

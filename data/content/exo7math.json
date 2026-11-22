@@ -29,25 +29,107 @@
   "episodes_recents": [
     {
       "titre": "Cours de logique",
-      "date": "2026-09-21"
+      "date": "2026-09-21",
+      "video": "714EUdXxVIQ"
     },
     {
       "titre": "[MathGame] Mathématiques pour les jeux vidéo",
-      "date": "2024-07-15"
+      "date": "2024-07-15",
+      "video": "4FUk1CSdeHY"
     },
     {
       "titre": "[Quantum] Informatique quantique",
-      "date": "2021-06-21"
+      "date": "2021-06-21",
+      "video": "iLPQSMMHjz8"
     },
     {
       "titre": "[Deepmath] Mathématiques des réseaux de neurones",
-      "date": "2020-05-01"
+      "date": "2020-05-01",
+      "video": "WVE7bA_trxE"
     },
     {
       "titre": "Mooc \"Scratch au collège\" sur FUN",
-      "date": "2017-02-07"
+      "date": "2017-02-07",
+      "video": "QEg1nEOijpA"
     }
   ],
   "derniere_activite": "2026-09-21",
-  "frequence_jours": 41
+  "frequence_jours": 41,
+  "videos": [
+    {
+      "titre": "Cours de logique",
+      "date": "2026-09-21",
+      "video": "714EUdXxVIQ"
+    },
+    {
+      "titre": "[MathGame] Mathématiques pour les jeux vidéo",
+      "date": "2024-07-15",
+      "video": "4FUk1CSdeHY"
+    },
+    {
+      "titre": "[Quantum] Informatique quantique",
+      "date": "2021-06-21",
+      "video": "iLPQSMMHjz8"
+    },
+    {
+      "titre": "[Deepmath] Mathématiques des réseaux de neurones",
+      "date": "2020-05-01",
+      "video": "WVE7bA_trxE"
+    },
+    {
+      "titre": "Mooc \"Scratch au collège\" sur FUN",
+      "date": "2017-02-07",
+      "video": "QEg1nEOijpA"
+    },
+    {
+      "titre": "Calcul formel - partie 1 : premiers pas avec Sage",
+      "date": "2016-06-16",
+      "video": "NbOKX4S51fo"
+    },
+    {
+      "titre": "Calcul formel - partie 7 : calculs d’intégrales",
+      "date": "2016-06-16",
+      "video": "IPPCChtUNuU"
+    },
+    {
+      "titre": "Calcul formel - partie 3 : suites récurrentes et preuves formelles",
+      "date": "2016-06-16",
+      "video": "CzGMmG7klkM"
+    },
+    {
+      "titre": "Calcul formel - partie 9 : équations différentielles",
+      "date": "2016-05-06",
+      "video": "lSn_KZvTCOs"
+    },
+    {
+      "titre": "Calcul formel - partie 8 : polynômes",
+      "date": "2016-05-06",
+      "video": "ybVCQQtHIDk"
+    },
+    {
+      "titre": "Calcul formel - partie 6a : courbes et surfaces (1)",
+      "date": "2016-04-26",
+      "video": "kvviYsb9Ltk"
+    },
+    {
+      "titre": "Calcul formel - partie 6b : courbes et surfaces (2)",
+      "date": "2016-04-26",
+      "video": "ttiZ7bDXeEA"
+    },
+    {
+      "titre": "Calcul formel - partie 5 : algèbre linéaire",
+      "date": "2016-04-19",
+      "video": "s0aR-QbmTAo"
+    },
+    {
+      "titre": "Calcul formel - partie 4 : suites récurrentes et visualisation",
+      "date": "2016-04-12",
+      "video": "ciw-QPp7p98"
+    },
+    {
+      "titre": "Calcul formel - partie 2 : structures de contrôle avec Sage",
+      "date": "2016-03-29",
+      "video": "nT94JZKl3cg"
+    }
+  ]
 }

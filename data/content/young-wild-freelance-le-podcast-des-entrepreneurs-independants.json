@@ -26,7 +26,7 @@
     "culture"
   ],
   "addedAt": "2026-06-24",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -55,26 +55,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "Mon associée me quitte, et tout va changer",
+      "date": "2026-11-19",
+      "audio": "https://audio.ausha.co/bVd4ZiJ7LwQr.mp3?t=1795022348",
+      "duree": 3591
+    },
+    {
       "titre": "Prospection : cibler les bon·nes client·es et les relancer avec justesse",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "audio": "https://audio.ausha.co/yXL5PixeaXmn.mp3?t=1793716211",
+      "duree": 3202
     },
     {
       "titre": "Guide complet : comment gérer son temps en freelance ?",
-      "date": "2026-10-13"
+      "date": "2026-10-13",
+      "audio": "https://audio.ausha.co/bWdELiDGNrvw.mp3?t=1791553863",
+      "duree": 3467
     },
     {
       "titre": "Les collaborations entre freelances pour survivre à la crise ? (avec Charles Davignon)",
-      "date": "2026-09-24"
+      "date": "2026-09-24",
+      "audio": "https://audio.ausha.co/B1P2DClXrXQP.mp3?t=1790100597",
+      "duree": 4091
     },
     {
       "titre": "Je suis de retour sur LinkedIn (après +7 mois off)",
-      "date": "2026-09-18"
-    },
-    {
-      "titre": "Comment réguler son système nerveux ? (et éviter de se cramer au travail!) - (Replay - enregistré en 2023)",
-      "date": "2026-09-10"
+      "date": "2026-09-18",
+      "audio": "https://audio.ausha.co/owEdgf3vzZ3p.mp3?t=1789720854",
+      "duree": 1319
     }
   ],
-  "derniere_activite": "2026-11-03",
+  "derniere_activite": "2026-11-19",
   "frequence_jours": 7
 }

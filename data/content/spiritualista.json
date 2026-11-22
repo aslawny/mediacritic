@@ -25,7 +25,7 @@
     "spiritualite"
   ],
   "addedAt": "2026-09-17",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,26 +54,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "L'art de ne plus se trahir avec Nicolas Boulenger",
+      "date": "2026-11-09",
+      "audio": "https://sphinx.acast.com/p/open/s/64302f05ef5a9700117c6903/e/6af1d558625528ef2806572d/media.mp3",
+      "duree": 3410
+    },
+    {
       "titre": "Amour, argent, réussite : et si tout dépendait de l'endroit où tu vis?",
-      "date": "2026-10-26"
+      "date": "2026-10-26",
+      "audio": "https://sphinx.acast.com/p/open/s/64302f05ef5a9700117c6903/e/6adf3247dd08c5f770be67c0/media.mp3",
+      "duree": 2848
     },
     {
       "titre": "VILLAIN ERA : je me fiche d'être aimée, je veux être vraie.",
-      "date": "2026-10-19"
+      "date": "2026-10-19",
+      "audio": "https://sphinx.acast.com/p/open/s/64302f05ef5a9700117c6903/e/6ad5e63b979c9892d1efe999/media.mp3",
+      "duree": 1732
     },
     {
       "titre": "Autopsie du plus gros flop de ma vie",
-      "date": "2026-10-12"
+      "date": "2026-10-12",
+      "audio": "https://sphinx.acast.com/p/open/s/64302f05ef5a9700117c6903/e/6acc7d2d2c705f746ced0308/media.mp3",
+      "duree": 2299
     },
     {
       "titre": "Arrête de poursuivre ce qui doit venir à toi",
-      "date": "2026-10-05"
-    },
-    {
-      "titre": "Et si ta prochaine vie commençait par un départ?",
-      "date": "2026-09-28"
+      "date": "2026-10-05",
+      "audio": "https://sphinx.acast.com/p/open/s/64302f05ef5a9700117c6903/e/6ac36ffb52f9e4485f0a0451/media.mp3",
+      "duree": 1065
     }
   ],
-  "derniere_activite": "2026-10-26",
+  "derniere_activite": "2026-11-09",
   "frequence_jours": 7
 }

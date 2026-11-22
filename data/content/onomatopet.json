@@ -24,7 +24,7 @@
     "comedie"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,23 +54,33 @@
   "episodes_recents": [
     {
       "titre": "37. il demande le divorce à ses parents, et c’est okay",
-      "date": "2026-07-29"
+      "date": "2026-07-29",
+      "audio": "https://anchor.fm/s/fa4025e0/podcast/play/123440954/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F236fadfc-b81c-55f2-b356-9922862383af.mp3",
+      "duree": 4500
     },
     {
       "titre": "36. tutoriel : se faire chier dessus par son idole",
-      "date": "2026-05-21"
+      "date": "2026-05-21",
+      "audio": "https://anchor.fm/s/fa4025e0/podcast/play/120106711/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-17%2F0c90f69c-1cc6-db71-3380-3730a3cf1a52.mp3",
+      "duree": 3792
     },
     {
       "titre": "35. comment dire à son partenaire qu’il pue du cul [spécial conseils relationnels]",
-      "date": "2026-01-27"
+      "date": "2026-01-27",
+      "audio": "https://anchor.fm/s/fa4025e0/podcast/play/114600481/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-28%2F61e6ec46-9abf-0c62-e520-09c843c40f6b.mp3",
+      "duree": 3408
     },
     {
       "titre": "34. 4 mariages pour 1 lune de merde",
-      "date": "2025-11-17"
+      "date": "2025-11-17",
+      "audio": "https://anchor.fm/s/fa4025e0/podcast/play/111170599/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-14%2F52e1da3e-6624-d73f-7d9b-5349c48775c2.mp3",
+      "duree": 3505
     },
     {
       "titre": "33. le vrai visage des stars : Gilles Bouleau m’a vu chier",
-      "date": "2025-09-16"
+      "date": "2025-09-16",
+      "audio": "https://anchor.fm/s/fa4025e0/podcast/play/108340814/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-15%2F407532907-44100-2-cf7bdd019c51c.m4a",
+      "duree": 3428
     }
   ],
   "derniere_activite": "2026-07-29",

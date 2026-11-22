@@ -26,7 +26,7 @@
     "education"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -55,26 +55,36 @@
   },
   "episodes_recents": [
     {
-      "titre": "Tu es plutôt tortue ou lièvre quand tu apprends l’espagnol ?",
-      "date": "2026-11-02"
+      "titre": "Bonus: Espagnol pour voyager en promo, nouvelle plateforme (et une confidence)",
+      "date": "2026-11-16",
+      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/76336174/utf_8_q_annonce_grossesse_n_c2_ba2_mp3.mp3",
+      "duree": 495
+    },
+    {
+      "titre": "111. Apprendre l'espagnol quand tu n'as pas le temps ni l'envie",
+      "date": "2026-11-09",
+      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/76188347/ep111scd.mp3",
+      "duree": 754
+    },
+    {
+      "titre": "Bonus: Tu es plutôt tortue ou lièvre quand tu apprends l’espagnol ?",
+      "date": "2026-11-02",
+      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/76133087/teasing.mp3",
+      "duree": 214
     },
     {
       "titre": "110. Le logement en Espagne : quel impact pour les touristes ?",
-      "date": "2026-10-05"
+      "date": "2026-10-05",
+      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75426022/ep110scd.mp3",
+      "duree": 583
     },
     {
       "titre": "109. Une simple liste de courses peut provoquer un choc culturel 🇪🇸🇫🇷?",
-      "date": "2026-09-14"
-    },
-    {
-      "titre": "108. Mauvaise mémoire, âge, temps ou argent : démontons tes blocages",
-      "date": "2026-08-17"
-    },
-    {
-      "titre": "107. Canicule en France : ce que l'on peut apprendre des Espagnols",
-      "date": "2026-06-29"
+      "date": "2026-09-14",
+      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75022576/ep109scd.mp3",
+      "duree": 747
     }
   ],
-  "derniere_activite": "2026-11-02",
+  "derniere_activite": "2026-11-16",
   "frequence_jours": 14
 }

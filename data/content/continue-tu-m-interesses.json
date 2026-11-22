@@ -27,30 +27,40 @@
     "news"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Lucie Retail | Point de bascule",
+      "date": "2026-11-16",
+      "audio": "https://sphinx.acast.com/p/open/s/67fd565089f827a873487345/e/6afadb5ea7a95436c6c28907/media.mp3",
+      "duree": 4479
+    },
+    {
+      "titre": "Timothée Hochet | Eclipse mexicaine",
+      "date": "2026-11-09",
+      "audio": "https://sphinx.acast.com/p/open/s/67fd565089f827a873487345/e/6aef5befa942810f4c8c7343/media.mp3",
+      "duree": 4393
+    },
+    {
       "titre": "Clémentine Mélois | La polygraphie du cavalier",
-      "date": "2026-11-02"
+      "date": "2026-11-02",
+      "audio": "https://sphinx.acast.com/p/open/s/67fd565089f827a873487345/e/6ae8a3f2b478422f9138d063/media.mp3",
+      "duree": 5378
     },
     {
       "titre": "David Louapre | La thèse de l'orthogonalité",
-      "date": "2026-10-26"
+      "date": "2026-10-26",
+      "audio": "https://sphinx.acast.com/p/open/s/67fd565089f827a873487345/e/6ade271b959e7ea69d227768/media.mp3",
+      "duree": 3464
     },
     {
       "titre": "Shirley Souagnon | Debout",
-      "date": "2026-10-19"
-    },
-    {
-      "titre": "Pacôme Thiellement | Exegèse et rabbit holes",
-      "date": "2026-10-13"
-    },
-    {
-      "titre": "François Descraques | Une voiture du Moyen Âge",
-      "date": "2026-10-06"
+      "date": "2026-10-19",
+      "audio": "https://sphinx.acast.com/p/open/s/67fd565089f827a873487345/e/6ad664d8c23d575312f680d0/media.mp3",
+      "duree": 3949
     }
   ],
-  "derniere_activite": "2026-11-02",
+  "derniere_activite": "2026-11-16",
   "frequence_jours": 7,
   "avis_publics": {
     "source": "apple",

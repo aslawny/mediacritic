@@ -23,7 +23,7 @@
     "spiritualite"
   ],
   "addedAt": "2026-09-05",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -53,23 +53,33 @@
   "episodes_recents": [
     {
       "titre": "#185 Le dernier passage. Fin du Podcast",
-      "date": "2025-04-25"
+      "date": "2025-04-25",
+      "audio": "https://anchor.fm/s/8c96230/podcast/play/101670075/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-23%2Ffa18243b-f9e1-35aa-4231-28ccff5036b6.mp3",
+      "duree": 895
     },
     {
       "titre": "#184 Les souhaits de l'Âme",
-      "date": "2025-04-11"
+      "date": "2025-04-11",
+      "audio": "https://anchor.fm/s/8c96230/podcast/play/101115231/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-10%2F55d4479b-6186-03b3-936f-9dc7980e201a.mp3",
+      "duree": 2469
     },
     {
       "titre": "#183 Les mémoires invisibles - explorer l'impact caché de nos expériences passées",
-      "date": "2025-03-28"
+      "date": "2025-03-28",
+      "audio": "https://anchor.fm/s/8c96230/podcast/play/100412183/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-26%2Ff6272c99-1bc0-dd64-d670-42949e533c54.mp3",
+      "duree": 2135
     },
     {
       "titre": "#182 Les dessous de la procrastination (et celles qui n'arrêtent jamais)",
-      "date": "2025-03-13"
+      "date": "2025-03-13",
+      "audio": "https://anchor.fm/s/8c96230/podcast/play/99708439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-11%2F28ebd376-a25e-7b37-74de-431b05cde244.mp3",
+      "duree": 2691
     },
     {
       "titre": "#181 Vivre la violence et se faire violence",
-      "date": "2025-02-28"
+      "date": "2025-02-28",
+      "audio": "https://anchor.fm/s/8c96230/podcast/play/99068863/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-26%2F9c34d990-9bb5-8e3e-1a83-01b5880a9911.mp3",
+      "duree": 2508
     }
   ],
   "derniere_activite": "2025-04-25",

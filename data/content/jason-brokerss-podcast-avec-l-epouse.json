@@ -27,27 +27,37 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "Ça manque",
-      "date": "2026-10-05"
+      "date": "2026-10-05",
+      "audio": "https://sphinx.acast.com/p/open/s/673e0a5a045942e8b63c0576/e/6ac2d57352a5384444a20d9a/media.mp3",
+      "duree": 2082
     },
     {
       "titre": "La nouvelle vie",
-      "date": "2026-09-28"
+      "date": "2026-09-28",
+      "audio": "https://sphinx.acast.com/p/open/s/673e0a5a045942e8b63c0576/e/6ab8cb5a16ca37c5a00617d3/media.mp3",
+      "duree": 3372
     },
     {
       "titre": "Surprise",
-      "date": "2026-08-10"
+      "date": "2026-08-10",
+      "audio": "https://sphinx.acast.com/p/open/s/673e0a5a045942e8b63c0576/e/6a78fd21769f96ab454151b0/media.mp3",
+      "duree": 277
     },
     {
       "titre": "En détente",
-      "date": "2026-08-03"
+      "date": "2026-08-03",
+      "audio": "https://sphinx.acast.com/p/open/s/673e0a5a045942e8b63c0576/e/6a6df4ee88c5585c85512321/media.mp3",
+      "duree": 1908
     },
     {
       "titre": "Les activités",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "audio": "https://sphinx.acast.com/p/open/s/673e0a5a045942e8b63c0576/e/6a6648e9fa6cc1e030413c90/media.mp3",
+      "duree": 2749
     }
   ],
   "derniere_activite": "2026-10-05",

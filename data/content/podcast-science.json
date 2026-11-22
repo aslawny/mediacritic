@@ -25,7 +25,7 @@
     "sciences",
     "vulgarisation"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,26 +54,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "556 - La cognition des crocos aux oiseaux",
+      "date": "2026-11-13",
+      "audio": "https://sphinx.acast.com/p/open/s/607aec11b1d7373173d66907/e/6af7470a34f69b9edd5c413d/media.mp3",
+      "duree": 3151
+    },
+    {
       "titre": "555 - Une Anthropologue sous la yourte",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://sphinx.acast.com/p/open/s/607aec11b1d7373173d66907/e/6ae9c0f6b1966848f380f812/media.mp3",
+      "duree": 5145
     },
     {
       "titre": "554 - Le palais a du goût",
-      "date": "2026-10-22"
+      "date": "2026-10-22",
+      "audio": "https://sphinx.acast.com/p/open/s/607aec11b1d7373173d66907/e/6ad75601819a15003ccce178/media.mp3",
+      "duree": 5552
     },
     {
       "titre": "553 - Écoute moi un mouton",
-      "date": "2026-10-16"
+      "date": "2026-10-16",
+      "audio": "https://sphinx.acast.com/p/open/s/607aec11b1d7373173d66907/e/6ad0c55829b9fbfbe2a57d8e/media.mp3",
+      "duree": 6660
     },
     {
       "titre": "552 - Départ de saison tout en douceur - repost",
-      "date": "2026-09-27"
-    },
-    {
-      "titre": "551 - La Biblinfini",
-      "date": "2026-07-15"
+      "date": "2026-09-27",
+      "audio": "https://sphinx.acast.com/p/open/s/607aec11b1d7373173d66907/e/6ae6fb49497ef148b89f5dce/media.mp3",
+      "duree": 5699
     }
   ],
-  "derniere_activite": "2026-11-04",
-  "frequence_jours": 11
+  "derniere_activite": "2026-11-13",
+  "frequence_jours": 10
 }

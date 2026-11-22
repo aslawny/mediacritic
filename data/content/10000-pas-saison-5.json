@@ -25,7 +25,7 @@
     "societe"
   ],
   "addedAt": "2026-10-20",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,26 +54,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "#4 STAR WARS NE PARLE PAS AUX FEMMES - 10 000 PAS SAISON 5",
+      "date": "2026-11-12",
+      "audio": "https://content.rss.com/episodes/345170/3303414/10000-pas-saison-4/2026_11_08_20_18_56_9a810dfe-7186-448d-a976-dbbc3635b7c4.mp3",
+      "duree": 9276
+    },
+    {
       "titre": "#3 HALLOWEEN : LA JOIE QU’ON NOUS A CONFISQUÉE | 10 000 pas SAISON 5",
-      "date": "2026-11-05"
+      "date": "2026-11-05",
+      "audio": "https://content.rss.com/episodes/345170/3287455/10000-pas-saison-4/2026_11_02_14_45_30_6c6eb2f5-3998-41f3-9c36-1847fcbdc482.mp3",
+      "duree": 11433
     },
     {
       "titre": "#2 TRAPPES, LA DROITE, LÉCOLE : QUE SE PASSE-T-IL EN FRANCE - 10 000 PAS SAISON 5",
-      "date": "2026-10-29"
+      "date": "2026-10-29",
+      "audio": "https://content.rss.com/episodes/345170/3277582/10000-pas-saison-4/2026_10_29_16_58_00_e44d48d6-b95d-48b6-a808-d6190bfa7977.mp3",
+      "duree": 11454
     },
     {
       "titre": "#1 ILS ONT DETRUIT LA FRANCE - 10 000 PAS SAISON 5",
-      "date": "2026-10-22"
+      "date": "2026-10-22",
+      "audio": "https://content.rss.com/episodes/345170/3254318/10000-pas-saison-4/2026_10_21_18_42_37_962e0db7-c8ff-4623-96a2-fefc7a34f9fd.mp3",
+      "duree": 12131
     },
     {
       "titre": "#0 LA SUITE ARRIVE - 10 000 PAS SAISON 5",
-      "date": "2026-10-17"
-    },
-    {
-      "titre": "#39 MATRIX ATTACK - 10 000 PAS SAISON 4",
-      "date": "2026-07-26"
+      "date": "2026-10-17",
+      "audio": "https://content.rss.com/episodes/345170/3242140/10000-pas-saison-4/2026_10_17_14_15_03_f5548ba1-165c-4379-ad6d-9deeb981e659.mp3",
+      "duree": 1026
     }
   ],
-  "derniere_activite": "2026-11-05",
+  "derniere_activite": "2026-11-12",
   "frequence_jours": 7
 }

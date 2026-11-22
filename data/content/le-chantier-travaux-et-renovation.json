@@ -25,7 +25,7 @@
     "rénovation",
     "DIY"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,26 +54,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "10 QUESTIONS sur les poignées en porcelaine, avec Hello Jacques",
+      "date": "2026-11-14",
+      "audio": "https://audio.ausha.co/B62AWtxreWee.mp3?t=1794605658",
+      "duree": 3090
+    },
+    {
       "titre": "#109 Le Jardin des Pois - Après l'été... Repenser nos jardins dans un monde de plus en plus chaud",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://audio.ausha.co/ygznjH0XgxRR.mp3?t=1793813811",
+      "duree": 7230
     },
     {
       "titre": "[EXTRAIT] Pois raconte son vécu de l'été 2026 au jardin",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "audio": "https://audio.ausha.co/yAa6MTqa8vgp.mp3?t=1793653618",
+      "duree": 494
     },
     {
       "titre": "#108 Pauline et Antoine - Réinventer un bâtiment 70s atypique pour créer sa maison de famille",
-      "date": "2026-10-28"
+      "date": "2026-10-28",
+      "audio": "https://audio.ausha.co/BML61HM2DxD1.mp3?t=1793211133",
+      "duree": 7654
     },
     {
       "titre": "[EXTRAIT] Antoine et Pauline - Rénover un lieu atypique dessiné par un architecte",
-      "date": "2026-10-26"
-    },
-    {
-      "titre": "[EXTRAIT] Comment Sylvaine et Louis ont acheté un appartement à Paris",
-      "date": "2026-10-22"
+      "date": "2026-10-26",
+      "audio": "https://audio.ausha.co/bz4V7uQ8pJQ7.mp3?t=1792959057",
+      "duree": 497
     }
   ],
-  "derniere_activite": "2026-11-04",
+  "derniere_activite": "2026-11-14",
   "frequence_jours": 2
 }

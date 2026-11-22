@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/la-face-sombre-de-lhistoire/id1765145100?uo=2",
       "trackId": 1765145100,
       "rating": 4.5,
-      "ratingCount": 602,
+      "ratingCount": 603,
       "episodeCount": null
     }
   },
@@ -27,30 +27,40 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Maccarthysme : la chasse aux sorcières de l'Amérique contre ses \"ennemis de l'intérieur\"",
+      "date": "2026-11-19",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/4a84e1d6-22fa-40ce-9ec4-0fa0d1a93c2f.mp3?_=1794916547",
+      "duree": 1376
+    },
+    {
+      "titre": "\"Bloody Sunday\": le massacre qui a embrasé l'Irlande du Nord",
+      "date": "2026-11-12",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/f9baf51f-8e9a-4905-bf95-a205f11ca6af.mp3?_=1794332271",
+      "duree": 1074
+    },
+    {
       "titre": "Incendie du Reichstag : la machination nazie qui porta Hitler au pouvoir absolu",
-      "date": "2026-11-05"
+      "date": "2026-11-05",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/7eb7d0ba-4e92-4fbb-91e0-b2d1566a6609.mp3?_=1793803982",
+      "duree": 1036
     },
     {
       "titre": "Vatican : le scandale financier derrière la chute du \"Banquier de Dieu\"",
-      "date": "2026-10-29"
+      "date": "2026-10-29",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/96613b81-f87c-4b4f-8142-28c2a06c4fd0.mp3?_=1793202781",
+      "duree": 1144
     },
     {
       "titre": "Charles Manson : le gourou meurtrier derrière l'assassinat de l'actrice Sharon Tate",
-      "date": "2026-10-22"
-    },
-    {
-      "titre": "Opération Condor : le pacte sanglant des dictatures sud-américaines",
-      "date": "2026-10-15"
-    },
-    {
-      "titre": "Opération Paperclip : quand les États-Unis recrutaient des savants nazis dans la course à la Lune",
-      "date": "2026-10-08"
+      "date": "2026-10-22",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/3dd1b799-a081-4ad6-83ed-30b7133220f7.mp3?_=1792058706",
+      "duree": 1416
     }
   ],
-  "derniere_activite": "2026-11-05",
+  "derniere_activite": "2026-11-19",
   "frequence_jours": 7,
   "avis_publics": {
     "source": "apple",

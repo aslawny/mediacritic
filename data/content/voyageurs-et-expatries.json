@@ -27,7 +27,7 @@
     "societe"
   ],
   "addedAt": "2026-06-30",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "Portrait #72 - Arnaud Lalanne et les prémices du Nomadisme digital",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2025-11-24",
-  "frequence_jours": 13
+  "frequence_jours": 13,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "FlowingBis",
+        "titre": "Fascinants témoignages de voyageurs",
+        "texte": "De belles histoires d’aventure qui font rêver. Maëlle a toujours des questions pertinentes pour faire le tour de l’aventure: le pourquoi, le comment de l’expatriation, et le côté pratique aussi, le positif mais aussi les embûches éventuelles."
+      },
+      {
+        "note": 5,
+        "auteur": "Adrien911",
+        "titre": "Captivant et motivant pour voyager 🙂",
+        "texte": "Très agréable podcast à écouter ! Ça donne envie de voyager et découvrir de nouvelles culture ms et façons de vivre ! Merci pour le partage des expériences ✈️🚗🚌☀️"
+      },
+      {
+        "note": 5,
+        "auteur": "Florence_etc",
+        "titre": "100% utile",
+        "texte": "Une série de podcasts bien ficelés pour préparer - comprendre et anticiper une expatriation ! Très utile, interactif et facile à écouter !"
+      }
+    ]
+  }
 }

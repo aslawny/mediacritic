@@ -25,30 +25,40 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
-      "titre": "Histoires du soir & jogging : bêtes noires de Marine Leonardi !",
-      "date": "2026-11-07"
+      "titre": "C à Vous - 1ère partie - L’intégrale du 21/11/26: Se loger est-il devenu un luxe ?",
+      "date": "2026-11-21",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3069736.mp3?origin=rss",
+      "duree": 3165
     },
     {
-      "titre": "Ginette Kolinka : la Shoah racontée aux collégiens - Le 5/5 Pop",
-      "date": "2026-11-07"
+      "titre": "Le retour des animaux au Salon de l’Agriculture - Le 5/5 d’Amandine Bégot",
+      "date": "2026-11-21",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3069735.mp3?origin=rss",
+      "duree": 715
     },
     {
-      "titre": "Défiance envers les médias : quels impacts sur le métier de journaliste ?",
-      "date": "2026-11-07"
+      "titre": "Crise du logement : une bombe à retardement ?",
+      "date": "2026-11-21",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3069737.mp3?origin=rss",
+      "duree": 756
     },
     {
-      "titre": "Trappes, mobilisations lycéennes, RN : Soprano s’exprime",
-      "date": "2026-11-07"
+      "titre": "Vers un retour du service militaire obligatoire ? - Ici et maintenant",
+      "date": "2026-11-21",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3069738.mp3?origin=rss",
+      "duree": 394
     },
     {
-      "titre": "C à Vous la suite - l’intégrale du 07/11/2026 - Soprano, artiste engagé depuis toujours -",
-      "date": "2026-11-07"
+      "titre": "Sommet historique de Shenzhen : l’Europe hors-jeu ?",
+      "date": "2026-11-21",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3069740.mp3?origin=rss",
+      "duree": 874
     }
   ],
-  "derniere_activite": "2026-11-07",
+  "derniere_activite": "2026-11-21",
   "frequence_jours": 0,
   "avis_publics": {
     "source": "apple",

@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/nouvelles-h%C3%A9ro%C3%AFnes-le-podcast-dhistoires-vraies-pour/id1561941208?uo=2",
       "trackId": 1561941208,
       "rating": 4.6,
-      "ratingCount": 504,
+      "ratingCount": 505,
       "episodeCount": null
     }
   },
@@ -27,7 +27,7 @@
     "famille"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "be",
@@ -56,26 +56,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "🕊️ Malala Yousafzai, survivante d'un attentat à 15 ans et recevoir le prix Nobel de la paix à 17 ans",
+      "date": "2026-11-21",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/6bef7c6e-0e05-40e4-abaa-58f1b1c144ca.mp3?_=1795181717",
+      "duree": 581
+    },
+    {
+      "titre": "🎤 Amel Bent, de la cité des 4000 à sa rencontre avec Diam's",
+      "date": "2026-11-18",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/88a35384-8e42-4d80-87d7-abb76558f871.mp3?_=1794933550",
+      "duree": 1077
+    },
+    {
+      "titre": "📖 Cassandre Lambert, la fille qui rêvait d’être Katniss (Hunger Games) devenue écrivaine à 21 ans",
+      "date": "2026-11-11",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/0d95a67f-02a7-44e0-ad74-e55d06b60e9f.mp3?_=1794328191",
+      "duree": 1392
+    },
+    {
       "titre": "📱Miel Abitbol (19 ans), d'une adolescente harcelée à l'école et sur les réseaux sociaux à militante pour la sa",
-      "date": "2026-11-07"
+      "date": "2026-11-07",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/e76d846a-39a8-4889-b332-cbecba2c0d66.mp3?_=1793963892",
+      "duree": 968
     },
     {
       "titre": "165. Pénélope Leprévost, née pour galoper",
-      "date": "2026-11-04"
-    },
-    {
-      "titre": "🎃 164. (2/2) Agatha Christie, la reine du crime qui avait mystérieusement disparu [SPÉCIAL HALLOWEEN]",
-      "date": "2026-10-31"
-    },
-    {
-      "titre": "🎃 164. (1/2) Agatha Christie, la reine du crime qui avait mystérieusement disparu [SPÉCIAL HALLOWEEN]",
-      "date": "2026-10-28"
-    },
-    {
-      "titre": "⚡️ Lady Gaga, la fille moquée et harcelée à l'école devenue Queen de la pop",
-      "date": "2026-10-21"
+      "date": "2026-11-04",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/335f6eda-e31a-487e-8f94-68324c9a1045.mp3?_=1793641443",
+      "duree": 1475
     }
   ],
-  "derniere_activite": "2026-11-07",
+  "derniere_activite": "2026-11-21",
   "frequence_jours": 4
 }

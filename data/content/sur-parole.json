@@ -25,7 +25,7 @@
     "sciences"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -55,23 +55,33 @@
   "episodes_recents": [
     {
       "titre": "REDIFFUSION ! \"Je ne suis pas un héros\" avec Julien Santini",
-      "date": "2026-02-05"
+      "date": "2026-02-05",
+      "audio": "https://sphinx.acast.com/p/open/s/6549f6a597ab0c0011fd95e3/e/6984c06e08b54429439301f5/media.mp3",
+      "duree": 4535
     },
     {
       "titre": "REDIFFUSION ! \"Je marche seul\" avec Adrien Menielle",
-      "date": "2026-01-29"
+      "date": "2026-01-29",
+      "audio": "https://sphinx.acast.com/p/open/s/6549f6a597ab0c0011fd95e3/e/697b8d0465942209530434c8/media.mp3",
+      "duree": 4549
     },
     {
       "titre": "\"Dans mon corps\" avec Audrey et Bobby.",
-      "date": "2026-01-24"
+      "date": "2026-01-24",
+      "audio": "https://sphinx.acast.com/p/open/s/6549f6a597ab0c0011fd95e3/e/697252c3df8275aa07581216/media.mp3",
+      "duree": 2803
     },
     {
       "titre": "EXTRAIT : \"Les paroles prefs d'Audrey Giacomini (ma meuf)\"",
-      "date": "2026-01-21"
+      "date": "2026-01-21",
+      "audio": "https://sphinx.acast.com/p/open/s/6549f6a597ab0c0011fd95e3/e/6970d12c2ab571f71a444795/media.mp3",
+      "duree": 304
     },
     {
       "titre": "\"S8ter Boi\" avec Vincent Désagnat",
-      "date": "2025-12-13"
+      "date": "2025-12-13",
+      "audio": "https://sphinx.acast.com/p/open/s/6549f6a597ab0c0011fd95e3/e/693d29c49bb376c45d8ae512/media.mp3",
+      "duree": 5207
     }
   ],
   "derniere_activite": "2026-02-05",

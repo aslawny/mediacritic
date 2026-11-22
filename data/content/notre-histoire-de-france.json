@@ -24,7 +24,7 @@
   "tags": [
     "histoire"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,23 +54,33 @@
   "episodes_recents": [
     {
       "titre": "Napoléon Ier, la chute de l'Empereur (2/2)",
-      "date": "2025-12-23"
+      "date": "2025-12-23",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2213244.mp3?origin=rss",
+      "duree": 1394
     },
     {
       "titre": "Napoléon Ier, la chute de l'Empereur (1/2)",
-      "date": "2025-12-23"
+      "date": "2025-12-23",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2213228.mp3?origin=rss",
+      "duree": 1386
     },
     {
       "titre": "Bonaparte et Joséphine, un couple impérial (2/2)",
-      "date": "2025-12-17"
+      "date": "2025-12-17",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2213219.mp3?origin=rss",
+      "duree": 1412
     },
     {
       "titre": "Bonaparte et Joséphine, un couple impérial (1/2)",
-      "date": "2025-12-17"
+      "date": "2025-12-17",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2213212.mp3?origin=rss",
+      "duree": 1164
     },
     {
       "titre": "Louis XVI et Marie-Antoinette face à la Révolution (2/2)",
-      "date": "2025-12-10"
+      "date": "2025-12-10",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2206281.mp3?origin=rss",
+      "duree": 1763
     }
   ],
   "derniere_activite": "2025-12-23",

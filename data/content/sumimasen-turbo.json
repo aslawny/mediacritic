@@ -26,7 +26,7 @@
     "gaming",
     "rétro"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -55,26 +55,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "#48 Zelda Ocarina of Time est-il toujours le GOAT ? 🐐 (partie 2)",
+      "date": "2026-11-10",
+      "audio": "https://sphinx.acast.com/p/open/s/63b943de1695af0011b9e885/e/6af2f83f4019cd265502d6c4/media.mp3",
+      "duree": 2523
+    },
+    {
+      "titre": "#48 Zelda Ocarina of Time est-il toujours le GOAT ? 🐐 (partie 1)",
+      "date": "2026-11-10",
+      "audio": "https://sphinx.acast.com/p/open/s/63b943de1695af0011b9e885/e/6af2f79e44a80265b34ef2fa/media.mp3",
+      "duree": 8335
+    },
+    {
       "titre": "#47 De Fire Emblem à Final Fantasy, les JRPG sont en feu (partie 2)",
-      "date": "2026-10-21"
+      "date": "2026-10-21",
+      "audio": "https://sphinx.acast.com/p/open/s/63b943de1695af0011b9e885/e/6ad8b15c85adacac7dcb778f/media.mp3",
+      "duree": 8401
     },
     {
       "titre": "#47 De Fire Emblem à Final Fantasy, les JRPG sont en feu (partie 1)",
-      "date": "2026-10-21"
+      "date": "2026-10-21",
+      "audio": "https://sphinx.acast.com/p/open/s/63b943de1695af0011b9e885/e/6ad8b0cb70af2b1aa7e37c37/media.mp3",
+      "duree": 5136
     },
     {
       "titre": "Tokyo Game Show 2026, le bilan de Sumimasen Turbo",
-      "date": "2026-09-29"
-    },
-    {
-      "titre": "#46 Zelda, Kojima, l'actu s'emballe avant le TOKYO GAME SHOW",
-      "date": "2026-09-15"
-    },
-    {
-      "titre": "#45 Onimusha, l'escrime était presque parfaite (partie 2)",
-      "date": "2026-09-02"
+      "date": "2026-09-29",
+      "audio": "https://sphinx.acast.com/p/open/s/63b943de1695af0011b9e885/e/6abbf6eb58bacc11cb461709/media.mp3",
+      "duree": 7282
     }
   ],
-  "derniere_activite": "2026-10-21",
+  "derniere_activite": "2026-11-10",
   "frequence_jours": 12
 }

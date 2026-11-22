@@ -27,7 +27,7 @@
     "series"
   ],
   "addedAt": "2026-07-06",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -57,23 +57,33 @@
   "episodes_recents": [
     {
       "titre": "VHS On Demand - VOD Hors Série James Bond",
-      "date": "2025-12-13"
+      "date": "2025-12-13",
+      "audio": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/BqWacdZglgYy.mp3?t=1765643578",
+      "duree": 8384
     },
     {
       "titre": "VHS On Demand - VOD #1 - Coucou c'est nous",
-      "date": "2025-10-17"
+      "date": "2025-10-17",
+      "audio": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/b7gMUx6YE20b.mp3?t=1759965641",
+      "duree": 8814
     },
     {
       "titre": "Ultime Scoring : le clap de fin",
-      "date": "2024-04-24"
+      "date": "2024-04-24",
+      "audio": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/bjWqcm4Lle9B.mp3?t=1710022838",
+      "duree": 6079
     },
     {
       "titre": "C'est à louer près de chez vous : The Faculty",
-      "date": "2024-03-30"
+      "date": "2024-03-30",
+      "audio": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/yEX3t6JE4VMo.mp3?t=1710018123",
+      "duree": 1551
     },
     {
       "titre": "C'est à louer près de chez vous : Megalomaniac",
-      "date": "2024-03-09"
+      "date": "2024-03-09",
+      "audio": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/7oZ4Qfl09Apb.mp3?t=1709997353",
+      "duree": 1428
     }
   ],
   "derniere_activite": "2025-12-13",

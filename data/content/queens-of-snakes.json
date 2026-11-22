@@ -26,7 +26,7 @@
     "comedie"
   ],
   "addedAt": "2026-07-18",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -56,23 +56,33 @@
   "episodes_recents": [
     {
       "titre": "Teaser",
-      "date": "2019-01-15"
+      "date": "2019-01-15",
+      "audio": "https://sphinx.acast.com/p/open/s/5bfffa529a22e99c360e4806/e/5c0122a8454d4a6e7ff3ddb7/media.mp3",
+      "duree": 33
     },
     {
       "titre": "EP01 - Un coup du hasard",
-      "date": "2019-01-04"
+      "date": "2019-01-04",
+      "audio": "https://sphinx.acast.com/p/open/s/5bfffa529a22e99c360e4806/e/5c2c891fc2da97ca1f86a442/media.mp3",
+      "duree": 1036
     },
     {
       "titre": "EP02 - Le serpent fait le buzz",
-      "date": "2019-01-04"
+      "date": "2019-01-04",
+      "audio": "https://sphinx.acast.com/p/open/s/5bfffa529a22e99c360e4806/e/5c2c89bd7bf9332542b17915/media.mp3",
+      "duree": 1302
     },
     {
       "titre": "EP03 - Les logisticiennes",
-      "date": "2019-01-04"
+      "date": "2019-01-04",
+      "audio": "https://sphinx.acast.com/p/open/s/5bfffa529a22e99c360e4806/e/5c2c8a283c1004c3500c3e3f/media.mp3",
+      "duree": 1181
     },
     {
       "titre": "EP04 - Venin et bonnes affaires",
-      "date": "2019-01-04"
+      "date": "2019-01-04",
+      "audio": "https://sphinx.acast.com/p/open/s/5bfffa529a22e99c360e4806/e/5c2c8a9dc2da97ca1f86a443/media.mp3",
+      "duree": 955
     }
   ],
   "derniere_activite": "2019-01-15",

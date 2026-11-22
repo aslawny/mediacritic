@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/elles-ont-os%C3%A9/id1518313107?uo=2",
       "trackId": 1518313107,
       "rating": 4.7,
-      "ratingCount": 318,
+      "ratingCount": 319,
       "episodeCount": null
     }
   },
@@ -26,27 +26,37 @@
     "histoire"
   ],
   "addedAt": "2026-07-03",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "Hélène Bourbouloux : « Il faut rester libre et ne pas faire de compromis sur l’éthique »",
-      "date": "2026-02-06"
+      "date": "2026-02-06",
+      "audio": "https://sphinx.acast.com/p/acast/s/elles-ont-ose/e/6985ee1bba7d04f1d4110786/media.mp3",
+      "duree": 4608
     },
     {
       "titre": "« On ne construit rien seul » : Virginie Morgon cultive l’esprit de meute",
-      "date": "2026-01-12"
+      "date": "2026-01-12",
+      "audio": "https://sphinx.acast.com/p/acast/s/elles-ont-ose/e/696505ab9ab39048a6283a57/media.mp3",
+      "duree": 4267
     },
     {
       "titre": "Fanny Letier : « Voir les échecs comme un apprentissage »",
-      "date": "2025-12-05"
+      "date": "2025-12-05",
+      "audio": "https://sphinx.acast.com/p/acast/s/elles-ont-ose/e/6931b063aef2c71c1d68ef04/media.mp3",
+      "duree": 3600
     },
     {
       "titre": "Anne-Sophie Pic : « Une cuisine de femme peut être de caractère »",
-      "date": "2025-08-01"
+      "date": "2025-08-01",
+      "audio": "https://sphinx.acast.com/p/acast/s/elles-ont-ose/e/687a622881b46e595695b41b/media.mp3",
+      "duree": 3616
     },
     {
       "titre": "Sophie Lacoste : des polos à crocodile aux fuseaux de ski",
-      "date": "2025-07-02"
+      "date": "2025-07-02",
+      "audio": "https://sphinx.acast.com/p/acast/s/elles-ont-ose/e/6862735ff1f233736942c298/media.mp3",
+      "duree": 2760
     }
   ],
   "derniere_activite": "2026-02-06",

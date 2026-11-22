@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/biblus-explorateurs-de-la-bible/id1805557175?uo=2",
       "trackId": 1805557175,
       "rating": 4.7,
-      "ratingCount": 491,
+      "ratingCount": 493,
       "episodeCount": null
     }
   },
@@ -27,30 +27,40 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "#41 - Shabbat [NOUVEAU TESTAMENT]",
+      "date": "2026-11-10",
+      "audio": "https://audio.ausha.co/Mnnq4SnQ6edN.mp3?t=1792424270",
+      "duree": 750
+    },
+    {
       "titre": "#40 - Le banquet chez Lévi [NOUVEAU TESTAMENT]",
-      "date": "2026-10-27"
+      "date": "2026-10-27",
+      "audio": "https://audio.ausha.co/3mmj4tDG9JgQ.mp3?t=1792424207",
+      "duree": 1080
     },
     {
       "titre": "#39 - La pêche miraculeuse [NOUVEAU TESTAMENT]",
-      "date": "2026-10-13"
+      "date": "2026-10-13",
+      "audio": "https://audio.ausha.co/5AAk4IqNLOV8.mp3?t=1791380302",
+      "duree": 1239
     },
     {
       "titre": "#38 - Le lac de Tibériade [NOUVEAU TESTAMENT]",
-      "date": "2026-09-29"
+      "date": "2026-09-29",
+      "audio": "https://audio.ausha.co/3mmj4ta1OmVE.mp3?t=1789656094",
+      "duree": 1214
     },
     {
       "titre": "#37 - Les noces de Cana [NOUVEAU TESTAMENT]",
-      "date": "2026-09-15"
-    },
-    {
-      "titre": "#36 - Les tentations au désert [NOUVEAU TESTAMENT]",
-      "date": "2026-09-01"
+      "date": "2026-09-15",
+      "audio": "https://audio.ausha.co/KjjzAtg8XQeO.mp3?t=1788943446",
+      "duree": 1176
     }
   ],
-  "derniere_activite": "2026-10-27",
+  "derniere_activite": "2026-11-10",
   "frequence_jours": 14,
   "avis_publics": {
     "source": "apple",

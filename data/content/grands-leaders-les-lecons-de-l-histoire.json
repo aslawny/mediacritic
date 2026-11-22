@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/grands-leaders-les-le%C3%A7ons-de-lhistoire/id1650368670?uo=2",
       "trackId": 1650368670,
       "rating": 4.6,
-      "ratingCount": 240,
+      "ratingCount": 241,
       "episodeCount": null
     }
   },
@@ -25,30 +25,40 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Vauban ou l'intelligence du terrain",
+      "date": "2026-11-17",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/e1562395-41c3-4826-95ff-f75c4789aa39.mp3?_=1794584998",
+      "duree": 2147
+    },
+    {
+      "titre": "Jean Gabin ou le code de l'honneur",
+      "date": "2026-11-10",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/f79e384b-9205-4dfb-a191-b60388cf49a0.mp3?_=1794214990",
+      "duree": 2094
+    },
+    {
       "titre": "Molière ou la théâtralité",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/e0e90f3c-4bce-43b5-952c-a2d9df34849b.mp3?_=1793032408",
+      "duree": 2102
     },
     {
       "titre": "Nietzsche ou l'estime de soi",
-      "date": "2026-10-27"
+      "date": "2026-10-27",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/89dcb061-aeb3-442d-8351-abb2e457085e.mp3?_=1793019463",
+      "duree": 1964
     },
     {
       "titre": "Romy Schneider ou la réinvention",
-      "date": "2026-10-20"
-    },
-    {
-      "titre": "Georges Pompidou ou l'avant-gardisme",
-      "date": "2026-10-13"
-    },
-    {
-      "titre": "Sun Tzu ou l'art de la stratégie",
-      "date": "2026-07-14"
+      "date": "2026-10-20",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/09b684e6-04ca-4cbe-abe6-77c033720752.mp3?_=1791963106",
+      "duree": 2144
     }
   ],
-  "derniere_activite": "2026-11-03",
+  "derniere_activite": "2026-11-17",
   "frequence_jours": 7,
   "avis_publics": {
     "source": "apple",

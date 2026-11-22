@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/ma-vie-dado/id1467885397?uo=2",
       "trackId": 1467885397,
       "rating": 4.5,
-      "ratingCount": 623,
+      "ratingCount": 622,
       "episodeCount": null
     }
   },
@@ -26,7 +26,7 @@
     "famille"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -56,23 +56,33 @@
   "episodes_recents": [
     {
       "titre": "Ma vie en classe ULIS",
-      "date": "2026-06-23"
+      "date": "2026-06-23",
+      "audio": "https://tr.ausha.co/oK9MEU6DALDO/api.soundcast.io/v1/stitch/ausha.mp3?tags=18C2FE1B&keywords=episodeId:oK9MEU6DALDO,showId:y01KDSEdz8lE&kw_applecategory=Kids+%26+Family&kw_showname=Ma+vie+d%27ado&kw_episodeid=oK9MEU6DALDO&kw_podcastid=y01KDSEdz8lE&kw_showrss=https%3A%2F%2Ffeed.ausha.co%2Fy01KDSEdz8lE&kw_language=fr&kw_position=preroll&apiKey=c1a94b3301c64853868548ac73233ca1&podcastUrl=https%3A%2F%2Faudio.ausha.co%2FoK9MEU6DALDO.mp3%3Ft%3D1782129784",
+      "duree": 492
     },
     {
       "titre": "Moi et ma classe...",
-      "date": "2025-09-12"
+      "date": "2025-09-12",
+      "audio": "https://tr.ausha.co/y0m2DS6a6zwm/api.soundcast.io/v1/stitch/ausha.mp3?tags=18C2FE1B&keywords=episodeId:y0m2DS6a6zwm,showId:y01KDSEdz8lE&kw_applecategory=Kids+%26+Family&kw_showname=Ma+vie+d%27ado&kw_episodeid=y0m2DS6a6zwm&kw_podcastid=y01KDSEdz8lE&kw_showrss=https%3A%2F%2Ffeed.ausha.co%2Fy01KDSEdz8lE&kw_language=fr&kw_position=preroll&apiKey=c1a94b3301c64853868548ac73233ca1&podcastUrl=https%3A%2F%2Faudio.ausha.co%2Fy0m2DS6a6zwm.mp3%3Ft%3D1651569642",
+      "duree": 276
     },
     {
       "titre": "La pression scolaire... ça fait mal !",
-      "date": "2025-06-18"
+      "date": "2025-06-18",
+      "audio": "https://tr.ausha.co/bVdNmC7G0384/api.soundcast.io/v1/stitch/ausha.mp3?tags=18C2FE1B&keywords=episodeId:bVdNmC7G0384,showId:y01KDSEdz8lE&kw_applecategory=Kids+%26+Family&kw_showname=Ma+vie+d%27ado&kw_episodeid=bVdNmC7G0384&kw_podcastid=y01KDSEdz8lE&kw_showrss=https%3A%2F%2Ffeed.ausha.co%2Fy01KDSEdz8lE&kw_language=fr&kw_position=preroll&apiKey=c1a94b3301c64853868548ac73233ca1&podcastUrl=https%3A%2F%2Faudio.ausha.co%2FbVdNmC7G0384.mp3%3Ft%3D1750249038",
+      "duree": 396
     },
     {
       "titre": "Prendre soin de moi ? Facile !",
-      "date": "2025-06-11"
+      "date": "2025-06-11",
+      "audio": "https://tr.ausha.co/yXLDNT2mmjRl/api.soundcast.io/v1/stitch/ausha.mp3?tags=18C2FE1B&keywords=episodeId:yXLDNT2mmjRl,showId:y01KDSEdz8lE&kw_applecategory=Kids+%26+Family&kw_showname=Ma+vie+d%27ado&kw_episodeid=yXLDNT2mmjRl&kw_podcastid=y01KDSEdz8lE&kw_showrss=https%3A%2F%2Ffeed.ausha.co%2Fy01KDSEdz8lE&kw_language=fr&kw_position=preroll&apiKey=c1a94b3301c64853868548ac73233ca1&podcastUrl=https%3A%2F%2Faudio.ausha.co%2FyXLDNT2mmjRl.mp3%3Ft%3D1727430464",
+      "duree": 389
     },
     {
       "titre": "Mes parents et leur autorité !",
-      "date": "2025-05-20"
+      "date": "2025-05-20",
+      "audio": "https://tr.ausha.co/b78mOF6kQnnY/api.soundcast.io/v1/stitch/ausha.mp3?tags=18C2FE1B&keywords=episodeId:b78mOF6kQnnY,showId:y01KDSEdz8lE&kw_applecategory=Kids+%26+Family&kw_showname=Ma+vie+d%27ado&kw_episodeid=b78mOF6kQnnY&kw_podcastid=y01KDSEdz8lE&kw_showrss=https%3A%2F%2Ffeed.ausha.co%2Fy01KDSEdz8lE&kw_language=fr&kw_position=preroll&apiKey=c1a94b3301c64853868548ac73233ca1&podcastUrl=https%3A%2F%2Faudio.ausha.co%2Fb78mOF6kQnnY.mp3%3Ft%3D1747740207",
+      "duree": 444
     }
   ],
   "derniere_activite": "2026-06-23",

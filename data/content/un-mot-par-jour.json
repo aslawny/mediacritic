@@ -25,51 +25,65 @@
     "education"
   ],
   "addedAt": "2026-10-23",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-23",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "dorimarcel",
+        "titre": "Trop bien 👍🏻",
+        "texte": "Le podcast est super intéressant 🅰️🈲🅾️🅾️🆎🅱️🅱️🈴🅱️🆎🅾️🈹🅾️🆎💢🆑⭕️🆑🅱️⭕️🆎💢⛔️⭕️🅾️⛔️🔞⭕️💢⭕️📵⛔️🛑🛑♨️🅱️⛔️📛🆘⛔️🅾️🈲🅱️🆎🆑🈲📛🈵♨️⛔️🚫🚯♨️🚱💯🚯♨️🅾️🚫💯💯💯🚷🛑🔞🛑🚷📛🚫🈺☣️☢️🈚️☢️🈶✴️🈷️📳✴️📴✴️🈶🈶🈚️🈸☣️☢️🉑🈸🈺🈸🈶🈶📳🈷️✴️📴🆚🈶🈶🈸🈸☣️☢️🈸🈚️🈚️🉑🈚️🈷️✴️🆚📴📳🆚🈷️✴️🈚️🉑🈺☢️🈚️🉑🈶📴🈷️🈷️🆚🈷️✴️📳🈷️✴️📳🈷️🈸✴️🉑♻️🔰❎❇️🈯️💹✳️❎❇️🈯️✅❇️✳️❎♻️❎💹✅🈯️✳️🔰❎❇️🈯️✅🈯️❇️❎✳️💹✅…"
+      },
+      {
+        "note": 1,
+        "auteur": "Mimiqui23",
+        "titre": "POURQUOI LE LANGAGE SOUTENU.",
+        "texte": "S’il te plaît, parle un plus plus familier. Je trouve que ça ressemble un peu trop à un documentaire."
+      },
+      {
+        "note": 5,
+        "auteur": "Hllnsavw",
+        "titre": "Intéressant !",
+        "texte": "Super format ! Belle voix, j’aime beaucoup ! Par contre les pubs de l’armée .. quand j’écoute dans la rue j’ai l’impression que quelqu’un est réellement entrain de se battre ou tomber jusqu’à « ça glisse ça glisse ».…"
+      }
     ]
   },
   "episodes_recents": [
     {
-      "titre": "Impéritie",
-      "date": "2026-11-06"
+      "titre": "Morgue",
+      "date": "2026-11-20",
+      "audio": "https://sphinx.acast.com/p/open/s/66068b0f53b2df0016608fe8/e/6af19a134639eb370f3d6150/media.mp3",
+      "duree": 117
     },
     {
-      "titre": "Misanthropie",
-      "date": "2026-11-04"
+      "titre": "Pugnacité",
+      "date": "2026-11-18",
+      "audio": "https://sphinx.acast.com/p/open/s/66068b0f53b2df0016608fe8/e/6af19713625528ef28e326b5/media.mp3",
+      "duree": 125
     },
     {
-      "titre": "Magnanimité",
-      "date": "2026-11-02"
+      "titre": "Flagornerie",
+      "date": "2026-11-16",
+      "audio": "https://sphinx.acast.com/p/open/s/66068b0f53b2df0016608fe8/e/6af194e0625528ef28e1f0bd/media.mp3",
+      "duree": 101
     },
     {
-      "titre": "Outrecuidance",
-      "date": "2026-10-30"
+      "titre": "Obséquiosité",
+      "date": "2026-11-13",
+      "audio": "https://sphinx.acast.com/p/open/s/66068b0f53b2df0016608fe8/e/6ae9baebb1966848f37e429b/media.mp3",
+      "duree": 158
     },
     {
-      "titre": "Velléité",
-      "date": "2026-10-28"
+      "titre": "Versatilité",
+      "date": "2026-11-10",
+      "audio": "https://sphinx.acast.com/p/open/s/66068b0f53b2df0016608fe8/e/6ae9b89c9cb48f65eaf41391/media.mp3",
+      "duree": 115
     }
   ],
-  "derniere_activite": "2026-11-06",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 2
 }

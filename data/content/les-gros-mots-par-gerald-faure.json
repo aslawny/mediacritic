@@ -25,7 +25,7 @@
     "sciences",
     "vulgarisation"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "LGM #105 - Les secrets d’un CMO.",
@@ -51,25 +51,29 @@
   "derniere_activite": "2026-03-18",
   "frequence_jours": 6,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-23",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Fc tafoughalt",
+        "titre": "Merci !",
+        "texte": "Je tenais à remercier Gérald via ce commentaire qui s’efforce à avoir un contenu de qualité. Merci pour votre travail et pour toutes les personnes que vous nous faites découvrir."
+      },
+      {
+        "note": 1,
+        "auteur": "MarygP22",
+        "titre": "Mauvais, prétentieux…",
+        "texte": "Les sujets ne sont pas traités dans une dimension entrepreneuriale systémique et en proximité. L’angles abordé, ne reflète pas la « vraie vie » d’une personne qui entreprend !"
+      },
+      {
+        "note": 5,
+        "auteur": "Madame mouton noir",
+        "titre": "Top",
+        "texte": "Merci pour cette émission avec Fabien Blot ! C’est un mec que je suis depuis quelques temps et son parcours est très intéressant donc merci de l’avoir invité ! 😊"
+      }
     ]
   }
 }

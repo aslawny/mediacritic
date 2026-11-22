@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/les-histoires-pas-sages-de-la-baba-yaga/id1597446395?uo=2",
       "trackId": 1597446395,
       "rating": 4.8,
-      "ratingCount": 324,
+      "ratingCount": 325,
       "episodeCount": null
     }
   },
@@ -26,31 +26,41 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Les Blagues pas-sages de la Baba Yaga - Blague(s) de trop(s)",
+      "date": "2026-11-18",
+      "audio": "https://track.podcastics.com/4622/439189.mp3",
+      "duree": 543
+    },
+    {
+      "titre": "Les Blagues pas-sages de la Baba Yaga - Coaching, 2",
+      "date": "2026-11-14",
+      "audio": "https://track.podcastics.com/4622/439188.mp3",
+      "duree": 465
+    },
+    {
+      "titre": "Les Blagues pas-sages de la Baba Yaga - Coaching, 1",
+      "date": "2026-11-11",
+      "audio": "https://track.podcastics.com/4622/439187.mp3",
+      "duree": 466
+    },
+    {
       "titre": "Les Blagues pas-sages de la Baba Yaga - Container",
-      "date": "2026-11-07"
+      "date": "2026-11-07",
+      "audio": "https://track.podcastics.com/4622/436158.mp3",
+      "duree": 523
     },
     {
       "titre": "Les Blagues pas-sages de la Baba Yaga - Garage",
-      "date": "2026-11-04"
-    },
-    {
-      "titre": "Les Blagues pas-sages de la Baba Yaga - Invité",
-      "date": "2026-10-31"
-    },
-    {
-      "titre": "Les Blagues pas-sages de la Baba Yaga - Subtilité",
-      "date": "2026-10-28"
-    },
-    {
-      "titre": "Les Blagues pas-sages de la Baba Yaga - Blague-ultime",
-      "date": "2026-10-24"
+      "date": "2026-11-04",
+      "audio": "https://track.podcastics.com/4622/436157.mp3",
+      "duree": 419
     }
   ],
-  "derniere_activite": "2026-11-07",
-  "frequence_jours": 3,
+  "derniere_activite": "2026-11-18",
+  "frequence_jours": 4,
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",

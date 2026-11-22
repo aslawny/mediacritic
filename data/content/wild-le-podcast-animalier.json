@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/wild-le-podcast-animalier/id1570606697?uo=2",
       "trackId": 1570606697,
       "rating": 4.5,
-      "ratingCount": 513,
+      "ratingCount": 517,
       "episodeCount": null
     }
   },
@@ -27,7 +27,7 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -56,26 +56,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "Sur les traces de l'adorable Renard Arctique",
+      "date": "2026-11-18",
+      "audio": "https://sphinx.acast.com/p/open/s/64b6753c923f19001147e161/e/dd51a3c5b2ea5e0ba93451684953e250c27dd804/media.mp3",
+      "duree": 594
+    },
+    {
+      "titre": "Une chouette, un village",
+      "date": "2026-11-11",
+      "audio": "https://sphinx.acast.com/p/open/s/64b6753c923f19001147e161/e/6af41e9a7d020b369b9a1b9b/media.mp3",
+      "duree": 524
+    },
+    {
       "titre": "Le Cachalot, le gentil géant des mers",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://sphinx.acast.com/p/open/s/64b6753c923f19001147e161/e/65d4da75165269001638ff66/media.mp3",
+      "duree": 609
     },
     {
       "titre": "Chasse aux oeufs sur l'île aux goélands leucophée",
-      "date": "2026-10-28"
+      "date": "2026-10-28",
+      "audio": "https://sphinx.acast.com/p/open/s/64b6753c923f19001147e161/e/681afcc0bdc6024140f1babb/media.mp3",
+      "duree": 933
     },
     {
       "titre": "Énorme mais super sensible : l'Eléphant",
-      "date": "2026-10-21"
-    },
-    {
-      "titre": "Le Mouflon, le mouton qui voulait redevenir sauvage",
-      "date": "2026-10-14"
-    },
-    {
-      "titre": "La Girafe toujours dans le coup",
-      "date": "2026-10-07"
+      "date": "2026-10-21",
+      "audio": "https://sphinx.acast.com/p/open/s/64b6753c923f19001147e161/e/e09b6f0614abc210a862a0d5ac4d7c6ec8b30023/media.mp3",
+      "duree": 444
     }
   ],
-  "derniere_activite": "2026-11-04",
+  "derniere_activite": "2026-11-18",
   "frequence_jours": 7
 }

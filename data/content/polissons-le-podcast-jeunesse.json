@@ -25,7 +25,7 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -55,23 +55,33 @@
   "episodes_recents": [
     {
       "titre": "Le jour où j'ai fait du sirop d'érable",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://flex2.acast.com/s/polissons/u/cdn.arteradio.com/permanent/arteradio/sites/default/files/EP36-LeJourOu_CabaneASucreErable-Zia_hq.mp3",
+      "duree": 449
     },
     {
       "titre": "Le jour où je suis restée seule à la maison",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://flex2.acast.com/s/polissons/u/cdn.arteradio.com/permanent/arteradio/sites/default/files/EP35-LeJourOu_ResteeSeuleMaison_Radia_hq_fr.mp3",
+      "duree": 291
     },
     {
       "titre": "Promenons-nous",
-      "date": "2026-10-07"
+      "date": "2026-10-07",
+      "audio": "https://flex2.acast.com/s/polissons/u/cdn.arteradio.com/permanent/arteradio/sites/default/files/promenonsnous_hq_fr.mp3",
+      "duree": 592
     },
     {
       "titre": "Tétine addict",
-      "date": "2026-09-02"
+      "date": "2026-09-02",
+      "audio": "https://flex2.acast.com/s/polissons/u/cdn.arteradio.com/permanent/arteradio/sites/default/files/Tetine_addict_hq_fr.mp3",
+      "duree": 1221
     },
     {
       "titre": "Le jour où j’ai cru qu’un monstre se cachait sous mon lit",
-      "date": "2026-08-05"
+      "date": "2026-08-05",
+      "audio": "https://flex2.acast.com/s/polissons/u/cdn.arteradio.com/permanent/arteradio/sites/default/files/34lejourou_wassima_monstre_hq_fr.mp3",
+      "duree": 248
     }
   ],
   "derniere_activite": "2026-11-04",

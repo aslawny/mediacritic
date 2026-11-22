@@ -27,7 +27,7 @@
     "culture"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -56,26 +56,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "180 : Ça aussi, c'est de la dépression, les choses insolites dont on parle peu !",
+      "date": "2026-11-20",
+      "audio": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/BMLV5sLmk4j8.mp3?t=1795127337",
+      "duree": 1653
+    },
+    {
+      "titre": "[#148 Proche] : De dépressif à évitant, c'est quoi ce délire ?",
+      "date": "2026-11-18",
+      "audio": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/yJYnOFG4MVgo.mp3?t=1794949475",
+      "duree": 1419
+    },
+    {
       "titre": "179 : Débarrassons-nous de 5 préjugés sur la dépression !",
-      "date": "2026-11-06"
+      "date": "2026-11-06",
+      "audio": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/bjEOlsm8gG2O.mp3?t=1793918925",
+      "duree": 1432
     },
     {
       "titre": "[#147 Proche] : Bâtir une équipe face à la dépression : comment apprendre à fonctionner à deux ?",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/ygzO7tGN8ekA.mp3?t=1793739091",
+      "duree": 1859
     },
     {
       "titre": "178 : Comment soigner sa dépression ? Les étapes.",
-      "date": "2026-10-23"
-    },
-    {
-      "titre": "Invitation atelier du 27-10 : Pourquoi je n’arrive pas à sortir de la dépression ?",
-      "date": "2026-10-20"
-    },
-    {
-      "titre": "177 : Méthode pour expliquer sa dépression à un proche !",
-      "date": "2026-10-09"
+      "date": "2026-10-23",
+      "audio": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/BQgrXhql1vpA.mp3?t=1792750559",
+      "duree": 1608
     }
   ],
-  "derniere_activite": "2026-11-06",
-  "frequence_jours": 2
+  "derniere_activite": "2026-11-20",
+  "frequence_jours": 3
 }

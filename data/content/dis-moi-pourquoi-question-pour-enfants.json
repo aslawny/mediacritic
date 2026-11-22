@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/dis-moi-pourquoi-question-pour-enfants/id1659379943?uo=4",
       "trackId": 1659379943,
       "rating": 3.9,
-      "ratingCount": 385,
+      "ratingCount": 387,
       "episodeCount": 220
     }
   },
@@ -26,30 +26,40 @@
     "enfants",
     "éducation"
   ],
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Dis-moi pourquoi les chiens n'aiment pas les chats.",
+      "date": "2026-11-18",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/0191557c-a9c4-417a-994a-88c15288d7f2.mp3?_=1721914642",
+      "duree": 99
+    },
+    {
+      "titre": "Dis-moi pourquoi on a de la salive.",
+      "date": "2026-11-16",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/40f94f4e-9c60-4cde-b117-489b057d625e.mp3?_=1792662103",
+      "duree": 189
+    },
+    {
+      "titre": "Dis-moi pourquoi on a des frissons",
+      "date": "2026-11-11",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/f0b55d08-0175-4ad2-a959-f33e65acbca1.mp3?_=1749029279",
+      "duree": 172
+    },
+    {
+      "titre": "Dis-moi pourquoi on va a l'école.",
+      "date": "2026-11-09",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/7344349d-2b2b-4b07-8a76-bc9d092d31f9.mp3?_=1709310458",
+      "duree": 121
+    },
+    {
       "titre": "Dis-moi pourquoi notre voix change quand on grandit.",
-      "date": "2026-11-04"
-    },
-    {
-      "titre": "Dis-moi pourquoi le Soleil ne s'éteint jamais.",
-      "date": "2026-11-02"
-    },
-    {
-      "titre": "Dis-moi pourquoi les poux grattent.",
-      "date": "2026-10-28"
-    },
-    {
-      "titre": "Dis-moi pourquoi on se rappelle de rien avant nos 3 ans.",
-      "date": "2026-10-26"
-    },
-    {
-      "titre": "Dis-moi pourquoi il y a des étoiles la nuit.",
-      "date": "2026-10-21"
+      "date": "2026-11-04",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/a2bc78c1-5b18-41c2-b18f-2a38f758a356.mp3?_=1746610007",
+      "duree": 185
     }
   ],
-  "derniere_activite": "2026-11-04",
+  "derniere_activite": "2026-11-18",
   "frequence_jours": 2,
   "avis_publics": {
     "source": "apple",

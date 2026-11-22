@@ -26,7 +26,7 @@
     "rénovation",
     "DIY"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -55,26 +55,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "Écris ton premier livre ! (Featuring Ybelion)",
+      "date": "2026-11-16",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/814c7e93-d8d5-4615-8ba4-c4b61643d250.mp3?_=1794506127",
+      "duree": 9847
+    },
+    {
       "titre": "CE QUI VOUS EMPÊCHE D'ÊTRE LIBRE !",
-      "date": "2026-11-02"
+      "date": "2026-11-02",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/28ac70a4-5411-4ad5-8a03-53b41f3df9d6.mp3?_=1793617618",
+      "duree": 6394
     },
     {
       "titre": "Vais-je être disrupté par l'intelligence artificielle ? Allô Tonton #22",
-      "date": "2026-10-19"
+      "date": "2026-10-19",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/1ea795c4-bb73-4e3a-9b79-021cc86190bc.mp3?_=1792075462",
+      "duree": 5840
     },
     {
       "titre": "Et si tu passais à côté de ta vie ?",
-      "date": "2026-10-05"
+      "date": "2026-10-05",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/a77a48bd-16d6-4f2e-9842-7642519d1c44.mp3?_=1790840774",
+      "duree": 5788
     },
     {
       "titre": "Tenir quand c’est difficile",
-      "date": "2026-09-21"
-    },
-    {
-      "titre": "Je me suis fait opérer des cervicales.",
-      "date": "2026-09-07"
+      "date": "2026-09-21",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/ff2a1244-e720-4994-bc8b-2dc98ca56f50.mp3?_=1789648238",
+      "duree": 5446
     }
   ],
-  "derniere_activite": "2026-11-02",
+  "derniere_activite": "2026-11-16",
   "frequence_jours": 14
 }

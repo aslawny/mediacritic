@@ -24,7 +24,7 @@
     "politique"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "Kraken lance 200 actions européennes tokenisées via xStocks, dont LVMH, Rolls-Royce et Airbus",
@@ -48,5 +48,25 @@
     }
   ],
   "derniere_activite": "2026-11-11",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-22",
+    "extraits": [
+      {
+        "note": 1,
+        "auteur": "Vrai TestR",
+        "titre": "C’est de l’IA pour faire ce navet?",
+        "texte": "Pourquoi faire dire une phrase par plusieurs personnes chacun un bout ? Faut arrêter ces voix robotisés et aseptisés… Utiliser au moins un seule personne (robot) pour le podcast de 4 mn Aussi pourquoi faire 6 podcasts par jour de 4 mn ?? Breaking news …"
+      },
+      {
+        "note": 1,
+        "auteur": "clara_slowlifestyle",
+        "titre": "Peu agréable",
+        "texte": "La qualité du développement des sujets et des voix et discutable autant se contenter de rédiger un article bien documenté."
+      }
+    ]
+  }
 }

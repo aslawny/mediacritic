@@ -27,30 +27,40 @@
     "famille"
   ],
   "addedAt": "2026-06-09",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Mécaniques du vivant, saison 5 : Les domestications",
+      "date": "2026-11-20",
+      "audio": "https://audio.ausha.co/yvzq7HYPn8Pj.mp3?t=1751634169",
+      "duree": 47
+    },
+    {
+      "titre": "S06E12 Idées fausses : Espèce ou race ?",
+      "date": "2026-11-17",
+      "audio": "https://audio.ausha.co/b3XAQF3aOpzg.mp3?t=1788163932",
+      "duree": 958
+    },
+    {
+      "titre": "S06E11 Idées fausses : Nature, biodiversité ou Vivant, quelles différences ?",
+      "date": "2026-11-10",
+      "audio": "https://audio.ausha.co/BG8zDcjVa36p.mp3?t=1788163802",
+      "duree": 1614
+    },
+    {
       "titre": "S06E10 Idées fausses : Punaise(s) !",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "audio": "https://audio.ausha.co/bzKWDFrLazZk.mp3?t=1788163636",
+      "duree": 1132
     },
     {
       "titre": "S06E09 Idées fausses : Le lierre, bourreau ou allié des arbres ?",
-      "date": "2026-10-27"
-    },
-    {
-      "titre": "S06E08 Idées fausses : Le rôle des parasites",
-      "date": "2026-10-20"
-    },
-    {
-      "titre": "Mécaniques du vivant, saison 4 : Les Abeilles sauvages",
-      "date": "2026-10-16"
-    },
-    {
-      "titre": "S06E07 Idées fausses : Les \"fossiles\" vivants",
-      "date": "2026-10-13"
+      "date": "2026-10-27",
+      "audio": "https://audio.ausha.co/BMXYwF5M3Zdg.mp3?t=1788163461",
+      "duree": 511
     }
   ],
-  "derniere_activite": "2026-11-03",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 6,
   "avis_publics": {
     "source": "apple",

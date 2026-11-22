@@ -26,7 +26,7 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -56,23 +56,33 @@
   "episodes_recents": [
     {
       "titre": "#70 – Redécouvrir le delta du Mékong (Vietnam)",
-      "date": "2020-12-17"
+      "date": "2020-12-17",
+      "audio": "https://anchor.fm/s/10f2610/podcast/play/24094987/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-17%2F87704b1d-d0e4-ef29-814f-6e4732ee4c3b.mp3",
+      "duree": 3854
     },
     {
       "titre": "#69 – Persévérance sur le toit du monde (Népal)",
-      "date": "2020-01-27"
+      "date": "2020-01-27",
+      "audio": "https://anchor.fm/s/10f2610/podcast/play/24056205/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-16%2F138528465-44100-2-745cbb43971edb10.mp3",
+      "duree": 3495
     },
     {
       "titre": "#68 – Darjeeling et Sikkim, en terre himalayenne (Inde)",
-      "date": "2019-11-29"
+      "date": "2019-11-29",
+      "audio": "https://anchor.fm/s/10f2610/podcast/play/24056197/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-16%2F138528430-44100-2-f01e25acc616fd04.mp3",
+      "duree": 3328
     },
     {
       "titre": "#66 – L’espoir se nomme Sulubaaï (Philippines)",
-      "date": "2019-05-22"
+      "date": "2019-05-22",
+      "audio": "https://anchor.fm/s/10f2610/podcast/play/24056222/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-16%2F138528426-44100-2-4e2069817f8c09b9.mp3",
+      "duree": 4282
     },
     {
       "titre": "#65 – Ils courent l’Asie en ultra",
-      "date": "2019-04-13"
+      "date": "2019-04-13",
+      "audio": "https://anchor.fm/s/10f2610/podcast/play/24056190/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-16%2F138528379-44100-2-64ea0a2d9f860438.mp3",
+      "duree": 3983
     }
   ],
   "derniere_activite": "2020-12-17",

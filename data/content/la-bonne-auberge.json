@@ -27,27 +27,37 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "Cyberpunk - Choomba Night",
-      "date": "2025-12-15"
+      "date": "2025-12-15",
+      "audio": "https://sphinx.acast.com/p/acast/s/la-bonne-auberge/e/693c594d2bda36b3535b150b/media.mp3",
+      "duree": 13684
     },
     {
       "titre": "Alien Seneca - Partie 03",
-      "date": "2025-09-07"
+      "date": "2025-09-07",
+      "audio": "https://sphinx.acast.com/p/acast/s/la-bonne-auberge/e/68b2e49a75e437e2233a1704/media.mp3",
+      "duree": 6233
     },
     {
       "titre": "Alien Seneca - Partie 02",
-      "date": "2025-09-01"
+      "date": "2025-09-01",
+      "audio": "https://sphinx.acast.com/p/acast/s/la-bonne-auberge/e/68b03344744e1b1a494c9ede/media.mp3",
+      "duree": 4951
     },
     {
       "titre": "Alien Seneca - Partie 01",
-      "date": "2025-08-28"
+      "date": "2025-08-28",
+      "audio": "https://sphinx.acast.com/p/acast/s/la-bonne-auberge/e/68b02984744e1b1a4948b985/media.mp3",
+      "duree": 3000
     },
     {
       "titre": "Les Derniers Remparts de Carcassonne",
-      "date": "2025-06-23"
+      "date": "2025-06-23",
+      "audio": "https://sphinx.acast.com/p/acast/s/la-bonne-auberge/e/685596408d560ebfbb084160/media.mp3",
+      "duree": 10631
     }
   ],
   "derniere_activite": "2025-12-15",

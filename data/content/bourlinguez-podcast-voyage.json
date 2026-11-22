@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/bourlinguez-podcast-voyage/id1441946531?uo=2",
       "trackId": 1441946531,
       "rating": 4.8,
-      "ratingCount": 360,
+      "ratingCount": 361,
       "episodeCount": null
     }
   },
@@ -27,30 +27,40 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Bourlinguez #160 - Rosemary x Taïwan",
+      "date": "2026-11-11",
+      "audio": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/yvpmmCmPZE1j.mp3?t=1793636743",
+      "duree": 1896
+    },
+    {
       "titre": "Bourlinguez #159 - Matthieu x Canada",
-      "date": "2026-10-28"
+      "date": "2026-10-28",
+      "audio": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/o9K55TEgAAQb.mp3?t=1793130184",
+      "duree": 2191
     },
     {
       "titre": "Bourlinguez #158 - Anne x Tanzanie",
-      "date": "2026-10-13"
+      "date": "2026-10-13",
+      "audio": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/yErNNiz6ZXOb.mp3?t=1791816637",
+      "duree": 1883
     },
     {
       "titre": "Bourlinguez #157 - Samuel x Serbie",
-      "date": "2026-09-29"
+      "date": "2026-09-29",
+      "audio": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/bYPOOcxM10gd.mp3?t=1788516021",
+      "duree": 2442
     },
     {
       "titre": "Bourlinguez #156 - Eloise x Forêt Noire",
-      "date": "2026-09-15"
-    },
-    {
-      "titre": "Bourlinguez #155 - Stéphane x Clipperton",
-      "date": "2026-06-23"
+      "date": "2026-09-15",
+      "audio": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/BnrJJirkYw0v.mp3?t=1788515902",
+      "duree": 1957
     }
   ],
-  "derniere_activite": "2026-10-28",
+  "derniere_activite": "2026-11-11",
   "frequence_jours": 14,
   "avis_publics": {
     "source": "apple",

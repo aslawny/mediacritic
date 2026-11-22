@@ -24,7 +24,7 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -53,26 +53,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "MINUTES LEGEND LADIES : MES10 RETOURS D'EXPÉRIENCE APRÈS 6 ANS D'ENTREPRENEURIAT",
+      "date": "2026-11-18",
+      "audio": "https://track.podcastics.com/631/440116.mp3",
+      "duree": 2873
+    },
+    {
+      "titre": "#13 SAISON 17 - CATHERINE SPLINDER: PRESIDENTE EUROPE EMEA DE SEPHORA",
+      "date": "2026-11-11",
+      "audio": "https://track.podcastics.com/631/438988.mp3",
+      "duree": 5472
+    },
+    {
       "titre": "HORS SÉRIE - SANTÉ DES FEMMES: MIEUX COMPRENDRE POUR MIEUX AGIR",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://track.podcastics.com/631/438210.mp3",
+      "duree": 5874
     },
     {
       "titre": "REDIFFUSION #12 SAISON 13: JULIA DE FUNÈS, PHILOSOPHE - OSER BOUSCULER LA BIEN-PENSANCE",
-      "date": "2026-10-28"
+      "date": "2026-10-28",
+      "audio": "https://track.podcastics.com/631/367613.mp3",
+      "duree": 4047
     },
     {
       "titre": "#12 SAISON 17 - ANDRÉA BESCOND : FAIRE ENTENDRE SA VOIX ET OUVRIR LA VOIE",
-      "date": "2026-10-21"
-    },
-    {
-      "titre": "#11 SAISON 17 : ELLA ETIENNE-DENOY - L'AMOUR, LA PERTE ET LA FORCE D'AGIR",
-      "date": "2026-10-14"
-    },
-    {
-      "titre": "HORS SÉRIE - PASCAL DEMURGER: DE CANCRE À DIRIGEANT, L'ART DE GOUVERNER AUTREMENT",
-      "date": "2026-10-07"
+      "date": "2026-10-21",
+      "audio": "https://track.podcastics.com/631/436253.mp3",
+      "duree": 5007
     }
   ],
-  "derniere_activite": "2026-11-04",
+  "derniere_activite": "2026-11-18",
   "frequence_jours": 7
 }

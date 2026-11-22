@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/les-lueurs/id1677352708?uo=4",
       "trackId": 1677352708,
       "rating": 4.9,
-      "ratingCount": 1782,
+      "ratingCount": 1790,
       "episodeCount": 150
     }
   },
@@ -24,7 +24,7 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -53,6 +53,12 @@
   },
   "episodes_recents": [
     {
+      "titre": "Peut-on côtoyer la mort et se sentir vivant ? Avec Étienne de Varax, croque-mort",
+      "date": "2026-11-22",
+      "audio": "https://track.podcastics.com/5697/440524.mp3",
+      "duree": 2997
+    },
+    {
       "titre": "☕️ Jusqu’où peut-on pousser l’exigence sans devenir un tyran ? Avec Jean Todt, ancien patron de Ferrari",
       "date": "2026-11-18",
       "audio": "https://track.podcastics.com/5697/440059.mp3",
@@ -75,14 +81,8 @@
       "date": "2026-11-08",
       "audio": "https://track.podcastics.com/5697/438885.mp3",
       "duree": 3283
-    },
-    {
-      "titre": "Lueurs monte sur scène… avec vous ? 🥰 [COMPLET]",
-      "date": "2026-11-06",
-      "audio": "https://track.podcastics.com/5697/438799.mp3",
-      "duree": 100
     }
   ],
-  "derniere_activite": "2026-11-18",
+  "derniere_activite": "2026-11-22",
   "frequence_jours": 3
 }

@@ -26,7 +26,7 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -55,26 +55,36 @@
   },
   "episodes_recents": [
     {
-      "titre": "Affaire Thierry Métayer : la ferme aux mystères",
-      "date": "2026-11-09"
+      "titre": "Olivier Arnaud : le mort sans mobile apparent à Chamalières",
+      "date": "2026-11-22",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/78dc1c49-dd55-4d3f-8f48-8a089d6ad7d4.mp3?_=1757585026",
+      "duree": 2364
     },
     {
-      "titre": "Eric Peugeot : un rapt d'enfant au golf de Saint-Cloud",
-      "date": "2026-11-08"
+      "titre": "Cindy Pereira-Joan Gamiochipi : le plaisir de voir mourir",
+      "date": "2026-11-21",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/8a36781f-d8a1-4d91-84a5-92b116789fab.mp3?_=1791382982",
+      "duree": 2631
     },
     {
-      "titre": "Valérie Subra et les deux garçons : piège fatal dans les beaux quartiers",
-      "date": "2026-11-07"
+      "titre": "Adrien Bottollier, le Joker de Chambéry",
+      "date": "2026-11-20",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/0b36971e-0769-436d-9bfa-a56da29742e4.mp3?_=1791382692",
+      "duree": 2557
     },
     {
-      "titre": "Bernadette Cogis : la veuve qu'il fallait tuer",
-      "date": "2026-11-06"
+      "titre": "Louis Mea : la chemise sanglante",
+      "date": "2026-11-19",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/1054d57a-d080-4cbd-b486-2d9c95f01f51.mp3?_=1791382689",
+      "duree": 2359
     },
     {
-      "titre": "Affaire André Kaas : le veuf et les tueurs à gages",
-      "date": "2026-11-05"
+      "titre": "Famille Sharp : tuerie au chalet numéro 28",
+      "date": "2026-11-18",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/abeb6958-fa52-4829-8ef8-527b2e775ecb.mp3?_=1791382687",
+      "duree": 2677
     }
   ],
-  "derniere_activite": "2026-11-09",
+  "derniere_activite": "2026-11-22",
   "frequence_jours": 1
 }

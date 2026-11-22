@@ -27,7 +27,7 @@
     "societe"
   ],
   "addedAt": "2026-10-14",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -56,26 +56,36 @@
   },
   "episodes_recents": [
     {
-      "titre": "Qui est le seul empereur romain à avoir renoncé volontairement au pouvoir ?",
-      "date": "2026-11-06"
+      "titre": "Qui étaient les redoutables chevaliers Teutoniques ?",
+      "date": "2026-11-20",
+      "audio": "https://sphinx.acast.com/p/open/s/6605920d743327001649c686/e/6afeb1214312344565148cdd/media.mp3",
+      "duree": 168
     },
     {
-      "titre": "Pourquoi Archimède aurait-il été tué pour avoir défendu ses cercles ?",
-      "date": "2026-11-05"
+      "titre": "Qui sont les oubliés de Clipperton ?",
+      "date": "2026-11-19",
+      "audio": "https://sphinx.acast.com/p/open/s/6605920d743327001649c686/e/6afd6299990afed4ab81b3be/media.mp3",
+      "duree": 159
     },
     {
-      "titre": "Pourquoi des soldats japonais ont-ils mangé des prisonniers américains ?",
-      "date": "2026-11-04"
+      "titre": "Pourquoi des marins ont-ils été condamnés pour avoir survécu ?",
+      "date": "2026-11-18",
+      "audio": "https://sphinx.acast.com/p/open/s/6605920d743327001649c686/e/6afc1655ffa7dbc1f8f7f270/media.mp3",
+      "duree": 136
     },
     {
-      "titre": "Pourquoi la tactique du buffle a-t-elle anéanti une armée britannique ?",
-      "date": "2026-11-02"
+      "titre": "Qu'est-ce que la « corde du diable » qui a bouleversé la conquête de l'Ouest ?",
+      "date": "2026-11-17",
+      "audio": "https://sphinx.acast.com/p/open/s/6605920d743327001649c686/e/6afac74e08be5707d1f3e501/media.mp3",
+      "duree": 143
     },
     {
-      "titre": "Pourquoi la première grève de l’histoire a-t-elle eu lieu en Égypte ?",
-      "date": "2026-10-30"
+      "titre": "Qui fut le premier roi de France à s’appeler Louis ?",
+      "date": "2026-11-16",
+      "audio": "https://sphinx.acast.com/p/open/s/6605920d743327001649c686/e/6af6d4849dce432809daf8b7/media.mp3",
+      "duree": 150
     }
   ],
-  "derniere_activite": "2026-11-06",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 1
 }

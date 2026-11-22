@@ -25,7 +25,7 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,26 +54,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "On s'en fout des Grammys, non ?",
+      "date": "2026-11-20",
+      "audio": "https://traffic.megaphone.fm/APO5002903389.mp3",
+      "duree": 2366
+    },
+    {
+      "titre": "Lâchez la veste d'Angèle !",
+      "date": "2026-11-08",
+      "audio": "https://traffic.megaphone.fm/APO8683435710.mp3",
+      "duree": 3353
+    },
+    {
       "titre": "On parle de pop et de sirènes (avec Rachel Chinouriri).",
-      "date": "2026-10-18"
+      "date": "2026-10-18",
+      "audio": "https://traffic.megaphone.fm/APO7287989219.mp3",
+      "duree": 2609
     },
     {
       "titre": "Ed Sheeran est un boloss.",
-      "date": "2026-09-28"
+      "date": "2026-09-28",
+      "audio": "https://anchor.fm/s/1034051d8/podcast/play/126376429/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-27%2F432758890-44100-2-0f3bdcc2d7055.mp3",
+      "duree": 2743
     },
     {
       "titre": "Dalida sous Havaianas ? (avec Bilal Hassani)",
-      "date": "2026-08-31"
-    },
-    {
-      "titre": "Non, Ariana Grande n'a pas sorti son \"pire album\" !",
-      "date": "2026-08-06"
-    },
-    {
-      "titre": "On parle de Sex and the City avec Jäde",
-      "date": "2026-07-30"
+      "date": "2026-08-31",
+      "audio": "https://traffic.megaphone.fm/APO2060883749.mp3",
+      "duree": 2976
     }
   ],
-  "derniere_activite": "2026-10-18",
-  "frequence_jours": 12
+  "derniere_activite": "2026-11-20",
+  "frequence_jours": 13
 }

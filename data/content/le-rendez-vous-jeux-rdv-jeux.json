@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/le-rendez-vous-jeux-rdv-jeux/id934089668?uo=4",
       "trackId": 934089668,
-      "rating": 4.6,
-      "ratingCount": 605,
+      "rating": 4.5,
+      "ratingCount": 606,
       "episodeCount": 482
     }
   },
@@ -25,7 +25,7 @@
   "tags": [
     "gaming"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "be",
@@ -54,26 +54,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "GTA VI, digne de sa hype – RDV Jeux",
+      "date": "2026-11-19",
+      "audio": "https://sphinx.acast.com/p/acast/s/le-rendez-vous-jeux/e/6aff10753c298292f3daeb34/media.mp3",
+      "duree": 6247
+    },
+    {
+      "titre": "Ocarina of Time c’est le Elvis Presley du jeu vidéo – RDV Jeux",
+      "date": "2026-11-12",
+      "audio": "https://sphinx.acast.com/p/acast/s/le-rendez-vous-jeux/e/6af5dde554f9838e8b8cf4ca/media.mp3",
+      "duree": 5197
+    },
+    {
       "titre": "Le meilleur Callof de ces dernières années – RDV Jeux",
-      "date": "2026-11-05"
+      "date": "2026-11-12",
+      "audio": "https://sphinx.acast.com/p/acast/s/le-rendez-vous-jeux/e/6aeca67a74a96cc5a4b085be/media.mp3",
+      "duree": 6420
     },
     {
       "titre": "Spécial – Enfants et jeux vidéo – RDV Jeux",
-      "date": "2026-10-29"
+      "date": "2026-10-29",
+      "audio": "https://sphinx.acast.com/p/acast/s/le-rendez-vous-jeux/e/6ae0ce78dab9f642f3a369aa/media.mp3",
+      "duree": 2991
     },
     {
       "titre": "Bioware, 30 ans de légende – RDV Jeux",
-      "date": "2026-10-22"
-    },
-    {
-      "titre": "Metrevoidvania – RDV Jeux",
-      "date": "2026-10-15"
-    },
-    {
-      "titre": "Galactic Racer, encore mieux que Star Wars – RDV Jeux",
-      "date": "2026-10-07"
+      "date": "2026-10-22",
+      "audio": "https://sphinx.acast.com/p/acast/s/le-rendez-vous-jeux/e/6ada0d3f23f48c4f2470ea09/media.mp3",
+      "duree": 5501
     }
   ],
-  "derniere_activite": "2026-11-05",
-  "frequence_jours": 7
+  "derniere_activite": "2026-11-19",
+  "frequence_jours": 6
 }

@@ -26,30 +26,40 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
-      "titre": "Peut-on mesurer la puissance d’un piment ? (L’échelle de Scoville) 🌶️",
-      "date": "2026-11-02"
+      "titre": "Le jeu GTA est-il vraiment né d’un BUG ? 👀",
+      "date": "2026-11-16",
+      "audio": "https://sphinx.acast.com/p/open/s/63b4c24bf4c10f0011e37032/e/6afa12277d5cb93e7dab2be3/media.mp3",
+      "duree": 376
     },
     {
-      "titre": "Pourquoi les fantômes sont-ils drapés de blanc ? (Merci les photos truquées ! 👻)",
-      "date": "2026-10-26"
+      "titre": "Pourquoi y a-t-il plus de brouillard en automne ? ☁️",
+      "date": "2026-11-09",
+      "audio": "https://sphinx.acast.com/p/open/s/63b4c24bf4c10f0011e37032/e/6af0c097d2403d9661096ce7/media.mp3",
+      "duree": 219
+    },
+    {
+      "titre": "Peut-on mesurer la puissance d’un piment ? (L’échelle de Scoville) 🌶️",
+      "date": "2026-11-02",
+      "audio": "https://sphinx.acast.com/p/open/s/63b4c24bf4c10f0011e37032/e/6ae7891d339f23a726547dc4/media.mp3",
+      "duree": 312
+    },
+    {
+      "titre": "Pourquoi les fantômes sont-ils drapés de blanc ? 👻",
+      "date": "2026-10-26",
+      "audio": "https://sphinx.acast.com/p/open/s/63b4c24bf4c10f0011e37032/e/6ade49d4296f30f8e3ab72c0/media.mp3",
+      "duree": 305
     },
     {
       "titre": "L'effet de foule : la cause des manifs qui dégénèrent ? 💥",
-      "date": "2026-10-19"
-    },
-    {
-      "titre": "Qu'est-ce que le chat de Schrödinger ? Quand la science défie notre logique ! 🐈",
-      "date": "2026-10-12"
-    },
-    {
-      "titre": "Pourquoi le Paris-Brest a-t-il la forme d’une roue ? 🍩",
-      "date": "2026-10-05"
+      "date": "2026-10-19",
+      "audio": "https://sphinx.acast.com/p/open/s/63b4c24bf4c10f0011e37032/e/6ad54dc0a2384a5721b34b01/media.mp3",
+      "duree": 322
     }
   ],
-  "derniere_activite": "2026-11-02",
+  "derniere_activite": "2026-11-16",
   "frequence_jours": 7,
   "avis_publics": {
     "source": "apple",

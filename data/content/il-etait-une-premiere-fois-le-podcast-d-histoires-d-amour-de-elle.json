@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/il-%C3%A9tait-une-premi%C3%A8re-fois-le-podcast-dhistoires/id1689015821?uo=2",
       "trackId": 1689015821,
       "rating": 4.3,
-      "ratingCount": 253,
+      "ratingCount": 255,
       "episodeCount": null
     }
   },
@@ -27,30 +27,40 @@
     "news"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Tout ce dont j'ai besoin",
+      "date": "2026-11-19",
+      "audio": "https://sphinx.acast.com/p/open/s/646b456aedf4b5001140663b/e/6afc5157277fc1579fee3510/media.mp3",
+      "duree": 2048
+    },
+    {
       "titre": "Ma force et ma vulnérabilité",
-      "date": "2026-11-05"
+      "date": "2026-11-05",
+      "audio": "https://sphinx.acast.com/p/open/s/646b456aedf4b5001140663b/e/6ae9a7e89cb48f65eaece2f7/media.mp3",
+      "duree": 1132
     },
     {
       "titre": "Rallumer la flamme",
-      "date": "2026-10-21"
+      "date": "2026-10-21",
+      "audio": "https://sphinx.acast.com/p/open/s/646b456aedf4b5001140663b/e/6acf664fe65da00825b756e8/media.mp3",
+      "duree": 1938
     },
     {
       "titre": "Les cases à cocher",
-      "date": "2026-10-07"
+      "date": "2026-10-07",
+      "audio": "https://sphinx.acast.com/p/open/s/646b456aedf4b5001140663b/e/6ac5fdae3dc1c1be4a90f426/media.mp3",
+      "duree": 1749
     },
     {
       "titre": "L'amour sur le spectre",
-      "date": "2026-09-23"
-    },
-    {
-      "titre": "Le droit d'être aimée",
-      "date": "2026-09-09"
+      "date": "2026-09-23",
+      "audio": "https://sphinx.acast.com/p/open/s/646b456aedf4b5001140663b/e/6aabe6db5d36baebf1446ccf/media.mp3",
+      "duree": 2079
     }
   ],
-  "derniere_activite": "2026-11-05",
+  "derniere_activite": "2026-11-19",
   "frequence_jours": 14,
   "avis_publics": {
     "source": "apple",

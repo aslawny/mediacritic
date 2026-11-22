@@ -27,7 +27,7 @@
     "series"
   ],
   "addedAt": "2026-07-09",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "#7 Brienne c'est Jeanne d'Arc",
@@ -53,25 +53,23 @@
   "derniere_activite": "2022-12-11",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-23",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-22",
+    "extraits": [
+      {
+        "note": 4,
+        "auteur": "mystoriablog",
+        "titre": "Excellent",
+        "texte": "Merci pour m’en avoir appris un peu plus sur cette série que j’adore. Les références étaient très pertinentes. Ce podcast vaut 5 étoiles mais je n’en ai mis que 4 car c’est dommage, il y’a tellement de personnages à comparer comme Ramsay Bolton avec Vlad l’empaleur, les Sans-visa…"
+      },
+      {
+        "note": 1,
+        "auteur": "plamimi",
+        "titre": "Bof",
+        "texte": "Entre vulgarisation de l’Histoire et connaissance approximative de la série ... Vraiment déçue !"
+      }
     ]
   }
 }

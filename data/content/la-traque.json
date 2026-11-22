@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/la-traque/id1675024215?uo=4",
       "trackId": 1675024215,
       "rating": 4.3,
-      "ratingCount": 504,
+      "ratingCount": 505,
       "episodeCount": 1042
     }
   },
@@ -26,30 +26,40 @@
     "true crime",
     "société"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
-      "titre": "BABABAM ORIGINALS | Pamela Anderson et Tommy Lee",
-      "date": "2026-11-08"
+      "titre": "GRAND FORMAT | Dennis Rader, l'effroyable étrangleur de Wichita",
+      "date": "2026-11-21",
+      "audio": "https://traffic.megaphone.fm/BABA8662036158.mp3",
+      "duree": 5181
     },
     {
-      "titre": "GRAND FORMAT | Edward Snowden, le traître patriote",
-      "date": "2026-11-07"
+      "titre": "Gilles Bertin, un punk en cavale : se rendre pour en finir (4/4)",
+      "date": "2026-11-20",
+      "audio": "https://traffic.megaphone.fm/BABA7890792545.mp3",
+      "duree": 1067
     },
     {
-      "titre": "Viktor Bout, le marchand de mort : les Américains n'ont pas dit leur dernier mot (4/4)",
-      "date": "2026-11-06"
+      "titre": "Gilles Bertin, un punk en cavale : la fuite en Espagne (3/4)",
+      "date": "2026-11-19",
+      "audio": "https://traffic.megaphone.fm/BABA7762952556.mp3",
+      "duree": 1035
     },
     {
-      "titre": "Viktor Bout, le marchand de mort : le \"seigneur de la guerre\" (3/4)",
-      "date": "2026-11-05"
+      "titre": "Gilles Bertin, un punk en cavale : un coup de maître (2/4)",
+      "date": "2026-11-18",
+      "audio": "https://traffic.megaphone.fm/BABA8103435005.mp3",
+      "duree": 1064
     },
     {
-      "titre": "Viktor Bout, le marchand de mort : des pratiques échappant à tout contrôle (2/4)",
-      "date": "2026-11-04"
+      "titre": "Gilles Bertin, un punk en cavale : génération No Future (1/4)",
+      "date": "2026-11-17",
+      "audio": "https://traffic.megaphone.fm/BABA1975513752.mp3",
+      "duree": 1076
     }
   ],
-  "derniere_activite": "2026-11-08",
+  "derniere_activite": "2026-11-21",
   "frequence_jours": 1,
   "avis_publics": {
     "source": "apple",

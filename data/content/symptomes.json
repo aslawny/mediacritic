@@ -25,7 +25,7 @@
     "sciences"
   ],
   "addedAt": "2026-10-29",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-10-29",
@@ -50,26 +50,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "94. Maladie rénale : 30 ans avant le vrai diagnostic",
+      "date": "2026-11-20",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/508bc5e8-6c92-46c5-9f85-1175ad63adbc.mp3?_=1795096683",
+      "duree": 1606
+    },
+    {
+      "titre": "Troubles digestifs, malaise, chute : le diagnostic inattendu",
+      "date": "2026-11-13",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/ff193969-53c6-4061-9455-e13e3c7a388a.mp3?_=1790605682",
+      "duree": 1485
+    },
+    {
       "titre": "Anomalie du foie et démangeaisons : quand une maladie rare échappe au diagnostic",
-      "date": "2026-11-06"
+      "date": "2026-11-06",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/84b3977d-0845-4d26-9949-9aaecb6e0bbf.mp3?_=1776947884",
+      "duree": 1055
     },
     {
       "titre": "BONUS - Intoxication, overdose... Comment réagir ?",
-      "date": "2026-10-30"
+      "date": "2026-10-30",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/535a5a20-076b-4b0f-989a-87612b817099.mp3?_=1791296281",
+      "duree": 474
     },
     {
       "titre": "93. Tension basse, malaise, arrêt cardiaque : le cas inquiétant d'une adolescente de 17 ans",
-      "date": "2026-10-23"
-    },
-    {
-      "titre": "Lésion dans le dos : quand l'inconnu s'installe sous la peau",
-      "date": "2026-10-16"
-    },
-    {
-      "titre": "Urgence vitale : quand la santé d'une adolescente bascule sans explication",
-      "date": "2026-10-09"
+      "date": "2026-10-23",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/3e390ef5-ea8f-4b13-bdc8-4be0e634219a.mp3?_=1791980281",
+      "duree": 1573
     }
   ],
-  "derniere_activite": "2026-11-06",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 7
 }

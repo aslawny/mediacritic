@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/le-debrief-koh-lanta/id1773527198?uo=2",
       "trackId": 1773527198,
       "rating": 4.9,
-      "ratingCount": 228,
+      "ratingCount": 231,
       "episodeCount": null
     }
   },
@@ -27,30 +27,40 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
-      "titre": "Les hommes choisissent, les femmes subissent",
-      "date": "2026-11-06"
+      "titre": "Bienvenue à Dinoland",
+      "date": "2026-11-20",
+      "audio": "https://sphinx.acast.com/p/open/s/670a3c0312827abd27ec0dcd/e/6aff284ec838fad86f29fd39/media.mp3",
+      "duree": 2380
     },
     {
-      "titre": "Le pire prime de tous les temps",
-      "date": "2026-11-04"
+      "titre": "La vengeance d'Alicia est terrible",
+      "date": "2026-11-18",
+      "audio": "https://sphinx.acast.com/p/open/s/670a3c0312827abd27ec0dcd/e/6afb46288b6a3d4d2e899b05/media.mp3",
+      "duree": 3818
     },
     {
-      "titre": "Brieuc est un elfe",
-      "date": "2026-11-03"
+      "titre": "Les prémices du drame.",
+      "date": "2026-11-17",
+      "audio": "https://sphinx.acast.com/p/open/s/670a3c0312827abd27ec0dcd/e/6afb21cda44b6fb245567105/media.mp3",
+      "duree": 2664
     },
     {
-      "titre": "L'épisode du savoir",
-      "date": "2026-10-30"
+      "titre": "La fin du rêve",
+      "date": "2026-11-13",
+      "audio": "https://sphinx.acast.com/p/open/s/670a3c0312827abd27ec0dcd/e/6af5ab70c46e16fa76965071/media.mp3",
+      "duree": 2058
     },
     {
-      "titre": "La daronne de Camille.",
-      "date": "2026-10-28"
+      "titre": "La rockeuse de darons",
+      "date": "2026-11-11",
+      "audio": "https://sphinx.acast.com/p/open/s/670a3c0312827abd27ec0dcd/e/6af3969643e2f445c283d5d6/media.mp3",
+      "duree": 3356
     }
   ],
-  "derniere_activite": "2026-11-06",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 2,
   "avis_publics": {
     "source": "apple",

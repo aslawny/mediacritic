@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/zack-en-roue-libre-by-zack-nani/id1612444837?uo=4",
       "trackId": 1612444837,
       "rating": 4.8,
-      "ratingCount": 569,
+      "ratingCount": 570,
       "episodeCount": 184
     }
   },
@@ -24,7 +24,7 @@
   "tags": [
     "histoire"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,23 +54,33 @@
   "episodes_recents": [
     {
       "titre": "Denis Zakaria : Le Gamin Suisse devenu Capitaine de Ligue 1",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://sphinx.acast.com/p/open/s/6ab4edfc079b46c819b44608/e/6aeafefef7e4924fb7e4d2de/media.mp3",
+      "duree": 8718
     },
     {
       "titre": "Nico : Il n'a jamais connu son père, il en a fait un film - Zack en Roue Libre avec Nico (S10E03)",
-      "date": "2026-10-30"
+      "date": "2026-10-30",
+      "audio": "https://sphinx.acast.com/p/open/s/6ab4edfc079b46c819b44608/e/6ae48157e96b052ecafec9ad/media.mp3",
+      "duree": 5991
     },
     {
       "titre": "Ze1sh : De Rejeté de la Karmine à Champion d'Europe",
-      "date": "2026-10-20"
+      "date": "2026-10-20",
+      "audio": "https://sphinx.acast.com/p/open/s/6ab4edfc079b46c819b44608/e/6ad77387819a15003cd5ef51/media.mp3",
+      "duree": 18130
     },
     {
       "titre": "Ciryl Gane, le Nouveau Champion Incontesté de l'UFC",
-      "date": "2026-09-22"
+      "date": "2026-09-22",
+      "audio": "https://sphinx.acast.com/p/open/s/6ab4edfc079b46c819b44608/e/096d93d2-1099-4098-985f-86f3f6b9c632/media.mp3",
+      "duree": 5073
     },
     {
       "titre": "Georges Mikautadze : Départ de l'OL, Euro 2024, Ligue des Champions",
-      "date": "2026-07-09"
+      "date": "2026-07-09",
+      "audio": "https://sphinx.acast.com/p/open/s/6ab4edfc079b46c819b44608/e/0a8eed8c-4020-4643-9f01-3ac63069073f/media.mp3",
+      "duree": 4739
     }
   ],
   "derniere_activite": "2026-11-04",

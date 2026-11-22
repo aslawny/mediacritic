@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/aura/id1878621900?uo=2",
       "trackId": 1878621900,
       "rating": 4.3,
-      "ratingCount": 286,
+      "ratingCount": 288,
       "episodeCount": null
     }
   },
@@ -26,30 +26,40 @@
     "news"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Aura - Pourquoi Vianney a tout arrêté pour construire une cabane ?",
+      "date": "2026-11-20",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/441e18c3-4c51-4c66-9491-1156eb12b204.mp3?_=1795183645",
+      "duree": 3879
+    },
+    {
       "titre": "Aura - Episode 11",
-      "date": "2026-11-06"
+      "date": "2026-11-06",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/d4f051a2-680f-41ba-a80c-060a22154b04.mp3?_=1793966818",
+      "duree": 4402
     },
     {
       "titre": "Aura - Pascal Obispo comme vous ne l'avez jamais vu",
-      "date": "2026-10-22"
+      "date": "2026-10-22",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/163e6a9f-7655-43ea-909d-6b95c2874e14.mp3?_=1792661509",
+      "duree": 4345
     },
     {
       "titre": "Aura - De Belfort à Hollywood : l'histoire hors norme de Tahar Rahim",
-      "date": "2026-10-10"
+      "date": "2026-10-10",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/8e969747-edfc-4928-b355-70ba3b1cf643.mp3?_=1791574434",
+      "duree": 1931
     },
     {
       "titre": "Aura - Laurent Baffie en roue libre avec Audrey Crespo-Mara",
-      "date": "2026-09-30"
-    },
-    {
-      "titre": "Aura - Céline Dion, Star Academy, paternité... Mosimann raconte tout",
-      "date": "2026-09-16"
+      "date": "2026-09-30",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/c54d338e-4235-428d-8811-5ced0669d386.mp3?_=1790779559",
+      "duree": 2746
     }
   ],
-  "derniere_activite": "2026-11-06",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 23,
   "avis_publics": {
     "source": "apple",

@@ -27,7 +27,7 @@
     "culture"
   ],
   "addedAt": "2026-06-30",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "Billy Pham (Bao Family) : « Si on n’est pas amoureux des people, il ne faut pas faire de la restauration »",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-10-28",
-  "frequence_jours": 16
+  "frequence_jours": 16,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Estelle Augustin",
+        "titre": "Enfin un podcast sur le recrutement",
+        "texte": "Je ne pensais pas un jour trouver un podcast sur le problème du recrutement et pourtant des podcasts sur le business en restauration y’en a plein… Hâte d’écouter les prochains épisodes!"
+      },
+      {
+        "note": 5,
+        "auteur": "Lyanna.s",
+        "titre": "Podcast super intéressant !",
+        "texte": "Un plaisir à écouter, les sujets sont pertinents et les invités apportent de vraies réflexions ! Merci pour la qualité du contenu et des échanges 🙌"
+      },
+      {
+        "note": 5,
+        "auteur": "JujuDoBrasil",
+        "titre": "Utile pour évoquer les conditions de travail dans la restauration",
+        "texte": "Pour une fois utile d’entendre des gens qui proposent des solutions astuces et idées pour faire face au problème de recrutement"
+      }
+    ]
+  }
 }

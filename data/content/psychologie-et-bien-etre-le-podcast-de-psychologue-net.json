@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/psychologie-et-bien-%C3%AAtre-le-podcast-de-psychologue-net/id1513532213?uo=4",
       "trackId": 1513532213,
       "rating": 3.4,
-      "ratingCount": 700,
+      "ratingCount": 701,
       "episodeCount": 279
     }
   },
@@ -25,7 +25,7 @@
     "bien-être",
     "psychologie"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,26 +54,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "Dépression : ce vide intérieur que personne ne voit #300",
+      "date": "2026-11-18",
+      "audio": "https://anchor.fm/s/1fee072c/podcast/play/128269966/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-28%2F435226340-44100-2-bcfb8e544c1f1.mp3",
+      "duree": 1625
+    },
+    {
       "titre": "Le deuil au-delà de la mort : ces pertes invisibles qui bouleversent une vie #299",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://anchor.fm/s/1fee072c/podcast/play/128189906/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-27%2F435126148-44100-2-b3e2108dc7e15.mp3",
+      "duree": 1082
     },
     {
       "titre": "Le manque de confiance en soi : comprendre ce qui se joue vraiment #298",
-      "date": "2026-10-21"
+      "date": "2026-10-21",
+      "audio": "https://anchor.fm/s/1fee072c/podcast/play/125939240/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-18%2F432170986-44100-2-000db05d4287a.mp3",
+      "duree": 1314
     },
     {
       "titre": "Parentalité : comprendre ce que nous transmettons à nos enfants #297",
-      "date": "2026-10-07"
+      "date": "2026-10-07",
+      "audio": "https://anchor.fm/s/1fee072c/podcast/play/125937023/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-18%2F432167915-44100-2-69fa8141e3278.mp3",
+      "duree": 2073
     },
     {
       "titre": "Dépendance affective : pourquoi ai-je si peur qu’on me quitte ? #296",
-      "date": "2026-09-16"
-    },
-    {
-      "titre": "Les épreuves du couple : s’aimer ne suffit pas toujours #295",
-      "date": "2026-09-02"
+      "date": "2026-09-16",
+      "audio": "https://anchor.fm/s/1fee072c/podcast/play/124759774/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-26%2F430575436-44100-2-5adbb9462cdaa.mp3",
+      "duree": 1391
     }
   ],
-  "derniere_activite": "2026-11-04",
+  "derniere_activite": "2026-11-18",
   "frequence_jours": 14
 }

@@ -25,7 +25,7 @@
     "culture"
   ],
   "addedAt": "2026-08-17",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "Ép. 19 – Norvège, on a gardé le meilleur pour la fin !",
@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2022-09-18",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lork de Frite",
+        "titre": "En velib’ ou en Gravel",
+        "texte": "Excellent podcast qui lève le voile sur les dessous d’une belle et mouvementée aventure à vélo ! Beaucoup de conseils pour adapter certaines de leurs étapes en fonction de ses envies (on est pas tous des baroudeurs de l’extrême !) c’est vraiment utile …"
+      },
+      {
+        "note": 5,
+        "auteur": "Greg2631",
+        "titre": "Super podcast vélo",
+        "texte": "Super podcast pour les fans de vélo et les novices ! Plein de petites anecdotes et de conseils qui donnent envie de partir en vadrouille à deux roues !!!"
+      },
+      {
+        "note": 5,
+        "auteur": "pichenette2",
+        "titre": "Vélo",
+        "texte": "L’expérience de nos 2 routards sont très intéressante par leurs partage et conseils qu’il nous donne afin de partir à travers le monde en vélo.Merci"
+      }
+    ]
+  }
 }

@@ -27,7 +27,7 @@
     "famille"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "Bien-être et santé mentale à l’école : les solutions validées par la science | Rebecca Shankland | Podcast édu",
@@ -53,25 +53,29 @@
   "derniere_activite": "2026-11-05",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-23",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Johnweek2",
+        "titre": "J’adore le podcast Innovation en Éducation",
+        "texte": "Le podcast \"Innovation en éducation\" est une véritable bouffée d'air frais pour tous ceux qui s'intéressent à l'évolution du système éducatif.…"
+      },
+      {
+        "note": 5,
+        "auteur": "chachechouette",
+        "titre": "Super podcast",
+        "texte": "Merci pour ces interviews très riches et avec des interlocuteurs très bien choisis. J’adore aussi ton magazine innovation en éducation, bravo pour tout ce partage des connaissances, ton travail est phénoménal ! 🤩"
+      },
+      {
+        "note": 5,
+        "auteur": "Chloe.1711",
+        "titre": "J’ADOOORE",
+        "texte": "Après avoir découvert Julien Peron via la plateforme BrutX et ses superbes documentaires ! Je suis très heureuse de pouvoir écouter les podcasts ! Vivement les prochains épisodes :)"
+      }
     ]
   }
 }

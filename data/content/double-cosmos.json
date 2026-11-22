@@ -26,7 +26,7 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "#36 VASTE INTERVIEW - Prendre soin de son écologie intérieure et de sa parentalité - avec Jeane Clesse @Basili",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2024-01-23",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Marie Attal",
+        "titre": "Un postcast au top !",
+        "texte": "Ce podcast est très intéressant, chaque épisode est très travaillé. On sent qu’il y a de l’implication et la volonté de transmettre. Il y a un effort clair pour que le lecteur découvre ET comprenne les principes de l’ayurveda.…"
+      },
+      {
+        "note": 5,
+        "auteur": "AcroWine",
+        "titre": "Super approche !",
+        "texte": "Définitivement mon podcast préféré sur l'Ayurveda, approche très dynamique et pleine de vie toujours dans la joie et la bonne humeur avec une note d'humour et de second degré.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Jaunath",
+        "titre": "Un podcast qui fait du bien !",
+        "texte": "Un podcast qui met de bonne humeur et qui fait du bien :) Il m’a permis de me faire découvrir un monde bien secret mais incroyable : l’ayurvéda ! Merci Aurélie pour le partage de toutes tes connaissances. Je recommande !!"
+      }
+    ]
+  }
 }

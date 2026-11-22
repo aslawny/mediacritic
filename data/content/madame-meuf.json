@@ -24,30 +24,40 @@
     "comedie"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Je me présente à la présidentielle",
+      "date": "2026-11-10",
+      "audio": "https://traffic.megaphone.fm/BABA4301013803.mp3",
+      "duree": 542
+    },
+    {
       "titre": "3 bonnes nouvelles pour passer novembre",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "audio": "https://traffic.megaphone.fm/BABA9934260385.mp3",
+      "duree": 547
     },
     {
       "titre": "Pourquoi c’est moi qui prends sur moi ?",
-      "date": "2026-10-27"
+      "date": "2026-10-27",
+      "audio": "https://traffic.megaphone.fm/BABA6138118374.mp3",
+      "duree": 375
     },
     {
       "titre": "Comment sortir du marasme ambiant ?",
-      "date": "2026-10-20"
+      "date": "2026-10-20",
+      "audio": "https://traffic.megaphone.fm/BABA2701093301.mp3",
+      "duree": 670
     },
     {
       "titre": "Tadaaaaam !",
-      "date": "2026-10-19"
-    },
-    {
-      "titre": "Les hommes déconstruits, on en est où ?",
-      "date": "2026-10-10"
+      "date": "2026-10-19",
+      "audio": "https://traffic.megaphone.fm/BABA8125951880.mp3",
+      "duree": 189
     }
   ],
-  "derniere_activite": "2026-11-03",
+  "derniere_activite": "2026-11-10",
   "frequence_jours": 4,
   "avis_publics": {
     "source": "apple",

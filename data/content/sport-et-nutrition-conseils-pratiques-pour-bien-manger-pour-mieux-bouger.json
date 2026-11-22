@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/sport-et-nutrition-conseils-pratiques-pour-bien-manger/id1553679148?uo=4",
       "trackId": 1553679148,
       "rating": 4.6,
-      "ratingCount": 298,
+      "ratingCount": 299,
       "episodeCount": 202
     }
   },
@@ -27,7 +27,7 @@
     "bien-etre"
   ],
   "addedAt": "2026-08-05",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -56,26 +56,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "Immunité et nutrition sportive : 8 réflexes dans votre assiette",
+      "date": "2026-11-20",
+      "audio": "https://sphinx.acast.com/p/acast/s/nutrition-sportive-naturelle/e/6affdd0d3c298292f342d4be/media.mp3",
+      "duree": 952
+    },
+    {
+      "titre": "Pas faim après une séance de sport intense : faut-il manger quand même ?",
+      "date": "2026-11-13",
+      "audio": "https://sphinx.acast.com/p/acast/s/nutrition-sportive-naturelle/e/6af6396e28531eda45983a41/media.mp3",
+      "duree": 1896
+    },
+    {
       "titre": "Additifs alimentaires : le marketing du « sans » masque un nouveau greenwashing",
-      "date": "2026-11-06"
+      "date": "2026-11-06",
+      "audio": "https://sphinx.acast.com/p/acast/s/nutrition-sportive-naturelle/e/6aecaa2f3be80be7f3aa686c/media.mp3",
+      "duree": 1552
     },
     {
       "titre": "Perte de gras : Le jeûne intermittent et le régime cétogène sont-ils plus efficaces pour mincir que la réducti",
-      "date": "2026-10-30"
+      "date": "2026-10-30",
+      "audio": "https://sphinx.acast.com/p/acast/s/nutrition-sportive-naturelle/e/6ae3b65061856eee5979453d/media.mp3",
+      "duree": 1673
     },
     {
       "titre": "Les conseils de nutrition sportive concernent-ils vraiment les amateurs ou nous prenons-nous la tête pour rien",
-      "date": "2026-10-23"
-    },
-    {
-      "titre": "Que manger avant une course de 5 km ou 10 km pour éviter les problèmes gastriques ?",
-      "date": "2026-10-16"
-    },
-    {
-      "titre": "Ajoutez des protéines facilement sans tout peser ni tout changer dans votre cuisine",
-      "date": "2026-10-09"
+      "date": "2026-10-23",
+      "audio": "https://sphinx.acast.com/p/acast/s/nutrition-sportive-naturelle/e/6adaf3aa01892fa69df6c802/media.mp3",
+      "duree": 1453
     }
   ],
-  "derniere_activite": "2026-11-06",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 7
 }

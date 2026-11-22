@@ -25,7 +25,7 @@
     "tech",
     "numérique"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,26 +54,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "iMac vs Mac Mini, lequel choisir ?⎜ORLM-607",
+      "date": "2026-11-20",
+      "audio": "https://sphinx.acast.com/p/open/s/66d854a5202da66c8d90131d/e/6b002863d5a629121b7e83de/media.mp3",
+      "duree": 3817
+    },
+    {
+      "titre": "Mac Studio M5 Max, taillé pour l’IA ?⎜ORLM-606",
+      "date": "2026-11-13",
+      "audio": "https://sphinx.acast.com/p/open/s/66d854a5202da66c8d90131d/e/6af72e46da1c080cb925c4dd/media.mp3",
+      "duree": 4607
+    },
+    {
       "titre": "Tactile, l'avenir du Mac ? MacBook ProÉcran PROLED XDR⎜ORLM-605",
-      "date": "2026-11-06"
+      "date": "2026-11-06",
+      "audio": "https://sphinx.acast.com/p/open/s/66d854a5202da66c8d90131d/e/6aede436f447607cd644bb2b/media.mp3",
+      "duree": 4676
     },
     {
       "titre": "Mac mini M6, une bonne affaire ?⎜ORLM-604",
-      "date": "2026-10-30"
+      "date": "2026-10-30",
+      "audio": "https://sphinx.acast.com/p/open/s/66d854a5202da66c8d90131d/e/6ae48d47092a0dff19052617/media.mp3",
+      "duree": 4981
     },
     {
       "titre": "Apple réinvente le Mac !⎜ORLM-603",
-      "date": "2026-10-29"
-    },
-    {
-      "titre": "iPhone Duo, notre réaction à chaud⎜ORLM-602",
-      "date": "2026-10-23"
-    },
-    {
-      "titre": "HomeView, HomePod mini 2, AppleTV, le debrief !⎜ORLM-601",
-      "date": "2026-10-14"
+      "date": "2026-10-29",
+      "audio": "https://sphinx.acast.com/p/open/s/66d854a5202da66c8d90131d/e/6ae328ab6e82d8489f716504/media.mp3",
+      "duree": 5680
     }
   ],
-  "derniere_activite": "2026-11-06",
-  "frequence_jours": 4
+  "derniere_activite": "2026-11-20",
+  "frequence_jours": 7
 }

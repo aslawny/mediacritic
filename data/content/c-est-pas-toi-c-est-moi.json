@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/cest-pas-toi-cest-moi/id1705375570?uo=2",
       "trackId": 1705375570,
       "rating": 4.4,
-      "ratingCount": 899,
+      "ratingCount": 901,
       "episodeCount": null
     }
   },
@@ -25,27 +25,31 @@
     "psychologie"
   ],
   "addedAt": "2026-10-23",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-23",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Leodemexico",
+        "titre": "Merci pour ce podcast ❤️",
+        "texte": "Merci pour ce podcast, d’utiliser ton influence et ton audience pour mettre en lumière le récit de femmes qui vivent bien souvent de la violence au travers de leurs relations avec les hommes.…"
+      },
+      {
+        "note": 1,
+        "auteur": "RIGUEL24",
+        "titre": "Nombriliste au possible",
+        "texte": "Les invitées ne sont que des accessoires pour que Leslye parlent d’elle même , autant faire un podcast solo ça serait plus honnête"
+      },
+      {
+        "note": 5,
+        "auteur": "tdhjftjhdrjjfdtjlkhcszhj",
+        "titre": "C’est pas toi c’est moi. Je le fais",
+        "texte": "Bonjour Leslye. Je m’appelle Anna, j’ai 41 ans et je suis célibataire depuis 3 ans. J’ai réalisé en écoutant le dernier podcast avec Teferi, que j’imposais moi même une « situation ship » comme tu l’appelles.…"
+      }
     ]
   },
   "episodes_recents": [

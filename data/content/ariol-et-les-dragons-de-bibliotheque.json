@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/ariol-et-les-dragons-de-biblioth%C3%A8que/id1842294842?uo=2",
       "trackId": 1842294842,
       "rating": 4.3,
-      "ratingCount": 283,
+      "ratingCount": 285,
       "episodeCount": null
     }
   },
@@ -27,27 +27,37 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "Ariol et les dragons de bibliothèque : La jument de Muybridge",
-      "date": "2025-11-07"
+      "date": "2025-11-07",
+      "audio": "https://audio.ausha.co/5AO9QiAEvMa3.mp3?t=1762177891",
+      "duree": 620
     },
     {
       "titre": "Ariol et les dragons de bibliothèque : Le Carnaval des animaux",
-      "date": "2025-10-31"
+      "date": "2025-10-31",
+      "audio": "https://audio.ausha.co/OqD9rfEnQVQN.mp3?t=1758728290",
+      "duree": 632
     },
     {
       "titre": "Ariol et les dragons de bibliothèque : Le centaure du globe céleste",
-      "date": "2025-10-24"
+      "date": "2025-10-24",
+      "audio": "https://audio.ausha.co/LjV2Nhgxw8gG.mp3?t=1759775556",
+      "duree": 615
     },
     {
       "titre": "Ariol et les dragons de bibliothèque : Les renards d’Oji",
-      "date": "2025-10-17"
+      "date": "2025-10-17",
+      "audio": "https://audio.ausha.co/xAxKvidR3EL1.mp3?t=1759775500",
+      "duree": 568
     },
     {
       "titre": "Ariol et les dragons de bibliothèque : Les dragons de Marco Polo",
-      "date": "2025-10-10"
+      "date": "2025-10-10",
+      "audio": "https://audio.ausha.co/jnWKmhWPr0P6.mp3?t=1759775322",
+      "duree": 572
     }
   ],
   "derniere_activite": "2025-11-07",

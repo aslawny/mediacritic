@@ -16,9 +16,9 @@
     "youtube": {
       "url": "https://www.youtube.com/@lecrayonmedia",
       "channelId": "UCbXWhsd805LfcbAy7xL9d-A",
-      "subscribers": 537000,
-      "totalViews": 209389762,
-      "videoCount": 4290
+      "subscribers": 538000,
+      "totalViews": 210043114,
+      "videoCount": 4304
     }
   },
   "tags": [
@@ -32,8 +32,13 @@
     "ep": 48,
     "url": "https://www.mediacritic.fr/episodes/le-crayon.html"
   },
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
+    {
+      "titre": "Les prêtres influenceurs doivent-ils donner leur avis politique ?",
+      "date": "2026-11-21",
+      "video": "4oCQ5ts3c2E"
+    },
     {
       "titre": "Les influenceurs mentent-ils plus que les journalistes ?",
       "date": "2026-11-21",
@@ -53,16 +58,16 @@
       "titre": "L'État français peut-il négocier avec les talibans ?",
       "date": "2026-11-20",
       "video": "zO-MVu04pd8"
-    },
-    {
-      "titre": "Et si on prouvait que Dieu n'existe pas ? La réponse du Cardinal Bustillo.",
-      "date": "2026-11-20",
-      "video": "iE1YOIKnizQ"
     }
   ],
   "derniere_activite": "2026-11-21",
   "frequence_jours": 0,
   "videos": [
+    {
+      "titre": "Les prêtres influenceurs doivent-ils donner leur avis politique ?",
+      "date": "2026-11-21",
+      "video": "4oCQ5ts3c2E"
+    },
     {
       "titre": "Les influenceurs mentent-ils plus que les journalistes ?",
       "date": "2026-11-21",
@@ -132,11 +137,6 @@
       "titre": "Sommes-nous encore en démocratie ?",
       "date": "2026-11-18",
       "video": "bEK2BVrTXys"
-    },
-    {
-      "titre": "« Je ne croyais pas le revoir. »",
-      "date": "2026-11-18",
-      "video": "Nx9V31UFu-M"
     }
   ]
 }

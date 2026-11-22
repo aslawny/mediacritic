@@ -26,7 +26,7 @@
     "culture"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "LES LYCÉENS MÉRITENT-ILS DE SE FAIRE TASTY-CROUSTISER LA FIFFE ?",
@@ -52,25 +52,29 @@
   "derniere_activite": "2026-10-20",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-23",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Nicolas Millefeuille",
+        "titre": "Extrêmement rafraîchissant !",
+        "texte": "Ce podcast est une très belle découverte. Les deux hôtes, très complémentaires, forment une fine équipe que l’on a plaisir à entendre discuter de littérature, d’édition, de thèmes d’actualité et de tas d’autres choses encore. Je recommande mille fois !"
+      },
+      {
+        "note": 1,
+        "auteur": "Ultima necat",
+        "titre": "Bruits de fond",
+        "texte": "Propos intéressants mais … pouvez-vous parler moins vite et cesser de hurler, ricaner et glousser constamment. Coupez le son .Mettez les sous-titres. Ces gars sont inaudibles. Des cours d’élocution devraient leur être offerts. Surtout le personnage au débit de mitraillette.…"
+      },
+      {
+        "note": 5,
+        "auteur": "DroneMasterPlus",
+        "titre": "Excellent",
+        "texte": "Un bonheur de vous écouter chaque semaine. Si je puis me permettre une critique constructive, pourriez vous augmenter le niveau sonore de votre podcast car je ne le trouve vraiment pas assez fort comparé aux autres contenus. Merci encore"
+      }
     ]
   }
 }

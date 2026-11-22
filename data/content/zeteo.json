@@ -26,7 +26,7 @@
     "vulgarisation"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -55,26 +55,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "Blanche de Richemont : Le désert pour épouser le silence",
+      "date": "2026-11-21",
+      "audio": "https://dts.podtrac.com/redirect.mp3/track.podcastics.com/222/439991.mp3?t=1795302535",
+      "duree": 4684
+    },
+    {
+      "titre": "Jacqueline Kelen : Amour, invincible amour",
+      "date": "2026-11-14",
+      "audio": "https://dts.podtrac.com/redirect.mp3/track.podcastics.com/222/439196.mp3?t=1794560907",
+      "duree": 5742
+    },
+    {
       "titre": "Denis Marquet : Nous sommes tous Un dans le Christ",
-      "date": "2026-11-07"
+      "date": "2026-11-07",
+      "audio": "https://dts.podtrac.com/redirect.mp3/track.podcastics.com/222/437197.mp3?t=1793947369",
+      "duree": 5062
     },
     {
       "titre": "Marie de Hennezel : Il y a un au-delà en lequel j'ai confiance",
-      "date": "2026-10-31"
+      "date": "2026-10-31",
+      "audio": "https://dts.podtrac.com/redirect.mp3/track.podcastics.com/222/437051.mp3",
+      "duree": 3849
     },
     {
       "titre": "Alexandre Di Gregorio : En communion avec le monde, le coeur et le divin",
-      "date": "2026-10-24"
-    },
-    {
-      "titre": "Didier Mouturat : Apprendre à vivre, à l'école de Gurdjieff",
-      "date": "2026-10-17"
-    },
-    {
-      "titre": "Morgane Le Moelle : Sur la ligne sacrée de l'Archange",
-      "date": "2026-10-10"
+      "date": "2026-10-24",
+      "audio": "https://dts.podtrac.com/redirect.mp3/track.podcastics.com/222/436566.mp3",
+      "duree": 5214
     }
   ],
-  "derniere_activite": "2026-11-07",
+  "derniere_activite": "2026-11-21",
   "frequence_jours": 7
 }

@@ -26,7 +26,7 @@
     "education"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -55,26 +55,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "Le don d'ovocytes",
+      "date": "2026-11-18",
+      "audio": "https://sphinx.acast.com/p/acast/s/parentalite-s/e/6afc05b38b6a3d4d2ed4d845/media.mp3",
+      "duree": 4676
+    },
+    {
+      "titre": "Réajuster la relation à ses parents à l'âge adulte",
+      "date": "2026-11-11",
+      "audio": "https://sphinx.acast.com/p/acast/s/parentalite-s/e/6af34e9343e2f445c268bfdc/media.mp3",
+      "duree": 4755
+    },
+    {
       "titre": "Le harcèlement scolaire",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://sphinx.acast.com/p/acast/s/parentalite-s/e/6ae889fec89efe586627d511/media.mp3",
+      "duree": 3836
     },
     {
       "titre": "La grand-maternité",
-      "date": "2026-10-28"
+      "date": "2026-10-28",
+      "audio": "https://sphinx.acast.com/p/acast/s/parentalite-s/e/6ae0a844a43e9c56af51ad8a/media.mp3",
+      "duree": 3512
     },
     {
       "titre": "Ressources autour du deuil périnatal",
-      "date": "2026-10-21"
-    },
-    {
-      "titre": "Le couple face au deuil périnatal",
-      "date": "2026-10-14"
-    },
-    {
-      "titre": "La grossesse suivant un deuil périnatal",
-      "date": "2026-10-07"
+      "date": "2026-10-21",
+      "audio": "https://sphinx.acast.com/p/acast/s/parentalite-s/e/6ad2340bf38f25c0f078c428/media.mp3",
+      "duree": 4346
     }
   ],
-  "derniere_activite": "2026-11-04",
+  "derniere_activite": "2026-11-18",
   "frequence_jours": 7
 }

@@ -24,7 +24,7 @@
     "culture"
   ],
   "addedAt": "2026-05-28",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "Musique relaxation",
@@ -33,25 +33,29 @@
   ],
   "derniere_activite": "2021-03-13",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-23",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Fan de Animal Crossing",
+        "titre": "J’adore ♥️",
+        "texte": "Pour ceux qui la trouvent courte je vous conseille de mettre et remettre en boucle sinon incroyable je n’ai jamais entendu de musique aussi douce. 🤎🤍"
+      },
+      {
+        "note": 1,
+        "auteur": "luffy panda",
+        "titre": "Tb",
+        "texte": "C’est génial un peu trop de bruit de ruisseau il faudrait mettre moins de bruit de ruisseau et plus de chant d’oiseau"
+      },
+      {
+        "note": 5,
+        "auteur": "Coucou23@",
+        "titre": "Relaxant",
+        "texte": "Incroyable musique relaxante ca m’a relâché le corps et j’ai dormir en même pas 5 minutes vraiment je me suis vidé de mes émotions"
+      }
     ]
   }
 }

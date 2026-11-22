@@ -26,7 +26,7 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -56,23 +56,33 @@
   "episodes_recents": [
     {
       "titre": "Philippe Conticini | Pâtissier : \"Il y a Philippe avec ses problèmes avec l'alimentation et il y a Philippe qu",
-      "date": "2020-11-17"
+      "date": "2020-11-17",
+      "audio": "https://audio.ausha.co/yErEKtYNa17r.mp3?t=1651669335",
+      "duree": 3352
     },
     {
       "titre": "Sébastien Caron | Mapstr : une vie d’esthète à la recherche du beau et du bon",
-      "date": "2020-11-03"
+      "date": "2020-11-03",
+      "audio": "https://audio.ausha.co/BDPKzSM8mKMk.mp3?t=1651585056",
+      "duree": 5229
     },
     {
       "titre": "Sarah Poniatowski | Maison Sarah Lavoine : dans les assiettes d’une icône de la décoration",
-      "date": "2020-10-26"
+      "date": "2020-10-26",
+      "audio": "https://audio.ausha.co/Bqr6wtw4kN4l.mp3?t=1651584664",
+      "duree": 1793
     },
     {
       "titre": "Charlotte Collard | Guide Michelin, Instagram : un mannequin devenue entrepreneuse digitale dans la gastronomi",
-      "date": "2020-09-29"
+      "date": "2020-09-29",
+      "audio": "https://audio.ausha.co/omX6KuDqRjQj.mp3?t=1651583444",
+      "duree": 4353
     },
     {
       "titre": "Eric Kayser | Boulanger : la star du pain en toute intimité",
-      "date": "2020-09-22"
+      "date": "2020-09-22",
+      "audio": "https://audio.ausha.co/oRWNRiJ21n5g.mp3?t=1651583190",
+      "duree": 2366
     }
   ],
   "derniere_activite": "2020-11-17",

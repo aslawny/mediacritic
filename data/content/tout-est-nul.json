@@ -24,7 +24,7 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -53,26 +53,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "Live l'Odyssée",
+      "date": "2026-11-18",
+      "audio": "https://sphinx.acast.com/p/open/s/6a918038ee851f3f31330336/e/6afcce6d09470f942012909b/media.mp3",
+      "duree": 4381
+    },
+    {
       "titre": "Faut-il voir Digger ? Jacquouillet ou Suceur de c..?",
-      "date": "2026-11-06"
+      "date": "2026-11-06",
+      "audio": "https://sphinx.acast.com/p/open/s/6a918038ee851f3f31330336/e/6aed833d3be80be7f3ffd2bf/media.mp3",
+      "duree": 4698
     },
     {
       "titre": "Faut-il voir Resident Evil ? toujours sympa les zombies !",
-      "date": "2026-10-21"
+      "date": "2026-10-21",
+      "audio": "https://sphinx.acast.com/p/open/s/6a918038ee851f3f31330336/e/6ad8aa12a25058b22a52ab08/media.mp3",
+      "duree": 2673
     },
     {
       "titre": "Live La bataille De Gaulle",
-      "date": "2026-10-12"
+      "date": "2026-10-12",
+      "audio": "https://sphinx.acast.com/p/open/s/6a918038ee851f3f31330336/e/6acb7ea429b9fbfbe220b359/media.mp3",
+      "duree": 3639
     },
     {
       "titre": "Pour Etre Libre 20 \"Si On Chantait\", un épisode charnière",
-      "date": "2026-09-19"
-    },
-    {
-      "titre": "Pour être Libre 19 \"La conscience tranquille\"",
-      "date": "2026-09-10"
+      "date": "2026-09-19",
+      "audio": "https://sphinx.acast.com/p/open/s/6a918038ee851f3f31330336/e/6aad90837aa361c612a650a5/media.mp3",
+      "duree": 3600
     }
   ],
-  "derniere_activite": "2026-11-06",
-  "frequence_jours": 8
+  "derniere_activite": "2026-11-18",
+  "frequence_jours": 9
 }

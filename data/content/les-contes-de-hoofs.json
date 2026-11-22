@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/les-contes-de-hoofs/id1572785611?uo=2",
       "trackId": 1572785611,
       "rating": 4.2,
-      "ratingCount": 436,
+      "ratingCount": 438,
       "episodeCount": null
     }
   },
@@ -27,7 +27,7 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -57,23 +57,33 @@
   "episodes_recents": [
     {
       "titre": "Il était une Hoof La princesse au petit pois",
-      "date": "2021-06-25"
+      "date": "2021-06-25",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/619fcb28-ae39-4571-b92c-59391b816843.mp3?_=1623058407",
+      "duree": 438
     },
     {
       "titre": "Il était une Hoof Un vilain petit coin coin",
-      "date": "2021-06-25"
+      "date": "2021-06-25",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/63e47011-c56c-4a62-9b66-37e830afed5b.mp3?_=1623058049",
+      "duree": 424
     },
     {
       "titre": "Il était une Hoof Pierre et le loup",
-      "date": "2021-06-25"
+      "date": "2021-06-25",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/4c5ef1e6-239d-4395-8fab-866ae38bb3e0.mp3?_=1623057541",
+      "duree": 476
     },
     {
       "titre": "Il était une Hoof Maître chat",
-      "date": "2021-06-24"
+      "date": "2021-06-24",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/7410a50e-36a7-49d5-905c-0e4151bc825c.mp3?_=1637662285",
+      "duree": 473
     },
     {
       "titre": "Il était une Hoof Hansel et Gretel",
-      "date": "2021-06-24"
+      "date": "2021-06-24",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/b1267ed1-7015-42d0-8b26-0c882f6fc99f.mp3?_=1637662165",
+      "duree": 479
     }
   ],
   "derniere_activite": "2021-06-25",

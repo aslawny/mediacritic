@@ -25,7 +25,7 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,26 +54,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "Alix la Reine de la Soupe",
+      "date": "2026-11-15",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/7f619568-78f1-4100-9314-f0bdff2e2569.mp3?_=1794723740&ps=d502f0bc-28d3-4bcf-9a93-7178f536e89c",
+      "duree": 619
+    },
+    {
       "titre": "Monsieur Zou lʹécureuil roux",
-      "date": "2026-11-08"
+      "date": "2026-11-08",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/c2bd8cd1-e334-4f08-b548-4d9bdfdfc19a.mp3?_=1794118036&ps=d502f0bc-28d3-4bcf-9a93-7178f536e89c",
+      "duree": 574
     },
     {
       "titre": "Souricette a des ennuis",
-      "date": "2026-11-01"
+      "date": "2026-11-01",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/b9c1f038-03ef-40f3-acca-275a28308efa.mp3?_=1793513256&ps=d502f0bc-28d3-4bcf-9a93-7178f536e89c",
+      "duree": 487
     },
     {
       "titre": "Le train de la gourmandise",
-      "date": "2026-10-25"
+      "date": "2026-10-25",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/dd027281-ca08-471f-bc1e-ce5c3a26097c.mp3?_=1792909333&ps=d502f0bc-28d3-4bcf-9a93-7178f536e89c",
+      "duree": 479
     },
     {
       "titre": "Le royaume des bêtises",
-      "date": "2026-10-18"
-    },
-    {
-      "titre": "Gabin ne sait pas dire non",
-      "date": "2026-10-11"
+      "date": "2026-10-18",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/1ec85ce7-19d4-4b3a-9856-76bf751c992e.mp3?_=1792300941&ps=d502f0bc-28d3-4bcf-9a93-7178f536e89c",
+      "duree": 478
     }
   ],
-  "derniere_activite": "2026-11-08",
+  "derniere_activite": "2026-11-15",
   "frequence_jours": 7
 }

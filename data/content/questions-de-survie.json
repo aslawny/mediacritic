@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/questions-de-survie/id1783570253?uo=2",
       "trackId": 1783570253,
       "rating": 4.9,
-      "ratingCount": 200,
+      "ratingCount": 201,
       "episodeCount": null
     }
   },
@@ -26,7 +26,7 @@
     "education"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -55,26 +55,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "Comment dire à quelqu'un qu'il me blesse ?",
+      "date": "2026-11-13",
+      "audio": "https://tr.ausha.co/WdldQike18K8/api.soundcast.io/v1/stitch/ausha.mp3?tags=7219E09D&keywords=episodeId:WdldQike18K8,showId:mXw31S92n7vl&kw_applecategory=Self-Improvement&kw_showname=Questions+de+Survie&kw_episodeid=WdldQike18K8&kw_podcastid=mXw31S92n7vl&kw_showrss=https%3A%2F%2Ffeed.ausha.co%2FmXw31S92n7vl&kw_language=fr&kw_position=preroll&apiKey=c1a94b3301c64853868548ac73233ca1&podcastUrl=https%3A%2F%2Faudio.ausha.co%2FWdldQike18K8.mp3%3Ft%3D1791475111",
+      "duree": 819
+    },
+    {
       "titre": "Quand l’animal de compagnie entre dans nos vies",
-      "date": "2026-10-30"
+      "date": "2026-10-30",
+      "audio": "https://tr.ausha.co/yE0X02CjQV8k/api.soundcast.io/v1/stitch/ausha.mp3?tags=7219E09D&keywords=episodeId:yE0X02CjQV8k,showId:mXw31S92n7vl&kw_applecategory=Self-Improvement&kw_showname=Questions+de+Survie&kw_episodeid=yE0X02CjQV8k&kw_podcastid=mXw31S92n7vl&kw_showrss=https%3A%2F%2Ffeed.ausha.co%2FmXw31S92n7vl&kw_language=fr&kw_position=preroll&apiKey=c1a94b3301c64853868548ac73233ca1&podcastUrl=https%3A%2F%2Faudio.ausha.co%2FyE0X02CjQV8k.mp3%3Ft%3D1791474276",
+      "duree": 1042
     },
     {
       "titre": "Comment annoncer ma maladie grave à mes proches ?",
-      "date": "2026-10-16"
+      "date": "2026-10-16",
+      "audio": "https://tr.ausha.co/JZkZnc8X5AW4/api.soundcast.io/v1/stitch/ausha.mp3?tags=7219E09D&keywords=episodeId:JZkZnc8X5AW4,showId:mXw31S92n7vl&kw_applecategory=Self-Improvement&kw_showname=Questions+de+Survie&kw_episodeid=JZkZnc8X5AW4&kw_podcastid=mXw31S92n7vl&kw_showrss=https%3A%2F%2Ffeed.ausha.co%2FmXw31S92n7vl&kw_language=fr&kw_position=preroll&apiKey=c1a94b3301c64853868548ac73233ca1&podcastUrl=https%3A%2F%2Faudio.ausha.co%2FJZkZnc8X5AW4.mp3%3Ft%3D1789995376",
+      "duree": 592
     },
     {
       "titre": "Mes rêves sont-ils trop grands ?",
-      "date": "2026-10-02"
+      "date": "2026-10-02",
+      "audio": "https://tr.ausha.co/JZkZnck5ga7Y/api.soundcast.io/v1/stitch/ausha.mp3?tags=7219E09D&keywords=episodeId:JZkZnck5ga7Y,showId:mXw31S92n7vl&kw_applecategory=Self-Improvement&kw_showname=Questions+de+Survie&kw_episodeid=JZkZnck5ga7Y&kw_podcastid=mXw31S92n7vl&kw_showrss=https%3A%2F%2Ffeed.ausha.co%2FmXw31S92n7vl&kw_language=fr&kw_position=preroll&apiKey=c1a94b3301c64853868548ac73233ca1&podcastUrl=https%3A%2F%2Faudio.ausha.co%2FJZkZnck5ga7Y.mp3%3Ft%3D1788788462",
+      "duree": 759
     },
     {
       "titre": "Se remettre en cause",
-      "date": "2026-09-18"
-    },
-    {
-      "titre": "Mon ado ne veut pas aller à la messe",
-      "date": "2026-09-04"
+      "date": "2026-09-18",
+      "audio": "https://tr.ausha.co/JZkZnckG3eQN/api.soundcast.io/v1/stitch/ausha.mp3?tags=7219E09D&keywords=episodeId:JZkZnckG3eQN,showId:mXw31S92n7vl&kw_applecategory=Self-Improvement&kw_showname=Questions+de+Survie&kw_episodeid=JZkZnckG3eQN&kw_podcastid=mXw31S92n7vl&kw_showrss=https%3A%2F%2Ffeed.ausha.co%2FmXw31S92n7vl&kw_language=fr&kw_position=preroll&apiKey=c1a94b3301c64853868548ac73233ca1&podcastUrl=https%3A%2F%2Faudio.ausha.co%2FJZkZnckG3eQN.mp3%3Ft%3D1788787093",
+      "duree": 720
     }
   ],
-  "derniere_activite": "2026-10-30",
+  "derniere_activite": "2026-11-13",
   "frequence_jours": 7
 }

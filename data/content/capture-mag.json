@@ -25,31 +25,41 @@
     "series"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "MONSTER SQUAD : EVIL DEAD BURN",
+      "date": "2026-11-20",
+      "audio": "https://sphinx.acast.com/p/acast/s/podcast-capture-mag/e/6af21855876cc2ea403c2d52/media.mp3",
+      "duree": 6326
+    },
+    {
       "titre": "MONSTER SQUAD : GODZILLA MINUS ZERO",
-      "date": "2026-11-06"
+      "date": "2026-11-06",
+      "audio": "https://sphinx.acast.com/p/acast/s/podcast-capture-mag/e/6aede718f447607cd6466b85/media.mp3",
+      "duree": 2580
     },
     {
       "titre": "STEROIDS - LE PODCAST : STREET FIGHTER (2026)",
-      "date": "2026-10-16"
+      "date": "2026-10-16",
+      "audio": "https://sphinx.acast.com/p/acast/s/podcast-capture-mag/e/6ad171563243d006bb2ee4d8/media.mp3",
+      "duree": 2007
     },
     {
       "titre": "JOUER N'EST PAS TUER - WOLVERINE",
-      "date": "2026-10-06"
+      "date": "2026-10-06",
+      "audio": "https://sphinx.acast.com/p/acast/s/podcast-capture-mag/e/6ac42d33924bc02b556f43c0/media.mp3",
+      "duree": 3655
     },
     {
       "titre": "STEROIDS - LE PODCAST : LA CITÉ INTERDITE",
-      "date": "2026-09-25"
-    },
-    {
-      "titre": "MONSTER SQUAD : RESIDENT EVIL",
-      "date": "2026-09-18"
+      "date": "2026-09-25",
+      "audio": "https://sphinx.acast.com/p/acast/s/podcast-capture-mag/e/6ab2d148f16120730313df6f/media.mp3",
+      "duree": 2664
     }
   ],
-  "derniere_activite": "2026-11-06",
-  "frequence_jours": 10,
+  "derniere_activite": "2026-11-20",
+  "frequence_jours": 11,
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",

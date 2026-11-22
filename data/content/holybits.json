@@ -24,7 +24,7 @@
     "rénovation",
     "DIY"
   ],
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "Holybits – S01E12: Emission spéciale Nintendo Switch 2",
@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2025-04-02",
-  "frequence_jours": 13
+  "frequence_jours": 13,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Rachoo30",
+        "titre": "Un bon moment à chaque fois 😊",
+        "texte": "Chaque épisode est un pur plaisir ! Les animateurs sont passionnés et ça se sent, avec des analyses pertinentes et des discussions dynamiques. La bonne humeur est communicative, et même sur des sujets que je ne connais pas trop, j’ai envie d’en savoir plus.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Nanomax58",
+        "titre": "Enfin !",
+        "texte": "Enfin un podcast de tech qui aborde tous les sujets de manière sérieuse, critique et décontracté. Le format de 1h (voir plus) peu décourager au début, mais on ne voit à ps le temps passer. À écouter sans modération."
+      },
+      {
+        "note": 5,
+        "auteur": "klax0ns",
+        "titre": "Un podcast rafraîchissant !",
+        "texte": "Ce podcast est une pépite ! Il réussit à rendre des sujets parfois complexes de la tech, ultra accessibles et le tout avec une bonne dose d’humour. 🔥🎙️💡"
+      }
+    ]
+  }
 }

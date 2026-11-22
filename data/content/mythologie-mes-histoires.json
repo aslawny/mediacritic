@@ -27,7 +27,7 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -56,26 +56,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "La Colère d'Achille",
+      "date": "2026-11-21",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/392c5941-ca77-467f-8a03-aa61f4f93978.mp3?_=1794909709",
+      "duree": 815
+    },
+    {
+      "titre": "La Guerre de Troie",
+      "date": "2026-11-18",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/cd985677-e7ef-49a8-b73c-e080e552e8fb.mp3?_=1794909730",
+      "duree": 802
+    },
+    {
+      "titre": "L'Enlèvement d'Hélène",
+      "date": "2026-11-14",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/c976a40a-1091-491a-83e7-2c49e3731c15.mp3?_=1794909724",
+      "duree": 693
+    },
+    {
+      "titre": "Le Jugement de Paris",
+      "date": "2026-11-11",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/5e5e9fc4-284b-481c-9881-024c0f04c942.mp3?_=1794909711",
+      "duree": 704
+    },
+    {
       "titre": "Les Noces de Thétis et Pelée",
-      "date": "2026-11-07"
-    },
-    {
-      "titre": "📣 LÉGENDES URBAINES • La borne d'arcade Polybius appartient-elle au gouvernement ? 👇",
-      "date": "2026-11-07"
-    },
-    {
-      "titre": "Les Amours de Zeus",
-      "date": "2026-11-04"
-    },
-    {
-      "titre": "Les Enfants de Zeus",
-      "date": "2026-10-31"
-    },
-    {
-      "titre": "Zeus et Héra, roi et reine des Dieux",
-      "date": "2026-10-28"
+      "date": "2026-11-07",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/3a6cf092-6f2f-4234-8183-807fded87b3a.mp3?_=1794909710",
+      "duree": 632
     }
   ],
-  "derniere_activite": "2026-11-07",
+  "derniere_activite": "2026-11-21",
   "frequence_jours": 2
 }

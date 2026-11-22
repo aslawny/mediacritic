@@ -27,30 +27,40 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Brigitte Macron, l'ombre de la rumeur (4/4) - Ceux qui en profitent",
+      "date": "2026-11-11",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2845959.mp3?origin=rss",
+      "duree": 1226
+    },
+    {
       "titre": "Brigitte Macron, l'ombre de la rumeur (3/4) - La diffusion de la rumeur",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2845951.mp3?origin=rss",
+      "duree": 1226
     },
     {
       "titre": "Brigitte Macron, l'ombre de la rumeur (2/4) - Jean-Michel Trogneux : aux origines de la rumeur",
-      "date": "2026-10-28"
+      "date": "2026-10-28",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2845946.mp3?origin=rss",
+      "duree": 1320
     },
     {
       "titre": "Brigitte Macron, l'ombre de la rumeur (1/4) - Le couple Emmanuel et Brigitte",
-      "date": "2026-10-21"
+      "date": "2026-10-21",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2606572.mp3?origin=rss",
+      "duree": 1138
     },
     {
       "titre": "Brigitte Macron, l'ombre de la rumeur - Teaser",
-      "date": "2026-10-16"
-    },
-    {
-      "titre": "Espace : les fake news contre-attaquent (4/4) - Les aliens sont parmi nous (rediffusion)",
-      "date": "2026-06-10"
+      "date": "2026-10-16",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2606561.mp3?origin=rss",
+      "duree": 42
     }
   ],
-  "derniere_activite": "2026-11-04",
+  "derniere_activite": "2026-11-11",
   "frequence_jours": 7,
   "avis_publics": {
     "source": "apple",

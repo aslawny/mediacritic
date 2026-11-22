@@ -14,7 +14,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/briller-en-soci%C3%A9t%C3%A9/id1621257027?uo=2",
       "trackId": 1621257027,
       "rating": 4.4,
-      "ratingCount": 75,
+      "ratingCount": 76,
       "episodeCount": null
     }
   },
@@ -24,7 +24,7 @@
     "comedie"
   ],
   "addedAt": "2026-06-30",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "Pourquoi avons-nous besoin de milliards de bactéries pour être en bonne santé ?",
@@ -50,25 +50,29 @@
   "derniere_activite": "2026-11-08",
   "frequence_jours": 5,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-23",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "StessyL",
+        "titre": "J’adore !!!!",
+        "texte": "J’adore ce podcast il est vraiment super ! J’écoute deux épisodes chaque matin avant d’aller au travail. C’est ma dose de culture G et de bonne humeur avant de démarrer une grosse journée de travail. Brak et Louis forment un super duo et ils sont vraiment drôles .…"
+      },
+      {
+        "note": 5,
+        "auteur": "SaphiraBlue07",
+        "titre": "Super enrichissant",
+        "texte": "Je suis ravie de découvrir ce genre de podcast, sur le ton de l’humour avec des explications détaillées et claires. Un vrai bonheur à écouter."
+      },
+      {
+        "note": 5,
+        "auteur": "valouhdq",
+        "titre": "Trop bien",
+        "texte": "J’adore le podcast Tout sur tout. On apprend beaucoup de choses et c’est un plaisir d’écouter Louis et Brak !!! J’adore la nouvelle saison :)"
+      }
     ]
   }
 }

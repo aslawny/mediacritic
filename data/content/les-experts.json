@@ -26,7 +26,7 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -55,26 +55,36 @@
   },
   "episodes_recents": [
     {
-      "titre": "L'intégrale des Experts du vendredi 6 novembre",
-      "date": "2026-11-06"
+      "titre": "L'intégrale des Experts du vendredi 20 novembre",
+      "date": "2026-11-20",
+      "audio": "https://altice.simplecastaudio.com/e4ebb623-4e88-4b64-895a-beb4650957b8/episodes/2f70d549-a44a-4b06-b938-ebb8f19541ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=e4ebb623-4e88-4b64-895a-beb4650957b8&awEpisodeId=2f70d549-a44a-4b06-b938-ebb8f19541ca&category=Business%2CNews&episode_published_at=2026-11-20T09%3A48%3A53&episode_title=L%27int%C3%A9grale+des+Experts+du+vendredi+20+novembre&feed=NBt25pxR&network=291091218710&podcast_title=Les+experts",
+      "duree": 3294
     },
     {
-      "titre": "Les Experts : Les marchés européens saluent la victoire démocrate - 06/11",
-      "date": "2026-11-06"
+      "titre": "Les Experts : Taxe Zucman, patrons et économistes montent au créneau - 20/11",
+      "date": "2026-11-20",
+      "audio": "https://altice.simplecastaudio.com/e4ebb623-4e88-4b64-895a-beb4650957b8/episodes/9db6f801-07e3-4669-8983-58fa4aba178f/audio/128/default.mp3?aid=rss_feed&awCollectionId=e4ebb623-4e88-4b64-895a-beb4650957b8&awEpisodeId=9db6f801-07e3-4669-8983-58fa4aba178f&category=Business%2CNews&episode_published_at=2026-11-20T09%3A46%3A53&episode_title=Les+Experts+%3A+Taxe+Zucman%2C+patrons+et+%C3%A9conomistes+montent+au+cr%C3%A9neau+-+20%2F11&feed=NBt25pxR&network=291091218710&podcast_title=Les+experts",
+      "duree": 1603
     },
     {
-      "titre": "Les Experts : Faut-il augmenter le SMIC ? - 06/11",
-      "date": "2026-11-06"
+      "titre": "Les Experts : Réindustrialisation, une priorité pour les Français - 20/11",
+      "date": "2026-11-20",
+      "audio": "https://altice.simplecastaudio.com/e4ebb623-4e88-4b64-895a-beb4650957b8/episodes/46d2ee6d-5200-4d43-a4e9-360fc0870a98/audio/128/default.mp3?aid=rss_feed&awCollectionId=e4ebb623-4e88-4b64-895a-beb4650957b8&awEpisodeId=46d2ee6d-5200-4d43-a4e9-360fc0870a98&category=Business%2CNews&episode_published_at=2026-11-20T09%3A04%3A01&episode_title=Les+Experts+%3A+R%C3%A9industrialisation%2C+une+priorit%C3%A9+pour+les+Fran%C3%A7ais+-+20%2F11&feed=NBt25pxR&network=291091218710&podcast_title=Les+experts",
+      "duree": 1595
     },
     {
-      "titre": "L'intégrale des Experts du jeudi 5 novembre",
-      "date": "2026-11-05"
+      "titre": "L'intégrale des Experts du jeudi 19 novembre",
+      "date": "2026-11-19",
+      "audio": "https://altice.simplecastaudio.com/e4ebb623-4e88-4b64-895a-beb4650957b8/episodes/f26ed5ae-0d04-4f8a-8f1f-9aab332f89fd/audio/128/default.mp3?aid=rss_feed&awCollectionId=e4ebb623-4e88-4b64-895a-beb4650957b8&awEpisodeId=f26ed5ae-0d04-4f8a-8f1f-9aab332f89fd&category=Business%2CNews&episode_published_at=2026-11-19T09%3A33%3A12&episode_title=L%27int%C3%A9grale+des+Experts+du+jeudi+19+novembre&feed=NBt25pxR&network=291091218710&podcast_title=Les+experts",
+      "duree": 3249
     },
     {
-      "titre": "Les Experts : Le moral économique des Français au plus bas - 05/11",
-      "date": "2026-11-05"
+      "titre": "Les Experts : Finances publiques, les propositions d'Édouard Philippe - 19/11",
+      "date": "2026-11-19",
+      "audio": "https://altice.simplecastaudio.com/e4ebb623-4e88-4b64-895a-beb4650957b8/episodes/ab9df9c5-ef3e-4080-b9a1-b2e35d92250b/audio/128/default.mp3?aid=rss_feed&awCollectionId=e4ebb623-4e88-4b64-895a-beb4650957b8&awEpisodeId=ab9df9c5-ef3e-4080-b9a1-b2e35d92250b&category=Business%2CNews&episode_published_at=2026-11-19T09%3A30%3A02&episode_title=Les+Experts+%3A+Finances+publiques%2C+les+propositions+d%27%C3%89douard+Philippe+-+19%2F11&feed=NBt25pxR&network=291091218710&podcast_title=Les+experts",
+      "duree": 1546
     }
   ],
-  "derniere_activite": "2026-11-06",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 0
 }

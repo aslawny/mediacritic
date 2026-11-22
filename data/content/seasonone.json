@@ -24,7 +24,7 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -53,26 +53,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "Season One 586: Vision Quest",
+      "date": "2026-11-16",
+      "audio": "https://feeds.soundcloud.com/stream/2439500181-podcastersassemble-season-one-586-vision-quest.mp3",
+      "duree": 3533
+    },
+    {
+      "titre": "Season One 585: Le Charles",
+      "date": "2026-11-10",
+      "audio": "https://feeds.soundcloud.com/stream/2435667489-podcastersassemble-season-585-le-charles.mp3",
+      "duree": 3994
+    },
+    {
       "titre": "Season One 584: Carrie",
-      "date": "2026-10-20"
+      "date": "2026-10-20",
+      "audio": "https://feeds.soundcloud.com/stream/2422505592-podcastersassemble-season-one-584-carrie.mp3",
+      "duree": 4223
     },
     {
       "titre": "Season One 583: A l'est d'Eden",
-      "date": "2026-10-14"
+      "date": "2026-10-14",
+      "audio": "https://feeds.soundcloud.com/stream/2418673608-podcastersassemble-season-one-583-a-lest-deden.mp3",
+      "duree": 4278
     },
     {
       "titre": "Season One 582: Neagley",
-      "date": "2026-10-07"
-    },
-    {
-      "titre": "Season One 581: Monster Lizzie Borden",
-      "date": "2026-09-28"
-    },
-    {
-      "titre": "Season One 580: Sterling Point",
-      "date": "2026-09-20"
+      "date": "2026-10-07",
+      "audio": "https://feeds.soundcloud.com/stream/2414734731-podcastersassemble-season-one-582-neagley.mp3",
+      "duree": 4046
     }
   ],
-  "derniere_activite": "2026-10-20",
+  "derniere_activite": "2026-11-16",
   "frequence_jours": 6
 }

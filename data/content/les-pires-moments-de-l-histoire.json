@@ -24,7 +24,7 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,23 +54,33 @@
   "episodes_recents": [
     {
       "titre": "S8E47 - Napoléon",
-      "date": "2025-12-19"
+      "date": "2025-12-19",
+      "audio": "https://sphinx.acast.com/p/open/s/63a0a446157e1800116bef05/e/694478baffa288bdbbbc3034/media.mp3",
+      "duree": 2712
     },
     {
       "titre": "S8E49 - Le voyage de Magellan",
-      "date": "2025-12-19"
+      "date": "2025-12-19",
+      "audio": "https://sphinx.acast.com/p/open/s/63a0a446157e1800116bef05/e/69447a619a763d41f1cc4574/media.mp3",
+      "duree": 2690
     },
     {
       "titre": "S8E48 - Tchernobyl",
-      "date": "2025-12-19"
+      "date": "2025-12-19",
+      "audio": "https://sphinx.acast.com/p/open/s/63a0a446157e1800116bef05/e/69447a349a00ace34ff47d7f/media.mp3",
+      "duree": 2859
     },
     {
       "titre": "S8E46 - L'assassinat de Jules César",
-      "date": "2025-12-19"
+      "date": "2025-12-19",
+      "audio": "https://sphinx.acast.com/p/open/s/63a0a446157e1800116bef05/e/6944780f9a00ace34ff3f8f6/media.mp3",
+      "duree": 2783
     },
     {
       "titre": "S8E45 - Le Cardinal de Richelieu",
-      "date": "2025-12-19"
+      "date": "2025-12-19",
+      "audio": "https://sphinx.acast.com/p/open/s/63a0a446157e1800116bef05/e/694477a9accce1f842ec7cc5/media.mp3",
+      "duree": 2756
     }
   ],
   "derniere_activite": "2025-12-19",

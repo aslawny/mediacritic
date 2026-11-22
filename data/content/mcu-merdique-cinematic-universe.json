@@ -25,7 +25,7 @@
     "series"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,26 +54,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "Spider-Man: Far From Home (2019)",
+      "date": "2026-11-12",
+      "audio": "https://traffic.megaphone.fm/APO1637898381.mp3",
+      "duree": 7179
+    },
+    {
       "titre": "Avengers : Endgame (2019) (EN PUBLIC) - (Version Audio)",
-      "date": "2026-10-30"
+      "date": "2026-10-30",
+      "audio": "https://traffic.megaphone.fm/APO4323457379.mp3",
+      "duree": 9695
     },
     {
       "titre": "MCU x ENDGAME : ANNONCE de l'épisode LIVE ! 🔥",
-      "date": "2026-09-21"
+      "date": "2026-09-21",
+      "audio": "https://anchor.fm/s/ffec2c3c/podcast/play/126056108/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-20%2F41473b6b-6b35-7089-8ff7-6885adaaaa9e.mp3",
+      "duree": 370
     },
     {
       "titre": "Deadpool 2 (2018)",
-      "date": "2026-07-16"
+      "date": "2026-07-16",
+      "audio": "https://traffic.megaphone.fm/APO9987423529.mp3",
+      "duree": 7540
     },
     {
       "titre": "Deadpool (2016)",
-      "date": "2026-07-02"
-    },
-    {
-      "titre": "Les Nouveaux Mutants (2020)",
-      "date": "2026-06-11"
+      "date": "2026-07-02",
+      "audio": "https://traffic.megaphone.fm/APO7563953192.mp3",
+      "duree": 6846
     }
   ],
-  "derniere_activite": "2026-10-30",
+  "derniere_activite": "2026-11-12",
   "frequence_jours": 21
 }

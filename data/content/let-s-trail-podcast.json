@@ -25,7 +25,7 @@
     "running"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,26 +54,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "LTP#310 MITOCHONDRIES : le vrai moteur de votre endurance, avec Sean Seale",
+      "date": "2026-11-21",
+      "audio": "https://audio.ausha.co/BNeW8FDP0enk.mp3?t=1795083849",
+      "duree": 5066
+    },
+    {
       "titre": "LTP#309 : INTENSITÉS EN TRAIL : CONSIGNES ET ANALYSES",
-      "date": "2026-11-07"
+      "date": "2026-11-07",
+      "audio": "https://audio.ausha.co/BNeW8FDXROKL.mp3?t=1793815568",
+      "duree": 6662
     },
     {
       "titre": "LTP#308 SANTÉ OSSEUSE ET TRAIL",
-      "date": "2026-10-24"
+      "date": "2026-10-24",
+      "audio": "https://audio.ausha.co/omwdzU9RND7N.mp3?t=1792750940",
+      "duree": 6891
     },
     {
       "titre": "LTP#307 L'HUMAIN DANS LE COACHING AVEC THOMAS PIGOIS",
-      "date": "2026-10-10"
+      "date": "2026-10-10",
+      "audio": "https://audio.ausha.co/oZRPqUNNKaN8.mp3?t=1791451876",
+      "duree": 4371
     },
     {
       "titre": "LTP#306 CHAUSSURES ET TRAIL",
-      "date": "2026-09-26"
-    },
-    {
-      "titre": "LTP#305 CERVEAU ET TRAIL",
-      "date": "2026-09-12"
+      "date": "2026-09-26",
+      "audio": "https://audio.ausha.co/bzrzwFQD5ERp.mp3?t=1790345323",
+      "duree": 6161
     }
   ],
-  "derniere_activite": "2026-11-07",
+  "derniere_activite": "2026-11-21",
   "frequence_jours": 14
 }

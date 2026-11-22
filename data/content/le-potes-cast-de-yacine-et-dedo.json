@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/le-potes-cast-de-yacine-et-dedo/id1828188707?uo=2",
       "trackId": 1828188707,
       "rating": 4.8,
-      "ratingCount": 360,
+      "ratingCount": 361,
       "episodeCount": null
     }
   },
@@ -27,31 +27,41 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "LE POTES CAST AVEC RICHARD SABAK",
+      "date": "2026-11-18",
+      "audio": "https://sphinx.acast.com/p/open/s/687ea5fc498abee416817643/e/6af3aba775e658be210ff604/media.mp3",
+      "duree": 5059
+    },
+    {
+      "titre": "LPTD PROCÈS LAPIN PLANTE CARNIVORE ABEILLE",
+      "date": "2026-11-15",
+      "audio": "https://sphinx.acast.com/p/open/s/687ea5fc498abee416817643/e/6af8ef157d5cb93e7d54a5f9/media.mp3",
+      "duree": 1307
+    },
+    {
+      "titre": "Âne Rockin Chair",
+      "date": "2026-11-11",
+      "audio": "https://sphinx.acast.com/p/open/s/687ea5fc498abee416817643/e/6af39fa58516e95328584f0e/media.mp3",
+      "duree": 3716
+    },
+    {
       "titre": "LPTD - President Mort et Vampire Location Imo",
-      "date": "2026-11-08"
+      "date": "2026-11-08",
+      "audio": "https://sphinx.acast.com/p/open/s/687ea5fc498abee416817643/e/6aef496e36841fe0149b0485/media.mp3",
+      "duree": 849
     },
     {
       "titre": "VOLER C'EST VOLER",
-      "date": "2026-11-04"
-    },
-    {
-      "titre": "LPTD - HERRISSON ET PHASME",
-      "date": "2026-11-01"
-    },
-    {
-      "titre": "LE POTES CAST EN DIRECT A LA NOUVELLES SEINE",
-      "date": "2026-10-28"
-    },
-    {
-      "titre": "LPTD - MASSIMO RENCONTRE JCVD",
-      "date": "2026-10-25"
+      "date": "2026-11-04",
+      "audio": "https://sphinx.acast.com/p/open/s/687ea5fc498abee416817643/e/6ae0e15e33b363c95df6083a/media.mp3",
+      "duree": 3796
     }
   ],
-  "derniere_activite": "2026-11-08",
-  "frequence_jours": 4,
+  "derniere_activite": "2026-11-18",
+  "frequence_jours": 3,
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",

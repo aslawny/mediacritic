@@ -26,7 +26,7 @@
     "culture"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "Petit espace : comment bien aménager et décorer un petit appartement ?",
@@ -50,5 +50,25 @@
     }
   ],
   "derniere_activite": "2026-10-14",
-  "frequence_jours": 28
+  "frequence_jours": 28,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lennie1982",
+        "titre": "Avis",
+        "texte": "Super podcast ! J’ai désormais plein d’idée pour mon appart 😉. Petit avis pour un prochain épisode : combiné la deco et son petit côté TDAH 🤗🤭🤔"
+      },
+      {
+        "note": 5,
+        "auteur": "Fanny RW",
+        "titre": "Trop trop bien !",
+        "texte": "Super invité.e.s à chaque fois et toujours des thèmes qui me parlent ! Encore !! 😘"
+      }
+    ]
+  }
 }

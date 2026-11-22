@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/les-podcasts-okoo/id1694538921?uo=2",
       "trackId": 1694538921,
       "rating": 4.1,
-      "ratingCount": 340,
+      "ratingCount": 341,
       "episodeCount": null
     }
   },
@@ -27,27 +27,37 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
-      "titre": "ASKIP c'est les vacances ! - Le premier jour des vacances (Toussaint)",
-      "date": "2026-10-29"
+      "titre": "Pourquoi les lycéens manifestent-ils ?",
+      "date": "2026-10-29",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2887349.mp3?origin=rss",
+      "duree": 593
     },
     {
-      "titre": "Pourquoi les lycéens manifestent-ils ?",
-      "date": "2026-10-29"
+      "titre": "ASKIP c'est les vacances ! - Le premier jour des vacances (Toussaint)",
+      "date": "2026-10-29",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1925845.mp3?origin=rss",
+      "duree": 321
     },
     {
       "titre": "ASKIP c'est les vacances ! - Eté 2026",
-      "date": "2026-07-06"
+      "date": "2026-07-06",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2613577.mp3?origin=rss",
+      "duree": 345
     },
     {
       "titre": "Belfort et Lupin - La maison perruque",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1925843.mp3?origin=rss",
+      "duree": 121
     },
     {
       "titre": "Les Moodz - Trois fois merci !",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2225422.mp3?origin=rss",
+      "duree": 548
     }
   ],
   "derniere_activite": "2026-10-29",

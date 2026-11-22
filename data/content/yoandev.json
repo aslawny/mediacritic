@@ -1,0 +1,135 @@
+{
+  "slug": "yoandev",
+  "title": "YoanDev",
+  "author": "YoanDev",
+  "type": "youtube",
+  "categories": [
+    "tech",
+    "numerique"
+  ],
+  "description": "Symfony, Docker, DevOps ou encore GitLab sont des sujets qui vous intéresse ? Vous êtes au bon endroit !\nOn aborde pleins de sujets sur le monde du PHP, du développement WEB, mais aussi de l'intégration continue, du DevOps ou de l'utilisation de Docker !\n\nJe propose des tutoriels simple et accessible, en français !\nÉtant moi-même un perpétuel débutant et en perpétuel apprentissage, j'essaye d'être le plus pédagogue possible afin que les tutoriels soient facile à comprendre ;-)\n\nVos commentaires ",
+  "image": "https://yt3.ggpht.com/u0SBhoCsIbv5OnrZ0jGs_bMQySPS5SwFPwhYPWe2kE6S5kHapS4AoNz-CZZMOYByhbEEq7fBVg=s800-c-k-c0x00ffffff-no-rj",
+  "language": "fr",
+  "platforms": {
+    "youtube": {
+      "url": "https://www.youtube.com/@yoandevco",
+      "channelId": "UCRlsJWh1XwmNGxZPFgJ0Zlw",
+      "subscribers": 23700,
+      "totalViews": 2039250,
+      "videoCount": 380
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "tech",
+    "numerique"
+  ],
+  "addedAt": "2026-11-22",
+  "updatedAt": "2026-11-22",
+  "episodes_recents": [
+    {
+      "titre": "Symfony 8.2 : chiffrer vos données Doctrine avec un seul attribut",
+      "date": "2026-10-18",
+      "video": "Tk8Nq493bL8"
+    },
+    {
+      "titre": "Partager ses skills IA avec toute son équipe (Claude Code, Codex, Cursor…)",
+      "date": "2026-10-11",
+      "video": "pZj4QagADrc"
+    },
+    {
+      "titre": "EmDash : Cloudflare veut tuer WordPress (avec l'IA)",
+      "date": "2026-10-04",
+      "video": "zsTcKDptdSI"
+    },
+    {
+      "titre": "Déployer Symfony sur un VPS, sans être expert DevOps 👌",
+      "date": "2026-09-27",
+      "video": "MNQHHzpRoVM"
+    },
+    {
+      "titre": "Jev : cette IA ne sait pas écrire (et c'est une bonne nouvelle)",
+      "date": "2026-09-20",
+      "video": "PBdwFuk4VPI"
+    }
+  ],
+  "videos": [
+    {
+      "titre": "Symfony 8.2 : chiffrer vos données Doctrine avec un seul attribut",
+      "date": "2026-10-18",
+      "video": "Tk8Nq493bL8"
+    },
+    {
+      "titre": "Partager ses skills IA avec toute son équipe (Claude Code, Codex, Cursor…)",
+      "date": "2026-10-11",
+      "video": "pZj4QagADrc"
+    },
+    {
+      "titre": "EmDash : Cloudflare veut tuer WordPress (avec l'IA)",
+      "date": "2026-10-04",
+      "video": "zsTcKDptdSI"
+    },
+    {
+      "titre": "Déployer Symfony sur un VPS, sans être expert DevOps 👌",
+      "date": "2026-09-27",
+      "video": "MNQHHzpRoVM"
+    },
+    {
+      "titre": "Jev : cette IA ne sait pas écrire (et c'est une bonne nouvelle)",
+      "date": "2026-09-20",
+      "video": "PBdwFuk4VPI"
+    },
+    {
+      "titre": "Symfony LSP : ce que PHPStan ne verra jamais 🕵️‍♂️",
+      "date": "2026-09-13",
+      "video": "hWTR-bW6TnY"
+    },
+    {
+      "titre": "Personne ne vous dit ça sur les skills IA (alors j'ai testé)",
+      "date": "2026-09-06",
+      "video": "yTfL52riIw0"
+    },
+    {
+      "titre": "Tu n'as plus besoin de PowerPoint ni de Premiere Pro",
+      "date": "2026-05-31",
+      "video": "S9xkL1C9NEM"
+    },
+    {
+      "titre": "J'ai cloné Claude Code en PHP/Symfony : voici comment ça marche !",
+      "date": "2026-05-17",
+      "video": "1tX5_4BaPeg"
+    },
+    {
+      "titre": "Tu hostes en self-hosted mais tu ne monitors rien : on doit parler 👀",
+      "date": "2026-05-03",
+      "video": "_BUgyvxlgh0"
+    },
+    {
+      "titre": "Ember rend l'observabilité de FrankenPHP RIDICULEMENT simple",
+      "date": "2026-04-26",
+      "video": "idUuIId2aZA"
+    },
+    {
+      "titre": "Claude Code m'a déployé une App Symfony sur Kubernetes tout seul 😱",
+      "date": "2026-04-19",
+      "video": "f7LKK9q7gIc"
+    },
+    {
+      "titre": "Symfony, PHP, IA : 1h15 de discussion avec Nicolas Grekas !",
+      "date": "2026-03-29",
+      "video": "eok2xwvK4Mc"
+    },
+    {
+      "titre": "📆 RDV dimanche à 18 h sur la chaîne YouTube pour découvrir cette ITW dans son intégralité !",
+      "date": "2026-03-25",
+      "video": "U-tpLYdVHSE"
+    },
+    {
+      "titre": "Une app mobile native avec Symfony ? C'est maintenant possible !",
+      "date": "2026-03-22",
+      "video": "YgqFUlEUQXQ"
+    }
+  ],
+  "derniere_activite": "2026-10-18",
+  "frequence_jours": 7
+}

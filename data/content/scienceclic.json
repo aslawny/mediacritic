@@ -29,25 +29,107 @@
   "episodes_recents": [
     {
       "titre": "Le Warp Drive d'Alcubierre",
-      "date": "2026-08-14"
+      "date": "2026-08-14",
+      "video": "N9juaFt73NI"
     },
     {
       "titre": "A quoi ressemble la naissance d'un Trou Noir ?",
-      "date": "2026-02-11"
+      "date": "2026-02-11",
+      "video": "Ob4BE3m9vqU"
     },
     {
       "titre": "La Physique de l'Intelligence artificielle",
-      "date": "2025-11-06"
+      "date": "2025-11-06",
+      "video": "2kbAId70b_I"
     },
     {
       "titre": "La Physique Quantique en images | Conférence grand public",
-      "date": "2025-10-06"
+      "date": "2025-10-06",
+      "video": "8WeT7PbW3S8"
     },
     {
       "titre": "Dézoom de la Terre à l'Univers observable",
-      "date": "2025-09-30"
+      "date": "2025-09-30",
+      "video": "VbiAlHRmPHk"
     }
   ],
   "derniere_activite": "2026-08-14",
-  "frequence_jours": 58
+  "frequence_jours": 58,
+  "videos": [
+    {
+      "titre": "Le Warp Drive d'Alcubierre",
+      "date": "2026-08-14",
+      "video": "N9juaFt73NI"
+    },
+    {
+      "titre": "A quoi ressemble la naissance d'un Trou Noir ?",
+      "date": "2026-02-11",
+      "video": "Ob4BE3m9vqU"
+    },
+    {
+      "titre": "La Physique de l'Intelligence artificielle",
+      "date": "2025-11-06",
+      "video": "2kbAId70b_I"
+    },
+    {
+      "titre": "La Physique Quantique en images | Conférence grand public",
+      "date": "2025-10-06",
+      "video": "8WeT7PbW3S8"
+    },
+    {
+      "titre": "Dézoom de la Terre à l'Univers observable",
+      "date": "2025-09-30",
+      "video": "VbiAlHRmPHk"
+    },
+    {
+      "titre": "La \"Géométrie\" des Couleurs",
+      "date": "2025-07-06",
+      "video": "NuDhD6-4ZQI"
+    },
+    {
+      "titre": "Mon livre de poche - Les Grandes Lois de l'Univers",
+      "date": "2025-05-28",
+      "video": "04EYII8Kr-E"
+    },
+    {
+      "titre": "Vos questions sur le Spin #1 | ft. @Thomaths et @antoinebrgt",
+      "date": "2025-01-17",
+      "video": "kEOwUAIYWXI"
+    },
+    {
+      "titre": "Conférence sur l'Univers",
+      "date": "2024-07-24",
+      "video": "eouwa9GRCco"
+    },
+    {
+      "titre": "Le Spin | ft. @Thomaths et @antoinebrgt",
+      "date": "2024-07-10",
+      "video": "M2OxySiJh3g"
+    },
+    {
+      "titre": "Chute dans un trou noir réaliste | VR 360°",
+      "date": "2024-05-13",
+      "video": "MLPGyCacCmo"
+    },
+    {
+      "titre": "Gargantua | Court métrage inspiré d'Interstellar",
+      "date": "2024-05-04",
+      "video": "i9c5y1DUwp0"
+    },
+    {
+      "titre": "Refaisons les simulations d'Interstellar | ft. @gotabor",
+      "date": "2024-04-26",
+      "video": "57sq1tjtxX0"
+    },
+    {
+      "titre": "Comment stocker des fichiers sur de l'ADN ?",
+      "date": "2024-03-29",
+      "video": "FOJKHCu0Mw0"
+    },
+    {
+      "titre": "Et si l'on pouvait voir l'Espace-temps ? Expérience immersive",
+      "date": "2024-03-03",
+      "video": "k4ICxQw3u3Q"
+    }
+  ]
 }

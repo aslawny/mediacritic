@@ -26,30 +26,40 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
-      "titre": "5 novembre : une colère sociale sans réponse ?",
-      "date": "2026-11-06"
+      "titre": "Marine Le Pen : les associations dans le viseur ?",
+      "date": "2026-11-20",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3050985.mp3?origin=rss",
+      "duree": 3847
     },
     {
-      "titre": "Midterms : la défaite de Trump ?",
-      "date": "2026-11-05"
+      "titre": "Nvidia : vers une crise mondiale ?",
+      "date": "2026-11-19",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3041217.mp3?origin=rss",
+      "duree": 3907
     },
     {
-      "titre": "Attentat de Trappes : une parole raciste banalisée ?",
-      "date": "2026-11-04"
+      "titre": "Logement : la bombe sociale de 2027 ?",
+      "date": "2026-11-18",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3030921.mp3?origin=rss",
+      "duree": 4115
     },
     {
-      "titre": "Colère sociale : un mouvement inarrêtable ?",
-      "date": "2026-11-03"
+      "titre": "Présidentielle 2027 : les sondages font-ils l’élection ?",
+      "date": "2026-11-17",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3021544.mp3?origin=rss",
+      "duree": 3948
     },
     {
-      "titre": "Colère sociale : vers une restriction des libertés ?",
-      "date": "2026-10-30"
+      "titre": "Mélenchon - Le Pen : peut-on éviter la guerre avec Poutine ?",
+      "date": "2026-11-13",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2984711.mp3?origin=rss",
+      "duree": 3916
     }
   ],
-  "derniere_activite": "2026-11-06",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 1,
   "avis_publics": {
     "source": "apple",

@@ -24,27 +24,37 @@
   "tags": [
     "gaming"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "#11 : Blade Runner (1997)",
-      "date": "2012-03-19"
+      "date": "2012-03-19",
+      "audio": "http://lacazretro.fr/podcasts/lacazretro11-bladerunner.mp3",
+      "duree": 5826
     },
     {
       "titre": "#10 : Windjammers (1994)",
-      "date": "2012-02-27"
+      "date": "2012-02-27",
+      "audio": "http://lacazretro.fr/podcasts/lacazretro10-windjammers.mp3",
+      "duree": 3926
     },
     {
       "titre": "#09 : Turtle in Time (1991) avec Dopamine",
-      "date": "2012-02-20"
+      "date": "2012-02-20",
+      "audio": "http://lacazretro.fr/podcasts/lacazretro9-turtleintime.mp3",
+      "duree": 5307
     },
     {
       "titre": "#08 : Ikari Warriors (1986)",
-      "date": "2012-02-10"
+      "date": "2012-02-10",
+      "audio": "http://lacazretro.fr/podcasts/lacazretro8-ikariwarriors.mp3",
+      "duree": 3578
     },
     {
       "titre": "#07 : Resident Evil (1996)",
-      "date": "2012-01-23"
+      "date": "2012-01-23",
+      "audio": "http://lacazretro.fr/podcasts/lacazretro7-residentevil.mp3",
+      "duree": 5380
     }
   ],
   "derniere_activite": "2012-03-19",

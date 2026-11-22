@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/1000/id1760043040?uo=4",
       "trackId": 1760043040,
       "rating": 4.7,
-      "ratingCount": 226,
+      "ratingCount": 227,
       "episodeCount": 177
     }
   },
@@ -25,31 +25,41 @@
     "running"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
-      "titre": "LES VITAMINES : INDISPENSABLES À NOTRE SANTÉ, MAIS DANGEREUSE ? AVEC DR BORIS DUFOURNET",
-      "date": "2026-11-08"
+      "titre": "CE CHERCHEUR NOUS EXPLIQUE COMMENT S'ENTRAÎNER APRÈS 35 ANS (RENFO, CARDIO, VO₂ MAX...)",
+      "date": "2026-11-18",
+      "audio": "https://traffic.megaphone.fm/APO8070217048.mp3",
+      "duree": 5327
     },
     {
-      "titre": "PRÉPARATION MENTALE : TOUS LES CHAMPIONS LE FONT, POURQUOI PAS VOUS ?",
-      "date": "2026-11-04"
+      "titre": "BALLONNEMENTS, MICROBIOTE, PROBIOTIQUES… QUELLE ALIMENTATION ET QUELLE COMPLÉMENTATION POUR MIEUX DIGÉRER ?",
+      "date": "2026-11-16",
+      "audio": "https://traffic.megaphone.fm/APO4027504242.mp3",
+      "duree": 7542
     },
     {
-      "titre": "VITAMINE D : LE DRAME SILENCIEUX QUI TOUCHE LES FRANÇAIS",
-      "date": "2026-11-02"
+      "titre": "CE QUE LES FRANÇAIS DEVRAIENT ABSOLUMENT SAVOIR SUR L’HUILE D’OLIVE (99 % NE LE SAVENT PAS)",
+      "date": "2026-11-15",
+      "audio": "https://traffic.megaphone.fm/APO7013686263.mp3",
+      "duree": 5730
     },
     {
-      "titre": "PESTICIDES / PERTURBATEURS ENDOCRINIENS : QUE DIT RÉELLEMENT LA SCIENCE ? AVEC UN TOXICOLOGUE",
-      "date": "2026-11-01"
+      "titre": "DÉTOXIFICATION : CE CHERCHEUR, PARMI LES 2 % LES PLUS CITÉS AU MONDE, NOUS EXPLIQUE COMMENT FAIRE",
+      "date": "2026-11-11",
+      "audio": "https://traffic.megaphone.fm/APO5935377853.mp3",
+      "duree": 6388
     },
     {
-      "titre": "LE PRÉPA DE WEMBY RÉVÈLE CE QUI VOUS EMPÊCHE DE DEVENIR UN ATHLÈTE COMPLET",
-      "date": "2026-10-28"
+      "titre": "COMMENT PROGRESSER SANS BLESSURE ? BASSE INTENSITÉ, FRACTIONNÉ, RENFO, FATIGUE, CHAUSSURES..",
+      "date": "2026-11-09",
+      "audio": "https://traffic.megaphone.fm/APO6199374901.mp3",
+      "duree": 8678
     }
   ],
-  "derniere_activite": "2026-11-08",
-  "frequence_jours": 2,
+  "derniere_activite": "2026-11-18",
+  "frequence_jours": 1,
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",

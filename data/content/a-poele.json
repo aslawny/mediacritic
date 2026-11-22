@@ -27,27 +27,37 @@
     "cuisine"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "Julien Sebbag",
-      "date": "2025-10-23"
+      "date": "2025-10-23",
+      "audio": "https://sphinx.acast.com/p/acast/s/a-poele/e/68f8d88f237885ef40b45c94/media.mp3",
+      "duree": 4063
     },
     {
       "titre": "Clémence Gommy",
-      "date": "2025-07-17"
+      "date": "2025-07-17",
+      "audio": "https://sphinx.acast.com/p/acast/s/a-poele/e/6877af1981b46e5956d49f3a/media.mp3",
+      "duree": 3493
     },
     {
       "titre": "François Perret",
-      "date": "2025-06-05"
+      "date": "2025-06-05",
+      "audio": "https://sphinx.acast.com/p/acast/s/a-poele/e/6841c254c4b70577af3945a4/media.mp3",
+      "duree": 3639
     },
     {
       "titre": "Bertrand Chauveau",
-      "date": "2025-03-26"
+      "date": "2025-03-26",
+      "audio": "https://sphinx.acast.com/p/acast/s/a-poele/e/67dc440afe6b19f2d20385e7/media.mp3",
+      "duree": 5015
     },
     {
       "titre": "Priscilla Trâm",
-      "date": "2025-02-13"
+      "date": "2025-02-13",
+      "audio": "https://sphinx.acast.com/p/acast/s/a-poele/e/67acd8c5c6f97f89d874788c/media.mp3",
+      "duree": 4716
     }
   ],
   "derniere_activite": "2025-10-23",

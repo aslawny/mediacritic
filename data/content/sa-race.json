@@ -27,7 +27,7 @@
     "famille"
   ],
   "addedAt": "2026-06-27",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -57,23 +57,33 @@
   "episodes_recents": [
     {
       "titre": "L'AKITA INU",
-      "date": "2023-05-02"
+      "date": "2023-05-02",
+      "audio": "https://audio.ausha.co/GA3YlHJa3vg3.mp3?t=1683043429",
+      "duree": 617
     },
     {
       "titre": "LE BORDER COLLIE",
-      "date": "2023-04-25"
+      "date": "2023-04-25",
+      "audio": "https://audio.ausha.co/w0zwmSv0N3Dm.mp3?t=1682432878",
+      "duree": 476
     },
     {
       "titre": "LE STAFFIE",
-      "date": "2023-04-04"
+      "date": "2023-04-04",
+      "audio": "https://audio.ausha.co/Lnzglh9DpDaz.mp3?t=1680622019",
+      "duree": 514
     },
     {
       "titre": "L’AMERICAN STAFF",
-      "date": "2023-03-28"
+      "date": "2023-03-28",
+      "audio": "https://audio.ausha.co/nrAlMHKLXYEG.mp3?t=1679909081",
+      "duree": 600
     },
     {
       "titre": "LE GOLDEN RETRIEVER",
-      "date": "2023-03-21"
+      "date": "2023-03-21",
+      "audio": "https://audio.ausha.co/4AdwOHpK2Q5l.mp3?t=1679308563",
+      "duree": 569
     }
   ],
   "derniere_activite": "2023-05-02",

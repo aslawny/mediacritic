@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/numbers/id1896928707?uo=2",
       "trackId": 1896928707,
       "rating": 3.5,
-      "ratingCount": 201,
+      "ratingCount": 202,
       "episodeCount": null
     }
   },
@@ -25,31 +25,41 @@
     "culture"
   ],
   "addedAt": "2026-06-18",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Comment SDM a tout raflé en 5 ans ?",
+      "date": "2026-11-11",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/c53adb3e-851e-4960-9007-828be107b68a.mp3?_=1794397563",
+      "duree": 4213
+    },
+    {
       "titre": "Les DJ font semblant ? Hugel balance tout !",
-      "date": "2026-10-19"
+      "date": "2026-10-19",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/eb935f02-2f3a-4bf8-b531-1e5bd979a1b6.mp3?_=1792430888",
+      "duree": 2872
     },
     {
       "titre": "Pomme : Kanye West, Stromae et le pire concert de sa vie",
-      "date": "2026-09-29"
+      "date": "2026-09-29",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/19f4e36f-655b-45e6-8cb9-b04e30c460cd.mp3?_=1790689007",
+      "duree": 2596
     },
     {
       "titre": "Ebony ne s'attendait pas à ça après la Star Ac'",
-      "date": "2026-08-25"
+      "date": "2026-08-25",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/dc580191-49b9-4c67-b112-7b07b9050b39.mp3?_=1787656752",
+      "duree": 2100
     },
     {
       "titre": "Cette idée de Fianso a fait basculer sa carrière",
-      "date": "2026-08-06"
-    },
-    {
-      "titre": "Orelsan : peut-on être rappeur après 50 ans ?",
-      "date": "2026-06-15"
+      "date": "2026-08-06",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/52d9e37d-b36e-4a34-9e30-003c68cc8ac3.mp3?_=1786037899",
+      "duree": 3187
     }
   ],
-  "derniere_activite": "2026-10-19",
-  "frequence_jours": 34,
+  "derniere_activite": "2026-11-11",
+  "frequence_jours": 22,
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",

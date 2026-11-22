@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/le-club-de-lulu/id1725321887?uo=2",
       "trackId": 1725321887,
       "rating": 3.9,
-      "ratingCount": 617,
+      "ratingCount": 619,
       "episodeCount": null
     }
   },
@@ -27,7 +27,7 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -57,23 +57,33 @@
   "episodes_recents": [
     {
       "titre": "Lulu veut un portable",
-      "date": "2024-12-07"
+      "date": "2024-12-07",
+      "audio": "https://tr.ausha.co/b3P0p1S5dqDg/api.soundcast.io/v1/stitch/ausha.mp3?tags=66049D8B&keywords=episodeId:b3P0p1S5dqDg,showId:BNjmJIJLMeM4&kw_applecategory=Education+for+Kids&kw_showname=Le+Club+de+Lulu&kw_episodeid=b3P0p1S5dqDg&kw_podcastid=BNjmJIJLMeM4&kw_showrss=https%3A%2F%2Ffeed.ausha.co%2FBNjmJIJLMeM4&kw_language=fr&kw_position=preroll&apiKey=c1a94b3301c64853868548ac73233ca1&podcastUrl=https%3A%2F%2Faudio.ausha.co%2Fb3P0p1S5dqDg.mp3%3Ft%3D1718011781",
+      "duree": 334
     },
     {
       "titre": "Lulu se perd au centre commercial",
-      "date": "2024-11-23"
+      "date": "2024-11-23",
+      "audio": "https://tr.ausha.co/Jd1qGtk3jnX1/api.soundcast.io/v1/stitch/ausha.mp3?tags=66049D8B&keywords=episodeId:Jd1qGtk3jnX1,showId:BNjmJIJLMeM4&kw_applecategory=Education+for+Kids&kw_showname=Le+Club+de+Lulu&kw_episodeid=Jd1qGtk3jnX1&kw_podcastid=BNjmJIJLMeM4&kw_showrss=https%3A%2F%2Ffeed.ausha.co%2FBNjmJIJLMeM4&kw_language=fr&kw_position=preroll&apiKey=c1a94b3301c64853868548ac73233ca1&podcastUrl=https%3A%2F%2Faudio.ausha.co%2FJd1qGtk3jnX1.mp3%3Ft%3D1718010995",
+      "duree": 332
     },
     {
       "titre": "Théo se fait harceler",
-      "date": "2024-11-06"
+      "date": "2024-11-06",
+      "audio": "https://tr.ausha.co/lDkQdS4PqArR/api.soundcast.io/v1/stitch/ausha.mp3?tags=66049D8B&keywords=episodeId:lDkQdS4PqArR,showId:BNjmJIJLMeM4&kw_applecategory=Education+for+Kids&kw_showname=Le+Club+de+Lulu&kw_episodeid=lDkQdS4PqArR&kw_podcastid=BNjmJIJLMeM4&kw_showrss=https%3A%2F%2Ffeed.ausha.co%2FBNjmJIJLMeM4&kw_language=fr&kw_position=preroll&apiKey=c1a94b3301c64853868548ac73233ca1&podcastUrl=https%3A%2F%2Faudio.ausha.co%2FlDkQdS4PqArR.mp3%3Ft%3D1718012843",
+      "duree": 333
     },
     {
       "titre": "Lulu a la flemme",
-      "date": "2024-10-26"
+      "date": "2024-10-26",
+      "audio": "https://tr.ausha.co/kknwJTERwMEG/api.soundcast.io/v1/stitch/ausha.mp3?tags=66049D8B&keywords=episodeId:kknwJTERwMEG,showId:BNjmJIJLMeM4&kw_applecategory=Education+for+Kids&kw_showname=Le+Club+de+Lulu&kw_episodeid=kknwJTERwMEG&kw_podcastid=BNjmJIJLMeM4&kw_showrss=https%3A%2F%2Ffeed.ausha.co%2FBNjmJIJLMeM4&kw_language=fr&kw_position=preroll&apiKey=c1a94b3301c64853868548ac73233ca1&podcastUrl=https%3A%2F%2Faudio.ausha.co%2FkknwJTERwMEG.mp3%3Ft%3D1718010709",
+      "duree": 366
     },
     {
       "titre": "Lulu en a marre de la cantine",
-      "date": "2024-10-05"
+      "date": "2024-10-05",
+      "audio": "https://tr.ausha.co/VOgrxSdavY3J/api.soundcast.io/v1/stitch/ausha.mp3?tags=66049D8B&keywords=episodeId:VOgrxSdavY3J,showId:BNjmJIJLMeM4&kw_applecategory=Education+for+Kids&kw_showname=Le+Club+de+Lulu&kw_episodeid=VOgrxSdavY3J&kw_podcastid=BNjmJIJLMeM4&kw_showrss=https%3A%2F%2Ffeed.ausha.co%2FBNjmJIJLMeM4&kw_language=fr&kw_position=preroll&apiKey=c1a94b3301c64853868548ac73233ca1&podcastUrl=https%3A%2F%2Faudio.ausha.co%2FVOgrxSdavY3J.mp3%3Ft%3D1718010747",
+      "duree": 378
     }
   ],
   "derniere_activite": "2024-12-07",

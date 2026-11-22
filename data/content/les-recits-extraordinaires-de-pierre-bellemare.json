@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/les-r%C3%A9cits-extraordinaires-de-pierre-bellemare/id1581950528?uo=2",
       "trackId": 1581950528,
       "rating": 4.4,
-      "ratingCount": 563,
+      "ratingCount": 566,
       "episodeCount": null
     }
   },
@@ -25,7 +25,7 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,26 +54,36 @@
   },
   "episodes_recents": [
     {
-      "titre": "L'homme était dans l'arbre",
-      "date": "2026-11-08"
+      "titre": "Le lieutenant assassin",
+      "date": "2026-11-20",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/7376bc95-c4c8-4dfb-b0b7-0974e493a013.mp3?_=1794387460&ps=b4435ec9-eb84-4363-9f0a-f71678dadfe4",
+      "duree": 1295
     },
     {
-      "titre": "Esprit es-tu là ?",
-      "date": "2026-11-06"
+      "titre": "Sous le soleil de minuit",
+      "date": "2026-11-19",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/ff6cb755-aad7-4465-bdaa-cb71d0137e49.mp3?_=1794386004&ps=b4435ec9-eb84-4363-9f0a-f71678dadfe4",
+      "duree": 1511
     },
     {
-      "titre": "L’affaire de Geffosses",
-      "date": "2026-11-05"
+      "titre": "La vengeance de l'artiste",
+      "date": "2026-11-18",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/32462e63-483e-495d-931b-981a45f7ebaa.mp3?_=1794387335&ps=b4435ec9-eb84-4363-9f0a-f71678dadfe4",
+      "duree": 1386
     },
     {
-      "titre": "La machine à étrangler",
-      "date": "2026-11-04"
+      "titre": "Joseph Vacher, le tueur de bergers",
+      "date": "2026-11-17",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/bb823107-61fb-48b2-89b3-af36bd7ec45d.mp3?_=1794387239&ps=b4435ec9-eb84-4363-9f0a-f71678dadfe4",
+      "duree": 1628
     },
     {
-      "titre": "L'enquête criminelle d'Honoré de Balzac",
-      "date": "2026-11-03"
+      "titre": "Vous ne me croirez pas",
+      "date": "2026-11-16",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/1ba75d79-d472-4dab-a801-36460faa4ca7.mp3?_=1794385910&ps=b4435ec9-eb84-4363-9f0a-f71678dadfe4",
+      "duree": 1399
     }
   ],
-  "derniere_activite": "2026-11-08",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 1
 }

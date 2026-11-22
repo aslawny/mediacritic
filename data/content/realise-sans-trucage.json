@@ -26,7 +26,7 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -55,26 +55,36 @@
   },
   "episodes_recents": [
     {
-      "titre": "🏳️‍🌈 CLUB KID & gloire à la lutte !",
-      "date": "2026-11-06"
+      "titre": "🏹 HUNGER GAMES, JUPITER, LES BRAVES, GABIN & CAMEMBERT🧀",
+      "date": "2026-11-20",
+      "audio": "https://sphinx.acast.com/p/open/s/63a6f9cd471563001006a3a8/e/6afed71e785ec24811571f10/media.mp3",
+      "duree": 5484
     },
     {
-      "titre": "🎤 JORDAN FIRSTMAN - L'Entretien Sans Trucage (CLUB KID)",
-      "date": "2026-11-05"
+      "titre": "📺 THE GOOD PLACE avec NALLA (1/4)",
+      "date": "2026-11-18",
+      "audio": "https://sphinx.acast.com/p/open/s/6a6a0ddcfdc89d3427dc2cd1/a/63a6f9cd471563001006a3a8/e/6afc5a6a1a7785c803db7e32/media.mp3",
+      "duree": 2143
     },
     {
-      "titre": "📺 THE HAUNTING OF HILL HOUSE avec TAOUS MERAKCHI (3/4)",
-      "date": "2026-11-04"
+      "titre": "👁️LE LABYRINTHE DE PAN - Guillermo del Toro (2006)",
+      "date": "2026-11-17",
+      "audio": "https://sphinx.acast.com/p/open/s/63a6f9cd471563001006a3a8/e/6af5d50bc109238cc74f1ecc/media.mp3",
+      "duree": 3038
     },
     {
-      "titre": "🔥LES DIABLES - Ken Russell (1971)",
-      "date": "2026-11-03"
+      "titre": "📰 BREAKING NEWS - Bye bye James Gunn, MeTooMedia & le rachat de Letterboxd💰",
+      "date": "2026-11-16",
+      "audio": "https://sphinx.acast.com/p/open/s/63a6f9cd471563001006a3a8/e/6af5d41c41ca9a3ff104283a/media.mp3",
+      "duree": 2193
     },
     {
-      "titre": "📰 BREAKING NEWS - Steven Soderbergh, Elon Musk & Variety 🗞️",
-      "date": "2026-11-02"
+      "titre": "💰COMMENT BRAQUER UNE BANQUE, IL FAUT BRÛLER MAMAN, 15/18 & UN BON AVOCAT🥑",
+      "date": "2026-11-13",
+      "audio": "https://sphinx.acast.com/p/open/s/63a6f9cd471563001006a3a8/e/6af5d38241ca9a3ff103ebab/media.mp3",
+      "duree": 4542
     }
   ],
-  "derniere_activite": "2026-11-06",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 1
 }

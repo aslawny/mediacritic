@@ -26,7 +26,7 @@
     "culture"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -56,23 +56,33 @@
   "episodes_recents": [
     {
       "titre": "#42 - 10 ans plus tard",
-      "date": "2026-04-08"
+      "date": "2026-04-08",
+      "audio": "https://track.podcastics.com/7001/410451.mp3",
+      "duree": 5386
     },
     {
       "titre": "HS #5 – Pilote “Les Visiteurs”",
-      "date": "2022-02-01"
+      "date": "2022-02-01",
+      "audio": "https://track.podcastics.com/7001/277312.mp3",
+      "duree": 2198
     },
     {
       "titre": "#41 – Les films de genre",
-      "date": "2019-08-01"
+      "date": "2019-08-01",
+      "audio": "https://track.podcastics.com/7001/277313.mp3",
+      "duree": 9545
     },
     {
       "titre": "#40 – Écrire pour le jeu vidéo",
-      "date": "2019-07-01"
+      "date": "2019-07-01",
+      "audio": "https://track.podcastics.com/7001/277314.mp3",
+      "duree": 8243
     },
     {
       "titre": "#39 – Écrire de l’humour",
-      "date": "2019-06-01"
+      "date": "2019-06-01",
+      "audio": "https://track.podcastics.com/7001/277315.mp3",
+      "duree": 9622
     }
   ],
   "derniere_activite": "2026-04-08",

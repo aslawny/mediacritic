@@ -27,7 +27,7 @@
     "sport"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "EP37 - LAURE ARBEZ - \"De Globe Trotteuse motarde à finaliste du GS Trophy en Namibie, la passion du Off Road\"",
@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2024-11-15",
-  "frequence_jours": 16
+  "frequence_jours": 16,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tago-Mago",
+        "titre": "Super échange \"au coin du feu\"",
+        "texte": "Un podcast de qualité qui manquait dans le paysage moto et lifestyle. Martin est dans un état d’esprit d’ouverture qui fait la part belle à la personnalité et à l’Histoire de chaque invité(e). Bricoleur, entrepreneur, voyageur… Hâte d’écouter le prochain !"
+      },
+      {
+        "note": 5,
+        "auteur": "paulslr",
+        "titre": "Un plaisir à écouter !",
+        "texte": "Très bon podcast avec de très belles découvertes de personnes passionnées ! A écouter ! KBC"
+      },
+      {
+        "note": 5,
+        "auteur": "Foutaize",
+        "titre": "Un podcast Moto de qualité",
+        "texte": "J’adore, l’univers, le storytelling et le choix des invités ! Bonne continuation Martin"
+      }
+    ]
+  }
 }

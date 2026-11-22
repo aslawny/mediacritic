@@ -24,7 +24,7 @@
     "comedie"
   ],
   "addedAt": "2026-07-03",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,15 +54,21 @@
   "episodes_recents": [
     {
       "titre": "RADIO SEXE SAISON 2 #1.2 - LES ANECDOTES SOMBRES D'ALKPOTE",
-      "date": "2019-11-25"
+      "date": "2019-11-25",
+      "audio": "https://feeds.soundcloud.com/stream/718064467-kametocorp-radio-sexe-saison-2-12-les-anecdotes-sombres-dalkpote.mp3",
+      "duree": 4219
     },
     {
       "titre": "RADIO SEXE SAISON 2 #1.1 - LE RETOUR DE RADIO SEXE AVEC UNE NOUVELLE CHRONIQUEUSE",
-      "date": "2019-11-25"
+      "date": "2019-11-25",
+      "audio": "https://feeds.soundcloud.com/stream/718063789-kametocorp-radio-sexe-saison-2-11-le-retour-de-radio-sexe-avec-une-nouvelle-chroniqueuse.mp3",
+      "duree": 2716
     },
     {
       "titre": "RADIO SEXE #24.2 - EN DIRECT DE LOS ANGELES AVEC MANUEL FERRARA POUR LA DERNIÈRE DE LA SAISON",
-      "date": "2019-07-10"
+      "date": "2019-07-10",
+      "audio": "https://feeds.soundcloud.com/stream/649141025-kametocorp-radio-sexe-242-en-direct-de-los-angeles-avec-manuel-ferrara-pour-la-derniere-de-la-saison.mp3",
+      "duree": 3156
     }
   ],
   "derniere_activite": "2019-11-25",

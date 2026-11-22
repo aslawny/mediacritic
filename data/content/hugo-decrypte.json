@@ -14,9 +14,9 @@
     "youtube": {
       "url": "https://www.youtube.com/@HugoDecrypte",
       "channelId": "UCAcAnMF0OrCtUep3Y4M-ZPw",
-      "subscribers": 3840000,
-      "totalViews": 1781674904,
-      "videoCount": 5987
+      "subscribers": 3850000,
+      "totalViews": 1783291314,
+      "videoCount": 5994
     }
   },
   "mediacritic": null,
@@ -24,8 +24,13 @@
     "actualité",
     "société"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
+    {
+      "titre": "Ce qu'il vient de se passer en Bourse est historique",
+      "date": "2026-11-21",
+      "video": "A2shKBJser4"
+    },
     {
       "titre": "El Niño débarque en France, les conséquences expliquées",
       "date": "2026-11-20",
@@ -45,16 +50,16 @@
       "titre": "Dominique de Villepin annonce être candidat à l’élection présidentielle de 2027",
       "date": "2026-11-20",
       "video": "sVcgj5kVnig"
-    },
-    {
-      "titre": "Ce qu'il vient de se passer est historique.",
-      "date": "2026-11-19",
-      "video": "jEe_HNZp2Qw"
     }
   ],
-  "derniere_activite": "2026-11-20",
+  "derniere_activite": "2026-11-21",
   "frequence_jours": 0,
   "videos": [
+    {
+      "titre": "Ce qu'il vient de se passer en Bourse est historique",
+      "date": "2026-11-21",
+      "video": "A2shKBJser4"
+    },
     {
       "titre": "El Niño débarque en France, les conséquences expliquées",
       "date": "2026-11-20",
@@ -124,11 +129,6 @@
       "titre": "Cet homme a été filmé en train de voler une statue de Jésus dans une église avant de la casser",
       "date": "2026-11-18",
       "video": "ocNcU8qmG-Q"
-    },
-    {
-      "titre": "Il a fallu 30 ans pour identifier cette petite fille retrouvée morte sur le bord de la route",
-      "date": "2026-11-18",
-      "video": "2vRDqbWxZhA"
     }
   ]
 }

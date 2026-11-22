@@ -25,7 +25,7 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-08",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,26 +54,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "#32 Nos 5 conseils pour un Noël bien organisé",
+      "date": "2026-11-12",
+      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/76306507/ep_32_jeudi_12_nov.mp3",
+      "duree": 2735
+    },
+    {
       "titre": "#31 Plus on gagne, plus on dépense ?",
-      "date": "2026-11-05"
+      "date": "2026-11-05",
+      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/76176158/ep_31_jeudi_5_nov_budget.mp3",
+      "duree": 2928
     },
     {
       "titre": "#30 Les 7 types de repos",
-      "date": "2026-10-29"
+      "date": "2026-10-29",
+      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/76050268/ep_30_jeudi_29_oct_les_7_types_de_repos.mp3",
+      "duree": 2026
     },
     {
       "titre": "#29 Nos traditions de Noël préférées",
-      "date": "2026-10-22"
+      "date": "2026-10-22",
+      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75899733/ep_29_jeudi_22_oct.mp3",
+      "duree": 3335
     },
     {
       "titre": "#28 Faire moins mais mieux",
-      "date": "2026-10-15"
-    },
-    {
-      "titre": "#27 Noël sans exploser le budget",
-      "date": "2026-10-08"
+      "date": "2026-10-15",
+      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75794493/ep_28_jeudi_15_octobre_faire_moins_mais_mieux.mp3",
+      "duree": 1378
     }
   ],
-  "derniere_activite": "2026-11-05",
+  "derniere_activite": "2026-11-12",
   "frequence_jours": 7
 }

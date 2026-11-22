@@ -25,12 +25,12 @@
     "bien-etre"
   ],
   "addedAt": "2026-09-23",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
     "tri": "mosthelpful",
-    "releve": "2026-09-23",
+    "releve": "2026-11-22",
     "extraits": [
       {
         "note": 5,
@@ -54,26 +54,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "L’école déteste-t-elle les filles ?",
+      "date": "2026-11-10",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/7277df97-5743-436c-af90-77741c12527e.mp3?_=1794249297",
+      "duree": 3407
+    },
+    {
       "titre": "La fête va-t-elle nous sauver ?",
-      "date": "2026-10-25"
+      "date": "2026-10-25",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/b67d9631-4645-4279-b200-cbef9da8fbe5.mp3?_=1792774104",
+      "duree": 3412
     },
     {
       "titre": "Comment la honte vous gâche la vie ?",
-      "date": "2026-10-11"
+      "date": "2026-10-11",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/69cb0a92-b1fd-4307-8c5c-368c99e068b9.mp3?_=1791560613",
+      "duree": 3563
     },
     {
       "titre": "Sommes-nous de plus en plus seuls ?",
-      "date": "2026-09-27"
+      "date": "2026-09-27",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/2a3d7c5c-9121-45a9-bb37-4d228259a224.mp3?_=1790330002",
+      "duree": 3162
     },
     {
       "titre": "Faut-il faire de la muscu ?",
-      "date": "2026-09-06"
-    },
-    {
-      "titre": "Le bonheur se trouve-t-il loin des villes ?",
-      "date": "2026-08-23"
+      "date": "2026-09-06",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/3257a59d-63fb-4ed6-8a5b-c0f603018c17.mp3?_=1788528385",
+      "duree": 3252
     }
   ],
-  "derniere_activite": "2026-10-25",
+  "derniere_activite": "2026-11-10",
   "frequence_jours": 14
 }

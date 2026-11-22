@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/les-histoires-cultes-par-encore-une-histoire/id1793335854?uo=2",
       "trackId": 1793335854,
       "rating": 4.3,
-      "ratingCount": 313,
+      "ratingCount": 318,
       "episodeCount": null
     }
   },
@@ -27,27 +27,37 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "Le Petit Nicolas - Mes vacances de Pâques",
-      "date": "2026-09-09"
+      "date": "2026-09-09",
+      "audio": "https://sphinx.acast.com/p/open/s/679a17e101388342ba90b249/e/6a4e0740c130c408c20a9d85/media.mp3",
+      "duree": 1256
     },
     {
       "titre": "Le Petit Nicolas - La tondeuse à gazon",
-      "date": "2026-09-02"
+      "date": "2026-09-02",
+      "audio": "https://sphinx.acast.com/p/open/s/679a17e101388342ba90b249/e/6a4e0720ad78abcff10a490c/media.mp3",
+      "duree": 541
     },
     {
       "titre": "Le Petit Nicolas - Le miroir",
-      "date": "2026-08-26"
+      "date": "2026-08-26",
+      "audio": "https://sphinx.acast.com/p/open/s/679a17e101388342ba90b249/e/6a4e04cb6ae7b13bb2c71e38/media.mp3",
+      "duree": 575
     },
     {
       "titre": "Le Petit Nicolas - La pétanque",
-      "date": "2026-08-19"
+      "date": "2026-08-19",
+      "audio": "https://sphinx.acast.com/p/open/s/679a17e101388342ba90b249/e/6a4bdd6301771200e4c0b219/media.mp3",
+      "duree": 568
     },
     {
       "titre": "Le Petit Nicolas - Le réfrigérateur",
-      "date": "2026-08-12"
+      "date": "2026-08-12",
+      "audio": "https://sphinx.acast.com/p/open/s/679a17e101388342ba90b249/e/6a4bdd4863f5ae9478009675/media.mp3",
+      "duree": 549
     }
   ],
   "derniere_activite": "2026-09-09",

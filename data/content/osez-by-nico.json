@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/osez-by-nico/id1558102736?uo=2",
       "trackId": 1558102736,
       "rating": 5.0,
-      "ratingCount": 310,
+      "ratingCount": 311,
       "episodeCount": null
     }
   },
@@ -26,7 +26,7 @@
     "education"
   ],
   "addedAt": "2026-06-09",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -56,23 +56,33 @@
   "episodes_recents": [
     {
       "titre": "20 ans complexé par ma peau : pourquoi j’ai décidé de faire un peeling au phénol",
-      "date": "2026-11-01"
+      "date": "2026-11-01",
+      "audio": "https://audio.ausha.co/bz8zlURw5QJk.mp3?t=1793553539",
+      "duree": 2114
     },
     {
       "titre": "Pourquoi vouloir être parfait vous empêche de prendre votre place - Caroline Mignaux",
-      "date": "2026-10-30"
+      "date": "2026-10-30",
+      "audio": "https://audio.ausha.co/odpvxUvGjjYx.mp3?t=1793298375",
+      "duree": 3575
     },
     {
       "titre": "Stéphane Allix & Sabrina Jecker – Ce que personne ne te dit vraiment sur la méditation.",
-      "date": "2026-10-27"
+      "date": "2026-10-27",
+      "audio": "https://audio.ausha.co/BNpWOUGXpE9x.mp3?t=1793095399",
+      "duree": 487
     },
     {
       "titre": "Et si on s’était trompé sur le bonheur et la spiritualité ? (Stéphane Allix & Sabrina Jecker)",
-      "date": "2026-10-22"
+      "date": "2026-10-22",
+      "audio": "https://audio.ausha.co/Bq87lU1Egz8W.mp3?t=1792649541",
+      "duree": 4815
     },
     {
       "titre": "Natalie Rajao – Se changer ou s’accepter : où est la vraie limite ? (L'avis d'une chirurgienne esthétique)",
-      "date": "2026-10-20"
+      "date": "2026-10-20",
+      "audio": "https://audio.ausha.co/B1kxaIAGwzj7.mp3?t=1792482754",
+      "duree": 456
     }
   ],
   "derniere_activite": "2026-11-01",

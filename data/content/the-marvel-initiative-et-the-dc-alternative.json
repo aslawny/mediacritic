@@ -26,7 +26,7 @@
     "series"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "be",
@@ -43,26 +43,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "X-Men 3",
+      "date": "2026-11-16",
+      "audio": "https://tr.ausha.co/x5qe7Tr9Oa0M/api.soundcast.io/v1/stitch/ausha.mp3?tags=74317F9A&keywords=episodeId:x5qe7Tr9Oa0M,showId:wNNQAuJPen19&kw_applecategory=TV+%26+Film&kw_showname=Marvel+Initiative&kw_episodeid=x5qe7Tr9Oa0M&kw_podcastid=wNNQAuJPen19&kw_showrss=https%3A%2F%2Ffeed.ausha.co%2FwNNQAuJPen19&kw_language=fr&kw_position=preroll&apiKey=c1a94b3301c64853868548ac73233ca1&podcastUrl=https%3A%2F%2Faudio.ausha.co%2Fx5qe7Tr9Oa0M.mp3%3Ft%3D1794589404",
+      "duree": 8628
+    },
+    {
       "titre": "X-Men 2",
-      "date": "2026-10-19"
+      "date": "2026-10-19",
+      "audio": "https://tr.ausha.co/VdOx3c7x69ZX/api.soundcast.io/v1/stitch/ausha.mp3?tags=74317F9A&keywords=episodeId:VdOx3c7x69ZX,showId:wNNQAuJPen19&kw_applecategory=TV+%26+Film&kw_showname=Marvel+Initiative&kw_episodeid=VdOx3c7x69ZX&kw_podcastid=wNNQAuJPen19&kw_showrss=https%3A%2F%2Ffeed.ausha.co%2FwNNQAuJPen19&kw_language=fr&kw_position=preroll&apiKey=c1a94b3301c64853868548ac73233ca1&podcastUrl=https%3A%2F%2Faudio.ausha.co%2FVdOx3c7x69ZX.mp3%3Ft%3D1791284148",
+      "duree": 8464
     },
     {
       "titre": "X-Men",
-      "date": "2026-09-29"
+      "date": "2026-09-29",
+      "audio": "https://tr.ausha.co/RdWzecOzv78V/api.soundcast.io/v1/stitch/ausha.mp3?tags=74317F9A&keywords=episodeId:RdWzecOzv78V,showId:wNNQAuJPen19&kw_applecategory=TV+%26+Film&kw_showname=Marvel+Initiative&kw_episodeid=RdWzecOzv78V&kw_podcastid=wNNQAuJPen19&kw_showrss=https%3A%2F%2Ffeed.ausha.co%2FwNNQAuJPen19&kw_language=fr&kw_position=preroll&apiKey=c1a94b3301c64853868548ac73233ca1&podcastUrl=https%3A%2F%2Faudio.ausha.co%2FRdWzecOzv78V.mp3%3Ft%3D1790504390",
+      "duree": 9034
     },
     {
       "titre": "Avengers : L'Ère d'Ultron",
-      "date": "2026-09-22"
+      "date": "2026-09-22",
+      "audio": "https://tr.ausha.co/RdWzec56RPMd/api.soundcast.io/v1/stitch/ausha.mp3?tags=74317F9A&keywords=episodeId:RdWzec56RPMd,showId:wNNQAuJPen19&kw_applecategory=TV+%26+Film&kw_showname=Marvel+Initiative&kw_episodeid=RdWzec56RPMd&kw_podcastid=wNNQAuJPen19&kw_showrss=https%3A%2F%2Ffeed.ausha.co%2FwNNQAuJPen19&kw_language=fr&kw_position=preroll&apiKey=c1a94b3301c64853868548ac73233ca1&podcastUrl=https%3A%2F%2Faudio.ausha.co%2FRdWzec56RPMd.mp3%3Ft%3D1789984842",
+      "duree": 8080
     },
     {
       "titre": "Supergirl (2026)",
-      "date": "2026-09-07"
-    },
-    {
-      "titre": "Spider-Man : Brand New Day",
-      "date": "2026-08-11"
+      "date": "2026-09-07",
+      "audio": "https://tr.ausha.co/RdWzecJG4Z6Z/api.soundcast.io/v1/stitch/ausha.mp3?tags=74317F9A&keywords=episodeId:RdWzecJG4Z6Z,showId:wNNQAuJPen19&kw_applecategory=TV+%26+Film&kw_showname=Marvel+Initiative&kw_episodeid=RdWzecJG4Z6Z&kw_podcastid=wNNQAuJPen19&kw_showrss=https%3A%2F%2Ffeed.ausha.co%2FwNNQAuJPen19&kw_language=fr&kw_position=preroll&apiKey=c1a94b3301c64853868548ac73233ca1&podcastUrl=https%3A%2F%2Faudio.ausha.co%2FRdWzecJG4Z6Z.mp3%3Ft%3D1788703928",
+      "duree": 7433
     }
   ],
-  "derniere_activite": "2026-10-19",
+  "derniere_activite": "2026-11-16",
   "frequence_jours": 15
 }

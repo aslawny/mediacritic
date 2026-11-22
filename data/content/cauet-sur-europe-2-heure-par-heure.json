@@ -24,7 +24,7 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "11.11.2026 - 17h - CAUET SUR EUROPE 2",
@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-11-11",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Samss117",
+        "titre": "Quelle plaisir!",
+        "texte": "Je suis tombée sur l'émission en écoutant la Radio le matin, car marre des radios infos! besoin de rire toute la journée, et de penser à autre chose! merci à l'equipe de Cauet de nous faire passer de belle journée, drôle, 2nd degrés, et sans prise de tête! je me refais les podcas…"
+      },
+      {
+        "note": 1,
+        "auteur": "La Sauveuse d'animaux🦭🦁",
+        "titre": "y'a pas tous les podcasts",
+        "texte": "Éviter de dire des gros mots car il y a des enfants qui écoutent"
+      },
+      {
+        "note": 5,
+        "auteur": "Méliorobicdu56",
+        "titre": "J’adore 🥰",
+        "texte": "J’écoute tout le temps avec ma maman Merci à toute l’équipe 👍"
+      }
+    ]
+  }
 }

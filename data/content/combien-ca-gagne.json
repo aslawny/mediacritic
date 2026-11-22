@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/combien-%C3%A7a-gagne/id1777097394?uo=2",
       "trackId": 1777097394,
       "rating": 4.3,
-      "ratingCount": 350,
+      "ratingCount": 351,
       "episodeCount": null
     }
   },
@@ -25,31 +25,41 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "#92 - Combien ça gagne une détective privée - Carole Frémy",
+      "date": "2026-11-18",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/3b4c10fb-b45f-4165-9c14-b53b968f255d.mp3?_=1794936394",
+      "duree": 3431
+    },
+    {
+      "titre": "[ZOOM] Les chiffres de Carole Frémy - détective privée",
+      "date": "2026-11-18",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/e35ac97e-133a-49b9-a908-e4e5262f9325.mp3?_=1794937257",
+      "duree": 459
+    },
+    {
+      "titre": "#91 - Combien ça gagne un producteur de série - Alex Berger",
+      "date": "2026-11-11",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/fb221b58-fa21-46a8-9993-b222e2856110.mp3?_=1794352589",
+      "duree": 4747
+    },
+    {
+      "titre": "[ZOOM] Les chiffres d'Alex Berger - producteur de série",
+      "date": "2026-11-11",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/8521882f-20f7-434d-8039-f206b5133aac.mp3?_=1794359433",
+      "duree": 402
+    },
+    {
       "titre": "#90 - Combien ça gagne un cycliste olympique sur piste - Florian Grengbo",
-      "date": "2026-11-04"
-    },
-    {
-      "titre": "[ZOOM] Les chiffres de Mapie Jaujay - orthophoniste",
-      "date": "2026-10-28"
-    },
-    {
-      "titre": "#89 - Combien ça gagne une orthophoniste - Mapie Jaujay",
-      "date": "2026-10-28"
-    },
-    {
-      "titre": "#88 - Combien ça gagne un chanteur lyrique - Etienne Dupuis",
-      "date": "2026-10-21"
-    },
-    {
-      "titre": "[ZOOM] Les chiffres d'Etienne Dupuis - chanteur lyrique",
-      "date": "2026-10-21"
+      "date": "2026-11-04",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/9f0c73dd-0444-40e4-b858-2aa89f258b99.mp3?_=1793747401",
+      "duree": 2866
     }
   ],
-  "derniere_activite": "2026-11-04",
-  "frequence_jours": 5,
+  "derniere_activite": "2026-11-18",
+  "frequence_jours": 6,
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",

@@ -24,7 +24,7 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -53,26 +53,36 @@
   },
   "episodes_recents": [
     {
-      "titre": "WILD HORSE NINE : La SURPRISE de 2026 ?! (oui) (allez-y) 🐎",
-      "date": "2026-11-06"
+      "titre": "HUNGER GAMES 6 : Le film de TROP ? 🐦 (Lever de soleil sur la moisson)",
+      "date": "2026-11-20",
+      "audio": "https://traffic.megaphone.fm/APO7434347951.mp3",
+      "duree": 2044
     },
     {
-      "titre": "GODZILLA MINUS ZERO : Le MEILLEUR film GODZILLA ?! 🔥",
-      "date": "2026-11-04"
+      "titre": "J'ai testé le plus GRAND ÉCRAN au MONDE ! ⚡ (Vegas - Sphere)",
+      "date": "2026-11-18",
+      "audio": "https://traffic.megaphone.fm/APO4252266976.mp3",
+      "duree": 2569
     },
     {
-      "titre": "TAXE INTERNET : Le streaming va AUGMENTER ? 💲",
-      "date": "2026-11-02"
+      "titre": "IL FAUT BRÛLER MAMAN : Le dernier DUPONTEL divise ! 🔥",
+      "date": "2026-11-16",
+      "audio": "https://traffic.megaphone.fm/APO2705845144.mp3",
+      "duree": 2484
     },
     {
-      "titre": "HOPE : CHEF D'OEUVRE ou PURGE ? 💥",
-      "date": "2026-10-30"
+      "titre": "VISIONQUEST : Vous DEVEZ voir ça avant DOOMSDAY ! 🤖",
+      "date": "2026-11-13",
+      "audio": "https://traffic.megaphone.fm/APO8198712602.mp3",
+      "duree": 2199
     },
     {
-      "titre": "CLAYFACE : Ils ont le DROIT de faire ÇA ?! 🩸",
-      "date": "2026-10-28"
+      "titre": "SCROOGE : Le retour NUL de JOHNNY DEPP ? 🎀 (+ James Gunn & DC)",
+      "date": "2026-11-11",
+      "audio": "https://traffic.megaphone.fm/APO8667996597.mp3",
+      "duree": 2256
     }
   ],
-  "derniere_activite": "2026-11-06",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 2
 }

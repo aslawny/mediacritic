@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/300-plaisir/id1801775824?uo=2",
       "trackId": 1801775824,
       "rating": 4.9,
-      "ratingCount": 431,
+      "ratingCount": 432,
       "episodeCount": null
     }
   },
@@ -25,31 +25,41 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "85 - N’appelez pas votre enfant Moche ft. Lala Sagna",
+      "date": "2026-11-18",
+      "audio": "https://sphinx.acast.com/p/open/s/67c8298f48f26a4bcae4324e/e/6afc7beee234c45df1e0869c/media.mp3",
+      "duree": 3585
+    },
+    {
+      "titre": "300% Bonus #40 : Shyamalan, parmesan & vraie vie",
+      "date": "2026-11-16",
+      "audio": "https://sphinx.acast.com/p/open/s/67c8298f48f26a4bcae4324e/e/6afa5c3a08be5707d1d44fac/media.mp3",
+      "duree": 950
+    },
+    {
+      "titre": "84 - Notre invitée ne veut pas nous ken (sauf Camille) ft. Rosa Bursztein",
+      "date": "2026-11-11",
+      "audio": "https://sphinx.acast.com/p/open/s/67c8298f48f26a4bcae4324e/e/6aeba678b01610ec84b8214d/media.mp3",
+      "duree": 3615
+    },
+    {
       "titre": "300% Bonus #39 : films, concours & spectacle",
-      "date": "2026-11-09"
+      "date": "2026-11-09",
+      "audio": "https://sphinx.acast.com/p/open/s/67c8298f48f26a4bcae4324e/e/6af10990071ec4ae39e8f2e4/media.mp3",
+      "duree": 1073
     },
     {
       "titre": "83 - La montagne ça nous gagne ft. Paradiski",
-      "date": "2026-11-04"
-    },
-    {
-      "titre": "FAQ \"300% Boosters\" 🧙 (f'est furpuiffant)",
-      "date": "2026-11-02"
-    },
-    {
-      "titre": "82 - Episode flippant 😱👻🎃 (prévoyez un change) ft. Anis Rhali",
-      "date": "2026-10-28"
-    },
-    {
-      "titre": "300% Bonus #38 : Kanto Tactics, Projo & SNL",
-      "date": "2026-10-26"
+      "date": "2026-11-04",
+      "audio": "https://sphinx.acast.com/p/open/s/67c8298f48f26a4bcae4324e/e/6ae4d902b478422f911c9ac1/media.mp3",
+      "duree": 3537
     }
   ],
-  "derniere_activite": "2026-11-09",
-  "frequence_jours": 4,
+  "derniere_activite": "2026-11-18",
+  "frequence_jours": 2,
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",

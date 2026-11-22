@@ -14,7 +14,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/st%C3%A9phane-edouard-%C3%A9tudes-de-cas/id365097514?uo=2",
       "trackId": 365097514,
       "rating": 4.8,
-      "ratingCount": 281,
+      "ratingCount": 282,
       "episodeCount": null
     }
   },
@@ -23,7 +23,7 @@
     "education"
   ],
   "addedAt": "2026-05-28",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -53,23 +53,33 @@
   "episodes_recents": [
     {
       "titre": "À 26 ans et après 4 continents, elle débarque au milieu de l'océan (c'est le drame) | Étude de cas",
-      "date": "2026-10-14"
+      "date": "2026-10-14",
+      "audio": "https://www.buzzsprout.com/2059295/episodes/19961967-a-26-ans-et-apres-4-continents-elle-debarque-au-milieu-de-l-ocean-c-est-le-drame-etude-de-cas.mp3",
+      "duree": 2945
     },
     {
       "titre": "Dating : Plus rien ne marche et voici pourquoi | Étude de cas",
-      "date": "2026-09-14"
+      "date": "2026-09-14",
+      "audio": "https://www.buzzsprout.com/2059295/episodes/19796750-dating-plus-rien-ne-marche-et-voici-pourquoi-etude-de-cas.mp3",
+      "duree": 3942
     },
     {
       "titre": "Les pleurs survenus très/trop tôt ne vous sont pas destinés | Étude de cas",
-      "date": "2026-07-25"
+      "date": "2026-07-25",
+      "audio": "https://www.buzzsprout.com/2059295/episodes/19546961-les-pleurs-survenus-tres-trop-tot-ne-vous-sont-pas-destines-etude-de-cas.mp3",
+      "duree": 3761
     },
     {
       "titre": "Il part à l’autre bout du monde rejoindre sa « compagne »… Il trouve un fantôme | Étude de cas",
-      "date": "2026-07-19"
+      "date": "2026-07-19",
+      "audio": "https://www.buzzsprout.com/2059295/episodes/19514190-il-part-a-l-autre-bout-du-monde-rejoindre-sa-compagne-il-trouve-un-fantome-etude-de-cas.mp3",
+      "duree": 2844
     },
     {
       "titre": "Il faut penser ses sentiments et vice et versa | Étude de cas",
-      "date": "2026-07-08"
+      "date": "2026-07-08",
+      "audio": "https://www.buzzsprout.com/2059295/episodes/19464411-il-faut-penser-ses-sentiments-et-vice-et-versa-etude-de-cas.mp3",
+      "duree": 2978
     }
   ],
   "derniere_activite": "2026-10-14",

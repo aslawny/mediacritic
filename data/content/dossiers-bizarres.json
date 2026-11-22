@@ -29,27 +29,35 @@
   "updatedAt": "2026-11-19",
   "episodes_recents": [
     {
+      "titre": "Le Bal des monstres",
+      "date": "2026-11-17",
+      "audio": "https://dts.podtrac.com/redirect.mp3/https://baladoquebec.ca/media/le-podcast-dossiers-bizarres/le-bal-des-monstres.mp3",
+      "duree": 1445
+    },
+    {
+      "titre": "Épisode spécial Bigfoot",
+      "date": "2026-11-17",
+      "audio": "https://dts.podtrac.com/redirect.mp3/https://baladoquebec.ca/media/le-podcast-dossiers-bizarres/episode-special-bigfoot.mp3",
+      "duree": 1399
+    },
+    {
       "titre": "Agartha",
-      "date": "2026-08-28"
+      "date": "2026-08-28",
+      "audio": "https://dts.podtrac.com/redirect.mp3/https://baladoquebec.ca/media/le-podcast-dossiers-bizarres/agartha.mp3"
     },
     {
       "titre": "Le Jersey Devil",
-      "date": "2026-07-10"
+      "date": "2026-07-10",
+      "audio": "https://dts.podtrac.com/redirect.mp3/https://baladoquebec.ca/media/le-podcast-dossiers-bizarres/le-jersey-devil.mp3"
     },
     {
       "titre": "L'Immortalité",
-      "date": "2026-06-19"
-    },
-    {
-      "titre": "La Dame Toxique",
-      "date": "2026-05-22"
-    },
-    {
-      "titre": "La Disparition de Michael Clark Rockefeller",
-      "date": "2026-05-08"
+      "date": "2026-06-19",
+      "audio": "https://dts.podtrac.com/redirect.mp3/https://baladoquebec.ca/media/le-podcast-dossiers-bizarres/limmortalite.mp3",
+      "duree": 4342
     }
   ],
-  "derniere_activite": "2026-08-28",
+  "derniere_activite": "2026-11-17",
   "frequence_jours": 21,
   "avis_publics": {
     "source": "apple",

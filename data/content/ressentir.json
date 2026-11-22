@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/ressentir/id1484343129?uo=2",
       "trackId": 1484343129,
       "rating": 4.8,
-      "ratingCount": 664,
+      "ratingCount": 665,
       "episodeCount": null
     }
   },
@@ -25,7 +25,7 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,26 +54,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "[Coup de ❤️] \"Le prix à payer : ce que le couple hétéro coûte aux femmes\" avec Lucile Quillet",
+      "date": "2026-11-18",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/750ccdae-fd04-4701-95d2-4bd7eb326c6b.mp3?_=1794827198",
+      "duree": 5316
+    },
+    {
+      "titre": "[Coup de ❤️] Perla Servan-Schreiber, auteure et cuisinière - Vivre après lui",
+      "date": "2026-11-13",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/a3768cad-6032-4119-bbf7-6307680db51f.mp3?_=1793687641",
+      "duree": 3015
+    },
+    {
+      "titre": "[MOMENT] L'amour et la liberté, Perla Servan-Schreiber",
+      "date": "2026-11-11",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/78451e18-fae0-4834-a61c-e691b7b2b69a.mp3?_=1777351357",
+      "duree": 730
+    },
+    {
       "titre": "Judith Godrèche - Mémoire de fille",
-      "date": "2026-11-05"
+      "date": "2026-11-05",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/9c98fd8d-7c61-430e-b798-c68873f0d7e7.mp3?_=1793636354",
+      "duree": 3149
     },
     {
       "titre": "[MOMENT] L’amour selon Judith Godrèche",
-      "date": "2026-11-03"
-    },
-    {
-      "titre": "[série 🧬 3/3] Émilie Steinbach - Votre Assiette Optimisée",
-      "date": "2026-10-29"
-    },
-    {
-      "titre": "[MOMENT] Comment bien boire son café ? par Emilie Steinbach",
-      "date": "2026-10-27"
-    },
-    {
-      "titre": "[série 🧬 2/3] Émilie Steinbach - Votre Santé Optimisée",
-      "date": "2026-10-27"
+      "date": "2026-11-03",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/51ce1f85-cc60-4d74-b7bd-ac54230757f8.mp3?_=1793691669",
+      "duree": 360
     }
   ],
-  "derniere_activite": "2026-11-05",
+  "derniere_activite": "2026-11-18",
   "frequence_jours": 1
 }

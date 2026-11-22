@@ -27,7 +27,7 @@
     "culture geek"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -56,26 +56,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "[Sortons le grand jeu] Onirim – Shadi Torbey",
+      "date": "2026-11-20",
+      "audio": "https://podcast.proxi-jeux.fr/trac/30896/2026/11/SLGJ_42_Onirim.mp3",
+      "duree": 8600
+    },
+    {
+      "titre": "[Autour du jeu] Thunder Road: Vendetta",
+      "date": "2026-11-18",
+      "audio": "https://podcast.proxi-jeux.fr/trac/30867/2026/11/AdJ_35_Thunder_Road_Vendetta.mp3",
+      "duree": 4474
+    },
+    {
+      "titre": "[T'as joué à quoi ?] Surfosaurus MAX – Eggs of Ostrich – Nations",
+      "date": "2026-11-16",
+      "audio": "https://podcast.proxi-jeux.fr/trac/30822/2026/11/TAsJoueAQuoi_049.mp3",
+      "duree": 1845
+    },
+    {
+      "titre": "[Spiel Essen] Essen SPIEL 2026 : Le Débrief",
+      "date": "2026-11-13",
+      "audio": "https://podcast.proxi-jeux.fr/trac/30748/2026/11/Essen_Spiel_2026-Le_Debrief.mp3",
+      "duree": 25615
+    },
+    {
       "titre": "[Jeux du mois] Letter Up et Fugitif",
-      "date": "2026-11-06"
-    },
-    {
-      "titre": "[Chroniques] Chroniques – Octobre 2026",
-      "date": "2026-10-30"
-    },
-    {
-      "titre": "[Nanar ludique] Virgins",
-      "date": "2026-10-23"
-    },
-    {
-      "titre": "[Vichy] Vichy Pro 2026 : Le Débrief",
-      "date": "2026-10-16"
-    },
-    {
-      "titre": "[Un jeton dans la mare] Manoir Bizarre – Fliptoons – Ave Lemming – Journey Horizon – Déluge de Dragons – Metro",
-      "date": "2026-10-09"
+      "date": "2026-11-06",
+      "audio": "https://podcast.proxi-jeux.fr/trac/30720/2026/11/JDM_202611_Letter_up_et_Fugitif.mp3",
+      "duree": 3347
     }
   ],
-  "derniere_activite": "2026-11-06",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 6
 }

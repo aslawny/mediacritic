@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/parlons-nous/id1434411118?uo=2",
       "trackId": 1434411118,
       "rating": 3.8,
-      "ratingCount": 805,
+      "ratingCount": 806,
       "episodeCount": null
     }
   },
@@ -26,7 +26,7 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -55,6 +55,18 @@
   },
   "episodes_recents": [
     {
+      "titre": "\"Parlons Encore\" : Surmonter sa timidité",
+      "date": "2026-11-22",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/1c598bd6-161b-48f1-979f-a2fd3023c481.mp3?_=1790157787",
+      "duree": 1064
+    },
+    {
+      "titre": "Timidité : Le petit-fils de Nadia vit replié sur lui-même",
+      "date": "2026-11-22",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/7f5108f6-06b3-4fb4-938e-cc61a69f7201.mp3?_=1790157786",
+      "duree": 1955
+    },
+    {
       "titre": "\"Parlons Encore\" : La boulimie",
       "date": "2026-11-21",
       "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/4a8b663d-87ae-4908-ad0e-05d3900377f9.mp3?_=1790157784",
@@ -71,20 +83,8 @@
       "date": "2026-11-20",
       "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/3021df89-9856-4172-a013-8aa401a63571.mp3?_=1795134480",
       "duree": 255
-    },
-    {
-      "titre": "L'intégrale du 19 novembre 2026",
-      "date": "2026-11-19",
-      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/bd546384-a01b-4558-b7a2-8da226c65906.mp3?_=1795133586",
-      "duree": 7552
-    },
-    {
-      "titre": "Violences dans l'enfance : Philippe a des pertes de mémoire à cause des maltraitances subies enfant",
-      "date": "2026-11-19",
-      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/af87a090-ffc0-4fb4-a7e4-c0f0a0de9afa.mp3?_=1795131781",
-      "duree": 1301
     }
   ],
-  "derniere_activite": "2026-11-21",
+  "derniere_activite": "2026-11-22",
   "frequence_jours": 0
 }

@@ -24,7 +24,7 @@
     "business"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,23 +54,33 @@
   "episodes_recents": [
     {
       "titre": "Mary Capelle, les conseils d'une naturopathe avisée, maman et super sympa",
-      "date": "2026-06-21"
+      "date": "2026-06-21",
+      "audio": "https://sphinx.acast.com/p/acast/s/reelles-par-estelle-abbou/e/6a2ff8856edea1d9abd47256/media.mp3",
+      "duree": 4087
     },
     {
       "titre": "Mathieu Tordjman",
-      "date": "2026-05-31"
+      "date": "2026-05-31",
+      "audio": "https://sphinx.acast.com/p/acast/s/reelles-par-estelle-abbou/e/6a193f52da0413146c5511d9/media.mp3",
+      "duree": 4576
     },
     {
       "titre": "Emilie Frèche",
-      "date": "2026-05-24"
+      "date": "2026-05-24",
+      "audio": "https://sphinx.acast.com/p/acast/s/reelles-par-estelle-abbou/e/6a11d42255b99c7f89551223/media.mp3",
+      "duree": 3552
     },
     {
       "titre": "Conversations thérapeutiques avec Alix George - Thérapeute et hypnothérapeute",
-      "date": "2026-04-26"
+      "date": "2026-04-26",
+      "audio": "https://sphinx.acast.com/p/acast/s/reelles-par-estelle-abbou/e/69eda772eefc66ef2bf60b2b/media.mp3",
+      "duree": 2982
     },
     {
       "titre": "Florence Dauchez, présidente et fondatrice de Visible Média",
-      "date": "2024-06-18"
+      "date": "2024-06-18",
+      "audio": "https://sphinx.acast.com/p/acast/s/reelles-par-estelle-abbou/e/66714f82d68641f6879a652b/media.mp3",
+      "duree": 3569
     }
   ],
   "derniere_activite": "2026-06-21",

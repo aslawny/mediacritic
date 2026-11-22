@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/les-podcasts-dauden/id1507228552?uo=2",
       "trackId": 1507228552,
-      "rating": 4.3,
-      "ratingCount": 266,
+      "rating": 4.2,
+      "ratingCount": 267,
       "episodeCount": null
     }
   },
@@ -27,27 +27,37 @@
     "famille"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "La canicule",
-      "date": "2026-08-11"
+      "date": "2026-08-11",
+      "audio": "https://audio.ausha.co/bWY39sjAJR8R.mp3?t=1786453876",
+      "duree": 703
     },
     {
       "titre": "Action ou vérité",
-      "date": "2026-04-11"
+      "date": "2026-04-11",
+      "audio": "https://audio.ausha.co/owXVmsGNNezz.mp3?t=1775885365",
+      "duree": 492
     },
     {
       "titre": "La mort",
-      "date": "2026-04-11"
+      "date": "2026-04-11",
+      "audio": "https://audio.ausha.co/b28QgHDxVdEV.mp3?t=1775884054",
+      "duree": 424
     },
     {
       "titre": "Les réseaux sociaux",
-      "date": "2026-04-11"
+      "date": "2026-04-11",
+      "audio": "https://audio.ausha.co/bjQrgHxNd90d.mp3?t=1775884709",
+      "duree": 543
     },
     {
       "titre": "Aaah l'amour !",
-      "date": "2026-04-11"
+      "date": "2026-04-11",
+      "audio": "https://audio.ausha.co/omQM5HzD54O9.mp3?t=1775884947",
+      "duree": 359
     }
   ],
   "derniere_activite": "2026-08-11",

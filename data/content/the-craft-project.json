@@ -27,7 +27,7 @@
     "culture"
   ],
   "addedAt": "2026-08-05",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -56,26 +56,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "#112 Lancement du petit éloge des métiers d'art",
+      "date": "2026-11-09",
+      "audio": "https://cdn.simplecast.com/media/audio/transcoded/2ddb268b-f7e0-4c05-accf-ebf72418ca24/5c4869b0-7ee7-4791-9c69-b51db9f70ad0/episodes/audio/group/86374356-266d-4382-96ef-23c4d0a65bbd/group-item/8d9d7cb8-ce76-41b7-93a0-3537c214b82c/128_default_tc.mp3?aid=rss_feed&feed=JCPvbrs4",
+      "duree": 2210
+    },
+    {
       "titre": "#111 Jacques Maire, capitaine du pavillon France aux expositions universelles",
-      "date": "2026-10-19"
+      "date": "2026-10-19",
+      "audio": "https://cdn.simplecast.com/media/audio/transcoded/2ddb268b-f7e0-4c05-accf-ebf72418ca24/5c4869b0-7ee7-4791-9c69-b51db9f70ad0/episodes/audio/group/dde9f342-0e58-408a-a20c-db00d0f0fa05/group-item/716b501e-df14-4327-a27d-8bac761cd01a/128_default_tc.mp3?aid=rss_feed&feed=JCPvbrs4",
+      "duree": 4320
     },
     {
       "titre": "# 110 La gravure, secret d'initiés avec Edmond de Rothschild Family Philanthropy",
-      "date": "2026-07-08"
+      "date": "2026-07-08",
+      "audio": "https://cdn.simplecast.com/media/audio/transcoded/2ddb268b-f7e0-4c05-accf-ebf72418ca24/5c4869b0-7ee7-4791-9c69-b51db9f70ad0/episodes/audio/group/0e264c24-5ecd-4cee-becc-cba644cc68de/group-item/f910f850-a772-4381-a934-b0f1efcc6550/128_default_tc.mp3?aid=rss_feed&feed=JCPvbrs4",
+      "duree": 3089
     },
     {
       "titre": "#109 Tristan de Witte, l'engagement pour l'industrie des savoir-faire",
-      "date": "2026-06-01"
+      "date": "2026-06-01",
+      "audio": "https://cdn.simplecast.com/media/audio/transcoded/2ddb268b-f7e0-4c05-accf-ebf72418ca24/5c4869b0-7ee7-4791-9c69-b51db9f70ad0/episodes/audio/group/050b72ef-b524-43c2-8348-59c242a32969/group-item/cfd446d7-5877-45c9-a0c7-e5a6e2a91118/128_default_tc.mp3?aid=rss_feed&feed=JCPvbrs4",
+      "duree": 3519
     },
     {
       "titre": "#108 Jose Fonseca, le sens du devoir des compagnons",
-      "date": "2026-03-23"
-    },
-    {
-      "titre": "#107 L'engagement par la culture avec Samuel Valensi",
-      "date": "2026-02-18"
+      "date": "2026-03-23",
+      "audio": "https://cdn.simplecast.com/media/audio/transcoded/2ddb268b-f7e0-4c05-accf-ebf72418ca24/5c4869b0-7ee7-4791-9c69-b51db9f70ad0/episodes/audio/group/d2cb7dcc-19d7-4739-a686-45c9a83e24ba/group-item/86af9ecf-e5e8-444f-ac9d-3fd0148c07f7/128_default_tc.mp3?aid=rss_feed&feed=JCPvbrs4",
+      "duree": 3084
     }
   ],
-  "derniere_activite": "2026-10-19",
-  "frequence_jours": 50
+  "derniere_activite": "2026-11-09",
+  "frequence_jours": 48
 }

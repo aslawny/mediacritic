@@ -27,7 +27,7 @@
     "culture"
   ],
   "addedAt": "2026-07-24",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -57,23 +57,33 @@
   "episodes_recents": [
     {
       "titre": "[COUP DE ♥️] Pourquoi avez-vous honte de manger seul.e ?",
-      "date": "2023-08-15"
+      "date": "2023-08-15",
+      "audio": "https://sphinx.acast.com/p/acast/s/plan-culinaire/e/64c110858ab13d0012872bbd/media.mp3",
+      "duree": 2223
     },
     {
       "titre": "[COUP DE ♥️] Non, manger des carottes ne vous rendra pas aimable",
-      "date": "2023-08-15"
+      "date": "2023-08-15",
+      "audio": "https://sphinx.acast.com/p/acast/s/plan-culinaire/e/64c10fdd8577ee001125d683/media.mp3",
+      "duree": 1997
     },
     {
       "titre": "[COUP DE ♥️] Pourquoi veut-on que nos plats soient aussi beaux que bons ?",
-      "date": "2023-08-08"
+      "date": "2023-08-08",
+      "audio": "https://sphinx.acast.com/p/acast/s/plan-culinaire/e/64c0f5de8ad4d40011c83366/media.mp3",
+      "duree": 1971
     },
     {
       "titre": "[COUP DE ♥️] Pourquoi aimons-nous toujours manger la même chose ?",
-      "date": "2023-08-08"
+      "date": "2023-08-08",
+      "audio": "https://sphinx.acast.com/p/acast/s/plan-culinaire/e/64c0f2b58e16bd001145609c/media.mp3",
+      "duree": 2138
     },
     {
       "titre": "Découvrez Faites des gosses, notre podcast sur la parentalité décomplexée !",
-      "date": "2023-05-02"
+      "date": "2023-05-02",
+      "audio": "https://sphinx.acast.com/p/acast/s/plan-culinaire/e/644bda3174aba2001117d82c/media.mp3",
+      "duree": 31
     }
   ],
   "derniere_activite": "2023-08-15",

@@ -24,27 +24,31 @@
     "rénovation",
     "DIY"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-23",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Valérie 71",
+        "titre": "Belle communauté",
+        "texte": "Merci Noémie pour Storyline, un podcast fait pour moi 🤣. J’apprécie le contenu et l’emballage. Je ressors des écoutes plus intéressée et comblée que jamais. Tu éveilles mon esprit de quinquagénaire sur un monde qui me devient toujours plus accessible. Ne change rien.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Benzou",
+        "titre": "Très belle approche",
+        "texte": "Bravo pour ces premiers épisodes et pour ce nouveau format! A écouter avec attention si l’on s’intéresse au Storytelling, sujet à ne pas mettre de coté dans ce monde d'ultra compétitivité... je recommande ! Benjamin du Podcast Trajectoires"
+      },
+      {
+        "note": 5,
+        "auteur": "Alexis Equity 101",
+        "titre": "Belle découverte!",
+        "texte": "Merci Noémie pour ce super job! Un sujet que clairement je ne maîtrise pas et que je trouve passionnant - mon préféré so far l’épisode 10 avec Arthur Milles qui nous parle de marque que l’on connaît tous! Keep pushing 💪🏼🔥"
+      }
     ]
   },
   "episodes_recents": [

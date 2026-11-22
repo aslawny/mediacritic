@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/voyage-dans-lespace/id1344239847?uo=4",
       "trackId": 1344239847,
       "rating": 4.8,
-      "ratingCount": 220,
+      "ratingCount": 221,
       "episodeCount": 189
     }
   },
@@ -25,7 +25,7 @@
     "espace"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,26 +54,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "#191 - Archéoastronomie 4 - Nos premières connaissances scientifiques de l’Univers",
+      "date": "2026-11-15",
+      "audio": "https://feeds.soundcloud.com/stream/2438387133-voyagedanslespace-191-arch-oastronomie-4-nos.mp3",
+      "duree": 3621
+    },
+    {
       "titre": "#190 - Les curiosités du système solaire",
-      "date": "2026-11-01"
+      "date": "2026-11-01",
+      "audio": "https://feeds.soundcloud.com/stream/2429973699-voyagedanslespace-190-les-curiosites-du-systeme.mp3",
+      "duree": 3050
     },
     {
       "titre": "#189 - Droit spatial : les enjeux de l'heure en 2026",
-      "date": "2026-10-18"
+      "date": "2026-10-18",
+      "audio": "https://feeds.soundcloud.com/stream/2420989332-voyagedanslespace-189-droit-spatial-les-enjeux.mp3",
+      "duree": 4030
     },
     {
       "titre": "#188 - La science en marche, 3e épisode : Que savait-on, autrefois, de l’Univers ?",
-      "date": "2026-10-04"
+      "date": "2026-10-04",
+      "audio": "https://feeds.soundcloud.com/stream/2412430461-voyagedanslespace-188-la-science-en-marche-3e.mp3",
+      "duree": 3816
     },
     {
       "titre": "#187 - La folle époque des années 20",
-      "date": "2026-09-20"
-    },
-    {
-      "titre": "#186 - Archéoastronomie 3 : Pourquoi une semaine de 7 jours, des journées de 24 heures, et des heures de 60 mi",
-      "date": "2026-09-07"
+      "date": "2026-09-20",
+      "audio": "https://feeds.soundcloud.com/stream/2403487596-voyagedanslespace-187-la-folle-epoque-des-annees-20.mp3",
+      "duree": 3912
     }
   ],
-  "derniere_activite": "2026-11-01",
+  "derniere_activite": "2026-11-15",
   "frequence_jours": 14
 }

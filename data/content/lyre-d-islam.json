@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/lyre-dislam/id1676542869?uo=2",
       "trackId": 1676542869,
       "rating": 4.9,
-      "ratingCount": 409,
+      "ratingCount": 410,
       "episodeCount": null
     }
   },
@@ -26,7 +26,7 @@
     "vulgarisation"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -56,23 +56,33 @@
   "episodes_recents": [
     {
       "titre": "Les 10 dernières nuits du Ramadan",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "audio": "https://anchor.fm/s/dc0b1698/podcast/play/116719162/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-10%2F419739712-44100-2-6a875890785d7.m4a",
+      "duree": 113
     },
     {
       "titre": "Message à Allah",
-      "date": "2025-12-30"
+      "date": "2025-12-30",
+      "audio": "https://anchor.fm/s/dc0b1698/podcast/play/113264490/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-30%2F415189894-44100-2-1d2c48b6d36e9.m4a",
+      "duree": 142
     },
     {
       "titre": "Loin d'Allah",
-      "date": "2025-12-05"
+      "date": "2025-12-05",
+      "audio": "https://anchor.fm/s/dc0b1698/podcast/play/112179358/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-5%2F413800748-44100-2-6e8746eacfbf3.m4a",
+      "duree": 131
     },
     {
       "titre": "Le Jardin de la Foi",
-      "date": "2025-09-26"
+      "date": "2025-09-26",
+      "audio": "https://anchor.fm/s/dc0b1698/podcast/play/108696353/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-23%2F407991535-44100-2-9ae24feeb597b.m4a",
+      "duree": 131
     },
     {
       "titre": "Oummah, où es-tu ?",
-      "date": "2025-09-21"
+      "date": "2025-09-21",
+      "audio": "https://anchor.fm/s/dc0b1698/podcast/play/108597744/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-21%2F407865411-44100-2-651a4e6970aac.m4a",
+      "duree": 187
     }
   ],
   "derniere_activite": "2026-03-10",

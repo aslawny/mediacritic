@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/adapte-moi-si-tu-peux/id1410847586?uo=2",
       "trackId": 1410847586,
       "rating": 4.8,
-      "ratingCount": 233,
+      "ratingCount": 236,
       "episodeCount": null
     }
   },
@@ -27,27 +27,37 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "Dracula",
-      "date": "2026-10-27"
+      "date": "2026-10-27",
+      "audio": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/qbPWDi4A445y.mp3?t=1794857482",
+      "duree": 7643
     },
     {
       "titre": "Les Algues Vertes",
-      "date": "2026-09-22"
+      "date": "2026-09-22",
+      "audio": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/o998U03A8XWo.mp3?t=1790011372",
+      "duree": 4761
     },
     {
       "titre": "Entretien #19 : Léa Mysius, réalisatrice et scénariste d'Histoires de la nuit",
-      "date": "2026-09-16"
+      "date": "2026-09-16",
+      "audio": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/BQ3rIwvEYxky.mp3?t=1789311940",
+      "duree": 1465
     },
     {
       "titre": "Entretien #18 : Arthur Harari, réalisateur de L'Inconnue",
-      "date": "2026-08-28"
+      "date": "2026-08-28",
+      "audio": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/bjZOF4zAOQdb.mp3?t=1787679279",
+      "duree": 1325
     },
     {
       "titre": "L'été où je suis devenue jolie",
-      "date": "2026-08-10"
+      "date": "2026-08-10",
+      "audio": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/b3NxcJ4pONwy.mp3?t=1786313560",
+      "duree": 6053
     }
   ],
   "derniere_activite": "2026-10-27",

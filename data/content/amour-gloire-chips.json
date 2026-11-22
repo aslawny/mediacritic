@@ -26,7 +26,7 @@
     "psychologie"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "45 - Florian Berutti - Chef opérateur",
@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-03-10",
-  "frequence_jours": 28
+  "frequence_jours": 28,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mosthelpful",
+    "releve": "2026-11-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Jsdigg",
+        "titre": "Un nouveau bijoux",
+        "texte": "Drôle et directement attachant, ce nouveau projet de Damien et Pierre ressemble bien à ce qu’ils nous toujours habitué : des concepts accessibles, frais et intéressants. Prometteur, je me réjoui d’avoir un jour la chance d’être leur prochaine cible. A écouter !"
+      },
+      {
+        "note": 5,
+        "auteur": "_lunch",
+        "titre": "En définitive, super.",
+        "texte": "Beaucoup d’amour, pas mal de gloire, mais franchement très peu de chips. J’ai souvent eu envie d’intervenir dans les conversations, mais ça n’a jamais fonctionné (peut-être un problème de casque). Toujours un bon moment."
+      },
+      {
+        "note": 5,
+        "auteur": "gilchevigne",
+        "titre": "Moi j'aime bien",
+        "texte": "J'ai passé un très bon moment, je l'ai déjà écrit dans le titre mais je vais le redire: Moi j'aime bien!"
+      }
+    ]
+  }
 }

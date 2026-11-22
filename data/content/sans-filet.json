@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/sans-filet/id1695554792?uo=4",
       "trackId": 1695554792,
-      "rating": 4.7,
-      "ratingCount": 219,
+      "rating": 4.8,
+      "ratingCount": 220,
       "episodeCount": 657
     }
   },
@@ -24,7 +24,7 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -53,26 +53,36 @@
   },
   "episodes_recents": [
     {
-      "titre": "SANS FILET LE MAG : Alcaraz invincible après son sacre historique à Paris ?",
-      "date": "2026-11-09"
+      "titre": "SANS FILET - Alcaraz vs Shelton : exploit possible ?",
+      "date": "2026-11-21",
+      "audio": "https://track.podcastics.com/6267/440514.mp3",
+      "duree": 3300
     },
     {
-      "titre": "SANS FILET - Alcaraz vs Shelton : qui va remporter le Masters 1000 de Paris ?",
-      "date": "2026-11-08"
+      "titre": "SANS FILET - Masters : Arthur Fils éliminé, quel bilan ?",
+      "date": "2026-11-20",
+      "audio": "https://track.podcastics.com/6267/440403.mp3",
+      "duree": 3514
     },
     {
-      "titre": "SANS FILET - Alcaraz vs Fritz : le triomphe du génie ?",
-      "date": "2026-11-07"
+      "titre": "SANS FILET - Le tennis français a-t-il un problème de QI ?",
+      "date": "2026-11-19",
+      "audio": "https://track.podcastics.com/6267/440276.mp3",
+      "duree": 3826
     },
     {
-      "titre": "SANS FILET - Arthur Fils : défaite logique ou naufrage total à Paris ?",
-      "date": "2026-11-06"
+      "titre": "SANS FILET - ATP Masters : Arthur Fils, le rêve de qualif ?",
+      "date": "2026-11-18",
+      "audio": "https://track.podcastics.com/6267/440143.mp3",
+      "duree": 3407
     },
     {
-      "titre": "SANS FILET - Zverev, Djokovic, Medvedev : les cadors au tapis à Paris !",
-      "date": "2026-11-05"
+      "titre": "SANS FILET - Carlos Alcaraz : seul au monde ?",
+      "date": "2026-11-17",
+      "audio": "https://track.podcastics.com/6267/440009.mp3",
+      "duree": 3718
     }
   ],
-  "derniere_activite": "2026-11-09",
+  "derniere_activite": "2026-11-21",
   "frequence_jours": 0
 }

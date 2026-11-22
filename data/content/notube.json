@@ -24,7 +24,7 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "Pourquoi les créateurs ont besoin de leur syndicat ?",
@@ -50,25 +50,29 @@
   "derniere_activite": "2018-10-02",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-23",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "With My Melonhead",
+        "titre": "Intéressant, documenté & divertissant",
+        "texte": "Ça fait du bien d’entendre un podcast qui sait de quoi il parle et qui ne tombe pas dans la facilité. Au top ! Vivement la suite !"
+      },
+      {
+        "note": 3,
+        "auteur": "mimimamiloo",
+        "titre": "Mitigé",
+        "texte": "Le concept et le contenu sont intéressants, mais trop souvent de la condescendance de la part des participants (Logan Paul qui a une tête « ridicule », jugement porté sur l’humour de Tiboinshape et son accent, etc)."
+      },
+      {
+        "note": 5,
+        "auteur": "maxbesnard",
+        "titre": "JPP",
+        "texte": "Super podcast, animateur parfait, invités pertinents. Hâte d’entendre les prochains épisodes !"
+      }
     ]
   }
 }

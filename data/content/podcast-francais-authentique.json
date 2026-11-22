@@ -23,7 +23,7 @@
   "tags": [
     "histoire"
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -52,26 +52,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "Et si une vie ordinaire était une vie réussie ?",
+      "date": "2026-11-18",
+      "audio": "https://traffic.libsyn.com/secure/francaisauthentique/Et_si_une_vie_ordinaire_tait_une_vie_russie.mp3?dest-id=89717",
+      "duree": 1013
+    },
+    {
+      "titre": "Et si la France quittait l'Union européenne ? (Café Avec Johan 23)",
+      "date": "2026-11-16",
+      "audio": "https://traffic.libsyn.com/secure/francaisauthentique/Et_si_la_France_quittait_lUnion_europenne___Caf_Avec_Johan_23.mp3?dest-id=89717",
+      "duree": 1633
+    },
+    {
+      "titre": "Accepter de redevenir débutant",
+      "date": "2026-11-11",
+      "audio": "https://traffic.libsyn.com/secure/francaisauthentique/Accepter_de_redevenir_dbutant.mp3?dest-id=89717",
+      "duree": 791
+    },
+    {
+      "titre": "Test de vocabulaire - Connais-tu ces 10 mots ?",
+      "date": "2026-11-09",
+      "audio": "https://traffic.libsyn.com/secure/francaisauthentique/Test_de_vocabulaire_-_Connais-tu_ces_10_mots__.mp3?dest-id=89717",
+      "duree": 863
+    },
+    {
       "titre": "Ce que tu laisses entrer te transforme",
-      "date": "2026-11-04"
-    },
-    {
-      "titre": "Comprends les Français quand ils parlent vite : 7 phrases décodées",
-      "date": "2026-11-02"
-    },
-    {
-      "titre": "La joie d'être un amateur",
-      "date": "2026-10-28"
-    },
-    {
-      "titre": "Tu apprends des mots en français puis tu les oublies ?",
-      "date": "2026-10-26"
-    },
-    {
-      "titre": "Protéger notre attention pour rester libre",
-      "date": "2026-10-21"
+      "date": "2026-11-04",
+      "audio": "https://traffic.libsyn.com/secure/francaisauthentique/Ce_que_tu_laisses_entrer_te_transforme.mp3?dest-id=89717",
+      "duree": 894
     }
   ],
-  "derniere_activite": "2026-11-04",
-  "frequence_jours": 4
+  "derniere_activite": "2026-11-18",
+  "frequence_jours": 2
 }

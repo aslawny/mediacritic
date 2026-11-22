@@ -26,7 +26,7 @@
     "famille"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -55,26 +55,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "Anaïs, De childfree à mère ultra épanouie en famille recomposée [ÉP. 126] [Que sont-iels devenu.e.s ? Partie 2",
+      "date": "2026-11-16",
+      "audio": "https://traffic.megaphone.fm/TCS9953905133.mp3",
+      "duree": 2924
+    },
+    {
+      "titre": "Anaïs, De childfree à mère ultra épanouie en famille recomposée [ÉP. 126] [Que sont-iels devenu.e.s ? Partie 1",
+      "date": "2026-11-09",
+      "audio": "https://traffic.megaphone.fm/TCS6281985926.mp3",
+      "duree": 2774
+    },
+    {
       "titre": "ÉPISODE 39 - Marina, La vie en famille recomposée après 8 ans de maman solo [Les rediff' de l'automne]",
-      "date": "2026-11-02"
+      "date": "2026-11-02",
+      "audio": "https://traffic.megaphone.fm/TCS4076625574.mp3",
+      "duree": 3595
     },
     {
       "titre": "Lauranne, Et puis... le bébé est arrivé ! [ÉP. 109] [Que sont-ils devenus ?] [Les rediff' de l'automne]",
-      "date": "2026-10-26"
+      "date": "2026-10-26",
+      "audio": "https://traffic.megaphone.fm/TCS4744986958.mp3",
+      "duree": 4661
     },
     {
       "titre": "ÉP 83 - Lauranne, Quand l'enfant n'arrive pas alors qu'on est belle-maman [Les rediff' de l'automne]",
-      "date": "2026-10-19"
-    },
-    {
-      "titre": "Audrey, Tout ce qu’on ne soupçonne pas avant de devenir belle-mère [ÉP. 125]",
-      "date": "2026-10-12"
-    },
-    {
-      "titre": "Sabrina et Steeve, Se retrouver 9 ans et 3 enfants après [ÉP. 124, partie 2]",
-      "date": "2026-10-05"
+      "date": "2026-10-19",
+      "audio": "https://traffic.megaphone.fm/TCS9864242944.mp3",
+      "duree": 4610
     }
   ],
-  "derniere_activite": "2026-11-02",
+  "derniere_activite": "2026-11-16",
   "frequence_jours": 7
 }

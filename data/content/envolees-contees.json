@@ -25,31 +25,41 @@
     "education"
   ],
   "addedAt": "2026-05-28",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Envolées Contées lance sa première boutique de Noël !",
+      "date": "2026-11-20",
+      "audio": "https://sphinx.acast.com/p/open/s/665ddce607c9fe0013d92537/e/6b00674298701522402216a9/media.mp3",
+      "duree": 125
+    },
+    {
       "titre": "Episode 7/7 - Mia, Tom et les esprits d'automne",
-      "date": "2026-10-31"
+      "date": "2026-10-31",
+      "audio": "https://sphinx.acast.com/p/open/s/665ddce607c9fe0013d92537/e/6ae3b1f2309881b50bf5a24f/media.mp3",
+      "duree": 930
     },
     {
       "titre": "Répondeur 6 - Mia, Tom et les esprits d'automne",
-      "date": "2026-10-30"
+      "date": "2026-10-30",
+      "audio": "https://sphinx.acast.com/p/open/s/665ddce607c9fe0013d92537/e/6ae3b291309881b50bf5cb0b/media.mp3",
+      "duree": 114
     },
     {
       "titre": "Episode 6/7 - Mia, Tom et les esprits d'automne",
-      "date": "2026-10-29"
+      "date": "2026-10-29",
+      "audio": "https://sphinx.acast.com/p/open/s/665ddce607c9fe0013d92537/e/6ae22edf79221fdbff15e40e/media.mp3",
+      "duree": 957
     },
     {
       "titre": "Répondeur 5 - Mia, Tom et les esprits d'automne",
-      "date": "2026-10-28"
-    },
-    {
-      "titre": "Episode 5/7 - Mia, Tom et les esprits d'automne",
-      "date": "2026-10-27"
+      "date": "2026-10-28",
+      "audio": "https://sphinx.acast.com/p/open/s/665ddce607c9fe0013d92537/e/6ae0ff67e57912cf6f9a1502/media.mp3",
+      "duree": 102
     }
   ],
-  "derniere_activite": "2026-10-31",
-  "frequence_jours": 0,
+  "derniere_activite": "2026-11-20",
+  "frequence_jours": 1,
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",

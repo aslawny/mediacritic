@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/lheure-du-crime/id389542173?uo=4",
       "trackId": 389542173,
       "rating": 3.8,
-      "ratingCount": 3738,
+      "ratingCount": 3741,
       "episodeCount": 117
     }
   },
@@ -28,8 +28,14 @@
     "true crime",
     "société"
   ],
-  "updatedAt": "2026-11-21",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
+    {
+      "titre": "INCONTOURNABLE - L'étrangleur de la nationale 20 : 40 ans de mystère",
+      "date": "2026-11-21",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/13b1c6bc-1a84-461f-8f60-2bb6ac463a7f.mp3?_=1790686095",
+      "duree": 2315
+    },
     {
       "titre": "INCONTOURNABLE - Affaire Maeva Rousseau : l'obsession fatale de la vengeance",
       "date": "2026-11-20",
@@ -53,14 +59,8 @@
       "date": "2026-11-19",
       "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/10b3cd7b-d814-4be6-9e43-3d0024672f3f.mp3?_=1795101432",
       "duree": 2321
-    },
-    {
-      "titre": "L'ENQUÊTE - Philippe Charuel : que s'est-il passé la nuit de son meurtre ?",
-      "date": "2026-11-19",
-      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/191a26c8-f922-4e36-aa8d-c65b8f86149b.mp3?_=1795101481",
-      "duree": 793
     }
   ],
-  "derniere_activite": "2026-11-20",
+  "derniere_activite": "2026-11-21",
   "frequence_jours": 0
 }

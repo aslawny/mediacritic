@@ -25,7 +25,7 @@
     "histoire"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,26 +54,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "Déjà débordée… mais elle voulait ouvrir 3 micro-crèches",
+      "date": "2026-11-16",
+      "audio": "https://audio.ausha.co/YPzA1F8QrAmN.mp3?t=1794560661",
+      "duree": 1747
+    },
+    {
+      "titre": "Ta to-do list ne sert à rien si tu diriges une micro-crèche",
+      "date": "2026-11-09",
+      "audio": "https://audio.ausha.co/BQdgzRcPnkz7.mp3?t=1793987459",
+      "duree": 517
+    },
+    {
       "titre": "Dirigeant de micro-crèche : Comment être moins présent, mais plus efficace",
-      "date": "2026-11-02"
+      "date": "2026-11-02",
+      "audio": "https://audio.ausha.co/nr2x1TJX4vxX.mp3?t=1793285132",
+      "duree": 715
     },
     {
       "titre": "De places vides à une image qui attire les familles : le cas de Morgane",
-      "date": "2026-10-26"
+      "date": "2026-10-26",
+      "audio": "https://audio.ausha.co/jeEDkiX4Akl2.mp3?t=1792747480",
+      "duree": 1840
     },
     {
       "titre": "Micro-crèche : comment sortir du lot grâce à son identité de marque ?",
-      "date": "2026-10-19"
-    },
-    {
-      "titre": "Ce que les parents regardent vraiment avant de choisir une crèche",
-      "date": "2026-10-12"
-    },
-    {
-      "titre": "Comment différencier sa micro-crèche de la concurrence ?",
-      "date": "2026-10-05"
+      "date": "2026-10-19",
+      "audio": "https://audio.ausha.co/vpe7aTmx9lMa.mp3?t=1791886776",
+      "duree": 1422
     }
   ],
-  "derniere_activite": "2026-11-02",
+  "derniere_activite": "2026-11-16",
   "frequence_jours": 7
 }

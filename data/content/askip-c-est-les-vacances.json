@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/askip-cest-les-vacances/id1754527563?uo=2",
       "trackId": 1754527563,
       "rating": 4.5,
-      "ratingCount": 713,
+      "ratingCount": 714,
       "episodeCount": null
     }
   },
@@ -27,27 +27,37 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "Dixième jour (Toussaint 2025)",
-      "date": "2026-10-30"
+      "date": "2026-10-30",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2848097.mp3?origin=rss",
+      "duree": 391
     },
     {
       "titre": "Neuvième jour (Toussaint 2025)",
-      "date": "2026-10-29"
+      "date": "2026-10-29",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2848070.mp3?origin=rss",
+      "duree": 356
     },
     {
       "titre": "Huitième jour (Toussaint 2025)",
-      "date": "2026-10-28"
+      "date": "2026-10-28",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2848049.mp3?origin=rss",
+      "duree": 314
     },
     {
       "titre": "Septième jour ( Toussaint 2025)",
-      "date": "2026-10-27"
+      "date": "2026-10-27",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2848042.mp3?origin=rss",
+      "duree": 328
     },
     {
       "titre": "Sixième jour (Toussaint 2025)",
-      "date": "2026-10-26"
+      "date": "2026-10-26",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2848031.mp3?origin=rss",
+      "duree": 329
     }
   ],
   "derniere_activite": "2026-10-30",

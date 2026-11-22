@@ -27,7 +27,7 @@
     "cuisine"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -57,23 +57,33 @@
   "episodes_recents": [
     {
       "titre": "( rediff) 7-Juan Arbelaez: \" Je dois tout à la France. \"",
-      "date": "2026-04-09"
+      "date": "2026-04-09",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/f6c4a665-7eb0-402f-9724-e156ccc20428.mp3?_=1775727722",
+      "duree": 3413
     },
     {
       "titre": "Antoine de Jerphanion: \" Arrêtons de mettre de la politique partout\".",
-      "date": "2026-01-27"
+      "date": "2026-01-27",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/061d1ac1-d870-4028-ba02-398499afde54.mp3?_=1769479900",
+      "duree": 3625
     },
     {
       "titre": "05-Aïssa Maïga: \" Je ne me souviens pas de la dernière fois que j'ai vu mon père. Mais je me souviens de la pr",
-      "date": "2026-01-05"
+      "date": "2026-01-05",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/b68b8cc8-b89e-4193-ad01-9760e868e220.mp3?_=1767630667",
+      "duree": 3646
     },
     {
       "titre": "62- Olivier Soubrane: \" On s'attache inévitablement à ses patients\".",
-      "date": "2025-12-26"
+      "date": "2025-12-26",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/6ae00de3-7c91-45fc-8416-141adc15d61c.mp3?_=1766763878",
+      "duree": 3263
     },
     {
       "titre": "61- Edouard Bielle: \" Adolescent, j'avais besoin d'être amoureux d'une fille chaque année.\"",
-      "date": "2025-12-15"
+      "date": "2025-12-15",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/24aede1e-d0ae-41e9-9c12-9c5a5933fef1.mp3?_=1765872700",
+      "duree": 3722
     }
   ],
   "derniere_activite": "2026-04-09",

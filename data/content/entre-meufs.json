@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/entre-meufs/id1794331899?uo=2",
       "trackId": 1794331899,
       "rating": 4.3,
-      "ratingCount": 377,
+      "ratingCount": 376,
       "episodeCount": null
     }
   },
@@ -25,30 +25,40 @@
     "news"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Elles ont découvert l’infidélité de manière... insolite",
+      "date": "2026-11-16",
+      "audio": "https://sphinx.acast.com/p/open/s/67756ee6c82b0a6413cbcf4a/e/6af9b6dda1816a5896a406e2/media.mp3",
+      "duree": 2978
+    },
+    {
+      "titre": "La jungle du dating vu par des hommes",
+      "date": "2026-11-09",
+      "audio": "https://sphinx.acast.com/p/open/s/67756ee6c82b0a6413cbcf4a/e/6aed990f67359c8373b76b7c/media.mp3",
+      "duree": 4158
+    },
+    {
       "titre": "Sexe, Fails & Sans Tabou",
-      "date": "2026-11-02"
+      "date": "2026-11-02",
+      "audio": "https://sphinx.acast.com/p/open/s/67756ee6c82b0a6413cbcf4a/e/6ae347b339c71ad1741e2f04/media.mp3",
+      "duree": 2520
     },
     {
       "titre": "L'Histoire Sombre de Paris : Secrets, Fantômes et Légendes",
-      "date": "2026-10-31"
+      "date": "2026-10-31",
+      "audio": "https://sphinx.acast.com/p/open/s/67756ee6c82b0a6413cbcf4a/e/6ae0713229dd53209d7b9f1d/media.mp3",
+      "duree": 2897
     },
     {
       "titre": "Je lis mes journaux intimes",
-      "date": "2026-10-26"
-    },
-    {
-      "titre": "Voisins de l'ENFER OMG",
-      "date": "2026-10-19"
-    },
-    {
-      "titre": "L’orgasme, mais pas comme prévu",
-      "date": "2026-10-12"
+      "date": "2026-10-26",
+      "audio": "https://sphinx.acast.com/p/open/s/67756ee6c82b0a6413cbcf4a/e/6adb2bdd4281670f07cce831/media.mp3",
+      "duree": 3867
     }
   ],
-  "derniere_activite": "2026-11-02",
+  "derniere_activite": "2026-11-16",
   "frequence_jours": 7,
   "avis_publics": {
     "source": "apple",

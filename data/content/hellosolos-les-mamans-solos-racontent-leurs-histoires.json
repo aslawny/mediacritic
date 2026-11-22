@@ -27,30 +27,40 @@
     "famille"
   ],
   "addedAt": "2026-06-18",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Aude, ma nouvelle quête",
+      "date": "2026-11-16",
+      "audio": "https://sphinx.acast.com/p/open/s/61b89a6b041ba300144a541d/e/6afa2ba4f09986feaf0e3757/media.mp3",
+      "duree": 2946
+    },
+    {
       "titre": "Margot, constellation familiale",
-      "date": "2026-10-26"
+      "date": "2026-10-26",
+      "audio": "https://sphinx.acast.com/p/open/s/61b89a6b041ba300144a541d/e/6ade68a5296f30f8e3b49f49/media.mp3",
+      "duree": 3585
     },
     {
       "titre": "Amélie, changer de carapace",
-      "date": "2026-10-19"
+      "date": "2026-10-19",
+      "audio": "https://sphinx.acast.com/p/open/s/61b89a6b041ba300144a541d/e/6ad52342336b44639e0322e8/media.mp3",
+      "duree": 2462
     },
     {
       "titre": "Stella, publicité mensongère",
-      "date": "2026-10-12"
+      "date": "2026-10-12",
+      "audio": "https://sphinx.acast.com/p/open/s/61b89a6b041ba300144a541d/e/6acba277937a3c900f76d729/media.mp3",
+      "duree": 2341
     },
     {
       "titre": "Tressy, nouvelle abonnée",
-      "date": "2026-06-29"
-    },
-    {
-      "titre": "Marion, l'amour old school",
-      "date": "2026-06-22"
+      "date": "2026-06-29",
+      "audio": "https://sphinx.acast.com/p/open/s/61b89a6b041ba300144a541d/e/6a41989326d5a6687a4cf1b9/media.mp3",
+      "duree": 2221
     }
   ],
-  "derniere_activite": "2026-10-26",
+  "derniere_activite": "2026-11-16",
   "frequence_jours": 7,
   "avis_publics": {
     "source": "apple",

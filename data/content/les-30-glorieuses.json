@@ -24,7 +24,7 @@
     "comedie"
   ],
   "addedAt": "2026-08-02",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,23 +54,33 @@
   "episodes_recents": [
     {
       "titre": "C’est pas vaudou",
-      "date": "2025-05-09"
+      "date": "2025-05-09",
+      "audio": "https://anchor.fm/s/47eee7a0/podcast/play/102434850/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-9%2Fce05e88f-0450-7d69-54ff-cce7f9147a6e.mp3",
+      "duree": 4298
     },
     {
       "titre": "FITNA PARK",
-      "date": "2025-04-24"
+      "date": "2025-04-24",
+      "audio": "https://anchor.fm/s/47eee7a0/podcast/play/101740486/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-24%2Faf5877c3-3eba-d293-177e-9d1a79915877.mp3",
+      "duree": 4766
     },
     {
       "titre": "Best ouf du lundi",
-      "date": "2025-04-14"
+      "date": "2025-04-14",
+      "audio": "https://anchor.fm/s/47eee7a0/podcast/play/101285855/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-14%2Ff572ea18-b10a-8bca-f6d9-f03f6ab992e0.mp3",
+      "duree": 3198
     },
     {
       "titre": "Best of du jour",
-      "date": "2025-03-11"
+      "date": "2025-03-11",
+      "audio": "https://anchor.fm/s/47eee7a0/podcast/play/99718786/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-11%2Ffeac2e82-a3ec-e8ef-de31-b4de53d09a59.mp3",
+      "duree": 3120
     },
     {
       "titre": "Assurance tous rires",
-      "date": "2025-01-10"
+      "date": "2025-01-10",
+      "audio": "https://anchor.fm/s/47eee7a0/podcast/play/96878713/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-10%2F1c776db1-c81e-ad9c-665a-cedd071bc531.mp3",
+      "duree": 4372
     }
   ],
   "derniere_activite": "2025-05-09",

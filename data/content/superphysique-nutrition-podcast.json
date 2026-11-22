@@ -23,7 +23,7 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -52,26 +52,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "La MUSCULATION vous ABÎME (Et comment éviter ça)",
+      "date": "2026-11-20",
+      "audio": "https://feeds.soundcloud.com/stream/2437290945-superphysiquepodcast-la-musculation-cest-de-pire-en.mp3",
+      "duree": 3514
+    },
+    {
+      "titre": "Ils se TROMPENT tous sur l'ENTRAÎNEMENT de FORCE max (C'est un Sketch !)",
+      "date": "2026-11-13",
+      "audio": "https://feeds.soundcloud.com/stream/2433475356-superphysiquepodcast-ils-se-trompent-tous-sur.mp3",
+      "duree": 3401
+    },
+    {
       "titre": "Ce qui PERMET de VRAIMENT progresser sans dopage",
-      "date": "2026-11-06"
+      "date": "2026-11-06",
+      "audio": "https://feeds.soundcloud.com/stream/2419810461-superphysiquepodcast-ce-qui-permet-de-vraiment.mp3",
+      "duree": 3273
     },
     {
       "titre": "Le système OUBLIÉ pour la LONGEVITÉ (Et comment l'entraîner)",
-      "date": "2026-10-23"
+      "date": "2026-10-23",
+      "audio": "https://feeds.soundcloud.com/stream/2415552714-superphysiquepodcast-le-systeme-oublie-pour-la.mp3",
+      "duree": 3527
     },
     {
       "titre": "La KINESIOPHOBIE est-elle JUSTIFIEE ? (Il sort enfin du silence)",
-      "date": "2026-10-21"
-    },
-    {
-      "titre": "Peut-on VRAIMENT tout faire pour DURER ? (La vérité)",
-      "date": "2026-10-16"
-    },
-    {
-      "titre": "Voici POURQUOI vous avez MAL aux EPAULES (quels exercices faire ?)",
-      "date": "2026-10-02"
+      "date": "2026-10-21",
+      "audio": "https://feeds.soundcloud.com/stream/2423094153-superphysiquepodcast-la-kinesiophobie-est-elle.mp3",
+      "duree": 3116
     }
   ],
-  "derniere_activite": "2026-11-06",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 7
 }

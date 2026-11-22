@@ -25,7 +25,7 @@
     "humour"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
       "titre": "L'échec des blockbusters français au cinéma...",
@@ -51,25 +51,29 @@
   "derniere_activite": "2026-11-09",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-23",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-22",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Olivierlevrai",
+        "titre": "Mon podcast préféré du moment",
+        "texte": "À chaque fois un super moment de rigolade. Je connaissais à la base chacun séparément : Nathan comme le génie du stand-up parisien, Adam comme le prodige de YouTube.…"
+      },
+      {
+        "note": 5,
+        "auteur": "lagatodeder",
+        "titre": "Avis",
+        "texte": "Salut, je voulais juste vous dire que j’adore votre podcast. Vous me faites beaucoup rire. Je suis assez d’accord avec vous sur les 400 coups, c’est un film que j’aime bien mais sans plus. En tout cas continuez parce que j’attends le podcast toute les semaines avec impatience."
+      },
+      {
+        "note": 5,
+        "auteur": "c_tatou",
+        "titre": "CONTINUUUEEZ !!",
+        "texte": "J’adore votre podcast ! J’adore la dynamique de votre duo, vous êtes drôles et rendez le cinéma / analyse accessible pour moi ! J’apprends tout en me divertissant ! Merci pour votre travail 💪"
+      }
     ]
   }
 }

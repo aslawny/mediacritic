@@ -25,7 +25,7 @@
     "business"
   ],
   "addedAt": "2026-09-17",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -55,23 +55,33 @@
   "episodes_recents": [
     {
       "titre": "Sans Filtre 006 - Mon plan en 3 temps après les émeutes de Paris",
-      "date": "2026-11-09"
+      "date": "2026-11-09",
+      "audio": "https://audio.ausha.co/bzYQdURpGMKl.mp3?t=1793987147",
+      "duree": 2315
     },
     {
       "titre": "Sans Filtre 005 - HPI, TDAH, DYS : le mensonge qu'on raconte aux parents.",
-      "date": "2026-10-19"
+      "date": "2026-10-19",
+      "audio": "https://audio.ausha.co/y01zJfP9xmAL.mp3?t=1792160044",
+      "duree": 2521
     },
     {
       "titre": "Sans Filtre 004 - Je suis nul aux Spartan Race (et j'y retourne chaque année)",
-      "date": "2026-10-12"
+      "date": "2026-10-12",
+      "audio": "https://audio.ausha.co/o9KJVi5GZJWP.mp3?t=1791471486",
+      "duree": 4440
     },
     {
       "titre": "Sans Filtre 003 - Je détruis les coachs en productivité.",
-      "date": "2026-10-05"
+      "date": "2026-10-05",
+      "audio": "https://audio.ausha.co/oZgNJf1LG4w1.mp3?t=1790967947",
+      "duree": 3407
     },
     {
       "titre": "Sans Filtre 002 - La stupidité est une loi physique (c'est pas le QI).",
-      "date": "2026-09-28"
+      "date": "2026-09-28",
+      "audio": "https://audio.ausha.co/omXnjs8l5D91.mp3?t=1790362783",
+      "duree": 2009
     }
   ],
   "derniere_activite": "2026-11-09",

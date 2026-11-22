@@ -25,7 +25,7 @@
     "vulgarisation"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -54,26 +54,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "Pourquoi je recommande ce documentaire sur l'évangile de la prospérité? (Épisode 527)",
+      "date": "2026-11-19",
+      "audio": "https://media.transistor.fm/19013d03/bd94980b.mp3",
+      "duree": 1796
+    },
+    {
+      "titre": "Que penser des constellations familiales? (Épisode 526)",
+      "date": "2026-11-12",
+      "audio": "https://media.transistor.fm/5e5e98b8/e05e65ee.mp3",
+      "duree": 1636
+    },
+    {
       "titre": "Le Carbone 14 peut-il parler du déluge? (Épisode 525)",
-      "date": "2026-11-05"
+      "date": "2026-11-05",
+      "audio": "https://media.transistor.fm/60271796/fa9a5018.mp3",
+      "duree": 1501
     },
     {
       "titre": "Ma famille non-croyante est-elle un danger pour ma foi? (Épisode 524)",
-      "date": "2026-10-30"
+      "date": "2026-10-30",
+      "audio": "https://media.transistor.fm/26cafb30/eda51c1f.mp3",
+      "duree": 944
     },
     {
       "titre": "Pourquoi l’église a-t-elle partagé ses biens? (Épisode 523)",
-      "date": "2026-10-22"
-    },
-    {
-      "titre": "Comment sortir pleinement du Nouvel Age? (Épisode 522)",
-      "date": "2026-10-16"
-    },
-    {
-      "titre": "Comment l'Évangile touche le Nouvel Age? (Épisode 521)",
-      "date": "2026-10-09"
+      "date": "2026-10-22",
+      "audio": "https://media.transistor.fm/5ff5f772/e5884c7d.mp3",
+      "duree": 1348
     }
   ],
-  "derniere_activite": "2026-11-05",
+  "derniere_activite": "2026-11-19",
   "frequence_jours": 7
 }

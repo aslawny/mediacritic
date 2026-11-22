@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/au-fil-de-lhistoire/id1688363720?uo=2",
       "trackId": 1688363720,
       "rating": 4.2,
-      "ratingCount": 675,
+      "ratingCount": 676,
       "episodeCount": null
     }
   },
@@ -26,30 +26,40 @@
     "news"
   ],
   "addedAt": "2026-05-31",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Vices & Vertus : chronique des bordels - Madame Clémence et le sexe en affaires (3/6) [rediffusion]",
+      "date": "2026-11-17",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/d1e58254-20b0-477b-8e58-557e542153c8.mp3?_=1782829179",
+      "duree": 1053
+    },
+    {
+      "titre": "Vices & Vertus : chronique des bordels - Gaby, égérie des nuits parisiennes (2/6) [rediffusion]",
+      "date": "2026-11-10",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/1779ff59-eff2-4941-8ea0-07a0a314f672.mp3?_=1782829177",
+      "duree": 1121
+    },
+    {
       "titre": "Vices & Vertus : chronique des bordels - Jeanne Boudard, jeune plume sans tabou (1/6) [rediffusion]",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/482ee4b5-9944-4f6f-831e-8c9bf49b07ba.mp3?_=1782829173",
+      "duree": 901
     },
     {
       "titre": "Bande-annonce] Vices & Vertus : chronique des bordels [rediffusion]",
-      "date": "2026-10-27"
+      "date": "2026-10-27",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/0819a7b0-2397-4988-8137-0b70403d76f7.mp3?_=1782829186",
+      "duree": 50
     },
     {
       "titre": "Les procès de l'Histoire - Henriette Caillaux (1/2) [rediffusion]",
-      "date": "2026-10-20"
-    },
-    {
-      "titre": "Les procès de l'Histoire - Henriette Caillaux (2/2) [rediffusion]",
-      "date": "2026-10-19"
-    },
-    {
-      "titre": "Les procès de l'Histoire - Le duc d'Enghien (1/2) [rediffusion]",
-      "date": "2026-10-13"
+      "date": "2026-10-20",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/4265b5c3-ebe8-42e1-98fc-1b599b53c401.mp3?_=1781714419",
+      "duree": 1679
     }
   ],
-  "derniere_activite": "2026-11-03",
+  "derniere_activite": "2026-11-17",
   "frequence_jours": 6,
   "avis_publics": {
     "source": "apple",
