@@ -36,33 +36,43 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "L'affaire Bravo : Florence, empoisonneuse ou épouse maltraitée ? [3/3]",
+      "date": "2026-11-20",
+      "audio": "https://sphinx.acast.com/p/open/s/6a54d188420a266ecbc41b57/e/6ae9e53e6bf03d95801905dd/media.mp3",
+      "duree": 1440
+    },
+    {
+      "titre": "L'affaire Bravo : les 55 heures d'agonie de Charles... [2/3]",
+      "date": "2026-11-13",
+      "audio": "https://sphinx.acast.com/p/open/s/6a54d188420a266ecbc41b57/e/6ae9e4d0e6f94e04194dcec4/media.mp3",
+      "duree": 1485
+    },
+    {
       "titre": "L'affaire Bravo : qui se cache au Prieuré de Balham ? [1/3]",
-      "date": "2026-11-06"
+      "date": "2026-11-06",
+      "audio": "https://sphinx.acast.com/p/open/s/6a54d188420a266ecbc41b57/e/6ae9e43ab1966848f38e328a/media.mp3",
+      "duree": 1605
     },
     {
       "titre": "L'affaire Bravo : le mystère de Balham",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "audio": "https://sphinx.acast.com/p/open/s/6a54d188420a266ecbc41b57/e/6ae8af1598a5c8b2e3662bad/media.mp3",
+      "duree": 166
     },
     {
       "titre": "L'affaire Harry Oakes : qui a vraiment tué le plus riche résident des Bahamas ? [INTÉGRALE]",
-      "date": "2026-10-30"
-    },
-    {
-      "titre": "L'affaire Mary Bell : payée pour raconter son crime ?",
-      "date": "2026-10-23"
-    },
-    {
-      "titre": "L'affaire Mary Bell : Elle a ri aux funérailles...",
-      "date": "2026-10-16"
+      "date": "2026-10-30",
+      "audio": "https://sphinx.acast.com/p/open/s/6a54d188420a266ecbc41b57/e/6adb22c08d92a22156adcfae/media.mp3",
+      "duree": 2761
     }
   ],
-  "derniere_activite": "2026-11-06",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 7,
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
-    "tri": "mosthelpful",
-    "releve": "2026-11-16",
+    "tri": "mostrecent",
+    "releve": "2026-11-22",
     "extraits": [
       {
         "note": 5,
