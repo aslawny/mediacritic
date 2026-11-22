@@ -36,7 +36,7 @@ GA = "G-3W2VTTEWG8"
 PAGE = "podcasts-independants.html"
 # Les independants ont moins d'avis que les grandes radios : le plancher
 # du classement general (500) n'en laisserait presque aucun.
-PLANCHER_AVIS = 100
+PLANCHER_AVIS = 50       # 22/11/2026 (decision de l'utilisateur), 100 avant
 M_BAYES = 100
 TAILLE = 50
 

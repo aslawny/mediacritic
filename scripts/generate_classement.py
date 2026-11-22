@@ -6,7 +6,7 @@ Genere classement.html : les classements MediaCritic.
 Quatre classements, chacun repondant a une question differente. Aucun n'est
 fabrique : tous reposent sur des donnees reellement presentes.
 
-  1. Les mieux notes      note Apple, moyenne bayesienne, PLANCHER 500 avis
+  1. Les mieux notes      note Apple, moyenne bayesienne, PLANCHER 50 avis (500 avant le 22/11/2026)
   2. Les plus populaires  volume d'avis Apple
   3. Top chaines YouTube  abonnes
   4. Les pepites          notes MediaCritic
@@ -38,7 +38,9 @@ from charte import appliquer as charte_appliquer  # noqa: E402  en-tete/pied uni
 ROOT = Path(__file__).parent.parent
 BASE = "https://www.mediacritic.fr"
 GA = "G-3W2VTTEWG8"
-PLANCHER_AVIS = 500
+# 22/11/2026 (decision de l'utilisateur) : 50 avis, comme les categories et
+# le guide des independants ; M_BAYES garde le poids des notes sur peu d'avis.
+PLANCHER_AVIS = 50
 M_BAYES = 500
 
 
