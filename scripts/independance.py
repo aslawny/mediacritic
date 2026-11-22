@@ -89,7 +89,10 @@ MOTS_EXCLUS = re.compile(
 # attrapait par hasard).
 EDITEURS_EXCLUS += ["rtl2", "tsfjazz", "bfmtv", "rts", "l equipe", "quelle histoire",
                     # Marques (paris sportifs) : jamais « independant » ni mises en avant.
-                    "winamax", "betclic", "unibet", "parions sport", "pmu", "fdj"]
+                    "winamax", "betclic", "unibet", "parions sport", "pmu", "fdj",
+                    # Sites medias (decision de l'utilisateur, 22/11/2026, ep. 56) :
+                    # meme autofinances, ce sont des marques, pas des createurs.
+                    "senscritique"]
 
 # Noms faits de mots courants : exclus seulement s'ils sont le nom entier.
 NOMS_ENTIERS = {"le monde", "elle", "capital", "challenges", "brut",
@@ -118,6 +121,7 @@ EXCLUS_YOUTUBE = [
     "automotomagazine", "medi1tv", "prime video", "dc super hero", "francetv", "flapacha",
     "lou la serie",
     "quelle histoire",
+    "senscritique",
     # Une chaine d'homme ou de parti politique n'est pas un « createur
     # independant » : le mot y prendrait un sens politique.
     "jean luc melenchon", "florian philippot", "eric zemmour", "emmanuel macron",
