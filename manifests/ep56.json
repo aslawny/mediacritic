@@ -1,0 +1,57 @@
+{
+  "ep": 56,
+  "saison": 2,
+  "slug": "senscritique",
+  "page": "senscritique.html",
+  "title": "SensCritique",
+  "tagline": "Le bouche-à-oreille culturel",
+  "meta_desc": "MediaCritic critique SensCritique, le site où l'on note films, séries, livres et jeux : les éclaireurs, une note qui n'est pas à vendre, et nos réserves.",
+  "cover": "https://yt3.googleusercontent.com/oiKp560U_96hoFwlLJP8xMenaS6ThRaZhx1KuDhaKtnXj2je_qkqecqonBxNg28YsY6_g88eww=s800-c-k-c0x00ffffff-no-rj",
+  "initials": "SC",
+  "type_line": "Site culturel · Chaîne YouTube · Cinéma · Depuis 2011",
+  "hosts_line": "Animé par <strong>Lolo · Alex</strong>",
+  "authors": [
+    "Lolo",
+    "Alex"
+  ],
+  "buttons": [
+    {
+      "href": "https://www.senscritique.com/",
+      "label": "🌐 Le site"
+    },
+    {
+      "href": "https://www.youtube.com/channel/UC0z41jmnOz-YHrmECr9sVzw",
+      "label": "▶ La chaîne"
+    }
+  ],
+  "note": 8,
+  "verdict": "Le bouche-à-oreille culturel sans boutique : une communauté construite autour du goût, pas du panier. Exigeante à l'entrée, précieuse une fois dedans.",
+  "content_file": "manifests/ep56-content.html",
+  "content": {
+    "slug": "senscritique",
+    "title": "SensCritique",
+    "author": "SensCritique",
+    "type": "youtube",
+    "categories": [
+      "cinema",
+      "series",
+      "culture"
+    ],
+    "description": "La chaîne YouTube de SensCritique, le site culturel francophone fondé en 2011 par Kevin Kuipers, Guillaume Boutin et Clément Apap, où l'on découvre, note et critique films, séries, livres, BD, jeux vidéo et musique. Interviews de réalisateurs et d'acteurs, coulisses de tournage et coups de cœur de l'équipe.",
+    "image": "https://yt3.googleusercontent.com/oiKp560U_96hoFwlLJP8xMenaS6ThRaZhx1KuDhaKtnXj2je_qkqecqonBxNg28YsY6_g88eww=s800-c-k-c0x00ffffff-no-rj",
+    "language": "fr",
+    "platforms": {
+      "youtube": {
+        "url": "https://www.youtube.com/channel/UC0z41jmnOz-YHrmECr9sVzw",
+        "channelId": "UC0z41jmnOz-YHrmECr9sVzw",
+        "subscribers": 33700
+      }
+    },
+    "tags": [
+      "cinema",
+      "series",
+      "culture",
+      "critique"
+    ]
+  }
+}
