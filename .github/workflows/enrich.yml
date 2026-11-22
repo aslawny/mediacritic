@@ -89,7 +89,7 @@ jobs:
 
       # 3. Dépendances
       - name: Install dependencies
-        run: pip install --quiet requests
+        run: pip install --quiet requests pillow
 
       # 4. Détermination du mode — cycle : podcast → youtube → refresh → podcast …
       #    Le fichier .run_state dans gh-pages mémorise le dernier mode exécuté.
@@ -215,7 +215,7 @@ jobs:
         run: |
           # independants, label des episodes et podcast du jour : pages derivees
           # ajoutees le 24-25/10/2026 (elles doivent suivre le catalogue chaque nuit).
-          for s in generate_classement generate_comparateur generate_independants patch_indep_episodes generate_du_jour generate_mystere patch_ecoute_episodes generate_ecouter generate_badges generate_youtube; do
+          for s in generate_classement generate_comparateur generate_independants patch_indep_episodes generate_du_jour generate_mystere patch_ecoute_episodes generate_ecouter generate_badges generate_youtube generate_rangs; do
             if [ -f "scripts/$s.py" ]; then
               python "scripts/$s.py"
             else
