@@ -194,9 +194,14 @@
     // grande vignette (cartes) : bouton pose dans le coin de l'image.
     var hote = img.parentElement === a ? a : img.parentElement;
     var petit = (img.getBoundingClientRect().width || img.width || 0) < 90;
-    if (petit && a.parentElement && a.parentElement.tagName === 'LI') {
+    if (petit) {
+      // Ligne de classement : jamais en surimpression (elle masquerait la note,
+      // palmares). Dans un <li> : apres le lien ; ligne en flex : en fin de ligne.
       b.classList.add('mc-ec-carte-ligne');
-      a.insertAdjacentElement('afterend', b);
+      var flex = /flex/.test(getComputedStyle(a).display);
+      if (a.parentElement && a.parentElement.tagName === 'LI') a.insertAdjacentElement('afterend', b);
+      else if (flex) a.appendChild(b);
+      else a.insertAdjacentElement('afterend', b);
     } else {
       hote.classList.add('mc-ec-hote');
       // Image posee directement dans la carte : coin haut droit (le bas porte le texte).
