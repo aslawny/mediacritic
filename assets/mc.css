@@ -340,3 +340,4 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{ou
 .card-langue{position:absolute;left:8px;top:8px;z-index:2;padding:2px 7px;border-radius:6px;background:rgba(10,14,22,.82);color:#fff;font-size:11px;font-weight:800;letter-spacing:.04em}
 @media (max-width:640px){.mc-langues{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none}.mc-langue{flex:none}}
 a.mc-langue,span.mc-langue{display:inline-flex;align-items:center;text-decoration:none}
+.filter-btn[hidden]{display:none!important}
