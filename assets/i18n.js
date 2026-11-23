@@ -218,6 +218,12 @@
     if (d) { var dt = traduire(d.content); if (dt) d.content = dt.trim(); }
     appliquerBlocs(document.body);
     noeud(document.body);
+    // Titre d'onglet change par la page (filtres de l'annuaire) : retraduit.
+    var titre = document.querySelector('title');
+    if (titre) new MutationObserver(function () {
+      var tt = traduire(document.title);
+      if (tt && tt.trim() !== document.title) document.title = tt.trim();
+    }).observe(titre, { childList: true, characterData: true, subtree: true });
     new MutationObserver(function (ms) {
       ms.forEach(function (m) {
         if (m.type === 'attributes') { if (!exclu(m.target)) attributs(m.target); return; }
