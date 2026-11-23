@@ -194,6 +194,22 @@ jobs:
             echo "generate_fiches.py absent — ignoré"
           fi
 
+      # 6-intl. Catalogue international (23/11/2026, plafond 10 000) : import
+      #     isole dans data/content_intl/ (jamais data/content/), puis fiches et
+      #     data/catalog-intl.json. Borne dans le temps : un import lent ne
+      #     doit jamais faire echouer l enrichissement francais.
+      - name: Catalogue international
+        working-directory: site
+        continue-on-error: true
+        timeout-minutes: 15
+        run: |
+          if [ -f "scripts/import_international.py" ]; then
+            python scripts/import_international.py --max 250
+          fi
+          if [ -f "scripts/generate_fiches_intl.py" ]; then
+            python scripts/generate_fiches_intl.py
+          fi
+
       # 6a. Pages categories. Elles n etaient regenerees qu a la main : le bot
       #     ajoutant ~50 entrees par nuit, leurs compteurs derivaient. C est
       #     exactement l incoherence relevee en relecture (« 94 contenus
