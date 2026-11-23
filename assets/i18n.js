@@ -83,7 +83,7 @@
 
   /* ---------- traduction ---------- */
   var dico = null, regles = [], cats = {}, blocs = {};
-  var BLOCS = 'p,li,h1,h2,h3,h4,blockquote,td,dd,dt,figcaption,summary';
+  var BLOCS = 'p,li,h1,h2,h3,h4,blockquote,td,dd,dt,figcaption,summary,li > strong';
   function cleBloc(el) { return (el.textContent || '').replace(/\s+/g, ' ').trim(); }
   // Textes editoriaux (livraison B) : un paragraphe entier remplace par sa
   // version anglaise, liens et mise en forme compris. Cle = texte francais.
@@ -112,6 +112,7 @@
             if (fn === 'cat') return cats[v.toLowerCase()] || v;
             if (fn === 'tr') return dico[v] || v;
             if (fn === 'date') return dateEn(v);
+            if (fn === 'liste') return listeEn(v);
             return v;
           });
           break;
@@ -123,6 +124,14 @@
     if (r == null) return null;
     var avant = s.match(/^\s*/)[0], apres = s.match(/\s*$/)[0];
     return avant + r + apres;
+  }
+  // « Récit · Hebdomadaire · Depuis 2019 » : chaque morceau traduit s'il est connu.
+  function listeEn(v) {
+    return String(v).split(' · ').map(function (x) {
+      var d = x.match(/^Depuis (\d{4})$/);
+      if (d) return 'Since ' + d[1];
+      return dico[x] || cats[x.toLowerCase()] || x;
+    }).join(' · ');
   }
   // « 20 novembre » / « 1er novembre 2026 » -> « November 20 » / « November 1, 2026 ».
   function dateEn(v) {
@@ -144,6 +153,7 @@
         if (fn === 'cat') return cats[v.toLowerCase()] || v;
         if (fn === 'tr') return dico[v] || v;
         if (fn === 'date') return dateEn(v);
+            if (fn === 'liste') return listeEn(v);
         return v;
       });
     }

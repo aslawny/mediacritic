@@ -35,14 +35,24 @@ def blocs_de(path):
     t = re.sub(r"<!-- mc-footer -->.*?<!-- /mc-footer -->", "", t, flags=re.S)
     t = re.sub(r"<(script|style|template)\b.*?</\1>", "", t, flags=re.S)
     out = {}
-    for m in re.finditer(r"<(%s)\b[^>]*>(.*?)</\1>" % BLOCS, t, re.S):
-        inner = m.group(2)
+    # Balise par balise : un <p> dans un <li> doit etre trouve meme si le <li>
+    # (qui contient un bloc) est ecarte.
+    trouves = []
+    for balise in BLOCS.split("|"):
+        trouves += [(m.start(), m.group(1)) for m in re.finditer(r"<%s\b[^>]*>(.*?)</%s>" % (balise, balise), t, re.S)]
+    for _, inner in sorted(trouves):
         if re.search(r"<(p|li|ul|ol|div|h\d|section|article|img)\b", inner) or 'class="top-' in inner \
                 or 'class="cl-' in inner or 'class="card' in inner:
             continue
         k = cle(inner)
         if len(k) > 2 and re.search(r"[A-Za-zÀ-ÿ]{3}", k):
             out[k] = inner.strip()
+    # Titre en gras d'un element de liste qui contient aussi un paragraphe
+    # (« trait-list » des critiques) : selecteur « li > strong » d'i18n.js.
+    for m in re.finditer(r"<li\b[^>]*>\s*<strong\b[^>]*>(.*?)</strong>", t, re.S):
+        k = cle(m.group(1))
+        if len(k) > 2 and re.search(r"[A-Za-zÀ-ÿ]{3}", k):
+            out[k] = m.group(1).strip()
     return out
 
 
