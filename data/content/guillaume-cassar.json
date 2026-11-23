@@ -30,27 +30,37 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Men In Black II",
+      "date": "2026-11-16",
+      "audio": "https://sphinx.acast.com/p/open/s/63e01bced9b3af001005d85a/e/6acfa42c65f99a36eb807ceb/media.mp3",
+      "duree": 1576
+    },
+    {
       "titre": "Men In Black",
-      "date": "2026-11-02"
+      "date": "2026-11-02",
+      "audio": "https://sphinx.acast.com/p/open/s/63e01bced9b3af001005d85a/e/6acf992ad3bfab176ecec8f3/media.mp3",
+      "duree": 2354
     },
     {
       "titre": "Le Règne du Feu",
-      "date": "2025-03-10"
+      "date": "2025-03-10",
+      "audio": "https://sphinx.acast.com/p/open/s/63e01bced9b3af001005d85a/e/660547cbf50dab0016947daf/media.mp3",
+      "duree": 1083
     },
     {
       "titre": "Overlord",
-      "date": "2025-02-17"
+      "date": "2025-02-17",
+      "audio": "https://sphinx.acast.com/p/open/s/63e01bced9b3af001005d85a/e/6605472274332700163d9945/media.mp3",
+      "duree": 1139
     },
     {
       "titre": "The Cloverfield Paradox",
-      "date": "2025-02-03"
-    },
-    {
-      "titre": "10 Cloverfield Lane",
-      "date": "2025-01-20"
+      "date": "2025-02-03",
+      "audio": "https://sphinx.acast.com/p/open/s/63e01bced9b3af001005d85a/e/660546b074332700163d85ce/media.mp3",
+      "duree": 1327
     }
   ],
-  "derniere_activite": "2026-11-02",
+  "derniere_activite": "2026-11-16",
   "frequence_jours": 14,
   "avis_publics": {
     "source": "apple",

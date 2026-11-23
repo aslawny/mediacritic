@@ -29,19 +29,27 @@
   "episodes_recents": [
     {
       "titre": "Épisode 4 - Amère Omerta",
-      "date": "2026-05-18"
+      "date": "2026-05-18",
+      "audio": "https://sphinx.acast.com/p/open/s/69e746de6e5b90839a1174ce/e/6a044dfa3eb6452356f49db2/media.mp3",
+      "duree": 2346
     },
     {
       "titre": "Épisode 3 - D'abord ne pas nuire",
-      "date": "2026-05-11"
+      "date": "2026-05-11",
+      "audio": "https://sphinx.acast.com/p/open/s/69e746de6e5b90839a1174ce/e/6a0198b553be193dbd29b678/media.mp3",
+      "duree": 2370
     },
     {
       "titre": "Épisode 2 - Pronostic surengagé",
-      "date": "2026-05-04"
+      "date": "2026-05-04",
+      "audio": "https://sphinx.acast.com/p/open/s/69e746de6e5b90839a1174ce/e/69f4bf849dcd58edd9eb20d6/media.mp3",
+      "duree": 2235
     },
     {
       "titre": "Épisode 1 - Constat de décès d'une ambition",
-      "date": "2026-04-27"
+      "date": "2026-04-27",
+      "audio": "https://sphinx.acast.com/p/open/s/69e746de6e5b90839a1174ce/e/69ef82407cc011b3f647e76b/media.mp3",
+      "duree": 2007
     }
   ],
   "derniere_activite": "2026-05-18",

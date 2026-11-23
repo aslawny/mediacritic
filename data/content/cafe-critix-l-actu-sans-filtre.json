@@ -51,25 +51,29 @@
   "derniere_activite": "2024-05-24",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-24",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-23",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Aurejean",
+        "titre": "Riche en promesses",
+        "texte": "Un « nouveau » podcaster pleins de promesses qui fait parti de la « famille » des Share Players que je suis depuis le début. Honnête, pertinent, connaisseur, droit… que du bon!!!! Mehdi continu dans ce format quotidien je trouve très intéressant."
+      },
+      {
+        "note": 5,
+        "auteur": "Synyster_gate",
+        "titre": "Top",
+        "texte": "Un adulte qui parle de jeux vidéos à des adultes avec un discours mature / lucide et sincère. Loin de l’hypocrisie et l’hyper enthousiasme nauséabond du milieu JV. Ça fait du bien. 👍🏻"
+      },
+      {
+        "note": 5,
+        "auteur": "tar1n52",
+        "titre": "Super podcast 👌🏻",
+        "texte": "Super taf, Mehdi continue. Un plaisir de t’écouter et te suivre sur YouTube 👍🏻"
+      }
     ]
   }
 }

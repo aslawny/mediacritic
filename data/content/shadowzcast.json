@@ -30,27 +30,37 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "#25 - Le documenteur",
+      "date": "2026-11-21",
+      "audio": "https://sphinx.acast.com/p/open/s/6372211f9c03bc0011bdc7cb/e/6b007649a94212ad7c2a6f5d/media.mp3",
+      "duree": 6147
+    },
+    {
       "titre": "#24 : Sanguine avec Marion Le Corroller et Pierre-Olivier Persin",
-      "date": "2026-10-27"
+      "date": "2026-10-27",
+      "audio": "https://sphinx.acast.com/p/open/s/6372211f9c03bc0011bdc7cb/e/6ae0b166e57912cf6f738f5c/media.mp3",
+      "duree": 4388
     },
     {
       "titre": "HS#7 - HALLOWEEN 2026 : la prog'",
-      "date": "2026-09-30"
+      "date": "2026-09-30",
+      "audio": "https://sphinx.acast.com/p/open/s/6372211f9c03bc0011bdc7cb/e/6abd08f682177b9ab83ef2fd/media.mp3",
+      "duree": 4757
     },
     {
       "titre": "#23 - Saccharine & la Body Horror",
-      "date": "2026-06-01"
+      "date": "2026-06-01",
+      "audio": "https://sphinx.acast.com/p/open/s/6372211f9c03bc0011bdc7cb/e/6a1d63a65e7c8b23781566e4/media.mp3",
+      "duree": 5844
     },
     {
       "titre": "#22 - Paradoxes spatio-temporels",
-      "date": "2026-04-13"
-    },
-    {
-      "titre": "#21 - Littérature horrifique",
-      "date": "2026-02-25"
+      "date": "2026-04-13",
+      "audio": "https://sphinx.acast.com/p/open/s/6372211f9c03bc0011bdc7cb/e/69dcc8b7ea8ef7a4e026d887/media.mp3",
+      "duree": 7887
     }
   ],
-  "derniere_activite": "2026-10-27",
+  "derniere_activite": "2026-11-21",
   "frequence_jours": 27,
   "avis_publics": {
     "source": "apple",

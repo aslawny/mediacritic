@@ -57,23 +57,33 @@
   "episodes_recents": [
     {
       "titre": "Episode 50 : L’Escadron Rogue",
-      "date": "2017-06-22"
+      "date": "2017-06-22",
+      "audio": "http://media.blubrry.com/starwarsuniversetendu/starwars-podcast.com/episodes/Episode_50.mp3",
+      "duree": 2728
     },
     {
       "titre": "Episode 49 : Les Seigneurs de guerre #2",
-      "date": "2017-02-27"
+      "date": "2017-02-27",
+      "audio": "http://media.blubrry.com/starwarsuniversetendu/starwars-podcast.com/episodes/Episode_49.mp3",
+      "duree": 2050
     },
     {
       "titre": "Episode 48 : Les Seigneurs de guerre #1",
-      "date": "2017-01-19"
+      "date": "2017-01-19",
+      "audio": "http://media.blubrry.com/starwarsuniversetendu/starwars-podcast.com/episodes/Episode_48.mp3",
+      "duree": 1829
     },
     {
       "titre": "Episode HS5 : Rogue One",
-      "date": "2016-12-29"
+      "date": "2016-12-29",
+      "audio": "http://media.blubrry.com/starwarsuniversetendu/starwars-podcast.com/episodes/Episode_HS5.mp3",
+      "duree": 4198
     },
     {
       "titre": "Episode 47 : Jedi Knight #2",
-      "date": "2016-11-25"
+      "date": "2016-11-25",
+      "audio": "http://media.blubrry.com/starwarsuniversetendu/starwars-podcast.com/episodes/Episode_47.mp3",
+      "duree": 2379
     }
   ],
   "derniere_activite": "2017-06-22",

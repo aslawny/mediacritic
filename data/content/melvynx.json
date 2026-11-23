@@ -28,26 +28,108 @@
   "updatedAt": "2026-09-03",
   "episodes_recents": [
     {
-      "titre": "La pyramide du prompt des ingénieurs d'Anthropic",
-      "date": "2026-11-09"
+      "titre": "Les 5 formations pour devenir product manager IA",
+      "date": "2026-11-22",
+      "video": "PNP_znnNRbY"
     },
     {
-      "titre": "La seule formation montage vidéo IA dont tu as besoin (21 min)",
-      "date": "2026-11-09"
+      "titre": "Je fais coder la même app avec chaque niveau d'effort",
+      "date": "2026-11-22",
+      "video": "Lm_xElfIYE0"
     },
     {
-      "titre": "Claude a monté toutes mes vidéos : mes 3 réglages",
-      "date": "2026-11-09"
+      "titre": "Tes skills Claude empirent à chaque règle ajoutée",
+      "date": "2026-11-22",
+      "video": "kuGPavvzNyU"
     },
     {
-      "titre": "Revolut lâche Claude Code pour une IA chinoise sur liste noire",
-      "date": "2026-11-09"
+      "titre": "6 signes qu'une vidéo est montée par Claude",
+      "date": "2026-11-22",
+      "video": "1zccnXoFcrg"
     },
     {
-      "titre": "Claude Code se branche sur n'importe quel outil sans MCP",
-      "date": "2026-11-08"
+      "titre": "Les 7 skills Claude qui explosent sur GitHub",
+      "date": "2026-11-21",
+      "video": "N_VpTMnBff4"
     }
   ],
-  "derniere_activite": "2026-11-09",
-  "frequence_jours": 0
+  "derniere_activite": "2026-11-22",
+  "frequence_jours": 0,
+  "videos": [
+    {
+      "titre": "Les 5 formations pour devenir product manager IA",
+      "date": "2026-11-22",
+      "video": "PNP_znnNRbY"
+    },
+    {
+      "titre": "Je fais coder la même app avec chaque niveau d'effort",
+      "date": "2026-11-22",
+      "video": "Lm_xElfIYE0"
+    },
+    {
+      "titre": "Tes skills Claude empirent à chaque règle ajoutée",
+      "date": "2026-11-22",
+      "video": "kuGPavvzNyU"
+    },
+    {
+      "titre": "6 signes qu'une vidéo est montée par Claude",
+      "date": "2026-11-22",
+      "video": "1zccnXoFcrg"
+    },
+    {
+      "titre": "Les 7 skills Claude qui explosent sur GitHub",
+      "date": "2026-11-21",
+      "video": "N_VpTMnBff4"
+    },
+    {
+      "titre": "Claude répond comme un manuel d'avion (l'astuce de Karpathy)",
+      "date": "2026-11-21",
+      "video": "pxkbpNyrxO4"
+    },
+    {
+      "titre": "Arrête d'expliquer à Claude comment faire",
+      "date": "2026-11-20",
+      "video": "uF0tGAbQbhc"
+    },
+    {
+      "titre": "Handy, le Wispr Flow gratuit qui tourne hors ligne",
+      "date": "2026-11-20",
+      "video": "LHdnfSCEgDA"
+    },
+    {
+      "titre": "Ton Claude est devenu plus bête ? Voilà ce qui change vraiment",
+      "date": "2026-11-20",
+      "video": "L1myW0iXivk"
+    },
+    {
+      "titre": "Le plugin Claude Code le plus dangereux du moment",
+      "date": "2026-11-19",
+      "video": "H7IUsYvwEhM"
+    },
+    {
+      "titre": "Apprendre 97% de CLAUDE en 27 minutes (Guide Débutant ULTIME)",
+      "date": "2026-11-19",
+      "video": "tl-5GiZFEnM"
+    },
+    {
+      "titre": "Les 5 skills Claude gratuits à installer en premier",
+      "date": "2026-11-19",
+      "video": "tnx4IkHjFQk"
+    },
+    {
+      "titre": "Claude publie tes reels d'essai Instagram à ta place",
+      "date": "2026-11-19",
+      "video": "JevCdRXdEug"
+    },
+    {
+      "titre": "Claude fait tes slides PowerPoint de A à Z (même en gratuit)",
+      "date": "2026-11-18",
+      "video": "YgwqFRWMs1E"
+    },
+    {
+      "titre": "Vercel a sorti un outil gratuit qui laisse ton agent IA utiliser ton ordi",
+      "date": "2026-11-18",
+      "video": "EZoNWV-IXMQ"
+    }
+  ]
 }

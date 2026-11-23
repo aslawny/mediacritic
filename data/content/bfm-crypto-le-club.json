@@ -52,25 +52,29 @@
   "derniere_activite": "2026-11-06",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-24",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-23",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "matarchi92",
+        "titre": "Merci BFM crypto!",
+        "texte": "Merci beaucoup à tous ceux qui sont pour quelque chose dans la réalisation de ce très bon podcast sur le web3.0."
+      },
+      {
+        "note": 2,
+        "auteur": "iJack7536",
+        "titre": "Il manque des épisodes",
+        "texte": "Bonjour, je ne comprends pas: il y a normalement 4 épisodes par semaine sur BFM hors dans les podcasts d’Apple on ne les retrouve pas tous ; exemple cette semaine il n’y en a qu’un seul, celui du 25 septembre."
+      },
+      {
+        "note": 5,
+        "auteur": "Lakawet",
+        "titre": "Indispensable pour comprendre et suivre l’actu blockchain",
+        "texte": "Un plaisir de retrouver chaque jour les experts blockchain pour nous éclairer sur cet univers fascinant."
+      }
     ]
   }
 }

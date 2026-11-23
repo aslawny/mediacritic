@@ -28,28 +28,38 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Homme blanc, ça va bien se passer !",
+      "date": "2026-11-11",
+      "audio": "https://sphinx.acast.com/p/open/s/63c89248bab0b80011fbac80/e/6af4a3d3da42f9ee6a077ff0/media.mp3",
+      "duree": 425
+    },
+    {
       "titre": "Marine Turchi : de Le Pen à Bruel, la journaliste banger",
-      "date": "2026-07-06"
+      "date": "2026-07-06",
+      "audio": "https://sphinx.acast.com/p/open/s/63c89248bab0b80011fbac80/e/6a4c20a65fd88ad005b425bc/media.mp3",
+      "duree": 2934
     },
     {
       "titre": "Patrick Bruel, brûler les idoles",
-      "date": "2026-05-02"
+      "date": "2026-05-02",
+      "audio": "https://sphinx.acast.com/p/open/s/63c89248bab0b80011fbac80/e/69f5d639ad98579289f1da41/media.mp3",
+      "duree": 356
     },
     {
       "titre": "Bites",
-      "date": "2026-04-23"
+      "date": "2026-04-23",
+      "audio": "https://sphinx.acast.com/p/open/s/63c89248bab0b80011fbac80/e/69ea837b1e5fb1ae46b68003/media.mp3",
+      "duree": 291
     },
     {
       "titre": "Discussion avec mon ado",
-      "date": "2025-10-05"
-    },
-    {
-      "titre": "Pas objectives, les féministes ?",
-      "date": "2025-03-30"
+      "date": "2025-10-05",
+      "audio": "https://sphinx.acast.com/p/open/s/63c89248bab0b80011fbac80/e/68e2a69b1300c48ae1d983a5/media.mp3",
+      "duree": 2979
     }
   ],
-  "derniere_activite": "2026-07-06",
-  "frequence_jours": 47,
+  "derniere_activite": "2026-11-11",
+  "frequence_jours": 55,
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",

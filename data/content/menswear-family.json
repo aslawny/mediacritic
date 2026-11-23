@@ -30,28 +30,38 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Le Black Friday sans gueule de bois",
+      "date": "2026-11-19",
+      "audio": "https://sphinx.acast.com/p/open/s/656f44e3e0d02700123d8785/e/6aff24792c093095d7d584b0/media.mp3",
+      "duree": 3021
+    },
+    {
       "titre": "Mon éditeur ne voulait plus publier mon livre",
-      "date": "2026-10-30"
+      "date": "2026-10-30",
+      "audio": "https://sphinx.acast.com/p/open/s/656f44e3e0d02700123d8785/e/6ae3b6e653fe55e7758e86f5/media.mp3",
+      "duree": 2376
     },
     {
       "titre": "Ok, tu veux trouver des chaussures de qualité",
-      "date": "2026-10-22"
+      "date": "2026-10-22",
+      "audio": "https://sphinx.acast.com/p/open/s/656f44e3e0d02700123d8785/e/6ad9de60015ffbd1393d71d1/media.mp3",
+      "duree": 3492
     },
     {
       "titre": "\"Habille-toi comme un homme\" : le grand piège",
-      "date": "2026-07-20"
+      "date": "2026-07-20",
+      "audio": "https://sphinx.acast.com/p/open/s/656f44e3e0d02700123d8785/e/6a5df9c6c8941e699159bf5d/media.mp3",
+      "duree": 1475
     },
     {
       "titre": "La méthode pour trouver son style personnel",
-      "date": "2026-06-21"
-    },
-    {
-      "titre": "Instagram tue votre style (vestimentaire)",
-      "date": "2026-05-28"
+      "date": "2026-06-21",
+      "audio": "https://sphinx.acast.com/p/open/s/656f44e3e0d02700123d8785/e/6a3648de6f90df4cb761eaa9/media.mp3",
+      "duree": 1313
     }
   ],
-  "derniere_activite": "2026-10-30",
-  "frequence_jours": 13,
+  "derniere_activite": "2026-11-19",
+  "frequence_jours": 20,
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",

@@ -53,19 +53,27 @@
   "episodes_recents": [
     {
       "titre": "Y'a deux écoles (4) : l'autre rive",
-      "date": "2015-12-03"
+      "date": "2015-12-03",
+      "audio": "https://cdn.arteradio.com/permanent/arteradio/sites/default/files/sons/03yadeuxecoles_4_hq_fr.mp3",
+      "duree": 679
     },
     {
       "titre": "Y'a deux écoles (3) : les vases communicants",
-      "date": "2015-11-26"
+      "date": "2015-11-26",
+      "audio": "https://cdn.arteradio.com/permanent/arteradio/sites/default/files/sons/26yadeuxecoles_3hq_fr.mp3",
+      "duree": 894
     },
     {
       "titre": "Y'a deux écoles (1) : les deux fleuves",
-      "date": "2015-11-19"
+      "date": "2015-11-19",
+      "audio": "https://cdn.arteradio.com/permanent/arteradio/sites/default/files/sons/19yadeuxecoles1_hq_fr.mp3",
+      "duree": 705
     },
     {
       "titre": "Y'a deux écoles (2) : le passage à niveau",
-      "date": "2015-11-19"
+      "date": "2015-11-19",
+      "audio": "https://cdn.arteradio.com/permanent/arteradio/sites/default/files/sons/19yadeuxecoles2_hq_fr.mp3",
+      "duree": 747
     }
   ],
   "derniere_activite": "2015-12-03",

@@ -53,25 +53,29 @@
   "derniere_activite": "2026-03-09",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-24",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-23",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lrbrc_",
+        "titre": "Des envies d’ailleurs garanties !",
+        "texte": "Un podcast inspirant à écouter sans modération ! Des parcours variés et inspirants, qui ouvrent les yeux sur des opportunités parfois méconnues pour vivre des expériences uniques à l’étranger.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Apo salomé",
+        "titre": "Excellent podcast, à recommander !",
+        "texte": "Excellent podcast avec toujours des approches et réflexions pertinentes sur le voyage, les rencontres, l’intégration au sein d’une nouvelle culture, les doutes, le boost lié à la nouveauté…c’est chaque fois un excellent moment de t’écouter, c’est limite trop court, on en redemand…"
+      },
+      {
+        "note": 5,
+        "auteur": "carolerocha_pro",
+        "titre": "Le podcast qui donne envie de découvrir le monde !",
+        "texte": "Chaque épisode me donne envie de partir à la découverte d’un nouveau pays et d’une nouvelle aventure ! Les interviews sont top et permettent de s’immerger pleinement dans la vie à l’étranger, avec les hauts et aussi les bas 🌏 un podcast en toute authenticité et plein de valeurs c…"
+      }
     ]
   }
 }

@@ -28,26 +28,108 @@
   "updatedAt": "2026-09-18",
   "episodes_recents": [
     {
+      "titre": "Cybersécurité, découvre 10 métiers et leurs vraies missions",
+      "date": "2026-11-15",
+      "video": "rYAdgJWy5bY"
+    },
+    {
+      "titre": "Apprends la cybersécurité avec l’IA, sans esquiver l’effort",
+      "date": "2026-11-11",
+      "video": "DgqDFJ28zKE"
+    },
+    {
+      "titre": "Si je devais apprendre la cybersécurité de zéro",
+      "date": "2026-11-10",
+      "video": "RIJN6tqNrc4"
+    },
+    {
+      "titre": "Les logs révèlent ce qu’un scan ne voit pas",
+      "date": "2026-11-10",
+      "video": "oRMTPh_BJiU"
+    },
+    {
       "titre": "Apprendre la cybersécurité : évite ces 11 pièges classiques 🔍 #cybersecurity #tech",
-      "date": "2026-10-30"
+      "date": "2026-10-30",
+      "video": "Le77vr6e3x0"
+    }
+  ],
+  "derniere_activite": "2026-11-15",
+  "frequence_jours": 5,
+  "videos": [
+    {
+      "titre": "Cybersécurité, découvre 10 métiers et leurs vraies missions",
+      "date": "2026-11-15",
+      "video": "rYAdgJWy5bY"
+    },
+    {
+      "titre": "Apprends la cybersécurité avec l’IA, sans esquiver l’effort",
+      "date": "2026-11-11",
+      "video": "DgqDFJ28zKE"
+    },
+    {
+      "titre": "Si je devais apprendre la cybersécurité de zéro",
+      "date": "2026-11-10",
+      "video": "RIJN6tqNrc4"
+    },
+    {
+      "titre": "Les logs révèlent ce qu’un scan ne voit pas",
+      "date": "2026-11-10",
+      "video": "oRMTPh_BJiU"
+    },
+    {
+      "titre": "Apprendre la cybersécurité : évite ces 11 pièges classiques 🔍 #cybersecurity #tech",
+      "date": "2026-10-30",
+      "video": "Le77vr6e3x0"
     },
     {
       "titre": "Le secret pour tester tes outils de hack en toute sécurité #cyber #debutant",
-      "date": "2026-10-28"
+      "date": "2026-10-28",
+      "video": "Di_FHZCTI3Q"
     },
     {
       "titre": "PHP2Shell : pourquoi des sites ont fermé en urgence [Actu Cybersécurité]",
-      "date": "2026-10-22"
+      "date": "2026-10-22",
+      "video": "ZqQz8s48ouY"
     },
     {
       "titre": "Comment le serveur DNS valide une réponse?",
-      "date": "2026-10-16"
+      "date": "2026-10-16",
+      "video": "X13-ZifSPuA"
     },
     {
       "titre": "DNS Cache Poisoning, un hacker peut detourner ton trafic web",
-      "date": "2026-10-10"
+      "date": "2026-10-10",
+      "video": "l0lDAbWuS54"
+    },
+    {
+      "titre": "Tu tapes la bonne adresse et arrives sur un faux site",
+      "date": "2026-10-09",
+      "video": "tRQPztmXwF0"
+    },
+    {
+      "titre": "Diffie Hellman Protégez vos données avec cet algorithme !",
+      "date": "2026-09-25",
+      "video": "ONEo0YvD5L8"
+    },
+    {
+      "titre": "Le côté obscur des agents IA autonomes #cyber #ia",
+      "date": "2026-09-16",
+      "video": "fHANnEtRBFs"
+    },
+    {
+      "titre": "Comment tromper un agent IA",
+      "date": "2026-09-15",
+      "video": "RnHIMCEdNDI"
+    },
+    {
+      "titre": "L'IA installe du code malveillant : comment est-ce possible ?",
+      "date": "2026-09-13",
+      "video": "iYOKk2vOTC4"
+    },
+    {
+      "titre": "Cybersécurité L'art du mini projet pour progresser vraiment !",
+      "date": "2026-09-02",
+      "video": "M_P6Kh_JBxQ"
     }
-  ],
-  "derniere_activite": "2026-10-30",
-  "frequence_jours": 5
+  ]
 }

@@ -28,27 +28,37 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Un petit lapin malin",
+      "date": "2026-11-22",
+      "audio": "https://sphinx.acast.com/p/acast/s/mille-et-une-histoires/e/6a44e13d75e7a3e9611087cb/media.mp3",
+      "duree": 335
+    },
+    {
       "titre": "Un parc incroyable",
-      "date": "2026-10-19"
+      "date": "2026-10-19",
+      "audio": "https://sphinx.acast.com/p/acast/s/mille-et-une-histoires/e/6ad5f17fb3fd74c05a6a0c59/media.mp3",
+      "duree": 719
     },
     {
       "titre": "À l'eau capitaine ?",
-      "date": "2026-10-10"
+      "date": "2026-10-10",
+      "audio": "https://sphinx.acast.com/p/acast/s/mille-et-une-histoires/e/6ab29bbc93749e4c0b48bd3e/media.mp3",
+      "duree": 569
     },
     {
       "titre": "Cache-cache avec l'écureuil !",
-      "date": "2026-10-03"
+      "date": "2026-10-03",
+      "audio": "https://sphinx.acast.com/p/acast/s/mille-et-une-histoires/e/6ab29b2ab8c4cddd755cfdae/media.mp3",
+      "duree": 615
     },
     {
       "titre": "Course avant le soleil !",
-      "date": "2026-09-26"
-    },
-    {
-      "titre": "Une vie joyeuse",
-      "date": "2026-09-17"
+      "date": "2026-09-26",
+      "audio": "https://sphinx.acast.com/p/acast/s/mille-et-une-histoires/e/6ab29c0c93749e4c0b48e06b/media.mp3",
+      "duree": 647
     }
   ],
-  "derniere_activite": "2026-10-19",
+  "derniere_activite": "2026-11-22",
   "frequence_jours": 5,
   "avis_publics": {
     "source": "apple",

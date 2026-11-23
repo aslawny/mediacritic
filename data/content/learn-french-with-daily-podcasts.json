@@ -54,26 +54,36 @@
   },
   "episodes_recents": [
     {
-      "titre": "Une grève de 6 jours (Six-day strike)",
-      "date": "2026-11-09"
+      "titre": "Séisme en Californie du Nord (Northern California Earthquake)",
+      "date": "2026-11-22",
+      "audio": "https://sphinx.acast.com/p/open/s/66068dc22d276f001657edb1/e/675b8cea65cf55f4474e7980/media.mp3",
+      "duree": 192
     },
     {
-      "titre": "Le “droit” (The “right”)",
-      "date": "2026-11-08"
+      "titre": "L’appel du large (The lure of open waters)",
+      "date": "2026-11-20",
+      "audio": "https://sphinx.acast.com/p/open/s/66068dc22d276f001657edb1/e/6815929f6ac0e5213b6a212c/media.mp3",
+      "duree": 218
     },
     {
-      "titre": "Changements importants (Significant changes)",
-      "date": "2026-11-06"
+      "titre": "Grand écart climatique (Climate contradictions)",
+      "date": "2026-11-19",
+      "audio": "https://sphinx.acast.com/p/open/s/66068dc22d276f001657edb1/e/681592849704d99f842f44c6/media.mp3",
+      "duree": 319
     },
     {
-      "titre": "Un appel (Call)",
-      "date": "2026-11-05"
+      "titre": "Le blé de la discorde (Contested Grain Shipment)",
+      "date": "2026-11-18",
+      "audio": "https://sphinx.acast.com/p/open/s/66068dc22d276f001657edb1/e/680b003d1d0310564896c906/media.mp3",
+      "duree": 215
     },
     {
-      "titre": "Une escalade (Escalation)",
-      "date": "2026-11-04"
+      "titre": "Prison : feu aux poudres (Prison System Under Fire)",
+      "date": "2026-11-17",
+      "audio": "https://sphinx.acast.com/p/open/s/66068dc22d276f001657edb1/e/680b00021d0310564896bcc0/media.mp3",
+      "duree": 225
     }
   ],
-  "derniere_activite": "2026-11-09",
-  "frequence_jours": 0
+  "derniere_activite": "2026-11-22",
+  "frequence_jours": 1
 }

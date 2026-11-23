@@ -49,5 +49,25 @@
     }
   ],
   "derniere_activite": "2023-01-26",
-  "frequence_jours": 5
+  "frequence_jours": 5,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mosthelpful",
+    "releve": "2026-11-23",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "biggerdro",
+        "titre": "Master of the mountain",
+        "texte": "I looked on Netflix and it was not there I live in Thailand but I watched it before"
+      },
+      {
+        "note": 5,
+        "auteur": "Bob the dwarf",
+        "titre": "Love it",
+        "texte": "Love your podcast I’m from 🇨🇦 and please make episodes for dragons rising"
+      }
+    ]
+  }
 }

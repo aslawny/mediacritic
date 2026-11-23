@@ -55,23 +55,33 @@
   "episodes_recents": [
     {
       "titre": "Mr. Nobody",
-      "date": "2021-01-22"
+      "date": "2021-01-22",
+      "audio": "https://sphinx.acast.com/un-film-pour-ce-soir/mr.nobody/media.mp3",
+      "duree": 364
     },
     {
       "titre": "Malveillance",
-      "date": "2021-01-21"
+      "date": "2021-01-21",
+      "audio": "https://sphinx.acast.com/un-film-pour-ce-soir/malveillance/media.mp3",
+      "duree": 376
     },
     {
       "titre": "Vaiana",
-      "date": "2021-01-20"
+      "date": "2021-01-20",
+      "audio": "https://sphinx.acast.com/un-film-pour-ce-soir/vaiana/media.mp3",
+      "duree": 367
     },
     {
       "titre": "Killing Bono",
-      "date": "2021-01-19"
+      "date": "2021-01-19",
+      "audio": "https://sphinx.acast.com/un-film-pour-ce-soir/killingbono/media.mp3",
+      "duree": 297
     },
     {
       "titre": "Panikeum sur l'an 2000",
-      "date": "2021-01-15"
+      "date": "2021-01-15",
+      "audio": "https://sphinx.acast.com/un-film-pour-ce-soir/panikeumsurlan2000/media.mp3",
+      "duree": 360
     }
   ],
   "derniere_activite": "2021-01-22",

@@ -51,5 +51,31 @@
     }
   ],
   "derniere_activite": "2026-11-05",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-23",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "MayaRaph&Gab",
+        "titre": "Merci !",
+        "texte": "Un excellent podcast médical à destination des parents. Le contenu est clair, structuré, scientifiquement solide et accessible sans être simpliste.…"
+      },
+      {
+        "note": 5,
+        "auteur": "BastienC1990",
+        "titre": "Incroyable podcast",
+        "texte": "Franchement, énorme coup de cœur ! Un podcast banger pour les parents, le concept est génial. Bravo pour ce que vous faites"
+      },
+      {
+        "note": 5,
+        "auteur": "Thomas_req",
+        "titre": "Très enrichissant",
+        "texte": "Super podcast ! J'ai appris pleins de nouvelles choses et j'ai hâte des prochains episode !"
+      }
+    ]
+  }
 }

@@ -55,26 +55,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "[Extrait] Le jour où il a dû tenir tête à Forest Whitaker",
+      "date": "2026-11-12",
+      "audio": "https://sphinx.acast.com/p/open/s/5ae2eccb67bbd246234ef219/e/6af4705f7d020b369bc2b474/media.mp3",
+      "duree": 650
+    },
+    {
+      "titre": "[Extrait] Virage Pinot : les coulisses d’un moment mythique du Tour de France",
+      "date": "2026-11-11",
+      "audio": "https://sphinx.acast.com/p/open/s/5ae2eccb67bbd246234ef219/e/6af46fd190e0e94801f3a630/media.mp3",
+      "duree": 333
+    },
+    {
       "titre": "#205 - Richard Rohou (R2) : 20 ans à changer de métier sans changer de passion",
-      "date": "2026-11-09"
+      "date": "2026-11-09",
+      "audio": "https://sphinx.acast.com/p/open/s/5ae2eccb67bbd246234ef219/e/6af12359b68b03091ed6720f/media.mp3",
+      "duree": 5439
     },
     {
       "titre": "[Extrait] Qui racontera votre histoire familiale ? Avec Lauren Easum (Ex-Libris Paris)",
-      "date": "2026-11-07"
+      "date": "2026-11-07",
+      "audio": "https://sphinx.acast.com/p/open/s/5ae2eccb67bbd246234ef219/e/6aeb9602b01610ec84b21faa/media.mp3",
+      "duree": 364
     },
     {
       "titre": "[Extrait] L’ultimatum qui a lancé Ex-Libris Paris",
-      "date": "2026-11-06"
-    },
-    {
-      "titre": "#204 - Lauren Easum (Ex-Libris Paris) : Transformer les histoires de famille en blasons",
-      "date": "2026-11-05"
-    },
-    {
-      "titre": "[Extrait] « Le bateau se remplit d’eau » : Tom Laperche raconte sa collision en mer",
-      "date": "2026-10-25"
+      "date": "2026-11-06",
+      "audio": "https://sphinx.acast.com/p/open/s/5ae2eccb67bbd246234ef219/e/6aeb95b67be9b695a6513302/media.mp3",
+      "duree": 589
     }
   ],
-  "derniere_activite": "2026-11-09",
-  "frequence_jours": 10
+  "derniere_activite": "2026-11-12",
+  "frequence_jours": 2
 }

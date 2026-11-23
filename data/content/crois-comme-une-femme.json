@@ -51,25 +51,29 @@
   "derniere_activite": "2026-10-14",
   "frequence_jours": 75,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-24",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-23",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Petiteprincesse1",
+        "titre": "Un podcast d’utilité publique!",
+        "texte": "Vous êtes une source d’inspiration et de motivation pour apprendre encore plus sur notre magnifique religion! Que Dieu vous récompense de votre travail et vous accorde la réussite! Le seul point négatif c’est qu’il n’y en a pas assez, vraiment continuez c’est vraiment un plaisir…"
+      },
+      {
+        "note": 5,
+        "auteur": "Ghania Arras",
+        "titre": "Une ressource d’une qualité rare",
+        "texte": "Dans son genre, Crois comme une femme est un podcast d’une qualité rare. Le souci didactique des deux podcasteuses se ressent : les épisodes sont tous bien construits, les éléments avancés toujours factuellement documentes. Une pépite!!!"
+      },
+      {
+        "note": 5,
+        "auteur": "Luce2102",
+        "titre": "Un podcast qui s’annonce prometteur !",
+        "texte": "Fan inconditionnelle de podcasts, je suis heureuse de voir (enfin !) naître un podcast français de femmes musulmanes, par des femmes musulmanes, pour des femmes musulmanes !"
+      }
     ]
   }
 }

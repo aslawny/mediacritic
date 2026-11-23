@@ -56,23 +56,33 @@
   "episodes_recents": [
     {
       "titre": "Fantastique, une nuit avec Amélie Nothomb !",
-      "date": "2020-12-21"
+      "date": "2020-12-21",
+      "audio": "https://sphinx.acast.com/elle-une-nuit-en-librairie/fantastique-unenuitavecamelienothomb-/media.mp3",
+      "duree": 3378
     },
     {
       "titre": "Joann Sfar l’enchanté !",
-      "date": "2020-11-23"
+      "date": "2020-11-23",
+      "audio": "https://sphinx.acast.com/elle-une-nuit-en-librairie/johannsfarl-enchante-/media.mp3",
+      "duree": 3298
     },
     {
       "titre": "David Foenkinos, le funambule",
-      "date": "2020-10-23"
+      "date": "2020-10-23",
+      "audio": "https://sphinx.acast.com/elle-une-nuit-en-librairie/davidfoenkinos-lefunambule/media.mp3",
+      "duree": 3345
     },
     {
       "titre": "Isabelle Carré, actrice, autrice et immense lectrice !",
-      "date": "2020-09-18"
+      "date": "2020-09-18",
+      "audio": "https://sphinx.acast.com/elle-une-nuit-en-librairie/isabellecarre-actrice-autriceetimmenselectrice-/media.mp3",
+      "duree": 3326
     },
     {
       "titre": "Une nuit d'été avec Monica Sabolo, écrivaine enchanteresse !",
-      "date": "2020-08-13"
+      "date": "2020-08-13",
+      "audio": "https://sphinx.acast.com/elle-une-nuit-en-librairie/passezunenuitdeteavecmonicasabolo-ecrivaineenchanteresse-/media.mp3",
+      "duree": 3316
     }
   ],
   "derniere_activite": "2020-12-21",

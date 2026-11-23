@@ -56,23 +56,31 @@
   "episodes_recents": [
     {
       "titre": "Dog Man",
-      "date": "2025-08-19"
+      "date": "2025-08-19",
+      "audio": "https://www.parleamonluc.fr/wp-content/uploads/2025/08/PAML11-DogMan.mp3"
     },
     {
       "titre": "Malavita / The Family",
-      "date": "2023-10-22"
+      "date": "2023-10-22",
+      "audio": "https://www.parleamonluc.fr/wp-content/uploads/2023/10/10-Parle-a-Mon-Luc-_-Malavita.mp3"
     },
     {
       "titre": "Lucy",
-      "date": "2021-06-09"
+      "date": "2021-06-09",
+      "audio": "https://www.parleamonluc.fr/wp-content/uploads/2021/06/09-Parle-a-mon-Luc-episode-9-_-Lucy.mp3",
+      "duree": 5882
     },
     {
       "titre": "Subway",
-      "date": "2020-06-27"
+      "date": "2020-06-27",
+      "audio": "https://www.parleamonluc.fr/wp-content/uploads/2020/12/08-Parle-a-mon-Luc-episode-8-_-Subway.mp3",
+      "duree": 6836
     },
     {
       "titre": "Arthur 3 : La Guerre des Deux Mondes",
-      "date": "2019-11-29"
+      "date": "2019-11-29",
+      "audio": "https://www.parleamonluc.fr/wp-content/uploads/2019/11/07-Parle-a-mon-Luc-episode-7-_-Arthur-3_-la-Guerre-des-Deux-Mondes.mp3",
+      "duree": 6683
     }
   ],
   "derniere_activite": "2025-08-19",

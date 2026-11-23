@@ -30,23 +30,33 @@
   "episodes_recents": [
     {
       "titre": "3 - Al-Imran (La Famille d'Imran)",
-      "date": "2025-12-31"
+      "date": "2025-12-31",
+      "audio": "https://traffic.megaphone.fm/APO6447779043.mp3",
+      "duree": 6710
     },
     {
       "titre": "1 - Al-Fatiha (L'Ouverture)",
-      "date": "2023-01-31"
+      "date": "2023-01-31",
+      "audio": "https://traffic.megaphone.fm/APO8334869231.mp3",
+      "duree": 68
     },
     {
       "titre": "2 - Al-Baqara (La Vache)",
-      "date": "2023-01-31"
+      "date": "2023-01-31",
+      "audio": "https://traffic.megaphone.fm/APO3016838116.mp3",
+      "duree": 11255
     },
     {
       "titre": "4 - An-Nisa (Les Femmes)",
-      "date": "2023-01-31"
+      "date": "2023-01-31",
+      "audio": "https://traffic.megaphone.fm/APO9602833783.mp3",
+      "duree": 6897
     },
     {
       "titre": "5 - Al-Ma'idah (La Table Servie)",
-      "date": "2023-01-31"
+      "date": "2023-01-31",
+      "audio": "https://traffic.megaphone.fm/APO1923258505.mp3",
+      "duree": 5371
     }
   ],
   "derniere_activite": "2025-12-31",

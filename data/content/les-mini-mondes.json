@@ -29,27 +29,37 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Le Trésor de Noël - La Norvège",
+      "date": "2026-11-18",
+      "audio": "https://sphinx.acast.com/p/open/s/6798ff9d60e68f77d5aa65b0/e/3a602aba-7d2e-44e7-a5ad-59a795a0bba8/media.mp3",
+      "duree": 418
+    },
+    {
+      "titre": "Camp de Noël - Le Canada",
+      "date": "2026-11-17",
+      "audio": "https://sphinx.acast.com/p/open/s/6798ff9d60e68f77d5aa65b0/e/e004fec2-4f6d-40c9-9a7c-db842de953c6/media.mp3",
+      "duree": 470
+    },
+    {
+      "titre": "Un coup de ballet sur la Russie",
+      "date": "2026-11-11",
+      "audio": "https://sphinx.acast.com/p/open/s/6798ff9d60e68f77d5aa65b0/e/bacaf8e1-da0f-4a69-bea7-8186895d10f4/media.mp3",
+      "duree": 508
+    },
+    {
       "titre": "Aventure au pays du condor - L'Argentine",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://sphinx.acast.com/p/open/s/6798ff9d60e68f77d5aa65b0/e/d30db8e8-db3b-4ddf-9b05-be32b6bcb2f9/media.mp3",
+      "duree": 385
     },
     {
       "titre": "Le secret de Buckingham - L'Angleterre",
-      "date": "2026-10-28"
-    },
-    {
-      "titre": "Au Costa Rica, c'est la Pura Vida ! - Le Costa Rica",
-      "date": "2026-10-21"
-    },
-    {
-      "titre": "L'énigme du masque de Bali - L'Indonésie",
-      "date": "2026-10-14"
-    },
-    {
-      "titre": "Sauvetage en montagne - La Suisse",
-      "date": "2026-10-07"
+      "date": "2026-10-28",
+      "audio": "https://sphinx.acast.com/p/open/s/6798ff9d60e68f77d5aa65b0/e/0fa7c8ba-a72e-4e4a-abfe-e302ba9b5faa/media.mp3",
+      "duree": 558
     }
   ],
-  "derniere_activite": "2026-11-04",
+  "derniere_activite": "2026-11-18",
   "frequence_jours": 7,
   "avis_publics": {
     "source": "apple",

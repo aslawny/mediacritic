@@ -31,23 +31,33 @@
   "episodes_recents": [
     {
       "titre": "La pollution",
-      "date": "2023-09-02"
+      "date": "2023-09-02",
+      "audio": "https://sphinx.acast.com/p/open/s/6299edc5130bc60013d9ccaa/e/64e8b12c53103a0011c4e38c/media.mp3",
+      "duree": 937
     },
     {
       "titre": "L'eau",
-      "date": "2023-08-26"
+      "date": "2023-08-26",
+      "audio": "https://sphinx.acast.com/p/open/s/6299edc5130bc60013d9ccaa/e/64e863edf8a6d80011412e3d/media.mp3",
+      "duree": 1026
     },
     {
       "titre": "Les oiseaux",
-      "date": "2023-08-19"
+      "date": "2023-08-19",
+      "audio": "https://sphinx.acast.com/p/open/s/6299edc5130bc60013d9ccaa/e/64b956d8081d350011dd11be/media.mp3",
+      "duree": 988
     },
     {
       "titre": "La nourriture du Sud-Ouest",
-      "date": "2023-08-12"
+      "date": "2023-08-12",
+      "audio": "https://sphinx.acast.com/p/open/s/6299edc5130bc60013d9ccaa/e/64b9568b8265b30011be9a6f/media.mp3",
+      "duree": 992
     },
     {
       "titre": "Les poissons",
-      "date": "2023-08-05"
+      "date": "2023-08-05",
+      "audio": "https://sphinx.acast.com/p/open/s/6299edc5130bc60013d9ccaa/e/64b95655afb02500116b3eb7/media.mp3",
+      "duree": 994
     }
   ],
   "derniere_activite": "2023-09-02",

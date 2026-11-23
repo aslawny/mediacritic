@@ -56,26 +56,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "Philippe Caverivière - Guillaume Labbé - Camille",
+      "date": "2026-11-23",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2715676.mp3?origin=rss",
+      "duree": 2969
+    },
+    {
+      "titre": "Philippe Caverivière - Guillaume Labbé - Camille LA SUITE",
+      "date": "2026-11-23",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2761343.mp3?origin=rss",
+      "duree": 3430
+    },
+    {
+      "titre": "Soprano - Philippe Boxho - Pascale Arbillot",
+      "date": "2026-11-16",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2715674.mp3?origin=rss",
+      "duree": 3183
+    },
+    {
+      "titre": "Soprano - Philippe Boxho - Pascale Arbillot LA SUITE",
+      "date": "2026-11-16",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2761341.mp3?origin=rss",
+      "duree": 3216
+    },
+    {
       "titre": "Patrick Sabatier - Marguerite - Jessé",
-      "date": "2026-11-09"
-    },
-    {
-      "titre": "Patrick Sabatier - Marguerite - Jessé LA SUITE",
-      "date": "2026-11-09"
-    },
-    {
-      "titre": "Le best of - La suite",
-      "date": "2026-11-02"
-    },
-    {
-      "titre": "Le best of",
-      "date": "2026-11-02"
-    },
-    {
-      "titre": "Alexandre Arcady - Roman Doduik - Sofia Morgavi",
-      "date": "2026-10-11"
+      "date": "2026-11-09",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2715672.mp3?origin=rss",
+      "duree": 3100
     }
   ],
-  "derniere_activite": "2026-11-09",
+  "derniere_activite": "2026-11-23",
   "frequence_jours": 0
 }

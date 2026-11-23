@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-11-05",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "be",
+    "tri": "mostrecent",
+    "releve": "2026-11-23",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "nanard911",
+        "titre": "Belle découverte !",
+        "texte": "Bonjour découverte récente je tâche d’écouter tous les épisodes. Bravo pour la préparation des interviews. La mise à l’aise de l’interlocuteur. Juste à chaque relance répéter à celui-ci son nom prénom nécessaire ? Juste pour écrire un bémol on est d’accord !"
+      },
+      {
+        "note": 5,
+        "auteur": "Goelette1975",
+        "titre": "Les plus belles interviews",
+        "texte": "Un podcast tout en douceur, où les questions se posent aux invités via des mots sur des petits papiers. Il y a donc toujours une part d'inconnu dans l'évolution de l'interview, l'invité se dévoile au fil de ses envies et de ses ressentis. Une perle."
+      },
+      {
+        "note": 5,
+        "auteur": "Evad_be",
+        "titre": "Interview intimiste",
+        "texte": "Très chouette émission. Interview originale et intimiste où la journaliste laisse parler les invités connus et moins connus du grand public."
+      }
+    ]
+  }
 }

@@ -58,26 +58,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "Wolf, concierge d'un palace (en 2000)",
+      "date": "2026-11-21",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2931675.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 403
+    },
+    {
+      "titre": "Un retraité s'est mis au patin à roulette (en 1975)",
+      "date": "2026-11-14",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2931647.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 250
+    },
+    {
       "titre": "Sœur Marie du Saint-Esprit, une communiste entrée au couvent (en 1992)",
-      "date": "2026-11-07"
+      "date": "2026-11-07",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2931589.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 786
     },
     {
       "titre": "Freddy a vu un ovni (en 1977)",
-      "date": "2026-10-31"
+      "date": "2026-10-31",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2850376.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 334
     },
     {
       "titre": "Violette : vivre en HLM plutôt qu'en roulotte (en 1977)",
-      "date": "2026-10-24"
-    },
-    {
-      "titre": "Mme Servière mène la danse pour une jeunesse dorée (en 1990)",
-      "date": "2026-10-17"
-    },
-    {
-      "titre": "Rallyes mode d'emploi avec Marie-Amélie (en 1990)",
-      "date": "2026-10-10"
+      "date": "2026-10-24",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2850367.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 386
     }
   ],
-  "derniere_activite": "2026-11-07",
+  "derniere_activite": "2026-11-21",
   "frequence_jours": 7
 }

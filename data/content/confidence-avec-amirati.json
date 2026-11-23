@@ -50,25 +50,17 @@
   ],
   "derniere_activite": "2026-11-04",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-24",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-23",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Chounaya",
+        "titre": "Excellent rappel",
+        "texte": "Excellent ma sœur baraka laoufik . Merci pour ces doux rappels . Juste la musique en fond qui est un peu lourde pour moi ."
+      }
     ]
   },
   "frequence_jours": 18

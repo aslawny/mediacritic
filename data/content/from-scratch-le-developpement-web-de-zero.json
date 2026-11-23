@@ -29,25 +29,107 @@
   "episodes_recents": [
     {
       "titre": "CRÉER UN BURGER MENU RESPONSIVE RAPIDEMENT (feat HTML, CSS, JS)",
-      "date": "2025-09-01"
+      "date": "2025-09-01",
+      "video": "-HJb29HU1Y0"
     },
     {
       "titre": "⚡️CSS : injecter du style à ce qui n'est PAS survolé",
-      "date": "2025-07-07"
+      "date": "2025-07-07",
+      "video": "yl30Diy2-Mk"
     },
     {
       "titre": "CACHER OU RÉVÉLER LA NAVBAR EN JAVASCRIPT + HTML + CSS",
-      "date": "2025-03-24"
+      "date": "2025-03-24",
+      "video": "rw3dOL6_O_U"
     },
     {
       "titre": "[Cours / Tuto] Apprendre Javascript de A à Z – Le DOM (2/6)",
-      "date": "2025-01-01"
+      "date": "2025-01-01",
+      "video": "bP4e5Kwz8EE"
     },
     {
       "titre": "[CSS] Comment être responsive SANS Media-query 🛑",
-      "date": "2024-06-03"
+      "date": "2024-06-03",
+      "video": "0PPsI56rVPQ"
     }
   ],
   "derniere_activite": "2025-09-01",
-  "frequence_jours": 77
+  "frequence_jours": 77,
+  "videos": [
+    {
+      "titre": "CRÉER UN BURGER MENU RESPONSIVE RAPIDEMENT (feat HTML, CSS, JS)",
+      "date": "2025-09-01",
+      "video": "-HJb29HU1Y0"
+    },
+    {
+      "titre": "⚡️CSS : injecter du style à ce qui n'est PAS survolé",
+      "date": "2025-07-07",
+      "video": "yl30Diy2-Mk"
+    },
+    {
+      "titre": "CACHER OU RÉVÉLER LA NAVBAR EN JAVASCRIPT + HTML + CSS",
+      "date": "2025-03-24",
+      "video": "rw3dOL6_O_U"
+    },
+    {
+      "titre": "[Cours / Tuto] Apprendre Javascript de A à Z – Le DOM (2/6)",
+      "date": "2025-01-01",
+      "video": "bP4e5Kwz8EE"
+    },
+    {
+      "titre": "[CSS] Comment être responsive SANS Media-query 🛑",
+      "date": "2024-06-03",
+      "video": "0PPsI56rVPQ"
+    },
+    {
+      "titre": "⚡️CRÉER UNE BARRE DE CHARGEMENT EN JAVASCRIPT",
+      "date": "2024-03-04",
+      "video": "K4eTgn-Rfs8"
+    },
+    {
+      "titre": "[Cours HTML] Apprendre HTML de zéro (tuto débutant)",
+      "date": "2024-01-01",
+      "video": "68oSyuKVjeU"
+    },
+    {
+      "titre": "CRÉER UN CAROUSEL EN CSS & JAVASCRIPT",
+      "date": "2023-11-20",
+      "video": "EN1EZVspMOQ"
+    },
+    {
+      "titre": "[Tuto CSS] Tout savoir sur le Grid",
+      "date": "2023-09-04",
+      "video": "6lqCbMS70g0"
+    },
+    {
+      "titre": "[Tuto Redux] Apprendre Redux de zéro (feat React)",
+      "date": "2023-04-03",
+      "video": "hWLFTtcnEOs"
+    },
+    {
+      "titre": "CRÉER UNE API AVEC NODEJS (CRUD EN JAVASCRIPT)",
+      "date": "2023-02-27",
+      "video": "Iv4VIBEBHKk"
+    },
+    {
+      "titre": "[Cours / Tuto débutant] Apprendre Javascript de A à Z – Les bases (1/6)",
+      "date": "2023-01-30",
+      "video": "Ew7KG2j8eII"
+    },
+    {
+      "titre": "[Tuto débutant CSS] Apprendre CSS de zéro [cours 1/2]",
+      "date": "2023-01-02",
+      "video": "iSWjmVcfQGg"
+    },
+    {
+      "titre": "Mastering Front-End de zéro",
+      "date": "2022-03-23",
+      "video": "21tzYbwkET8"
+    },
+    {
+      "titre": "[Cours / Tuto] Apprendre React de Zéro (débutant)",
+      "date": "2022-03-11",
+      "video": "f0X1Tl8aHtA"
+    }
+  ]
 }

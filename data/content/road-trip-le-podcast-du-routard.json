@@ -31,23 +31,33 @@
   "episodes_recents": [
     {
       "titre": "Maroc - Road Trip, le podcast du Routard",
-      "date": "2023-08-10"
+      "date": "2023-08-10",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/9ea69450-6ad4-4761-91e9-95f7b8372eee.mp3?_=1690813969",
+      "duree": 1046
     },
     {
       "titre": "Sicile - Road Trip, le podcast du Routard",
-      "date": "2023-08-10"
+      "date": "2023-08-10",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/bbc9de39-4578-4f00-896d-d624413c115d.mp3?_=1690813429",
+      "duree": 956
     },
     {
       "titre": "Vietnam - Road trip, le podcast du Routard",
-      "date": "2023-08-03"
+      "date": "2023-08-03",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/a9bb72d8-ecbe-43e5-837f-6b78120dd7a2.mp3?_=1690813159",
+      "duree": 945
     },
     {
       "titre": "Argentine - Road Trip, le podcast du Routard",
-      "date": "2023-07-27"
+      "date": "2023-07-27",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/4e52b57f-a331-4597-a556-4daedbdb0a6a.mp3?_=1688978421",
+      "duree": 1036
     },
     {
       "titre": "Québec - Road Trip, le podcast du Routard",
-      "date": "2023-07-20"
+      "date": "2023-07-20",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/5c2c5e30-ab85-485a-acac-697bbef0a967.mp3?_=1688978233",
+      "duree": 982
     }
   ],
   "derniere_activite": "2023-08-10",
@@ -56,7 +66,7 @@
     "source": "apple",
     "boutique": "fr",
     "tri": "mosthelpful",
-    "releve": "2026-09-24",
+    "releve": "2026-11-23",
     "extraits": [
       {
         "note": 5,

@@ -30,23 +30,33 @@
   "episodes_recents": [
     {
       "titre": "AVS - 23/01/26 - On a tout faux sur le cholestérol ! (Dr Réginald Allouche)",
-      "date": "2026-01-23"
+      "date": "2026-01-23",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2274026.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 1804
     },
     {
       "titre": "AVS - 22/01/26 - Prendre en charge la ménopause de façon naturelle ! (Isabelle Doumenc)",
-      "date": "2026-01-22"
+      "date": "2026-01-22",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2274032.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 2428
     },
     {
       "titre": "AVS - 21/01/26 - Autosabotage, identifiez vos leaders de la médiocrité ! (Karima Chahdi)",
-      "date": "2026-01-21"
+      "date": "2026-01-21",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2274022.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 2409
     },
     {
       "titre": "AVS - 20/01/26 - Un homme peut-il se marier avec moins de 2000€ par mois (Nader Alami)",
-      "date": "2026-01-20"
+      "date": "2026-01-20",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2274029.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 2309
     },
     {
       "titre": "AVS - 19/01/26 - La médecine intégrative par les plantes, pilier d'une bonne santé ! (Dr Pascale Gélis-Imbert)",
-      "date": "2026-01-19"
+      "date": "2026-01-19",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2274024.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 2502
     }
   ],
   "derniere_activite": "2026-01-23",

@@ -56,23 +56,33 @@
   "episodes_recents": [
     {
       "titre": "Lisbonne, une ville en pleine expansion",
-      "date": "2019-01-07"
+      "date": "2019-01-07",
+      "audio": "https://sphinx.acast.com/p/open/s/5bad48131812c8301f4595d8/e/5c2f74e1de0c8cd602bc6583/media.mp3",
+      "duree": 568
     },
     {
       "titre": "Serre-Chevalier, attention ça glisse !",
-      "date": "2018-12-31"
+      "date": "2018-12-31",
+      "audio": "https://sphinx.acast.com/p/open/s/5bad48131812c8301f4595d8/e/5c1cfdff3e40646d3e6ca961/media.mp3",
+      "duree": 510
     },
     {
       "titre": "Venise, la ville mystérieuse",
-      "date": "2018-12-17"
+      "date": "2018-12-17",
+      "audio": "https://sphinx.acast.com/p/open/s/5bad48131812c8301f4595d8/e/5c13c9090345af7b5622639c/media.mp3",
+      "duree": 497
     },
     {
       "titre": "Florence, la dolce vita",
-      "date": "2018-12-10"
+      "date": "2018-12-10",
+      "audio": "https://sphinx.acast.com/p/open/s/5bad48131812c8301f4595d8/e/5c0a97495eb173b32a8957aa/media.mp3",
+      "duree": 499
     },
     {
       "titre": "Direction Paris",
-      "date": "2018-12-03"
+      "date": "2018-12-03",
+      "audio": "https://sphinx.acast.com/p/open/s/5bad48131812c8301f4595d8/e/5c01120c011d9710570ef3d7/media.mp3",
+      "duree": 548
     }
   ],
   "derniere_activite": "2019-01-07",

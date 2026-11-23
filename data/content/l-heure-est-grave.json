@@ -30,23 +30,33 @@
   "episodes_recents": [
     {
       "titre": "L'Heure d'en Finir",
-      "date": "2021-04-16"
+      "date": "2021-04-16",
+      "audio": "https://stats.podcloud.fr/lheurestgrave/lheure-den-finir/enclosure.748fead196a0f91eeed379873ecf026e85fc4cbe4e012598f194d7988583be22.mp3?p=f",
+      "duree": 6371
     },
     {
       "titre": "Le Fabuleux Destin d'Amélie Poulain",
-      "date": "2021-01-29"
+      "date": "2021-01-29",
+      "audio": "https://stats.podcloud.fr/lheurestgrave/le-fabuleux-destin-damelie-poulain/enclosure.cdff22a8f4bfce87e36f4212cd33e0ba165a456d6d1356073ae47cc87c98ebfb.mp3?p=f",
+      "duree": 2902
     },
     {
       "titre": "En Confinement - Spécial Noël",
-      "date": "2020-12-18"
+      "date": "2020-12-18",
+      "audio": "https://stats.podcloud.fr/lheurestgrave/en-confinement-special-noel/enclosure.8ab62de789773fd5c2548ddfe4cc383109ee362f660a886f13a5c9dcae04eb72.mp3?p=f",
+      "duree": 2040
     },
     {
       "titre": "En Confinement - Spécial Cinéma",
-      "date": "2020-12-04"
+      "date": "2020-12-04",
+      "audio": "https://stats.podcloud.fr/lheurestgrave/en-confinement-special-cinema/enclosure.b60b0e1d52fb788ccd8a303b66d965da672ce94efaa7cc2f96e477c07ff3f480.mp3?p=f",
+      "duree": 2030
     },
     {
       "titre": "En Confinement - Spécial Musique",
-      "date": "2020-11-27"
+      "date": "2020-11-27",
+      "audio": "https://stats.podcloud.fr/lheurestgrave/en-confinement-special-musique/enclosure.28f19c470cf8169ea2b896fe5fee2124af648306ff92e61c82471453531865fe.mp3?p=f",
+      "duree": 1620
     }
   ],
   "derniere_activite": "2021-04-16",

@@ -52,25 +52,29 @@
   "derniere_activite": "2018-08-09",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-24",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-23",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Perrine, leplusbeauvoyage.com",
+        "titre": "Life changing!",
+        "texte": "Longue vie a cette emission mythique, d'utilite publique en effet. Au-dela de nous faire rever, la parole donnee a de \"simples\" voyageurs nous montre que l'aventure et la realisation de nos reves les plus fous est a notre portee. Allez-y, ne vous posez pas plus de questions...…"
+      },
+      {
+        "note": 5,
+        "auteur": "Le mic 59",
+        "titre": "Vive Allo la Planète",
+        "texte": "C’est formidable de retrouver Eric Lange avec son merveilleux passage la nuit sur Inter. Que de moments formidables partagés entre ces voyageurs à pieds, vélo, stop, avion, bateau, à l’antenne.…"
+      },
+      {
+        "note": 5,
+        "auteur": "dompiche",
+        "titre": "Découverte",
+        "texte": "Je connaissais la radio et je viens de découvrir le podcast en fouinant j’ai beaucoup de retard 🤣🤣donoje commence par le début le soir ça m’aide a m’endormir et à faire de beaux rêve 🛌 et le matin je vais o taf avec la banane 🍌 en me disant que bientôt ça sra mon tour 🏙 et je sui…"
+      }
     ]
   }
 }

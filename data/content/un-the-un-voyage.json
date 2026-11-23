@@ -56,26 +56,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "Le tilleul des Baronnies",
+      "date": "2026-11-18",
+      "audio": "https://sphinx.acast.com/p/open/s/5fa7fbe74b41845ee4dce4e1/e/6afcb0ed226bec55814dddd1/media.mp3",
+      "duree": 1635
+    },
+    {
       "titre": "Le Burundi",
-      "date": "2026-10-14"
+      "date": "2026-10-14",
+      "audio": "https://sphinx.acast.com/p/open/s/5fa7fbe74b41845ee4dce4e1/e/6acc8e4b68b7ce6ffbe0d9bd/media.mp3",
+      "duree": 1526
     },
     {
       "titre": "Evelyne, master tea sommelière",
-      "date": "2026-09-10"
+      "date": "2026-09-10",
+      "audio": "https://sphinx.acast.com/p/open/s/5fa7fbe74b41845ee4dce4e1/e/6a9ec51eeea4f5ac9a34693a/media.mp3",
+      "duree": 1465
     },
     {
       "titre": "Les thés de Marianne",
-      "date": "2026-07-20"
+      "date": "2026-07-20",
+      "audio": "https://sphinx.acast.com/p/open/s/5fa7fbe74b41845ee4dce4e1/e/6a5a2a98f782764c4c57b22f/media.mp3",
+      "duree": 1616
     },
     {
       "titre": "Elena, Master Tea Sommelière",
-      "date": "2026-04-20"
-    },
-    {
-      "titre": "Le Kenya",
-      "date": "2026-03-16"
+      "date": "2026-04-20",
+      "audio": "https://sphinx.acast.com/p/open/s/5fa7fbe74b41845ee4dce4e1/e/69e61a8fc8a506316d769b49/media.mp3",
+      "duree": 1979
     }
   ],
-  "derniere_activite": "2026-10-14",
+  "derniere_activite": "2026-11-18",
   "frequence_jours": 35
 }

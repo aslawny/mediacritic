@@ -51,25 +51,23 @@
   "derniere_activite": "2026-10-25",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-24",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-23",
+    "extraits": [
+      {
+        "note": 1,
+        "auteur": "Flooziss",
+        "titre": "A quand un travail sourcé et pas subjectif ?",
+        "texte": "Rien n’est sourcé, autoproclame sa vérité comme une vérité relative . Du pur cynisme. A fuir"
+      },
+      {
+        "note": 1,
+        "auteur": "Flooziss",
+        "titre": "A quand un travail sourcé et pas subjectif ?",
+        "texte": "Rien n’est sourcé, autoproclame sa vérité comme une vérité relative . Du pur cynisme. A fuir"
+      }
     ]
   }
 }

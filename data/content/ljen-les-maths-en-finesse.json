@@ -28,26 +28,108 @@
   "updatedAt": "2026-07-31",
   "episodes_recents": [
     {
+      "titre": "[POD#9-5] Les bonnes notes du lycée ? Attention aux mensonges !",
+      "date": "2026-11-22",
+      "video": "I9BLag9R10Y"
+    },
+    {
+      "titre": "[EM#35-3] Je lance une incantation pour démontrer le théorème de Weierstrass !",
+      "date": "2026-11-21",
+      "video": "aUYZPjIlRKY"
+    },
+    {
+      "titre": "[UT#70-2] Convergence de la série harmonique alternée par transformation d'Abel !",
+      "date": "2026-11-20",
+      "video": "vY6s_4w9Ih0"
+    },
+    {
+      "titre": "[UT#27-2] Interpolation ou approximation, telle est la question !",
+      "date": "2026-11-19",
+      "video": "BSzFuYY3Ygw"
+    },
+    {
+      "titre": "[POD#8-12] Comment se mettre au travail ? Une montée en charge progressive !",
+      "date": "2026-11-18",
+      "video": "_zkLh3oYrUw"
+    }
+  ],
+  "derniere_activite": "2026-11-22",
+  "frequence_jours": 1,
+  "videos": [
+    {
+      "titre": "[POD#9-5] Les bonnes notes du lycée ? Attention aux mensonges !",
+      "date": "2026-11-22",
+      "video": "I9BLag9R10Y"
+    },
+    {
+      "titre": "[EM#35-3] Je lance une incantation pour démontrer le théorème de Weierstrass !",
+      "date": "2026-11-21",
+      "video": "aUYZPjIlRKY"
+    },
+    {
+      "titre": "[UT#70-2] Convergence de la série harmonique alternée par transformation d'Abel !",
+      "date": "2026-11-20",
+      "video": "vY6s_4w9Ih0"
+    },
+    {
+      "titre": "[UT#27-2] Interpolation ou approximation, telle est la question !",
+      "date": "2026-11-19",
+      "video": "BSzFuYY3Ygw"
+    },
+    {
+      "titre": "[POD#8-12] Comment se mettre au travail ? Une montée en charge progressive !",
+      "date": "2026-11-18",
+      "video": "_zkLh3oYrUw"
+    },
+    {
+      "titre": "[UT#76-9] Une présentation par générateurs et relations du groupe diédral !",
+      "date": "2026-11-17",
+      "video": "Xi6_8R9iacA"
+    },
+    {
+      "titre": "[UT#16-3] Vers la première formule de changement de base !",
+      "date": "2026-11-16",
+      "video": "QcaCEQ9lyR4"
+    },
+    {
+      "titre": "[UT#77-9] Une autre réalité : une autre distance sur une figure fractale !",
+      "date": "2026-11-15",
+      "video": "o7AwQYOozUM"
+    },
+    {
+      "titre": "[KDJ#8-2] Écarter les pistes peu prometteuses fait partie du boulot !",
+      "date": "2026-11-14",
+      "video": "Wbk3QOFi-z4"
+    },
+    {
+      "titre": "[KDJ#11-1] Comment ne pas rester planté devant un tel problème ?!",
+      "date": "2026-11-13",
+      "video": "DyiYzraGRWM"
+    },
+    {
+      "titre": "[UT#76-8] Un exemple de groupe non commutatif : un groupe diédral !",
+      "date": "2026-11-12",
+      "video": "hqcPvXQUeyo"
+    },
+    {
+      "titre": "[POD#9-4] « J'aurais bien aimé qu'on exige davantage de moi ! »",
+      "date": "2026-11-11",
+      "video": "PE5IDgzLVCQ"
+    },
+    {
+      "titre": "[BAC#5-1] La méthode de la variation de la constante en une minute !",
+      "date": "2026-11-10",
+      "video": "_pzybrOnpS0"
+    },
+    {
       "titre": "[UT#71-2] Depuis l'idée de Taylor jusqu'aux séries entières !",
-      "date": "2026-11-09"
+      "date": "2026-11-09",
+      "video": "W2G4tL2hDrY"
     },
     {
       "titre": "[LAY#10-2] Le professeur Layton et la disjonction de cas !",
-      "date": "2026-11-08"
-    },
-    {
-      "titre": "[EM#40-2] Comparaison entre trois démonstrations de la divergence de la série harmonique !",
-      "date": "2026-11-07"
-    },
-    {
-      "titre": "[UT#77-8] Exemple d'une distance impertinente entre deux codes sur un cadenas !",
-      "date": "2026-11-06"
-    },
-    {
-      "titre": "[UT#76-7] Un groupe libre à un générateur ? Tu le connais !",
-      "date": "2026-11-05"
+      "date": "2026-11-08",
+      "video": "KyfpivFFqoo"
     }
-  ],
-  "derniere_activite": "2026-11-09",
-  "frequence_jours": 0
+  ]
 }

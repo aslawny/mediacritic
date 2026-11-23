@@ -50,25 +50,29 @@
   "derniere_activite": "2023-11-13",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-24",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-23",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Meherabian",
+        "titre": "Incontournable",
+        "texte": "Des podcats à écouter absolument pour toutes celles et ceux qui, au delà du bullsiht ambiant qui règne parfois dans l’univers des startups, veulent s’imprégner des vraies problématiques et parfois crises intérieures auxquelles sont confrontés les entrepreneurs. Merci Yaniro !"
+      },
+      {
+        "note": 5,
+        "auteur": "XavierOsac",
+        "titre": "Interviews sans tabou de startupers",
+        "texte": "Bon podcast pour découvrir des parcours d’entrepreneurs qui livrent avec franchise leur retour d’expérience dans la création de leur startup."
+      },
+      {
+        "note": 5,
+        "auteur": "magalizinha",
+        "titre": "Podcast qui donne envie d’entreprendre",
+        "texte": "Des questions pertinentes, un rythme entrainant. C’est un plaisir d’entendre les histoires de ces entrepreneurs autrement."
+      }
     ]
   }
 }

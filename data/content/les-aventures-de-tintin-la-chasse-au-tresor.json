@@ -31,23 +31,33 @@
   "episodes_recents": [
     {
       "titre": "Le Trésor de Rackham le Rouge - 21/21",
-      "date": "2025-12-04"
+      "date": "2025-12-04",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2154245.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 542
     },
     {
       "titre": "Le Trésor de Rackham le Rouge - 20/21",
-      "date": "2025-12-04"
+      "date": "2025-12-04",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2154247.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 585
     },
     {
       "titre": "Le Trésor de Rackham le Rouge - 19/21",
-      "date": "2025-12-04"
+      "date": "2025-12-04",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2154248.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 608
     },
     {
       "titre": "Le Trésor de Rackham le Rouge - 18/21",
-      "date": "2025-11-27"
+      "date": "2025-11-27",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2154251.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 559
     },
     {
       "titre": "Le Trésor de Rackham le Rouge - 17/21",
-      "date": "2025-11-20"
+      "date": "2025-11-20",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2080779.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 542
     }
   ],
   "derniere_activite": "2025-12-04",

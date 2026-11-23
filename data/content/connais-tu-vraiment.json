@@ -30,27 +30,37 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Connais-tu vraiment Charlemagne ?",
+      "date": "2026-11-18",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/fad1963e-ae89-469b-a823-bccc6bb10da9.mp3?_=1758038315",
+      "duree": 180
+    },
+    {
+      "titre": "Connais-tu vraiment le Vatican ?",
+      "date": "2026-11-11",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/dc587c48-dd68-4dfd-b67b-12a83541c668.mp3?_=1757583934",
+      "duree": 188
+    },
+    {
       "titre": "Connais-tu vraiment le Big Bang ?",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/36e4c27a-26a8-44df-952e-090f776cb493.mp3?_=1756389252",
+      "duree": 193
     },
     {
       "titre": "Connais-tu vraiment la révolution française ?",
-      "date": "2026-10-28"
+      "date": "2026-10-28",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/732d4553-bf55-424d-83bd-ef9cedb2b853.mp3?_=1756199973",
+      "duree": 187
     },
     {
       "titre": "Connais-tu vraiment le Minotaure ?",
-      "date": "2026-10-21"
-    },
-    {
-      "titre": "Connais-tu vraiment William Shakespeare ?",
-      "date": "2026-10-14"
-    },
-    {
-      "titre": "Connais-tu vraiment Jeanne D'Arc ?",
-      "date": "2026-10-07"
+      "date": "2026-10-21",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/e2994e25-6a94-404b-99bd-fdda63e2fd39.mp3?_=1756117534",
+      "duree": 232
     }
   ],
-  "derniere_activite": "2026-11-04",
+  "derniere_activite": "2026-11-18",
   "frequence_jours": 7,
   "avis_publics": {
     "epuise": true,

@@ -30,28 +30,38 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "#306 - Nao : Comment construire un agent analytics fiable ?",
+      "date": "2026-11-18",
+      "audio": "https://sphinx.acast.com/p/open/s/5fa58959e64011214fbf140d/e/6afc80dde234c45df1e2a92f/media.mp3",
+      "duree": 1108
+    },
+    {
+      "titre": "#305 - Qonto : Déployer l’IA dans le produit (ML & LLM)",
+      "date": "2026-11-16",
+      "audio": "https://sphinx.acast.com/p/open/s/5fa58959e64011214fbf140d/e/6aeb3041651640b48ae4b132/media.mp3",
+      "duree": 2185
+    },
+    {
+      "titre": "#304 - Les 6 dilemmes des leaders Data & AI (on tranche)",
+      "date": "2026-11-11",
+      "audio": "https://sphinx.acast.com/p/open/s/5fa58959e64011214fbf140d/e/6aed14503be80be7f3e2c121/media.mp3",
+      "duree": 2355
+    },
+    {
+      "titre": "#303 - AI Analytics : ce que les early adopters préparent pour 2027",
+      "date": "2026-11-09",
+      "audio": "https://sphinx.acast.com/p/open/s/5fa58959e64011214fbf140d/e/6af2dd8fcc435bab9d1c2e1d/media.mp3",
+      "duree": 3287
+    },
+    {
       "titre": "#302 - 10 ans dans la Silicon Valley : les ingés français sont-ils au niveau ?",
-      "date": "2026-11-02"
-    },
-    {
-      "titre": "#301 - YouTube, Snapchat : Lancer une équipe data dédiée à la croissance",
-      "date": "2026-10-26"
-    },
-    {
-      "titre": "#300 - Comment un ex-Lead Data de Google et Meta structure la stratégie agentique d’une licorne",
-      "date": "2026-10-20"
-    },
-    {
-      "titre": "#299 - On décrypte le marché du Data Management et Actian avec Ole Olesen-Bagneux (auteur de The Enterprise Da",
-      "date": "2026-10-14"
-    },
-    {
-      "titre": "#298 - OpenAI : Comment sont développés les modèles GPT (orga, dév, culture & biais)",
-      "date": "2026-10-12"
+      "date": "2026-11-02",
+      "audio": "https://sphinx.acast.com/p/open/s/5fa58959e64011214fbf140d/e/6ae8a98c3dce902b6da698e4/media.mp3",
+      "duree": 1792
     }
   ],
-  "derniere_activite": "2026-11-02",
-  "frequence_jours": 5,
+  "derniere_activite": "2026-11-18",
+  "frequence_jours": 4,
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",

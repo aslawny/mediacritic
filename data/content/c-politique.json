@@ -30,28 +30,38 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "L'invitée de la semaine : Maylis Adhémar \"comment j'ai cessé d'être une petite fasciste\"",
+      "date": "2026-11-19",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3044898.mp3?origin=rss",
+      "duree": 1016
+    },
+    {
+      "titre": "Lisnard, Lagarde, Riner... : que disent ces surgissements ?",
+      "date": "2026-11-16",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3011583.mp3?origin=rss",
+      "duree": 3732
+    },
+    {
       "titre": "La démocratie américaine fait-elle à nouveau rêver ?",
-      "date": "2026-11-09"
+      "date": "2026-11-09",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2955832.mp3?origin=rss",
+      "duree": 3751
     },
     {
       "titre": "Sommes-nous encore capable de nous unir (à part pour le foot) ?",
-      "date": "2026-11-02"
+      "date": "2026-11-02",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2912337.mp3?origin=rss",
+      "duree": 3719
     },
     {
       "titre": "Les invités de la semaine : Arthur Dénouveaux et Amina Damerdji",
-      "date": "2026-10-28"
-    },
-    {
-      "titre": "Le pouvoir a-t-il repris le contrôle ?",
-      "date": "2026-10-26"
-    },
-    {
-      "titre": "L'invité de la semaine : Marc Crépon « La violence est une boîte de Pandore »",
-      "date": "2026-10-21"
+      "date": "2026-10-28",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2868498.mp3?origin=rss",
+      "duree": 1194
     }
   ],
-  "derniere_activite": "2026-11-09",
-  "frequence_jours": 4,
+  "derniere_activite": "2026-11-19",
+  "frequence_jours": 3,
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",

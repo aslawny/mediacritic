@@ -28,27 +28,37 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "TROP DE BLABLA !",
+      "date": "2026-11-16",
+      "audio": "https://sphinx.acast.com/p/open/s/629760e897ba160012b88356/e/6afb1672c7727e4c6800b83b/media.mp3",
+      "duree": 947
+    },
+    {
       "titre": "N'AVOUE JAMAIS !",
-      "date": "2026-11-09"
+      "date": "2026-11-09",
+      "audio": "https://sphinx.acast.com/p/open/s/629760e897ba160012b88356/e/6af1b3beed870dba3dedd3b7/media.mp3",
+      "duree": 1121
     },
     {
       "titre": "Je plaque tout !",
-      "date": "2026-11-05"
+      "date": "2026-11-05",
+      "audio": "https://sphinx.acast.com/p/open/s/629760e897ba160012b88356/e/6aecaa123a774bc7312bbf43/media.mp3",
+      "duree": 857
     },
     {
       "titre": "J'ai perdu mon calme !",
-      "date": "2026-11-02"
+      "date": "2026-11-02",
+      "audio": "https://sphinx.acast.com/p/open/s/629760e897ba160012b88356/e/6ae8985e9a58141d05d8b05d/media.mp3",
+      "duree": 1043
     },
     {
       "titre": "Mon nom est Personne !",
-      "date": "2026-10-26"
-    },
-    {
-      "titre": "La meilleure façon de rater sa vie...",
-      "date": "2026-10-12"
+      "date": "2026-10-26",
+      "audio": "https://sphinx.acast.com/p/open/s/629760e897ba160012b88356/e/6adf34b9b50147298b98d02f/media.mp3",
+      "duree": 1129
     }
   ],
-  "derniere_activite": "2026-11-09",
+  "derniere_activite": "2026-11-16",
   "frequence_jours": 7,
   "avis_publics": {
     "source": "apple",

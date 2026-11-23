@@ -53,23 +53,33 @@
   "episodes_recents": [
     {
       "titre": "Ce podcast n'a pas encore été racheté par Vivendi (TVNR #123)",
-      "date": "2021-07-26"
+      "date": "2021-07-26",
+      "audio": "http://www.podtrac.com/pts/redirect.mp3/dl.radiokawa.com/tvnr/TVNR123.mp3",
+      "duree": 6939
     },
     {
       "titre": "Voilà, c'est reparti (TVNR #122)",
-      "date": "2020-05-18"
+      "date": "2020-05-18",
+      "audio": "http://www.podtrac.com/pts/redirect.mp3/dl.radiokawa.com/tvnr/TVNR122.mp3",
+      "duree": 8423
     },
     {
       "titre": "Voilà, c'est fini (TVNR #121)",
-      "date": "2019-06-24"
+      "date": "2019-06-24",
+      "audio": "http://www.podtrac.com/pts/redirect.mp3/dl.radiokawa.com/tvnr/TVNR121.mp3",
+      "duree": 9072
     },
     {
       "titre": "RTL is the new Europe 1 (TVNR #120)",
-      "date": "2019-06-03"
+      "date": "2019-06-03",
+      "audio": "http://www.podtrac.com/pts/redirect.mp3/dl.radiokawa.com/tvnr/TVNR120.mp3",
+      "duree": 3804
     },
     {
       "titre": "Le changement, c'est la saison prochaine (TVNR #119)",
-      "date": "2019-05-20"
+      "date": "2019-05-20",
+      "audio": "http://www.podtrac.com/pts/redirect.mp3/dl.radiokawa.com/tvnr/TVNR119.mp3",
+      "duree": 4261
     }
   ],
   "derniere_activite": "2021-07-26",

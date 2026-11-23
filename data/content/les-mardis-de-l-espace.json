@@ -52,23 +52,33 @@
   "episodes_recents": [
     {
       "titre": "TRISHNA, un thermomètre pour la Terre",
-      "date": "2025-06-25"
+      "date": "2025-06-25",
+      "audio": "https://podcast.cnes.fr/wp-content/uploads/2025/06/MDLE_0625_TRISHNA_MIX-1.mp3",
+      "duree": 6687
     },
     {
       "titre": "CO3D, notre Terre en carte maxi 3D",
-      "date": "2025-05-28"
+      "date": "2025-05-28",
+      "audio": "https://podcast.cnes.fr/wp-content/uploads/2025/05/MDLE_0525_CO3D_MIX-1.mp3",
+      "duree": 5216
     },
     {
       "titre": "2025, l’océanographie spatiale à l’honneur",
-      "date": "2025-04-18"
+      "date": "2025-04-18",
+      "audio": "https://podcast.cnes.fr/wp-content/uploads/2025/04/MDLE_04-25_OCEANOGRAPHIE-1.mp3",
+      "duree": 5766
     },
     {
       "titre": "Données satellites, des outils pour secourir",
-      "date": "2025-03-21"
+      "date": "2025-03-21",
+      "audio": "https://podcast.cnes.fr/wp-content/uploads/2025/03/MDLE_0325_DONNEES_SATELITES_MIX-1.mp3",
+      "duree": 5562
     },
     {
       "titre": "L'avenir des objets connectés se dessine dans le ciel",
-      "date": "2025-02-26"
+      "date": "2025-02-26",
+      "audio": "https://podcast.cnes.fr/wp-content/uploads/2025/02/MDLE_0225_OBJETS_CONNECTES_MIX-2.mp3",
+      "duree": 5271
     }
   ],
   "derniere_activite": "2025-06-25",

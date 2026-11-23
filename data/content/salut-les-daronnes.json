@@ -52,25 +52,23 @@
   "derniere_activite": "2026-11-10",
   "frequence_jours": 2,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-24",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-23",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Floeleo",
+        "titre": "Rafraîchissant !",
+        "texte": "Sujet tellement important que celui de ne pas se perdre en tant que femme quand on devient maman et que nos entrailles hurlent d’amour et de fatigue en même temps. Merci pour ce thème abordé.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Hajar_974",
+        "titre": "J’adore !!",
+        "texte": "J’adore vous écouter ! J’ai l’impression d’être avec mes copines. Et qu’est ce que je rigole avec vous ! Ne changez rien !!!"
+      }
     ]
   }
 }

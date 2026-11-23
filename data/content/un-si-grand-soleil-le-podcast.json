@@ -43,23 +43,33 @@
   "episodes_recents": [
     {
       "titre": "L'incendie de l'Escape Game",
-      "date": "2020-02-27"
+      "date": "2020-02-27",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1933047.mp3?origin=rss",
+      "duree": 2574
     },
     {
       "titre": "Joyeux anniversaire Un si grand soleil",
-      "date": "2019-09-06"
+      "date": "2019-09-06",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1933048.mp3?origin=rss",
+      "duree": 2719
     },
     {
       "titre": "Alex et Manu, deux flics à Montpellier",
-      "date": "2019-06-21"
+      "date": "2019-06-21",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1933051.mp3?origin=rss",
+      "duree": 2319
     },
     {
       "titre": "Bruno Serrat, le braqueur magnifique",
-      "date": "2019-05-09"
+      "date": "2019-05-09",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1933053.mp3?origin=rss",
+      "duree": 2124
     },
     {
       "titre": "L'intrigue Mo-Lorin",
-      "date": "2019-04-12"
+      "date": "2019-04-12",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1933054.mp3?origin=rss",
+      "duree": 1787
     }
   ],
   "derniere_activite": "2020-02-27",

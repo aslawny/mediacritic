@@ -29,23 +29,33 @@
   "episodes_recents": [
     {
       "titre": "Podium #85 - Le parcours de Roland Anstett",
-      "date": "2026-10-23"
+      "date": "2026-10-23",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2848869.mp3?origin=rss",
+      "duree": 3069
     },
     {
       "titre": "Podium #84 - Le parcours de Sandra Geiger",
-      "date": "2026-09-11"
+      "date": "2026-09-11",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2742281.mp3?origin=rss",
+      "duree": 4166
     },
     {
       "titre": "Podium #83 - Le parcours de Sacha Straub-Kahn",
-      "date": "2026-08-07"
+      "date": "2026-08-07",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2678044.mp3?origin=rss",
+      "duree": 5298
     },
     {
       "titre": "Podium #82 - Le parcours de Bruno Dinel",
-      "date": "2026-06-26"
+      "date": "2026-06-26",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2592197.mp3?origin=rss",
+      "duree": 3686
     },
     {
       "titre": "Podium #81 - Le parcours de Cécile Sornin",
-      "date": "2026-06-05"
+      "date": "2026-06-05",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2549830.mp3?origin=rss",
+      "duree": 3448
     }
   ],
   "derniere_activite": "2026-10-23",

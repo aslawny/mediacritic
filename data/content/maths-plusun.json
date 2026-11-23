@@ -29,25 +29,107 @@
   "episodes_recents": [
     {
       "titre": "VF-02. Marché primaire, marché secondaire",
-      "date": "2023-01-18"
+      "date": "2023-01-18",
+      "video": "11PnjkR6fsM"
     },
     {
       "titre": "VF-01. Marchés financiers ? Marchés de capitaux ?",
-      "date": "2023-01-17"
+      "date": "2023-01-17",
+      "video": "9p3f6FLcapc"
     },
     {
       "titre": "MM-05. Concours de mathématiques Putnam 2005 et astuce de Feynman",
-      "date": "2023-01-16"
+      "date": "2023-01-16",
+      "video": "k65Zb8pqs0I"
     },
     {
       "titre": "MM-04. Aux origines de la fonction Gamma",
-      "date": "2022-12-11"
+      "date": "2022-12-11",
+      "video": "euFl9YIYkBQ"
     },
     {
       "titre": "MM-03. Nombres complexes et hypercomplexes en 2D",
-      "date": "2022-11-27"
+      "date": "2022-11-27",
+      "video": "9ACNKCho0wQ"
     }
   ],
   "derniere_activite": "2023-01-18",
-  "frequence_jours": 13
+  "frequence_jours": 13,
+  "videos": [
+    {
+      "titre": "VF-02. Marché primaire, marché secondaire",
+      "date": "2023-01-18",
+      "video": "11PnjkR6fsM"
+    },
+    {
+      "titre": "VF-01. Marchés financiers ? Marchés de capitaux ?",
+      "date": "2023-01-17",
+      "video": "9p3f6FLcapc"
+    },
+    {
+      "titre": "MM-05. Concours de mathématiques Putnam 2005 et astuce de Feynman",
+      "date": "2023-01-16",
+      "video": "k65Zb8pqs0I"
+    },
+    {
+      "titre": "MM-04. Aux origines de la fonction Gamma",
+      "date": "2022-12-11",
+      "video": "euFl9YIYkBQ"
+    },
+    {
+      "titre": "MM-03. Nombres complexes et hypercomplexes en 2D",
+      "date": "2022-11-27",
+      "video": "9ACNKCho0wQ"
+    },
+    {
+      "titre": "MF-02. Les pourcentages en mathématiques financières",
+      "date": "2022-11-13",
+      "video": "fQCqhst92Z4"
+    },
+    {
+      "titre": "MF-01. Introduction (mathématique) aux pourcentages",
+      "date": "2022-11-05",
+      "video": "SrkahGwR-xc"
+    },
+    {
+      "titre": "MM-02. Intégrale hyperbolique et constante d'Apéry, un clin d'œil à Axel Arno (2/2)",
+      "date": "2022-11-04",
+      "video": "FtYOic9cI4M"
+    },
+    {
+      "titre": "MM-01. Intégrale hyperbolique et constante d'Apéry, un clin d'œil à Axel Arno (1/2)",
+      "date": "2022-11-03",
+      "video": "b_xdCU4fZuI"
+    },
+    {
+      "titre": "Pourquoi moins par moins donne plus ? La règle des signes",
+      "date": "2022-03-06",
+      "video": "oSypgRNK40s"
+    },
+    {
+      "titre": "ECG-1 Informatique (Maths appliquées et approfondies)",
+      "date": "2021-09-07",
+      "video": "93tNc-Dxcyw"
+    },
+    {
+      "titre": "Surfe les Maths ! De la grande section au CP",
+      "date": "2021-07-04",
+      "video": "or92LAZL5rA"
+    },
+    {
+      "titre": "Mathématiques, Trading et Cryptomonnaies (Ép. 1)",
+      "date": "2021-04-10",
+      "video": "Ch9YAFTfTBg"
+    },
+    {
+      "titre": "Apprendre Java 16 (Ép. 1 - Introduction)",
+      "date": "2021-04-09",
+      "video": "8hR0DkEfHek"
+    },
+    {
+      "titre": "Voyages sur Maths (1) Les ensembles",
+      "date": "2021-02-03",
+      "video": "L4urv1679p8"
+    }
+  ]
 }

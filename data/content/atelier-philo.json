@@ -29,23 +29,33 @@
   "episodes_recents": [
     {
       "titre": "Le charisme",
-      "date": "2020-10-02"
+      "date": "2020-10-02",
+      "audio": "https://sphinx.acast.com/philosophie-utile-populaire/lecharisme/media.mp3",
+      "duree": 197
     },
     {
       "titre": "Le bonheur",
-      "date": "2020-10-02"
+      "date": "2020-10-02",
+      "audio": "https://sphinx.acast.com/philosophie-utile-populaire/lebonheur/media.mp3",
+      "duree": 43
     },
     {
       "titre": "La peur",
-      "date": "2020-10-02"
+      "date": "2020-10-02",
+      "audio": "https://sphinx.acast.com/philosophie-utile-populaire/lapeur/media.mp3",
+      "duree": 50
     },
     {
       "titre": "L'absurdie",
-      "date": "2020-10-02"
+      "date": "2020-10-02",
+      "audio": "https://sphinx.acast.com/philosophie-utile-populaire/labsurdie/media.mp3",
+      "duree": 50
     },
     {
       "titre": "Télétravail et open space",
-      "date": "2020-10-02"
+      "date": "2020-10-02",
+      "audio": "https://sphinx.acast.com/philosophie-utile-populaire/teletravailetopenspace/media.mp3",
+      "duree": 63
     }
   ],
   "derniere_activite": "2020-10-02",

@@ -28,26 +28,108 @@
   "updatedAt": "2026-07-22",
   "episodes_recents": [
     {
+      "titre": "GPU - Comment le hardware génère des tokens ? (nvidia ecosystem)",
+      "date": "2026-11-22",
+      "video": "C6MxgWrL7D8"
+    },
+    {
+      "titre": "Harness - Qu'est-ce que c'est ?? simples démos",
+      "date": "2026-11-16",
+      "video": "JigV57W0vb4"
+    },
+    {
+      "titre": "Qu'est-ce qu'un service Up ?? #sysadmin",
+      "date": "2026-11-13",
+      "video": "7jxCVltLeMM"
+    },
+    {
+      "titre": "Attention aux silos y compris en SCRUM #software",
+      "date": "2026-11-13",
+      "video": "uvGDKEKQ27U"
+    },
+    {
+      "titre": "Contexte & Harness Engineering",
+      "date": "2026-11-11",
+      "video": "le2QWGzmPXc"
+    }
+  ],
+  "derniere_activite": "2026-11-22",
+  "frequence_jours": 1,
+  "videos": [
+    {
+      "titre": "GPU - Comment le hardware génère des tokens ? (nvidia ecosystem)",
+      "date": "2026-11-22",
+      "video": "C6MxgWrL7D8"
+    },
+    {
+      "titre": "Harness - Qu'est-ce que c'est ?? simples démos",
+      "date": "2026-11-16",
+      "video": "JigV57W0vb4"
+    },
+    {
+      "titre": "Qu'est-ce qu'un service Up ?? #sysadmin",
+      "date": "2026-11-13",
+      "video": "7jxCVltLeMM"
+    },
+    {
+      "titre": "Attention aux silos y compris en SCRUM #software",
+      "date": "2026-11-13",
+      "video": "uvGDKEKQ27U"
+    },
+    {
+      "titre": "Contexte & Harness Engineering",
+      "date": "2026-11-11",
+      "video": "le2QWGzmPXc"
+    },
+    {
       "titre": "Kubernetes 044 - C'est quoi containerd ? | kubeadm",
-      "date": "2026-11-09"
+      "date": "2026-11-09",
+      "video": "alS339Vp1nY"
     },
     {
       "titre": "Traefik en tant que Gateway API",
-      "date": "2026-11-07"
+      "date": "2026-11-07",
+      "video": "6h4GvKYJUVQ"
     },
     {
       "titre": "Wazuh - réaction à une attaque SSH #cybersécurité #opensource",
-      "date": "2026-11-07"
+      "date": "2026-11-07",
+      "video": "Fz0MkaSavig"
     },
     {
       "titre": "NATS - 03. Nats vs la concurrence (kafka, rabbitmq...)",
-      "date": "2026-11-05"
+      "date": "2026-11-05",
+      "video": "OWB5qh_jLRQ"
     },
     {
       "titre": "Kubernetes 043 - Installation - Kubeadm : introduction",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "video": "lbzO26-D-P0"
+    },
+    {
+      "titre": "Kubernetes 042 - DaemonSets : c'est quoi ? démo (node exporter)",
+      "date": "2026-11-01",
+      "video": "BdXhAvXDqWY"
+    },
+    {
+      "titre": "Traefik - la Gateway API",
+      "date": "2026-10-31",
+      "video": "pQEi75ZNk_s"
+    },
+    {
+      "titre": "La Production rien que la Production ;) #formation",
+      "date": "2026-10-30",
+      "video": "LxbOACsLvlU"
+    },
+    {
+      "titre": "La Dette technique et le Run #linux #computer",
+      "date": "2026-10-30",
+      "video": "ttKgve8ZMzw"
+    },
+    {
+      "titre": "Routine IA - Centraliser la connaissance #ia",
+      "date": "2026-10-28",
+      "video": "pRPCjz8lKg0"
     }
-  ],
-  "derniere_activite": "2026-11-09",
-  "frequence_jours": 1
+  ]
 }

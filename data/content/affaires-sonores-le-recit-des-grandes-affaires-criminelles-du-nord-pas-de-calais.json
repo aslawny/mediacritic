@@ -30,23 +30,33 @@
   "episodes_recents": [
     {
       "titre": "Gang de Roubaix (3/3) : une affaire qui a marqué un tournant dans le terrorisme en France ?",
-      "date": "2026-04-29"
+      "date": "2026-04-29",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2461733.mp3?origin=rss",
+      "duree": 1368
     },
     {
       "titre": "Gang de Roubaix (2/3) : qui étaient les membres et comment ils ont basculé dans le terrorisme ?",
-      "date": "2026-04-29"
+      "date": "2026-04-29",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2441560.mp3?origin=rss",
+      "duree": 1301
     },
     {
       "titre": "Gang de Roubaix (1/3) : fusillades, braquages et scènes de guerre dans la métropole lilloise",
-      "date": "2026-04-29"
+      "date": "2026-04-29",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2441543.mp3?origin=rss",
+      "duree": 1118
     },
     {
       "titre": "L'affaire Flamidien (3/3) : des lettres anonymes à la loi de 1905",
-      "date": "2026-01-02"
+      "date": "2026-01-02",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2213142.mp3?origin=rss",
+      "duree": 799
     },
     {
       "titre": "L’affaire Flamidien (2/3) : une caisse en bois au cœur de la tempête",
-      "date": "2026-01-02"
+      "date": "2026-01-02",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2202890.mp3?origin=rss",
+      "duree": 856
     }
   ],
   "derniere_activite": "2026-04-29",

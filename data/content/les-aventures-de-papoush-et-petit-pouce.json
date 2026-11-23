@@ -30,23 +30,33 @@
   "episodes_recents": [
     {
       "titre": "Le regard de la Méduse",
-      "date": "2022-12-23"
+      "date": "2022-12-23",
+      "audio": "https://api.octopus.saooti.com/podcast/download/103807.mp3?origin=rss",
+      "duree": 322
     },
     {
       "titre": "Le feu de Prométhée",
-      "date": "2022-12-16"
+      "date": "2022-12-16",
+      "audio": "https://api.octopus.saooti.com/podcast/download/91051.mp3?origin=rss",
+      "duree": 396
     },
     {
       "titre": "La lyre d’Hermès",
-      "date": "2022-12-09"
+      "date": "2022-12-09",
+      "audio": "https://api.octopus.saooti.com/podcast/download/89149.mp3?origin=rss",
+      "duree": 368
     },
     {
       "titre": "La colère d'Athéna",
-      "date": "2022-12-02"
+      "date": "2022-12-02",
+      "audio": "https://api.octopus.saooti.com/podcast/download/87274.mp3?origin=rss",
+      "duree": 389
     },
     {
       "titre": "Les travaux de Psyché",
-      "date": "2022-11-25"
+      "date": "2022-11-25",
+      "audio": "https://api.octopus.saooti.com/podcast/download/85395.mp3?origin=rss",
+      "duree": 310
     }
   ],
   "derniere_activite": "2022-12-23",

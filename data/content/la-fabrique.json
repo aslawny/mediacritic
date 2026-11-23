@@ -54,26 +54,36 @@
   },
   "episodes_recents": [
     {
+      "titre": "La Fabrique #40 - Baya Kasmi",
+      "date": "2026-11-16",
+      "audio": "https://sphinx.acast.com/p/open/s/638665bfff7670001106fec0/e/6ae227465a3cc3c4c453b734/media.mp3",
+      "duree": 4354
+    },
+    {
       "titre": "La Fabrique #39 - Nadège Érika",
-      "date": "2026-10-27"
+      "date": "2026-10-27",
+      "audio": "https://sphinx.acast.com/p/open/s/638665bfff7670001106fec0/e/6ada9835d735b999b05995d7/media.mp3",
+      "duree": 3886
     },
     {
       "titre": "La Fabrique #38 - François Desagnat",
-      "date": "2026-10-05"
+      "date": "2026-10-05",
+      "audio": "https://sphinx.acast.com/p/open/s/638665bfff7670001106fec0/e/6ab2fa1268ec5641e240002c/media.mp3",
+      "duree": 4272
     },
     {
       "titre": "La Fabrique #37 - Papy 2/2",
-      "date": "2025-08-24"
+      "date": "2025-08-24",
+      "audio": "https://sphinx.acast.com/p/open/s/638665bfff7670001106fec0/e/6856a7dd412e0f0fbf3da57f/media.mp3",
+      "duree": 1996
     },
     {
       "titre": "La Fabrique #36 bonus - Papy",
-      "date": "2025-08-22"
-    },
-    {
-      "titre": "La Fabrique #36 - Papy 1/2",
-      "date": "2025-08-17"
+      "date": "2025-08-22",
+      "audio": "https://sphinx.acast.com/p/open/s/638665bfff7670001106fec0/e/6856a614412e0f0fbf3d13f4/media.mp3",
+      "duree": 530
     }
   ],
-  "derniere_activite": "2026-10-27",
+  "derniere_activite": "2026-11-16",
   "frequence_jours": 4
 }

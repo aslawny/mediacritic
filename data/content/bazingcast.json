@@ -30,23 +30,33 @@
   "episodes_recents": [
     {
       "titre": "Bazingcast - Quelques news",
-      "date": "2016-03-28"
+      "date": "2016-03-28",
+      "audio": "http://www.bazingcast.com/podcast/bazingcast-p1pdd.mp3",
+      "duree": 6687
     },
     {
       "titre": "Bazingcast #42 - De la fin, de l'humour grâce à ces dames",
-      "date": "2015-05-26"
+      "date": "2015-05-26",
+      "audio": "http://www.bazingcast.com/podcast/bazingcast-42.m4a",
+      "duree": 11970
     },
     {
       "titre": "Bazingcast #41 - De la repentance historique d'avoir violé le duc",
-      "date": "2014-09-17"
+      "date": "2014-09-17",
+      "audio": "http://www.bazingcast.com/podcast/bazingcast-41.m4a",
+      "duree": 16409
     },
     {
       "titre": "Bazingcast #40 - De la BD feutrée en chambre noire",
-      "date": "2013-12-03"
+      "date": "2013-12-03",
+      "audio": "http://www.bazingcast.com/podcast/bazingcast-40.m4a",
+      "duree": 10840
     },
     {
       "titre": "Bazingcast #39 - De la mort imminente des entrepreneurs sur Netflix",
-      "date": "2013-07-30"
+      "date": "2013-07-30",
+      "audio": "http://www.bazingcast.com/podcast/bazingcast-39.m4a",
+      "duree": 10348
     }
   ],
   "derniere_activite": "2016-03-28",

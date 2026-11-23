@@ -31,23 +31,33 @@
   "episodes_recents": [
     {
       "titre": "Préparer la rentrée",
-      "date": "2025-08-06"
+      "date": "2025-08-06",
+      "audio": "https://api.spreaker.com/download/episode/67260925/pvy_237_vive_la_rentre_e.mp3",
+      "duree": 1090
     },
     {
       "titre": "Retour sur les ondes",
-      "date": "2024-06-15"
+      "date": "2024-06-15",
+      "audio": "https://api.spreaker.com/download/episode/60395636/pvy_236.mp3",
+      "duree": 1205
     },
     {
       "titre": "IA pour managers",
-      "date": "2024-02-05"
+      "date": "2024-02-05",
+      "audio": "https://api.spreaker.com/download/episode/58573791/ia_pour_managers.mp3",
+      "duree": 1903
     },
     {
       "titre": "Comment bien démarrer dans un nouveau poste",
-      "date": "2024-01-17"
+      "date": "2024-01-17",
+      "audio": "https://api.spreaker.com/download/episode/58327314/demarrer_nouveau_poste_pvy_235.mp3",
+      "duree": 1362
     },
     {
       "titre": "Atteignez vos objectifs avec l'année de 12 semaines",
-      "date": "2024-01-07"
+      "date": "2024-01-07",
+      "audio": "https://api.spreaker.com/download/episode/58218637/atteignez_vos_objectifs_avec_l_anne_e_e_12_semaines.mp3",
+      "duree": 1605
     }
   ],
   "derniere_activite": "2025-08-06",
