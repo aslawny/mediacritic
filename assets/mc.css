@@ -341,3 +341,24 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{ou
 @media (max-width:640px){.mc-langues{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none}.mc-langue{flex:none}}
 a.mc-langue,span.mc-langue{display:inline-flex;align-items:center;text-decoration:none}
 .filter-btn[hidden]{display:none!important}
+/* Langue du site : selecteur de l'en-tete (assets/i18n.js, 23/11/2026) */
+html.mc-i18n body{opacity:0;animation:mcI18nVoir 0s 1.5s forwards}
+@keyframes mcI18nVoir{to{opacity:1}}
+.mch-lang{position:relative;display:flex;align-items:center}
+.mch-lang-btn{display:inline-flex;align-items:center;gap:6px;min-height:40px;padding:0 10px;border-radius:10px;border:1px solid var(--mc-line-2);background:transparent;color:var(--mc-text);font:inherit;font-size:14px;font-weight:600;cursor:pointer}
+.mch-lang-btn:hover{border-color:var(--mc-accent)}
+.mch-lang-btn:focus-visible{outline:2px solid var(--mc-accent);outline-offset:2px}
+.mch-lang-btn img,.mch-lang-menu img{width:20px;height:14px;border-radius:2px;object-fit:cover;box-shadow:0 0 0 1px rgba(255,255,255,.15)}
+.mch-lang-menu{position:absolute;right:0;top:calc(100% + 6px);z-index:80;margin:0;padding:6px;list-style:none;min-width:160px;background:var(--mc-surface-2);border:1px solid var(--mc-line-2);border-radius:12px;box-shadow:0 10px 30px rgba(0,0,0,.45)}
+.mch-lang-menu[hidden]{display:none}
+.mch-lang-menu li{display:flex;align-items:center;gap:10px;min-height:40px;padding:0 10px;border-radius:8px;cursor:pointer;color:var(--mc-text);font-size:14px;font-weight:600}
+.mch-lang-menu li:hover,.mch-lang-menu li:focus{background:rgba(232,98,45,.15);outline:none}
+.mch-lang-menu li[aria-selected="true"]{color:var(--mc-accent)}
+@media (max-width:1039px){.mch-lang-nom{display:none}.mch-lang-btn{padding:0 8px}}
+/* Langue de l'emission (vignettes, fiches) */
+.card-langue{display:inline-flex;align-items:center;gap:4px}
+.card-langue img{width:16px;height:11px;border-radius:2px;display:block}
+.mc-langue-emission{display:inline-flex;align-items:center;gap:6px}
+.mc-langue-emission img{width:18px;height:12px;border-radius:2px;box-shadow:0 0 0 1px rgba(255,255,255,.15)}
+.mc-langue img{width:18px;height:12px;border-radius:2px;margin-right:6px;box-shadow:0 0 0 1px rgba(255,255,255,.15)}
+.mc-langue{display:inline-flex;align-items:center}

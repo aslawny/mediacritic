@@ -60,6 +60,13 @@ CSP_LECTEURS = CSP.replace(
 assert CSP_LECTEURS.count("media-src") == 1 and "cdn.jsdelivr.net https://www.youtube.com" in CSP_LECTEURS
 CSP_META_LECTEURS = '<meta http-equiv="Content-Security-Policy" content="%s" />' % CSP_LECTEURS
 SCRIPT_LISTE = '<script defer src="/assets/liste.js"></script>'
+# Langue du site (23/11/2026) : selecteur Francais / English dans l'en-tete
+# (rempli par assets/i18n.js). La ligne en ligne masque la page le temps de la
+# traduire quand l'anglais est choisi (reaffichage force par mc.css apres 1,5 s).
+SCRIPT_I18N = '<script defer src="/assets/i18n.js"></script>'
+I18N_TOT = ("<script>try{if(/[?&]lang=en\b/.test(location.search)||localStorage.getItem('mc-langue-site')==='en')"
+            "document.documentElement.classList.add('mc-i18n')}catch(e){}</script>")
+SELECTEUR_LANGUE = '<div class="mch-lang" id="mch-lang"></div>'
 DEBUT_H, FIN_H = "<!-- mc-header -->", "<!-- /mc-header -->"
 DEBUT_F, FIN_F = "<!-- mc-footer -->", "<!-- /mc-footer -->"
 
@@ -137,6 +144,7 @@ def entete(actif=None):
         for cle, url, lib in RUBRIQUES)
     return "".join([
         DEBUT_H,
+        I18N_TOT,
         '<header class="mch" id="mc-header"><div class="mch-in">',
         '<div class="mch-brand">',
         '<a class="mch-logo" href="/" aria-label="MediaCritic, accueil">',
@@ -151,7 +159,7 @@ def entete(actif=None):
         '<span class="mch-extra"><a href="/contact.html">Contact</a>',
         '<a href="%s" target="_blank" rel="noopener noreferrer">YouTube</a></span>' % YOUTUBE,
         '<span id="mc-partage-slot"></span>',
-        '</nav><div class="mch-actions">',
+        '</nav><div class="mch-actions">', SELECTEUR_LANGUE,
         '<a class="mch-ic" href="/catalogue.html" aria-label="Rechercher dans l&#39;annuaire">',
         ICONE_LOUPE, '</a>',
         '<a class="mc-btn mc-btn-primary mch-listen" href="%s" target="_blank" ' % SPOTIFY,
@@ -164,6 +172,7 @@ def entete(actif=None):
         # « Ma liste » sur TOUTES les pages : pastille, et bouton « + » greffe
         # sur chaque carte de contenu (lecteur du site, 22/11/2026).
         SCRIPT_LISTE,
+        SCRIPT_I18N,
         FIN_H,
     ])
 

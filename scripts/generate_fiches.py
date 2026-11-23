@@ -59,6 +59,10 @@ CATEGORY_ALIASES = {  # catégorie du catalogue → nom de la page
     "arts": "culture-societe",
 }
 
+LANGUES_EMISSION = {"fr": ("fr", "Français"), "en": ("gb", "Anglais"), "es": ("es", "Espagnol"),
+                    "de": ("de", "Allemand"), "it": ("it", "Italien"), "pt": ("pt", "Portugais")}
+
+
 def category_href(cat):
     import urllib.parse
     page = CATEGORY_ALIASES.get(cat, cat)
@@ -800,6 +804,12 @@ def render_fiche(data):
 
     # Badges
     badges = [f'<span class="badge badge-type">{h(t_label)}</span>']
+    # Langue parlee dans l'emission (23/11/2026), francaises comprises : le
+    # catalogue data/content est francophone ; data/content_intl porte `langue`.
+    _lg = data.get("langue") or "fr"
+    _dr, _nom = LANGUES_EMISSION.get(_lg, ("fr", "Français"))
+    badges.append(f'<span class="badge badge-langue mc-langue-emission" title="Langue de l&#39;émission">'
+                  f'<img src="../assets/drapeaux/{_dr}.svg" alt="" width="18" height="12" />{_nom}</span>')
     if mediacritic:
         badges.append('<span class="badge badge-mc">✦ Analysé par MediaCritic</span>')
     if est_independant(data):

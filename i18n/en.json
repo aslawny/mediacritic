@@ -1,0 +1,965 @@
+{
+ "_": "Dictionnaire FR -> EN du site (assets/i18n.js). textes : correspondance exacte (texte nettoyé des espaces). regles : [regex, remplacement] avec $n, {cat:n} (catégorie), {tr:n} (texte du dictionnaire). Ne jamais traduire ici un nom d'émission.",
+ "categories": {
+  "actualite": "news",
+  "news": "news",
+  "tech": "tech",
+  "numerique": "digital",
+  "sciences": "science",
+  "vulgarisation": "popular science",
+  "societe": "society",
+  "culture": "culture",
+  "sport": "sports",
+  "sante": "health",
+  "bien-etre": "wellbeing",
+  "true crime": "true crime",
+  "humour": "comedy",
+  "comedie": "comedy",
+  "education": "education",
+  "enfants": "kids",
+  "famille": "family",
+  "cinema": "film",
+  "series": "TV series",
+  "musique": "music",
+  "arts": "arts",
+  "business": "business",
+  "entrepreneuriat": "entrepreneurship",
+  "histoire": "history",
+  "gaming": "gaming",
+  "voyage": "travel",
+  "cuisine": "food",
+  "gastronomie": "gastronomy",
+  "economie": "economics",
+  "investissement": "investing",
+  "politique": "politics",
+  "geopolitique": "geopolitics",
+  "international": "international",
+  "interview": "interviews",
+  "loisirs": "leisure",
+  "spiritualite": "spirituality",
+  "fiction": "fiction",
+  "litterature": "literature",
+  "livres": "books",
+  "dessin": "drawing",
+  "football": "football",
+  "documentaire": "documentary",
+  "divertissement": "entertainment",
+  "stand-up": "stand-up",
+  "renovation": "home renovation",
+  "psychologie": "psychology",
+  "temoignage": "personal stories",
+  "philosophie": "philosophy",
+  "design": "design",
+  "mode": "fashion",
+  "lifestyle": "lifestyle",
+  "spectacle": "performing arts",
+  "science-fiction": "science fiction",
+  "critique": "reviews",
+  "analyse": "analysis",
+  "jeu video": "video games",
+  "jeu vidéo": "video games",
+  "manga": "manga",
+  "anime": "anime",
+  "animation": "animation",
+  "nature": "nature",
+  "ecologie": "ecology",
+  "environnement": "environment",
+  "religion": "religion",
+  "astronomie": "astronomy",
+  "espace": "space",
+  "cinéma & séries": "film & TV",
+  "cinéma et séries": "film & TV",
+  "culture & société": "culture & society",
+  "cuisine & gastronomie": "food & gastronomy",
+  "cinéma": "film",
+  "musique et culture": "music & culture",
+  "parentalite": "parenting",
+  "couple": "relationships",
+  "sexualite": "sexuality",
+  "feminisme": "feminism",
+  "debat": "debate",
+  "jeunes": "youth",
+  "coulisses": "behind the scenes",
+  "medias": "media",
+  "langues": "languages",
+  "automobile": "cars",
+  "motos": "motorcycles",
+  "finance": "finance",
+  "immobilier": "real estate",
+  "marketing": "marketing",
+  "management": "management",
+  "carriere": "careers",
+  "developpement personnel": "personal development",
+  "meditation": "meditation",
+  "nutrition": "nutrition",
+  "running": "running",
+  "cyclisme": "cycling",
+  "basket": "basketball",
+  "rugby": "rugby",
+  "tennis": "tennis",
+  "mma": "MMA",
+  "catch": "wrestling",
+  "golf": "golf",
+  "jardinage": "gardening",
+  "animaux": "animals",
+  "bd": "comics",
+  "comics": "comics",
+  "radio": "radio",
+  "theatre": "theatre",
+  "danse": "dance",
+  "photographie": "photography",
+  "architecture": "architecture",
+  "art": "art",
+  "mythologie": "mythology",
+  "paranormal": "paranormal",
+  "mystere": "mystery",
+  "horreur": "horror",
+  "enquete": "investigation",
+  "faits divers": "true stories",
+  "justice": "justice",
+  "droit": "law",
+  "sante mentale": "mental health",
+  "medecine": "medicine",
+  "neurosciences": "neuroscience",
+  "psy": "psychology",
+  "spatial": "space",
+  "crypto": "crypto",
+  "ia": "AI",
+  "dev": "software development",
+  "programmation": "programming",
+  "musique classique": "classical music",
+  "rap": "rap",
+  "jazz": "jazz",
+  "rock": "rock",
+  "electro": "electronic",
+  "podcast": "podcast"
+ },
+ "regles": [
+  [
+   "^MàJ (\\d\\d/\\d\\d/\\d\\d) · (\\d\\d)h(\\d\\d)$",
+   "Updated $1 · $2:$3"
+  ],
+  [
+   "^Dernière mise à jour : (\\d\\d/\\d\\d/\\d{4}) à (\\d\\d)h(\\d\\d)$",
+   "Last updated: $1 at $2:$3"
+  ],
+  [
+   "^Dernière mise à jour du site : (\\d\\d/\\d\\d/\\d{4}) à (\\d\\d)h(\\d\\d)$",
+   "Site last updated: $1 at $2:$3"
+  ],
+  [
+   "^Répertoire collaboratif de (\\d[\\d  ]*)\\+ podcasts et chaînes YouTube de langue française$",
+   "A collaborative directory of $1+ French-language podcasts and YouTube channels"
+  ],
+  [
+   "^Quatre classements tirés de notre annuaire de (\\d[\\d  ]*)\\+ contenus\\. Les notes et les audiences viennent des plateformes ; les pépites, de nos propres critiques\\. Mis à jour automatiquement\\.$",
+   "Four rankings drawn from our directory of $1+ shows. Ratings and audiences come from the platforms; the gems, from our own reviews. Updated automatically."
+  ],
+  [
+   "^À côté du podcast, MediaCritic référence un catalogue de plus de (\\d[\\d  ]*) podcasts et chaînes YouTube francophones, filtrables par thème : true crime, histoire, culture, tech, gaming, gastronomie, sciences, sport et bien d'autres\\.$",
+   "Alongside the podcast, MediaCritic lists a directory of over $1 French-language podcasts and YouTube channels, filterable by theme: true crime, history, culture, tech, gaming, food, science, sports and many more."
+  ],
+  [
+   "^podcasts sur (\\d[\\d  ]*) et$",
+   "podcasts out of $1 and"
+  ],
+  [
+   "^chaînes YouTube sur (\\d[\\d  ]*) sont indépendants : ils ne sont publiés ni par une radio, une télévision ou un titre de presse, ni par une institution, un club ou une marque, ni par un studio, un réseau ou une maison de disques\\. Des créateurs et de petites structures, souvent sans budget de promotion, que les classements des plateformes laissent dans l'ombre des grands médias\\.$",
+   "YouTube channels out of $1 are independent: they're published neither by a radio station, a TV channel or a newspaper, nor by an institution, a club or a brand, nor by a studio, a network or a record label. Creators and small outfits, often with no promotion budget, that platform charts leave in the shadow of big media."
+  ],
+  [
+   "^Pour toutes les émissions de l'annuaire : plus de (\\d[\\d  ]*) podcasts et chaînes YouTube francophones\\.$",
+   "For every show in the directory: over $1 French-language podcasts and YouTube channels."
+  ],
+  [
+   "^(\\d+) critiques publiées : autant de podcasts et chaînes YouTube francophones écoutés, décortiqués et$",
+   "$1 reviews published: as many French-language podcasts and YouTube channels listened to, dissected and"
+  ],
+  [
+   "^par Alex, Lolo et leurs invité·e·s\\. Pas d'algorithme, pas de sponsor — juste des oreilles exigeantes et des avis assumés\\. Mis à jour (\\S+) (\\d{4})\\.$",
+   "by Alex, Lolo and their guests. No algorithm, no sponsor — just demanding ears and bold opinions. Updated {tr:1} $2."
+  ],
+  [
+   "^Indice (\\d), (.+) : (.+)$",
+   "Clue $1, {tr:2}: $3"
+  ],
+  [
+   "^(\\d{1,2}|1er) (janvier|février|mars|avril|mai|juin|juillet|août|septembre|octobre|novembre|décembre) (\\d{4})$",
+   "{tr:2} {tr:1}, $3"
+  ],
+  [
+   "^(\\d{1,2}|1er) (janvier|février|mars|avril|mai|juin|juillet|août|septembre|octobre|novembre|décembre)$",
+   "{tr:2} {tr:1}"
+  ],
+  [
+   "^(janvier|février|mars|avril|mai|juin|juillet|août|septembre|octobre|novembre|décembre) (\\d{4})$",
+   "{tr:1} $2"
+  ],
+  [
+   "^Le podcast du jour · (\\d{1,2}|1er) (janvier|février|mars|avril|mai|juin|juillet|août|septembre|octobre|novembre|décembre)$",
+   "Podcast of the day · {tr:2} {tr:1}"
+  ],
+  [
+   "^🔥 Le podcast du jour · (\\d{1,2}|1er) (janvier|février|mars|avril|mai|juin|juillet|août|septembre|octobre|novembre|décembre)$",
+   "🔥 Podcast of the day · {tr:2} {tr:1}"
+  ],
+  [
+   "^🔥 La chaîne du jour · (\\d{1,2}|1er) (janvier|février|mars|avril|mai|juin|juillet|août|septembre|octobre|novembre|décembre)$",
+   "🔥 Channel of the day · {tr:2} {tr:1}"
+  ],
+  [
+   "^🔥 (Podcast|Chaîne) du jour le (\\d{1,2}|1er) (janvier|février|mars|avril|mai|juin|juillet|août|septembre|octobre|novembre|décembre) (\\d{4}) ·$",
+   "🔥 {tr:1} of the day on {tr:3} {tr:2}, $4 ·"
+  ],
+  [
+   "^Mis à jour (janvier|février|mars|avril|mai|juin|juillet|août|septembre|octobre|novembre|décembre) (\\d{4})$",
+   "Updated {tr:1} $2"
+  ],
+  [
+   "^\\((\\d[\\d  ]*) notes?\\)$",
+   "($1 ratings)"
+  ],
+  [
+   "^MC Ép\\.(\\d+)$",
+   "MC Ep.$1"
+  ],
+  [
+   "^Ép\\. (\\d+) — (.+)$",
+   "Ep. $1 — $2"
+  ],
+  [
+   "^Épisode (\\d+) — Saison (\\d+)$",
+   "Episode $1 — Season $2"
+  ],
+  [
+   "^Épisode (\\d+) · Saison (\\d+)$",
+   "Episode $1 · Season $2"
+  ],
+  [
+   "^› Saison (\\d+) › Épisode (\\d+)$",
+   "› Season $1 › Episode $2"
+  ],
+  [
+   "^Saison (\\d+) · (\\d+) épisodes$",
+   "Season $1 · $2 episodes"
+  ],
+  [
+   "^MediaCritic, épisode (\\d+)$",
+   "MediaCritic, episode $1"
+  ],
+  [
+   "^✦ L'avis MediaCritic — Épisode (\\d+)$",
+   "✦ MediaCritic's verdict — Episode $1"
+  ],
+  [
+   "^résultats? — affichage de (.+)$",
+   "results — showing $1"
+  ],
+  [
+   "^résultats? — (.+) affichés?$",
+   "results — $1 shown"
+  ],
+  [
+   "^(\\d[\\d  ]*) résultats? — affichage de (.+)$",
+   "$1 results — showing $2"
+  ],
+  [
+   "^(\\d[\\d  ]*) résultats? — (.+) affichés?$",
+   "$1 results — $2 shown"
+  ],
+  [
+   "^(\\d[\\d  ]*) affichés sur (\\d[\\d  ]*)$",
+   "$1 shown out of $2"
+  ],
+  [
+   "^(\\d+) épisodes$",
+   "$1 episodes"
+  ],
+  [
+   "^(\\d+) épisode$",
+   "$1 episode"
+  ],
+  [
+   "^(.+) : podcast, (avis, note et épisodes|note et épisodes|avis et épisodes|avis et note|note|épisodes|avis)( \\| MediaCritic)?$",
+   "$1: podcast, {tr:2}$3"
+  ],
+  [
+   "^(.+) : podcast$",
+   "$1: podcast"
+  ],
+  [
+   "^(.+) : podcast noté ([\\d,]+)/10, où l'écouter$",
+   "$1: podcast rated $2/10, where to listen"
+  ],
+  [
+   "^(.+) : chaîne YouTube, vidéos et abonnés( \\| MediaCritic)?$",
+   "$1: YouTube channel, videos & subscribers$2"
+  ],
+  [
+   "^(.+) : chaîne YouTube notée ([\\d,]+)/10, où la regarder$",
+   "$1: YouTube channel rated $2/10, where to watch"
+  ],
+  [
+   "^(.+) : critique du podcast \\| MediaCritic$",
+   "$1: podcast review | MediaCritic"
+  ],
+  [
+   "^(.+) : critique de la chaîne YouTube \\| MediaCritic$",
+   "$1: YouTube channel review | MediaCritic"
+  ],
+  [
+   "^(.+) : critique des podcasts \\| MediaCritic$",
+   "$1: podcasts review | MediaCritic"
+  ],
+  [
+   "^À propos de (.+)$",
+   "About $1"
+  ],
+  [
+   "^par ([^.]{1,60})$",
+   "by $1"
+  ],
+  [
+   "^Tout voir en (.+) →$",
+   "See all in {cat:1} →"
+  ],
+  [
+   "^(.+) · analysé dans l'épisode (\\d+)$",
+   "{cat:1} · reviewed in episode $2"
+  ],
+  [
+   "^(.+) · ([\\d,]+)/10 contre ([\\d,]+)/10$",
+   "{cat:1} · $2/10 vs $3/10"
+  ],
+  [
+   "^Publie chaque semaine environ — dernier contenu le (.+)\\.$",
+   "Publishes roughly every week — latest content on $1."
+  ],
+  [
+   "^Publie quotidiennement — dernier contenu le (.+)\\.$",
+   "Publishes daily — latest content on $1."
+  ],
+  [
+   "^Publie environ tous les (\\d+) jours — dernier contenu le (.+)\\.$",
+   "Publishes roughly every $1 days — latest content on $2."
+  ],
+  [
+   "^Publie chaque mois environ — dernier contenu le (.+)\\.$",
+   "Publishes roughly every month — latest content on $1."
+  ],
+  [
+   "^Publie environ deux fois par semaine — dernier contenu le (.+)\\.$",
+   "Publishes about twice a week — latest content on $1."
+  ],
+  [
+   "^Note Apple Podcasts pondérée, parmi les (\\d[\\d  ]*) podcasts (.+) comptant au moins (\\d+) avis\\.$",
+   "Weighted Apple Podcasts rating, among the $1 {cat:2} podcasts with at least $3 reviews."
+  ],
+  [
+   "^Note Apple Podcasts pondérée, parmi les (\\d[\\d  ]*) podcasts (.+) comptant au moins (\\d+) avis\\. En dessous de ce seuil, une moyenne parfaite ne veut rien dire\\.$",
+   "Weighted Apple Podcasts rating, among the $1 {cat:2} podcasts with at least $3 reviews. Below that threshold, a perfect average means nothing."
+  ],
+  [
+   "^Note Apple Podcasts, parmi les (\\d[\\d  ]*) podcasts comptant au moins (\\d+) avis\\.( En dessous de ce seuil, une moyenne parfaite ne veut rien dire\\.)?$",
+   "Apple Podcasts rating, among the $1 podcasts with at least $2 reviews. Below that threshold, a perfect average means nothing."
+  ],
+  [
+   "^Note Apple Podcasts, parmi les (\\d[\\d  ]*) podcasts indépendants comptant au moins (\\d+) avis\\.( En dessous, une moyenne parfaite ne veut rien dire\\.)?$",
+   "Apple Podcasts rating, among the $1 independent podcasts with at least $2 reviews. Below that, a perfect average means nothing."
+  ],
+  [
+   "^Les (\\d+) meilleurs podcasts (.+)$",
+   "The $1 best {cat:2} podcasts"
+  ],
+  [
+   "^Les meilleures chaînes YouTube (.+)$",
+   "The best {cat:1} YouTube channels"
+  ],
+  [
+   "^Les meilleurs podcasts et chaînes (.+) francophones$",
+   "The best French-language {cat:1} podcasts and channels"
+  ],
+  [
+   "^Meilleurs podcasts et chaînes (.+) francophones — (\\d{4})$",
+   "Best French-language {cat:1} podcasts and channels — $2"
+  ],
+  [
+   "^Quel podcast (.+) écouter \\?$",
+   "Which {cat:1} podcast should you listen to?"
+  ],
+  [
+   "^Podcast ou chaîne YouTube pour l'(.+) \\?$",
+   "Podcast or YouTube channel for {cat:1}?"
+  ],
+  [
+   "^Une sélection de podcasts (.+)$",
+   "A selection of {cat:1} podcasts"
+  ],
+  [
+   "^N° (\\d+)$",
+   "No. $1"
+  ],
+  [
+   "^N° (\\d+) · (.+) — sur MediaCritic$",
+   "No. $1 · {tr:2} — on MediaCritic"
+  ],
+  [
+   "^Les (\\d+) premières par nombre d'abonnés, parmi les (.+) chaînes de l'annuaire\\.$",
+   "The top $1 by subscribers, among the $2 channels in the directory."
+  ],
+  [
+   "^Classées par nombre d'abonnés, parmi les (.+) chaînes indépendantes de l'annuaire\\.$",
+   "Ranked by subscribers, among the $1 independent channels in the directory."
+  ],
+  [
+   "^↑ (\\d+) places? depuis le (.+)$",
+   "↑ $1 place(s) since {tr:2}"
+  ],
+  [
+   "^✨ Nouvelle entrée depuis le (.+)$",
+   "✨ New entry since {tr:1}"
+  ],
+  [
+   "^Ajouté à « (.+) » 🎧(.*)$",
+   "Added to “$1” 🎧$2"
+  ],
+  [
+   "^Déjà dans « (.+) »$",
+   "Already in “$1”"
+  ],
+  [
+   "^🎧 Ma liste \\((\\d+)\\)$",
+   "🎧 My list ($1)"
+  ],
+  [
+   "^Ouvrir la liste d'écoute « Ma liste », (\\d+) éléments?$",
+   "Open the “My list” playlist, $1 item(s)"
+  ],
+  [
+   "^Ajouter le dernier épisode de (.+) à ma liste d'écoute$",
+   "Add the latest episode of $1 to my playlist"
+  ],
+  [
+   "^Ajouter notre critique de (.+) à ma liste d'écoute$",
+   "Add our review of $1 to my playlist"
+  ],
+  [
+   "^Plus de (\\d[\\d  ]*) contenus$",
+   "Over $1 shows"
+  ],
+  [
+   "^(\\d[\\d  ]*) contenus$",
+   "$1 shows"
+  ],
+  [
+   "^(\\d[\\d  ]*)\\+ podcasts et chaînes YouTube francophones$",
+   "$1+ French-language podcasts and YouTube channels"
+  ],
+  [
+   "^Annuaire : (\\d[\\d  ]*)\\+ podcasts et chaînes YouTube francophones référencés$",
+   "Directory: $1+ French-language podcasts and YouTube channels listed"
+  ],
+  [
+   "^Annuaire podcast : (\\d[\\d  ]*)\\+ podcasts et chaînes YouTube$",
+   "Podcast directory: $1+ podcasts and YouTube channels"
+  ],
+  [
+   "^Podcasts & chaînes YouTube (.+) \\| Catalogue MediaCritic$",
+   "{cat:1} podcasts & YouTube channels | MediaCritic directory"
+  ],
+  [
+   "^Indice (\\d) · (.+)$",
+   "Clue $1 · {tr:2}"
+  ],
+  [
+   "^Indice (\\d) : se dévoile après une mauvaise réponse$",
+   "Clue $1: revealed after a wrong answer"
+  ],
+  [
+   "^Mystère n°(\\d+) · devine le podcast du jour en 6 indices$",
+   "Mystery #$1 · guess the podcast of the day in 6 clues"
+  ],
+  [
+   "^Non, ce n'est pas « (.+) »\\. Nouvel indice dévoilé\\.$",
+   "No, it's not “$1”. New clue revealed."
+  ],
+  [
+   "^Supprimer la liste « (.+) » \\?$",
+   "Delete the list “$1”?"
+  ],
+  [
+   "^Vider la liste « (.+) » \\?$",
+   "Empty the list “$1”?"
+  ],
+  [
+   "^🎬 Les (\\d+) dernières vidéos$",
+   "🎬 The $1 latest videos"
+  ],
+  [
+   "^(.+) · vidéo$",
+   "$1 · video"
+  ],
+  [
+   "^Podcast · (.+)$",
+   "Podcast · {cat:1}"
+  ],
+  [
+   "^Chaîne YouTube · (.+)$",
+   "YouTube channel · {cat:1}"
+  ]
+ ],
+ "textes": {
+  "janvier": "January",
+  "février": "February",
+  "mars": "March",
+  "avril": "April",
+  "mai": "May",
+  "juin": "June",
+  "juillet": "July",
+  "août": "August",
+  "septembre": "September",
+  "octobre": "October",
+  "novembre": "November",
+  "décembre": "December",
+  "1er": "1",
+  "Podcast": "Podcast",
+  "Chaîne": "Channel",
+  "avis, note et épisodes": "reviews, rating & episodes",
+  "note et épisodes": "rating & episodes",
+  "avis et épisodes": "reviews & episodes",
+  "avis et note": "reviews & rating",
+  "note": "rating",
+  "épisodes": "episodes",
+  "avis": "reviews",
+  "Annuaire": "Directory",
+  "Classement": "Rankings",
+  "Palmarès": "Top reviews",
+  "Indépendants": "Independents",
+  "Ma liste": "My list",
+  "L'équipe": "The team",
+  "Contact": "Contact",
+  "Écouter": "Listen",
+  "Écouter MediaCritic": "Listen to MediaCritic",
+  "Ouvrir le menu": "Open the menu",
+  "Fermer le menu": "Close the menu",
+  "Navigation principale": "Main navigation",
+  "Rechercher dans l'annuaire": "Search the directory",
+  "MediaCritic, accueil": "MediaCritic, home",
+  "Fil d'Ariane": "Breadcrumb",
+  "Accueil": "Home",
+  "Catalogue": "Directory",
+  "Partager": "Share",
+  "Partager cette page": "Share this page",
+  "Copier le lien": "Copy link",
+  "Lien copié !": "Link copied!",
+  "Lien copié ✓": "Link copied ✓",
+  "Partager sur X": "Share on X",
+  "Partager sur Facebook": "Share on Facebook",
+  "Partager sur LinkedIn": "Share on LinkedIn",
+  "Partager sur WhatsApp": "Share on WhatsApp",
+  "Le podcast qui donne son avis, même quand on ne lui a pas demandé, et l'annuaire des podcasts et chaînes YouTube francophones.": "The podcast that gives its opinion even when nobody asked, and the directory of French-language podcasts and YouTube channels.",
+  "MediaCritic": "MediaCritic",
+  "Classement des podcasts et chaînes YouTube francophones": "Ranking of French-language podcasts and YouTube channels",
+  "Les indépendants": "Independents",
+  "Chaînes YouTube": "YouTube channels",
+  "Badges MediaCritic": "MediaCritic badges",
+  "Le podcast du jour": "Podcast of the day",
+  "Palmarès des critiques": "Top reviews",
+  "Comparateur": "Compare",
+  "Mentions légales": "Legal notice",
+  "Catégories": "Categories",
+  "Histoire": "History",
+  "True crime": "True crime",
+  "Culture & société": "Culture & society",
+  "Sciences": "Science",
+  "Tech": "Tech",
+  "Gaming": "Gaming",
+  "Cinéma & séries": "Film & TV",
+  "Musique": "Music",
+  "Humour": "Comedy",
+  "Sport": "Sports",
+  "Business": "Business",
+  "Cuisine": "Food",
+  "Voyage": "Travel",
+  "Apple Podcasts": "Apple Podcasts",
+  "Spotify": "Spotify",
+  "Deezer": "Deezer",
+  "YouTube": "YouTube",
+  "Dernière mise à jour :": "Last updated:",
+  "© 2026 MediaCritic ·": "© 2026 MediaCritic ·",
+  "🗂️ MediaCritic — le catalogue de référence": "🗂️ MediaCritic — the reference directory",
+  "L'annuaire et les": "The directory and",
+  "critiques": "reviews",
+  "des podcasts et chaînes YouTube francophones": "of French-language podcasts and YouTube channels",
+  "Répertoire collaboratif de": "A collaborative directory of",
+  "podcasts et chaînes YouTube francophones": "French-language podcasts and YouTube channels",
+  ", filtrés par thème et notés — doublé du": ", filtered by theme and rated — plus the",
+  "guide des podcasts indépendants": "guide to independent podcasts",
+  ", avec les critiques que MediaCritic publie chaque semaine.": ", with the reviews MediaCritic publishes every week.",
+  "contenus": "shows",
+  "catégories": "categories",
+  "épisodes publiés": "episodes published",
+  "Le Podcast MediaCritic": "The MediaCritic podcast",
+  "Chaque semaine, Alex et Lolo décortiquent un podcast ou une chaîne YouTube en 5 à 7 minutes — fond, forme, intentions.": "Every week, Alex and Lolo dissect a podcast or a YouTube channel in 5 to 7 minutes — substance, form, intentions.",
+  "Suivez-nous": "Follow us",
+  "Le Mystère du Jour": "The Daily Mystery",
+  "Devine-le avant de l'écouter : le podcast du jour en 6 indices →": "Guess it before you listen: the podcast of the day in 6 clues →",
+  "Chercher un podcast, un créateur, un thème…": "Search for a podcast, a creator, a theme…",
+  "Chercher un podcast, un créateur…": "Search for a podcast, a creator…",
+  "Rechercher dans le catalogue": "Search the directory",
+  "Langue parlée dans l'émission": "Language spoken in the show",
+  "Français": "French",
+  "English": "English",
+  "Español": "Spanish",
+  "Deutsch": "German",
+  "Italiano": "Italian",
+  "Português": "Portuguese",
+  "🌍 Toutes": "🌍 All",
+  "Tous": "All",
+  "⭐ Analysés par MediaCritic": "⭐ Reviewed by MediaCritic",
+  "Analysés par MediaCritic": "Reviewed by MediaCritic",
+  "🎙️ Podcasts": "🎙️ Podcasts",
+  "📺 Chaînes YouTube": "📺 YouTube channels",
+  "🌙 Désirs & intimité": "🌙 Desire & intimacy",
+  "Désirs & intimité": "Desire & intimacy",
+  "Indépendant": "Independent",
+  "podcast ou chaîne YouTube publiés hors médias, studios, marques et institutions ·": "podcast or YouTube channel published outside media groups, studios, brands and institutions ·",
+  "le guide des indépendants": "the independents guide",
+  ": tous les podcasts érotiques, sensuels et sur la sexualité →": ": all erotic and sensual podcasts, and podcasts about sexuality →",
+  "Tri :": "Sort:",
+  "Aucun": "None",
+  "A–Z": "A–Z",
+  "🕐 Date": "🕐 Date",
+  "⭐ Note": "⭐ Rating",
+  "👥 Abonnés": "👥 Subscribers",
+  "✕ Effacer les filtres": "✕ Clear filters",
+  "Charger plus": "Load more",
+  "Charger 60 contenus de plus": "Load 60 more shows",
+  "Aucun résultat. Essayez un autre terme ou changez de filtre.": "No results. Try another term or change the filter.",
+  "Aucun contenu trouvé pour cette recherche.": "No show found for this search.",
+  "Essayez un autre terme ou changez de catégorie.": "Try another term or change the category.",
+  "Erreur lors du chargement du catalogue.": "Error while loading the directory.",
+  "📖 Lire l'analyse": "📖 Read the review",
+  "abonnés": "subscribers",
+  "abon.": "subs",
+  "Note Apple Podcasts, sur 5": "Apple Podcasts rating, out of 5",
+  "Note MediaCritic": "MediaCritic rating",
+  "Indépendant : hors médias, studios, marques et institutions": "Independent: outside media groups, studios, brands and institutions",
+  "Langue de l'émission": "Language of the show",
+  "Catalogue des contenus": "Directory of shows",
+  "🎙️ Catalogue MediaCritic": "🎙️ MediaCritic directory",
+  "L'": "The ",
+  "annuaire": "directory",
+  "des podcasts": "of podcasts",
+  "& chaînes YouTube francophones": "& French-language YouTube channels",
+  "Plus de": "Over",
+  "contenus référencés": "shows listed",
+  "contenus analysés par MediaCritic": "shows reviewed by MediaCritic",
+  "référencés, triés et notés. Filtrez par thème, cherchez par nom — et repérez les contenus dont on a parlé dans nos épisodes.": "listed, sorted and rated. Filter by theme, search by name — and spot the shows we've talked about in our episodes.",
+  "Qui est le podcast du jour ?": "Who is the podcast of the day?",
+  "Le podcast du jour est caché": "The podcast of the day is hidden",
+  "Il se dévoile quand tu as joué au": "It's revealed once you've played",
+  "Mystère du Jour": "The Daily Mystery",
+  ": devine-le en 6 indices, puis reviens l’écouter ici.": ": guess it in 6 clues, then come back here to listen.",
+  "🕵️ Jouer au Mystère du Jour": "🕵️ Play The Daily Mystery",
+  "👀 Découvrir le podcast du jour sans jouer": "👀 Reveal the podcast of the day without playing",
+  "Pourquoi ce choix": "Why this pick",
+  "L'actu qui a fait le buzz": "The news everyone talked about",
+  "L'émission": "The show",
+  "Pourquoi l'écouter": "Why listen",
+  "▶ Écouter l'épisode": "▶ Listen to the episode",
+  "▶ Voir la vidéo": "▶ Watch the video",
+  "▶ Notre critique": "▶ Our review",
+  "Voir la fiche": "See the profile",
+  "Les sélections précédentes →": "Previous picks →",
+  "Les sélections précédentes": "Previous picks",
+  "🔥 Le podcast du jour": "🔥 Podcast of the day",
+  "🔥 La chaîne du jour": "🔥 Channel of the day",
+  "Pépite indépendante": "Independent gem",
+  "Le podcast du jour : l'actu en podcast et sur YouTube": "Podcast of the day: the news in podcasts and on YouTube",
+  "Chaque jour, l'actu qui fait le buzz et l'émission de": "Every day, the news everyone is talking about and the show from",
+  "notre annuaire": "our directory",
+  "qui en parle : un podcast ou une chaîne YouTube francophone à écouter pour aller plus loin que les gros titres.": "that covers it: a French-language podcast or YouTube channel to go beyond the headlines.",
+  "▶ Écouter": "▶ Listen",
+  "+ Ma liste": "+ My list",
+  "▶": "▶",
+  "+": "+",
+  "Écouter l'épisode dans le lecteur du site": "Play the episode in the site player",
+  "Écouter la vidéo dans le lecteur du site": "Play the video in the site player",
+  "Ajouter l'épisode à ma liste d'écoute": "Add the episode to my playlist",
+  "Ajouter la vidéo à ma liste d'écoute": "Add the video to my playlist",
+  "Ajouter le dernier épisode à ma liste": "Add the latest episode to my list",
+  "Ajouter notre épisode à ma liste": "Add our episode to my list",
+  "Pas encore d'épisode lisible ici : ouvre la fiche pour l'écouter sur ta plateforme.": "No playable episode here yet: open the profile to listen on your platform.",
+  "Impossible de récupérer l'épisode. Vérifie ta connexion et réessaie.": "Couldn't fetch the episode. Check your connection and try again.",
+  "📚 Tous les épisodes": "📚 All episodes",
+  "Afficher plus": "Show more",
+  "Chercher un épisode…": "Search for an episode…",
+  "Ma liste d'écoute": "My playlist",
+  "Ma liste d'écoute | MediaCritic": "My playlist | MediaCritic",
+  "Les épisodes que tu ajoutes avec": "The episodes you add with",
+  "ou": "or",
+  ", partout sur le site, s'enchaînent ici. Garde cet onglet ouvert : tu peux continuer à naviguer sur le site sans couper le son.": ", anywhere on the site, play one after another here. Keep this tab open: you can keep browsing the site without stopping the sound.",
+  "Lecteur": "Player",
+  "Lecture": "Play",
+  "Pause": "Pause",
+  "Élément précédent": "Previous item",
+  "Élément suivant": "Next item",
+  "Reculer de 15 secondes": "Back 15 seconds",
+  "Avancer de 30 secondes": "Forward 30 seconds",
+  "Position dans l'épisode": "Position in the episode",
+  "Vitesse": "Speed",
+  "Mes listes": "My lists",
+  "+ Nouvelle": "+ New",
+  "Renommer": "Rename",
+  "Supprimer": "Delete",
+  "🔗 Partager cette liste": "🔗 Share this list",
+  "À suivre": "Up next",
+  "Retirer les écoutés": "Remove played",
+  "Vider": "Empty",
+  "Ta liste est vide.": "Your list is empty.",
+  "Chaque vignette de podcast ou de chaîne YouTube du site porte un bouton": "Every podcast or YouTube channel thumbnail on the site has a",
+  "qui ajoute son dernier épisode ; sur une fiche, chaque épisode a aussi": "button that adds its latest episode; on a profile, each episode also has",
+  "(écouter tout de suite) et": "(listen now) and",
+  "L'annuaire": "The directory",
+  "Ton navigateur bloque l'enregistrement : la liste ne sera pas conservée après fermeture.": "Your browser blocks storage: the list won't be kept after closing.",
+  "Les podcasts sont lus directement depuis le fichier publié par leur auteur, chez son hébergeur ; les vidéos, dans le lecteur officiel de YouTube. MediaCritic n'héberge aucun de ces contenus. Ta liste reste dans ton navigateur.": "Podcasts are played straight from the file published by their creator, on their host; videos, in YouTube's official player. MediaCritic hosts none of this content. Your list stays in your browser.",
+  "Voir la fiche ": "See the profile",
+  "Lien copié ! Colle-le où tu veux.": "Link copied! Paste it wherever you like.",
+  "📥 Une liste t'a été partagée": "📥 A list has been shared with you",
+  "Ajouter à mes listes": "Add to my lists",
+  "Ignorer": "Ignore",
+  "Nouvelle liste": "New list",
+  "Nom de la liste": "List name",
+  "Liste partagée": "Shared list",
+  "Derniers contenus publiés": "Latest releases",
+  "Épisodes": "Episodes",
+  "Ce qu'en pense le public": "What listeners think",
+  "Ce qu'en dit la presse": "What the press says",
+  "À découvrir aussi": "You might also like",
+  "🔗 Partager cette fiche": "🔗 Share this profile",
+  "🏅 Vous faites cette émission ?": "🏅 Do you make this show?",
+  "📻 MediaCritic, c'est quoi ?": "📻 What is MediaCritic?",
+  "MediaCritic est le podcast francophone indépendant qui analyse et critique des podcasts, émissions et chaînes YouTube. Chaque semaine, Alex et Lolo décortiquent un média avec méthode, passion et humour.": "MediaCritic is an independent French-language podcast that analyses and reviews podcasts, shows and YouTube channels. Every week, Alex and Lolo dissect a media outlet with method, passion and humour.",
+  "← Retour au catalogue": "← Back to the directory",
+  "Catégories :": "Categories:",
+  "notes": "ratings",
+  "sur Apple Podcasts": "on Apple Podcasts",
+  "épisodes ": "episodes",
+  "PODCAST": "PODCAST",
+  "CHAÎNE YOUTUBE": "YOUTUBE CHANNEL",
+  "Chaîne YouTube": "YouTube channel",
+  "Podcast indépendant": "Independent podcast",
+  "Chaîne indépendante": "Independent channel",
+  "Publié hors médias, studios, marques et institutions : voir le guide": "Published outside media groups, studios, brands and institutions: see the guide",
+  "Publié hors radios, presse, studios et institutions : voir le guide": "Published outside radio, press, studios and institutions: see the guide",
+  "abonnés YouTube": "YouTube subscribers",
+  "vidéos": "videos",
+  "Copier le code": "Copy the code",
+  "Code copié !": "Code copied!",
+  "Référencé sur MediaCritic": "Listed on MediaCritic",
+  "Critiqué par MediaCritic": "Reviewed by MediaCritic",
+  "✦ Analysé par MediaCritic": "✦ Reviewed by MediaCritic",
+  "Analysé par MediaCritic": "Reviewed by MediaCritic",
+  "📖 Lire la critique du podcast": "📖 Read the podcast review",
+  "📖 Lire la critique de la chaîne": "📖 Read the channel review",
+  "Avis publiés par des auditeurs sur": "Reviews posted by listeners on",
+  "Quelques avis d'auditeurs, repris tels quels :": "A few listener reviews, quoted as is:",
+  "et reproduits sans modification. MediaCritic n'a analysé ce contenu dans aucun de ses épisodes.": "and reproduced unchanged. MediaCritic hasn't reviewed this show in any of its episodes.",
+  "⚠️ Note de MediaCritic": "⚠️ Note from MediaCritic",
+  "Cette chaîne relaie des thèses contestées, présentées comme de l’information mais sans vérification avérée.": "This channel relays disputed claims, presented as news but without proven verification.",
+  "Cette émission relaie des thèses contestées, présentées comme de l’information mais sans vérification avérée.": "This show relays disputed claims, presented as news but without proven verification.",
+  "Référencer n’est pas recommander : MediaCritic recense, il ne cautionne pas.": "Listing is not endorsing: MediaCritic catalogues, it doesn't vouch.",
+  "Partager ce classement": "Share this ranking",
+  "Voir la fiche complète →": "See the full profile →",
+  "Affichez votre badge MediaCritic sur votre site, votre page de liens ou la description de vos épisodes.": "Display your MediaCritic badge on your website, your link page or your episode descriptions.",
+  "▶ YouTube": "▶ YouTube",
+  "🎙️ Le podcast": "🎙️ The podcast",
+  "Voir le classement général →": "See the overall ranking →",
+  "Le classement des podcasts et chaînes YouTube francophones": "The ranking of French-language podcasts and YouTube channels",
+  "Les mieux notés": "Top rated",
+  "Les plus populaires": "Most popular",
+  "Top YouTube": "Top YouTube",
+  "Pépites MediaCritic": "MediaCritic gems",
+  "Les podcasts les mieux notés": "Top-rated podcasts",
+  "Les podcasts les plus populaires": "Most popular podcasts",
+  "Les chaînes YouTube francophones les plus suivies": "Most-followed French-language YouTube channels",
+  "Les pépites MediaCritic": "MediaCritic gems",
+  "sur 5 · Apple": "out of 5 · Apple",
+  "sur 10 · MediaCritic": "out of 10 · MediaCritic",
+  "avis Apple": "Apple reviews",
+  "sur 10": "out of 10",
+  "Classés par nombre d'avis déposés sur Apple Podcasts, la mesure la plus objective de l'audience d'un podcast.": "Ranked by number of reviews on Apple Podcasts, the most objective measure of a podcast's audience.",
+  "Classés par nombre d'avis déposés sur Apple Podcasts — la mesure la plus objective de l'audience d'un podcast.": "Ranked by number of reviews on Apple Podcasts — the most objective measure of a podcast's audience.",
+  "Classées par nombre d'abonnés.": "Ranked by subscribers.",
+  "Ceux que nous avons écoutés, critiqués et notés dans le podcast. Notre avis, pas celui d'un algorithme.": "The ones we listened to, reviewed and rated on the podcast. Our opinion, not an algorithm's.",
+  "Le guide des podcasts et chaînes YouTube indépendants": "The guide to independent podcasts and YouTube channels",
+  "Les plus écoutés": "Most listened to",
+  "Les podcasts indépendants les mieux notés": "Top-rated independent podcasts",
+  "Les podcasts indépendants les plus écoutés": "Most-listened independent podcasts",
+  "Les chaînes YouTube indépendantes les plus suivies": "Most-followed independent YouTube channels",
+  "Les indépendants analysés par MediaCritic": "Independents reviewed by MediaCritic",
+  "Classement général": "Overall ranking",
+  "Analysés par MediaCritic ": "Reviewed by MediaCritic",
+  "L'annuaire des chaînes YouTube francophones": "The directory of French-language YouTube channels",
+  "Les plus suivies": "Most followed",
+  "Indépendantes": "Independent",
+  "Critiquées par MediaCritic": "Reviewed by MediaCritic",
+  "Les chaînes YouTube critiquées par MediaCritic": "YouTube channels reviewed by MediaCritic",
+  "Celles que nous avons regardées, analysées et notées dans le podcast.": "The ones we watched, reviewed and rated on the podcast.",
+  "Autres catégories": "Other categories",
+  "Jeu vidéo": "Video games",
+  "Cinéma et séries": "Film & TV",
+  "Culture": "Culture",
+  "⭐ Analysés en détail par MediaCritic": "⭐ Reviewed in detail by MediaCritic",
+  "Questions fréquentes": "FAQ",
+  "Les contenus que nous avons écoutés, analysés et notés en détail dans le podcast. Notre avis, pas celui d'un algorithme.": "Shows we listened to, analysed and rated in detail on the podcast. Our opinion, not an algorithm's.",
+  "Les deux formats sont représentés ici. Les contenus analysés par MediaCritic apparaissent en premier.": "Both formats are represented here. Shows reviewed by MediaCritic come first.",
+  "Comment jouer": "How to play",
+  "Les indices": "The clues",
+  "Ta proposition": "Your guess",
+  "Tes propositions": "Your guesses",
+  "Valider": "Submit",
+  "Je donne ma langue au chat": "I give up",
+  "Prochain mystère dans": "Next mystery in",
+  "Tes statistiques": "Your stats",
+  "Répartition des essais": "Guess distribution",
+  "Parties": "Played",
+  "Victoires": "Wins",
+  "Série": "Streak",
+  "Record": "Best",
+  "Nom du podcast ou de la chaîne…": "Name of the podcast or channel…",
+  "Accents et majuscules ne comptent pas.": "Accents and capitals don't count.",
+  "Le mystère du jour se prépare": "Today's mystery is being prepared",
+  "Il arrive avec le podcast du jour, avant 10 h (heure de Paris). Reviens tout à l'heure !": "It arrives with the podcast of the day, before 10 a.m. (Paris time). Come back later!",
+  "Le mystère du jour arrive avant 10 h": "Today's mystery arrives before 10 a.m.",
+  "La réponse est": "The answer is",
+  "le podcast du jour": "the podcast of the day",
+  "Déjà proposé ! Essaie autre chose.": "Already guessed! Try something else.",
+  "Écris le nom d'un podcast ou d'une chaîne.": "Type the name of a podcast or channel.",
+  "Ce nom ne contient ni lettre ni chiffre.": "This name has no letters or digits.",
+  "Sûr ? Ça compte comme une défaite (cliquer pour confirmer)": "Sure? It counts as a loss (click to confirm)",
+  "Du premier coup. Même Alex a mis 4 essais.": "First try. Even Alex needed 4 guesses.",
+  "Deux essais. Lolo est déjà jaloux, et il le cache mal.": "Two guesses. Lolo is already jealous, and hides it badly.",
+  "Trois essais : la moyenne de la rédaction. Pile dans le générique.": "Three guesses: the team average. Right on cue.",
+  "Quatre essais, comme Alex. Ce n'est pas un compliment, mais ce n'est pas une insulte.": "Four guesses, like Alex. Not a compliment, but not an insult either.",
+  "Cinq essais. Ça s'est joué au générique de fin.": "Five guesses. It came down to the end credits.",
+  "Au sixième indice ! Même le podcast n'y croyait plus.": "On the sixth clue! Even the podcast had given up hope.",
+  "Lolo non plus n'a pas trouvé. Il a fait un PowerPoint pour s'en remettre.": "Lolo didn't get it either. He made a PowerPoint to get over it.",
+  "Catégorie": "Category",
+  "Année de création": "Year created",
+  "Durée moyenne": "Average length",
+  "Pochette": "Cover",
+  "Initiales de l'auteur": "Creator's initials",
+  "Audience": "Audience",
+  "Pochette floutée de l'émission": "Blurred cover of the show",
+  "Partager mon résultat": "Share my result",
+  "Copié ! Colle-le où tu veux.": "Copied! Paste it wherever you like.",
+  "Devine le podcast du jour en 6 indices.": "Guess the podcast of the day in 6 clues.",
+  "Ton navigateur bloque l'enregistrement : la partie fonctionne, mais ta série ne sera pas conservée.": "Your browser blocks storage: the game works, but your streak won't be kept.",
+  "Le Mystère du Jour — devine le podcast | MediaCritic": "The Daily Mystery — guess the podcast | MediaCritic",
+  "🕵️ Le jeu quotidien de MediaCritic": "🕵️ MediaCritic's daily game",
+  "Comparer deux podcasts ou chaînes YouTube": "Compare two podcasts or YouTube channels",
+  "Comparaisons suggérées": "Suggested comparisons",
+  "Inverser": "Swap",
+  "vs": "vs",
+  "Comparateur de podcasts et chaînes YouTube | MediaCritic": "Podcast and YouTube channel comparison | MediaCritic",
+  "Les badges MediaCritic": "MediaCritic badges",
+  "Tous les badges": "All badges",
+  "Contact & Réseaux sociaux — MediaCritic": "Contact & social media — MediaCritic",
+  "Réseaux sociaux": "Social media",
+  "Écrivez-nous": "Write to us",
+  "✉️ Nous écrire": "✉️ Write to us",
+  "Envoyer un email →": "Send an email →",
+  "Email": "Email",
+  "On répond en général sous 48h 🙂": "We usually reply within 48h 🙂",
+  "Nous suivre →": "Follow us →",
+  "S'abonner →": "Subscribe →",
+  "🎙️ Proposez un podcast à analyser": "🎙️ Suggest a podcast to review",
+  "Proposer →": "Suggest →",
+  "Cette page n'existe pas, ou plus": "This page doesn't exist, or no longer does",
+  "Page introuvable | MediaCritic": "Page not found | MediaCritic",
+  "parcourir l’annuaire": "browse the directory",
+  "Le lien est peut-être ancien ou mal recopié. Tous les podcasts et chaînes YouTube de l'annuaire, et toutes nos critiques, sont à un clic.": "The link may be old or mistyped. Every podcast and YouTube channel in the directory, and all our reviews, are one click away.",
+  "Palmarès des critiques de podcasts et chaînes YouTube": "Top reviews of podcasts and YouTube channels",
+  "🏆 Palmarès des critiques de podcasts et chaînes YouTube": "🏆 Top reviews of podcasts and YouTube channels",
+  "Critiques de podcasts & YouTube — Palmarès MediaCritic 2026": "Podcast & YouTube reviews — MediaCritic top list 2026",
+  "Culture & Histoire": "Culture & History",
+  "Gaming & Geek": "Gaming & Geek",
+  "Humour & Société": "Comedy & Society",
+  "Sciences & Tech": "Science & Tech",
+  "Gastronomie & Vie": "Food & Life",
+  "Chaque note a son épisode": "Every rating has its episode",
+  "★ Note MediaCritic": "★ MediaCritic rating",
+  "Animé par": "Hosted by",
+  "🔍 Ce que MediaCritic en a pensé": "🔍 What MediaCritic thought",
+  "🔗 Partager cet épisode": "🔗 Share this episode",
+  "← Précédent": "← Previous",
+  "Suivant →": "Next →",
+  "🎧 Écouter MediaCritic": "🎧 Listen to MediaCritic",
+  "🎧 Écouter sur Spotify": "🎧 Listen on Spotify",
+  "Écouter notre épisode": "Listen to our episode",
+  "✨ Nouveau": "✨ New",
+  "Les animateurs": "The hosts",
+  "Notre mission": "Our mission",
+  "Co-animateur": "Co-host",
+  "Vous voulez nous contacter ?": "Want to get in touch?",
+  "Nous contacter →": "Contact us →",
+  "Anglais": "English",
+  "Espagnol": "Spanish",
+  "Allemand": "German",
+  "Italien": "Italian",
+  "Portugais": "Portuguese",
+  "MediaCritic — Annuaire et critiques podcasts et YouTube": "MediaCritic — Directory and reviews of podcasts and YouTube channels",
+  "Podcasts et chaînes YouTube indépendants | MediaCritic": "Independent podcasts and YouTube channels | MediaCritic",
+  "Annuaire des chaînes YouTube francophones | MediaCritic": "Directory of French-language YouTube channels | MediaCritic",
+  "Badges MediaCritic pour podcasts et chaînes YouTube": "MediaCritic badges for podcasts and YouTube channels",
+  "Le podcast": "The podcast",
+  "Metacritic francophone des podcasts": "French-language Metacritic of podcasts",
+  "est le podcast francophone indépendant qui analyse et critique des podcasts, des émissions et des chaînes YouTube — un peu le": "is the independent French-language podcast that analyses and reviews podcasts, shows and YouTube channels — a bit like the",
+  ", en moins condescendant et avec bien plus d'humour. Chaque semaine, Alex et Lolo (et parfois leurs invité·e·s) décortiquent un média audio ou vidéo comme on analyserait un film : la forme, le fond et les intentions.": ", minus the condescension and with far more humour. Every week, Alex and Lolo (sometimes with guests) dissect an audio or video outlet the way you'd analyse a film: form, substance and intentions.",
+  "Tous les épisodes analysés": "All reviewed episodes",
+  "Les épisodes de MediaCritic": "MediaCritic episodes",
+  "Dans": "Among",
+  "Le tri se fait sur le nom de l'éditeur ou de la chaîne. Il peut se tromper : si un contenu est mal classé,": "Sorting is based on the publisher's or channel's name. It can be wrong: if a show is misclassified,",
+  "dites-le-nous": "let us know",
+  ". Les notes et les audiences des podcasts viennent d'Apple Podcasts, celles des chaînes de YouTube ; les pépites, de nos propres critiques. Mis à jour automatiquement.": ". Podcast ratings and audiences come from Apple Podcasts, channel figures from YouTube; the gems, from our own reviews. Updated automatically.",
+  "chaînes YouTube de langue française référencées dans": "French-language YouTube channels listed in",
+  ", aux côtés des podcasts : gaming, humour, histoire, sciences, tech, cuisine, sport… Classées par nombre d'abonnés, avec les chaînes indépendantes et celles que nous avons critiquées dans notre podcast. Mis à jour automatiquement.": ", alongside the podcasts: gaming, comedy, history, science, tech, food, sports… Ranked by subscribers, with the independent channels and the ones we've reviewed on our podcast. Updated automatically.",
+  "Des créateurs et de petites structures : ni médias, ni marques, ni maisons de disques.": "Creators and small outfits: no media groups, no brands, no record labels.",
+  "Le guide des indépendants": "The independents guide",
+  "Chaque jour, un podcast ou une chaîne YouTube francophone se cache derrière six indices, du plus flou au plus évident : la catégorie, l'année de création, le format, l'actu du jour, les initiales de l'auteur, puis la pochette floutée. Chaque mauvaise réponse dévoile l'indice suivant.": "Every day, a French-language podcast or YouTube channel hides behind six clues, from vaguest to most obvious: the category, the year it started, the format, the day's news, the creator's initials, then the blurred cover. Each wrong answer reveals the next clue.",
+  "de MediaCritic, choisi chaque matin parce qu'il parle de l'actualité. Une partie par jour, nouveau mystère à minuit (heure de Paris). Tes séries et statistiques restent dans ton navigateur : aucune inscription, aucune donnée envoyée.": "of MediaCritic, picked every morning because it covers the news. One game a day, new mystery at midnight (Paris time). Your streaks and stats stay in your browser: no sign-up, no data sent.",
+  "Choisissez deux contenus de l’annuaire : notes MediaCritic et Apple Podcasts, nombre d’avis, abonnés, rythme de publication et dernière activité s’affichent côte à côte. Le lien de la comparaison est partageable.": "Pick two shows from the directory: MediaCritic and Apple Podcasts ratings, number of reviews, subscribers, release rhythm and latest activity appear side by side. The comparison link can be shared.",
+  "Des contenus que nous avons analysés dans le podcast et qui partagent un thème.": "Shows we've reviewed on the podcast that share a theme.",
+  "Une ligne n’apparaît que si au moins un des deux contenus porte la donnée. Les notes Apple Podcasts et le nombre d’abonnés proviennent des plateformes ; la note sur 10 est la nôtre, attribuée dans l’épisode consacré au contenu. Le rythme de publication est calculé à partir du flux et n’est connu que pour une partie de l’annuaire. —": "A row only appears if at least one of the two shows has the data. Apple Podcasts ratings and subscriber counts come from the platforms; the score out of 10 is ours, given in the episode devoted to the show. Release rhythm is computed from the feed and is only known for part of the directory. —",
+  "Voir les classements": "See the rankings",
+  "Chercher un podcast ou une chaîne…": "Search for a podcast or a channel…",
+  "Chercher le contenu 1 à comparer": "Search for show 1 to compare",
+  "Chercher le contenu 2 à comparer": "Search for show 2 to compare",
+  "Une idée de podcast à analyser ? Une collaboration ? Un message d'encouragement ? On est joignables ici.": "An idea for a podcast to review? A collaboration? A word of encouragement? You can reach us here.",
+  "Photos, stories, coulisses et actus de l'émission.": "Photos, stories, behind the scenes and show news.",
+  "Extraits, formats courts et contenus exclusifs.": "Clips, short formats and exclusive content.",
+  "Les épisodes en vidéo, disponibles gratuitement.": "The episodes on video, free to watch.",
+  "Actus, prises de position et réactions à chaud.": "News, opinions and hot takes.",
+  "Actualités professionnelles et coulisses du projet.": "Professional news and behind the scenes of the project.",
+  "Écoutez et abonnez-vous sur Spotify.": "Listen and subscribe on Spotify.",
+  "Écouter →": "Listen →",
+  "Vous avez un podcast ou une chaîne YouTube que vous aimez et dont vous voulez qu'on parle ? Envoyez-nous le nom, un lien, et quelques mots sur pourquoi on devrait l'analyser. On lit tout.": "Got a podcast or YouTube channel you love and want us to talk about? Send us the name, a link and a few words on why we should review it. We read everything.",
+  "Votre émission figure dans": "Is your show listed in",
+  "ou a été critiquée dans notre podcast ? Affichez-le : sur votre site, votre page de liens, la description de vos épisodes ou de votre chaîne. Le code se copie depuis la fiche de votre émission, avec le bon lien et, pour les émissions critiquées, votre note.": "or has it been reviewed on our podcast? Show it off: on your website, your link page, your episode or channel description. Copy the code from your show's profile, with the right link and, for reviewed shows, your score.",
+  "Pour les émissions que nous avons critiquées dans le podcast, avec leur note sur 10. Le lien mène à notre critique.": "For shows we've reviewed on the podcast, with their score out of 10. The link leads to our review.",
+  "Podcast du jour": "Podcast of the day",
+  "Pour les émissions choisies comme podcast du jour sur notre page d'accueil.": "For shows picked as podcast of the day on our home page.",
+  "Les émissions critiquées par MediaCritic": "Shows reviewed by MediaCritic",
+  "Chacune dispose de son badge avec sa note, à copier depuis sa fiche.": "Each has its own badge with its score, to copy from its profile.",
+  "notés sur 10": "rated out of 10",
+  "Derrière chaque note, il y a 5 à 7 minutes d'analyse en audio : fond, forme, intentions. Cliquez sur une ligne pour lire le verdict complet — ou écoutez l'épisode.": "Behind every score there are 5 to 7 minutes of audio analysis: substance, form, intentions. Click a row to read the full verdict — or listen to the episode.",
+  "Restons en": "Let's stay in",
+  "suivre": "touch",
+  "· Catégorie ·": "· Category ·",
+  "analysés par MediaCritic": "reviewed by MediaCritic",
+  "Alex, Lolo et leurs invité·e·s ont analysé": "Alex, Lolo and their guests reviewed",
+  "Mis à jour automatiquement.": "Updated automatically."
+ }
+}
