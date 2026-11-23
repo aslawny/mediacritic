@@ -50,6 +50,7 @@ def die(msg):
 REGENERATEURS = [
     "scripts/detect_complot.py",        # avertissement des medias complotistes (avant les fiches)
     "scripts/generate_fiches.py",       # fiches + catalog.json + catalog-lite
+    "scripts/generate_fiches_intl.py",  # fiches du catalogue international (data/content_intl)
     "scripts/generate_categories.py",   # 13 pages categories + Top 10
     "scripts/generate_palmares.py",     # palmares
     "scripts/generate_classement.py",   # classements (depend des notes)

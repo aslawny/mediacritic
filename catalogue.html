@@ -400,6 +400,15 @@
     <input type="search" id="search-input" placeholder="Chercher un podcast, un créateur…" autocomplete="off" aria-label="Rechercher dans le catalogue" />
   </div>
 
+  <div class="mc-langues" id="langues" role="group" aria-label="Langue parlée dans l'émission">
+    <button type="button" class="mc-langue active" data-langue="fr" aria-pressed="true">🇫🇷 Français</button>
+    <button type="button" class="mc-langue" data-langue="en" aria-pressed="false">English</button>
+    <button type="button" class="mc-langue" data-langue="es" aria-pressed="false">Español</button>
+    <button type="button" class="mc-langue" data-langue="de" aria-pressed="false">Deutsch</button>
+    <button type="button" class="mc-langue" data-langue="it" aria-pressed="false">Italiano</button>
+    <button type="button" class="mc-langue" data-langue="pt" aria-pressed="false">Português</button>
+    <button type="button" class="mc-langue" data-langue="all" aria-pressed="false">🌍 Toutes</button>
+  </div>
   <div class="filters" id="filters-container">
     <button class="filter-btn active" data-cat="all">Tous</button>
     <button class="filter-btn mc-only" data-cat="mc">⭐ Analysés par MediaCritic</button>
@@ -487,6 +496,7 @@
     const existing = filtersCt.querySelectorAll('[data-cat]');
     existing.forEach(b => { if(b.dataset.cat !== 'all' && b.dataset.cat !== 'mc' && b.dataset.cat !== 'indep' && b.dataset.cat !== 'desirs') b.remove(); });
     CATS_ORDER.filter(c => cats.has(c)).concat([...cats].filter(c => !CATS_ORDER.includes(c)).sort()).forEach(cat => {
+      if (filtersCt.querySelector(`[data-cat="${CSS.escape(cat)}"]`)) return;
       const btn = document.createElement('button');
       btn.className = 'filter-btn';
       btn.dataset.cat = cat;
@@ -496,6 +506,8 @@
     // « Desirs & intimite » en dernier, apres les categories (16/11/2026).
     const btnDesirs = filtersCt.querySelector('[data-cat="desirs"]');
     if (btnDesirs) filtersCt.appendChild(btnDesirs);
+    if (filtersCt._ecoute) return;          // reconstruit a chaque changement de langue
+    filtersCt._ecoute = true;
     filtersCt.addEventListener('click', e => {
       const btn = e.target.closest('[data-cat]');
       if(!btn) return;
@@ -595,6 +607,7 @@
             : `<div class="card-cover-placeholder">${emoji}</div>`
           }
           ${mcBadge}
+          ${item.langue ? `<span class="card-langue" title="Langue de l'émission">${String(item.langue).toUpperCase()}</span>` : ''}
         </div>
         <div class="card-body">
           <div class="card-title">${item.title}</div>
@@ -641,11 +654,73 @@
   }
   if (urlCat) activecat = urlCat;
 
+  // Langue parlee (23/11/2026) : le catalogue francais par defaut ; le
+  // catalogue international (data/catalog-intl.json) n'est charge qu'a la
+  // demande.
+  const LANGUES = ['fr', 'en', 'es', 'de', 'it', 'pt', 'all'];
+  let langue = LANGUES.includes(urlParams.get('langue')) ? urlParams.get('langue') : 'fr';
+  let catalogFr = null, catalogIntl = null;
+  const FUSE_OPTS = {
+    keys: [
+      { name: 'title', weight: 0.5 },
+      { name: 'author', weight: 0.2 },
+      { name: 'categories', weight: 0.2 },
+      { name: 'description', weight: 0.1 }
+    ],
+    threshold: 0.35, includeScore: true, minMatchCharLength: 2
+  };
+  function choisirLangue(l, depart) {
+    if (l !== 'fr' && !catalogIntl) {
+      fetch('data/catalog-intl.json').then(r => r.json()).then(d => { catalogIntl = d; choisirLangue(l, depart); })
+        .catch(() => { catalogIntl = []; choisirLangue(l, depart); });
+      return;
+    }
+    langue = l;
+    document.querySelectorAll('.mc-langue').forEach(b => {
+      const on = b.dataset.langue === l;
+      b.classList.toggle('active', on); b.setAttribute('aria-pressed', on ? 'true' : 'false');
+    });
+    catalog = l === 'fr' ? catalogFr : l === 'all' ? catalogFr.concat(catalogIntl)
+      : catalogIntl.filter(i => i.langue === l);
+    fuse = new Fuse(catalog, FUSE_OPTS);
+    if (!depart) {
+      const seuil = (l === 'fr' || l === 'all') ? 100 : 5;
+      const poids = new Map();
+      catalog.forEach(i => (i.categories || []).forEach(c => poids.set(c, (poids.get(c) || 0) + 1)));
+      filtersCt.querySelectorAll('[data-cat]').forEach(b => {
+        if (!['all', 'mc', 'indep', 'desirs'].includes(b.dataset.cat)) b.remove();
+      });
+      buildFilters(new Set([...poids.entries()].filter(([, n]) => n >= seuil)
+        .sort((a, b) => b[1] - a[1]).map(([c]) => c)));
+      // Filtres propres au catalogue francais : caches pour une autre langue.
+      ['mc', 'indep', 'desirs'].forEach(c => {
+        const b = filtersCt.querySelector(`[data-cat="${c}"]`);
+        if (b) b.hidden = !(l === 'fr' || l === 'all');
+      });
+      if (['mc', 'indep', 'desirs'].includes(activecat) && !(l === 'fr' || l === 'all')) activecat = 'all';
+      if (!filtersCt.querySelector(`[data-cat="${CSS.escape(activecat)}"]`)) activecat = 'all';
+      filtersCt.querySelectorAll('.filter-btn').forEach(b => b.classList.toggle('active', b.dataset.cat === activecat));
+      try {
+        const u = new URL(location.href);
+        if (l === 'fr') u.searchParams.delete('langue'); else u.searchParams.set('langue', l);
+        history.replaceState(null, '', u.pathname + u.search);
+      } catch (e) {}
+      try { if (window.gtag) gtag('event', 'langue_annuaire', { langue: l }); } catch (e) {}
+    }
+    page = 0;
+    applyFilters();
+  }
+  document.getElementById('langues').addEventListener('click', e => {
+    const b = e.target.closest('[data-langue]');
+    if (b && b.dataset.langue !== langue) choisirLangue(b.dataset.langue, false);
+  });
+
   // Load catalog
   fetch('data/catalog.json')
     .then(r => r.json())
     .then(data => {
       catalog = data;
+      catalogFr = data;
 
       // Update stat
       document.getElementById('stat-total').textContent = data.length.toLocaleString('fr-FR');
@@ -708,7 +783,7 @@
         updateMeta(urlCat);
       }
 
-      applyFilters();
+      if (langue !== 'fr') choisirLangue(langue, false); else applyFilters();
     })
     .catch(() => {
       grid.innerHTML = '<p style="color:var(--c-muted);text-align:center;padding:40px;grid-column:1/-1">Erreur lors du chargement du catalogue.</p>';

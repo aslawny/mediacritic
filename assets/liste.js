@@ -141,7 +141,10 @@
   }
   function texte(s) { return typeof s === 'string' ? s : ''; }
   function depuisFiche(slug) {
-    return jsonDe('/data/content/' + slug + '.json').then(function (d) {
+    // Fiche francaise, sinon catalogue international (data/content_intl, 23/11/2026).
+    return jsonDe('/data/content/' + slug + '.json').catch(function () {
+      return jsonDe('/data/content_intl/' + slug + '.json');
+    }).then(function (d) {
       var base = { emission: texte(d.title), lien: '/fiches/' + slug + '.html',
                    image: /^https:\/\//.test(d.image || '') ? d.image : '' };
       function fait(type, src, titre, date, duree) {

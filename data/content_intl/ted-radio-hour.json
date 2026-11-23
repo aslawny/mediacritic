@@ -1,0 +1,36 @@
+{
+  "slug": "ted-radio-hour",
+  "title": "TED Radio Hour",
+  "author": "NPR",
+  "type": "podcast",
+  "categories": [
+    "tech",
+    "numerique",
+    "sciences",
+    "vulgarisation"
+  ],
+  "tags": [
+    "tech",
+    "numerique",
+    "sciences",
+    "vulgarisation"
+  ],
+  "description": "Exploring the biggest questions of our time with the help of the world's greatest thinkers. Host Manoush Zomorodi inspires us to learn more about the world, our communities, and most importantly, ourselves. Support public media by joining NPR+ at plus.npr.org. You’ll get perks for over 25 NPR podcasts, including sponsor-free listening for TED Radio Hour.",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/94/ea/88/94ea8879-e7f2-378c-231c-c041c7b295b5/mza_9110350352446077100.jpg/600x600bb.jpg",
+  "langue": "en",
+  "language": "en",
+  "pays": "US",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/us/podcast/ted-radio-hour/id523121474",
+      "trackId": 523121474,
+      "rating": 4.3,
+      "ratingCount": 20968,
+      "episodeCount": 393,
+      "feedUrl": "https://feeds.npr.org/510298/podcast.xml"
+    }
+  },
+  "mediacritic": null,
+  "addedAt": "2026-11-23",
+  "updatedAt": "2026-11-23"
+}

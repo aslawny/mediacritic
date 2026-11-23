@@ -1,0 +1,34 @@
+{
+  "slug": "nerdcast",
+  "title": "NerdCast",
+  "author": "Jovem Nerd",
+  "type": "podcast",
+  "categories": [
+    "humour",
+    "culture",
+    "societe"
+  ],
+  "tags": [
+    "humour",
+    "culture",
+    "societe"
+  ],
+  "description": "A vida, o universo e tudo mais viram piada no Jovem Nerd! Há 20 anos, Alottoni e Azaghal comentam, com muito humor ácido e uma dose saudável de zoeira, os principais assuntos da cultura pop.",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4c/7a/65/4c7a6515-85e9-cf2a-5342-5f11cfce9a0f/mza_17837230665868506995.jpg/600x600bb.jpg",
+  "langue": "pt",
+  "language": "pt",
+  "pays": "BR",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/br/podcast/nerdcast/id381816509",
+      "trackId": 381816509,
+      "rating": 4.7,
+      "ratingCount": 12787,
+      "episodeCount": 1745,
+      "feedUrl": "https://feeds.megaphone.fm/JNPD6227286900"
+    }
+  },
+  "mediacritic": null,
+  "addedAt": "2026-11-23",
+  "updatedAt": "2026-11-23"
+}

@@ -331,3 +331,12 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{ou
 .mc-rang-partager{min-height:44px;padding:0 16px;border-radius:999px;border:1px solid var(--mc-accent);background:var(--mc-accent);color:var(--mc-on-accent);font:inherit;font-weight:700;cursor:pointer;margin-left:auto}
 .mc-rang-partager:focus-visible{outline:3px solid #fff;outline-offset:2px}
 @media (max-width:560px){.mc-rang-partager{margin-left:0;width:100%}}
+/* Catalogue international : langue parlee (23/11/2026) */
+.mc-langues{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 12px}
+.mc-langue{min-height:36px;padding:0 14px;border-radius:999px;border:1px solid var(--mc-line-2);background:transparent;color:var(--mc-text-2);font:inherit;font-size:14px;font-weight:600;cursor:pointer}
+.mc-langue:hover{border-color:var(--mc-accent);color:var(--mc-text)}
+.mc-langue.active{background:var(--mc-text);border-color:var(--mc-text);color:var(--mc-bg)}
+.mc-langue:focus-visible{outline:2px solid var(--mc-accent);outline-offset:2px}
+.card-langue{position:absolute;left:8px;top:8px;z-index:2;padding:2px 7px;border-radius:6px;background:rgba(10,14,22,.82);color:#fff;font-size:11px;font-weight:800;letter-spacing:.04em}
+@media (max-width:640px){.mc-langues{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none}.mc-langue{flex:none}}
+a.mc-langue,span.mc-langue{display:inline-flex;align-items:center;text-decoration:none}

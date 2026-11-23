@@ -1,0 +1,34 @@
+{
+  "slug": "o1-journale",
+  "title": "Ö1 Journale",
+  "author": "ORF Ö1",
+  "type": "podcast",
+  "categories": [
+    "politique",
+    "societe",
+    "actualite"
+  ],
+  "tags": [
+    "politique",
+    "societe",
+    "actualite"
+  ],
+  "description": "Volle Information. Mit diesem Kanal erhalten Sie die wichtigsten Ö1 Journale des Tages auf einen Klick.",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7d/20/d1/7d20d193-d026-f251-4e16-90bcd9f93a1e/mza_7941136245078946766.jpg/600x600bb.jpg",
+  "langue": "de",
+  "language": "de",
+  "pays": "AT",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/at/podcast/%C3%B61-journale/id250604783",
+      "trackId": 250604783,
+      "rating": 4.3,
+      "ratingCount": 988,
+      "episodeCount": 43,
+      "feedUrl": "https://podcast.orf.at/podcast/oe1/oe1_journale/oe1_journale.xml"
+    }
+  },
+  "mediacritic": null,
+  "addedAt": "2026-11-23",
+  "updatedAt": "2026-11-23"
+}

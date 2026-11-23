@@ -1,0 +1,30 @@
+{
+  "slug": "la-corneta",
+  "title": "La Corneta",
+  "author": "Los 40",
+  "type": "podcast",
+  "categories": [
+    "humour"
+  ],
+  "tags": [
+    "humour"
+  ],
+  "description": "Programa de infoteinment: Información con entretenimiento, conducido por Eduardo Videgaray y Jose Ramón San Cristobal (El Estaca). Lunes a viernes de 1 a 3 PM por Los 40",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/cc/68/54/cc6854ac-b6d4-a2d7-3f2a-e226540b4d51/mza_2243937535502884977.jpg/600x600bb.jpg",
+  "langue": "es",
+  "language": "es",
+  "pays": "MX",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/mx/podcast/la-corneta/id617028866",
+      "trackId": 617028866,
+      "rating": 4.8,
+      "ratingCount": 12481,
+      "episodeCount": 369,
+      "feedUrl": "http://fapi-top.prisasd.com/podcast/los40mexico/la_corneta/itunestfp/podcast.xml"
+    }
+  },
+  "mediacritic": null,
+  "addedAt": "2026-11-23",
+  "updatedAt": "2026-11-23"
+}

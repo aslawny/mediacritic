@@ -1,0 +1,30 @@
+{
+  "slug": "front-burner",
+  "title": "Front Burner",
+  "author": "CBC",
+  "type": "podcast",
+  "categories": [
+    "actualite"
+  ],
+  "tags": [
+    "actualite"
+  ],
+  "description": "Front Burner is a daily news podcast that takes you deep into the stories shaping Canada and the world. Each morning, from Monday to Friday, host Jayme Poisson talks with the smartest people covering the biggest stories to help you understand what’s going on.",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b5/46/ed/b546edf2-9cd4-8464-850d-92af5b75e371/mza_1251446280715167527.jpg/600x600bb.jpg",
+  "langue": "en",
+  "language": "en",
+  "pays": "CA",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/ca/podcast/front-burner/id1439621628",
+      "trackId": 1439621628,
+      "rating": 4.3,
+      "ratingCount": 4268,
+      "episodeCount": 2000,
+      "feedUrl": "https://www.cbc.ca/podcasting/includes/frontburner.xml"
+    }
+  },
+  "mediacritic": null,
+  "addedAt": "2026-11-23",
+  "updatedAt": "2026-11-23"
+}
