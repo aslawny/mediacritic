@@ -303,7 +303,9 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{ou
 .mcj-cache-ico{flex:none;width:96px;height:96px;border-radius:14px;display:flex;align-items:center;justify-content:center;font-size:44px;background:rgba(255,255,255,.05)}
 .mcj-cache p{margin:0 0 6px;color:var(--mc-text-2);line-height:1.55}
 .mcj-cache .mcj-cache-titre{font-family:Syne,Inter,sans-serif;font-weight:800;font-size:clamp(20px,3vw,26px);color:var(--mc-text);margin:2px 0 6px}
-.mcj-cache .mcj-actions{margin-top:12px}
+.mcj-cache .mcj-actions{margin-top:12px;display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+.mcj-btn-sans-jeu{background:transparent;font:inherit;font-size:14px;font-weight:600;cursor:pointer}
+.mcj-btn-sans-jeu:focus-visible{outline:2px solid var(--mc-accent);outline-offset:2px}
 @media (max-width:560px){.mcj-cache{flex-direction:column;align-items:flex-start}.mcj-cache-ico{width:64px;height:64px;font-size:30px}}
 /* Lecteur du site, etape 3 : tous les episodes d'une fiche (21/11/2026) */
 .ep-tous{margin-top:14px}

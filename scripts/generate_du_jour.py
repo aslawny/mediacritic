@@ -159,8 +159,17 @@ VERROU_JS = ("<script>(function(){var z=document.currentScript.previousElementSi
              "if(!z||!z.classList.contains('mcj-verrou'))return;var d=z.getAttribute('data-mys-date'),f=false;"
              "var j=new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Paris',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());"
              "if(d!==j)return;try{var e=JSON.parse(localStorage.getItem('mc-mystere-v1')||'{}');"
-             "f=!!(e&&e.parties&&e.parties[d]&&e.parties[d].fini);}catch(x){}"
+             "f=!!(e&&e.parties&&e.parties[d]&&e.parties[d].fini)||localStorage.getItem('mc-dujour-devoile')===d;}catch(x){}"
              "if(!f)z.classList.add('mcj-ferme');})();</script>")
+
+
+# « Découvrir sans jouer » (demande de l'utilisateur, 23/11/2026) : pour qui ne
+# veut pas jouer. Retenu pour la journee (cle « mc-dujour-devoile » = date) ;
+# la partie du Mystere n'est pas touchee.
+DEVOILER_JS = ("var z=this.closest('.mcj-verrou');if(!z)return;"
+               "try{localStorage.setItem('mc-dujour-devoile',z.getAttribute('data-mys-date'));}catch(e){}"
+               "z.classList.remove('mcj-ferme');var t=z.querySelector('.mcj-titre a');if(t)t.focus();"
+               "try{gtag('event','dujour_sans_jeu');}catch(e){}")
 
 
 def verrou(c, interieur, prefixe=""):
@@ -174,7 +183,9 @@ def verrou(c, interieur, prefixe=""):
              f'<p>Il se dévoile quand tu as joué au <strong>Mystère du Jour</strong> : devine-le '
              f'en 6 indices, puis reviens l’écouter ici.</p>'
              f'<div class="mcj-actions"><a class="mcj-btn mcj-btn-1" href="{prefixe}mystere.html">'
-             f'🕵️ Jouer au Mystère du Jour</a></div></div></div>')
+             f'🕵️ Jouer au Mystère du Jour</a>'
+             f'<button type="button" class="mcj-btn mcj-btn-sans-jeu" onclick="{h(DEVOILER_JS)}">'
+             f'👀 Découvrir le podcast du jour sans jouer</button></div></div></div>')
     return f'<div class="mcj-verrou" data-mys-date="{h(c["date"])}">{cache}{interieur}</div>' + VERROU_JS
 
 
