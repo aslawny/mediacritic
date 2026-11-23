@@ -693,11 +693,15 @@
       buildFilters(new Set([...poids.entries()].filter(([, n]) => n >= seuil)
         .sort((a, b) => b[1] - a[1]).map(([c]) => c)));
       // Filtres propres au catalogue francais : caches pour une autre langue.
+      // « Désirs & intimité » existe aussi dans chaque langue (23/11/2026) :
+      // bouton visible des qu'un contenu de la langue en fait partie.
+      const aDesirs = catalog.some(i => i.desirs);
       ['mc', 'indep', 'desirs'].forEach(c => {
         const b = filtersCt.querySelector(`[data-cat="${c}"]`);
-        if (b) b.hidden = !(l === 'fr' || l === 'all');
+        if (b) b.hidden = c === 'desirs' ? !aDesirs : !(l === 'fr' || l === 'all');
       });
-      if (['mc', 'indep', 'desirs'].includes(activecat) && !(l === 'fr' || l === 'all')) activecat = 'all';
+      if (['mc', 'indep'].includes(activecat) && !(l === 'fr' || l === 'all')) activecat = 'all';
+      if (activecat === 'desirs' && !aDesirs) activecat = 'all';
       if (!filtersCt.querySelector(`[data-cat="${CSS.escape(activecat)}"]`)) activecat = 'all';
       filtersCt.querySelectorAll('.filter-btn').forEach(b => b.classList.toggle('active', b.dataset.cat === activecat));
       try {

@@ -15,7 +15,7 @@
     fr: { nom: 'Français', drapeau: '/assets/drapeaux/fr.svg' },
     en: { nom: 'English', drapeau: '/assets/drapeaux/gb.svg' }
   };
-  var NE_PAS = 'script,style,noscript,textarea,code,pre,[data-i18n-non],.card-title,.card-author,' +
+  var NE_PAS = 'script,style,noscript,textarea,code,pre,[data-i18n-non],[data-i18n-fait],.card-title,.card-author,' +
     '.sim-title,.sim-author,.cl-titre,.cl-auteur,.top-titre,.top-auteur,.rank-title,.mcj-titre,' +
     '.ep-titre,.fiche-desc,.mys-essais,.ecl-titre,.ecl-emission,.mch-lang';
 
@@ -82,7 +82,21 @@
   }
 
   /* ---------- traduction ---------- */
-  var dico = null, regles = [], cats = {};
+  var dico = null, regles = [], cats = {}, blocs = {};
+  var BLOCS = 'p,li,h1,h2,h3,h4,blockquote,td,dd,dt,figcaption,summary';
+  function cleBloc(el) { return (el.textContent || '').replace(/\s+/g, ' ').trim(); }
+  // Textes editoriaux (livraison B) : un paragraphe entier remplace par sa
+  // version anglaise, liens et mise en forme compris. Cle = texte francais.
+  function appliquerBlocs(racine) {
+    if (!blocs || !racine.querySelectorAll) return;
+    var els = [].slice.call(racine.querySelectorAll(BLOCS));
+    if (racine.matches && racine.matches(BLOCS)) els.unshift(racine);
+    els.forEach(function (el) {
+      if (el.hasAttribute('data-i18n-fait') || el.closest('[data-i18n-non]')) return;
+      var en = blocs[cleBloc(el)];
+      if (en != null) { el.innerHTML = en; el.setAttribute('data-i18n-fait', ''); }
+    });
+  }
   function traduire(s) {
     if (!s) return null;
     var t = s.replace(/\s+/g, ' ').trim();
@@ -97,6 +111,7 @@
             var v = m[+k] || '';
             if (fn === 'cat') return cats[v.toLowerCase()] || v;
             if (fn === 'tr') return dico[v] || v;
+            if (fn === 'date') return dateEn(v);
             return v;
           });
           break;
@@ -109,6 +124,61 @@
     var avant = s.match(/^\s*/)[0], apres = s.match(/\s*$/)[0];
     return avant + r + apres;
   }
+  // « 20 novembre » / « 1er novembre 2026 » -> « November 20 » / « November 1, 2026 ».
+  function dateEn(v) {
+    var m = String(v).match(/^(\d{1,2}|1er) (\S+)(?: (\d{4}))?$/);
+    if (!m || !dico[m[2]]) return v;
+    return dico[m[2]] + ' ' + (m[1] === '1er' ? '1' : m[1]) + (m[3] ? ', ' + m[3] : '');
+  }
+  /* Textes rediges a partir de modeles (podcast du jour, indices du Mystere) :
+   * regles de paragraphe, sinon phrase par phrase. Une phrase sans regle
+   * (description d'editeur, titre cite) reste dans sa langue d'origine. */
+  var PHRASES = '.mcj-s-p,.mcj-pourquoi,.mys-indice-texte';
+  var reglesPara = [], reglesPhrase = [];
+  function appliquerRegles(t, liste) {
+    for (var i = 0; i < liste.length; i++) {
+      var m = t.match(liste[i][0]);
+      if (m) return liste[i][1].replace(/\$(\d)|\{(\w+):(\d)\}/g, function (x, n, fn, k) {
+        if (n) return m[+n] || '';
+        var v = m[+k] || '';
+        if (fn === 'cat') return cats[v.toLowerCase()] || v;
+        if (fn === 'tr') return dico[v] || v;
+        if (fn === 'date') return dateEn(v);
+        return v;
+      });
+    }
+    return null;
+  }
+  // Coupe en phrases, jamais a l'interieur de « … » (titres de presse cites).
+  function couperPhrases(t) {
+    var out = [], cur = '', prof = 0;
+    for (var i = 0; i < t.length; i++) {
+      var ch = t[i];
+      cur += ch;
+      if (ch === '«') prof++;
+      else if (ch === '»') prof = Math.max(0, prof - 1);
+      if (!prof && /[.!?»)]/.test(ch) && /\s/.test(t[i + 1] || '') && /[«A-ZÀ-ÖÙ-Ý0-9]/.test((t.slice(i + 1).trim())[0] || '')) {
+        out.push(cur.trim()); cur = '';
+      }
+    }
+    if (cur.trim()) out.push(cur.trim());
+    return out;
+  }
+  function traduirePhrases(s) {
+    var t = s.replace(/\s+/g, ' ').trim();
+    if (!t) return null;
+    var r = dico[t] || appliquerRegles(t, reglesPara);
+    if (r == null) {
+      var morceaux = couperPhrases(t), change = false;
+      r = morceaux.map(function (p) {
+        var x = dico[p] || appliquerRegles(p, reglesPhrase);
+        if (x != null) { change = true; return x; }
+        return p;
+      }).join(' ');
+      if (!change) return null;
+    }
+    return s.match(/^\s*/)[0] + r + s.match(/\s*$/)[0];
+  }
   function attributs(n) {
     ['placeholder', 'aria-label', 'title'].forEach(function (a) {
       if (!n.hasAttribute(a)) return;
@@ -120,7 +190,7 @@
   function noeud(n) {
     if (n.nodeType === 3) {
       if (exclu(n.parentElement)) return;
-      var r = traduire(n.nodeValue);
+      var r = n.parentElement && n.parentElement.closest(PHRASES) ? traduirePhrases(n.nodeValue) : traduire(n.nodeValue);
       if (r != null && r !== n.nodeValue) n.nodeValue = r;
       return;
     }
@@ -136,11 +206,12 @@
     var t = traduire(document.title); if (t) document.title = t.trim();
     var d = document.querySelector('meta[name="description"]');
     if (d) { var dt = traduire(d.content); if (dt) d.content = dt.trim(); }
+    appliquerBlocs(document.body);
     noeud(document.body);
     new MutationObserver(function (ms) {
       ms.forEach(function (m) {
         if (m.type === 'attributes') { if (!exclu(m.target)) attributs(m.target); return; }
-        m.addedNodes.forEach(noeud);
+        m.addedNodes.forEach(function (n) { if (n.nodeType === 1) appliquerBlocs(n); noeud(n); });
       });
     }).observe(document.body, { childList: true, subtree: true, attributes: true, attributeFilter: ['placeholder', 'aria-label', 'title'] });
     montrer();
@@ -153,7 +224,16 @@
         dico = j.textes || {};
         cats = j.categories || {};
         regles = (j.regles || []).map(function (x) { return [new RegExp(x[0]), x[1]]; });
-        appliquer();
+        blocs = j.blocs || {};
+        reglesPara = (j.regles_paragraphes || []).map(function (x) { return [new RegExp(x[0]), x[1]]; });
+        reglesPhrase = (j.regles_phrases || []).map(function (x) { return [new RegExp(x[0]), x[1]]; });
+        // Fichier propre a la page (critiques, categories, equipe…), s'il existe.
+        var chemin = location.pathname.replace(/^\//, '') || 'index.html';
+        if (/\/$/.test(chemin)) chemin += 'index.html';
+        if ((j.pages || []).indexOf(chemin) < 0) { appliquer(); return; }
+        return fetch('/i18n/en/pages/' + chemin + '.json', { cache: 'no-cache' })
+          .then(function (r) { return r.ok ? r.json() : {}; })
+          .then(function (p) { for (var k in p) blocs[k] = p[k]; appliquer(); }, appliquer);
       }).catch(montrer);
   }
   window.MCLangue = { langue: langue, traduire: function (s) { return dico ? (traduire(s) || s) : s; } };

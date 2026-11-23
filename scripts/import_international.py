@@ -67,6 +67,7 @@ PARENTS.update({1489: ["actualite", "news"], 1533: ["sciences", "vulgarisation"]
                 1511: ["societe", "politique"]})
 sys.path.insert(0, str(Path(__file__).parent))
 from apple_genre_map import categories_from_apple  # noqa: E402  libelles francais
+import desirs_intl  # noqa: E402  « Desire & intimacy » par langue (23/11/2026)
 
 
 def lire(url, binaire=False, ko=None, timeout=20):
@@ -136,12 +137,91 @@ def charger(dossier):
     return out
 
 
+def importer_desirs(a, etat, fr, intl, ids_fr, ids_intl, compte, total):
+    """Section sensuelle de chaque langue : classement Apple « Sexualite » de
+    chaque pays + recherches dans la langue. Tri et exclusions : desirs_intl."""
+    deja = {lg: 0 for lg in desirs_intl.QUOTAS}
+    for d in intl.values():
+        if d.get("desirs") and d.get("langue") in deja:
+            deja[d["langue"]] += 1
+    print(f"  desirs : {deja} (quotas {desirs_intl.QUOTAS})")
+    ajoutes = 0
+    for lg, recherches in desirs_intl.RECHERCHES.items():
+        if deja[lg] >= desirs_intl.QUOTAS[lg] or compte[lg] >= QUOTAS[lg]:
+            continue
+        candidats = []          # (trackId, pays)
+        for pays in PAYS[lg]:
+            feed = lire_json(f"https://itunes.apple.com/{pays}/rss/toppodcasts/limit=200/genre={desirs_intl.GENRE_SEXUALITE}/json")
+            for e in (feed.get("feed") or {}).get("entry") or []:
+                tid = ((e.get("id") or {}).get("attributes") or {}).get("im:id")
+                if tid:
+                    candidats.append((tid, pays))
+        for pays, terme in recherches:
+            res = lire_json("https://itunes.apple.com/search?media=podcast&limit=100&country="
+                            f"{pays}&term=" + urllib.request.quote(terme))
+            for r in res.get("results") or []:
+                if r.get("collectionId"):
+                    candidats.append((str(r["collectionId"]), pays))
+        vus_ici, ici = set(), 0
+        for tid, pays in candidats:
+            if deja[lg] >= desirs_intl.QUOTAS[lg] or ici >= a.max:      # --max : par langue
+                break
+            if tid in vus_ici or tid in ids_fr or tid in ids_intl or tid in etat["vus"]:
+                continue
+            vus_ici.add(tid)
+            res = lire_json(f"https://itunes.apple.com/lookup?country={pays}&id={tid}")
+            r = (res.get("results") or [{}])[0]
+            if not r.get("collectionName"):
+                continue
+            code, desc = flux(r.get("feedUrl"))
+            if code != lg:
+                etat["vus"][tid] = f"{date.today().isoformat()}:desirs langue {code or 'illisible'}"
+                continue
+            sec = desirs_intl.section(r.get("collectionName"), desc, r.get("genreIds"))
+            if not sec:
+                etat["vus"][tid] = f"{date.today().isoformat()}:desirs ecarte"
+                continue
+            nom = r["collectionName"].strip()
+            slug = slugify(nom)
+            if not slug:
+                continue
+            if slug in fr or slug in intl or (ROOT / "fiches" / f"{slug}.html").exists():
+                slug = f"{slug}-{lg}"
+                if slug in fr or slug in intl or (ROOT / "fiches" / f"{slug}.html").exists():
+                    continue
+            note, avis = note_apple(tid, pays)
+            cats = ["sexualite", "couple"] if sec != "fictions" else ["fiction", "sexualite"]
+            d = {
+                "slug": slug, "title": nom, "author": (r.get("artistName") or "").strip(),
+                "type": "podcast", "categories": cats, "tags": cats, "description": desc,
+                "image": r.get("artworkUrl600") or r.get("artworkUrl100") or "", "langue": lg,
+                "language": lg, "pays": pays.upper(), "desirs": sec,
+                "platforms": {"apple": {
+                    "url": (r.get("collectionViewUrl") or "").split("?")[0], "trackId": int(tid),
+                    "rating": note, "ratingCount": avis, "episodeCount": r.get("trackCount"),
+                    "feedUrl": r.get("feedUrl")}},
+                "mediacritic": None, "addedAt": date.today().isoformat(), "updatedAt": date.today().isoformat(),
+            }
+            if not a.dry_run:
+                (INTL / f"{slug}.json").write_text(json.dumps(d, ensure_ascii=False, indent=2), encoding="utf-8")
+            intl[slug] = d
+            ids_intl.add(tid)
+            deja[lg] += 1
+            compte[lg] += 1
+            ajoutes += 1
+            ici += 1
+            print(f"    + [{lg}/{sec}] {nom[:60]} ({pays})")
+            time.sleep(0.1)
+    print(f"  desirs : +{ajoutes}, maintenant {deja}")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--max", type=int, default=400, help="nouveaux contenus par passage")
     ap.add_argument("--combinaisons", type=int, default=60, help="classements (pays x genre) lus par passage")
     ap.add_argument("--par-classement", type=int, default=25, help="nouveaux contenus au plus par classement")
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--desirs", action="store_true", help="section sensuelle de chaque langue seulement")
     a = ap.parse_args()
 
     INTL.mkdir(parents=True, exist_ok=True)
@@ -164,6 +244,12 @@ def main():
     print(f"  international : {total} contenus ({compte}), plafond {PLAFOND}")
     if total >= PLAFOND:
         print("  plafond atteint : rien a importer")
+        return
+
+    if a.desirs:
+        importer_desirs(a, etat, fr, intl, ids_fr, ids_intl, compte, total)
+        if not a.dry_run:
+            ETAT.write_text(json.dumps(etat, ensure_ascii=False, separators=(",", ":"), sort_keys=True), encoding="utf-8")
         return
 
     # Genre par genre, tous les pays : chaque passage nourrit toutes les langues.

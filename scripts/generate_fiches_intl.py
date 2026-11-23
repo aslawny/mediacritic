@@ -38,6 +38,10 @@ def rendre(groupe, slugs_modifies):
         if not gf.needs_update(p, fiche):
             continue
         html = gf.render_fiche(d)
+        # La page « Desirs & intimite » est francophone : la section sensuelle
+        # d'une autre langue est l'annuaire filtre sur cette langue.
+        html = html.replace("../categories/podcasts-erotiques.html",
+                            f"../catalogue.html?langue={d['langue']}&amp;cat=desirs")
         ancien = fiche.read_text(encoding="utf-8") if fiche.exists() else None
         if ancien == html:
             continue
@@ -61,6 +65,9 @@ def main():
         if d.get("slug") and d.get("langue") in LANGUES:
             donnees.append((p, d))
     gf.est_independant = lambda d: False          # pas de label hors francophonie
+    # Section sensuelle : champ `desirs` pose a l'import (desirs_intl), pas les
+    # mots-cles francais de desirs.py.
+    gf.desirs_section = lambda d: d.get("desirs")
     gf.DESC_PARTAGEES.clear()
     faits = modifies = 0
     slugs_modifies = set()
@@ -87,6 +94,8 @@ def main():
             "subscribers": ((d.get("platforms") or {}).get("youtube") or {}).get("subscribers"),
             "addedAt": d.get("updatedAt", ""), "langue": d["langue"], "pays": d.get("pays", ""),
         })
+        if d.get("desirs"):
+            catalogue[-1]["desirs"] = d["desirs"]
     neuf = json.dumps(catalogue, ensure_ascii=False, separators=(",", ":"))
     if not CATALOG.exists() or CATALOG.read_text(encoding="utf-8") != neuf:
         CATALOG.write_text(neuf, encoding="utf-8")

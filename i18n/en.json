@@ -136,6 +136,14 @@
  },
  "regles": [
   [
+   "^(.+) : podcast audio érotique, (avis et épisodes|écoute et épisodes)( \\| MediaCritic)?$",
+   "$1: erotic audio podcast, {tr:2}$3"
+  ],
+  [
+   "^(.+) : podcast sur la sexualité, (avis et épisodes|écoute et épisodes)( \\| MediaCritic)?$",
+   "$1: podcast about sexuality, {tr:2}$3"
+  ],
+  [
    "^MàJ (\\d\\d/\\d\\d/\\d\\d) · (\\d\\d)h(\\d\\d)$",
    "Updated $1 · $2:$3"
   ],
@@ -157,7 +165,7 @@
   ],
   [
    "^À côté du podcast, MediaCritic référence un catalogue de plus de (\\d[\\d  ]*) podcasts et chaînes YouTube francophones, filtrables par thème : true crime, histoire, culture, tech, gaming, gastronomie, sciences, sport et bien d'autres\\.$",
-   "Alongside the podcast, MediaCritic lists a directory of over $1 French-language podcasts and YouTube channels, filterable by theme: true crime, history, culture, tech, gaming, food, science, sports and many more."
+   "Alongside the podcast, MediaCritic lists a directory of over $1 French-language podcasts and YouTube channels — and a growing selection in English, Spanish, German, Italian and Portuguese — filterable by theme: true crime, history, culture, tech, gaming, food, science, sports and many more."
   ],
   [
    "^podcasts sur (\\d[\\d  ]*) et$",
@@ -169,7 +177,7 @@
   ],
   [
    "^Pour toutes les émissions de l'annuaire : plus de (\\d[\\d  ]*) podcasts et chaînes YouTube francophones\\.$",
-   "For every show in the directory: over $1 French-language podcasts and YouTube channels."
+   "For every show in the directory: over $1 podcasts and YouTube channels."
   ],
   [
    "^(\\d+) critiques publiées : autant de podcasts et chaînes YouTube francophones écoutés, décortiqués et$",
@@ -457,7 +465,7 @@
   ],
   [
    "^Annuaire : (\\d[\\d  ]*)\\+ podcasts et chaînes YouTube francophones référencés$",
-   "Directory: $1+ French-language podcasts and YouTube channels listed"
+   "Directory: $1+ French-language podcasts and YouTube channels, plus shows in English, Spanish, German, Italian and Portuguese"
   ],
   [
    "^Annuaire podcast : (\\d[\\d  ]*)\\+ podcasts et chaînes YouTube$",
@@ -506,6 +514,10 @@
   [
    "^Chaîne YouTube · (.+)$",
    "YouTube channel · {cat:1}"
+  ],
+  [
+   "^Tous les podcasts (.+)$",
+   "All {cat:1} podcasts"
   ]
  ],
  "textes": {
@@ -557,7 +569,7 @@
   "Partager sur Facebook": "Share on Facebook",
   "Partager sur LinkedIn": "Share on LinkedIn",
   "Partager sur WhatsApp": "Share on WhatsApp",
-  "Le podcast qui donne son avis, même quand on ne lui a pas demandé, et l'annuaire des podcasts et chaînes YouTube francophones.": "The podcast that gives its opinion even when nobody asked, and the directory of French-language podcasts and YouTube channels.",
+  "Le podcast qui donne son avis, même quand on ne lui a pas demandé, et l'annuaire des podcasts et chaînes YouTube francophones.": "The podcast that gives its opinion even when nobody asked, and a directory of podcasts and YouTube channels in six languages.",
   "MediaCritic": "MediaCritic",
   "Classement des podcasts et chaînes YouTube francophones": "Ranking of French-language podcasts and YouTube channels",
   "Les indépendants": "Independents",
@@ -590,12 +602,12 @@
   "🗂️ MediaCritic — le catalogue de référence": "🗂️ MediaCritic — the reference directory",
   "L'annuaire et les": "The directory and",
   "critiques": "reviews",
-  "des podcasts et chaînes YouTube francophones": "of French-language podcasts and YouTube channels",
+  "des podcasts et chaînes YouTube francophones": "of podcasts and YouTube channels, in six languages",
   "Répertoire collaboratif de": "A collaborative directory of",
   "podcasts et chaînes YouTube francophones": "French-language podcasts and YouTube channels",
   ", filtrés par thème et notés — doublé du": ", filtered by theme and rated — plus the",
   "guide des podcasts indépendants": "guide to independent podcasts",
-  ", avec les critiques que MediaCritic publie chaque semaine.": ", with the reviews MediaCritic publishes every week.",
+  ", avec les critiques que MediaCritic publie chaque semaine.": ", a growing selection in English, Spanish, German, Italian and Portuguese, and the reviews MediaCritic publishes every week.",
   "contenus": "shows",
   "catégories": "categories",
   "épisodes publiés": "episodes published",
@@ -651,7 +663,7 @@
   "L'": "The ",
   "annuaire": "directory",
   "des podcasts": "of podcasts",
-  "& chaînes YouTube francophones": "& French-language YouTube channels",
+  "& chaînes YouTube francophones": "& YouTube channels, in six languages",
   "Plus de": "Over",
   "contenus référencés": "shows listed",
   "contenus analysés par MediaCritic": "shows reviewed by MediaCritic",
@@ -740,7 +752,7 @@
   "🔗 Partager cette fiche": "🔗 Share this profile",
   "🏅 Vous faites cette émission ?": "🏅 Do you make this show?",
   "📻 MediaCritic, c'est quoi ?": "📻 What is MediaCritic?",
-  "MediaCritic est le podcast francophone indépendant qui analyse et critique des podcasts, émissions et chaînes YouTube. Chaque semaine, Alex et Lolo décortiquent un média avec méthode, passion et humour.": "MediaCritic is an independent French-language podcast that analyses and reviews podcasts, shows and YouTube channels. Every week, Alex and Lolo dissect a media outlet with method, passion and humour.",
+  "MediaCritic est le podcast francophone indépendant qui analyse et critique des podcasts, émissions et chaînes YouTube. Chaque semaine, Alex et Lolo décortiquent un média avec méthode, passion et humour.": "MediaCritic is an independent podcast, recorded in French, that analyses and reviews podcasts, shows and YouTube channels. Every week, Alex and Lolo dissect a media outlet with method, passion and humour.",
   "← Retour au catalogue": "← Back to the directory",
   "Catégories :": "Categories:",
   "notes": "ratings",
@@ -910,13 +922,13 @@
   "Allemand": "German",
   "Italien": "Italian",
   "Portugais": "Portuguese",
-  "MediaCritic — Annuaire et critiques podcasts et YouTube": "MediaCritic — Directory and reviews of podcasts and YouTube channels",
+  "MediaCritic — Annuaire et critiques podcasts et YouTube": "MediaCritic — Podcast & YouTube directory and reviews, in 6 languages",
   "Podcasts et chaînes YouTube indépendants | MediaCritic": "Independent podcasts and YouTube channels | MediaCritic",
   "Annuaire des chaînes YouTube francophones | MediaCritic": "Directory of French-language YouTube channels | MediaCritic",
   "Badges MediaCritic pour podcasts et chaînes YouTube": "MediaCritic badges for podcasts and YouTube channels",
   "Le podcast": "The podcast",
-  "Metacritic francophone des podcasts": "French-language Metacritic of podcasts",
-  "est le podcast francophone indépendant qui analyse et critique des podcasts, des émissions et des chaînes YouTube — un peu le": "is the independent French-language podcast that analyses and reviews podcasts, shows and YouTube channels — a bit like the",
+  "Metacritic francophone des podcasts": "Metacritic of podcasts",
+  "est le podcast francophone indépendant qui analyse et critique des podcasts, des émissions et des chaînes YouTube — un peu le": "is an independent podcast, recorded in French, that analyses and reviews podcasts, shows and YouTube channels — a bit like the",
   ", en moins condescendant et avec bien plus d'humour. Chaque semaine, Alex et Lolo (et parfois leurs invité·e·s) décortiquent un média audio ou vidéo comme on analyserait un film : la forme, le fond et les intentions.": ", minus the condescension and with far more humour. Every week, Alex and Lolo (sometimes with guests) dissect an audio or video outlet the way you'd analyse a film: form, substance and intentions.",
   "Tous les épisodes analysés": "All reviewed episodes",
   "Les épisodes de MediaCritic": "MediaCritic episodes",
@@ -960,6 +972,350 @@
   "· Catégorie ·": "· Category ·",
   "analysés par MediaCritic": "reviewed by MediaCritic",
   "Alex, Lolo et leurs invité·e·s ont analysé": "Alex, Lolo and their guests reviewed",
-  "Mis à jour automatiquement.": "Updated automatically."
- }
+  "Mis à jour automatiquement.": "Updated automatically.",
+  "Tous les podcasts érotiques et sensuels →": "All erotic and sensual podcasts →",
+  "écoute et épisodes": "listen & episodes",
+  "Désirs &amp; intimité": "Desire & intimacy",
+  "Une plongée exigeante dans la BD, portée par une vraie qualité d'écriture — la niche assumée jusqu'au bout.": "A demanding dive into comics, carried by genuinely good writing — a niche owned all the way.",
+  "La zététique en podcast, méthodique et nécessaire — une autorité qui se construit épisode après épisode.": "Scientific skepticism as a podcast, methodical and necessary — an authority built episode after episode.",
+  "Des histoires vraies transformées en récits quasi cinématographiques — ça accroche dès la première minute.": "True stories turned into near-cinematic narratives — it hooks you from the first minute.",
+  "Trois minutes chaque samedi qui donnent envie d'écouter ce qu'on n'aurait jamais découvert seul.": "Three minutes every Saturday that make you want to listen to things you'd never have found on your own.",
+  "L'actu économique analysée avec rigueur et clarté — comprendre sans jargon, chaque jour.": "Business news analysed with rigour and clarity — understanding without jargon, every day.",
+  "La culture populaire décortiquée avec intelligence, des blockbusters à Victor Hugo — brillant.": "Pop culture dissected with intelligence, from blockbusters to Victor Hugo — brilliant.",
+  "La tech remise en contexte avec rigueur et équilibre, loin du simple relais d'annonces.": "Tech put back in context with rigour and balance, far from just relaying announcements.",
+  "Les neurosciences vulgarisées avec sérieux et accessibilité — comprendre son cerveau, enfin.": "Neuroscience explained seriously and accessibly — finally understanding your own brain.",
+  "Le podcast qui prend le jeu vidéo au sérieux : sens, histoire, impact culturel. Une référence.": "The podcast that takes video games seriously: meaning, history, cultural impact. A benchmark.",
+  "De l'humour sincère et générationnel enregistré avec des bouts de ficelle — et le charme opère.": "Sincere, generational humour recorded on a shoestring — and the charm works.",
+  "Immersif, intime, troublant de justesse : une vraie introspection en quelques dizaines de minutes.": "Immersive, intimate, unsettlingly accurate: real introspection in a few dozen minutes.",
+  "L'endurance racontée par ceux qui la vivent — un rendez-vous solide pour les passionnés d'effort.": "Endurance told by those who live it — a solid date for anyone who loves a good effort.",
+  "L'Histoire racontée comme une fiction, de Churchill à Solitude — captivant de bout en bout.": "History told like fiction, from Churchill to Solitude — gripping from start to finish.",
+  "La référence absolue du jeu indé francophone : une veille passionnée que personne d'autre ne fait.": "The absolute reference for indie games in French: passionate scouting nobody else does.",
+  "Une rénovation documentée avec sincérité et méthode — le projet perso qui inspire des milliers d'amateurs.": "A renovation documented with sincerity and method — the personal project inspiring thousands of DIYers.",
+  "La chaîne fondatrice de la vulgarisation manga en France — un apport immense à la culture francophone.": "The founding channel of manga explainers in France — a huge contribution to French-language culture.",
+  "Le true crime sans sensationnalisme : rigoureux, respectueux, addictif.": "True crime without sensationalism: rigorous, respectful, addictive.",
+  "La cuisine replacée dans l'histoire et la société — l'érudition gourmande de Gaudry fait mouche.": "Food put back into history and society — Gaudry's gourmet erudition hits the mark.",
+  "Le contrepoint critique à la mythologie de la Silicon Valley : incarné, constant, nécessaire.": "The critical counterpoint to Silicon Valley mythology: personal, consistent, necessary.",
+  "Le dépassement de soi sans stats ni tactique : uniquement l'état d'esprit des sportifs de l'extrême.": "Pushing your limits without stats or tactics: just the mindset of extreme athletes.",
+  "Le pionnier du débat sportif français : une école entière de journalisme… avec ses excès assumés.": "The pioneer of French sports talk: a whole school of journalism… excesses included.",
+  "Monument de la vulgarisation historique : sérieux sans être austère, original sans se forcer.": "A monument of popular history: serious without being stuffy, original without trying too hard.",
+  "Un OVNI à la croisée de l'animation, du doublage et de la parodie — singulier et exécuté avec talent.": "An oddity at the crossroads of animation, dubbing and parody — unique and skilfully done.",
+  "Des arguments solides pour comprendre pourquoi les légendes trop simples sont fausses — salutaire.": "Solid arguments for understanding why overly simple legends are wrong — refreshing.",
+  "Le doudou générationnel du gaming français : une chaîne qui a grandi avec sa communauté sans se trahir.": "The generational comfort blanket of French gaming: a channel that grew up with its community without selling out.",
+  "L'Histoire pour enfants si bien racontée qu'on jalouse les enfants.": "History for kids, told so well you end up jealous of the kids.",
+  "Le podcast dev préféré de ceux qui jurent ne plus avoir le temps d'écouter des podcasts.": "The favourite dev podcast of people who swear they no longer have time for podcasts.",
+  "Le podcast zombie par excellence : terminé, mais immortel — comme les nanars qu'il critiquait.": "The ultimate zombie podcast: finished, yet immortal — like the B-movies it reviewed.",
+  "Sur 50 formats, la qualité est inégale — mais Step Back, Big 5 et L'Avenir leur appartient sont excellents.": "Across 50 formats the quality is uneven — but Step Back, Big 5 and L'Avenir leur appartient are excellent.",
+  "Une voix, une histoire : Dussollier transforme le récit radiophonique en confidence. Magistral.": "One voice, one story: Dussollier turns radio storytelling into a confidence. Masterful.",
+  "Un journal de création en direct, drôle et lucide — l'improvisation totale comme mise en danger publique.": "A live creative diary, funny and clear-eyed — total improvisation as a public high-wire act.",
+  "Amateur dans la production, expert dans le fond : la passion structurée d'une vraie communauté.": "Amateur production, expert substance: the organised passion of a real community.",
+  "Pertinent, clivant, mystérieux — le fantôme le plus cohérent de YouTube gaming.": "Sharp, divisive, mysterious — the most consistent ghost on gaming YouTube.",
+  "Baffie en grand interviewer : l'humour sans en abuser, et de vrais morceaux d'émotion.": "Baffie as a great interviewer: humour without overdoing it, and real moments of emotion.",
+  "Du comique en temps réel, imprévisible et baroque — le bar d'après-match dont on rêvait.": "Real-time comedy, unpredictable and baroque — the post-match bar we'd always dreamed of.",
+  "La référence NBA francophone : une tribu qui remplit le Grand Rex à 2h du matin.": "The French-language NBA reference: a tribe that fills the Grand Rex at 2 a.m.",
+  "Des questions posées par quelqu'un qui connaît son sujet, à des experts qui maîtrisent le leur — l'interview qui informe vraiment. Kazakhstan compris.": "Questions from someone who knows their subject, put to experts who master theirs — the interview that genuinely informs. Kazakhstan included.",
+  "Le format immuable au service du fond : la tech française racontée par ceux qui la dirigent, sans ego et sans boule de cristal.": "An unchanging format in the service of substance: French tech told by the people running it, no ego and no crystal ball.",
+  "L'immersion sonore poussée à son sommet : on n'écoute pas ces survies, on les vit — et on ressort reconnaissant pour son canapé.": "Sound immersion at its peak: you don't listen to these survival stories, you live them — and come out grateful for your sofa.",
+  "Enlever tout le superflu jusqu'à ce qu'il ne reste que l'essentiel — et obtenir souvent la meilleure version de la chanson.": "Strip away everything superfluous until only the essential remains — and often get the best version of the song.",
+  "L'enquête journalistique appliquée à l'Histoire : un podcast qui se mérite, et dont on ressort en ayant compris plutôt que récité.": "Investigative journalism applied to history: a podcast you have to earn, and you come out understanding rather than reciting.",
+  "De la vulgarisation avec de la matière : 90 minutes qui font vraiment comprendre — à condition de savoir quelle version on regarde.": "Explainers with real substance: 90 minutes that genuinely make you understand — as long as you know which version you're watching.",
+  "Du savoir-faire déguisé en oisiveté : le format le plus difficile à réussir, tenu par deux orfèvres qui ont choisi de ne plus faire court.": "Craft disguised as idleness: the hardest format to pull off, held by two master craftsmen who chose to stop keeping it short.",
+  "Dix-neuf ans sans se renier et une bande qu'on reconnaît en trois secondes : ils ont préféré avoir un goût plutôt qu'un maximum d'auditeurs.": "Nineteen years without selling out and a crew you recognise in three seconds: they chose having taste over maximising listeners.",
+  "Un podcast de marque qui ne triche pas, porté par des passionnés — mais un épisode par mois et un périmètre plus étroit que son titre.": "A branded podcast that doesn't cheat, carried by enthusiasts — but one episode a month and a narrower scope than its title.",
+  "Quarante-neuf ans, une reprise que personne ne croyait possible et le podcast n°1 de France : ce n'est pas une survivance, c'est une performance.": "Forty-nine years, a revival nobody thought possible and France's number-one podcast: it's not survival, it's a performance.",
+  "Donner envie aux jeunes de s'écouter être en désaccord : presque un service public — à condition que la muraille entre le média et ses agences reste très haute.": "Making young people want to listen to each other disagree: almost a public service — provided the wall between the outlet and its agencies stays very high.",
+  "Un documentaire par jour depuis 2014 : la preuve qu'on peut faire de l'exigence en plein après-midi, devant un public immense.": "A documentary a day since 2014: proof you can be demanding in the middle of the afternoon, in front of a huge audience.",
+  "Trois ingénieurs qui n'ont rien à prouver et parlent enfin librement : numéro un de la tech francophone en quatre mois, et ce n'est pas un accident.": "Three engineers with nothing to prove, finally speaking freely: number one in French-language tech within four months, and it's no accident.",
+  "Dans un paysage où tout le monde commente, un média qui se tait vingt-cinq minutes pour écouter quelqu'un : presque un acte politique.": "In a landscape where everyone comments, an outlet that stays quiet for twenty-five minutes to listen to someone: almost a political act.",
+  "Jean aurait jamais marre du JeanBaptisteShow! Jamais le plus gros ni le plus bruyant : juste là, excellent et depuis bien, longtemps. Douze ans d'écriture soignée, plus dur encore qu'un PC gamer à 500 euros.": "You never get tired of the JeanBaptisteShow! Never the biggest or the loudest: just there, excellent, and for a long, long time. Twelve years of careful writing, harder still than a €500 gaming PC.",
+  "Le GOAT du podcast business : deux heures pour faire tomber les masques, quitte à parler de son boucher à un patron du CAC 40.": "The GOAT of business podcasts: two hours to make the masks fall, even if it means talking about your butcher with a CAC 40 CEO.",
+  "Le podcast qui a rendu l'argent discutable à voix haute. Pas un conseil en investissement : un cours de vocabulaire. Et quand on comprend le vocabulaire, on se fait moins avoir.": "The podcast that made money something you can talk about out loud. Not investment advice: a vocabulary lesson. And once you understand the vocabulary, you get fooled less.",
+  "Du true crime fait par une artisane : écrit, raconté et réalisé seule, chaque semaine, sans labo pour sauver l'enquête. Le fait divers devient une leçon d'histoire.": "True crime by a one-woman workshop: written, narrated and produced alone, every week, with no lab to save the investigation. The crime story becomes a history lesson.",
+  "L'experte qui sait de quoi elle parle — ce qui tranche radicalement avec le reste de l'émission.": "The expert who knows what she's talking about — which sets her radically apart from the rest of the show.",
+  "Passionnée de true crime et de podcasts pour enfants — ce qui dit beaucoup sur la complexité de sa personnalité. Elle connaît plus d'affaires non résolues que la plupart des commissaires, et plus de personnages historiques que la plupart des adultes.": "A fan of true crime and kids' podcasts — which says a lot about the complexity of her personality. She knows more unsolved cases than most police chiefs, and more historical figures than most adults.",
+  "Le super dev qui chasse le bug comme l'injustice — et dont le talent de tech est aussi bon que son talent d'invité sur la chaîne.": "The super dev who hunts bugs like he hunts injustice — and whose tech skills are as good as his talent as a guest on the channel.",
+  "Le flegme fait homme : pendant que toute la NBA s'enflamme sur un buzzer beater, Jael hausse un sourcil — grand maximum. Un calme qui rebondit mieux qu'un ballon de basket. Cap que co ?": "Composure in human form: while the whole NBA goes wild over a buzzer-beater, Jael raises an eyebrow — tops. A calm that bounces better than a basketball. Dare you?",
+  "Qui sommes-nous — MediaCritic, le podcast francophone": "About us — MediaCritic, the French-language podcast",
+  "Mentions légales — MediaCritic": "Legal notice — MediaCritic",
+  "Les meilleurs podcasts business et entrepreneuriat francophones": "The best French-language business and entrepreneurship podcasts",
+  "Entrepreneuriat, finance, stratégie, économie, parcours de fondateurs… Le business est l'une des catégories les plus fournies du podcast francophone. Voici les formats de référence pour apprendre, s'inspirer et décrypter le monde de l'entreprise.": "Entrepreneurship, finance, strategy, economics, founders' journeys… Business is one of the richest categories in French-language podcasting. Here are the go-to formats to learn, get inspired and decode the business world.",
+  "Quel podcast pour entreprendre ?": "Which podcast for starting a business?",
+  "Les podcasts d'entrepreneuriat partagent des parcours, des méthodes et des retours d'expérience de fondateurs et dirigeants. Cette page liste les meilleurs formats francophones.": "Entrepreneurship podcasts share the journeys, methods and lessons learned of founders and executives. This page lists the best French-language formats.",
+  "Quels podcasts pour comprendre l'économie ?": "Which podcasts help you understand the economy?",
+  "Plusieurs podcasts décryptent l'actualité économique et financière de façon accessible. Les contenus analysés par MediaCritic sont signalés en haut de page.": "Several podcasts break down economic and financial news in an accessible way. The shows reviewed by MediaCritic are flagged at the top of the page.",
+  "Les meilleurs podcasts de critique cinéma et séries": "The best film and TV review podcasts",
+  "Critiques de films et de séries, débats sur les sorties de la semaine, analyses de fond, histoire du 7e art et coulisses de tournage… Voici les podcasts et chaînes YouTube francophones de critique cinéma, classés par note et par audience, avec ceux que MediaCritic a lui-même critiqués.": "Film and TV reviews, debates on the week's releases, in-depth analysis, film history and behind-the-scenes stories… Here are the French-language film review podcasts and YouTube channels, ranked by rating and audience, with the ones MediaCritic has reviewed itself.",
+  "Quel est le meilleur podcast de critique cinéma ?": "What's the best film review podcast?",
+  "Tout dépend du ton recherché. Les plus suivis sont classés ici par note Apple Podcasts et par nombre d'avis ; ceux que MediaCritic a analysés en détail, comme 2 Heures De Perdues ou BlockBusters, portent notre note sur 10 et renvoient vers notre critique complète.": "It depends on the tone you're after. The most followed are ranked here by Apple Podcasts rating and number of reviews; the ones MediaCritic has reviewed in detail, such as 2 Heures De Perdues or BlockBusters, carry our score out of 10 and link to our full review.",
+  "Quel podcast pour les amateurs de cinéma ?": "Which podcast for film lovers?",
+  "Du débat critique à l'analyse de fond, les podcasts cinéma francophones couvrent tous les styles : critique des sorties, cinéma de genre, nanars, histoire du cinéma, entretiens avec des réalisateurs. Cette page les référence tous, avec le badge MediaCritic pour ceux que nous avons analysés.": "From critical debate to in-depth analysis, French-language film podcasts cover every style: new-release reviews, genre cinema, B-movies, film history, interviews with directors. This page lists them all, with the MediaCritic badge on the ones we've reviewed.",
+  "Existe-t-il des podcasts de critique de séries ?": "Are there TV series review podcasts?",
+  "Oui, de nombreux formats suivent l'actualité des séries, critiquent les sorties des plateformes et reviennent sur les classiques. Ils sont référencés sur cette page avec le cinéma.": "Yes, many formats follow TV news, review streaming releases and revisit the classics. They're listed on this page alongside film.",
+  "Podcast ou chaîne YouTube pour la critique de films ?": "Podcast or YouTube channel for film reviews?",
+  "Les deux formats sont représentés ici : les podcasts pour l'écoute en mobilité, les chaînes YouTube pour les analyses illustrées par les images des films.": "Both formats are represented here: podcasts for listening on the go, YouTube channels for analyses illustrated with footage from the films.",
+  "Les meilleurs podcasts cuisine et gastronomie francophones": "The best French-language food and gastronomy podcasts",
+  "La cuisine est la catégorie qui a le plus explosé sur les plateformes audio ces trois dernières années. Entre les chefs qui se lancent, les food writers qui réfléchissent l'alimentation, et les podcasts conversationnels autour de la table, il y a de quoi trier. MediaCritic a décortiqué Chef Otaku (la passion technique) et On va déguster (l'institution France Inter).": "Food is the category that has exploded the most on audio platforms over the past three years. Between chefs starting out, food writers thinking about what we eat and conversational podcasts around the table, there's plenty to sort through. MediaCritic has dissected Chef Otaku (technical passion) and On va déguster (the France Inter institution).",
+  "Quel est le meilleur podcast pour apprendre la cuisine ?": "What's the best podcast for learning to cook?",
+  "Pour l'apprentissage technique, les podcasts de chefs comme Chef Otaku sont précieux car ils expliquent les gestes, les choix, les erreurs à éviter. Pour la culture culinaire générale, On va déguster reste une référence — moins technique, plus contextuelle.": "For technique, chefs' podcasts like Chef Otaku are invaluable because they explain the gestures, the choices and the mistakes to avoid. For general food culture, On va déguster remains a reference — less technical, more contextual.",
+  "Y a-t-il des podcasts gastronomie indépendants à découvrir ?": "Are there independent food podcasts worth discovering?",
+  "Oui, beaucoup. Le catalogue MediaCritic référence de nombreux podcasts cuisine et gastronomie, incluant des indépendants méconnus mais excellents.": "Yes, plenty. The MediaCritic directory lists many food and gastronomy podcasts, including little-known but excellent independents.",
+  "Les meilleurs podcasts culture et société francophones": "The best French-language culture and society podcasts",
+  "Idées, débats, faits de société, philosophie, arts… La culture et la société forment la catégorie la plus vaste du podcast francophone. Voici une sélection des formats qui éclairent le monde et nourrissent la réflexion.": "Ideas, debates, social issues, philosophy, the arts… Culture and society is the broadest category in French-language podcasting. Here's a selection of formats that shed light on the world and feed the mind.",
+  "Quels sont les meilleurs podcasts de société ?": "What are the best society podcasts?",
+  "Les podcasts culture et société abordent les grandes questions contemporaines avec recul et profondeur. Cette page met en avant les références francophones.": "Culture and society podcasts tackle today's big questions with perspective and depth. This page highlights the French-language references.",
+  "Podcast culture : par où commencer ?": "Culture podcasts: where to start?",
+  "Commencez par les contenus analysés par MediaCritic, signalés en haut de page, puis explorez le reste du catalogue référencé.": "Start with the shows reviewed by MediaCritic, flagged at the top of the page, then explore the rest of the directory.",
+  "Le gaming est la catégorie où l'audio et la vidéo se mélangent le plus : entre les podcasts de discussion long-format, les chaînes YouTube qui font de l'analyse pure, et les hybrides en live sur Twitch reuploadés en podcast, il y a de tout — et beaucoup de redondance. MediaCritic a analysé plusieurs références du paysage français.": "Gaming is the category where audio and video blend the most: between long-form discussion podcasts, YouTube channels doing pure analysis and Twitch live shows re-uploaded as podcasts, there's a bit of everything — and a lot of overlap. MediaCritic has reviewed several references of the French scene.",
+  "Quelle est la meilleure chaîne YouTube gaming française ?": "What's the best French gaming YouTube channel?",
+  "Le Joueur du Grenier reste la référence sans équivalent en termes de longévité (depuis 2009) et d'audience. Mais pour l'analyse pure, des chaînes plus récentes offrent une approche éditoriale différente.": "Le Joueur du Grenier remains the unrivalled reference in terms of longevity (since 2009) and audience. But for pure analysis, newer channels offer a different editorial approach.",
+  "Comment MediaCritic note-t-il les podcasts gaming ?": "How does MediaCritic rate gaming podcasts?",
+  "Comme tous les autres : fond (qualité de l'analyse, des sources, des opinions), forme (montage, rythme, son), intentions (clarté du positionnement éditorial). Le format YouTube est traité avec les mêmes critères que le podcast audio.": "Like all the others: substance (quality of analysis, sources, opinions), form (editing, pace, sound), intentions (clarity of editorial positioning). YouTube formats are judged by the same criteria as audio podcasts.",
+  "Les meilleurs podcasts d'histoire francophones": "The best French-language history podcasts",
+  "L'histoire est l'une des catégories les plus saturées du podcast francophone — et l'une des plus inégales. Entre les vulgarisateurs YouTube qui passent au podcast, les historiens de métier qui s'essaient au micro et les médias publics qui produisent des séries léchées, comment faire le tri ? MediaCritic a écouté et analysé en détail plusieurs références du genre.": "History is one of the most crowded categories in French-language podcasting — and one of the most uneven. Between YouTube explainers moving to podcasts, professional historians trying the mic and public broadcasters producing polished series, how do you sort it out? MediaCritic has listened to and reviewed several references of the genre in detail.",
+  "Quel est le meilleur podcast d'histoire francophone pour débuter ?": "What's the best French-language history podcast for beginners?",
+  "Pour s'initier, Nota Bene et Quelle Histoire sont accessibles, bien produits, et adoptent un ton vulgarisateur sans être condescendants. Entrez dans l'Histoire offre une approche plus immersive, et C'est plus compliqué que ça pousse plus loin la nuance pour les auditeurs déjà familiers du genre.": "To get started, Nota Bene and Quelle Histoire are accessible, well produced and explanatory without being condescending. Entrez dans l'Histoire offers a more immersive approach, and C'est plus compliqué que ça goes further into nuance for listeners already familiar with the genre.",
+  "Les podcasts d'histoire sont-ils fiables historiquement ?": "Are history podcasts historically reliable?",
+  "Cela dépend du créateur. Les podcasts d'historiens diplômés (Nota Bene a un comité scientifique, certaines productions Radio France collaborent avec des chercheurs) sont en général solides. Méfiez-vous des podcasts qui ne citent jamais leurs sources.": "It depends on the creator. Podcasts by trained historians (Nota Bene has a scientific committee, some Radio France productions work with researchers) are generally solid. Be wary of podcasts that never cite their sources.",
+  "Stand-up, talk décalés, sketchs, comédie… L'humour est partout dans le podcast et sur YouTube francophone. Voici les formats qui font rire, du grand n'importe quoi assumé à la satire fine.": "Stand-up, offbeat talk shows, sketches, comedy… Humour is everywhere in French-language podcasts and on French YouTube. Here are the formats that make people laugh, from gleeful nonsense to sharp satire.",
+  "Des talks délirants aux formats plus écrits, l'humour francophone est très riche en podcast comme sur YouTube. Cette page liste les références.": "From wild talk shows to more scripted formats, French-language comedy is very rich on podcasts and YouTube alike. This page lists the references.",
+  "Les meilleurs podcasts musique francophones": "The best French-language music podcasts",
+  "Histoire des genres, portraits d'artistes, décryptage de morceaux, actualité musicale… Voici les podcasts et chaînes francophones pour les mélomanes, du rap au classique en passant par la pop et l'électro.": "Genre histories, artist portraits, song breakdowns, music news… Here are the French-language podcasts and channels for music lovers, from rap to classical by way of pop and electronic.",
+  "Quel podcast pour les passionnés de musique ?": "Which podcast for music fans?",
+  "Les podcasts musique vont du documentaire sonore au talk entre passionnés. Cette page référence les meilleurs formats francophones, notés et classés.": "Music podcasts range from audio documentaries to fan conversations. This page lists the best French-language formats, rated and ranked.",
+  "Des podcasts sur un genre musical précis ?": "Podcasts about a specific music genre?",
+  "Oui, beaucoup se spécialisent (rap, jazz, électro, classique…). Utilisez le catalogue complet pour affiner par thème.": "Yes, many specialise (rap, jazz, electronic, classical…). Use the full directory to narrow down by theme.",
+  "Les meilleurs podcasts sciences et vulgarisation francophones": "The best French-language science and popular science podcasts",
+  "Physique, biologie, espace, climat, neurosciences… La vulgarisation scientifique francophone est riche, du grand format pédagogique aux pastilles courtes. Voici les podcasts et chaînes qui rendent la science accessible et passionnante.": "Physics, biology, space, climate, neuroscience… French-language science communication is rich, from long educational formats to short bites. Here are the podcasts and channels that make science accessible and exciting.",
+  "Quel podcast pour apprendre des sciences ?": "Which podcast for learning science?",
+  "Les podcasts de vulgarisation scientifique permettent de comprendre des sujets complexes sans bagage technique. Cette page référence les meilleurs formats francophones, classés et notés.": "Popular science podcasts let you understand complex subjects without a technical background. This page lists the best French-language formats, ranked and rated.",
+  "Podcast ou chaîne YouTube pour la science ?": "Podcast or YouTube channel for science?",
+  "Les deux : certains créateurs privilégient l'audio long-format, d'autres la vidéo avec schémas et animations. MediaCritic référence et analyse les deux.": "Both: some creators favour long-form audio, others video with diagrams and animations. MediaCritic lists and reviews both.",
+  "Les meilleurs podcasts sport francophones": "The best French-language sports podcasts",
+  "Le podcast sport francophone, c'est encore largement le football. Mais des formats émergent autour du trail, du running, des sports outdoor, et des conversations plus larges sur la performance et la santé sportive. MediaCritic a analysé plusieurs références complémentaires.": "French-language sports podcasting is still largely about football. But formats are emerging around trail running, running, outdoor sports and broader conversations about performance and athletes' health. MediaCritic has reviewed several complementary references.",
+  "Quel est le meilleur podcast football en français ?": "What's the best football podcast in French?",
+  "L'After Foot (RMC) reste la référence par sa longévité et son audience, mais le format radio peut peser. Pour du long-format plus posé, des podcasts indépendants émergent — le catalogue MediaCritic en référence plusieurs.": "L'After Foot (RMC) remains the reference for its longevity and audience, but the radio format can feel heavy. For calmer long-form content, independent podcasts are emerging — the MediaCritic directory lists several.",
+  "Y a-t-il des podcasts running ou trail à recommander ?": "Are there running or trail podcasts to recommend?",
+  "Oui. SafePace propose un format accessible autour du running. Extraterrien creuse les disciplines d'ultra-endurance avec des interviews approfondies d'athlètes.": "Yes. SafePace offers an accessible running format. Extraterrien digs into ultra-endurance disciplines with in-depth athlete interviews.",
+  "Les meilleurs podcasts tech francophones": "The best French-language tech podcasts",
+  "Le podcast tech francophone se partage entre trois familles : les podcasts d'actualité (Le Rendez-vous Tech), les podcasts d'opinion (Silicon Carne), et les podcasts métier pour développeurs (IFTTD, Hardisk Stories). MediaCritic a analysé les références de chaque famille.": "French-language tech podcasting falls into three families: news podcasts (Le Rendez-vous Tech), opinion podcasts (Silicon Carne) and trade podcasts for developers (IFTTD, Hardisk Stories). MediaCritic has reviewed the references of each family.",
+  "Quel podcast tech écouter pour rester à jour ?": "Which tech podcast to stay up to date?",
+  "Pour l'actualité large et grand public, Le Rendez-vous Tech reste la référence. Pour un ton plus tranché et une vraie opinion éditoriale, Silicon Carne. Pour le détail technique côté dev, IFTTD - If This Then Dev.": "For broad, mainstream news, Le Rendez-vous Tech remains the reference. For a sharper tone and a real editorial opinion, Silicon Carne. For technical detail on the dev side, IFTTD - If This Then Dev.",
+  "MediaCritic est-il un podcast tech ?": "Is MediaCritic a tech podcast?",
+  "Non. MediaCritic est un podcast de méta-analyse qui décortique d'autres podcasts et chaînes YouTube — toutes catégories confondues. Le tech est l'une des nombreuses verticales qu'on analyse régulièrement.": "No. MediaCritic is a meta-analysis podcast that dissects other podcasts and YouTube channels — across all categories. Tech is one of the many areas we review regularly.",
+  "Les meilleurs podcasts true crime francophones": "The best French-language true crime podcasts",
+  "Le true crime est l'un des genres les plus écoutés du podcast francophone : affaires criminelles, disparitions, enquêtes non résolues, profils de tueurs… Voici les podcasts true crime de référence, des grands formats journalistiques aux récits plus intimes.": "True crime is one of the most listened-to genres in French-language podcasting: criminal cases, disappearances, unsolved investigations, killer profiles… Here are the reference true crime podcasts, from major journalistic formats to more intimate narratives.",
+  "C'est quoi un podcast true crime ?": "What is a true crime podcast?",
+  "Un podcast true crime raconte des affaires criminelles réelles : meurtres, disparitions, enquêtes judiciaires, parfois résolues, parfois non. Le genre mêle journalisme d'investigation, narration immersive et analyse.": "A true crime podcast tells real criminal cases: murders, disappearances, judicial investigations, sometimes solved, sometimes not. The genre blends investigative journalism, immersive storytelling and analysis.",
+  "Quels sont les meilleurs podcasts true crime français ?": "What are the best French true crime podcasts?",
+  "Parmi les références francophones, on retrouve des formats produits par de grands médias comme par des indépendants. Les contenus analysés par MediaCritic sont mis en avant en haut de cette page.": "Among the French-language references are formats produced by major media outlets as well as by independents. The shows reviewed by MediaCritic are highlighted at the top of this page.",
+  "Les meilleurs podcasts de voyage francophones": "The best French-language travel podcasts",
+  "Récits d'aventure, carnets de route, conseils pratiques, portraits de grands voyageurs… Le voyage est l'une des catégories les plus vivantes du podcast francophone, et l'une des plus inégales : entre le journal de bord bricolé et le documentaire sonore ciselé, l'écart est immense. Voici les formats qui donnent vraiment envie de partir.": "Adventure stories, travel diaries, practical tips, portraits of great travellers… Travel is one of the liveliest categories in French-language podcasting, and one of the most uneven: between the home-made logbook and the finely crafted audio documentary, the gap is huge. Here are the formats that really make you want to go.",
+  "Quel podcast de voyage écouter avant de partir ?": "Which travel podcast to listen to before you leave?",
+  "Selon ce que vous cherchez : les podcasts de récit racontent une aventure de bout en bout, les formats pratiques préparent un itinéraire précis. Cette page référence les deux familles, notées et classées.": "It depends on what you're after: storytelling podcasts tell an adventure from start to finish, practical formats help you plan a specific itinerary. This page lists both families, rated and ranked.",
+  "Des podcasts sur une destination précise ?": "Podcasts about a specific destination?",
+  "Beaucoup se consacrent à une région ou à un type de voyage (randonnée, tour du monde, voyage en famille…). Le catalogue complet permet d'affiner.": "Many focus on a region or a type of trip (hiking, round-the-world, family travel…). The full directory lets you narrow it down.",
+  "hier": "yesterday",
+  "avant-hier": "the day before yesterday",
+  "c'est aujourd'hui": "it's today",
+  "c'est demain": "it's tomorrow",
+  "c'était il y a quelques jours": "it was a few days ago",
+  "son épisode": "its episode",
+  "sa vidéo": "its video",
+  "publié": "released",
+  "publiée": "released",
+  "podcast": "podcast",
+  "chaîne YouTube": "YouTube channel",
+  "Format": "Format",
+  "L'actu du jour": "Today's news",
+  "Vidéos": "Videos",
+  "tous les jours": "every day",
+  "chaque semaine": "every week",
+  "tous les quinze jours": "every two weeks",
+  "publiés": "released",
+  "publiées": "released",
+  "Rythme": "Release rhythm",
+  "Volume": "Volume",
+  "C'est l'émission du nouvel épisode de MediaCritic, sorti ce matin": "It's the show featured in MediaCritic's new episode, out this morning",
+  "Pas de donnée sur ce point : essaie au flair !": "No data on this one: go with your gut!"
+ },
+ "blocs": {},
+ "pages": [
+  "mentions-legales.html",
+  "qui-sommes-nous.html"
+ ],
+ "regles_paragraphes": [
+  [
+   "^(.+) — (podcast|chaîne YouTube)(?: de (.+?))?\\. Notre verdict : « (.+) »$",
+   "$1 — {tr:2}$3. Our verdict: “{tr:4}”"
+  ],
+  [
+   "^Parce que nous venons de lui consacrer l'épisode (\\d+) de MediaCritic, à écouter dès aujourd'hui\\. Notre note : ([\\d,]+)/10\\. Notre verdict : « (.+) »$",
+   "Because we've just devoted MediaCritic episode $1 to it, out today. Our score: $2/10. Our verdict: “{tr:3}”"
+  ],
+  [
+   "^Notre verdict : « (.+) »$",
+   "Our verdict: “{tr:1}”"
+  ]
+ ],
+ "regles_phrases": [
+  [
+   "^« (.+) » a été l'un des sujets les plus lus de Wikipédia (hier|avant-hier) \\((.+) lectures\\)\\.$",
+   "“$1” was one of the most-read topics on Wikipedia {tr:2} ($3 reads)."
+  ],
+  [
+   "^« (.+) » s'envole dans les recherches Google en France \\((.+)\\+ recherches\\)\\.$",
+   "“$1” is soaring in Google searches in France ($2+ searches)."
+  ],
+  [
+   "^« (.+) » fait l'actu\\.$",
+   "“$1” is in the news."
+  ],
+  [
+   "^« (.+) » : c'est le (\\d{1,2}|1er) (\\S+)\\.$",
+   "“$1”: it's on {tr:3} {tr:2}."
+  ],
+  [
+   "^« (.+) » : (c'est aujourd'hui|c'est demain|c'était il y a quelques jours)\\.$",
+   "“$1”: {tr:2}."
+  ],
+  [
+   "^À la une : (.+)\\.$",
+   "In the headlines: $1."
+  ],
+  [
+   "^(.+) — podcast de (.+)\\.$",
+   "$1 — podcast by $2."
+  ],
+  [
+   "^(.+) — chaîne YouTube de (.+)\\.$",
+   "$1 — YouTube channel by $2."
+  ],
+  [
+   "^(.+) — podcast\\.$",
+   "$1 — podcast."
+  ],
+  [
+   "^(.+) — chaîne YouTube\\.$",
+   "$1 — YouTube channel."
+  ],
+  [
+   "^Pour prolonger l'actu : dans (son épisode|sa vidéo) « (.+) », (publié|publiée) le (.+?), (.+) revient justement sur « (.+) »\\.$",
+   "To go further: in {tr:1} “$2”, released on {date:4}, $5 tackles “$6” head-on."
+  ],
+  [
+   "^Une émission indépendante suivie par (.+) abonnés sur YouTube, ([\\d,]+)/10 dans notre critique\\.$",
+   "An independent show followed by $1 subscribers on YouTube, $2/10 in our review."
+  ],
+  [
+   "^Une émission indépendante suivie par (.+) abonnés sur YouTube\\.$",
+   "An independent show followed by $1 subscribers on YouTube."
+  ],
+  [
+   "^Une émission suivie par (.+) abonnés sur YouTube, ([\\d,]+)/10 dans notre critique\\.$",
+   "A show followed by $1 subscribers on YouTube, $2/10 in our review."
+  ],
+  [
+   "^Une émission suivie par (.+) abonnés sur YouTube\\.$",
+   "A show followed by $1 subscribers on YouTube."
+  ],
+  [
+   "^Une émission indépendante notée ([\\d,]+)/5 sur Apple Podcasts \\((.+) notes\\), ([\\d,]+)/10 dans notre critique\\.$",
+   "An independent show rated $1/5 on Apple Podcasts ($2 ratings), $3/10 in our review."
+  ],
+  [
+   "^Une émission indépendante notée ([\\d,]+)/5 sur Apple Podcasts \\((.+) notes\\)\\.$",
+   "An independent show rated $1/5 on Apple Podcasts ($2 ratings)."
+  ],
+  [
+   "^Une émission notée ([\\d,]+)/5 sur Apple Podcasts \\((.+) notes\\), ([\\d,]+)/10 dans notre critique\\.$",
+   "A show rated $1/5 on Apple Podcasts ($2 ratings), $3/10 in our review."
+  ],
+  [
+   "^Une émission notée ([\\d,]+)/5 sur Apple Podcasts \\((.+) notes\\)\\.$",
+   "A show rated $1/5 on Apple Podcasts ($2 ratings)."
+  ],
+  [
+   "^Une émission indépendante, ([\\d,]+)/10 dans notre critique\\.$",
+   "An independent show, $1/10 in our review."
+  ],
+  [
+   "^Une émission indépendante\\.$",
+   "An independent show."
+  ],
+  [
+   "^Pour souffler entre deux actus avec une pépite indépendante, notée ([\\d,]+)/5 sur Apple Podcasts par (.+) auditeurs\\.$",
+   "For a breather between two news stories: an independent gem, rated $1/5 on Apple Podcasts by $2 listeners."
+  ],
+  [
+   "^Notre nouvel épisode sort aujourd'hui : l'épisode (\\d+) de MediaCritic est consacré à (.+)\\.$",
+   "Our new episode is out today: MediaCritic episode $1 is devoted to $2."
+  ],
+  [
+   "^Notre nouvel épisode sort aujourd'hui : MediaCritic critique (.+)\\.$",
+   "Our new episode is out today: MediaCritic reviews $1."
+  ],
+  [
+   "^Parce que nous venons de lui consacrer l'épisode (\\d+) de MediaCritic, à écouter dès aujourd'hui\\.$",
+   "Because we've just devoted MediaCritic episode $1 to it, out today."
+  ],
+  [
+   "^Notre note : ([\\d,]+)/10\\.$",
+   "Our score: $1/10."
+  ],
+  [
+   "^« (.+) » fait l'actu : (.+) y a consacré (son épisode|sa vidéo) « (.+) », (publié|publiée) le (.+)\\.$",
+   "“$1” is in the news: $2 devoted {tr:3} “$4” to it, released on {date:6}."
+  ],
+  [
+   "^La pépite du jour : (.+), podcast indépendant noté ([\\d,]+)/5 sur Apple Podcasts \\((.+) notes\\)\\.$",
+   "Today's gem: $1, an independent podcast rated $2/5 on Apple Podcasts ($3 ratings)."
+  ],
+  [
+   "^(Podcast|Chaîne YouTube) · (.+)$",
+   "{tr:1} · {cat:2}"
+  ],
+  [
+   "^Lancé en (\\d{4})$",
+   "Launched in $1"
+  ],
+  [
+   "^Existe depuis au moins (\\d{4})$",
+   "Around since at least $1"
+  ],
+  [
+   "^(Épisodes|Vidéos) d'environ (\\d+) min, (publiés|publiées) (tous les jours|chaque semaine|tous les quinze jours)$",
+   "{tr:1} of about $2 min, released {tr:4}"
+  ],
+  [
+   "^(Épisodes|Vidéos) d'environ (\\d+) min, (publiés|publiées) tous les (\\d+) jours environ$",
+   "{tr:1} of about $2 min, released roughly every $4 days"
+  ],
+  [
+   "^(Épisodes|Vidéos) d'environ (\\d+) min$",
+   "{tr:1} of about $2 min"
+  ],
+  [
+   "^Il a parlé ces jours-ci de « (.+) »$",
+   "It recently talked about “$1”"
+  ],
+  [
+   "^(.+) d'abonnés sur YouTube$",
+   "$1 subscribers on YouTube"
+  ],
+  [
+   "^(.+) notes sur Apple Podcasts$",
+   "$1 ratings on Apple Podcasts"
+  ],
+  [
+   "^Publie (tous les jours|chaque semaine|tous les quinze jours)$",
+   "Releases {tr:1}"
+  ],
+  [
+   "^Publie tous les (\\d+) jours environ$",
+   "Releases roughly every $1 days"
+  ],
+  [
+   "^Plus de (\\d+) (vidéos|épisodes)$",
+   "Over $1 {tr:2}"
+  ]
+ ]
 }
