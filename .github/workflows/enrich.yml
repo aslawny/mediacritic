@@ -204,6 +204,8 @@ jobs:
         timeout-minutes: 15
         run: |
           if [ -f "scripts/import_international.py" ]; then
+            # Section « Desire & intimacy » de chaque langue (23/11/2026)
+            python scripts/import_international.py --desirs --max 15 || true
             python scripts/import_international.py --max 250
           fi
           if [ -f "scripts/generate_fiches_intl.py" ]; then
