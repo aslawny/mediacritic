@@ -279,5 +279,15 @@
    "type": "spotify"
   },
   "slug": "crimes-oublies"
+ },
+ "2026-11-23": {
+  "annee": 2023,
+  "annee_min": true,
+  "duree_min": 36,
+  "lecteur": {
+   "src": "https://embed.podcasts.apple.com/fr/podcast/id1697647866?i=1000803107515&theme=dark",
+   "type": "apple"
+  },
+  "slug": "le-pire-podcast-cinema"
  }
 }
