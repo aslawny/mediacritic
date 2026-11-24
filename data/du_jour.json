@@ -1,6 +1,71 @@
 {
  "historique": [
   {
+   "date": "2026-11-24",
+   "mode": "actu",
+   "slug": "monsieur-grrr",
+   "titre": "Monsieur GRrr",
+   "type": "youtube",
+   "auteur": "Monsieur GRrr",
+   "image": "https://yt3.ggpht.com/7BzztInwDwguh28K0GAWJhvvNXvTQOc4_ziTmHOUSAN2uOV3Qwm_qPmyFQrAu0t5W0vTbhIY=s800-c-k-c0x00ffffff-no-rj",
+   "independant": true,
+   "mcNote": null,
+   "sujet": "Black Friday",
+   "source": "calendrier",
+   "episode": {
+    "titre": "Black Friday maison : mes 10 coups de cœur tech",
+    "date": "2026-11-22",
+    "url": "https://www.youtube.com/watch?v=PMVzA4fMFco"
+   },
+   "pourquoi": "« Black Friday » fait l'actu : Monsieur GRrr y a consacré sa vidéo « Black Friday maison : mes 10 coups de cœur tech », publiée le 22 novembre.",
+   "presentation": "🇫🇷 Frenchie passionné de #Tech",
+   "sections": [
+    [
+     "L'actu qui a fait le buzz",
+     "« Black Friday » : c'est le 27 novembre. À la une : « Le Black Friday xTool sur Amazon » (Les Imprimantes 3D .fr)."
+    ],
+    [
+     "L'émission",
+     "Monsieur GRrr — chaîne YouTube. 🇫🇷 Frenchie passionné de #Tech"
+    ],
+    [
+     "Pourquoi l'écouter",
+     "Pour prolonger l'actu : dans sa vidéo « Black Friday maison : mes 10 coups de cœur tech », publiée le 22 novembre, Monsieur GRrr revient justement sur « Black Friday ». Une émission indépendante suivie par 743 000 abonnés sur YouTube."
+    ]
+   ],
+   "reseaux": {
+    "instagram": [
+     {
+      "compte": "monsieur_grrr",
+      "url": "https://www.instagram.com/monsieur_grrr/",
+      "source": "chaîne YouTube"
+     }
+    ],
+    "x": [
+     {
+      "compte": "MonsieurGRrr",
+      "url": "https://x.com/MonsieurGRrr",
+      "source": "chaîne YouTube"
+     }
+    ],
+    "tiktok": [
+     {
+      "compte": "monsieurgrrr",
+      "url": "https://www.tiktok.com/@monsieurgrrr",
+      "source": "chaîne YouTube"
+     }
+    ],
+    "facebook": [
+     {
+      "compte": "jesuismonsieurgrrr",
+      "url": "https://www.facebook.com/jesuismonsieurgrrr",
+      "source": "chaîne YouTube"
+     }
+    ]
+   },
+   "thematique": "tech"
+  },
+  {
    "date": "2026-11-23",
    "mode": "actu",
    "slug": "le-pire-podcast-cinema",
