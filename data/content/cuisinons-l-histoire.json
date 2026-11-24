@@ -28,27 +28,37 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Quand la cuisine devient une arme : retour sur les empoisonnements les plus célèbres",
+      "date": "2026-11-13",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2992226.mp3?origin=rss",
+      "duree": 905
+    },
+    {
       "titre": "Femmes en cuisine : une histoire dans l’ombre",
-      "date": "2026-10-08"
+      "date": "2026-10-08",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2803593.mp3?origin=rss",
+      "duree": 688
     },
     {
       "titre": "L'incroyable histoire de la tomate",
-      "date": "2026-09-10"
+      "date": "2026-09-10",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2741451.mp3?origin=rss",
+      "duree": 1009
     },
     {
       "titre": "L'histoire des régimes alimentaires à travers les siècles",
-      "date": "2026-05-12"
+      "date": "2026-05-12",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2503237.mp3?origin=rss",
+      "duree": 1142
     },
     {
       "titre": "Aux origines de la street-food : du thermopolium antique aux food trucks",
-      "date": "2026-04-16"
-    },
-    {
-      "titre": "Qui ont été les premiers critiques culinaires ?",
-      "date": "2026-03-12"
+      "date": "2026-04-16",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2454775.mp3?origin=rss",
+      "duree": 700
     }
   ],
-  "derniere_activite": "2026-10-08",
+  "derniere_activite": "2026-11-13",
   "frequence_jours": 29,
   "avis_publics": {
     "source": "apple",

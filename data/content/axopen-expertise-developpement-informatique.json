@@ -29,28 +29,38 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Platform Engineering : comment (vraiment) le mettre en place dans son SI ?",
+      "date": "2026-11-19",
+      "audio": "https://audio.ausha.co/BQ0lRTXmEQP1.mp3?t=1794903711",
+      "duree": 3079
+    },
+    {
       "titre": "Mise en production : comment bien déployer son application en 2026 ?",
-      "date": "2026-10-06"
+      "date": "2026-10-06",
+      "audio": "https://audio.ausha.co/BNgPJUaVrzqO.mp3?t=1790685790",
+      "duree": 2827
     },
     {
       "titre": "Externalisation IT : comment garder le contrôle de son SI ?",
-      "date": "2026-09-17"
+      "date": "2026-09-17",
+      "audio": "https://audio.ausha.co/yJQ0atwXRr5z.mp3?t=1789548217",
+      "duree": 2351
     },
     {
       "titre": "Langages de programmation : quel avenir face à l'IA ?",
-      "date": "2026-09-03"
+      "date": "2026-09-03",
+      "audio": "https://audio.ausha.co/odPk2c7PXwkD.mp3?t=1788422981",
+      "duree": 2905
     },
     {
       "titre": "Trouver un job de développeur junior en 2026 : les conseils de notre équipe recrutement !",
-      "date": "2026-08-04"
-    },
-    {
-      "titre": "UX/UI : comment concevoir les interfaces utilisateurs (avec ou sans IA) ?",
-      "date": "2026-07-09"
+      "date": "2026-08-04",
+      "audio": "https://audio.ausha.co/oaP95cJ8x2Dg.mp3?t=1784809683",
+      "duree": 4167
     }
   ],
-  "derniere_activite": "2026-10-06",
-  "frequence_jours": 15,
+  "derniere_activite": "2026-11-19",
+  "frequence_jours": 19,
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",

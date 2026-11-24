@@ -29,23 +29,33 @@
   "episodes_recents": [
     {
       "titre": "Le Lotus bleu - 28/28",
-      "date": "2026-10-15"
+      "date": "2026-10-15",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2735343.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 636
     },
     {
       "titre": "Le Lotus bleu - 27/28",
-      "date": "2026-10-15"
+      "date": "2026-10-15",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2735314.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 633
     },
     {
       "titre": "Le Lotus bleu - 26/28",
-      "date": "2026-10-15"
+      "date": "2026-10-15",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2735290.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 610
     },
     {
       "titre": "Le Lotus bleu - 25/28",
-      "date": "2026-10-15"
+      "date": "2026-10-15",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2735271.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 586
     },
     {
       "titre": "Le Lotus bleu - 24/28",
-      "date": "2026-10-08"
+      "date": "2026-10-08",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2735193.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 655
     }
   ],
   "derniere_activite": "2026-10-15",

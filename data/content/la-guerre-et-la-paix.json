@@ -31,23 +31,33 @@
   "episodes_recents": [
     {
       "titre": "E25/25 - Le Vrai amour de Pierre",
-      "date": "2026-09-04"
+      "date": "2026-09-04",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2666403.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 2517
     },
     {
       "titre": "E24/25 - Un terrible chagrin",
-      "date": "2026-09-04"
+      "date": "2026-09-04",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2666387.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 2686
     },
     {
       "titre": "E23/25 - L'Imprudence du jeune Rostov",
-      "date": "2026-09-04"
+      "date": "2026-09-04",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2665053.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 2269
     },
     {
       "titre": "E22/25 - La Promesse de Nicolas",
-      "date": "2026-08-28"
+      "date": "2026-08-28",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2665030.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 2382
     },
     {
       "titre": "E21/25 - Moscou aux mains de Napoléon",
-      "date": "2026-08-28"
+      "date": "2026-08-28",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2664988.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 2106
     }
   ],
   "derniere_activite": "2026-09-04",

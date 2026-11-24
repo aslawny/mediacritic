@@ -61,25 +61,29 @@
   "derniere_activite": "2026-11-06",
   "frequence_jours": 21,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-25",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "lau08jnd",
+        "titre": "Inlassable",
+        "texte": "Un jeune duo comique et très interessant, bourré de bonnes anecdotes, le tout dans une ambiance conviviale; on a envie d’être dans la même pièce et débattre cinéma avec eux! Tout simplement inlassable, j’adore leur simplicité et tout ce qu’ils nous font découvrir à travers des je…"
+      },
+      {
+        "note": 5,
+        "auteur": "Mathieu_007",
+        "titre": "Excellent!",
+        "texte": "Hello 👋 Je vous ai connu sur TikTok et j’ai tout de suite accroché! J’adore l’univers du cinéma et je suis toute la journée sur la route donc l’annonce du podcast a été une très bonne nouvelle pour moi! J’attend le nouvel épisode avec impatience à chaque fois, bref je me régale!…"
+      },
+      {
+        "note": 5,
+        "auteur": "emdalmoro",
+        "titre": "Mes âmes sœurs",
+        "texte": "C’est super d’écouter des gens passionné de cinéma! Peu importe votre genre de cinéma préféré vous devriez aimer le contenu du podcast! On apprend des fun facts sympas! On a les meme refs! le dimanche à la campagne… Je pensais être la seule! 😊 continuez comme ça les gars!"
+      }
     ]
   }
 }

@@ -29,23 +29,33 @@
   "episodes_recents": [
     {
       "titre": "L'Éducation sentimentale E18/18",
-      "date": "2025-05-09"
+      "date": "2025-05-09",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2081526.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 1629
     },
     {
       "titre": "L'Éducation sentimentale E17/18",
-      "date": "2025-05-02"
+      "date": "2025-05-02",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2081528.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 1667
     },
     {
       "titre": "L'Éducation sentimentale E16/18",
-      "date": "2025-04-25"
+      "date": "2025-04-25",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2081530.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 1792
     },
     {
       "titre": "L'Éducation sentimentale E15/18",
-      "date": "2025-04-18"
+      "date": "2025-04-18",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2081532.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 1766
     },
     {
       "titre": "L'Éducation sentimentale E14/18",
-      "date": "2025-04-11"
+      "date": "2025-04-11",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2081533.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 1632
     }
   ],
   "derniere_activite": "2025-05-09",

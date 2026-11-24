@@ -62,25 +62,29 @@
   "derniere_activite": "2026-10-24",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-25",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "col-ae",
+        "titre": "Super podcast !",
+        "texte": "J’adore ma trouvaille de ce podcast ! La lecture avec les timbres de voix est géniale. Le choix des titres proposés, également. Cela nous permet de découvrir de petites nouvelles jusqu’aux long romans-fleuves. Merci ! J’espère que ce podcast continuera encore longtemps !"
+      },
+      {
+        "note": 2,
+        "auteur": "Mayo Ness",
+        "titre": "Quel dommage !",
+        "texte": "Le choix des textes proposés est vraiment de qualité, mais quel dommage que M. Couchot ne se contente pas simplement de les lire avec sobriété pour les mettre en valeur.…"
+      },
+      {
+        "note": 5,
+        "auteur": "barokferraille",
+        "titre": "Un délice",
+        "texte": "Et quel talent dans les lectures de Maupassant ! Le patois, les voix… c’est admirable ! À tel point que je ne les relirai plus jamais sans entendre le lecteur à mon oreille. 😍"
+      }
     ]
   }
 }

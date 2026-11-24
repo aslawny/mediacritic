@@ -27,27 +27,37 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Ici Montferrand S09EP13 : \"Mathilde Lazarko, capitaine de l’ASM Rugby féminin, se confie\"",
+      "date": "2026-11-23",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3090288.mp3?origin=rss",
+      "duree": 2159
+    },
+    {
+      "titre": "Ici Montferrand S09EP12 : \"Pourquoi les joueurs du Top 14 sont-ils autant blessés ?\"",
+      "date": "2026-11-16",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3019457.mp3?origin=rss",
+      "duree": 1912
+    },
+    {
       "titre": "Ici Montferrand S09EP11 : \"Le début de saison de l'ASM est-il raté ?\"",
-      "date": "2026-11-09"
+      "date": "2026-11-09",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2959111.mp3?origin=rss",
+      "duree": 1860
     },
     {
       "titre": "Ici Montferrand S09EP10 : \"Est-on trop sévère avec l'ASM ?\"",
-      "date": "2026-11-02"
+      "date": "2026-11-02",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2919380.mp3?origin=rss",
+      "duree": 2033
     },
     {
       "titre": "Ici Montferrand S09EP09 : \"ASM et yellow army : tensions dans le couple ?\"",
-      "date": "2026-10-26"
-    },
-    {
-      "titre": "Ici Montferrand S09EP08 : \"Et si Brock James revenait à l'ASM Clermont : une bonne nouvelle ?\"",
-      "date": "2026-10-19"
-    },
-    {
-      "titre": "Ici Montferrand S09EP07 : \"Doit-on s'inquiéter pour la saison de l'ASM ?\"",
-      "date": "2026-10-12"
+      "date": "2026-10-26",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2871072.mp3?origin=rss",
+      "duree": 2411
     }
   ],
-  "derniere_activite": "2026-11-09",
+  "derniere_activite": "2026-11-23",
   "frequence_jours": 7,
   "avis_publics": {
     "source": "apple",

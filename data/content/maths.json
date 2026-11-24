@@ -29,25 +29,107 @@
   "episodes_recents": [
     {
       "titre": "Random Graphs and Coupling - A mathematical journey",
-      "date": "2024-08-27"
+      "date": "2024-08-27",
+      "video": "LnApSsurrZU"
     },
     {
       "titre": "Algèbre linéaire - 9 - Multiplication des matrices",
-      "date": "2024-07-10"
+      "date": "2024-07-10",
+      "video": "jwIfvENJLl8"
     },
     {
       "titre": "Algèbre linéaire - 08 - Les Matrices",
-      "date": "2024-06-27"
+      "date": "2024-06-27",
+      "video": "ucO4qAacAFY"
     },
     {
       "titre": "Théorie de Galois - 17 - Le théorème de l'élément primitif",
-      "date": "2024-06-26"
+      "date": "2024-06-26",
+      "video": "M6oqD69EjuE"
     },
     {
       "titre": "Représentations - 07 - La base des caractères",
-      "date": "2024-05-13"
+      "date": "2024-05-13",
+      "video": "8bSKOzVloQo"
     }
   ],
   "derniere_activite": "2024-08-27",
-  "frequence_jours": 5
+  "frequence_jours": 5,
+  "videos": [
+    {
+      "titre": "Random Graphs and Coupling - A mathematical journey",
+      "date": "2024-08-27",
+      "video": "LnApSsurrZU"
+    },
+    {
+      "titre": "Algèbre linéaire - 9 - Multiplication des matrices",
+      "date": "2024-07-10",
+      "video": "jwIfvENJLl8"
+    },
+    {
+      "titre": "Algèbre linéaire - 08 - Les Matrices",
+      "date": "2024-06-27",
+      "video": "ucO4qAacAFY"
+    },
+    {
+      "titre": "Théorie de Galois - 17 - Le théorème de l'élément primitif",
+      "date": "2024-06-26",
+      "video": "M6oqD69EjuE"
+    },
+    {
+      "titre": "Représentations - 07 - La base des caractères",
+      "date": "2024-05-13",
+      "video": "8bSKOzVloQo"
+    },
+    {
+      "titre": "Représentations - 06 - Le lemme de Burnside",
+      "date": "2024-05-05",
+      "video": "8LMYMQoxNAw"
+    },
+    {
+      "titre": "Algèbre linéaire - 07 - Applications linéaires",
+      "date": "2024-05-02",
+      "video": "I7T4JzjyVsE"
+    },
+    {
+      "titre": "Représentation - 05 - La représentation application linéaire",
+      "date": "2024-04-30",
+      "video": "wDIPNJw2lg4"
+    },
+    {
+      "titre": "Représentations - 04 - Caractères",
+      "date": "2024-04-27",
+      "video": "NgnPlmN9oT0"
+    },
+    {
+      "titre": "Représentations - 03 - Quelques exemples",
+      "date": "2024-04-16",
+      "video": "1z0NsTPTCAs"
+    },
+    {
+      "titre": "Représentations - 02 - Le théorème de Maschke",
+      "date": "2024-04-10",
+      "video": "53qQXvloRyc"
+    },
+    {
+      "titre": "Représentations - 01 - Introduction",
+      "date": "2024-04-05",
+      "video": "yn4gmED-yDk"
+    },
+    {
+      "titre": "Algèbre linéaire - 06 - La formule de Grassmann",
+      "date": "2024-03-07",
+      "video": "-R5KgprItiQ"
+    },
+    {
+      "titre": "Algèbre linéaire - 05 - Sous-espaces vectoriels",
+      "date": "2024-02-12",
+      "video": "dgF_BbvOrmg"
+    },
+    {
+      "titre": "Algèbre linéaire - 04 - La base incomplète",
+      "date": "2024-02-07",
+      "video": "CLNllbtFh7c"
+    }
+  ]
 }

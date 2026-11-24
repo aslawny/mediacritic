@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2025-10-28",
-  "frequence_jours": 117
+  "frequence_jours": 117,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Rarkangas",
+        "titre": "Excellente émission pour amateur et néophytes du stoner",
+        "texte": "Ce podcast est absolument incontournable si vous êtes amateur de films de stoners ou si vous voulez les découvrir. L’audio et le mixage sont parmi les meilleurs que vous trouverez dans les podcasts francophones.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Mathieu_Bont",
+        "titre": "Parfait pour se marrer",
+        "texte": "Des podcasts cinoche il y en a des tonnes donc quand ça traite d'un genre en particulier et que c'est aussi bien fait faut pas hésiter et s'abonner ! Comme d'hab dans tout ce que fait PuNkY c'est techniquement nickel et le duo fonctionne vraiment bien.…"
+      },
+      {
+        "note": 5,
+        "auteur": "LasVegasParapluie",
+        "titre": "cinéphiles psychedéliques",
+        "texte": "Enfin un podcast qui parle de la culture stoner en France ! Et bien chill en plus ! Un conseil posez vous avec un petit whisky et claquez un blunt au coin du feu pendant l'écoute."
+      }
+    ]
+  }
 }

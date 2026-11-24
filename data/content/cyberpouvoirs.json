@@ -29,10 +29,12 @@
   "episodes_recents": [
     {
       "titre": "Retrouvez tous les épisodes sur l’appli Radio France",
-      "date": "2026-11-10"
+      "date": "2026-11-23",
+      "audio": "https://media.radiofrance-podcast.net/podcast09/app_rf_promotion.mp3?stationId=1",
+      "duree": 12
     }
   ],
-  "derniere_activite": "2026-11-10",
+  "derniere_activite": "2026-11-23",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-11-18",

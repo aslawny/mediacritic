@@ -30,27 +30,37 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Merci Claude !",
+      "date": "2026-11-23",
+      "audio": "https://content.rss.com/episodes/326818/3345253/generation-ia/2026_11_23_10_33_41_cf679a2f-b5d2-40bb-8742-0aa295cfd425.mp3",
+      "duree": 1761
+    },
+    {
+      "titre": "L'affaire Jensen Huang (avec ChatGPT)",
+      "date": "2026-11-18",
+      "audio": "https://content.rss.com/episodes/326818/3333286/generation-ia/2026_11_18_14_55_59_dfa7af3d-3415-490c-b117-6ee745045a1c.mp3",
+      "duree": 1851
+    },
+    {
       "titre": "2026 : l'année de bascule de l'IA ?",
-      "date": "2026-11-02"
+      "date": "2026-11-02",
+      "audio": "https://content.rss.com/episodes/326818/3287349/generation-ia/2026_11_02_14_03_47_4ccc0298-b11c-4bd1-bf5c-3fd54283e028.mp3",
+      "duree": 1960
     },
     {
       "titre": "Ton job remplacé par l'IA ? Comment te PROTÉGER (Christophe Aulnette)",
-      "date": "2026-10-21"
+      "date": "2026-10-21",
+      "audio": "https://content.rss.com/episodes/326818/3252688/generation-ia/2026_10_21_08_10_40_f052beab-d87a-4782-9f5f-c0606766cd9b.mp3",
+      "duree": 4270
     },
     {
       "titre": "L'IA bouleverse la recherche (avec Laurent Daudet)",
-      "date": "2026-10-13"
-    },
-    {
-      "titre": "Entreprendre à l'ère de l'IA (avec Vincent Godbert)",
-      "date": "2026-10-06"
-    },
-    {
-      "titre": "L'IA va-t-elle anéantir l'humanité ?",
-      "date": "2026-09-22"
+      "date": "2026-10-13",
+      "audio": "https://content.rss.com/episodes/326818/3230628/generation-ia/2026_10_13_11_34_18_f82a3d3e-59f9-45f8-880a-16485ffd0606.mp3",
+      "duree": 3293
     }
   ],
-  "derniere_activite": "2026-11-02",
+  "derniere_activite": "2026-11-23",
   "frequence_jours": 13,
   "avis_publics": {
     "epuise": true,

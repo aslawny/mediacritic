@@ -28,26 +28,108 @@
   "updatedAt": "2026-08-09",
   "episodes_recents": [
     {
-      "titre": "Ma nouvelle vie à Hong Kong : je vous raconte tout",
-      "date": "2026-08-31"
+      "titre": "Un modèle qui lit l’ADN #actu",
+      "date": "2026-11-23",
+      "video": "iALg1JF6gD4"
     },
     {
-      "titre": "Stripe rachète OpenRouter #actu",
-      "date": "2026-08-30"
+      "titre": "Je visite une usine IA en Chine 🇨🇳",
+      "date": "2026-11-22",
+      "video": "zIEExR36s6g"
     },
     {
-      "titre": "Le watermark de Claude sur les textes IA",
-      "date": "2026-08-29"
+      "titre": "n8n sort son agent IA #actu",
+      "date": "2026-11-22",
+      "video": "ttCBwQkq8dE"
     },
     {
-      "titre": "Ils quittent Google !",
-      "date": "2026-08-27"
+      "titre": "Tout comprendre aux agents IA en 28 minutes",
+      "date": "2026-11-21",
+      "video": "_i12oRKm8pc"
     },
     {
-      "titre": "Le watermarking de Claude expliqué simplement (actu IA)",
-      "date": "2026-08-27"
+      "titre": "Gemini 4 décevant #actu",
+      "date": "2026-11-21",
+      "video": "z1iAgtvdcjU"
     }
   ],
-  "derniere_activite": "2026-08-31",
-  "frequence_jours": 0
+  "derniere_activite": "2026-11-23",
+  "frequence_jours": 0,
+  "videos": [
+    {
+      "titre": "Un modèle qui lit l’ADN #actu",
+      "date": "2026-11-23",
+      "video": "iALg1JF6gD4"
+    },
+    {
+      "titre": "Je visite une usine IA en Chine 🇨🇳",
+      "date": "2026-11-22",
+      "video": "zIEExR36s6g"
+    },
+    {
+      "titre": "n8n sort son agent IA #actu",
+      "date": "2026-11-22",
+      "video": "ttCBwQkq8dE"
+    },
+    {
+      "titre": "Tout comprendre aux agents IA en 28 minutes",
+      "date": "2026-11-21",
+      "video": "_i12oRKm8pc"
+    },
+    {
+      "titre": "Gemini 4 décevant #actu",
+      "date": "2026-11-21",
+      "video": "z1iAgtvdcjU"
+    },
+    {
+      "titre": "Claude m’a banni #actu",
+      "date": "2026-11-19",
+      "video": "8B-9rBKZ-w4"
+    },
+    {
+      "titre": "n8n explose la concurrence avec son agent (actu IA)",
+      "date": "2026-11-18",
+      "video": "Hu5_Z6yEhKE"
+    },
+    {
+      "titre": "Yann Lecun marque un point contre les LLM #actu",
+      "date": "2026-11-17",
+      "video": "3Xy-H0sZFY8"
+    },
+    {
+      "titre": "J’ai visité une usine d’IA en Chine 🇨🇳",
+      "date": "2026-11-16",
+      "video": "P1ciDsrNWYY"
+    },
+    {
+      "titre": "Les modèles open source en retard ? #actu",
+      "date": "2026-11-16",
+      "video": "-4HedF8f1Do"
+    },
+    {
+      "titre": "L’impact des data centers sur les élections 🇺🇸 #actu",
+      "date": "2026-11-15",
+      "video": "F7lH35QHJJk"
+    },
+    {
+      "titre": "L’IA peut vraiment réécrire une autre IA ? #actu",
+      "date": "2026-11-14",
+      "video": "HToELB4N2ms"
+    },
+    {
+      "titre": "Pourquoi la bulle IA a explosé ? #actu",
+      "date": "2026-11-14",
+      "video": "iKpy628vy3k"
+    },
+    {
+      "titre": "Yann LeCun vient de marquer un point contre les LLM (actu IA)",
+      "date": "2026-11-11",
+      "video": "TySSyP5xjeg"
+    },
+    {
+      "titre": "Les agents autonomes DeepSeek #actu",
+      "date": "2026-11-10",
+      "video": "vGsZvs2J7jI"
+    }
+  ]
 }

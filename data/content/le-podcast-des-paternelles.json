@@ -30,27 +30,37 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Thomas Marty : deux enfants en 14 mois, les défis de la paternité et son parcours d’humoriste",
+      "date": "2026-11-20",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3056401.mp3?origin=rss",
+      "duree": 3912
+    },
+    {
       "titre": "Papa Plume : « On a du mal à faire de la place à nos enfants »",
-      "date": "2026-10-28"
+      "date": "2026-10-28",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2882116.mp3?origin=rss",
+      "duree": 2895
     },
     {
       "titre": "Devenir père sans oublier d’où l’on vient : Abrège Frère se confie",
-      "date": "2026-10-07"
+      "date": "2026-10-07",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2803197.mp3?origin=rss",
+      "duree": 2399
     },
     {
       "titre": "Jérémy Charbonnel : être père après la séparation",
-      "date": "2026-09-23"
+      "date": "2026-09-23",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2771820.mp3?origin=rss",
+      "duree": 2795
     },
     {
       "titre": "Éric Frechon : une nouvelle étoile dans sa vie de papa",
-      "date": "2026-09-16"
-    },
-    {
-      "titre": "Guillaume Fosko : un daron fragile ?",
-      "date": "2026-09-09"
+      "date": "2026-09-16",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2754780.mp3?origin=rss",
+      "duree": 2677
     }
   ],
-  "derniere_activite": "2026-10-28",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 13,
   "avis_publics": {
     "source": "apple",

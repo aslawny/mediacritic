@@ -28,26 +28,88 @@
   "updatedAt": "2026-07-22",
   "episodes_recents": [
     {
+      "titre": "Comment un hacker a retrouvé mon adresse ?",
+      "date": "2026-11-15",
+      "video": "u7so6qZXSyE"
+    },
+    {
+      "titre": "À quoi ressemble une finale mondiale de hacking ?",
+      "date": "2026-11-01",
+      "video": "saSCnm0ZYGU"
+    },
+    {
+      "titre": "J’ai installé un bloqueur de pubs pour toute la maison",
+      "date": "2026-10-18",
+      "video": "SW60E18m6EM"
+    },
+    {
+      "titre": "J'ai empoisonné mes propres données (et c'est légal)",
+      "date": "2026-10-01",
+      "video": "f4ZCWzBJhkU"
+    },
+    {
       "titre": "On vous ment sur les métiers de la cybersécurité",
-      "date": "2026-09-03"
+      "date": "2026-09-03",
+      "video": "m6Mc7p_X7qo"
+    }
+  ],
+  "derniere_activite": "2026-11-15",
+  "frequence_jours": 18,
+  "videos": [
+    {
+      "titre": "Comment un hacker a retrouvé mon adresse ?",
+      "date": "2026-11-15",
+      "video": "u7so6qZXSyE"
+    },
+    {
+      "titre": "À quoi ressemble une finale mondiale de hacking ?",
+      "date": "2026-11-01",
+      "video": "saSCnm0ZYGU"
+    },
+    {
+      "titre": "J’ai installé un bloqueur de pubs pour toute la maison",
+      "date": "2026-10-18",
+      "video": "SW60E18m6EM"
+    },
+    {
+      "titre": "J'ai empoisonné mes propres données (et c'est légal)",
+      "date": "2026-10-01",
+      "video": "f4ZCWzBJhkU"
+    },
+    {
+      "titre": "On vous ment sur les métiers de la cybersécurité",
+      "date": "2026-09-03",
+      "video": "m6Mc7p_X7qo"
     },
     {
       "titre": "La réalité du marché des fuites de données",
-      "date": "2026-08-16"
+      "date": "2026-08-16",
+      "video": "xmtzDmPKboY"
     },
     {
       "titre": "Comment hacker 43 % du web ?",
-      "date": "2026-07-26"
+      "date": "2026-07-26",
+      "video": "L1B9IosP80s"
     },
     {
       "titre": "Faut-il commencer le bug bounty en 2026 ? (IA, argent, solitude)",
-      "date": "2026-07-16"
+      "date": "2026-07-16",
+      "video": "aN1DahbPR4Q"
     },
     {
       "titre": "Comment retrouver quelqu'un qui se croit intraçable ? (Sensibilisation OSINT)",
-      "date": "2026-06-25"
+      "date": "2026-06-25",
+      "video": "8XDRUk4soS8"
+    },
+    {
+      "titre": "La faille débile qui a fait fuiter 1 Français sur 4",
+      "date": "2026-06-11",
+      "video": "rmjXDhc8Nas"
+    },
+    {
+      "titre": "Le setup d'un hacker éthique",
+      "date": "2026-05-17",
+      "video": "emm_EnzENKk"
     }
-  ],
-  "derniere_activite": "2026-09-03",
-  "frequence_jours": 14
+  ]
 }

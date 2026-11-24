@@ -29,27 +29,37 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Le sermon de l’abbé : Dernier dimanche après la Pentecôte",
+      "date": "2026-11-22",
+      "audio": "https://op3.dev/e/claves.org/wp-content/uploads/2026/11/Sermon-dernier-dimanche-apres-la-pentecote.mp3?_from=e2421539-b718-50e9-998f-811df406a976",
+      "duree": 433
+    },
+    {
+      "titre": "Le sermon de l’abbé : 6e dimanche après l’Epiphanie (transféré)",
+      "date": "2026-11-15",
+      "audio": "https://op3.dev/e/claves.org/wp-content/uploads/2026/11/Sermon-6e-dimanche-apres-lEpiphanie.mp3?_from=e2421539-b718-50e9-998f-811df406a976",
+      "duree": 540
+    },
+    {
       "titre": "Le sermon de l’abbé : 5e dimanche après l’Epiphanie (transféré)",
-      "date": "2026-11-08"
+      "date": "2026-11-08",
+      "audio": "https://op3.dev/e/claves.org/wp-content/uploads/2026/11/Sermon-5e-dimanche-apres-l_Epiphanie.mp3?_from=e2421539-b718-50e9-998f-811df406a976",
+      "duree": 444
     },
     {
       "titre": "Le sermon de l’abbé : fête de la Toussaint",
-      "date": "2026-11-01"
+      "date": "2026-11-01",
+      "audio": "https://op3.dev/e/claves.org/wp-content/uploads/2026/10/Sermon-fete-de-la-Toussaint.mp3?_from=e2421539-b718-50e9-998f-811df406a976",
+      "duree": 691
     },
     {
       "titre": "Le sermon de l’abbé : fête du Christ Roi",
-      "date": "2026-10-25"
-    },
-    {
-      "titre": "Le sermon de l’abbé : 21ème dimanche après la Pentecôte",
-      "date": "2026-10-18"
-    },
-    {
-      "titre": "Le sermon de l’abbé : 20ème dimanche après la Pentecôte",
-      "date": "2026-10-11"
+      "date": "2026-10-25",
+      "audio": "https://op3.dev/e/claves.org/wp-content/uploads/2026/10/Sermon-Christ-Roi-complet.mp3?_from=e2421539-b718-50e9-998f-811df406a976",
+      "duree": 444
     }
   ],
-  "derniere_activite": "2026-11-08",
+  "derniere_activite": "2026-11-22",
   "frequence_jours": 7,
   "avis_publics": {
     "epuise": true,

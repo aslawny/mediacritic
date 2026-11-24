@@ -29,25 +29,97 @@
   "episodes_recents": [
     {
       "titre": "Préparer son projet de création d'application mobile de A à Z ! (idée, concept, organisation etc.)",
-      "date": "2018-05-17"
+      "date": "2018-05-17",
+      "video": "ySfCkvfVaIw"
     },
     {
       "titre": "API REST Node.js • Création d'un système d'avis \"j'aime\" / \"j'aime pas\" • Épisode 7",
-      "date": "2018-05-02"
+      "date": "2018-05-02",
+      "video": "SMA-JDHSLEw"
     },
     {
       "titre": "Diffuser du son via AirPlay sur une enceinte Sonos + Intégration HomeKit (via HomeBridge)",
-      "date": "2018-04-25"
+      "date": "2018-04-25",
+      "video": "A5KM1d0T7hs"
     },
     {
       "titre": "Top 10 des jeux mobiles iOS et Android les plus attendus ( 2018-2019 ) !",
-      "date": "2018-04-19"
+      "date": "2018-04-19",
+      "video": "-cfLFwV7K-k"
     },
     {
       "titre": "Publier une application sur le Google Play Store et l'App Store - Tutoriel COMPLET",
-      "date": "2018-04-12"
+      "date": "2018-04-12",
+      "video": "0naC_42iIxQ"
     }
   ],
   "derniere_activite": "2018-05-17",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "videos": [
+    {
+      "titre": "Préparer son projet de création d'application mobile de A à Z ! (idée, concept, organisation etc.)",
+      "date": "2018-05-17",
+      "video": "ySfCkvfVaIw"
+    },
+    {
+      "titre": "API REST Node.js • Création d'un système d'avis \"j'aime\" / \"j'aime pas\" • Épisode 7",
+      "date": "2018-05-02",
+      "video": "SMA-JDHSLEw"
+    },
+    {
+      "titre": "Diffuser du son via AirPlay sur une enceinte Sonos + Intégration HomeKit (via HomeBridge)",
+      "date": "2018-04-25",
+      "video": "A5KM1d0T7hs"
+    },
+    {
+      "titre": "Top 10 des jeux mobiles iOS et Android les plus attendus ( 2018-2019 ) !",
+      "date": "2018-04-19",
+      "video": "-cfLFwV7K-k"
+    },
+    {
+      "titre": "Publier une application sur le Google Play Store et l'App Store - Tutoriel COMPLET",
+      "date": "2018-04-12",
+      "video": "0naC_42iIxQ"
+    },
+    {
+      "titre": "Ionic 3+ • Préparer son application pour la soumission AppStore et Google Play Store • Épisode 16",
+      "date": "2018-04-04",
+      "video": "TWwUWvKDHWI"
+    },
+    {
+      "titre": "SketchAR : Dessiner en réalité augmenté avec son smartphone !",
+      "date": "2018-03-28",
+      "video": "kocUKNWTRe0"
+    },
+    {
+      "titre": "API REST Node.js • Poster des messages (mur de publication) • Épisode 6",
+      "date": "2018-03-14",
+      "video": "XddXCDabugQ"
+    },
+    {
+      "titre": "Mes extensions favorites pour Visual Studio Code (éditeur de code) #2",
+      "date": "2018-03-07",
+      "video": "xzt3raZ7sfU"
+    },
+    {
+      "titre": "Mes extensions favorites pour Visual Studio Code (éditeur de code) #1",
+      "date": "2018-02-28",
+      "video": "dc21bhbnrZk"
+    },
+    {
+      "titre": "Mais concrètement à quoi ça sert ? #3 - Un NAS (Network Attached Storage)",
+      "date": "2018-02-21",
+      "video": "Ba2M2DRXAog"
+    },
+    {
+      "titre": "Ionic 3+ • Création d'un lecteur de vidéos YouTube ! • Épisode 15",
+      "date": "2018-02-13",
+      "video": "wkdHgDhKRhE"
+    },
+    {
+      "titre": "Concevoir le design d'une application mobile de A à Z ! (UI et UX)",
+      "date": "2018-02-07",
+      "video": "TED1nl-3i1Y"
+    }
+  ]
 }

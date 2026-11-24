@@ -29,23 +29,33 @@
   "episodes_recents": [
     {
       "titre": "E33/33 - La Mort d'Arthur",
-      "date": "2026-05-15"
+      "date": "2026-05-15",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2501056.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 1456
     },
     {
       "titre": "E32/33 - Mordred ou le temps du malheur",
-      "date": "2026-05-08"
+      "date": "2026-05-08",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2488758.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 1638
     },
     {
       "titre": "E31/33 - Le retour des chevaliers",
-      "date": "2026-05-01"
+      "date": "2026-05-01",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2475802.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 1810
     },
     {
       "titre": "E30/33 - Le Graal",
-      "date": "2026-04-24"
+      "date": "2026-04-24",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2468849.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 1576
     },
     {
       "titre": "E29/33 - La cause du malheur du monde",
-      "date": "2026-04-17"
+      "date": "2026-04-17",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2429650.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 1850
     }
   ],
   "derniere_activite": "2026-05-15",

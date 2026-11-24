@@ -27,27 +27,37 @@
   "episodes_recents": [
     {
       "titre": "Brooklyn-Maputo",
-      "date": "2026-11-09"
+      "date": "2026-11-21",
+      "audio": "https://rts-aod-dd.akamaized.net/ww/2acb3203-a77d-3e60-b02c-49b7cff010dc/1b9aaef1-4d8e-3eec-9f57-920778d2372c.mp3",
+      "duree": 10614
     },
     {
       "titre": "Brooklyn-Maputo",
-      "date": "2026-11-07"
+      "date": "2026-11-20",
+      "audio": "https://rts-aod-dd.akamaized.net/ww/6cf92527-5e3b-369a-a12c-ebbb825b7aa9/385f6b25-4120-39f4-9009-c35118454efc.mp3",
+      "duree": 10584
+    },
+    {
+      "titre": "Spécial Grand Theft Auto",
+      "date": "2026-11-19",
+      "audio": "https://rts-aod-dd.akamaized.net/ww/b4a140d8-bf5e-354e-ac8b-3d3926f2a727/1c6fba87-f2c9-373c-b0ad-2bf6c7070d6f.mp3",
+      "duree": 10589
     },
     {
       "titre": "Brooklyn-Maputo",
-      "date": "2026-11-06"
+      "date": "2026-11-18",
+      "audio": "https://rts-aod-dd.akamaized.net/ww/b39437de-165f-3b10-8413-e6b864876e56/9c0c290a-3c6b-30f1-95c3-2d53142de8e6.mp3",
+      "duree": 10582
     },
     {
       "titre": "Brooklyn-Maputo",
-      "date": "2026-11-05"
-    },
-    {
-      "titre": "Brooklyn-Maputo",
-      "date": "2026-11-04"
+      "date": "2026-11-17",
+      "audio": "https://rts-aod-dd.akamaized.net/ww/95f57346-9655-34c1-a300-97768d35cbbd/fbc3526d-d773-3b8a-998c-fdc55da58184.mp3",
+      "duree": 10585
     }
   ],
-  "derniere_activite": "2026-11-09",
-  "frequence_jours": 0,
+  "derniere_activite": "2026-11-21",
+  "frequence_jours": 1,
   "avis_publics": {
     "epuise": true,
     "releve": "2026-11-06",

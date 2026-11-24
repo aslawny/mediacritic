@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2023-11-24",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Sowilo fr",
+        "titre": "Plusieurs épisodes avec un contenu expert très intéressant",
+        "texte": "Le fait que le handicap reste majoritairement traité dans du contenu qui lui est spécifiquement dédié reste une limite, cependant, très bon podcast, avec récemment des épisodes très intéressant sur le milieu professionnel avec de très bons intervenants"
+      },
+      {
+        "note": 5,
+        "auteur": "francois_ber",
+        "titre": "Top ce nouveau podcast",
+        "texte": "Enfin un autre podcast qui parle du handicap! J’ai beaucoup apprécié l’interview de Dominique tout comme son livre! Les questions sont précises et en lien avec le livre! Bon démarrage au podcast! François Bernard du podcast Handicap Histoire de…"
+      },
+      {
+        "note": 5,
+        "auteur": "elsa 0000",
+        "titre": "Merci!!",
+        "texte": "Merci pour ce très interessant et émouvant podcast, qui fédère et donne beaucoup d’espoir. Une maman d’un enfant porteur de handicap"
+      }
+    ]
+  }
 }

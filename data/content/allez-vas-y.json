@@ -29,47 +29,61 @@
   "episodes_recents": [
     {
       "titre": "BENEVOLAT - Grim d'Folie - le théâtre solidaire",
-      "date": "2024-03-29"
+      "date": "2024-03-29",
+      "audio": "https://sphinx.acast.com/p/open/s/6126178a8948130012587bab/e/6601d70b81160900161a9655/media.mp3",
+      "duree": 2088
     },
     {
       "titre": "BENEVOLAT - Fondation des Amis de l'Atelier - par Sandra Gardelle",
-      "date": "2024-03-28"
+      "date": "2024-03-28",
+      "audio": "https://sphinx.acast.com/p/open/s/6126178a8948130012587bab/e/6601d4f242c466001599ea6d/media.mp3",
+      "duree": 1865
     },
     {
       "titre": "BENEVOLAT - Transmission & partage, l'association qui donne de la valeur à la transmission de la mémoire",
-      "date": "2024-03-27"
+      "date": "2024-03-27",
+      "audio": "https://sphinx.acast.com/p/open/s/6126178a8948130012587bab/e/6601d067b958550016ca15c6/media.mp3",
+      "duree": 1638
     },
     {
       "titre": "ENTREPRENEURIAT - Alice & Lisa - La suite - Le bon sens, documentaire sur l'entrepreneuriat",
-      "date": "2023-12-13"
+      "date": "2023-12-13",
+      "audio": "https://sphinx.acast.com/p/open/s/6126178a8948130012587bab/e/657812edfd7b5f0011094603/media.mp3",
+      "duree": 1292
     },
     {
       "titre": "ENTREPRENEURIAT - Laetitia et Frederic se questionnent sur l'expertise !",
-      "date": "2023-11-29"
+      "date": "2023-11-29",
+      "audio": "https://sphinx.acast.com/p/open/s/6126178a8948130012587bab/e/6565c713f7e6aa001251b5b3/media.mp3",
+      "duree": 4771
     }
   ],
   "derniere_activite": "2024-03-29",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-24",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Kiki_rigolo",
+        "titre": "Excellent ! Émotion et espoir",
+        "texte": "J’ai commencé à écouter ces podcasts j’en suis au 2e et déjà, chaque histoire est émouvante. Au-delà de découvrir des expériences partagées, on entend ces voix remplies d’amour pour autrui. Merci Frédéric pour ce podcast."
+      },
+      {
+        "note": 5,
+        "auteur": "Mbacktoul",
+        "titre": "Super podcast !",
+        "texte": "Merci Fred pour ces cheminement , ces voyages que tu prends le temps de nous partager ! C’est toujours hyper enrichissant et ça donne des ailes ! Merci ! Je recommande a 200%"
+      },
+      {
+        "note": 5,
+        "auteur": "Matthieu F0407",
+        "titre": "Reco",
+        "texte": "Beaucoup de plaisir à écouter ces différents récits, avec une vraie grande attention portée à l’invité, je recommande vivement."
+      }
     ]
   }
 }

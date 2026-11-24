@@ -28,28 +28,38 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Discussion avec Jean-François Rauger à propos de Psychose d'Alfred Hitchcock",
+      "date": "2026-11-17",
+      "audio": "https://feeds.soundcloud.com/stream/2439817902-cinemathequefr-discussion-jfr-psychose-hitchcock.mp3",
+      "duree": 3967
+    },
+    {
       "titre": "Discussion avec Axelle Ropert à propos de La Maitresse du Lieutenant français de Karel Reisz",
-      "date": "2026-11-10"
+      "date": "2026-11-10",
+      "audio": "https://feeds.soundcloud.com/stream/2431614828-cinemathequefr-discussion-axelle-ropert-la-maitresse-du-lieutenant-francais-karel-reisz.mp3",
+      "duree": 3398
     },
     {
       "titre": "Une Page de Cinéma - Satyajit Ray, ce que j'ai toujours su, c'est dessiner",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "audio": "https://feeds.soundcloud.com/stream/2430686643-cinemathequefr-une-page-de-cinema-satyajit-ray-eva-markovits.mp3",
+      "duree": 2083
     },
     {
       "titre": "Parlons Cinéma avec... Yasmina Reza à propos de Fish Tank d'Andrea Arnold",
-      "date": "2026-10-27"
+      "date": "2026-10-27",
+      "audio": "https://feeds.soundcloud.com/stream/2418150231-cinemathequefr-parlons-cinema-avec-yasmina-reza-fish-tank-andrea-arnold.mp3",
+      "duree": 5149
     },
     {
       "titre": "Parlons Cinéma avec... Yasmina Reza à propos de Cria Cuervos de Carlos Saura",
-      "date": "2026-10-20"
-    },
-    {
-      "titre": "Parlons Cinéma avec... Yasmina Reza à propos de La Fête du feu d'Asghar Farhadi",
-      "date": "2026-10-13"
+      "date": "2026-10-20",
+      "audio": "https://feeds.soundcloud.com/stream/2414027913-cinemathequefr-parlons-cinema-avec-yasmina-reza-cria-cuervos-carlos-saura.mp3",
+      "duree": 4205
     }
   ],
-  "derniere_activite": "2026-11-10",
-  "frequence_jours": 7,
+  "derniere_activite": "2026-11-17",
+  "frequence_jours": 6,
   "avis_publics": {
     "epuise": true,
     "releve": "2026-10-26",

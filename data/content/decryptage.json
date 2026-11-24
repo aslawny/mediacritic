@@ -28,27 +28,37 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "RISC-V, la nouvelle bataille des puces",
+      "date": "2026-11-21",
+      "audio": "https://sphinx.acast.com/p/open/s/69ce32b0d2e95f51313d8b96/e/6b0073e4f240299bbf6c751a/media.mp3",
+      "duree": 959
+    },
+    {
+      "titre": "Pourquoi la Chine a 20 ans d'avance en Arctique",
+      "date": "2026-11-14",
+      "audio": "https://sphinx.acast.com/p/open/s/69ce32b0d2e95f51313d8b96/e/6af5b309b79e80c9aab7fb2c/media.mp3",
+      "duree": 674
+    },
+    {
       "titre": "Le business méconnu des sièges d'avion",
-      "date": "2026-11-07"
+      "date": "2026-11-07",
+      "audio": "https://sphinx.acast.com/p/open/s/69ce32b0d2e95f51313d8b96/e/6aee05f6cf6bf573981f2e4b/media.mp3",
+      "duree": 509
     },
     {
       "titre": "Pourquoi il n'y a que deux mines au Groenland ?",
-      "date": "2026-10-31"
+      "date": "2026-10-31",
+      "audio": "https://sphinx.acast.com/p/open/s/69ce32b0d2e95f51313d8b96/e/6ae4c7d7c73408bcfaaab83d/media.mp3",
+      "duree": 651
     },
     {
       "titre": "Les dark pools : le concurrent obscur de la bourse",
-      "date": "2026-10-24"
-    },
-    {
-      "titre": "Le matériau français très discret qui a révolutionné le running",
-      "date": "2026-10-17"
-    },
-    {
-      "titre": "L’IMAX, l’écran le plus rare (et le plus rentable) du cinéma",
-      "date": "2026-10-10"
+      "date": "2026-10-24",
+      "audio": "https://sphinx.acast.com/p/open/s/69ce32b0d2e95f51313d8b96/e/6adb8072110b099eb948cce2/media.mp3",
+      "duree": 1100
     }
   ],
-  "derniere_activite": "2026-11-07",
+  "derniere_activite": "2026-11-21",
   "frequence_jours": 7,
   "avis_publics": {
     "epuise": true,

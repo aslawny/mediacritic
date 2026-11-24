@@ -29,27 +29,37 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "#137 - Nvidia sans Jensen, l'IA sans le cloud",
+      "date": "2026-11-13",
+      "audio": "https://sphinx.acast.com/p/open/s/652c4be6bfc089001266974d/e/6af63b7b9dce432809a35ea2/media.mp3",
+      "duree": 2267
+    },
+    {
       "titre": "#136 - Cette voix n'existe pas",
-      "date": "2026-10-19"
+      "date": "2026-10-19",
+      "audio": "https://sphinx.acast.com/p/open/s/652c4be6bfc089001266974d/e/6ad636d65c03f86a466f7cc8/media.mp3",
+      "duree": 1985
     },
     {
       "titre": "#135 - Dots, l'agent permanent d'OpenAI et Jev un modèle système 1 qui ne sait pas parler !",
-      "date": "2026-09-30"
+      "date": "2026-09-30",
+      "audio": "https://sphinx.acast.com/p/open/s/652c4be6bfc089001266974d/e/6abcb5214b9baaeac0d88147/media.mp3",
+      "duree": 2473
     },
     {
       "titre": "#134 - GPT-6 Astra contre Claude Fable 5.1 : le match de la rentrée",
-      "date": "2026-09-08"
+      "date": "2026-09-08",
+      "audio": "https://sphinx.acast.com/p/open/s/652c4be6bfc089001266974d/e/6a9f44672a7730b8965b0c45/media.mp3",
+      "duree": 2284
     },
     {
       "titre": "#133 - Récap août : fuite des impôts, les IA sortent du bac à sable",
-      "date": "2026-08-26"
-    },
-    {
-      "titre": "#132 - OpenAI pirate Hugging Face, Kimi K3 défie les géants",
-      "date": "2026-07-31"
+      "date": "2026-08-26",
+      "audio": "https://sphinx.acast.com/p/open/s/652c4be6bfc089001266974d/e/6a8d3177f97516394c4a4257/media.mp3",
+      "duree": 2801
     }
   ],
-  "derniere_activite": "2026-10-19",
+  "derniere_activite": "2026-11-13",
   "frequence_jours": 13,
   "avis_publics": {
     "source": "apple",

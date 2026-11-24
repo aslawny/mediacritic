@@ -28,23 +28,33 @@
   "episodes_recents": [
     {
       "titre": "Docker, le dernier rempart avant les IA barbares",
-      "date": "2026-11-01"
+      "date": "2026-11-01",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/213a9041-09e9-46df-aa46-35ec6d38cf22.mp3?_=1793551030",
+      "duree": 3999
     },
     {
       "titre": "Kestra, le petit dernier mais pas moins le plus prometteur des orchestrateurs",
-      "date": "2024-03-27"
+      "date": "2024-03-27",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/418092a3-b817-421a-a7d3-ead95217ff2f.mp3?_=1711570087",
+      "duree": 3352
     },
     {
       "titre": "Cloud native security & Kubernetes",
-      "date": "2023-10-13"
+      "date": "2023-10-13",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/be5f8d36-2df5-493f-a7dd-831db0f014ff.mp3?_=1697215529",
+      "duree": 3653
     },
     {
       "titre": "Dagger, un moteur CI/CD programmable pour faire tourner vos pipelines dans des containers",
-      "date": "2023-07-17"
+      "date": "2023-07-17",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/0cfe081d-51a2-4b1f-ad08-8923d30a22b1.mp3?_=1689630745",
+      "duree": 1613
     },
     {
       "titre": "WebAssembly avec Philippe Charrière",
-      "date": "2023-05-29"
+      "date": "2023-05-29",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/9ea3aa93-f4aa-4142-8ee3-3b703082fde4.mp3?_=1685536701",
+      "duree": 4184
     }
   ],
   "derniere_activite": "2026-11-01",

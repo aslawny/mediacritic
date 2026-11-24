@@ -28,27 +28,37 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Fun Radio Anthology - L'intégrale du 21 novembre",
+      "date": "2026-11-23",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/d06cba0f-5912-4a69-8941-36983dcbae33.mp3?_=1795432691",
+      "duree": 9510
+    },
+    {
+      "titre": "Fun Radio Anthology - L'intégrale du 22 novembre",
+      "date": "2026-11-22",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/cd8e99f5-7eef-4a3d-942f-aafda49b4453.mp3?_=1795382589",
+      "duree": 9885
+    },
+    {
+      "titre": "Fun Radio Anthology - L'intégrale du 14 novembre",
+      "date": "2026-11-16",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/d09be4b1-591e-488f-a54a-064b511a5bed.mp3?_=1794827586",
+      "duree": 8509
+    },
+    {
+      "titre": "Fun Radio Anthology - L'intégrale du 13 novembre",
+      "date": "2026-11-16",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/7ac8b780-530c-40f6-8f68-d536ce68a7a2.mp3?_=1794826087",
+      "duree": 9627
+    },
+    {
       "titre": "Fun Radio Anthology - L'intégrale du 08 novembre",
-      "date": "2026-11-08"
-    },
-    {
-      "titre": "Fun Radio Anthology - L'intégrale du 07 novembre",
-      "date": "2026-11-07"
-    },
-    {
-      "titre": "Fun Radio Anthology - L'intégrale du 06 novembre",
-      "date": "2026-11-06"
-    },
-    {
-      "titre": "Fun Radio Anthology - L'intégrale du 31 octobre",
-      "date": "2026-10-31"
-    },
-    {
-      "titre": "Fun Radio Anthology du 30 octobre 2026",
-      "date": "2026-10-30"
+      "date": "2026-11-08",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/d0bd2ec4-8c7b-44ba-b416-960b102f792a.mp3?_=1794172687",
+      "duree": 9700
     }
   ],
-  "derniere_activite": "2026-11-08",
+  "derniere_activite": "2026-11-23",
   "frequence_jours": 1,
   "avis_publics": {
     "source": "apple",

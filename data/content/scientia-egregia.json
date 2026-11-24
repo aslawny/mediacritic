@@ -29,25 +29,107 @@
   "episodes_recents": [
     {
       "titre": "L'art d'approximer avec des séries qui ne convergent pas",
-      "date": "2025-12-26"
+      "date": "2025-12-26",
+      "video": "X3zxrouhseE"
     },
     {
       "titre": "Comment naissent les trous noirs : de l’effondrement stellaire aux singularités nues",
-      "date": "2025-08-11"
+      "date": "2025-08-11",
+      "video": "6pHVNs2wJsQ"
     },
     {
       "titre": "Des gluons à la renormalisation et au \"mass gap\" (problème de Yang-Mills 2/2)",
-      "date": "2025-07-06"
+      "date": "2025-07-06",
+      "video": "CODuPtbRTyQ"
     },
     {
       "titre": "La découverte de l'interaction nucléaire forte (problème de Yang-Mills 1/2)",
-      "date": "2025-02-23"
+      "date": "2025-02-23",
+      "video": "2AMCBcvlbKM"
     },
     {
       "titre": "Vos questions sur le Spin #3 (avec @ScienceClic et @Thomaths )",
-      "date": "2025-01-17"
+      "date": "2025-01-17",
+      "video": "5L6LAqiDU4A"
     }
   ],
   "derniere_activite": "2025-12-26",
-  "frequence_jours": 70
+  "frequence_jours": 70,
+  "videos": [
+    {
+      "titre": "L'art d'approximer avec des séries qui ne convergent pas",
+      "date": "2025-12-26",
+      "video": "X3zxrouhseE"
+    },
+    {
+      "titre": "Comment naissent les trous noirs : de l’effondrement stellaire aux singularités nues",
+      "date": "2025-08-11",
+      "video": "6pHVNs2wJsQ"
+    },
+    {
+      "titre": "Des gluons à la renormalisation et au \"mass gap\" (problème de Yang-Mills 2/2)",
+      "date": "2025-07-06",
+      "video": "CODuPtbRTyQ"
+    },
+    {
+      "titre": "La découverte de l'interaction nucléaire forte (problème de Yang-Mills 1/2)",
+      "date": "2025-02-23",
+      "video": "2AMCBcvlbKM"
+    },
+    {
+      "titre": "Vos questions sur le Spin #3 (avec @ScienceClic et @Thomaths )",
+      "date": "2025-01-17",
+      "video": "5L6LAqiDU4A"
+    },
+    {
+      "titre": "La géométrie des trous noirs",
+      "date": "2024-11-15",
+      "video": "8vtaL8XppLU"
+    },
+    {
+      "titre": "Qu'est-ce qu'un spineur ?",
+      "date": "2024-07-10",
+      "video": "pJ604HIhFOU"
+    },
+    {
+      "titre": "Petite Introduction aux Distributions Formelles",
+      "date": "2024-05-24",
+      "video": "0zRtxa0G-qo"
+    },
+    {
+      "titre": "Petite Introduction aux Séries Formelles",
+      "date": "2024-05-17",
+      "video": "te_qO0GLNac"
+    },
+    {
+      "titre": "Le théorème de Riemann-Roch (Vers La Géométrie Algébrique -- Épisode V)",
+      "date": "2024-03-02",
+      "video": "wzWJX_ZQVxM"
+    },
+    {
+      "titre": "La gravité quantique (Relativité générale et mécanique quantique incompatibles ?)",
+      "date": "2023-12-08",
+      "video": "iTKZce_fwjY"
+    },
+    {
+      "titre": "Qu'est-ce que la théorie des cordes ?",
+      "date": "2023-09-29",
+      "video": "b6NO2vCiE9c"
+    },
+    {
+      "titre": "Décomposition en facteurs premiers et ordinateur quantique (l'algorithme de Shor)",
+      "date": "2023-07-06",
+      "video": "sksAGTW3k9U"
+    },
+    {
+      "titre": "Calcul Quantique vs Calcul Classique",
+      "date": "2023-05-26",
+      "video": "X7VvnTaBEeA"
+    },
+    {
+      "titre": "Intrication et Causalité en Mécanique Quantique",
+      "date": "2023-04-23",
+      "video": "kQFNvTnKbKM"
+    }
+  ]
 }

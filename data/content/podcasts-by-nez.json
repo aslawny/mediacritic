@@ -30,27 +30,37 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Les Grands entretiens - Mathilde Bijaoui",
+      "date": "2026-11-19",
+      "audio": "https://sphinx.acast.com/p/open/s/616715442677aa001380f689/e/6afddc0fa057dc83f044d5e0/media.mp3",
+      "duree": 2696
+    },
+    {
+      "titre": "Obsessions - Théo Belmas",
+      "date": "2026-11-12",
+      "audio": "https://sphinx.acast.com/p/open/s/616715442677aa001380f689/e/6af2f1568516e9532817a3fe/media.mp3",
+      "duree": 648
+    },
+    {
       "titre": "Obsessions - Leslie Gauthier",
-      "date": "2026-10-29"
+      "date": "2026-10-29",
+      "audio": "https://sphinx.acast.com/p/open/s/616715442677aa001380f689/e/6ae1e7aa305baddee14b1396/media.mp3",
+      "duree": 802
     },
     {
       "titre": "Smell Talks - Nez : 10 ans de culture olfactive",
-      "date": "2026-09-24"
+      "date": "2026-09-24",
+      "audio": "https://sphinx.acast.com/p/open/s/616715442677aa001380f689/e/6ab2ad4468ec5641e22254bf/media.mp3",
+      "duree": 2815
     },
     {
       "titre": "Wadi Dawkah - Renaud Salmon & Jérôme Epinette",
-      "date": "2026-07-23"
-    },
-    {
-      "titre": "Les Grands entretiens - Thando Hopa & Olivier Bachelet",
-      "date": "2026-07-16"
-    },
-    {
-      "titre": "Smell Talks - L'art de la création indépendante",
-      "date": "2026-07-09"
+      "date": "2026-07-23",
+      "audio": "https://sphinx.acast.com/p/open/s/616715442677aa001380f689/e/6a60c6637d20badb28990fa6/media.mp3",
+      "duree": 2283
     }
   ],
-  "derniere_activite": "2026-10-29",
+  "derniere_activite": "2026-11-19",
   "frequence_jours": 7,
   "avis_publics": {
     "epuise": true,

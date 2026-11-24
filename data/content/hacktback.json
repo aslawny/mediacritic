@@ -29,25 +29,107 @@
   "episodes_recents": [
     {
       "titre": "HACKTHEBOX, toujours la MEILLEURE plateforme d'apprentissage ?",
-      "date": "2026-04-14"
+      "date": "2026-04-14",
+      "video": "0lgOzP5Sj5g"
     },
     {
       "titre": "Créer une PLATEFORME D'APPRENTISSAGE (avec @pentesterlab)",
-      "date": "2025-06-10"
+      "date": "2025-06-10",
+      "video": "Ac7X9g79PYA"
     },
     {
       "titre": "Comment devenir ANALYSTE SOC (avec Siopy)",
-      "date": "2025-06-03"
+      "date": "2025-06-03",
+      "video": "13ytliSC2kE"
     },
     {
       "titre": "Le 404CTF, ça continue !",
-      "date": "2025-05-23"
+      "date": "2025-05-23",
+      "video": "sHN6Q8LCaV0"
     },
     {
       "titre": "Le 404CTF se passe (presque) bien.",
-      "date": "2025-05-23"
+      "date": "2025-05-23",
+      "video": "fD7sh78tspw"
     }
   ],
   "derniere_activite": "2026-04-14",
-  "frequence_jours": 9
+  "frequence_jours": 9,
+  "videos": [
+    {
+      "titre": "HACKTHEBOX, toujours la MEILLEURE plateforme d'apprentissage ?",
+      "date": "2026-04-14",
+      "video": "0lgOzP5Sj5g"
+    },
+    {
+      "titre": "Créer une PLATEFORME D'APPRENTISSAGE (avec @pentesterlab)",
+      "date": "2025-06-10",
+      "video": "Ac7X9g79PYA"
+    },
+    {
+      "titre": "Comment devenir ANALYSTE SOC (avec Siopy)",
+      "date": "2025-06-03",
+      "video": "13ytliSC2kE"
+    },
+    {
+      "titre": "Le 404CTF, ça continue !",
+      "date": "2025-05-23",
+      "video": "sHN6Q8LCaV0"
+    },
+    {
+      "titre": "Le 404CTF se passe (presque) bien.",
+      "date": "2025-05-23",
+      "video": "fD7sh78tspw"
+    },
+    {
+      "titre": "On va bosser avec un Service très secret",
+      "date": "2025-05-12",
+      "video": "YRN0b-vmrcc"
+    },
+    {
+      "titre": "Les BASES de la BLUE TEAM et du SOC (avec Siopy)",
+      "date": "2025-05-02",
+      "video": "K0qOgN83D-8"
+    },
+    {
+      "titre": "La RED TEAM dans le CLOUD (avec Clément Cruchet)",
+      "date": "2025-03-19",
+      "video": "bQshgEweDIg"
+    },
+    {
+      "titre": "Les BASES du PENTEST CLOUD (avec Clément Cruchet)",
+      "date": "2025-03-12",
+      "video": "j3q0v9H30ko"
+    },
+    {
+      "titre": "Apprendre à CREER votre ARMURERIE de HACKER (avec @Evil-M5project)",
+      "date": "2025-03-08",
+      "video": "O-jbd07WZAM"
+    },
+    {
+      "titre": "La BOITE A OUTILS de l'apprenti HACKER (avec @Evil-M5project)",
+      "date": "2025-02-27",
+      "video": "C0LPPWdFNi8"
+    },
+    {
+      "titre": "CyberTalk Tribute - HacktBack",
+      "date": "2025-02-12",
+      "video": "uhuujWRYwoY"
+    },
+    {
+      "titre": "LEHACK 2024 : Le PLUS GROS EVENT de HACKING francais",
+      "date": "2024-07-31",
+      "video": "vhrNGm7I5Qo"
+    },
+    {
+      "titre": "Les METIERS de la CYBER (Pentester, SOC, RSSI, Manager, Réponse à Incident, Consultant)",
+      "date": "2024-07-22",
+      "video": "BhiFYuCNn1M"
+    },
+    {
+      "titre": "SURVIVRE à une ATTAQUE CYBER majeure (avec l'Aéroport de Marseille et l'Université d'Aix-Marseille)",
+      "date": "2024-07-19",
+      "video": "yElg0oCUP5E"
+    }
+  ]
 }

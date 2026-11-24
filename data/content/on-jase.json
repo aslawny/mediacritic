@@ -48,5 +48,31 @@
     }
   ],
   "derniere_activite": "2026-11-11",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mosthelpful",
+    "releve": "2026-11-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pascal Bergeron",
+        "titre": "Un vrai show d’amateurs (bon sens)",
+        "texte": "Le franglais, le son, Yannick le gestionnaire télé, etc…! On s’en branle. C’est ce qui fait que vous êtes uniques. Un chien qui jappe, un enfant qui pleure, un chauffage qui fait du bruit, le tout en ondes…. Je m’en fou, ça humanise la chose..…"
+      },
+      {
+        "note": 1,
+        "auteur": "Positron McHappy",
+        "titre": "Audio is bad quality",
+        "texte": "and less podcasts recent months, so it's def a product of Bell."
+      },
+      {
+        "note": 5,
+        "auteur": "&$#()'l",
+        "titre": "Date du jour",
+        "texte": "Martin et Yannick bonjour, Allez les boys reveillez-vous nous sommes en 2022. Depuis lundi Yannick nous souhaite la bienvenue en spécifiant la date avec l’année 2021. On veut l’oublier celle-là. Merci de faire la correction. Peter."
+      }
+    ]
+  }
 }

@@ -29,28 +29,38 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Est-ce qu’il y a de l’électricité dans le cerveau ?",
+      "date": "2026-11-18",
+      "audio": "https://track.podcastics.com/4152/440020.mp3",
+      "duree": 222
+    },
+    {
       "titre": "Est-ce que c’est vrai qu’on peut marcher en dormant ?",
-      "date": "2026-10-28"
+      "date": "2026-10-28",
+      "audio": "https://track.podcastics.com/4152/435556.mp3",
+      "duree": 226
     },
     {
       "titre": "Peut-on avoir un bleu au cerveau ?",
-      "date": "2026-09-16"
+      "date": "2026-09-16",
+      "audio": "https://track.podcastics.com/4152/432290.mp3",
+      "duree": 230
     },
     {
       "titre": "Ma maman a la sclérose en plaques, c’est quoi cette maladie ?",
-      "date": "2026-07-15"
+      "date": "2026-07-15",
+      "audio": "https://track.podcastics.com/4152/426768.mp3",
+      "duree": 256
     },
     {
       "titre": "C’est quoi une maladie génétique ?",
-      "date": "2026-06-17"
-    },
-    {
-      "titre": "Est-ce qu’on peut ne penser à rien ?",
-      "date": "2026-05-13"
+      "date": "2026-06-17",
+      "audio": "https://track.podcastics.com/4152/419160.mp3",
+      "duree": 223
     }
   ],
-  "derniere_activite": "2026-10-28",
-  "frequence_jours": 35,
+  "derniere_activite": "2026-11-18",
+  "frequence_jours": 34,
   "avis_publics": {
     "epuise": true,
     "releve": "2026-11-23",

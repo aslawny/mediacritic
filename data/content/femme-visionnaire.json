@@ -60,25 +60,29 @@
   "derniere_activite": "2026-02-05",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-25",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Marie-Léonie",
+        "titre": "Un bonheur dans mon changement de philosophie de vie",
+        "texte": "Ton podcast est extraordinaire. Depuis quelques mois je suis en pleine quête spirituelle. Je crois que j’ai toujours cru que les choses n’étaient pas dues au hasard qu’il y avait une force qui agissait et qui faisaient que tel évènement nous arrivait.…"
+      },
+      {
+        "note": 5,
+        "auteur": "CristelGarcia",
+        "titre": "Une révélation",
+        "texte": "Je suis tombée par hasard sur ce podcast en faisant des recherches sur les énergies, l’astrologie qui est un sujet qui me passionne depuis peu. Depuis, je ne peux plus m’en passer et ils m’accompagnent chaque matin et soir lors de mon trajet au travail.…"
+      },
+      {
+        "note": 5,
+        "auteur": "CharliieKB",
+        "titre": "Et la magie fut ...",
+        "texte": "Hello Valerie, C’est la toute première fois que j’ose laissé un avis sur un podcast alors que Siri sait que j’en écoute et qu’il y en a pleins que j’aime.…"
+      }
     ]
   }
 }

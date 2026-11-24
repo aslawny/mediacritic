@@ -27,28 +27,38 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Face à Bock-Côté (Émission du 21/11/2026)",
+      "date": "2026-11-21",
+      "audio": "https://sphinx.acast.com/p/open/s/624d6de2ebccf20012f3a3b0/e/6b01e8b4a94212ad7cbdf9d8/media.mp3",
+      "duree": 2492
+    },
+    {
+      "titre": "Face à Bock-Côté (Émission du 14/11/2026)",
+      "date": "2026-11-14",
+      "audio": "https://sphinx.acast.com/p/open/s/624d6de2ebccf20012f3a3b0/e/6af8b0c728531eda455461a3/media.mp3",
+      "duree": 3550
+    },
+    {
       "titre": "Face à Bock-Côté (Émission du 07/11/2026)",
-      "date": "2026-11-07"
+      "date": "2026-11-07",
+      "audio": "https://sphinx.acast.com/p/open/s/624d6de2ebccf20012f3a3b0/e/6aef76f736841fe014a88409/media.mp3",
+      "duree": 3669
     },
     {
       "titre": "Face à Bock-Côté (Émission du 31/10/2026)",
-      "date": "2026-10-31"
+      "date": "2026-10-31",
+      "audio": "https://sphinx.acast.com/p/open/s/624d6de2ebccf20012f3a3b0/e/6ae63c3cc89efe5866709c78/media.mp3",
+      "duree": 3599
     },
     {
       "titre": "Face à Bock-Côté (Émission du 24/10/2026)",
-      "date": "2026-10-24"
-    },
-    {
-      "titre": "Face à Bock-Côté (Émission du 17/10/2026)",
-      "date": "2026-10-17"
-    },
-    {
-      "titre": "Face à Bock-Côté (Émission du 10/10/2026)",
-      "date": "2026-10-10"
+      "date": "2026-10-24",
+      "audio": "https://sphinx.acast.com/p/open/s/624d6de2ebccf20012f3a3b0/e/6adcf37afe64430a93701688/media.mp3",
+      "duree": 3592
     }
   ],
-  "derniere_activite": "2026-11-07",
-  "frequence_jours": 7,
+  "derniere_activite": "2026-11-21",
+  "frequence_jours": 6,
   "avis_publics": {
     "epuise": true,
     "releve": "2026-10-27",

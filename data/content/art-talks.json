@@ -63,25 +63,29 @@
   "derniere_activite": "2023-01-01",
   "frequence_jours": 8,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-25",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Giupopo",
+        "titre": "Super découverte !",
+        "texte": "Un podcast vraiment très intéressant ! Les sujets et la façon de les traiter est franchement cool, tout autant que la voix reposante qui nous fait découvrir l’histoire de l’art par petites touches. Les petits interludes musicaux sont aussi très sympa ... bravo …"
+      },
+      {
+        "note": 5,
+        "auteur": "Amantine Dupin",
+        "titre": "Rafraîchissant, on en redemande !",
+        "texte": "Beaucoup de plaisir en découvrant Art Talks ! Cette nouvelle série de podcasts apporte un vent de fraîcheur sur l’apprentissage de l’histoire de l’art.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Soriana13",
+        "titre": "Bulles de magie",
+        "texte": "Un podcast génial ! J’apprécie vraiment ces moments d’écoute La structure, la manière d’aborder les œuvres , l’art de mixer et de condenser toutes ces histoires sur fond de références qui parlent à tous le monde Je recommande a tous le monde ! Soriana"
+      }
     ]
   }
 }

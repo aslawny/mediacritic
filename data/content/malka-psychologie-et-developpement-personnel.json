@@ -29,27 +29,37 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Le lien traumatique",
+      "date": "2026-11-19",
+      "audio": "https://malka.fr/podcast/lien.mp3",
+      "duree": 1079
+    },
+    {
+      "titre": "L’enfant doré du narcissique",
+      "date": "2026-11-19",
+      "audio": "https://malka.fr/podcast/or.mp3",
+      "duree": 1789
+    },
+    {
       "titre": "La Belle-Mère Narcissique",
-      "date": "2026-10-29"
+      "date": "2026-10-29",
+      "audio": "https://malka.fr/podcast/belledoche.mp3",
+      "duree": 1491
     },
     {
       "titre": "La Tyrannie du Il Faut",
-      "date": "2026-10-22"
+      "date": "2026-10-22",
+      "audio": "https://malka.fr/podcast/gammel.mp3",
+      "duree": 1627
     },
     {
       "titre": "Coincé entre deux narcissiques",
-      "date": "2026-10-15"
-    },
-    {
-      "titre": "Quand le parent narcissique meurt",
-      "date": "2026-10-08"
-    },
-    {
-      "titre": "Quand partir n'est pas une option - neutraliser la manipulation au quotidien",
-      "date": "2026-09-24"
+      "date": "2026-10-15",
+      "audio": "https://malka.fr/podcast/entre2.mp3",
+      "duree": 1435
     }
   ],
-  "derniere_activite": "2026-10-29",
+  "derniere_activite": "2026-11-19",
   "frequence_jours": 7,
   "avis_publics": {
     "epuise": true,

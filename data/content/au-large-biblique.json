@@ -28,28 +28,38 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "#446 Les fêtes juives (6) Chavouot - Pentecôte",
+      "date": "2026-11-19",
+      "audio": "https://api.spreaker.com/download/episode/76455437/446_fetesjuives_chavouot.mp3",
+      "duree": 1212
+    },
+    {
+      "titre": "#445 Les fêtes juives (5) Pâque et les azymes",
+      "date": "2026-11-13",
+      "audio": "https://api.spreaker.com/download/episode/76324996/445_fetesjuives_pessah.mp3",
+      "duree": 1612
+    },
+    {
       "titre": "#444 Les fêtes juives (4) Les différents sacrifices",
-      "date": "2026-11-05"
+      "date": "2026-11-05",
+      "audio": "https://api.spreaker.com/download/episode/76181481/444_fetesjuives_sacrifices.mp3",
+      "duree": 1566
     },
     {
       "titre": "#443 Les fêtes juives (3) La place du sacerdoce",
-      "date": "2026-10-28"
+      "date": "2026-10-28",
+      "audio": "https://api.spreaker.com/download/episode/75969534/443_fetesjuives_sacerdoce.mp3",
+      "duree": 1438
     },
     {
       "titre": "#442 Les fêtes juives (2) Histoire des temples",
-      "date": "2026-10-21"
-    },
-    {
-      "titre": "#441 Les fêtes juives (1) Le temps et les fêtes",
-      "date": "2026-10-14"
-    },
-    {
-      "titre": "#440 Anonymes bibliques (10) Divin anonyme",
-      "date": "2026-08-26"
+      "date": "2026-10-21",
+      "audio": "https://api.spreaker.com/download/episode/75887970/442_fetesjuives_temple.mp3",
+      "duree": 1469
     }
   ],
-  "derniere_activite": "2026-11-05",
-  "frequence_jours": 4,
+  "derniere_activite": "2026-11-19",
+  "frequence_jours": 6,
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",

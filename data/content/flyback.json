@@ -27,27 +27,37 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
-      "titre": "Entretien avec Auriva",
-      "date": "2026-11-01"
+      "titre": "#104 Entretien avec Aquilon and co",
+      "date": "2026-11-15",
+      "audio": "https://sphinx.acast.com/p/open/s/6674b434c23b2c00128b1384/e/6af996be08be5707d1964a23/media.mp3",
+      "duree": 6601
+    },
+    {
+      "titre": "#103 Entretien avec Auriva",
+      "date": "2026-11-01",
+      "audio": "https://sphinx.acast.com/p/open/s/6674b434c23b2c00128b1384/e/6ae70a40339f23a7262f6461/media.mp3",
+      "duree": 5330
     },
     {
       "titre": "#102 Entretien avec Bohen",
-      "date": "2026-10-25"
+      "date": "2026-10-25",
+      "audio": "https://sphinx.acast.com/p/open/s/6674b434c23b2c00128b1384/e/6adc964402b9e3b25951ac0f/media.mp3",
+      "duree": 6288
     },
     {
       "titre": "#101 Entretien avec Capta",
-      "date": "2026-10-11"
+      "date": "2026-10-11",
+      "audio": "https://sphinx.acast.com/p/open/s/6674b434c23b2c00128b1384/e/6aca12aa29b9fbfbe2f92bc1/media.mp3",
+      "duree": 8929
     },
     {
       "titre": "#100 Entretien avec Voxel",
-      "date": "2026-10-04"
-    },
-    {
-      "titre": "#99 Entretien avec Serica",
-      "date": "2026-09-27"
+      "date": "2026-10-04",
+      "audio": "https://sphinx.acast.com/p/open/s/6674b434c23b2c00128b1384/e/6ac1020dab90e256c398546e/media.mp3",
+      "duree": 7875
     }
   ],
-  "derniere_activite": "2026-11-01",
+  "derniere_activite": "2026-11-15",
   "frequence_jours": 7,
   "avis_publics": {
     "source": "apple",

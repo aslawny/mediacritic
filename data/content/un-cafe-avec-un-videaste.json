@@ -29,47 +29,61 @@
   "episodes_recents": [
     {
       "titre": "Épisode final : Les mémoires d'un vidéaste avec Dorian Matsima",
-      "date": "2024-04-11"
+      "date": "2024-04-11",
+      "audio": "https://anchor.fm/s/20bb8e04/podcast/play/85247600/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-10%2F5b048548-d318-dd62-a17e-e1696ea96faf.mp3",
+      "duree": 763
     },
     {
       "titre": "Les dessous d'un business à 50 000€ : les finances du vidéaste avec Loïc Passicos",
-      "date": "2024-04-04"
+      "date": "2024-04-04",
+      "audio": "https://anchor.fm/s/20bb8e04/podcast/play/84923058/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-3%2Ff9def20e-fbce-16d7-b3e6-003b65722e08.mp3",
+      "duree": 3818
     },
     {
       "titre": "Attirer des clients sur Instagram sans prospecter .46",
-      "date": "2024-03-28"
+      "date": "2024-03-28",
+      "audio": "https://anchor.fm/s/20bb8e04/podcast/play/84637389/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-27%2F08d42a00-53af-934e-7dff-53aecab3632f.mp3",
+      "duree": 1775
     },
     {
       "titre": "5000€ de C.A : L'avatar du vidéaste parfait .45",
-      "date": "2024-03-21"
+      "date": "2024-03-21",
+      "audio": "https://anchor.fm/s/20bb8e04/podcast/play/84320947/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-20%2Fb648a663-a88b-2c25-22be-4923e6fee2eb.mp3",
+      "duree": 2671
     },
     {
       "titre": "Vidéaste vs influenceurs, gestion financière, signer des clients en abonnement avec PIERRE FROGER",
-      "date": "2024-03-14"
+      "date": "2024-03-14",
+      "audio": "https://anchor.fm/s/20bb8e04/podcast/play/84010592/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-14%2Fe41df772-4fb1-f48a-db69-ac730da1c263.mp3",
+      "duree": 6218
     }
   ],
   "derniere_activite": "2024-04-11",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-24",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Misnderstood",
+        "titre": "Super mais …",
+        "texte": "Vraiment intéressant, on assiste à une discussion à chaque fois plus intéressante et pour ça merci Dorian. L’initiative de faire ce genre de podcast c’est trop bien. Et on peut ressentir ton humilité c’est super.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Matéo Mizio",
+        "titre": "Un avant/après !",
+        "texte": "De bons conseils qui nous évitent de faire les mêmes erreurs que l’animateur a fait par le passé. 📝 Ça nous permet de tendre plus rapidement vers la professionnalisation de notre activité …"
+      },
+      {
+        "note": 5,
+        "auteur": "W.e.l.c.k",
+        "titre": "L’éclaireur",
+        "texte": "Dorian, ton podcast et son contenu est une vraie valeur ajoutée pour moi, avec beaucoup de bienveillance et de bons conseils. Je te dis un grand « MERCI », je suis enfin à jour du podcast et surtout, décider à être dans l’action et grandir en tant qu’entrepreneur.…"
+      }
     ]
   }
 }

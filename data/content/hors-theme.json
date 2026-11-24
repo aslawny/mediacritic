@@ -28,15 +28,25 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Nos soeurs : meilleures amies ou pires ennemies",
+      "date": "2026-11-17",
+      "audio": "https://sphinx.acast.com/p/open/s/6ad641179ce7346f1f87199d/e/6adb844802b9e3b259e6f2f1/media.mp3",
+      "duree": 5300
+    },
+    {
       "titre": "Être amie avec une influenceuse",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "audio": "https://sphinx.acast.com/p/open/s/6ad641179ce7346f1f87199d/e/6ad87d79a25058b22a3e9b91/media.mp3",
+      "duree": 3542
     },
     {
       "titre": "Bienvenue sur Hors Thème",
-      "date": "2026-10-23"
+      "date": "2026-10-23",
+      "audio": "https://sphinx.acast.com/p/open/s/6ad641179ce7346f1f87199d/e/6adb780d8b1eeffaa26bfdc6/media.mp3",
+      "duree": 49
     }
   ],
-  "derniere_activite": "2026-11-03",
+  "derniere_activite": "2026-11-17",
   "avis_publics": {
     "epuise": true,
     "releve": "2026-11-10",
@@ -58,5 +68,6 @@
       "apple:mc/mosthelpful",
       "apple:mc/mostrecent"
     ]
-  }
+  },
+  "frequence_jours": 14
 }

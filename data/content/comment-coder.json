@@ -28,26 +28,108 @@
   "updatedAt": "2026-09-03",
   "episodes_recents": [
     {
+      "titre": "Coder la pluie de Matrix en moins de 30 lignes de Python",
+      "date": "2026-11-23",
+      "video": "KxaubiraPYA"
+    },
+    {
+      "titre": "Comment coder le jeu du pierre feuille ciseaux en python ? #shifumi",
+      "date": "2026-11-18",
+      "video": "NhgGpAjhPgs"
+    },
+    {
+      "titre": "Le jeu 2048 en Python",
+      "date": "2026-10-26",
+      "video": "1iCuODsT-44"
+    },
+    {
       "titre": "APPRENDRE PYTHON EN 1 HEURE : cours complet pour débutants",
-      "date": "2026-09-01"
+      "date": "2026-09-01",
+      "video": "AcgphL-pVtY"
     },
     {
       "titre": "Comment installer MySQL sur Windows ? Serveur, Workbench & Shell",
-      "date": "2026-07-20"
+      "date": "2026-07-20",
+      "video": "q7djvtfQRyw"
+    }
+  ],
+  "derniere_activite": "2026-11-23",
+  "frequence_jours": 8,
+  "videos": [
+    {
+      "titre": "Coder la pluie de Matrix en moins de 30 lignes de Python",
+      "date": "2026-11-23",
+      "video": "KxaubiraPYA"
+    },
+    {
+      "titre": "Comment coder le jeu du pierre feuille ciseaux en python ? #shifumi",
+      "date": "2026-11-18",
+      "video": "NhgGpAjhPgs"
+    },
+    {
+      "titre": "Le jeu 2048 en Python",
+      "date": "2026-10-26",
+      "video": "1iCuODsT-44"
+    },
+    {
+      "titre": "APPRENDRE PYTHON EN 1 HEURE : cours complet pour débutants",
+      "date": "2026-09-01",
+      "video": "AcgphL-pVtY"
+    },
+    {
+      "titre": "Comment installer MySQL sur Windows ? Serveur, Workbench & Shell",
+      "date": "2026-07-20",
+      "video": "q7djvtfQRyw"
     },
     {
       "titre": "Apprendre Git & GitHub en 13 minutes - Tutoriel débutant 2026",
-      "date": "2026-07-12"
+      "date": "2026-07-12",
+      "video": "m3QeXlytsjw"
     },
     {
       "titre": "Vos premiers pas sur GitHub (Tutoriel 2026)",
-      "date": "2026-06-30"
+      "date": "2026-06-30",
+      "video": "EMA8wFeQa30"
     },
     {
       "titre": "Les bases de Git : git init, add, commit et log (Tutoriel 2026)",
-      "date": "2026-06-29"
+      "date": "2026-06-29",
+      "video": "w04S2C-c7Jc"
+    },
+    {
+      "titre": "Comment installer git ?",
+      "date": "2026-06-28",
+      "video": "TfVf1QWLFfM"
+    },
+    {
+      "titre": "Comment configurer C/C++ pour VSCode 2026",
+      "date": "2026-05-29",
+      "video": "O3tw3CaAJG0"
+    },
+    {
+      "titre": "Installer Python 3.14.5 sur Windows 11 (avec winget)",
+      "date": "2026-05-27",
+      "video": "oh0zgrHp0U0"
+    },
+    {
+      "titre": "React useContext expliqué : Éviter le prop drilling",
+      "date": "2026-05-26",
+      "video": "MLVbt1zfidk"
+    },
+    {
+      "titre": "React Formulaires : Inputs contrôlés expliqués + useRef",
+      "date": "2026-05-25",
+      "video": "zD2zbP04ugA"
+    },
+    {
+      "titre": "React Fetch API : Récupérer des données (Tutoriel Débutant)",
+      "date": "2026-05-24",
+      "video": "FhOWXYHJovw"
+    },
+    {
+      "titre": "React useEffect expliqué : Comprendre les effets simplement",
+      "date": "2026-05-23",
+      "video": "wj5yvlSc5IE"
     }
-  ],
-  "derniere_activite": "2026-09-01",
-  "frequence_jours": 1
+  ]
 }

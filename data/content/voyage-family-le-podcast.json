@@ -31,47 +31,61 @@
   "episodes_recents": [
     {
       "titre": "Presqu'île de Guérande : dans les pas d'un paludier",
-      "date": "2023-10-11"
+      "date": "2023-10-11",
+      "audio": "https://audio.ausha.co/nrLQkIE1EOQG.mp3?t=1695308789",
+      "duree": 753
     },
     {
       "titre": "Huttopia Forêt des Vosges : vivre comme des robins des bois",
-      "date": "2023-10-04"
+      "date": "2023-10-04",
+      "audio": "https://audio.ausha.co/nrLQkIrAOrkQ.mp3?t=1696329926",
+      "duree": 703
     },
     {
       "titre": "Blegny-mine : avec un mineur, au centre de la terre (Wallonie)",
-      "date": "2023-09-27"
+      "date": "2023-09-27",
+      "audio": "https://audio.ausha.co/drxAEIaM9Y4E.mp3?t=1695308229",
+      "duree": 608
     },
     {
       "titre": "Villars-les-Dombes : Devenir soigneur animalier au Parc des Oiseaux",
-      "date": "2023-07-05"
+      "date": "2023-07-05",
+      "audio": "https://audio.ausha.co/NjO65Tn21r0d.mp3?t=1688390349",
+      "duree": 669
     },
     {
       "titre": "Montlouis-Vouvray : Navigation secrète sur le Cher en barque traditionnelle",
-      "date": "2023-06-21"
+      "date": "2023-06-21",
+      "audio": "https://audio.ausha.co/rwlE1FKnXvkx.mp3?t=1686650040",
+      "duree": 600
     }
   ],
   "derniere_activite": "2023-10-11",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-24",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "krauzinette",
+        "titre": "Excellent !",
+        "texte": "J’ai adoré le 1er épisode. Je suis une grande fan du site voyagefamily.com que je lis depuis longtemps et je ne suis pas déçue par ce podcast. Bravo et vivement les prochains épisodes !"
+      },
+      {
+        "note": 5,
+        "auteur": "Stéphanie - Famille & Voyages",
+        "titre": "Re découvrir la France en famille",
+        "texte": "Une bielle jolie balade à Douarnenez à faire avec les enfants ! Un format court très agréable à écouter et qui donne des idées pour les prochaines escapades. Merci Caroline 👍🏻"
+      },
+      {
+        "note": 5,
+        "auteur": "rjbfgkn",
+        "titre": "Une chouette expérience auditive !",
+        "texte": "On se plonge dans l’activité, on a vraiment l’impression d’y participer ! C’est une belle façon de parler des trésors de la France ! Je note les idées pour un futur séjour 😊"
+      }
     ]
   }
 }

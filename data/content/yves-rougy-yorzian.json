@@ -28,26 +28,108 @@
   "updatedAt": "2026-07-22",
   "episodes_recents": [
     {
-      "titre": "Découvertes Docker",
-      "date": "2026-09-20"
+      "titre": "Papotage cyber: encore une semaine de fou",
+      "date": "2026-11-22",
+      "video": "QqOOVtk1k2A"
     },
     {
-      "titre": "Découvertes Docker",
-      "date": "2026-09-20"
+      "titre": "Actus tech: Kernel Linux, BSD, RHEL, Asahi, Bitwarden, Synaptics et RHEL",
+      "date": "2026-11-15",
+      "video": "QOsxsG4RlHM"
     },
     {
-      "titre": "Revue de presse Diamond Septembre 2026",
-      "date": "2026-09-14"
+      "titre": "Papotage tech: Microsoft, NVidia, IA",
+      "date": "2026-11-13",
+      "video": "rB7DzAi-OfM"
     },
     {
-      "titre": "Exploration d'IA auto-hébergés, de 6 à 24 GB de VRAM",
-      "date": "2026-09-11"
+      "titre": "Revue de presse Diamond: GLMF, MISC, Hackable, Sysops Pratique",
+      "date": "2026-11-08",
+      "video": "qFZYIz80G4k"
     },
     {
-      "titre": "On termine le redémarrage de l'antique SparcStation 20 sous Solaris (mini-live)",
-      "date": "2026-09-07"
+      "titre": "*SSHole: analyse de la faille",
+      "date": "2026-11-06",
+      "video": "iFvk69fW7go"
     }
   ],
-  "derniere_activite": "2026-09-20",
-  "frequence_jours": 4
+  "derniere_activite": "2026-11-22",
+  "frequence_jours": 5,
+  "videos": [
+    {
+      "titre": "Papotage cyber: encore une semaine de fou",
+      "date": "2026-11-22",
+      "video": "QqOOVtk1k2A"
+    },
+    {
+      "titre": "Actus tech: Kernel Linux, BSD, RHEL, Asahi, Bitwarden, Synaptics et RHEL",
+      "date": "2026-11-15",
+      "video": "QOsxsG4RlHM"
+    },
+    {
+      "titre": "Papotage tech: Microsoft, NVidia, IA",
+      "date": "2026-11-13",
+      "video": "rB7DzAi-OfM"
+    },
+    {
+      "titre": "Revue de presse Diamond: GLMF, MISC, Hackable, Sysops Pratique",
+      "date": "2026-11-08",
+      "video": "qFZYIz80G4k"
+    },
+    {
+      "titre": "*SSHole: analyse de la faille",
+      "date": "2026-11-06",
+      "video": "iFvk69fW7go"
+    },
+    {
+      "titre": "Docker: on parle de docker compose, avec build dockerfile et réseau",
+      "date": "2026-11-01",
+      "video": "Le2tsczO4jk"
+    },
+    {
+      "titre": "Soirée papotage: IA, Cybersécurité, sysadmin,...",
+      "date": "2026-10-30",
+      "video": "k7r92Ka-5uA"
+    },
+    {
+      "titre": "Cybersécurité: la semaine de l'enfer: retour sur les événements",
+      "date": "2026-10-23",
+      "video": "tZpEhAyxcfw"
+    },
+    {
+      "titre": "Le point sur la cyber-attaque des frigos de supermarchés",
+      "date": "2026-10-18",
+      "video": "DIW9TQWwkgQ"
+    },
+    {
+      "titre": "Analyse de l'attaque Supply-Chain Ledger",
+      "date": "2026-10-12",
+      "video": "NyQaqUoNjBo"
+    },
+    {
+      "titre": "Soirée papotage",
+      "date": "2026-10-10",
+      "video": "RwxYdN-4op0"
+    },
+    {
+      "titre": "Docker: Les images et les Dockerfiles",
+      "date": "2026-10-04",
+      "video": "E6oxn-kLlVY"
+    },
+    {
+      "titre": "IA: Qwen 3.8 Flash Next à la maison !",
+      "date": "2026-10-03",
+      "video": "jFS3aTpnVjU"
+    },
+    {
+      "titre": "IA: Qwen 3.8 Flash Next à la maison !",
+      "date": "2026-10-03",
+      "video": "ZG5cRa8QBKs"
+    },
+    {
+      "titre": "Actus tech/Opensource au 27 Septembre 2026",
+      "date": "2026-09-27",
+      "video": "khZ7wJ2_HtA"
+    }
+  ]
 }

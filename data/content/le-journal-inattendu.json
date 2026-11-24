@@ -28,27 +28,37 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Le journal inattendu du 21 novembre 2026",
+      "date": "2026-11-21",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/f83390de-2925-46bb-9f0e-e342d48f7c1c.mp3?_=1795429382",
+      "duree": 2665
+    },
+    {
+      "titre": "Le journal inattendu de Marc Lévy",
+      "date": "2026-11-14",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/919fd2b5-b1af-478a-9a8b-f8063cfc91f4.mp3?_=1794659283",
+      "duree": 2888
+    },
+    {
+      "titre": "Mobilisation du 14 novembre : à Toulouse, les manifestants marchent aussi pour le climat ce samedi",
+      "date": "2026-11-14",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/29467a90-d637-4607-99bd-ef56d3ad2028.mp3?_=1794655680",
+      "duree": 91
+    },
+    {
       "titre": "François Hollande : \"Emmanuel Macron devrait se tenir à l'écart de l'élection présidentielle\"",
-      "date": "2026-11-07"
+      "date": "2026-11-07",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/db82dfca-a9b1-4b6f-9eb5-3128128c3ec7.mp3?_=1794063481",
+      "duree": 44
     },
     {
       "titre": "Le Journal Inattendu en direct de la Foire du livre de Brive avec François Hollande",
-      "date": "2026-11-07"
-    },
-    {
-      "titre": "Qui sont les victimes de l'accident dans l'Ain ?",
-      "date": "2026-11-07"
-    },
-    {
-      "titre": "Le Journal Inattendu de Zazie",
-      "date": "2026-10-31"
-    },
-    {
-      "titre": "Le journal inattendu du 24 octobre 2026",
-      "date": "2026-10-24"
+      "date": "2026-11-07",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/26bb4810-f512-4234-90f1-bf4cbc99da6a.mp3?_=1794054482",
+      "duree": 2735
     }
   ],
-  "derniere_activite": "2026-11-07",
+  "derniere_activite": "2026-11-21",
   "frequence_jours": 6,
   "avis_publics": {
     "epuise": true,

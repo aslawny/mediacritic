@@ -49,5 +49,31 @@
     }
   ],
   "derniere_activite": "2026-05-07",
-  "frequence_jours": 21
+  "frequence_jours": 21,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mad Bertrand",
+        "titre": "A écouter et réécouter",
+        "texte": "Chacune des femmes interviewées, en fonction de son parcours, de son histoire, s’est forgée une personnalité bien affirmée. Le questions posées par la journaliste les amènent à expliquer leurs choix, à dévoiler leurs projets, à exprimer leurs doutes."
+      },
+      {
+        "note": 5,
+        "auteur": "Helodeb89",
+        "titre": "Inspirant",
+        "texte": "Absolument fan de ce rendez-vous régulier ! Les différents parcours de toutes ces femmes sont fascinants et inspirants ! Avec des personnalités pareilles, on ne peut que se challenger soi-même et se dépasser au quotidien."
+      },
+      {
+        "note": 5,
+        "auteur": "Mgsi85",
+        "titre": "Super podcast",
+        "texte": "J’ai découvert des personnes et des métiers que je connaissais pas ou mal ! Super intéressant d’aller au fond des choses comme ça. Hâte d’écouter les prochaines femmes invitées 🤩🤩"
+      }
+    ]
+  }
 }

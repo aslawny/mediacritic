@@ -29,30 +29,40 @@
   "episodes_recents": [
     {
       "titre": "Par iStrada #11 - Razzismi fori",
-      "date": "2021-07-18"
+      "date": "2021-07-18",
+      "audio": "https://sphinx.acast.com/par-istrada/paristrada-11-razzismifori/media.mp3",
+      "duree": 1110
     },
     {
       "titre": "Par iStrada #10 - La conquête du 747",
-      "date": "2021-07-11"
+      "date": "2021-07-11",
+      "audio": "https://sphinx.acast.com/par-istrada/paristrada-10-laconquetedu747/media.mp3",
+      "duree": 1232
     },
     {
       "titre": "Par iStrada #9 - Les OVNI",
-      "date": "2021-07-04"
+      "date": "2021-07-04",
+      "audio": "https://sphinx.acast.com/par-istrada/paristrada-9-lesovni/media.mp3",
+      "duree": 1298
     },
     {
       "titre": "Par iStrada #8 - L’omu sinnatu",
-      "date": "2021-06-27"
+      "date": "2021-06-27",
+      "audio": "https://sphinx.acast.com/par-istrada/paristrada-8-l-omusinnatu/media.mp3",
+      "duree": 1584
     },
     {
       "titre": "Par iStrada #7 - L'infirmière",
-      "date": "2021-06-20"
+      "date": "2021-06-20",
+      "audio": "https://sphinx.acast.com/par-istrada/paristrada-7-linfirmiere/media.mp3",
+      "duree": 1434
     }
   ],
   "derniere_activite": "2021-07-18",
   "frequence_jours": 7,
   "avis_publics": {
     "epuise": true,
-    "releve": "2026-10-24",
+    "releve": "2026-11-24",
     "sources_tentees": [
       "apple:fr/mosthelpful",
       "apple:fr/mostrecent",

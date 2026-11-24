@@ -29,25 +29,107 @@
   "episodes_recents": [
     {
       "titre": "AI Act : ce que l’Europe change pour l’Intelligence Artificielle",
-      "date": "2026-08-01"
+      "date": "2026-08-01",
+      "video": "cvRTlBamnro"
     },
     {
       "titre": "Et si une seule méthode JavaScript permettait d’animer les changements d’état de votre interface ?",
-      "date": "2026-07-25"
+      "date": "2026-07-25",
+      "video": "3moE3r04x1E"
     },
     {
       "titre": "SEO, AEO, GEO : faut-il désormais développer pour les moteurs de recherche ou pour les IA ?",
-      "date": "2026-07-18"
+      "date": "2026-07-18",
+      "video": "m8zdro3fhZQ"
     },
     {
       "titre": "Développeur web en 2026 : la fin de l’eldorado ou le début d’un métier plus mature ?",
-      "date": "2026-07-11"
+      "date": "2026-07-11",
+      "video": "BHnqlYq_L3A"
     },
     {
       "titre": "Le client HTTP de PhpStorm : tester une API sans quitter l’IDE",
-      "date": "2026-04-04"
+      "date": "2026-04-04",
+      "video": "pa5DhY96ELA"
     }
   ],
   "derniere_activite": "2026-08-01",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "videos": [
+    {
+      "titre": "AI Act : ce que l’Europe change pour l’Intelligence Artificielle",
+      "date": "2026-08-01",
+      "video": "cvRTlBamnro"
+    },
+    {
+      "titre": "Et si une seule méthode JavaScript permettait d’animer les changements d’état de votre interface ?",
+      "date": "2026-07-25",
+      "video": "3moE3r04x1E"
+    },
+    {
+      "titre": "SEO, AEO, GEO : faut-il désormais développer pour les moteurs de recherche ou pour les IA ?",
+      "date": "2026-07-18",
+      "video": "m8zdro3fhZQ"
+    },
+    {
+      "titre": "Développeur web en 2026 : la fin de l’eldorado ou le début d’un métier plus mature ?",
+      "date": "2026-07-11",
+      "video": "BHnqlYq_L3A"
+    },
+    {
+      "titre": "Le client HTTP de PhpStorm : tester une API sans quitter l’IDE",
+      "date": "2026-04-04",
+      "video": "pa5DhY96ELA"
+    },
+    {
+      "titre": "STOP aux tableaux illisibles sur mobile 😱 Transforme ton HTML en “cartes” avec ::before",
+      "date": "2026-02-14",
+      "video": "H-ONjeR_n8w"
+    },
+    {
+      "titre": "Symfony + Docker sur Windows : boostez vos performances avec WSL (BEAUCOUP plus fluide !)",
+      "date": "2026-01-03",
+      "video": "kGhyS-5hF8E"
+    },
+    {
+      "titre": "L'effet 'Pâte à Modeler' qui rend vos designs ADDICTIFS ☁️",
+      "date": "2025-12-27",
+      "video": "e2u0t2RrCek"
+    },
+    {
+      "titre": "Tu ne connais pas backdrop-filter ? Regarde ça ! (Glassmorphism) 👇",
+      "date": "2025-12-20",
+      "video": "TRHsgLZf6tU"
+    },
+    {
+      "titre": "🧲 CSS peut enfin positionner un élément par rapport à un autre (expérimental) !",
+      "date": "2025-11-15",
+      "video": "n5iL-dKLrUc"
+    },
+    {
+      "titre": "Ton bot Discord en ligne 24/7… avec une simple Freebox ! (Debian 12 + discord.js)",
+      "date": "2025-11-08",
+      "video": "lMAfvUMZMK0"
+    },
+    {
+      "titre": "Cette ligne CSS remplace ton JS 😱 — if()",
+      "date": "2025-11-01",
+      "video": "4_yeIi79b-4"
+    },
+    {
+      "titre": "toSorted(), toReversed(), toSpliced()… enfin des méthodes sûres en JS ! 🤯 #webdev #javascript #code",
+      "date": "2025-10-25",
+      "video": "tiv8fihwdxI"
+    },
+    {
+      "titre": "JavaScript ajoute (enfin) les vraies méthodes de Set 😍",
+      "date": "2025-10-18",
+      "video": "N4BOmZggzTM"
+    },
+    {
+      "titre": "Importer un JSON sans fetch ? JavaScript sait enfin le faire",
+      "date": "2025-10-11",
+      "video": "e-aHbntV_Ps"
+    }
+  ]
 }

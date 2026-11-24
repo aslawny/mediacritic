@@ -62,25 +62,29 @@
   "derniere_activite": "2026-11-15",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-25",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Thequeen134",
+        "titre": "Détecter depuit mes 6ans tdah",
+        "texte": "Ton podcast ma tellement permise d’analyse et comprend les émotion que chaque émotion n’est pas la pas « hasard » tout a un sens part la grâce Allah subnallah , tu explique super bien ta voix et prenante continue comme sa qu’Allah te récompense grandement et t’accorde la barak da…"
+      },
+      {
+        "note": 5,
+        "auteur": "Mariame01",
+        "titre": "J’aime beaucoup trop",
+        "texte": "Merci pour tout ces précieux conseils ! Petit conseil est ce qu’il est possible de parler plus fort j’ai l’impression que le son est très bas ! Sinon ce qui est dit est incroyablement éducatif 🫶🏽"
+      },
+      {
+        "note": 5,
+        "auteur": "Coco 🫰🏼",
+        "titre": "1000/10 🫶🏼",
+        "texte": "Salam aleykoum ma sœur ton podcast est tellement agréable à écouter ! Il est inspirant et motivant alors merci pour ce que tu fais 🌸✨"
+      }
     ]
   }
 }

@@ -29,23 +29,33 @@
   "episodes_recents": [
     {
       "titre": "08 - L'apprentissage profond",
-      "date": "2016-04-15"
+      "date": "2016-04-15",
+      "audio": "https://podcastfichiers.college-de-france.fr/lecun-20160415.m4a",
+      "duree": 5352
     },
     {
       "titre": "07 - L'apprentissage profond",
-      "date": "2016-04-08"
+      "date": "2016-04-08",
+      "audio": "https://podcastfichiers.college-de-france.fr/lecun-20160408.m4a",
+      "duree": 3636
     },
     {
       "titre": "06 - L'apprentissage profond",
-      "date": "2016-04-01"
+      "date": "2016-04-01",
+      "audio": "https://podcastfichiers.college-de-france.fr/lecun-20160401.m4a",
+      "duree": 3238
     },
     {
       "titre": "05 - L'apprentissage profond",
-      "date": "2016-03-25"
+      "date": "2016-03-25",
+      "audio": "https://podcastfichiers.college-de-france.fr/lecun-20160325.m4a",
+      "duree": 1447
     },
     {
       "titre": "04 - L'apprentissage profond",
-      "date": "2016-03-04"
+      "date": "2016-03-04",
+      "audio": "https://podcastfichiers.college-de-france.fr/lecun-20160304.m4a",
+      "duree": 3512
     }
   ],
   "derniere_activite": "2016-04-15",

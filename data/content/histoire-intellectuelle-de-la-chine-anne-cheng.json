@@ -25,27 +25,37 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "02 - Retour vers le Dao : entre empire et emprise",
+      "date": "2026-11-19",
+      "audio": "https://podcastfichiers.college-de-france.fr/cheng-20261119.m4a",
+      "duree": 3607
+    },
+    {
+      "titre": "01 - Retour vers le Dao : entre empire et emprise",
+      "date": "2026-11-12",
+      "audio": "https://podcastfichiers.college-de-france.fr/cheng-20261112.m4a",
+      "duree": 3333
+    },
+    {
       "titre": "Colloque - Anne Cheng : Démocratie ou dictature numérique : perspectives historiques et comparatives",
-      "date": "2026-06-25"
+      "date": "2026-06-25",
+      "audio": "https://podcastfichiers.college-de-france.fr/cheng-coll-20260625-10.m4a",
+      "duree": 941
     },
     {
       "titre": "Colloque - Judith Rochfeld : Démocratie ou dictature numérique : perspectives historiques et comparatives",
-      "date": "2026-06-25"
+      "date": "2026-06-25",
+      "audio": "https://podcastfichiers.college-de-france.fr/cheng-coll-20260625-09-rochfeld.m4a",
+      "duree": 2103
     },
     {
       "titre": "Colloque - Patrick Weil : Démocratie ou dictature numérique : perspectives historiques et comparatives",
-      "date": "2026-06-25"
-    },
-    {
-      "titre": "Colloque - Séverine Arsène : Démocratie ou dictature numérique : perspectives historiques et comparatives",
-      "date": "2026-06-25"
-    },
-    {
-      "titre": "Colloque - Stéphane Le Lay : Démocratie ou dictature numérique : perspectives historiques et comparatives",
-      "date": "2026-06-25"
+      "date": "2026-06-25",
+      "audio": "https://podcastfichiers.college-de-france.fr/cheng-coll-20260625-08-weil.m4a",
+      "duree": 1458
     }
   ],
-  "derniere_activite": "2026-06-25",
+  "derniere_activite": "2026-11-19",
   "frequence_jours": 0,
   "avis_publics": {
     "epuise": true,

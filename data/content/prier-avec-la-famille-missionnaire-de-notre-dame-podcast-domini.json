@@ -28,27 +28,37 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
-      "titre": "Le chapelet et les vêpres du mardi 10 novembre 2026.",
-      "date": "2026-11-10"
+      "titre": "Le chapelet et les vêpres du lundi 23 novembre 2026.",
+      "date": "2026-11-23",
+      "audio": "https://files.fmnd.org/Offices/Vepres20261123.mp3",
+      "duree": 3453
     },
     {
-      "titre": "Le milieu du jour du mardi 10 novembre 2026.",
-      "date": "2026-11-10"
+      "titre": "Le milieu du jour du lundi 23 novembre 2026.",
+      "date": "2026-11-23",
+      "audio": "https://files.fmnd.org/Offices/MilieuDuJour20261123.mp3",
+      "duree": 730
     },
     {
-      "titre": "La Messe du mardi 10 novembre 2026.",
-      "date": "2026-11-10"
+      "titre": "La Messe du lundi 23 novembre 2026.",
+      "date": "2026-11-23",
+      "audio": "https://files.fmnd.org/Offices/Messe20261123.mp3",
+      "duree": 2670
     },
     {
-      "titre": "Les laudes du mardi 10 novembre 2026.",
-      "date": "2026-11-10"
+      "titre": "Les laudes du lundi 23 novembre 2026.",
+      "date": "2026-11-23",
+      "audio": "https://files.fmnd.org/Offices/Laudes20261123.mp3",
+      "duree": 1520
     },
     {
-      "titre": "Le chapelet et les vêpres du lundi 09 novembre 2026.",
-      "date": "2026-11-09"
+      "titre": "Le chapelet et les vêpres du dimanche 22 novembre 2026.",
+      "date": "2026-11-22",
+      "audio": "https://files.fmnd.org/Offices/Vepres20261122.mp3",
+      "duree": 3998
     }
   ],
-  "derniere_activite": "2026-11-10",
+  "derniere_activite": "2026-11-23",
   "frequence_jours": 0,
   "avis_publics": {
     "epuise": true,

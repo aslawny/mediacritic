@@ -61,25 +61,29 @@
   "derniere_activite": "2026-11-19",
   "frequence_jours": 15,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-25",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Zobcat",
+        "titre": "Des personnalités diverses mais toutes passionnées",
+        "texte": "Je découvre avec plaisir ce podcast JV ou des gamers passionnés ou chaque personnalité apporte son point de vue ou analyse avec justesse , connaissances et en toute détente .…"
+      },
+      {
+        "note": 5,
+        "auteur": "Fulswamp",
+        "titre": "L’impression de soirée entre pote",
+        "texte": "Merci à toute la chouette équipe , toujours un bon moment que ce soit sur les actus, les tests et surtout le stéréo PPG qui malheureusement ne revient pas assez souvent .…"
+      },
+      {
+        "note": 5,
+        "auteur": "Mahutre64",
+        "titre": "Détente assurée !",
+        "texte": "Très bon podcast, malgré le cassage de sucre quotidien sur le dos de Sony (pas exempt de tout reproche certes mais à la longue ça devient un peu lassant) bref, je laisse 5 étoiles quand même car je passe un bon moment à chaque épisode.…"
+      }
     ]
   }
 }

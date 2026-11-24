@@ -29,23 +29,33 @@
   "episodes_recents": [
     {
       "titre": "Bande annonce - Entendre le théâtre",
-      "date": "2020-02-21"
+      "date": "2020-02-21",
+      "audio": "http://itunesu.bnf.fr/itunesu/medias/medias/ELT-EP 0-bande_annonce.mp3",
+      "duree": 157
     },
     {
       "titre": "Littérature, philosophie par François Jullien",
-      "date": "2019-09-19"
+      "date": "2019-09-19",
+      "audio": "http://itunesu.bnf.fr/itunesu/medias/cn_20190417_jullien.mp3",
+      "duree": 5280
     },
     {
       "titre": "Si douteuse harmonie par François Jullien",
-      "date": "2019-09-19"
+      "date": "2019-09-19",
+      "audio": "http://itunesu.bnf.fr/itunesu/medias/cn_20190403_jullien.mp3",
+      "duree": 4980
     },
     {
       "titre": "Le mythe par Martin Rueff",
-      "date": "2019-09-19"
+      "date": "2019-09-19",
+      "audio": "http://itunesu.bnf.fr/itunesu/medias/cn_20190410_rueff.mp3",
+      "duree": 5580
     },
     {
       "titre": "La nudité par Martin Rueff",
-      "date": "2019-09-19"
+      "date": "2019-09-19",
+      "audio": "http://itunesu.bnf.fr/itunesu/medias/cn_20180314_rueff.mp3",
+      "duree": 5040
     }
   ],
   "derniere_activite": "2020-02-21",

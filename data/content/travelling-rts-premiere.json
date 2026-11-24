@@ -28,23 +28,37 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "The Addams Family (La famille Addams), Barry Sonnefeld, 1991",
+      "date": "2026-11-22",
+      "audio": "https://rts-aod-dd.akamaized.net/ww/bd60f39b-8181-32e2-9f11-2701d89d8f81/554f7091-ef7c-39f9-b624-08614ec8c137.mp3",
+      "duree": 3362
+    },
+    {
+      "titre": "L'aile ou la cuisse, Claude Zidi, 1976",
+      "date": "2026-11-15",
+      "audio": "https://rts-aod-dd.akamaized.net/ww/c10fe95a-5430-3441-b8bf-40811f8e9b8c/9345ac40-0ed7-37bc-90d4-b97a185cd0e8.mp3",
+      "duree": 3392
+    },
+    {
       "titre": "Y a-t-il un pilote dans l'avion ? (Airplane!), David Zucker, Jerry Zucker et Jim Abrahams, 1980",
-      "date": "2026-11-08"
+      "date": "2026-11-08",
+      "audio": "https://rts-aod-dd.akamaized.net/ww/b0929c24-8784-3bcd-be8a-a6c75ca18a79/5ab862b1-b6aa-3bac-95fe-5378f4d1384f.mp3",
+      "duree": 3375
     },
     {
       "titre": "Le Seigneur des Anneaux, la trilogie, Peter Jackson, 2001-2003",
-      "date": "2026-11-01"
+      "date": "2026-11-01",
+      "audio": "https://rts-aod-dd.akamaized.net/ww/bc7780e8-c163-307f-82a5-cd12e06c382f/f4dfe25e-13aa-3a72-865c-55a80bf50add.mp3",
+      "duree": 3379
     },
     {
       "titre": "Les Griffes de la nuit (A Nightmare on Elm Street), Wes Craven, 1984",
-      "date": "2026-10-25"
-    },
-    {
-      "titre": "\"Playtime\", Jacques Tati, 1967",
-      "date": "2026-10-18"
+      "date": "2026-10-25",
+      "audio": "https://rts-aod-dd.akamaized.net/ww/3894daa7-6c87-3bbc-8492-f03252592a9e/7cdc6e3e-381d-34b2-bebd-82181f15213d.mp3",
+      "duree": 3368
     }
   ],
-  "derniere_activite": "2026-11-08",
+  "derniere_activite": "2026-11-22",
   "frequence_jours": 7,
   "avis_publics": {
     "source": "apple",

@@ -63,25 +63,29 @@
   "derniere_activite": "2026-10-07",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-25",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "🌷Heli.a🌷",
+        "titre": "🥹🥹🥹merci",
+        "texte": "Moi je suis jeune ( moin de 15 ans ) et ça m’avait beaucoup aidé ton podcast sur la gratitude etc et je n’ai pas de réseau alors je suis CHOQUÉ que tu reprennes le podcast parce que moi je n’étais au courant de rien Alors vraiment merci ☺️"
+      },
+      {
+        "note": 5,
+        "auteur": "rym.bs",
+        "titre": "Agréable à écouter",
+        "texte": "Cette femme est attachante et adorable, elle m’inspire à devenir la femme élégante que j’ai toujours rêvé d’être grâce à des conseils simples mais qui font une grande différence si on les met en application Merci Kenza ❤️ Rym"
+      },
+      {
+        "note": 5,
+        "auteur": "Alexandra859",
+        "titre": "♥️",
+        "texte": "Vraiment de bon conseil pour glow up , kenza une personne incroyable et humble qui vous aide à vous améliorer. Merci à toi pour cette inspiration saine 💋"
+      }
     ]
   }
 }

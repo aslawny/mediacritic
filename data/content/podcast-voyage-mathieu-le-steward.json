@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-10-20",
-  "frequence_jours": 6
+  "frequence_jours": 6,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mabouro30",
+        "titre": "Trop Bien",
+        "texte": "J’adore ton contenu non seulement sur les réseaux, mais aussi ces podcasts, c’est partage de voyage pour le coup d’escale tout ça mais aussi quand tu reçois des invités cet échange. Bref j’adore ce que tu fais continue !🤩🛩️"
+      },
+      {
+        "note": 5,
+        "auteur": "Mathieu le Steward",
+        "titre": "N’hésitez pas à donner votre avis",
+        "texte": "Votre avis m’est très important. N’hésitez pas à mettre des étoiles et à me dire ce que vous en pensez, ça fait grandir :) je vous souhaite un excellent voyage et une bonne écoute ! Mathieu (le Steward ) 😉"
+      },
+      {
+        "note": 5,
+        "auteur": "Piverspiv",
+        "titre": "👌",
+        "texte": "On retrouve toute les bonnes ondes de Mathieu, sa positivité et son ouverture dans ce podcast. C’est apaisant autant que rafraîchissant 👂 👌"
+      }
+    ]
+  }
 }

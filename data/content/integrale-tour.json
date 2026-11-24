@@ -60,25 +60,29 @@
   "derniere_activite": "2026-08-09",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-25",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Dams.D",
+        "titre": "Le top pour suivre le TDF",
+        "texte": "Juste un kif d'écouter les étapes du TourDeFrance en leur compagnie ! Pendant le taf un régale !! Expertise et stratégie avec le druide !! Le meilleur pronostiqueur avec Mr Cessieux 😂😂 et une Bonne Ambiance franchouillardes comme on aime sur le Tour, en compagnie de tous les autr…"
+      },
+      {
+        "note": 1,
+        "auteur": "Saturnin 007",
+        "titre": "Ça pique !",
+        "texte": "Le contenu cyclisme a beaucoup baissé depuis le départ de Guimard. Coppel et Pineau sont avant tout des supporters et Virenque c'est d'une pauvreté..."
+      },
+      {
+        "note": 5,
+        "auteur": "dioux33",
+        "titre": "La meilleure émission sur la grande boucle!",
+        "texte": "Permet à Ceux qui travaillent de pouvoir revivre le tour dans les conditions du direct et le débriefing est tjs un régal mention spéciale pour Cyril le druide!!!"
+      }
     ]
   }
 }

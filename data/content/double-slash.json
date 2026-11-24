@@ -28,27 +28,37 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "News novembre 2026, Discord lâche Electron, OVH lance son premier LLM et Cactus met l'IA dans une montre",
+      "date": "2026-11-18",
+      "audio": "https://cdn.double-slash.dev/episodes/DS_147_news-nov26.mp3",
+      "duree": 2733
+    },
+    {
       "titre": "React Native, encore valable en 2026 ? avec David Leuliette",
-      "date": "2026-11-05"
+      "date": "2026-11-05",
+      "audio": "https://cdn.double-slash.dev/episodes/DS_146_react-native.mp3",
+      "duree": 3687
     },
     {
       "titre": "News octobre 2026, adieu Arc, Brotli fait trembler Node et Nuxt souffle ses 10 bougies",
-      "date": "2026-10-29"
+      "date": "2026-10-29",
+      "audio": "https://cdn.double-slash.dev/episodes/DS_145_news-oct-26-rc3.mp3",
+      "duree": 3431
     },
     {
       "titre": "News octobre 2026 RC2, Deno file chez Cloudflare, qui possède l'open source JS et PHP sonne l'alerte",
-      "date": "2026-10-21"
+      "date": "2026-10-21",
+      "audio": "https://cdn.double-slash.dev/episodes/DS_144_news-oct-26-rc2.mp3",
+      "duree": 2698
     },
     {
       "titre": "EmDash, le CMS de Cloudflare taillé pour les agents ?",
-      "date": "2026-10-16"
-    },
-    {
-      "titre": "News octobre 2026, Cloudflare Birthday Week, Shaders open source et pencils down",
-      "date": "2026-10-07"
+      "date": "2026-10-16",
+      "audio": "https://cdn.double-slash.dev/episodes/DS_143_emdash.mp3",
+      "duree": 3715
     }
   ],
-  "derniere_activite": "2026-11-05",
+  "derniere_activite": "2026-11-18",
   "frequence_jours": 8,
   "avis_publics": {
     "source": "apple",

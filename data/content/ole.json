@@ -28,28 +28,38 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Episode 10 - Julien Lescarret",
+      "date": "2026-11-17",
+      "audio": "https://anchor.fm/s/10e264d00/podcast/play/129628149/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F78289bde-7dc4-98ab-1e58-5a307c62653b.mp3",
+      "duree": 3510
+    },
+    {
       "titre": "Episode 9 - Thomas Joubert",
-      "date": "2026-10-27"
+      "date": "2026-10-27",
+      "audio": "https://anchor.fm/s/10e264d00/podcast/play/128190465/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-27%2Fcb7141b5-edcf-23ae-2628-9a0911b1f8a4.mp3",
+      "duree": 4126
     },
     {
       "titre": "Episode 8 - Victor Mendes",
-      "date": "2026-08-25"
+      "date": "2026-08-25",
+      "audio": "https://anchor.fm/s/10e264d00/podcast/play/124709794/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-25%2F9285d84e-fb18-5cf8-b3c7-8dc758a77089.mp3",
+      "duree": 4324
     },
     {
       "titre": "Episode 7 - Nino Julian",
-      "date": "2026-06-16"
+      "date": "2026-06-16",
+      "audio": "https://anchor.fm/s/10e264d00/podcast/play/121558986/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-16%2F6c714e57-6677-f7e7-6fe8-2e7914db1240.mp3",
+      "duree": 3250
     },
     {
       "titre": "Episode 6 - Pascal Mailhan",
-      "date": "2026-04-27"
-    },
-    {
-      "titre": "Episode 5 - Joël Jacobi",
-      "date": "2026-03-31"
+      "date": "2026-04-27",
+      "audio": "https://anchor.fm/s/10e264d00/podcast/play/119116544/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-27%2F558e99ce-e94d-1039-d106-80b1478e6473.mp3",
+      "duree": 3714
     }
   ],
-  "derniere_activite": "2026-10-27",
-  "frequence_jours": 19,
+  "derniere_activite": "2026-11-17",
+  "frequence_jours": 21,
   "avis_publics": {
     "epuise": true,
     "releve": "2026-11-12",

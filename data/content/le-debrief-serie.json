@@ -29,27 +29,37 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "VisionQuest",
+      "date": "2026-11-12",
+      "audio": "https://stats.podcloud.fr/ledebrief/visionquest/enclosure.ebe411bd5f3392142adb3caa66f9a1b1c47f9125a0b20fb37b68e4dbc81c6091.mp3?p=f",
+      "duree": 5859
+    },
+    {
       "titre": "Carrie - Saison 1",
-      "date": "2026-11-06"
+      "date": "2026-11-06",
+      "audio": "https://stats.podcloud.fr/ledebrief/carrie-saison-1/enclosure.7a31ed2634bfcca6fd09974753a234d9bda756ea09481f8dcd82032756aa8528.mp3?p=f",
+      "duree": 4060
     },
     {
       "titre": "The Rings of power- S2",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://stats.podcloud.fr/ledebrief/the-rings-of-power-s2/enclosure.b2afc31412523ff17c51834c9d45990b2f1b594ea5363ec3398e1ba2544c63a5.mp3?p=f",
+      "duree": 6207
     },
     {
       "titre": "Crystal Lake",
-      "date": "2026-10-27"
+      "date": "2026-10-27",
+      "audio": "https://stats.podcloud.fr/ledebrief/crystal-lake/enclosure.5096c73a09da41dc959f0c69c33dc82ef4e032de11dad0e42b59ff1981149a41.mp3?p=f",
+      "duree": 4391
     },
     {
       "titre": "Ted Lasso - Saison 4",
-      "date": "2026-10-16"
-    },
-    {
-      "titre": "Lanterns - Saison 1",
-      "date": "2026-10-13"
+      "date": "2026-10-16",
+      "audio": "https://stats.podcloud.fr/ledebrief/ted-lasso-saison-4/enclosure.5f4d3cd4869fcc08dc4ffce77f6bb9e7efc0167fe62a8904a42b333cb2a363f9.mp3?p=f",
+      "duree": 7413
     }
   ],
-  "derniere_activite": "2026-11-06",
+  "derniere_activite": "2026-11-12",
   "frequence_jours": 6,
   "avis_publics": {
     "source": "apple",

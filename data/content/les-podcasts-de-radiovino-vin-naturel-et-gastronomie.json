@@ -27,27 +27,37 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Sophie Adriansen - Vendanges toxiques",
+      "date": "2026-11-19",
+      "audio": "https://feeds.soundcloud.com/stream/2441046111-radiovino-sophie-adriansen-vendanges.mp3",
+      "duree": 807
+    },
+    {
+      "titre": "Exposants",
+      "date": "2026-11-12",
+      "audio": "https://feeds.soundcloud.com/stream/2436912732-radiovino-exposants-vdef-1.mp3",
+      "duree": 380
+    },
+    {
+      "titre": "Mère & Fille",
+      "date": "2026-11-12",
+      "audio": "https://feeds.soundcloud.com/stream/2436912729-radiovino-mere-fille-def-2.mp3",
+      "duree": 527
+    },
+    {
+      "titre": "Visiteurs",
+      "date": "2026-11-12",
+      "audio": "https://feeds.soundcloud.com/stream/2436912726-radiovino-mer-vigne-v1-3.mp3",
+      "duree": 319
+    },
+    {
       "titre": "Geoffrey Estienne - Résistant creusois",
-      "date": "2026-11-04"
-    },
-    {
-      "titre": "Léo Boudet - Les chaillées de l'enfer",
-      "date": "2026-10-16"
-    },
-    {
-      "titre": "Philippe & Hypollite Maffre - Vignerons Paysans",
-      "date": "2026-10-08"
-    },
-    {
-      "titre": "L'envol du bombyx",
-      "date": "2026-10-01"
-    },
-    {
-      "titre": "Monsieur le Maire - L'homme par qui tout arrive",
-      "date": "2026-10-01"
+      "date": "2026-11-04",
+      "audio": "https://feeds.soundcloud.com/stream/2424063864-radiovino-goeffrey-estienne-cre-puscule.mp3",
+      "duree": 591
     }
   ],
-  "derniere_activite": "2026-11-04",
+  "derniere_activite": "2026-11-19",
   "frequence_jours": 7,
   "avis_publics": {
     "epuise": true,

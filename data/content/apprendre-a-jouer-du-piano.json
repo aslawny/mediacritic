@@ -28,23 +28,33 @@
   "episodes_recents": [
     {
       "titre": "Le carnet de bord du pianiste : organiser ses morceaux au quotidien",
-      "date": "2026-03-13"
+      "date": "2026-03-13",
+      "audio": "https://api.spreaker.com/download/episode/70624676/260313_0354_fichier.mp3",
+      "duree": 1906
     },
     {
       "titre": "Analyse en apprenant un morceau",
-      "date": "2025-11-06"
+      "date": "2025-11-06",
+      "audio": "https://api.spreaker.com/download/episode/68451479/251106_0819_fichier.mp3",
+      "duree": 1550
     },
     {
       "titre": "Fête de la musique : Droit d’auteur et derniers préparatifs",
-      "date": "2025-06-17"
+      "date": "2025-06-17",
+      "audio": "https://api.spreaker.com/download/episode/66592317/250617_0539_fichier.mp3",
+      "duree": 904
     },
     {
       "titre": "Faire face à l’imprévu : Dans les coulisses d'une animation de la fête de la musique",
-      "date": "2025-06-17"
+      "date": "2025-06-17",
+      "audio": "https://api.spreaker.com/download/episode/66588887/250617_1149_fichier.mp3",
+      "duree": 1012
     },
     {
       "titre": "Jouer 100 morceaux en public : mon plan de préparation",
-      "date": "2025-06-14"
+      "date": "2025-06-14",
+      "audio": "https://api.spreaker.com/download/episode/66556682/250614_1119_fichier.mp3",
+      "duree": 1945
     }
   ],
   "derniere_activite": "2026-03-13",

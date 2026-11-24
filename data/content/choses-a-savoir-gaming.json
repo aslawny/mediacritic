@@ -62,25 +62,29 @@
   "derniere_activite": "2024-07-08",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-25",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Roro_7",
+        "titre": "Très chouette",
+        "texte": "bonjour je trouve que votre podcast est super . Mais pourriez vous faire plus épisodes sur la licence Zelda ? Sinon c’est vraiment bien"
+      },
+      {
+        "note": 5,
+        "auteur": "Kitsun (Croissant 🥐✨)",
+        "titre": "Salut :3",
+        "texte": "Si vous voulez voir des podcasts gaming, allez écouter mes 2 podcasts : « Le Chat de Fortnite » et « Noob deviendra Pro »"
+      },
+      {
+        "note": 5,
+        "auteur": "Minecraft.Civ7",
+        "titre": "Bien",
+        "texte": "Merci d’avoir fait des épisodes sur mincraft 😄😄 pouvez-vous faire un épisode sur l’héritage de Poudlart ? Merci😁"
+      }
     ]
   }
 }

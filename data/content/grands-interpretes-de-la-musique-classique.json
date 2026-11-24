@@ -26,25 +26,23 @@
   "addedAt": "2026-05-28",
   "updatedAt": "2026-11-22",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-25",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "bruno gilbert",
+        "titre": "merci",
+        "texte": "merci de votre qualité de présentation de votre choix d’artistes de qualité indéniable Vous êtes un des piliers de ma sélection de podcast indispensable à ma qualité de vie Bruno Gilbert ps je recherche le téléfilm de claude Edelman sur la 3 avec gitlis « le cerveau impensable »…"
+      },
+      {
+        "note": 5,
+        "auteur": "lamerelola",
+        "titre": "superbe voix",
+        "texte": "Anne Sophie Von Mutter à une diction française impeccable. Et quel timbre ! : souple, pur, sensible, avec un vibrato placé juste là où il faut. Merci d’avoir passé ces superbes extraits."
+      }
     ]
   }
 }

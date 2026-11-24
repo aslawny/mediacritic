@@ -30,27 +30,37 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Mieux ou moins bien ?",
+      "date": "2026-11-23",
+      "audio": "https://media.lessondiers.com/podcasts/les-sondiers-emission-440.mp3",
+      "duree": 5743
+    },
+    {
+      "titre": "Des plugins tiers dans la MPC",
+      "date": "2026-11-16",
+      "audio": "https://media.lessondiers.com/podcasts/les-sondiers-emission-439.mp3",
+      "duree": 5753
+    },
+    {
       "titre": "Cette petite merveille va bientôt disparaître (la Cydrums) !",
-      "date": "2026-11-09"
+      "date": "2026-11-09",
+      "audio": "https://media.lessondiers.com/podcasts/les-sondiers-emission-438.mp3",
+      "duree": 5624
     },
     {
       "titre": "L’Open Source, la nouvelle norme pour les fabricants ?",
-      "date": "2026-11-02"
+      "date": "2026-11-02",
+      "audio": "https://media.lessondiers.com/podcasts/les-sondiers-emission-437.mp3",
+      "duree": 5902
     },
     {
       "titre": "Ce produit que les clients Roli ne verront jamais",
-      "date": "2026-10-26"
-    },
-    {
-      "titre": "Le temps de l'Open Source Hardware",
-      "date": "2026-10-19"
-    },
-    {
-      "titre": "Teenage Engineering lâche les synthés, Behringer en open source !",
-      "date": "2026-10-12"
+      "date": "2026-10-26",
+      "audio": "https://media.lessondiers.com/podcasts/les-sondiers-emission-436.mp3",
+      "duree": 5958
     }
   ],
-  "derniere_activite": "2026-11-09",
+  "derniere_activite": "2026-11-23",
   "frequence_jours": 7,
   "avis_publics": {
     "source": "apple",

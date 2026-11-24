@@ -30,47 +30,61 @@
   "episodes_recents": [
     {
       "titre": "Lyon, scène de lumières",
-      "date": "2021-12-06"
+      "date": "2021-12-06",
+      "audio": "https://sphinx.acast.com/p/acast/s/auvergne-rhone-alpes-tourisme/e/61add54d165dc5001a0878d7/media.mp3",
+      "duree": 1212
     },
     {
       "titre": "Chambéry, ode aux flâneries",
-      "date": "2021-11-22"
+      "date": "2021-11-22",
+      "audio": "https://sphinx.acast.com/p/acast/s/auvergne-rhone-alpes-tourisme/e/6197bed3c71e840014c78eb8/media.mp3",
+      "duree": 1189
     },
     {
       "titre": "Annecy, la respiration créative",
-      "date": "2021-10-28"
+      "date": "2021-10-28",
+      "audio": "https://sphinx.acast.com/p/acast/s/auvergne-rhone-alpes-tourisme/e/617a943c01841600139ac98e/media.mp3",
+      "duree": 1280
     },
     {
       "titre": "Grenoble, l'art du mouvement",
-      "date": "2021-10-08"
+      "date": "2021-10-08",
+      "audio": "https://sphinx.acast.com/p/acast/s/auvergne-rhone-alpes-tourisme/e/61600b1ccb37160012ee1ac8/media.mp3",
+      "duree": 1319
     },
     {
       "titre": "Clermont-Ferrand, l’œil des volcans",
-      "date": "2021-10-04"
+      "date": "2021-10-04",
+      "audio": "https://sphinx.acast.com/p/acast/s/auvergne-rhone-alpes-tourisme/e/61557a18505bc80015b56239/media.mp3",
+      "duree": 862
     }
   ],
   "derniere_activite": "2021-12-06",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-24",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Allybond",
+        "titre": "Une merveille ces balades sonores",
+        "texte": "Je découvre par hasard l’épisode « s’enforester avec Baptiste Morizot » de quelques minutes je me suis laissée emporter sur tout le podcast, le sourire aux lèvres, les yeux fermés parfois pour se fondre davantage dans ces paysages qu’il décrit …"
+      },
+      {
+        "note": 5,
+        "auteur": "Laura-Les coulisses du voyage",
+        "titre": "Une très belle réalisation",
+        "texte": "Bravo pour ce podcast qui fait voyager en Auvergne. A chaque épisode, on est transporté dans de multiples ambiances sonores très immersives. Les rencontres sont passionnantes et les sujets super intéressants. Bravo"
+      },
+      {
+        "note": 5,
+        "auteur": "fitinicel",
+        "titre": "Un bain de montagne",
+        "texte": "Récemment arrivée à Lyon en provenance d'Annecy, les montagnes et la Haute-Savoie me manquent et j’ai trouvé un plaisir immense à écouter ce podcast. Bravo !"
+      }
     ]
   }
 }

@@ -28,27 +28,37 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Episode 106 - Kokiri gouter",
+      "date": "2026-11-15",
+      "audio": "https://sphinx.acast.com/p/open/s/65cfc59de7b2e2001668654a/e/6af618a29dce432809933cc0/media.mp3",
+      "duree": 5298
+    },
+    {
       "titre": "Episode 105 - Zombie Bird",
-      "date": "2026-11-01"
+      "date": "2026-11-01",
+      "audio": "https://sphinx.acast.com/p/open/s/65cfc59de7b2e2001668654a/e/6ad29e5637f0bd18cc8cce5f/media.mp3",
+      "duree": 5382
     },
     {
       "titre": "Episode 104 - Fast & Curious",
-      "date": "2026-10-18"
+      "date": "2026-10-18",
+      "audio": "https://sphinx.acast.com/p/open/s/65cfc59de7b2e2001668654a/e/6ad29bf768b7ce6ffb775cf3/media.mp3",
+      "duree": 4952
     },
     {
       "titre": "Episode 103 - Le seigneur des hameaux",
-      "date": "2026-10-04"
+      "date": "2026-10-04",
+      "audio": "https://sphinx.acast.com/p/open/s/65cfc59de7b2e2001668654a/e/6ab04d6e0521dc2c81d0eecc/media.mp3",
+      "duree": 4571
     },
     {
       "titre": "Episode 102 - L'odyssée des Coopains",
-      "date": "2026-09-20"
-    },
-    {
-      "titre": "[REDIFF] Episode 83 - Expédition 83",
-      "date": "2026-08-31"
+      "date": "2026-09-20",
+      "audio": "https://sphinx.acast.com/p/open/s/65cfc59de7b2e2001668654a/e/6ab0420a0a12e91774fa987c/media.mp3",
+      "duree": 5293
     }
   ],
-  "derniere_activite": "2026-11-01",
+  "derniere_activite": "2026-11-15",
   "frequence_jours": 14,
   "avis_publics": {
     "source": "apple",

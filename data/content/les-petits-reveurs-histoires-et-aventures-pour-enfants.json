@@ -30,27 +30,37 @@
   "updatedAt": "2026-11-22",
   "episodes_recents": [
     {
+      "titre": "Léonard et les secrets des dieux de l'Olympe - REDIFF",
+      "date": "2026-11-18",
+      "audio": "https://api.spreaker.com/download/episode/76421199/309894_leonard_et_les_secrets_des_dieux_de_l_olympe.mp3",
+      "duree": 578
+    },
+    {
+      "titre": "Oskar et le drakkar de la nuit",
+      "date": "2026-11-11",
+      "audio": "https://api.spreaker.com/download/episode/76284346/378953_oskar_et_le_drakkar_de_la_nuit.mp3",
+      "duree": 510
+    },
+    {
       "titre": "Le petit renard ose enfin !",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://api.spreaker.com/download/episode/76154845/378601_le_petit_renard_ose_enfin.mp3",
+      "duree": 177
     },
     {
       "titre": "Zélie et l’anniversaire d’Amalia Citrouille",
-      "date": "2026-10-28"
+      "date": "2026-10-28",
+      "audio": "https://api.spreaker.com/download/episode/76001531/377092_zelie_et_l_anniversaire_d_amalia_citrouille.mp3",
+      "duree": 393
     },
     {
       "titre": "Le jardin du vieux Gaspard",
-      "date": "2026-10-21"
-    },
-    {
-      "titre": "Violette la petite sorcière",
-      "date": "2026-10-14"
-    },
-    {
-      "titre": "Billie l'espiègle pirate - REDIFF",
-      "date": "2026-10-07"
+      "date": "2026-10-21",
+      "audio": "https://api.spreaker.com/download/episode/75724104/376005_le_jardin_du_vieux_gaspard.mp3",
+      "duree": 433
     }
   ],
-  "derniere_activite": "2026-11-04",
+  "derniere_activite": "2026-11-18",
   "frequence_jours": 7,
   "avis_publics": {
     "epuise": true,

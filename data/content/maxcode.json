@@ -29,25 +29,107 @@
   "episodes_recents": [
     {
       "titre": "Apprendre la Programmation Orientée Objets (POO) Python",
-      "date": "2024-07-31"
+      "date": "2024-07-31",
+      "video": "0xQ5t0Jc8R8"
     },
     {
       "titre": "Fonctions Python - Maîtrisez les fonctions en Python",
-      "date": "2024-07-10"
+      "date": "2024-07-10",
+      "video": "9XQuZAtcans"
     },
     {
       "titre": "Tutoriel PIP - Gérer Facilement vos Paquets Python",
-      "date": "2024-07-03"
+      "date": "2024-07-03",
+      "video": "LCtQtYrApKA"
     },
     {
       "titre": "Installer et Configurer Visual Studio Code (VS Code) pour Python",
-      "date": "2024-06-26"
+      "date": "2024-06-26",
+      "video": "V6NfiMu4eZ0"
     },
     {
       "titre": "Télécharger et Installer Python sur Windows (10 & 11)",
-      "date": "2024-06-19"
+      "date": "2024-06-19",
+      "video": "rq-36A2SvhE"
     }
   ],
   "derniere_activite": "2024-07-31",
-  "frequence_jours": 42
+  "frequence_jours": 42,
+  "videos": [
+    {
+      "titre": "Apprendre la Programmation Orientée Objets (POO) Python",
+      "date": "2024-07-31",
+      "video": "0xQ5t0Jc8R8"
+    },
+    {
+      "titre": "Fonctions Python - Maîtrisez les fonctions en Python",
+      "date": "2024-07-10",
+      "video": "9XQuZAtcans"
+    },
+    {
+      "titre": "Tutoriel PIP - Gérer Facilement vos Paquets Python",
+      "date": "2024-07-03",
+      "video": "LCtQtYrApKA"
+    },
+    {
+      "titre": "Installer et Configurer Visual Studio Code (VS Code) pour Python",
+      "date": "2024-06-26",
+      "video": "V6NfiMu4eZ0"
+    },
+    {
+      "titre": "Télécharger et Installer Python sur Windows (10 & 11)",
+      "date": "2024-06-19",
+      "video": "rq-36A2SvhE"
+    },
+    {
+      "titre": "Apprendre Python - Programmation Python pour Débutant",
+      "date": "2022-12-24",
+      "video": "_TVrC_HCkTE"
+    },
+    {
+      "titre": "L'invité de commandes Linux - Tutoriel pour débutants",
+      "date": "2022-11-01",
+      "video": "_ZJ9zGgI22Y"
+    },
+    {
+      "titre": "Nouvelle Formation Python 2022 - Devenez un Expert!",
+      "date": "2022-05-27",
+      "video": "lyncMggH3cE"
+    },
+    {
+      "titre": "Apprendre le HTML - Tutoriel Pour Débutant (2h)",
+      "date": "2022-02-06",
+      "video": "rRt-yvGQST0"
+    },
+    {
+      "titre": "Python Django - Apprendre le Développement Web avec Python (2h)",
+      "date": "2021-07-15",
+      "video": "vN3_jywhg_E"
+    },
+    {
+      "titre": "Invite de Commande Windows - Tutoriel Complet",
+      "date": "2021-06-02",
+      "video": "cXp6a9dNZLQ"
+    },
+    {
+      "titre": "Machine Learning - Partie#11 Dataset Iris - Analyse des Caractéristiques",
+      "date": "2021-05-19",
+      "video": "FgGLji6jLkQ"
+    },
+    {
+      "titre": "Machine Learning - Partie#10 Visualiser le Dataset Iris",
+      "date": "2021-05-16",
+      "video": "c-A5KiPm8Sk"
+    },
+    {
+      "titre": "Machine Learning - Partie#9 Télécharger le Dataset Iris",
+      "date": "2021-05-12",
+      "video": "gBgP7bsfIQA"
+    },
+    {
+      "titre": "Machine Learning - Partie#8 Le Dataset Iris",
+      "date": "2021-05-09",
+      "video": "VI5s-XgE2MY"
+    }
+  ]
 }
