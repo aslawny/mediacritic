@@ -25,27 +25,37 @@
     "fiction"
   ],
   "addedAt": "2026-09-20",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "La case de l'oncle Tom E7/7 - La Mort de l'oncle Tom",
-      "date": "2025-04-30"
+      "date": "2025-04-30",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2080993.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 2164
     },
     {
       "titre": "La case de l'oncle Tom E6/7 - La Tragique histoire de Cassy",
-      "date": "2025-04-23"
+      "date": "2025-04-23",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2080995.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 2404
     },
     {
       "titre": "La case de l'oncle Tom E5/7 - Evangéline Saint Clare",
-      "date": "2025-04-16"
+      "date": "2025-04-16",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2081004.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 2444
     },
     {
       "titre": "La case de l'oncle Tom E4/7 - Marie et Augustin Saint Clare",
-      "date": "2025-04-09"
+      "date": "2025-04-09",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2081008.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 2397
     },
     {
       "titre": "La case de l'oncle Tom E3/7 - Jim et les chasseurs d'esclaves",
-      "date": "2025-04-02"
+      "date": "2025-04-02",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2081011.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 2289
     }
   ],
   "derniere_activite": "2025-04-30",

@@ -24,8 +24,16 @@
     "tech",
     "numérique"
   ],
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
+    {
+      "titre": "Intelligence artificielle : les secrets de l'entrée en Bourse record d'Anthropic",
+      "date": "2026-11-20"
+    },
+    {
+      "titre": "Le jour où Outlook s'est tu : autopsie d'un black-out mondial",
+      "date": "2026-11-13"
+    },
     {
       "titre": "Cyberattaques : quand le monde réel est ciblé par des agents IA en essaim",
       "date": "2026-11-06"
@@ -37,17 +45,9 @@
     {
       "titre": "Torturer ChatGPT, quelle drôle d’idée !",
       "date": "2026-10-23"
-    },
-    {
-      "titre": "Faux coupables, fausses accusations, vrais dégâts : quand l'IA se trompe",
-      "date": "2026-10-16"
-    },
-    {
-      "titre": "Des neurones humains dans le cerveau des souris : une bonne idée ?",
-      "date": "2026-10-09"
     }
   ],
-  "derniere_activite": "2026-11-06",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 7,
   "avis_publics": {
     "epuise": true,

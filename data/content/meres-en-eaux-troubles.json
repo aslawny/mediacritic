@@ -26,29 +26,39 @@
     "famille"
   ],
   "addedAt": "2026-06-30",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Episode 45 : Gwenaelle",
+      "date": "2026-11-13",
+      "audio": "https://anchor.fm/s/ed64cb8c/podcast/play/129344315/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F436603861-44100-2-5039d1236b792.m4a",
+      "duree": 3837
+    },
+    {
       "titre": "Episode 44 : Julia #2",
-      "date": "2026-10-23"
+      "date": "2026-10-23",
+      "audio": "https://anchor.fm/s/ed64cb8c/podcast/play/127836321/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2F434659896-44100-2-314995a97682e.m4a",
+      "duree": 3959
     },
     {
       "titre": "Teaser saison 4",
-      "date": "2026-10-02"
+      "date": "2026-10-02",
+      "audio": "https://anchor.fm/s/ed64cb8c/podcast/play/126648375/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-1%2F433112156-44100-2-db2ab475a73a9.m4a",
+      "duree": 364
     },
     {
       "titre": "Episode 43 : Marie",
-      "date": "2026-08-21"
+      "date": "2026-08-21",
+      "audio": "https://anchor.fm/s/ed64cb8c/podcast/play/124077029/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-11%2F429640950-44100-2-bb4ec84df593f.m4a",
+      "duree": 3864
     },
     {
       "titre": "Episode 42 : Vinciane",
-      "date": "2026-08-08"
-    },
-    {
-      "titre": "Episode solo #5 \"Troubles psys, parentalité et stigmatisation : le syndrome du parent imposteur\"",
-      "date": "2026-07-24"
+      "date": "2026-08-08",
+      "audio": "https://anchor.fm/s/ed64cb8c/podcast/play/123920811/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-7%2F429427889-44100-2-526950b4bed5c.m4a",
+      "duree": 4663
     }
   ],
-  "derniere_activite": "2026-10-23",
-  "frequence_jours": 14
+  "derniere_activite": "2026-11-13",
+  "frequence_jours": 15
 }

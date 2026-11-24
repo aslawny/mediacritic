@@ -25,27 +25,37 @@
     "psychologie"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Si",
-      "date": "2018-05-03"
+      "date": "2018-05-03",
+      "audio": "https://feeds.soundcloud.com/stream/438803355-pierre-souchard-coach-si.mp3",
+      "duree": 112
     },
     {
       "titre": "Chapitre 1",
-      "date": "2018-03-15"
+      "date": "2018-03-15",
+      "audio": "https://feeds.soundcloud.com/stream/414010005-pierre-souchard-coach-chapitre-1.mp3",
+      "duree": 178
     },
     {
       "titre": "Le rosier",
-      "date": "2018-01-17"
+      "date": "2018-01-17",
+      "audio": "https://feeds.soundcloud.com/stream/385387772-pierre-souchard-coach-le-rosier.mp3",
+      "duree": 62
     },
     {
       "titre": "Zone de conf...Quoi?",
-      "date": "2018-01-13"
+      "date": "2018-01-13",
+      "audio": "https://feeds.soundcloud.com/stream/382987448-pierre-souchard-coach-zone-de-conf-quoi.mp3",
+      "duree": 139
     },
     {
       "titre": "LifeHack - Les Voeux",
-      "date": "2018-01-05"
+      "date": "2018-01-05",
+      "audio": "https://feeds.soundcloud.com/stream/379115828-pierre-souchard-coach-lifehack-les-voeux.mp3",
+      "duree": 151
     }
   ],
   "derniere_activite": "2018-05-03",

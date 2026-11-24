@@ -26,29 +26,39 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "#365 – Pédaler avec le cœur",
+      "date": "2026-11-16",
+      "audio": "https://cause-commune.fm/rli/365-RLI-Rayons%20Libres-J%C3%A9r%C3%B4me%20Sorrel-Orso%20Ch%C3%A9tochine.mp3",
+      "duree": 30
+    },
+    {
       "titre": "#364 – La fonction du vélo de fonction",
-      "date": "2026-11-09"
+      "date": "2026-11-09",
+      "audio": "https://cause-commune.fm/rli/364-RLI-Rayons%20libres-J%C3%A9r%C3%B4me%20Sorrel-J%C3%A9rome%20Blanc.mp3",
+      "duree": 30
     },
     {
       "titre": "#363 – Du traineau au vélo, le canicross",
-      "date": "2026-11-02"
+      "date": "2026-11-02",
+      "audio": "https://cause-commune.fm/rli/363-RLI-Rayons%20Libres-J%C3%A9r%C3%B4me%20Sorrel-Antoine%20Delagnes.mp3",
+      "duree": 30
     },
     {
       "titre": "#362 – Désert cyclable",
-      "date": "2026-10-26"
+      "date": "2026-10-26",
+      "audio": "https://cause-commune.fm/rli/362-RLI-Rayons%20Libres-J%C3%A9r%C3%B4me%20Sorrel-Antoine%20Patin.mp3",
+      "duree": 1800
     },
     {
       "titre": "#361 – Vélocio revient en Chevreuse",
-      "date": "2026-10-19"
-    },
-    {
-      "titre": "#360 – Libre du logiciel au vélo",
-      "date": "2026-10-12"
+      "date": "2026-10-19",
+      "audio": "https://cause-commune.fm/rli/361-RLI-Rayons%20Libres-J%C3%A9r%C3%B4me%20Sorrel-Filipe%20Penetra.mp3",
+      "duree": 30
     }
   ],
-  "derniere_activite": "2026-11-09",
-  "frequence_jours": 7
+  "derniere_activite": "2026-11-16",
+  "frequence_jours": 6
 }

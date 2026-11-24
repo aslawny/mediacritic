@@ -27,27 +27,37 @@
     "entrepreneuriat"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Le VC n’est pas mort, il doit redevenir liquide",
-      "date": "2026-02-24"
+      "date": "2026-02-24",
+      "audio": "https://api.spreaker.com/download/episode/70245330/le_vc_nest_pas_mort_chamboredon_chaltiel_fevrier_2026_decode_vc.mp3",
+      "duree": 3960
     },
     {
       "titre": "Les actifs latents, le portefeuille invisible du venture",
-      "date": "2026-02-24"
+      "date": "2026-02-24",
+      "audio": "https://api.spreaker.com/download/episode/70245326/adrien_chaltiel_1.mp3",
+      "duree": 2346
     },
     {
       "titre": "Organiser la liquidité dans un écosystème structurellement peu liquide",
-      "date": "2026-02-15"
+      "date": "2026-02-15",
+      "audio": "https://api.spreaker.com/download/episode/69507568/adrien_chaltiel_1.mp3",
+      "duree": 2346
     },
     {
       "titre": "Pourquoi OVNI Capital ouvre un bureau à San Francisco, entretien avec Augustin Sayer",
-      "date": "2026-02-15"
+      "date": "2026-02-15",
+      "audio": "https://api.spreaker.com/download/episode/69507562/ovni_janvier_2026.mp3",
+      "duree": 1686
     },
     {
       "titre": "HEXA installe ses startups à San Francisco dans l’Hexa House au cœur de Cole Valley",
-      "date": "2026-02-15"
+      "date": "2026-02-15",
+      "audio": "https://api.spreaker.com/download/episode/69507553/hexa_1.mp3",
+      "duree": 815
     }
   ],
   "derniere_activite": "2026-02-24",

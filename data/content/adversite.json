@@ -25,29 +25,65 @@
     "running"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "#94 - Participer aux championnats du monde Hyrox & l'avantage du pilates avec Caroline Tallard",
-      "date": "2025-11-24"
+      "date": "2025-11-24",
+      "audio": "https://sphinx.acast.com/p/open/s/64807faca9ca950011965e5f/e/692347289274ead23ca29811/media.mp3",
+      "duree": 4454
     },
     {
       "titre": "#93 - La gestion du sommeil pour finir les 360km de la SwissPeaks avec Benoît Collet",
-      "date": "2025-11-11"
+      "date": "2025-11-11",
+      "audio": "https://sphinx.acast.com/p/open/s/64807faca9ca950011965e5f/e/690b98ec68ccec9b8e023a51/media.mp3",
+      "duree": 6469
     },
     {
       "titre": "#92 - Finir les 20 km de Paris 8 semaines après un 100 miles [SOLO]",
-      "date": "2025-10-27"
+      "date": "2025-10-27",
+      "audio": "https://sphinx.acast.com/p/open/s/64807faca9ca950011965e5f/e/68ffc109444d437abec89c55/media.mp3",
+      "duree": 1172
     },
     {
       "titre": "#91 - Dernier finisher du Grand Raid des Pyrénées, 50h, 2 jours et 2 nuits sans dormir",
-      "date": "2025-10-02"
+      "date": "2025-10-02",
+      "audio": "https://sphinx.acast.com/p/open/s/64807faca9ca950011965e5f/e/68de933915a2266ef487dd13/media.mp3",
+      "duree": 4395
     },
     {
       "titre": "#90 - Délaisser la route pour l'Ironman après être tombé amoureux du triathlon longue distance",
-      "date": "2025-09-23"
+      "date": "2025-09-23",
+      "audio": "https://sphinx.acast.com/p/open/s/64807faca9ca950011965e5f/e/68c6f7b96078db9201852e10/media.mp3",
+      "duree": 4625
     }
   ],
   "derniere_activite": "2025-11-24",
-  "frequence_jours": 13
+  "frequence_jours": 13,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Kouliiiiiii",
+        "titre": "On est en immersion 🔥",
+        "texte": "Je trouve ça super intéressant d’aborder le dépassement de soi comme le fait Adversité. C’est super de se plonger dans la tête et les pensées de ces athlètes !"
+      },
+      {
+        "note": 5,
+        "auteur": "B. Adel",
+        "titre": "Podcast au top !",
+        "texte": "Excellent podcast pour les amoureux du sport et du dépassement de soi. Épisodes enrichissants et motivants"
+      },
+      {
+        "note": 5,
+        "auteur": "ryback92",
+        "titre": "Courir le marathon de Paris en 2h26",
+        "texte": "Des conseils pratiques, de la valeur pour progresser en course à pied !"
+      }
+    ]
+  }
 }

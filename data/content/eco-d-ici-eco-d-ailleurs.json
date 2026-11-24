@@ -23,29 +23,27 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Chine-Europe : la bataille économique ne fait que commencer",
+      "date": "2026-11-20",
+      "audio": "https://audio.audiomeans.fr/pfx/b035a7c4-de15-11ef-9e7b-cfc4fb0c91f4/aod-rfi.akamaized.net/rfi/francais/audio/modules/actu/202611/EDIEDA_21_11_2026_web.mp3?guid=02c5663c-e4e0-11f1-aa5e-a7bbbdd286bf&source=PcNCvtcnHj",
+      "duree": 4480
+    },
+    {
+      "titre": "Afrique : les récits confisqués d'une histoire économique",
+      "date": "2026-11-13",
+      "audio": "https://audio.audiomeans.fr/pfx/b035a7c4-de15-11ef-9e7b-cfc4fb0c91f4/aod-rfi.akamaized.net/rfi/francais/audio/modules/actu/202611/EDI_EDA_14-11_web_ok.mp3?guid=317d775e-df67-11f1-baf7-4ba222d8187f&source=PcNCvtcnHj",
+      "duree": 4822
+    },
+    {
       "titre": "Midterms : Donald Trump désavoué, quels changements pour l’économie américaine?",
-      "date": "2026-11-06"
-    },
-    {
-      "titre": "Le burger, miroir de l'inflation et de l'économie mondiale",
-      "date": "2026-10-30"
-    },
-    {
-      "titre": "Cybersécurité : l'intelligence artificielle, amie des entreprises?",
-      "date": "2026-10-23"
-    },
-    {
-      "titre": "Éducation: l’avenir de la jeunesse, à quel prix?",
-      "date": "2026-10-16"
-    },
-    {
-      "titre": "IA, une course aux milliards : qui paiera la facture?",
-      "date": "2026-10-09"
+      "date": "2026-11-06",
+      "audio": "https://audio.audiomeans.fr/pfx/b035a7c4-de15-11ef-9e7b-cfc4fb0c91f4/aod-rfi.akamaized.net/rfi/francais/audio/modules/actu/202611/EDI_WEB_OK.mp3?guid=0e77cb26-da06-11f1-9d01-e325360b6a86&source=PcNCvtcnHj",
+      "duree": 3331
     }
   ],
-  "derniere_activite": "2026-11-06",
-  "frequence_jours": 7
+  "derniere_activite": "2026-11-20",
+  "frequence_jours": 6
 }

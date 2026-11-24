@@ -26,31 +26,41 @@
     "international"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Episode 8 - Ecologie en guerre : au delà des parcs naturels",
-      "date": "2026-09-16"
+      "date": "2026-09-16",
+      "audio": "https://api.spreaker.com/download/episode/75049623/episode_8_pdc_v2.mp3",
+      "duree": 1453
     },
     {
-      "titre": "(Bonus) Photojournaliste en RDC : Esther N'sapu partie 2",
-      "date": "2026-07-08"
+      "titre": "Episode 7- La Paix Impossible ?",
+      "date": "2026-03-11",
+      "audio": "https://api.spreaker.com/download/episode/70555226/episode_07.mp3",
+      "duree": 1735
     },
     {
-      "titre": "(Bonus) Photojournaliste en RDC : Esther N'sapu partie 1",
-      "date": "2026-07-01"
+      "titre": "Episode 6- Prendre Les Armes : Les Groupes Armés en RDC",
+      "date": "2026-01-14",
+      "audio": "https://api.spreaker.com/download/episode/69394202/episode_06_wav_final.mp3",
+      "duree": 1759
     },
     {
-      "titre": "(Bonus) Reporter en RDC: Colette Braeckman partie 2",
-      "date": "2026-06-24"
+      "titre": "Episode 5- Minerais Congolais : une Exploitation Meurtrière",
+      "date": "2025-11-12",
+      "audio": "https://api.spreaker.com/download/episode/68486116/episode_05.mp3",
+      "duree": 1964
     },
     {
-      "titre": "(Bonus) Reporter en RDC: Colette Braeckman partie 1",
-      "date": "2026-06-17"
+      "titre": "Episode 4- Colonie Multinationale : Capitalisme et Violence au Congo",
+      "date": "2025-09-24",
+      "audio": "https://api.spreaker.com/download/episode/67848846/episode_4_final.mp3",
+      "duree": 1862
     }
   ],
   "derniere_activite": "2026-09-16",
-  "frequence_jours": 49,
+  "frequence_jours": 55,
   "avis_publics": {
     "epuise": true,
     "releve": "2026-11-14",

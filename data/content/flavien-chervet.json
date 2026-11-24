@@ -28,26 +28,108 @@
   "updatedAt": "2026-08-03",
   "episodes_recents": [
     {
-      "titre": "Yann LeCun revient en France : ce que ça change pour l'IA européenne",
-      "date": "2026-09-03"
+      "titre": "Her : pourquoi l'amour pour une IA s'effondre à 78 000 hommes",
+      "date": "2026-11-21",
+      "video": "Cf5eMLZF9S0"
     },
     {
-      "titre": "L'IA Act sans industrie c'est un boulet : la 3ème voie européenne expliquée",
-      "date": "2026-09-01"
+      "titre": "Où se situe notre humanité quand l'IA raisonne mieux que nous ?",
+      "date": "2026-11-17",
+      "video": "f5tFxW-wGis"
     },
     {
-      "titre": "Yann LeCun, Mensch, Rondpierre : pourquoi les talents reviennent en France",
-      "date": "2026-08-29"
+      "titre": "Pourquoi 2027 sera l'année la plus intense de l'histoire de l'humanité",
+      "date": "2026-11-14",
+      "video": "XRWiAdUVCOc"
     },
     {
-      "titre": "Le sacre de l'amateur : l'IA détruit la virtuosité comme signe d'artiste",
-      "date": "2026-08-27"
+      "titre": "Navier-Stokes : un problème du millénaire résolu par 10 000 agents d'IA",
+      "date": "2026-11-10",
+      "video": "lH4cJ_e3chM"
     },
     {
-      "titre": "Le 5ème C que personne ne vous apprend (et que le monde brutal exige)",
-      "date": "2026-08-25"
+      "titre": "IA au travail : la fracture entre usage quotidien et usage agentique",
+      "date": "2026-11-05",
+      "video": "c3CruAiBj6E"
     }
   ],
-  "derniere_activite": "2026-09-03",
-  "frequence_jours": 2
+  "derniere_activite": "2026-11-21",
+  "frequence_jours": 2,
+  "videos": [
+    {
+      "titre": "Her : pourquoi l'amour pour une IA s'effondre à 78 000 hommes",
+      "date": "2026-11-21",
+      "video": "Cf5eMLZF9S0"
+    },
+    {
+      "titre": "Où se situe notre humanité quand l'IA raisonne mieux que nous ?",
+      "date": "2026-11-17",
+      "video": "f5tFxW-wGis"
+    },
+    {
+      "titre": "Pourquoi 2027 sera l'année la plus intense de l'histoire de l'humanité",
+      "date": "2026-11-14",
+      "video": "XRWiAdUVCOc"
+    },
+    {
+      "titre": "Navier-Stokes : un problème du millénaire résolu par 10 000 agents d'IA",
+      "date": "2026-11-10",
+      "video": "lH4cJ_e3chM"
+    },
+    {
+      "titre": "IA au travail : la fracture entre usage quotidien et usage agentique",
+      "date": "2026-11-05",
+      "video": "c3CruAiBj6E"
+    },
+    {
+      "titre": "World models : l'IA de Yann LeCun veut sortir de la caverne de Platon",
+      "date": "2026-11-03",
+      "video": "a7DUzDnCWMs"
+    },
+    {
+      "titre": "Pourquoi 2027 sera l'année la plus intense de l'humanité | Podcast Take Off avec Agathe Molinar",
+      "date": "2026-11-02",
+      "video": "YynnQNk3grc"
+    },
+    {
+      "titre": "Quand l'IA décidera mieux que nous, qui gardera la décision ?",
+      "date": "2026-10-31",
+      "video": "sU0hVWl-hH4"
+    },
+    {
+      "titre": "De 10 mégawatts à 4 gigawatts : l'explosion énergétique de l'IA",
+      "date": "2026-10-29",
+      "video": "z33nbs284bM"
+    },
+    {
+      "titre": "Pourquoi on paie plus cher le vase du potier (et ce que ça dit de l'IA)",
+      "date": "2026-10-27",
+      "video": "N6wJh8NyFFQ"
+    },
+    {
+      "titre": "Gouvernance par IA : et si on automatisait la politique ?",
+      "date": "2026-10-24",
+      "video": "BuIJidb867E"
+    },
+    {
+      "titre": "Après le travail : la singularité deviendra notre vraie valeur",
+      "date": "2026-10-22",
+      "video": "5_ck4-GmCH4"
+    },
+    {
+      "titre": "Robots humanoïdes : les constructeurs vendent en fait des moteurs à données",
+      "date": "2026-10-20",
+      "video": "uYhi8pjWXow"
+    },
+    {
+      "titre": "Recherche scientifique sans humain : ce qui se passe si la boucle se ferme",
+      "date": "2026-10-19",
+      "video": "IH7kR93ryAY"
+    },
+    {
+      "titre": "Vos enfants s'attacheront à des machines qui parlent : comment les y préparer ?",
+      "date": "2026-10-17",
+      "video": "C21DXejYMoE"
+    }
+  ]
 }

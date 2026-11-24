@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/les-balades-gourmandes/id1814370517?uo=2",
       "trackId": 1814370517,
-      "rating": 3.6,
-      "ratingCount": 11,
+      "rating": 3.8,
+      "ratingCount": 12,
       "episodeCount": null
     }
   },
@@ -27,29 +27,39 @@
     "culture"
   ],
   "addedAt": "2026-06-27",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Il n'y a pas une faute de goût dans les constructions à Carnac",
+      "date": "2026-11-22",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/64ae7ff1-a9b4-4119-8f83-bf5138434330.mp3?_=1795337583",
+      "duree": 214
+    },
+    {
+      "titre": "Trois lieux à voir absolument en Argentine en dehors de Buenos Aires",
+      "date": "2026-11-21",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/ff4caf54-497b-4350-9fad-d9e2bc140d41.mp3?_=1795251182",
+      "duree": 211
+    },
+    {
+      "titre": "Les amoureux de châteaux, de vieux ponts de pierre, de moulins d'époque seront comblés par le village de Flagy",
+      "date": "2026-11-15",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/f0c8281b-d78d-4124-8788-3e7a12c9d1d3.mp3?_=1794731882",
+      "duree": 219
+    },
+    {
+      "titre": "La beauté de Dieppe se concentre dans son bord de mer",
+      "date": "2026-11-14",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/6b919bdd-b0c0-46aa-86b5-a20ee2934a78.mp3?_=1794646084",
+      "duree": 218
+    },
+    {
       "titre": "Rio, une ville pleine de l'histoire des conquistadors",
-      "date": "2026-11-08"
-    },
-    {
-      "titre": "Brice, Aubazine, Collonges-la-Rouge... Merveilles de Corrèze",
-      "date": "2026-11-07"
-    },
-    {
-      "titre": "Bologne, une ville bourrée de charme en plus d'offrir mille merveilles à découvrir",
-      "date": "2026-11-01"
-    },
-    {
-      "titre": "Saint-Malo, en quelque sorte une ville albatros, qui a conquis le monde avant les autres",
-      "date": "2026-10-31"
-    },
-    {
-      "titre": "Villeréal, superbe bastide du département du Lot-et-Garonne",
-      "date": "2026-10-25"
+      "date": "2026-11-08",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/f425c236-cc8b-40b8-a06c-5359d821f1fe.mp3?_=1794131582",
+      "duree": 181
     }
   ],
-  "derniere_activite": "2026-11-08",
+  "derniere_activite": "2026-11-22",
   "frequence_jours": 5
 }

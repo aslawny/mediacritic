@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/les-lundis-du-1/id1747883340?uo=4",
       "trackId": 1747883340,
       "rating": 5.0,
-      "ratingCount": 8,
+      "ratingCount": 9,
       "episodeCount": 23
     }
   },
@@ -27,29 +27,39 @@
     "international"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Yannick Haenel - Indemne",
+      "date": "2026-11-20",
+      "audio": "https://sphinx.acast.com/p/open/s/66029b3abd54ca00166b677c/e/6b004bbb8cc2ad58c77e63a6/media.mp3",
+      "duree": 3178
+    },
+    {
       "titre": "Bernard-Henri Lévy - Provisoire",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://sphinx.acast.com/p/open/s/66029b3abd54ca00166b677c/e/6aeb3894024b9dcc82580187/media.mp3",
+      "duree": 3217
     },
     {
       "titre": "Julia De Funès - Distinction",
-      "date": "2026-07-07"
+      "date": "2026-07-07",
+      "audio": "https://sphinx.acast.com/p/open/s/66029b3abd54ca00166b677c/e/6a4d01b17c0256f639546829/media.mp3",
+      "duree": 3144
     },
     {
       "titre": "Gilles Gressani - Résistance",
-      "date": "2026-06-16"
+      "date": "2026-06-16",
+      "audio": "https://sphinx.acast.com/p/open/s/66029b3abd54ca00166b677c/e/6a312140441ab5ca22577dc2/media.mp3",
+      "duree": 2663
     },
     {
       "titre": "Brice Teinturier - Clarté",
-      "date": "2026-04-20"
-    },
-    {
-      "titre": "Tony Estanguet - Audace",
-      "date": "2026-03-20"
+      "date": "2026-04-20",
+      "audio": "https://sphinx.acast.com/p/open/s/66029b3abd54ca00166b677c/e/69e5fd020b4baf3bf22259ff/media.mp3",
+      "duree": 2552
     }
   ],
-  "derniere_activite": "2026-11-04",
-  "frequence_jours": 33
+  "derniere_activite": "2026-11-20",
+  "frequence_jours": 31
 }

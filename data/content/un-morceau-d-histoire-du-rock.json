@@ -25,29 +25,39 @@
     "culture"
   ],
   "addedAt": "2026-08-02",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Un Morceau d’Histoire du Rock – Émission du 16/11/2026",
+      "date": "2026-11-16",
+      "audio": "https://op3.dev/e/https://www.graffitiradio.fr/podcasts/2026-11-16-19-30.mp3",
+      "duree": 7228
+    },
+    {
       "titre": "Un Morceau d’Histoire du Rock – Émission du 09/11/2026",
-      "date": "2026-11-09"
+      "date": "2026-11-09",
+      "audio": "https://op3.dev/e/https://www.graffitiradio.fr/podcasts/2026-11-09-19-30.mp3",
+      "duree": 7237
     },
     {
       "titre": "Un Morceau d’Histoire du Rock – Émission du 02/11/2026",
-      "date": "2026-11-02"
+      "date": "2026-11-02",
+      "audio": "https://op3.dev/e/https://www.graffitiradio.fr/podcasts/2026-11-02-19-30.mp3",
+      "duree": 7213
     },
     {
       "titre": "Un Morceau d’Histoire du Rock – Émission du 26/10/2026",
-      "date": "2026-10-26"
+      "date": "2026-10-26",
+      "audio": "https://op3.dev/e/https://www.graffitiradio.fr/podcasts/2026-10-26-19-30.mp3",
+      "duree": 7175
     },
     {
       "titre": "Un Morceau d’Histoire du Rock – Émission du 19/10/2026",
-      "date": "2026-10-19"
-    },
-    {
-      "titre": "Un Morceau d’Histoire du Rock – Émission du 12/10/2026",
-      "date": "2026-10-12"
+      "date": "2026-10-19",
+      "audio": "https://op3.dev/e/https://www.graffitiradio.fr/podcasts/2026-10-19-19-30.mp3",
+      "duree": 7209
     }
   ],
-  "derniere_activite": "2026-11-09",
+  "derniere_activite": "2026-11-16",
   "frequence_jours": 7
 }

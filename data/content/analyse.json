@@ -26,27 +26,37 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "#Analyse 7 Spécial Worlds",
-      "date": "2023-10-16"
+      "date": "2023-10-16",
+      "audio": "https://www.buzzsprout.com/1677424/episodes/13785034-analyse-7-special-worlds.mp3",
+      "duree": 20060
     },
     {
       "titre": "#Analyse S03E06 Spécial MSI avec Zack Nani",
-      "date": "2023-05-02"
+      "date": "2023-05-02",
+      "audio": "https://www.buzzsprout.com/1677424/episodes/12767261-analyse-s03e06-special-msi-avec-zack-nani.mp3",
+      "duree": 9270
     },
     {
       "titre": "#Analyse S3E05 avec Slipix",
-      "date": "2023-02-16"
+      "date": "2023-02-16",
+      "audio": "https://www.buzzsprout.com/1677424/episodes/12266217-analyse-s3e05-avec-slipix.mp3",
+      "duree": 8024
     },
     {
       "titre": "#Analyse S3E04 avec Amine",
-      "date": "2022-12-09"
+      "date": "2022-12-09",
+      "audio": "https://www.buzzsprout.com/1677424/episodes/11842399-analyse-s3e04-avec-amine.mp3",
+      "duree": 6359
     },
     {
       "titre": "#Analyse S3E03 Edition spéciale Worlds",
-      "date": "2022-09-30"
+      "date": "2022-09-30",
+      "audio": "https://www.buzzsprout.com/1677424/episodes/11410104-analyse-s3e03-edition-speciale-worlds.mp3",
+      "duree": 18554
     }
   ],
   "derniere_activite": "2023-10-16",

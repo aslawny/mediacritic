@@ -24,27 +24,37 @@
     "tech",
     "numérique"
   ],
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "#107 Un grain de sable dans la machine avec Juliette Brigand et Nicolas Celnik",
-      "date": "2026-05-28"
+      "date": "2026-05-28",
+      "audio": "https://feeds.soundcloud.com/stream/2323719908-techologie-107-un-grain-de-sable-dans-la-machine.mp3",
+      "duree": 1893
     },
     {
       "titre": "#106 Le numérique dans le secteur culturel avec Christine Debray, Camille Pène et Romane Clément",
-      "date": "2026-05-13"
+      "date": "2026-05-13",
+      "audio": "https://feeds.soundcloud.com/stream/2316422693-techologie-106-numerique-et-secteur-culturel.mp3",
+      "duree": 2841
     },
     {
       "titre": "#105 L'échec du numérique éducatif avec Arnaud Levy",
-      "date": "2026-03-26"
+      "date": "2026-03-26",
+      "audio": "https://feeds.soundcloud.com/stream/2286029282-techologie-105-echec-du-numerique-educatif.mp3",
+      "duree": 3098
     },
     {
       "titre": "#104 Decolonize tech with Rania Youssef",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "audio": "https://feeds.soundcloud.com/stream/2268876068-techologie-104-decolonize-tech.mp3",
+      "duree": 1664
     },
     {
       "titre": "#103 Plug, baby, plug : les impacts du data center avec Cécile Diguet",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "audio": "https://feeds.soundcloud.com/stream/2263708376-techologie-103-plug-baby-plug-datacenter.mp3",
+      "duree": 3100
     }
   ],
   "derniere_activite": "2026-05-28",

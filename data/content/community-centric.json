@@ -25,29 +25,61 @@
     "business"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "#32 - Passer de 0 à 1 dans son projet grâce à la communauté",
-      "date": "2024-03-26"
+      "date": "2024-03-26",
+      "audio": "https://anchor.fm/s/69ab27b4/podcast/play/80719659/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-2%2Ffd7480db-940f-ba38-390b-fa41c1d0fcdd.mp3",
+      "duree": 2178
     },
     {
       "titre": "#31 - Les clés pour développer une communauté d’employés",
-      "date": "2024-03-12"
+      "date": "2024-03-12",
+      "audio": "https://anchor.fm/s/69ab27b4/podcast/play/80233084/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-19%2Fccc309a8-3b2e-13c9-3441-ea2a1b8ec12f.mp3",
+      "duree": 2200
     },
     {
       "titre": "#30 - Structurer or not structurer sa communauté : telle est la question",
-      "date": "2024-02-27"
+      "date": "2024-02-27",
+      "audio": "https://anchor.fm/s/69ab27b4/podcast/play/80232302/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-19%2F73629b10-650c-fe62-5547-6b5217057de3.mp3",
+      "duree": 1954
     },
     {
       "titre": "#29 - Tester et itérer pour construire sa communauté : Marketing Flow",
-      "date": "2024-02-13"
+      "date": "2024-02-13",
+      "audio": "https://anchor.fm/s/69ab27b4/podcast/play/78444198/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-10%2Faf205689-1ccb-e831-2972-381dd124aea1.mp3",
+      "duree": 2329
     },
     {
       "titre": "#28 - Préparer et accompagner sa communauté à scaler",
-      "date": "2023-12-05"
+      "date": "2023-12-05",
+      "audio": "https://anchor.fm/s/69ab27b4/podcast/play/78443418/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-10%2F22dc4adb-3357-d129-4fcd-57dd54538423.mp3",
+      "duree": 2222
     }
   ],
   "derniere_activite": "2024-03-26",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-24",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

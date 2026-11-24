@@ -24,27 +24,37 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "#22 - Tanguy Le Turquais / Un navigateur pas si solitaire",
-      "date": "2026-09-17"
+      "date": "2026-09-17",
+      "audio": "https://sphinx.acast.com/p/open/s/653935eec7371a0012e30ba8/e/6aac5560fca3d5c77b175942/media.mp3",
+      "duree": 3870
     },
     {
       "titre": "#21 - Nathanaël Sapey / Explorer, filmer, garder une trace",
-      "date": "2026-06-02"
+      "date": "2026-06-02",
+      "audio": "https://sphinx.acast.com/p/open/s/653935eec7371a0012e30ba8/e/6a1edecfa5a56cd151f6e860/media.mp3",
+      "duree": 3501
     },
     {
       "titre": "#20 - Sébastien & Mia Raichon / Transmettre et inspiré par l'ultra endurance !",
-      "date": "2026-04-15"
+      "date": "2026-04-15",
+      "audio": "https://sphinx.acast.com/p/open/s/653935eec7371a0012e30ba8/e/69df4f2c59baa7e2287d12c7/media.mp3",
+      "duree": 3119
     },
     {
       "titre": "#19 - Boris Ghirardi / Trailer amputé tibial - Se battre pour un accès inclusif au sport",
-      "date": "2025-09-30"
+      "date": "2025-09-30",
+      "audio": "https://sphinx.acast.com/p/open/s/653935eec7371a0012e30ba8/e/68dc0db47be17a7f010b8de3/media.mp3",
+      "duree": 4960
     },
     {
       "titre": "#18 - Elise Poncet et Mélanie Cannac / Athlète et photographe - La montagne dans la peau",
-      "date": "2025-08-21"
+      "date": "2025-08-21",
+      "audio": "https://sphinx.acast.com/p/open/s/653935eec7371a0012e30ba8/e/68a63e5f73bf5b62983039a3/media.mp3",
+      "duree": 4057
     }
   ],
   "derniere_activite": "2026-09-17",

@@ -1,0 +1,32 @@
+{
+  "slug": "the-dose",
+  "title": "The Dose",
+  "author": "CBC",
+  "type": "podcast",
+  "categories": [
+    "sante",
+    "bien-etre"
+  ],
+  "tags": [
+    "sante",
+    "bien-etre"
+  ],
+  "description": "A weekly look at the health news that matters to you. Dr. Brian Goldman brings you the best science from top experts in plain language. He cuts through the BS and confusion to give you a dose of smart advice that you won’t find anywhere else. New episodes every Thursday.",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/22/8d/97/228d97a6-8bdc-32f2-9f45-7cd1a9163dcb/mza_2939892163788522278.jpg/600x600bb.jpg",
+  "langue": "en",
+  "language": "en",
+  "pays": "CA",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/ca/podcast/the-dose/id1498259551",
+      "trackId": 1498259551,
+      "rating": 4.7,
+      "ratingCount": 1098,
+      "episodeCount": 303,
+      "feedUrl": "https://www.cbc.ca/podcasting/includes/thedose.xml"
+    }
+  },
+  "mediacritic": null,
+  "addedAt": "2026-11-24",
+  "updatedAt": "2026-11-24"
+}

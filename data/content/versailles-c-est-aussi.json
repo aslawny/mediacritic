@@ -26,29 +26,39 @@
     "societe"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Caroline et Alexandre Millet, fondateurs de l'épicerie City Vrac",
+      "date": "2026-11-12",
+      "audio": "https://anchor.fm/s/10211fc94/podcast/play/129044701/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F436556321-44100-2-9779ab45fe5b.m4a",
+      "duree": 2240
+    },
+    {
       "titre": "Le Campus Versailles, dédié aux métiers de l'artisanat et du patrimoine, avec Armelle Weisman, sa directrice",
-      "date": "2026-06-18"
+      "date": "2026-06-18",
+      "audio": "https://anchor.fm/s/10211fc94/podcast/play/121393025/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-12%2F426025589-44100-2-f792c9f858fb1.m4a",
+      "duree": 2080
     },
     {
       "titre": "Alban Kuntz, artisan boulanger, pâtissier, chocolatier.",
-      "date": "2026-05-05"
+      "date": "2026-05-05",
+      "audio": "https://anchor.fm/s/10211fc94/podcast/play/119286836/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-30%2F423199120-44100-2-1cada89c99caa.m4a",
+      "duree": 2266
     },
     {
       "titre": "Les filles de la Plaine, un collectif de 5 agricultrices sur la plaine de Versailles",
-      "date": "2026-03-17"
+      "date": "2026-03-17",
+      "audio": "https://anchor.fm/s/10211fc94/podcast/play/116866441/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-16%2F420137257-44100-2-caae861291808.m4a",
+      "duree": 1700
     },
     {
       "titre": "Alexandre Julien, jardinier au château de Versailles, responsable du hameau de la Reine et du jardin anglais.",
-      "date": "2026-01-27"
-    },
-    {
-      "titre": "Xavier Pincemin, le chef qui fait bouger Versailles",
-      "date": "2025-12-09"
+      "date": "2026-01-27",
+      "audio": "https://anchor.fm/s/10211fc94/podcast/play/114536127/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-25%2F223eef6d-6df5-737b-3efe-713be961dfc8.mp3",
+      "duree": 1560
     }
   ],
-  "derniere_activite": "2026-06-18",
-  "frequence_jours": 44
+  "derniere_activite": "2026-11-12",
+  "frequence_jours": 48
 }

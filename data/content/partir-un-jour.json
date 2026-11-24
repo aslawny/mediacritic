@@ -26,27 +26,37 @@
     "societe"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Vérone, Sirmione et le Lac de Garde",
-      "date": "2026-03-16"
+      "date": "2026-03-16",
+      "audio": "https://op3.dev/e/www.partirunjour.fr/-podcast/partirunjour23.mp3",
+      "duree": 1220
     },
     {
       "titre": "Kyoto et ses environs",
-      "date": "2024-11-01"
+      "date": "2024-11-01",
+      "audio": "https://op3.dev/e/www.partirunjour.fr/-podcast/partirunjour22.mp3",
+      "duree": 2497
     },
     {
       "titre": "Hiroshima et Miyajima",
-      "date": "2022-03-17"
+      "date": "2022-03-17",
+      "audio": "https://op3.dev/e/www.partirunjour.fr/-podcast/partirunjour21.mp3",
+      "duree": 1500
     },
     {
       "titre": "Nara et Osaka",
-      "date": "2021-09-12"
+      "date": "2021-09-12",
+      "audio": "https://op3.dev/e/www.partirunjour.fr/-podcast/partirunjour20.mp3",
+      "duree": 1475
     },
     {
       "titre": "Autour de Tokyo",
-      "date": "2021-03-21"
+      "date": "2021-03-21",
+      "audio": "https://op3.dev/e/www.partirunjour.fr/-podcast/partirunjour19.mp3",
+      "duree": 2004
     }
   ],
   "derniere_activite": "2026-03-16",

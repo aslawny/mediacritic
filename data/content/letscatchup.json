@@ -26,27 +26,37 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Série Kinshasa avec Me Cathy Nzeba Kanda",
-      "date": "2022-07-05"
+      "date": "2022-07-05",
+      "audio": "https://www.buzzsprout.com/971968/episodes/9724938-serie-kinshasa-avec-me-cathy-nzeba-kanda.mp3",
+      "duree": 758
     },
     {
       "titre": "Série Kinshasa avec Soraya Odia",
-      "date": "2022-06-17"
+      "date": "2022-06-17",
+      "audio": "https://www.buzzsprout.com/971968/episodes/9724933-serie-kinshasa-avec-soraya-odia.mp3",
+      "duree": 1004
     },
     {
       "titre": "Série Kinshasa avec Le Choix de Nadine",
-      "date": "2022-05-29"
+      "date": "2022-05-29",
+      "audio": "https://www.buzzsprout.com/971968/episodes/9724937-serie-kinshasa-avec-le-choix-de-nadine.mp3",
+      "duree": 1010
     },
     {
       "titre": "Série Kinshasa avec Tracy Tansia",
-      "date": "2022-05-16"
+      "date": "2022-05-16",
+      "audio": "https://www.buzzsprout.com/971968/episodes/9724931-serie-kinshasa-avec-tracy-tansia.mp3",
+      "duree": 1691
     },
     {
       "titre": "Ma première fois au Congo RDC",
-      "date": "2022-04-22"
+      "date": "2022-04-22",
+      "audio": "https://www.buzzsprout.com/971968/episodes/10114466-ma-premiere-fois-au-congo-rdc.mp3",
+      "duree": 3521
     }
   ],
   "derniere_activite": "2022-07-05",

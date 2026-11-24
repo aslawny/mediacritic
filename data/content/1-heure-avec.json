@@ -23,29 +23,39 @@
     "musique"
   ],
   "addedAt": "2026-09-14",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "1 heure avec... Didier Barbelivien",
+      "date": "2026-11-22",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/17e208ae-3fea-402c-88c9-08a796f566e1.mp3?_=1795345055",
+      "duree": 1231
+    },
+    {
+      "titre": "1 heure avec... Joyce Jonathan",
+      "date": "2026-11-15",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/c09d5fa7-2834-4255-bbcb-8d95dabe7aac.mp3?_=1794740293",
+      "duree": 1202
+    },
+    {
       "titre": "1 heure avec... Vianney",
-      "date": "2026-11-08"
+      "date": "2026-11-08",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/4829ecd6-47ac-4b7c-a58d-09fcf442dba3.mp3?_=1794135373",
+      "duree": 1203
     },
     {
       "titre": "1 heure avec... Oria",
-      "date": "2026-11-01"
+      "date": "2026-11-01",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/f4c2b78d-a7d3-4f29-b370-405ad20898b5.mp3?_=1793530480",
+      "duree": 1217
     },
     {
       "titre": "1 heure avec... Pascal Obispo",
-      "date": "2026-10-25"
-    },
-    {
-      "titre": "1 heure avec... Hoshi",
-      "date": "2026-10-18"
-    },
-    {
-      "titre": "1 heure avec... Zazie",
-      "date": "2026-10-11"
+      "date": "2026-10-25",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/41072ae7-06b3-40f3-8cad-732ec2b796d7.mp3?_=1792925765",
+      "duree": 1255
     }
   ],
-  "derniere_activite": "2026-11-08",
+  "derniere_activite": "2026-11-22",
   "frequence_jours": 7
 }

@@ -25,31 +25,41 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "#569: Connecting Agents to Data via MCP, CLI, and More",
+      "date": "2026-11-16",
+      "audio": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/talkpython.fm/episodes/download/569/connecting-agents-to-data-via-mcp-cli-and-more.mp3?v=2",
+      "duree": 3764
+    },
+    {
       "titre": "#568: Cloudflare Python Workers",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "audio": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/talkpython.fm/episodes/download/568/cloudflare-python-workers.mp3?v=2",
+      "duree": 3731
     },
     {
       "titre": "#567: Personal AI Agents for Pythonistas",
-      "date": "2026-10-27"
+      "date": "2026-10-27",
+      "audio": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/talkpython.fm/episodes/download/567/personal-ai-agents-for-pythonistas.mp3?v=2",
+      "duree": 3998
     },
     {
       "titre": "#566: State of the art in Python 2026",
-      "date": "2026-10-17"
+      "date": "2026-10-17",
+      "audio": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/talkpython.fm/episodes/download/566/state-of-the-art-in-python-2026.mp3?v=2",
+      "duree": 3913
     },
     {
       "titre": "#565: Tachyon, Python 3.15's Built-in Sampling Profiler",
-      "date": "2026-10-02"
-    },
-    {
-      "titre": "#564: EVE Online Departs for Python 3",
-      "date": "2026-09-22"
+      "date": "2026-10-02",
+      "audio": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/talkpython.fm/episodes/download/565/tachyon-python-3.15s-built-in-sampling-profiler.mp3",
+      "duree": 5266
     }
   ],
-  "derniere_activite": "2026-11-03",
-  "frequence_jours": 7,
+  "derniere_activite": "2026-11-16",
+  "frequence_jours": 8,
   "avis_publics": {
     "epuise": true,
     "releve": "2026-11-15",

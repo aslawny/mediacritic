@@ -23,27 +23,37 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "NOUVELLE ECOLE SAISON 5 ça vaut quoi ?",
-      "date": "2026-09-03"
+      "date": "2026-09-03",
+      "audio": "https://anchor.fm/s/142764b0/podcast/play/125161451/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-3%2F431124183-44100-2-8d65e35b283f8.mp3",
+      "duree": 333
     },
     {
       "titre": "NOUVELLE ÉCOLE S5 (Éps 4-6) : La chute du favori, purge à Nice et le hold-up Typhee !",
-      "date": "2026-09-03"
+      "date": "2026-09-03",
+      "audio": "https://anchor.fm/s/142764b0/podcast/play/125160834/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-3%2F431123315-44100-2-034441b6e190b.mp3",
+      "duree": 429
     },
     {
       "titre": "L'IA tue-t-elle le rap ? Polémique Le Motif, Fianso, SDM, PLK",
-      "date": "2026-09-01"
+      "date": "2026-09-01",
+      "audio": "https://anchor.fm/s/142764b0/podcast/play/125042454/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-1%2F430966359-44100-2-b65cf43535402.mp3",
+      "duree": 416
+    },
+    {
+      "titre": "HAMZA lâche l'EP de l'année ? ALONZO détruit le Vélodrome ! (Lacrim, DVM, Leto...)",
+      "date": "2026-06-09",
+      "audio": "https://anchor.fm/s/142764b0/podcast/play/121235632/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-9%2F425816322-44100-2-b4e78a0c6a762.mp3",
+      "duree": 997
     },
     {
       "titre": "Nouvelle Fournée : Rap Hardcore et Projets Mélodiques",
-      "date": "2024-09-25"
-    },
-    {
-      "titre": "Salut c'est la rentrée, jsuis là",
-      "date": "2024-09-18"
+      "date": "2024-09-25",
+      "audio": "https://anchor.fm/s/142764b0/podcast/play/92184209/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-25%2F387035803-44100-2-7cc59dd6db561.mp3",
+      "duree": 506
     }
   ],
   "derniere_activite": "2026-09-03",

@@ -27,30 +27,40 @@
     "football americain"
   ],
   "addedAt": "2026-11-02",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "MMA : Salahdine Parnasse, nouvelle star de l'UFC ?",
+      "date": "2026-11-17",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2971645.mp3?origin=rss",
+      "duree": 2606
+    },
+    {
       "titre": "XV de France : l'inquiétante hécatombe",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2918837.mp3?origin=rss",
+      "duree": 1365
     },
     {
       "titre": "Rolex Paris Masters : le plus grand tournoi indoor au monde",
-      "date": "2026-10-27"
+      "date": "2026-10-27",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2871442.mp3?origin=rss",
+      "duree": 1946
     },
     {
       "titre": "Route du Rhum : la mythique course au large",
-      "date": "2026-10-20"
+      "date": "2026-10-20",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2800954.mp3?origin=rss",
+      "duree": 2576
     },
     {
       "titre": "La NFL débarque enfin en France !",
-      "date": "2026-10-01"
-    },
-    {
-      "titre": "Zidane sélectionneur : l'aura suffit-elle aux Bleus ?",
-      "date": "2026-09-29"
+      "date": "2026-10-01",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2778404.mp3?origin=rss",
+      "duree": 3217
     }
   ],
-  "derniere_activite": "2026-11-03",
+  "derniere_activite": "2026-11-17",
   "frequence_jours": 7,
   "avis_publics": {
     "epuise": true,

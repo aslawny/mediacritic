@@ -24,27 +24,37 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Quickie #3 - Mission Impossible, Lalo Schifrin",
-      "date": "2021-04-23"
+      "date": "2021-04-23",
+      "audio": "https://anchor.fm/s/407ef320/podcast/play/32057359/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-23%2F1241933b-3674-de2f-32d8-f07953f1de95.mp3",
+      "duree": 720
     },
     {
       "titre": "Quickie #2 - Retour vers le Futur, Alan Silvestri",
-      "date": "2021-01-31"
+      "date": "2021-01-31",
+      "audio": "https://anchor.fm/s/407ef320/podcast/play/26002010/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-15%2F9b76c34a-739f-b374-aacc-ff6246ca41a4.mp3",
+      "duree": 1130
     },
     {
       "titre": "Quickie #1 - Basic Instinct, Jerry Goldsmith",
-      "date": "2021-01-15"
+      "date": "2021-01-15",
+      "audio": "https://anchor.fm/s/407ef320/podcast/play/25242302/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-15%2F145800692-44100-2-20d8d372d512d.m4a",
+      "duree": 990
     },
     {
       "titre": "Hors Série - Interview de Jimmy Tillier, Compositeur du Visiteur du Futur",
-      "date": "2021-01-08"
+      "date": "2021-01-08",
+      "audio": "https://anchor.fm/s/407ef320/podcast/play/24932474/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-19%2F6a606351-3cf4-dc6d-0150-b9c772c0187a.mp3",
+      "duree": 5059
     },
     {
       "titre": "#05 - Danny Elfman (Avec Mathis Bouveret-Akengin)",
-      "date": "2020-12-25"
+      "date": "2020-12-25",
+      "audio": "https://anchor.fm/s/407ef320/podcast/play/24415873/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-26%2F4fa1c5fd-5f73-3467-e45f-dcb3644256e9.mp3",
+      "duree": 3905
     }
   ],
   "derniere_activite": "2021-04-23",

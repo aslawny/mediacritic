@@ -29,25 +29,107 @@
   "episodes_recents": [
     {
       "titre": "Qu'est-ce qu'une IDOR ? Exploitation et prévention",
-      "date": "2026-04-30"
+      "date": "2026-04-30",
+      "video": "Xj_tE_EIkc4"
     },
     {
       "titre": "Live Pentest & Cybersécurité #rediffusion du 09/04/2026",
-      "date": "2026-04-09"
+      "date": "2026-04-09",
+      "video": "1H1jkyGbVa4"
     },
     {
       "titre": "Live Pentest & Cybersécurité #rediffusion du 02/04/2026",
-      "date": "2026-04-02"
+      "date": "2026-04-02",
+      "video": "RetNl8hftVU"
     },
     {
       "titre": "Comment détecter et exploiter la faille critique React2Shell (CVE-2025-55182)",
-      "date": "2025-12-14"
+      "date": "2025-12-14",
+      "video": "b624MAOSGdY"
     },
     {
       "titre": "Comment auditer et corriger une application Symfony #rediffusion du 09/11/2025",
-      "date": "2025-11-10"
+      "date": "2025-11-10",
+      "video": "oKvybGaLnw8"
     }
   ],
   "derniere_activite": "2026-04-30",
-  "frequence_jours": 13
+  "frequence_jours": 13,
+  "videos": [
+    {
+      "titre": "Qu'est-ce qu'une IDOR ? Exploitation et prévention",
+      "date": "2026-04-30",
+      "video": "Xj_tE_EIkc4"
+    },
+    {
+      "titre": "Live Pentest & Cybersécurité #rediffusion du 09/04/2026",
+      "date": "2026-04-09",
+      "video": "1H1jkyGbVa4"
+    },
+    {
+      "titre": "Live Pentest & Cybersécurité #rediffusion du 02/04/2026",
+      "date": "2026-04-02",
+      "video": "RetNl8hftVU"
+    },
+    {
+      "titre": "Comment détecter et exploiter la faille critique React2Shell (CVE-2025-55182)",
+      "date": "2025-12-14",
+      "video": "b624MAOSGdY"
+    },
+    {
+      "titre": "Comment auditer et corriger une application Symfony #rediffusion du 09/11/2025",
+      "date": "2025-11-10",
+      "video": "oKvybGaLnw8"
+    },
+    {
+      "titre": "Exploitation de Labs PortSwigger : HTTP request smuggling, XSS #rediffusion du 26/10/2025",
+      "date": "2025-10-27",
+      "video": "S8Q88u2NCKo"
+    },
+    {
+      "titre": "On a fait des Labs PortSwigger (Droits, GraphQL) #rediffusion du 19/10/2025",
+      "date": "2025-10-19",
+      "video": "tBtjqSip9mk"
+    },
+    {
+      "titre": "Découvrez le pouvoir d'AuthMatrix pour tester les droits utilisateurs !",
+      "date": "2025-10-06",
+      "video": "uYGu5wiHYeo"
+    },
+    {
+      "titre": "On a fait des Labs PortSwigger (Access control, SQLi...) #rediffusion du 05/10/2025",
+      "date": "2025-10-05",
+      "video": "5cqoamdZVvE"
+    },
+    {
+      "titre": "On pirate des trucs (Machines Hack The Box Code) #rediffusion du 21/09/2025",
+      "date": "2025-09-21",
+      "video": "kczM-1ADa4k"
+    },
+    {
+      "titre": "On pirate des trucs (Machines Hack The Box Planning) #rediffusion du 14/09/2025",
+      "date": "2025-09-14",
+      "video": "uYoxT7DGWus"
+    },
+    {
+      "titre": "On pirate des trucs (Machines Hack The Box Cap) #rediffusion du 04/09/2025",
+      "date": "2025-09-04",
+      "video": "A4P0t3Cy2Xg"
+    },
+    {
+      "titre": "On pirate des trucs (Machines Hack The Box TwoMillion) #rediffusion live 28/08/2025 partie 2",
+      "date": "2025-08-28",
+      "video": "vyBrQh8emKU"
+    },
+    {
+      "titre": "On pirate des trucs (Machines Hack The Box TwoMillion) #rediffusion live 28/08/2025 partie 1",
+      "date": "2025-08-28",
+      "video": "-XLmLOLKabc"
+    },
+    {
+      "titre": "L'attaque MiTM démontrée en direct | Ettercap expliqué",
+      "date": "2025-08-22",
+      "video": "qh0h8S5e7F4"
+    }
+  ]
 }

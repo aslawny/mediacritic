@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/lheure-du-go%C3%BBter/id1838480989?uo=2",
       "trackId": 1838480989,
       "rating": 5.0,
-      "ratingCount": 13,
+      "ratingCount": 14,
       "episodeCount": null
     }
   },
@@ -25,29 +25,61 @@
     "cuisine"
   ],
   "addedAt": "2026-09-05",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "EP12 : Marine Leonardi et Antek viennent prendre le goûter",
+      "date": "2026-11-18",
+      "audio": "https://sphinx.acast.com/p/open/s/68beefa827f4c23a1de2f433/e/6afaca87cc76a302c4bfa2e1/media.mp3",
+      "duree": 2661
+    },
+    {
       "titre": "EP11 : Aurélie Saada vient prendre le goûter",
-      "date": "2026-10-15"
+      "date": "2026-10-15",
+      "audio": "https://sphinx.acast.com/p/open/s/68beefa827f4c23a1de2f433/e/6acbe1f439599f7c56c76b58/media.mp3",
+      "duree": 2067
     },
     {
       "titre": "EP10 : Martin Darondeau et Enya Baroux viennent prendre le goûter",
-      "date": "2026-06-18"
+      "date": "2026-06-18",
+      "audio": "https://sphinx.acast.com/p/open/s/68beefa827f4c23a1de2f433/e/6a27e3be427484b4a424f397/media.mp3",
+      "duree": 3528
     },
     {
       "titre": "EP09 : Alexandre Cammas et Marine Bidaud viennent prendre le goûter",
-      "date": "2026-05-21"
+      "date": "2026-05-21",
+      "audio": "https://sphinx.acast.com/p/open/s/68beefa827f4c23a1de2f433/e/6a0b9563fd0523152a3d796b/media.mp3",
+      "duree": 3440
     },
     {
       "titre": "EP08 : Marion Graux invite Jennifer Hart-Smith à prendre le goûter",
-      "date": "2026-04-16"
-    },
-    {
-      "titre": "EP07 : Julia Sammut invite Nicolas Rouvière à prendre le goûter",
-      "date": "2026-03-19"
+      "date": "2026-04-16",
+      "audio": "https://sphinx.acast.com/p/open/s/68beefa827f4c23a1de2f433/e/69dd07993472e03bc7fbda03/media.mp3",
+      "duree": 3344
     }
   ],
-  "derniere_activite": "2026-10-15",
-  "frequence_jours": 28
+  "derniere_activite": "2026-11-18",
+  "frequence_jours": 28,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-24",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

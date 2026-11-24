@@ -27,27 +27,37 @@
     "cuisine"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Guerlinade",
-      "date": "2020-03-27"
+      "date": "2020-03-27",
+      "audio": "https://sphinx.acast.com/p/open/s/5bdc32c215ec3a4a7dbfd328/e/5e7e2d1d029456e5105b8f4d/media.mp3",
+      "duree": 1301
     },
     {
       "titre": "Between Emotion & Creation",
-      "date": "2020-03-27"
+      "date": "2020-03-27",
+      "audio": "https://sphinx.acast.com/p/open/s/5bdc32c215ec3a4a7dbfd328/e/5e7e2cdc8d7f704674fb4a4f/media.mp3",
+      "duree": 1087
     },
     {
       "titre": "Becoming Perfumer",
-      "date": "2020-03-27"
+      "date": "2020-03-27",
+      "audio": "https://sphinx.acast.com/p/open/s/5bdc32c215ec3a4a7dbfd328/e/5e7e2c34029456e5105b8f4c/media.mp3",
+      "duree": 1462
     },
     {
       "titre": "The scents of festive seasons",
-      "date": "2019-12-26"
+      "date": "2019-12-26",
+      "audio": "https://sphinx.acast.com/p/open/s/5bdc32c215ec3a4a7dbfd328/e/5e04c1bcbd860fd53f965f7f/media.mp3",
+      "duree": 951
     },
     {
       "titre": "Note de cœur #19: Les fêtes de fin d'année en senteur",
-      "date": "2019-12-26"
+      "date": "2019-12-26",
+      "audio": "https://sphinx.acast.com/p/open/s/5bdc32c215ec3a4a7dbfd328/e/5e0489e78a389e0f3fd85309/media.mp3",
+      "duree": 803
     }
   ],
   "derniere_activite": "2020-03-27",

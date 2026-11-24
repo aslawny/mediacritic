@@ -24,29 +24,65 @@
     "business"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "De 0 à 10M€ sans lever : Le CTO de l'ombre balance tout (Argent, Échecs, IA) - François Lecroart",
-      "date": "2026-05-01"
+      "date": "2026-05-01",
+      "audio": "https://anchor.fm/s/104aa30e8/podcast/play/119311911/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-30%2F423233974-44100-2-073b6265b4ada.mp3",
+      "duree": 4282
     },
     {
       "titre": "Transformez votre vie : apprenez à gagner du temps et de l'argent - Romain Bailleul",
-      "date": "2026-03-24"
+      "date": "2026-03-24",
+      "audio": "https://anchor.fm/s/104aa30e8/podcast/play/117415749/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2F420683835-44100-2-3bffb328a343f.mp3",
+      "duree": 4699
     },
     {
       "titre": "Expert en financement : Pourquoi la majorité des Startups échouent - Anthony Beaudier",
-      "date": "2025-12-22"
+      "date": "2025-12-22",
+      "audio": "https://anchor.fm/s/104aa30e8/podcast/play/112988574/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-22%2F414839012-44100-2-652389329bcaa.mp3",
+      "duree": 4017
     },
     {
       "titre": "95% Abandonnent : La Méthode d'un Créateur à 600k pour Durer - Maxence Tison ex Google/Tiktok",
-      "date": "2025-11-16"
+      "date": "2025-11-16",
+      "audio": "https://anchor.fm/s/104aa30e8/podcast/play/111250129/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-16%2F412569095-44100-2-e85d6f383ddd2.mp3",
+      "duree": 4156
     },
     {
       "titre": "Expert en IA : Les erreurs à éviter quand on lance une startup dans l'IA",
-      "date": "2025-10-05"
+      "date": "2025-10-05",
+      "audio": "https://anchor.fm/s/104aa30e8/podcast/play/109215396/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-4%2F408666376-44100-2-ae12c7f176538.mp3",
+      "duree": 4037
     }
   ],
   "derniere_activite": "2026-05-01",
-  "frequence_jours": 31
+  "frequence_jours": 31,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "dija2012--",
+        "titre": "Bravo",
+        "texte": "« Confidences d’un Fondateur\" est une véritable bouffée d'air frais dans le paysage des podcasts entrepreneuriaux. Chaque épisode offre une plongée sincère dans les coulisses de l'entrepreneuriat, mettant en lumière non seulement les succès, mais aussi les défis et les échecs que…"
+      },
+      {
+        "note": 5,
+        "auteur": "Ayoubnejm",
+        "titre": "Apprendre de l’échec pour mieux réussir",
+        "texte": "Un podcast aussi inspirant qu’authentique. Confidences d’un fondateur met en lumière les échecs souvent invisibles derrière les succès entrepreneuriaux. Chaque épisode est un rappel précieux : tomber fait partie du chemin.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Omario😄",
+        "titre": "A ne pas manquer",
+        "texte": "Ce podcast ma ouvert les yeux sur plusieurs points à prendre en considération pour lancer mon propre business et aussi sur la bonne manière d’agir face au éventuel échec"
+      }
+    ]
+  }
 }

@@ -26,11 +26,13 @@
     "societe"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "15. Etienne, la recherche de liberté",
-      "date": "2021-03-31"
+      "date": "2021-03-31",
+      "audio": "https://stats.podcloud.fr/feudecamp/15-etienne-la-recherche-de-liberte/enclosure.8c2dab9c16d16252ba8fd4f7bfd8ac37c456a87f9a6b1ecadcc1b60d43e61369.mp3?p=f",
+      "duree": 2344
     },
     {
       "titre": "14. Florine, l'amoureuse de l'Indonésie",
@@ -38,17 +40,43 @@
     },
     {
       "titre": "13. Caradec, un punk en Europe de l'Est",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "audio": "https://stats.podcloud.fr/feudecamp/13-caradec-un-punk-en-europe-de-lest/enclosure.c81b86b5a925c8ab85719b5180ed033430b59cb5524639c8837b059fdbf49b93.mp3?p=f",
+      "duree": 2293
     },
     {
       "titre": "12. La découverte des parcs américains avec Albane",
-      "date": "2020-03-18"
+      "date": "2020-03-18",
+      "audio": "https://stats.podcloud.fr/feudecamp/12-la-decouverte-des-parcs-americains-avec-albane/enclosure.97f5067446af146ee8596efb8cf0adead13af975b43f536d6cf2acea0eb6e7c1.wav?p=f",
+      "duree": 2373
     },
     {
       "titre": "11. 2/2 Léo, traversée de l'Europe par amour",
-      "date": "2019-12-15"
+      "date": "2019-12-15",
+      "audio": "https://stats.podcloud.fr/feudecamp/11-2-slash-2-leo-traversee-de-leurope-par-amour/enclosure.be266770bbbbd26aa9c8bac0438fc049095d0f9880b703765f36551cc2296c5f.mp3?p=f",
+      "duree": 4363
     }
   ],
   "derniere_activite": "2021-03-31",
-  "frequence_jours": 30
+  "frequence_jours": 30,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "fanfwak97",
+        "titre": "De loin ma chaîne de podcast de voyage préférée",
+        "texte": "Tout les podcasts sont plus intéressants les uns que les autres. On ressent vraiment l’ambiance d’une discussion autour d’un feu de camp. Tout simplement passionnant et addictif!"
+      },
+      {
+        "note": 5,
+        "auteur": "Manon dvrgn",
+        "titre": "Les épisodes nous transporte à coup sûr",
+        "texte": "Superbe production, les invités sont passionnants et le récit très bien construit. On plonge avec eux dans leur voyage. Belle construction sonore et très belle énergie. Bravo 👍"
+      }
+    ]
+  }
 }

@@ -27,27 +27,37 @@
     "societe"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Vivre au pied d'un volcan : le lac Lalolalo",
-      "date": "2024-02-06"
+      "date": "2024-02-06",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1951556.mp3?origin=rss",
+      "duree": 1234
     },
     {
       "titre": "Vivre au pied d'un volcan : la Montagne Pelée",
-      "date": "2024-02-06"
+      "date": "2024-02-06",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1951557.mp3?origin=rss",
+      "duree": 1138
     },
     {
       "titre": "Vivre au pied d'un volcan : le Mont Teurafaatiu",
-      "date": "2024-02-06"
+      "date": "2024-02-06",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1951558.mp3?origin=rss",
+      "duree": 826
     },
     {
       "titre": "Vivre au pied d'un volcan : Fani Maoré",
-      "date": "2023-12-20"
+      "date": "2023-12-20",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1951560.mp3?origin=rss",
+      "duree": 1093
     },
     {
       "titre": "Vivre au pied d'un volcan : le Piton de la Fournaise",
-      "date": "2023-12-14"
+      "date": "2023-12-14",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1951561.mp3?origin=rss",
+      "duree": 1103
     }
   ],
   "derniere_activite": "2024-02-06",

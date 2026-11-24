@@ -26,30 +26,40 @@
     "business"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "#199 - MALT : Comment intégrer l’IA sans sacrifier l’emploi ?",
+      "date": "2026-11-18",
+      "audio": "https://media.transistor.fm/afb1b981/92d5c268.mp3",
+      "duree": 3824
+    },
+    {
+      "titre": "[SNACK] - Barbara Marazia de MALT : Comment l'IA permet aux équipes de repenser leurs propres outils ?",
+      "date": "2026-11-17",
+      "audio": "https://media.transistor.fm/cd9d92b0/e4789242.mp3",
+      "duree": 169
+    },
+    {
       "titre": "#198 - HÉLÈNE HADIDA: Comment instaurer une véritable culture du feedback dans son entreprise ?",
-      "date": "2026-11-11"
+      "date": "2026-11-11",
+      "audio": "https://media.transistor.fm/a1894e39/2400f894.mp3",
+      "duree": 2893
     },
     {
       "titre": "[SNACK] - Hélène HADIDA : Le feedback est-il vraiment pratiqué en entreprise ?",
-      "date": "2026-11-10"
+      "date": "2026-11-10",
+      "audio": "https://media.transistor.fm/f9c3ae0b/3224c21d.mp3",
+      "duree": 61
     },
     {
       "titre": "#197 - UPSUN : Comment bien préparer les managers à la performance review ?",
-      "date": "2026-11-04"
-    },
-    {
-      "titre": "[SNACK] - Caroline Leroy de UPSUN: L'importance de la peer review",
-      "date": "2026-11-03"
-    },
-    {
-      "titre": "#196 - INETUM : Comment faire de l’IA un véritable levier de performance ?",
-      "date": "2026-10-28"
+      "date": "2026-11-04",
+      "audio": "https://media.transistor.fm/a9498f8d/115a8740.mp3",
+      "duree": 3373
     }
   ],
-  "derniere_activite": "2026-11-11",
+  "derniere_activite": "2026-11-18",
   "frequence_jours": 1,
   "avis_publics": {
     "epuise": true,

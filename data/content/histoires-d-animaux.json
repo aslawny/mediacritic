@@ -24,30 +24,40 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
-      "titre": "[Oiseaux migrateurs] Les Flamants roses, les valseurs séducteurs",
-      "date": "2026-10-14"
+      "titre": "[Noël] La légende des oursons de Noël",
+      "date": "2026-11-23",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3056395.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 362
     },
     {
-      "titre": "[Oiseaux migrateurs] La Grive musicienne, une chanteuse haut de gamme",
-      "date": "2026-10-14"
+      "titre": "[Noël] Des bouquets de fleurs pour maman ourse",
+      "date": "2026-11-23",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3056392.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 354
     },
     {
-      "titre": "[Oiseaux migrateurs] La Fauvette, une voyageuse sans boussole",
-      "date": "2026-10-14"
+      "titre": "[Noël] Au secours des jeunes chamois",
+      "date": "2026-11-23",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3056360.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 374
     },
     {
-      "titre": "[Oiseaux migrateurs] L'Hirondelle, la fidèle porte-bonheur",
-      "date": "2026-10-14"
+      "titre": "[Noël] Les amours glacées du manchot empereur",
+      "date": "2026-11-23",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3056351.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 430
     },
     {
-      "titre": "[Oiseaux migrateurs] Le Martinet, petit oiseau - grande vitesse !",
-      "date": "2026-10-14"
+      "titre": "[Noël] Le renne, un allié pour vivre dans le Grand Nord",
+      "date": "2026-11-23",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3056336.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 399
     }
   ],
-  "derniere_activite": "2026-10-14",
+  "derniere_activite": "2026-11-23",
   "frequence_jours": 0,
   "avis_publics": {
     "epuise": true,

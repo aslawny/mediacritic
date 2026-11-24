@@ -27,27 +27,37 @@
     "business"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Anthony Bourbon - Les coulisses de son parcours",
-      "date": "2024-01-18"
+      "date": "2024-01-18",
+      "audio": "https://sphinx.acast.com/p/open/s/648c516e889ad000112e5ce6/e/65a87a294584ae00179af29a/media.mp3",
+      "duree": 3396
     },
     {
       "titre": "Jérémie Jeausserand - Avocat d’affaires, fondateur du cabinet Jeausserand Audouard",
-      "date": "2023-12-12"
+      "date": "2023-12-12",
+      "audio": "https://sphinx.acast.com/p/open/s/648c516e889ad000112e5ce6/e/65786ca138c18400167ae1bc/media.mp3",
+      "duree": 1292
     },
     {
       "titre": "Camille Bedel (KPMG) - Le quotidien d'une manager audit financier",
-      "date": "2023-10-15"
+      "date": "2023-10-15",
+      "audio": "https://sphinx.acast.com/p/open/s/648c516e889ad000112e5ce6/e/652806c92b692b0012758037/media.mp3",
+      "duree": 981
     },
     {
       "titre": "Marc Lesage-Moretti (Jokariz) - passer de Goldman Sachs aux jeux vidéo",
-      "date": "2023-10-03"
+      "date": "2023-10-03",
+      "audio": "https://sphinx.acast.com/p/open/s/648c516e889ad000112e5ce6/e/651c2ced0eed1a0011e52d1a/media.mp3",
+      "duree": 3282
     },
     {
       "titre": "Marc Ménasé - Le métier d'investisseur en capital-risque",
-      "date": "2023-06-16"
+      "date": "2023-06-16",
+      "audio": "https://sphinx.acast.com/p/open/s/648c516e889ad000112e5ce6/e/648c5243c6f9af001122f144/media.mp3",
+      "duree": 1639
     }
   ],
   "derniere_activite": "2024-01-18",

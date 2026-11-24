@@ -24,29 +24,39 @@
     "politique"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
-      "titre": "Appel à candidature pour le Duel du 30 octobre",
-      "date": "2026-10-04"
+      "titre": "Appel à candidature pour le Duel du 27 novembre",
+      "date": "2026-11-12",
+      "audio": "https://leduel.com/emissions/candidature/LD145-Candidatures.mp3",
+      "duree": 46
     },
     {
       "titre": "Le Duel #142 : Finale Saison 12 (Anneaux VS Champis)",
-      "date": "2026-08-29"
+      "date": "2026-08-29",
+      "audio": "https://leduel.com/emissions/leduel/LeDuel142.mp3",
+      "duree": 13333
     },
     {
       "titre": "Le Duel #141 : Spéciale Troll (Batsolor VS Émilie Madsen)",
-      "date": "2026-07-10"
+      "date": "2026-07-10",
+      "audio": "https://leduel.com/emissions/leduel/LeDuel141.mp3",
+      "duree": 10064
     },
     {
       "titre": "Le Duel 140 : Poulets VS Murlocs",
-      "date": "2026-05-29"
+      "date": "2026-05-29",
+      "audio": "https://leduel.com/emissions/leduel/LeDuel140.mp3",
+      "duree": 6644
     },
     {
       "titre": "Le Duel 139 : Skìa VS Nemo",
-      "date": "2026-05-01"
+      "date": "2026-05-01",
+      "audio": "https://leduel.com/emissions/leduel/LeDuel139.mp3",
+      "duree": 7330
     }
   ],
-  "derniere_activite": "2026-10-04",
+  "derniere_activite": "2026-11-12",
   "frequence_jours": 28
 }

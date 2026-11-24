@@ -27,27 +27,37 @@
     "news"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Le monde paysan, mon père et moi [épisode 4/4]",
-      "date": "2025-10-28"
+      "date": "2025-10-28",
+      "audio": "https://sphinx.acast.com/p/open/s/5e95c4e5a02b2a6878cc81f2/e/68ff7540594b6591114e6884/media.mp3",
+      "duree": 1482
     },
     {
       "titre": "Le monde paysan, mon père et moi [épisode 3/4]",
-      "date": "2025-10-27"
+      "date": "2025-10-27",
+      "audio": "https://sphinx.acast.com/p/open/s/5e95c4e5a02b2a6878cc81f2/e/68ff7134e4964a273da505bd/media.mp3",
+      "duree": 1543
     },
     {
       "titre": "Le monde paysan, mon père et moi [épisode 2/4]",
-      "date": "2025-10-24"
+      "date": "2025-10-24",
+      "audio": "https://sphinx.acast.com/p/open/s/5e95c4e5a02b2a6878cc81f2/e/68fb7160bbc6bf6b21c28f26/media.mp3",
+      "duree": 1311
     },
     {
       "titre": "Le monde paysan, mon père et moi [épisode 1/4]",
-      "date": "2025-10-06"
+      "date": "2025-10-06",
+      "audio": "https://sphinx.acast.com/p/open/s/5e95c4e5a02b2a6878cc81f2/e/68e3e643d17b81f346e6db27/media.mp3",
+      "duree": 1154
     },
     {
       "titre": "L'estive",
-      "date": "2025-08-20"
+      "date": "2025-08-20",
+      "audio": "https://sphinx.acast.com/p/open/s/5e95c4e5a02b2a6878cc81f2/e/68a3244c26699148a759d551/media.mp3",
+      "duree": 3157
     }
   ],
   "derniere_activite": "2025-10-28",

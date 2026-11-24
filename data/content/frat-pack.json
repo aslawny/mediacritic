@@ -24,30 +24,40 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "S05E04 Frat Pack avec Seth Gueko",
+      "date": "2026-11-18",
+      "audio": "https://sphinx.acast.com/p/open/s/634c15c5a82792001235c4ea/e/6afc3107bd05b48ec8b21455/media.mp3",
+      "duree": 3266
+    },
+    {
       "titre": "S05E03 Frat Pack avec Colin tout court",
-      "date": "2026-11-09"
+      "date": "2026-11-09",
+      "audio": "https://sphinx.acast.com/p/open/s/634c15c5a82792001235c4ea/e/6af0a3f8baaf18ccf9574b91/media.mp3",
+      "duree": 4896
     },
     {
       "titre": "S05E02 Frat Pack avec Anne Marivin",
-      "date": "2026-10-14"
+      "date": "2026-10-14",
+      "audio": "https://sphinx.acast.com/p/open/s/634c15c5a82792001235c4ea/e/6ace1dc83b41843137bb6f38/media.mp3",
+      "duree": 4329
     },
     {
       "titre": "S05E01 Frat Pack avec Sebastien Vaniček",
-      "date": "2026-10-07"
+      "date": "2026-10-07",
+      "audio": "https://sphinx.acast.com/p/open/s/634c15c5a82792001235c4ea/e/6ac50132e6c66aa8d26c7c5a/media.mp3",
+      "duree": 4208
     },
     {
       "titre": "S04E15 Frat Pack avec Fosko",
-      "date": "2026-07-09"
-    },
-    {
-      "titre": "S04E14 Frat Pack avec Babidaxx",
-      "date": "2026-06-24"
+      "date": "2026-07-09",
+      "audio": "https://sphinx.acast.com/p/open/s/634c15c5a82792001235c4ea/e/6a4f418cfe878dc8e26c9be9/media.mp3",
+      "duree": 5250
     }
   ],
-  "derniere_activite": "2026-11-09",
+  "derniere_activite": "2026-11-18",
   "frequence_jours": 13,
   "avis_publics": {
     "source": "apple",

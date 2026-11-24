@@ -25,30 +25,40 @@
     "numerique"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "L’IA multiplie vos applications. Pas ceux qui les maintiennent. #51",
+      "date": "2026-11-13",
+      "audio": "https://audio.ausha.co/BMpP7HdaQ3AJ.mp3?t=1794599618",
+      "duree": 2057
+    },
+    {
       "titre": "Ce que l'IA ne peut pas apprendre à votre place. Jonathan Boyer #50",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://audio.ausha.co/brrDQu9vpKmV.mp3?t=1793786283",
+      "duree": 4054
     },
     {
       "titre": "Un second cerveau n’est pas une mémoire d’entreprise. #49",
-      "date": "2026-10-16"
+      "date": "2026-10-16",
+      "audio": "https://audio.ausha.co/y0gRwskzggXx.mp3?t=1792151081",
+      "duree": 2000
     },
     {
       "titre": "L'IA écrit plus vite. Vous ne livrez pas plus vite. Arnaud Lemaire #48",
-      "date": "2026-09-29"
+      "date": "2026-09-29",
+      "audio": "https://audio.ausha.co/B6zVYHrvNwlM.mp3?t=1790682664",
+      "duree": 5263
     },
     {
       "titre": "Pourquoi les bons développeurs font de mauvais choix - Mathieu Sanchez #47",
-      "date": "2026-09-08"
-    },
-    {
-      "titre": "Il raconte des contes. Ça fait de lui un meilleur ingénieur IA. Luca Marchesini #46",
-      "date": "2026-08-25"
+      "date": "2026-09-08",
+      "audio": "https://audio.ausha.co/brrDQuG5vvLD.mp3?t=1788858669",
+      "duree": 6117
     }
   ],
-  "derniere_activite": "2026-11-04",
+  "derniere_activite": "2026-11-13",
   "frequence_jours": 16,
   "avis_publics": {
     "epuise": true,

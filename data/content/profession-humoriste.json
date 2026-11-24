@@ -23,27 +23,37 @@
     "humour",
     "comédie"
   ],
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Les Roblès News: Cyberattaque au AFD",
-      "date": "2026-10-26"
+      "date": "2026-10-26",
+      "audio": "https://podcasts.nrjaudio.fm/podcasts/fr/3/2206/4b76387e-9665-466e-9302-45ee1618ac6e.mp3?awCollectionId=2206&awEpisodeId=1369761",
+      "duree": 122
     },
     {
       "titre": "Sellig, invité de Guillaume Pot",
-      "date": "2023-10-13"
+      "date": "2023-10-13",
+      "audio": "https://podcasts.nrjaudio.fm/podcasts/fr/3/2206/7e4399b1-c637-4f56-bf73-d3cd73e434ee.mp3?awCollectionId=2206&awEpisodeId=603600",
+      "duree": 1156
     },
     {
       "titre": "Olivier de Benoist est l'invité de Guillaume Pot",
-      "date": "2023-01-06"
+      "date": "2023-01-06",
+      "audio": "https://podcasts.nrjaudio.fm/podcasts/fr/3/2206/40742935-2276-4c77-983a-54ac6fffc7c0.mp3?awCollectionId=2206&awEpisodeId=472577",
+      "duree": 971
     },
     {
       "titre": "Anthony Kavanagh est l'invité de Guillaume Pot",
-      "date": "2022-06-09"
+      "date": "2022-06-09",
+      "audio": "https://podcasts.nrjaudio.fm/podcasts/fr/3/2206/7f243915-9bc0-4b96-b2e7-a7040c43edda.mp3?awCollectionId=2206&awEpisodeId=390003",
+      "duree": 828
     },
     {
       "titre": "Bernard Mabille",
-      "date": "2022-05-03"
+      "date": "2022-05-03",
+      "audio": "https://podcasts.nrjaudio.fm/podcasts/fr/3/2206/5dc1af9b-4e09-4a80-a6d5-623f4a26971f.mp3?awCollectionId=2206&awEpisodeId=374862",
+      "duree": 920
     }
   ],
   "derniere_activite": "2026-10-26",

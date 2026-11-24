@@ -24,30 +24,40 @@
     "comedie"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Anas Hassouna et Mibenson Sylvain LIVE à Drummondville",
+      "date": "2026-11-19",
+      "audio": "https://sphinx.acast.com/p/open/s/65f89e5e4862100016bb35a8/e/6af696467cb9f0ef960da331/media.mp3",
+      "duree": 6687
+    },
+    {
+      "titre": "Philippe Lacroix",
+      "date": "2026-11-12",
+      "audio": "https://sphinx.acast.com/p/open/s/65f89e5e4862100016bb35a8/e/6af116bbdd48b5a2a2e6d021/media.mp3",
+      "duree": 5288
+    },
+    {
       "titre": "Cédric Bergeron du podcast Au Parloir LIVE à Saint-Eustache",
-      "date": "2026-11-05"
+      "date": "2026-11-05",
+      "audio": "https://sphinx.acast.com/p/open/s/65f89e5e4862100016bb35a8/e/6ae11b889c08bf24aedb05c7/media.mp3",
+      "duree": 6886
     },
     {
       "titre": "Marie-Josée Gauvin et Maxime Roberge de Pop Pop Balado",
-      "date": "2026-10-29"
+      "date": "2026-10-29",
+      "audio": "https://sphinx.acast.com/p/open/s/65f89e5e4862100016bb35a8/e/6ae0c2e59c08bf24aedb05c6/media.mp3",
+      "duree": 9294
     },
     {
       "titre": "Frédérique Paré de Potter Québec",
-      "date": "2026-10-22"
-    },
-    {
-      "titre": "Jessica Chartrand",
-      "date": "2026-10-15"
-    },
-    {
-      "titre": "Sonia Von Sacher et Jean-François Poisson",
-      "date": "2026-10-08"
+      "date": "2026-10-22",
+      "audio": "https://sphinx.acast.com/p/open/s/65f89e5e4862100016bb35a8/e/6ad80e3e35278d7f510b95a8/media.mp3",
+      "duree": 4917
     }
   ],
-  "derniere_activite": "2026-11-05",
+  "derniere_activite": "2026-11-19",
   "frequence_jours": 7,
   "avis_publics": {
     "epuise": true,

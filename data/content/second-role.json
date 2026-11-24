@@ -27,29 +27,39 @@
     "series"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "LOLA NAYMARK : UNE FEMME AUJOURD'HUI",
+      "date": "2026-11-18",
+      "audio": "https://sphinx.acast.com/p/open/s/6960db06b86949aa0647d961/e/6afcdb73da978fb0903ba436/media.mp3",
+      "duree": 993
+    },
+    {
       "titre": "XAVIER ROBIC : UNE BONNE ÉTOILE ET LES PIEDS SUR TERRE",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://sphinx.acast.com/p/open/s/6960db06b86949aa0647d961/e/6aea690cf5930510a00f175b/media.mp3",
+      "duree": 3728
     },
     {
       "titre": "LUCIE CHARLES-ALFRED : L'EMPATHIE COMME SECONDE NATURE",
-      "date": "2026-10-13"
+      "date": "2026-10-13",
+      "audio": "https://sphinx.acast.com/p/open/s/6960db06b86949aa0647d961/e/6ace40cc3b41843137bf1186/media.mp3",
+      "duree": 4264
     },
     {
       "titre": "MARIE BUNEL : L'ÉMERVEILLEMENT COMME LIGNE DE VIE",
-      "date": "2026-08-12"
+      "date": "2026-08-12",
+      "audio": "https://sphinx.acast.com/p/open/s/6960db06b86949aa0647d961/e/6a75de2d237988582ea4140b/media.mp3",
+      "duree": 3959
     },
     {
       "titre": "FLORENCE LOIRET CAILLE : UN RENDEZ-VOUS QU'ON N'A PAS ENVIE DE LOUPER",
-      "date": "2026-07-01"
-    },
-    {
-      "titre": "LYES SALEM : DE L’ALGÉRIE AUX SOMMETS DE L'ALPE D'HUEZ",
-      "date": "2026-05-08"
+      "date": "2026-07-01",
+      "audio": "https://sphinx.acast.com/p/open/s/6960db06b86949aa0647d961/e/6a442bc406fb5d326d450a05/media.mp3",
+      "duree": 3736
     }
   ],
-  "derniere_activite": "2026-11-04",
-  "frequence_jours": 34
+  "derniere_activite": "2026-11-18",
+  "frequence_jours": 28
 }

@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/club-canap%C3%A9/id6821040382?uo=2",
       "trackId": 6821040382,
-      "rating": 4.3,
-      "ratingCount": 11,
+      "rating": 4.0,
+      "ratingCount": 12,
       "episodeCount": null
     }
   },
@@ -25,29 +25,39 @@
     "series"
   ],
   "addedAt": "2026-10-11",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Pourquoi Nikos est notre préféré à la Star Academy ? avec Anninka",
+      "date": "2026-11-19",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/b45539ae-a3fa-44b7-ad29-057d2c26686a.mp3?_=1795107399",
+      "duree": 3986
+    },
+    {
+      "titre": "Invités problématiques, erreurs de style : ce qu’on changerait à la Star Ac’",
+      "date": "2026-11-12",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/9a389318-832b-4302-9ff2-ef955c790bc9.mp3?_=1794501800",
+      "duree": 3233
+    },
+    {
       "titre": "Un mois de StarAc, quel est le vrai niveau des élèves ?",
-      "date": "2026-11-05"
+      "date": "2026-11-05",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/52562e1f-7719-452c-a272-3494967367eb.mp3?_=1793900448",
+      "duree": 4036
     },
     {
       "titre": "Star Academy : notre hot take sur Kylian & le rôle des parrains avec Louise Pétrouchka",
-      "date": "2026-10-29"
+      "date": "2026-10-29",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/1455af66-e574-487b-92c7-11e053cfdcdd.mp3?_=1793297872",
+      "duree": 3981
     },
     {
       "titre": "Star Ac', NMA… et pourquoi on est les baddies de Vianney",
-      "date": "2026-10-22"
-    },
-    {
-      "titre": "Première semaine à la Star Academy : le drama Khalil",
-      "date": "2026-10-15"
-    },
-    {
-      "titre": "Candidats, tops et flops du prime : nos avis sur le retour de la Star Academy",
-      "date": "2026-10-12"
+      "date": "2026-10-22",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/30d91fd7-3e82-4c87-91c0-1be8aa23a775.mp3?_=1792687752",
+      "duree": 3260
     }
   ],
-  "derniere_activite": "2026-11-05",
+  "derniere_activite": "2026-11-19",
   "frequence_jours": 6
 }

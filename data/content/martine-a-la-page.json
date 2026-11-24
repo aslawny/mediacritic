@@ -25,16 +25,27 @@
     "culture"
   ],
   "addedAt": "2026-09-20",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Cargo Blues - Audrey Sabardeil",
+      "date": "2026-11-13",
+      "audio": "https://anchor.fm/s/1176fa820/podcast/play/129326820/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F436579814-44100-2-98bbc575fc8b9.m4a",
+      "duree": 3928
+    },
+    {
       "titre": "Des hommes libres : une terre, trois générations - James Rebanks",
-      "date": "2026-10-15"
+      "date": "2026-10-15",
+      "audio": "https://anchor.fm/s/1176fa820/podcast/play/127450172/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-14%2F434135681-44100-2-65e58a0c49772.m4a",
+      "duree": 3157
     },
     {
       "titre": "La pilule - Meg Elison",
-      "date": "2026-09-18"
+      "date": "2026-09-18",
+      "audio": "https://anchor.fm/s/1176fa820/podcast/play/125959234/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-18%2Fa97a582b-8c00-206d-93be-065e6d60d3c5.mp3",
+      "duree": 4038
     }
   ],
-  "derniere_activite": "2026-10-15"
+  "derniere_activite": "2026-11-13",
+  "frequence_jours": 28
 }

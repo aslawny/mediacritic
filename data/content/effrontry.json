@@ -24,29 +24,59 @@
     "sciences",
     "vulgarisation"
   ],
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Hippolyte Septier : le projet Vauban contre le déclinisme",
-      "date": "2021-06-06"
+      "date": "2021-06-06",
+      "audio": "https://anchor.fm/s/3c3532e8/podcast/play/34924662/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2021-5-6%2F193936182-44100-2-939c76c5907fb.mp3",
+      "duree": 1428
     },
     {
       "titre": "OxygenWater : trouver une alternative aux bouteilles en plastique",
-      "date": "2021-04-18"
+      "date": "2021-04-18",
+      "audio": "https://anchor.fm/s/3c3532e8/podcast/play/31660612/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-04-18%2F727a4a9fc6d1997ee2e89944c10f1965.m4a",
+      "duree": 1662
     },
     {
       "titre": "Léna Van Nieuwenhuyse : réinvestir les médias politiques",
-      "date": "2021-04-04"
+      "date": "2021-04-04",
+      "audio": "https://anchor.fm/s/3c3532e8/podcast/play/30654676/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2021-3-3%2F172014580-44100-2-03159d8dfce14.m4a",
+      "duree": 1460
     },
     {
       "titre": "Grégoire Cazcarra : « réconcilier les jeunes avec la politique »",
-      "date": "2021-03-28"
+      "date": "2021-03-28",
+      "audio": "https://anchor.fm/s/3c3532e8/podcast/play/30108532/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2021-2-27%2F169770720-44100-2-02b457ddf0aaa.m4a",
+      "duree": 2365
     },
     {
       "titre": "Pierre-Yves McSween : voir la finance autrement",
-      "date": "2021-03-21"
+      "date": "2021-03-21",
+      "audio": "https://anchor.fm/s/3c3532e8/podcast/play/29568241/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-04-12%2F05e41395073b684a32afbb4a826d4a74.m4a",
+      "duree": 2426
     }
   ],
   "derniere_activite": "2021-06-06",
-  "frequence_jours": 13
+  "frequence_jours": 13,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mathis-ctn",
+        "titre": "Une première excellente",
+        "texte": "Super recap , on voit que vous êtes des passionnés et que vous maîtrisez parfaitement votre sujet . J’attends la suite sur l’ipad air 4 vs ipad pro ou bien là possible disparition des mac dans un future proche , au profit des ipad ..."
+      },
+      {
+        "note": 4,
+        "auteur": "Sophie_bnt",
+        "titre": "A suivre !",
+        "texte": "Un très bon premier épisode qui suscite la curiosité des non-connaisseurs en la matière"
+      }
+    ]
+  }
 }

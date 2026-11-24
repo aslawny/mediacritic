@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/notre-assurance-b%C3%A9b%C3%A9-la-cong%C3%A9lation-des-ovocytes-racont%C3%A9e/id6808175156?uo=2",
       "trackId": 6808175156,
       "rating": 5.0,
-      "ratingCount": 9,
+      "ratingCount": 10,
       "episodeCount": null
     }
   },
@@ -25,27 +25,37 @@
     "parentalite"
   ],
   "addedAt": "2026-09-14",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Episode 1 - De la solitude cachée à la déferlante autorisée",
-      "date": "2026-09-11"
+      "date": "2026-09-11",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2727034.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 1181
     },
     {
       "titre": "Episode 2 - L'attente",
-      "date": "2026-09-11"
+      "date": "2026-09-11",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2727115.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 986
     },
     {
       "titre": "Episode 3 - Une piqûre de rappel",
-      "date": "2026-09-11"
+      "date": "2026-09-11",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2727223.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 934
     },
     {
       "titre": "Episode 4 - Le D-Day",
-      "date": "2026-09-11"
+      "date": "2026-09-11",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2735440.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 1038
     },
     {
       "titre": "Episode 5 - Et maintenant ?",
-      "date": "2026-09-11"
+      "date": "2026-09-11",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2735475.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 1046
     }
   ],
   "derniere_activite": "2026-09-11",

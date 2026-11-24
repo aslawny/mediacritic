@@ -25,29 +25,61 @@
     "culture"
   ],
   "addedAt": "2026-10-08",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Santiago Cucci - CEO of Dockers chez Levi's Strauss",
-      "date": "2022-05-10"
+      "date": "2022-05-10",
+      "audio": "https://audio.ausha.co/bPnnRU5A0J12.mp3?t=1652198431",
+      "duree": 2040
     },
     {
       "titre": "Romain Pirracchio - Médecin chef du Service Réanimation à UCSF",
-      "date": "2022-03-11"
+      "date": "2022-03-11",
+      "audio": "https://audio.ausha.co/om44pUDYnDgW.mp3?t=1651765893",
+      "duree": 2358
     },
     {
       "titre": "Nicolas Delaroque - Chef étoilé à San Francisco",
-      "date": "2022-01-31"
+      "date": "2022-01-31",
+      "audio": "https://audio.ausha.co/bYZZ4Uj0gx2X.mp3?t=1651697011",
+      "duree": 2277
     },
     {
       "titre": "Tanguy de Lamotte - Navigateur à Sausalito",
-      "date": "2021-12-29"
+      "date": "2021-12-29",
+      "audio": "https://audio.ausha.co/BD77wUl4JGDL.mp3?t=1651641207",
+      "duree": 3827
     },
     {
       "titre": "Océane Sorel - The French Virologist à San Diego",
-      "date": "2021-11-21"
+      "date": "2021-11-21",
+      "audio": "https://audio.ausha.co/yg44DUDZRw6V.mp3?t=1651692533",
+      "duree": 2677
     }
   ],
   "derniere_activite": "2022-05-10",
-  "frequence_jours": 35
+  "frequence_jours": 35,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-24",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

@@ -29,25 +29,107 @@
   "episodes_recents": [
     {
       "titre": "Symfony 8 : Enregistrer les données d’un formulaire en base (Doctrine)",
-      "date": "2026-05-04"
+      "date": "2026-05-04",
+      "video": "BTIOLeZWDHU"
     },
     {
       "titre": "Symfony 8 : Modifier un élément en base de données (update)",
-      "date": "2026-04-26"
+      "date": "2026-04-26",
+      "video": "WHJ66lnDlpk"
     },
     {
       "titre": "Symfony 8 : Supprimer un élément de la base de données avec remove()",
-      "date": "2026-04-19"
+      "date": "2026-04-19",
+      "video": "7LhMhGuN1io"
     },
     {
       "titre": "Symfony 8 : Afficher un seul élément avec Doctrine (find)",
-      "date": "2026-04-16"
+      "date": "2026-04-16",
+      "video": "YiCPVRV61Zk"
     },
     {
       "titre": "Symfony 8 : Afficher les données de la base dans Twig (findAll)",
-      "date": "2026-04-13"
+      "date": "2026-04-13",
+      "video": "Qk0nvqE2hxE"
     }
   ],
   "derniere_activite": "2026-05-04",
-  "frequence_jours": 2
+  "frequence_jours": 2,
+  "videos": [
+    {
+      "titre": "Symfony 8 : Enregistrer les données d’un formulaire en base (Doctrine)",
+      "date": "2026-05-04",
+      "video": "BTIOLeZWDHU"
+    },
+    {
+      "titre": "Symfony 8 : Modifier un élément en base de données (update)",
+      "date": "2026-04-26",
+      "video": "WHJ66lnDlpk"
+    },
+    {
+      "titre": "Symfony 8 : Supprimer un élément de la base de données avec remove()",
+      "date": "2026-04-19",
+      "video": "7LhMhGuN1io"
+    },
+    {
+      "titre": "Symfony 8 : Afficher un seul élément avec Doctrine (find)",
+      "date": "2026-04-16",
+      "video": "YiCPVRV61Zk"
+    },
+    {
+      "titre": "Symfony 8 : Afficher les données de la base dans Twig (findAll)",
+      "date": "2026-04-13",
+      "video": "Qk0nvqE2hxE"
+    },
+    {
+      "titre": "Symfony 8 : Enregistrer des données en base (persist + flush expliqué)",
+      "date": "2026-04-11",
+      "video": "fhrJ2VMBa6A"
+    },
+    {
+      "titre": "Symfony 8 : Créer une entité et une migration (Doctrine expliqué simplement)",
+      "date": "2026-04-09",
+      "video": "Dwk4DYCS6iA"
+    },
+    {
+      "titre": "Symfony 8 : Créer une base de données facilement (Doctrine)",
+      "date": "2026-04-07",
+      "video": "arvuJLajbmI"
+    },
+    {
+      "titre": "Symfony 8 : Formulaire complet (création + affichage des données)",
+      "date": "2026-04-05",
+      "video": "bjVWbi73qoU"
+    },
+    {
+      "titre": "Symfony 8 débutant : créer un menu de navigation complet",
+      "date": "2026-04-02",
+      "video": "UVA7q9eExm4"
+    },
+    {
+      "titre": "Symfony 8 : Ajouter du CSS facilement (méthode simple)",
+      "date": "2026-03-30",
+      "video": "GYXblT-4nRk"
+    },
+    {
+      "titre": "Symfony 8 : Comprendre le layout avec base.html.twig",
+      "date": "2026-03-28",
+      "video": "wEMS9b5Jejg"
+    },
+    {
+      "titre": "Symfony 8 : Créer des liens et naviguer entre les pages avec Twig",
+      "date": "2026-03-26",
+      "video": "UO59PdskTW8"
+    },
+    {
+      "titre": "Symfony 8 : Boucles et tableaux dans Twig (\"for\" expliqué simplement)",
+      "date": "2026-03-24",
+      "video": "mHJ1PRC5jbs"
+    },
+    {
+      "titre": "Symfony 8 : Utiliser les conditions dans Twig (if, else, elseif)",
+      "date": "2026-03-22",
+      "video": "mJIz4hc6bXs"
+    }
+  ]
 }

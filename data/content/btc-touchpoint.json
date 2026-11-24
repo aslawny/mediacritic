@@ -25,29 +25,39 @@
     "tech",
     "numérique"
   ],
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "TMS CH8 - Inflation",
+      "date": "2026-11-13",
+      "audio": "https://www.buzzsprout.com/2003298/episodes/20115766-tms-ch8-inflation.mp3",
+      "duree": 774
+    },
+    {
       "titre": "TMS ITW7 - L'avis décomplexé de 2 CGPs accros au BTC (Loïc & Louis)",
-      "date": "2026-10-21"
+      "date": "2026-10-21",
+      "audio": "https://www.buzzsprout.com/2003298/episodes/19991763-tms-itw7-l-avis-decomplexe-de-2-cgps-accros-au-btc-loic-louis.mp3",
+      "duree": 5920
     },
     {
       "titre": "TMS CH14&15 - Fonds indiciels & Hiérarchies des actifs financiers",
-      "date": "2026-10-05"
+      "date": "2026-10-05",
+      "audio": "https://www.buzzsprout.com/2003298/episodes/19821232-tms-ch14-15-fonds-indiciels-hierarchies-des-actifs-financiers.mp3",
+      "duree": 951
     },
     {
       "titre": "TMS CH13 - Les 24 risques des actions",
-      "date": "2026-09-25"
+      "date": "2026-09-25",
+      "audio": "https://www.buzzsprout.com/2003298/episodes/19821230-tms-ch13-les-24-risques-des-actions.mp3",
+      "duree": 1343
     },
     {
       "titre": "TMS - ITW6 - Un émerveillement infini pour la technologie (Laurent)",
-      "date": "2026-09-19"
-    },
-    {
-      "titre": "TMS CH11 - L'or : monnaie défunte",
-      "date": "2026-09-07"
+      "date": "2026-09-19",
+      "audio": "https://www.buzzsprout.com/2003298/episodes/19830728-tms-itw6-un-emerveillement-infini-pour-la-technologie-laurent.mp3",
+      "duree": 7332
     }
   ],
-  "derniere_activite": "2026-10-21",
-  "frequence_jours": 10
+  "derniere_activite": "2026-11-13",
+  "frequence_jours": 11
 }

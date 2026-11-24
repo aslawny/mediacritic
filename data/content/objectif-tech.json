@@ -26,30 +26,40 @@
     "numerique"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Le Lab - Vincent Blot : Quand le doute rend l’IA plus fiable",
+      "date": "2026-11-17",
+      "audio": "https://media.transistor.fm/b093b51d/c2a15597.mp3",
+      "duree": 1672
+    },
+    {
       "titre": "Durable - Des objectifs ESG à la performance business : quelles preuves ?​",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "audio": "https://media.transistor.fm/ec98d3c4/f07bfc39.mp3",
+      "duree": 1648
     },
     {
       "titre": "Trajectoires - Partager ses données en toute maîtrise : le défi des organisations",
-      "date": "2026-10-13"
+      "date": "2026-10-13",
+      "audio": "https://media.transistor.fm/3a4d7b4f/168b8930.mp3",
+      "duree": 757
     },
     {
       "titre": "Le Lab - Bertille De Vlieger : l’IA peut-elle nous aider à mieux nous connaître ?",
-      "date": "2026-10-06"
+      "date": "2026-10-06",
+      "audio": "https://media.transistor.fm/fc1b4a9b/9ab3999f.mp3",
+      "duree": 1384
     },
     {
       "titre": "Durable - Automobile : comment l’économie circulaire renforce la résilience ?",
-      "date": "2026-09-29"
-    },
-    {
-      "titre": "Écoutons le futur - Ville algorithmique : quand la technologie rend les villes plus durables et plus sûres",
-      "date": "2026-09-08"
+      "date": "2026-09-29",
+      "audio": "https://media.transistor.fm/c7a80659/555b22ef.mp3",
+      "duree": 1628
     }
   ],
-  "derniere_activite": "2026-11-03",
+  "derniere_activite": "2026-11-17",
   "frequence_jours": 13,
   "avis_publics": {
     "epuise": true,

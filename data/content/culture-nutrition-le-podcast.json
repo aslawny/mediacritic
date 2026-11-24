@@ -26,29 +26,65 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Episode 58 - Nicolas Chabanne Fondateur de « C’est qui le patron »",
-      "date": "2026-11-10"
+      "date": "2026-11-10",
+      "audio": "https://audio.ausha.co/yJVgjIj3ZAEp.mp3?t=1794325728",
+      "duree": 3925
     },
     {
       "titre": "Episode 57 - Julie de Prittwitz, General Manager Danone Santé Nutrition France",
-      "date": "2026-10-01"
+      "date": "2026-10-01",
+      "audio": "https://audio.ausha.co/BqkeLhPmwdvn.mp3?t=1790866254",
+      "duree": 3129
     },
     {
       "titre": "Episode 56 - Raphaella Nolleau : Yacon&Co Le sucre change de racine",
-      "date": "2026-09-03"
+      "date": "2026-09-03",
+      "audio": "https://audio.ausha.co/yE9YJfYN5d2r.mp3?t=1786612995",
+      "duree": 3519
     },
     {
       "titre": "Episode 55 - Franck Bonfils : le vrac a plus d'un tour dans son sac",
-      "date": "2026-07-23"
+      "date": "2026-07-23",
+      "audio": "https://audio.ausha.co/bjJYwIZLqqWb.mp3?t=1784807713",
+      "duree": 3306
     },
     {
       "titre": "Episode 54 - Camille Azoulai et Funkie : 0 compromis sur l’engagement pour une nutrition saine et bonne",
-      "date": "2026-07-02"
+      "date": "2026-07-02",
+      "audio": "https://audio.ausha.co/b3lJWcP8Y7mM.mp3?t=1783005649",
+      "duree": 2964
     }
   ],
   "derniere_activite": "2026-11-10",
-  "frequence_jours": 27
+  "frequence_jours": 27,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Fage64",
+        "titre": "Pour écouter l’entrepreneuriat de l’intérieur",
+        "texte": "Savoir ce qui a motivé les femmes et hommes à créer leur entreprise, les entendre parler de leur vie de tous les jours, leurs idées les plus folles sur un sujet aussi passionnant que la nutrition !"
+      },
+      {
+        "note": 5,
+        "auteur": "jeracontedessaladss",
+        "titre": "Le meilleur podcast nutrition !",
+        "texte": "Super podcast qui dresse le portrait d’entrepreneurs passionnés dans le monde de la nutrition. Écoutez c’est une pépite ! 🎉💛"
+      },
+      {
+        "note": 5,
+        "auteur": "MelLavaysse",
+        "titre": "Merci pour ces temps d’échange inspirants",
+        "texte": "De nombreux secteurs d’activité balayés Des nombreuses manières d’aborder l’entreprendrait Inspirant et passionnant"
+      }
+    ]
+  }
 }

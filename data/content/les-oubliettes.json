@@ -27,27 +27,37 @@
     "cuisine"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Épisode 173: Fantasia '20, semaine 2",
-      "date": "2020-09-01"
+      "date": "2020-09-01",
+      "audio": "https://mp3.choq.ca/mp3/episode/46686/les-Oubliettes-Ep.173-Fantasia-20-semaine-2.mp3",
+      "duree": 6262
     },
     {
       "titre": "Épisode 172: Hail to the deadites",
-      "date": "2020-08-26"
+      "date": "2020-08-26",
+      "audio": "https://mp3.choq.ca/mp3/episode/46158/les-Oubliettes-Ep.172-Hail-to-the-deadites-audio.mp3",
+      "duree": 2551
     },
     {
       "titre": "Épisode 171: Fantasia '20, semaine 1",
-      "date": "2020-08-25"
+      "date": "2020-08-25",
+      "audio": "https://mp3.choq.ca/mp3/episode/45915/les-Oubliettes-Ep.171-Fantasia-20-semaine-1.mp3",
+      "duree": 5452
     },
     {
       "titre": "Épisode 170: Suggestions Fantasia 2020",
-      "date": "2020-08-18"
+      "date": "2020-08-18",
+      "audio": "https://mp3.choq.ca/mp3/episode/46685/les-Oubliettes-Ep170-Suggestions-Fantasia.mp3",
+      "duree": 4672
     },
     {
       "titre": "Épisode 169: Fantasia 2020",
-      "date": "2020-08-11"
+      "date": "2020-08-11",
+      "audio": "https://mp3.choq.ca/mp3/episode/45914/lesOubliettes-Fantasia2020-01.mp3",
+      "duree": 5272
     }
   ],
   "derniere_activite": "2020-09-01",

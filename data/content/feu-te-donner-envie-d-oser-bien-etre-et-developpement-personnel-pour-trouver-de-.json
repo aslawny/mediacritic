@@ -26,29 +26,61 @@
     "psychologie"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Que faire quand on se sent perdu? 4 conseils clés",
-      "date": "2025-11-03"
+      "date": "2025-11-03",
+      "audio": "https://anchor.fm/s/e7eab978/podcast/play/110429222/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-30%2F410253799-44100-2-cb22bf7d63aec.m4a",
+      "duree": 2039
     },
     {
       "titre": "Arrête d'attendre qu'on te prenne la main, et va chercher ce que tu désires",
-      "date": "2025-09-02"
+      "date": "2025-09-02",
+      "audio": "https://anchor.fm/s/e7eab978/podcast/play/106715119/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-11%2F405467630-44100-2-72b0f4fbe0402.m4a",
+      "duree": 1300
     },
     {
       "titre": "🎙️ Rebondir après un grave accident grâce à un mental de guerrière @HawaNdiaye (sport de haut niveau, mindset,",
-      "date": "2024-08-27"
+      "date": "2024-08-27",
+      "audio": "https://anchor.fm/s/e7eab978/podcast/play/88618641/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2Fe7eab978%2F88618641%2F4cbb2c0618feb46833483bddbc42894e.m4a",
+      "duree": 3624
     },
     {
       "titre": "Je me lance dans une nouvelle aventure entrepreneuriale : je te raconte tous les détails du projet !",
-      "date": "2024-08-12"
+      "date": "2024-08-12",
+      "audio": "https://anchor.fm/s/e7eab978/podcast/play/90236115/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-9%2F384526457-44100-2-31d208e95ba54.m4a",
+      "duree": 2555
     },
     {
       "titre": "🎙️ Avoir plusieurs vies dans une vie, se dépasser, oser être soi avec Sandrine @Greysowhat (témoigne ménopause",
-      "date": "2024-08-05"
+      "date": "2024-08-05",
+      "audio": "https://anchor.fm/s/e7eab978/podcast/play/88897208/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2Fe7eab978%2F88897208%2F236b21ab85be02c71f185eb9e334f841.m4a",
+      "duree": 3569
     }
   ],
   "derniere_activite": "2025-11-03",
-  "frequence_jours": 12
+  "frequence_jours": 12,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-24",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

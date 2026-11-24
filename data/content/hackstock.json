@@ -24,27 +24,37 @@
     "tech",
     "numérique"
   ],
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Bilan",
-      "date": "2021-06-04"
+      "date": "2021-06-04",
+      "audio": "https://sphinx.acast.com/p/open/s/6569f298ff391100123ba68c/e/67bf87276b976c33513bf441/media.mp3",
+      "duree": 4703
     },
     {
       "titre": "Manifestations",
-      "date": "2020-06-12"
+      "date": "2020-06-12",
+      "audio": "https://sphinx.acast.com/p/open/s/6569f298ff391100123ba68c/e/67bf86889f453431220f4b9a/media.mp3",
+      "duree": 4641
     },
     {
       "titre": "Coronavirus",
-      "date": "2020-04-23"
+      "date": "2020-04-23",
+      "audio": "https://sphinx.acast.com/p/open/s/6569f298ff391100123ba68c/e/67bf85f764dd907537588243/media.mp3",
+      "duree": 4500
     },
     {
       "titre": "Mitnick",
-      "date": "2020-03-10"
+      "date": "2020-03-10",
+      "audio": "https://sphinx.acast.com/p/open/s/6569f298ff391100123ba68c/e/67bf8590ddaea755a7ea7f5e/media.mp3",
+      "duree": 3804
     },
     {
       "titre": "Esthétique",
-      "date": "2019-11-03"
+      "date": "2019-11-03",
+      "audio": "https://sphinx.acast.com/p/open/s/6569f298ff391100123ba68c/e/67bf853a9f453431220eff63/media.mp3",
+      "duree": 4478
     }
   ],
   "derniere_activite": "2021-06-04",

@@ -27,30 +27,40 @@
     "series"
   ],
   "addedAt": "2026-07-06",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Les Bobines le podcast : Kinuyo Tanaka, cinéaste éternelle",
+      "date": "2026-11-19",
+      "audio": "https://sphinx.acast.com/p/open/s/645bef213699f60011428820/e/6afedccfc838fad86f02bc58/media.mp3",
+      "duree": 3472
+    },
+    {
       "titre": "Les Bobines le Podcast : Meiko Kaji, Lady Snow, Lady Snow, Lady Snow",
-      "date": "2026-10-25"
+      "date": "2026-10-25",
+      "audio": "https://sphinx.acast.com/p/open/s/645bef213699f60011428820/e/6ade5fb0959e7ea69d330675/media.mp3",
+      "duree": 2793
     },
     {
       "titre": "Les Bobines le Podcast : Judy Garland avec Antoine Sire",
-      "date": "2026-09-29"
+      "date": "2026-09-29",
+      "audio": "https://sphinx.acast.com/p/open/s/645bef213699f60011428820/e/6abbc980ed4e198024c75d1c/media.mp3",
+      "duree": 3857
     },
     {
       "titre": "Les Bobines le Podcast : Suzy Delair avec Christine Leteux",
-      "date": "2026-04-14"
+      "date": "2026-04-14",
+      "audio": "https://sphinx.acast.com/p/open/s/645bef213699f60011428820/e/69dd0993f24ed7c15fb45999/media.mp3",
+      "duree": 3235
     },
     {
       "titre": "Les Bobines le Podcast : Cheng Pei Pei et les bobines du cinéma d'action chinois avec Nathalie Bittinger",
-      "date": "2026-03-08"
-    },
-    {
-      "titre": "Les Bobines le Podcast : Cheng Pei Pei et les bobines du cinéma d'action chinois avec Nathalie Bittinger",
-      "date": "2026-02-19"
+      "date": "2026-03-08",
+      "audio": "https://sphinx.acast.com/p/open/s/645bef213699f60011428820/e/6996219f4c238f5dca10c814/media.mp3",
+      "duree": 1931
     }
   ],
-  "derniere_activite": "2026-10-25",
+  "derniere_activite": "2026-11-19",
   "frequence_jours": 28,
   "avis_publics": {
     "epuise": true,

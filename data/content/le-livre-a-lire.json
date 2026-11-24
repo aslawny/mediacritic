@@ -26,27 +26,37 @@
     "culture"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "William Boyd : les secrets d’un espion malgré lui",
-      "date": "2026-10-29"
+      "date": "2026-10-29",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2856506.mp3?origin=rss",
+      "duree": 2193
     },
     {
       "titre": "Jean-Christophe Grangé : « Tokyorama », plongée dans les nuits folles de Tokyo",
-      "date": "2026-09-24"
+      "date": "2026-09-24",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2771325.mp3?origin=rss",
+      "duree": 2052
     },
     {
       "titre": "Serge Joncour : « Une histoire d’amours », deux siècles de passions dans le Morvan",
-      "date": "2026-08-27"
+      "date": "2026-08-27",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2701751.mp3?origin=rss",
+      "duree": 1945
     },
     {
       "titre": "Hervé Le Tellier : une promenade littéraire dans les jardins de Paris",
-      "date": "2026-06-25"
+      "date": "2026-06-25",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2588422.mp3?origin=rss",
+      "duree": 2376
     },
     {
       "titre": "Olivia Ruiz : « Vamos », le voyage d’une mère et de son fils pour rattraper le temps",
-      "date": "2026-05-28"
+      "date": "2026-05-28",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2532972.mp3?origin=rss",
+      "duree": 2206
     }
   ],
   "derniere_activite": "2026-10-29",

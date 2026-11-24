@@ -26,29 +26,39 @@
     "numerique"
   ],
   "addedAt": "2026-08-05",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "S2 E05 - Bâtir l'industrie de demain",
+      "date": "2026-11-17",
+      "audio": "https://sphinx.acast.com/p/open/s/6a4fca2d2b60482dd2660222/e/6af71e80da1c080cb920c046/media.mp3",
+      "duree": 2566
+    },
+    {
       "titre": "S2 E04 - Transformer pour durer",
-      "date": "2026-10-28"
+      "date": "2026-10-28",
+      "audio": "https://sphinx.acast.com/p/open/s/6a4fca2d2b60482dd2660222/e/6ae1a1afe57912cf6fd4ac25/media.mp3",
+      "duree": 2199
     },
     {
       "titre": "S2 E03 - Mettre l’énergie sur la bonne voie",
-      "date": "2026-10-08"
+      "date": "2026-10-08",
+      "audio": "https://sphinx.acast.com/p/open/s/6a4fca2d2b60482dd2660222/e/6ac7c98b5f788808a76d8866/media.mp3",
+      "duree": 2896
     },
     {
       "titre": "S2 E02 - Consommer en circuit fermé",
-      "date": "2026-07-22"
+      "date": "2026-07-22",
+      "audio": "https://sphinx.acast.com/p/open/s/6a4fca2d2b60482dd2660222/e/6a5f54e07727f737aa74a381/media.mp3",
+      "duree": 1816
     },
     {
       "titre": "S2 E01 - Conduire la transition",
-      "date": "2026-07-15"
-    },
-    {
-      "titre": "S1 E21 - Électriques et économes ?",
-      "date": "2024-07-21"
+      "date": "2026-07-15",
+      "audio": "https://sphinx.acast.com/p/open/s/6a4fca2d2b60482dd2660222/e/6a5756ab70c881d75c405e7f/media.mp3",
+      "duree": 2654
     }
   ],
-  "derniere_activite": "2026-10-28",
+  "derniere_activite": "2026-11-17",
   "frequence_jours": 1
 }

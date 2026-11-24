@@ -27,27 +27,37 @@
     "comedie"
   ],
   "addedAt": "2026-06-21",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Y'a photo",
-      "date": "2025-01-10"
+      "date": "2025-01-10",
+      "audio": "https://sphinx.acast.com/p/open/s/656dee4cd8a766001209129a/e/677e95cc9c8e2047f5d92b0a/media.mp3",
+      "duree": 226
     },
     {
       "titre": "Vol postal",
-      "date": "2025-01-09"
+      "date": "2025-01-09",
+      "audio": "https://sphinx.acast.com/p/open/s/656dee4cd8a766001209129a/e/677e95991f00b28b2304e14a/media.mp3",
+      "duree": 239
     },
     {
       "titre": "Vendredi quoi",
-      "date": "2025-01-08"
+      "date": "2025-01-08",
+      "audio": "https://sphinx.acast.com/p/open/s/656dee4cd8a766001209129a/e/677e95539c8e2047f5d90bf2/media.mp3",
+      "duree": 179
     },
     {
       "titre": "Vaudou",
-      "date": "2025-01-07"
+      "date": "2025-01-07",
+      "audio": "https://sphinx.acast.com/p/open/s/656dee4cd8a766001209129a/e/677e951e1f00b28b2304c3fd/media.mp3",
+      "duree": 196
     },
     {
       "titre": "Un petit coucou",
-      "date": "2025-01-06"
+      "date": "2025-01-06",
+      "audio": "https://sphinx.acast.com/p/open/s/656dee4cd8a766001209129a/e/677e94eaf48b51537c902038/media.mp3",
+      "duree": 230
     }
   ],
   "derniere_activite": "2025-01-10",

@@ -27,29 +27,61 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "NOS HISTOIRES D'HORREUR#3🎃",
-      "date": "2026-10-23"
+      "date": "2026-10-23",
+      "audio": "https://sphinx.acast.com/p/open/s/66264bad04edf10012303f04/e/6ada41b623f48c4f247b8ff5/media.mp3",
+      "duree": 2246
     },
     {
       "titre": "GG'SPICY🌶️#6: On peut pas être amie si",
-      "date": "2026-10-10"
+      "date": "2026-10-10",
+      "audio": "https://sphinx.acast.com/p/open/s/66264bad04edf10012303f04/e/6ac953119fea6e0a64594076/media.mp3",
+      "duree": 2187
     },
     {
       "titre": "Comment survivre à l'automne ?🍂",
-      "date": "2026-09-25"
+      "date": "2026-09-25",
+      "audio": "https://sphinx.acast.com/p/open/s/66264bad04edf10012303f04/e/6ab530ff079b46c819c574fc/media.mp3",
+      "duree": 1741
     },
     {
       "titre": "Les règles tacites de notre amitié",
-      "date": "2026-09-11"
+      "date": "2026-09-11",
+      "audio": "https://sphinx.acast.com/p/open/s/66264bad04edf10012303f04/e/6aa3da82c939da2795a6d5af/media.mp3",
+      "duree": 1706
     },
     {
       "titre": "Ouvrir son entreprise : Éloïse vous raconte tout",
-      "date": "2026-08-28"
+      "date": "2026-08-28",
+      "audio": "https://sphinx.acast.com/p/open/s/66264bad04edf10012303f04/e/6a8f0ebcd8ffec4c41e9e478/media.mp3",
+      "duree": 2138
     }
   ],
   "derniere_activite": "2026-10-23",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-24",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

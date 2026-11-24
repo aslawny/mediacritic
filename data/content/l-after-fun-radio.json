@@ -25,29 +25,61 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
-      "titre": "L'After Fun Radio du 11 novembre 2026",
-      "date": "2026-11-11"
+      "titre": "L'After Fun Radio du 23 novembre 2026",
+      "date": "2026-11-24",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/78331a98-9370-43e2-a5ed-d7510bed8ab7.mp3?_=1795480086",
+      "duree": 10036
     },
     {
-      "titre": "L'After Fun Radio du 10 novembre 2026",
-      "date": "2026-11-10"
+      "titre": "L'After Fun Radio - L'intégrale du 19 novembre",
+      "date": "2026-11-20",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/72fe087c-0d17-4457-8953-a24762210359.mp3?_=1795134187",
+      "duree": 9717
     },
     {
-      "titre": "L'After Fun Radio du 09 novembre 2026",
-      "date": "2026-11-10"
+      "titre": "L'After Fun Radio - L'intégrale du 18 novembre",
+      "date": "2026-11-19",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/e98803cc-2ac1-43a1-94dd-c068f3939cad.mp3?_=1795047786",
+      "duree": 9758
     },
     {
-      "titre": "L'After Fun Radio - L'intégrale du 05 novembre",
-      "date": "2026-11-05"
+      "titre": "L'After Fun Radio - L'intégrale du 17 novembre",
+      "date": "2026-11-18",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/712f0172-efb2-4dd0-b9cd-0bfda819a1cb.mp3?_=1794961687",
+      "duree": 9961
     },
     {
-      "titre": "L'After Fun Radio - L'intégrale du 04 novembre",
-      "date": "2026-11-05"
+      "titre": "L'After Fun Radio - L'intégrale du 16 novembre",
+      "date": "2026-11-17",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/568f6aaf-7ffa-4258-ab7f-edd09eeb6a1e.mp3?_=1794875286",
+      "duree": 9884
     }
   ],
-  "derniere_activite": "2026-11-11",
-  "frequence_jours": 1
+  "derniere_activite": "2026-11-24",
+  "frequence_jours": 1,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-24",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

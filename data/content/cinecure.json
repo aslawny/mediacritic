@@ -26,29 +26,65 @@
     "culture"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Cinexplore #014 – Eric Miot AFCAE",
-      "date": "2025-09-10"
+      "date": "2025-09-10",
+      "audio": "https://cinecure.fr/wp-content/uploads/2025/09/CX014.mp3",
+      "duree": 2029
     },
     {
       "titre": "Cinécure S03E04",
-      "date": "2024-09-26"
+      "date": "2024-09-26",
+      "audio": "https://cinecure.fr/wp-content/uploads/2025/08/CNCR027.mp3",
+      "duree": 1625
     },
     {
       "titre": "Cinécure S03E03",
-      "date": "2023-11-15"
+      "date": "2023-11-15",
+      "audio": "https://cinecure.fr/wp-content/uploads/2025/08/CNCR026.mp3",
+      "duree": 1948
     },
     {
       "titre": "Cinécure S03E02",
-      "date": "2023-10-26"
+      "date": "2023-10-26",
+      "audio": "https://cinecure.fr/wp-content/uploads/2025/08/CNCR025.mp3",
+      "duree": 2175
     },
     {
       "titre": "Cinécure S03E01",
-      "date": "2023-09-06"
+      "date": "2023-09-06",
+      "audio": "https://cinecure.fr/wp-content/uploads/2025/08/CNCR024.mp3",
+      "duree": 1778
     }
   ],
   "derniere_activite": "2025-09-10",
-  "frequence_jours": 28
+  "frequence_jours": 28,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mogadishow",
+        "titre": "Un podcast qui donne envie de regarder des films !",
+        "texte": "Un podcast comme on aimerait en écoutant plus souvent, qui fuit la frénésie de l’actualité et la punchline facile, un écueil qui pousse trop de critiques à passer des heures à charcuter des films qu’ils n’aiment pas. Rien de tout ça ici …"
+      },
+      {
+        "note": 1,
+        "auteur": "Runciter357",
+        "titre": "N’évolue pas",
+        "texte": "Gentillet mais pas très érudit et quelques remarques misogynes d’un autre temps"
+      },
+      {
+        "note": 5,
+        "auteur": "Valpop",
+        "titre": "Le ciné par les films",
+        "texte": "Un nouveau podcast ciné intéressant, abordable sans être démago, simple, sympa, hyper digeste et même délicieux 👌🏻 Super concept de parler de films facilement trouvables et visibles, j’apprécie et je sais ce que je vais mater ce week-end !"
+      }
+    ]
+  }
 }

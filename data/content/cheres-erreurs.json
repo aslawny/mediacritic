@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/ch%C3%A8res-erreurs/id1845288051?uo=2",
       "trackId": 1845288051,
       "rating": 5.0,
-      "ratingCount": 16,
+      "ratingCount": 17,
       "episodeCount": null
     }
   },
@@ -25,30 +25,40 @@
     "business"
   ],
   "addedAt": "2026-11-05",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Erreurs d'entrepreneur : trouver quelque chose qui ne marche pas, c'est déjà trouver",
+      "date": "2026-11-19",
+      "audio": "https://track.podcastics.com/8712/439760.mp3",
+      "duree": 1756
+    },
+    {
       "titre": "La résistance au changement démystifiée : à quoi sert ce qui \"ne marche pas\" ?",
-      "date": "2026-10-29"
+      "date": "2026-10-29",
+      "audio": "https://track.podcastics.com/8712/436461.mp3?t=1792744070",
+      "duree": 2095
     },
     {
       "titre": "Savoir dire \"Je ne sais pas\"",
-      "date": "2026-10-15"
+      "date": "2026-10-15",
+      "audio": "https://track.podcastics.com/8712/435606.mp3",
+      "duree": 1861
     },
     {
       "titre": "Créativité et résilience : sculpter ce qui se brise",
-      "date": "2026-10-01"
+      "date": "2026-10-01",
+      "audio": "https://track.podcastics.com/8712/433886.mp3",
+      "duree": 1380
     },
     {
       "titre": "Ce qu'il faut rater pour devenir une coach aguerrie",
-      "date": "2026-09-17"
-    },
-    {
-      "titre": "Chères Erreurs Saison 2 | bande annonce",
-      "date": "2026-09-16"
+      "date": "2026-09-17",
+      "audio": "https://track.podcastics.com/8712/432449.mp3",
+      "duree": 1956
     }
   ],
-  "derniere_activite": "2026-10-29",
+  "derniere_activite": "2026-11-19",
   "frequence_jours": 14,
   "avis_publics": {
     "epuise": true,

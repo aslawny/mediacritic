@@ -23,27 +23,37 @@
     "rénovation",
     "DIY"
   ],
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "PEUT-ON COULER DU BÉTON SOUS LA PLUIE",
-      "date": "2025-10-04"
+      "date": "2025-10-04",
+      "audio": "https://feeds.soundcloud.com/stream/2182268307-reno-info-maison-peut-on-couler-du-be-ton-sous.mp3",
+      "duree": 237
     },
     {
       "titre": "La rentrée du chauffage 2025 (v2)",
-      "date": "2025-09-27"
+      "date": "2025-09-27",
+      "audio": "https://feeds.soundcloud.com/stream/2177478180-reno-info-maison-la-rentre-e-du-chauffage-2025.mp3",
+      "duree": 130
     },
     {
       "titre": "LE TIRAGE D’UNE CHEMINÉE",
-      "date": "2025-09-13"
+      "date": "2025-09-13",
+      "audio": "https://feeds.soundcloud.com/stream/2169931191-reno-info-maison-le-tirage-dune-chemine-e.mp3",
+      "duree": 252
     },
     {
       "titre": "La plomberie en PER",
-      "date": "2025-08-16"
+      "date": "2025-08-16",
+      "audio": "https://feeds.soundcloud.com/stream/2154150153-reno-info-maison-la-plomberie-en-per.mp3",
+      "duree": 276
     },
     {
       "titre": "LE PLANCHER RAFRAÎCHISSANT",
-      "date": "2025-08-09"
+      "date": "2025-08-09",
+      "audio": "https://feeds.soundcloud.com/stream/2150440971-reno-info-maison-le-plancher-rafrai-chissant.mp3",
+      "duree": 349
     }
   ],
   "derniere_activite": "2025-10-04",

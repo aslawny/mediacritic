@@ -24,27 +24,37 @@
     "business",
     "entrepreneuriat"
   ],
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Orchestrateurs, Kubernetes, Nomad, Scaling & DevOps - Sami Hamine, Valérian Saliou, Julien Le Coupanec",
-      "date": "2024-11-30"
+      "date": "2024-11-30",
+      "audio": "https://anchor.fm/s/e23434c8/podcast/play/95168708/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-30%2F390739535-44100-2-1abca8571492.mp3",
+      "duree": 3830
     },
     {
       "titre": "Apprendre Plus Vite dans le SaaS : Conseils et Techniques - FG Ribreau, David Sferruzza & Julien Le Coupanec",
-      "date": "2024-11-25"
+      "date": "2024-11-25",
+      "audio": "https://anchor.fm/s/e23434c8/podcast/play/94901406/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-24%2F390404467-44100-2-4e06b55d3696d.mp3",
+      "duree": 5910
     },
     {
       "titre": "Le futur de l'IA dans le SaaS - Baptiste Jamin, Valérian Saliou, Yaël Guilloux & Julien Le Coupanec",
-      "date": "2024-10-05"
+      "date": "2024-10-05",
+      "audio": "https://anchor.fm/s/e23434c8/podcast/play/92577059/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-5%2F387580259-44100-2-aa27f82e70785.mp3",
+      "duree": 5554
     },
     {
       "titre": "Faut-il se comparer et s’angoisser face à la concurrence ?",
-      "date": "2024-08-18"
+      "date": "2024-08-18",
+      "audio": "https://anchor.fm/s/e23434c8/podcast/play/90543627/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-17%2F384902530-44100-2-1dcf5431dd6cf.mp3",
+      "duree": 475
     },
     {
       "titre": "Apprendre à maitriser son niveau d’énergie quand on est entrepreneur",
-      "date": "2024-08-17"
+      "date": "2024-08-17",
+      "audio": "https://anchor.fm/s/e23434c8/podcast/play/90543598/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-17%2F384902489-44100-2-ad7b595878b54.mp3",
+      "duree": 273
     }
   ],
   "derniere_activite": "2024-11-30",

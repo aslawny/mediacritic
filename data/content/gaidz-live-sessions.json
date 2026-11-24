@@ -24,27 +24,37 @@
     "culture"
   ],
   "addedAt": "2026-07-18",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "One More Techno",
-      "date": "2026-01-01"
+      "date": "2026-01-01",
+      "audio": "http://download.djpod.com/gaidz/One_More_Techno_V1.mp3",
+      "duree": 3600
     },
     {
       "titre": "Underground",
-      "date": "2025-01-05"
+      "date": "2025-01-05",
+      "audio": "http://download.djpod.com/gaidz/The_BTS_Mix.mp3",
+      "duree": 4544
     },
     {
       "titre": "Overground",
-      "date": "2024-05-23"
+      "date": "2024-05-23",
+      "audio": "http://download.djpod.com/gaidz/Gaidz-Overground.mp3",
+      "duree": 3682
     },
     {
       "titre": "Deeperground",
-      "date": "2024-02-02"
+      "date": "2024-02-02",
+      "audio": "http://download.djpod.com/gaidz/Deeperground_V1.mp3",
+      "duree": 3441
     },
     {
       "titre": "Stay home and listen to techno!",
-      "date": "2020-03-27"
+      "date": "2020-03-27",
+      "audio": "http://download.djpod.com/gaidz/Stay_home_and_listen_to_techno_.mp3",
+      "duree": 3579
     }
   ],
   "derniere_activite": "2026-01-01",

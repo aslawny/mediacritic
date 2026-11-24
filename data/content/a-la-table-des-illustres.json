@@ -26,30 +26,40 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "À la table de Coco Chanel, le chocolat chaud de mademoiselle - Podcast d'histoire et de gastronomie",
+      "date": "2026-11-17",
+      "audio": "https://audio.ausha.co/Pqz5VFJjQxAQ.mp3?t=1794817905",
+      "duree": 586
+    },
+    {
       "titre": "À la table de Bourvil, la cuisine au beurre - Podcast d'histoire et de gastronomie",
-      "date": "2026-11-10"
+      "date": "2026-11-10",
+      "audio": "https://audio.ausha.co/GgWe2HA99XA5.mp3?t=1794212321",
+      "duree": 658
     },
     {
       "titre": "À la table de Pablo Picasso, frugal mais pas trop - Podcast d'histoire et de gastronomie",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "audio": "https://audio.ausha.co/owNq2Qh8dqP4.mp3?t=1793632275",
+      "duree": 626
     },
     {
       "titre": "À la table de Boris Vian, de la soupe pour les amis - Podcast d'histoire et de gastronomie (rediffusion)",
-      "date": "2026-10-27"
+      "date": "2026-10-27",
+      "audio": "https://audio.ausha.co/d0DYVtVkvX4K.mp3?t=1792725437",
+      "duree": 516
     },
     {
       "titre": "À la table de Marilyn Monroe, certains l'aiment cru - Podcast d'histoire et de gastronomie",
-      "date": "2026-10-20"
-    },
-    {
-      "titre": "À la table de François Vatel, marée fatale - Podcast d'histoire et de gastronomie",
-      "date": "2026-10-13"
+      "date": "2026-10-20",
+      "audio": "https://audio.ausha.co/qxeq0u1x2xvd.mp3?t=1792402214",
+      "duree": 642
     }
   ],
-  "derniere_activite": "2026-11-10",
+  "derniere_activite": "2026-11-17",
   "frequence_jours": 7,
   "avis_publics": {
     "source": "apple",

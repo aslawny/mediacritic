@@ -24,29 +24,39 @@
     "international"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "audio1822598528",
+      "date": "2026-11-12",
+      "audio": "https://feeds.soundcloud.com/stream/2436643014-frs_org-audio1822598528.mp3",
+      "duree": 1749
+    },
+    {
       "titre": "La 11e conférence d’examen du TNP est-elle un événement ?",
-      "date": "2026-04-22"
+      "date": "2026-04-22",
+      "audio": "https://feeds.soundcloud.com/stream/2307158687-frs_org-la-11e-conf-rence-dexamen-du.mp3",
+      "duree": 711
     },
     {
       "titre": "After \"New START\": what future for arms control ?",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "audio": "https://feeds.soundcloud.com/stream/2277297029-frs_org-after-new-start-what-future.mp3",
+      "duree": 1276
     },
     {
       "titre": "#30 La propulsion nucléaire navale en Asie-Pacifique",
-      "date": "2025-12-18"
+      "date": "2025-12-18",
+      "audio": "https://feeds.soundcloud.com/stream/2232247694-frs_org-30-la-propulsion-nucleaire-navale-en-asie-pacifique.mp3",
+      "duree": 1209
     },
     {
       "titre": "Le Bouclier et l’Épée",
-      "date": "2025-11-25"
-    },
-    {
-      "titre": "#29 Le retour des essais nucléaires ?",
-      "date": "2025-11-21"
+      "date": "2025-11-25",
+      "audio": "https://feeds.soundcloud.com/stream/2218707875-frs_org-le-bouclier-et-lepee-limpact-de-la-defense-antimissile-balistique-sur-la-proliferation-des-missiles.mp3",
+      "duree": 1848
     }
   ],
-  "derniere_activite": "2026-04-22",
+  "derniere_activite": "2026-11-12",
   "frequence_jours": 52
 }

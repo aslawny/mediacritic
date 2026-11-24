@@ -27,27 +27,37 @@
     "culture"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Les livres de l'été - Hors Série",
-      "date": "2026-06-30"
+      "date": "2026-06-30",
+      "audio": "https://sphinx.acast.com/p/open/s/69ac8b366ffdcd8188e3fa40/e/6a427bd371668e37060abd43/media.mp3",
+      "duree": 505
     },
     {
       "titre": "Partir",
-      "date": "2026-06-16"
+      "date": "2026-06-16",
+      "audio": "https://sphinx.acast.com/p/open/s/69ac8b366ffdcd8188e3fa40/e/6a2ac6a71029ec14b9cff732/media.mp3",
+      "duree": 1606
     },
     {
       "titre": "Bien recevoir",
-      "date": "2026-06-02"
+      "date": "2026-06-02",
+      "audio": "https://sphinx.acast.com/p/open/s/69ac8b366ffdcd8188e3fa40/e/6a1c9f29ad55909da6856d5d/media.mp3",
+      "duree": 926
     },
     {
       "titre": "Prendre soin de son temps",
-      "date": "2026-05-19"
+      "date": "2026-05-19",
+      "audio": "https://sphinx.acast.com/p/open/s/69ac8b366ffdcd8188e3fa40/e/6a0ad48f4239db8b8758ec1a/media.mp3",
+      "duree": 1174
     },
     {
       "titre": "Prendre sa place",
-      "date": "2026-05-05"
+      "date": "2026-05-05",
+      "audio": "https://sphinx.acast.com/p/open/s/69ac8b366ffdcd8188e3fa40/e/69f2675eae2fba210fde46d1/media.mp3",
+      "duree": 1077
     }
   ],
   "derniere_activite": "2026-06-30",

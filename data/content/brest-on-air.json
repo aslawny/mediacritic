@@ -24,29 +24,39 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "EP. 158 / SEMAINE PARFAITE POUR BREST !",
+      "date": "2026-11-12",
+      "audio": "https://stats.podcloud.fr/brestonair/ep-158-slash-semaine-parfaite-pour-brest/enclosure.cdae2da5509152a17d5c130633de5332964773e33556e767af4544f09825e906.mp3?p=f",
+      "duree": 2263
+    },
+    {
       "titre": "EP. 157 / LE DERBY EST ROUGE ET BLANC !",
-      "date": "2026-11-05"
+      "date": "2026-11-05",
+      "audio": "https://stats.podcloud.fr/brestonair/ep-157-slash-le-derby-est-rouge-et-blanc/enclosure.03ee0bff9ed7d8d019c0badb00c6677b0ff0e4fa4d54e5d255077e2d5dd78571.mp3?p=f",
+      "duree": 2206
     },
     {
       "titre": "EP. 156 / LES TROIS POINTS - BREST AU TAPIS",
-      "date": "2026-10-29"
+      "date": "2026-10-29",
+      "audio": "https://stats.podcloud.fr/brestonair/ep-156-slash-les-trois-points-brest-au-tapis/enclosure.f23932e382a2da146d928e00a1d99aee61af02167561b745f7d6e375d6fa3fc1.mp3?p=f",
+      "duree": 2032
     },
     {
       "titre": "EP. 155 / LES TROIS POINTS - UN POINT A LILLE !",
-      "date": "2026-10-20"
+      "date": "2026-10-20",
+      "audio": "https://stats.podcloud.fr/brestonair/ep-155-slash-les-trois-points-un-point-a-lille/enclosure.70d370fbd82ff1e04460ef5b1dd3021f31162f0577eeebba2b5d08a6015c8805.mp3?p=f",
+      "duree": 1876
     },
     {
       "titre": "EP. 154 / LES TROIS POINTS - BREST RÉGALE !",
-      "date": "2026-10-12"
-    },
-    {
-      "titre": "EP. 153 / LE BILAN DU MERCATO !",
-      "date": "2026-10-06"
+      "date": "2026-10-12",
+      "audio": "https://stats.podcloud.fr/brestonair/ep-154-slash-les-trois-points-brest-regale/enclosure.e6e29a8bfbe556fb51335f909f72976d1c9db80d9aa172cfeb966b1f7f5a7281.mp3?p=f",
+      "duree": 1930
     }
   ],
-  "derniere_activite": "2026-11-05",
+  "derniere_activite": "2026-11-12",
   "frequence_jours": 7
 }

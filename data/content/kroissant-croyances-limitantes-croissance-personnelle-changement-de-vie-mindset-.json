@@ -27,29 +27,61 @@
     "psychologie"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "[EP.23] Respect : pourquoi on ne parle pas tous de la même chose (développement personnel, relations)",
-      "date": "2025-09-16"
+      "date": "2025-09-16",
+      "audio": "https://audio.ausha.co/n5qOwiDYvd3Q.mp3?t=1757512008",
+      "duree": 755
     },
     {
       "titre": "[EP.22] Mieux communiquer grâce aux 5 langages de l'amour (épanouissement, développement personnel)",
-      "date": "2025-09-09"
+      "date": "2025-09-09",
+      "audio": "https://audio.ausha.co/gk7OLiNWk083.mp3?t=1757057744",
+      "duree": 1389
     },
     {
       "titre": "[EP.21] Dépense ou investissement ? Et si vous vous posiez la question chaque jour… (mindset, éducation financ",
-      "date": "2025-09-02"
+      "date": "2025-09-02",
+      "audio": "https://audio.ausha.co/k13OlcVmrP0E.mp3?t=1756133719",
+      "duree": 2560
     },
     {
       "titre": "[EP.20] Le biais de négativité : pourquoi votre cerveau retient surtout ce qui ne va pas",
-      "date": "2025-07-08"
+      "date": "2025-07-08",
+      "audio": "https://audio.ausha.co/RdRpYuqNQv8z.mp3?t=1751641740",
+      "duree": 1573
     },
     {
       "titre": "[EP.19] Obstacles : 3 façons d’arrêter de foncer dedans (astuces mindset, motivation)",
-      "date": "2025-06-24"
+      "date": "2025-06-24",
+      "audio": "https://audio.ausha.co/b78xWruapqYX.mp3?t=1750341825",
+      "duree": 1727
     }
   ],
   "derniere_activite": "2025-09-16",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-24",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

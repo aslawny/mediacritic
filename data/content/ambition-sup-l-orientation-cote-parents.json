@@ -26,29 +26,65 @@
     "sciences"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Quel(s) métier(s) après une école de management ?",
-      "date": "2026-06-11"
+      "date": "2026-06-11",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/c4d49833-2b21-41b2-b63e-336d7820a421.mp3?_=1777545811",
+      "duree": 539
     },
     {
       "titre": "Ingénieur : un métier… ou cent métiers ?",
-      "date": "2026-05-14"
+      "date": "2026-05-14",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/cfd1b29d-9f60-4ce9-9695-34ca12cef6c3.mp3?_=1777545703",
+      "duree": 552
     },
     {
       "titre": "Études en soins infirmiers (IFSI) : attention au choc de la réalité ?",
-      "date": "2026-04-09"
+      "date": "2026-04-09",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/ca2dc7e2-5e48-4ba0-a651-7b3f86b0fa91.mp3?_=1775636728",
+      "duree": 560
     },
     {
       "titre": "Étudier à distance après le bac : une vraie option sur Parcoursup ?",
-      "date": "2026-03-12"
+      "date": "2026-03-12",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/ce4ddabb-5cb0-439f-884c-87f4db753795.mp3?_=1773137697",
+      "duree": 539
     },
     {
       "titre": "Licence STAPS : bien plus que du sport !",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/0df1c1ba-00e6-49e8-b1d1-255533975685.mp3?_=1769072960",
+      "duree": 545
     }
   ],
   "derniere_activite": "2026-06-11",
-  "frequence_jours": 22
+  "frequence_jours": 22,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Romain Le 9",
+        "titre": "Clair et précis : très utile !",
+        "texte": "Très intéressant, complet sur les sujets abordés. Pertinent et constructif, aide vraiment à se faire une idée solide et viable, merci !"
+      },
+      {
+        "note": 5,
+        "auteur": "Djodjo1984",
+        "titre": "Précieux pour y voir plus clair",
+        "texte": "Podcast précieux pour y voir plus clair dans cette période parfois compliquée! Merci !"
+      },
+      {
+        "note": 5,
+        "auteur": "Lolai13",
+        "titre": "Super podcast",
+        "texte": "Merci a toute l’équipe pour vos précieux conseils, j’y vois plus clair maintenant."
+      }
+    ]
+  }
 }

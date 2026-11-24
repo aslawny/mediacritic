@@ -23,27 +23,37 @@
     "musique"
   ],
   "addedAt": "2026-09-17",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Summer Club Mix 2026 by DJ Mk",
-      "date": "2026-08-08"
+      "date": "2026-08-08",
+      "audio": "http://download.djpod.com/deejaymk/Summer_Club_Mix_2026_by_Dj_Mk.mp3",
+      "duree": 2702
     },
     {
       "titre": "Summer Club Mix 2025 By Dj Mk & Alex Da Kosta",
-      "date": "2025-08-04"
+      "date": "2025-08-04",
+      "audio": "http://download.djpod.com/deejaymk/Summer_Club_Mix_2025_By_Dj_Mk___Alex_Da_Kosta.mp3",
+      "duree": 7407
     },
     {
       "titre": "Christmas Podcast 2024 By Dj Mk & Dj Axx",
-      "date": "2024-12-28"
+      "date": "2024-12-28",
+      "audio": "http://download.djpod.com/deejaymk/Christmas_Podcast_2024_By_Dj_Mk___Dj_Axx.mp3",
+      "duree": 4946
     },
     {
       "titre": "Summer Club Mix 2024 By Dj Mk",
-      "date": "2024-08-05"
+      "date": "2024-08-05",
+      "audio": "http://download.djpod.com/deejaymk/Summer_Club_Mix__By_Dj_Mk.mp3",
+      "duree": 3936
     },
     {
       "titre": "Christmas Podcast 2023 by Dj MK & Dj Axx Hosted By Mc DY",
-      "date": "2023-12-24"
+      "date": "2023-12-24",
+      "audio": "http://download.djpod.com/deejaymk/Christmas_Podcast_2023_by_Dj_MK___Dj_Axx_Hosted_By_Mc_DY.mp3",
+      "duree": 3950
     }
   ],
   "derniere_activite": "2026-08-08",

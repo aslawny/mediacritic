@@ -25,29 +25,39 @@
     "géopolitique",
     "international"
   ],
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Conférence - Philip Dann : Representative Democracy in Reflexive Globalization",
+      "date": "2026-11-13",
+      "audio": "https://podcastfichiers.college-de-france.fr/besson-conf-20261113-dann.m4a",
+      "duree": 3850
+    },
+    {
       "titre": "Conférence - Michael Doyle : More than Just Peace",
-      "date": "2026-05-21"
+      "date": "2026-05-21",
+      "audio": "https://podcastfichiers.college-de-france.fr/besson-conf-20260521-doyle.m4a",
+      "duree": 2642
     },
     {
       "titre": "Conférence - Juliana Uhuru Bidadanure : Trashification",
-      "date": "2026-05-19"
+      "date": "2026-05-19",
+      "audio": "https://podcastfichiers.college-de-france.fr/besson-conf-20260519-bidadanure.m4a",
+      "duree": 3834
     },
     {
       "titre": "06 - Souverainetés : Souverainetés d'un monde au singulier à habiter au pluriel",
-      "date": "2026-04-02"
+      "date": "2026-04-02",
+      "audio": "https://podcastfichiers.college-de-france.fr/besson-20260402.m4a",
+      "duree": 5636
     },
     {
       "titre": "05 - Souverainetés : Souverainetés européennes",
-      "date": "2026-03-26"
-    },
-    {
-      "titre": "04 - Souverainetés : Souverainetés, solidarité & équité",
-      "date": "2026-03-19"
+      "date": "2026-03-26",
+      "audio": "https://podcastfichiers.college-de-france.fr/besson-20260326.m4a",
+      "duree": 5929
     }
   ],
-  "derniere_activite": "2026-05-21",
-  "frequence_jours": 6
+  "derniere_activite": "2026-11-13",
+  "frequence_jours": 7
 }

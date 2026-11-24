@@ -23,27 +23,37 @@
     "actualité",
     "news"
   ],
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Le dernier mot",
-      "date": "2024-03-29"
+      "date": "2024-03-29",
+      "audio": "https://audio.audiomeans.fr/pfx/b035a7c4-de15-11ef-9e7b-cfc4fb0c91f4/aod-rfi.akamaized.net/rfi/LangueFrancaise/audio/magazines/r290/les_mots_de_l_actu_20240329.mp3?guid=82c0d59a-eda5-11ee-8e4e-005056bf762b&source=PcNCvtcnHj",
+      "duree": 164
     },
     {
       "titre": "Cacique",
-      "date": "2024-03-28"
+      "date": "2024-03-28",
+      "audio": "https://audio.audiomeans.fr/pfx/b035a7c4-de15-11ef-9e7b-cfc4fb0c91f4/aod-rfi.akamaized.net/fle/sounds/fr/2024/03/28/0b72c700-ece2-11ee-b2d2-005056bf762b.mp3?guid=0b337392-ecde-11ee-a166-005056a97652&source=PcNCvtcnHj",
+      "duree": 198
     },
     {
       "titre": "Algorithme",
-      "date": "2024-03-27"
+      "date": "2024-03-27",
+      "audio": "https://audio.audiomeans.fr/pfx/b035a7c4-de15-11ef-9e7b-cfc4fb0c91f4/aod-rfi.akamaized.net/rfi/LangueFrancaise/audio/magazines/r290/les_mots_de_l_actu_20240327.mp3?guid=f7b1c990-ec15-11ee-a12b-005056bf762b&source=PcNCvtcnHj",
+      "duree": 194
     },
     {
       "titre": "Lancer",
-      "date": "2024-03-26"
+      "date": "2024-03-26",
+      "audio": "https://audio.audiomeans.fr/pfx/b035a7c4-de15-11ef-9e7b-cfc4fb0c91f4/aod-rfi.akamaized.net/rfi/LangueFrancaise/audio/magazines/r290/les_mots_de_l_actu_20240326.mp3?guid=06cf1742-eb4a-11ee-874d-005056bf762b&source=PcNCvtcnHj",
+      "duree": 177
     },
     {
       "titre": "Grève de la faim",
-      "date": "2024-03-25"
+      "date": "2024-03-25",
+      "audio": "https://audio.audiomeans.fr/pfx/b035a7c4-de15-11ef-9e7b-cfc4fb0c91f4/aod-rfi.akamaized.net/rfi/LangueFrancaise/audio/magazines/r290/les_mots_de_l_actu_20240325.mp3?guid=0821e6a4-ea7a-11ee-92b5-005056a97652&source=PcNCvtcnHj",
+      "duree": 169
     }
   ],
   "derniere_activite": "2024-03-29",

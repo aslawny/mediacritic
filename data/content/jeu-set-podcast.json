@@ -25,29 +25,65 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "La hiérarchie bousculée au niveau WTA: on fait le bilan de l'année 20216 en compagnie de Carl Maes",
+      "date": "2026-11-19",
+      "audio": "https://audio.ausha.co/yAwANhqD89YE.mp3?t=1795090705",
+      "duree": 2346
+    },
+    {
       "titre": "David Goffin, Raphaël Collignon : les dessous de leur arrivée à la Villa Primrose, aux championnats de France",
-      "date": "2026-11-11"
+      "date": "2026-11-11",
+      "audio": "https://audio.ausha.co/b24dwFdLKzgk.mp3?t=1794432793",
+      "duree": 1618
     },
     {
       "titre": "Alcaraz sacré, Van Assche révélé : le Rolex Paris Masters a fait le tri pour Turin !",
-      "date": "2026-11-10"
+      "date": "2026-11-10",
+      "audio": "https://audio.ausha.co/bPkNeSNP3zm6.mp3?t=1794321807",
+      "duree": 1519
     },
     {
       "titre": "Alexander Blockx rejoint Boulogne-sur-Mer, champions de France 2025 : les coulisses avec Franck Paque",
-      "date": "2026-11-05"
+      "date": "2026-11-05",
+      "audio": "https://audio.ausha.co/bj0qPc1wRaq1.mp3?t=1793888772",
+      "duree": 1126
     },
     {
       "titre": "Rolex Paris Masters : Bergs éliminé, Blockx forfait et Zverev nouveau n°1 mondial",
-      "date": "2026-11-02"
-    },
-    {
-      "titre": "(Hors-série) - 99% des joueurs de tennis peinent à joindre les 2 bouts, la solution de Julien Raymakers pour l",
-      "date": "2026-11-01"
+      "date": "2026-11-02",
+      "audio": "https://audio.ausha.co/yvnGPIqgvEqK.mp3?t=1793708181",
+      "duree": 1371
     }
   ],
-  "derniere_activite": "2026-11-11",
-  "frequence_jours": 1
+  "derniere_activite": "2026-11-19",
+  "frequence_jours": 2,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "FaMz&co",
+        "titre": "Complet et rythmé le tout avec le 😃",
+        "texte": "La passion tennistique de Cristel transpire dans son podcast ! Toute l’actualité tennis et autres infos pertinentes sont repris !"
+      },
+      {
+        "note": 5,
+        "auteur": "futdbdvjh",
+        "titre": "Intéressant",
+        "texte": "Ce podcast est bien mais il est trop centré sur les belges et ne parle pas assez des résultats.👍"
+      },
+      {
+        "note": 4,
+        "auteur": "Thomacos",
+        "titre": "Le meilleur des podcast Tennis Francophones ? pas loin",
+        "texte": "Maintenant que l'hôte semble ne parler que Tennis, je reviens sur mon avis précédent. Podcast Tennis Francophone très agréable notamment grace à Philipe Dehaes"
+      }
+    ]
+  }
 }

@@ -27,30 +27,40 @@
     "series"
   ],
   "addedAt": "2026-06-27",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "[SÉANCE SPÉCIALE] 15/18 - Cédric Kahn",
+      "date": "2026-11-13",
+      "audio": "https://sphinx.acast.com/p/open/s/673216d09e7b27e0ace836f4/e/6af659dc79bddcbf539c880f/media.mp3",
+      "duree": 3433
+    },
+    {
       "titre": "[SÉANCE SPÉCIALE] Moulin - László Nemes",
-      "date": "2026-10-31"
+      "date": "2026-10-31",
+      "audio": "https://sphinx.acast.com/p/open/s/673216d09e7b27e0ace836f4/e/6ae3e9b3309881b50b0618ab/media.mp3",
+      "duree": 3788
     },
     {
       "titre": "[HORS-SERIE] Festival Lumière 2026 #5 - Les frères Coen - Partie 2",
-      "date": "2026-10-18"
+      "date": "2026-10-18",
+      "audio": "https://sphinx.acast.com/p/open/s/673216d09e7b27e0ace836f4/e/6ad3fef39b01a2afaef2b3b5/media.mp3",
+      "duree": 5579
     },
     {
       "titre": "[HORS-SERIE] Festival Lumière 2026 #4 - Les frères Coen - Partie 1",
-      "date": "2026-10-17"
+      "date": "2026-10-17",
+      "audio": "https://sphinx.acast.com/p/open/s/673216d09e7b27e0ace836f4/e/6ad2cb513243d006bb49b9c6/media.mp3",
+      "duree": 5101
     },
     {
       "titre": "[HORS-SERIE] Festival Lumière 2026 #3 - Ettore Scola",
-      "date": "2026-10-15"
-    },
-    {
-      "titre": "[HORS-SERIE] Festival Lumière 2026 #2 - Tsui Hark",
-      "date": "2026-10-13"
+      "date": "2026-10-15",
+      "audio": "https://sphinx.acast.com/p/open/s/673216d09e7b27e0ace836f4/e/6acf7a37b9a0305b8531b4dc/media.mp3",
+      "duree": 4133
     }
   ],
-  "derniere_activite": "2026-10-31",
+  "derniere_activite": "2026-11-13",
   "frequence_jours": 3,
   "avis_publics": {
     "epuise": true,

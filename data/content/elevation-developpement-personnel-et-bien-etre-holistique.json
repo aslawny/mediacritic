@@ -26,29 +26,65 @@
     "psychologie"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "144. J'ai 38 ans aujourd'hui, et voilà où j'en suis 🎂",
+      "date": "2026-11-19",
+      "audio": "https://anchor.fm/s/bd6150cc/podcast/play/129744611/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2Fc13561de-0137-a609-858a-e77632e2a1b4.mp3",
+      "duree": 2180
+    },
+    {
+      "titre": "143. 20 idées de cadeaux pour cette fin d'année",
+      "date": "2026-11-13",
+      "audio": "https://anchor.fm/s/bd6150cc/podcast/play/129371108/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-13%2F3d80425e-7ca9-889b-b7c4-e1616d21c012.mp3",
+      "duree": 1221
+    },
+    {
       "titre": "142. La perfection au détriment du plaisir : ma réflexion du moment",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://anchor.fm/s/bd6150cc/podcast/play/128674875/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-3%2F621008dd-a953-34f2-7e98-9aab01b6aa58.mp3",
+      "duree": 1194
     },
     {
       "titre": "141. L'effet cumulé pour intégrer de nouvelles habitudes",
-      "date": "2026-10-28"
+      "date": "2026-10-28",
+      "audio": "https://anchor.fm/s/bd6150cc/podcast/play/128259421/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-28%2F4b804fcf-c71b-3d70-1f2a-b0888090f1bf.mp3",
+      "duree": 1018
     },
     {
       "titre": "140. Octobre rose : pas si rose que ça ?",
-      "date": "2026-10-20"
-    },
-    {
-      "titre": "139. Le Winter Arc : quoi, pourquoi et comment ?",
-      "date": "2026-10-12"
-    },
-    {
-      "titre": "138. La carrière portfolio : un modèle de vie pro différent",
-      "date": "2026-10-07"
+      "date": "2026-10-20",
+      "audio": "https://anchor.fm/s/bd6150cc/podcast/play/127776450/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-20%2F9a0659fc-98bd-e8e1-5347-162c9c275df5.mp3",
+      "duree": 2018
     }
   ],
-  "derniere_activite": "2026-11-04",
-  "frequence_jours": 7
+  "derniere_activite": "2026-11-19",
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Boo1812",
+        "titre": "Une vraie pépite!",
+        "texte": "Ce podcast est une pépite! Lolita explique clairement et en toute authenticité les concepts et outils du développement personnel. Même si l’on ne se connaît pas, j’ai l’impression d’écouter à la fois une bonne copine et une coach! Maintenant il ne me reste plus qu’à passer à l’ac…"
+      },
+      {
+        "note": 5,
+        "auteur": "Lylluh",
+        "titre": "Merci 🙏",
+        "texte": "Merci Lolita pour ce podcast. Chaque épisode est passionnant et les sujets d’interview me parle tellement ❤️. Merci aussi pour les prochains en mode coaching sur le travail d’introspection, hâte de découvrir la suite !"
+      },
+      {
+        "note": 5,
+        "auteur": "Abig11",
+        "titre": "Une belle impulsion positive",
+        "texte": "L’épisode apprendre à se désapprendre est très intéressant Il donne l’impulsion de se lancer dans « l’aller ver » l’inconnu et les choses nouvelles qui nous font envie mais peur. Merci"
+      }
+    ]
+  }
 }

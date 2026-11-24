@@ -23,29 +23,39 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
-      "titre": "Épisode 546 GeekOrama - willy and charlie solitaire & BeatCore | IC : Anticythère Machine",
-      "date": "2026-11-11"
+      "titre": "Épisode 547 GeekOrama - La Geeko Cafétéria",
+      "date": "2026-11-18",
+      "audio": "https://feeds.soundcloud.com/stream/2439559065-geek-orama-ep547.mp3",
+      "duree": 3883
+    },
+    {
+      "titre": "Épisode 546 GeekOrama - willy and charlie solitaire & BeaterCore | IC : Anticythère Machine",
+      "date": "2026-11-11",
+      "audio": "https://feeds.soundcloud.com/stream/2435415372-geek-orama-ep546.mp3",
+      "duree": 4572
     },
     {
       "titre": "Épisode 545 GeekOrama - La GeekoRoom d'Ikson : Castlevania Belmont's curse",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://feeds.soundcloud.com/stream/2431638273-geek-orama-ep545.mp3",
+      "duree": 3580
     },
     {
       "titre": "Épisode 544 GeekOrama - Church Simulator & God for a Day | IC : L'enfer",
-      "date": "2026-10-28"
+      "date": "2026-10-28",
+      "audio": "https://feeds.soundcloud.com/stream/2426474898-geek-orama-ep544.mp3",
+      "duree": 3624
     },
     {
       "titre": "Épisode 543 GeekOrama - La Geeko Cafétéria",
-      "date": "2026-10-21"
-    },
-    {
-      "titre": "Épisode 542 GeekOrama - Paper Head & Draco & 7 Scales | IC : Wikimasters",
-      "date": "2026-10-14"
+      "date": "2026-10-21",
+      "audio": "https://feeds.soundcloud.com/stream/2422477380-geek-orama-czafet18.mp3",
+      "duree": 4238
     }
   ],
-  "derniere_activite": "2026-11-11",
+  "derniere_activite": "2026-11-18",
   "frequence_jours": 7
 }

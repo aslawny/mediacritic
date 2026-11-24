@@ -26,27 +26,37 @@
     "culture"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Comment rétablir la confiance entre les Européens et leurs médias d'information ?",
-      "date": "2026-07-30"
+      "date": "2026-07-30",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2666894.mp3?origin=rss",
+      "duree": 948
     },
     {
       "titre": "Présidentielle 2027 : que propose le Parti socialiste sur l'Europe ?",
-      "date": "2026-07-21"
+      "date": "2026-07-21",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2642902.mp3?origin=rss",
+      "duree": 1015
     },
     {
       "titre": "À quoi ressemble le travail d'un ambassadeur au Monténégro ?",
-      "date": "2026-06-05"
+      "date": "2026-06-05",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2552512.mp3?origin=rss",
+      "duree": 367
     },
     {
       "titre": "L'Europe ne doit plus se laisser faire par Donald Trump selon Aurore Lalucq",
-      "date": "2026-05-18"
+      "date": "2026-05-18",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2514523.mp3?origin=rss",
+      "duree": 970
     },
     {
       "titre": "Taxe Carbone : les quotas d’émissions sont « en réalité des permis à polluer » selon Marie Toussaint",
-      "date": "2026-05-11"
+      "date": "2026-05-11",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2501622.mp3?origin=rss",
+      "duree": 921
     }
   ],
   "derniere_activite": "2026-07-30",

@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/opensource-la-tech-sans-bullshit/id1768972733?uo=2",
       "trackId": 1768972733,
       "rating": 5.0,
-      "ratingCount": 11,
+      "ratingCount": 12,
       "episodeCount": null
     }
   },
@@ -25,29 +25,39 @@
     "numerique"
   ],
   "addedAt": "2026-10-02",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Il génère 1 MILLION €/mois avec son SaaS : son Playbook COMPLET",
+      "date": "2026-11-20",
+      "audio": "https://audio.ausha.co/a7ljdU0DmYdj.mp3?t=1795121514",
+      "duree": 7392
+    },
+    {
+      "titre": "La startup qui a survécu au massacre à plusieurs MILLIARDS",
+      "date": "2026-11-13",
+      "audio": "https://audio.ausha.co/k1WZpIArjA5V.mp3?t=1794589951",
+      "duree": 5379
+    },
+    {
       "titre": "Il utilise 150 agents IA pour automatiser sa boîte à 50M$ d'ARR",
-      "date": "2026-11-06"
+      "date": "2026-11-06",
+      "audio": "https://audio.ausha.co/9PzlvFp4KEe1.mp3?t=1793983956",
+      "duree": 7168
     },
     {
       "titre": "Il a levé 60M€ et prédit la CHUTE d'OpenAI et Anthropic",
-      "date": "2026-10-23"
+      "date": "2026-10-23",
+      "audio": "https://audio.ausha.co/8zv0eFlxnJnr.mp3?t=1792740925",
+      "duree": 7328
     },
     {
       "titre": "Comment il a levé 26,5 M€ en moins de 2 ans pour sa startup dans la santé",
-      "date": "2026-10-16"
-    },
-    {
-      "titre": "Il fait 15M$/an avec seulement 30 clients (un marché inexploité)",
-      "date": "2026-10-09"
-    },
-    {
-      "titre": "Ils génèrent +30M$/an en laissant leur communauté créer leurs produits",
-      "date": "2026-10-02"
+      "date": "2026-10-16",
+      "audio": "https://audio.ausha.co/4Pg8eFrYk5PL.mp3?t=1792136928",
+      "duree": 5505
     }
   ],
-  "derniere_activite": "2026-11-06",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 7
 }

@@ -29,25 +29,107 @@
   "episodes_recents": [
     {
       "titre": "[nodejs.06] Gerer les connexions de vos users en node.js",
-      "date": "2026-03-14"
+      "date": "2026-03-14",
+      "video": "QLT1IaO3LF4"
     },
     {
       "titre": "[nodejs.05] Coder une jointure N-N en API Web",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "video": "nVrhN7oHdyg"
     },
     {
       "titre": "[nodejs.04] Comment intégrer une base de donnée mariadb dans un projet node.js",
-      "date": "2026-03-02"
+      "date": "2026-03-02",
+      "video": "9313rGEVLhs"
     },
     {
       "titre": "[nodejs.03] Appeler des API GET POST depuis notre application Web . Avec la Méthode fetch()",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "video": "QMkVB4b_PKI"
     },
     {
       "titre": "[11] Installer et comprendre Mariadb et PhpMyAdmin sur une VM Debian 13",
-      "date": "2026-02-13"
+      "date": "2026-02-13",
+      "video": "lrZouBgh4Wc"
     }
   ],
   "derniere_activite": "2026-03-14",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "videos": [
+    {
+      "titre": "[nodejs.06] Gerer les connexions de vos users en node.js",
+      "date": "2026-03-14",
+      "video": "QLT1IaO3LF4"
+    },
+    {
+      "titre": "[nodejs.05] Coder une jointure N-N en API Web",
+      "date": "2026-03-07",
+      "video": "nVrhN7oHdyg"
+    },
+    {
+      "titre": "[nodejs.04] Comment intégrer une base de donnée mariadb dans un projet node.js",
+      "date": "2026-03-02",
+      "video": "9313rGEVLhs"
+    },
+    {
+      "titre": "[nodejs.03] Appeler des API GET POST depuis notre application Web . Avec la Méthode fetch()",
+      "date": "2026-02-21",
+      "video": "QMkVB4b_PKI"
+    },
+    {
+      "titre": "[11] Installer et comprendre Mariadb et PhpMyAdmin sur une VM Debian 13",
+      "date": "2026-02-13",
+      "video": "lrZouBgh4Wc"
+    },
+    {
+      "titre": "[nodejs.02] Création d'une route POST et test avec PostMan",
+      "date": "2026-02-07",
+      "video": "KzPIPiVXezE"
+    },
+    {
+      "titre": "[CS06] Pentesting 1 , démonstration d'attaque Web et sécurisation de l'application Speaky.fr",
+      "date": "2026-01-31",
+      "video": "y_xTq0AJ2FY"
+    },
+    {
+      "titre": "[Nodejs.01] Node.js Démarrer un projet Api avec Express",
+      "date": "2026-01-24",
+      "video": "04r9uCTd-Xk"
+    },
+    {
+      "titre": "[JS.09] Comment créer une classe Javascript",
+      "date": "2023-11-20",
+      "video": "bKLkULy8Ft0"
+    },
+    {
+      "titre": "BTS CIEL Cybersécurité (Parcoursup) Explications !!",
+      "date": "2023-11-11",
+      "video": "4s0HgTYJTps"
+    },
+    {
+      "titre": "[JS.08] Apprendre à coder en Objet avec Javascript",
+      "date": "2023-11-03",
+      "video": "T6abJZDKV4w"
+    },
+    {
+      "titre": "[R13] HTTP étude des requêtes et réponses de ce protocole",
+      "date": "2023-10-22",
+      "video": "CHp89jImK_M"
+    },
+    {
+      "titre": "[CS05] Cyber Attaque de type credential stuffing (bourrage d’identifiants)",
+      "date": "2023-10-15",
+      "video": "8yUFHnIBuIU"
+    },
+    {
+      "titre": "[React04] Données entre Composant réact Parents et Enfants, comment les passer",
+      "date": "2023-09-22",
+      "video": "ddzzKpJ7thU"
+    },
+    {
+      "titre": "[React03] Comprendre JSX. variable , condition et boucle",
+      "date": "2023-08-29",
+      "video": "mXvDRPniWM0"
+    }
+  ]
 }

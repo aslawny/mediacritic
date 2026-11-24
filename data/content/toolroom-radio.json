@@ -24,30 +24,40 @@
     "culture"
   ],
   "addedAt": "2026-07-03",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Toolroom Radio EP869",
+      "date": "2026-11-23",
+      "audio": "https://audio.thisisdistorted.com/repository/audio/episodes/192TR869_-_TWOHOURSHOW-1795165873117672334-NDMzODYtMTc1OTY0MTk4.mp3",
+      "duree": 7201
+    },
+    {
+      "titre": "Toolroom Radio EP868",
+      "date": "2026-11-16",
+      "audio": "https://audio.thisisdistorted.com/repository/audio/episodes/192TR868_-_TWOHOURSHOW-1794497601670713379-NDMzNDYtMTc3OTQ3NTI5.mp3",
+      "duree": 7200
+    },
+    {
       "titre": "Toolroom Radio EP867",
-      "date": "2026-11-09"
+      "date": "2026-11-09",
+      "audio": "https://audio.thisisdistorted.com/repository/audio/episodes/192TR867_-_TWOHOURSHOW-1793962840477154400-NDMzMjktMTc2MzQ3NTU3.mp3",
+      "duree": 7201
     },
     {
       "titre": "Toolroom Radio EP866",
-      "date": "2026-11-02"
+      "date": "2026-11-02",
+      "audio": "https://audio.thisisdistorted.com/repository/audio/episodes/192TR866_-_TWOHOURSHOW-1793277452234002799-NDMyOTEtMTc4Mjk1NjU2.mp3",
+      "duree": 7200
     },
     {
       "titre": "Toolroom Radio EP865",
-      "date": "2026-10-26"
-    },
-    {
-      "titre": "Toolroom Radio EP864",
-      "date": "2026-10-19"
-    },
-    {
-      "titre": "Toolroom Radio EP863",
-      "date": "2026-10-12"
+      "date": "2026-10-26",
+      "audio": "https://audio.thisisdistorted.com/repository/audio/episodes/192TR865_-_TWOHOURSHOW-1793006381750460947-NDMyNzgtMTc0NDI3NDEy.mp3",
+      "duree": 7200
     }
   ],
-  "derniere_activite": "2026-11-09",
+  "derniere_activite": "2026-11-23",
   "frequence_jours": 7,
   "avis_publics": {
     "epuise": true,

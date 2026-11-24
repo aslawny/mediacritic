@@ -23,27 +23,37 @@
     "musique"
   ],
   "addedAt": "2026-08-14",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Episode 73 - \"Dernier de la saison\"",
-      "date": "2022-06-20"
+      "date": "2022-06-20",
+      "audio": "https://sphinx.acast.com/p/acast/s/rock-and-schnock/e/62b0466fd5563f00129bc887/media.mp3",
+      "duree": 4454
     },
     {
       "titre": "Episode 72 - Spécial Château d'Hérouville Part 2",
-      "date": "2022-06-16"
+      "date": "2022-06-16",
+      "audio": "https://sphinx.acast.com/p/acast/s/rock-and-schnock/e/62aaef3f2ecdc500127de4d2/media.mp3",
+      "duree": 4237
     },
     {
       "titre": "Episode 72 - Special Rock&Schnock 43",
-      "date": "2022-06-07"
+      "date": "2022-06-07",
+      "audio": "https://sphinx.acast.com/p/acast/s/rock-and-schnock/e/629f17dad0af6800134f25de/media.mp3",
+      "duree": 3485
     },
     {
       "titre": "Episode 71 - Special Herouville",
-      "date": "2022-05-31"
+      "date": "2022-05-31",
+      "audio": "https://sphinx.acast.com/p/acast/s/rock-and-schnock/e/6295bb1c8b9d61001201aa07/media.mp3",
+      "duree": 4227
     },
     {
       "titre": "Episode 70 - \"Spécial Québec\"",
-      "date": "2022-05-24"
+      "date": "2022-05-24",
+      "audio": "https://sphinx.acast.com/p/acast/s/rock-and-schnock/e/628cff29a868cf0014f4e5f0/media.mp3",
+      "duree": 3554
     }
   ],
   "derniere_activite": "2022-06-20",

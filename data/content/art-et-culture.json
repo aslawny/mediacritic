@@ -25,29 +25,61 @@
     "culture"
   ],
   "addedAt": "2026-08-17",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "L'invention des cyanotypes",
-      "date": "2023-06-19"
+      "date": "2023-06-19",
+      "audio": "https://anchor.fm/s/3f8d847c/podcast/play/72291466/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-18%2F99d6fc2e-fe74-eb5a-1345-052bef3b4ed1.mp3",
+      "duree": 313
     },
     {
       "titre": "Les tubes de peinture",
-      "date": "2023-06-12"
+      "date": "2023-06-12",
+      "audio": "https://anchor.fm/s/3f8d847c/podcast/play/70371296/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-14%2Fd48af9ad-6dbd-9501-c975-911057c3e28a.mp3",
+      "duree": 236
     },
     {
       "titre": "Les déplacements de la Joconde",
-      "date": "2023-06-05"
+      "date": "2023-06-05",
+      "audio": "https://anchor.fm/s/3f8d847c/podcast/play/71601574/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-4%2F4e196743-df7f-83d2-f2a2-6fa4f204ed33.mp3",
+      "duree": 489
     },
     {
       "titre": "Les lunettes de soleil",
-      "date": "2023-05-29"
+      "date": "2023-05-29",
+      "audio": "https://anchor.fm/s/3f8d847c/podcast/play/71155654/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-28%2F3d964506-446a-822a-60ea-c54d44f70b49.mp3",
+      "duree": 232
     },
     {
       "titre": "L'Anecdote de la Botte d'Asperge",
-      "date": "2023-05-22"
+      "date": "2023-05-22",
+      "audio": "https://anchor.fm/s/3f8d847c/podcast/play/70012119/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-8%2F13ba0516-20c5-17a7-1b1c-cf48b620d51f.mp3",
+      "duree": 156
     }
   ],
   "derniere_activite": "2023-06-19",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-24",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

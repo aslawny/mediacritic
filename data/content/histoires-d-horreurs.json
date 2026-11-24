@@ -26,12 +26,36 @@
     "series"
   ],
   "addedAt": "2026-06-21",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Histoires D'horreurs (Trailer)",
-      "date": "2021-05-19"
+      "date": "2021-05-19",
+      "audio": "https://anchor.fm/s/5bd3c254/podcast/play/33840541/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-19%2F188070272-44100-2-bf1dbaee742ba.m4a",
+      "duree": 35
     }
   ],
-  "derniere_activite": "2021-05-19"
+  "derniere_activite": "2021-05-19",
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-24",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

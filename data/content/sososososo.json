@@ -26,19 +26,25 @@
     "societe"
   ],
   "addedAt": "2026-06-21",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "TOKYO - KOENJI NAKANO KICHIJOJI",
-      "date": "2020-03-11"
+      "date": "2020-03-11",
+      "audio": "https://sphinx.acast.com/sosososo/tokyo-koenjinakanokichijoji/media.mp3",
+      "duree": 2978
     },
     {
       "titre": "TOKYO - SHINJUKU",
-      "date": "2020-02-19"
+      "date": "2020-02-19",
+      "audio": "https://sphinx.acast.com/sosososo/sososososo-shinjuku/media.mp3",
+      "duree": 3843
     },
     {
       "titre": "Trailer de Sososososo.",
-      "date": "2020-02-07"
+      "date": "2020-02-07",
+      "audio": "https://sphinx.acast.com/sosososo/trailerdesososososo-/media.mp3",
+      "duree": 100
     }
   ],
   "derniere_activite": "2020-03-11",

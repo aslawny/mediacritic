@@ -25,29 +25,39 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Baromètre PHP 2026 : l'année où l'IA a tout changé - SMALLTALK #11",
+      "date": "2026-11-23",
+      "audio": "https://anchor.fm/s/f411ff04/podcast/play/129953351/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-23%2F437420277-44100-2-4527845aae57f.mp3",
+      "duree": 3965
+    },
+    {
       "titre": "Three.js, WebGPU et IA : où en est la 3D sur le web ? - FAQ #3",
-      "date": "2026-09-04"
+      "date": "2026-09-04",
+      "audio": "https://anchor.fm/s/f411ff04/podcast/play/125092727/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-3%2F431103556-44100-2-17940a36e13c4.mp3",
+      "duree": 4890
     },
     {
       "titre": "IDE, terminal, IA : à quoi ressemble ton setup en 2026 ? - RÉPONDEUR #12",
-      "date": "2026-04-27"
+      "date": "2026-04-27",
+      "audio": "https://anchor.fm/s/f411ff04/podcast/play/118975625/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-24%2F422769767-44100-2-adc3d34632d58.m4a",
+      "duree": 1629
     },
     {
       "titre": "Veille techno : les bonnes pratiques - SMALLTALK #10",
-      "date": "2026-03-30"
+      "date": "2026-03-30",
+      "audio": "https://anchor.fm/s/f411ff04/podcast/play/117394226/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-30%2F421049974-44100-2-8a8ca4c232e7f.mp3",
+      "duree": 2723
     },
     {
       "titre": "Le C++ en 2026 - FAQ #2",
-      "date": "2026-01-12"
-    },
-    {
-      "titre": "Conférences : 10 conseils pour être sélectionné·e à un CFP - RÉPONDEUR #11",
-      "date": "2025-12-15"
+      "date": "2026-01-12",
+      "audio": "https://anchor.fm/s/f411ff04/podcast/play/113525384/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-5%2F415533990-44100-2-47b2c2bf8f93d.mp3",
+      "duree": 3863
     }
   ],
-  "derniere_activite": "2026-09-04",
+  "derniere_activite": "2026-11-23",
   "frequence_jours": 27
 }

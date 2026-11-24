@@ -26,29 +26,61 @@
     "education"
   ],
   "addedAt": "2026-06-27",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "DROITS REPRODUCTIFS ET PLACE DE L'ENFANT",
-      "date": "2026-11-06"
+      "date": "2026-11-06",
+      "audio": "https://sphinx.acast.com/p/open/s/67ad0079505cb2a0a36c5378/e/6ae9cb33f5930510a0de7a1d/media.mp3",
+      "duree": 1818
     },
     {
       "titre": "#11 - EMANCIPATION",
-      "date": "2026-10-26"
+      "date": "2026-10-26",
+      "audio": "https://sphinx.acast.com/p/open/s/67ad0079505cb2a0a36c5378/e/6adf3d6c677cf6f87d63901d/media.mp3",
+      "duree": 2960
     },
     {
       "titre": "EDUCATION A LA VIE AFFECTIVE ET RELATIONNELLE DES ENFANTS",
-      "date": "2026-09-14"
+      "date": "2026-09-14",
+      "audio": "https://sphinx.acast.com/p/open/s/67ad0079505cb2a0a36c5378/e/6aa7dfe748975e979552c036/media.mp3",
+      "duree": 1626
     },
     {
       "titre": "#10 - JUSTICE CLIMATIQUE A MAYOTTE : COMPRENDRE, AGIR, REVENDIQUER",
-      "date": "2026-08-28"
+      "date": "2026-08-28",
+      "audio": "https://sphinx.acast.com/p/open/s/67ad0079505cb2a0a36c5378/e/6a904ce2d3e4bd90415021bf/media.mp3",
+      "duree": 3331
     },
     {
       "titre": "GARANTIR LE DROIT A DISPOSER DE SON CORPS",
-      "date": "2026-07-24"
+      "date": "2026-07-24",
+      "audio": "https://sphinx.acast.com/p/open/s/67ad0079505cb2a0a36c5378/e/6a6226487d20badb28147ae8/media.mp3",
+      "duree": 1549
     }
   ],
   "derniere_activite": "2026-11-06",
-  "frequence_jours": 32
+  "frequence_jours": 32,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-24",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

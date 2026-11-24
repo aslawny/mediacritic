@@ -27,27 +27,37 @@
     "business"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Gouvernement Barnier : quelle place doit on donner au numérique en France?",
-      "date": "2024-10-07"
+      "date": "2024-10-07",
+      "audio": "https://api.spreaker.com/download/episode/62270884/gouvernement_barnie_la_place_donne_e_au_nume_rique_est_elle_a_la_hauteur_des_enjeux_240p.mp3",
+      "duree": 2017
     },
     {
       "titre": "Paul MIDY, la nouvelle voix de l'écosystème tech français.",
-      "date": "2024-04-05"
+      "date": "2024-04-05",
+      "audio": "https://api.spreaker.com/download/episode/59302538/paul_midy_2024.mp3",
+      "duree": 2689
     },
     {
       "titre": "Scénario de sortie, comment rendre sa startup bankable?",
-      "date": "2024-02-16"
+      "date": "2024-02-16",
+      "audio": "https://api.spreaker.com/download/episode/58704521/club_1_2024_vf.mp3",
+      "duree": 3772
     },
     {
       "titre": "FREDERIC PIE, le bourlingueur de l'entrepreneuriat tech.",
-      "date": "2023-05-26"
+      "date": "2023-05-26",
+      "audio": "https://api.spreaker.com/download/episode/54004381/club_frederic_pie_mixage_final.mp3",
+      "duree": 1457
     },
     {
       "titre": "Gérer ses RP en 2023, fracture numérique avec Estelle Monraisse et Florent Malbranche",
-      "date": "2023-04-07"
+      "date": "2023-04-07",
+      "audio": "https://api.spreaker.com/download/episode/53469343/malbranche_monraisse.mp3",
+      "duree": 3362
     }
   ],
   "derniere_activite": "2024-10-07",

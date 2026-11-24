@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/true-crime-lheure-du-crime/id1884710404?uo=4",
       "trackId": 1884710404,
-      "rating": 3.9,
-      "ratingCount": 8,
+      "rating": 3.8,
+      "ratingCount": 9,
       "episodeCount": 87
     }
   },
@@ -27,29 +27,39 @@
     "societe"
   ],
   "addedAt": "2026-06-12",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
-      "titre": "La Méga Bombe du Nevada : L'Affaire la plus Insolite des Archives du FBI",
-      "date": "2026-11-12"
+      "titre": "El Rukn : Le Démantèlement d'un Gang Terroriste aux Méthodes Impitoyables",
+      "date": "2026-11-23",
+      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/70588910/00071.mp3",
+      "duree": 2787
     },
     {
-      "titre": "Mon Père était un Meurtrier de Masse : Le Témoignage d'un Fils",
-      "date": "2026-11-11"
+      "titre": "Le Meurtre de Donald Harmacek : Un Dossier Criminel Hors Norme",
+      "date": "2026-11-20",
+      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/70588911/00043.mp3",
+      "duree": 2785
     },
     {
-      "titre": "Le Calvaire d'une Mère : L'Assassinat Brutal qui a Bouleversé sa Famille",
-      "date": "2026-11-10"
+      "titre": "Soirée Sanglante : Quand une Fête entre Amis Tourne à la Tragédie",
+      "date": "2026-11-19",
+      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/70588912/00042.mp3",
+      "duree": 2784
     },
     {
-      "titre": "La Chute de Nichols : La Fin de l'Empire Criminel de Lorenzo « Fat Cat »",
-      "date": "2026-11-09"
+      "titre": "James Koedatich : Le Prédateur de Femmes qui Terrorisait les Routes",
+      "date": "2026-11-18",
+      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/70588913/00093.mp3",
+      "duree": 2779
     },
     {
-      "titre": "Derrière les Barreaux : Une Immersion dans l'Enfer de la Détention Juvénile",
-      "date": "2026-11-06"
+      "titre": "Crazy Charlie : Le Criminel le plus Violent et Redouté de la Ville de Camden",
+      "date": "2026-11-17",
+      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/70588914/00086.mp3",
+      "duree": 2719
     }
   ],
-  "derniere_activite": "2026-11-12",
+  "derniere_activite": "2026-11-23",
   "frequence_jours": 1
 }

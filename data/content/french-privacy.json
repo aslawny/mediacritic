@@ -28,26 +28,108 @@
   "updatedAt": "2026-07-22",
   "episodes_recents": [
     {
+      "titre": "France sous surveillance : ces lois que vous ignorez",
+      "date": "2026-11-15",
+      "video": "ECwAf1UOLbY"
+    },
+    {
+      "titre": "5 erreurs OPSEC qui t'exposent en ligne",
+      "date": "2026-10-08",
+      "video": "7pzkxZnb1fs"
+    },
+    {
+      "titre": "Vous connaissez l’OPSEC ? Vous devriez… 👀",
+      "date": "2026-10-03",
+      "video": "vQYLeWc9AlQ"
+    },
+    {
+      "titre": "Votre vie privée est-elle déjà exposée en ligne ?",
+      "date": "2026-09-27",
+      "video": "JHXZTiBFB9c"
+    },
+    {
+      "titre": "L'alternative à X : découvrez Mastodon en 1 minute !",
+      "date": "2026-09-24",
+      "video": "oJYHx1WvEYU"
+    }
+  ],
+  "derniere_activite": "2026-11-15",
+  "frequence_jours": 2,
+  "videos": [
+    {
+      "titre": "France sous surveillance : ces lois que vous ignorez",
+      "date": "2026-11-15",
+      "video": "ECwAf1UOLbY"
+    },
+    {
+      "titre": "5 erreurs OPSEC qui t'exposent en ligne",
+      "date": "2026-10-08",
+      "video": "7pzkxZnb1fs"
+    },
+    {
+      "titre": "Vous connaissez l’OPSEC ? Vous devriez… 👀",
+      "date": "2026-10-03",
+      "video": "vQYLeWc9AlQ"
+    },
+    {
+      "titre": "Votre vie privée est-elle déjà exposée en ligne ?",
+      "date": "2026-09-27",
+      "video": "JHXZTiBFB9c"
+    },
+    {
+      "titre": "L'alternative à X : découvrez Mastodon en 1 minute !",
+      "date": "2026-09-24",
+      "video": "oJYHx1WvEYU"
+    },
+    {
+      "titre": "Qu'est-ce que Mastodon ? La réponse en 60 secondes !",
+      "date": "2026-09-21",
+      "video": "a9NlifCzZ2E"
+    },
+    {
+      "titre": "Top 5 des meilleures applis open source pour remplacer Apple, Google et Microsoft",
+      "date": "2026-09-17",
+      "video": "lGpyTbTdi58"
+    },
+    {
+      "titre": "5 alternatives libres aux applis des GAFAM que tu dois absolument connaître",
+      "date": "2026-09-15",
+      "video": "17ZwqmgDf_U"
+    },
+    {
+      "titre": "Ce réseau social libre peut-il remplacer X, Instagram et Facebook ?",
+      "date": "2026-09-13",
+      "video": "i27f9j9kXEY"
+    },
+    {
+      "titre": "Marre des GAFAM ? Voici 5 applis open source pour reprendre le contrôle",
+      "date": "2026-09-12",
+      "video": "Vq6zESCXaS4"
+    },
+    {
+      "titre": "Ces 5 applis libres peuvent remplacer les services des GAFAM !",
+      "date": "2026-09-11",
+      "video": "R29SRLYyY24"
+    },
+    {
+      "titre": "Top 5 des applis open source qui remplacent Google, Microsoft et Apple",
+      "date": "2026-09-10",
+      "video": "AEm_4-0bXps"
+    },
+    {
+      "titre": "Peut-on remplacer les GAFAM ? Les meilleures alternatives",
+      "date": "2026-09-06",
+      "video": "b6Gy08stOYs"
+    },
+    {
       "titre": "Transforme un vieux PC en serveur avec YunoHost #linux #homelab",
-      "date": "2026-08-29"
+      "date": "2026-08-29",
+      "video": "2qDvpwTQGDo"
     },
     {
       "titre": "YunoHost expliqué simplement : ton serveur à la maison #cloud #yunohost",
-      "date": "2026-08-28"
-    },
-    {
-      "titre": "YunoHost : crée ton serveur facilement chez toi ! #homelab #linux",
-      "date": "2026-08-27"
-    },
-    {
-      "titre": "Le moyen le plus simple d’auto-héberger tes services #linux #serveur #cloud",
-      "date": "2026-08-26"
-    },
-    {
-      "titre": "Auto-héberge ton serveur en 5 minutes avec YunoHost #yunohost #serveur #homelab",
-      "date": "2026-08-26"
+      "date": "2026-08-28",
+      "video": "9nFj-dFFk3w"
     }
-  ],
-  "derniere_activite": "2026-08-29",
-  "frequence_jours": 1
+  ]
 }

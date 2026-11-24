@@ -27,27 +27,37 @@
     "societe"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Ep.13 | Le stand-up arabe à Paris [Saison 2]",
-      "date": "2025-07-08"
+      "date": "2025-07-08",
+      "audio": "https://media.transistor.fm/7bda01a4/26d43df6.mp3",
+      "duree": 956
     },
     {
       "titre": "Ep.12 | Les cafés kabyles [Saison 2]",
-      "date": "2025-05-21"
+      "date": "2025-05-21",
+      "audio": "https://media.transistor.fm/9816fc81/9934c9e1.mp3",
+      "duree": 834
     },
     {
       "titre": "Ep.11 | L'épicier du coin [Saison 2]",
-      "date": "2025-04-25"
+      "date": "2025-04-25",
+      "audio": "https://media.transistor.fm/11994b6a/3bae0fac.mp3",
+      "duree": 885
     },
     {
       "titre": "Ep.10 | Le Paris d'Abdellah Taïa",
-      "date": "2025-03-13"
+      "date": "2025-03-13",
+      "audio": "https://media.transistor.fm/2030426b/97e5b874.mp3",
+      "duree": 1269
     },
     {
       "titre": "Ep.9 | Assassinats politiques sur les bords de Seine",
-      "date": "2025-02-07"
+      "date": "2025-02-07",
+      "audio": "https://media.transistor.fm/c21187e6/e72c1094.mp3",
+      "duree": 755
     }
   ],
   "derniere_activite": "2025-07-08",

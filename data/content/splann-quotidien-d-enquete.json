@@ -29,29 +29,39 @@
     "culture"
   ],
   "addedAt": "2026-11-08",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Comment mettre l'écologie au cœur de la présidentielle, avec Sylvain Ernault sur Radio Activ'",
+      "date": "2026-11-20",
+      "audio": "https://op3.dev/e,pg=c130f00b-b153-54f8-8129-773089e7c6d7/podcast.splann.org/audio/@splannenstudio/radio-activ-reporterre-saint-brieuc-sylvain-ernault.mp3",
+      "duree": 1130
+    },
+    {
       "titre": "L'investigation locale a le vent en poupe, avec Faustine Sternberg et Violette Artaud à Brest",
-      "date": "2026-11-07"
+      "date": "2026-11-07",
+      "audio": "https://op3.dev/e,pg=c130f00b-b153-54f8-8129-773089e7c6d7/podcast.splann.org/audio/@splannenstudio/longueur-dondes-brest-investigation-locale-faustine-sternberg.mp3",
+      "duree": 4400
     },
     {
       "titre": "Des rues de Saint-Malo polluées au cadmium | Notre récap' d'octobre 2026",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://op3.dev/e,pg=c130f00b-b153-54f8-8129-773089e7c6d7/podcast.splann.org/audio/@splannenstudio/recap-octobre-2026.mp3",
+      "duree": 660
     },
     {
       "titre": "En Bretagne, l'union fait la force, avec Nicole Le Garrec | Cinq ans de « Splann ! »",
-      "date": "2026-11-01"
+      "date": "2026-11-01",
+      "audio": "https://op3.dev/e,pg=c130f00b-b153-54f8-8129-773089e7c6d7/podcast.splann.org/audio/@splannenstudio/cinq-ans-force-collectif.mp3",
+      "duree": 4161
     },
     {
       "titre": "Grand entretien #5 : Histoire du turbo-poulet avec Axelle Playoust-Braure, journaliste",
-      "date": "2026-10-11"
-    },
-    {
-      "titre": "Les fuites d'un méthaniseur « modèle » à Derval | Notre récap' de septembre 2026",
-      "date": "2026-10-10"
+      "date": "2026-10-11",
+      "audio": "https://op3.dev/e,pg=c130f00b-b153-54f8-8129-773089e7c6d7/podcast.splann.org/audio/@splannenstudio/grand-entretien-turbo-poulets-axelle-playoust-braure.mp3",
+      "duree": 3466
     }
   ],
-  "derniere_activite": "2026-11-07",
-  "frequence_jours": 9
+  "derniere_activite": "2026-11-20",
+  "frequence_jours": 11
 }

@@ -25,31 +25,41 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "DÉMESURÉ - Du bar au festival, avec Alex Mencarelli",
+      "date": "2026-11-13",
+      "audio": "https://sphinx.acast.com/p/open/s/6583050940047000174934fc/e/6af741fc9dce43280902c7db/media.mp3",
+      "duree": 3974
+    },
+    {
       "titre": "DÉMESURÉ - I'm From Rennes, festival 100% local",
-      "date": "2026-10-16"
+      "date": "2026-10-16",
+      "audio": "https://sphinx.acast.com/p/open/s/6583050940047000174934fc/e/6ad1f5b4b9a0305b856c3d63/media.mp3",
+      "duree": 2043
     },
     {
       "titre": "It's Alive - BEASTIE BOYS",
-      "date": "2026-10-14"
+      "date": "2026-10-14",
+      "audio": "https://sphinx.acast.com/p/open/s/6583050940047000174934fc/e/6ace06069fea6e0a64d57146/media.mp3",
+      "duree": 3371
     },
     {
       "titre": "It's Alive - POLICE",
-      "date": "2026-09-16"
+      "date": "2026-09-16",
+      "audio": "https://sphinx.acast.com/p/open/s/6583050940047000174934fc/e/6aa7b7ef2469d1a3b3acab3b/media.mp3",
+      "duree": 3549
     },
     {
       "titre": "Lights Out - L'art de la reconversion",
-      "date": "2026-09-04"
-    },
-    {
-      "titre": "Lights Out - CHUMBAWAMBA",
-      "date": "2026-02-21"
+      "date": "2026-09-04",
+      "audio": "https://sphinx.acast.com/p/open/s/6583050940047000174934fc/e/6a9a6c48d54ec94380202825/media.mp3",
+      "duree": 988
     }
   ],
-  "derniere_activite": "2026-10-16",
-  "frequence_jours": 27,
+  "derniere_activite": "2026-11-13",
+  "frequence_jours": 28,
   "avis_publics": {
     "epuise": true,
     "releve": "2026-11-19",

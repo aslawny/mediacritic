@@ -25,29 +25,61 @@
     "bien-etre"
   ],
   "addedAt": "2026-11-02",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "62. Beauté, plaisir et lenteur, avec Alexandra Sanctuarium",
+      "date": "2026-11-12",
+      "audio": "https://anchor.fm/s/eaa90ebc/podcast/play/129138098/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-9%2F143178ad-622a-82bc-82e7-168788a5bb0c.mp3",
+      "duree": 4635
+    },
+    {
       "titre": "61. Retrouver notre vitalité, avec Émilie Gauthier",
-      "date": "2026-11-05"
+      "date": "2026-11-05",
+      "audio": "https://anchor.fm/s/eaa90ebc/podcast/play/128644704/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-2%2F8977c7ce-6195-7b40-3729-fcbc36d41082.mp3",
+      "duree": 4750
     },
     {
       "titre": "60. Le repos comme acte de rébellion, avec Cynthia MA",
-      "date": "2026-10-29"
+      "date": "2026-10-29",
+      "audio": "https://anchor.fm/s/eaa90ebc/podcast/play/128277668/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-28%2Fb529e262-3c45-81bb-eebd-457220d78c64.mp3",
+      "duree": 4603
     },
     {
       "titre": "59. Vieillir, version badass! (épisode solo)",
-      "date": "2025-06-19"
+      "date": "2025-06-19",
+      "audio": "https://anchor.fm/s/eaa90ebc/podcast/play/104370619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-19%2F402466716-44100-2-ac6394275fdfe.m4a",
+      "duree": 2445
     },
     {
       "titre": "58. Le travail: Comment s'y épanouir? Invitée: Marylise Champagne de 10 000 matins",
-      "date": "2025-06-05"
-    },
-    {
-      "titre": "57. VIVACE! Questionner les normes de la vie moderne. Invitée:Marie-Claude Lacerte",
-      "date": "2025-05-22"
+      "date": "2025-06-05",
+      "audio": "https://anchor.fm/s/eaa90ebc/podcast/play/103601893/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-3%2F401498565-44100-2-4bb20f7d56e86.m4a",
+      "duree": 5267
     }
   ],
-  "derniere_activite": "2026-11-05",
-  "frequence_jours": 14
+  "derniere_activite": "2026-11-12",
+  "frequence_jours": 14,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-24",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

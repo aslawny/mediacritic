@@ -27,27 +27,37 @@
     "international"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Gabriel Zucman face aux inquiétudes de la French Tech lors du France Digitale Day",
-      "date": "2026-02-15"
+      "date": "2026-02-15",
+      "audio": "https://api.spreaker.com/download/episode/67804990/fdday_zucman.mp3",
+      "duree": 1895
     },
     {
       "titre": "L’IA contre les droits perdus : Claimy lève 1,5 million d’euros pour traquer les royalties manquantes",
-      "date": "2025-10-06"
+      "date": "2025-10-06",
+      "audio": "https://api.spreaker.com/download/episode/68021991/claimy.mp3",
+      "duree": 1577
     },
     {
       "titre": "404 Ventures, le nouveau fonds entrepreneurial de Mathieu Tarnus",
-      "date": "2025-10-02"
+      "date": "2025-10-02",
+      "audio": "https://api.spreaker.com/download/episode/67970769/404ventures.mp3",
+      "duree": 1448
     },
     {
       "titre": "Animaj relance Maya l’Abeille avec Studio 100 et confirme son ambition mondiale",
-      "date": "2025-10-01"
+      "date": "2025-10-01",
+      "audio": "https://api.spreaker.com/download/episode/67967355/animaj_maya.mp3",
+      "duree": 1542
     },
     {
       "titre": "Construire son plan marketing 2026 : entre IA, agilité et singularité avec Virginie Le Lièvre et Sébastien Imb",
-      "date": "2025-10-01"
+      "date": "2025-10-01",
+      "audio": "https://api.spreaker.com/download/episode/67964317/experience_2.mp3",
+      "duree": 4637
     }
   ],
   "derniere_activite": "2026-02-15",

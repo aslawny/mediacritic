@@ -25,27 +25,37 @@
     "tech",
     "numérique"
   ],
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Geeksleague 280, Dans un igloo punk 2",
-      "date": "2024-10-10"
+      "date": "2024-10-10",
+      "audio": "https://www.geeksleague.be/glpodcast/geeksleague280.mp3",
+      "duree": 4439
     },
     {
       "titre": "Geeksleague 279, Cyber Bourgmestre",
-      "date": "2024-09-24"
+      "date": "2024-09-24",
+      "audio": "https://www.geeksleague.be/glpodcast/geeksleague279.mp3",
+      "duree": 7769
     },
     {
       "titre": "Geeksleague 278, Derniers news tech avant la plage",
-      "date": "2024-07-23"
+      "date": "2024-07-23",
+      "audio": "https://www.geeksleague.be/glpodcast/geeksleague278.mp3",
+      "duree": 6520
     },
     {
       "titre": "Geeksleague 277, On pète un câble management",
-      "date": "2024-06-17"
+      "date": "2024-06-17",
+      "audio": "https://www.geeksleague.be/glpodcast/geeksleague277.mp3",
+      "duree": 6699
     },
     {
       "titre": "Geeksleague 276, Be@con 2024",
-      "date": "2024-05-15"
+      "date": "2024-05-15",
+      "audio": "https://www.geeksleague.be/glpodcast/geeksleague276.mp3",
+      "duree": 2914
     }
   ],
   "derniere_activite": "2024-10-10",

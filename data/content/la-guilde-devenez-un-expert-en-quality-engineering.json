@@ -25,29 +25,39 @@
     "numerique"
   ],
   "addedAt": "2026-05-28",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Stratégie de test défendable : risques, choix et limites",
+      "date": "2026-11-22",
+      "audio": "https://anchor.fm/s/f9d48cf4/podcast/play/129811538/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-20%2F6d96c914-bc3e-a008-ece8-32997f61f670.m4a",
+      "duree": 596
+    },
+    {
+      "titre": "ISTQB Foundation V4 : pourquoi tu plafonnes aux examens blancs",
+      "date": "2026-11-15",
+      "audio": "https://anchor.fm/s/f9d48cf4/podcast/play/129066742/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-8%2F36398c21-92db-9f57-a46c-742347d3ef3a.m4a",
+      "duree": 556
+    },
+    {
       "titre": "Maturité d’une équipe QA : l’audit express en 5 axes",
-      "date": "2026-11-08"
+      "date": "2026-11-08",
+      "audio": "https://anchor.fm/s/f9d48cf4/podcast/play/129049087/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-8%2F77f2ede5-efcb-4715-78ed-a5e84696cb85.m4a",
+      "duree": 552
     },
     {
       "titre": "La qualité coute cher",
-      "date": "2026-11-01"
+      "date": "2026-11-01",
+      "audio": "https://anchor.fm/s/f9d48cf4/podcast/play/128012457/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-24%2F8b66c306-9d3a-201e-3dcd-154770d04028.m4a",
+      "duree": 645
     },
     {
       "titre": "Test premières semaines de Test Lead",
-      "date": "2026-10-25"
-    },
-    {
-      "titre": "5/5 - Faire vivre Playwright dans une équipe et progresser comme QA automaticien",
-      "date": "2026-10-23"
-    },
-    {
-      "titre": "4/5 - Pourquoi les tests Playwright deviennent instables",
-      "date": "2026-10-22"
+      "date": "2026-10-25",
+      "audio": "https://anchor.fm/s/f9d48cf4/podcast/play/127958108/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2Fe762eae6-0bff-69ef-dc93-beeafb3987aa.m4a",
+      "duree": 696
     }
   ],
-  "derniere_activite": "2026-11-08",
+  "derniere_activite": "2026-11-22",
   "frequence_jours": 5
 }

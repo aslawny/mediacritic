@@ -27,29 +27,39 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Ce meurtrier a tout brûlé… sauf une preuve qui le trahira",
+      "date": "2026-11-23",
+      "audio": "https://api.spreaker.com/download/episode/68909386/00077.mp3",
+      "duree": 2829
+    },
+    {
+      "titre": "Elle tombe sous les coups : un féminicide annoncé",
+      "date": "2026-11-19",
+      "audio": "https://api.spreaker.com/download/episode/68909387/00091.mp3",
+      "duree": 2999
+    },
+    {
+      "titre": "Meurtre en Alaska : un corps dans la neige, un tueur sans visage",
+      "date": "2026-11-17",
+      "audio": "https://api.spreaker.com/download/episode/68909388/00024.mp3",
+      "duree": 2775
+    },
+    {
+      "titre": "Double meurtre familial : pourquoi une femme a détruit sa propre vie",
+      "date": "2026-11-16",
+      "audio": "https://api.spreaker.com/download/episode/68909389/00080.mp3",
+      "duree": 2775
+    },
+    {
       "titre": "Cowboy meurtrier : la traque sanglante d’un homme qui se croyait hors-la-loi",
-      "date": "2026-11-11"
-    },
-    {
-      "titre": "Sang infecté : la piste morbide d’une contamination criminelle",
-      "date": "2026-11-10"
-    },
-    {
-      "titre": "Meurtre sans justice : un assassin libéré faute de preuves",
-      "date": "2026-11-09"
-    },
-    {
-      "titre": "Quand les gangs dictent la loi dans les rues du monde entier",
-      "date": "2026-11-05"
-    },
-    {
-      "titre": "Survivre à des tueurs, naufrages et crash : histoires limites",
-      "date": "2026-11-03"
+      "date": "2026-11-11",
+      "audio": "https://api.spreaker.com/download/episode/68909390/00013.mp3",
+      "duree": 2775
     }
   ],
-  "derniere_activite": "2026-11-11",
+  "derniere_activite": "2026-11-23",
   "frequence_jours": 1
 }

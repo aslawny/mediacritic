@@ -27,27 +27,37 @@
     "societe"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Claire : Le manuscrit",
-      "date": "2026-02-25"
+      "date": "2026-02-25",
+      "audio": "https://sphinx.acast.com/p/open/s/66ffaecad52a01b909b7fbee/e/6970d696cc73d80ec50a110e/media.mp3",
+      "duree": 995
     },
     {
       "titre": "Frédéric : L'engagement",
-      "date": "2026-02-18"
+      "date": "2026-02-18",
+      "audio": "https://sphinx.acast.com/p/open/s/66ffaecad52a01b909b7fbee/e/6970d6642ab571f71a45f47d/media.mp3",
+      "duree": 880
     },
     {
       "titre": "Valériane Ayayi : La Capitaine",
-      "date": "2026-02-11"
+      "date": "2026-02-11",
+      "audio": "https://sphinx.acast.com/p/open/s/66ffaecad52a01b909b7fbee/e/6970d5a39448a95f22561046/media.mp3",
+      "duree": 1221
     },
     {
       "titre": "Édouard : Le partage",
-      "date": "2026-02-04"
+      "date": "2026-02-04",
+      "audio": "https://sphinx.acast.com/p/open/s/66ffaecad52a01b909b7fbee/e/6970d55d4ed4c50b0327ee34/media.mp3",
+      "duree": 973
     },
     {
       "titre": "Valérie : Le destin",
-      "date": "2026-01-28"
+      "date": "2026-01-28",
+      "audio": "https://sphinx.acast.com/p/open/s/66ffaecad52a01b909b7fbee/e/6970d4c62ab571f71a456c91/media.mp3",
+      "duree": 928
     }
   ],
   "derniere_activite": "2026-02-25",

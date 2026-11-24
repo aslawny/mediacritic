@@ -24,27 +24,37 @@
     "culture",
     "société"
   ],
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "La Bonne Mort, Acte IV - Perrine Delage [CAPSULE DE LECTURE #17]",
-      "date": "2021-10-10"
+      "date": "2021-10-10",
+      "audio": "https://feeds.soundcloud.com/stream/1119726778-user-245860045-la-bonne-mort-acte-iv-perrine-delage-capsule-de-lecture-17.mp3",
+      "duree": 171
     },
     {
       "titre": "La Bonne Mort, Acte III - Perrine Delage [CAPSULE DE LECTURE #16]",
-      "date": "2021-09-26"
+      "date": "2021-09-26",
+      "audio": "https://feeds.soundcloud.com/stream/1119726304-user-245860045-la-bonne-mort-acte-iii-perrine-delage-capsule-de-lecture-16.mp3",
+      "duree": 198
     },
     {
       "titre": "La Bonne Mort, Acte II - Perrine Delage [CAPSULE DE LECTURE #15]",
-      "date": "2021-09-12"
+      "date": "2021-09-12",
+      "audio": "https://feeds.soundcloud.com/stream/1119724300-user-245860045-la-bonne-mort-acte-ii-perrine-delage-capsule-de-lecture-15.mp3",
+      "duree": 148
     },
     {
       "titre": "Le Combat Politique - Frédéric Rouvillois (Colloque d'Action française 2021 #1)",
-      "date": "2021-06-09"
+      "date": "2021-06-09",
+      "audio": "https://feeds.soundcloud.com/stream/1064833390-user-245860045-le-combat-politique-frederic-rouvillois-colloque-daction-francaise-2021-1.mp3",
+      "duree": 828
     },
     {
       "titre": "L'histoire des Camelots du Roi - Bernard Bonnaves",
-      "date": "2021-05-05"
+      "date": "2021-05-05",
+      "audio": "https://feeds.soundcloud.com/stream/1043323093-user-245860045-lhistoire-des-camelots-du-roi-bernard-bonnaves.mp3",
+      "duree": 2066
     }
   ],
   "derniere_activite": "2021-10-10",

@@ -24,31 +24,41 @@
     "sciences"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "La recherche en informatique : ce qui marche en France",
+      "date": "2026-11-17",
+      "audio": "https://api.podcasts.institutdefrance.fr/sites/default/files/audios/phds194.mp3",
+      "duree": 1022
+    },
+    {
+      "titre": "Les atouts de la cryptographie française",
+      "date": "2026-11-10",
+      "audio": "https://api.podcasts.institutdefrance.fr/sites/default/files/audios/phds193bis.mp3",
+      "duree": 1129
+    },
+    {
       "titre": "Étudier le patrimoine sans l’abîmer : un atout de la recherche française",
-      "date": "2026-11-05"
+      "date": "2026-11-05",
+      "audio": "https://api.podcasts.institutdefrance.fr/sites/default/files/audios/phds192%20%281%29.mp3",
+      "duree": 996
     },
     {
       "titre": "Les atouts de la recherche française en lien avec l’industrie",
-      "date": "2026-10-28"
+      "date": "2026-10-28",
+      "audio": "https://api.podcasts.institutdefrance.fr/sites/default/files/audios/phds191.mp3",
+      "duree": 1185
     },
     {
       "titre": "Les atouts des mathématiques françaises résisteront-ils à l’intelligence artificielle ?",
-      "date": "2026-10-21"
-    },
-    {
-      "titre": "Les atouts de la chimie française",
-      "date": "2026-10-14"
-    },
-    {
-      "titre": "Les atouts de l'astronomie française",
-      "date": "2026-10-07"
+      "date": "2026-10-21",
+      "audio": "https://api.podcasts.institutdefrance.fr/sites/default/files/audios/phds190.wav",
+      "duree": 1236
     }
   ],
-  "derniere_activite": "2026-11-05",
-  "frequence_jours": 7,
+  "derniere_activite": "2026-11-17",
+  "frequence_jours": 6,
   "avis_publics": {
     "epuise": true,
     "releve": "2026-11-24",

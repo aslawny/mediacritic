@@ -26,27 +26,37 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "J+7 - 29/06/2026 - Biraben qui rira le dernier",
-      "date": "2026-06-30"
+      "date": "2026-06-30",
+      "audio": "https://op3.dev/e,pg=db352cf1-8f25-11ec-9322-0cc47aa361be/podcast.jplus7.fr/audio/@jplus7/j7-29-06-2026.mp3",
+      "duree": 10722
     },
     {
       "titre": "J+200 - 19/06/2026 - Fiers 200 (en studio)",
-      "date": "2026-06-23"
+      "date": "2026-06-23",
+      "audio": "https://op3.dev/e,pg=db352cf1-8f25-11ec-9322-0cc47aa361be/podcast.jplus7.fr/audio/@jplus7/j7-19-06-2026.mp3",
+      "duree": 8606
     },
     {
       "titre": "J+7 - 15/06/2026 - Chassée Lemoine ?",
-      "date": "2026-06-16"
+      "date": "2026-06-16",
+      "audio": "https://op3.dev/e,pg=db352cf1-8f25-11ec-9322-0cc47aa361be/podcast.jplus7.fr/audio/@jplus7/j7-15-06-2026.mp3",
+      "duree": 7374
     },
     {
       "titre": "J+7 - 08/06/2026 - Ciao NRJ",
-      "date": "2026-06-09"
+      "date": "2026-06-09",
+      "audio": "https://op3.dev/e,pg=db352cf1-8f25-11ec-9322-0cc47aa361be/podcast.jplus7.fr/audio/@jplus7/j7-08-06-2026.mp3",
+      "duree": 10071
     },
     {
       "titre": "J+7 - 01/06/2026 - nivuniconnu.tv",
-      "date": "2026-06-02"
+      "date": "2026-06-02",
+      "audio": "https://op3.dev/e,pg=db352cf1-8f25-11ec-9322-0cc47aa361be/podcast.jplus7.fr/audio/@jplus7/j7-01-06-2026.mp3",
+      "duree": 9087
     }
   ],
   "derniere_activite": "2026-06-30",

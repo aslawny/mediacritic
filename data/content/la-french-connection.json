@@ -26,29 +26,39 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
-      "titre": "Épisode 0x301 - Élections 2026 : aucun parti n'a de plan cyber",
-      "date": "2026-10-06"
+      "titre": "LIVE au Hackfest 2026 : PHP, IA et fraudes (0x303)",
+      "date": "2026-11-10",
+      "audio": "https://securite.fm/episodes/FrenchConnectionPodcast-Episode0x303.mp3",
+      "duree": 5204
     },
     {
-      "titre": "Épisode 0x300 - Santé Québec branche ChatGPT sur vos dossiers médicaux",
-      "date": "2026-09-13"
+      "titre": "Élections 2026 : aucun parti n'a de plan cyber (0x301)",
+      "date": "2026-10-06",
+      "audio": "https://securite.fm/episodes/FrenchConnectionPodcast-Episode0x301.mp3",
+      "duree": 3810
     },
     {
-      "titre": "Épisode 0x299 - L'IA a cassé le recrutement en cybersécurité",
-      "date": "2026-09-04"
+      "titre": "Santé Québec branche ChatGPT sur vos dossiers médicaux (0x300)",
+      "date": "2026-09-13",
+      "audio": "https://securite.fm/episodes/FrenchConnectionPodcast-Episode0x300.mp3",
+      "duree": 3440
     },
     {
-      "titre": "Épisode 0x298 - Sociable - Le Québec bâtit son réseau social sans les GAFAM",
-      "date": "2026-08-10"
+      "titre": "L'IA a cassé le recrutement en cybersécurité (0x299)",
+      "date": "2026-09-04",
+      "audio": "https://securite.fm/episodes/FrenchConnectionPodcast-Episode0x299.mp3",
+      "duree": 4683
     },
     {
-      "titre": "Épisode 0x296 Again - La Russie pirate l'eau du Québec, les bornes Flo et l'imputabilité",
-      "date": "2026-08-02"
+      "titre": "Sociable - Le Québec bâtit son réseau social sans les GAFAM (0x298)",
+      "date": "2026-08-10",
+      "audio": "https://securite.fm/episodes/FrenchConnectionPodcast-Episode0x298.mp3",
+      "duree": 4224
     }
   ],
-  "derniere_activite": "2026-10-06",
-  "frequence_jours": 9
+  "derniere_activite": "2026-11-10",
+  "frequence_jours": 11
 }

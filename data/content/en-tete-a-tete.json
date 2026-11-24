@@ -25,30 +25,40 @@
     "bien-etre"
   ],
   "addedAt": "2026-10-05",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Trauma et TND en thérapie",
+      "date": "2026-11-23",
+      "audio": "https://sphinx.acast.com/p/open/s/6a2576286263fbced6931700/e/6b006241d0e980d0cfc3dc8f/media.mp3",
+      "duree": 3721
+    },
+    {
+      "titre": "Accompagner les équipes",
+      "date": "2026-11-16",
+      "audio": "https://sphinx.acast.com/p/open/s/6a2576286263fbced6931700/e/6af9d6f09d9936aaacfd66c1/media.mp3",
+      "duree": 3695
+    },
+    {
       "titre": "Les psy et l'argent",
-      "date": "2026-11-09"
+      "date": "2026-11-09",
+      "audio": "https://sphinx.acast.com/p/open/s/6a2576286263fbced6931700/e/6af16654d7d41fd4fa986f6f/media.mp3",
+      "duree": 3708
     },
     {
       "titre": "Nos émotions",
-      "date": "2026-11-02"
+      "date": "2026-11-02",
+      "audio": "https://sphinx.acast.com/p/open/s/6a2576286263fbced6931700/e/6ae5c909c89efe5866537c07/media.mp3",
+      "duree": 2085
     },
     {
       "titre": "Comment se forment les psy ?",
-      "date": "2026-10-26"
-    },
-    {
-      "titre": "Paroles de patients #1",
-      "date": "2026-10-19"
-    },
-    {
-      "titre": "Le deuil périnatal : pourquoi en parle-t-on si peu ?",
-      "date": "2026-10-12"
+      "date": "2026-10-26",
+      "audio": "https://sphinx.acast.com/p/open/s/6a2576286263fbced6931700/e/6adb419985adacac7d4dd7c4/media.mp3",
+      "duree": 2866
     }
   ],
-  "derniere_activite": "2026-11-09",
+  "derniere_activite": "2026-11-23",
   "frequence_jours": 7,
   "avis_publics": {
     "source": "apple",

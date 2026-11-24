@@ -27,27 +27,37 @@
     "cuisine"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Pop Chef #5 - Nina Métayer",
-      "date": "2022-07-01"
+      "date": "2022-07-01",
+      "audio": "https://sphinx.acast.com/p/open/s/62279dd7e22d830014510222/e/62bebc9d04d13a0012082f40/media.mp3",
+      "duree": 3189
     },
     {
       "titre": "Pop Chef #4 - Victor Mercier",
-      "date": "2022-06-10"
+      "date": "2022-06-10",
+      "audio": "https://sphinx.acast.com/p/open/s/62279dd7e22d830014510222/e/62a341b143f27e00128e38b4/media.mp3",
+      "duree": 3547
     },
     {
       "titre": "Pop Chef #3 - Thomas Chisholm",
-      "date": "2022-04-22"
+      "date": "2022-04-22",
+      "audio": "https://sphinx.acast.com/p/open/s/62279dd7e22d830014510222/e/62625c8b8c8aea00129d785b/media.mp3",
+      "duree": 3218
     },
     {
       "titre": "Les Recettes #5 - Le Senku Cola de Dr Stone",
-      "date": "2022-04-04"
+      "date": "2022-04-04",
+      "audio": "https://sphinx.acast.com/p/open/s/62279dd7e22d830014510222/e/624a99bb1476da0013ef6bed/media.mp3",
+      "duree": 254
     },
     {
       "titre": "Pop Chef #2 Adrien Cachot",
-      "date": "2022-04-01"
+      "date": "2022-04-01",
+      "audio": "https://sphinx.acast.com/p/open/s/62279dd7e22d830014510222/e/62307028e9119100173f8247/media.mp3",
+      "duree": 2686
     }
   ],
   "derniere_activite": "2022-07-01",

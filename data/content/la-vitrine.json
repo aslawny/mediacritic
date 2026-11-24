@@ -24,29 +24,61 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "#17 Nathan Menou - n°5",
-      "date": "2023-05-05"
+      "date": "2023-05-05",
+      "audio": "https://audio.ausha.co/yOz9Kf31xnW4.mp3?t=1683271925",
+      "duree": 4353
     },
     {
       "titre": "#16 Jade et Maël - La MiFA",
-      "date": "2023-04-14"
+      "date": "2023-04-14",
+      "audio": "https://audio.ausha.co/BGG8Ks7LL7vO.mp3?t=1681882744",
+      "duree": 2475
     },
     {
       "titre": "#15 Jérôme Biaggi - Mr Sun Bell Store",
-      "date": "2023-03-03"
+      "date": "2023-03-03",
+      "audio": "https://audio.ausha.co/B4XRmtnklKlE.mp3?t=1677836442",
+      "duree": 1941
     },
     {
       "titre": "#14 Antoine Filiatre et Benjamin Didier - Orto",
-      "date": "2023-02-16"
+      "date": "2023-02-16",
+      "audio": "https://audio.ausha.co/BneKdSJ47VL9.mp3?t=1676535324",
+      "duree": 2099
     },
     {
       "titre": "#13 Emil et Julien - Canopée Coffee House",
-      "date": "2022-12-23"
+      "date": "2022-12-23",
+      "audio": "https://audio.ausha.co/bY9p3TLlYpRD.mp3?t=1671784028",
+      "duree": 2802
     }
   ],
   "derniere_activite": "2023-05-05",
-  "frequence_jours": 21
+  "frequence_jours": 21,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-24",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

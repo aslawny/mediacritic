@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/ally-et-le-royaume-des-myst%C3%A8res/id6829070127?uo=2",
       "trackId": 6829070127,
       "rating": 4.5,
-      "ratingCount": 12,
+      "ratingCount": 13,
       "episodeCount": null
     }
   },
@@ -25,12 +25,36 @@
     "education"
   ],
   "addedAt": "2026-11-02",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Épisode 1 : L'âge de raison",
-      "date": "2026-10-30"
+      "date": "2026-10-30",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/e9c6444c-9a6e-4c21-8fc5-776cb797e5d0.mp3?_=1793391701",
+      "duree": 488
     }
   ],
-  "derniere_activite": "2026-10-30"
+  "derniere_activite": "2026-10-30",
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-24",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

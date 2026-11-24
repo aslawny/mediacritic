@@ -24,29 +24,61 @@
     "international"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
-      "titre": "Midterms aux États-Unis : les démocrates en position de force ?",
-      "date": "2026-10-29"
+      "titre": "Présidentielle : qui pourra rassembler ?",
+      "date": "2026-11-23",
+      "audio": "https://audio.audiomeans.fr/pfx/b035a7c4-de15-11ef-9e7b-cfc4fb0c91f4/vod-france24.akamaized.net/fr/ptw/2026/11/23/WB300332-O-01-20261123.mp3?guid=48feab9c-e768-11f1-9dcf-437d985ccfb6&source=PcNCvtcnHj",
+      "duree": 2548
     },
     {
-      "titre": "Élections en Israël : pas de majorité en vue",
-      "date": "2026-10-28"
+      "titre": "Trump ou Xi : qui dominera l'IA ?",
+      "date": "2026-11-18",
+      "audio": "https://audio.audiomeans.fr/pfx/b035a7c4-de15-11ef-9e7b-cfc4fb0c91f4/vod-france24.akamaized.net/france24/sounds/fr/2026/11/18/bce60f80-e387-11f1-8ac4-b7eee1b58d71.mp3?guid=6dba9b0a-e37e-11f1-9651-e587a3f03d05&source=PcNCvtcnHj",
+      "duree": 2471
     },
     {
-      "titre": "Élections en Israël : Gadi Eisenkot peut-il battre Benjamin Netanyahu ?",
-      "date": "2026-10-27"
+      "titre": "\"Fractures françaises\" : jusqu'où ?",
+      "date": "2026-11-17",
+      "audio": "https://audio.audiomeans.fr/pfx/b035a7c4-de15-11ef-9e7b-cfc4fb0c91f4/vod-france24.akamaized.net/france24/sounds/fr/2026/11/17/37881600-e2bd-11f1-96de-ebb6d6781193.mp3?guid=5f84f766-e2b5-11f1-a336-b5aa3854af47&source=PcNCvtcnHj",
+      "duree": 2458
     },
     {
-      "titre": "Lula : une victoire mais quel pouvoir ?",
-      "date": "2026-10-26"
+      "titre": "L’Ukraine au pied du mur ?",
+      "date": "2026-11-16",
+      "audio": "https://audio.audiomeans.fr/pfx/b035a7c4-de15-11ef-9e7b-cfc4fb0c91f4/vod-france24.akamaized.net/fr/vod/2026/11/16/TK065101-A-01-20261110_CS1913.mp3?guid=27f7fdc4-e1e9-11f1-a099-33909c2f2f6c&source=PcNCvtcnHj",
+      "duree": 2615
     },
     {
-      "titre": "Ukraine : un piège tendu par Donald Trump ?",
-      "date": "2026-10-12"
+      "titre": "Guerre hybride : comment riposter ?",
+      "date": "2026-11-12",
+      "audio": "https://audio.audiomeans.fr/pfx/b035a7c4-de15-11ef-9e7b-cfc4fb0c91f4/vod-france24.akamaized.net/fr/vod/2026/11/12/TK065080-A-01-20261103.mp3?guid=2bc54ec8-dec1-11f1-bfeb-f5b7523f96fd&source=PcNCvtcnHj",
+      "duree": 2484
     }
   ],
-  "derniere_activite": "2026-10-29",
-  "frequence_jours": 1
+  "derniere_activite": "2026-11-23",
+  "frequence_jours": 1,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-24",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

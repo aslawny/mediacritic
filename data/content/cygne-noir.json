@@ -25,29 +25,39 @@
     "business"
   ],
   "addedAt": "2026-10-11",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "#S2E47 - La Dose fait le Poison",
+      "date": "2026-11-21",
+      "audio": "https://anchor.fm/s/ff94bf60/podcast/play/129437466/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-14%2F436729899-44100-2-a55a9106440c5.m4a",
+      "duree": 5508
+    },
+    {
+      "titre": "#S2E46 - Le Bâton et les Chandeliers",
+      "date": "2026-11-14",
+      "audio": "https://anchor.fm/s/ff94bf60/podcast/play/129265726/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-23%2F437399794-44100-2-c45022b8297e5.m4a",
+      "duree": 5656
+    },
+    {
       "titre": "#S2E45 - Le Mirage des Chiffres",
-      "date": "2026-11-07"
+      "date": "2026-11-07",
+      "audio": "https://anchor.fm/s/ff94bf60/podcast/play/128994083/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-7%2F436147694-44100-2-ab1af6d0fa5e3.m4a",
+      "duree": 5190
     },
     {
       "titre": "#S2E44 - Soigner sans Guérir",
-      "date": "2026-10-31"
+      "date": "2026-10-31",
+      "audio": "https://anchor.fm/s/ff94bf60/podcast/play/128486000/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-31%2F435500856-44100-2-016ace26cf9ee.m4a",
+      "duree": 5515
     },
     {
       "titre": "#S2E43 - Choisir méticuleusement ses Combats",
-      "date": "2026-10-24"
-    },
-    {
-      "titre": "#S2E42 - Les Fainéants long termistes à l’Honneur",
-      "date": "2026-10-17"
-    },
-    {
-      "titre": "#S2E41 - Les Règles du Jeu changent en cours de partie",
-      "date": "2026-10-10"
+      "date": "2026-10-24",
+      "audio": "https://anchor.fm/s/ff94bf60/podcast/play/128009747/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-24%2F434892961-44100-2-1bd9d94677994.m4a",
+      "duree": 4767
     }
   ],
-  "derniere_activite": "2026-11-07",
+  "derniere_activite": "2026-11-21",
   "frequence_jours": 7
 }

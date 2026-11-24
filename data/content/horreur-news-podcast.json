@@ -25,29 +25,65 @@
     "series"
   ],
   "addedAt": "2026-11-02",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "HORREUR NEWS INTERVIEWS #35 : MUSIQUE DE FILM AVEC DOUBLE DANGER",
-      "date": "2026-10-03"
+      "date": "2026-10-03",
+      "audio": "https://sphinx.acast.com/p/open/s/631f88dd57a9dc0012df4963/e/6abcee4d6ffb28f8d6164dc0/media.mp3",
+      "duree": 2527
     },
     {
       "titre": "HORREUR NEWS INTERVIEWS #34 : JEU DE RÔLE \"SOMBRE\" AVEC JOHAN SCIPION",
-      "date": "2026-08-26"
+      "date": "2026-08-26",
+      "audio": "https://sphinx.acast.com/p/open/s/631f88dd57a9dc0012df4963/e/6a8314c891aa41f304edbdb5/media.mp3",
+      "duree": 6115
     },
     {
       "titre": "HORREUR NEWS PODCAST #184 : EVIL DEAD, WERWULF, DARK SHADOWS, LOVECRAFT PAR ALEX DE LA IGLESIA,...",
-      "date": "2026-06-28"
+      "date": "2026-06-28",
+      "audio": "https://sphinx.acast.com/p/open/s/631f88dd57a9dc0012df4963/e/6a3f910c26d5a6687ade81bf/media.mp3",
+      "duree": 369
     },
     {
       "titre": "HORREUR NEWS PODCAST #183 : OBSESSION, EVIL DEAD, THE WALKING DEAD, TERRIFIER, THE BOROUGHS,...",
-      "date": "2026-06-21"
+      "date": "2026-06-21",
+      "audio": "https://sphinx.acast.com/p/open/s/631f88dd57a9dc0012df4963/e/6a36c75e4a8189f2c32fbc4f/media.mp3",
+      "duree": 391
     },
     {
       "titre": "HORREUR NEWS PODCAST #182 : OBSESSION, BACKROOMS, SILENT HILL, ICE CREAM MAN, UNTIL DAWN,...",
-      "date": "2026-06-07"
+      "date": "2026-06-07",
+      "audio": "https://sphinx.acast.com/p/open/s/631f88dd57a9dc0012df4963/e/6a2346e56263fbced6f32284/media.mp3",
+      "duree": 413
     }
   ],
   "derniere_activite": "2026-10-03",
-  "frequence_jours": 8
+  "frequence_jours": 8,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ZallaChérie",
+        "titre": "Excellent",
+        "texte": "Une mine d’informations pertinentes chaque dimanche et des émissions passionnantes autour de l’horreur. De plus Marc a une voix extrêmement agréable. Une chaîne à suivre pour les passionnés !"
+      },
+      {
+        "note": 5,
+        "auteur": "AudreyPictural",
+        "titre": "Excellent podcast",
+        "texte": "Fourmille d’infos, format parfait, couvre tous le spectre de l’horreur / fantastique et bonne narration. Bravo Marc pour ton boulot 👏"
+      },
+      {
+        "note": 5,
+        "auteur": "nicolas farmer77",
+        "titre": "Sait super",
+        "texte": "je suis heureux que ces podcast existe moi qui aime les flim horreur il na pas beaucoup .super travail sur les new est merci"
+      }
+    ]
+  }
 }

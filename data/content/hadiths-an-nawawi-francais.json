@@ -25,29 +25,61 @@
     "islam"
   ],
   "addedAt": "2026-09-02",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Hadith n°1",
-      "date": "2023-02-09"
+      "date": "2023-02-09",
+      "audio": "https://anchor.fm/s/da8ee614/podcast/play/64754238/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F46c86090-a2a1-8df7-dcc6-87ee31a42243.mp3",
+      "duree": 51
     },
     {
       "titre": "Hadith n°2",
-      "date": "2023-02-09"
+      "date": "2023-02-09",
+      "audio": "https://anchor.fm/s/da8ee614/podcast/play/64754203/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F78c3394c-2873-bcd2-8745-6669c462caa4.mp3",
+      "duree": 132
     },
     {
       "titre": "Hadith n°3",
-      "date": "2023-02-09"
+      "date": "2023-02-09",
+      "audio": "https://anchor.fm/s/da8ee614/podcast/play/64754170/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2Ffa226a1d-93df-6e57-3e76-81494b84e478.mp3",
+      "duree": 31
     },
     {
       "titre": "Hadith n°4",
-      "date": "2023-02-09"
+      "date": "2023-02-09",
+      "audio": "https://anchor.fm/s/da8ee614/podcast/play/64754144/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F4160c6aa-bdf8-8b14-a3e9-1705049371bf.mp3",
+      "duree": 76
     },
     {
       "titre": "Hadith n°5",
-      "date": "2023-02-09"
+      "date": "2023-02-09",
+      "audio": "https://anchor.fm/s/da8ee614/podcast/play/64754110/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F79a18132-d84c-8468-0ddf-638278206545.mp3",
+      "duree": 23
     }
   ],
   "derniere_activite": "2023-02-09",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-24",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

@@ -26,27 +26,37 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Décoince Ta Bulle E26 - Pauline Rolland Jean Tartine - Qui n’aimait pas",
-      "date": "2026-06-01"
+      "date": "2026-06-01",
+      "audio": "https://media.transistor.fm/56ed24ed/8fb883a9.mp3",
+      "duree": 7395
     },
     {
       "titre": "Décoince Ta Bulle E25 - Yoann Kavege - Moon Deer et Fantasy",
-      "date": "2026-05-04"
+      "date": "2026-05-04",
+      "audio": "https://media.transistor.fm/3df1ebd2/992724d2.mp3",
+      "duree": 9404
     },
     {
       "titre": "Bouillon de Bulles 14 - Bilan 2025 - Thomas Croisière",
-      "date": "2026-01-19"
+      "date": "2026-01-19",
+      "audio": "https://media.transistor.fm/246afeb7/e03ebb6b.mp3",
+      "duree": 5006
     },
     {
       "titre": "Bouillon de Bulles 13 - Idées Cadeaux Noël - BD/Manga - Mathilde et Serge",
-      "date": "2025-12-01"
+      "date": "2025-12-01",
+      "audio": "https://media.transistor.fm/920ea7c3/aa6b95a3.mp3",
+      "duree": 3541
     },
     {
       "titre": "Rediff - Nadou E04 - Juillet 2020 - Les Légendaires Origines",
-      "date": "2025-11-11"
+      "date": "2025-11-11",
+      "audio": "https://media.transistor.fm/955d7fc2/084962c6.mp3",
+      "duree": 4758
     }
   ],
   "derniere_activite": "2026-06-01",

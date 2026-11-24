@@ -27,19 +27,25 @@
     "series"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "La découverte",
-      "date": "2019-02-20"
+      "date": "2019-02-20",
+      "audio": "https://sphinx.acast.com/p/open/s/5c5c684aa74474e24d1abd7d/e/5c6d2ff6f3dcf08517087f59/media.mp3",
+      "duree": 1080
     },
     {
       "titre": "La tempête",
-      "date": "2019-02-13"
+      "date": "2019-02-13",
+      "audio": "https://sphinx.acast.com/p/open/s/5c5c684aa74474e24d1abd7d/e/5c6297c8a6f09863413958e7/media.mp3",
+      "duree": 1080
     },
     {
       "titre": "Objectif Mars",
-      "date": "2019-02-08"
+      "date": "2019-02-08",
+      "audio": "https://sphinx.acast.com/p/open/s/5c5c684aa74474e24d1abd7d/e/5c5c6938ae5c8be0216c6aab/media.mp3",
+      "duree": 1099
     }
   ],
   "derniere_activite": "2019-02-20",

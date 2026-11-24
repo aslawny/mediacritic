@@ -26,30 +26,40 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Catherine Meurisse, dessiner le vivant",
+      "date": "2026-11-20",
+      "audio": "https://sphinx.acast.com/p/open/s/62b58f122587e1001286d7e4/e/6aff6f0ed6567033ed082161/media.mp3",
+      "duree": 1642
+    },
+    {
+      "titre": "Hiba Tawaji, pour l'amour de la langue française",
+      "date": "2026-11-13",
+      "audio": "https://sphinx.acast.com/p/open/s/62b58f122587e1001286d7e4/e/6af7365134f69b9edd5638cc/media.mp3",
+      "duree": 1623
+    },
+    {
       "titre": "Sonia Rolland, le Rwanda au coeur",
-      "date": "2026-11-06"
+      "date": "2026-11-06",
+      "audio": "https://sphinx.acast.com/p/open/s/62b58f122587e1001286d7e4/e/6aeb6422b01610ec84a1e947/media.mp3",
+      "duree": 1637
     },
     {
       "titre": "Cédric Villani, le poète de la mathématique",
-      "date": "2026-10-30"
+      "date": "2026-10-30",
+      "audio": "https://sphinx.acast.com/p/open/s/62b58f122587e1001286d7e4/e/6ae49054d925811fc21fc88b/media.mp3",
+      "duree": 1613
     },
     {
       "titre": "Gaëtan Roussel, la maitrise du déséquilibre artistique",
-      "date": "2026-10-23"
-    },
-    {
-      "titre": "Gaëtan Roussel, la maitrise du déséquilibre artistique",
-      "date": "2026-10-23"
-    },
-    {
-      "titre": "Tina Kieffer : du journalisme à l'humanitaire",
-      "date": "2026-10-16"
+      "date": "2026-10-23",
+      "audio": "https://sphinx.acast.com/p/open/s/62b58f122587e1001286d7e4/e/6ada8cf7f92693313c1d22fc/media.mp3",
+      "duree": 1639
     }
   ],
-  "derniere_activite": "2026-11-06",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 6,
   "avis_publics": {
     "epuise": true,

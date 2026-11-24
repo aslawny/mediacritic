@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/pas-sages/id1839871990?uo=2",
       "trackId": 1839871990,
-      "rating": 4.3,
-      "ratingCount": 12,
+      "rating": 4.4,
+      "ratingCount": 13,
       "episodeCount": null
     }
   },
@@ -27,29 +27,39 @@
     "famille"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "EP49 - Pourquoi nos mères nous épuisent ? - Clémence Biel (Become Your Own Mama)",
+      "date": "2026-11-18",
+      "audio": "https://audio.ausha.co/jn9qPI6ggGvL.mp3?t=1794991515",
+      "duree": 2299
+    },
+    {
+      "titre": "EP48 - Le père noël ne veut pas de petites filles sages - Alexandra (Episode solo)",
+      "date": "2026-11-13",
+      "audio": "https://audio.ausha.co/8P1J2TjQMY7K.mp3?t=1794496127",
+      "duree": 1197
+    },
+    {
       "titre": "EP47 - Pas sage...ou faite pour ouvrir la voie ? - Jade (Human Design)",
-      "date": "2026-11-05"
+      "date": "2026-11-05",
+      "audio": "https://audio.ausha.co/kgjqvcKXAr9Z.mp3?t=1793804104",
+      "duree": 2199
     },
     {
       "titre": "EP46 - Stéréotypes, émotions, normes sociales : libérons nos enfants ! - Virginie (Bougribouillons)",
-      "date": "2026-10-29"
+      "date": "2026-10-29",
+      "audio": "https://audio.ausha.co/BGgP3xckP5Dm.mp3?t=1793203157",
+      "duree": 2032
     },
     {
       "titre": "EP45 - Ma fille ne porte pas de chaussettes, et alors ? - Shana (femmes.lepodcast)",
-      "date": "2026-10-21"
-    },
-    {
-      "titre": "EP44 - Règles : brisons le tabou pour nos filles - Gaëlle Baldassari (Kiffe Ton Cycle)",
-      "date": "2026-10-14"
-    },
-    {
-      "titre": "EP43 - Ma fille se compare à moi : dois-je m’inquiéter ? - Deborah Prys",
-      "date": "2026-10-07"
+      "date": "2026-10-21",
+      "audio": "https://audio.ausha.co/BNeQGgszJYVP.mp3?t=1792575582",
+      "duree": 4065
     }
   ],
-  "derniere_activite": "2026-11-05",
+  "derniere_activite": "2026-11-18",
   "frequence_jours": 7
 }

@@ -13,8 +13,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/le-16-19-sur-nrj/id6805478839?uo=2",
       "trackId": 6805478839,
-      "rating": 4.6,
-      "ratingCount": 13,
+      "rating": 4.7,
+      "ratingCount": 15,
       "episodeCount": null
     }
   },
@@ -23,29 +23,53 @@
     "humour"
   ],
   "addedAt": "2026-08-29",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
-      "titre": "C'EST ANGÈLE OU C'EST PAS ANGÈLE ?",
-      "date": "2026-11-11"
-    },
-    {
-      "titre": "LA MEILLEURE MUSIQUE",
-      "date": "2026-11-11"
-    },
-    {
       "titre": "LE JEU DES 3 HITS",
-      "date": "2026-11-11"
+      "date": "2026-11-23",
+      "audio": "https://podcasts.nrjaudio.fm/podcasts/fr/1/2585/229e3e24-ec3f-422a-aa67-75b6bc6902ee.mp3?awCollectionId=2585&awEpisodeId=1387012",
+      "duree": 350
     },
     {
-      "titre": "LE SAV DE L'HOROSCOPE",
-      "date": "2026-11-11"
+      "titre": "LE JEU DE LA CONNEXION",
+      "date": "2026-11-23",
+      "audio": "https://podcasts.nrjaudio.fm/podcasts/fr/1/2585/df963457-225b-428a-98fc-b98a63489b7b.mp3?awCollectionId=2585&awEpisodeId=1387011",
+      "duree": 322
     },
     {
-      "titre": "LE BINGO TV",
-      "date": "2026-11-11"
+      "titre": "LA PÉPITE DES RÉSEAUX",
+      "date": "2026-11-23",
+      "audio": "https://podcasts.nrjaudio.fm/podcasts/fr/1/2585/a8af689a-a7ed-43a1-80f4-83b1505b17e6.mp3?awCollectionId=2585&awEpisodeId=1387010",
+      "duree": 185
+    },
+    {
+      "titre": "LES POTINS DE STARS",
+      "date": "2026-11-23",
+      "audio": "https://podcasts.nrjaudio.fm/podcasts/fr/1/2585/73356ee6-42f5-4c2f-9a46-511a34d45606.mp3?awCollectionId=2585&awEpisodeId=1387009",
+      "duree": 229
+    },
+    {
+      "titre": "LE DAILY",
+      "date": "2026-11-23",
+      "audio": "https://podcasts.nrjaudio.fm/podcasts/fr/1/2585/15a6bdbf-8e1d-462d-b8c9-2f83c1825bdc.mp3?awCollectionId=2585&awEpisodeId=1387013",
+      "duree": 1091
     }
   ],
-  "derniere_activite": "2026-11-11",
-  "frequence_jours": 0
+  "derniere_activite": "2026-11-23",
+  "frequence_jours": 0,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "SCASSOU",
+        "titre": "incr",
+        "texte": "❤️‍🔥💕💓❤️❤️💖💜❤️💞💓❣️💕💕❣️❤️❤️😮🎀🧡🧡🧡🧡🧡🧡🧡 le meilleur truc du monde ."
+      }
+    ]
+  }
 }

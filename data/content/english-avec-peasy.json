@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/english-avec-peasy/id1754355948?uo=2",
       "trackId": 1754355948,
       "rating": 5.0,
-      "ratingCount": 10,
+      "ratingCount": 11,
       "episodeCount": null
     }
   },
@@ -24,29 +24,39 @@
     "education"
   ],
   "addedAt": "2026-07-18",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Épisode 112 : VIVRE EN ARABIE SAOUDITE : ENTRE IDÉES REÇUES ET RÉALITÉ - [INTERVIEW IN ENGLISH] - with Tim Wal",
-      "date": "2026-11-11"
+      "date": "2026-11-18",
+      "audio": "https://anchor.fm/s/ea7965f4/podcast/play/127961543/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2F343bc696-2983-aebe-a659-5db69edbddec.mp3",
+      "duree": 671
     },
     {
       "titre": "Épisode 112 : VIVRE EN ARABIE SAOUDITE : ENTRE IDÉES REÇUES ET RÉALITÉ - [INTERVIEW IN ENGLISH] - with Tim Wal",
-      "date": "2026-11-04"
+      "date": "2026-11-11",
+      "audio": "https://anchor.fm/s/ea7965f4/podcast/play/127961499/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2Fb2b22433-40ae-1f21-dd12-3b91329a2a6f.mp3",
+      "duree": 542
+    },
+    {
+      "titre": "Épisode 112 : VIVRE EN ARABIE SAOUDITE : ENTRE IDÉES REÇUES ET RÉALITÉ - [INTERVIEW IN ENGLISH] - with Tim Wal",
+      "date": "2026-11-04",
+      "audio": "https://anchor.fm/s/ea7965f4/podcast/play/127961371/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2Fbba353aa-5753-85ff-628c-42ccd37d9131.mp3",
+      "duree": 598
     },
     {
       "titre": "Épisode 111 : CUEILLIR, APPRENDRE ET SE RECONNECTER À LA NATURE - [INTERVIEW IN ENGLISH] - with Gabrielle Cerb",
-      "date": "2026-10-28"
+      "date": "2026-10-28",
+      "audio": "https://anchor.fm/s/ea7965f4/podcast/play/126558401/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-30%2F432995192-44100-2-22fcb81bcf927.m4a",
+      "duree": 450
     },
     {
       "titre": "Épisode 111 : CUEILLIR, APPRENDRE ET SE RECONNECTER À LA NATURE - [INTERVIEW IN ENGLISH] - with Gabrielle Cerb",
-      "date": "2026-10-21"
-    },
-    {
-      "titre": "Épisode 111 : CUEILLIR, APPRENDRE ET SE RECONNECTER À LA NATURE - [INTERVIEW IN ENGLISH] - with Gabrielle Cerb",
-      "date": "2026-10-14"
+      "date": "2026-10-21",
+      "audio": "https://anchor.fm/s/ea7965f4/podcast/play/126556514/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-30%2F432993103-44100-2-2977842c3daa2.m4a",
+      "duree": 568
     }
   ],
-  "derniere_activite": "2026-11-11",
+  "derniere_activite": "2026-11-18",
   "frequence_jours": 7
 }

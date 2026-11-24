@@ -25,29 +25,65 @@
     "culture"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "La bibliothèque universitaire la plus célèbre du monde (Bodleian, Oxford)",
+      "date": "2026-11-16",
+      "audio": "https://anchor.fm/s/621fe750/podcast/play/129493424/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F436809569-44100-2-b37e6ab1227ee.m4a",
+      "duree": 982
+    },
+    {
       "titre": "Vous ne faites même pas l'effort d'essayer, vous échouez par défaut",
-      "date": "2026-11-02"
+      "date": "2026-11-02",
+      "audio": "https://anchor.fm/s/621fe750/podcast/play/127799245/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-20%2F434607494-44100-2-42db7f695584b.m4a",
+      "duree": 842
     },
     {
       "titre": "Second cerveau IA : les dessous de mon système",
-      "date": "2026-10-19"
+      "date": "2026-10-19",
+      "audio": "https://anchor.fm/s/621fe750/podcast/play/127680815/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-18%2F434445595-44100-2-e1f5261397912.m4a",
+      "duree": 1250
     },
     {
       "titre": "Le second cerveau IA : penser mieux ou penser moins ?",
-      "date": "2026-10-05"
+      "date": "2026-10-05",
+      "audio": "https://anchor.fm/s/621fe750/podcast/play/126804227/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-4%2F433309388-44100-2-0963855257cad.m4a",
+      "duree": 4258
     },
     {
       "titre": "Storytelling - L'effet des histoires sur notre cerveau",
-      "date": "2026-09-21"
-    },
-    {
-      "titre": "Le dev perso est-il dangereux ? Les coulisses de l'industrie du bonheur",
-      "date": "2026-09-07"
+      "date": "2026-09-21",
+      "audio": "https://anchor.fm/s/621fe750/podcast/play/126041446/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-20%2F432305167-44100-2-60a12f02c0aca.m4a",
+      "duree": 1343
     }
   ],
-  "derniere_activite": "2026-11-02",
-  "frequence_jours": 14
+  "derniere_activite": "2026-11-16",
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "la_pivoine",
+        "titre": "Belle découverte",
+        "texte": "Je viens de m’inscrire car enchantée par la voix agréable, les informations utiles et la façon légère à digérer les infos."
+      },
+      {
+        "note": 5,
+        "auteur": "Antoine.obs",
+        "titre": "Génial !",
+        "texte": "Super enrichissant. Ça pousse à réfléchir et surtout ça donne envie de lire !"
+      },
+      {
+        "note": 5,
+        "auteur": "Rory Obs",
+        "titre": "Très enrichissant !",
+        "texte": "Podcast très enrichissant, travaillé et qualitatif. Je recommande !"
+      }
+    ]
+  }
 }

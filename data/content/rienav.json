@@ -24,29 +24,39 @@
     "comedie"
   ],
   "addedAt": "2026-06-21",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Complexée du lobe",
+      "date": "2026-11-16",
+      "audio": "https://sphinx.acast.com/p/open/s/68fa3cdb18bcdad2ab8eaf13/e/6af6eabc79bddcbf53cd8b50/media.mp3",
+      "duree": 4291
+    },
+    {
       "titre": "À Tatatouine-les-Oies",
-      "date": "2026-11-02"
+      "date": "2026-11-02",
+      "audio": "https://sphinx.acast.com/p/open/s/68fa3cdb18bcdad2ab8eaf13/e/6ae47912309881b50b28b2bb/media.mp3",
+      "duree": 3547
     },
     {
       "titre": "Pantacourt pliable",
-      "date": "2026-10-19"
+      "date": "2026-10-19",
+      "audio": "https://sphinx.acast.com/p/open/s/68fa3cdb18bcdad2ab8eaf13/e/6ad4f7ad3243d006bbabe17f/media.mp3",
+      "duree": 3728
     },
     {
       "titre": "Le bodycount de ma mère",
-      "date": "2026-10-05"
+      "date": "2026-10-05",
+      "audio": "https://sphinx.acast.com/p/open/s/68fa3cdb18bcdad2ab8eaf13/e/6ac347ff0d8a484144bbe387/media.mp3",
+      "duree": 4418
     },
     {
       "titre": "Sous Rentrée",
-      "date": "2026-09-21"
-    },
-    {
-      "titre": "Tu sais faire la mouette ?",
-      "date": "2026-06-22"
+      "date": "2026-09-21",
+      "audio": "https://sphinx.acast.com/p/open/s/68fa3cdb18bcdad2ab8eaf13/e/6aad80490521dc2c8122b958/media.mp3",
+      "duree": 4138
     }
   ],
-  "derniere_activite": "2026-11-02",
+  "derniere_activite": "2026-11-16",
   "frequence_jours": 14
 }

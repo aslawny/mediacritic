@@ -24,29 +24,61 @@
     "cuisine"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
-      "titre": "La France bouge - 11/11/2026",
-      "date": "2026-11-11"
+      "titre": "Les avancées de la robotique Made In France",
+      "date": "2026-11-23",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/dda897b2-72f6-4ff2-9278-feae195e1603.mp3?_=1795469262&ps=3315765e-9feb-480c-a54c-fb2ef795028f",
+      "duree": 2957
     },
     {
-      "titre": "Top à Wall Street - 11/11/2026",
-      "date": "2026-11-11"
+      "titre": "Top à Wall Street - 23/11/2026",
+      "date": "2026-11-23",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/b533cbbb-5db5-476e-a3e4-6309f6b4bcbe.mp3?_=1795436042&ps=3315765e-9feb-480c-a54c-fb2ef795028f",
+      "duree": 53
     },
     {
-      "titre": "Les Français et la police : minorité militante, majorité silencieuse",
-      "date": "2026-11-11"
+      "titre": "David Lisnard, bulle médiatique ou réalité politique",
+      "date": "2026-11-23",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/80453b18-6792-4b47-95ee-379230e532eb.mp3?_=1795417595&ps=3315765e-9feb-480c-a54c-fb2ef795028f",
+      "duree": 241
     },
     {
-      "titre": "Comment sauver l’économie française ?",
-      "date": "2026-11-11"
+      "titre": "La France en 2027 : pire ou mieux qu’en 2026 ?",
+      "date": "2026-11-23",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/e9905606-c109-4aea-963f-828ce89d5686.mp3?_=1795415773&ps=3315765e-9feb-480c-a54c-fb2ef795028f",
+      "duree": 204
     },
     {
-      "titre": "Lili for life : une lampe à lumière pulsée pour aider les personnes dyslexiques à lire",
-      "date": "2026-11-11"
+      "titre": "OùSoigner : la plateforme qui regroupe les meilleures annonces médicales et paramédicale",
+      "date": "2026-11-23",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/f564a698-72db-46b0-9ea9-60a6b6f2dc27.mp3?_=1795408622&ps=3315765e-9feb-480c-a54c-fb2ef795028f",
+      "duree": 364
     }
   ],
-  "derniere_activite": "2026-11-11",
-  "frequence_jours": 0
+  "derniere_activite": "2026-11-23",
+  "frequence_jours": 0,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-24",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

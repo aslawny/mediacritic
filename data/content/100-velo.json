@@ -23,27 +23,37 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Alors ces Tours de France 2027 ? On débriefe les parcours avec le traceur de l’épreuve",
-      "date": "2026-10-22"
+      "date": "2026-10-22",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2853845.mp3?origin=rss",
+      "duree": 1489
     },
     {
       "titre": "Paul Seixas doit-il rester chez Decathlon CMA CGM ?",
-      "date": "2026-10-12"
+      "date": "2026-10-12",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2814257.mp3?origin=rss",
+      "duree": 1972
     },
     {
       "titre": "Paul Seixas est-il trop dur avec lui après son échec aux championnats du monde ?",
-      "date": "2026-09-28"
+      "date": "2026-09-28",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2782547.mp3?origin=rss",
+      "duree": 2918
     },
     {
       "titre": "Après le bronze sur le contre-la-montre, Paul Seixas peut-il remporter le maillot arc-en-ciel aux championnats",
-      "date": "2026-09-21"
+      "date": "2026-09-21",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2766611.mp3?origin=rss",
+      "duree": 2418
     },
     {
       "titre": "Avec le forfait de Tadej Pogacar, Paul Seixas est-il le favori des championnats du monde ?",
-      "date": "2026-09-07"
+      "date": "2026-09-07",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2735429.mp3?origin=rss",
+      "duree": 2954
     }
   ],
   "derniere_activite": "2026-10-22",

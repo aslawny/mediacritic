@@ -24,29 +24,61 @@
     "endurance"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Pourquoi t’as raison de penser être de la merde ? | #GTMate 337",
-      "date": "2020-11-24"
+      "date": "2020-11-24",
+      "audio": "https://anchor.fm/s/327a56c/podcast/play/23069565/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-24%2F75c4c49e-6221-58d4-2920-90667a3c17f9.m4a",
+      "duree": 296
     },
     {
       "titre": "Pourquoi les affirmations ne sont pas efficaces ? | #GTMate 336",
-      "date": "2020-11-21"
+      "date": "2020-11-21",
+      "audio": "https://anchor.fm/s/327a56c/podcast/play/22933794/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-21%2F3623057f-838e-ea02-0814-769afdfc4764.m4a",
+      "duree": 293
     },
     {
       "titre": "Pourquoi éviter les efforts ? | #GTMate 335",
-      "date": "2020-11-19"
+      "date": "2020-11-19",
+      "audio": "https://anchor.fm/s/327a56c/podcast/play/22825528/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-19%2Fa85b5036-2b41-de02-d435-720fdaccc224.m4a",
+      "duree": 213
     },
     {
       "titre": "Pourquoi on ne peut jamais être sûr ? | #GTMate 334",
-      "date": "2020-11-17"
+      "date": "2020-11-17",
+      "audio": "https://anchor.fm/s/327a56c/podcast/play/22721216/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-17%2Fae5645b5-39d6-5f16-2127-e6785a46acbb.m4a",
+      "duree": 171
     },
     {
       "titre": "Pourquoi on paie encore les coachs ? | #GTMate 333",
-      "date": "2020-11-12"
+      "date": "2020-11-12",
+      "audio": "https://anchor.fm/s/327a56c/podcast/play/22499548/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-12%2F8cb8ec17-8e6c-4550-b723-362de8931c26.m4a",
+      "duree": 373
     }
   ],
   "derniere_activite": "2020-11-24",
-  "frequence_jours": 2
+  "frequence_jours": 2,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-24",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

@@ -25,29 +25,39 @@
     "culture"
   ],
   "addedAt": "2026-10-20",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Alexathérapie",
+      "date": "2026-11-19",
+      "audio": "https://sphinx.acast.com/p/open/s/6acf46d99fea6e0a64f47e12/e/6afdcc83a057dc83f03f8966/media.mp3",
+      "duree": 2139
+    },
+    {
       "titre": "Il a tout quitté pour me suivre... - avec Alex",
-      "date": "2026-11-12"
+      "date": "2026-11-12",
+      "audio": "https://sphinx.acast.com/p/open/s/6acf46d99fea6e0a64f47e12/e/6af41218971c3552fb10143b/media.mp3",
+      "duree": 3692
     },
     {
       "titre": "Et si on ne vivait pas au bon endroit ?",
-      "date": "2026-11-05"
+      "date": "2026-11-05",
+      "audio": "https://sphinx.acast.com/p/open/s/6acf46d99fea6e0a64f47e12/e/6aeb5a3a4815938a8db09706/media.mp3",
+      "duree": 2377
     },
     {
       "titre": "Bien s'entourer : ça change tout ! - avec Ludovic",
-      "date": "2026-10-29"
+      "date": "2026-10-29",
+      "audio": "https://sphinx.acast.com/p/open/s/6acf46d99fea6e0a64f47e12/e/6ae2106c33b363c95d5ade2c/media.mp3",
+      "duree": 4289
     },
     {
       "titre": "L’Australie a changé ma vie",
-      "date": "2026-10-22"
-    },
-    {
-      "titre": "Comment on est censé trouver ce qu’on veut faire de notre vie ?",
-      "date": "2026-10-15"
+      "date": "2026-10-22",
+      "audio": "https://sphinx.acast.com/p/open/s/6acf46d99fea6e0a64f47e12/e/6acf9353937a3c900fdb5d7f/media.mp3",
+      "duree": 1990
     }
   ],
-  "derniere_activite": "2026-11-12",
+  "derniere_activite": "2026-11-19",
   "frequence_jours": 7
 }

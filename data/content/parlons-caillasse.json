@@ -26,30 +26,40 @@
     "histoire"
   ],
   "addedAt": "2026-06-21",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "La bonne manière d’allouer ses actifs",
+      "date": "2026-11-20",
+      "audio": "https://track.podcastics.com/8079/439735.mp3",
+      "duree": 3162
+    },
+    {
+      "titre": "Comment bien utiliser le levier en Bourse ?",
+      "date": "2026-11-13",
+      "audio": "https://track.podcastics.com/8079/438893.mp3",
+      "duree": 4511
+    },
+    {
       "titre": "Et si on repensait le conseil financier ?",
-      "date": "2026-11-06"
+      "date": "2026-11-06",
+      "audio": "https://track.podcastics.com/8079/437213.mp3",
+      "duree": 3527
     },
     {
       "titre": "Krachs, market timing, MSCI World : 5 mythes à déconstruire",
-      "date": "2026-10-30"
+      "date": "2026-10-30",
+      "audio": "https://track.podcastics.com/8079/436821.mp3",
+      "duree": 2913
     },
     {
       "titre": "Faut-il investir quand les marchés sont au plus haut ?",
-      "date": "2026-10-23"
-    },
-    {
-      "titre": "Le PEA est-il la meilleure enveloppe ?",
-      "date": "2026-10-16"
-    },
-    {
-      "titre": "Comment intégrer les Managed Futures dans son portefeuille ?",
-      "date": "2026-10-09"
+      "date": "2026-10-23",
+      "audio": "https://track.podcastics.com/8079/435003.mp3",
+      "duree": 2883
     }
   ],
-  "derniere_activite": "2026-11-06",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 7,
   "avis_publics": {
     "epuise": true,

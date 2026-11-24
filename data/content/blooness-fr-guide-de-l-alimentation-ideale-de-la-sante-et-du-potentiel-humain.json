@@ -27,29 +27,61 @@
     "bien-etre"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Pourquoi le poisson est essentiel en keto / lowcarb / méditerranéen pour la longévité",
-      "date": "2026-04-29"
+      "date": "2026-04-29",
+      "audio": "https://audio.ausha.co/BQlxgCq5RLJa.mp3?t=1777284044",
+      "duree": 799
     },
     {
       "titre": "Perte de poids et énergie : 3 changements simples pour les 7 prochains jours (Programme NUTRITION RESET - Modu",
-      "date": "2026-04-27"
+      "date": "2026-04-27",
+      "audio": "https://audio.ausha.co/BMwDLtn492JO.mp3?t=1777286157",
+      "duree": 1173
     },
     {
       "titre": "Vous mangez du sucre sans le savoir, même quand c’est salé (Programme NUTRITION RESET - Module 3)",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "audio": "https://audio.ausha.co/ykE25sKWz0qV.mp3?t=1772580486",
+      "duree": 1054
     },
     {
       "titre": "Glucides, le piège caché, et comment en sortir (Programme NUTRITION RESET - Module 2)",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "audio": "https://audio.ausha.co/yvmDec2lq2QQ.mp3?t=1772580304",
+      "duree": 1000
     },
     {
       "titre": "En finir avec le casse-tête des protéines (Programme NUTRITION RESET - Module 1)",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "audio": "https://audio.ausha.co/B13emTpwR1aG.mp3?t=1772579931",
+      "duree": 1299
     }
   ],
   "derniere_activite": "2026-04-29",
-  "frequence_jours": 49
+  "frequence_jours": 49,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-24",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

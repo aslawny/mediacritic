@@ -25,29 +25,39 @@
     "fiction"
   ],
   "addedAt": "2026-08-23",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Moustache & Cabot et « Sur la piste du commissaire »",
+      "date": "2026-11-20",
+      "audio": "https://anchor.fm/s/113c19c74/podcast/play/127960541/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2F0da97171-3af3-e433-7532-6d9af3e90d70.mp3",
+      "duree": 535
+    },
+    {
+      "titre": "Moustache & Cabot et « L'épouvantail qui se promenait »",
+      "date": "2026-11-13",
+      "audio": "https://anchor.fm/s/113c19c74/podcast/play/126963239/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2F8daf9487-5c01-6acb-881e-9b2614b610bc.mp3",
+      "duree": 518
+    },
+    {
       "titre": "Moustache & Cabot et « Le chant de l'îlot perdu »",
-      "date": "2026-11-06"
+      "date": "2026-11-06",
+      "audio": "https://anchor.fm/s/113c19c74/podcast/play/126946740/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2F438c02f7-d6ed-e6e3-0775-25f94be0f063.mp3",
+      "duree": 579
     },
     {
       "titre": "Moustache & Cabot et « La nuit des citrouilles qui sourient »",
-      "date": "2026-10-30"
+      "date": "2026-10-30",
+      "audio": "https://anchor.fm/s/113c19c74/podcast/play/126946398/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2F7e2372dd-7eba-7a02-9775-f9fda708f3a9.mp3",
+      "duree": 567
     },
     {
       "titre": "Moustache & Cabot et « La carte du grenier oublié »",
-      "date": "2026-10-23"
-    },
-    {
-      "titre": "Moustache & Cabot et « La machine à voler »",
-      "date": "2026-10-16"
-    },
-    {
-      "titre": "Moustache & Cabot et « Le tunnel sous les dunes »",
-      "date": "2026-10-09"
+      "date": "2026-10-23",
+      "audio": "https://anchor.fm/s/113c19c74/podcast/play/125883479/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-17%2F368e5cdb-9ec3-fb8e-358b-b0fe56cc78e7.mp3",
+      "duree": 514
     }
   ],
-  "derniere_activite": "2026-11-06",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 7
 }

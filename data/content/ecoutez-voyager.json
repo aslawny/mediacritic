@@ -27,27 +27,37 @@
     "societe"
   ],
   "addedAt": "2026-06-18",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "La France hors des sentiers battus",
-      "date": "2021-08-06"
+      "date": "2021-08-06",
+      "audio": "https://sphinx.acast.com/p/open/s/60b4d2ae09eea00019c9f8c0/e/60ffd06cb45dbd0015f9e2d1/media.mp3",
+      "duree": 1762
     },
     {
       "titre": "En quoi les réseaux sociaux changent-ils notre manière de voyager ?",
-      "date": "2021-07-30"
+      "date": "2021-07-30",
+      "audio": "https://sphinx.acast.com/p/open/s/60b4d2ae09eea00019c9f8c0/e/60ffce3d66c6d2001353a82d/media.mp3",
+      "duree": 1840
     },
     {
       "titre": "L'avenir de la montagne sera-t-il vert ? Épisode 2 : les Alpes",
-      "date": "2021-07-23"
+      "date": "2021-07-23",
+      "audio": "https://sphinx.acast.com/p/open/s/60b4d2ae09eea00019c9f8c0/e/60f96c4f26930a00130eb86c/media.mp3",
+      "duree": 1784
     },
     {
       "titre": "Le van, le voyage en liberté ?",
-      "date": "2021-07-16"
+      "date": "2021-07-16",
+      "audio": "https://sphinx.acast.com/p/open/s/60b4d2ae09eea00019c9f8c0/e/60f05ced6d3ad30012d8cd32/media.mp3",
+      "duree": 1906
     },
     {
       "titre": "L'avenir de la montagne sera-t-il vert ? Episode 1 : les Pyrénées",
-      "date": "2021-07-09"
+      "date": "2021-07-09",
+      "audio": "https://sphinx.acast.com/p/open/s/60b4d2ae09eea00019c9f8c0/e/60e70ddcda23f200120f3e5c/media.mp3",
+      "duree": 1846
     }
   ],
   "derniere_activite": "2021-08-06",

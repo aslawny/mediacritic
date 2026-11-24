@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/art-you-okay/id6818234695?uo=2",
       "trackId": 6818234695,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": null
     }
   },
@@ -25,7 +25,7 @@
     "interview"
   ],
   "addedAt": "2026-10-11",
-  "updatedAt": "2026-10-11",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Emmanuel Pahud - L'art de durer",

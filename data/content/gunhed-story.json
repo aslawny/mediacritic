@@ -23,29 +23,61 @@
     "gaming",
     "rétro"
   ],
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "La triste histoire de Topo le robot",
-      "date": "2025-01-16"
+      "date": "2025-01-16",
+      "audio": "https://anchor.fm/s/e81de76c/podcast/play/97157332/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-16%2F393205885-44100-2-fd02616d02cb6.m4a",
+      "duree": 4337
     },
     {
       "titre": "Les hippopotames de Pablo Escobar",
-      "date": "2024-11-24"
+      "date": "2024-11-24",
+      "audio": "https://anchor.fm/s/e81de76c/podcast/play/94886236/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-24%2Faad080b0-a0ad-178a-0622-8a062c4f732a.mp3",
+      "duree": 1250
     },
     {
       "titre": "1984 : la folle année du cinéma américain",
-      "date": "2024-09-25"
+      "date": "2024-09-25",
+      "audio": "https://anchor.fm/s/e81de76c/podcast/play/92193940/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-25%2Fb494802f-0767-09df-673b-12a288d5f3db.mp3",
+      "duree": 3455
     },
     {
       "titre": "AHL se raconte à Julien Chièze ! Tu le crois ça ?",
-      "date": "2024-01-11"
+      "date": "2024-01-11",
+      "audio": "https://anchor.fm/s/e81de76c/podcast/play/81136199/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F363059181-44100-2-af0eadc0f0d63.m4a",
+      "duree": 2630
     },
     {
       "titre": "Le retour de Gaston Lagaffe sans André Franquin",
-      "date": "2024-01-06"
+      "date": "2024-01-06",
+      "audio": "https://anchor.fm/s/e81de76c/podcast/play/80887913/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-6%2F362402455-44100-2-9b8e19dc3a1db.m4a",
+      "duree": 1774
     }
   ],
   "derniere_activite": "2025-01-16",
-  "frequence_jours": 12
+  "frequence_jours": 12,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-24",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

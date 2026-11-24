@@ -26,19 +26,25 @@
     "societe"
   ],
   "addedAt": "2026-05-28",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Episode 3 -« Ecoute moi bien ! »",
-      "date": "2021-03-07"
+      "date": "2021-03-07",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/1c9755aa-b7d6-4090-9f39-1f8da7590e5d.mp3?_=1621516844",
+      "duree": 885
     },
     {
       "titre": "Episode 2 - « N’envahis pas mon espace »",
-      "date": "2021-03-07"
+      "date": "2021-03-07",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/d5a00b7a-887a-4143-921d-cc517bd3191b.mp3?_=1621516826",
+      "duree": 775
     },
     {
       "titre": "Episode 1 - « Premier contact »",
-      "date": "2021-03-01"
+      "date": "2021-03-01",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/e7cc5ba6-6810-48f4-ada0-f8784a928362.mp3?_=1621516804",
+      "duree": 720
     }
   ],
   "derniere_activite": "2021-03-07",

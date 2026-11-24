@@ -25,30 +25,40 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Anna Cervinka \"Que les gens se réunissent au théâtre, tous ensemble autour d’un sujet, c’est magnifique\"",
+      "date": "2026-11-19",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/8e1547b6-e168-4ac5-974a-97111e722fe5.mp3?_=1795057722",
+      "duree": 2421
+    },
+    {
+      "titre": "Florent Marchet \"Les mots ne sont jamais neutres, ils sont éminemment politiques\"",
+      "date": "2026-11-12",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/97ab6287-5405-4d18-86e4-c60b6d3198b0.mp3?_=1794453027",
+      "duree": 2721
+    },
+    {
       "titre": "Loïc Prigent \"Une bibliothécaire m'impressionne plus que Rihanna\"",
-      "date": "2026-11-05"
+      "date": "2026-11-05",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/57c02980-96b2-4824-847e-4af3bdfe9789.mp3?_=1793848046",
+      "duree": 2753
     },
     {
       "titre": "(rediff) Philippe Jaenada \" J’ai une grande anxiété, c’est de blesser des gens\"",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/4a0129f1-410f-4d43-b690-b7c8fb689eda.mp3?_=1726283067",
+      "duree": 2539
     },
     {
       "titre": "Paroles de femmes",
-      "date": "2026-10-29"
-    },
-    {
-      "titre": "(rediff) Yaël Nazé \"Pour la parité en astronomie, le problème est sociétal\"",
-      "date": "2026-10-29"
-    },
-    {
-      "titre": "(rediff) Charline Vanhoenacker \"Le mot résister est trop grand à porter\"",
-      "date": "2026-10-29"
+      "date": "2026-10-29",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/87d8e578-36a0-4cf3-9a46-8d584fc1a0da.mp3?_=1793245201",
+      "duree": 2398
     }
   ],
-  "derniere_activite": "2026-11-05",
+  "derniere_activite": "2026-11-19",
   "frequence_jours": 1,
   "avis_publics": {
     "source": "apple",

@@ -25,31 +25,41 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "No-Code & Voyages #6 : Discussion avec Axel, télétravailler en Asie avec une armée d'agents IA",
+      "date": "2026-11-19",
+      "audio": "https://audio.hosakka.studio/episodes/podcast-alex.mp3",
+      "duree": 3506
+    },
+    {
+      "titre": "No-Code & Voyages #5 : discussion avec Patrice Nordey, expert du numérique en Chine",
+      "date": "2026-11-12",
+      "audio": "https://audio.hosakka.studio/episodes/itw-patrice-nordey.mp3",
+      "duree": 2750
+    },
+    {
       "titre": "Note vocale #102 : en live depuis Hanoï (agents IA, Fable 5.2 et burnout)",
-      "date": "2026-11-11"
+      "date": "2026-11-11",
+      "audio": "https://audio.hosakka.studio/episodes/episodedu11112026.mp3",
+      "duree": 984
     },
     {
       "titre": "AI Game #20 : Vibe coding anarchique, cybersécurité et IA",
-      "date": "2026-11-09"
+      "date": "2026-11-09",
+      "audio": "https://audio.hosakka.studio/episodes/aigame20.mp3",
+      "duree": 2702
     },
     {
       "titre": "Note vocale #101 : Depuis la Chine : IA, cyberpunk et sieste au WeWork",
-      "date": "2026-11-04"
-    },
-    {
-      "titre": "Not Only Code #9 : freelances no-code en difficultés et nouvelles technos",
-      "date": "2026-10-21"
-    },
-    {
-      "titre": "Radio Vibe Code #12 : Administrer ses serveurs avec des agents IA",
-      "date": "2026-10-19"
+      "date": "2026-11-04",
+      "audio": "https://audio.hosakka.studio/episodes/04-11-2026%2C%2014-47_canal_gauche.mp3",
+      "duree": 808
     }
   ],
-  "derniere_activite": "2026-11-11",
-  "frequence_jours": 4,
+  "derniere_activite": "2026-11-19",
+  "frequence_jours": 5,
   "avis_publics": {
     "epuise": true,
     "releve": "2026-11-12",

@@ -24,15 +24,19 @@
     "culture",
     "société"
   ],
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "SECRETS DE SCÉNARISTES #SAISON3ÉPISODE3 / L. Karmann & S. B. Karine / \"La Dernière Vie de Simon\"",
-      "date": "2020-02-28"
+      "date": "2020-02-28",
+      "audio": "https://feeds.soundcloud.com/stream/768038542-guilde-des-scenaristes-secrets-de-scenaristes-saison3episode3-l-karmann-s-b-karine-la-derniere-vie-de-simon.mp3",
+      "duree": 4994
     },
     {
       "titre": "SECRETS DE SCÉNARISTES #SAISON3ÉPISODE2 / Marc Kressmann / \"Munch\"",
-      "date": "2020-02-06"
+      "date": "2020-02-06",
+      "audio": "https://feeds.soundcloud.com/stream/756059905-guilde-des-scenaristes-secrets-de-scenaristes-saison3episode2-marc-kressman-munch.mp3",
+      "duree": 4138
     }
   ],
   "derniere_activite": "2020-02-28"

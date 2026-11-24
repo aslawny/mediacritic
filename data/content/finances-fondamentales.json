@@ -24,29 +24,65 @@
     "business"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "70 (rediffusion) - « The Rule #1 » de Phil Town",
+      "date": "2026-11-19",
+      "audio": "https://traffic.megaphone.fm/APO3034217158.mp3",
+      "duree": 1241
+    },
+    {
+      "titre": "208 - Q&A : « Peut-on utiliser seulement une partie du CELIAPP pour acheter une maison? »",
+      "date": "2026-11-17",
+      "audio": "https://traffic.megaphone.fm/APO9604197691.mp3",
+      "duree": 1092
+    },
+    {
+      "titre": "Sortie de mon deuxième livre - CONCOURS!",
+      "date": "2026-11-12",
+      "audio": "https://anchor.fm/s/cfa13bbc/podcast/play/129328555/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F086d5203-973b-5e3b-13ed-8a25b585219b.mp3",
+      "duree": 359
+    },
+    {
       "titre": "207 - Pourquoi on est parfois notre pire ennemi avec l’argent?",
-      "date": "2026-11-10"
+      "date": "2026-11-10",
+      "audio": "https://traffic.megaphone.fm/APO8762199849.mp3",
+      "duree": 1260
     },
     {
       "titre": "Abonnés #36 (rediffusion) - « Emprunter pour investir? »",
-      "date": "2026-11-06"
-    },
-    {
-      "titre": "206 - Emprunter comme jeune adulte pour investir: une bonne idée?",
-      "date": "2026-11-03"
-    },
-    {
-      "titre": "205 - « Money For Couples » de Ramit Sethi",
-      "date": "2026-10-27"
-    },
-    {
-      "titre": "69 (rediffusion) - « The 4-Hour Work Week » de Tim Ferris",
-      "date": "2026-10-22"
+      "date": "2026-11-06",
+      "audio": "https://traffic.megaphone.fm/APO7381031635.mp3",
+      "duree": 810
     }
   ],
-  "derniere_activite": "2026-11-10",
-  "frequence_jours": 4
+  "derniere_activite": "2026-11-19",
+  "frequence_jours": 4,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mosthelpful",
+    "releve": "2026-11-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Xtreme Frank",
+        "titre": "Un incontournable!",
+        "texte": "L’éducation financière est une lacune importante de notre système d’éducation. J’aurais aimé être davantage informé lorsque j’ai commencé ma vie active. C’est ce que propose cette baladodiffusion sur la finance.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Dubb6666",
+        "titre": "Trop de généralités. Et fausses informations sur le \"infinit banking\" qui n'existe pas au Canada",
+        "texte": "Le \"infinit banking n'existe pas au Canada. Il faut y mettre plusieurs dizaines de milliers de dollars pour que ça fasse du sens. Arrêtez de proposer ça à tout le monde"
+      },
+      {
+        "note": 5,
+        "auteur": "Emilie Comeau",
+        "titre": "Excellent podcast!",
+        "texte": "Excellent animateur qui un vulgarisateur hors pair. Complètement addictif, j’écoute tous les épisodes en rafale. Merci pour le partage de ce colossal travail qui est de décortiquer la littérature financière et la rendre accessible.…"
+      }
+    ]
+  }
 }

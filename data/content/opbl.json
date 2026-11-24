@@ -24,29 +24,39 @@
     "rénovation",
     "DIY"
   ],
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "S4E05 - Restez jusqu'à la fin",
+      "date": "2026-11-15",
+      "audio": "https://dts.podtrac.com/redirect.mp3/track.podcastics.com/7241/439152.mp3?t=1794653455",
+      "duree": 3639
+    },
+    {
       "titre": "S4E04 - Le petit Patrick du PMU",
-      "date": "2026-11-01"
+      "date": "2026-11-01",
+      "audio": "https://dts.podtrac.com/redirect.mp3/track.podcastics.com/7241/437371.mp3",
+      "duree": 4440
     },
     {
       "titre": "S4E03 - La fierté des nôtres",
-      "date": "2026-10-18"
+      "date": "2026-10-18",
+      "audio": "https://dts.podtrac.com/redirect.mp3/track.podcastics.com/7241/435991.mp3",
+      "duree": 4279
     },
     {
       "titre": "S4E02 - Cyril Féraud le grand remplaçant",
-      "date": "2026-10-04"
+      "date": "2026-10-04",
+      "audio": "https://dts.podtrac.com/redirect.mp3/track.podcastics.com/7241/434360.mp3",
+      "duree": 4613
     },
     {
       "titre": "S4E01 - Comment il va José ?",
-      "date": "2026-09-20"
-    },
-    {
-      "titre": "LVCDLVV #13 - L’été",
-      "date": "2026-07-24"
+      "date": "2026-09-20",
+      "audio": "https://dts.podtrac.com/redirect.mp3/track.podcastics.com/7241/432678.mp3",
+      "duree": 4125
     }
   ],
-  "derniere_activite": "2026-11-01",
+  "derniere_activite": "2026-11-15",
   "frequence_jours": 14
 }

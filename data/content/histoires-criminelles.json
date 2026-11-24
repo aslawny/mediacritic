@@ -26,30 +26,40 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Histoires criminelles du dimanche 22 novembre 2026 : Martyre de l'A10, un verdict sans réponse ?",
+      "date": "2026-11-22",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/555b58fa-6aeb-4db9-878a-82f8e0008d06.mp3?_=1795367761",
+      "duree": 2814
+    },
+    {
+      "titre": "Histoires criminelles du dimanche 15 novembre 2026 : Marion Wagon, le rebondissement",
+      "date": "2026-11-15",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/96a868c3-0a5b-4b14-966e-95fcc8099a9c.mp3?_=1794757177",
+      "duree": 2971
+    },
+    {
       "titre": "Histoires criminelles du dimanche 8 novembre 2026 : Martyre de l'A10, le procès de l'horreur",
-      "date": "2026-11-08"
+      "date": "2026-11-08",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/aafa569c-be8f-45c9-b4ce-2b9db94dfb91.mp3?_=1794152768",
+      "duree": 3035
     },
     {
       "titre": "Histoires criminelles du dimanche 11 octobre 2026 : Dino Scala, les derniers secrets du “Violeur de la Sambre”",
-      "date": "2026-10-11"
+      "date": "2026-10-11",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/b030eb3a-c931-4f1c-9198-80e2f1ed160e.mp3?_=1791735886",
+      "duree": 2797
     },
     {
       "titre": "Histoires criminelles du dimanche 4 octobre 2026 : Affaire Jubillar, une reconstitution décisive",
-      "date": "2026-10-04"
-    },
-    {
-      "titre": "Histoires criminelles du dimanche 20 septembre 2026 : Joël Le Scouarnec, les victimes oubliées",
-      "date": "2026-09-20"
-    },
-    {
-      "titre": "Histoires criminelles du dimanche 6 septembre 2026 : Chevaline, la verité impossible",
-      "date": "2026-09-06"
+      "date": "2026-10-04",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/2bd51c57-6af8-46c5-a9af-c5e4ad882955.mp3?_=1791129711",
+      "duree": 2977
     }
   ],
-  "derniere_activite": "2026-11-08",
+  "derniere_activite": "2026-11-22",
   "frequence_jours": 7,
   "avis_publics": {
     "epuise": true,

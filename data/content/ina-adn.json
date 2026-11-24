@@ -29,27 +29,37 @@
     "societe"
   ],
   "addedAt": "2026-10-14",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Didier François « Tout le monde croit toujours qu’il est à l’abri de la guerre »",
-      "date": "2026-02-09"
+      "date": "2026-02-09",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2317516.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 2733
     },
     {
       "titre": "Caroline Vigneaux : « Mes droits, je les dois aux combats des femmes d’hier »",
-      "date": "2026-01-08"
+      "date": "2026-01-08",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2252726.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 2233
     },
     {
       "titre": "Gad Elmaleh : « Comme diraient les cathos, je chemine »",
-      "date": "2025-11-27"
+      "date": "2025-11-27",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2080795.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 2822
     },
     {
       "titre": "Kahina Bahloul, première femme imame en France",
-      "date": "2025-11-04"
+      "date": "2025-11-04",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2080800.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 2221
     },
     {
       "titre": "MC Solaar, le sage poète du rap français",
-      "date": "2025-10-07"
+      "date": "2025-10-07",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2080805.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 1930
     }
   ],
   "derniere_activite": "2026-02-09",

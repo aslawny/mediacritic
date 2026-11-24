@@ -23,16 +23,40 @@
     "humour"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "S01E04 - Spéciale Stand-up - avec Kyan Khojandi, Yacine Belhousse, Adrien Ménielle et FloBer",
-      "date": "2016-05-17"
+      "date": "2016-05-17",
+      "audio": "https://feeds.soundcloud.com/stream/264476049-comedycornerfm-s01e04-speciale-stand-up-avec-kyan-khojandi-yacine-belhousse-adrien-menielle-et-flober.mp3",
+      "duree": 4138
     },
     {
       "titre": "S01E03 - Nos comédies cultes - avec Navo, FloBer, Adrien Ménielle et Aurélien Préveaux",
-      "date": "2016-02-01"
+      "date": "2016-02-01",
+      "audio": "https://feeds.soundcloud.com/stream/244882050-comedycornerfm-s01e03-nos-comedies-cultes-avec-navo-flober-adrien-menielle-et-aurelien-preveaux.mp3",
+      "duree": 4270
     }
   ],
-  "derniere_activite": "2016-05-17"
+  "derniere_activite": "2016-05-17",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-24",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "hollyprune",
+        "titre": "Passionnant & inspirant",
+        "texte": "Merci pour ces conversations très motivantes pour moi qui rêve de scène et qui m’apprête à me lancer à mes premiers open mics. Merci pour les recommandations de spectacles & séries, pour les bonnes adresses et vos confessions sur vos méthodes de travail.…"
+      },
+      {
+        "note": 5,
+        "auteur": "01010011asdfghhjk",
+        "titre": "Podcast pour les fans de comédie de la génération YouTube",
+        "texte": "Moment rare : pouvoir se \"poser\" avec les stars de l'humour français de la génération YouTube. Une super façon de voir et comprendre les influences des auteurs et réals français. On repart avec beaucoup de nouveaux contenus à aller découvrir !"
+      }
+    ]
+  }
 }

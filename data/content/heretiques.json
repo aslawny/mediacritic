@@ -27,30 +27,40 @@
     "politique"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "La pensée machine (2/2) François Rastier",
+      "date": "2026-11-15",
+      "audio": "https://audio.ausha.co/7zwxzFO5ZlGW.mp3?t=1794245545",
+      "duree": 2142
+    },
+    {
       "titre": "La pensée machine (1/2) François Rastier",
-      "date": "2026-11-01"
+      "date": "2026-11-01",
+      "audio": "https://audio.ausha.co/bjeMletYE4dz.mp3?t=1793479785",
+      "duree": 2673
     },
     {
       "titre": "Réel et récits géopolitiques (2/2) avec Pierre Conesa",
-      "date": "2026-10-15"
+      "date": "2026-10-15",
+      "audio": "https://audio.ausha.co/zYARYuaxNW56.mp3?t=1791926198",
+      "duree": 2507
     },
     {
       "titre": "Réel et récits géopolitiques (1/2) avec Pierre Conesa",
-      "date": "2026-10-01"
+      "date": "2026-10-01",
+      "audio": "https://audio.ausha.co/2V6vVF0kJY9z.mp3?t=1790685592",
+      "duree": 2603
     },
     {
       "titre": "Sexe, biologie et idéologie (2/2) avec Leonardo Orlando",
-      "date": "2026-09-15"
-    },
-    {
-      "titre": "Sexe, biologie et idéologie (1/2) avec Leonardo Orlando",
-      "date": "2026-09-01"
+      "date": "2026-09-15",
+      "audio": "https://audio.ausha.co/7zwxzF8rED1j.mp3?t=1789425238",
+      "duree": 2364
     }
   ],
-  "derniere_activite": "2026-11-01",
+  "derniere_activite": "2026-11-15",
   "frequence_jours": 16,
   "avis_publics": {
     "epuise": true,

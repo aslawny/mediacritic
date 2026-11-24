@@ -24,19 +24,25 @@
     "running"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "(bonus) ENTRETIEN avec François D'Haene",
-      "date": "2020-05-14"
+      "date": "2020-05-14",
+      "audio": "https://sphinx.acast.com/p/open/s/5eab0c519e2594ef44ab0eb7/e/5eba6729613f0c1c8763abc0/media.mp3",
+      "duree": 1368
     },
     {
       "titre": "(bonus) EXTRAITS - ENTRETIEN avec François d'Haene",
-      "date": "2020-05-13"
+      "date": "2020-05-13",
+      "audio": "https://sphinx.acast.com/p/open/s/5eab0c519e2594ef44ab0eb7/e/5eba64edb60fc77f3987cf28/media.mp3",
+      "duree": 100
     },
     {
       "titre": "#1 Pourquoi tu cours ?",
-      "date": "2020-05-03"
+      "date": "2020-05-03",
+      "audio": "https://sphinx.acast.com/p/open/s/5eab0c519e2594ef44ab0eb7/e/5eaec8866731f1f3382a93f1/media.mp3",
+      "duree": 3605
     }
   ],
   "derniere_activite": "2020-05-14",

@@ -26,29 +26,39 @@
     "culture"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Recording 103",
+      "date": "2026-11-21",
+      "audio": "https://media.blubrry.com/piano_music/piano-music.org/wp-content/podcasts/MTPB_Podcast_103.mp3",
+      "duree": 1965
+    },
+    {
+      "titre": "Recording 102",
+      "date": "2026-11-14",
+      "audio": "https://media.blubrry.com/piano_music/piano-music.org/wp-content/podcasts/MTPB_Podcast_102.mp3",
+      "duree": 1895
+    },
+    {
       "titre": "Recording 101",
-      "date": "2026-11-07"
+      "date": "2026-11-07",
+      "audio": "https://media.blubrry.com/piano_music/piano-music.org/wp-content/podcasts/MTPB_Podcast_101.mp3",
+      "duree": 1850
     },
     {
       "titre": "Recording 100",
-      "date": "2026-10-31"
+      "date": "2026-10-31",
+      "audio": "https://media.blubrry.com/piano_music/piano-music.org/wp-content/podcasts/MTPB_Podcast_100.mp3",
+      "duree": 1868
     },
     {
       "titre": "Recording 99",
-      "date": "2026-10-24"
-    },
-    {
-      "titre": "Recording 98",
-      "date": "2026-10-17"
-    },
-    {
-      "titre": "Recording 97",
-      "date": "2026-10-10"
+      "date": "2026-10-24",
+      "audio": "https://media.blubrry.com/piano_music/piano-music.org/wp-content/podcasts/MTPB_Podcast_99.mp3",
+      "duree": 1965
     }
   ],
-  "derniere_activite": "2026-11-07",
+  "derniere_activite": "2026-11-21",
   "frequence_jours": 7
 }

@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/flash-fpt-pr%C3%A9paration-concours-fonction-publique-territoriale/id1852991213?uo=2",
       "trackId": 1852991213,
       "rating": 5.0,
-      "ratingCount": 19,
+      "ratingCount": 20,
       "episodeCount": null
     }
   },
@@ -24,31 +24,41 @@
     "education"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Service National Universel et politique de cohésion pour l'oral de la fonction publique territoriale",
+      "date": "2026-11-23",
+      "audio": "https://anchor.fm/s/114f1cc54/podcast/play/126409617/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-4%2Ff5f931be-b98b-6bf2-0263-c158bf2249c1.mp3",
+      "duree": 235
+    },
+    {
+      "titre": "Diagnostic de performance énergétique : la réforme 2026 à réviser pour réussir",
+      "date": "2026-11-18",
+      "audio": "https://anchor.fm/s/114f1cc54/podcast/play/126415018/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-3%2F8ee4cb88-46ea-35fe-0582-365450d78e9c.mp3",
+      "duree": 240
+    },
+    {
+      "titre": "Égalité professionnelle et loi Rixain pour réviser l'examen de la fonction publique territoriale",
+      "date": "2026-11-16",
+      "audio": "https://anchor.fm/s/114f1cc54/podcast/play/125320374/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-7%2F9d5bfdc5-59f1-2c2f-781a-9fac8de2b3f8.mp3",
+      "duree": 203
+    },
+    {
       "titre": "Gestion de l'eau et compétences EPCI pour l'oral de la fonction publique territoriale",
-      "date": "2026-11-09"
+      "date": "2026-11-09",
+      "audio": "https://anchor.fm/s/114f1cc54/podcast/play/125320491/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-7%2F166e00ed-eff5-e6b2-71ce-cce14c80aab4.mp3",
+      "duree": 227
     },
     {
       "titre": "Management public et modernisation de l’administration : réussir l’oral du concours territorial",
-      "date": "2026-11-04"
-    },
-    {
-      "titre": "Administration libérée et posture de manager pour l'oral de la fonction publique territoriale",
-      "date": "2026-11-02"
-    },
-    {
-      "titre": "Finances publiques locales : budget, fiscalité et dette pour réussir le concours territorial",
-      "date": "2026-10-28"
-    },
-    {
-      "titre": "Crise du logement et rôle des collectivités pour réussir son concours de la territoriale",
-      "date": "2026-10-26"
+      "date": "2026-11-04",
+      "audio": "https://anchor.fm/s/114f1cc54/podcast/play/127615006/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-17%2Ffc6c6bb4-a9ca-0d1d-93be-d073f1b7a1fc.mp3",
+      "duree": 915
     }
   ],
-  "derniere_activite": "2026-11-09",
-  "frequence_jours": 4,
+  "derniere_activite": "2026-11-23",
+  "frequence_jours": 5,
   "avis_publics": {
     "epuise": true,
     "releve": "2026-11-12",

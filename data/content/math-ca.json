@@ -28,26 +28,108 @@
   "updatedAt": "2026-08-15",
   "episodes_recents": [
     {
-      "titre": "Nombres triangulaires et récurrence",
-      "date": "2026-09-10"
+      "titre": "Section d'un cube et théorème du toit",
+      "date": "2026-11-23",
+      "video": "cSYcyYecK5Q"
     },
     {
-      "titre": "Que sont-ils devenus? Mathis R.",
-      "date": "2026-09-09"
+      "titre": "Que sont-ils devenus? Jade M.",
+      "date": "2026-11-19",
+      "video": "w45MAA-Gt1g"
     },
     {
-      "titre": "Que sont-ils devenus? Anne-Laure M.",
-      "date": "2026-09-08"
+      "titre": "Section d'un tétraèdre par un plan",
+      "date": "2026-11-18",
+      "video": "BRQSIPGP9-k"
     },
     {
-      "titre": "Récurrence et fonction monotone",
-      "date": "2026-09-07"
+      "titre": "Résoudre dans C: (E):z² -3z ̅ + 2=0",
+      "date": "2026-11-17",
+      "video": "mr5JeJD-LwI"
     },
     {
-      "titre": "Le coup du 1",
-      "date": "2026-09-03"
+      "titre": "Indépendance et évènements contraires",
+      "date": "2026-11-16",
+      "video": "kvLMKc_kt_o"
     }
   ],
-  "derniere_activite": "2026-09-10",
-  "frequence_jours": 1
+  "derniere_activite": "2026-11-23",
+  "frequence_jours": 1,
+  "videos": [
+    {
+      "titre": "Section d'un cube et théorème du toit",
+      "date": "2026-11-23",
+      "video": "cSYcyYecK5Q"
+    },
+    {
+      "titre": "Que sont-ils devenus? Jade M.",
+      "date": "2026-11-19",
+      "video": "w45MAA-Gt1g"
+    },
+    {
+      "titre": "Section d'un tétraèdre par un plan",
+      "date": "2026-11-18",
+      "video": "BRQSIPGP9-k"
+    },
+    {
+      "titre": "Résoudre dans C: (E):z² -3z ̅ + 2=0",
+      "date": "2026-11-17",
+      "video": "mr5JeJD-LwI"
+    },
+    {
+      "titre": "Indépendance et évènements contraires",
+      "date": "2026-11-16",
+      "video": "kvLMKc_kt_o"
+    },
+    {
+      "titre": "Retrouver l'expression d'une fonction exponentielle",
+      "date": "2026-11-12",
+      "video": "mOkr_Lr14JE"
+    },
+    {
+      "titre": "Convexité d'une fonction exponentielle",
+      "date": "2026-11-11",
+      "video": "HOHaLhKOwho"
+    },
+    {
+      "titre": "Que sont-ils devenus? Diane C.G.",
+      "date": "2026-11-11",
+      "video": "aRzZlNopXkM"
+    },
+    {
+      "titre": "Convexité de la fonction f(x)=exp(x²+2x-5)",
+      "date": "2026-11-10",
+      "video": "X5ytaGpuh-Y"
+    },
+    {
+      "titre": "Étude de la fonction f(x)=exp(√(1-x²))",
+      "date": "2026-11-09",
+      "video": "yj5j4xi3M0w"
+    },
+    {
+      "titre": "Faire le lien entre courbe et calculs : f(x) = -3x+5",
+      "date": "2026-11-05",
+      "video": "m8k91pDWvhA"
+    },
+    {
+      "titre": "Que sont-ils devenus? Laure A.",
+      "date": "2026-11-04",
+      "video": "hsUFDAXxUec"
+    },
+    {
+      "titre": "Problèmes basiques autour de la tangente",
+      "date": "2026-11-03",
+      "video": "KsGDXzB4p2E"
+    },
+    {
+      "titre": "Dériver une racine avec une composée",
+      "date": "2026-11-02",
+      "video": "GFEgIahKfk4"
+    },
+    {
+      "titre": "Que sont-ils devenus? Lou D.S.J.",
+      "date": "2026-10-29",
+      "video": "23sCrNW2Hdc"
+    }
+  ]
 }

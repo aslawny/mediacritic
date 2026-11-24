@@ -26,29 +26,61 @@
     "politique"
   ],
   "addedAt": "2026-05-28",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "La puissance du pouvoir",
-      "date": "2020-10-25"
+      "date": "2020-10-25",
+      "audio": "https://track.podcastics.com/1047/35469.mp3",
+      "duree": 2421
     },
     {
       "titre": "Les acteurs du théâtre politique",
-      "date": "2020-10-18"
+      "date": "2020-10-18",
+      "audio": "https://track.podcastics.com/1047/35468.mp3",
+      "duree": 2651
     },
     {
       "titre": "Les idéologies, toujours plus radicales ?",
-      "date": "2020-10-11"
+      "date": "2020-10-11",
+      "audio": "https://track.podcastics.com/1047/35467.mp3",
+      "duree": 2314
     },
     {
       "titre": "La démocratie sous tensions",
-      "date": "2020-10-04"
+      "date": "2020-10-04",
+      "audio": "https://track.podcastics.com/1047/35466.mp3",
+      "duree": 2649
     },
     {
       "titre": "L'État dans tous ses états",
-      "date": "2020-09-27"
+      "date": "2020-09-27",
+      "audio": "https://track.podcastics.com/1047/35464.mp3",
+      "duree": 2304
     }
   ],
   "derniere_activite": "2020-10-25",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-24",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

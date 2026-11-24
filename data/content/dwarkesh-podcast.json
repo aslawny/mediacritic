@@ -27,29 +27,39 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Paul Christiano – We could be 12 months away from AIs that can overthrow the government",
+      "date": "2026-11-16",
+      "audio": "https://api.substack.com/feed/podcast/225196123/e31fdeb36d2d8a60f107c733c706a545.mp3",
+      "duree": 5925
+    },
+    {
+      "titre": "The avalanche that hit math is coming for AI development",
+      "date": "2026-11-13",
+      "audio": "https://api.substack.com/feed/podcast/224624765/6681869400340558d9a7bc295e9a3127.mp3",
+      "duree": 2666
+    },
+    {
       "titre": "What Robert Caro learned about power after studying it for 50 years",
-      "date": "2026-10-30"
+      "date": "2026-10-30",
+      "audio": "https://api.substack.com/feed/podcast/222791845/56a1d43c065b8f432a85b78b449d6b1f.mp3",
+      "duree": 3670
     },
     {
       "titre": "What I learned about power from LBJ and Robert Moses",
-      "date": "2026-10-29"
+      "date": "2026-10-29",
+      "audio": "https://api.substack.com/feed/podcast/222663001/6186ffb07362cafe940665b0be4b2936.mp3",
+      "duree": 1482
     },
     {
       "titre": "What will computer chips look like in 2045?",
-      "date": "2026-10-22"
-    },
-    {
-      "titre": "Si Sheppard – How did a few hundred Spanish soldiers topple two empires?",
-      "date": "2026-10-01"
-    },
-    {
-      "titre": "Noam Brown – Agent swarms, alignment, & recursive self-improvement",
-      "date": "2026-09-17"
+      "date": "2026-10-22",
+      "audio": "https://api.substack.com/feed/podcast/221632772/30c38515d3ea0554c60350beead67f42.mp3",
+      "duree": 4140
     }
   ],
-  "derniere_activite": "2026-10-30",
-  "frequence_jours": 6
+  "derniere_activite": "2026-11-16",
+  "frequence_jours": 7
 }

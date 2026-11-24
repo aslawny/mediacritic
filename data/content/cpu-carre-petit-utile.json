@@ -24,30 +24,35 @@
     "business",
     "entrepreneuriat"
   ],
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Ex0253 L'erreur est dans le processeur, première partie",
+      "date": "2026-11-19",
+      "audio": "https://cpu.pm/public/Sonores/Emissions/podcast/0253-CPU%2819-11-26%29.mp3"
+    },
+    {
+      "titre": "Ex0252 Seule en scène, seconde partie",
+      "date": "2026-11-12",
+      "audio": "https://cpu.pm/public/Sonores/Emissions/podcast/0252-CPU%2812-11-26%29.mp3"
+    },
+    {
       "titre": "Ex0251 Seule en scène, première partie",
-      "date": "2026-11-05"
+      "date": "2026-11-05",
+      "audio": "https://cpu.pm/public/Sonores/Emissions/podcast/0251-CPU%2805-11-26%29.mp3"
     },
     {
       "titre": "Ex0250 Et l'URL disparu",
-      "date": "2026-10-08"
+      "date": "2026-10-08",
+      "audio": "https://cpu.pm/public/Sonores/Emissions/podcast/0250-CPU%2808-10-26%29.mp3"
     },
     {
       "titre": "Ex0249 Turbulences à Taïwan, seconde partie",
-      "date": "2026-10-01"
-    },
-    {
-      "titre": "Ex0248 Turbulences à Taïwan, première partie",
-      "date": "2026-09-24"
-    },
-    {
-      "titre": "Ex0247 Émissions jeunesse ludo-éducatives",
-      "date": "2026-09-17"
+      "date": "2026-10-01",
+      "audio": "https://cpu.pm/public/Sonores/Emissions/podcast/0249-CPU%2801-10-26%29.mp3"
     }
   ],
-  "derniere_activite": "2026-11-05",
+  "derniere_activite": "2026-11-19",
   "frequence_jours": 7,
   "avis_publics": {
     "epuise": true,

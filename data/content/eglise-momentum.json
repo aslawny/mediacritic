@@ -27,29 +27,61 @@
     "vulgarisation"
   ],
   "addedAt": "2026-07-03",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "La source du renouveau",
-      "date": "2020-02-23"
+      "date": "2020-02-23",
+      "audio": "https://eglisemomentum.com/wp-content/uploads/2020/02/podcast2302.mp3",
+      "duree": 2906
     },
     {
       "titre": "La crainte de Dieu",
-      "date": "2020-01-26"
+      "date": "2020-01-26",
+      "audio": "https://eglisemomentum.com/wp-content/uploads/2020/01/podcast.mp3",
+      "duree": 2706
     },
     {
       "titre": "Ce qui donne du sens à ma vie",
-      "date": "2020-01-19"
+      "date": "2020-01-19",
+      "audio": "https://eglisemomentum.com/wp-content/uploads/2020/01/podcast-1.mp3",
+      "duree": 3100
     },
     {
       "titre": "Noël, c’est éternel",
-      "date": "2019-12-29"
+      "date": "2019-12-29",
+      "audio": "https://eglisemomentum.com/wp-content/uploads/2019/12/podcast1.mp3",
+      "duree": 3314
     },
     {
       "titre": "Noël, c’est le cadeau d’amour par excellence",
-      "date": "2019-12-22"
+      "date": "2019-12-22",
+      "audio": "https://eglisemomentum.com/wp-content/uploads/2019/12/podcast231219.mp3",
+      "duree": 5709
     }
   ],
   "derniere_activite": "2020-02-23",
-  "frequence_jours": 21
+  "frequence_jours": 21,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-24",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

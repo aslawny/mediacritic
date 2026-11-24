@@ -13,8 +13,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/les-aventures-de-tintin-60s-loreille-cass%C3%A9e/id6825800021?uo=2",
       "trackId": 6825800021,
-      "rating": 4.8,
-      "ratingCount": 18,
+      "rating": 4.7,
+      "ratingCount": 21,
       "episodeCount": null
     }
   },
@@ -23,30 +23,40 @@
     "musique"
   ],
   "addedAt": "2026-10-23",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
-      "titre": "L'Oreille cassée - 09/23",
-      "date": "2026-11-05"
+      "titre": "L'Oreille cassée - 15/23",
+      "date": "2026-11-19",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2931286.mp3?origin=rss&slug=podcasts.apple.com",
+      "duree": 613
     },
     {
-      "titre": "L'Oreille cassée - 08/23",
-      "date": "2026-11-05"
+      "titre": "L'Oreille cassée - 14/23",
+      "date": "2026-11-19",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2931284.mp3?origin=rss&slug=podcasts.apple.com",
+      "duree": 676
     },
     {
-      "titre": "L'Oreille cassée - 07/23",
-      "date": "2026-11-05"
+      "titre": "L'Oreille cassée - 13/23",
+      "date": "2026-11-19",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2931268.mp3?origin=rss&slug=podcasts.apple.com",
+      "duree": 601
     },
     {
-      "titre": "L'Oreille cassée - 06/23",
-      "date": "2026-10-29"
+      "titre": "L'Oreille cassée - 12/23",
+      "date": "2026-11-12",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2931263.mp3?origin=rss&slug=podcasts.apple.com",
+      "duree": 559
     },
     {
-      "titre": "L'Oreille cassée - 05/23",
-      "date": "2026-10-29"
+      "titre": "L'Oreille cassée - 11/23",
+      "date": "2026-11-12",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2931262.mp3?origin=rss&slug=podcasts.apple.com",
+      "duree": 568
     }
   ],
-  "derniere_activite": "2026-11-05",
+  "derniere_activite": "2026-11-19",
   "frequence_jours": 0,
   "avis_publics": {
     "epuise": true,

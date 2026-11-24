@@ -25,23 +25,31 @@
     "psychologie"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "04. Têtologie",
-      "date": "2019-10-15"
+      "date": "2019-10-15",
+      "audio": "https://stats.podcloud.fr/devperso/04-tetologie/enclosure.96d6abf6279ad53e57c5f7786620fabebd35284635ca6865fb3309c0928b4b33.mp3?p=f",
+      "duree": 2846
     },
     {
       "titre": "03. Miroirs et fumées",
-      "date": "2018-11-07"
+      "date": "2018-11-07",
+      "audio": "https://stats.podcloud.fr/devperso/03-miroirs-et-fumees/enclosure.df7ea44866a95faa5f0f2c05f3e9de8dc297d64dcd21650fd211970cd0af27ad.mp3?p=f",
+      "duree": 2694
     },
     {
       "titre": "02. La forêt empoisonnée",
-      "date": "2018-05-25"
+      "date": "2018-05-25",
+      "audio": "https://stats.podcloud.fr/devperso/02-la-foret-empoisonnee/enclosure.d8fe628c30c331a55e28de27c9d2aed930c30828074197634e9dd60408e17d6d.mp3?p=f",
+      "duree": 2201
     },
     {
       "titre": "01. Le Moi-ombre",
-      "date": "2018-03-28"
+      "date": "2018-03-28",
+      "audio": "https://stats.podcloud.fr/devperso/01-le-moi-ombre/enclosure.c4bdca946a8b678d9eac2965eb29bd7160515600b32dfac3a01c85ce9605638d.mp3?p=f",
+      "duree": 2299
     }
   ],
   "derniere_activite": "2019-10-15",

@@ -26,29 +26,61 @@
     "series"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Date #28 – \"Campus Drivers\", \"The Gilded Age\", \"Club Canapé\" et \"Sur le cœur\"",
-      "date": "2026-11-10"
+      "date": "2026-11-10",
+      "audio": "https://sphinx.acast.com/p/open/s/68b4992035734dc71980ce33/e/6af37d101557d6347cbae549/media.mp3",
+      "duree": 3979
     },
     {
       "titre": "Date #27 – Angèle, \"Love of Your Life\", Sally Rooney et \"Marie-Antoinette\"",
-      "date": "2026-10-27"
+      "date": "2026-10-27",
+      "audio": "https://sphinx.acast.com/p/open/s/68b4992035734dc71980ce33/e/6ae0e7a997b810b10cb2b934/media.mp3",
+      "duree": 4038
     },
     {
       "titre": "Date #26 – \"Carrie\", Troye Sivan, \"Fruit Fly\", \"La Gradiva\" et \"Leviticus\"",
-      "date": "2026-10-13"
+      "date": "2026-10-13",
+      "audio": "https://sphinx.acast.com/p/open/s/68b4992035734dc71980ce33/e/6ace4d8d8f340788897c9847/media.mp3",
+      "duree": 4969
     },
     {
       "titre": "Date #25 – \"Adults\", \"Lanterns\", \"L'Espèce explosive\" et \"One Night Only\"",
-      "date": "2026-09-29"
+      "date": "2026-09-29",
+      "audio": "https://sphinx.acast.com/p/open/s/68b4992035734dc71980ce33/e/6abbbff48ec4e79ce64bdec7/media.mp3",
+      "duree": 4082
     },
     {
       "titre": "Date #24 – \"Dix pour cent, le film\", David Robert Mitchell, \"Nycthémère\" et \"Les Éléphants dans la brume\"",
-      "date": "2026-09-15"
+      "date": "2026-09-15",
+      "audio": "https://sphinx.acast.com/p/open/s/68b4992035734dc71980ce33/e/6aa993664cef87591df7c9b2/media.mp3",
+      "duree": 4126
     }
   ],
   "derniere_activite": "2026-11-10",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-24",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

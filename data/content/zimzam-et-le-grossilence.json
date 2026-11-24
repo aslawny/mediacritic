@@ -27,27 +27,37 @@
     "famille"
   ],
   "addedAt": "2026-07-03",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Perdu dans la forêt sonore | Zimzam et le Grossilence #1",
-      "date": "2021-09-08"
+      "date": "2021-09-08",
+      "audio": "https://traffic.megaphone.fm/PPH4801110335.mp3?updated=1633357635",
+      "duree": 610
     },
     {
       "titre": "La grotte des vents | Zimzam et le Grossilence #2",
-      "date": "2021-09-07"
+      "date": "2021-09-07",
+      "audio": "https://traffic.megaphone.fm/PPH4169405726.mp3?updated=1633357578",
+      "duree": 592
     },
     {
       "titre": "Le bal des lucioles | Zimzam et le Grossilence #3",
-      "date": "2021-09-06"
+      "date": "2021-09-06",
+      "audio": "https://traffic.megaphone.fm/PPH7093617722.mp3?updated=1633357527",
+      "duree": 568
     },
     {
       "titre": "La boule chantante | Zimzam et le Grossilence #4",
-      "date": "2021-09-05"
+      "date": "2021-09-05",
+      "audio": "https://traffic.megaphone.fm/PPH1562509882.mp3?updated=1633357487",
+      "duree": 658
     },
     {
       "titre": "Le sac à musiques | Zimzam et le Grossilence #5",
-      "date": "2021-09-04"
+      "date": "2021-09-04",
+      "audio": "https://traffic.megaphone.fm/PPH6423469186.mp3?updated=1633357427",
+      "duree": 440
     }
   ],
   "derniere_activite": "2021-09-08",

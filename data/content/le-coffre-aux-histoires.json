@@ -25,27 +25,37 @@
     "fiction"
   ],
   "addedAt": "2026-10-17",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "Le Sapin 1/3",
-      "date": "2026-11-10"
+      "date": "2026-11-10",
+      "audio": "https://track.podcastics.com/9448/439177.mp3",
+      "duree": 526
     },
     {
       "titre": "Les Musiciens de Brême",
-      "date": "2026-10-28"
+      "date": "2026-10-28",
+      "audio": "https://track.podcastics.com/9448/436296.mp3",
+      "duree": 670
     },
     {
       "titre": "Le Chat Botté 2/2",
-      "date": "2026-10-14"
+      "date": "2026-10-14",
+      "audio": "https://track.podcastics.com/9448/435391.mp3",
+      "duree": 443
     },
     {
       "titre": "Le Chat Botté 1/2",
-      "date": "2026-10-14"
+      "date": "2026-10-14",
+      "audio": "https://track.podcastics.com/9448/435386.mp3",
+      "duree": 389
     },
     {
       "titre": "La Chèvre de Monsieur Seguin 2/2",
-      "date": "2026-10-14"
+      "date": "2026-10-14",
+      "audio": "https://track.podcastics.com/9448/435385.mp3",
+      "duree": 538
     }
   ],
   "derniere_activite": "2026-11-10",

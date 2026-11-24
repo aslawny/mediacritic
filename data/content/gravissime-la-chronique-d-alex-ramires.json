@@ -24,29 +24,61 @@
     "comedie"
   ],
   "addedAt": "2026-06-30",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
       "titre": "GRAVISSIME : La Psy - Alex Ramirès",
-      "date": "2026-06-29"
+      "date": "2026-06-29",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/45bb206b-d741-4450-a59a-ed9c410b4d81.mp3?_=1782716487&ps=98e0420d-b25e-459e-a9b2-f4fa806a5931",
+      "duree": 119
     },
     {
       "titre": "GRAVISSIME : La Radio - Alex Ramirès",
-      "date": "2026-06-22"
+      "date": "2026-06-22",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/990f61b9-d0fe-43a0-a9f6-2d1352e4ebea.mp3?_=1782107867&ps=98e0420d-b25e-459e-a9b2-f4fa806a5931",
+      "duree": 158
     },
     {
       "titre": "GRAVISSIME : Le Pique-Nique - Alex Ramirès",
-      "date": "2026-06-15"
+      "date": "2026-06-15",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/f38fd896-74db-4bc8-86fa-46be405e211c.mp3?_=1781264474&ps=98e0420d-b25e-459e-a9b2-f4fa806a5931",
+      "duree": 158
     },
     {
       "titre": "GRAVISSIME : La Grande surface - Alex Ramirès",
-      "date": "2026-06-08"
+      "date": "2026-06-08",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/0768074d-3beb-4af2-9fcf-5f6a6626d160.mp3?_=1780647082&ps=98e0420d-b25e-459e-a9b2-f4fa806a5931",
+      "duree": 123
     },
     {
       "titre": "GRAVISSIME : Le concert - Alex Ramirès",
-      "date": "2026-06-01"
+      "date": "2026-06-01",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/19a543a6-0053-4fc1-8e1b-2a11cc66be9e.mp3?_=1780042341&ps=98e0420d-b25e-459e-a9b2-f4fa806a5931",
+      "duree": 139
     }
   ],
   "derniere_activite": "2026-06-29",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-24",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

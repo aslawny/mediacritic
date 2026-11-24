@@ -25,29 +25,61 @@
     "business"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
-      "titre": "Révolutionner l'agriculture avec les drones d'épandage : le pari d'Oligo Plus avec Maxime Imhoff",
-      "date": "2026-11-11"
+      "titre": "Démocratiser l'éducation financière pour tous : le succès de Richissime avec Delphine Pinon",
+      "date": "2026-11-23",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/d23ddeed-52aa-4e09-b316-def26534e424.mp3?_=1795413608",
+      "duree": 486
     },
     {
-      "titre": "Démocratiser l'accès à l'automobile avec Guillaume Paoli, cofondateur d'Aramis Auto",
-      "date": "2026-11-10"
+      "titre": "Une lampe de lecture médaillée au concours Lépine : le succès de Lizia avec Cédric Le Guern",
+      "date": "2026-11-20",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/9491e634-5131-4122-a0f4-2a2a19bcc74e.mp3?_=1795154414",
+      "duree": 540
     },
     {
-      "titre": "Transformer le marché des compléments alimentaires avec Edouard Fornas, fondateur de Nutri & Co",
-      "date": "2026-11-09"
+      "titre": "Démocratiser la générosité en créant du lien entre donateurs et associations : le succès de Dift avec Georges ",
+      "date": "2026-11-19",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/7b0405c7-5aef-4951-aad5-baa6d5f06a55.mp3?_=1795068014",
+      "duree": 499
     },
     {
-      "titre": "Nourrir l'humanité avec les algues avec Hugo Valentin, président d'Edonia",
-      "date": "2026-11-06"
+      "titre": "Transformer l'immobilier en offrant du bien-être : le succès de 6ème Avenue avec Gilles Charron",
+      "date": "2026-11-18",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/e178c1cf-8299-4f4c-a482-8933612323cd.mp3?_=1794981608",
+      "duree": 535
     },
     {
-      "titre": "Transformer les toits de Paris en objets souvenirs : comment Constance Fichet-Schulz a créé Toit de Paris",
-      "date": "2026-11-05"
+      "titre": "Piloter la transformation numérique en période d'incertitude : le succès d'Open avec Frédéric Sebag",
+      "date": "2026-11-17",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/efb31e44-dc47-49a7-95a6-0b1864d74c1a.mp3?_=1794895216",
+      "duree": 482
     }
   ],
-  "derniere_activite": "2026-11-11",
-  "frequence_jours": 1
+  "derniere_activite": "2026-11-23",
+  "frequence_jours": 1,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-24",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }
