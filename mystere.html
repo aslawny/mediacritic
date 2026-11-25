@@ -47,11 +47,13 @@
     <form class="mys-form" id="mys-form" autocomplete="off" novalidate>
       <label for="mys-saisie" class="mys-label">Ta proposition</label>
       <div class="mys-ligne">
-        <input id="mys-saisie" class="mys-saisie" type="text" list="mys-noms" enterkeyhint="send"
+        <input id="mys-saisie" class="mys-saisie" type="text" enterkeyhint="send"
+               role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="mys-sugg"
+               autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false"
                placeholder="Nom du podcast ou de la chaîne…" aria-describedby="mys-aide mys-retour" />
         <button type="submit" class="mys-btn mys-btn-plein">Valider</button>
       </div>
-      <datalist id="mys-noms"></datalist>
+      <ul class="mys-sugg" id="mys-sugg" role="listbox" aria-label="Suggestions" hidden></ul>
       <p class="mys-aide" id="mys-aide">Accents et majuscules ne comptent pas.</p>
       <p class="mys-retour" id="mys-retour" role="status" aria-live="assertive"></p>
       <button type="button" class="mys-btn mys-btn-lien" id="mys-passer">Je donne ma langue au chat</button>

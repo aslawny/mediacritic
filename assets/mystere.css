@@ -27,6 +27,19 @@ body{margin:0;background:var(--mc-bg);color:var(--mc-text)}
 .mys-btn-plein{background:var(--mc-accent);border-color:var(--mc-accent);color:var(--mc-on-accent)}
 .mys-btn-plein:hover{background:var(--mc-accent-hover)}
 .mys-btn-lien{background:none;border:none;color:var(--mc-text-2);font-weight:500;text-decoration:underline;text-underline-offset:3px;padding:0 4px;margin-top:4px}
+/* Suggestions maison (le <datalist> natif est inutilisable sur mobile) :
+   dans le flux, sous le champ, lignes de 48 px faciles a toucher. */
+.mys-form{scroll-margin-top:80px}
+.mys-sugg{list-style:none;margin:6px 0 0;padding:4px;background:var(--mc-surface);border:1px solid var(--mc-line-2);border-radius:var(--mc-r-md);max-height:min(300px,40vh);overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch}
+.mys-sugg-opt{min-height:48px;display:flex;align-items:center;padding:0 12px;border-radius:var(--mc-r-sm);cursor:pointer;font-size:16px;line-height:1.25;-webkit-tap-highlight-color:transparent;touch-action:manipulation}
+.mys-sugg-opt+.mys-sugg-opt{border-top:1px solid var(--mc-line)}
+.mys-sugg-opt:hover,.mys-sugg-opt[aria-selected="true"]{background:var(--mc-surface-2)}
+.mys-sugg-opt:active{background:rgba(232,98,45,.18)}
+.mys-sugg-vide{padding:12px;color:var(--mc-text-3);font-size:var(--mc-fs-small)}
+.mys-pret .mys-btn-plein{box-shadow:0 0 0 3px rgba(232,98,45,.35)}
+.mys-btn{touch-action:manipulation;-webkit-tap-highlight-color:transparent}
+.mys-indice-neuf{border-color:var(--mc-accent);box-shadow:0 0 0 1px var(--mc-accent) inset}
+.mys-indice-cache{padding:10px 14px}
 .mys-aide{margin:6px 0 0;font-size:var(--mc-fs-small);color:var(--mc-text-3)}
 .mys-retour{margin:6px 0 0;min-height:1.4em;font-weight:600;color:#ffb38f}
 .mys-essais{list-style:none;padding:0;margin:var(--mc-s3) 0 0;display:flex;flex-wrap:wrap;gap:6px}

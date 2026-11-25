@@ -104,10 +104,12 @@
         var corps = ind.image
           ? el('img', { classe: 'mys-flou', referrerpolicy: 'no-referrer', src: ind.image, alt: 'Pochette floutée de l\'émission', width: '120', height: '120', decoding: 'async' })
           : el('p', { classe: 'mys-indice-texte', texte: ind.texte });
-        ol.appendChild(el('li', { classe: 'mys-indice', 'aria-label': 'Indice ' + (i + 1) + ', ' + ind.cle + (ind.texte ? ' : ' + ind.texte : '') }, [
+        ol.appendChild(el('li', { classe: 'mys-indice' + (!p.fini && i === visibles - 1 && i > 0 ? ' mys-indice-neuf' : ''), id: 'mys-indice-' + (i + 1), 'aria-label': 'Indice ' + (i + 1) + ', ' + ind.cle + (ind.texte ? ' : ' + ind.texte : '') }, [
           el('span', { classe: 'mys-indice-cle', texte: 'Indice ' + (i + 1) + ' · ' + ind.cle, 'aria-hidden': 'true' }), corps]));
-      } else {
-        ol.appendChild(el('li', { classe: 'mys-indice mys-indice-cache', texte: 'Indice ' + (i + 1) + ' : se dévoile après une mauvaise réponse' }));
+      } else if (i === visibles) {
+        // Mobile : une seule ligne pour les indices caches, pas cinq cartes
+        // vides qui repoussent le champ de saisie sous le clavier.
+        ol.appendChild(el('li', { classe: 'mys-indice mys-indice-cache', texte: (MAX - visibles > 1 ? 'Indices ' + (i + 1) + ' à ' + MAX : 'Indice ' + MAX) + ' : un de plus à chaque mauvaise réponse' }));
       }
     });
   }
@@ -270,6 +272,124 @@
     if (p.essais.length >= MAX) { retour.textContent = ''; terminer(false); return; }
     retour.textContent = 'Non, ce n\'est pas « ' + v + ' ». Nouvel indice dévoilé.';
     sauver(); rendre();
+    montrerNouvelIndice(p.essais.length + 1);
+  }
+  // Sur ecran tactile, le clavier cacherait l'indice qui vient d'apparaitre :
+  // on le ferme et on amene l'indice a l'ecran. Au clavier physique, on garde
+  // le focus dans le champ pour enchainer.
+  function montrerNouvelIndice(n) {
+    var li = $('mys-indice-' + n);
+    if (!li) return;
+    var tactile = window.matchMedia && window.matchMedia('(pointer: coarse)').matches;
+    if (tactile) {
+      $('mys-saisie').blur();
+      setTimeout(function () { li.scrollIntoView({ behavior: 'smooth', block: 'center' }); }, 250);
+    }
+  }
+
+  /* ---------- suggestions (remplace <datalist>, inutilisable sur mobile) ---------- */
+  var noms = [], nomsCherche = [], suggestions = [], actif = -1;
+  // Recherche tolerante : sans accents ni casse, mais en gardant les mots.
+  function pourRecherche(s) {
+    return ' ' + String(s || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase()
+      .replace(/&/g, ' et ').replace(/[^a-z0-9]+/g, ' ').trim() + ' ';
+  }
+  function chercher(q) {
+    var x = pourRecherche(q).trim();
+    if (!x) return [];
+    var deja = partie().essais.map(normaliser), debut = [], mot = [], dedans = [];
+    noms.forEach(function (nom, i) {
+      if (deja.indexOf(normaliser(nom)) >= 0) return;
+      var c = nomsCherche[i];
+      if (c.indexOf(' ' + x) === 0) debut.push(nom);
+      else if (c.indexOf(' ' + x) > 0) mot.push(nom);
+      else if (c.replace(/ /g, '').indexOf(x.replace(/ /g, '')) >= 0) dedans.push(nom);
+    });
+    return debut.concat(mot, dedans).slice(0, 6);
+  }
+  function fermerSuggestions() {
+    var ul = $('mys-sugg'), inp = $('mys-saisie');
+    suggestions = []; actif = -1;
+    ul.hidden = true; ul.textContent = '';
+    inp.setAttribute('aria-expanded', 'false');
+    inp.removeAttribute('aria-activedescendant');
+  }
+  function marquerActif() {
+    var inp = $('mys-saisie');
+    Array.prototype.forEach.call($('mys-sugg').children, function (li, i) {
+      li.setAttribute('aria-selected', i === actif ? 'true' : 'false');
+      if (i === actif) { inp.setAttribute('aria-activedescendant', li.id); li.scrollIntoView({ block: 'nearest' }); }
+    });
+    if (actif < 0) inp.removeAttribute('aria-activedescendant');
+  }
+  function choisir(nom) {
+    var inp = $('mys-saisie');
+    inp.value = nom;
+    fermerSuggestions();
+    inp.focus();
+    // Un nom de la liste : on peut valider tout de suite, on le signale.
+    $('mys-form').classList.add('mys-pret');
+  }
+  function afficherSuggestions() {
+    var inp = $('mys-saisie'), ul = $('mys-sugg');
+    $('mys-form').classList.remove('mys-pret');
+    suggestions = chercher(inp.value); actif = -1;
+    ul.textContent = '';
+    if (!suggestions.length) {
+      if (inp.value.trim().length >= 3) {
+        ul.appendChild(el('li', { classe: 'mys-sugg-vide', role: 'presentation', texte: 'Pas dans la liste : tu peux quand même valider ton idée.' }));
+        ul.hidden = false;
+      } else ul.hidden = true;
+      inp.setAttribute('aria-expanded', 'false');
+      return;
+    }
+    suggestions.forEach(function (nom, i) {
+      var li = el('li', { id: 'mys-sugg-' + i, role: 'option', 'aria-selected': 'false', classe: 'mys-sugg-opt', texte: nom });
+      // pointerdown + preventDefault : le champ garde le focus (pas de
+      // fermeture/reouverture du clavier entre le toucher et le choix).
+      li.addEventListener('pointerdown', function (e) { e.preventDefault(); });
+      li.addEventListener('click', function () { choisir(nom); });
+      ul.appendChild(li);
+    });
+    ul.hidden = false;
+    inp.setAttribute('aria-expanded', 'true');
+    ajusterHauteur();
+  }
+  // La liste s'arrete au-dessus du clavier (visualViewport : la zone vraiment
+  // visible, que 'vh' ignore sur iOS).
+  function ajusterHauteur() {
+    var ul = $('mys-sugg'), vv = window.visualViewport;
+    if (!vv || ul.hidden) return;
+    var dispo = vv.height + vv.offsetTop - ul.getBoundingClientRect().top - 8;
+    ul.style.maxHeight = Math.max(144, Math.min(300, dispo)) + 'px';
+  }
+  // Au focus sur mobile : on remonte le champ en haut de l'ecran pour que les
+  // suggestions tiennent au-dessus du clavier.
+  function remonterChamp() {
+    if (!(window.matchMedia && window.matchMedia('(pointer: coarse)').matches)) return;
+    setTimeout(function () {
+      var r = $('mys-form').getBoundingClientRect();
+      var marge = (document.getElementById('mc-header') || {}).offsetHeight || 0;
+      if (r.top < marge + 8 || r.top > window.innerHeight * 0.25) {
+        window.scrollBy({ top: r.top - marge - 12, behavior: 'smooth' });
+      }
+    }, 300);
+  }
+  function brancherSuggestions() {
+    var inp = $('mys-saisie');
+    inp.addEventListener('input', afficherSuggestions);
+    if (window.visualViewport) {
+      window.visualViewport.addEventListener('resize', ajusterHauteur);
+      window.visualViewport.addEventListener('scroll', ajusterHauteur);
+    }
+    inp.addEventListener('focus', function () { remonterChamp(); if (inp.value) afficherSuggestions(); });
+    inp.addEventListener('blur', function () { setTimeout(fermerSuggestions, 150); });
+    inp.addEventListener('keydown', function (e) {
+      if (e.key === 'ArrowDown' && suggestions.length) { e.preventDefault(); actif = (actif + 1) % suggestions.length; marquerActif(); }
+      else if (e.key === 'ArrowUp' && suggestions.length) { e.preventDefault(); actif = (actif - 1 + suggestions.length) % suggestions.length; marquerActif(); }
+      else if (e.key === 'Enter' && actif >= 0) { e.preventDefault(); choisir(suggestions[actif]); }
+      else if (e.key === 'Escape') fermerSuggestions();
+    });
   }
 
   /* ---------- cycle du jour ---------- */
@@ -294,8 +414,8 @@
       return r.json();
     }).then(function (d) {
       donnees = d;
-      var dl = $('mys-noms'); dl.textContent = '';
-      (d.noms || []).forEach(function (nom) { dl.appendChild(el('option', { value: nom })); });
+      noms = (d.noms || []).slice();
+      nomsCherche = noms.map(pourRecherche);
     });
   }
   function tic() {
@@ -308,11 +428,15 @@
 
   function init() {
     if (!$('mys')) return;
-    $('mys-form').addEventListener('submit', function (e) { e.preventDefault(); proposer($('mys-saisie').value); });
+    $('mys-form').addEventListener('submit', function (e) {
+      e.preventDefault(); fermerSuggestions(); $('mys-form').classList.remove('mys-pret');
+      proposer($('mys-saisie').value);
+    });
+    brancherSuggestions();
     var b = $('mys-passer'), arme = false;
     b.addEventListener('click', function () {
       if (!mystere || partie().fini) return;
-      if (!arme) { arme = true; b.textContent = 'Sûr ? Ça compte comme une défaite (cliquer pour confirmer)'; return; }
+      if (!arme) { arme = true; b.textContent = 'Sûr ? Ça compte comme une défaite (appuie à nouveau pour confirmer)'; return; }
       arme = false; b.textContent = 'Je donne ma langue au chat';
       var p = partie(); while (p.essais.length < MAX) p.essais.push('—');
       terminer(false);
