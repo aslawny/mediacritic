@@ -59,5 +59,31 @@
     }
   ],
   "derniere_activite": "2026-09-16",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-25",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Zapo64",
+        "titre": "La crème de la crème",
+        "texte": "Quand une équipe dynamique se réunit à la cool, mais avec sérieux, pour discuter de l’actualité et des bonnes pratiques du podcast, ça donne le SAV du podcast. On aurait presque envie de venir s’inviter tant l’ambiance est à la fois cool avec juste ce qu’il faut de sérieux."
+      },
+      {
+        "note": 5,
+        "auteur": "Prenons un café",
+        "titre": "Super podcast !",
+        "texte": "Format de table ronde très intéressant, diversité de sujets, tout y est pour en savoir plus sur le merveilleux monde du podcast 🥰"
+      },
+      {
+        "note": 5,
+        "auteur": "Marmelade77",
+        "titre": "Super intéressant",
+        "texte": "Un podcast du podcast on adore ! Notamment les tables rondes qui permettent d’avoir des sons de cloche super intéressants"
+      }
+    ]
+  }
 }

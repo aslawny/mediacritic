@@ -63,25 +63,29 @@
   "derniere_activite": "2026-11-16",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-26",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-25",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "gedmintas",
+        "titre": "Ye ye ye",
+        "texte": "Grand-mère débutante en cybersecurity et fan de Geoffrey O.😉je salue votre travail de vulgarisation au moyen des arts qui m’aide à mieux comprendre les concepts techniques , bravo!"
+      },
+      {
+        "note": 5,
+        "auteur": "pf grivet",
+        "titre": "Ce talent !",
+        "texte": "Expliquer des sujets de Cybersécurité aussi clairement et en y ajoutant des anecdotes culturelles, c’est incroyablement talentueux. Merci."
+      },
+      {
+        "note": 5,
+        "auteur": "PacpacOpe",
+        "titre": "Tous acteur si nous sommes tous sur scène",
+        "texte": "J’espère que les mentalités évolueront. Ce n’est pas gagné!!!.La sécurité est trop souvent mise au pilori… contre productive…"
+      }
     ]
   }
 }

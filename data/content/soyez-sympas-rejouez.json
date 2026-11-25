@@ -62,25 +62,29 @@
   "derniere_activite": "2025-04-17",
   "frequence_jours": 4,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-26",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-25",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Vdhevegj",
+        "titre": "👌👌👌",
+        "texte": "⭐️⭐️⭐️⭐️⭐️ Bien mais les premiers épisodes sont long vous pourrez faire les mêmes moins long comme les derniers épisodes et continuer à en faire car ça fait longtemps qu’il n’y en a plus"
+      },
+      {
+        "note": 1,
+        "auteur": "Rivellon",
+        "titre": "Urgent de revenir à la formule précédente !",
+        "texte": "Nouvelle formule narrative beaucoup trop courte sans expertise Tout simplement nul Retour des chroniqueurs indispensable !"
+      },
+      {
+        "note": 5,
+        "auteur": "ppyd34",
+        "titre": "Top",
+        "texte": "Bravo messieurs, pour ces souvenirs si vous pouviez alterner avec l’ancien format (avec la touche >> si gros temps creux dans le match abordé) ce serait encore mieux."
+      }
     ]
   }
 }

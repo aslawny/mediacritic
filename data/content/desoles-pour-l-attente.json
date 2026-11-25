@@ -63,25 +63,29 @@
   "derniere_activite": "2026-11-23",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-26",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-25",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Davidtrèsdéçu",
+        "titre": "Idée de sujet",
+        "texte": "Salut à tous les 2, idée de sujet pour un prochain épisode : vous dites chacun comment vous parlez de l’autre sexe quand vous êtes entre potes, genre on pense que les mecs sont assez crus quand ils parlent des filles mais en fait les filles peuvent être pires quand elles parlent…"
+      },
+      {
+        "note": 5,
+        "auteur": "AzaruiS",
+        "titre": "Top",
+        "texte": "Un duo inattendu, plein de fraîcheur et de bonne humeur.😉 Dommage que j’en ai jamais entendu parler de la part de « monsieur » que je suis entre autres avec Urbain… Un vent de légèreté, de fraîcheur et de bonne humeur .…"
+      },
+      {
+        "note": 5,
+        "auteur": "Wis8715",
+        "titre": "Nuance",
+        "texte": "Non pierre on veut de la nuance justement!! On en a marre des pensées unilatérales sans remise en question! Justement on veut de la nuances dans les opinions!!"
+      }
     ]
   }
 }

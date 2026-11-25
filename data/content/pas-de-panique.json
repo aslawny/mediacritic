@@ -31,23 +31,33 @@
   "episodes_recents": [
     {
       "titre": "Radio panique - journée type",
-      "date": "2026-07-08"
+      "date": "2026-07-08",
+      "audio": "https://sphinx.acast.com/p/open/s/6a00a6b9dcea0196adc72b42/e/6a4ba6a14955fc4dc14233b7/media.mp3",
+      "duree": 900
     },
     {
       "titre": "Episode 3 : Moon",
-      "date": "2026-07-01"
+      "date": "2026-07-01",
+      "audio": "https://sphinx.acast.com/p/open/s/6a00a6b9dcea0196adc72b42/e/6a42333a6b6690f46aae2fc3/media.mp3",
+      "duree": 3928
     },
     {
       "titre": "Radio panique - la scène",
-      "date": "2026-06-24"
+      "date": "2026-06-24",
+      "audio": "https://sphinx.acast.com/p/open/s/6a00a6b9dcea0196adc72b42/e/6a3b5f0526f9b8cade9f8bc1/media.mp3",
+      "duree": 1034
     },
     {
       "titre": "Episode 2 : Mamari Munezero",
-      "date": "2026-06-17"
+      "date": "2026-06-17",
+      "audio": "https://sphinx.acast.com/p/open/s/6a00a6b9dcea0196adc72b42/e/6a2fbda60592e82545913347/media.mp3",
+      "duree": 3934
     },
     {
       "titre": "Radio panique : les élections municipales",
-      "date": "2026-06-10"
+      "date": "2026-06-10",
+      "audio": "https://sphinx.acast.com/p/open/s/6a00a6b9dcea0196adc72b42/e/6a279edc401089d02d9239b1/media.mp3",
+      "duree": 1046
     }
   ],
   "derniere_activite": "2026-07-08",

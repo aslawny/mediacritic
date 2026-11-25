@@ -26,26 +26,36 @@
   "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Chut ca reste entre nous S01E02",
+      "date": "2026-11-10",
+      "audio": "https://audio1.redcircle.com/episodes/3e887bb1-8d6c-4e25-a360-844b27705a2b/stream.mp3",
+      "duree": 275
+    },
+    {
+      "titre": "Politiks S06E03",
+      "date": "2026-11-10",
+      "audio": "https://audio1.redcircle.com/episodes/c359f02f-88dd-43dd-a569-19e6a67fc3d2/stream.mp3",
+      "duree": 857
+    },
+    {
       "titre": "PopUp S01E04",
-      "date": "2026-11-05"
+      "date": "2026-11-05",
+      "audio": "https://audio1.redcircle.com/episodes/0b3f9ae7-8321-40c1-bc61-698e6f9c9c53/stream.mp3",
+      "duree": 407
+    },
+    {
+      "titre": "Chut ca reste entre nous S01E01",
+      "date": "2026-11-03",
+      "audio": "https://audio1.redcircle.com/episodes/7d27ca5e-84b7-41fb-91c3-e64e968e2d0f/stream.mp3",
+      "duree": 244
     },
     {
       "titre": "Cockpit S03E03",
-      "date": "2026-11-03"
-    },
-    {
-      "titre": "PopUp S01E03",
-      "date": "2026-10-19"
-    },
-    {
-      "titre": "Cockpit S03E02",
-      "date": "2026-10-19"
-    },
-    {
-      "titre": "Politiks S06E02",
-      "date": "2026-10-13"
+      "date": "2026-11-03",
+      "audio": "https://audio1.redcircle.com/episodes/de3b4505-b649-47c4-b69c-af38d7f644da/stream.mp3",
+      "duree": 620
     }
   ],
-  "derniere_activite": "2026-11-05",
-  "frequence_jours": 3
+  "derniere_activite": "2026-11-10",
+  "frequence_jours": 1
 }

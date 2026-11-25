@@ -28,26 +28,36 @@
   "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "78 - [Smartphone] La troisième vie de nos téléphones",
+      "date": "2026-11-22",
+      "audio": "https://op3.dev/e,pg=e2796a73-b1c4-5dbd-8a5c-bf05949b10d0/podcast.projets-libres.org/audio/@projetslibres/78-smartphone-la-troisieme-vie-de-nos-telephones.mp3",
+      "duree": 4202
+    },
+    {
       "titre": "77 - [Conférences] Le Capitole du Libre : parler du libre à Toulouse depuis 2011",
-      "date": "2026-10-26"
+      "date": "2026-10-26",
+      "audio": "https://op3.dev/e,pg=e2796a73-b1c4-5dbd-8a5c-bf05949b10d0/podcast.projets-libres.org/audio/@projetslibres/77-conferences-le-capitole-du-libre-parler-du-libre-a-toulouse.mp3",
+      "duree": 3718
     },
     {
       "titre": "76 - [Fediverse] WordPress, ta maison dans le web social décentralisé",
-      "date": "2026-10-12"
+      "date": "2026-10-12",
+      "audio": "https://op3.dev/e,pg=e2796a73-b1c4-5dbd-8a5c-bf05949b10d0/podcast.projets-libres.org/audio/@projetslibres/76-fediverse-wordpress-ta-maison-dans-le-web-social.mp3",
+      "duree": 1236
     },
     {
       "titre": "75 - [AI et Open Source] L'IA générative, opportunité ou menace pour l'Open Source ?",
-      "date": "2026-09-28"
+      "date": "2026-09-28",
+      "audio": "https://op3.dev/e,pg=e2796a73-b1c4-5dbd-8a5c-bf05949b10d0/podcast.projets-libres.org/audio/@projetslibres/75-ai-et-open-source-dialogues-ia-episode-1.mp3",
+      "duree": 4645
     },
     {
       "titre": "74 - [Associations] OSM-FR : L'association OpenStreetMap France",
-      "date": "2026-09-19"
-    },
-    {
-      "titre": "73 - [Conférences] Kernel Recipes : la conférence autour du noyau Linux en France",
-      "date": "2026-08-30"
+      "date": "2026-09-19",
+      "audio": "https://op3.dev/e,pg=e2796a73-b1c4-5dbd-8a5c-bf05949b10d0/podcast.projets-libres.org/audio/@projetslibres/associations-decouvrez-lassociation-osm-france.mp3",
+      "duree": 1060
     }
   ],
-  "derniere_activite": "2026-10-26",
+  "derniere_activite": "2026-11-22",
   "frequence_jours": 14
 }

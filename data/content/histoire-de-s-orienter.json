@@ -29,23 +29,33 @@
   "episodes_recents": [
     {
       "titre": "Réorientation : de l'économie-gestion au théâtre",
-      "date": "2026-06-05"
+      "date": "2026-06-05",
+      "audio": "https://api.radioeducation.saooti.org/podcast/download/741770.mp3?origin=rss",
+      "duree": 2293
     },
     {
       "titre": "IFSI : Institut de Formation en Soins Infirmiers",
-      "date": "2026-05-29"
+      "date": "2026-05-29",
+      "audio": "https://api.radioeducation.saooti.org/podcast/download/741537.mp3?origin=rss",
+      "duree": 1902
     },
     {
       "titre": "Réorientation - Du droit à la sociologie",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "audio": "https://api.radioeducation.saooti.org/podcast/download/740016.mp3?origin=rss",
+      "duree": 2076
     },
     {
       "titre": "Médecine - PASS",
-      "date": "2026-02-06"
+      "date": "2026-02-06",
+      "audio": "https://api.radioeducation.saooti.org/podcast/download/739842.mp3?origin=rss",
+      "duree": 2034
     },
     {
       "titre": "La Licence Histoire et au-delà !",
-      "date": "2025-11-14"
+      "date": "2025-11-14",
+      "audio": "https://api.radioeducation.saooti.org/podcast/download/738338.mp3?origin=rss",
+      "duree": 1835
     }
   ],
   "derniere_activite": "2026-06-05",

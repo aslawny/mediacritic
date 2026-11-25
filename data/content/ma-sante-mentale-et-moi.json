@@ -1,0 +1,59 @@
+{
+  "slug": "ma-sante-mentale-et-moi",
+  "title": "Ma santé mentale et moi",
+  "author": "Vivre FM",
+  "type": "podcast",
+  "categories": [
+    "sante",
+    "sciences",
+    "bien-etre"
+  ],
+  "description": "Ce projet bénéficie du soutien de la Fondation des Hôpitaux, dans le cadre de l'appel à projets Pièces Jaunes ainsi que de la Fondation OCIRP, partenaire engagé aux côtés de Vivre Fm dans ses actions d'accompagnements annuels",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a1/df/43/a1df4309-aaeb-626c-ecf2-d59402bfa62b/mza_12313868276843574361.jpg/600x600bb.jpg",
+  "language": "fr",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/ma-sant%C3%A9-mentale-et-moi/id6834378414?uo=4",
+      "trackId": 6834378414,
+      "rating": null,
+      "ratingCount": null,
+      "episodeCount": 4
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "sante",
+    "sciences",
+    "bien-etre"
+  ],
+  "addedAt": "2026-11-25",
+  "updatedAt": "2026-11-25",
+  "episodes_recents": [
+    {
+      "titre": "De Bonnes Ondes accompagné de l'IME Les Bords de Marne",
+      "date": "2026-11-20",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3059921.mp3?origin=rss&slug=podcasts.apple.com",
+      "duree": 1590
+    },
+    {
+      "titre": "Bonheur, rire et échanges avec le CRD Robert Doisneau Paris 18",
+      "date": "2026-11-12",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2990063.mp3?origin=rss&slug=podcasts.apple.com",
+      "duree": 2739
+    },
+    {
+      "titre": "En compagnie des Jeunes de la MDA de Gonesse",
+      "date": "2026-10-27",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2990522.mp3?origin=rss&slug=podcasts.apple.com",
+      "duree": 2260
+    },
+    {
+      "titre": "Avec l'IME les bords de Marne",
+      "date": "2026-10-23",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2990521.mp3?origin=rss&slug=podcasts.apple.com",
+      "duree": 1856
+    }
+  ],
+  "derniere_activite": "2026-11-20",
+  "frequence_jours": 8
+}

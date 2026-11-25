@@ -60,25 +60,29 @@
   "derniere_activite": "2026-01-20",
   "frequence_jours": 10,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-26",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-25",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "L19htn1n9",
+        "titre": "J’aime !!!",
+        "texte": "J’aime énormément apprendre plein de choses donc pour satisfaire ma curiosité j’écoute t’es podcast alors que je ne suis même pas en école de médecine mdrr j’ai même pas le bac mais j’adore les contenus sur la médecine je trouve sa hyper interessant !! Et tu le raconte super bien…"
+      },
+      {
+        "note": 5,
+        "auteur": "Lucas_mnrt",
+        "titre": "Super instructif !",
+        "texte": "Franchement au top ! Les cours sont bien expliqués, il y’a le bon ratio sérieux/blague pour rendre l’écoute dynamique et captivante, et à la fin on comprend vraiment son cours mieux qu’en amphi ! Merci beaucoup bienfaiteur anonyme ^^"
+      },
+      {
+        "note": 5,
+        "auteur": "Binkseuh",
+        "titre": "Juste : GÉNIAL !!!",
+        "texte": "Le meilleur podcast en année de PASS de très très loin ! C’est pas tant que ca un podcast d’ailleurs, plus un ensemble de cours et franchement mieux expliqués qu’en amphi ! Un très gros merci à vous pour tout ce que vous faites ❤️"
+      }
     ]
   }
 }

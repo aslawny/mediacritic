@@ -29,25 +29,107 @@
   "episodes_recents": [
     {
       "titre": "OpenBSD : Post-Installation officielle et guidée (outils et fichiers essentiels)",
-      "date": "2024-04-07"
+      "date": "2024-04-07",
+      "video": "TJNaYiIr9yk"
     },
     {
       "titre": "OpenBSD : Installation guidée et facile",
-      "date": "2024-03-29"
+      "date": "2024-03-29",
+      "video": "B1uf3SwsLYo"
     },
     {
       "titre": "GIT : Comment mettre à jour en local l'url / uri du dépôt distant ?",
-      "date": "2024-03-21"
+      "date": "2024-03-21",
+      "video": "H87CTwZQrRw"
     },
     {
       "titre": "GIT : Comment résoudre un conflit ? (vimdiff, mergetool)",
-      "date": "2024-03-21"
+      "date": "2024-03-21",
+      "video": "1BaXc6DSB78"
     },
     {
       "titre": "GIT : Comment sauvegarder mes modifications avec \"git stash\" ?",
-      "date": "2024-03-21"
+      "date": "2024-03-21",
+      "video": "wmT4uf2XcAQ"
     }
   ],
   "derniere_activite": "2024-04-07",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "videos": [
+    {
+      "titre": "OpenBSD : Post-Installation officielle et guidée (outils et fichiers essentiels)",
+      "date": "2024-04-07",
+      "video": "TJNaYiIr9yk"
+    },
+    {
+      "titre": "OpenBSD : Installation guidée et facile",
+      "date": "2024-03-29",
+      "video": "B1uf3SwsLYo"
+    },
+    {
+      "titre": "GIT : Comment mettre à jour en local l'url / uri du dépôt distant ?",
+      "date": "2024-03-21",
+      "video": "H87CTwZQrRw"
+    },
+    {
+      "titre": "GIT : Comment résoudre un conflit ? (vimdiff, mergetool)",
+      "date": "2024-03-21",
+      "video": "1BaXc6DSB78"
+    },
+    {
+      "titre": "GIT : Comment sauvegarder mes modifications avec \"git stash\" ?",
+      "date": "2024-03-21",
+      "video": "wmT4uf2XcAQ"
+    },
+    {
+      "titre": "GIT : Comment rebaser une branche sur main ? (et traiter les cherry-picks)",
+      "date": "2024-03-21",
+      "video": "8vVo9gTHzQ0"
+    },
+    {
+      "titre": "GIT : Comment supprimer une branche locale et distante ?",
+      "date": "2024-03-21",
+      "video": "6SPoVwayCZU"
+    },
+    {
+      "titre": "GIT : comment fusionner une branche ? (git merge)",
+      "date": "2024-03-21",
+      "video": "G0uEbRRAn7M"
+    },
+    {
+      "titre": "GIT : comment copier un commit d'une branche à une autre ? (cherry-pick)",
+      "date": "2024-03-21",
+      "video": "7c53A1hFORk"
+    },
+    {
+      "titre": "GIT : Comment revenir sur le \"HEAD\" distant ?",
+      "date": "2024-03-21",
+      "video": "1jvgjZcJ8FA"
+    },
+    {
+      "titre": "GIT : Comment annuler un \"git rebase\" ?",
+      "date": "2024-03-21",
+      "video": "Q3fXx_TSY50"
+    },
+    {
+      "titre": "GIT : Comment déplacer mes derniers commits dans une nouvelle branche ?",
+      "date": "2024-03-21",
+      "video": "FgOVmnUNSxw"
+    },
+    {
+      "titre": "GIT : Comment lier une branche locale à une branche distante ?",
+      "date": "2024-03-21",
+      "video": "KaZvh6uGAS0"
+    },
+    {
+      "titre": "GIT : comment renommer une branche ? (locale et distante)",
+      "date": "2024-03-21",
+      "video": "KGxhBdTcXs4"
+    },
+    {
+      "titre": "GIT : Comment supprimer un commit distant ?",
+      "date": "2024-03-21",
+      "video": "Ju659FX2xVw"
+    }
+  ]
 }

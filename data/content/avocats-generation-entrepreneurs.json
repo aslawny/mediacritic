@@ -27,25 +27,29 @@
   "addedAt": "2026-09-26",
   "updatedAt": "2026-11-24",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-26",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-25",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "dodo-chvt",
+        "titre": "Un vrai concentré d’énergie et d’inspiration !",
+        "texte": "J’ai « binge listené » l’intégralité des épisodes, ça m’a donné la patate 🙂 trop contente d’entendre notre génération d’avocats qui entreprennent, c’est ultra intéressant et motivant pour aller toujours plus loin !!! 🙌 Ce podcast est devenu mon compagnon incontournable lors de me…"
+      },
+      {
+        "note": 5,
+        "auteur": "Pseudo Tania",
+        "titre": "Inspirant et moderne",
+        "texte": "Encore un super épisode qui a nourri ma réflexion sur le sujet et m’inspire encore plus d’ouverture possible. Notamment sur la possibilité de faire bouger les lignes.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Laure Montpellier",
+        "titre": "Avocat ET entrepreneur biensûr 🔥",
+        "texte": "A mettre dans toutes les oreilles des avocats qui veulent créer leur cabinet ! Pleins d’idées inspirantes pour trouver ensuite sa propre identité d’avocat Laure Avocatshakeup"
+      }
     ]
   },
   "episodes_recents": [

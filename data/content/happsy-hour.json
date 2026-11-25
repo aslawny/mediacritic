@@ -30,15 +30,21 @@
   "episodes_recents": [
     {
       "titre": "Episode 2 – Epuisement des DRH : bientôt le bout du tunnel ?",
-      "date": "2026-06-22"
+      "date": "2026-06-22",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2580392.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 2108
     },
     {
       "titre": "Episode 1 - Vouloir être heureux, est-ce bien sérieux ?",
-      "date": "2026-03-20"
+      "date": "2026-03-20",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2395922.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 2030
     },
     {
       "titre": "Episode 0 - Présentation",
-      "date": "2026-03-12"
+      "date": "2026-03-12",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2383924.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 47
     }
   ],
   "derniere_activite": "2026-06-22",

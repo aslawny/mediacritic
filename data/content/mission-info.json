@@ -28,26 +28,36 @@
   "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Comment se protéger des cyberattaques ?",
+      "date": "2026-11-25",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3086389.mp3?origin=rss",
+      "duree": 664
+    },
+    {
+      "titre": "Comment réduire nos déchets ?",
+      "date": "2026-11-18",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3016229.mp3?origin=rss",
+      "duree": 688
+    },
+    {
       "titre": "Comment peut-on lutter contre le racisme ?",
-      "date": "2026-11-11"
+      "date": "2026-11-11",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2955834.mp3?origin=rss",
+      "duree": 714
     },
     {
       "titre": "Peut-on faire confiance à l'intelligence artificielle pour s'informer ?",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2920335.mp3?origin=rss",
+      "duree": 677
     },
     {
       "titre": "Pourquoi les traces de dinosaures nous fascinent-elles autant ?",
-      "date": "2026-10-28"
-    },
-    {
-      "titre": "Pourquoi les lycéens manifestent-ils ?",
-      "date": "2026-10-21"
-    },
-    {
-      "titre": "Comment faire quand tout devient cher ?",
-      "date": "2026-10-14"
+      "date": "2026-10-28",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2848912.mp3?origin=rss",
+      "duree": 693
     }
   ],
-  "derniere_activite": "2026-11-11",
+  "derniere_activite": "2026-11-25",
   "frequence_jours": 7
 }

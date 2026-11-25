@@ -28,26 +28,36 @@
   "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Data center, quel avenir ?",
+      "date": "2026-11-24",
+      "audio": "https://audio.ausha.co/B1kPRi17MJM7.mp3?t=1795543731",
+      "duree": 1211
+    },
+    {
       "titre": "Vignette Tech avec Franck",
-      "date": "2026-11-06"
+      "date": "2026-11-06",
+      "audio": "https://audio.ausha.co/Bxz5XsP9wZ4Y.mp3?t=1793983707",
+      "duree": 1218
     },
     {
       "titre": "Faut il avoir peur des agents ?",
-      "date": "2026-10-27"
+      "date": "2026-10-27",
+      "audio": "https://audio.ausha.co/oRYdJTO6JEQj.mp3?t=1793110582",
+      "duree": 1164
     },
     {
       "titre": "PWA l’avenir ? Avec Franck",
-      "date": "2026-10-26"
+      "date": "2026-10-26",
+      "audio": "https://audio.ausha.co/B1kPRirDjR5z.mp3?t=1793037675",
+      "duree": 1239
     },
     {
       "titre": "Et si on parlait de fibre ! Avec Charles",
-      "date": "2026-10-20"
-    },
-    {
-      "titre": "Radio Prod IA avec Bertrand",
-      "date": "2026-10-05"
+      "date": "2026-10-20",
+      "audio": "https://audio.ausha.co/B6D0mun4MpEv.mp3?t=1792479283",
+      "duree": 1568
     }
   ],
-  "derniere_activite": "2026-11-06",
-  "frequence_jours": 6
+  "derniere_activite": "2026-11-24",
+  "frequence_jours": 8
 }

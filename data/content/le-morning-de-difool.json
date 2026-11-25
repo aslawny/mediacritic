@@ -25,25 +25,29 @@
   "addedAt": "2026-10-26",
   "updatedAt": "2026-11-24",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-26",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-25",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "torga59",
+        "titre": "Skyroc",
+        "texte": "CA Déchire👏😎🤣🤣👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍🏾👍🏾👍🏾👍🏾👍🏾👍🏾👍🏾👍🏾👍🏿👍🏿👍🏿👍🏿👍🏿👍🏿👍🏿👍🏿👍🏿👍🏿👍🏿👍🏿👍🏿👍🏿👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼👍🏽👍🏽👍🏽👍🏽👍🏽👍🏽👍🏽👍🏽👍🏽👍🏽👍🏽💋💋💋💋💋💋💋j’ai10àns je kiffe la radio libre"
+      },
+      {
+        "note": 1,
+        "auteur": "Floriane ne",
+        "titre": "Pas si top",
+        "texte": "Je préfère écouter en boucle l’album de Kery James que de subir la soit disante planète rap de SkyRock."
+      },
+      {
+        "note": 5,
+        "auteur": "Joséphine drmx",
+        "titre": "Le morning de difool",
+        "texte": "J’adore les musique Ca utilise pas mon temps d’écran, c’est trop bien le classement des musiques continuer comme ça Ma radio préférée c’est skyrock 🎶💕"
+      }
     ]
   },
   "episodes_recents": [

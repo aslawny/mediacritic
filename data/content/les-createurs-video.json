@@ -58,5 +58,31 @@
     }
   ],
   "derniere_activite": "2023-01-24",
-  "frequence_jours": 33
+  "frequence_jours": 33,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-25",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "_X_A_B_I_",
+        "titre": "Édifiant !",
+        "texte": "Bravo pour cet interview. Le contenu est riche et même captivant. Mon avis n’est pas vraiment neutre car vous êtes avec PP Garcia mon trio de tête (sans ordre) Merci pour cette gentillesse et cette authenticité. Surtout restez accessible …"
+      },
+      {
+        "note": 5,
+        "auteur": "Sylvain LE CALVEZ",
+        "titre": "Quel plaisir...",
+        "texte": "J’adore ce type de format, le contenu est passionnant et bien construit et les deux premiers invités sont très intéressants. Bravo Sylvain pour ton travail en général et ici en particulier. Sylvain LE CALVEZ"
+      },
+      {
+        "note": 5,
+        "auteur": "Stroumph-geek",
+        "titre": "Fidèle",
+        "texte": "Sylvain reste fidèle à la personne qu’il est quelquesoit le support. Ce podcast est très agréable (attention au son de ton micro Sylvain) et les invités bien accueillis. Vivement le prochain !"
+      }
+    ]
+  }
 }

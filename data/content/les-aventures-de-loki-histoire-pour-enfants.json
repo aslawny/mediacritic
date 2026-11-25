@@ -60,5 +60,25 @@
     }
   ],
   "derniere_activite": "2026-05-09",
-  "frequence_jours": 20
+  "frequence_jours": 20,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-25",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Julien champan",
+        "titre": "Excellent PostCast pour petits et grands",
+        "texte": "Ce n’était pas facile de faire quelque chose de sympa, de féministe, de joyeux avec les eddas islandaises ! C’est cela la grande réussite de cette fiction pour enfants qui réinterprète et modernise ces sombres histoires. Excellent travail d’adaptation, et c’est drôle en plus !"
+      },
+      {
+        "note": 5,
+        "auteur": "Blackbass05460",
+        "titre": "Trop cool",
+        "texte": "Je trouve ce podcast très sympa, et quand j’ai entendu le dernier épisode, j’ai envoyé un mail pour que vous savez que y a des gens qui vous écoutent"
+      }
+    ]
+  }
 }

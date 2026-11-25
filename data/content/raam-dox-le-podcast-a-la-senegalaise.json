@@ -27,25 +27,29 @@
   "addedAt": "2026-10-26",
   "updatedAt": "2026-11-24",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-26",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-25",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "NafiC.",
+        "titre": "Douceur et bienveillance",
+        "texte": "Assya ton podcast est une bouffée d’air frais dans ce monde rythmé par un quotidien frénétique entre le boulot, la famille et nos petits problèmes. Quand je t’écoute je m’identifie à toi sur beaucoup de points, notamment le coté introverti.…"
+      },
+      {
+        "note": 1,
+        "auteur": "NCM20*",
+        "titre": "Basique",
+        "texte": "Si vous êtes l’archétype du cliché du sénégalais cad c’est blanc ou noir, morale et bien judgemental li bakhoul li bakhna point, c’est pour vous. Si vous avez des valeurs plus ouvertes, réfléchies, éthiques, modernes passez votre chemin vous n’êtes pas la cible.…"
+      },
+      {
+        "note": 5,
+        "auteur": "jojolastaaaaar",
+        "titre": "Reconnaissante ☺️",
+        "texte": "Hellooo, je viens de découvrir ton podcast, que je trouve top et cela dès la première écoute ! Je suis guinéenne sénégalaise (sénégalaise côté maman), j’aime le développement personnel et le wolof.…"
+      }
     ]
   },
   "episodes_recents": [

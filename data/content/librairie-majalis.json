@@ -62,25 +62,29 @@
   "derniere_activite": "2026-11-18",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-26",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-25",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "pape mbacke thioune",
+        "titre": "Mes respects a vous tous",
+        "texte": "Vous faites un travail remarquable qui mérite de faire le tour du monde. Je suis à la recherche d’une nouvelle écoute de SMK sur bazan. Si possible 🙏la version disponible sur YouTube est ancienne et difficile à entendre a cause de la qualité de l’audio.…"
+      },
+      {
+        "note": 5,
+        "auteur": "NgagneLo",
+        "titre": "Machallah",
+        "texte": "Di la diadieufeul bou bakh si podcast bi Serigne Djily. Ligguey bi rafet na torop. Yalla na la Borom Touba geureum"
+      },
+      {
+        "note": 5,
+        "auteur": "Talibé Bamba rkk",
+        "titre": "Bonne continuation",
+        "texte": "Liguéy bi raffétt na , yalla na sa borom geuram, yonnet bi geuram , serigne bi geuram."
+      }
     ]
   }
 }

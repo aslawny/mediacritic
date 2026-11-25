@@ -62,25 +62,29 @@
   "derniere_activite": "2026-08-30",
   "frequence_jours": 15,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-26",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-25",
+    "extraits": [
+      {
+        "note": 4,
+        "auteur": "Lenore Dove",
+        "titre": "Top mais avec de possibles améliorations à faire",
+        "texte": "J’aime beaucoup le principe une histoire + une médiation mais vous pourriez effectivement moderniser vos contes ou réécrire les contes classique que vous racontez pour qu’ils soient plus apaisants. En 2026, on ne s’attend pas à entendre un conte « classique ».…"
+      },
+      {
+        "note": 1,
+        "auteur": "Théo bouquet",
+        "titre": "Bou👎",
+        "texte": "T’es trop nul t’as une voix de nulle, et ça sert à rien de faire ça"
+      },
+      {
+        "note": 3,
+        "auteur": "Touwanaowatcheoutanka",
+        "titre": "Pourquoi modifier la voix ???",
+        "texte": "Des idées : conter une histoire, faire des exercices respiratoires, utiliser l’humour c’est bien mais pourquoi modifier votre voix au début dans la partie histoire et pourquoi choisir des contes traditionnels et complètement dépassés : quel enfant arrive à s’endormir sereinement…"
+      }
     ]
   }
 }

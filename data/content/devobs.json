@@ -28,26 +28,36 @@
   "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Dans le rétro : agents IA, réseaux GPU et SLO",
+      "date": "2026-11-20",
+      "audio": "https://op3.dev/e/media.transistor.fm/506e7b05/c6dfda93.mp3",
+      "duree": 3992
+    },
+    {
+      "titre": "Dev'Obs #34 / Dans ton rétro : NVIDIA et Kyverno",
+      "date": "2026-11-15",
+      "audio": "https://op3.dev/e/media.transistor.fm/eb80a05f/98589827.mp3",
+      "duree": 2053
+    },
+    {
       "titre": "Dev'Obs #33 / Bootstrapping",
-      "date": "2024-10-28"
+      "date": "2024-10-28",
+      "audio": "https://op3.dev/e/media.transistor.fm/8f540727/bd2360e3.mp3",
+      "duree": 4734
     },
     {
       "titre": "Dev'Obs #32 / Qovery",
-      "date": "2023-12-29"
+      "date": "2023-12-29",
+      "audio": "https://op3.dev/e/media.transistor.fm/0dce5ece/6a059adf.mp3",
+      "duree": 2659
     },
     {
       "titre": "Dev'Obs #31 / OpenStack",
-      "date": "2023-10-13"
-    },
-    {
-      "titre": "Dev'Obs #30 / IAM @ Scaleway",
-      "date": "2023-01-12"
-    },
-    {
-      "titre": "Dev'Obs #29 / Table Ronde DevOps",
-      "date": "2022-12-20"
+      "date": "2023-10-13",
+      "audio": "https://op3.dev/e/media.transistor.fm/09e7551b/56209bb6.mp3",
+      "duree": 4145
     }
   ],
-  "derniere_activite": "2024-10-28",
-  "frequence_jours": 35
+  "derniere_activite": "2026-11-20",
+  "frequence_jours": 57
 }

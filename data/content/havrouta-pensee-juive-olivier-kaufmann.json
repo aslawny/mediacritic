@@ -28,26 +28,31 @@
   "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Israël : le mystère d’une éternité révélée Partie 3",
+      "date": "2026-11-20",
+      "audio": "http://audio-rcj.s3.eu-west-1.amazonaws.com/00-2026-11/2026_11_20_HAVROUTA_ISRAEL_LE_MYSTERE_D_UNE_ETERNITE_REVELEE_PART_III.mp3"
+    },
+    {
+      "titre": "Israël : le mystère d’une éternité révélée Partie 2",
+      "date": "2026-11-13",
+      "audio": "http://audio-rcj.s3.eu-west-1.amazonaws.com/00-2026-11/2026_11_13_HAVROUTA_ISRAEL_LE_MYSTERE_D_UNE_ETERNITE_REVELEE_PART_II.mp3"
+    },
+    {
       "titre": "Israël : le mystère d’une éternité révélée Partie 1",
-      "date": "2026-11-06"
+      "date": "2026-11-06",
+      "audio": "http://audio-rcj.s3.eu-west-1.amazonaws.com/00-2026-11/2026_11_06_HAVROUTA_ISRAEL_LE_MYSTERE_D_UNE_ETERNITE_REVELEE_PART_I.mp3"
     },
     {
       "titre": "Le secret du berger Partie 4",
-      "date": "2026-10-30"
+      "date": "2026-10-30",
+      "audio": "http://audio-rcj.s3.eu-west-1.amazonaws.com/00-2026-10/2026_10_30_HAVROUTA_LE_SECRET_DU_BERGER_PART_4.mp3"
     },
     {
       "titre": "Le secret du berger Partie 3",
-      "date": "2026-10-23"
-    },
-    {
-      "titre": "Le secret du berger Partie 2",
-      "date": "2026-10-16"
-    },
-    {
-      "titre": "Le secret du berger Partie 1",
-      "date": "2026-10-09"
+      "date": "2026-10-23",
+      "audio": "http://audio-rcj.s3.eu-west-1.amazonaws.com/00-2026-10/2026_10_23_HAVROUTA_LE_SECRET_DU_BERGER_PART_3.mp3"
     }
   ],
-  "derniere_activite": "2026-11-06",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 7
 }

@@ -26,25 +26,29 @@
   ],
   "updatedAt": "2026-11-24",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-26",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-25",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "sablles d'or",
+        "titre": "Belle découverte de l’été 2020",
+        "texte": "Bonjour Monsieur Sureau, en cet été bizarre j’écoute beaucoup de podcasts et j’ai découvert le votre avec délice. Votre érudition sans pédanterie, votre humanité et humanisme, votre capacité à faire jouer l’imagination pour faire voir ce que vous évoquez et votre humour pince san…"
+      },
+      {
+        "note": 5,
+        "auteur": "isabel.voyage",
+        "titre": "Hypnotisant",
+        "texte": "Cher Monsieur, je passe l’été avec vous, écoutant et réécoutant vos étapes le long de la Seine, au travers de la littérature et des guerres. Sitôt revenue à Paris je chercherai votre livre.…"
+      },
+      {
+        "note": 5,
+        "auteur": "philippe 3334",
+        "titre": "Trou de mémoire",
+        "texte": "Cher François Sureau, Je suis impressionné par votre mémoire et le plus souvent par votre immense culture. Je me permets une petite rectification la date du suicide de Zweig est en 42 et non pas en 40. Les raisons sont également plus complexes.…"
+      }
     ]
   }
 }

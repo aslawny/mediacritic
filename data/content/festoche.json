@@ -30,26 +30,36 @@
   "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
-      "titre": "Festival de la Paille",
-      "date": "2026-07-07"
+      "titre": "Fédération De Concert ! Le bilan de la saison.",
+      "date": "2026-11-16",
+      "audio": "https://sphinx.acast.com/p/open/s/6815dd84f7d552efdc25cc7b/e/6af9da47a1816a5896b0a5a5/media.mp3",
+      "duree": 3884
+    },
+    {
+      "titre": "Festival de la Paille. La dernière édition (de légende)",
+      "date": "2026-07-07",
+      "audio": "https://sphinx.acast.com/p/open/s/6815dd84f7d552efdc25cc7b/e/6a4bed9b01771200e4c696fe/media.mp3",
+      "duree": 3224
     },
     {
       "titre": "Francofolies. 41 éditions de folies.",
-      "date": "2026-06-18"
+      "date": "2026-06-18",
+      "audio": "https://sphinx.acast.com/p/open/s/6815dd84f7d552efdc25cc7b/e/6a33a4df6f10a1d7dc32e845/media.mp3",
+      "duree": 3670
     },
     {
       "titre": "Marsatac. Planète Marseille.",
-      "date": "2026-05-19"
+      "date": "2026-05-19",
+      "audio": "https://sphinx.acast.com/p/open/s/6815dd84f7d552efdc25cc7b/e/6a0b699aa9d7442983961ba3/media.mp3",
+      "duree": 3043
     },
     {
       "titre": "Eurockéennes. Dernier train pour les Eurocks.",
-      "date": "2025-09-11"
-    },
-    {
-      "titre": "Eurockéennes. Le Combat (rock) des chefs.",
-      "date": "2025-08-21"
+      "date": "2025-09-11",
+      "audio": "https://sphinx.acast.com/p/open/s/6815dd84f7d552efdc25cc7b/e/68b6a1efa09b86ecfa83538d/media.mp3",
+      "duree": 1871
     }
   ],
-  "derniere_activite": "2026-07-07",
+  "derniere_activite": "2026-11-16",
   "frequence_jours": 27
 }

@@ -29,23 +29,33 @@
   "episodes_recents": [
     {
       "titre": "Voir l'intelligence des enfants avec Olivier Houdé",
-      "date": "2026-10-23"
+      "date": "2026-10-23",
+      "audio": "https://api.podcasts.institutdefrance.fr/sites/default/files/audios/SV96bis.mp3",
+      "duree": 2364
     },
     {
       "titre": "De la physique quantique à l'Académie française - avec Alain Aspect, Prix Nobel de physique",
-      "date": "2026-06-11"
+      "date": "2026-06-11",
+      "audio": "https://api.podcasts.institutdefrance.fr/sites/default/files/audios/SV85.mp3",
+      "duree": 2841
     },
     {
       "titre": "Rester fidèle à ses rêves de jeunesse avec Daniel Rondeau",
-      "date": "2026-05-12"
+      "date": "2026-05-12",
+      "audio": "https://api.podcasts.institutdefrance.fr/sites/default/files/audios/SV83Bis.mp3",
+      "duree": 2034
     },
     {
       "titre": "La magie de peindre avec Nina Childress",
-      "date": "2026-04-17"
+      "date": "2026-04-17",
+      "audio": "https://api.podcasts.institutdefrance.fr/sites/default/files/audios/SV78bis.mp3",
+      "duree": 2429
     },
     {
       "titre": "Comprendre les civilisations par les langues avec Jean-Noël Robert",
-      "date": "2026-03-31"
+      "date": "2026-03-31",
+      "audio": "https://api.podcasts.institutdefrance.fr/sites/default/files/audios/SV75.mp3",
+      "duree": 1727
     }
   ],
   "derniere_activite": "2026-10-23",

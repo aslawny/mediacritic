@@ -27,26 +27,36 @@
   "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Zone Insolite - 21 novembre 2026",
+      "date": "2026-11-21",
+      "audio": "https://sphinx.acast.com/p/open/s/629bed82841f1b0012c5c8ee/e/6b0209dc4f7f96174d305946/media.mp3",
+      "duree": 4613
+    },
+    {
+      "titre": "Zone Insolite - 14 novembre 2026",
+      "date": "2026-11-14",
+      "audio": "https://sphinx.acast.com/p/open/s/629bed82841f1b0012c5c8ee/e/6af8cf64cc8db260abda41b7/media.mp3",
+      "duree": 4625
+    },
+    {
       "titre": "Zone Insolite - 7 novembre 2026",
-      "date": "2026-11-07"
+      "date": "2026-11-07",
+      "audio": "https://sphinx.acast.com/p/open/s/629bed82841f1b0012c5c8ee/e/6aef94e697f44ee2485b7989/media.mp3",
+      "duree": 4454
     },
     {
       "titre": "Zone Insolite du 31 octobre 2026",
-      "date": "2026-10-31"
+      "date": "2026-10-31",
+      "audio": "https://sphinx.acast.com/p/open/s/629bed82841f1b0012c5c8ee/e/6ae64da47f979512c132d3ee/media.mp3",
+      "duree": 7198
     },
     {
       "titre": "Zone Insolite du 24 octobre 2026",
-      "date": "2026-10-24"
-    },
-    {
-      "titre": "Zone Insolite du 17 octobre 2026",
-      "date": "2026-10-17"
-    },
-    {
-      "titre": "Zone Insolite - 10 octobre 2026",
-      "date": "2026-10-10"
+      "date": "2026-10-24",
+      "audio": "https://sphinx.acast.com/p/open/s/629bed82841f1b0012c5c8ee/e/6add131bd39b76001f6003a4/media.mp3",
+      "duree": 7198
     }
   ],
-  "derniere_activite": "2026-11-07",
-  "frequence_jours": 7
+  "derniere_activite": "2026-11-21",
+  "frequence_jours": 6
 }

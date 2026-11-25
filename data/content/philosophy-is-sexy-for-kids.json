@@ -61,25 +61,23 @@
   "derniere_activite": "2026-06-16",
   "frequence_jours": 37,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-26",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-25",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "CaroCamilo",
+        "titre": "Wouaaah, quelle merveille, ce podcast",
+        "texte": "Wouaaah, quelle merveille, ce podcast ! 😍✨ Vivement la suite, avec plein de nouveaux épisodes pour que les enfants (et les grands enfants aussi !) puissent continuer à en profiter ! ❤️"
+      },
+      {
+        "note": 5,
+        "auteur": "Kakkounette",
+        "titre": "Lumineux et emprunt de douceur",
+        "texte": "Super podcast que j’ai hâte de faire découvrir à mes fils. Merci Marie et longue vie à Philosophy is sexy pour petits et grands !"
+      }
     ]
   }
 }

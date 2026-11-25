@@ -59,5 +59,31 @@
     }
   ],
   "derniere_activite": "2026-11-20",
-  "frequence_jours": 5
+  "frequence_jours": 5,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-25",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "PixiDark 🥨👑",
+        "titre": "Salutations",
+        "texte": "J’apprécie beaucoup ce podcast je le trouve vraiment intéressant les épisodes stranger things sont bien expliqué je trouve ce podcast incroyable Cordialement : Henry Creel"
+      },
+      {
+        "note": 5,
+        "auteur": "IDG_Gorgone",
+        "titre": "Stranger things",
+        "texte": "Un opus sur the first shadow ou la 2e saison des chroniques de 85 stp"
+      },
+      {
+        "note": 5,
+        "auteur": "FanJohnCena",
+        "titre": "Trop bien",
+        "texte": "Ça fait environ 3 ans que j’ecoute ce podcaste et c’est encore mieux"
+      }
+    ]
+  }
 }

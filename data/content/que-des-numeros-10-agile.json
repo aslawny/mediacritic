@@ -63,25 +63,29 @@
   "derniere_activite": "2026-10-06",
   "frequence_jours": 41,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-26",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-25",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "les loustics",
+        "titre": "Au top !",
+        "texte": "Christophe CHENE nous plonge dans l'univers de l'Agilité avec une passion et une expertise contagieuses. Chaque épisode est une mine d'or pour quiconque souhaite bâtir une équipe performante, résiliente et humaine.…"
+      },
+      {
+        "note": 5,
+        "auteur": "RévolutionRespiration",
+        "titre": "Enfin de l’Agile pour de vrai !",
+        "texte": "Honnêtement, j’ai perdu espoir… Jusqu’à rencontrer Christophe Chene Avec lui, l’Agile redevient possible, et les processus n’ont qu’à bien se tenir. Merci pour cette qualité, merci de remettre les choses à plat et de nous les expliquer simplement 💫🙏"
+      },
+      {
+        "note": 5,
+        "auteur": "laurineblandin",
+        "titre": "Podcast canon",
+        "texte": "Les invités sont tops, leurs conseils claires et applicables. Je recommande son écoute à toutes les personnes ayant eu un jour une personne à charge en entreprise ! Ah oui et aussi : l’ambiance des épisodes est trop cool !"
+      }
     ]
   }
 }

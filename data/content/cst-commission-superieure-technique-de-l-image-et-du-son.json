@@ -30,26 +30,36 @@
   "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "[ConversationS Techniques] Un bon petit soldat - Antoine Héberlé - Directeur de la photographie",
+      "date": "2026-11-20",
+      "audio": "https://sphinx.acast.com/p/open/s/62a9eb68bb5fb1001203ca01/e/6afdb799a057dc83f036faf0/media.mp3",
+      "duree": 817
+    },
+    {
       "titre": "[ConversationS Techniques] L’Âge d’or - Bérenger Thouin - Réalisateur",
-      "date": "2026-11-09"
+      "date": "2026-11-09",
+      "audio": "https://sphinx.acast.com/p/open/s/62a9eb68bb5fb1001203ca01/e/6ae863e5c89efe5866187aa4/media.mp3",
+      "duree": 859
     },
     {
       "titre": "[Journée CST] HDR dynamique et NGA en direct : promesses, défis et retours d’expérience",
-      "date": "2026-11-06"
+      "date": "2026-11-06",
+      "audio": "https://sphinx.acast.com/p/open/s/62a9eb68bb5fb1001203ca01/e/6aecade63be80be7f3ad0140/media.mp3",
+      "duree": 3679
     },
     {
       "titre": "[Journée CST] L’IP dans la production live : Update IPMX et notion de secours / redondance",
-      "date": "2026-11-06"
+      "date": "2026-11-06",
+      "audio": "https://sphinx.acast.com/p/open/s/62a9eb68bb5fb1001203ca01/e/6aecad943be80be7f3acd438/media.mp3",
+      "duree": 3951
     },
     {
       "titre": "[Journée CST] Sous-titrage accessible en temps réel par IA éco-souverain et protocole IP 2110-43",
-      "date": "2026-11-06"
-    },
-    {
-      "titre": "[Journée CST] \"Le département Broadcast de la CST fête ses 3 ans\" suivi de \"Supervision et contrôle de la 211",
-      "date": "2026-11-06"
+      "date": "2026-11-06",
+      "audio": "https://sphinx.acast.com/p/open/s/62a9eb68bb5fb1001203ca01/e/6aecad3b4cac7bbabb118ca2/media.mp3",
+      "duree": 2838
     }
   ],
-  "derniere_activite": "2026-11-09",
-  "frequence_jours": 2
+  "derniere_activite": "2026-11-20",
+  "frequence_jours": 3
 }

@@ -28,23 +28,33 @@
   "episodes_recents": [
     {
       "titre": "« C'est la première fois que j'ai eu peur d'être juive », Leslie, 41 ans",
-      "date": "2024-07-23"
+      "date": "2024-07-23",
+      "audio": "https://api.spreaker.com/download/episode/60774650/landr_leslie_crif_1_balanced_medium.mp3",
+      "duree": 368
     },
     {
       "titre": "« Je suis croyante donc je ne cherche pas la protection d'un lieu ou d'un pays », Haya, 35 ans",
-      "date": "2024-07-23"
+      "date": "2024-07-23",
+      "audio": "https://api.spreaker.com/download/episode/60774649/landr_haya_crif_balanced_medium.mp3",
+      "duree": 550
     },
     {
       "titre": "« Depuis le 7 octobre, j'ai un sentiment de solitude », Vanessa, 43 ans",
-      "date": "2024-07-23"
+      "date": "2024-07-23",
+      "audio": "https://api.spreaker.com/download/episode/60774648/landr_vanessa_crif_balanced_medium.mp3",
+      "duree": 338
     },
     {
       "titre": "« Je cache mon identité juive alors que je me sens française », Charlotte, 40 ans",
-      "date": "2024-07-16"
+      "date": "2024-07-16",
+      "audio": "https://api.spreaker.com/download/episode/60706004/landr_charolte_crif_balanced_medium.mp3",
+      "duree": 510
     },
     {
       "titre": "« J'ai plus de mal à me projeter en France en tant que juive », Sarah, 31 ans",
-      "date": "2024-07-16"
+      "date": "2024-07-16",
+      "audio": "https://api.spreaker.com/download/episode/60706003/landr_sarah_crif_balanced_medium.mp3",
+      "duree": 354
     }
   ],
   "derniere_activite": "2024-07-23",

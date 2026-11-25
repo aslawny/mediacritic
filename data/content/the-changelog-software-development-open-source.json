@@ -28,26 +28,36 @@
   "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Warp bets on the software factory (Interview)",
+      "date": "2026-11-24",
+      "audio": "https://op3.dev/e/https://pscrb.fm/rss/p/https://cdn.changelog.com/uploads/podcast/693/the-changelog-693.mp3",
+      "duree": 6481
+    },
+    {
+      "titre": "A seminal moment in computing (Interview)",
+      "date": "2026-11-20",
+      "audio": "https://op3.dev/e/https://pscrb.fm/rss/p/https://cdn.changelog.com/uploads/podcast/692/the-changelog-692.mp3",
+      "duree": 4396
+    },
+    {
+      "titre": "Orbin' with Amp (Interview)",
+      "date": "2026-11-18",
+      "audio": "https://op3.dev/e/https://pscrb.fm/rss/p/https://cdn.changelog.com/uploads/podcast/691/the-changelog-691.mp3",
+      "duree": 5062
+    },
+    {
+      "titre": "All your packages are belong to us (Interview)",
+      "date": "2026-11-13",
+      "audio": "https://op3.dev/e/https://pscrb.fm/rss/p/https://cdn.changelog.com/uploads/podcast/690/the-changelog-690.mp3",
+      "duree": 8381
+    },
+    {
       "titre": "We now have Kerr’s Law (Interview)",
-      "date": "2026-11-04"
-    },
-    {
-      "titre": "The future is Postgres (Interview)",
-      "date": "2026-10-28"
-    },
-    {
-      "titre": "Building what's next (Interview)",
-      "date": "2026-10-22"
-    },
-    {
-      "titre": "From zero to NanoClaw (Interview)",
-      "date": "2026-10-09"
-    },
-    {
-      "titre": "Forking Cal.com to closed source (Interview)",
-      "date": "2026-09-03"
+      "date": "2026-11-04",
+      "audio": "https://op3.dev/e/https://pscrb.fm/rss/p/https://cdn.changelog.com/uploads/podcast/689/the-changelog-689.mp3",
+      "duree": 8824
     }
   ],
-  "derniere_activite": "2026-11-04",
-  "frequence_jours": 12
+  "derniere_activite": "2026-11-24",
+  "frequence_jours": 8
 }

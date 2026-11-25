@@ -29,26 +29,36 @@
   "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "S2E7 - Silicone Carné",
+      "date": "2026-11-22",
+      "audio": "https://sphinx.acast.com/p/open/s/68fce75ddeee754a72344a77/e/6b024754c2063ef630d147e8/media.mp3",
+      "duree": 3748
+    },
+    {
+      "titre": "S2E6 - Noyé de Toi",
+      "date": "2026-11-15",
+      "audio": "https://sphinx.acast.com/p/open/s/68fce75ddeee754a72344a77/e/6af98ad09d9936aaace70178/media.mp3",
+      "duree": 3152
+    },
+    {
       "titre": "S2E5 - Live au Patio Fest (ft. Dweezil)",
-      "date": "2026-11-01"
+      "date": "2026-11-01",
+      "audio": "https://sphinx.acast.com/p/open/s/68fce75ddeee754a72344a77/e/6ae70ae6f6b38070e2c730c9/media.mp3",
+      "duree": 3776
     },
     {
       "titre": "S2E4 - Date Bò Bún",
-      "date": "2026-10-18"
+      "date": "2026-10-18",
+      "audio": "https://sphinx.acast.com/p/open/s/68fce75ddeee754a72344a77/e/6ad245b265f99a36ebbdcefc/media.mp3",
+      "duree": 5053
     },
     {
       "titre": "S2E3 - Ma soeur s'appelle Manon",
-      "date": "2026-10-11"
-    },
-    {
-      "titre": "S2E2 - Mojito à l'Anis",
-      "date": "2026-10-04"
-    },
-    {
-      "titre": "S2E1 - Percuté par un Bouc",
-      "date": "2026-09-27"
+      "date": "2026-10-11",
+      "audio": "https://sphinx.acast.com/p/open/s/68fce75ddeee754a72344a77/e/6acb41c929b9fbfbe219a252/media.mp3",
+      "duree": 4550
     }
   ],
-  "derniere_activite": "2026-11-01",
-  "frequence_jours": 13
+  "derniere_activite": "2026-11-22",
+  "frequence_jours": 7
 }

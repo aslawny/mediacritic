@@ -60,25 +60,29 @@
   "derniere_activite": "2026-11-12",
   "frequence_jours": 6,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-26",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-25",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Pierre PL Com & Law",
+        "titre": "Podcast Marketing & Influence",
+        "texte": "Bravo à Cyril Attias pour le lancement de ce podcast Marketing & Influence ! Grande qualité des contenus et des thématiques abordés. Les intervenants prennent le temps d’expliquer leur stratégie et leur vision du marketing d’influence & du social média.…"
+      },
+      {
+        "note": 5,
+        "auteur": "SandrineS82",
+        "titre": "L’influence vue de l’intérieur : top",
+        "texte": "Que ce soit intervention de marques ou de créateurs de contenu, ce podcast est super pour avoir des avis de personnes du milieu ! C’est un vrai plaisir d’écouter chaque intervenant et bravo à Cyril pour ce podcast, cette bienveillance et l’écoute dont il fait preuve envers chaque…"
+      },
+      {
+        "note": 5,
+        "auteur": "David.brach",
+        "titre": "Super podcast !",
+        "texte": "Je connais Cyril depuis de nombreuses années. Il est celui qui a toujours un coup d’avance dans le métier de la communication (réseaux sociaux, influenceurs, digital, etc.). Il est très professionnel et toujours à l’écoute des autres.…"
+      }
     ]
   }
 }

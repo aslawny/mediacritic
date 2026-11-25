@@ -60,25 +60,29 @@
   "derniere_activite": "2024-06-09",
   "frequence_jours": 51,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-26",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-25",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "louis266",
+        "titre": "Un formidable voyage",
+        "texte": "Ces podcasts m'ont beaucoup apporté aussi bien dans ma vie professionnelle que personnelle, En effet depuis que j'ai ecouté ces podcasts (depuis 45 jours) J'ai : - fondé ma propre societe qui a deja generé 35k de CA -quitté ma femme qui etait veritablement toxique pour ma progres…"
+      },
+      {
+        "note": 5,
+        "auteur": "Mac_Sence",
+        "titre": "Génial!",
+        "texte": "Épisodes précis et concis! Les sujets abordés sont vraiment intéressants et de expliqués d’une manière très pédagogue. Le format permet de les écouter quand on a un petit temps de libre, comme dans les transports en commun.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Lelenaz",
+        "titre": "Podcast pépite à écouter",
+        "texte": "Libre et productif est un podcast hyper enrichissant pour apprendre à devenir indépendante. Théo nous partage plusieurs fois par semaine ses expériences et ses ressentis à travers des épisodes courts mais pleins de tips! A écouter pour toutes les personnes qui veulent entreprendr…"
+      }
     ]
   }
 }

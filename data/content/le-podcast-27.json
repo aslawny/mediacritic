@@ -60,5 +60,31 @@
     }
   ],
   "derniere_activite": "2023-08-31",
-  "frequence_jours": 4
+  "frequence_jours": 4,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-25",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "nhaffad",
+        "titre": "Authenticité garantie",
+        "texte": "J’ai écouté le premier podcast, c’est authentique, on rentre dans l’intimité de l’invité et on mesure le chemin parcouru, le prix payé et des enseignements pertinents à en garder …on sent la volonté de vrai, d’authenticité dans l’échange et dans l’approche de questionnement pour…"
+      },
+      {
+        "note": 5,
+        "auteur": "Infifolini",
+        "titre": "Sissi",
+        "texte": "A quand le prochain épisode !!!… Enfin un podcast marocain qui nous parle !!! Avec la finesse et la justesse d’une grande dame qui allie recul, discrétion et bienveillance !!!"
+      },
+      {
+        "note": 5,
+        "auteur": "nicolas rabat",
+        "titre": "Une inspiration pour tous",
+        "texte": "Une leçon de vie qui devrait inciter tout un chacun a ne jamais baisser les bras et a toujours regarder devant"
+      }
+    ]
+  }
 }

@@ -62,25 +62,23 @@
   "derniere_activite": "2026-11-22",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-26",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-25",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Quelqu1_",
+        "titre": "In love",
+        "texte": "La même vibe que « Hot Girls Only » je trouve, continuez jvous aimes"
+      },
+      {
+        "note": 4,
+        "auteur": "Brune69",
+        "titre": "Chouette podcast",
+        "texte": "Du contenu de qualité sous une forme un peu moins formelle. (Mais svp les filles investissez dans un vrai micro 🥹)"
+      }
     ]
   }
 }

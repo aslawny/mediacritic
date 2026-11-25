@@ -29,23 +29,33 @@
   "episodes_recents": [
     {
       "titre": "SAGA STAR WARS | May The 4th Be With You",
-      "date": "2019-05-04"
+      "date": "2019-05-04",
+      "audio": "https://api.spreaker.com/download/episode/17833158/dossier_star_wars_l_univers_etendu_1_re_partie_films_s_ries_tv.mp3",
+      "duree": 435
     },
     {
       "titre": "DOSSIER STAR WARS - LES ACTEURS DE LA SAGA - 2ème Partie - TRILOGIE 1999-2005",
-      "date": "2019-04-23"
+      "date": "2019-04-23",
+      "audio": "https://api.spreaker.com/download/episode/17721065/dossier_star_wars_les_acteurs_de_la_saga_2_me_partie_trilogie_1999_2005.mp3",
+      "duree": 285
     },
     {
       "titre": "SAGA STAR WARS #15 | Les acteurs de la Saga - 1ère Partie",
-      "date": "2018-12-06"
+      "date": "2018-12-06",
+      "audio": "https://api.spreaker.com/download/episode/17655497/5c091a379a6d8e181462cd38.mp3",
+      "duree": 346
     },
     {
       "titre": "SAGA STAR WARS #14 | LA MUSIQUE DU FILM DU COMPOSITEUR JOHN WILLIAMS",
-      "date": "2018-10-04"
+      "date": "2018-10-04",
+      "audio": "https://api.spreaker.com/download/episode/17655499/5bb6218e1c61b9b147f095c5.mp3",
+      "duree": 319
     },
     {
       "titre": "SAGA STAR WARS #13 - LA REVANCHE DES SITH - EPISODE 3",
-      "date": "2018-09-20"
+      "date": "2018-09-20",
+      "audio": "https://api.spreaker.com/download/episode/17655500/5ba36d714c11466b37d946f4.mp3",
+      "duree": 237
     }
   ],
   "derniere_activite": "2019-05-04",

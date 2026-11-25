@@ -1,0 +1,65 @@
+{
+  "slug": "ai4md-comprendre-l-ia-en-sante",
+  "title": "AI4MD — Comprendre l’IA en santé",
+  "author": "KOL Conseil · AI4MD",
+  "type": "podcast",
+  "categories": [
+    "sante",
+    "sciences",
+    "bien-etre"
+  ],
+  "description": "Comprendre l’intelligence artificielle en santé, un cas fictif à la fois. Radiologie, oncologie, radiothérapie : ces podcasts courts explorent les modèles, les hallucinations, les données de santé et la supervision humaine. Chaque épisode invite à vérifier une réponse et à poser une question concrète. Une série AI4MD par KOL Conseil, à écouter avec ses textes et ses sources sur ai4md.net/podcasts/fr/. Formation générale, sans avis médical individuel. Voix synthétiques.",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6a/58/d8/6a58d87d-444c-f253-11c1-3e948cff40f0/mza_6034591491242323719.jpg/600x600bb.jpg",
+  "language": "fr",
+  "platforms": {
+    "apple": {
+      "url": "https://podcasts.apple.com/fr/podcast/ai4md-comprendre-lia-en-sant%C3%A9/id6832717463?uo=4",
+      "trackId": 6832717463,
+      "rating": null,
+      "ratingCount": null,
+      "episodeCount": 50
+    }
+  },
+  "mediacritic": null,
+  "tags": [
+    "sante",
+    "sciences",
+    "bien-etre"
+  ],
+  "addedAt": "2026-11-25",
+  "updatedAt": "2026-11-25",
+  "episodes_recents": [
+    {
+      "titre": "IA en imagerie médicale",
+      "date": "2026-05-07",
+      "audio": "https://ai4md.net/podcasts/fr/media/s1e1-quest-ce-que-ia.mp3?v=google-female-20261112",
+      "duree": 60
+    },
+    {
+      "titre": "Apprentissage automatique en santé",
+      "date": "2026-05-07",
+      "audio": "https://ai4md.net/podcasts/fr/media/s1e2-familles-ia-apprentissage.mp3?v=google-female-20261112",
+      "duree": 61
+    },
+    {
+      "titre": "Usages de l’IA en radiologie",
+      "date": "2026-05-07",
+      "audio": "https://ai4md.net/podcasts/fr/media/s1e3-applications-professionnelles.mp3?v=google-female-20261112",
+      "duree": 59
+    },
+    {
+      "titre": "Supervision humaine de l’IA médicale",
+      "date": "2026-05-07",
+      "audio": "https://ai4md.net/podcasts/fr/media/s1e4-limites-responsabilite.mp3?v=google-female-20261112",
+      "duree": 63
+    },
+    {
+      "titre": "Mathématiques de l’IA médicale",
+      "date": "2026-05-07",
+      "audio": "https://ai4md.net/podcasts/fr/media/special-grands-mathematiciens-ia.mp3?v=google-female-20261112",
+      "duree": 61
+    }
+  ],
+  "derniere_activite": "2026-05-07",
+  "frequence_jours": 0
+}

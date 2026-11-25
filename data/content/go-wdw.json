@@ -62,25 +62,29 @@
   "derniere_activite": "2026-11-21",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-26",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-25",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "olimado0212",
+        "titre": "Une pépite",
+        "texte": "Merci pour ce nouveau podcast ! D’une parce que je suis trop heureuse d‘avoir un autre podcast à écouter en plus de Rien que d‘y penser et MSA (merci à Olivier pour la recommandation d’ailleurs !) et aussi parce que je vous trouve super à l’aise et pro pour des «novices».…"
+      },
+      {
+        "note": 2,
+        "auteur": "FloweRomane",
+        "titre": "Super podcast pour WDW mais stop la promo de SeaWorld",
+        "texte": "Podcast complet pour organiser son séjour à disney world, vraiment interessant et presque indispensable mais vraiment déçue de votre mise en avant pour des parcs tel que SeaWorld… 🤮🤮 Vous dites qu’ils sont basés sur l’ecologie et sauvegarde des espèces… c’est faux c’est juste pou…"
+      },
+      {
+        "note": 5,
+        "auteur": "Dear Gus 83",
+        "titre": "Mon podcast préféré",
+        "texte": "Un présentateur super sympathique, des invités drôles et compétents sur le sujet, c’est un vrai moment de bonheur à chaque fois qu’un nouvel épisode sort! On se croirait presque en famille. Bravo pour la qualité de ce podcast et merci à vous"
+      }
     ]
   }
 }

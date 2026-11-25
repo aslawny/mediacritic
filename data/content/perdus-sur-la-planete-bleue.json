@@ -62,25 +62,29 @@
   "derniere_activite": "2026-07-07",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-26",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-25",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "g42025",
+        "titre": "Super",
+        "texte": "J’adore les aventures de frope et zilou c’est super c’est la troisième fois que j’écoute les 10 épisodes"
+      },
+      {
+        "note": 1,
+        "auteur": "Moooouuuujjjjjjooooppppppppppo",
+        "titre": "Ça sert à rien",
+        "texte": "C’est nul on s’ennuie tout le temps faut le dire en même temps après on s’ennuie ça fait pas rigoler c’est pas drôle on, on s’ennuie c’est nul, on est un peu, on est dérouté par ce que ça donne et bah on s’ennuie quoi ça nous endort limite tellement c’est nul Bref c’est bof, bof,…"
+      },
+      {
+        "note": 4,
+        "auteur": "Sharnaaalk ❤️",
+        "titre": "😝",
+        "texte": "C’est super mais il pourrait y avoir plus d’action sinon ça va 🙃"
+      }
     ]
   }
 }

@@ -29,23 +29,33 @@
   "episodes_recents": [
     {
       "titre": "Bande annonce - Entendre le théâtre",
-      "date": "2020-02-21"
+      "date": "2020-02-21",
+      "audio": "http://itunesu.bnf.fr/itunesu/medias/medias/ELT-EP 0-bande_annonce.mp3",
+      "duree": 157
     },
     {
       "titre": "Exposer la science",
-      "date": "2018-06-29"
+      "date": "2018-06-29",
+      "audio": "http://itunesu.bnf.fr/itunesu/medias/cn_20170523_ touslessavoirs.mp3",
+      "duree": 5520
     },
     {
       "titre": "Les sciences à travers le spectacle vivant",
-      "date": "2018-06-29"
+      "date": "2018-06-29",
+      "audio": "http://itunesu.bnf.fr/itunesu/medias/cn_20170516_ touslessavoirs.mp3",
+      "duree": 4380
     },
     {
       "titre": "Le livre de vulgarisation scientifique pour enfants",
-      "date": "2018-06-29"
+      "date": "2018-06-29",
+      "audio": "http://itunesu.bnf.fr/itunesu/medias/cn_20170509_ touslessavoirs.mp3",
+      "duree": 4200
     },
     {
       "titre": "Le journalisme de vulgarisation scientifique",
-      "date": "2018-06-29"
+      "date": "2018-06-29",
+      "audio": "http://itunesu.bnf.fr/itunesu/medias/cn_20170502_ touslessavoirs.mp3",
+      "duree": 3900
     }
   ],
   "derniere_activite": "2020-02-21",

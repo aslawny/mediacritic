@@ -62,25 +62,29 @@
   "derniere_activite": "2026-11-22",
   "frequence_jours": 6,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-26",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-25",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ultrawerk",
+        "titre": "Très professionnel et convivial",
+        "texte": "Un Podcasts, très bien réalisé sur les nouvelles technologies pour les personnes aveugles et malvoyantes. Beaucoup d’informations, des tutoriel, des astuces. Très bien documenté et très bien réalisé. L’équipe est super sympa. Et ça dure depuis plus de 10 ans maintenant."
+      },
+      {
+        "note": 5,
+        "auteur": "cedric dartigues",
+        "titre": "Félicitations.",
+        "texte": "Merci pour tous ces podcasts et bon anniversaire à Oxytude. Ça fait plaisir d’entendre Sofian et Christelle ensemble. Ça rappelle des souvenirs il y a très longtemps. Bonne continuation à tous."
+      },
+      {
+        "note": 5,
+        "auteur": "iSofquipeut",
+        "titre": "Un rendez-vous hebdomadaire très sympa à écouter",
+        "texte": "L’actualité traitée de manière très conviviale et dynamique avec des gens qui savent de quoi il parle. Vraiment bien un rendez-vous que je ne rate plus."
+      }
     ]
   }
 }

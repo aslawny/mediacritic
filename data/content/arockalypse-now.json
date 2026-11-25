@@ -28,26 +28,36 @@
   "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "X-Men : Apocalypse & Sweet Dreams d'Eurythmics, Metallica 181126",
+      "date": "2026-11-18",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2930615.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 438
+    },
+    {
       "titre": "Contre toute attente & Against All Odds de Phil Collins - 041126",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2818752.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 379
     },
     {
       "titre": "Twilight & Muse, Paramore - 141026",
-      "date": "2026-10-14"
+      "date": "2026-10-14",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2808073.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 553
     },
     {
       "titre": "Le Silence des agneaux & American Girl de Tom Petty - 300926",
-      "date": "2026-09-30"
+      "date": "2026-09-30",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2773892.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 421
     },
     {
       "titre": "Springsteen : Deliver Me From Nowhere & Born to Run, Atlantic City",
-      "date": "2026-09-16"
-    },
-    {
-      "titre": "Spinal Tap & Heartbrake Hotel d'Elvis Presley - 02092026",
-      "date": "2026-08-25"
+      "date": "2026-09-16",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2745117.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 386
     }
   ],
-  "derniere_activite": "2026-11-04",
+  "derniere_activite": "2026-11-18",
   "frequence_jours": 14
 }

@@ -27,23 +27,33 @@
   "episodes_recents": [
     {
       "titre": "INTERVIEW YADLEY - 20/12/2025",
-      "date": "2025-12-23"
+      "date": "2025-12-23",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2226983.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 611
     },
     {
       "titre": "Interview de Théodora - 13/12/2025",
-      "date": "2025-12-17"
+      "date": "2025-12-17",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2215421.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 1036
     },
     {
       "titre": "Interview Monsieur Nov - 03/12/2025",
-      "date": "2025-12-17"
+      "date": "2025-12-17",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2215361.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 2181
     },
     {
       "titre": "Interview et live de TUERIE - 29/11/25",
-      "date": "2025-11-29"
+      "date": "2025-11-29",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1976951.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 3678
     },
     {
       "titre": "Interview et live de D2L - 15/11/25",
-      "date": "2025-11-15"
+      "date": "2025-11-15",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1877370.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 2723
     }
   ],
   "derniere_activite": "2025-12-23",

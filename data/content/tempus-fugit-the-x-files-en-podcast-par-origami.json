@@ -28,9 +28,17 @@
   "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Épisode 2 : L'identité X-Files",
+      "date": "2026-11-19",
+      "audio": "https://sphinx.acast.com/p/open/s/6accf7a19fea6e0a64ba586a/e/6afee4b73c298292f3c7b514/media.mp3",
+      "duree": 6625
+    },
+    {
       "titre": "Épisode 1 : X-Files, anatomie d'une série culte",
-      "date": "2026-10-13"
+      "date": "2026-10-13",
+      "audio": "https://sphinx.acast.com/p/open/s/6accf7a19fea6e0a64ba586a/e/6acd02acf38f25c0f0ff9c10/media.mp3",
+      "duree": 12717
     }
   ],
-  "derniere_activite": "2026-10-13"
+  "derniere_activite": "2026-11-19"
 }

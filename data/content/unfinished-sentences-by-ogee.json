@@ -62,25 +62,29 @@
   "derniere_activite": "2026-11-04",
   "frequence_jours": 29,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-26",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-25",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lolie Lopez",
+        "titre": "Thank u Ogee",
+        "texte": "Merci de nous livrer ton histoire, les leçons et la philosophie que tu as pu en tirer. C’était intense et dur à écouter mais nécessaire parce que on se rend compte que nous sommes toutes des victimes des hommes et du patriarcat.…"
+      },
+      {
+        "note": 5,
+        "auteur": "enlevez la maj",
+        "titre": "Merci",
+        "texte": "Merci pour ce podcast, je suis en plein de dedans, tout ce que tu as dis j’ai l’impression de le vivre et ça m’a fait un bien fou.. merci"
+      },
+      {
+        "note": 5,
+        "auteur": "Lesliezee3",
+        "titre": "D’utilité publique 🩷",
+        "texte": "Sincère, touchant, utile et absolument addictif. Le seul podcast dans lequel je me retrouve VRAIMENT. Avec Ogee, pas de non-dits 🙏"
+      }
     ]
   }
 }

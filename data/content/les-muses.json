@@ -30,23 +30,33 @@
   "episodes_recents": [
     {
       "titre": "Chaiyna alias HoneyShay : Née sans modèle, devenue référence",
-      "date": "2025-06-25"
+      "date": "2025-06-25",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1996669.mp3?origin=rss",
+      "duree": 2076
     },
     {
       "titre": "Kathy Dufour : Une fente qui sépare, La foi qui répare",
-      "date": "2025-06-24"
+      "date": "2025-06-24",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1996676.mp3?origin=rss",
+      "duree": 1942
     },
     {
       "titre": "Zaoidi Aboudou : Elle n’avait pas prévu d’être choisie",
-      "date": "2025-06-23"
+      "date": "2025-06-23",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1996679.mp3?origin=rss",
+      "duree": 2010
     },
     {
       "titre": "Zily Hamida : Quand la voix devient destin",
-      "date": "2025-06-20"
+      "date": "2025-06-20",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1996681.mp3?origin=rss",
+      "duree": 2058
     },
     {
       "titre": "Anne-Laure Florentin : Quand le combat change de forme",
-      "date": "2025-06-19"
+      "date": "2025-06-19",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1996683.mp3?origin=rss",
+      "duree": 2062
     }
   ],
   "derniere_activite": "2025-06-25",

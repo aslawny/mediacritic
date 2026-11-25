@@ -63,25 +63,29 @@
   "derniere_activite": "2025-04-08",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-26",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-25",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "No-relie",
+        "titre": "Super enrichissant",
+        "texte": "Je n’avais jamais vraiment pris le temps de m’interroger sur la place que prenait l’argent dans ma vie, jusqu’à ce que 2 événements m’arrivent quasiment simultanément : Devenir entrepreneure et me séparer.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Abi.Bio",
+        "titre": "Efficace et accessible",
+        "texte": "Un podcast avec des invités de qualité et une hôte qui pose les bonnes questions. Ce sont des échanges fluides et accessibles à tous.tes qui traitent de sujet poussés autour de l’argent. Bravo Aude et merci pour ce podcast."
+      },
+      {
+        "note": 5,
+        "auteur": "nico_say",
+        "titre": "En passe de devenir le meilleur podcast du genre",
+        "texte": "Entre vulgarisation et technique, ce premier épisode de Les Pépettes est fou de promesses pour la suite . J'ai pris une vraie claque sur ma gestion personnelle des finances. Merci Aude pour ce travail monstrueux !"
+      }
     ]
   }
 }

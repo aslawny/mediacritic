@@ -60,25 +60,23 @@
   "derniere_activite": "2026-11-21",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-26",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-25",
+    "extraits": [
+      {
+        "note": 1,
+        "auteur": "Monsieur Bois",
+        "titre": "Rarement vu un truc aussi mauvais…",
+        "texte": "Après une douzaine d’épisode écoutes, j’en arrive à à la conclusion qu’il n’y a aucune ligne éditoriale claire. L’origine des enregistrements est assez floue (peut-être bien des archives de l’INA) dans des qualités aléatoires et un montage du même niveau.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Philippeimac2",
+        "titre": "Recyclage d’archives",
+        "texte": "On nous ressert de vieilles émissions des années 50 ou 60 sans le dire expressément et les titres ne sont même pas conformes au contenu: par exemple l’épisode sur l’épuration de 1945 traite en réalité de l’invasion de la Belgique en 1939: il n’y avait pourtant pas grand à faire d…"
+      }
     ]
   }
 }

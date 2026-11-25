@@ -31,23 +31,33 @@
   "episodes_recents": [
     {
       "titre": "A la découverte de Las vegas ( et la redécouverte de New York )",
-      "date": "2023-09-11"
+      "date": "2023-09-11",
+      "audio": "https://audio3.redcircle.com/episodes/7a8f215b-ab45-4340-8225-f1520cc11479/stream.mp3",
+      "duree": 2747
     },
     {
       "titre": "A la découverte du Yosemite",
-      "date": "2023-04-17"
+      "date": "2023-04-17",
+      "audio": "https://audio3.redcircle.com/episodes/c17744f7-2f31-452f-9f39-ce135184d36f/stream.mp3",
+      "duree": 1483
     },
     {
       "titre": "A la Découverte de Bryce Canyon",
-      "date": "2023-03-20"
+      "date": "2023-03-20",
+      "audio": "https://audio3.redcircle.com/episodes/676815b2-f92f-435e-a5de-0aa9b6120487/stream.mp3",
+      "duree": 1259
     },
     {
       "titre": "A la découverte de Monument Valley",
-      "date": "2023-02-17"
+      "date": "2023-02-17",
+      "audio": "https://audio3.redcircle.com/episodes/e42cd7e3-7aba-4d1d-9db0-4c27b9cf3375/stream.mp3",
+      "duree": 1098
     },
     {
       "titre": "A la découverte du Painted Desert / Petrified Forest",
-      "date": "2023-02-06"
+      "date": "2023-02-06",
+      "audio": "https://audio3.redcircle.com/episodes/24aab255-e7c9-4670-9c18-3137e2955862/stream.mp3",
+      "duree": 1188
     }
   ],
   "derniere_activite": "2023-09-11",

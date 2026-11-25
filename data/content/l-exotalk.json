@@ -61,25 +61,29 @@
   "derniere_activite": "2023-11-19",
   "frequence_jours": 20,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-26",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-25",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "YoyoRdh78",
+        "titre": "Excellent",
+        "texte": "Des mecs cools qui se prennent pas la tête et qui parlent de foot ! Pas mal de débats et de sujets variés pour mon plus grand plaisir pendant ce confinement ! Continuez comme ça les gars"
+      },
+      {
+        "note": 5,
+        "auteur": "MrCarter024",
+        "titre": "Question du public",
+        "texte": "Très bonnes émissions Surtout l’Exotips qui est remarquablement mené Les autres émissions restent néanmoins très qualitatives aussi"
+      },
+      {
+        "note": 5,
+        "auteur": "Bermatave",
+        "titre": "Concept génial",
+        "texte": "Des analyses et propositions de Paris gratuit ça change des arnaques sur les réseaux sociaux . Le concept est génial."
+      }
     ]
   }
 }

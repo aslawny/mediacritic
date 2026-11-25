@@ -61,25 +61,29 @@
   "derniere_activite": "2025-08-18",
   "frequence_jours": 2,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-26",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-25",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Bobee75",
+        "titre": "Merci !",
+        "texte": "Je viens de d dévorer les 3 premiers épisodes et merci ça fait du bien d’entendre quelqu’un avec des parents tellement similaires aux miens, en parler avec des mots et des réflexions qui rassurent, et font du bien. J’adore la chanson de départ déjà …"
+      },
+      {
+        "note": 5,
+        "auteur": "So_organized",
+        "titre": "Culotté et joyeux",
+        "texte": "Il y a quelque chose de joyeux dans ce podcast, alors que le vécu d’un (e) bouc émissaire ne l’est pas. Le fait d’oser nommer les choses par leur nom est libérateur, de regarder la réalité en face donne une énergie de vie.…"
+      },
+      {
+        "note": 5,
+        "auteur": "ticha9313",
+        "titre": "Je me sens moins seule",
+        "texte": "Au Top ce podcast qui me parle énormément, moi fille d’une mère toxique et d’un père très absent. Avec de bons conseils pour faire face et mettre des limites dans la relation pour réduire l’impact de la toxicité ! Merci beaucoup, je me sens moins seule ! Et détoxiquons nous 😊"
+      }
     ]
   }
 }

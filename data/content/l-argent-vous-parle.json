@@ -31,23 +31,33 @@
   "episodes_recents": [
     {
       "titre": "De Québec à Wall Street : son parcours jusqu’à New York",
-      "date": "2026-10-26"
+      "date": "2026-10-26",
+      "audio": "https://baladoquebec.ca/media/lalpha-de-la-finance/de-quebec-a-wall-street-son-parcours-jusqua-new-york.mp3",
+      "duree": 2490
     },
     {
       "titre": "1ère place sur 3 085 à Bourstad : son secret pour gagner",
-      "date": "2026-08-14"
+      "date": "2026-08-14",
+      "audio": "https://baladoquebec.ca/media/lalpha-de-la-finance/1ere-place-sur-3-085-a-bourstad-son-secret-pour-gagner.mp3",
+      "duree": 2207
     },
     {
       "titre": "Peut-on vraiment atteindre la liberté financière avant 45 ans ?",
-      "date": "2026-05-22"
+      "date": "2026-05-22",
+      "audio": "https://baladoquebec.ca/media/lalpha-de-la-finance/peut-on-vraiment-atteindre-la-liberte-financiere-avant-45-ans.mp3",
+      "duree": 2584
     },
     {
       "titre": "Investir sans se faire avoir.",
-      "date": "2026-03-25"
+      "date": "2026-03-25",
+      "audio": "https://baladoquebec.ca/media/lalpha-de-la-finance/investir-sans-se-faire-avoir.mp3",
+      "duree": 2747
     },
     {
       "titre": "Trading d’électricité avec Alain Brisebois",
-      "date": "2026-02-02"
+      "date": "2026-02-02",
+      "audio": "https://baladoquebec.ca/media/lalpha-de-la-finance/trading-delectricite-avec-alain-brisebois.mp3",
+      "duree": 3309
     }
   ],
   "derniere_activite": "2026-10-26",

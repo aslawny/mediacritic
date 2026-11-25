@@ -63,25 +63,29 @@
   "derniere_activite": "2026-11-12",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-26",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-25",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Historôliste",
+        "titre": "Un des meilleurs podcasts jdp",
+        "texte": "Une excellente alchimie de groupe, des sujets variés et toujours traités de manière passionnante et passionnée, de l’humour et du sérieux… Un incontournable pour qui suit le monde du jeu. Merci à Matthieu et ses acolytes, vous avez construit quelque chose de grand !"
+      },
+      {
+        "note": 2,
+        "auteur": "Shahindoh",
+        "titre": "Sympa mais souvent discutable",
+        "texte": "J’ai écouté quelques épidodes étant dans le monde du jeu en France depuis plus de 10 ans. Notamment celui sur les media ludiques. Je trouve le discours un peu choquant dans cet épisode.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Cindynks",
+        "titre": "Un nouveau support pour plus de plaisir",
+        "texte": "J’avais déjà bcp de plaisir à écouter certaine des videos youtube de « On Joue-Tu? » sur mes trajets routiers. Désormais, ce support s’y prête encore plus ! Des sujets toujours très interessant gravitant autour d’une passion commune: le jeu de société!"
+      }
     ]
   }
 }

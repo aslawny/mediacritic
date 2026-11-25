@@ -29,23 +29,33 @@
   "episodes_recents": [
     {
       "titre": "Séminaire : L'IA axée sur les objectifs : vers des machines capables d'apprendre, de raisonner et de planifier",
-      "date": "2024-02-09"
+      "date": "2024-02-09",
+      "audio": "https://podcastfichiers.college-de-france.fr/sagot-sem-20240209-lecun.m4a",
+      "duree": 4441
     },
     {
       "titre": "08 - Apprendre les langues aux machines : Multimodalités : TAL et images, TAL et parole",
-      "date": "2024-02-09"
+      "date": "2024-02-09",
+      "audio": "https://podcastfichiers.college-de-france.fr/sagot-20240209.m4a",
+      "duree": 3455
     },
     {
       "titre": "Séminaire : Prédire c'est comprendre : un modèle neuro-cognitif du langage fondé sur la prédiction",
-      "date": "2024-02-02"
+      "date": "2024-02-02",
+      "audio": "https://podcastfichiers.college-de-france.fr/sagot-sem-20240202-blache.m4a",
+      "duree": 3457
     },
     {
       "titre": "07 - Apprendre les langues aux machines : Converser avec la machine",
-      "date": "2024-02-02"
+      "date": "2024-02-02",
+      "audio": "https://podcastfichiers.college-de-france.fr/sagot-20240202.m4a",
+      "duree": 3468
     },
     {
       "titre": "Séminaire : Analyse automatique de l'argumentation dans les débats politiques",
-      "date": "2024-01-26"
+      "date": "2024-01-26",
+      "audio": "https://podcastfichiers.college-de-france.fr/sagot-sem-20240126-cabrio.m4a",
+      "duree": 3221
     }
   ],
   "derniere_activite": "2024-02-09",

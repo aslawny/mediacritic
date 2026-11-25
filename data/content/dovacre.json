@@ -28,26 +28,108 @@
   "updatedAt": "2026-08-18",
   "episodes_recents": [
     {
-      "titre": "Un pdf ça peut contenir des textes que tu ne vois pas ! #informatique",
-      "date": "2026-09-01"
+      "titre": "Le câble d'alimentation de ton pc #informatique #tech",
+      "date": "2026-11-24",
+      "video": "GniIEUd7T7c"
     },
     {
-      "titre": "Bien avant l'informatique, quelqu'un a inventé un moyen de réaliser automatiquement des calculs",
-      "date": "2026-08-31"
+      "titre": "La prise des alimentations externe de pc portable #informatique #tech",
+      "date": "2026-11-23",
+      "video": "WZk5icgUWso"
     },
     {
-      "titre": "Tu savais que quand tu copies du texte tu peux prendre plein de choses ?",
-      "date": "2026-08-30"
+      "titre": "Le shell #informatique #tech",
+      "date": "2026-11-22",
+      "video": "Tlcqx31ktyk"
     },
     {
-      "titre": "Ton navigateur n’est pas utile qu’à aller sur Internet #informatique",
-      "date": "2026-08-29"
+      "titre": "le langage le plus difficile : le malbolge #informatique #tech #code",
+      "date": "2026-11-21",
+      "video": "Zd7tSS8b-vk"
     },
     {
-      "titre": "127.0.0.1 ce n'est pas une adresse comme les autres ! #informatique",
-      "date": "2026-08-28"
+      "titre": "Protéger son serveur discord #informatique #tech",
+      "date": "2026-11-20",
+      "video": "3eKyaLTmtRc"
     }
   ],
-  "derniere_activite": "2026-09-01",
-  "frequence_jours": 0
+  "derniere_activite": "2026-11-24",
+  "frequence_jours": 1,
+  "videos": [
+    {
+      "titre": "Le câble d'alimentation de ton pc #informatique #tech",
+      "date": "2026-11-24",
+      "video": "GniIEUd7T7c"
+    },
+    {
+      "titre": "La prise des alimentations externe de pc portable #informatique #tech",
+      "date": "2026-11-23",
+      "video": "WZk5icgUWso"
+    },
+    {
+      "titre": "Le shell #informatique #tech",
+      "date": "2026-11-22",
+      "video": "Tlcqx31ktyk"
+    },
+    {
+      "titre": "le langage le plus difficile : le malbolge #informatique #tech #code",
+      "date": "2026-11-21",
+      "video": "Zd7tSS8b-vk"
+    },
+    {
+      "titre": "Protéger son serveur discord #informatique #tech",
+      "date": "2026-11-20",
+      "video": "3eKyaLTmtRc"
+    },
+    {
+      "titre": "Les hats en cyber #informatique #tech",
+      "date": "2026-11-19",
+      "video": "vy6zGMGqvYE"
+    },
+    {
+      "titre": "Le langage go ou golang #informatique #tech",
+      "date": "2026-11-18",
+      "video": "VnUT5x0__e0"
+    },
+    {
+      "titre": "A quoi correspondent les couleurs en cybersécurité ? #informatique #tech",
+      "date": "2026-11-17",
+      "video": "6IfoiWQrtQE"
+    },
+    {
+      "titre": "Mon film préféré : Citizenfour #informatique #privacyfirst",
+      "date": "2026-11-16",
+      "video": "q4goJ3OIR8w"
+    },
+    {
+      "titre": "Bien penser à isoler les logiciels dont tu n'es pas certain à 100% #informatique",
+      "date": "2026-11-14",
+      "video": "Ivcinpz_Cs0"
+    },
+    {
+      "titre": "Digital fairness act #informatique #tech",
+      "date": "2026-11-13",
+      "video": "18TUb69iDVc"
+    },
+    {
+      "titre": "Occupy SAAS le projet qui veut créer des alternatives open source aux géants des SAAS #informatique",
+      "date": "2026-11-12",
+      "video": "IIzeFkMFUUU"
+    },
+    {
+      "titre": "Vos extensions firefox préférées ! #informatique #tech",
+      "date": "2026-11-11",
+      "video": "hGFlqOIOG6Q"
+    },
+    {
+      "titre": "Apprendre le rust #informatique #tech",
+      "date": "2026-11-10",
+      "video": "R-HsQ9C-GWY"
+    },
+    {
+      "titre": "Le rust #informatique #tech",
+      "date": "2026-11-09",
+      "video": "Z_qRrtuiOdU"
+    }
+  ]
 }

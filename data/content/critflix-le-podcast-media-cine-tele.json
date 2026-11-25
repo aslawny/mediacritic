@@ -27,26 +27,36 @@
   "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Débrieflix : Clayface",
+      "date": "2026-11-20",
+      "audio": "https://sphinx.acast.com/p/open/s/6517d91b936e070011fbd411/e/6afee7b48f8ad2908f7c9eac/media.mp3",
+      "duree": 615
+    },
+    {
+      "titre": "Debrieflix : Les contrebandiers",
+      "date": "2026-11-20",
+      "audio": "https://sphinx.acast.com/p/open/s/6517d91b936e070011fbd411/e/6afeee47785ec2481163b3fe/media.mp3",
+      "duree": 479
+    },
+    {
+      "titre": "Gunn s'est encore fait virer",
+      "date": "2026-11-13",
+      "audio": "https://sphinx.acast.com/p/open/s/6517d91b936e070011fbd411/e/6af43f207d020b369bac38c5/media.mp3",
+      "duree": 2880
+    },
+    {
       "titre": "Cats Eye's en allemand",
-      "date": "2026-11-06"
+      "date": "2026-11-06",
+      "audio": "https://sphinx.acast.com/p/open/s/6517d91b936e070011fbd411/e/6aeb9d499ccd1653a7b78171/media.mp3",
+      "duree": 3507
     },
     {
       "titre": "Leeb de père en fils",
-      "date": "2026-10-31"
-    },
-    {
-      "titre": "Toujours à la pointe !",
-      "date": "2026-10-24"
-    },
-    {
-      "titre": "BONUS : Sur la 12ème étape du Tour de France",
-      "date": "2026-07-25"
-    },
-    {
-      "titre": "La coupe est pleine, Marvel revient et Netflix avoue tout.",
-      "date": "2026-07-24"
+      "date": "2026-10-31",
+      "audio": "https://sphinx.acast.com/p/open/s/6517d91b936e070011fbd411/e/6ae3cbb4e57912cf6f671ff7/media.mp3",
+      "duree": 2580
     }
   ],
-  "derniere_activite": "2026-11-06",
-  "frequence_jours": 5
+  "derniere_activite": "2026-11-20",
+  "frequence_jours": 6
 }

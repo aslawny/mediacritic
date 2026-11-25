@@ -61,25 +61,29 @@
   "derniere_activite": "2026-11-17",
   "frequence_jours": 6,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-26",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-25",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Alex-hurel",
+        "titre": "Inspirant et concret",
+        "texte": "Un vrai bon podcast RH, a la fois inspirant et concret, et qui sort des lieux communs qu’on a l’habitude d’entendre : c’est précis, intéressant, enthousiasmant, hâte de découvrir la suite !"
+      },
+      {
+        "note": 5,
+        "auteur": "Manon1628",
+        "titre": "Top!",
+        "texte": "Un 1er épisode très intéressant qui confirme qu’une problématique personnelle est bien souvent universelle! Hâte d’écouter les prochains épisodes!"
+      },
+      {
+        "note": 5,
+        "auteur": "Tougatouga",
+        "titre": "Super !",
+        "texte": "Merci pour ce podcast hyper interessant et novateur dans le milieu des rh. J’attends les prochains épisodes avec hâte 🤩"
+      }
     ]
   }
 }

@@ -63,25 +63,29 @@
   "derniere_activite": "2026-09-05",
   "frequence_jours": 28,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-26",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-25",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "marie soi",
+        "titre": "Sébastien More est un exemple",
+        "texte": "Tu es un exemple de réussite et c’est passionnant que d’écouter tes aventures entrepreneurial ! Tu nous motives vraiment sans se mettre de barrière. Tu n’as pas de prêt immo par la banque ? Fais comme Sébastien ! Une sous location professionnelle en toute légalité …"
+      },
+      {
+        "note": 5,
+        "auteur": "samkh86000",
+        "titre": "DU VRAI !",
+        "texte": "Merci Seb pour ce contenu très qualitatif. J’apprécie le fait que tu nous plonges dans ta vie entrepreneurial. Tu nous partages tes succès mais aussi tes échecs. Je trouve ca top ! Tout est sincère chez toi. Encore merci pour ce contenu."
+      },
+      {
+        "note": 5,
+        "auteur": "chloedenys",
+        "titre": "Podcast n•1 pour les passionnés d’immo locatif !",
+        "texte": "Ce podcast est une pépite, chaque épisode nous apporte énormément de valeur et la bonne humeur de Sébastien est communicative 🌟"
+      }
     ]
   }
 }

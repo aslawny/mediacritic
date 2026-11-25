@@ -28,26 +28,36 @@
   "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "le cloud lâche la domotique, reprenez la main",
+      "date": "2026-11-24",
+      "audio": "https://www.buzzsprout.com/2616525/episodes/20166661-le-cloud-lache-la-domotique-reprenez-la-main.mp3",
+      "duree": 362
+    },
+    {
+      "titre": "La HA Domotique : Rendez Home Assistant increvable !",
+      "date": "2026-11-19",
+      "audio": "https://www.buzzsprout.com/2616525/episodes/20131098-la-ha-domotique-rendez-home-assistant-increvable.mp3",
+      "duree": 316
+    },
+    {
       "titre": "Découverte de HA Connect AUX-2 : Le multiroom open bar par Nabu Casa",
-      "date": "2026-11-12"
+      "date": "2026-11-12",
+      "audio": "https://www.buzzsprout.com/2616525/episodes/20097692-decouverte-de-ha-connect-aux-2-le-multiroom-open-bar-par-nabu-casa.mp3",
+      "duree": 483
     },
     {
       "titre": "Home Assistant 2026.11 : Décryptage express de la MAJ du mois de Novembre",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://www.buzzsprout.com/2616525/episodes/20064856-home-assistant-2026-11-decryptage-express-de-la-maj-du-mois-de-novembre.mp3",
+      "duree": 387
     },
     {
       "titre": "Le mystère du \"Fil Pilote\" : domotiser son chauffage sans se ruiner",
-      "date": "2026-10-22"
-    },
-    {
-      "titre": "⚡ Compteur Linky & Domotique : Exploiter la TIC dans Home Assistant",
-      "date": "2026-10-15"
-    },
-    {
-      "titre": "Home Assistant 2026.10 : Décryptage express de la MAJ du mois d'octobre",
-      "date": "2026-10-07"
+      "date": "2026-10-22",
+      "audio": "https://www.buzzsprout.com/2616525/episodes/19989725-le-mystere-du-fil-pilote-domotiser-son-chauffage-sans-se-ruiner.mp3",
+      "duree": 307
     }
   ],
-  "derniere_activite": "2026-11-12",
-  "frequence_jours": 8
+  "derniere_activite": "2026-11-24",
+  "frequence_jours": 7
 }
