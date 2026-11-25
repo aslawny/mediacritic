@@ -10,7 +10,7 @@
     "societe"
   ],
   "description": "Le Studio Devoxx France, c’est un espace dédié aux échanges longs et qualitatifs, loin du rythme minuté des talks. Au programme : - des interviews de nos speakers - des discussions avec l’équipe Devoxx France - des moments en coulisses, souvent invisibles pendant l’événement Le tout dans un format posé, authentique, pensé pour aller plus loin que la scène. Chaque épisode est une opportunité de découvrir les parcours, les idées et les visions de celles et ceux qui font vivre la tech aujourd’hui.",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e9/ed/9e/e9ed9eb4-1207-76a9-1c93-73b9dd60f28a/mza_7898051543858921949.jpg/170x170bb.png",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e9/ed/9e/e9ed9eb4-1207-76a9-1c93-73b9dd60f28a/mza_7898051543858921949.jpg/600x600bb.jpg",
   "language": "fr",
   "platforms": {
     "apple": {
@@ -18,7 +18,7 @@
       "trackId": 1891346580,
       "rating": 5.0,
       "ratingCount": 1,
-      "episodeCount": null
+      "episodeCount": 18
     }
   },
   "mediacritic": null,
@@ -27,27 +27,37 @@
     "numerique"
   ],
   "addedAt": "2026-07-30",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-25",
   "episodes_recents": [
     {
       "titre": "CSS responsive : de la jungle à la boîte à outils, interview de Theo Gianella",
-      "date": "2026-11-10"
+      "date": "2026-11-10",
+      "audio": "https://media.blubrry.com/3957754/content.blubrry.com/3957754/cbr_1FLyvfMs-9g.mp3",
+      "duree": 2087
     },
     {
       "titre": "Manager à l'ère de l'intelligence artificielle, avec Yannick Grenzinger",
-      "date": "2026-11-05"
+      "date": "2026-11-05",
+      "audio": "https://media.blubrry.com/3957754/content.blubrry.com/3957754/cbr_AkSdRN1Hjyo.mp3",
+      "duree": 1490
     },
     {
       "titre": "Le compilateur Rust : d'abord mon ennemi, puis mon professeur - Sylvain Wallez",
-      "date": "2026-10-12"
+      "date": "2026-10-12",
+      "audio": "https://media.blubrry.com/3957754/content.blubrry.com/3957754/cbr_Kx4_k4EhSKY.mp3",
+      "duree": 1625
     },
     {
       "titre": "L'IA va-t-elle nous sauver ou nous épuiser ? Interview d'Albane Fagot-Veyron partie 2",
-      "date": "2026-10-09"
+      "date": "2026-10-09",
+      "audio": "https://media.blubrry.com/3957754/content.blubrry.com/3957754/cbr_qD3161f2-qU.mp3",
+      "duree": 3754
     },
     {
       "titre": "La Dette Temporelle : pourquoi vos équipes s'épuisent",
-      "date": "2026-10-05"
+      "date": "2026-10-05",
+      "audio": "https://media.blubrry.com/3957754/content.blubrry.com/3957754/cbr_t3iXSZxI5eU.mp3",
+      "duree": 3467
     }
   ],
   "derniere_activite": "2026-11-10",

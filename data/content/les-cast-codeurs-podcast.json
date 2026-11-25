@@ -1,7 +1,7 @@
 {
   "slug": "les-cast-codeurs-podcast",
   "title": "Les Cast Codeurs Podcast",
-  "author": "Emmanuel Bernard, Guillaume Laforge, Vincent Massol, Antonio Goncalves, Aud",
+  "author": "Emmanuel Bernard, Arnaud Héritier, Guillaume Laforge, Antonio Goncalves, Katia Aresti",
   "type": "podcast",
   "categories": [
     "tech",
@@ -9,14 +9,14 @@
   ],
   "description": "Les Cast Codeurs : le podcast en français de, par et pour les développeurs. Prenez connaissance des dernières nouvelles de la sphère Java et du développement en général. Plongez sur un sujet précis avec les épisodes interview. Supportez les radotages de vos hôtes : Emmanuel Bernard (ex Red Hat, Hibernate, Quarkus), Arnaud Héritier (Doctolib, Jenkins), Guillaume Laforge (Google, Groovy), Antonio Goncalves (Microsoft, auteur), Katia Aresti (Red Hat, Infinispan).",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/27/d4/c2/27d4c27c-6cd5-b27d-de7f-e683c79e5442/mza_6557719921920703431.png/600x600bb.jpg",
-  "language": "Actualités technologiques",
+  "language": "fr",
   "platforms": {
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/les-cast-codeurs-podcast/id312239675?uo=4",
       "trackId": 312239675,
       "rating": 4.8,
       "ratingCount": 121,
-      "episodeCount": 340
+      "episodeCount": 345
     }
   },
   "mediacritic": null,
@@ -25,7 +25,7 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-25",
   "episodes_recents": [
     {
       "titre": "LCC 345 - Rust in peace, Java ressuscite",
