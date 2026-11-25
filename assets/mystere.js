@@ -12,6 +12,8 @@
   var memoire = null;            // repli quand le stockage est bloque
   var donnees = null, mystere = null, jour = null, etat = null;
   var lecteursCharges = false;
+  // L'Oreille (25/11/2026) : extrait de plus en plus long a chaque essai.
+  var PALIERS = [1, 3, 6, 10, 16, 25];
 
   /* ---------- outils ---------- */
   // Horloge : un decalage de test peut etre pose via window.__mysDecalage (ms).
@@ -33,6 +35,8 @@
     return String(s || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase()
       .replace(/&/g, ' et ').replace(/[^a-z0-9]+/g, '');
   }
+  // DOIT rester identique a la regle d'alias() de scripts/generate_mystere.py.
+  function sansArticle(s) { return String(s || '').trim().replace(/^(les|le|la|l['’]|un|une|the)\s*/i, ''); }
   // cyrb53, meme graine que generate_mystere.empreinte().
   function empreinte(str) {
     var h1 = 0xdeadbeef ^ 0x4d43, h2 = 0x41c6ce57 ^ 0x4d43;
@@ -90,14 +94,35 @@
     3: 'Trois essais : la moyenne de la rédaction. Pile dans le générique.',
     4: 'Quatre essais, comme Alex. Ce n\'est pas un compliment, mais ce n\'est pas une insulte.',
     5: 'Cinq essais. Ça s\'est joué au générique de fin.',
-    6: 'Au sixième indice ! Même le podcast n\'y croyait plus.',
+    6: 'Au sixième essai ! Même le podcast n\'y croyait plus.',
     perdu: 'Lolo non plus n\'a pas trouvé. Il a fait un PowerPoint pour s\'en remettre.'
   };
 
   /* ---------- rendu ---------- */
+  function rendreSon() {
+    var p = partie(), ol = $('mys-paliers'), n = p.essais.length;
+    ol.textContent = '';
+    PALIERS.forEach(function (s, i) {
+      var cls = '';
+      if (p.gagne && i === n - 1) cls = 'gagne';
+      else if (i < n) cls = 'rate';
+      else if (!p.fini && i === n) cls = 'ouvert';
+      ol.appendChild(el('li', { classe: cls, style: 'height:' + (16 + i * 9) + 'px', 'aria-label': s + ' s' }, [el('span', { texte: s + ' s', 'aria-hidden': 'true' })]));
+    });
+    var d = dureeExtrait();
+    var lib = p.fini ? 'Écouter la suite de l\'épisode' : 'Écouter ' + d + (d > 1 ? ' secondes' : ' seconde');
+    $('mys-libelle').textContent = lib; $('mys-jouer').setAttribute('aria-label', lib);
+    // Coups de pouce : la categorie au 4e essai, le titre de l'episode au 6e.
+    var coup = $('mys-coup'), cle = null, texte = null;
+    if (!p.fini && n >= 5 && mystere.son.episode) { cle = 'Dernier coup de pouce · titre de l\'épisode'; texte = mystere.son.episode; }
+    else if (!p.fini && n >= 3) { cle = 'Coup de pouce · ' + mystere.indices[0].cle.toLowerCase(); texte = mystere.indices[0].texte; }
+    coup.hidden = !cle; coup.textContent = '';
+    if (cle) { coup.appendChild(el('b', { texte: cle })); coup.appendChild(document.createTextNode(texte)); }
+  }
   function rendreIndices() {
     var p = partie(), ol = $('mys-indices');
     ol.textContent = '';
+    if (mystere.son) return;
     var visibles = p.fini ? MAX : Math.min(p.essais.length + 1, MAX);
     mystere.indices.forEach(function (ind, i) {
       if (i < visibles) {
@@ -114,17 +139,18 @@
     });
   }
   function carres(p) {
-    var s = p.essais.map(function () { return '🟥'; });
+    var s = p.essais.map(function (e) { return e === '' ? '⬛' : '🟥'; });
     if (p.gagne) s[s.length - 1] = '🟩';
     return s.join('');
   }
   function rendreEssais() {
     var p = partie();
     var vides = Math.max(0, MAX - p.essais.length);
-    $('mys-carres').textContent = carres(p) + '⬜'.repeat(p.fini ? 0 : vides);
+    $('mys-carres').textContent = mystere.son ? '' : carres(p) + '⬜'.repeat(p.fini ? 0 : vides);
     var ul = $('mys-essais'); ul.textContent = '';
     p.essais.forEach(function (e, i) {
-      if (e !== '—' && !(p.gagne && i === p.essais.length - 1)) ul.appendChild(el('li', { texte: e }));
+      if (e === '') ul.appendChild(el('li', { classe: 'mys-passe', texte: 'passé' }));
+      else if (e !== '—' && !(p.gagne && i === p.essais.length - 1)) ul.appendChild(el('li', { texte: e }));
     });
   }
   function rendreStats() {
@@ -159,9 +185,13 @@
 
   function texteDePartage() {
     var p = partie();
+    var num = mystere.n >= 1 ? 'n°' + mystere.n : '(avant-première)';
+    if (mystere.son) {
+      return '👂 L\'Oreille ' + num + ' · ' + (p.gagne ? 'trouvé en ' + PALIERS[p.essais.length - 1] + ' s' : 'pas trouvé') +
+        '\n' + carres(p) + '\nmediacritic.fr/mystere';
+    }
     var score = p.gagne ? p.essais.length : 'X';
-    var num = mystere.n >= 1 ? '#' + mystere.n : '(avant-première)';
-    return 'Le Mystère du Jour ' + num + ' 🎧 ' + score + '/6\n' + carres(p) + '\nmediacritic.fr/mystere';
+    return '👂 L\'Oreille ' + num + ' (sans le son) 🕵️ ' + score + '/6\n' + carres(p) + '\nmediacritic.fr/mystere';
   }
   function copier(texte, retour) {
     function ok() { retour.textContent = 'Copié ! Colle-le où tu veux.'; }
@@ -187,7 +217,9 @@
   function rendreRevelation() {
     var p = partie(), r = mystere.rev, sec = $('mys-revel');
     sec.textContent = '';
-    var titre = el('h2', { id: 'mys-revel-titre', tabindex: '-1', texte: p.gagne ? 'Bravo ! C\'était…' : 'Raté ! C\'était…' });
+    var titre = el('h2', { id: 'mys-revel-titre', tabindex: '-1', texte: p.gagne
+      ? (mystere.son ? 'Bien entendu ! Trouvé en ' + PALIERS[p.essais.length - 1] + ' s 👂' : 'Bravo ! C\'était…')
+      : 'Raté ! C\'était…' });
     sec.appendChild(titre);
     sec.appendChild(el('div', { classe: 'mys-carte' }, [
       r.image ? el('img', { referrerpolicy: 'no-referrer', src: r.image, alt: 'Pochette de ' + r.titre, width: '120', height: '120', decoding: 'async' }) : null,
@@ -231,7 +263,13 @@
     var p = partie();
     $('mys-attente').hidden = true;
     $('mys-jeu').hidden = false;
-    $('mys-numero').textContent = (mystere.n >= 1 ? 'Mystère n°' + mystere.n : 'Avant-première') + ' · devine le podcast du jour en 6 indices';
+    var num = mystere.n >= 1 ? 'Partie n°' + mystere.n : 'Avant-première';
+    $('mys-numero').textContent = mystere.son ? num + ' · reconnais le podcast du jour au son'
+      : num + ' · pas de son aujourd\'hui : c\'est une chaîne YouTube, devine-la en 6 indices';
+    $('mys-son').hidden = !mystere.son;
+    $('mys-plus').hidden = !mystere.son;
+    $('mys-indices').hidden = !!mystere.son;
+    if (mystere.son) rendreSon();
     rendreIndices(); rendreEssais(); rendreStats();
     $('mys-form').hidden = p.fini;
     if (p.fini) { if (!lecteursCharges) rendreRevelation(); }
@@ -242,6 +280,7 @@
   function terminer(gagne) {
     var p = partie(), s = etat.stats;
     p.fini = true; p.gagne = gagne;
+    arreterSon();
     if (!p.compte) {
       p.compte = true;
       s.jouees += 1;
@@ -268,9 +307,15 @@
     if (p.essais.some(function (e) { return normaliser(e) === n; })) { retour.textContent = 'Déjà proposé ! Essaie autre chose.'; return; }
     p.essais.push(v);
     $('mys-saisie').value = '';
-    if (mystere.r.indexOf(empreinte(n)) >= 0) { retour.textContent = ''; terminer(true); return; }
+    var court = normaliser(sansArticle(v));
+    if (mystere.r.indexOf(empreinte(n)) >= 0 || (court.length >= 3 && mystere.r.indexOf(empreinte(court)) >= 0)) { retour.textContent = ''; terminer(true); return; }
+    erreur('Non, ce n\'est pas « ' + v + ' ».');
+  }
+  function erreur(msg) {
+    var p = partie(), retour = $('mys-retour');
     if (p.essais.length >= MAX) { retour.textContent = ''; terminer(false); return; }
-    retour.textContent = 'Non, ce n\'est pas « ' + v + ' ». Nouvel indice dévoilé.';
+    retour.textContent = msg + (mystere.son ? ' Tu as droit à ' + PALIERS[p.essais.length] + ' s de son.' : ' Nouvel indice dévoilé.');
+    arreterSon(); anneau(0);
     sauver(); rendre();
     montrerNouvelIndice(p.essais.length + 1);
   }
@@ -278,13 +323,68 @@
   // on le ferme et on amene l'indice a l'ecran. Au clavier physique, on garde
   // le focus dans le champ pour enchainer.
   function montrerNouvelIndice(n) {
-    var li = $('mys-indice-' + n);
+    var li = mystere.son ? $('mys-son') : $('mys-indice-' + n);
     if (!li) return;
     var tactile = window.matchMedia && window.matchMedia('(pointer: coarse)').matches;
     if (tactile) {
       $('mys-saisie').blur();
       setTimeout(function () { li.scrollIntoView({ behavior: 'smooth', block: 'center' }); }, 250);
     }
+  }
+
+  /* ---------- son : extrait lu depuis le flux officiel ---------- */
+  var audio = null, finExtrait = 0, rafId = 0, enLecture = false;
+  var CIRC = 2 * Math.PI * 72;
+  function dureeExtrait() { var p = partie(); return PALIERS[Math.min(p.essais.length, MAX - 1)]; }
+  function anneau(f) { var c = $('mys-prog'); if (c) c.style.strokeDashoffset = String(CIRC * (1 - Math.max(0, Math.min(1, f)))); }
+  function icone(pause) {
+    $('mys-ico').innerHTML = pause
+      ? '<rect x="6.5" y="5" width="4" height="14" rx="1" fill="currentColor"/><rect x="13.5" y="5" width="4" height="14" rx="1" fill="currentColor"/>'
+      : '<path fill="currentColor" d="M8 5.5v13a1 1 0 0 0 1.5.86l10.5-6.5a1 1 0 0 0 0-1.72L9.5 4.64A1 1 0 0 0 8 5.5z"/>';
+  }
+  function arreterSon() {
+    if (audio) audio.pause();
+    enLecture = false; cancelAnimationFrame(rafId);
+    var b = $('mys-jouer'); if (b) b.classList.remove('charge');
+    if ($('mys-ico')) icone(false);
+  }
+  function boucle() {
+    if (!partie().fini) {
+      anneau((audio.currentTime - mystere.son.debut) / dureeExtrait());
+      if (audio.currentTime >= finExtrait) {
+        arreterSon(); anneau(1);
+        setTimeout(function () { if (!enLecture) anneau(0); }, 500);
+        return;
+      }
+    }
+    rafId = requestAnimationFrame(boucle);
+  }
+  function preparerAudio() {
+    if (audio) return;
+    audio = new Audio(); audio.preload = 'none';
+    audio.addEventListener('playing', function () {
+      $('mys-jouer').classList.remove('charge');
+      if (!partie().fini && audio.currentTime < mystere.son.debut - 0.5) audio.currentTime = mystere.son.debut;
+      cancelAnimationFrame(rafId); rafId = requestAnimationFrame(boucle);
+    });
+    audio.addEventListener('waiting', function () { if (enLecture) $('mys-jouer').classList.add('charge'); });
+    audio.addEventListener('error', function () { arreterSon(); $('mys-libelle').textContent = 'Le son ne se charge pas. Vérifie ta connexion.'; });
+  }
+  function jouer() {
+    if (!mystere || !mystere.son) return;
+    preparerAudio();
+    if (enLecture) { arreterSon(); anneau(0); return; }
+    var p = partie(), son = mystere.son;
+    finExtrait = p.fini ? Infinity : son.debut + dureeExtrait();
+    var depart = p.fini ? Math.max(son.debut, audio.currentTime || son.debut) : son.debut;
+    // play() doit partir du geste (iOS) : au 1er appui on pose la source avec
+    // un fragment #t= pour que le navigateur demarre deja au bon endroit.
+    if (audio.dataset.src !== son.audio) { audio.dataset.src = son.audio; audio.src = son.audio + '#t=' + son.debut; }
+    else if (Math.abs(audio.currentTime - depart) > 0.3) audio.currentTime = depart;
+    $('mys-jouer').classList.add('charge'); icone(true); enLecture = true;
+    var pr = audio.play();
+    if (pr && pr.catch) pr.catch(function () { arreterSon(); $('mys-libelle').textContent = 'Lecture impossible, réessaie.'; });
+    try { if (window.gtag) window.gtag('event', 'oreille_ecoute', { palier: p.fini ? 0 : dureeExtrait() }); } catch (e) {}
   }
 
   /* ---------- suggestions (remplace <datalist>, inutilisable sur mobile) ---------- */
@@ -406,6 +506,7 @@
     if (!b64) { mystere = null; afficherAttente(); return; }
     try { mystere = decoder(b64); } catch (e) { mystere = null; afficherAttente(); return; }
     lecteursCharges = false;
+    arreterSon(); if (audio) { audio.removeAttribute('src'); audio.dataset.src = ''; } anneau(0);
     rendre();
   }
   function chargerDonnees() {
@@ -433,6 +534,12 @@
       proposer($('mys-saisie').value);
     });
     brancherSuggestions();
+    $('mys-prog').style.strokeDasharray = String(CIRC); anneau(0);
+    $('mys-jouer').addEventListener('click', jouer);
+    $('mys-plus').addEventListener('click', function () {
+      if (!mystere || partie().fini) return;
+      partie().essais.push(''); erreur('Passé.');
+    });
     var b = $('mys-passer'), arme = false;
     b.addEventListener('click', function () {
       if (!mystere || partie().fini) return;

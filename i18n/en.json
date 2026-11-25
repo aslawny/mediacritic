@@ -542,6 +542,30 @@
   [
    "^Tous les podcasts (.+)$",
    "All {cat:1} podcasts"
+  ],
+  [
+   "^Partie n°(\\d+) · reconnais le podcast du jour au son$",
+   "Game #$1 · recognise the podcast of the day by ear"
+  ],
+  [
+   "^Partie n°(\\d+) · pas de son aujourd'hui : c'est une chaîne YouTube, devine-la en 6 indices$",
+   "Game #$1 · no sound today: it's a YouTube channel, guess it in 6 clues"
+  ],
+  [
+   "^Écouter (\\d+) secondes?$",
+   "Listen for $1 s"
+  ],
+  [
+   "^Non, ce n'est pas « (.+) »\\. Tu as droit à (\\d+) s de son\\.$",
+   "No, it's not “$1”. You now get $2 s of sound."
+  ],
+  [
+   "^Passé\\. Tu as droit à (\\d+) s de son\\.$",
+   "Skipped. You now get $1 s of sound."
+  ],
+  [
+   "^Bien entendu ! Trouvé en (\\d+) s 👂$",
+   "Well heard! Found in $1 s 👂"
   ]
  ],
  "textes": {
@@ -1235,7 +1259,25 @@
   "Tests & analyses": "Reviews & analyses",
   "Twitch, YouTube & podcast": "Twitch, YouTube & podcast",
   "Épisode spécial": "Special episode",
-  "Catalogue podcasts et chaînes YouTube francophones | MediaCritic": "Directory of podcasts and YouTube channels | MediaCritic"
+  "Catalogue podcasts et chaînes YouTube francophones | MediaCritic": "Directory of podcasts and YouTube channels | MediaCritic",
+  "L'Oreille — reconnais le podcast du jour au son | MediaCritic": "L'Oreille — recognise the podcast of the day by ear | MediaCritic",
+  "👂 Le jeu quotidien de MediaCritic": "👂 MediaCritic's daily game",
+  "Reconnais le podcast du jour au son.": "Recognise the podcast of the day by ear.",
+  "Je ne sais pas, plus de son ▸": "No idea, more sound ▸",
+  "La partie du jour se prépare": "Today's game is being prepared",
+  "Prochaine partie dans": "Next game in",
+  "Écouter la suite de l'épisode": "Keep listening to the episode",
+  "Au sixième essai ! Même le podcast n'y croyait plus.": "On the sixth try! Even the podcast had given up hope.",
+  "Dernier coup de pouce · titre de l'épisode": "Last nudge · episode title",
+  "Coup de pouce · catégorie": "Nudge · category",
+  "passé": "skipped",
+  "Reconnais-le au son avant de l'écouter : le jeu du podcast du jour →": "Recognise it by ear before you listen: the podcast of the day game →",
+  "Il se dévoile quand tu as joué à": "It is revealed once you have played",
+  ": reconnais-le au son, puis reviens l’écouter ici.": ": recognise it by ear, then come back here to listen.",
+  "Chaque jour, appuie sur le bouton et écoute : 1 seconde d'un vrai épisode. Tu reconnais le podcast ? Chaque mauvaise réponse (ou « plus de son ») allonge l'extrait : 3, 6, 10, 16 puis 25 secondes. Deux coups de pouce arrivent en route : la catégorie, puis le titre de l'épisode.": "Every day, press the button and listen: 1 second of a real episode. Do you recognise the podcast? Each wrong answer (or “more sound”) makes the clip longer: 3, 6, 10, 16, then 25 seconds. Two nudges come along the way: the category, then the episode title.",
+  "Les jours où le podcast du jour est une chaîne YouTube, pas de son : il se cache derrière six indices écrits, du plus flou au plus évident (catégorie, année de création, format, actu du jour, initiales de l'auteur, pochette floutée).": "On days when the podcast of the day is a YouTube channel, there's no sound: it hides behind six written clues, from vaguest to most obvious (category, launch year, format, today's news, the creator's initials, blurred cover).",
+  "de MediaCritic, choisi chaque matin parce qu'il parle de l'actualité. Les extraits sont lus directement depuis le flux officiel de l'émission. Une partie par jour, nouvelle partie à minuit (heure de Paris). Tes séries et statistiques restent dans ton navigateur : aucune inscription, aucune donnée envoyée.": "of MediaCritic, picked every morning because it covers the news. Clips play straight from the show's official feed. One game a day, new game at midnight (Paris time). Your streaks and stats stay in your browser: no sign-up, no data sent.",
+  "👂 Jouer à L’Oreille": "👂 Play L'Oreille"
  },
  "blocs": {
   "MediaCritic est le podcast francophone indépendant qui analyse, critique et note des podcasts, émissions et chaînes YouTube. Chaque semaine, Alex et Lolo (et parfois leurs invité·e·s) décortiquent un média comme on analyserait un film — avec méthode, passion et humour. Retrouvez toutes nos notes au Palmarès. Disponible sur Spotify, Deezer, Apple Podcasts et YouTube.": "MediaCritic is an independent podcast, recorded in French, that analyses, reviews and rates podcasts, shows and YouTube channels. Every week, Alex and Lolo (sometimes with guests) dissect a media outlet the way you'd analyse a film — with method, passion and humour. Find all our scores in the <a href=\"../palmares.html\" style=\"color:var(--c-orange)\">Top reviews</a>. Available on Spotify, Deezer, Apple Podcasts and YouTube.",

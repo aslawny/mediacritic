@@ -1,4 +1,12 @@
-# Le Mystère du Jour — publier chaque matin (moins de 2 minutes)
+# L'Oreille (ex-Mystère du Jour) — publier chaque matin (moins de 2 minutes)
+
+**Depuis le 25/11/2026, le jeu s'appelle L'Oreille** (même adresse `/mystere`).
+Les jours où le podcast du jour a un épisode audio, on le fait deviner au son :
+1 s d'extrait, puis 3, 6, 10, 16 et 25 s à chaque erreur ; coup de pouce
+« catégorie » au 4e essai, titre de l'épisode (nom de l'émission masqué) au 6e.
+L'extrait est lu depuis le flux officiel, à ~18 % de l'épisode
+(`PART_DEBUT` dans `generate_mystere.py`). Les jours de chaîne YouTube (pas de
+son extractible), le jeu garde les 6 indices écrits ci-dessous.
 
 **En temps normal : rien à faire.** Le mystère *est* le podcast du jour. Chaque
 matin, le robot GitHub choisit le podcast du jour (`du_jour.py`, avant 10 h),
@@ -9,8 +17,9 @@ notre note et notre lecteur, sans intervention non plus.
 ## Le contrôle de 2 minutes (recommandé)
 
 1. Ouvrir https://www.mediacritic.fr/mystere en navigation privée (ta propre
-   partie n'est pas touchée) et jouer « Je donne ma langue au chat » :
-   la révélation montre la réponse, les 6 indices et le lecteur.
+   partie n'est pas touchée), écouter l'extrait de 1 s (des voix de l'émission,
+   pas une pub ?), puis « Je donne ma langue au chat » : la révélation montre
+   la réponse et le lecteur.
 2. Si un indice est faux ou faible (année, durée, initiales), ou si le lecteur
    ne joue pas : ouvrir `manifests/mystere-corrections.json` sur GitHub
    (bouton crayon), remplir la date du jour, valider (« Commit changes »).
@@ -23,7 +32,10 @@ notre note et notre lecteur, sans intervention non plus.
    jour ou enrichissement de nuit), ou tout de suite en lançant
    `python scripts/generate_mystere.py` puis en poussant.
 
-Clés possibles : `annee`, `duree_min`, `animateur`, `phrase`, `lecteur`
+Si l'extrait tombe sur une pub ou un blanc : `"son": {"debut": 600}` (secondes
+depuis le début de l'épisode), ou `"son": {"audio": "<mp3 officiel>", "debut": 600}`.
+
+Clés possibles : `son`, `annee`, `duree_min`, `animateur`, `phrase`, `lecteur`
 (`type` : spotify, apple, deezer ou youtube ; `src` : URL du lecteur
 *officiel* intégrable), `indices` (`{"2": {"cle": "…", "texte": "…"}}` pour
 remplacer l'indice n). Une valeur vide est ignorée.

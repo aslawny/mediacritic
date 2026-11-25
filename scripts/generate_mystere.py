@@ -30,6 +30,7 @@ Usage : python scripts/generate_mystere.py [--sans-reseau]
 import argparse
 import base64
 import io
+import html
 import json
 import re
 import statistics
@@ -350,12 +351,52 @@ def indices(c, f, info):
 
 def alias(titre):
     """Reponses acceptees : le titre, et sa partie avant un sous-titre."""
-    out = {normaliser(titre)}
-    for sep in (" - ", " — ", " – ", " : ", " | ", " ("):
-        if sep in titre:
-            out.add(normaliser(titre.split(sep)[0]))
+    formes = [titre] + [titre.split(sep)[0] for sep in (" - ", " — ", " – ", " : ", " | ", " (") if sep in titre]
+    out = {normaliser(f) for f in formes}
+    # Sans article de tete : « grosses tetes » = « Les Grosses Têtes » (25/11/2026).
+    # DOIT rester identique a sansArticle() de assets/mystere.js.
+    for f in formes:
+        court = normaliser(re.sub(r"^(les|le|la|l['’]|un|une|the)\s*", "", f.strip(), flags=re.I))
+        if len(court) >= 3:
+            out.add(court)
     out.discard("")
     return sorted(out)
+
+
+# L'Oreille (25/11/2026) : les jours ou le podcast du jour a un episode
+# audio, on fait deviner au son. Extrait pris a ~18 % de l'episode (apres le
+# generique, avant la plupart des pubs de mi-parcours). Les jours de chaine
+# YouTube (pas de son extractible), on garde les 6 indices ecrits.
+PART_DEBUT = 0.18
+
+
+def masquer(titre_ep, emission):
+    """Titre d'episode sans les mots du nom de l'emission (sinon il la donne)."""
+    out = titre_ep or ""
+    for mot in re.findall(r"[\w']+", emission or ""):
+        if len(mot) > 3:
+            out = re.sub(re.escape(mot), "•••", out, flags=re.I)
+    return out
+
+
+def son_du_jour(c, f, corr):
+    """{audio, debut, episode} ou None. Correction possible : "son": {"debut": 600}
+    ou {"audio": url, "debut": s}."""
+    if c.get("type") == "youtube":
+        return None
+    eps = [e for e in (f.get("episodes_recents") or []) if e.get("audio") and (e.get("duree") or 0) >= 300]
+    cible = normaliser((c.get("episode") or {}).get("titre"))
+    ep = next((e for e in eps if cible and normaliser(e.get("titre"))[:40] == cible[:40]), None)         or (eps[0] if eps else None)
+    fix = corr.get("son") or {}
+    if not ep and not fix.get("audio"):
+        return None
+    ep = ep or {}
+    audio = fix.get("audio") or ep["audio"]
+    debut = fix.get("debut")
+    if debut is None:
+        debut = max(30, int((ep.get("duree") or 600) * PART_DEBUT))
+    return {"audio": audio, "debut": int(debut),
+            "episode": masquer(ep.get("titre") or "", c.get("titre"))}
 
 
 def construire(c, info, corr):
@@ -371,7 +412,7 @@ def construire(c, info, corr):
             ind[int(i) - 1] = v
     avis = notre_avis(c["slug"])
     phrase = corr.get("phrase") or c.get("presentation") or ""
-    phrase = re.sub(r"\s+", " ", phrase).strip()
+    phrase = re.sub(r"\s+", " ", html.unescape(phrase)).strip()
     if len(phrase) > 220:
         phrase = phrase[:217].rsplit(" ", 1)[0] + "…"
     rev = {
@@ -397,15 +438,18 @@ def construire(c, info, corr):
     n = (date.fromisoformat(c["date"]) - LANCEMENT).days + 1
     charge = {"n": n, "r": [empreinte(a) for a in alias(c["titre"])],
               "indices": ind, "rev": rev}
+    son = son_du_jour(c, f, corr)
+    if son:
+        charge["son"] = son
     return base64.b64encode(json.dumps(charge, ensure_ascii=False).encode("utf-8")).decode("ascii")
 
 
 # --------------------------------------------------------------------------
 # Page
 # --------------------------------------------------------------------------
-TITRE = "Le Mystère du Jour — devine le podcast | MediaCritic"
-DESC = ("Chaque jour, un podcast ou une chaîne YouTube à deviner en 6 indices. "
-        "Joue, partage ton score et découvre l'émission du jour. Gratuit, sans inscription.")
+TITRE = "L'Oreille — reconnais le podcast du jour au son | MediaCritic"
+DESC = ("Le jeu quotidien de MediaCritic : reconnais le podcast du jour en l'écoutant, "
+        "1 seconde d'abord, un peu plus à chaque erreur. Gratuit, sans inscription.")
 
 
 def page():
@@ -415,9 +459,9 @@ def page():
          "isPartOf": {"@id": BASE + "/#website"}},
         {"@type": "BreadcrumbList", "itemListElement": [
             {"@type": "ListItem", "position": 1, "name": "MediaCritic", "item": BASE + "/"},
-            {"@type": "ListItem", "position": 2, "name": "Le Mystère du Jour",
+            {"@type": "ListItem", "position": 2, "name": "L'Oreille",
              "item": f"{BASE}/mystere.html"}]}]}
-    og = f"{BASE}/assets/mystere-og.png"
+    og = f"{BASE}/assets/oreille-og.png"
     html = f"""<!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -431,8 +475,8 @@ def page():
 <link rel="canonical" href="{BASE}/mystere.html" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{BASE}/mystere.html" />
-<meta property="og:title" content="Le Mystère du Jour : devine le podcast en 6 indices" />
-<meta property="og:description" content="Un podcast à deviner chaque jour. Tu le trouves en combien ?" />
+<meta property="og:title" content="L'Oreille : reconnais le podcast du jour au son" />
+<meta property="og:description" content="1 seconde de son, puis un peu plus à chaque erreur. Tu le trouves en combien ?" />
 <meta property="og:image" content="{og}" />
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
@@ -440,8 +484,8 @@ def page():
 <meta property="og:site_name" content="MediaCritic" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:site" content="@MediaCriticInc" />
-<meta name="twitter:title" content="Le Mystère du Jour : devine le podcast en 6 indices" />
-<meta name="twitter:description" content="Un podcast à deviner chaque jour. Tu le trouves en combien ?" />
+<meta name="twitter:title" content="L'Oreille : reconnais le podcast du jour au son" />
+<meta name="twitter:description" content="1 seconde de son, puis un peu plus à chaque erreur. Tu le trouves en combien ?" />
 <meta name="twitter:image" content="{og}" />
 <link rel="icon" href="assets/logo.png" type="image/png" />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -453,13 +497,22 @@ def page():
 <nav></nav>
 <main class="mys" id="mys">
   <header class="mys-tete">
-    <p class="mys-sur">🕵️ Le jeu quotidien de MediaCritic</p>
-    <h1>Le Mystère du Jour</h1>
-    <p class="mys-sous" id="mys-numero">Devine le podcast du jour en 6 indices.</p>
+    <p class="mys-sur">👂 Le jeu quotidien de MediaCritic</p>
+    <h1>L'Oreille</h1>
+    <p class="mys-sous" id="mys-numero">Reconnais le podcast du jour au son.</p>
   </header>
 
   <section class="mys-jeu" id="mys-jeu" aria-labelledby="mys-titre-indices">
     <h2 id="mys-titre-indices" class="mys-vh">Les indices</h2>
+    <div class="mys-son" id="mys-son" hidden>
+      <button class="mys-jouer" id="mys-jouer" type="button" aria-label="Écouter l'extrait">
+        <svg class="mys-anneau" viewBox="0 0 152 152" aria-hidden="true"><circle class="fond" cx="76" cy="76" r="72"/><circle class="prog" id="mys-prog" cx="76" cy="76" r="72"/></svg>
+        <svg class="mys-ico" id="mys-ico" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M8 5.5v13a1 1 0 0 0 1.5.86l10.5-6.5a1 1 0 0 0 0-1.72L9.5 4.64A1 1 0 0 0 8 5.5z"/></svg>
+      </button>
+      <div class="mys-libelle" id="mys-libelle" aria-live="polite">Écouter 1 seconde</div>
+      <ol class="mys-paliers" id="mys-paliers" aria-label="Durée de l'extrait selon les essais"></ol>
+      <p class="mys-coup" id="mys-coup" hidden></p>
+    </div>
     <ol class="mys-indices" id="mys-indices" aria-live="polite"></ol>
     <div class="mys-carres" id="mys-carres" aria-hidden="true"></div>
     <form class="mys-form" id="mys-form" autocomplete="off" novalidate>
@@ -474,13 +527,14 @@ def page():
       <ul class="mys-sugg" id="mys-sugg" role="listbox" aria-label="Suggestions" hidden></ul>
       <p class="mys-aide" id="mys-aide">Accents et majuscules ne comptent pas.</p>
       <p class="mys-retour" id="mys-retour" role="status" aria-live="assertive"></p>
+      <button type="button" class="mys-btn mys-plus" id="mys-plus" hidden>Je ne sais pas, plus de son ▸</button>
       <button type="button" class="mys-btn mys-btn-lien" id="mys-passer">Je donne ma langue au chat</button>
     </form>
     <ul class="mys-essais" id="mys-essais" aria-label="Tes propositions"></ul>
   </section>
 
   <section class="mys-attente" id="mys-attente" hidden>
-    <h2>Le mystère du jour se prépare</h2>
+    <h2>La partie du jour se prépare</h2>
     <p>Il arrive avec le podcast du jour, avant 10 h (heure de Paris). Reviens tout à l'heure !</p>
   </section>
 
@@ -491,14 +545,15 @@ def page():
     <dl class="mys-chiffres" id="mys-chiffres"></dl>
     <h3 class="mys-h3">Répartition des essais</h3>
     <ol class="mys-distrib" id="mys-distrib"></ol>
-    <p class="mys-prochain">Prochain mystère dans <strong id="mys-compte">--:--:--</strong></p>
+    <p class="mys-prochain">Prochaine partie dans <strong id="mys-compte">--:--:--</strong></p>
     <p class="mys-note" id="mys-stockage" hidden>Ton navigateur bloque l'enregistrement : la partie fonctionne, mais ta série ne sera pas conservée.</p>
   </section>
 
   <section class="mys-regles">
     <h2>Comment jouer</h2>
-    <p>Chaque jour, un podcast ou une chaîne YouTube francophone se cache derrière six indices, du plus flou au plus évident : la catégorie, l'année de création, le format, l'actu du jour, les initiales de l'auteur, puis la pochette floutée. Chaque mauvaise réponse dévoile l'indice suivant.</p>
-    <p>La réponse est <a href="podcast-du-jour.html">le podcast du jour</a> de MediaCritic, choisi chaque matin parce qu'il parle de l'actualité. Une partie par jour, nouveau mystère à minuit (heure de Paris). Tes séries et statistiques restent dans ton navigateur : aucune inscription, aucune donnée envoyée.</p>
+    <p>Chaque jour, appuie sur le bouton et écoute : 1 seconde d'un vrai épisode. Tu reconnais le podcast ? Chaque mauvaise réponse (ou « plus de son ») allonge l'extrait : 3, 6, 10, 16 puis 25 secondes. Deux coups de pouce arrivent en route : la catégorie, puis le titre de l'épisode.</p>
+    <p>Les jours où le podcast du jour est une chaîne YouTube, pas de son : il se cache derrière six indices écrits, du plus flou au plus évident (catégorie, année de création, format, actu du jour, initiales de l'auteur, pochette floutée).</p>
+    <p>La réponse est <a href="podcast-du-jour.html">le podcast du jour</a> de MediaCritic, choisi chaque matin parce qu'il parle de l'actualité. Les extraits sont lus directement depuis le flux officiel de l'émission. Une partie par jour, nouvelle partie à minuit (heure de Paris). Tes séries et statistiques restent dans ton navigateur : aucune inscription, aucune donnée envoyée.</p>
   </section>
 </main>
 <footer></footer>

@@ -88,3 +88,29 @@ body{margin:0;background:var(--mc-bg);color:var(--mc-text)}
   .mys-carte img{width:120px;height:120px}
 }
 .mys-avis a,.mys-revel a:not(.mys-btn){color:#ff9a6b;text-decoration:underline;text-underline-offset:3px}
+
+/* L'Oreille (25/11/2026) : extrait audio, gros bouton rond + paliers de volume */
+.mys-son{display:flex;flex-direction:column;align-items:center;gap:14px;margin:0 0 var(--mc-s4);scroll-margin-top:80px}
+.mys-jouer{position:relative;width:132px;height:132px;margin-top:10px;border-radius:50%;border:0;padding:0;background:radial-gradient(circle at 35% 30%,#ff8a57,var(--mc-accent) 55%,#b8441a);color:var(--mc-on-accent);cursor:pointer;box-shadow:0 10px 40px rgba(232,98,45,.35);touch-action:manipulation;-webkit-tap-highlight-color:transparent;transition:transform .12s}
+.mys-jouer:active{transform:scale(.96)}
+.mys-jouer:focus-visible{outline:3px solid var(--mc-text);outline-offset:4px}
+.mys-anneau{position:absolute;inset:-10px;width:152px;height:152px;transform:rotate(-90deg);pointer-events:none}
+.mys-anneau circle{fill:none;stroke-width:5}
+.mys-anneau .fond{stroke:var(--mc-line-2)}
+.mys-anneau .prog{stroke:var(--mc-text);stroke-linecap:round;transition:stroke-dashoffset .06s linear}
+.mys-ico{width:46px;height:46px;display:block;margin:0 auto}
+.mys-jouer.charge .mys-ico{animation:mys-pulse 1s ease-in-out infinite}
+@keyframes mys-pulse{50%{opacity:.35}}
+.mys-libelle{font-weight:700;font-size:17px;min-height:1.3em}
+.mys-paliers{display:flex;align-items:flex-end;justify-content:center;gap:8px;height:64px;margin:0 0 22px;padding:0;list-style:none}
+.mys-paliers li{width:34px;border-radius:6px 6px 3px 3px;background:var(--mc-surface-2);border:1px solid var(--mc-line);position:relative;transition:background .25s}
+.mys-paliers li span{position:absolute;left:0;right:0;bottom:-20px;text-align:center;font-size:11px;color:var(--mc-text-3);font-variant-numeric:tabular-nums}
+.mys-paliers li.ouvert{background:var(--mc-accent);border-color:var(--mc-accent)}
+.mys-paliers li.rate{background:rgba(232,98,45,.25);border-color:rgba(232,98,45,.45)}
+.mys-paliers li.gagne{background:#3fbf7f;border-color:#3fbf7f}
+.mys-paliers li.ouvert span,.mys-paliers li.gagne span{color:var(--mc-text);font-weight:700}
+.mys-coup{align-self:stretch;margin:0;background:var(--mc-surface);border:1px solid var(--mc-accent);border-radius:var(--mc-r-md);padding:10px 14px;font-size:15px;animation:mys-entree .35s ease-out}
+.mys-coup b{display:block;font-size:var(--mc-fs-label);letter-spacing:.06em;text-transform:uppercase;color:var(--mc-accent);margin-bottom:2px}
+.mys-plus{width:100%;margin-top:10px;background:none;border-style:dashed;color:var(--mc-text-2);font-weight:600}
+.mys-essais li.mys-passe{text-decoration:none;color:var(--mc-text-3);background:none;border-style:dashed}
+@media (prefers-reduced-motion:reduce){.mys-jouer.charge .mys-ico,.mys-coup{animation:none}}

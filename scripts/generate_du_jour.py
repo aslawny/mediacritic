@@ -177,13 +177,13 @@ def verrou(c, interieur, prefixe=""):
     if not cache_mystere(c):
         return interieur
     cache = (f'<div class="mcj-cache" role="group" aria-label="Le podcast du jour est caché">'
-             f'<span class="mcj-cache-ico" aria-hidden="true">🕵️</span><div>'
+             f'<span class="mcj-cache-ico" aria-hidden="true">👂</span><div>'
              f'<p class="mcj-eyebrow">Le podcast du jour · {h(date_fr(c["date"]))}</p>'
              f'<p class="mcj-cache-titre">Qui est le podcast du jour ?</p>'
-             f'<p>Il se dévoile quand tu as joué au <strong>Mystère du Jour</strong> : devine-le '
-             f'en 6 indices, puis reviens l’écouter ici.</p>'
+             f'<p>Il se dévoile quand tu as joué à <strong>L’Oreille</strong> : reconnais-le au son, '
+             f'puis reviens l’écouter ici.</p>'
              f'<div class="mcj-actions"><a class="mcj-btn mcj-btn-1" href="{prefixe}mystere.html">'
-             f'🕵️ Jouer au Mystère du Jour</a>'
+             f'👂 Jouer à L’Oreille</a>'
              f'<button type="button" class="mcj-btn mcj-btn-sans-jeu" onclick="{h(DEVOILER_JS)}">'
              f'👀 Découvrir le podcast du jour sans jouer</button></div></div></div>')
     return f'<div class="mcj-verrou" data-mys-date="{h(c["date"])}">{cache}{interieur}</div>' + VERROU_JS
@@ -237,10 +237,10 @@ def page_archive(hist):
     og_desc = dernier["pourquoi"]
     if cache_mystere(dernier):
         # Un apercu de lien (reseaux, messageries) ne doit pas donner la reponse.
-        og = f"{BASE}/assets/mystere-og.png"
+        og = f"{BASE}/assets/oreille-og.png"
         og_titre = "Le podcast du jour : sauras-tu le deviner ?"
         og_desc = ("Chaque matin, un podcast ou une chaîne YouTube qui parle de l'actu. "
-                   "Devine-le en 6 indices avec le Mystère du Jour, puis écoute-le.")
+                   "Reconnais-le au son avec L'Oreille, puis écoute-le.")
     ld = {"@context": "https://schema.org", "@graph": [
         {"@type": "CollectionPage", "@id": f"{BASE}/{PAGE}", "url": f"{BASE}/{PAGE}",
          "name": titre, "description": desc, "inLanguage": "fr-FR",
@@ -294,7 +294,7 @@ a{{color:inherit}}
 <p>Chaque jour, l'actu qui fait le buzz et l'émission de <a href="catalogue.html">notre
 annuaire</a> qui en parle : un podcast ou une chaîne YouTube francophone à écouter pour aller
 plus loin que les gros titres.</p>
-<a class="mys-appel" href="mystere.html"><span class="mys-appel-ico" aria-hidden="true">🕵️</span><span><strong>Le Mystère du Jour</strong><span>Devine-le avant de l'écouter : le podcast du jour en 6 indices →</span></span></a>
+<a class="mys-appel" href="mystere.html"><span class="mys-appel-ico" aria-hidden="true">👂</span><span><strong>L'Oreille</strong><span>Reconnais-le au son avant de l'écouter : le jeu du podcast du jour →</span></span></a>
 <section class="mcj-zone">{verrou(dernier, carte(dernier, titre_tag="h2", lien_archive=False))}</section>
 {archive}
 </main>
