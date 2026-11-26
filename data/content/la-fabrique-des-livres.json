@@ -30,26 +30,36 @@
   "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Henri Sannier : le jour où j’ai réappris à marcher",
+      "date": "2026-11-24",
+      "audio": "https://sphinx.acast.com/p/open/s/699bf875240b4a2d75bf237f/e/6a326db6883f9289e9ff3fd0/media.mp3",
+      "duree": 3637
+    },
+    {
+      "titre": "Gilles Legardinier : « Je déteste subir la vie »",
+      "date": "2026-11-20",
+      "audio": "https://sphinx.acast.com/p/open/s/699bf875240b4a2d75bf237f/e/6a3265345926b9ca347985b0/media.mp3",
+      "duree": 3641
+    },
+    {
+      "titre": "Fabienne Bichet raconte comment elle a échappé à une tentative d’enlèvement à des fins d’esclavage sexuel",
+      "date": "2026-11-17",
+      "audio": "https://sphinx.acast.com/p/open/s/699bf875240b4a2d75bf237f/e/6a3274c82a769315bacb6506/media.mp3",
+      "duree": 3813
+    },
+    {
+      "titre": "Bernard Minier : « Ce que j’ai écrit est en train d’arriver »",
+      "date": "2026-11-15",
+      "audio": "https://sphinx.acast.com/p/open/s/699bf875240b4a2d75bf237f/e/6a326a5ea43c1651f439b9f4/media.mp3",
+      "duree": 4105
+    },
+    {
       "titre": "Laurent Saulnier : Le diable dans l'assiette",
-      "date": "2026-08-20"
-    },
-    {
-      "titre": "Nicolas Beuglet : Transylvania",
-      "date": "2026-07-27"
-    },
-    {
-      "titre": "Camille Brunel : Un phare sous l'océan",
-      "date": "2026-07-26"
-    },
-    {
-      "titre": "Frédéric Potier - La Taupe de l'Élysée",
-      "date": "2026-07-18"
-    },
-    {
-      "titre": "Céline Denjean : La Mue",
-      "date": "2026-07-13"
+      "date": "2026-08-20",
+      "audio": "https://sphinx.acast.com/p/open/s/699bf875240b4a2d75bf237f/e/6a32990d2a769315badaf9d6/media.mp3",
+      "duree": 3945
     }
   ],
-  "derniere_activite": "2026-08-20",
-  "frequence_jours": 3
+  "derniere_activite": "2026-11-24",
+  "frequence_jours": 4
 }

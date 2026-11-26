@@ -63,25 +63,29 @@
   "derniere_activite": "2026-07-23",
   "frequence_jours": 29,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-27",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Bapt-LJ",
+        "titre": "Inspirant",
+        "texte": "Ce podcast m’a accompagné tout au long de ma classe préparatoire pour suivre les enjeux de le tech et de l’entrepreneuriat afin de mieux comprendre le domaine du VC. Sans cela je n’aurais pas eu d’école. Chill !"
+      },
+      {
+        "note": 5,
+        "auteur": "Sopopo",
+        "titre": "Génial !",
+        "texte": "Un super podcast, très instructif, dans lequel on plonge dans la tête des entrepreneurs/guests, qui donnent plein de tips pratiques aux gens qui veulent se lancer! Hâte d’écouter les prochains épisodes"
+      },
+      {
+        "note": 5,
+        "auteur": "Daveyanyan",
+        "titre": "Très instructif",
+        "texte": "Un podcast où on apprend vraiment des choses sur l’entrepreneuriat et sur les nouveaux secteurs de l’économie. Les invités sont vraiment intéressants et le ton est simple et très pédagogique"
+      }
     ]
   }
 }

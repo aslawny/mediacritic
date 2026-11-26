@@ -31,23 +31,33 @@
   "episodes_recents": [
     {
       "titre": "Projet dernière chance",
-      "date": "2026-11-08"
+      "date": "2026-11-08",
+      "audio": "https://cmdl.studiocartonc.fr/play.php?podcast=CMDL&episode=23.mp3",
+      "duree": 7540
     },
     {
       "titre": "CMDD - Des dieux grecs ou des meurtres ?",
-      "date": "2026-09-24"
+      "date": "2026-09-24",
+      "audio": "https://cmdl.studiocartonc.fr/play.php?podcast=CMDL&episode=22.mp3",
+      "duree": 998
     },
     {
       "titre": "Nimona",
-      "date": "2026-08-27"
+      "date": "2026-08-27",
+      "audio": "https://cmdl.studiocartonc.fr/play.php?podcast=CMDL&episode=21.mp3",
+      "duree": 5610
     },
     {
       "titre": "CMDD - Des poètes ou de l'espace ?",
-      "date": "2026-07-30"
+      "date": "2026-07-30",
+      "audio": "https://cmdl.studiocartonc.fr/play.php?podcast=CMDL&episode=19.mp3",
+      "duree": 953
     },
     {
       "titre": "Charlie et la chocolaterie",
-      "date": "2026-06-25"
+      "date": "2026-06-25",
+      "audio": "https://cmdl.studiocartonc.fr/play.php?podcast=CMDL&episode=17.mp3",
+      "duree": 6091
     }
   ],
   "derniere_activite": "2026-11-08",

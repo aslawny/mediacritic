@@ -62,25 +62,29 @@
   "derniere_activite": "2026-11-20",
   "frequence_jours": 1,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-27",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "El amrani amal",
+        "titre": "Soleil sur Toi Ibby",
+        "texte": "Ibby alias ibtissame est la fille qu’il nous faut dans nos vies wesh ! Ces podcast sont un condensé de bonne humeur, de réflexion profonde, d’honnêteté, d’humour et en plus de ça elle a une voix qui te donne ou redonne le sourire direct …"
+      },
+      {
+        "note": 5,
+        "auteur": "un.livre_une.chronique",
+        "titre": "IN-CRO-YABLE",
+        "texte": "Écouter Ibby, c’est écouter un rayon de soleil qui t’apporte une bonne humeur énorme et qui te donne un grand sourire. Écouter Ibby, c’est se laisser surprendre par des sujets sérieux, profonds, qu’elle aborde de manière complète pour nous apporter réflexions et prises de conscie…"
+      },
+      {
+        "note": 5,
+        "auteur": "linyarouabaa",
+        "titre": "M E R C I.",
+        "texte": "Très sincèrement je suis au 3eme épisode et je suis devenue accro à tes podcasts. Je me reconnais dans TOUT ce que tu dis… Il faut que je travaille encore plus sur moi je m’en rends de plus en plus compte.…"
+      }
     ]
   }
 }

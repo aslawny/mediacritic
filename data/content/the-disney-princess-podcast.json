@@ -30,15 +30,21 @@
   "episodes_recents": [
     {
       "titre": "Ep. 3: Fantasia",
-      "date": "2020-01-16"
+      "date": "2020-01-16",
+      "audio": "https://anchor.fm/s/113f20a8/podcast/play/9722353/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-16%2F43663809-44100-2-73a6b119fe8b5.mp3",
+      "duree": 1116
     },
     {
       "titre": "Ep. 2: Pinocchio",
-      "date": "2020-01-09"
+      "date": "2020-01-09",
+      "audio": "https://anchor.fm/s/113f20a8/podcast/play/9576209/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-9%2F42684115-44100-2-b4cfd05aa0b5a.mp3",
+      "duree": 747
     },
     {
       "titre": "Ep. 1: Snow White and The Seven Dwarfs",
-      "date": "2020-01-01"
+      "date": "2020-01-01",
+      "audio": "https://anchor.fm/s/113f20a8/podcast/play/9438421/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-1%2F41595730-44100-2-7712f1391e5f.mp3",
+      "duree": 925
     }
   ],
   "derniere_activite": "2020-01-16",

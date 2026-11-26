@@ -28,13 +28,24 @@
   "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Adèle Castillon : Entre le 19e siècle, Internet et le Dalaï-Lama",
+      "date": "2026-11-19",
+      "audio": "https://sphinx.acast.com/p/open/s/6ad136fd68b7ce6ffb596354/e/6afd8c7d813f9c9b5c443ea8/media.mp3",
+      "duree": 2692
+    },
+    {
       "titre": "Ezek : Comment rebondir après un flop ?",
-      "date": "2026-11-05"
+      "date": "2026-11-05",
+      "audio": "https://sphinx.acast.com/p/open/s/6ad136fd68b7ce6ffb596354/e/6aec88538ebf2f2ca1cd93c2/media.mp3",
+      "duree": 2557
     },
     {
       "titre": "Piche : Rappeuse et drag queen, pourquoi choisir ?",
-      "date": "2026-10-22"
+      "date": "2026-10-22",
+      "audio": "https://sphinx.acast.com/p/open/s/6ad136fd68b7ce6ffb596354/e/6ad9244013113bbc7602f199/media.mp3",
+      "duree": 3412
     }
   ],
-  "derniere_activite": "2026-11-05"
+  "derniere_activite": "2026-11-19",
+  "frequence_jours": 14
 }

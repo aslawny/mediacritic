@@ -29,19 +29,27 @@
   "episodes_recents": [
     {
       "titre": "Ailleurs chez nous, le podcast des Greeters à Nancy",
-      "date": "2023-01-09"
+      "date": "2023-01-09",
+      "audio": "https://anchor.fm/s/81976338/podcast/play/63115479/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-5%2F6bb3d11b-1944-a215-974e-6818d9095d47.mp3",
+      "duree": 700
     },
     {
       "titre": "Ailleurs chez nous, le podcast des Greeters à Saint Gervais Mont Blanc",
-      "date": "2022-11-15"
+      "date": "2022-11-15",
+      "audio": "https://anchor.fm/s/81976338/podcast/play/60659189/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-15%2F297113877-44100-2-a6b947fe60249.m4a",
+      "duree": 1102
     },
     {
       "titre": "Ailleurs chez nous, le podcast des greeters (TEASER)",
-      "date": "2022-02-08"
+      "date": "2022-02-08",
+      "audio": "https://anchor.fm/s/81976338/podcast/play/47342544/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-8%2F858e06b6-dc24-f2e5-18ad-4cf31a0fe66c.mp3",
+      "duree": 66
     },
     {
       "titre": "Ailleurs chez nous, le podcast des greeters à Marseille",
-      "date": "2022-02-07"
+      "date": "2022-02-07",
+      "audio": "https://anchor.fm/s/81976338/podcast/play/47117619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-3%2F245933461-44100-2-5342b9c303aac.m4a",
+      "duree": 1018
     }
   ],
   "derniere_activite": "2023-01-09",

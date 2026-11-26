@@ -27,26 +27,31 @@
   "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Fanny Vicens, pianiste et accordéoniste française",
+      "date": "2026-11-22",
+      "audio": "http://audio-rcj.s3.eu-west-1.amazonaws.com/00-2026-11/2026_11_22_AU_DIAPASON_FH_FANNY_VICENS.mp3"
+    },
+    {
       "titre": "Lola Descours – Partie 2",
-      "date": "2026-11-08"
+      "date": "2026-11-08",
+      "audio": "http://audio-rcj.s3.eu-west-1.amazonaws.com/00-2026-11/2026_11_08_AU_DIAPASON_FH_LOLA_DESCOURS_PART_2.mp3"
     },
     {
       "titre": "Lola Descours – Partie 1",
-      "date": "2026-11-01"
+      "date": "2026-11-01",
+      "audio": "http://audio-rcj.s3.eu-west-1.amazonaws.com/00-2026-11/2026_11_01_AU_DIAPASON_FH_LOLA_DESCOURS_PART_1.mp3"
     },
     {
       "titre": "Agathe Peyrat, soprano, et Pierre Cussac, accordéoniste",
-      "date": "2026-10-25"
+      "date": "2026-10-25",
+      "audio": "http://audio-rcj.s3.eu-west-1.amazonaws.com/00-2026-10/2026_10_25_AU_DIAPASON_FH_AGATHE_PEYRAT_SOPRANO_ET_PIERRE_CUSSAC_ACORDEONISTE.mp3"
     },
     {
       "titre": "Anaëlle Tourret, harpiste – Partie 2",
-      "date": "2026-10-18"
-    },
-    {
-      "titre": "Anaëlle Tourret, harpiste – Partie 1",
-      "date": "2026-10-11"
+      "date": "2026-10-18",
+      "audio": "http://audio-rcj.s3.eu-west-1.amazonaws.com/00-2026-10/2026_10_18_AU_DIAPASON_FH_ANAELLE_TOURRET_HARPISTE_PART2.mp3"
     }
   ],
-  "derniere_activite": "2026-11-08",
+  "derniere_activite": "2026-11-22",
   "frequence_jours": 7
 }

@@ -59,25 +59,29 @@
   "derniere_activite": "2021-02-20",
   "frequence_jours": 31,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-27",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ERNEST 12",
+        "titre": "Rg 83",
+        "texte": "J’adore mais pourquoi cette épopée de 83 ne se poursuit pas ...vous nous aviez annoncé 4 podcasts sur le sujet nous en avons écouté un du coup on reste sur sa faim 😩"
+      },
+      {
+        "note": 5,
+        "auteur": "maxetmia",
+        "titre": "Max TL🎾",
+        "texte": "Super idée d’être aller chercher Quentin Reynaud et très bonnes questions!! Merci pour ce bon moment"
+      },
+      {
+        "note": 5,
+        "auteur": "Thomacos",
+        "titre": "Passionnant",
+        "texte": "J’ai trouvé passionnant l’episode avec Mouratoglou, j’espere qu’il y en aura d’autres"
+      }
     ]
   }
 }

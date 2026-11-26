@@ -63,25 +63,29 @@
   "derniere_activite": "2025-11-05",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-27",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Lisrmd",
+        "titre": "Très intéressant!",
+        "texte": "J’ai découvert ce podcast avec l’épisode « Débuter le Digital Nomadisme » et je l’ai trouvé vraiment instructif. Pour quelqu’un comme moi qui envisage ce mode de vie c’est vraiment intéressant d’avoir le ressenti et les explications d’une autre personne qui est déjà lancée.…"
+      },
+      {
+        "note": 5,
+        "auteur": "France Baladeuse Podcast",
+        "titre": "Questionner le voyage et bien plus encore !",
+        "texte": "Les Coulisses du voyage ce n’est pas simplement un podcast pour préparer ses futurs trips. C’est aussi un podcast idéal pour interroger nos pratiques, nos peurs, nos comportements de voyageurs.…"
+      },
+      {
+        "note": 5,
+        "auteur": "AnneSo de Je fais de mon Mieux",
+        "titre": "Partir à l'aventure !",
+        "texte": "Merci Laura pour ce podcast ! Grande voyageuse, en ce moment comme pour tout le monde c'est compliqué. Avec ton épisode sur les 10 conseils pour voyager proche de chez soi, j'avoue que tu m'as donné plein d'idées et que tu m'as bien remotivé, d'autant plus que je ne vis pas dans…"
+      }
     ]
   }
 }

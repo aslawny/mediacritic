@@ -61,25 +61,29 @@
   "derniere_activite": "2026-06-01",
   "frequence_jours": 36,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-27",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "M'irrite",
+        "titre": "Très bien sans \"mais\"😊",
+        "texte": "la musique de fond trop forte est arrêtée, parfait!!!! On vous entend bien, maintenant. Continuez. Tres bonne émission! 7 ans que j'écoute des podcast \"Tech\" et sans flatterie, je vous classe, à présent, dans mon top 5. A découvrir.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Roch Voisine94",
+        "titre": "Un bordel salutaire",
+        "texte": "Un podcast que l’on écoute comme on retrouve des vieux potes, à la manière bordélique d’un Super Gamerside. Quelque soit sa mouture à travers les années, j’ai souvent envie de me refarcir les anciens, ce qui est bon signe.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Grungysharky",
+        "titre": "Marvelous !!",
+        "texte": "Podcast JV que je mets dans mon top 3 : on a vraiment l'impression d'être avec une bande de potes et de parler des jeux qui nous ont marqué et auxquels on joue en ce moment.…"
+      }
     ]
   }
 }

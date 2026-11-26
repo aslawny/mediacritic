@@ -28,26 +28,36 @@
   "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Miss Marple : le secret de la lettre H | Agatha Christie livre audio intégral",
+      "date": "2026-11-20",
+      "audio": "https://api.spreaker.com/download/episode/75069303/utf_8_q_miss_5fmarple_5fy_5fla_5f_e2_80_9ch_e2_80_9d_5fma_utf_8_q_nuscrita_5f_misteriobrit_c3_a1_utf_8_q_nico_5f_agathachristie_5f_estiloagathachristie_m4a.mp3",
+      "duree": 10
+    },
+    {
+      "titre": "Miss Marple face au secret de Wychford | Agatha Christie livre audio intégral",
+      "date": "2026-11-17",
+      "audio": "https://api.spreaker.com/download/episode/75069262/miss_marple_y_la_viuda_de_wychford.mp3",
+      "duree": 13244
+    },
+    {
+      "titre": "Miss Marple et la porte verrouillée | Agatha Christie livre audio intégral",
+      "date": "2026-11-14",
+      "audio": "https://api.spreaker.com/download/episode/75069204/utf_8_q_miss_5fmarple_5fy_5fel_5fsecreto_5fd_utf_8_q_e_5fla_5fpuerta_5fdel_5fjard_c3_adn_m4a.mp3",
+      "duree": 8440
+    },
+    {
       "titre": "Miss Marple : un cadeau avant le meurtre | Agatha Christie livre audio intégral",
-      "date": "2026-11-11"
+      "date": "2026-11-11",
+      "audio": "https://api.spreaker.com/download/episode/75069164/miss_marple_y_el_regalo_envuelto_antes_del_asesinato.mp3",
+      "duree": 11249
     },
     {
       "titre": "MIss Marple : un meurtre dans le train | Agatha Christie livre audio intégral",
-      "date": "2026-11-08"
-    },
-    {
-      "titre": "Miss Marple : le meurtre à 2 h | Agatha Christie livre audio intégral",
-      "date": "2026-11-05"
-    },
-    {
-      "titre": "Miss Marple : l’enfant et la fausse tombe | Agatha Christie livre audio intégral",
-      "date": "2026-11-02"
-    },
-    {
-      "titre": "Miss Marple : le mort de 22 h | Agatha Christie livre audio intégral",
-      "date": "2026-10-30"
+      "date": "2026-11-08",
+      "audio": "https://api.spreaker.com/download/episode/75069132/miss_marple_y_el_perro_en_el_expreso_de_medianoche.mp3",
+      "duree": 7191
     }
   ],
-  "derniere_activite": "2026-11-11",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 3
 }

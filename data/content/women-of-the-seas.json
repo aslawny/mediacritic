@@ -63,25 +63,29 @@
   "derniere_activite": "2022-08-22",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-27",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "StephClementG",
+        "titre": "A écouter sans modération",
+        "texte": "Super podcast sur les femmes et l’Océan. Une fenêtre grande ouverte sur des personnalités hors du commun et des métiers passionnants. A écouter et à faire écouter. Pour rêver, inspirer, changer d’air et de regard sur les métiers de la mer."
+      },
+      {
+        "note": 5,
+        "auteur": "Isa Bretagne",
+        "titre": "Passionnant",
+        "texte": "Des témoignages variés et inspirants. Ce podcast nous ouvre les portes d’un monde méconnu, raconté dans un format épuré ! Au delà des récits, il nous amène à vivre la mer au quotidien. Je recommande."
+      },
+      {
+        "note": 5,
+        "auteur": "Hull25",
+        "titre": "Des récits et des femmes",
+        "texte": "Des portraits de femmes passionnantes qui portent une énergie bienfaisante et un regard lucide sur les métiers et les aventures de la mer...merci, bravo, continuez!! Le monteur est américain?"
+      }
     ]
   }
 }

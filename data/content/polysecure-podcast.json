@@ -27,22 +27,24 @@
   "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
-      "titre": "Teknik - L'histoire d'un honeypot GenAI - Parce que... c'est l'épisode 0x366!",
-      "date": "2026-11-11"
+      "titre": "Teknik - Complexité à la détection du malveillant - Parce que... c'est l'épisode 0x369!",
+      "date": "2026-11-18",
+      "audio": "https://polysecure.ca/episodes/PolySecure-0x369.m4a",
+      "duree": 3394
     },
     {
-      "titre": "Teknik - Clés privées GitHub App - Parce que... c'est l'épisode 0x365!",
-      "date": "2026-11-10"
+      "titre": "Teknik - Cataclysme des vulnérabilités - Parce que... c'est l'épisode 0x368!",
+      "date": "2026-11-17",
+      "audio": "https://polysecure.ca/episodes/PolySecure-0x368.m4a",
+      "duree": 4247
     },
     {
-      "titre": "Actu - 08 novembre 2026 - Parce que... c'est l'épisode 0x364!",
-      "date": "2026-11-09"
-    },
-    {
-      "titre": "Teknik - Sur l'IA dans le SOC - va t'elle le sauver ? Déconstruction des croyances, réalités du terrain, quest",
-      "date": "2026-11-04"
+      "titre": "Actu - 15 novembre 2026 - Parce que... c'est l'épisode 0x367!",
+      "date": "2026-11-16",
+      "audio": "https://polysecure.ca/episodes/PolySecure-0x367.m4a",
+      "duree": 2496
     }
   ],
-  "derniere_activite": "2026-11-11",
+  "derniere_activite": "2026-11-18",
   "frequence_jours": 1
 }

@@ -30,23 +30,33 @@
   "episodes_recents": [
     {
       "titre": "Arnaud Fossier - Les cathares, ennemis de l’intérieur",
-      "date": "2026-10-17"
+      "date": "2026-10-17",
+      "audio": "https://api.spreaker.com/download/episode/75838054/fossier.mp3",
+      "duree": 3581
     },
     {
       "titre": "Elsa Klée - Elsa & the Haters",
-      "date": "2026-10-17"
+      "date": "2026-10-17",
+      "audio": "https://api.spreaker.com/download/episode/75838041/elsaklee.mp3",
+      "duree": 2106
     },
     {
       "titre": "Lamine Ammar-Khodja - La partie immergée de l’iceberg. Éloge du GPS algérien",
-      "date": "2026-10-17"
+      "date": "2026-10-17",
+      "audio": "https://api.spreaker.com/download/episode/75838013/ammarkhodja.mp3",
+      "duree": 2673
     },
     {
       "titre": "Marie Heuzé - La paix, la force, le droit",
-      "date": "2026-10-17"
+      "date": "2026-10-17",
+      "audio": "https://api.spreaker.com/download/episode/75837993/utf_8_q_marieheuze_cc_81_mp3.mp3",
+      "duree": 1945
     },
     {
       "titre": "Patrick Bray - Oser le mauvais goût, le pari de Stendhal",
-      "date": "2026-10-17"
+      "date": "2026-10-17",
+      "audio": "https://api.spreaker.com/download/episode/75837958/brey.mp3",
+      "duree": 3146
     }
   ],
   "derniere_activite": "2026-10-17",

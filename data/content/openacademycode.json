@@ -29,25 +29,107 @@
   "episodes_recents": [
     {
       "titre": "CRUD Django Complet : Créer, Modifier et Supprimer des Données avec DaisyUI & TailwindCSS",
-      "date": "2026-06-23"
+      "date": "2026-06-23",
+      "video": "Tl52ufpraU8"
     },
     {
       "titre": "Django + Tailwind CSS : Le Setup PRO que personne ne t’explique 🔥",
-      "date": "2026-05-01"
+      "date": "2026-05-01",
+      "video": "0uFjLWntLCc"
     },
     {
       "titre": "Architecture MVT Django : Comprendre enfin Model View Template simplement !",
-      "date": "2026-04-18"
+      "date": "2026-04-18",
+      "video": "B7TN8NM7rvQ"
     },
     {
       "titre": "Apprendre Django de A à Z: Projet, Apps et Structure expliqués simplement",
-      "date": "2026-04-13"
+      "date": "2026-04-13",
+      "video": "1afKdUg-pNY"
     },
     {
       "titre": "UV le gestionnaire Python ultra rapide qui remplace pip, poetry, pipenv, virtualenv, 100x plus rapid",
-      "date": "2026-04-03"
+      "date": "2026-04-03",
+      "video": "Ey-Z7u-5oQQ"
     }
   ],
   "derniere_activite": "2026-06-23",
-  "frequence_jours": 10
+  "frequence_jours": 10,
+  "videos": [
+    {
+      "titre": "CRUD Django Complet : Créer, Modifier et Supprimer des Données avec DaisyUI & TailwindCSS",
+      "date": "2026-06-23",
+      "video": "Tl52ufpraU8"
+    },
+    {
+      "titre": "Django + Tailwind CSS : Le Setup PRO que personne ne t’explique 🔥",
+      "date": "2026-05-01",
+      "video": "0uFjLWntLCc"
+    },
+    {
+      "titre": "Architecture MVT Django : Comprendre enfin Model View Template simplement !",
+      "date": "2026-04-18",
+      "video": "B7TN8NM7rvQ"
+    },
+    {
+      "titre": "Apprendre Django de A à Z: Projet, Apps et Structure expliqués simplement",
+      "date": "2026-04-13",
+      "video": "1afKdUg-pNY"
+    },
+    {
+      "titre": "UV le gestionnaire Python ultra rapide qui remplace pip, poetry, pipenv, virtualenv, 100x plus rapid",
+      "date": "2026-04-03",
+      "video": "Ey-Z7u-5oQQ"
+    },
+    {
+      "titre": "Introduction à MySQL avec Python",
+      "date": "2023-01-27",
+      "video": "ExNyQxxzpE4"
+    },
+    {
+      "titre": "Visualisation de donnees",
+      "date": "2023-01-20",
+      "video": "R_mmdGrWRZI"
+    },
+    {
+      "titre": "Visualisation de donnees",
+      "date": "2023-01-12",
+      "video": "aF8Rbz_3rY8"
+    },
+    {
+      "titre": "Preparation de donnees",
+      "date": "2022-12-14",
+      "video": "g4SATnZQ48M"
+    },
+    {
+      "titre": "Comment combiner de dataframes",
+      "date": "2022-12-08",
+      "video": "utLXJQwNjd4"
+    },
+    {
+      "titre": "Visualisation de donnees",
+      "date": "2022-11-28",
+      "video": "Rd8Qz342GuE"
+    },
+    {
+      "titre": "Visualisation de donnees",
+      "date": "2022-11-04",
+      "video": "PgqKeBLem-g"
+    },
+    {
+      "titre": "Visualisation de donnees",
+      "date": "2022-10-31",
+      "video": "YilPnppyaoY"
+    },
+    {
+      "titre": "MAP, APPLY et APPLYMAP avec python",
+      "date": "2022-09-26",
+      "video": "N7OroZTdFIs"
+    },
+    {
+      "titre": "Nettoyage de données",
+      "date": "2022-09-07",
+      "video": "Syp2mWkyt3U"
+    }
+  ]
 }

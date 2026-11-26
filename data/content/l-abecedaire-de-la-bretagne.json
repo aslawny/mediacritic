@@ -27,23 +27,33 @@
   "episodes_recents": [
     {
       "titre": "S comme secondaire",
-      "date": "2024-06-25"
+      "date": "2024-06-25",
+      "audio": "https://api.octopus.saooti.com/podcast/download/715478.mp3?origin=rss",
+      "duree": 2371
     },
     {
       "titre": "E comme Enquête",
-      "date": "2024-05-15"
+      "date": "2024-05-15",
+      "audio": "https://api.octopus.saooti.com/podcast/download/653374.mp3?origin=rss",
+      "duree": 2243
     },
     {
       "titre": "L comme littérature",
-      "date": "2024-04-22"
+      "date": "2024-04-22",
+      "audio": "https://api.octopus.saooti.com/podcast/download/620664.mp3?origin=rss",
+      "duree": 2331
     },
     {
       "titre": "M comme Mort",
-      "date": "2024-03-15"
+      "date": "2024-03-15",
+      "audio": "https://api.octopus.saooti.com/podcast/download/560050.mp3?origin=rss",
+      "duree": 2170
     },
     {
       "titre": "T comme Transatlantique",
-      "date": "2024-02-19"
+      "date": "2024-02-19",
+      "audio": "https://api.octopus.saooti.com/podcast/download/527557.mp3?origin=rss",
+      "duree": 2215
     }
   ],
   "derniere_activite": "2024-06-25",

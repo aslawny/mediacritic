@@ -27,23 +27,33 @@
   "episodes_recents": [
     {
       "titre": "PALABRES NOCTURNES #4 - La première fois qu’on écoute une musique...",
-      "date": "2020-06-23"
+      "date": "2020-06-23",
+      "audio": "https://api.spreaker.com/download/episode/32675614/200623_0544_podcast.mp3",
+      "duree": 3360
     },
     {
       "titre": "PALABRES NOCTURNES #3 (l’amour pour les marques de matos...)",
-      "date": "2020-05-22"
+      "date": "2020-05-22",
+      "audio": "https://api.spreaker.com/download/episode/28078077/200522_0820_podcast.mp3",
+      "duree": 3204
     },
     {
       "titre": "PALABRES NOCTURNES #2 (qu’est ce qui nous définit, pourquoi ces passions irrépressibles et autre psycho de com",
-      "date": "2020-05-09"
+      "date": "2020-05-09",
+      "audio": "https://api.spreaker.com/download/episode/26980818/200509_0859_podcast.mp3",
+      "duree": 3435
     },
     {
       "titre": "PALABRES NOCTURNES #1 (thèmes : les temps étranges, les musiciens et la nuit, oser partager)",
-      "date": "2020-05-05"
+      "date": "2020-05-05",
+      "audio": "https://api.spreaker.com/download/episode/26784292/200505_0731_podcast.mp3",
+      "duree": 2425
     },
     {
       "titre": "7 FACONS DE GAGNER DE L’ARGENT DANS LA MUSIQUE",
-      "date": "2019-10-24"
+      "date": "2019-10-24",
+      "audio": "https://api.spreaker.com/download/episode/19671826/191024_0620_podcast.mp3",
+      "duree": 2485
     }
   ],
   "derniere_activite": "2020-06-23",

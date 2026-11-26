@@ -60,25 +60,29 @@
   "derniere_activite": "2026-11-18",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-27",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mosthelpful",
+    "releve": "2026-11-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "stea|th|ssues",
+        "titre": "Hexamazing !",
+        "texte": "Don Diablo and his Hexagon Radio are golden ! Anything Hex is a must !!! I listen to Don Diablo like he’s my religion. I suggest you do too :) !"
+      },
+      {
+        "note": 5,
+        "auteur": "justinhastobe2004",
+        "titre": "Best radio show",
+        "texte": "Don diablo my love and inspiration you make Amazing music and playlists for us to listen to each week"
+      },
+      {
+        "note": 5,
+        "auteur": "LouisPerzia",
+        "titre": "Great new show on iTunes. Its a must have podcast show.",
+        "texte": "If you like Group Therapy Above & Beyond, then you need to subscribe to this postcast show."
+      }
     ]
   }
 }

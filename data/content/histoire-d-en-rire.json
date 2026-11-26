@@ -59,25 +59,29 @@
   "derniere_activite": "2026-11-08",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-27",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Qüro",
+        "titre": "Un plaisir",
+        "texte": "C’est toujours aussi chouette de vous entendre raconter des histoires et des fun facts! Vivement le prochain !"
+      },
+      {
+        "note": 5,
+        "auteur": "Jeangeorges1er",
+        "titre": "Merveilleusement lunaire !",
+        "texte": "C'est LE podcast qu'il faut écouter si on veut ne rien comprendre à l'histoire."
+      },
+      {
+        "note": 5,
+        "auteur": "KornichButter",
+        "titre": "Série à succès",
+        "texte": "Encore du contenu de haute qualité que nous apporte le brave Davy et team."
+      }
     ]
   }
 }

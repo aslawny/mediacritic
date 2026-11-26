@@ -62,25 +62,23 @@
   "derniere_activite": "2025-08-05",
   "frequence_jours": 52,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-27",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Shinzolevrai",
+        "titre": "3615 éthique je dis allons-y",
+        "texte": "Un des meilleurs podcast de la plateforme. QI à deux chiffres passez votre chemin…quoique la valeur ASMR de l’émission peut vous concerner."
+      },
+      {
+        "note": 5,
+        "auteur": "_DecemberMan_",
+        "titre": "Excellente émission !",
+        "texte": "Je remercie Joakim, Olivier B et toute l'équipe PadawamHD pour cette excellente émission !"
+      }
     ]
   }
 }

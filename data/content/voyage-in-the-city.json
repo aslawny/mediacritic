@@ -53,5 +53,25 @@
     }
   ],
   "derniere_activite": "2021-06-20",
-  "frequence_jours": 28
+  "frequence_jours": 28,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "HenryGale",
+        "titre": "J’adore",
+        "texte": "Un excellent moyen de (re)visiter une ville par procuration ! On apprend la géographie de la ville, les lieux à ne pas manquer avec un background sociologique et historique ! J’ai adoré l’épisode sur Berlin ☺️"
+      },
+      {
+        "note": 5,
+        "auteur": "Laura-Les coulisses du voyage",
+        "titre": "hyper bien fait",
+        "texte": "je viens tout juste de découvrir et j'ai adoré l'épisode de Berlin. Le montage et la réalisation est top, le ton est super agréable et le contenu est très intéressant. Bravo"
+      }
+    ]
+  }
 }

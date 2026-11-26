@@ -28,26 +28,36 @@
   "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "L'Autre ciné : 24 novembre 2026",
+      "date": "2026-11-24",
+      "audio": "https://lesonunique.com/storage/winmedia/podcasts/26792.mp3",
+      "duree": 983
+    },
+    {
+      "titre": "L'Autre ciné : 17 novembre 2026",
+      "date": "2026-11-17",
+      "audio": "https://lesonunique.com/storage/winmedia/podcasts/26696.mp3",
+      "duree": 894
+    },
+    {
       "titre": "L'Autre ciné : 10 novembre 2026",
-      "date": "2026-11-10"
+      "date": "2026-11-10",
+      "audio": "https://lesonunique.com/storage/winmedia/podcasts/26606.mp3",
+      "duree": 1027
     },
     {
       "titre": "L'Autre ciné : 3 novembre 2026",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "audio": "https://lesonunique.com/storage/winmedia/podcasts/26506.mp3",
+      "duree": 1037
     },
     {
       "titre": "L'Autre ciné : 13 octobre 2026",
-      "date": "2026-10-13"
-    },
-    {
-      "titre": "L'Autre ciné : 29 septembre 2026",
-      "date": "2026-09-29"
-    },
-    {
-      "titre": "L'Autre ciné : 22 septembre 2026",
-      "date": "2026-09-22"
+      "date": "2026-10-13",
+      "audio": "https://lesonunique.com/storage/winmedia/podcasts/26225.mp3",
+      "duree": 972
     }
   ],
-  "derniere_activite": "2026-11-10",
+  "derniere_activite": "2026-11-24",
   "frequence_jours": 7
 }

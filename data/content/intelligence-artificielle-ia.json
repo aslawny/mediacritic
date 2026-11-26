@@ -29,23 +29,33 @@
   "episodes_recents": [
     {
       "titre": "OpenClaw Could Be 1st 1-Person $1B Company, OpenAI Buys",
-      "date": "2026-02-17"
+      "date": "2026-02-17",
+      "audio": "https://urssvgtxajzahaeqxdxw.supabase.co/functions/v1/track-download?episode_id=b0fd58b3-2d0f-47f6-9a74-5832c831d5e8&source=rss_app",
+      "duree": 1005
     },
     {
       "titre": "Runway lève 315 millions de dollars pour les modèles mondiaux d'IA",
-      "date": "2026-02-11"
+      "date": "2026-02-11",
+      "audio": "https://urssvgtxajzahaeqxdxw.supabase.co/functions/v1/track-download?episode_id=28594b8c-4da3-45b6-9e2c-5959ff639eff&source=rss_app",
+      "duree": 802
     },
     {
       "titre": "Anthropic lève 20 milliards de dollars à une valorisation de 350 milliards de dollars",
-      "date": "2026-02-10"
+      "date": "2026-02-10",
+      "audio": "https://urssvgtxajzahaeqxdxw.supabase.co/functions/v1/track-download?episode_id=10ef242b-7d4c-4694-8422-2eb62c23a3d0&source=rss_app",
+      "duree": 631
     },
     {
       "titre": "SpaceX demande à la FCC 1M de centres de données IA dans l'espace",
-      "date": "2026-02-06"
+      "date": "2026-02-06",
+      "audio": "https://urssvgtxajzahaeqxdxw.supabase.co/functions/v1/track-download?episode_id=b9703f68-40bc-4dd3-b210-d72b0b624c80&source=rss_app",
+      "duree": 677
     },
     {
       "titre": "Opus 4.6 d'Anthropic et Codex d'OpenAI : De nouveaux modèles d'IA en compétition",
-      "date": "2026-02-05"
+      "date": "2026-02-05",
+      "audio": "https://urssvgtxajzahaeqxdxw.supabase.co/functions/v1/track-download?episode_id=ae7debb4-4838-45d4-b800-ad181630e245&source=rss_app",
+      "duree": 628
     }
   ],
   "derniere_activite": "2026-02-17",

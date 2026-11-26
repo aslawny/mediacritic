@@ -26,26 +26,36 @@
   "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "La Matinale Week-End (Émission du 22/11/2026)",
+      "date": "2026-11-22",
+      "audio": "https://sphinx.acast.com/p/open/s/624d6bea811d6d0012957ecd/e/6b02a1d08e8174f98348a4e2/media.mp3",
+      "duree": 8795
+    },
+    {
+      "titre": "La Matinale Week-End (Émission du 15/11/2026)",
+      "date": "2026-11-15",
+      "audio": "https://sphinx.acast.com/p/open/s/624d6bea811d6d0012957ecd/e/6af965b5cc8db260ab0568d7/media.mp3",
+      "duree": 8271
+    },
+    {
+      "titre": "La Matinale Week-End (Émission du 14/11/2026)",
+      "date": "2026-11-14",
+      "audio": "https://sphinx.acast.com/p/open/s/624d6bea811d6d0012957ecd/e/6af81522e73460f57f8fac03/media.mp3",
+      "duree": 8664
+    },
+    {
       "titre": "La Matinale Week-End (Émission du 08/11/2026)",
-      "date": "2026-11-08"
+      "date": "2026-11-08",
+      "audio": "https://sphinx.acast.com/p/open/s/624d6bea811d6d0012957ecd/e/6af02cb09272884e57dc2a95/media.mp3",
+      "duree": 8641
     },
     {
       "titre": "La Matinale Week-End (Émission du 07/11/2026)",
-      "date": "2026-11-07"
-    },
-    {
-      "titre": "La Matinale Week-End (Émission du 01/11/2026)",
-      "date": "2026-11-01"
-    },
-    {
-      "titre": "La Matinale Week-End (Émission du 31/10/2026)",
-      "date": "2026-10-31"
-    },
-    {
-      "titre": "La Matinale Week-End (Émission du 31/10/2026)",
-      "date": "2026-10-31"
+      "date": "2026-11-07",
+      "audio": "https://sphinx.acast.com/p/open/s/624d6bea811d6d0012957ecd/e/6aeedb1ea942810f4c5e7e26/media.mp3",
+      "duree": 8752
     }
   ],
-  "derniere_activite": "2026-11-08",
+  "derniere_activite": "2026-11-22",
   "frequence_jours": 1
 }

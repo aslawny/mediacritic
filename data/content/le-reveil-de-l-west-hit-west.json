@@ -29,26 +29,36 @@
   "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
-      "titre": "LE REVEIL DE L'WEST AVEC ANNE-SO ET ROBIN DU 13 NOVEMBRE 2026",
-      "date": "2026-11-13"
+      "titre": "LE REVEIL DE L'WEST AVEC ANNE-SO ET ROBIN DU 25 NOVEMBRE 2026",
+      "date": "2026-11-25",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3107960.mp3?origin=rss",
+      "duree": 7200
     },
     {
-      "titre": "LE REVEIL DE L'WEST AVEC ANNE-SO ET ROBIN DU 12 NOVEMBRE 2026",
-      "date": "2026-11-12"
+      "titre": "LE REVEIL DE L'WEST AVEC ANNE-SO ET ROBIN DU 24 NOVEMBRE 2026",
+      "date": "2026-11-24",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3096918.mp3?origin=rss",
+      "duree": 7200
     },
     {
-      "titre": "LE REVEIL DE L'WEST AVEC ANNE-SO ET ROBIN DU 10 NOVEMBRE 2026",
-      "date": "2026-11-10"
+      "titre": "LE REVEIL DE L'WEST AVEC ANNE-SO ET ROBIN DU 23 NOVEMBRE 2026",
+      "date": "2026-11-23",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3085869.mp3?origin=rss",
+      "duree": 7200
     },
     {
-      "titre": "LE REVEIL DE L'WEST AVEC ANNE-SO ET ROBIN DU 09 NOVEMBRE 2026",
-      "date": "2026-11-09"
+      "titre": "LE REVEIL DE L'WEST AVEC ANNE-SO ET ROBIN DU 20 NOVEMBRE 2026",
+      "date": "2026-11-20",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3056089.mp3?origin=rss",
+      "duree": 7200
     },
     {
-      "titre": "LE REVEIL DE L'WEST AVEC ANNE-SO ET ROBIN DU 6 NOVEMBRE 2026",
-      "date": "2026-11-06"
+      "titre": "LE REVEIL DE L'WEST AVEC ANNE-SO ET ROBIN DU 19 NOVEMBRE 2026",
+      "date": "2026-11-19",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3045824.mp3?origin=rss",
+      "duree": 7200
     }
   ],
-  "derniere_activite": "2026-11-13",
-  "frequence_jours": 1
+  "derniere_activite": "2026-11-25",
+  "frequence_jours": 0
 }

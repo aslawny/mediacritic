@@ -63,25 +63,29 @@
   "derniere_activite": "2026-11-15",
   "frequence_jours": 30,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-27",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "divina2105",
+        "titre": "Merciii 🤲🏽🤲🏽✨",
+        "texte": "Salam Aleykoum , J’ai découvert ce podcast pendant ce mois béni et c’est un plaisir d’avoir écouté, ce dernier épisode m’a apaisé le cœur … serait il possible de faire des podcasts pour les convertis ( des conseils, astuces, livres, ramadan) Merciii pour cette belle découverte et…"
+      },
+      {
+        "note": 5,
+        "auteur": "Dihyaaa",
+        "titre": "Sujet hyper interessant",
+        "texte": "Cet épisode me touche beaucoup car tu as traversé une épreuve qui est dure, j’apprécie le fait que tu montres que le mariage n’est pas aussi rose qu’on pense. En tout cas tu peux être fière de toi car je sais personnellement ce que tu as vécu et tu as su surmonter ça."
+      },
+      {
+        "note": 5,
+        "auteur": "haoua❤️",
+        "titre": "Remerciements",
+        "texte": "Salem , Que ALLAH te récompense tu est incroyable ta voix est apaisante et tes mots inspirant . Que ALLAH te préserve tu parle de ta relation avec ALLAH et de l’hypersensibilité d’une grande sagesse 🤍 Continue de briller ma sœur"
+      }
     ]
   }
 }

@@ -59,5 +59,31 @@
     }
   ],
   "derniere_activite": "2026-10-08",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Dalek on tour",
+        "titre": "Velotaf, oui mais pas que…",
+        "texte": "Très bons podcasts, très diversifiés sur tous les sujets qui tournent autour de l’usage de la Petite Reine. On apprend toujours quelque chose! Continuez comme cela."
+      },
+      {
+        "note": 5,
+        "auteur": "Maxaw3",
+        "titre": "Podcast très intéressant",
+        "texte": "Podcasts très intéressants et bien faits. Dès que la parité des personnes interviewées sera atteinte, il sera parfait"
+      },
+      {
+        "note": 4,
+        "auteur": "jdseyres",
+        "titre": "Très sympa",
+        "texte": "Je découvre aujourd’hui en écoutant Olivier de Schutter, et j’ai trouvé ça très bien. J’attends la suite avec impatience."
+      }
+    ]
+  }
 }

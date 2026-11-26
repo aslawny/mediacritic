@@ -61,25 +61,29 @@
   "derniere_activite": "2022-03-22",
   "frequence_jours": 15,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-27",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "manon_dep",
+        "titre": "Au top!",
+        "texte": "On en apprend beaucoup sur les clubs qu’on a par malchance jamais eu l’occasion de fréquenter... mais aussi sur ceux que l’on a fréquentés ! Une ambiance qui donne envie de retrouver la fête et nos clubs bien aimés :)"
+      },
+      {
+        "note": 3,
+        "auteur": "MONSTRY",
+        "titre": "Berghain",
+        "texte": "Beaucoup d’approximations dans l’épisode sur Berghain. Mais sympa à écouter quand même."
+      },
+      {
+        "note": 5,
+        "auteur": "Reb5",
+        "titre": "Claque sonore",
+        "texte": "Super podcast très immersif, qui nous rappelle à quel point il est urgent de nous retrouver, ensemble, dans la pénombre de nos clubs préférés !"
+      }
     ]
   }
 }

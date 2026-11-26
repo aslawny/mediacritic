@@ -28,25 +28,29 @@
   "addedAt": "2026-05-20",
   "updatedAt": "2026-11-24",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-27",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ShakurOo",
+        "titre": "Un voyage qui dur",
+        "texte": "J’écoute vos podcasts depuis des années pour m’endormir. En effet, imaginer le contexte physique et spatial où évoluent les nombreux sujets abordés dans vos épisodes est une véritable thérapie pour l’endormissement.…"
+      },
+      {
+        "note": 1,
+        "auteur": "Philippeimac2",
+        "titre": "Virez les chansonnettes ringardes",
+        "texte": "Les intervenants sont interessants mais je comprends pas à quoi riment les chansonnettes bricolées sur le pouce: c’est chiant et même pas drôle"
+      },
+      {
+        "note": 5,
+        "auteur": "gillou 68",
+        "titre": "Problème sonore du podcast",
+        "texte": "Le son est très mauvais, si j’utilise mes AirPods par exemple j’en ai essayé d’autres. C’est pareil si j’utilise pas d’AirPod le son est correct. Dommage !"
+      }
     ]
   },
   "episodes_recents": [

@@ -61,25 +61,29 @@
   "derniere_activite": "2026-11-04",
   "frequence_jours": 21,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-27",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "A petits pas",
+        "titre": "À écouter sans modération",
+        "texte": "J’ai adoré les premiers épisodes (celui avec Anthony mais aussi celui sur le client idéal!) le ton est bienveillant et inspirant, le fond est plein d’inspiration… mon esprit de vigneronne est en ébullition de trucs à tester et mettre en application auprès de mes clients et prospe…"
+      },
+      {
+        "note": 5,
+        "auteur": "PinotVert",
+        "titre": "Un bol d’air frais !",
+        "texte": "Ce podcast, c’est le petit bol d’air frais qu’on attendait dans le milieu du vin, des spiritueux et du business. Les sujets sont bien creusés, les invités apportent des perspectives inspirantes, et surtout, ça sort des sentiers battus.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Camr3m",
+        "titre": "Un must have !",
+        "texte": "Ce podcast apporte un vent de fraîcheur sur le monde du vin et des spiritueux. Ca dépoussière les idées reçues et donne de véritables clés concrètes pour communiquer lorsqu’on est acteur de cet univers.…"
+      }
     ]
   }
 }

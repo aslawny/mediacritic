@@ -61,25 +61,29 @@
   "derniere_activite": "2025-07-04",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-27",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Célube",
+        "titre": "Une pépite de pépites",
+        "texte": "Un podcast passionnant, intéressant au format ni trop court, ni trop long ... une pépite qui permet de découvrir d’autres pépites ! Bravo !"
+      },
+      {
+        "note": 5,
+        "auteur": "mincetrend",
+        "titre": "Chapeau",
+        "texte": "Encore une belle série La Croix. Ça promet pour la suite; bravo!"
+      },
+      {
+        "note": 4,
+        "auteur": "Adrienhb",
+        "titre": "Et les autres religions?",
+        "texte": "Entretiens très riches et qui s’écoutent avec intérêt. Mais qui tournaient beaucoup autour de l’Église catholique, voire du christianisme. Peut-on espérer des entretiens avec des élus non chrétiens dans une prochaine saison? Bonne année et bon vent!"
+      }
     ]
   }
 }

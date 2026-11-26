@@ -58,5 +58,31 @@
     }
   ],
   "derniere_activite": "2026-11-01",
-  "frequence_jours": 30
+  "frequence_jours": 30,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "FL🤘",
+        "titre": "Merci",
+        "texte": "Cinq Étoiles bien méritées. Merci Philippe, tu es toujours au top ! Toujours une « satisfaction » que t’écouter. 🤘"
+      },
+      {
+        "note": 5,
+        "auteur": "scrabeat",
+        "titre": "Fantastique !",
+        "texte": "J’ai chercher un petit moment les podcasts de Philman avant de retrouver celui ci ! Génialissime !!!"
+      },
+      {
+        "note": 5,
+        "auteur": "Popcess",
+        "titre": "Bravo",
+        "texte": "Au top, les best journalistes ever qui nous font voyager à travers l’histoire du rock."
+      }
+    ]
+  }
 }

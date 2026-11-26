@@ -26,26 +26,36 @@
   "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
-      "titre": "Björk en 1996 : le jour où le lutin islandais a raccroché son téléphone et enfilé son costume de star",
-      "date": "2026-11-11"
+      "titre": "Suzanne Vega à Rock Werchter : une interview sous le soleil et sous le signe de la mélancolie",
+      "date": "2026-11-25",
+      "audio": "https://api.spreaker.com/download/episode/76421962/379300_all_acces_suzanne_vega_mp3.mp3",
+      "duree": 856
+    },
+    {
+      "titre": "Jeff Bodart et Benjamin Biolay en studio : l'arrangement de cordes offert au crayon, en direct",
+      "date": "2026-11-18",
+      "audio": "https://api.spreaker.com/download/episode/76421940/379299_all_acces_jeff_bodart_benjamin_biolay_mp3.mp3",
+      "duree": 573
+    },
+    {
+      "titre": "Björk en 1996 : la rencontre avec l'elfe islandaise entre mythe nordique et accent cockney",
+      "date": "2026-11-11",
+      "audio": "https://api.spreaker.com/download/episode/76399137/379220_all_acces_bjork_mp3.mp3",
+      "duree": 768
     },
     {
       "titre": "Blur en direct à la radio, ivres : la décision radicale qui a tout arrêté",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://api.spreaker.com/download/episode/76047782/377533_all_acces_blur_1_mp3.mp3",
+      "duree": 687
     },
     {
       "titre": "Marilyn Manson à Rock Werchter en 1999 : le jour où j'ai applaudi le costume sans voir le monstre",
-      "date": "2026-10-28"
-    },
-    {
-      "titre": "Duran Duran : la rencontre inattendue dans une ferme anglaise avec les stars du glamour des années 80",
-      "date": "2026-10-21"
-    },
-    {
-      "titre": "Soft Cell, Marc Almond et Tainted Love : les coulisses d'une rencontre inoubliable",
-      "date": "2026-10-14"
+      "date": "2026-10-28",
+      "audio": "https://api.spreaker.com/download/episode/75920845/376799_all_acces_marilyn_manson_mp3.mp3",
+      "duree": 658
     }
   ],
-  "derniere_activite": "2026-11-11",
+  "derniere_activite": "2026-11-25",
   "frequence_jours": 7
 }

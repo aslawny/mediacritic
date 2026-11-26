@@ -29,15 +29,21 @@
   "episodes_recents": [
     {
       "titre": "Episode 1 : Qui se cache derrière les pirates informatiques ?",
-      "date": "2021-10-10"
+      "date": "2021-10-10",
+      "audio": "https://traffic.megaphone.fm/IDG6430630952.mp3?updated=1634042064",
+      "duree": 888
     },
     {
       "titre": "Episode 2 : Comment les entreprises réagissent-elles face aux menaces ?",
-      "date": "2021-10-09"
+      "date": "2021-10-09",
+      "audio": "https://traffic.megaphone.fm/IDG7701373509.mp3?updated=1634040551",
+      "duree": 1261
     },
     {
       "titre": "Episode 3 : Comment anticiper et s'armer pour faire face aux cybermenaces ?",
-      "date": "2021-10-08"
+      "date": "2021-10-08",
+      "audio": "https://traffic.megaphone.fm/IDG8797423233.mp3?updated=1634041615",
+      "duree": 498
     }
   ],
   "derniere_activite": "2021-10-10",

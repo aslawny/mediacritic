@@ -30,23 +30,33 @@
   "episodes_recents": [
     {
       "titre": "Analytics Web, GDPR et Google Analytics",
-      "date": "2023-04-23"
+      "date": "2023-04-23",
+      "audio": "https://erreur200.s3.eu-west-3.amazonaws.com/11-analytics-web-gdpr-et-google-analytics.mp3",
+      "duree": 3180
     },
     {
       "titre": "Questions de débutants en développement web avec Killian Vaillant",
-      "date": "2022-10-04"
+      "date": "2022-10-04",
+      "audio": "https://erreur200.s3.eu-west-3.amazonaws.com/10-questions-de-debutants-en-developpement-web-killian-vaillant.mp3",
+      "duree": 3151
     },
     {
       "titre": "Les Tendances du Développement Web en 2022",
-      "date": "2022-04-20"
+      "date": "2022-04-20",
+      "audio": "https://erreur200.s3.eu-west-3.amazonaws.com/09-les-tendances-du-developpement-web-en-2022.mp3",
+      "duree": 3240
     },
     {
       "titre": "La Communication Dans Le Monde Du Web",
-      "date": "2022-03-29"
+      "date": "2022-03-29",
+      "audio": "https://erreur200.s3.eu-west-3.amazonaws.com/08-la-communication-dans-le-monde-du-web.mp3",
+      "duree": 3373
     },
     {
       "titre": "Apprentissage et Veille Technologique au quotidien",
-      "date": "2022-03-22"
+      "date": "2022-03-22",
+      "audio": "https://erreur200.s3.eu-west-3.amazonaws.com/07-apprentissage-veille-technologique.mp3",
+      "duree": 3074
     }
   ],
   "derniere_activite": "2023-04-23",

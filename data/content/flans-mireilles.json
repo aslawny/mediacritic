@@ -26,13 +26,24 @@
   "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "3. On se vomis dans la bouche",
+      "date": "2026-11-22",
+      "audio": "https://anchor.fm/s/11860d204/podcast/play/129910094/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-22%2F012a7346-11b0-8db7-b77b-5a02c9d63b6b.mp3",
+      "duree": 6743
+    },
+    {
       "titre": "2. Les tournois de geek",
-      "date": "2026-11-11"
+      "date": "2026-11-11",
+      "audio": "https://anchor.fm/s/11860d204/podcast/play/129274688/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-11%2Fd289ea5b-1aae-5ee8-537b-a8fa73b1301e.mp3",
+      "duree": 6374
     },
     {
       "titre": "1. Deux frères, deux fauves",
-      "date": "2026-10-11"
+      "date": "2026-10-11",
+      "audio": "https://anchor.fm/s/11860d204/podcast/play/127281719/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-11%2Fd25ae63c-d5f6-d8f2-8b98-ffa1dd754dbe.mp3",
+      "duree": 7307
     }
   ],
-  "derniere_activite": "2026-11-11"
+  "derniere_activite": "2026-11-22",
+  "frequence_jours": 31
 }

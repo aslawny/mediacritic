@@ -62,25 +62,29 @@
   "derniere_activite": "2026-11-12",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-27",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "PoloCousko",
+        "titre": "On ne le repetera jamais assez : incontournable pour tout apprenti/passionné/désireux Voyageur",
+        "texte": "Après toutes ces années de bourlingue, beaucoup auraient pu virer tranquillement vers la routine un peu suffisante...Mais ça, ça n'est pas Fabrice et Instinct Voyageur …"
+      },
+      {
+        "note": 5,
+        "auteur": "Xavier de Parlons Web",
+        "titre": "Des bons conseils et anecdotes",
+        "texte": "J'apprécie beaucoup ce podcast. A la fois pour la variété des invités mais aussi pour les retours d'expériences qu'ils partagent avec nous. Une bonne façon de \"voyager\" un peu plus souvent :) Au-delà du podcast, pour ceux qui ne connaissent pas le blog de Fabrice, vous pouviez y…"
+      },
+      {
+        "note": 5,
+        "auteur": "Lorenzoo Havelaar",
+        "titre": "Un chouette podcast inspirant pour s'évader !",
+        "texte": "Je téécharge ce podcast depuis le début, il fait partie des incontournables pour découvrir le monde à travers les invités de Fabrice. J'aime aussi lorsqu'il est tout seul qu'il livre ses reflexions sur le monde, comme la Colombie qu'il connait comme sa poche …"
+      }
     ]
   }
 }

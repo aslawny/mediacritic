@@ -31,7 +31,9 @@
   "episodes_recents": [
     {
       "titre": "Le Roman de la rose : Andrea Valentini, lecture par Denis Podalydès, version audio",
-      "date": "2013-01-08"
+      "date": "2013-01-08",
+      "audio": "http://itunesu.bnf.fr/itunesu/medias/cn_20121001_aimer.mp3",
+      "duree": 3446
     },
     {
       "titre": "Le Roman de la rose : Andrea Valentini, lecture par Denis Podalydès, version vidéo",
@@ -39,11 +41,15 @@
     },
     {
       "titre": "L'art d'aimer au Moyen Âge par Michel Zink, version audio",
-      "date": "2013-01-08"
+      "date": "2013-01-08",
+      "audio": "http://itunesu.bnf.fr/itunesu/medias/dv_201212_aimer_001.mp3",
+      "duree": 1951
     },
     {
       "titre": "Le ''Roman de la rose'' : entretien avec Armand Strubel, version audio",
-      "date": "2013-01-08"
+      "date": "2013-01-08",
+      "audio": "http://itunesu.bnf.fr/itunesu/medias/dv_201212_aimer_002.mp3",
+      "duree": 1727
     },
     {
       "titre": "Le \"Roman de la rose\" : entretien avec Armand Strubel, version vidéo",

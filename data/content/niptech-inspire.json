@@ -28,26 +28,36 @@
   "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Le monde caché (Entangled Life) - Merlin Sheldrake",
+      "date": "2026-11-21",
+      "audio": "https://sphinx.acast.com/p/open/s/6a83475955b9192dc93cd0e4/e/6aff6ac18f8ad2908fc13ca8/media.mp3",
+      "duree": 702
+    },
+    {
+      "titre": "Léon Tolstoï",
+      "date": "2026-11-14",
+      "audio": "https://sphinx.acast.com/p/open/s/6a83475955b9192dc93cd0e4/e/6aecf1ac2cf7bf42445f7549/media.mp3",
+      "duree": 923
+    },
+    {
       "titre": "3Blue1Brown (3b1b) — vulgarisation des maths",
-      "date": "2026-11-07"
+      "date": "2026-11-07",
+      "audio": "https://sphinx.acast.com/p/open/s/6a83475955b9192dc93cd0e4/e/6aecf0e774a96cc5a4dad92b/media.mp3",
+      "duree": 626
     },
     {
       "titre": "De la démocratie en Amérique - Alexis de Tocqueville",
-      "date": "2026-10-31"
+      "date": "2026-10-31",
+      "audio": "https://sphinx.acast.com/p/open/s/6a83475955b9192dc93cd0e4/e/6ad1d8f76203da9f28655404/media.mp3",
+      "duree": 762
     },
     {
       "titre": "L'invention de la nature : Les aventures d'Alexander von Humboldt - Andrea Wulf",
-      "date": "2026-10-24"
-    },
-    {
-      "titre": "Comprendre la complexité",
-      "date": "2026-10-17"
-    },
-    {
-      "titre": "Genghis Khan et les dynasties mongoles - Jack Weatherford",
-      "date": "2026-10-10"
+      "date": "2026-10-24",
+      "audio": "https://sphinx.acast.com/p/open/s/6a83475955b9192dc93cd0e4/e/6ad1d8c0e53019e890d69fbb/media.mp3",
+      "duree": 695
     }
   ],
-  "derniere_activite": "2026-11-07",
-  "frequence_jours": 6
+  "derniere_activite": "2026-11-21",
+  "frequence_jours": 7
 }

@@ -63,25 +63,29 @@
   "derniere_activite": "2026-07-01",
   "frequence_jours": 27,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-27",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "AliceGuy4ever",
+        "titre": "Les métiers du cinéma vu par les femmes !",
+        "texte": "Très instructif et passionnant ce podcast ! On apprend tout sur les métiers du cinéma, devant comme derrière la caméra, avec une dimension « vécue ». Et c’est raconté par des femmes, uniquement des femmes.…"
+      },
+      {
+        "note": 5,
+        "auteur": "CeriseM23",
+        "titre": "Un immense MERCI",
+        "texte": "Un immense merci pour la qualité de ces discussions, plus enrichissantes les unes que les autres, et un immense merci à toutes ces femmes passionnées et passionnantes."
+      },
+      {
+        "note": 5,
+        "auteur": "QuinnS1173",
+        "titre": "Des femmes inspirantes",
+        "texte": "Podcast chaleureux qui présente des métiers méconnus du milieu avec de supers intervenantes !"
+      }
     ]
   }
 }

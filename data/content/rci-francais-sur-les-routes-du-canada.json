@@ -31,23 +31,33 @@
   "episodes_recents": [
     {
       "titre": "Sur les routes du Canada — Dernier arrêt : le Grand Nord",
-      "date": "2020-01-24"
+      "date": "2020-01-24",
+      "audio": "https://www.rcinet.ca/fr/wp-content/uploads/sites/2/2020/01/Sur_les_routes_du_Canada-E10-Destination_le_Grand_Nord.mp3",
+      "duree": 625
     },
     {
       "titre": "Sur les routes du Canada — Dixième arrêt : Colombie-Britannique",
-      "date": "2020-01-23"
+      "date": "2020-01-23",
+      "audio": "https://www.rcinet.ca/fr/wp-content/uploads/sites/2/2020/01/Sur_les_routes_du_Canada-E09-Destination_Colombie-Britannique.mp3",
+      "duree": 573
     },
     {
       "titre": "Sur les routes du Canada — Neuvième arrêt : Alberta",
-      "date": "2020-01-22"
+      "date": "2020-01-22",
+      "audio": "https://www.rcinet.ca/fr/wp-content/uploads/sites/2/2020/01/Sur_les_routes_du_Canada-E08-Destination_Alberta.mp3",
+      "duree": 546
     },
     {
       "titre": "Sur les routes du Canada — Huitième arrêt : Saskatchewan",
-      "date": "2020-01-21"
+      "date": "2020-01-21",
+      "audio": "https://www.rcinet.ca/fr/wp-content/uploads/sites/2/2020/01/Sur_les_routes_du_Canada-E07-Destination_Saskatchewan.mp3",
+      "duree": 595
     },
     {
       "titre": "Sur les routes du Canada — Septième arrêt : Manitoba",
-      "date": "2020-01-20"
+      "date": "2020-01-20",
+      "audio": "https://www.rcinet.ca/fr/wp-content/uploads/sites/2/2020/01/Sur_les_routes_du_Canada-E06-Destination_Manitoba.mp3",
+      "duree": 598
     }
   ],
   "derniere_activite": "2020-01-24",

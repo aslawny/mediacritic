@@ -29,25 +29,107 @@
   "episodes_recents": [
     {
       "titre": "openSUSE Linux – Changer la langue",
-      "date": "2026-08-25"
+      "date": "2026-08-25",
+      "video": "JWiaEsoD3J0"
     },
     {
       "titre": "Comment remercier la chaine Benlinux ?",
-      "date": "2025-09-11"
+      "date": "2025-09-11",
+      "video": "arRCP-6YtyY"
     },
     {
       "titre": "Créer une clé USB d'installation de Linux avec Balena Etcher - Version 2025",
-      "date": "2025-09-11"
+      "date": "2025-09-11",
+      "video": "u9-Q0dYb9t0"
     },
     {
       "titre": "Comment mettre à niveau VirtualBox dans Debian / Ubuntu.",
-      "date": "2025-07-26"
+      "date": "2025-07-26",
+      "video": "yZw7cXz0pn0"
     },
     {
       "titre": "Installer VirtualBox dans Debian/Ubuntu Linux.",
-      "date": "2025-07-16"
+      "date": "2025-07-16",
+      "video": "D5kk-SNNnbc"
     }
   ],
   "derniere_activite": "2026-08-25",
-  "frequence_jours": 47
+  "frequence_jours": 47,
+  "videos": [
+    {
+      "titre": "openSUSE Linux – Changer la langue",
+      "date": "2026-08-25",
+      "video": "JWiaEsoD3J0"
+    },
+    {
+      "titre": "Comment remercier la chaine Benlinux ?",
+      "date": "2025-09-11",
+      "video": "arRCP-6YtyY"
+    },
+    {
+      "titre": "Créer une clé USB d'installation de Linux avec Balena Etcher - Version 2025",
+      "date": "2025-09-11",
+      "video": "u9-Q0dYb9t0"
+    },
+    {
+      "titre": "Comment mettre à niveau VirtualBox dans Debian / Ubuntu.",
+      "date": "2025-07-26",
+      "video": "yZw7cXz0pn0"
+    },
+    {
+      "titre": "Installer VirtualBox dans Debian/Ubuntu Linux.",
+      "date": "2025-07-16",
+      "video": "D5kk-SNNnbc"
+    },
+    {
+      "titre": "Mise à niveau d'Ubuntu serveur à une version plus récente",
+      "date": "2025-06-27",
+      "video": "UCJgNNW0qlg"
+    },
+    {
+      "titre": "Google Sheets - inverser colonne et ligne",
+      "date": "2025-04-28",
+      "video": "lLavlT5IgnI"
+    },
+    {
+      "titre": "Proxmox VE : Comment faire les mises à jour",
+      "date": "2025-04-16",
+      "video": "tMCBiWMXNDg"
+    },
+    {
+      "titre": "Nagios - Ajouter et configurer un service à surveiller",
+      "date": "2025-02-17",
+      "video": "MwYII_1BLL8"
+    },
+    {
+      "titre": "Nagios - ajouter un hôte à surveiller",
+      "date": "2024-12-18",
+      "video": "eI-GmvwsCoM"
+    },
+    {
+      "titre": "Comment vérifier le fichier d'installation de Linux après le téléchargement - Linux Mint par exemple",
+      "date": "2024-10-04",
+      "video": "Y-2gge89yIs"
+    },
+    {
+      "titre": "Qu'est-ce la somme de contrôle d'un fichier (checksum) (sha256, sha512, md5)",
+      "date": "2024-10-01",
+      "video": "lRukQ8l4MEw"
+    },
+    {
+      "titre": "Installer Ubuntu Linux version bureau (processus d'installation en détail)",
+      "date": "2024-07-18",
+      "video": "KmbjNnDOrAY"
+    },
+    {
+      "titre": "Télécharger Ubuntu Linux version bureau et créer un média d'installation.",
+      "date": "2024-07-16",
+      "video": "B0GSnal7SI8"
+    },
+    {
+      "titre": "Quelle distribution Linux et interface graphique choisir ?",
+      "date": "2024-06-21",
+      "video": "q4CL0N-TK2g"
+    }
+  ]
 }

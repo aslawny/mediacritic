@@ -28,26 +28,36 @@
   "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
+      "titre": "Éthique IA : les 5 principes de Harvard qui devraient structurer votre gouvernance",
+      "date": "2026-11-24",
+      "audio": "https://anchor.fm/s/114618c98/podcast/play/127834585/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2Ffa3624ba-0c67-1199-517e-57043177feb6.m4a",
+      "duree": 1064
+    },
+    {
+      "titre": "Déclaration de Dublin : l'Europe acte-t-elle enfin sa souveraineté IA ?",
+      "date": "2026-11-19",
+      "audio": "https://anchor.fm/s/114618c98/podcast/play/127838404/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2F2744974e-6a48-359f-9fde-5b48aee10c74.m4a",
+      "duree": 562
+    },
+    {
+      "titre": "Chip Security Act : la géolocalisation des puces IA change-t-elle la donne pour l'Europe ?",
+      "date": "2026-11-17",
+      "audio": "https://anchor.fm/s/114618c98/podcast/play/127833935/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2F619473fb-45a2-e635-5cd8-dc35518068af.m4a",
+      "duree": 614
+    },
+    {
       "titre": "MITRE ATLAS : votre IA est-elle déjà dans le viseur des attaquants ?",
-      "date": "2026-11-12"
+      "date": "2026-11-12",
+      "audio": "https://anchor.fm/s/114618c98/podcast/play/127832766/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2F7617960c-9d80-5310-b3e8-fb3094decd05.m4a",
+      "duree": 1225
     },
     {
       "titre": "ReCyF ANSSI : durcissement des équipements, votre politique de connexion est-elle vraiment étanche ?",
-      "date": "2026-11-10"
-    },
-    {
-      "titre": "Emploi et IA : chez Anthropic, les salariés sont-ils devenus des managers d'agents ?",
-      "date": "2026-11-05"
-    },
-    {
-      "titre": "CLOUD Act : vos données stockées en France sont-elles vraiment à l'abri ?",
-      "date": "2026-11-03"
-    },
-    {
-      "titre": "AI-Native SAFe : et si votre entreprise passait de « faire de l'IA » à « être pilotée par l'IA » ?",
-      "date": "2026-10-29"
+      "date": "2026-11-10",
+      "audio": "https://anchor.fm/s/114618c98/podcast/play/128804907/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-4%2Fc3fd8cc1-91ec-12fc-b6b3-97611c004c93.m4a",
+      "duree": 1386
     }
   ],
-  "derniere_activite": "2026-11-12",
-  "frequence_jours": 2
+  "derniere_activite": "2026-11-24",
+  "frequence_jours": 4
 }

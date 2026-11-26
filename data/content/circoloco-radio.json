@@ -60,25 +60,29 @@
   "derniere_activite": "2026-11-20",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-27",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "gb",
+    "tri": "mosthelpful",
+    "releve": "2026-11-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mackemrich",
+        "titre": "Great mixes",
+        "texte": "Some of the best free mixes out there as downloadable podcasts, featuring well known and up and coming DJs and the best in house, techno and underground dance music. Thanks for helping me through many a report writing session"
+      },
+      {
+        "note": 2,
+        "auteur": "Jordo106",
+        "titre": "Not bad",
+        "texte": "Not bad, some good mixes but they seem to have got the worst out of Sasha and Guy Gerber whose mixes are painfully bad."
+      },
+      {
+        "note": 5,
+        "auteur": "greig808",
+        "titre": "Excellent",
+        "texte": "These podcasts are excellent, obviously some more than others, but all in all .., great coverage of music by circoloco dj’n past & present"
+      }
     ]
   }
 }

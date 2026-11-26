@@ -29,23 +29,33 @@
   "episodes_recents": [
     {
       "titre": "Elle a battu les records de Mariah Carey… mais vous ne la connaissez sûrement pas encore.",
-      "date": "2026-10-01"
+      "date": "2026-10-01",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2789977.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 415
     },
     {
       "titre": "Catherine Ringer : retour sur l’histoire des Rita Mitsouko",
-      "date": "2026-09-15"
+      "date": "2026-09-15",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2752773.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 396
     },
     {
       "titre": "\"Flow State\" par keith Urban, le rêve californien retrouvé",
-      "date": "2026-07-02"
+      "date": "2026-07-02",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2604587.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 639
     },
     {
       "titre": "Worldwide Festival : les 20 ans des musiques sans frontières à Sète, avec Gilles Peterson et Laurent Garnier",
-      "date": "2026-06-23"
+      "date": "2026-06-23",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2588220.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 1687
     },
     {
       "titre": "Théodora : ascension fulgurante de la boss lady aux multiples genres",
-      "date": "2026-06-10"
+      "date": "2026-06-10",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2561475.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 290
     }
   ],
   "derniere_activite": "2026-10-01",

@@ -59,5 +59,19 @@
     }
   ],
   "derniere_activite": "2026-11-22",
-  "frequence_jours": 11
+  "frequence_jours": 11,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Big Homie Meech",
+        "titre": "Review",
+        "texte": "Le big Cee! Grosse force a ton projet, on supporte fort 💪🏼 #BMF"
+      }
+    ]
+  }
 }

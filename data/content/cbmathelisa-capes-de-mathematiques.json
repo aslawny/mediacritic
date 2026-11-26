@@ -28,26 +28,108 @@
   "updatedAt": "2026-09-12",
   "episodes_recents": [
     {
-      "titre": "Polynômes de Tchebychev - Problème de préparation (Algèbre)",
-      "date": "2026-09-09"
+      "titre": "Sur-réservation dans les compagnies aériennes - Analyse documentaire (Probabilités)",
+      "date": "2026-11-25",
+      "video": "URrL8pjusTI"
     },
     {
-      "titre": "Produit scalaire et produit vectoriel - Exercice de préparation (Algèbre)",
-      "date": "2026-09-03"
+      "titre": "Méthodes approchées pour le calcul intégral - Analyse documentaire (Analyse)",
+      "date": "2026-11-20",
+      "video": "GEOEmi5k5lo"
     },
     {
-      "titre": "Petit théorème de Fermat - Exercice de préparation (Algèbre)",
-      "date": "2026-09-01"
+      "titre": "Formation CAPES Interne de Mathématiques session 2027 - épreuve orale de dossier",
+      "date": "2026-11-19",
+      "video": "xRt4WwuiNWI"
     },
     {
-      "titre": "Statistiques à une variable (Statistiques) - Vrai ou faux",
-      "date": "2026-08-28"
+      "titre": "Problème de moyenne - Analyse documentaire (Algèbre)",
+      "date": "2026-11-17",
+      "video": "zFjdNKI0Ahw"
     },
     {
-      "titre": "Lancer de deux dés (Probabilités) - Vrai ou faux",
-      "date": "2026-08-27"
+      "titre": "Analyse de copies sur l'optimisation et le Second Degré - Didactique",
+      "date": "2026-11-13",
+      "video": "_wTsCJppstc"
     }
   ],
-  "derniere_activite": "2026-09-09",
-  "frequence_jours": 1
+  "derniere_activite": "2026-11-25",
+  "frequence_jours": 2,
+  "videos": [
+    {
+      "titre": "Sur-réservation dans les compagnies aériennes - Analyse documentaire (Probabilités)",
+      "date": "2026-11-25",
+      "video": "URrL8pjusTI"
+    },
+    {
+      "titre": "Méthodes approchées pour le calcul intégral - Analyse documentaire (Analyse)",
+      "date": "2026-11-20",
+      "video": "GEOEmi5k5lo"
+    },
+    {
+      "titre": "Formation CAPES Interne de Mathématiques session 2027 - épreuve orale de dossier",
+      "date": "2026-11-19",
+      "video": "xRt4WwuiNWI"
+    },
+    {
+      "titre": "Problème de moyenne - Analyse documentaire (Algèbre)",
+      "date": "2026-11-17",
+      "video": "zFjdNKI0Ahw"
+    },
+    {
+      "titre": "Analyse de copies sur l'optimisation et le Second Degré - Didactique",
+      "date": "2026-11-13",
+      "video": "_wTsCJppstc"
+    },
+    {
+      "titre": "Loi du minimum - Probabilités (ECR)",
+      "date": "2026-11-12",
+      "video": "UvBwAMo7uEY"
+    },
+    {
+      "titre": "Etude d'une fonction exponentielle à base 2 - Analyse (ECR)",
+      "date": "2026-11-09",
+      "video": "8_L2oyk9Peg"
+    },
+    {
+      "titre": "Résolution d'une équation en nombres complexes - Algèbre (ECR)",
+      "date": "2026-11-04",
+      "video": "GxWb79slEHk"
+    },
+    {
+      "titre": "Loi des séries - Sujet zéro CAPES+3 session 2026 (Annales CAPES)",
+      "date": "2026-10-30",
+      "video": "-RX6nC2E_XY"
+    },
+    {
+      "titre": "Probabilités conditionnelles et suites numériques - CAPES Mayotte s.2026 ep.2 Pb 3 (Annales CAPES)",
+      "date": "2026-10-29",
+      "video": "rgMX0UaLSjA"
+    },
+    {
+      "titre": "Fonctions et intégrales - Sujet zéro CAPES+3 session 2026 (Annales CAPES)",
+      "date": "2026-10-27",
+      "video": "WABbhNUQfQA"
+    },
+    {
+      "titre": "Equation différentielle et étude de fonction - CAPES Mayotte s.2026 ep.1 Pb 1 (Annales CAPES)",
+      "date": "2026-10-23",
+      "video": "R93W4rU9EGE"
+    },
+    {
+      "titre": "Moyennes de Cesàro des itérées d'une rotation - Sujet zéro CAPES+3 session 2026 (Annales CAPES)",
+      "date": "2026-10-21",
+      "video": "X6C4pKrAnEg"
+    },
+    {
+      "titre": "Arithmétique - CAPES Mayotte session 2026 ep.1 Problème 3 (Annales CAPES)",
+      "date": "2026-10-19",
+      "video": "Q3Bagck0rOI"
+    },
+    {
+      "titre": "Etude de variables aléatoires - Problème (Probabilités)",
+      "date": "2026-10-15",
+      "video": "ommVSW6GSO0"
+    }
+  ]
 }

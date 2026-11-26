@@ -28,26 +28,108 @@
   "updatedAt": "2026-08-06",
   "episodes_recents": [
     {
+      "titre": "Semaine de l'immersion",
+      "date": "2026-10-15",
+      "video": "KAGD70O8d3E"
+    },
+    {
+      "titre": "Lancement des projets Guardia CS",
+      "date": "2026-10-08",
+      "video": "TS8CT2O2f1k"
+    },
+    {
+      "titre": "Titre RNCP niveau 6 - Administrateur d’infrastructures sécurisées",
+      "date": "2026-09-08",
+      "video": "Wp0sM6bEmlk"
+    },
+    {
+      "titre": "Formation Data Engineer spécialisé en Cybersécurité & IA",
+      "date": "2026-09-08",
+      "video": "DBsFbYzCY18"
+    },
+    {
+      "titre": "Formation DevSecOps",
+      "date": "2026-09-08",
+      "video": "RJTGtvvD02o"
+    }
+  ],
+  "derniere_activite": "2026-10-15",
+  "frequence_jours": 0,
+  "videos": [
+    {
+      "titre": "Semaine de l'immersion",
+      "date": "2026-10-15",
+      "video": "KAGD70O8d3E"
+    },
+    {
+      "titre": "Lancement des projets Guardia CS",
+      "date": "2026-10-08",
+      "video": "TS8CT2O2f1k"
+    },
+    {
+      "titre": "Titre RNCP niveau 6 - Administrateur d’infrastructures sécurisées",
+      "date": "2026-09-08",
+      "video": "Wp0sM6bEmlk"
+    },
+    {
+      "titre": "Formation Data Engineer spécialisé en Cybersécurité & IA",
+      "date": "2026-09-08",
+      "video": "DBsFbYzCY18"
+    },
+    {
+      "titre": "Formation DevSecOps",
+      "date": "2026-09-08",
+      "video": "RJTGtvvD02o"
+    },
+    {
       "titre": "Interview Aurélien - Formation Pentester",
-      "date": "2026-07-22"
+      "date": "2026-07-22",
+      "video": "-8fPbSc9TbU"
     },
     {
       "titre": "Interview Shehzaad - Formation Penteste",
-      "date": "2026-07-22"
+      "date": "2026-07-22",
+      "video": "zD0-xEJPbp8"
     },
     {
       "titre": "Interview Michael C. - Formation Hacking",
-      "date": "2026-07-22"
+      "date": "2026-07-22",
+      "video": "TAPIMweeatc"
     },
     {
       "titre": "Interview Stella A. - Formation Hacking",
-      "date": "2026-07-22"
+      "date": "2026-07-22",
+      "video": "j4uPw1Zw7Es"
     },
     {
       "titre": "Fondamentaux du numérique - certification PIX",
-      "date": "2026-07-22"
+      "date": "2026-07-22",
+      "video": "yR6sLLuYDNQ"
+    },
+    {
+      "titre": "Hacking : introduction à la sécurité des systèmes et réseaux",
+      "date": "2026-07-22",
+      "video": "Tp0wClwrjgg"
+    },
+    {
+      "titre": "Formation : Création de contenus rédactionnels et visuels par l'usage responsable de l'IA générative",
+      "date": "2026-07-22",
+      "video": "ZZOxUU8AaKA"
+    },
+    {
+      "titre": "Formation Pentest : sécurisation avancée de systèmes et réseaux",
+      "date": "2026-07-22",
+      "video": "dP8-Qv64jno"
+    },
+    {
+      "titre": "5 outils de Hacker Ethique",
+      "date": "2026-07-21",
+      "video": "D2ULlHmaijk"
+    },
+    {
+      "titre": "Fiche métier Architecte Cybersécurité",
+      "date": "2026-07-10",
+      "video": "bsC6RDHfbZU"
     }
-  ],
-  "derniere_activite": "2026-07-22",
-  "frequence_jours": 0
+  ]
 }

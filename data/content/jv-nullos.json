@@ -61,25 +61,29 @@
   "derniere_activite": "2026-11-12",
   "frequence_jours": 15,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-27",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "cabrinha87",
+        "titre": "Un peu de fraîcheur",
+        "texte": "Un podcast jeux vidéos mais fait par des chroniqueurs « lambda » dans le sens où ils ne sont pas (à ma connaissance) journalistes mais joueurs comme tout un chacun.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Fulswamp",
+        "titre": "Un peu de régression mais pour le bien de tous",
+        "texte": "Bon je vais pas faire genre … j’ai découvert le podcast grâce à Third édition, mais quel plaisir. Équipe super sympathique et surtout avec des vieilles blagues pourries valables quand j’étais ado (j’approche la 50aine ) mais qui nous manque tellement dans ce monde aseptisé.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Fun-X-Max",
+        "titre": "Par des Nullos pour des Nullos",
+        "texte": "T’as passé les dix dernières années à écouter des gens mieux que toi parler de jeux que t’avais poncé mille fois. Tu les as entendu prononcer des mots à six syllabes. Entre géopolitique et lutte des classes. Toi, tu voulais juste parler de plaisir, de frissons.…"
+      }
     ]
   }
 }

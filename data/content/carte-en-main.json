@@ -28,26 +28,108 @@
   "updatedAt": "2026-07-19",
   "episodes_recents": [
     {
-      "titre": "Qgis : rotation de forme outil de modélisation",
-      "date": "2026-08-23"
+      "titre": "GeoPackage dans QGIS : création, couches et symbologie",
+      "date": "2026-11-21",
+      "video": "GNotG25oBT0"
     },
     {
-      "titre": "Modéliser des formes : rectangles, carrés pour plan de situation à l'échelle",
-      "date": "2026-08-18"
+      "titre": "Comment le GPS sait-il où tu es ? | La cartographie expliquée",
+      "date": "2026-11-12",
+      "video": "padMHhsYfDI"
     },
     {
-      "titre": "#summer #2026",
-      "date": "2026-07-29"
+      "titre": "GéoRisques : Comment identifier tous les risques sur une parcelle ? | Tutoriel cartographie",
+      "date": "2026-11-05",
+      "video": "7BuGdEHQESM"
     },
     {
-      "titre": "Qgis : Changer l'orientation Nord de sa carte sur le canva et la mise en page",
-      "date": "2026-07-05"
+      "titre": "QGIS : Réaliser 3 mises en page de cartes différentes | Tutoriel complet",
+      "date": "2026-10-30",
+      "video": "_9SCirWe62A"
     },
     {
-      "titre": "Moins d'une minute : Outil et option de vue Présentation de l'outil précédent dans QGis",
-      "date": "2026-06-16"
+      "titre": "L’Histoire des Cartes : des Premières Cartes au GPS 🗺️",
+      "date": "2026-10-25",
+      "video": "vY3QW8AXGF0"
     }
   ],
-  "derniere_activite": "2026-08-23",
-  "frequence_jours": 16
+  "derniere_activite": "2026-11-21",
+  "frequence_jours": 5,
+  "videos": [
+    {
+      "titre": "GeoPackage dans QGIS : création, couches et symbologie",
+      "date": "2026-11-21",
+      "video": "GNotG25oBT0"
+    },
+    {
+      "titre": "Comment le GPS sait-il où tu es ? | La cartographie expliquée",
+      "date": "2026-11-12",
+      "video": "padMHhsYfDI"
+    },
+    {
+      "titre": "GéoRisques : Comment identifier tous les risques sur une parcelle ? | Tutoriel cartographie",
+      "date": "2026-11-05",
+      "video": "7BuGdEHQESM"
+    },
+    {
+      "titre": "QGIS : Réaliser 3 mises en page de cartes différentes | Tutoriel complet",
+      "date": "2026-10-30",
+      "video": "_9SCirWe62A"
+    },
+    {
+      "titre": "L’Histoire des Cartes : des Premières Cartes au GPS 🗺️",
+      "date": "2026-10-25",
+      "video": "vY3QW8AXGF0"
+    },
+    {
+      "titre": "#traffic in #GoogleMaps #2026 #carto #map #smartphone",
+      "date": "2026-10-21",
+      "video": "3omu_4nFXbU"
+    },
+    {
+      "titre": "Afficher le trafic sur GoogleMaps en temps réel",
+      "date": "2026-10-16",
+      "video": "-Fu26TV-6p0"
+    },
+    {
+      "titre": "Masquer les lieux favoris sur GoogleMaps",
+      "date": "2026-10-12",
+      "video": "cFJnSSwsAG0"
+    },
+    {
+      "titre": "Masquer les listes de favoris sur Google #maps",
+      "date": "2026-10-11",
+      "video": "qNEJpG1h0fs"
+    },
+    {
+      "titre": "Transformer une couche de lignes vers polygones sur Qgis !",
+      "date": "2026-10-07",
+      "video": "8-qP_1oCJRY"
+    },
+    {
+      "titre": "MNT QGIS : Raster vers points — récupérer les valeurs d’altitude",
+      "date": "2026-09-30",
+      "video": "ZbMO0OgxNiQ"
+    },
+    {
+      "titre": "MNT Qgis : Télécharger un MNT sur n'importe quel continent en instantanné !",
+      "date": "2026-09-24",
+      "video": "fJM1nY66jjo"
+    },
+    {
+      "titre": "MNT Qgis : Télécharger extension Opentopography",
+      "date": "2026-09-20",
+      "video": "Es6gXPmHDo0"
+    },
+    {
+      "titre": "MNT : Créer un compte sur opentopography accès MNT gratuit",
+      "date": "2026-09-16",
+      "video": "CsnVnjcES44"
+    },
+    {
+      "titre": "Qgis : Dupliquer les formes vectorielles (polygones, lignes, points)",
+      "date": "2026-09-06",
+      "video": "LASUxJqiaEA"
+    }
+  ]
 }

@@ -29,23 +29,33 @@
   "episodes_recents": [
     {
       "titre": "Épisode 14 - L'amour - Partie II",
-      "date": "2022-07-06"
+      "date": "2022-07-06",
+      "audio": "https://api.spreaker.com/download/episode/50471084/episode_14.mp3",
+      "duree": 3963
     },
     {
       "titre": "Épisode 13 - L'amour - Partie I",
-      "date": "2022-06-01"
+      "date": "2022-06-01",
+      "audio": "https://api.spreaker.com/download/episode/50001818/episode_13.mp3",
+      "duree": 4133
     },
     {
       "titre": "Épisode 12 - Top Chef, Koh Lanta & compagnie",
-      "date": "2022-05-04"
+      "date": "2022-05-04",
+      "audio": "https://api.spreaker.com/download/episode/49614338/episode_12.mp3",
+      "duree": 4603
     },
     {
       "titre": "Épisode 11 - La contraception",
-      "date": "2022-04-06"
+      "date": "2022-04-06",
+      "audio": "https://api.spreaker.com/download/episode/49329282/episode_11.mp3",
+      "duree": 4517
     },
     {
       "titre": "Épisode 10 - Hors-série",
-      "date": "2022-03-02"
+      "date": "2022-03-02",
+      "audio": "https://api.spreaker.com/download/episode/48900518/episode_10a.mp3",
+      "duree": 2504
     }
   ],
   "derniere_activite": "2022-07-06",

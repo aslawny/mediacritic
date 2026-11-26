@@ -29,23 +29,33 @@
   "episodes_recents": [
     {
       "titre": "Véronique Gallo parle de son nouveau spectacle «La vraie vie», qui clôt une trilogie",
-      "date": "2026-01-20"
+      "date": "2026-01-20",
+      "audio": "https://api.spreaker.com/download/episode/69515955/337263_veronique_gallo_parle_de_son_nouveau_spectacle_la_vraie_vie_qui_clot_une_trilogie.mp3",
+      "duree": 352
     },
     {
       "titre": "Du partage, des rires, de l'émotion: Véronique Gallo lance officiellement les vacances d'été",
-      "date": "2025-06-26"
+      "date": "2025-06-26",
+      "audio": "https://api.spreaker.com/download/episode/66754459/324062_du_partage_des_rires_de_l_emotion_veronique_gallo_lance_officiellement_les_vacances_d_ete.mp3",
+      "duree": 214
     },
     {
       "titre": "Qu'y a-t-il de pire que l'attente des résultats lors des examens? Véronique Gallo le subit à la maison",
-      "date": "2025-06-24"
+      "date": "2025-06-24",
+      "audio": "https://api.spreaker.com/download/episode/66723818/323746_qu_y_a_t_il_de_pire_que_l_attente_des_resultats_lors_des_examens_veronique_gallo_le_subit_a_la_maison.mp3",
+      "duree": 193
     },
     {
       "titre": "La fête de la musique? Véronique Gallo en rêve cette année !",
-      "date": "2025-06-19"
+      "date": "2025-06-19",
+      "audio": "https://api.spreaker.com/download/episode/66623411/323251_la_fete_de_la_musique_veronique_gallo_en_reve_cette_annee.mp3",
+      "duree": 221
     },
     {
       "titre": "Le blocus, le CEB ou les exams? Véronique Gallo est dans la même galère que tous les parents !",
-      "date": "2025-06-12"
+      "date": "2025-06-12",
+      "audio": "https://api.spreaker.com/download/episode/66525807/322585_le_blocus_le_ceb_ou_les_exams_veronique_gallo_est_dans_la_meme_galere_que_tous_les_parents.mp3",
+      "duree": 237
     }
   ],
   "derniere_activite": "2026-01-20",

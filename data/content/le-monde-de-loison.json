@@ -29,23 +29,33 @@
   "episodes_recents": [
     {
       "titre": "Le Monde de Loison #OnVousRépond - Charles 3 malade, un royaume qui vacille?",
-      "date": "2024-02-06"
+      "date": "2024-02-06",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2029577.mp3?origin=rss",
+      "duree": 3432
     },
     {
       "titre": "Le Monde de Loison - Formation du gouvernement : qu'est ce qu'on attend?",
-      "date": "2024-02-06"
+      "date": "2024-02-06",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2029590.mp3?origin=rss",
+      "duree": 3513
     },
     {
       "titre": "Le Monde de Loison #OnVousRépond - D'où vient la colère des peuples?",
-      "date": "2024-02-05"
+      "date": "2024-02-05",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2029596.mp3?origin=rss",
+      "duree": 3452
     },
     {
       "titre": "Le Monde de Loison - La bataille des SUV : anti-riches ou écolo?",
-      "date": "2024-02-05"
+      "date": "2024-02-05",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2029607.mp3?origin=rss",
+      "duree": 3557
     },
     {
       "titre": "Le Monde de Loison - #OnVousRépond - Agriculteurs : le risque de l'escalade?",
-      "date": "2024-01-29"
+      "date": "2024-01-29",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2029613.mp3?origin=rss",
+      "duree": 3412
     }
   ],
   "derniere_activite": "2024-02-06",

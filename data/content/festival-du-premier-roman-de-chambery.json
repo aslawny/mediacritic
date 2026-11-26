@@ -30,23 +30,33 @@
   "episodes_recents": [
     {
       "titre": "Les Flâneries Sonores - La Chute de Rome",
-      "date": "2025-12-09"
+      "date": "2025-12-09",
+      "audio": "https://anchor.fm/s/4d68e690/podcast/play/112361419/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-9%2F414037286-44100-2-47d5033b2f41c.m4a",
+      "duree": 728
     },
     {
       "titre": "Les Flâneries Sonores - Clos Savoiroux",
-      "date": "2025-12-09"
+      "date": "2025-12-09",
+      "audio": "https://anchor.fm/s/4d68e690/podcast/play/112361050/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-9%2F414036816-44100-2-baa658f6b7372.m4a",
+      "duree": 779
     },
     {
       "titre": "Écrire demain pour repenser aujourd'hui, avec Mathieu Larnaudie et Carole Martinez",
-      "date": "2024-12-12"
+      "date": "2024-12-12",
+      "audio": "https://anchor.fm/s/4d68e690/podcast/play/95737937/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-12%2F391441830-44100-2-c3f46a2252485.m4a",
+      "duree": 5232
     },
     {
       "titre": "Urgence de vivre, avec Avril Bénard et Laurent Petitmangin",
-      "date": "2024-08-29"
+      "date": "2024-08-29",
+      "audio": "https://anchor.fm/s/4d68e690/podcast/play/91030722/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-29%2F8960e3df-6433-5424-eae3-3cfebfb6cafe.mp3",
+      "duree": 4146
     },
     {
       "titre": "Roman d'aventure et d'histoire - Delphine Grouès et Yan Lespoux",
-      "date": "2024-08-29"
+      "date": "2024-08-29",
+      "audio": "https://anchor.fm/s/4d68e690/podcast/play/91030541/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-29%2F1e1c4f0e-a8f8-fa4f-e6e4-32bd296d8713.mp3",
+      "duree": 4213
     }
   ],
   "derniere_activite": "2025-12-09",

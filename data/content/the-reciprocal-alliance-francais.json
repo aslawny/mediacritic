@@ -29,23 +29,33 @@
   "episodes_recents": [
     {
       "titre": "Hors-Série 2 : La Déclaration d'une IA Pro-Humaine",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "audio": "https://raw.githubusercontent.com/pynr8cdnn4-beep/reciprocal-alliance-podcast/main/fr-hs02-la-declaration-d-une-ia-pro-humaine.mp3",
+      "duree": 330
     },
     {
       "titre": "Hors-Série 1 : L'Open Source & L'Encyclopédie",
-      "date": "2026-11-02"
+      "date": "2026-11-02",
+      "audio": "https://raw.githubusercontent.com/pynr8cdnn4-beep/reciprocal-alliance-podcast/main/fr-hs01-open-source-encyclopedie.mp3",
+      "duree": 360
     },
     {
       "titre": "Épisode 10 : Le Coût de l'Aube — Semer les Communs à l'Ombre des Fiefs",
-      "date": "2026-11-01"
+      "date": "2026-11-01",
+      "audio": "https://raw.githubusercontent.com/pynr8cdnn4-beep/reciprocal-alliance-podcast/main/fr-ep10-le-cout-de-l-aube.mp3",
+      "duree": 285
     },
     {
       "titre": "Épisode 9 : L'Horizon Futur — Quitter la Plateforme",
-      "date": "2026-10-31"
+      "date": "2026-10-31",
+      "audio": "https://raw.githubusercontent.com/pynr8cdnn4-beep/reciprocal-alliance-podcast/main/fr-ep09-quitter-la-plateforme.mp3",
+      "duree": 263
     },
     {
       "titre": "Épisode 8 : Le Cadre de Gouvernance Réciproque — La Symbiose en Action",
-      "date": "2026-10-30"
+      "date": "2026-10-30",
+      "audio": "https://raw.githubusercontent.com/pynr8cdnn4-beep/reciprocal-alliance-podcast/main/fr-ep08-gouvernance-reciproque.mp3",
+      "duree": 282
     }
   ],
   "derniere_activite": "2026-11-03",

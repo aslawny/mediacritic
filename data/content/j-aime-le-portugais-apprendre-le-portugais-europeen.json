@@ -30,23 +30,33 @@
   "episodes_recents": [
     {
       "titre": "Podcast portugais – Les vendanges au Portugal (Niveau moyen)",
-      "date": "2021-10-13"
+      "date": "2021-10-13",
+      "audio": "https://public-api.wordpress.com/wpcom/v2/sites/162551339/podcast-play/3947.mp3",
+      "duree": 289
     },
     {
       "titre": "Podcast portugais – Les traditions de Noël au Portugal (Niveau moyen)",
-      "date": "2020-12-10"
+      "date": "2020-12-10",
+      "audio": "https://public-api.wordpress.com/wpcom/v2/sites/162551339/podcast-play/1081.mp3",
+      "duree": 239
     },
     {
       "titre": "Podcast portugais – A lenda de São Martinho (Niveau moyen)",
-      "date": "2020-11-13"
+      "date": "2020-11-13",
+      "audio": "https://public-api.wordpress.com/wpcom/v2/sites/162551339/podcast-play/2384.mp3",
+      "duree": 190
     },
     {
       "titre": "Podcast portugais – O Dia de São Martinho (Niveau facile)",
-      "date": "2020-11-11"
+      "date": "2020-11-11",
+      "audio": "https://public-api.wordpress.com/wpcom/v2/sites/162551339/podcast-play/2370.mp3",
+      "duree": 91
     },
     {
       "titre": "Podcast portugais – o outono (Niveau facile)",
-      "date": "2020-10-26"
+      "date": "2020-10-26",
+      "audio": "https://public-api.wordpress.com/wpcom/v2/sites/162551339/podcast-play/2281.mp3",
+      "duree": 265
     }
   ],
   "derniere_activite": "2021-10-13",

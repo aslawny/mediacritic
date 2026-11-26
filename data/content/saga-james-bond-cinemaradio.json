@@ -29,23 +29,33 @@
   "episodes_recents": [
     {
       "titre": "SAGA BOND #14 - RIEN QUE POUR VOS YEUX / For your eyes only - 1981",
-      "date": "2019-04-23"
+      "date": "2019-04-23",
+      "audio": "https://api.spreaker.com/download/episode/17721101/bond_n_14_rien_que_pour_vos_yeux_12_1981.mp3",
+      "duree": 283
     },
     {
       "titre": "Saga James Bond #13 | MOONRAKER",
-      "date": "2019-03-21"
+      "date": "2019-03-21",
+      "audio": "https://api.spreaker.com/download/episode/17655279/5c48b9f0a1e29e9e68b86776.mp3",
+      "duree": 257
     },
     {
       "titre": "SAGA JAMES BOND #12 | L'ESPION QUI M'AIMAIT (The Spy Who Loved Me)",
-      "date": "2019-02-21"
+      "date": "2019-02-21",
+      "audio": "https://api.spreaker.com/download/episode/17655280/5beedc1ecd0e1c0a09045e37.mp3",
+      "duree": 298
     },
     {
       "titre": "SAGA JAMES BOND | CRITIQUE DU FILM LIVE AND LET DIE / Vivre et Laisse Mourir | CinéMaRadio",
-      "date": "2019-01-21"
+      "date": "2019-01-21",
+      "audio": "https://api.spreaker.com/download/episode/17655282/5b892f4f3cae8cd309308f33.mp3",
+      "duree": 292
     },
     {
       "titre": "PODCAST CINEMA | Saga James Bond | CRITIQUE DU FILM LES DIAMANTS SONT ÉTERNELS",
-      "date": "2018-12-21"
+      "date": "2018-12-21",
+      "audio": "https://api.spreaker.com/download/episode/17655283/5b6ad23f2e35bd6c10489904.mp3",
+      "duree": 291
     }
   ],
   "derniere_activite": "2019-04-23",

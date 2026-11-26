@@ -29,15 +29,21 @@
   "episodes_recents": [
     {
       "titre": "L'échappée belle de Francis Kurkdjian",
-      "date": "2022-11-24"
+      "date": "2022-11-24",
+      "audio": "https://media.edisound.com/medias/episodes/audio/df3a8b3fb19ffc7adfd40eed849397139bba4000e6a4e979e0969c78fffb.mp3",
+      "duree": 1058
     },
     {
       "titre": "L'échappée belle de Matthieu Chedid",
-      "date": "2022-08-23"
+      "date": "2022-08-23",
+      "audio": "https://media.edisound.com/medias/episodes/audio/6f4767b0e0138dcc8beafc9a086b400426eab91b78a7465cdfa01b9c25e3.mp3",
+      "duree": 609
     },
     {
       "titre": "L’échappée belle de Nikos Aliagas",
-      "date": "2022-05-11"
+      "date": "2022-05-11",
+      "audio": "https://media.edisound.com/medias/episodes/audio/212e4533f928409ff1bf6386f83faaad8bd89a621a2c8058c3c394185862.mp3",
+      "duree": 590
     }
   ],
   "derniere_activite": "2022-11-24",

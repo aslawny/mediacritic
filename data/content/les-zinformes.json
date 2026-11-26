@@ -27,26 +27,36 @@
   "updatedAt": "2026-11-24",
   "episodes_recents": [
     {
-      "titre": "Les Zinformés - 12/11/26",
-      "date": "2026-11-12"
+      "titre": "Les Zinformés - 24/11/26",
+      "date": "2026-11-24",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3108745.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 5415
     },
     {
-      "titre": "Les Zinformés - 10/11/26",
-      "date": "2026-11-10"
+      "titre": "Les Zinformés - 23/11/26",
+      "date": "2026-11-23",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3097343.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 5105
     },
     {
-      "titre": "Les Zinformés - 09/11/26",
-      "date": "2026-11-09"
+      "titre": "Les Zinformés - 20/11/26",
+      "date": "2026-11-20",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3089710.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 5469
     },
     {
-      "titre": "Les Zinformés - 06/11/26",
-      "date": "2026-11-06"
+      "titre": "Les Zinformés - 19/11/26",
+      "date": "2026-11-19",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3056499.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 5487
     },
     {
-      "titre": "Les Zinformés - 05/11/26",
-      "date": "2026-11-05"
+      "titre": "Les Zinformés - 18/11/26",
+      "date": "2026-11-18",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3046709.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 5394
     }
   ],
-  "derniere_activite": "2026-11-12",
+  "derniere_activite": "2026-11-24",
   "frequence_jours": 1
 }

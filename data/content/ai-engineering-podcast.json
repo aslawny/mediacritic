@@ -29,23 +29,33 @@
   "episodes_recents": [
     {
       "titre": "SpaceX rachète Cursor pour $60b?",
-      "date": "2026-05-04"
+      "date": "2026-05-04",
+      "audio": "https://pub-4ff2e85593bd4bee9df83cd32bec10ca.r2.dev/episodes/ep012-spacex-rachète-cursor-pour-60b/audio.mp3",
+      "duree": 1872
     },
     {
       "titre": "Le plus petit agent IA possible — pi Agent (l'agent derrière OpenClaw)",
-      "date": "2026-04-26"
+      "date": "2026-04-26",
+      "audio": "https://pub-4ff2e85593bd4bee9df83cd32bec10ca.r2.dev/episodes/ep011-le-plus-petit-agent-ia-possible-pi-agent-lagent-derrière-ope/audio.mp3",
+      "duree": 3545
     },
     {
       "titre": "Que devient dbt quand l’IA écrit le code ? (and news)",
-      "date": "2026-04-17"
+      "date": "2026-04-17",
+      "audio": "https://pub-4ff2e85593bd4bee9df83cd32bec10ca.r2.dev/episodes/ep010-que-devient-dbt-quand-lia-écrit-le-code-and-news/audio.mp3",
+      "duree": 3425
     },
     {
       "titre": "Une librairie LLM attaquée vole tous les credentials?",
-      "date": "2026-04-02"
+      "date": "2026-04-02",
+      "audio": "https://pub-4ff2e85593bd4bee9df83cd32bec10ca.r2.dev/episodes/ep008-une-librairie-llm-attaquée-vole-tous-les-credentials/audio.mp3",
+      "duree": 1926
     },
     {
       "titre": "Claude Code leaked (on explique tout)",
-      "date": "2026-04-02"
+      "date": "2026-04-02",
+      "audio": "https://pub-4ff2e85593bd4bee9df83cd32bec10ca.r2.dev/episodes/ep009-claude-code-leaked-on-explique-tout/audio.mp3",
+      "duree": 2335
     }
   ],
   "derniere_activite": "2026-05-04",

@@ -59,5 +59,31 @@
     }
   ],
   "derniere_activite": "2026-11-18",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ecolobio",
+        "titre": "Très bon podcast, très pro!",
+        "texte": "Je ne connaissais pas ce podcast sur nos jeux de société, très content de l’écouter"
+      },
+      {
+        "note": 5,
+        "auteur": "Crountch",
+        "titre": "Excellent",
+        "texte": "Excellent podcast, bien produit, agréable à écouter avec du contenu. Je recommande"
+      },
+      {
+        "note": 5,
+        "auteur": "ugcdh",
+        "titre": "Très intéressant",
+        "texte": "Sur un sujet que je connais peu mais qui me donne envie d'en apprendre plus."
+      }
+    ]
+  }
 }

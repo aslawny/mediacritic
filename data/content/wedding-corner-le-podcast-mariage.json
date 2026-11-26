@@ -62,25 +62,29 @@
   "derniere_activite": "2023-10-11",
   "frequence_jours": 34,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-27",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-26",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Continuez cette appli !",
+        "titre": "Une wedding planer en or",
+        "texte": "Des conseils partagés allant des préparatifs de mariage jusqu’au jour J. Tous les épisodes évoquent des sujets et détails auxquels on ne pense pas forcément lorsque l’on prépare son mariage et qui nous permettent de ne rien oublier.…"
+      },
+      {
+        "note": 5,
+        "auteur": "lilou2431",
+        "titre": "Un moment de kiff",
+        "texte": "J’ai eu la chance de participer à l’un des podcast de « Wedding Corner » et j’ai trouvé l’expérience enrichissante. Ce concept est génial pour les futurs mariés en quête de tips et de conseils avisés par des experts.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Juliette de Juliette",
+        "titre": "Enfin un podcast mariage méthodologique et qui ne tombe pas dans la frénésie du toujours plus!",
+        "texte": "Merci beaucoup pour votre podcast! Nous organisons notre mariage pour 2022 et nous avions envie d’une aide méthodologique sans tomber dans les témoignages « surenchères » et quelle bonne surprise d’avoir trouvé le vôtre! Méthode, professionnalisme, créativité et humour!!! Tout y…"
+      }
     ]
   }
 }
