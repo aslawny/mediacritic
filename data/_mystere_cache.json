@@ -316,5 +316,15 @@
    "type": "youtube"
   },
   "slug": "jojol"
+ },
+ "2026-11-27": {
+  "annee": 2022,
+  "annee_min": true,
+  "duree_min": 7,
+  "lecteur": {
+   "src": "https://embed.podcasts.apple.com/fr/podcast/id369369012?i=1000804237845&theme=dark",
+   "type": "apple"
+  },
+  "slug": "les-grosses-tetes"
  }
 }
