@@ -26,29 +26,39 @@
     "sport"
   ],
   "addedAt": "2026-06-09",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
-      "titre": "Hockey sur glace : la Continental Cup, une compétition \"festive\"",
-      "date": "2026-11-13"
+      "titre": "À Saint-Pair, la maire et des habitants fabriquent eux-mêmes les décorations de Noël",
+      "date": "2026-11-26",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3123069.mp3?origin=rss",
+      "duree": 105
     },
     {
-      "titre": "Coupe de France : l’AS Verson, petit poucet de R3, veut réaliser l'exploit face à Calais",
-      "date": "2026-11-13"
+      "titre": "Calvados : un nouveau plan contre les violences faites aux femmes jusqu'en 2030",
+      "date": "2026-11-26",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3120034.mp3?origin=rss",
+      "duree": 105
     },
     {
-      "titre": "Salon du Made in France : aux travers de ses sacs, elle raconte le patrimoine de tissus anciens",
-      "date": "2026-11-13"
+      "titre": "A Rouen, le Foyer des Marins nous ouvre ses portes",
+      "date": "2026-11-24",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3100177.mp3?origin=rss",
+      "duree": 105
     },
     {
-      "titre": "Dives-sur-Mer : un dragage de 90 000 m³ à Port Guillaume jusqu'en mars",
-      "date": "2026-11-12"
+      "titre": "Normandie : le théâtre pour mieux comprendre le fonctionnement de la justice",
+      "date": "2026-11-24",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3099649.mp3?origin=rss",
+      "duree": 105
     },
     {
-      "titre": "Faux mails, pressions et virements urgents : comment la Ligue de Normandie de judo a été visée par une escroqu",
-      "date": "2026-11-12"
+      "titre": "Réserve naturelle des falaises jurassiques du Calvados : pourquoi des élus et des scientifiques attaquent l'in",
+      "date": "2026-11-24",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3098012.mp3?origin=rss",
+      "duree": 105
     }
   ],
-  "derniere_activite": "2026-11-13",
+  "derniere_activite": "2026-11-26",
   "frequence_jours": 0
 }

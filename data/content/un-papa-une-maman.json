@@ -27,7 +27,7 @@
     "famille"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "Épisode 11 - Retourner à Séville",
@@ -63,25 +63,29 @@
   "derniere_activite": "2023-04-11",
   "frequence_jours": 6,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-28",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "H'l3n'",
+        "titre": "Fabuleux",
+        "texte": "On adore ce titre qui vient si bien narguer la Manif pour tous !!! Ce podcast est un ovni tellement la co-parentalité reste peu documentée. Pascale et Florent se dévoilent avec une grande générosité et confiance en Sixtine comme en leurs auditeurs.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Letout73",
+        "titre": "Un podcast de très grande qualité",
+        "texte": "Bravo Sixtine ! Ton podcast est magnifique. Tout à la fois bouleversant de sincérité, débordant d’amour sans être ni mielleux ni complaisant, ancré dans la réalité de la vie de ceux qui mettent tout en œuvre pour réaliser leur désir d’enfant, haletant aussi (comment vont-ils mene…"
+      },
+      {
+        "note": 5,
+        "auteur": "fleurdecactus73",
+        "titre": "Lumineux et inspirant",
+        "texte": "Un superbe podcast délicat et sensible. Pascale et Florent ont l’air de délicieux humains, raisonnés, raisonnables, avec tant d’amour à donner ! Quel sujet inspirant, alors même que l’on n’est pas nécessairement concerné.…"
+      }
     ]
   }
 }

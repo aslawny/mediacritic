@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/reactor-podcast/id1740890295?uo=4",
       "trackId": 1740890295,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": 41
     }
   },
@@ -27,29 +27,39 @@
     "entrepreneuriat"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-05-16",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
+      "titre": "4 entrepreneurs révèlent ce que personne ne vous enseigne - Table Ronde Reactor",
+      "date": "2026-11-25",
+      "audio": "https://api.riverside.com/hosting-analytics/media/969655d92bc082ef9cc01143919509e36f63f570332e2cfed785bab01255d1d1/eyJlcGlzb2RlSWQiOiJiMzc4NzZkNy1jN2RlLTRhMWYtYTA2Zi1kMDEwOWY2OGEwMWIiLCJwb2RjYXN0SWQiOiJkNmYwOTQzYS04OTU1LTQxMGItYmQ2Zi05ODU5OTU5MGM0NmQiLCJhY2NvdW50SWQiOiI2NjE0ZWQ2MmFlZTdkMmMyYmJkZTRkNDkiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmIwNGE5YmJkOTVlZjk4ODdmOWE2ZDFjL2plcm9tZS1naWxsZXJvbnMtc3R1ZGlvLTIwMjYtMTEtMjNfXzIxLTEtNDcubXAzIn0=.mp3",
+      "duree": 9223
+    },
+    {
+      "titre": "Trailer - Table ronde entrepreneur",
+      "date": "2026-11-24",
+      "audio": "https://api.riverside.com/hosting-analytics/media/072ecb7f1a37c89bf7521e78036b437be4c1463f449bc72d132cb9e4d2539724/eyJlcGlzb2RlSWQiOiJmNjM4ZDJjNy02ZWIzLTRhYTMtYTg5OS1mNGI0MDQ3N2M3ZTgiLCJwb2RjYXN0SWQiOiJkNmYwOTQzYS04OTU1LTQxMGItYmQ2Zi05ODU5OTU5MGM0NmQiLCJhY2NvdW50SWQiOiI2NjE0ZWQ2MmFlZTdkMmMyYmJkZTRkNDkiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmIwNGJlNWJlYjZjZTRhNzY0MzEwMDhiL2plcm9tZS1naWxsZXJvbnMtc3R1ZGlvLTIwMjYtMTEtMjNfXzIyLTI5LTQ3Lm1wMyJ9.mp3",
+      "duree": 84
+    },
+    {
       "titre": "How Direct Air Capture Companies Make Money - 2/3",
-      "date": "2025-10-19"
+      "date": "2025-10-19",
+      "audio": "https://api.riverside.com/hosting-analytics/media/2937fd02f87ee1b9e3d4f2cb5310ab22538b9252e683b9ca91a85fe4b7494c85/eyJlcGlzb2RlSWQiOiJmZDQ0MTFiMC0yYzRjLTQ4ZTktYmQyMS02NzI4ZWM1MGRkMWYiLCJwb2RjYXN0SWQiOiJkNmYwOTQzYS04OTU1LTQxMGItYmQ2Zi05ODU5OTU5MGM0NmQiLCJhY2NvdW50SWQiOiI2NjE0ZWQ2MmFlZTdkMmMyYmJkZTRkNDkiLCJwYXRoIjoibWVkaWEvaW1wb3J0cy9wb2RjYXN0cy9kNmYwOTQzYS04OTU1LTQxMGItYmQ2Zi05ODU5OTU5MGM0NmQvZXBpc29kZXMvZmQ0NDExYjAtMmM0Yy00OGU5LWJkMjEtNjcyOGVjNTBkZDFmLzE4MDM2NjMzLWhvdy1kaXJlY3QtYWlyLWNhcHR1cmUtY29tcGFuaWVzLW1ha2UtbW9uZXktMi0zLm1wMyJ9.mp3",
+      "duree": 582
     },
     {
       "titre": "He cleaned a lagoon… with bubbles",
-      "date": "2025-10-09"
+      "date": "2025-10-09",
+      "audio": "https://api.riverside.com/hosting-analytics/media/f16e0a1cf4fc94c83e080cc7fa7ff455e6b611d159f083bf9f6f322a54e7b74a/eyJlcGlzb2RlSWQiOiIxNDExNmY2OC1jOTY1LTQ2MjYtOWQ1ZS1jMGQ5MzRkNzFkMzgiLCJwb2RjYXN0SWQiOiJkNmYwOTQzYS04OTU1LTQxMGItYmQ2Zi05ODU5OTU5MGM0NmQiLCJhY2NvdW50SWQiOiI2NjE0ZWQ2MmFlZTdkMmMyYmJkZTRkNDkiLCJwYXRoIjoibWVkaWEvaW1wb3J0cy9wb2RjYXN0cy9kNmYwOTQzYS04OTU1LTQxMGItYmQ2Zi05ODU5OTU5MGM0NmQvZXBpc29kZXMvMTQxMTZmNjgtYzk2NS00NjI2LTlkNWUtYzBkOTM0ZDcxZDM4LzE3OTY2NjM2LWhlLWNsZWFuZWQtYS1sYWdvb24td2l0aC1idWJibGVzLm1wMyJ9.mp3",
+      "duree": 65
     },
     {
       "titre": "This city ski slope heats and powers 150,000 people—by burning their trash.",
-      "date": "2025-10-06"
-    },
-    {
-      "titre": "3 Weeks, 100+ Homes: Inside the Largest 3D-Printed Neighborhood",
-      "date": "2025-09-25"
-    },
-    {
-      "titre": "Fog → Drinking Water: The Simple Tech Bringing Potable Water to Arid Regions",
-      "date": "2025-09-21"
+      "date": "2025-10-06",
+      "audio": "https://api.riverside.com/hosting-analytics/media/84b8ad6eeb06648ac6277629e66658529872915ea489f5201166fc2561cf5aa4/eyJlcGlzb2RlSWQiOiIxMjVlNzAxZS0zYTE3LTRlNDAtODc5OS02NWE3YTBjMGEyYTAiLCJwb2RjYXN0SWQiOiJkNmYwOTQzYS04OTU1LTQxMGItYmQ2Zi05ODU5OTU5MGM0NmQiLCJhY2NvdW50SWQiOiI2NjE0ZWQ2MmFlZTdkMmMyYmJkZTRkNDkiLCJwYXRoIjoibWVkaWEvaW1wb3J0cy9wb2RjYXN0cy9kNmYwOTQzYS04OTU1LTQxMGItYmQ2Zi05ODU5OTU5MGM0NmQvZXBpc29kZXMvMTI1ZTcwMWUtM2ExNy00ZTQwLTg3OTktNjVhN2EwYzBhMmEwLzE3OTY2NTU5LXRoaXMtY2l0eS1za2ktc2xvcGUtaGVhdHMtYW5kLXBvd2Vycy0xNTAtMDAwLXBlb3BsZS1ieS1idXJuaW5nLXRoZWlyLXRyYXNoLm1wMyJ9.mp3",
+      "duree": 55
     }
   ],
-  "derniere_activite": "2025-10-19",
-  "frequence_jours": 7
+  "derniere_activite": "2026-11-25",
+  "frequence_jours": 10
 }

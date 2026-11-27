@@ -24,29 +24,39 @@
     "numerique"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
-      "titre": "13.11.2026 - Sylvia nous invite à la méfiance",
-      "date": "2026-11-13"
+      "titre": "25.11.2026 - Virginie et le bon plan de Noel",
+      "date": "2026-11-25",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3109991.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 162
     },
     {
-      "titre": "13.11.2026 - Romain cherche des mannequins",
-      "date": "2026-11-13"
+      "titre": "25.11.2026 - Un parrain ou une marraine pour les animaux",
+      "date": "2026-11-25",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3109995.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 260
     },
     {
-      "titre": "13.11.2026 - Lysiane en promenade",
-      "date": "2026-11-13"
+      "titre": "24.11.2026 - Tous en scène recherche un comédien",
+      "date": "2026-11-25",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3109996.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 188
     },
     {
-      "titre": "13.11.2026 - Dimitri nous ecoute dans le car",
-      "date": "2026-11-13"
+      "titre": "24.11.2026 - Stéphanie et Noel",
+      "date": "2026-11-25",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3109987.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 130
     },
     {
-      "titre": "13.11.2026 - Danièle et la chance",
-      "date": "2026-11-13"
+      "titre": "25.11.2026 - Rencontre avec Johnny Montreuil",
+      "date": "2026-11-25",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3109980.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 191
     }
   ],
-  "derniere_activite": "2026-11-13",
+  "derniere_activite": "2026-11-25",
   "frequence_jours": 0
 }

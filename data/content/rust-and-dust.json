@@ -27,29 +27,39 @@
     "series"
   ],
   "addedAt": "2026-07-03",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
+      "titre": "Godzilla Minus Zero",
+      "date": "2026-11-25",
+      "audio": "https://track.podcastics.com/8883/440989.mp3",
+      "duree": 4281
+    },
+    {
+      "titre": "L'Être Aimé (El Ser Querido)",
+      "date": "2026-11-18",
+      "audio": "https://track.podcastics.com/8883/440155.mp3",
+      "duree": 3242
+    },
+    {
       "titre": "Crystal Lake (Saison 1)",
-      "date": "2026-11-13"
+      "date": "2026-11-13",
+      "audio": "https://track.podcastics.com/8883/439618.mp3",
+      "duree": 3306
     },
     {
       "titre": "Clayface",
-      "date": "2026-11-10"
+      "date": "2026-11-10",
+      "audio": "https://track.podcastics.com/8883/439190.mp3",
+      "duree": 3418
     },
     {
       "titre": "La franchise SAW",
-      "date": "2026-10-28"
-    },
-    {
-      "titre": "No Devil (Tome 2)",
-      "date": "2026-10-14"
-    },
-    {
-      "titre": "Lanterns (Épisodes 7 & 8)",
-      "date": "2026-10-07"
+      "date": "2026-10-28",
+      "audio": "https://track.podcastics.com/8883/437113.mp3",
+      "duree": 10824
     }
   ],
-  "derniere_activite": "2026-11-13",
+  "derniere_activite": "2026-11-25",
   "frequence_jours": 6
 }

@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/podcast-wattalent/id6815880109?uo=2",
       "trackId": 6815880109,
       "rating": 5.0,
-      "ratingCount": 1,
+      "ratingCount": 2,
       "episodeCount": null
     }
   },
@@ -25,25 +25,39 @@
     "numerique"
   ],
   "addedAt": "2026-09-26",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
+      "titre": "La flexibilité se joue des deux côtés du compteur : effacement, stockage, production, avec Pierre Parent",
+      "date": "2026-11-20",
+      "audio": "https://audio.ausha.co/OAQXpcJxYp8X.mp3?t=1795169882",
+      "duree": 3473
+    },
+    {
       "titre": "Comment Storio Energy met les batteries au service de la compétitivité industrielle, avec Jean-Yves Stephan",
-      "date": "2026-11-06"
+      "date": "2026-11-06",
+      "audio": "https://audio.ausha.co/5NmezTazveWr.mp3?t=1793923133",
+      "duree": 3518
     },
     {
       "titre": "Produire ne suffit plus : la nouvelle équation du solaire, avec Philippe de Montalembert",
-      "date": "2026-10-22"
+      "date": "2026-10-22",
+      "audio": "https://audio.ausha.co/XEzwgIX10xqY.mp3?t=1792711888",
+      "duree": 3409
     },
     {
       "titre": "Le mariage de la tech et de l’énergie chez Survoltage, avec Jeff Knoepfli",
-      "date": "2026-10-08"
+      "date": "2026-10-08",
+      "audio": "https://audio.ausha.co/1n9GeTOeWmaP.mp3?t=1791502147",
+      "duree": 4586
     },
     {
       "titre": "Agrégation, flexibilité, fourniture : pourquoi Symphonics fait tout à la fois, avec Mathieu Rochard",
-      "date": "2026-09-24"
+      "date": "2026-09-24",
+      "audio": "https://audio.ausha.co/dl5wOFGeqJPG.mp3?t=1790291549",
+      "duree": 3366
     }
   ],
-  "derniere_activite": "2026-11-06",
-  "frequence_jours": 13
+  "derniere_activite": "2026-11-20",
+  "frequence_jours": 14
 }

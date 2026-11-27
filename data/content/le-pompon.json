@@ -27,7 +27,7 @@
     "politique"
   ],
   "addedAt": "2026-05-28",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "Ép. 145 - Michaël Dandrieux - Comprendre l'imaginaire collectif",
@@ -63,25 +63,29 @@
   "derniere_activite": "2024-12-02",
   "frequence_jours": 13,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-28",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "YokoTgt",
+        "titre": "Soyons tous entreprenants",
+        "texte": "Belle voix de Theo qui nous raconte des parcours variés ! Ça donne envie d’aller à la rencontre des gens du sud ouest ! Yoko, du podcast Quand j’serai grand, qui aide les ados à trouver ce qu’ils veulent faire plus tard !"
+      },
+      {
+        "note": 5,
+        "auteur": "vbgarnier",
+        "titre": "Énergie",
+        "texte": "Beaucoup d’énergie de la part de Théo et des invités aux parcours très intéressants et divers, inspirant pour tous les entreprenants que vous soyez de la région de Bordeaux ou non!"
+      },
+      {
+        "note": 5,
+        "auteur": "Orlando33143",
+        "titre": "Jolie découverte",
+        "texte": "Un regard différent et spontané sur celles et ceux qui entreprennent et vont au bout de leurs rêves et de leurs envies. Inspirant et agréable à écouter !"
+      }
     ]
   }
 }

@@ -25,7 +25,7 @@
     "famille"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "La question des Intrépides #8 : et si les autres étaient de notre côté ?",
@@ -61,25 +61,29 @@
   "derniere_activite": "2026-11-20",
   "frequence_jours": 13,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-28",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "EloLaval",
+        "titre": "A écouter sans modération",
+        "texte": "Ce podcast est destiné aux enfants pour les aider à appréhender leurs différentes peurs. Les histoires sont bien écrites et très bien racontées! Mes enfants en sont fan et j’avoue que moi aussi, la douce voix de l’autrice m’apaise!"
+      },
+      {
+        "note": 5,
+        "auteur": "angel_tha",
+        "titre": "Génial ! ⭐️⭐️⭐️⭐️⭐️",
+        "texte": "Des histoires contées avec douceur et entrain ! Enfants et adultes s’immergent dans l’univers des personnages avec fluidité pour aller au-delà des peurs et comprendre ses émotions. J’adore et recommande chaudement aux parents !"
+      },
+      {
+        "note": 5,
+        "auteur": "Vérolo Daoulas",
+        "titre": "Pour que la route passe plus vite",
+        "texte": "Grande fan des histoires à écouter en voiture pour occuper les petits, je recommande celui ci pour la limpidité de ces textes et sa forme simple et épurée qui calme et réconforte."
+      }
     ]
   }
 }

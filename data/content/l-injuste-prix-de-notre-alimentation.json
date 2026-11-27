@@ -26,23 +26,31 @@
     "culture",
     "société"
   ],
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "Chapitre 4 : Argent public et nouvelles perspectives",
-      "date": "2026-03-27"
+      "date": "2026-03-27",
+      "audio": "https://media.transistor.fm/4c8d2146/4a97b151.mp3",
+      "duree": 833
     },
     {
       "titre": "Chapitre 3 : « Je pourrais donner mon blé que ça ne changerait pas le prix de votre pain. »",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "audio": "https://media.transistor.fm/1271244f/4f059c44.mp3",
+      "duree": 1381
     },
     {
       "titre": "Chapitre 2 : « Ce n'est pas que je ne veux pas, c'est que je ne peux pas. »",
-      "date": "2026-02-05"
+      "date": "2026-02-05",
+      "audio": "https://media.transistor.fm/3dc35c4d/0190da76.mp3",
+      "duree": 751
     },
     {
       "titre": "Chapitre 1 : « Qu’est-ce qui se cache derrière le prix de notre alimentation ? »",
-      "date": "2026-01-08"
+      "date": "2026-01-08",
+      "audio": "https://media.transistor.fm/d975c3fa/df3b1a70.mp3",
+      "duree": 629
     }
   ],
   "derniere_activite": "2026-03-27",

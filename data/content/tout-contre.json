@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/tout-contre/id6823218502?uo=2",
       "trackId": 6823218502,
       "rating": 4.6,
-      "ratingCount": 70,
+      "ratingCount": 71,
       "episodeCount": null
     }
   },
@@ -25,7 +25,7 @@
     "societe"
   ],
   "addedAt": "2026-10-20",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "COP31 : l’urgence oubliée | Immigration, le grand désaccord",
@@ -60,25 +60,29 @@
   ],
   "derniere_activite": "2026-11-19",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-28",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Alex_545",
+        "titre": "Good",
+        "texte": "À l’exemple de The Rest Is Politics (US et UK), bon podcast pour didcuter du fond sans être caricatural. Je regrette que NVB soit toujours un peu dans le milieu (à la Cour des comptes), ce qui nuit un peu à l’impartialité mais ça ne transpire pas lors des épisodes.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Mppepe",
+        "titre": "Pour un public d’initiés",
+        "texte": "Un peu perdue dans l’épisode sur la dette, je n’ai pas mieux compris après qu’avant. J’ai juste compris que les approches droites/gauches etaient différentes, ce n’est pas un scoop, mais je ne suis pas plus en capacité de développer une opinion personnelle.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Charles—-",
+        "titre": "Merci de discuter sereinement",
+        "texte": "Intéressant ce podcast : dans un monde de plus en plus polarisé, de moins en moins nuancé, c’est intéressant d’écouter 2 représentantes politiques s’écouter et se respecter le tout en apportant de la nuance."
+      }
     ]
   },
   "frequence_jours": 7

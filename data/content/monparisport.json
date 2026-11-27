@@ -22,29 +22,39 @@
   "tags": [
     "histoire"
   ],
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
+      "titre": "Paris Lutte Olympique",
+      "date": "2026-11-24",
+      "audio": "https://track.podcastics.com/339/440920.mp3",
+      "duree": 5255
+    },
+    {
+      "titre": "En Avant de Paris Gymnastique / Boxe Bakary Samaké",
+      "date": "2026-11-16",
+      "audio": "https://track.podcastics.com/339/439967.mp3",
+      "duree": 5385
+    },
+    {
       "titre": "Ile de France Bowling / Fair play CFFP",
-      "date": "2026-11-09"
+      "date": "2026-11-09",
+      "audio": "https://track.podcastics.com/339/439096.mp3",
+      "duree": 5308
     },
     {
       "titre": "Spécial CDOS75 (Badminton / Foot US)",
-      "date": "2026-11-02"
+      "date": "2026-11-02",
+      "audio": "https://track.podcastics.com/339/438110.mp3",
+      "duree": 5350
     },
     {
       "titre": "Regis Viateur / Tour de France 2027",
-      "date": "2026-10-26"
-    },
-    {
-      "titre": "Masthanna Sport / Supporter Foot PSG",
-      "date": "2026-10-19"
-    },
-    {
-      "titre": "Walid Masmoudi Jonathan Rohman",
-      "date": "2026-10-14"
+      "date": "2026-10-26",
+      "audio": "https://track.podcastics.com/339/436846.mp3",
+      "duree": 5412
     }
   ],
-  "derniere_activite": "2026-11-09",
+  "derniere_activite": "2026-11-24",
   "frequence_jours": 6
 }

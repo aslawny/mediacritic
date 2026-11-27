@@ -28,26 +28,36 @@
   "updatedAt": "2026-08-11",
   "episodes_recents": [
     {
-      "titre": "Veille tech du 13 Novembre 2026",
-      "date": "2026-11-13"
+      "titre": "La Minute KodeSaaS du 26 novembre 2026",
+      "date": "2026-11-26",
+      "audio": "https://api.spreaker.com/download/episode/76599836/la_minute_kodesaas.mp3",
+      "duree": 65
     },
     {
-      "titre": "La Minute KodeSaaS du 12 novembre 2026",
-      "date": "2026-11-12"
+      "titre": "La Minute KodeSaaS du 25 novembre 2026",
+      "date": "2026-11-25",
+      "audio": "https://api.spreaker.com/download/episode/76562071/la_minute_kodesaas.mp3",
+      "duree": 55
     },
     {
-      "titre": "La Minute KodeSaaS du 11 novembre 2026",
-      "date": "2026-11-11"
+      "titre": "La Minute KodeSaaS du 24 novembre 2026",
+      "date": "2026-11-24",
+      "audio": "https://api.spreaker.com/download/episode/76542575/la_minute_kodesaas.mp3",
+      "duree": 61
     },
     {
-      "titre": "La Minute KodeSaaS du 10 novembre 2026",
-      "date": "2026-11-10"
+      "titre": "La Minute KodeSaaS du 23 novembre 2026",
+      "date": "2026-11-23",
+      "audio": "https://api.spreaker.com/download/episode/76529188/la_minute_kodesaas.mp3",
+      "duree": 65
     },
     {
-      "titre": "La Minute KodeSaaS du 9 novembre 2026",
-      "date": "2026-11-09"
+      "titre": "Veille tech du 20 Novembre 2026",
+      "date": "2026-11-20",
+      "audio": "https://api.spreaker.com/download/episode/76477649/atelier_2026_11_20.mp3",
+      "duree": 474
     }
   ],
-  "derniere_activite": "2026-11-13",
+  "derniere_activite": "2026-11-26",
   "frequence_jours": 1
 }

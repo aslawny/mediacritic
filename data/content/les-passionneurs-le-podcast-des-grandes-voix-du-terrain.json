@@ -23,27 +23,37 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "Alexandre Pasteur",
-      "date": "2026-03-21"
+      "date": "2026-03-21",
+      "audio": "https://anchor.fm/s/f1a099d8/podcast/play/117228052/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-20%2F79d71296-7faa-a57d-6770-625dafc73444.m4a",
+      "duree": 2395
     },
     {
       "titre": "David Astorga",
-      "date": "2026-01-18"
+      "date": "2026-01-18",
+      "audio": "https://anchor.fm/s/f1a099d8/podcast/play/114167721/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-18%2Fa93162ef-8f1d-40a4-6463-cfc4a5386b6e.m4a",
+      "duree": 7099
     },
     {
       "titre": "Jean-René Godart",
-      "date": "2025-11-03"
+      "date": "2025-11-03",
+      "audio": "https://anchor.fm/s/f1a099d8/podcast/play/110609166/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-3%2F21512488-abb0-45f1-aeda-e06842f74ba8.m4a",
+      "duree": 1162
     },
     {
       "titre": "Christian Ledan",
-      "date": "2024-04-12"
+      "date": "2024-04-12",
+      "audio": "https://anchor.fm/s/f1a099d8/podcast/play/85348146/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-12%2Fa182570e-22e7-d87c-2bae-0f9c774f8a8b.mp3",
+      "duree": 4290
     },
     {
       "titre": "David Cozette",
-      "date": "2024-02-29"
+      "date": "2024-02-29",
+      "audio": "https://anchor.fm/s/f1a099d8/podcast/play/83446391/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-1%2Ff05b4acf-d64f-23c7-60b3-b033cb4dc2ff.mp3",
+      "duree": 3900
     }
   ],
   "derniere_activite": "2026-03-21",

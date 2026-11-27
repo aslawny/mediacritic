@@ -24,29 +24,39 @@
     "business"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
+      "titre": "Ep.194 - Tout le monde est rendu dev (Netlify, agents & SaaS apocalypse)",
+      "date": "2026-11-26",
+      "audio": "https://anchor.fm/s/dd081758/podcast/play/130131412/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-26%2F437659678-44100-2-122a8f7e869428.mp3",
+      "duree": 5012
+    },
+    {
       "titre": "Ep.193 - Être du bon côté de l'histoire (data, AI & cofondateurs)",
-      "date": "2026-11-12"
+      "date": "2026-11-12",
+      "audio": "https://anchor.fm/s/dd081758/podcast/play/129293603/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F436536944-44100-2-6f2ad9d8cda61.mp3",
+      "duree": 5123
     },
     {
       "titre": "Ep.192 - Les champions ne se clonent pas (20M$ ARR, AI & France)",
-      "date": "2026-10-29"
+      "date": "2026-10-29",
+      "audio": "https://anchor.fm/s/dd081758/podcast/play/128318126/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-29%2F435286581-44100-2-5dc2b54367ab1.mp3",
+      "duree": 4938
     },
     {
       "titre": "Ep.191 - Des drones dans le Bootstrap Club (construction, AI & données terrain)",
-      "date": "2026-10-15"
+      "date": "2026-10-15",
+      "audio": "https://anchor.fm/s/dd081758/podcast/play/127499677/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2F434203525-44100-2-7d7854bbc135c.mp3",
+      "duree": 4967
     },
     {
       "titre": "Ep.190 - Des miettes et des bitcoins (crypto, 3M$ & ransomware)",
-      "date": "2026-10-01"
-    },
-    {
-      "titre": "Ep.189 - Des larmes aux leads (event tech, data & premier chèque)",
-      "date": "2026-09-17"
+      "date": "2026-10-01",
+      "audio": "https://anchor.fm/s/dd081758/podcast/play/126595837/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-1%2F433048490-44100-2-57f83e55f098d.mp3",
+      "duree": 7106
     }
   ],
-  "derniere_activite": "2026-11-12",
+  "derniere_activite": "2026-11-26",
   "frequence_jours": 14
 }

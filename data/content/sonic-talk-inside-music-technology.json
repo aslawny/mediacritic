@@ -27,29 +27,39 @@
     "numerique"
   ],
   "addedAt": "2026-06-27",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
+      "titre": "TALK 918 - Pittsburgh SV-1v, 3d Printing",
+      "date": "2026-11-25",
+      "audio": "https://pod.sonicstate.com/audio/@sonictalk/talk-918-pittsburgh-sv-1v-3d-printing.mp3",
+      "duree": 4131
+    },
+    {
+      "titre": "TALK 917 - Browser DAWS",
+      "date": "2026-11-18",
+      "audio": "https://pod.sonicstate.com/audio/@sonictalk/talk-917-browser-daws.mp3",
+      "duree": 4017
+    },
+    {
       "titre": "TALK 916 - GForce Matrix 12 And more",
-      "date": "2026-11-11"
+      "date": "2026-11-11",
+      "audio": "https://pod.sonicstate.com/audio/@sonictalk/talk-916-gforce-matrix-12-and-more.mp3",
+      "duree": 3633
     },
     {
       "titre": "TALK 915 - Back From China",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://pod.sonicstate.com/audio/@sonictalk/talk-915-back-from-china.mp3",
+      "duree": 4397
     },
     {
       "titre": "TALK 914 - Firmware Hacking",
-      "date": "2026-10-21"
-    },
-    {
-      "titre": "TALK 913 Scanner, UVI And Sledgehammer",
-      "date": "2026-10-14"
-    },
-    {
-      "titre": "TALK 912 - Live Tech And DMNO ON",
-      "date": "2026-10-07"
+      "date": "2026-10-21",
+      "audio": "https://pod.sonicstate.com/audio/@sonictalk/talk-914-firmware-hacking.mp3",
+      "duree": 3398
     }
   ],
-  "derniere_activite": "2026-11-11",
-  "frequence_jours": 7
+  "derniere_activite": "2026-11-25",
+  "frequence_jours": 6
 }

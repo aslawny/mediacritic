@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/raconte-moi-une-histoire/id6826860765?uo=2",
       "trackId": 6826860765,
-      "rating": 4.0,
-      "ratingCount": 1,
+      "rating": 4.5,
+      "ratingCount": 2,
       "episodeCount": null
     }
   },
@@ -25,29 +25,39 @@
     "culture"
   ],
   "addedAt": "2026-11-02",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
-      "titre": "Histoire pour Dormir 💤 Adaline | Une Vie Hors du Temps | Livre audio",
-      "date": "2026-11-14"
+      "titre": "Histoire pour Dormir 💤 Jamais Plus | Livre audio",
+      "date": "2026-11-26",
+      "audio": "https://traffic.megaphone.fm/APO7580748586.mp3",
+      "duree": 11910
     },
     {
-      "titre": "Histoire pour Dormir 💤 Miss Marple | À l'hôtel Bertram | Agatha Christie |",
-      "date": "2026-11-13"
+      "titre": "Histoire pour Dormir 💤 Miss Marple | Un Meurtre est Prévu à 18h30… | Agatha Christie",
+      "date": "2026-11-25",
+      "audio": "https://traffic.megaphone.fm/APO2669257415.mp3",
+      "duree": 13699
     },
     {
-      "titre": "Histoire pour Dormir 💤 Hercule Poirot | La Folie des Apparences | Agatha Christie",
-      "date": "2026-11-12"
+      "titre": "Histoire pour Dormir 💤 Sous le Soleil d'Italie | Livre audio relaxant",
+      "date": "2026-11-24",
+      "audio": "https://traffic.megaphone.fm/APO2375961806.mp3",
+      "duree": 11882
     },
     {
-      "titre": "Histoire pour Dormir 💤 Le Café des Nuits Silencieuses | Livre audio relaxant",
-      "date": "2026-11-10"
+      "titre": "Histoire pour Dormir 💤 Hercule Poirot | Mort sur le Nil | Livre Audio",
+      "date": "2026-11-23",
+      "audio": "https://traffic.megaphone.fm/APO3611787297.mp3",
+      "duree": 10559
     },
     {
-      "titre": "Histoire pour Dormir 💤 Sherlock Holmes | L’Aventure du parapluie de Mr Phillimore | Livre audio",
-      "date": "2026-11-09"
+      "titre": "Histoire pour Dormir 💤 Nonnas | Les Recettes du Bonheur | Livre audio relaxant",
+      "date": "2026-11-21",
+      "audio": "https://traffic.megaphone.fm/APO6896815299.mp3",
+      "duree": 18043
     }
   ],
-  "derniere_activite": "2026-11-14",
+  "derniere_activite": "2026-11-26",
   "frequence_jours": 1
 }

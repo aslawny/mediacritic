@@ -27,27 +27,37 @@
     "series"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "Olivier Assayas : L'Enfant de l'hiver (1989)",
-      "date": "2026-05-11"
+      "date": "2026-05-11",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2501881.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 2334
     },
     {
       "titre": "André Téchiné : Le Lieu du crime (1986)",
-      "date": "2026-05-11"
+      "date": "2026-05-11",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1977247.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 2469
     },
     {
       "titre": "Jacques Demy, le cinéma musical et la peinture",
-      "date": "2026-05-11"
+      "date": "2026-05-11",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2501856.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 2842
     },
     {
       "titre": "Marguerite Duras : \"le cinéma c'est le son\"",
-      "date": "2026-05-11"
+      "date": "2026-05-11",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2501829.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 2988
     },
     {
       "titre": "Eric Rohmer : Conte de printemps (1990)",
-      "date": "2026-05-11"
+      "date": "2026-05-11",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2501791.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 2289
     }
   ],
   "derniere_activite": "2026-05-11",

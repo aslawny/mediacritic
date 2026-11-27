@@ -25,7 +25,7 @@
     "christianisme"
   ],
   "addedAt": "2026-09-05",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "Soeur Emmanuelle : « Yalla ! En avant ! »",
@@ -61,25 +61,23 @@
   "derniere_activite": "2024-03-26",
   "frequence_jours": 20,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-28",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Ptit loupio",
+        "titre": "Au top",
+        "texte": "Attention ces histoires sont passionnantes , méfiez vous, vos enfants en sont friands et risque de vous en réclamer toujours plus et devenir des petits saints."
+      },
+      {
+        "note": 5,
+        "auteur": "hortense o",
+        "titre": "Merci!",
+        "texte": "Parfait pour soutenir les leçons de catéchisme, pour les trajets en voiture, pour les moments calmes… Un immense merci pour ce beau cadeau à notre famille"
+      }
     ]
   }
 }

@@ -30,23 +30,33 @@
   "episodes_recents": [
     {
       "titre": "Ciné Brunch - 21 mars 2020",
-      "date": "2020-03-21"
+      "date": "2020-03-21",
+      "audio": "https://cinebrunch.baladocanada.ca/media/2020-03-28_cinebrunch_s6_2020-03-21.mp3",
+      "duree": 3286
     },
     {
       "titre": "Ciné Brunch - 14 mars 2020",
-      "date": "2020-03-14"
+      "date": "2020-03-14",
+      "audio": "https://cinebrunch.baladocanada.ca/media/2020-03-28_cinebrunch_s6_2020-03-14.mp3",
+      "duree": 3303
     },
     {
       "titre": "Ciné Brunch - 07 mars 2020",
-      "date": "2020-03-07"
+      "date": "2020-03-07",
+      "audio": "https://cinebrunch.baladocanada.ca/media/2020-03-05_cinebrunch_s6_2020-03-07.mp3",
+      "duree": 3270
     },
     {
       "titre": "Ciné Brunch - 29 février 2020",
-      "date": "2020-02-29"
+      "date": "2020-02-29",
+      "audio": "https://cinebrunch.baladocanada.ca/media/2020-03-05_cinebrunch_s6_2020-02-29.mp3",
+      "duree": 3299
     },
     {
       "titre": "Ciné Brunch - 22 février 2020",
-      "date": "2020-02-22"
+      "date": "2020-02-22",
+      "audio": "https://cinebrunch.baladocanada.ca/media/2020-03-05_cinebrunch_s6_2020-02-22.mp3",
+      "duree": 3292
     }
   ],
   "derniere_activite": "2020-03-21",

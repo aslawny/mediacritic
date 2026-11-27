@@ -16,8 +16,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/5-000-ans-dhistoire/id1744308716?uo=4",
       "trackId": 1744308716,
-      "rating": 4.5,
-      "ratingCount": 11,
+      "rating": 4.2,
+      "ratingCount": 12,
       "episodeCount": 849
     }
   },
@@ -26,7 +26,7 @@
     "histoire"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "4/6 - Saint Louis était-il vraiment un Saint ?",
@@ -60,5 +60,27 @@
     }
   ],
   "derniere_activite": "2026-11-23",
-  "frequence_jours": 1
+  "frequence_jours": 1,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-27",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

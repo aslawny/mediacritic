@@ -28,26 +28,36 @@
   "updatedAt": "2026-09-20",
   "episodes_recents": [
     {
+      "titre": "Security and Infrastructure: different teams, shared responsibilities #10",
+      "date": "2026-11-19",
+      "audio": "https://episodes.captivate.fm/episode/03d40976-58b6-4208-a40f-1394f7ee8852.mp3",
+      "duree": 1530
+    },
+    {
       "titre": "Alerts aren't enough anymore #09",
-      "date": "2026-10-29"
+      "date": "2026-10-29",
+      "audio": "https://episodes.captivate.fm/episode/20d671a1-6e30-465a-bfa6-f21be0e8d40e.mp3",
+      "duree": 1955
     },
     {
       "titre": "When does outsourcing security actually make sense? #08",
-      "date": "2026-10-08"
+      "date": "2026-10-08",
+      "audio": "https://episodes.captivate.fm/episode/d16e9ddc-5280-49f5-971c-f692d488dcc7.mp3",
+      "duree": 2063
     },
     {
       "titre": "Security has to deliver value #07",
-      "date": "2026-09-24"
+      "date": "2026-09-24",
+      "audio": "https://episodes.captivate.fm/episode/17e6e2bb-1242-43a5-929c-1133ebeb18d5.mp3",
+      "duree": 1863
     },
     {
       "titre": "Helping AI agents understand what secure means for your business #06",
-      "date": "2026-09-17"
-    },
-    {
-      "titre": "As AI writes more of the code. What about security? #05",
-      "date": "2026-09-09"
+      "date": "2026-09-17",
+      "audio": "https://episodes.captivate.fm/episode/e0e1f3e1-1316-446e-9476-3336eddcb4d8.mp3",
+      "duree": 2453
     }
   ],
-  "derniere_activite": "2026-10-29",
-  "frequence_jours": 7
+  "derniere_activite": "2026-11-19",
+  "frequence_jours": 8
 }

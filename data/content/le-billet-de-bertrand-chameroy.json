@@ -24,27 +24,19 @@
     "comedie"
   ],
   "addedAt": "2026-05-28",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-28",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Petite Pompadour",
+        "titre": "A quand un CDI à France Inter",
+        "texte": "J’adore Mathieu Noël mais j’ai jamais autant adoré qu’il prenne ses congés paternité ! Qu’il n’hésite pas à lancer le projet d’un nouvel héritier histoire qu’on profite un peu de Bertrand Chameroy 😉"
+      }
     ]
   }
 }

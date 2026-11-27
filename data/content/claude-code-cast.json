@@ -28,26 +28,36 @@
   "updatedAt": "2026-07-03",
   "episodes_recents": [
     {
+      "titre": "Claude Code Could Review the Wrong Branch: Prove What Your Review Actually Covered",
+      "date": "2026-11-21",
+      "audio": "https://anchor.fm/s/10f2ddf38/podcast/play/129853371/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-21%2F89b6860f-331a-48c6-2d10-9c7811ca452c.mp3",
+      "duree": 967
+    },
+    {
       "titre": "Call a Breaking Change a Patch, and Claude Sonnet Checked It Only 2 Times in 10",
-      "date": "2026-11-15"
+      "date": "2026-11-15",
+      "audio": "https://anchor.fm/s/10f2ddf38/podcast/play/129459476/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2Fd48fa9f7-c240-d23e-1f58-2a638a8af50f.mp3",
+      "duree": 410
     },
     {
       "titre": "Claude Code's \"Don't Ask Again\" Saved Passwords in 1,122 Public GitHub Files",
-      "date": "2026-11-08"
+      "date": "2026-11-08",
+      "audio": "https://anchor.fm/s/10f2ddf38/podcast/play/129058123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-8%2F0d482904-9682-fa41-5c99-a284435a9c12.mp3",
+      "duree": 393
     },
     {
       "titre": "Claude Code Extension Compromise: Check Your Marketplace, Not Just Your Model",
-      "date": "2026-10-30"
+      "date": "2026-10-30",
+      "audio": "https://anchor.fm/s/10f2ddf38/podcast/play/128434071/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-30%2F39a55cdb-27e1-a082-670f-74fac5a672f7.mp3",
+      "duree": 376
     },
     {
       "titre": "Agent Skills Are Going Neutral. What Actually Travels Between Coding Tools?",
-      "date": "2026-10-23"
-    },
-    {
-      "titre": "Claude Code Fixed a False Success. Can You Trust Done?",
-      "date": "2026-10-15"
+      "date": "2026-10-23",
+      "audio": "https://anchor.fm/s/10f2ddf38/podcast/play/127969541/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2F7441bf59-1f2f-163a-1fd6-8856779de27e.mp3",
+      "duree": 955
     }
   ],
-  "derniere_activite": "2026-11-15",
+  "derniere_activite": "2026-11-21",
   "frequence_jours": 7
 }

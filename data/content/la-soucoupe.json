@@ -25,27 +25,37 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "HORS SERIE #2",
-      "date": "2024-01-24"
+      "date": "2024-01-24",
+      "audio": "https://sphinx.acast.com/p/open/s/633c308e161e0900116a430c/e/65b0e86eedacef00176bab3c/media.mp3",
+      "duree": 5276
     },
     {
       "titre": "S2EP02 : Django Unchained x Spider-Man : Into the Spider-Verse",
-      "date": "2023-12-13"
+      "date": "2023-12-13",
+      "audio": "https://sphinx.acast.com/p/open/s/633c308e161e0900116a430c/e/65786e03483dd70016f21065/media.mp3",
+      "duree": 5782
     },
     {
       "titre": "S2EP01 : Bullet Train x Ready Player One",
-      "date": "2023-11-08"
+      "date": "2023-11-08",
+      "audio": "https://sphinx.acast.com/p/open/s/633c308e161e0900116a430c/e/654a625f8d43c80012a589b9/media.mp3",
+      "duree": 4261
     },
     {
       "titre": "S1EP07 : LES AMIS",
-      "date": "2023-05-09"
+      "date": "2023-05-09",
+      "audio": "https://sphinx.acast.com/p/open/s/633c308e161e0900116a430c/e/645ab4dca4d4a300111b94fb/media.mp3",
+      "duree": 4631
     },
     {
       "titre": "S1EP06 : LES CHIENS",
-      "date": "2023-04-11"
+      "date": "2023-04-11",
+      "audio": "https://sphinx.acast.com/p/open/s/633c308e161e0900116a430c/e/64356bcea957b20011d9b99a/media.mp3",
+      "duree": 3981
     }
   ],
   "derniere_activite": "2024-01-24",

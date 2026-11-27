@@ -23,29 +23,39 @@
   "tags": [
     "histoire"
   ],
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
+      "titre": "Dans l'Ombre de Price...",
+      "date": "2026-11-26",
+      "audio": "https://anchor.fm/s/ee7d31f8/podcast/play/130168559/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-26%2Ffe810c15-f173-7f04-4eba-43e87241a9fe.mp3",
+      "duree": 173
+    },
+    {
+      "titre": "Objectif survie : cap sur l'enfer",
+      "date": "2026-11-17",
+      "audio": "https://anchor.fm/s/ee7d31f8/podcast/play/129621075/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2Fe6de2077-0c10-7c60-cf50-904795551b5f.mp3",
+      "duree": 180
+    },
+    {
       "titre": "Happy Snap : Capture le bon moment avec Bluey !",
-      "date": "2026-11-12"
+      "date": "2026-11-12",
+      "audio": "https://anchor.fm/s/ee7d31f8/podcast/play/129333499/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F22aeba36-5ab7-02a5-9b65-403d342b04db.mp3",
+      "duree": 145
     },
     {
       "titre": "Grinch 2 : Le Retour du Père Fouettard",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://anchor.fm/s/ee7d31f8/podcast/play/128779813/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-4%2F54de2f60-efb8-b543-4857-32f61efc0f42.mp3",
+      "duree": 206
     },
     {
       "titre": "Plaisir et Souffrance : Que vaut Hellraiser Revival ?",
-      "date": "2026-10-19"
-    },
-    {
-      "titre": "Houba ! On a testé le jeu Marsupilami !",
-      "date": "2026-10-16"
-    },
-    {
-      "titre": "Forever Ago : La mémoire dans l'objectif",
-      "date": "2026-10-13"
+      "date": "2026-10-19",
+      "audio": "https://anchor.fm/s/ee7d31f8/podcast/play/127706989/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-19%2F001a9642-70ad-3e48-711d-47c134ee361a.mp3",
+      "duree": 206
     }
   ],
-  "derniere_activite": "2026-11-12",
-  "frequence_jours": 5
+  "derniere_activite": "2026-11-26",
+  "frequence_jours": 4
 }

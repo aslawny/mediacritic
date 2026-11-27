@@ -25,27 +25,37 @@
     "endurance"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "Les animaux nous parlent !",
-      "date": "2025-07-24"
+      "date": "2025-07-24",
+      "audio": "https://stats.podcloud.fr/vousavezlaparole/les-animaux-nous-parlent/enclosure.80fffbfd94fc52f6821c5e057fd2e7108d1cb0b96417ecf16ac1f6f3e8f162d8.mp3?p=f",
+      "duree": 2878
     },
     {
       "titre": "La Fin des Temps",
-      "date": "2025-03-28"
+      "date": "2025-03-28",
+      "audio": "https://stats.podcloud.fr/vousavezlaparole/la-fin-des-temps/enclosure.54dcad22ab1aa4546cda31fdb9ae0379fccb288f06c1393975c1bcccbbdf3cea.mp3?p=f",
+      "duree": 3375
     },
     {
       "titre": "Ovnis et nucléaire",
-      "date": "2025-02-24"
+      "date": "2025-02-24",
+      "audio": "https://stats.podcloud.fr/vousavezlaparole/ovnis-et-nucleaire/enclosure.712ddcf23656395d2386bdbc417a11d7ec79f566dee4c9224bf31291f7fff7a7.mp3?p=f",
+      "duree": 1350
     },
     {
       "titre": "Les J.O. 2024",
-      "date": "2024-08-02"
+      "date": "2024-08-02",
+      "audio": "https://stats.podcloud.fr/vousavezlaparole/les-jo-2024/enclosure.04f176418926b72b393ccb8c026acf9d1ba45fb621171e8cf2aba7a46166885d.mp3?p=f",
+      "duree": 2302
     },
     {
       "titre": "Vous avez la parole/ Leucose bovine 974",
-      "date": "2024-08-02"
+      "date": "2024-08-02",
+      "audio": "https://stats.podcloud.fr/vousavezlaparole/vous-avez-la-parole-slash-leucose-bovine-974/enclosure.347f4cc9426c59c38c229a4f407b38449f633820e65569add1172a20ed57de51.mp3?p=f",
+      "duree": 3672
     }
   ],
   "derniere_activite": "2025-07-24",

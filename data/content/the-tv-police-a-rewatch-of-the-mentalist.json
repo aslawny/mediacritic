@@ -25,27 +25,37 @@
     "series"
   ],
   "addedAt": "2026-07-03",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "S2E3: Red Badge. The Mentalist Rewatch",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "audio": "https://api.riverside.com/hosting-analytics/media/2e415faf4febe14d9db15374b91d138a9f2a651a15db7e3130783e8c94557d7d/eyJlcGlzb2RlSWQiOiIzYmI1MTgzYi04MWY4LTQwNGItOGU0Yy0xMjk3MzhmYzMxZWUiLCJwb2RjYXN0SWQiOiIyMjIyY2VhYy0yMTZkLTQyMjEtYTg5OC1lM2RhOWVjNDBmYzgiLCJhY2NvdW50SWQiOiI2OGI3YjlkZWY5MzUzODI2M2NkZThkMzEiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFlOTVhOWZmMGJjMjQwNDgxNTg1MTU3L3RoZS10di1wb2xpY2UtMjAyNi0xMS0zX18zLTUzLTMubXAzIn0=.mp3",
+      "duree": 3725
     },
     {
       "titre": "S2E2: The Scarlet Letter. The Mentalist Rewatch",
-      "date": "2026-10-20"
+      "date": "2026-10-20",
+      "audio": "https://api.riverside.com/hosting-analytics/media/e37ea16c3824db268c1b4782d53a6f844770952a2d6cafabed5c28b831c20d82/eyJlcGlzb2RlSWQiOiI5NWZjZjY5OS03YWMyLTQ2YTEtYWEwYi00ZmU2Njc4MzhiN2IiLCJwb2RjYXN0SWQiOiIyMjIyY2VhYy0yMTZkLTQyMjEtYTg5OC1lM2RhOWVjNDBmYzgiLCJhY2NvdW50SWQiOiI2OGI3YjlkZWY5MzUzODI2M2NkZThkMzEiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFkNzM5YmUzODMwOWM0NGVkOWM3OTBlL3RoZS10di1wb2xpY2UtMjAyNi0xMC0yMF9fOS01MS01OC5tcDMifQ==.mp3",
+      "duree": 2406
     },
     {
       "titre": "S2E1: Redemption. The Mentalist Rewatch",
-      "date": "2026-10-06"
+      "date": "2026-10-06",
+      "audio": "https://api.riverside.com/hosting-analytics/media/53b742c88d637f165b396b40b7830f84c45b49b4e8ab37c6796eaa6487639e4b/eyJlcGlzb2RlSWQiOiIxNzBjYmUwYi03MjgyLTQ3NTEtYmY0OS1lZmEyYjI5ZGZjYTYiLCJwb2RjYXN0SWQiOiIyMjIyY2VhYy0yMTZkLTQyMjEtYTg5OC1lM2RhOWVjNDBmYzgiLCJhY2NvdW50SWQiOiI2OGI3YjlkZWY5MzUzODI2M2NkZThkMzEiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFjNDk1Yzc3MGVkZjcwZGRjNzcwNGNlL3RoZS10di1wb2xpY2UtMjAyNi0xMC02X182LTMxLTM1Lm1wMyJ9.mp3",
+      "duree": 2640
     },
     {
       "titre": "S1E23 (VIDEO): Red John's Footsteps. The Mentalist Rewatch",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "audio": "https://api.riverside.com/hosting-analytics/media/aea72a9cacd0a8fab9e3031d79e8fda53eed2cd3fbb56f6d895d7b3b734fe55d/eyJlcGlzb2RlSWQiOiI0NDcwYjY4Ni0yM2RmLTQ1MzQtYWM5NC1kZGQ3NDhiYmQyOWUiLCJwb2RjYXN0SWQiOiIyMjIyY2VhYy0yMTZkLTQyMjEtYTg5OC1lM2RhOWVjNDBmYzgiLCJhY2NvdW50SWQiOiI2OGI3YjlkZWY5MzUzODI2M2NkZThkMzEiLCJwYXRoIjoibWVkaWEvY2xpcHMvNjlhZmUxNjMxM2NhMTEwOWJmYmU0NThjL3RoZS10di1wb2xpY2UtY29tcG9zZXItMjAyNi0zLTEwX18xMC0xNi0xOS5tcDMifQ==.mp3",
+      "duree": 6068
     },
     {
       "titre": "S1E23 (AUDIO): Red John's Footsteps. The Mentalist Rewatch",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "audio": "https://api.riverside.com/hosting-analytics/media/29da9bf924be9e287db476b0d9d6dc9e55ad9605ad7fe0dfaa5bb7ffac4a2ae8/eyJlcGlzb2RlSWQiOiJkOTliM2QxZi0yZjAzLTQ5ZmYtYjZkNy05YzA0NWFkOTBjZTAiLCJwb2RjYXN0SWQiOiIyMjIyY2VhYy0yMTZkLTQyMjEtYTg5OC1lM2RhOWVjNDBmYzgiLCJhY2NvdW50SWQiOiI2OGI3YjlkZWY5MzUzODI2M2NkZThkMzEiLCJwYXRoIjoibWVkaWEvY2xpcHMvNjlhZmUwN2Q3ZjQ1ZTVlM2U4Y2VhODljL3RoZS10di1wb2xpY2UtY29tcG9zZXItMjAyNi0zLTEwX18xMC0xMi0yOS5tcDMifQ==.mp3",
+      "duree": 6068
     }
   ],
   "derniere_activite": "2026-11-03",

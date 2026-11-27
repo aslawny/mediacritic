@@ -26,7 +26,7 @@
     "culture geek"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "Episode 189: \"Première page\" n°39 - Les Fabuleux voyages de Mr Jorkens, Lord Dunsany",
@@ -62,25 +62,29 @@
   "derniere_activite": "2026-11-17",
   "frequence_jours": 2,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-28",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "captaline",
+        "titre": "Le plus passionnant de tous mes podcasts",
+        "texte": "Depuis que j’ai découvert le site d’elbakin et le podcast, je me suis remise à lire de la fantasy. J’ai découvert comme cela le livre Ayesha d’Ange et l’auteur Sanderson avec ce cycle incroyable, Les archives de Roshar.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Amon run",
+        "titre": "Super",
+        "texte": "Super podcast mais trop d’inserts sonores ajoutés au montage qui rendent l’écoute désagréable, même conséquence venu aussi des personnes qui ne parlent pas dans leur micro ce qui entraîne des différences de volume entre les différents intervenants ce qui est tres désagréable, cel…"
+      },
+      {
+        "note": 5,
+        "auteur": "Védi",
+        "titre": "Très enrichissant !",
+        "texte": "Je suis un lecteur plus qu'occasionnel de fantasy. Mais depuis que j'écoute ce podcast, je multiplie mes lectures fantasy et je n'arrête pas de noter de nouveaux titres de roman à placer sur ma table de chevet.…"
+      }
     ]
   }
 }

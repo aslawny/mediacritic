@@ -16,7 +16,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/lecture-du-coran/id1532825832?uo=2",
       "trackId": 1532825832,
       "rating": 4.7,
-      "ratingCount": 762,
+      "ratingCount": 763,
       "episodeCount": null
     }
   },
@@ -26,7 +26,7 @@
     "culture"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "avis_publics": {
     "source": "apple",
     "boutique": "fr",
@@ -56,23 +56,33 @@
   "episodes_recents": [
     {
       "titre": "Sourate Al-Ankaboot",
-      "date": "2023-11-16"
+      "date": "2023-11-16",
+      "audio": "https://anchor.fm/s/3709306c/podcast/play/78742451/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2023-10-16%2F355922032-44100-2-e6bace349442b.mp3",
+      "duree": 1285
     },
     {
       "titre": "Sourate Al-Qasas",
-      "date": "2023-11-16"
+      "date": "2023-11-16",
+      "audio": "https://anchor.fm/s/3709306c/podcast/play/78742216/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2023-10-16%2F355921896-44100-2-ca17957edc242.mp3",
+      "duree": 1903
     },
     {
       "titre": "Sourate An-Naml",
-      "date": "2020-12-28"
+      "date": "2020-12-28",
+      "audio": "https://anchor.fm/s/3709306c/podcast/play/24492099/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-28%2F5de38977-df4e-3175-42b7-6fdf5cbe75b4.mp3",
+      "duree": 1572
     },
     {
       "titre": "Sourate As-shu3ra'",
-      "date": "2020-12-28"
+      "date": "2020-12-28",
+      "audio": "https://anchor.fm/s/3709306c/podcast/play/24491600/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-28%2Fb32b241b-c831-076a-1740-2d4dc1f2234d.mp3",
+      "duree": 1847
     },
     {
       "titre": "Sourate Al-Furqan",
-      "date": "2020-10-07"
+      "date": "2020-10-07",
+      "audio": "https://anchor.fm/s/3709306c/podcast/play/20742093/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-7%2Fd7c2f720-ddbe-f647-6800-a6d798013308.mp3",
+      "duree": 1101
     }
   ],
   "derniere_activite": "2023-11-16",

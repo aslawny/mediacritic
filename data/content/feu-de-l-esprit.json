@@ -31,23 +31,33 @@
   "episodes_recents": [
     {
       "titre": "Feu de l’Esprit #36 – Aurevoir BillyJack",
-      "date": "2021-07-03"
+      "date": "2021-07-03",
+      "audio": "https://media.blubrry.com/feudelesprit/feudelesprit.com/shows/FDE-0036-AurevoirBillyJack.mp3",
+      "duree": 10266
     },
     {
       "titre": "Feu de l’Esprit #35 – Fabien les choses",
-      "date": "2020-08-25"
+      "date": "2020-08-25",
+      "audio": "https://media.blubrry.com/feudelesprit/feudelesprit.com/shows/FDE-0035-FabienLesChoses.mp3",
+      "duree": 8143
     },
     {
       "titre": "Feu de l’Esprit #34 – COVID versus Protocoles",
-      "date": "2020-07-26"
+      "date": "2020-07-26",
+      "audio": "https://media.blubrry.com/feudelesprit/feudelesprit.com/shows/FDE-0034-COVIDvsProtocoles.mp3",
+      "duree": 7476
     },
     {
       "titre": "Feu de l’Esprit #33 – Livres en Métal",
-      "date": "2019-12-20"
+      "date": "2019-12-20",
+      "audio": "https://media.blubrry.com/feudelesprit/feudelesprit.com/shows/FDE-0033-LivesEnMetal.mp3",
+      "duree": 7872
     },
     {
       "titre": "Feu de l’Esprit #32 – Attaque Psychique",
-      "date": "2019-12-01"
+      "date": "2019-12-01",
+      "audio": "https://media.blubrry.com/feudelesprit/feudelesprit.com/shows/FDE-0032-AttaquePsychique.mp3",
+      "duree": 8312
     }
   ],
   "derniere_activite": "2021-07-03",

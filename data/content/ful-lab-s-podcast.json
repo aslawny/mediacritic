@@ -30,23 +30,33 @@
   "episodes_recents": [
     {
       "titre": "Voyage Littéraire International(VLI) - Épisode 27 - Roman - La musique déréglée du monde - Karim Akouche",
-      "date": "2023-01-23"
+      "date": "2023-01-23",
+      "audio": "https://api.spreaker.com/download/episode/52513523/voyage_litt_raire_international_vli_pisode_27.mp3",
+      "duree": 1041
     },
     {
       "titre": "Voyage Littéraire International(VLI) - Épisode 26 - Poésie - Habitant de nulle part originaire de partout - So",
-      "date": "2021-04-11"
+      "date": "2021-04-11",
+      "audio": "https://api.spreaker.com/download/episode/44293916/voyage_litt_raire_international_vli_pisode_26_po_sie_habitant_de_nulle_part_originaire_de_partout_souleymane_diamanka.mp3",
+      "duree": 978
     },
     {
       "titre": "Voyage Littéraire International(VLI) - Épisode 25 – Poème – La colline que nous gravissons – Amanda Gorman",
-      "date": "2021-02-08"
+      "date": "2021-02-08",
+      "audio": "https://api.spreaker.com/download/episode/43340588/voyage_litt_raire_international_vli_pisode_25_po_me_la_colline_que_nous_gravissons_amanda_gorman.mp3",
+      "duree": 902
     },
     {
       "titre": "Voyage Littéraire International(VLI) - Épisode 24 – Nickel Boys – Colson Whitehead",
-      "date": "2020-11-22"
+      "date": "2020-11-22",
+      "audio": "https://api.spreaker.com/download/episode/42110797/voyage_litt_raire_international_vli_pisode_24_nickel_boys_colson_whitehead.mp3",
+      "duree": 1679
     },
     {
       "titre": "Voyage Littéraire International(VLI) - Épisode 23 – Les rides du temps (Poésie) – Hace Mess alias Kafka",
-      "date": "2020-09-20"
+      "date": "2020-09-20",
+      "audio": "https://api.spreaker.com/download/episode/41025552/voyage_litt_raire_international_vli_pisode_23_les_rides_du_temps_po_sie_hace_mess_alias_kafka.mp3",
+      "duree": 757
     }
   ],
   "derniere_activite": "2023-01-23",

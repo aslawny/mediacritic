@@ -24,16 +24,30 @@
     "cinema",
     "critique"
   ],
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "Half & Half",
-      "date": "2006-10-26"
+      "date": "2006-10-26",
+      "video": "dNDAIOpY0uo"
     },
     {
       "titre": "Ring toss",
-      "date": "2006-09-27"
+      "date": "2006-09-27",
+      "video": "QpxXHzjAOcI"
     }
   ],
-  "derniere_activite": "2006-10-26"
+  "derniere_activite": "2006-10-26",
+  "videos": [
+    {
+      "titre": "Half & Half",
+      "date": "2006-10-26",
+      "video": "dNDAIOpY0uo"
+    },
+    {
+      "titre": "Ring toss",
+      "date": "2006-09-27",
+      "video": "QpxXHzjAOcI"
+    }
+  ]
 }

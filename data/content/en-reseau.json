@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/en-r%C3%A9seau/id1770945789?uo=4",
       "trackId": 1770945789,
       "rating": 5.0,
-      "ratingCount": 11,
+      "ratingCount": 12,
       "episodeCount": 82
     }
   },
@@ -26,7 +26,7 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "Coffee-shops : quelle stratégie pour le co-leader du marché ? Avec Frédéric Pastur, directeur général de Colum",
@@ -60,5 +60,31 @@
     }
   ],
   "derniere_activite": "2026-11-19",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "guigui1985",
+        "titre": "podcast passionnant sur l’entrepreneuriat",
+        "texte": "podcast passionnant sur l’entrepreneuriat et la franchise, que je recommande vivement à tous ceux qui s’intéressent à ces sujets. Les épisodes sont riches en informations et présentés de manière accessible.…"
+      },
+      {
+        "note": 5,
+        "auteur": "ohohohpepito",
+        "titre": "Utile et instructif",
+        "texte": "Vraiment utile et instructif, c’est bien de faire un podcast qui parle des sujets sans tabous et donne des solutions pour avancer et aider à gérer les réseaux."
+      },
+      {
+        "note": 5,
+        "auteur": "Nanou0895",
+        "titre": "👍",
+        "texte": "Des sujets intéressants et bien traités avec des intervenants variés. On passe un bon moment!"
+      }
+    ]
+  }
 }

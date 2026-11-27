@@ -24,27 +24,37 @@
     "education"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "Lesson 009",
-      "date": "2007-03-27"
+      "date": "2007-03-27",
+      "audio": "https://media.libsyn.com/media/anglaispod/apprendre009.mp3",
+      "duree": 1242
     },
     {
       "titre": "Lesson 008",
-      "date": "2007-03-25"
+      "date": "2007-03-25",
+      "audio": "https://media.libsyn.com/media/anglaispod/apprendre008.mp3",
+      "duree": 1321
     },
     {
       "titre": "Mini-Lesson 03",
-      "date": "2007-03-22"
+      "date": "2007-03-22",
+      "audio": "https://media.libsyn.com/media/anglaispod/appr_mini03.mp3",
+      "duree": 493
     },
     {
       "titre": "Lesson 007",
-      "date": "2007-03-20"
+      "date": "2007-03-20",
+      "audio": "https://media.libsyn.com/media/anglaispod/apprendre007.mp3",
+      "duree": 1019
     },
     {
       "titre": "Lesson 006",
-      "date": "2007-03-18"
+      "date": "2007-03-18",
+      "audio": "https://media.libsyn.com/media/anglaispod/apprendre006.mp3",
+      "duree": 1091
     }
   ],
   "derniere_activite": "2007-03-27",

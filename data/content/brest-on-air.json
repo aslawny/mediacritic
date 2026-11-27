@@ -24,7 +24,7 @@
     "sport"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "EP. 158 / SEMAINE PARFAITE POUR BREST !",
@@ -58,5 +58,31 @@
     }
   ],
   "derniere_activite": "2026-11-12",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "tof29870",
+        "titre": "Au top pour suivre la vie de son club que l’on soit de Brest ou pas",
+        "texte": "Un podcast brestois simple et efficace , la visons de 3 supporters du stade brestois qui permettent le temps d’un épisode de faire le tour de l actu du club mais aussi de sujet très précis . Abonnez vous et direction l’Europe !!!"
+      },
+      {
+        "note": 5,
+        "auteur": "lonol29",
+        "titre": "Le meilleur des podcasts !",
+        "texte": "Merci à vous trois et bravo pour ce que vous faites, quel plaisir de partager une même passion ! Allez les ti zefs !!"
+      },
+      {
+        "note": 5,
+        "auteur": "Saul Goodman 29",
+        "titre": "Top.",
+        "texte": "Très bon podcast ! C’est LA référence pour tout amateur du Stade Brestois."
+      }
+    ]
+  }
 }

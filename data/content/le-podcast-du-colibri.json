@@ -24,27 +24,37 @@
     "musique",
     "culture"
   ],
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "GABY - Le podcast du colibri #S02E02",
-      "date": "2021-09-24"
+      "date": "2021-09-24",
+      "audio": "https://sons-audioblogs.arte.tv/audioblogs/v2/sons/158974/171710/podcast_171710_75e3j.mp3",
+      "duree": 3916
     },
     {
       "titre": "FLO DELAVEGA - Le podcast du colibri #S02EO1",
-      "date": "2021-09-09"
+      "date": "2021-09-09",
+      "audio": "https://sons-audioblogs.arte.tv/audioblogs/v2/sons/158974/171322/podcast_171322_3DpTr.mp3",
+      "duree": 4381
     },
     {
       "titre": "Le podcast du colibri #inédit - Interview avec LÉO",
-      "date": "2021-09-07"
+      "date": "2021-09-07",
+      "audio": "https://sons-audioblogs.arte.tv/audioblogs/v2/sons/158974/171247/podcast_171247_bFeJ4.mp3",
+      "duree": 360
     },
     {
       "titre": "S01E09 Le podcast du colibri #9 - CLOU",
-      "date": "2021-06-25"
+      "date": "2021-06-25",
+      "audio": "https://sons-audioblogs.arte.tv/audioblogs/v2/sons/158974/168774/podcast_168774_zO9Be.mp3",
+      "duree": 4748
     },
     {
       "titre": "S01E08 Le podcast du colibri #8 - KELLY MÉZINO",
-      "date": "2021-05-07"
+      "date": "2021-05-07",
+      "audio": "https://sons-audioblogs.arte.tv/audioblogs/v2/sons/158974/165655/podcast_165655_f45A2.mp3",
+      "duree": 4789
     }
   ],
   "derniere_activite": "2021-09-24",

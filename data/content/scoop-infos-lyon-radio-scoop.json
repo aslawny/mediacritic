@@ -24,29 +24,34 @@
     "societe"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
-      "titre": "17:00 - Lyon",
-      "date": "2026-11-14"
-    },
-    {
-      "titre": "12:00 - Lyon",
-      "date": "2026-11-14"
-    },
-    {
-      "titre": "10:00 - Régions",
-      "date": "2026-11-14"
-    },
-    {
-      "titre": "8:00 - Lyon",
-      "date": "2026-11-14"
-    },
-    {
       "titre": "19:00 - Lyon",
-      "date": "2026-11-13"
+      "date": "2026-11-26",
+      "audio": "https://www.radioscoop.com/media/aud/763304.mp3"
+    },
+    {
+      "titre": "18:00 - Lyon",
+      "date": "2026-11-26",
+      "audio": "https://www.radioscoop.com/media/aud/763299.mp3"
+    },
+    {
+      "titre": "17:00 - Lyon",
+      "date": "2026-11-26",
+      "audio": "https://www.radioscoop.com/media/aud/763285.mp3"
+    },
+    {
+      "titre": "16:00 - Lyon",
+      "date": "2026-11-26",
+      "audio": "https://www.radioscoop.com/media/aud/763280.mp3"
+    },
+    {
+      "titre": "15:00 - Régions",
+      "date": "2026-11-26",
+      "audio": "https://www.radioscoop.com/media/aud/763271.mp3"
     }
   ],
-  "derniere_activite": "2026-11-14",
+  "derniere_activite": "2026-11-26",
   "frequence_jours": 0
 }

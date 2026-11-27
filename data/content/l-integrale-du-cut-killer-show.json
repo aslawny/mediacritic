@@ -23,29 +23,39 @@
     "musique"
   ],
   "addedAt": "2026-10-08",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
+      "titre": "Cut Killer Show du 21/11/2026",
+      "date": "2026-11-21",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/d6e7b1d7-b610-4fdf-afdc-b7b9c5997600.mp3?_=1795689438",
+      "duree": 6773
+    },
+    {
+      "titre": "Cut Killer Show du 21/11/2026",
+      "date": "2026-11-14",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/5c9b3cf4-dbd0-43bb-a012-2842f68adb84.mp3?_=1795689441",
+      "duree": 6599
+    },
+    {
       "titre": "Cut Killer Show du 07/11/2026",
-      "date": "2026-11-07"
+      "date": "2026-11-07",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/2b85fc89-f78d-4ff1-a45e-8db802df065b.mp3?_=1794563554",
+      "duree": 6799
     },
     {
       "titre": "Cut Killer Show du 31/10/2026",
-      "date": "2026-10-31"
+      "date": "2026-10-31",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/1b51c77f-2905-4a7b-a647-dcf7ff3dc92f.mp3?_=1794563558",
+      "duree": 6788
     },
     {
       "titre": "Cut Killer Show du 24/10/2026",
-      "date": "2026-10-24"
-    },
-    {
-      "titre": "Cut Killer Show du 10/10/2026",
-      "date": "2026-10-10"
-    },
-    {
-      "titre": "Cut Killer Show du 03/10/2026",
-      "date": "2026-10-03"
+      "date": "2026-10-24",
+      "audio": "https://audio.audiomeans.fr/file/tOaYOEDSpc/1f6e7eb5-8a8f-422f-a211-54b96aadf0b7.mp3?_=1793107342",
+      "duree": 6891
     }
   ],
-  "derniere_activite": "2026-11-07",
+  "derniere_activite": "2026-11-21",
   "frequence_jours": 7
 }

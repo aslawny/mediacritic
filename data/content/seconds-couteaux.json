@@ -24,27 +24,37 @@
     "humour",
     "comedie"
   ],
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "La fin ?",
-      "date": "2026-06-07"
+      "date": "2026-06-07",
+      "audio": "https://traffic.libsyn.com/secure/b8071124-bd28-4f41-a65a-4f06a8781801/end.mp3?dest-id=3396986",
+      "duree": 1088
     },
     {
       "titre": "84. Ted Levine",
-      "date": "2026-05-11"
+      "date": "2026-05-11",
+      "audio": "https://traffic.libsyn.com/secure/b8071124-bd28-4f41-a65a-4f06a8781801/84_-_Ted_Levine.mp3?dest-id=3396986",
+      "duree": 1924
     },
     {
       "titre": "83. Peter Serafinowicz",
-      "date": "2026-04-27"
+      "date": "2026-04-27",
+      "audio": "https://traffic.libsyn.com/secure/b8071124-bd28-4f41-a65a-4f06a8781801/83_Peter_Seranowicz.mp3?dest-id=3396986",
+      "duree": 2667
     },
     {
       "titre": "82. Jack Nance",
-      "date": "2026-04-13"
+      "date": "2026-04-13",
+      "audio": "https://traffic.libsyn.com/secure/b8071124-bd28-4f41-a65a-4f06a8781801/82_-_jack_nance.mp3?dest-id=3396986",
+      "duree": 2421
     },
     {
       "titre": "81. Freddie Jones",
-      "date": "2026-03-30"
+      "date": "2026-03-30",
+      "audio": "https://traffic.libsyn.com/secure/b8071124-bd28-4f41-a65a-4f06a8781801/81._Freddie_Jones.mp3?dest-id=3396986",
+      "duree": 2881
     }
   ],
   "derniere_activite": "2026-06-07",

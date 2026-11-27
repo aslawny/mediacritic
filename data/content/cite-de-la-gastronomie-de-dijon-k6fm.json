@@ -30,23 +30,33 @@
   "episodes_recents": [
     {
       "titre": "Cité de la gastronomie : nature et culture",
-      "date": "2022-09-12"
+      "date": "2022-09-12",
+      "audio": "https://api.octopus.saooti.com/podcast/download/66353.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 322
     },
     {
       "titre": "Cité de la gastronomie : conte d’apothicaire",
-      "date": "2022-08-08"
+      "date": "2022-08-08",
+      "audio": "https://api.octopus.saooti.com/podcast/download/63224.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 313
     },
     {
       "titre": "Cité de la gastronomie : découvrez la cuisine expérientielle",
-      "date": "2022-07-01"
+      "date": "2022-07-01",
+      "audio": "https://api.octopus.saooti.com/podcast/download/58085.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 305
     },
     {
       "titre": "Cité de la gastronomie : métamorphose urbaine",
-      "date": "2022-05-31"
+      "date": "2022-05-31",
+      "audio": "https://api.octopus.saooti.com/podcast/download/51770.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 415
     },
     {
       "titre": "Cité de la gastronomie : découvrez \"le village gastronomique\"",
-      "date": "2022-05-04"
+      "date": "2022-05-04",
+      "audio": "https://api.octopus.saooti.com/podcast/download/46956.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 469
     }
   ],
   "derniere_activite": "2022-09-12",

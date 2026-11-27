@@ -23,29 +23,39 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
+      "titre": "LILA Lions Athletics Season 3 #10",
+      "date": "2026-11-18",
+      "audio": "https://feeds.soundcloud.com/stream/2440703928-user-448197378-lila-lions-athletics-351375017.mp3",
+      "duree": 997
+    },
+    {
       "titre": "LILA Lions Athletics Season 3 #9",
-      "date": "2026-11-12"
+      "date": "2026-11-12",
+      "audio": "https://feeds.soundcloud.com/stream/2436920193-user-448197378-lila-lions-athletics-season-9.mp3",
+      "duree": 1147
     },
     {
       "titre": "LILA Lions Athletics Season 3 #8",
-      "date": "2026-11-05"
+      "date": "2026-11-05",
+      "audio": "https://feeds.soundcloud.com/stream/2432762283-user-448197378-lila-lions-athletics-season-8.mp3",
+      "duree": 909
     },
     {
       "titre": "LILA Lions Athletics Season 3 #7",
-      "date": "2026-10-29"
+      "date": "2026-10-29",
+      "audio": "https://feeds.soundcloud.com/stream/2428452918-user-448197378-lila-lions-athletics-season-7.mp3",
+      "duree": 625
     },
     {
       "titre": "LILA Lions Athletics Season 3 #6",
-      "date": "2026-10-22"
-    },
-    {
-      "titre": "LILA Lions Athletics Season 3 #5",
-      "date": "2026-10-08"
+      "date": "2026-10-22",
+      "audio": "https://feeds.soundcloud.com/stream/2424095868-user-448197378-lila-lions-athletics-season-6.mp3",
+      "duree": 645
     }
   ],
-  "derniere_activite": "2026-11-12",
+  "derniere_activite": "2026-11-18",
   "frequence_jours": 7
 }

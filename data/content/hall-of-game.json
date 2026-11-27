@@ -27,7 +27,7 @@
     "jeux inde"
   ],
   "addedAt": "2026-05-17",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "La folle origine du Battle Royale - DayZ",
@@ -63,25 +63,29 @@
   "derniere_activite": "2026-07-19",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-28",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "TheFoxNino",
+        "titre": "Podcast incroyable",
+        "texte": "Il va raconter tout ce qu’on veut entendre dans une vidéo YouTube mais en podcast audio . Je vous incite à aller voir leur chaîne YouTube !! 🤩 merci. Si tous les podcasts étaient aussi intéressants, je serai prêt à lancer un podcast 😜"
+      },
+      {
+        "note": 5,
+        "auteur": "Hog_2025",
+        "titre": "Hall of Game",
+        "texte": "Ce podcast est très intéressant, il explique bien toute la complexité du développement des jeux vidéo et des consoles. Est ce que vous pourriez faire un épisode sur le fps en ligne Escape from Tarkov ? Merci d’avance !"
+      },
+      {
+        "note": 5,
+        "auteur": "Concerned Lion",
+        "titre": "Passionnant !",
+        "texte": "L'histoire du jeu vidéo n'est pas un long fleuve tranquille, ses héros et ses rebondissements sont hauts en couleur, bref, c'est passionnant ! Enfin, la narration est excellente, ce qui fait 100 raisons de s'abonner."
+      }
     ]
   }
 }

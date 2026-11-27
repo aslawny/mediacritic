@@ -27,26 +27,36 @@
   "updatedAt": "2026-05-03",
   "episodes_recents": [
     {
+      "titre": "La misopédie : domination adulte et mépris des enfants",
+      "date": "2026-11-10",
+      "audio": "https://phenix.fm/wp-content/uploads/2026/11/cpf-261110.mp3",
+      "duree": 3062
+    },
+    {
+      "titre": "La pauvreté chez les enfants",
+      "date": "2026-11-03",
+      "audio": "https://phenix.fm/wp-content/uploads/2026/11/cpf-les-enfants-pauvres-ok.mp3",
+      "duree": 2827
+    },
+    {
+      "titre": "Les Vikings et les satellites",
+      "date": "2026-10-27",
+      "audio": "https://phenix.fm/wp-content/uploads/2026/11/cpf-261027.mp3",
+      "duree": 1885
+    },
+    {
       "titre": "L’alimentation antique vue par les auteurs grecs: entre normes et transgressions",
-      "date": "2026-10-20"
+      "date": "2026-10-20",
+      "audio": "https://phenix.fm/wp-content/uploads/2026/11/cpf-261020.mp3",
+      "duree": 3097
     },
     {
       "titre": "Warmandie : le changement climatique en Normandie",
-      "date": "2026-10-13"
-    },
-    {
-      "titre": "Run Sep 2026 : course solidaire pour soutenir la recherche sur la sclérose en plaques",
-      "date": "2026-10-06"
-    },
-    {
-      "titre": "Fête de la science 2026 et recherches sur le vieillissement",
-      "date": "2026-09-29"
-    },
-    {
-      "titre": "Artificialisation du littoral Normand : Conséquences et solutions",
-      "date": "2026-09-22"
+      "date": "2026-10-13",
+      "audio": "https://phenix.fm/wp-content/uploads/2026/10/cpf-261006.mp3",
+      "duree": 2439
     }
   ],
-  "derniere_activite": "2026-10-20",
+  "derniere_activite": "2026-11-10",
   "frequence_jours": 7
 }

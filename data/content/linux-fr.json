@@ -15,7 +15,7 @@
       "url": "https://www.youtube.com/@LiNuXFr",
       "channelId": "UCKbv0T57Dwoo6CDPLCezgjg",
       "subscribers": 229,
-      "totalViews": 28789,
+      "totalViews": 28790,
       "videoCount": 2
     }
   },
@@ -24,16 +24,30 @@
     "tech",
     "numerique"
   ],
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "Comment installer Linux",
-      "date": "2015-01-10"
+      "date": "2015-01-10",
+      "video": "PTYqbBMu_NE"
     },
     {
       "titre": "Commandes Linux de base",
-      "date": "2013-07-17"
+      "date": "2013-07-17",
+      "video": "u6-gdK7U3Os"
     }
   ],
-  "derniere_activite": "2015-01-10"
+  "derniere_activite": "2015-01-10",
+  "videos": [
+    {
+      "titre": "Comment installer Linux",
+      "date": "2015-01-10",
+      "video": "PTYqbBMu_NE"
+    },
+    {
+      "titre": "Commandes Linux de base",
+      "date": "2013-07-17",
+      "video": "u6-gdK7U3Os"
+    }
+  ]
 }

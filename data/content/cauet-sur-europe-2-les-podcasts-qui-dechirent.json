@@ -25,7 +25,7 @@
     "comedie"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "🚓 LE PAPY - \"Flashé deux fois, papy voulait voir Ginette !\"",
@@ -61,25 +61,29 @@
   "derniere_activite": "2026-11-20",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-28",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "YOUN3S38",
+        "titre": "Le retour !!!😘😘😘",
+        "texte": "Ça faisait longtemps que j’attendais leur retour et je suis super content de les réentendre en podcast mais je ne comprends pas pourquoi vous ne mettez pas les émissions en entier en podcast svp ? Merci d’être de retour 😘😘"
+      },
+      {
+        "note": 1,
+        "auteur": "Blastdoor",
+        "titre": "Seulement 2 extraits...",
+        "texte": "Mais c'est une blague ? Il n'y a que 2 pauvres extraits, même pas l'émission entière... Je suis déçu."
+      },
+      {
+        "note": 5,
+        "auteur": "Hit Power",
+        "titre": "Welcome Back",
+        "texte": "Le Boss de la matinale de retour, 20 années après, c’est là que la maturation va jouer ! En étant le premier à lancer les matinales, un juste retour sur les ondes 👊👊👊"
+      }
     ]
   }
 }

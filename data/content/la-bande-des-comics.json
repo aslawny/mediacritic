@@ -25,27 +25,37 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "#94 - Les meilleures séries 2026 adaptées de comics",
-      "date": "2026-11-07"
+      "date": "2026-11-07",
+      "audio": "https://www.radio-active.net/podcasts/internes/la_bande_des_comics/lbdc94_podcast.mp3",
+      "duree": 1895
     },
     {
       "titre": "#93 - Spécial BD sur l'école",
-      "date": "2026-10-03"
+      "date": "2026-10-03",
+      "audio": "https://www.radio-active.net/podcasts/internes/la_bande_des_comics/lbdc93_podcast.mp3",
+      "duree": 3393
     },
     {
       "titre": "#92 - Spécial blockbusters de l'été",
-      "date": "2026-08-22"
+      "date": "2026-08-22",
+      "audio": "https://www.radio-active.net/podcasts/internes/la_bande_des_comics/lbdc_92_podcast.mp3",
+      "duree": 3233
     },
     {
       "titre": "#91 @ EAJ Sablettes avec le Commis des Comics",
-      "date": "2026-08-01"
+      "date": "2026-08-01",
+      "audio": "https://www.radio-active.net/podcasts/internes/la_bande_des_comics/lbdc_91_podcast.mp3",
+      "duree": 3120
     },
     {
       "titre": "#90 @ médiathèque d'Hyères - Les jeunes & la lecture",
-      "date": "2026-07-25"
+      "date": "2026-07-25",
+      "audio": "https://www.radio-active.net/podcasts/internes/la_bande_des_comics/lbdc_90_podcast.mp3",
+      "duree": 3139
     }
   ],
   "derniere_activite": "2026-11-07",

@@ -27,26 +27,36 @@
   "updatedAt": "2026-05-20",
   "episodes_recents": [
     {
+      "titre": "Émilie, de perdue pour l’école à docteur en neurosciences",
+      "date": "2026-11-20",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3059638.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 1370
+    },
+    {
       "titre": "« En vrai » : Bruxelles-Togo à vélo, les 9.000 km et 14 pays traversés par Victoire pour aider un orphelinat",
-      "date": "2026-11-13"
+      "date": "2026-11-13",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2965716.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 1781
     },
     {
       "titre": "Stéphanie : les mains faites pour la finance, elles sont dans la farine",
-      "date": "2026-11-06"
+      "date": "2026-11-06",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2942719.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 939
     },
     {
       "titre": "Lucie, d’athlète à journaliste sportive",
-      "date": "2026-10-30"
+      "date": "2026-10-30",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2722464.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 928
     },
     {
       "titre": "Arthus, créer une intelligence artificielle à 15 ans",
-      "date": "2026-10-23"
-    },
-    {
-      "titre": "Junior, d’un rêve de football pro à un doctorat sur l’environnement",
-      "date": "2026-10-16"
+      "date": "2026-10-23",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2736895.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 1220
     }
   ],
-  "derniere_activite": "2026-11-13",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 7
 }

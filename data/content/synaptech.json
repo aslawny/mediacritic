@@ -27,29 +27,39 @@
     "numerique"
   ],
   "addedAt": "2026-08-05",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
+      "titre": "Tim Mahoney on Turning Brain Signals Into Speech",
+      "date": "2026-11-24",
+      "audio": "https://api.riverside.com/hosting-analytics/media/f7b03f0c2006cb0ccde130d803f227f689c788a33ed52588f55a437f2cb00332/eyJlcGlzb2RlSWQiOiJiYjBiYzFjMC04OThkLTRhZTItYWZjNC01OGRiYTNlNWRlMGYiLCJwb2RjYXN0SWQiOiI4YTQwNTY3Mi0wNTU5LTQzMDgtYjQ1Zi02NGE1MjE3ODczYWEiLCJhY2NvdW50SWQiOiI2YTQxNjg0NTY0MmUyZTYzYzAwZTBiZGQiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmIwNTE1Mzc0YzM2NzQzMGQ2YzRkNDI4L2Fub3VjaGthLWZhYmVydHMtc3R1ZGlvLTIwMjYtMTEtMjRfXzQtNDAtMjMubXAzIn0=.mp3",
+      "duree": 2298
+    },
+    {
       "titre": "Charlie Ohlén on Building a Gym for the Brain",
-      "date": "2026-11-10"
+      "date": "2026-11-10",
+      "audio": "https://api.riverside.com/hosting-analytics/media/e9e5292f9797946b12cae4399050f473afb5780937c508327c010424bcde125f/eyJlcGlzb2RlSWQiOiI0NTkzYjIxNC05ZGQ2LTQyOTctYTM1NS1hZjY1YjJkYTUxY2UiLCJwb2RjYXN0SWQiOiI4YTQwNTY3Mi0wNTU5LTQzMDgtYjQ1Zi02NGE1MjE3ODczYWEiLCJhY2NvdW50SWQiOiI2YTQxNjg0NTY0MmUyZTYzYzAwZTBiZGQiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFmMzFhN2FlZjhiYWU1MThmYjM1MTJlL2Fub3VjaGthLWZhYmVydHMtc3R1ZGlvLTIwMjYtMTEtMTBfXzEzLTIyLTIubXAzIn0=.mp3",
+      "duree": 2768
     },
     {
       "titre": "Raphael Certain on Using Light and Sound to Fight Alzhiemer's",
-      "date": "2026-10-27"
+      "date": "2026-10-27",
+      "audio": "https://api.riverside.com/hosting-analytics/media/47cddee470c8855264c556f6b078e3457ce46ffd816beeb6399ad6d041ad1db0/eyJlcGlzb2RlSWQiOiJmOTE2NjhjOS00NGU1LTQzZTctYTNlOS1jZmMzODgzMzk2Y2IiLCJwb2RjYXN0SWQiOiI4YTQwNTY3Mi0wNTU5LTQzMDgtYjQ1Zi02NGE1MjE3ODczYWEiLCJhY2NvdW50SWQiOiI2YTQxNjg0NTY0MmUyZTYzYzAwZTBiZGQiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFkZmUyYjllZjJjYzdlYzE5NzBhNjYxL2Fub3VjaGthLWZhYmVydHMtc3R1ZGlvLTIwMjYtMTAtMjZfXzIzLTMxLTYubXAzIn0=.mp3",
+      "duree": 2436
     },
     {
       "titre": "Lucas Scherdel on Measuring And Understanding Your Brain Over Time",
-      "date": "2026-10-13"
+      "date": "2026-10-13",
+      "audio": "https://api.riverside.com/hosting-analytics/media/d7bef83c4dea132dbeaeb484587717846516155e4ab846668910524cb1e4f678/eyJlcGlzb2RlSWQiOiI1YmU3NTljZi04ZWRmLTRhN2QtOWQwYy05OThlYWJkYTZmOWYiLCJwb2RjYXN0SWQiOiI4YTQwNTY3Mi0wNTU5LTQzMDgtYjQ1Zi02NGE1MjE3ODczYWEiLCJhY2NvdW50SWQiOiI2YTQxNjg0NTY0MmUyZTYzYzAwZTBiZGQiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFjZDEwZWFkYWI4MGJkOTY1ODI4MTU1L2Fub3VjaGthLWZhYmVydHMtc3R1ZGlvLTIwMjYtMTAtMTJfXzE2LTU1LTYubXAzIn0=.mp3",
+      "duree": 2333
     },
     {
       "titre": "Hamed Bahmani on Building Neurotechnology That Didn't Exist Before",
-      "date": "2026-09-29"
-    },
-    {
-      "titre": "John Dyer on Bringing Brain Measurement into the Home",
-      "date": "2026-09-15"
+      "date": "2026-09-29",
+      "audio": "https://api.riverside.com/hosting-analytics/media/cfa555489dd4b77904915f09e472a19fd1d791ae42b11efae2daf945e83f6222/eyJlcGlzb2RlSWQiOiIxZmJkOGEwZC02MWUxLTRlNDgtODZmMC1jYWQxZGVjZDUwMjEiLCJwb2RjYXN0SWQiOiI4YTQwNTY3Mi0wNTU5LTQzMDgtYjQ1Zi02NGE1MjE3ODczYWEiLCJhY2NvdW50SWQiOiI2YTQxNjg0NTY0MmUyZTYzYzAwZTBiZGQiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFiYTcyODBkMjA1YjlmM2JiNDEzOTk1L2Fub3VjaGthLWZhYmVydHMtc3R1ZGlvLTIwMjYtOS0yOF9fMTMtNTgtMjQubXAzIn0=.mp3",
+      "duree": 2573
     }
   ],
-  "derniere_activite": "2026-11-10",
+  "derniere_activite": "2026-11-24",
   "frequence_jours": 14
 }

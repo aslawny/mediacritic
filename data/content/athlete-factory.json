@@ -24,29 +24,106 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "Mustangs AJHL - Agility Test",
-      "date": "2015-01-08"
+      "date": "2015-01-08",
+      "video": "yStyDBHsfB4"
     },
     {
       "titre": "Hauser Squat",
-      "date": "2012-11-06"
+      "date": "2012-11-06",
+      "video": "p24rOeH70Bo"
     },
     {
       "titre": "Athlete Factory J Edwardh penalty shot.mp4",
-      "date": "2012-01-27"
+      "date": "2012-01-27",
+      "video": "xTzia-nUIRI"
     },
     {
       "titre": "Athlete Factory Plyometrics #2.MOV",
-      "date": "2011-10-30"
+      "date": "2011-10-30",
+      "video": "aPfu6uIT02c"
     },
     {
       "titre": "Athlete Factory Plyometrics .MOV",
-      "date": "2011-10-30"
+      "date": "2011-10-30",
+      "video": "HGHrPdxDpro"
     }
   ],
   "derniere_activite": "2015-01-08",
-  "frequence_jours": 0
+  "frequence_jours": 0,
+  "videos": [
+    {
+      "titre": "Mustangs AJHL - Agility Test",
+      "date": "2015-01-08",
+      "video": "yStyDBHsfB4"
+    },
+    {
+      "titre": "Hauser Squat",
+      "date": "2012-11-06",
+      "video": "p24rOeH70Bo"
+    },
+    {
+      "titre": "Athlete Factory J Edwardh penalty shot.mp4",
+      "date": "2012-01-27",
+      "video": "xTzia-nUIRI"
+    },
+    {
+      "titre": "Athlete Factory Plyometrics #2.MOV",
+      "date": "2011-10-30",
+      "video": "aPfu6uIT02c"
+    },
+    {
+      "titre": "Athlete Factory Plyometrics .MOV",
+      "date": "2011-10-30",
+      "video": "HGHrPdxDpro"
+    },
+    {
+      "titre": "Athlete Factory Sports Circuit #4.MOV",
+      "date": "2011-10-30",
+      "video": "euisGDDRpP0"
+    },
+    {
+      "titre": "Athlete Factory Sports Circuit #3.MOV",
+      "date": "2011-10-30",
+      "video": "IU0Gu4zTpBg"
+    },
+    {
+      "titre": "Athlete Factory Circuits #1.MPG",
+      "date": "2011-10-29",
+      "video": "OLSmvuC4s70"
+    },
+    {
+      "titre": "Athlete Factory Circuits #2.MPG",
+      "date": "2011-10-29",
+      "video": "7Jwcbg5zT2s"
+    },
+    {
+      "titre": "Athlete Factory Coach & Olympian - Ken Kotyk - JUMP",
+      "date": "2011-10-17",
+      "video": "XCKDBjivrQk"
+    },
+    {
+      "titre": "Tommy Europe Bootcamp at Athlete Factory",
+      "date": "2011-10-17",
+      "video": "OrNawyOcq24"
+    },
+    {
+      "titre": "Athlete Factory Races - National Team Athletes",
+      "date": "2010-11-12",
+      "video": "pupSNzPMFG8"
+    },
+    {
+      "titre": "Athlete Factory Races - International Bobsleigh Athletes",
+      "date": "2010-11-12",
+      "video": "3M3KvJGZ59o"
+    },
+    {
+      "titre": "Athlete Factory Races",
+      "date": "2010-11-12",
+      "video": "3mkj_PG_hDo"
+    }
+  ]
 }

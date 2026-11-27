@@ -26,19 +26,25 @@
     "societe"
   ],
   "addedAt": "2026-07-18",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "Gap - Briançon | Carnet de voyage dans les Alpes du Sud",
-      "date": "2026-09-11"
+      "date": "2026-09-11",
+      "audio": "https://media.transistor.fm/19c08f91/64eebdb5.mp3",
+      "duree": 732
     },
     {
       "titre": "Marseille - Toulon | Carnet de voyage sur le littoral varois",
-      "date": "2026-08-27"
+      "date": "2026-08-27",
+      "audio": "https://media.transistor.fm/8a6f41e7/67f475f5.mp3",
+      "duree": 827
     },
     {
       "titre": "Marseille - Miramas | Carnet de voyage sur la Côte Bleue",
-      "date": "2026-07-16"
+      "date": "2026-07-16",
+      "audio": "https://media.transistor.fm/3b893eb6/262fb45f.mp3",
+      "duree": 660
     }
   ],
   "derniere_activite": "2026-09-11",

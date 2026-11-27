@@ -15,7 +15,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/mon-enfant-trouble-pour-les-parents-denfants-diff%C3%A9rents/id6827979618?uo=2",
       "trackId": 6827979618,
       "rating": 5.0,
-      "ratingCount": 1,
+      "ratingCount": 2,
       "episodeCount": null
     }
   },
@@ -25,29 +25,39 @@
     "parentalite"
   ],
   "addedAt": "2026-11-02",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
+      "titre": "Le diagnostic n'est pas psychodégradable- Ep- 5 - Avec Emmanuelle Piquet",
+      "date": "2026-11-20",
+      "audio": "https://audio.ausha.co/yJGapqixdD7e.mp3?t=1795164204",
+      "duree": 1209
+    },
+    {
       "titre": "Etre maman d'un enfant différent - Ep 4 - Avec Betty",
-      "date": "2026-10-28"
+      "date": "2026-10-28",
+      "audio": "https://audio.ausha.co/Rz93rI4ARmDa.mp3?t=1793195024",
+      "duree": 1372
     },
     {
       "titre": "Etre papa d'un enfant différent - Ep 3 - Avec Hervé",
-      "date": "2026-10-28"
+      "date": "2026-10-28",
+      "audio": "https://audio.ausha.co/NAJx6ur2qZg7.mp3?t=1793193934",
+      "duree": 1189
     },
     {
       "titre": "C'est quoi être différent ? Ep 2 - Avec Emmanuelle Piquet thérapeute systemicienne",
-      "date": "2026-10-28"
+      "date": "2026-10-28",
+      "audio": "https://audio.ausha.co/xewdRI6j3O19.mp3?t=1793385823",
+      "duree": 993
     },
     {
       "titre": "C'est quoi être différent ? Ep 1- Avec le pédopsychiatre Olivier Revol",
-      "date": "2026-10-28"
-    },
-    {
-      "titre": "Présentation : un podcast pour les parents d'enfants différents",
-      "date": "2026-10-28"
+      "date": "2026-10-28",
+      "audio": "https://audio.ausha.co/ypjrmQTDMll7.mp3?t=1793186506",
+      "duree": 1495
     }
   ],
-  "derniere_activite": "2026-10-28",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 0
 }

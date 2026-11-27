@@ -29,11 +29,15 @@
   "episodes_recents": [
     {
       "titre": "Du bar au festival, avec Alex Mencarelli",
-      "date": "2026-11-13"
+      "date": "2026-11-13",
+      "audio": "https://sphinx.acast.com/p/open/s/6ad1ed256203da9f2866f24c/e/6af74110cc76a302c4c65eb1/media.mp3",
+      "duree": 3974
     },
     {
       "titre": "I'm From Rennes, festival 100% local",
-      "date": "2026-10-16"
+      "date": "2026-10-16",
+      "audio": "https://sphinx.acast.com/p/open/s/6ad1ed256203da9f2866f24c/e/6ad1ef5d3dc1c1be4a0c40b1/media.mp3",
+      "duree": 1974
     }
   ],
   "derniere_activite": "2026-11-13"

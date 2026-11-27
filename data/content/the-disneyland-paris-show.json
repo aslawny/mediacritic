@@ -26,29 +26,39 @@
     "societe"
   ],
   "addedAt": "2026-06-21",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
+      "titre": "The DLP Show | Trip Report Catchup",
+      "date": "2026-11-22",
+      "audio": "https://anchor.fm/s/10ce29840/podcast/play/129918996/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-22%2F2b9e766c-a38a-3447-985c-be6b12976fc6.mp3",
+      "duree": 3905
+    },
+    {
+      "titre": "The DLP Show | 15 November 2026",
+      "date": "2026-11-15",
+      "audio": "https://anchor.fm/s/10ce29840/podcast/play/129503686/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F26ce93bb-7375-7a94-a4ba-5b6824ed590e.mp3",
+      "duree": 4221
+    },
+    {
       "titre": "The DLP Show | Christmas at DLP! 8 November 2026",
-      "date": "2026-11-08"
+      "date": "2026-11-08",
+      "audio": "https://anchor.fm/s/10ce29840/podcast/play/129068915/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-8%2Fbc804234-cacf-300c-75c9-209ebcca2cac.mp3",
+      "duree": 4315
     },
     {
       "titre": "The DLP Show | 1 November 2026",
-      "date": "2026-11-01"
+      "date": "2026-11-01",
+      "audio": "https://anchor.fm/s/10ce29840/podcast/play/128581002/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-1%2F84e32ac6-cfc8-1590-b848-815de601a105.mp3",
+      "duree": 4436
     },
     {
       "titre": "The DLP Show | 12th October 2026",
-      "date": "2026-10-13"
-    },
-    {
-      "titre": "The DLP Show | 4 October 2026",
-      "date": "2026-10-04"
-    },
-    {
-      "titre": "The DLP Show - Hallowe'en Menus at DLP",
-      "date": "2026-09-29"
+      "date": "2026-10-13",
+      "audio": "https://anchor.fm/s/10ce29840/podcast/play/127385987/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-13%2Ff80ec26e-2826-b0cd-bb8f-f4e924b9b92c.mp3",
+      "duree": 3919
     }
   ],
-  "derniere_activite": "2026-11-08",
-  "frequence_jours": 7
+  "derniere_activite": "2026-11-22",
+  "frequence_jours": 6
 }

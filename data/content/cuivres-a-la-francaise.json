@@ -25,7 +25,7 @@
     "culture"
   ],
   "addedAt": "2026-08-02",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "🎙️ CUIVRES À LA FRANÇAISE – ÉPISODE #104 – David Enhco 🎺",
@@ -61,25 +61,29 @@
   "derniere_activite": "2026-11-20",
   "frequence_jours": 6,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-28",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "AM85TD",
+        "titre": "Un plaisir à chaque écoute",
+        "texte": "Cuivres à la Française : le podcast à découvrir que vous soyez trompettiste ou non, musicien ou non; Dans chaque épisode, Adrien nous fait découvrir de nouveaux parcours de musiciens qui sont vraiment passionnants; Ils y racontent leur vécu dans le milieu musical, leurs anecdotes…"
+      },
+      {
+        "note": 5,
+        "auteur": "Laurentdupere",
+        "titre": "L’excellence! What else!!",
+        "texte": "Un grand bravo Adrien Jaminet pour la grande qualité de tes podcasts, on en apprend tous les jours avec toi à travers le parcours et l’expérience de tous ces artistes français!! A recommander sans modération dans tous les conservatoires de France!! BRAVOOO l’ami!"
+      },
+      {
+        "note": 5,
+        "auteur": "Jacques Poullot",
+        "titre": "Magnifique",
+        "texte": "Merci pour ce magnifique podcast qui nous immerge dans la famille des cuivres, que de souvenirs. Où peut on vous contacter ? J' ai une petite info à vous donner concernant l' épisode 82. Le modèle Courtois FP."
+      }
     ]
   }
 }

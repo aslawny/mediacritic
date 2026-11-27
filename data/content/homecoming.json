@@ -27,27 +27,31 @@
     "series"
   ],
   "addedAt": "2026-07-09",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-28",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mosthelpful",
+    "releve": "2026-11-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Miss Huckleberry",
+        "titre": "Sedaris, Schwimmer, Keener are perfection!",
+        "texte": "I had no idea what this was about, and the first few minutes were a bit confusing, but it was none the less compelling. It’s pure wit and just the right bit of comedy as it gathers momentum as a thriller with perfect, gripping pace and intensity.…"
+      },
+      {
+        "note": 1,
+        "auteur": "MCBAIN_4",
+        "titre": "They failed",
+        "texte": "Gimlet tried hard with this one. But the story just isn't compelling. People are blinded by their love of everything gimlet."
+      },
+      {
+        "note": 5,
+        "auteur": "FELLA FACADE",
+        "titre": "AMAZINGLY AWESOME !!!",
+        "texte": "It had me from the very start until it finished and left me seriously wanting more. Why sit and read when you can lay and listen ?!? Its like a movie and novel all mixed into one !?! It allows me to create my own visuals within my mind like reading a book but the soundtrack seems…"
+      }
     ]
   }
 }

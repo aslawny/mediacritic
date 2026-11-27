@@ -25,27 +25,37 @@
     "enfants",
     "éducation"
   ],
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "L'alimentation",
-      "date": "2025-04-01"
+      "date": "2025-04-01",
+      "audio": "https://sphinx.acast.com/p/open/s/66fc34822838c1aca56c6b7b/e/67ec0c517828ca699ce8dc10/media.mp3",
+      "duree": 2071
     },
     {
       "titre": "Les métiers",
-      "date": "2025-03-09"
+      "date": "2025-03-09",
+      "audio": "https://sphinx.acast.com/p/open/s/66fc34822838c1aca56c6b7b/e/67cde8b7a78612b49a7cd96d/media.mp3",
+      "duree": 1886
     },
     {
       "titre": "Les loisirs",
-      "date": "2025-02-12"
+      "date": "2025-02-12",
+      "audio": "https://sphinx.acast.com/p/open/s/66fc34822838c1aca56c6b7b/e/67ac5ddb9c6f7f7f28388077/media.mp3",
+      "duree": 1830
     },
     {
       "titre": "Le respect",
-      "date": "2025-02-02"
+      "date": "2025-02-02",
+      "audio": "https://sphinx.acast.com/p/open/s/66fc34822838c1aca56c6b7b/e/679fb04cc4b7d8845bdbc4cc/media.mp3",
+      "duree": 1907
     },
     {
       "titre": "Le harcèlement",
-      "date": "2025-01-23"
+      "date": "2025-01-23",
+      "audio": "https://sphinx.acast.com/p/open/s/66fc34822838c1aca56c6b7b/e/6792ad1423d520f5411892a9/media.mp3",
+      "duree": 2387
     }
   ],
   "derniere_activite": "2025-04-01",

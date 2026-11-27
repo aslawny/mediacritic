@@ -24,29 +24,39 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
+      "titre": "On en parle - PFAS dans nos imperméables, questions à l'entretien d'embauche et calendriers de l'Avent maison",
+      "date": "2026-11-26",
+      "audio": "https://rts-aod-dd.akamaized.net/ww/0c63b261-2d2f-3a7d-b122-320b768296f4/1833eac6-b2de-35c3-a48b-5d66295f8022.mp3",
+      "duree": 5207
+    },
+    {
+      "titre": "On en parle - Alimentation, café textile et harcèlement",
+      "date": "2026-11-25",
+      "audio": "https://rts-aod-dd.akamaized.net/ww/8eb8abb6-116e-315d-9a0a-97dc7cbcdd97/59cb6d58-81d5-306c-ad11-813530fe50fe.mp3",
+      "duree": 5227
+    },
+    {
+      "titre": "On en parle - randonner en hiver, médecine légale et mort suspecte, assurance maladie",
+      "date": "2026-11-24",
+      "audio": "https://rts-aod-dd.akamaized.net/ww/59dbf631-0210-31e9-a438-348883ced0cb/39874c5f-5abb-31d2-9472-4364bc767adb.mp3",
+      "duree": 5177
+    },
+    {
+      "titre": "On en parle - des jeunes influencés à boire sur les réseaux, dépression post-partum",
+      "date": "2026-11-23",
+      "audio": "https://rts-aod-dd.akamaized.net/ww/9b4bafd7-4468-3f73-a260-8a2da8ddb3fe/5621e059-4dfe-3eeb-bba7-4e81f4ac48b4.mp3",
+      "duree": 5215
+    },
+    {
       "titre": "Le deuxième service d'On en parle",
-      "date": "2026-11-14"
-    },
-    {
-      "titre": "On en parle - Thon coloré, musées qui soignent et épices",
-      "date": "2026-11-13"
-    },
-    {
-      "titre": "On en parle - Diabète, compagnonnage et parler jeune",
-      "date": "2026-11-12"
-    },
-    {
-      "titre": "On en parle - sécurité sur les pistes, vin chaud et droit au repos",
-      "date": "2026-11-11"
-    },
-    {
-      "titre": "On en parle - plaquettes de boîtes aux lettres, dyscalculie et calcul mental",
-      "date": "2026-11-10"
+      "date": "2026-11-21",
+      "audio": "https://rts-aod-dd.akamaized.net/ww/ebf38348-9afe-378a-afbf-063cde04e947/0b6eb8fe-19ec-3e49-8e6b-7c0c37a5f5c3.mp3",
+      "duree": 3179
     }
   ],
-  "derniere_activite": "2026-11-14",
+  "derniere_activite": "2026-11-26",
   "frequence_jours": 1
 }

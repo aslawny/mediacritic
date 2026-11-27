@@ -26,26 +26,36 @@
   "updatedAt": "2026-05-03",
   "episodes_recents": [
     {
-      "titre": "Agenda du 14/11 à 11h56",
-      "date": "2026-11-14"
+      "titre": "Agenda du 26/11 à 18h54",
+      "date": "2026-11-26",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3125538.mp3?origin=rss",
+      "duree": 79
     },
     {
-      "titre": "Agenda du 14/11 à 10h51",
-      "date": "2026-11-14"
+      "titre": "Agenda du 26/11 à 17h54",
+      "date": "2026-11-26",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3124956.mp3?origin=rss",
+      "duree": 78
     },
     {
-      "titre": "Agenda du 14/11 à 09h57",
-      "date": "2026-11-14"
+      "titre": "Agenda du 26/11 à 16h52",
+      "date": "2026-11-26",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3124412.mp3?origin=rss",
+      "duree": 78
     },
     {
-      "titre": "Agenda du 14/11 à 08h56",
-      "date": "2026-11-14"
+      "titre": "Agenda du 26/11 à 13h53",
+      "date": "2026-11-26",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3122705.mp3?origin=rss",
+      "duree": 79
     },
     {
-      "titre": "Agenda du 13/11 à 18h55",
-      "date": "2026-11-13"
+      "titre": "Agenda du 26/11 à 12h55",
+      "date": "2026-11-26",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3122199.mp3?origin=rss",
+      "duree": 79
     }
   ],
-  "derniere_activite": "2026-11-14",
+  "derniere_activite": "2026-11-26",
   "frequence_jours": 0
 }

@@ -25,29 +25,39 @@
     "sport",
     "running"
   ],
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
+      "titre": "Pourquoi court-on 42km ? - Immersion sur le marathon Nice–Cannes",
+      "date": "2026-11-20",
+      "audio": "https://episodes.captivate.fm/episode/b8f342c2-38f2-4010-80fb-4c335485c81e.mp3",
+      "duree": 1989
+    },
+    {
       "titre": "Benjamin Cuningham veut construire un circuit de Backyard Ultra en France",
-      "date": "2026-11-13"
+      "date": "2026-11-13",
+      "audio": "https://episodes.captivate.fm/episode/9f7421b2-766a-4988-b2a4-ccdd38801582.mp3",
+      "duree": 2730
     },
     {
       "titre": "Trois ans pour créer une chaussure, une victoire pour la lancer — Sophie Bouquet",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "audio": "https://episodes.captivate.fm/episode/ded7e0b2-3ac0-4728-89a4-1e81cffca8c1.mp3",
+      "duree": 2609
     },
     {
       "titre": "Fell running, conscience écolo et meilleure saison à 45 ans — Andy Symonds",
-      "date": "2026-10-27"
+      "date": "2026-10-27",
+      "audio": "https://episodes.captivate.fm/episode/24376939-19a8-4701-8da8-83b5d879f27d.mp3",
+      "duree": 3036
     },
     {
       "titre": "Running, mode et sous-cultures - avec Gasnam",
-      "date": "2026-10-09"
-    },
-    {
-      "titre": "Wildstrubel by UTMB : tout était parfait. Pourtant, il manquait quelque chose.",
-      "date": "2026-09-17"
+      "date": "2026-10-09",
+      "audio": "https://episodes.captivate.fm/episode/417a0ace-b2c6-4d47-90a6-85b73077c8c8.mp3",
+      "duree": 2804
     }
   ],
-  "derniere_activite": "2026-11-13",
+  "derniere_activite": "2026-11-20",
   "frequence_jours": 10
 }

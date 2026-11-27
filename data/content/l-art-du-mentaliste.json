@@ -26,7 +26,7 @@
     "politique"
   ],
   "addedAt": "2026-05-28",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "L'art du mentaliste #116 écoutez vos besoins psychologiques",
@@ -62,25 +62,29 @@
   "derniere_activite": "2026-11-23",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-28",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Héraklion",
+        "titre": "Vraiment intéressant !",
+        "texte": "Cela fait maintenant plusieurs semaines que j’écoute ce podcast et je le trouve absolument génial ! Les conseils sont très concrets et appuyés sur des faits plutôt que sur des suppositions personnelles. Les deux présentateurs sont très pertinents et bienveillants.…"
+      },
+      {
+        "note": 2,
+        "auteur": "Momo Ham",
+        "titre": "Pas agréable à écouter",
+        "texte": "On apprend des choses, plutôt bien renseigné, cependant Taha est assez difficile à écouter, de part son intonation, ses rires incessants et mal placés, et son style bien trop orale. Peut-être divertissant en spectacle, mais désagréable en podcast."
+      },
+      {
+        "note": 5,
+        "auteur": "tanagra78",
+        "titre": "Très sympa",
+        "texte": "J’ai une licence en psycho et une autre en communication et j’ai écouté l’ensemble des Podcats. Taha et Alexi sont bien documentés et nous expliquent simplement des principes passionnants.…"
+      }
     ]
   }
 }

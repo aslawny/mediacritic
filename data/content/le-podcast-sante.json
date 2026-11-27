@@ -24,27 +24,37 @@
   "tags": [
     "santé"
   ],
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "Psychotraumatismes, événements traumatiques : un psychiatre répond à vos questions",
-      "date": "2025-06-04"
+      "date": "2025-06-04",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1492090.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 3263
     },
     {
       "titre": "Anxiété et dépression : les réponses d'une psychiatre",
-      "date": "2025-03-05"
+      "date": "2025-03-05",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1255023.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 3523
     },
     {
       "titre": "Santé mentale des étudiants : les réponses d'un psychiatre",
-      "date": "2025-01-13"
+      "date": "2025-01-13",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1129607.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 2007
     },
     {
       "titre": "Troubles du sommeil : les réponses d'une spécialiste",
-      "date": "2024-12-14"
+      "date": "2024-12-14",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1001381.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 2515
     },
     {
       "titre": "Prévention du suicide : les réponses d'un psychiatre",
-      "date": "2024-10-18"
+      "date": "2024-10-18",
+      "audio": "https://api.octopus.saooti.com/podcast/download/898645.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 3507
     }
   ],
   "derniere_activite": "2025-06-04",

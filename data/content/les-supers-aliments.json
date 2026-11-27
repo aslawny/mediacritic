@@ -27,27 +27,37 @@
     "bien-etre"
   ],
   "addedAt": "2026-06-18",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "La noix du Brésil",
-      "date": "2026-11-06"
+      "date": "2026-11-06",
+      "audio": "https://podcast.cmel.fr/audio/@supersaliments/la-noix-du-bresil.mp3",
+      "duree": 1681
     },
     {
       "titre": "L'huile de coco et l'huile MCT",
-      "date": "2026-10-25"
+      "date": "2026-10-25",
+      "audio": "https://podcast.cmel.fr/audio/@supersaliments/lhuile-de-coco-et-lhuile-mct.mp3",
+      "duree": 1529
     },
     {
       "titre": "Le beurre de cacahuète : super-aliment ou pâte à tartiner déguisée ?",
-      "date": "2026-10-17"
+      "date": "2026-10-17",
+      "audio": "https://podcast.cmel.fr/audio/@supersaliments/le-beurre-de-cacahuete-super-aliment-ou-pate-a-tartiner-deguisee.mp3",
+      "duree": 1081
     },
     {
       "titre": "Chocolat noir 85 à 100 % et cacao cru",
-      "date": "2026-10-14"
+      "date": "2026-10-14",
+      "audio": "https://podcast.cmel.fr/audio/@supersaliments/chocolat-noir-85-a-100-et-cacao-cru.mp3",
+      "duree": 1418
     },
     {
       "titre": "La levure nutritionnelle",
-      "date": "2026-10-07"
+      "date": "2026-10-07",
+      "audio": "https://podcast.cmel.fr/audio/@supersaliments/la-levure-nutritionnelle.mp3",
+      "duree": 1355
     }
   ],
   "derniere_activite": "2026-11-06",

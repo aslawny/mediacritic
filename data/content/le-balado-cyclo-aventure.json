@@ -26,19 +26,25 @@
     "societe"
   ],
   "addedAt": "2026-05-31",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "Épisode 3: Marie Gagné Fournier nous parle de la traversée du Canada",
-      "date": "2021-05-29"
+      "date": "2021-05-29",
+      "audio": "https://anchor.fm/s/5d0bb99c/podcast/play/34430134/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-06-08%2F7c1414040a63c6af684e9b6fb06b5f7a.m4a",
+      "duree": 3570
     },
     {
       "titre": "Épisode 2: Tristan Clermont nous parle de tourisme responsable",
-      "date": "2021-05-28"
+      "date": "2021-05-28",
+      "audio": "https://anchor.fm/s/5d0bb99c/podcast/play/34427500/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-28%2Fc107ae97-a1d8-8ad8-832b-4b3550737d4e.m4a",
+      "duree": 2345
     },
     {
       "titre": "Épisode 1: Audrey Larochelle nous parle de la côte Ouest américaine",
-      "date": "2021-05-28"
+      "date": "2021-05-28",
+      "audio": "https://anchor.fm/s/5d0bb99c/podcast/play/34427042/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-28%2F47d0d18c-4459-27bb-5c2d-6b2589b18a9f.m4a",
+      "duree": 2515
     }
   ],
   "derniere_activite": "2021-05-29",

@@ -26,23 +26,31 @@
     "societe"
   ],
   "addedAt": "2026-06-12",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "Épisode 4 : Terminus : Le Bernina Express",
-      "date": "2022-11-24"
+      "date": "2022-11-24",
+      "audio": "https://sphinx.acast.com/p/open/s/6323076a3957c100125a4fcc/e/637f33a6e794dc0011caee9b/media.mp3",
+      "duree": 1005
     },
     {
       "titre": "Épisode 3 : Dans le Gotthard Panorama Express",
-      "date": "2022-11-10"
+      "date": "2022-11-10",
+      "audio": "https://sphinx.acast.com/p/open/s/6323076a3957c100125a4fcc/e/636a77deddbff400123a3859/media.mp3",
+      "duree": 649
     },
     {
       "titre": "Épisode 2 : Glaciers alpins et croisière lacustre",
-      "date": "2022-10-21"
+      "date": "2022-10-21",
+      "audio": "https://sphinx.acast.com/p/open/s/6323076a3957c100125a4fcc/e/633ac3231b977d00112023c7/media.mp3",
+      "duree": 1216
     },
     {
       "titre": "Épisode 1 : À bord du MOB GoldenPass",
-      "date": "2022-10-03"
+      "date": "2022-10-03",
+      "audio": "https://sphinx.acast.com/p/open/s/6323076a3957c100125a4fcc/e/632c3e1e0b0d520016e8b65e/media.mp3",
+      "duree": 978
     }
   ],
   "derniere_activite": "2022-11-24",

@@ -26,7 +26,7 @@
     "famille"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "238. Filles/garçons : sortir des idées reçues pour laisser chaque ado libre de ses choix",
@@ -62,25 +62,29 @@
   "derniere_activite": "2026-11-20",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-28",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Marie. L.",
+        "titre": "Un grand soutien",
+        "texte": "Merci à Sarah pour ce podcast très intéressant et très enrichissant. Il s'adresse à tous les parents d'ados et aux professionnels qui gravitent autour d'eux! C'est un espace bienveillant sans jugement, ni culpabilisation illustré par des témoignages de parents pour qui les choses…"
+      },
+      {
+        "note": 2,
+        "auteur": "Elo59193",
+        "titre": "Lecture arrêtée",
+        "texte": "Est ce normal que je ne puisse pas tout écouter ? A chaque fois les podcasts s’arrêtent au bout de qq minutes?"
+      },
+      {
+        "note": 5,
+        "auteur": "Born-To-Shine-Coach",
+        "titre": "Un bon moment très instructif",
+        "texte": "J’étais ravie de découvrir le podcast de Sarah car elle aborde une thématique dont on parle peu : l’adolescence ! Et c’est un plaisir d’écouter ses épisodes car ses invités sont chaque fois différents : des experts, des témoignages … c’est riche et variés …"
+      }
     ]
   }
 }

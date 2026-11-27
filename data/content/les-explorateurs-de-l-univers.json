@@ -25,27 +25,31 @@
     "famille"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-28",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Alis le baud",
+        "titre": "J’adore la musique",
+        "texte": "La musique est super, on apprend plein de choses et l’histoire est cool Trouve l’intrus : ♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️…"
+      },
+      {
+        "note": 5,
+        "auteur": "Aurel38530",
+        "titre": "Super!!",
+        "texte": "Les enfants ont adore, les parents ont appris des choses, réussir à vulgariser des notions aussi compliquées est impressionnant! Bravo aux équipes qui ont crée ce podcast!"
+      },
+      {
+        "note": 5,
+        "auteur": "Xblanchette",
+        "titre": "M",
+        "texte": "Je suppose que je ne suis pas la seule à le dire , mais : vous pouvez faire plus d épisodes ? S il vous plait !"
+      }
     ]
   }
 }

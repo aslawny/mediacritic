@@ -26,19 +26,25 @@
     "societe"
   ],
   "addedAt": "2026-05-20",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "De l'écoute d'une chanson française à traductrice assermentée, interview de Katarzyna Czuń",
-      "date": "2023-12-19"
+      "date": "2023-12-19",
+      "audio": "https://anchor.fm/s/db58ff94/podcast/play/80227380/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-13%2F2df4ca6c-83dc-0007-76d0-8c3316b830aa.mp3",
+      "duree": 2038
     },
     {
       "titre": "De militaire à expatrié en Pologne, interview de Quentin Leray",
-      "date": "2023-09-01"
+      "date": "2023-09-01",
+      "audio": "https://anchor.fm/s/db58ff94/podcast/play/75345547/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-13%2F22eec921-eede-ccf0-c9af-76afc0f4baa0.mp3",
+      "duree": 1165
     },
     {
       "titre": "De naturopathe à expatrié en Pologne, interview de Vivien Coronel",
-      "date": "2023-04-02"
+      "date": "2023-04-02",
+      "audio": "https://anchor.fm/s/db58ff94/podcast/play/67807150/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-13%2F9220d26d-158d-871c-2f4e-c3b671545147.mp3",
+      "duree": 1633
     }
   ],
   "derniere_activite": "2023-12-19",

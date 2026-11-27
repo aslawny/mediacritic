@@ -26,29 +26,39 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
+      "titre": "Les Têtes d'Ampoule - spéciale GTA - 26 novembre 2026",
+      "date": "2026-11-26",
+      "audio": "https://s3.castbox.fm/7d/55/b3/d404fc4145bd8ba16a3fa3e30a.mp3",
+      "duree": 8488
+    },
+    {
       "titre": "Les Têtes d'Ampoule - 21 octobre 2026",
-      "date": "2026-10-21"
+      "date": "2026-10-21",
+      "audio": "https://s3.castbox.fm/fb/fa/6b/89bbe744f4a3c2b7dbaf6a0302.mp3",
+      "duree": 8720
     },
     {
       "titre": "Les Têtes d'Ampoule - 10 septembre 2026",
-      "date": "2026-09-10"
+      "date": "2026-09-10",
+      "audio": "https://s3.castbox.fm/e6/8f/7a/0277ec4c02aa36bde537c91e29.mp3",
+      "duree": 8115
     },
     {
       "titre": "Les Têtes d'Ampoule - 20 juillet 2026",
-      "date": "2026-07-20"
+      "date": "2026-07-20",
+      "audio": "https://s3.castbox.fm/1c/8a/81/e5ff5245bc9b07a245345d2865.mp3",
+      "duree": 8847
     },
     {
       "titre": "Les Têtes d'Ampoule - 2 juillet 2026",
-      "date": "2026-07-02"
-    },
-    {
-      "titre": "Les Têtes d'Ampoule - spéciale Eurovision - 12 mai 2026",
-      "date": "2026-05-12"
+      "date": "2026-07-02",
+      "audio": "https://s3.castbox.fm/75/09/28/bb48f94cfabb86028769f1380f.mp3",
+      "duree": 8595
     }
   ],
-  "derniere_activite": "2026-10-21",
+  "derniere_activite": "2026-11-26",
   "frequence_jours": 41
 }

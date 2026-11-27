@@ -27,26 +27,36 @@
   "updatedAt": "2026-06-03",
   "episodes_recents": [
     {
+      "titre": "Basse Aria Pro II - Cliff Burton - Metallica",
+      "date": "2026-11-26",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3123599.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 539
+    },
+    {
+      "titre": "Basse Warwick Buzzard-John Entwilstle -The Who",
+      "date": "2026-11-24",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3038565.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 293
+    },
+    {
       "titre": "Fender Telecaster Red Dog-Mike de Tom Petty ant The Heartbreakers (11/11/26)",
-      "date": "2026-11-11"
+      "date": "2026-11-11",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2974171.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 331
     },
     {
       "titre": "Ibanez Iceman 1979 de Steve Miller (04/11/26)",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2930433.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 383
     },
     {
       "titre": "Fender jazz bass shell pink de Flea (29/10/26)",
-      "date": "2026-10-28"
-    },
-    {
-      "titre": "Fender Stratocaster de Bob Dylan (23/10/26)",
-      "date": "2026-10-23"
-    },
-    {
-      "titre": "Les Paul Custom 1959 de Robert Fripp (16/10/26)",
-      "date": "2026-10-16"
+      "date": "2026-10-28",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2880721.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 451
     }
   ],
-  "derniere_activite": "2026-11-11",
+  "derniere_activite": "2026-11-26",
   "frequence_jours": 7
 }

@@ -27,23 +27,33 @@
   "episodes_recents": [
     {
       "titre": "Émission du 2 July 2026",
-      "date": "2026-07-02"
+      "date": "2026-07-02",
+      "audio": "https://podcast.arabel.fm/14_podcast_020726_020713.mp3",
+      "duree": 986
     },
     {
       "titre": "Émission du 1 July 2026",
-      "date": "2026-07-01"
+      "date": "2026-07-01",
+      "audio": "https://podcast.arabel.fm/14_podcast_010726_010713.mp3",
+      "duree": 935
     },
     {
       "titre": "Émission du 2 June 2026",
-      "date": "2026-06-02"
+      "date": "2026-06-02",
+      "audio": "https://podcast.arabel.fm/14_podcast_020626_020613.mp3",
+      "duree": 1394
     },
     {
       "titre": "Émission du 1 June 2026",
-      "date": "2026-06-01"
+      "date": "2026-06-01",
+      "audio": "https://podcast.arabel.fm/14_podcast_010626_010613.mp3",
+      "duree": 1257
     },
     {
       "titre": "Émission du 2 April 2026",
-      "date": "2026-04-02"
+      "date": "2026-04-02",
+      "audio": "https://podcast.arabel.fm/14_podcast_020426_020413.mp3",
+      "duree": 733
     }
   ],
   "derniere_activite": "2026-07-02",

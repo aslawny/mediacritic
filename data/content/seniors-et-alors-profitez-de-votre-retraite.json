@@ -23,29 +23,39 @@
     "musique"
   ],
   "addedAt": "2026-10-29",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
+      "titre": "Luminothérapie en hiver : comment retrouver énergie et moral quand la lumière manque",
+      "date": "2026-11-22",
+      "audio": "https://api.spreaker.com/download/episode/76522144/379734_s47_senior_lumiere_mp3.mp3",
+      "duree": 116
+    },
+    {
       "titre": "Prévenir les chutes en automne : les bons réflexes pour rester autonome",
-      "date": "2026-11-13"
+      "date": "2026-11-13",
+      "audio": "https://api.spreaker.com/download/episode/76336946/379149_s46_senior_prevenir_les_chutes_mp3.mp3",
+      "duree": 114
+    },
+    {
+      "titre": "Chutes en automne : les bons réflexes pour rester debout et en sécurité",
+      "date": "2026-11-13",
+      "audio": "https://api.spreaker.com/download/episode/76396993/379149_s46_senior_prevenir_les_chutes_mp3.mp3",
+      "duree": 114
     },
     {
       "titre": "Plantes médicinales pour l'hiver : échinacée, sureau, gingembre et romarin pour traverser l'automne en forme",
-      "date": "2026-11-06"
+      "date": "2026-11-06",
+      "audio": "https://api.spreaker.com/download/episode/76206104/378803_s45_senior_plantes_hiver_mp3.mp3",
+      "duree": 116
     },
     {
       "titre": "Vaccin contre la grippe : ce qu'il faut savoir cette saison",
-      "date": "2026-11-02"
-    },
-    {
-      "titre": "Vaccin contre la grippe : ce que les seniors doivent savoir cette saison",
-      "date": "2026-10-30"
-    },
-    {
-      "titre": "Changement d'heure : comment bien adapter votre sommeil et votre rythme de vie à l'automne",
-      "date": "2026-10-23"
+      "date": "2026-11-02",
+      "audio": "https://api.spreaker.com/download/episode/76131648/378304_s44_senior_grippe_mp3.mp3",
+      "duree": 126
     }
   ],
-  "derniere_activite": "2026-11-13",
-  "frequence_jours": 7
+  "derniere_activite": "2026-11-22",
+  "frequence_jours": 6
 }

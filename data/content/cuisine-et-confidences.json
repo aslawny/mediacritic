@@ -26,7 +26,7 @@
     "culture"
   ],
   "addedAt": "2026-06-15",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "LISA AZUELOS \"J'AI TOUJOURS ÉTÉ OBSÉDÉE PAR L'IDÉE D'AVOIR UNE MAISON ET J'EN AI TRÈS PEU EU.\"",
@@ -60,5 +60,31 @@
     }
   ],
   "derniere_activite": "2026-11-11",
-  "frequence_jours": 22
+  "frequence_jours": 22,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "AndréaAD",
+        "titre": "Génial",
+        "texte": "Bravo pour ce podcast ! J’ai adoré écouter l’échange avec Éliette Abecassis qui se prête aux confidences sur ses recettes littéraires et de cuisine ! Mention spéciale pour les jeux de mots l’intervieweuse qui font systématiquement sourire ! Hâte d’écouter les prochains !"
+      },
+      {
+        "note": 5,
+        "auteur": "Miss_Sevie",
+        "titre": "Ludique et passionnant",
+        "texte": "Un rendez-vous mensuel incontournable avec des invités de marque. Un autre regard, ludique et généreux, sur l’actualité littéraire"
+      },
+      {
+        "note": 5,
+        "auteur": "Chou-Mal",
+        "titre": "L’immobilier comme je l’entends !",
+        "texte": "J’aime ce moment tres instructif et vraiment distrayant !! Un régal !!"
+      }
+    ]
+  }
 }

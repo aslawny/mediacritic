@@ -24,27 +24,31 @@
     "cuisine"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-28",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "michael_923",
+        "titre": "Un podcast éclairant et qui fait réfléchir",
+        "texte": "Merci beaucoup pour ce podcast qui permet de comprendre ce que vivent nos proches au quotidien dans leur métier ! On découvre parfois des métiers peu connus ou on redécouvre des jobs sur lesquels on a souvent pleins de clichés.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Captain_gini",
+        "titre": "Passionnant !",
+        "texte": "Je suis in love avec ce podcast, tellement agréable ! C’est rare de pouvoir connaitre la face cachée d’un métier tout en découvrant autant de belles personnalités qui vivent avec passion. J’ai l’impression de partir à l’aventure à chaque épisode. C’est inspirant et encourageant.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Lrvd72",
+        "titre": "Une nouvelle manière de découvrir les métiers qui nous entourent !",
+        "texte": "Toujours très instructifs, les épisodes d’Into the Job nous montrent avec brio les dessous des métiers que nous connaissons souvent (trop ?) mal. En quelques minutes, Laura nous offre l’occasion de découvrir un nouveau métier et parfois même d’en essayer certains …"
+      }
     ]
   }
 }

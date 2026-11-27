@@ -28,19 +28,27 @@
   "episodes_recents": [
     {
       "titre": "Les 30 ans du Festival les Enfants d'Abord Sallanches - Festivalier",
-      "date": "2025-09-26"
+      "date": "2025-09-26",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1752866.mp3?origin=rss",
+      "duree": 143
     },
     {
       "titre": "Les 30 ans du Festival les Enfants d'Abord Sallanches - Mamzelle Pastel",
-      "date": "2025-09-26"
+      "date": "2025-09-26",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1752865.mp3?origin=rss",
+      "duree": 139
     },
     {
       "titre": "Les 30 ans du Festival les Enfants d'Abord Sallanches - Famille de festivaliers",
-      "date": "2025-09-26"
+      "date": "2025-09-26",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1752857.mp3?origin=rss",
+      "duree": 202
     },
     {
       "titre": "Les 30 ans du Festival les Enfants d'Abord Sallanches - Sylvia Perruchione",
-      "date": "2025-09-26"
+      "date": "2025-09-26",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1752840.mp3?origin=rss",
+      "duree": 250
     }
   ],
   "derniere_activite": "2025-09-26",

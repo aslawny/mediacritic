@@ -24,29 +24,39 @@
     "cinéma",
     "séries"
   ],
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
+      "titre": "Livre pop-up animé et musiques électroniques avec Ekla!",
+      "date": "2026-11-25",
+      "audio": "https://media.blubrry.com/radio_scarpe_sense/radioscarpesensee.com/index/wp-content/uploads/audio/FRANF-SCARPESENSEE-Livre-pop-up-anime-et-musiques-electroniques-avec-Ekla-20270331.mp3",
+      "duree": 653
+    },
+    {
+      "titre": "Jupiter, Les braves et Quand la mer monte au Arras Film Festival",
+      "date": "2026-11-23",
+      "audio": "https://media.blubrry.com/radio_scarpe_sense/radioscarpesensee.com/index/wp-content/uploads/audio/SCARPE-CINE-261118-Jupiter-les-braves-et-quand-la-mer-monte-au-arras-film-565e.mp3",
+      "duree": 3543
+    },
+    {
+      "titre": "Un spectacle sur les violences intrafamiliales à Dury",
+      "date": "2026-11-20",
+      "audio": "https://media.blubrry.com/radio_scarpe_sense/radioscarpesensee.com/index/wp-content/uploads/audio/RESONANCE-48-Un-spectacle-sur-les-violences-intrafamiliales-a-Dury-261126.mp3",
+      "duree": 786
+    },
+    {
       "titre": "Amicale de la Diaspora Algérienne du Douaisis",
-      "date": "2026-11-13"
+      "date": "2026-11-13",
+      "audio": "https://media.blubrry.com/radio_scarpe_sense/radioscarpesensee.com/index/wp-content/uploads/audio/FRANF-SCARPESENSEE-Amicale-de-la-Diaspoara-Algerienne-du-Douaisis-270131.mp3",
+      "duree": 826
     },
     {
       "titre": "Concert matinal du monde sauvage avec Audio-Nature",
-      "date": "2026-11-12"
-    },
-    {
-      "titre": "Des enfants enregistrent la forêt",
-      "date": "2026-11-12"
-    },
-    {
-      "titre": "Manifestation pour la jeunesse et pour le pouvoir d’achat, Douai le 5 novembre 2026.",
-      "date": "2026-11-06"
-    },
-    {
-      "titre": "Le dispositif Demandez Angela dans les CPAM de Lille et Douai",
-      "date": "2026-11-03"
+      "date": "2026-11-12",
+      "audio": "https://media.blubrry.com/radio_scarpe_sense/radioscarpesensee.com/index/wp-content/uploads/audio/Curiosites-sonores-85-Concert-matinal-du-monde-sauvage-avec-Audio-Nature.mp3",
+      "duree": 535
     }
   ],
-  "derniere_activite": "2026-11-13",
+  "derniere_activite": "2026-11-25",
   "frequence_jours": 1
 }

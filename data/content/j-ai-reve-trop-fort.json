@@ -27,7 +27,7 @@
     "comedie"
   ],
   "addedAt": "2026-05-16",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "Best-of spécial Halloween 🎃",
@@ -63,25 +63,29 @@
   "derniere_activite": "2026-10-31",
   "frequence_jours": 15,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-28",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Zosiasophie",
+        "titre": "🩷",
+        "texte": "Trop chouette, je ne comprends pas la note En revanche j’ai galéré à trouver en faisant une recherche sur Apple podcast avec plusieurs mots clefs du coup y’a une cou*lle dans le pâté fyi"
+      },
+      {
+        "note": 5,
+        "auteur": "phay75",
+        "titre": "Super podcast !",
+        "texte": "Trop bonne idée de podcast ! Louis est super !! J’ai rigolé du début à la fin, c’est une bonne manière de découvrir les gens autrement !"
+      },
+      {
+        "note": 5,
+        "auteur": "Zougouloukata77",
+        "titre": "Super nouveauté Bababam !",
+        "texte": "Un nouveau format original qui fait plaisir à entendre ! C’est drôle et j’ai appris plein de choses sur les invités 😀"
+      }
     ]
   }
 }

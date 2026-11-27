@@ -26,7 +26,7 @@
     "societe"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "[ Revue de Presse Hebdo | Retail - E-commerce ] 20 novembre 2026",
@@ -62,25 +62,29 @@
   "derniere_activite": "2026-11-20",
   "frequence_jours": 3,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-28",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "ManuM de Paris",
+        "titre": "Une chance unique de découvrir l’écosystème",
+        "texte": "Des invités de très grande qualité dans un format d’interview en mode conversation. Chaque semaine on apprend quelque chose de nouveau. Je recommande !"
+      },
+      {
+        "note": 1,
+        "auteur": "zyvabien",
+        "titre": "Assez planplan",
+        "texte": "Podcasf pas très dynamique et qui manque de naturel et d’entrain"
+      },
+      {
+        "note": 5,
+        "auteur": "MagicFabre",
+        "titre": "Excellent!",
+        "texte": "Super podcast que je suis depuis qq semaines. Invités au top, questions claires et réponses éclairantes! Bravoooo!"
+      }
     ]
   }
 }

@@ -28,23 +28,33 @@
   "episodes_recents": [
     {
       "titre": "Alpha42 - Le Podcast - 15 Mai 2022",
-      "date": "2022-05-17"
+      "date": "2022-05-17",
+      "audio": "https://baladoquebec.ca/media/alpha42/alpha42-le-podcast-15-mai-2022.mp3",
+      "duree": 2018
     },
     {
       "titre": "Alpha42 - Le Podcast - 23 Janvier 2022",
-      "date": "2022-01-24"
+      "date": "2022-01-24",
+      "audio": "https://baladoquebec.ca/media/alpha42/alpha42-le-podcast-23-janvier-2022-2.mp3",
+      "duree": 2178
     },
     {
       "titre": "Alpha42 - Le Podcast - 23 Janvier 2022",
-      "date": "2022-01-24"
+      "date": "2022-01-24",
+      "audio": "https://baladoquebec.ca/media/alpha42/alpha42-le-podcast-23-janvier-2022.mp3",
+      "duree": 2178
     },
     {
       "titre": "alpha42 - 30 novembre 2020",
-      "date": "2020-12-01"
+      "date": "2020-12-01",
+      "audio": "https://baladoquebec.ca/media/alpha42/alpha42-30-novembre-2020.mp3",
+      "duree": 3040
     },
     {
       "titre": "Alpha42 - 22 Novembre 2020",
-      "date": "2020-11-23"
+      "date": "2020-11-23",
+      "audio": "https://baladoquebec.ca/media/alpha42/alpha42-22-novembre-2020.mp3",
+      "duree": 3352
     }
   ],
   "derniere_activite": "2022-05-17",

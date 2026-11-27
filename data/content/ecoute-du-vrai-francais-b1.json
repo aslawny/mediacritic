@@ -14,8 +14,8 @@
     "apple": {
       "url": "https://podcasts.apple.com/fr/podcast/ecoute-du-vrai-fran%C3%A7ais-b1/id6791115591?uo=4",
       "trackId": 6791115591,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 5.0,
+      "ratingCount": 1,
       "episodeCount": 45
     }
   },
@@ -25,29 +25,39 @@
     "education"
   ],
   "addedAt": "2026-09-23",
-  "updatedAt": "2026-09-23",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
+      "titre": "Ep. 54 - C'est quoi le calendrier de l'Avent ? (French comprehensible input B1+)",
+      "date": "2026-11-24",
+      "audio": "https://anchor.fm/s/10b393378/podcast/play/128612178/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-2%2F06cbb5c3-739b-7f64-8dbc-6c7bfcdbfa80.m4a",
+      "duree": 264
+    },
+    {
+      "titre": "Ep. 53 - Les technologies nous dépasseront-elles ? (French comprehensible input B1+)",
+      "date": "2026-11-17",
+      "audio": "https://anchor.fm/s/10b393378/podcast/play/128612040/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-2%2Fbbe5ae92-a275-8b88-21db-a148adadfcda.m4a",
+      "duree": 294
+    },
+    {
       "titre": "Ep. 52 - La vie est chère en France ? (French comprehensible input B1+)",
-      "date": "2026-11-10"
+      "date": "2026-11-10",
+      "audio": "https://anchor.fm/s/10b393378/podcast/play/128611961/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-2%2F4f7246b5-b5d5-353c-9784-756aafd38171.m4a",
+      "duree": 318
     },
     {
       "titre": "Ep. 51 - Expérience paranormale 🤫",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "audio": "https://anchor.fm/s/10b393378/podcast/play/128611342/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-2%2Fd2310677-9d0e-9266-389f-55af5cec06f9.m4a",
+      "duree": 404
     },
     {
       "titre": "Ep. 50 - 🎃 Halloween 🎃",
-      "date": "2026-10-27"
-    },
-    {
-      "titre": "Ep. 49 - Kiffer la vie (French comprehensible input B1+)",
-      "date": "2026-10-20"
-    },
-    {
-      "titre": "Ep. 48 - C'est l'automne ! (French comprehensible input B1+)",
-      "date": "2026-10-13"
+      "date": "2026-10-27",
+      "audio": "https://anchor.fm/s/10b393378/podcast/play/128117926/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-26%2Fc5c57186-efae-6cb4-b23e-4eb8eae4fe37.m4a",
+      "duree": 289
     }
   ],
-  "derniere_activite": "2026-11-10",
+  "derniere_activite": "2026-11-24",
   "frequence_jours": 7
 }

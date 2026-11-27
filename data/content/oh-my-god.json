@@ -25,25 +25,39 @@
     "series"
   ],
   "addedAt": "2026-11-02",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
+      "titre": "Saison 1 Episode 6",
+      "date": "2026-11-22",
+      "audio": "https://sphinx.acast.com/p/open/s/6adb1c398d92a22156acdd19/e/6b0325694ebccbdab5d8aaf1/media.mp3",
+      "duree": 4193
+    },
+    {
+      "titre": "Saison 1 Episode 5",
+      "date": "2026-11-15",
+      "audio": "https://sphinx.acast.com/p/open/s/6adb1c398d92a22156acdd19/e/6af9da4fcd3331f8b78b9e75/media.mp3",
+      "duree": 3344
+    },
+    {
       "titre": "Saison 1 Episode 4",
-      "date": "2026-11-08"
+      "date": "2026-11-08",
+      "audio": "https://sphinx.acast.com/p/open/s/6adb1c398d92a22156acdd19/e/6af09abee24ca7ce427b7c9f/media.mp3",
+      "duree": 3609
     },
     {
       "titre": "Saison 1 épisode 3",
-      "date": "2026-11-01"
+      "date": "2026-11-01",
+      "audio": "https://sphinx.acast.com/p/open/s/6adb1c398d92a22156acdd19/e/6ae726a06f040447d1a39be2/media.mp3",
+      "duree": 3616
     },
     {
       "titre": "Saison 1 épisode 2 best of",
-      "date": "2026-10-30"
-    },
-    {
-      "titre": "Saison 1 épisode 1",
-      "date": "2026-10-27"
+      "date": "2026-10-30",
+      "audio": "https://sphinx.acast.com/p/open/s/6adb1c398d92a22156acdd19/e/6ae472113933e47c2c58eff3/media.mp3",
+      "duree": 208
     }
   ],
-  "derniere_activite": "2026-11-08",
-  "frequence_jours": 3
+  "derniere_activite": "2026-11-22",
+  "frequence_jours": 7
 }

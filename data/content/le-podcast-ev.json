@@ -25,7 +25,7 @@
     "sport"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "Quelles sont les marques de VE les plus FIABLES ? (3 000 participants)",
@@ -61,25 +61,29 @@
   "derniere_activite": "2026-10-10",
   "frequence_jours": 11,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-28",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "broutelune",
+        "titre": "Super intéressant, pleins de vraies infos sur les voitures électriques !",
+        "texte": "Je viens d’écouter le talk EV épisode 1, très intéressant comme tous les autres podcast et vidéos de la chaîne. J’avais une question pour vous alex et jc: que pensez-vous du point de vue de Toyota sur les voitures électriques? J’ai lu il y a peu qu’un ingénieur de Toyota ne croya…"
+      },
+      {
+        "note": 5,
+        "auteur": "Jessblog",
+        "titre": "Des personnes formidables pour un podcast formidable",
+        "texte": "Sans vous mentir, je suis plutôt le Talk EV sur YouTube, mais quand je veux l’écouter dans ma voiture (électrique, bien sûr lol), la version podcast est bienvenue! Des chroniqueurs sympa et compétents (même si #ToujoursPasPro 😘), des thèmes sympas, de l’info utile, et des débats…"
+      },
+      {
+        "note": 5,
+        "auteur": "jfkca01",
+        "titre": "Super cet épisode",
+        "texte": "Super cette formule et bien venu au modérateur. Et c’est vrai que les tarifs de recharge rapide en Italie c’est vraiment un frein pour l’adoption des ce en Italie. Lors de mes trajets italiens c’est superchargeur tesla Et Electra s’il garde le tarif de 0,39 cts via application"
+      }
     ]
   }
 }

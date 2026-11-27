@@ -23,27 +23,37 @@
     "sciences"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "La main dans la main #7 - Julien",
-      "date": "2021-04-13"
+      "date": "2021-04-13",
+      "audio": "https://fondation-lamap.org/sites/default/files/upload/media/comm/podcast/LMDLM7-julien.mp3",
+      "duree": 1192
     },
     {
       "titre": "La main dans la main #6 - Louis",
-      "date": "2021-01-20"
+      "date": "2021-01-20",
+      "audio": "http://www.fondation-lamap.org/sites/default/files/upload/media/comm/podcast/LMDLM6-louis.mp3",
+      "duree": 1246
     },
     {
       "titre": "La main dans la main #5 - Benedicte",
-      "date": "2019-09-11"
+      "date": "2019-09-11",
+      "audio": "http://www.fondation-lamap.org/sites/default/files/upload/media/comm/podcast/LMDLM_05_Benedicte.mp3",
+      "duree": 938
     },
     {
       "titre": "La main dans la main #4 - Djamila",
-      "date": "2019-01-04"
+      "date": "2019-01-04",
+      "audio": "http://www.fondation-lamap.org/sites/default/files/upload/media/comm/podcast/LMDLM_04_Djamila.mp3",
+      "duree": 958
     },
     {
       "titre": "La main dans la main #3 - François",
-      "date": "2018-11-30"
+      "date": "2018-11-30",
+      "audio": "http://www.fondation-lamap.org/sites/default/files/upload/media/comm/podcast/LMDLM_03_Francois.mp3",
+      "duree": 958
     }
   ],
   "derniere_activite": "2021-04-13",

@@ -27,29 +27,39 @@
     "bien-etre"
   ],
   "addedAt": "2026-09-05",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
+      "titre": "ChatGPT dans les logiciels de santé : que peuvent faire les agents IA ?",
+      "date": "2026-11-21",
+      "audio": "https://anchor.fm/s/1063e7770/podcast/play/129831496/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-20%2Fe825db5b-f290-e019-ecb1-2837fda82906.mp3",
+      "duree": 429
+    },
+    {
       "titre": "Gemini à l’hôpital : ce que Google promet aux soignants",
-      "date": "2026-11-14"
+      "date": "2026-11-14",
+      "audio": "https://anchor.fm/s/1063e7770/podcast/play/129393838/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-13%2Fd794ab3d-0803-8740-ec54-a0765456b109.mp3",
+      "duree": 440
     },
     {
       "titre": "OpenEvidence Learn : l’IA se lance dans la formation médicale",
-      "date": "2026-11-05"
+      "date": "2026-11-05",
+      "audio": "https://anchor.fm/s/1063e7770/podcast/play/128840931/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-5%2F045c2083-4fea-d7b5-2aa3-63c69e38e7ae.mp3",
+      "duree": 422
     },
     {
       "titre": "Agents IA au cabinet : impôts, compta, contrats… que déléguer ?",
-      "date": "2026-10-18"
+      "date": "2026-10-18",
+      "audio": "https://anchor.fm/s/1063e7770/podcast/play/127684138/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-18%2Fefd979c3-d82f-b430-d604-06c56ac3c7c0.mp3",
+      "duree": 534
     },
     {
       "titre": "IA médicale : quand les modèles évoluent plus vite que les essais cliniques",
-      "date": "2026-08-25"
-    },
-    {
-      "titre": "Téléconsultation : l’IA de Google fait-elle vraiment mieux que les médecins ?",
-      "date": "2026-08-13"
+      "date": "2026-08-25",
+      "audio": "https://anchor.fm/s/1063e7770/podcast/play/124706471/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-25%2Fb0eb0f91-6014-ddd0-9264-978a492451ba.mp3",
+      "duree": 509
     }
   ],
-  "derniere_activite": "2026-11-14",
+  "derniere_activite": "2026-11-21",
   "frequence_jours": 17
 }

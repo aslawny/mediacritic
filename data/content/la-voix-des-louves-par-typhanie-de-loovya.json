@@ -17,7 +17,7 @@
       "url": "https://podcasts.apple.com/fr/podcast/la-voix-des-louves-par-typhanie-de-loovya/id1896895085?uo=2",
       "trackId": 1896895085,
       "rating": 5.0,
-      "ratingCount": 8,
+      "ratingCount": 27,
       "episodeCount": null
     }
   },
@@ -26,7 +26,7 @@
     "histoire"
   ],
   "addedAt": "2026-06-12",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "27 | L'histoire de Jennifer : Une maman entrepreneuse Loovya",
@@ -60,5 +60,31 @@
     }
   ],
   "derniere_activite": "2026-11-24",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Minachacha31",
+        "titre": "Merci",
+        "texte": "Merci Typhanie pour tes podcasts et tout ce que tu nous partages, cela motive et montre que nous pouvons être des mamans et nous épanouir professionnellement tout en assumant notre rôle de maman.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Zaphael11",
+        "titre": "Quelle découverte !",
+        "texte": "J'ai découvert Typhanie avec lyla_signes que j'utilise au quotidien avec ma fille (depuis 2 jours elle signe aussi 🤩)et maintenant avec son podcast. Très inspirant d'autant plus que je suis en pleine reconversion pour ouvrir mon entreprise."
+      },
+      {
+        "note": 5,
+        "auteur": "Jucldr",
+        "titre": "Motivation ++",
+        "texte": "Ce que j’apprécie beaucoup dans le podcast de Typhanie, c’est qu’il y a toujours des exemples clairs et concrets pour comprendre et s’approprier ses cheminements. C’est hyper motivant ! Tous comme les témoignages d’ailleurs."
+      }
+    ]
+  }
 }

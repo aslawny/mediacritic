@@ -24,29 +24,39 @@
     "gastronomie",
     "cuisine"
   ],
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
+      "titre": "#61 ET POURQUOI PAS ? X ANNE-ELISABETH",
+      "date": "2026-11-15",
+      "audio": "https://anchor.fm/s/102535b58/podcast/play/129042024/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-8%2F199f2be3-6fbe-edbf-1b70-115c22c55541.mp3",
+      "duree": 9432
+    },
+    {
       "titre": "#60 LE TEMPS OU LE LIEU ?",
-      "date": "2026-11-01"
+      "date": "2026-11-01",
+      "audio": "https://anchor.fm/s/102535b58/podcast/play/128563216/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-1%2Fdd1359d6-3746-f4c0-337e-665ae0809d4e.mp3",
+      "duree": 3955
     },
     {
       "titre": "#59 GRAPPES DE MERDE ?",
-      "date": "2026-10-18"
+      "date": "2026-10-18",
+      "audio": "https://anchor.fm/s/102535b58/podcast/play/127518552/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2Fb9f4795a-1a08-8002-0e90-a4279e669de6.mp3",
+      "duree": 4465
     },
     {
       "titre": "#58 CHOISIT-ON VRAIMENT SON VIN ?",
-      "date": "2026-10-04"
+      "date": "2026-10-04",
+      "audio": "https://anchor.fm/s/102535b58/podcast/play/126789045/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-4%2F008b9a79-444a-4ade-e5d1-229ad0ec80f2.mp3",
+      "duree": 3196
     },
     {
       "titre": "#57 DIÉTHYLÈNE-VELTLINER",
-      "date": "2026-09-20"
-    },
-    {
-      "titre": "#56 OÙ SONT LES POULARDES DU PÉRIGORD ?",
-      "date": "2026-09-06"
+      "date": "2026-09-20",
+      "audio": "https://anchor.fm/s/102535b58/podcast/play/126037984/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-4%2Fe3f13bf1-d292-632d-190c-44694e5a1c94.mp3",
+      "duree": 2804
     }
   ],
-  "derniere_activite": "2026-11-01",
+  "derniere_activite": "2026-11-15",
   "frequence_jours": 13
 }

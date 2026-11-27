@@ -27,19 +27,27 @@
   "episodes_recents": [
     {
       "titre": "Épisode Bonus",
-      "date": "2022-09-07"
+      "date": "2022-09-07",
+      "audio": "https://api.octopus.saooti.com/podcast/download/65466.mp3?origin=rss",
+      "duree": 156
     },
     {
       "titre": "Épisode 3 - Enfants & Parents",
-      "date": "2022-09-07"
+      "date": "2022-09-07",
+      "audio": "https://api.octopus.saooti.com/podcast/download/65465.mp3?origin=rss",
+      "duree": 194
     },
     {
       "titre": "Épisode 2 - Intervenants",
-      "date": "2022-09-07"
+      "date": "2022-09-07",
+      "audio": "https://api.octopus.saooti.com/podcast/download/65464.mp3?origin=rss",
+      "duree": 368
     },
     {
       "titre": "Épisode 1 - L'Organisation",
-      "date": "2022-09-07"
+      "date": "2022-09-07",
+      "audio": "https://api.octopus.saooti.com/podcast/download/65460.mp3?origin=rss",
+      "duree": 400
     }
   ],
   "derniere_activite": "2022-09-07",

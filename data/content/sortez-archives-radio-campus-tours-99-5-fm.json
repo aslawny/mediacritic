@@ -24,27 +24,35 @@
     "sciences"
   ],
   "addedAt": "2026-06-06",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "Sortez ! – La Compagnie du Coin",
-      "date": "2026-03-31"
+      "date": "2026-03-31",
+      "audio": "http://www.radiocampustours.com/media/podcast/sortez/Sortez!_20260326_CieDuCOin.mp3"
     },
     {
       "titre": "Sortez ! – Super Flux",
-      "date": "2026-03-26"
+      "date": "2026-03-26",
+      "audio": "http://www.radiocampustours.com/media/podcast/sortez/Sortez!_20260325_Superflux.mp3",
+      "duree": 3905
     },
     {
       "titre": "Sortez ! – Daudine",
-      "date": "2026-03-26"
+      "date": "2026-03-26",
+      "audio": "http://www.radiocampustours.com/media/podcast/sortez/Sortez!_20260324_Daudine.mp3"
     },
     {
       "titre": "SORTEZ ! – Bruissements d’elles et Crous Culture",
-      "date": "2026-03-25"
+      "date": "2026-03-25",
+      "audio": "http://www.radiocampustours.com/media/podcast/sortez/Sortez!bruissementdelles_Crous.mp3",
+      "duree": 3539
     },
     {
       "titre": "SORTEZ ! – ARSET et ÉCO CROUS",
-      "date": "2026-03-20"
+      "date": "2026-03-20",
+      "audio": "http://www.radiocampustours.com/media/podcast/sortez/Sortez!_20260319_ARSETecocroussito.mp3",
+      "duree": 3553
     }
   ],
   "derniere_activite": "2026-03-31",

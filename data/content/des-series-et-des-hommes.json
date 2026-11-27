@@ -25,7 +25,7 @@
     "series"
   ],
   "addedAt": "2026-07-18",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "Emission [6.01] – Retour sur le dénouement controversé de Game of Thrones",
@@ -59,5 +59,27 @@
     }
   ],
   "derniere_activite": "2019-05-27",
-  "frequence_jours": 28
+  "frequence_jours": 28,
+  "avis_publics": {
+    "epuise": true,
+    "releve": "2026-11-27",
+    "sources_tentees": [
+      "apple:fr/mosthelpful",
+      "apple:fr/mostrecent",
+      "apple:be/mosthelpful",
+      "apple:be/mostrecent",
+      "apple:ch/mosthelpful",
+      "apple:ch/mostrecent",
+      "apple:ca/mosthelpful",
+      "apple:ca/mostrecent",
+      "apple:lu/mosthelpful",
+      "apple:lu/mostrecent",
+      "apple:gb/mosthelpful",
+      "apple:gb/mostrecent",
+      "apple:us/mosthelpful",
+      "apple:us/mostrecent",
+      "apple:mc/mosthelpful",
+      "apple:mc/mostrecent"
+    ]
+  }
 }

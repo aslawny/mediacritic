@@ -27,7 +27,7 @@
     "culture"
   ],
   "addedAt": "2026-06-03",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "REDIFFUSION - Comment est-elle devenue danseuse pour Madonna ? avec Emilie Capel",
@@ -63,25 +63,29 @@
   "derniere_activite": "2026-11-22",
   "frequence_jours": 2,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-28",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "LalyNavy",
+        "titre": "LE podcast pour évoluer dans la danse",
+        "texte": "J'ai enfin trouvé le podcast dont j'avais besoin concernant la danse. Bien qu'amatrice, la danse est pour moi très importante, et ce podcast m'aide bcp à évoluer dans ce que j'aime. C'est aussi très enrichissant sur le monde autour de cet art magnifique. J'aime bcp.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Nao_meek",
+        "titre": "Inspirant ! ✨",
+        "texte": "Passionnée par la danse depuis des années, ce podcast me permet d’en apprendre toujours plus, de connaître des nouveaux styles, des nouveaux danseurs, chorégraphe ou toutes personnes passionnés de danse …"
+      },
+      {
+        "note": 5,
+        "auteur": "Joh_la_nana",
+        "titre": "♥️",
+        "texte": "Merci pour ces épisodes toujours plus passionnants les uns des autres. Merci aussi de donner cette vitrine et cette visibilité aux différentes disciplines qui gravitent autour de la danse. Bravo Maïwenn d’être aussi investie auprès de chaque invité.…"
+      }
     ]
   }
 }

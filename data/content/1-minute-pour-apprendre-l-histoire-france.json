@@ -27,23 +27,33 @@
   "episodes_recents": [
     {
       "titre": "La Gaule avant Rome",
-      "date": "2025-12-31"
+      "date": "2025-12-31",
+      "audio": "https://cdn.1minhistoire.fr/S001/podcast/S01-E01.mp3",
+      "duree": 60
     },
     {
       "titre": "Jules César - conquête de la Gaule",
-      "date": "2025-12-31"
+      "date": "2025-12-31",
+      "audio": "https://cdn.1minhistoire.fr/S001/podcast/S01-E02.mp3",
+      "duree": 60
     },
     {
       "titre": "La bataille d'Alésia",
-      "date": "2025-12-31"
+      "date": "2025-12-31",
+      "audio": "https://cdn.1minhistoire.fr/S001/podcast/S01-E03.mp3",
+      "duree": 60
     },
     {
       "titre": "La Gaule romaine",
-      "date": "2025-12-31"
+      "date": "2025-12-31",
+      "audio": "https://cdn.1minhistoire.fr/S001/podcast/S01-E04.mp3",
+      "duree": 60
     },
     {
       "titre": "Chute de Rome",
-      "date": "2025-12-31"
+      "date": "2025-12-31",
+      "audio": "https://cdn.1minhistoire.fr/S001/podcast/S01-E05.mp3",
+      "duree": 60
     }
   ],
   "derniere_activite": "2025-12-31",

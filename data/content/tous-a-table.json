@@ -25,29 +25,39 @@
     "cuisine"
   ],
   "addedAt": "2026-05-23",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
+      "titre": "Tous à table – Émission du 26/11/2026",
+      "date": "2026-11-26",
+      "audio": "https://op3.dev/e/https://www.graffitiradio.fr/podcasts/2026-11-26-11-00.mp3",
+      "duree": 1803
+    },
+    {
+      "titre": "Tous à table – Émission du 19/11/2026",
+      "date": "2026-11-19",
+      "audio": "https://op3.dev/e/https://www.graffitiradio.fr/podcasts/2026-11-19-11-00.mp3",
+      "duree": 1607
+    },
+    {
       "titre": "Tous à table – Émission du 12/11/2026",
-      "date": "2026-11-12"
+      "date": "2026-11-12",
+      "audio": "https://op3.dev/e/https://www.graffitiradio.fr/podcasts/2026-11-12-11-00.mp3",
+      "duree": 1644
     },
     {
       "titre": "Tous à table – Émission du 05/11/2026",
-      "date": "2026-11-05"
+      "date": "2026-11-05",
+      "audio": "https://op3.dev/e/https://www.graffitiradio.fr/podcasts/2026-11-05-11-00.mp3",
+      "duree": 1648
     },
     {
       "titre": "Tous à table – Émission du 29/10/2026",
-      "date": "2026-10-29"
-    },
-    {
-      "titre": "Tous à table – Émission du 22/10/2026",
-      "date": "2026-10-22"
-    },
-    {
-      "titre": "Tous à table – Émission du 15/10/2026",
-      "date": "2026-10-15"
+      "date": "2026-10-29",
+      "audio": "https://op3.dev/e/https://www.graffitiradio.fr/podcasts/2026-10-29-11-00.mp3",
+      "duree": 1587
     }
   ],
-  "derniere_activite": "2026-11-12",
+  "derniere_activite": "2026-11-26",
   "frequence_jours": 7
 }

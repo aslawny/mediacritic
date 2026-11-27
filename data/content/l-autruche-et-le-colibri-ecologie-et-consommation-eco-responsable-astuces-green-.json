@@ -27,7 +27,7 @@
     "sciences"
   ],
   "addedAt": "2026-05-25",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
       "titre": "IA et écologie : quel est l’impact réel de l’intelligence artificielle sur la planète ?",
@@ -63,25 +63,29 @@
   "derniere_activite": "2026-11-19",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-28",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-27",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "cha-boat",
+        "titre": "Super, on adore!",
+        "texte": "C’est top d’être guidé par Delphine dans des choix raisonnés. Certains sujets évoqués n’avait pas encore trop d’importance pour moi, petit à petit l’oiseau fait mon nid, et chacun fait sa part! Le podcast est bien fait, ludique et sympathique. Le petit bonheur à chaque sortie"
+      },
+      {
+        "note": 5,
+        "auteur": "MagSim76",
+        "titre": "Episode 8 très éclairant !",
+        "texte": "Merci Delphine, j’ai adoré l’épisode 8 Sur le fil - partie 1, une sacrée claque … merci de nous faire prendre conscience simplement de l’impact de nos gestes du quotidien. Je ne vois plus mon armoire pareil …! Hâte d’écouter la partie 2 :) !"
+      },
+      {
+        "note": 5,
+        "auteur": "Airolec",
+        "titre": "Les bons choix dans la bonne humeur !",
+        "texte": "Un podcast très bien documenté, qui permet de guider les choix de chacun sans être donneur de leçon ! De bonnes références, à découvrir ou à garder en mémoire pour les prochains achats . Merci et vivement les prochains épisodes!"
+      }
     ]
   }
 }
