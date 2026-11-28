@@ -27,23 +27,33 @@
   "episodes_recents": [
     {
       "titre": "Nouvelles tendances alimentaires: le flexitarisme.",
-      "date": "2019-05-30"
+      "date": "2019-05-30",
+      "audio": "https://api.spreaker.com/download/episode/18121753/nouvelles_tendances_alimentaires_le_flexitarisme.mp3",
+      "duree": 182
     },
     {
       "titre": "Cartes et menus, en Italie et en France.",
-      "date": "2019-05-20"
+      "date": "2019-05-20",
+      "audio": "https://api.spreaker.com/download/episode/18022427/menus_et_cartes.mp3",
+      "duree": 237
     },
     {
       "titre": "Gastronomie et cuisine moléculaires",
-      "date": "2019-05-17"
+      "date": "2019-05-17",
+      "audio": "https://api.spreaker.com/download/episode/18002061/gastronomie_et_cuisine_mol_culaires.mp3",
+      "duree": 190
     },
     {
       "titre": "Le tourisme gastronomique, c'est quoi?",
-      "date": "2019-05-17"
+      "date": "2019-05-17",
+      "audio": "https://api.spreaker.com/download/episode/17986327/le_tourisme_gastronomique_c_est_quoi.mp3",
+      "duree": 287
     },
     {
       "titre": "La bistronomie",
-      "date": "2019-05-16"
+      "date": "2019-05-16",
+      "audio": "https://api.spreaker.com/download/episode/17944850/la_bistronomie.mp3",
+      "duree": 185
     }
   ],
   "derniere_activite": "2019-05-30",

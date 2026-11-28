@@ -28,26 +28,36 @@
   "updatedAt": "2026-08-29",
   "episodes_recents": [
     {
+      "titre": "Il part à La Réunion avec des inconnus (épisode bonus)",
+      "date": "2026-11-23",
+      "audio": "https://sphinx.acast.com/p/open/s/69c50e5bf4bf09c599717c01/e/6b041960e42fe26dd9e537ff/media.mp3",
+      "duree": 1423
+    },
+    {
       "titre": "18 000 km en auto-stop",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "audio": "https://sphinx.acast.com/p/open/s/69c50e5bf4bf09c599717c01/e/6a67bc32f14e2f7d7509dde4/media.mp3",
+      "duree": 3049
     },
     {
       "titre": "130 000 km, 30 pays : le récit incroyable d’un homme qui a tout plaqué",
-      "date": "2026-06-10"
+      "date": "2026-06-10",
+      "audio": "https://sphinx.acast.com/p/open/s/69c50e5bf4bf09c599717c01/e/6a2929c36642088a10ff8ea6/media.mp3",
+      "duree": 2130
     },
     {
       "titre": "Un tour de l'Amérique en moto et en solo",
-      "date": "2026-04-23"
+      "date": "2026-04-23",
+      "audio": "https://sphinx.acast.com/p/open/s/69c50e5bf4bf09c599717c01/e/69c5132ab991732771556a20/media.mp3",
+      "duree": 982
     },
     {
       "titre": "Un tour du monde en van en couple pour Angelika et Julien",
-      "date": "2026-04-09"
-    },
-    {
-      "titre": "Un tour de France en voiture",
-      "date": "2026-03-26"
+      "date": "2026-04-09",
+      "audio": "https://sphinx.acast.com/p/open/s/69c50e5bf4bf09c599717c01/e/69c512b1b991732771551c01/media.mp3",
+      "duree": 2529
     }
   ],
-  "derniere_activite": "2026-07-27",
-  "frequence_jours": 13
+  "derniere_activite": "2026-11-23",
+  "frequence_jours": 14
 }

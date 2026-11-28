@@ -29,23 +29,33 @@
   "episodes_recents": [
     {
       "titre": "The Cloud Show Podcast #HS06 | Du DBA au Cloud Architect avec Eric DUQUESNOY",
-      "date": "2026-10-07"
+      "date": "2026-10-07",
+      "audio": "https://anchor.fm/s/10ce010fc/podcast/play/127042149/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-7%2F433606986-44100-2-96577700992a.mp3",
+      "duree": 7459
     },
     {
       "titre": "The Cloud Show Podcast #HS05 De Data Scientist à Expert en Cyber de l'IA avec Fabien CELLIER",
-      "date": "2026-09-14"
+      "date": "2026-09-14",
+      "audio": "https://anchor.fm/s/10ce010fc/podcast/play/125704876/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-14%2F431848357-44100-2-fbbf4b457b144.mp3",
+      "duree": 3920
     },
     {
       "titre": "The Cloud Show Podcast #S1E12 | Le Cloud sans règles : pourquoi ça finit toujours mal",
-      "date": "2026-09-03"
+      "date": "2026-09-03",
+      "audio": "https://anchor.fm/s/10ce010fc/podcast/play/125136975/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-3%2F431091203-44100-2-9994bf2c786e9.mp3",
+      "duree": 1793
     },
     {
       "titre": "The Cloud Show Podcast #S1E11 | Infrastructure as Code",
-      "date": "2026-08-31"
+      "date": "2026-08-31",
+      "audio": "https://anchor.fm/s/10ce010fc/podcast/play/124968461/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-31%2F430864767-44100-2-628c1e30f7afa.mp3",
+      "duree": 1091
     },
     {
       "titre": "The Cloud Show Podcast #S1E10 | Les bases de données dans le Cloud",
-      "date": "2026-08-31"
+      "date": "2026-08-31",
+      "audio": "https://anchor.fm/s/10ce010fc/podcast/play/124968425/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-31%2F430864706-44100-2-fc7a09aa51a96.mp3",
+      "duree": 709
     }
   ],
   "derniere_activite": "2026-10-07",

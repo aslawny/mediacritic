@@ -29,23 +29,33 @@
   "episodes_recents": [
     {
       "titre": "LA LÉGENDE DE PYRÈNE ET HERCULE",
-      "date": "2023-11-17"
+      "date": "2023-11-17",
+      "audio": "https://api.octopus.saooti.com/podcast/download/402223.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 265
     },
     {
       "titre": "L'HISTOIRE DES BORNES FRONTIÈRES DES PYRÉNÉES",
-      "date": "2023-06-07"
+      "date": "2023-06-07",
+      "audio": "https://api.octopus.saooti.com/podcast/download/243441.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 495
     },
     {
       "titre": "LE BOIS DES PYRÉNÉES POUR LA MARINE ROYALE DE LOUIS XIV",
-      "date": "2023-05-12"
+      "date": "2023-05-12",
+      "audio": "https://api.octopus.saooti.com/podcast/download/220027.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 296
     },
     {
       "titre": "HISTOIRE DE LA CONTREBANDE DANS LES PYRENEES",
-      "date": "2023-04-14"
+      "date": "2023-04-14",
+      "audio": "https://api.octopus.saooti.com/podcast/download/189099.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 291
     },
     {
       "titre": "Une histoire d'amour déterminante dans le traité des Pyrénées",
-      "date": "2023-03-15"
+      "date": "2023-03-15",
+      "audio": "https://api.octopus.saooti.com/podcast/download/164350.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 291
     }
   ],
   "derniere_activite": "2023-11-17",

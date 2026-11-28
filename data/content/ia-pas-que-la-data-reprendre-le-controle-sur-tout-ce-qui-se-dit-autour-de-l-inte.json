@@ -50,5 +50,31 @@
     }
   ],
   "derniere_activite": "2026-07-02",
-  "frequence_jours": 14
+  "frequence_jours": 14,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-28",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "@remicastaing",
+        "titre": "#27 - Les mille vies de Stéphanie Allassonnière: alliance entre mathématique, IA et santé",
+        "texte": "⭐️⭐️⭐️⭐️⭐️ J’ai été captivé par cet entretien avec Stéphanie Allassonnière, cofondatrice de Sonio et directrice adjointe de l’Institut Prairie. Elle y raconte son parcours singulier de mathématicienne ayant choisi de mettre la science au service du soin.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Rémi-Pierre",
+        "titre": "Un podcast d’utilité publique !",
+        "texte": "Un tour de l’actualité toujours pertinent pour rester au contact des informations clés sur ce domaine en constante évolution. Le décryptage des termes et tendances du secteur permet à chacun de mieux comprendre les enjeux.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Nannedu34",
+        "titre": "Un podcast Passionnant",
+        "texte": "Un podcast passionnant. Une très bonne dynamique, avec des échanges naturels mais une trame de questions toujours bien conçue. Bravo !"
+      }
+    ]
+  }
 }

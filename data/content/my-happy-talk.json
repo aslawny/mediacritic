@@ -31,11 +31,15 @@
   "episodes_recents": [
     {
       "titre": "Episode 2 - Gilles Legardinier : \"Mon bureau est rempli de jouets\"",
-      "date": "2026-01-20"
+      "date": "2026-01-20",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2462395.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 977
     },
     {
       "titre": "Episode 1 - Alexandre Dana : « Je suis certain que mon burn-out était lié à mon rythme de vie sédentaire »",
-      "date": "2025-11-13"
+      "date": "2025-11-13",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1874436.mp3?origin=rss&slug=itunes.apple.com",
+      "duree": 1411
     }
   ],
   "derniere_activite": "2026-01-20"

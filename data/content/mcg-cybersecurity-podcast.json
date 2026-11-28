@@ -29,23 +29,33 @@
   "episodes_recents": [
     {
       "titre": "MCG Podcast - Épisode 10 - Gestion des risques : regards croisés entre la cybersécurité et le monde de l'aviat",
-      "date": "2026-10-19"
+      "date": "2026-10-19",
+      "audio": "https://mcdn.podbean.com/mf/web/7yxr2d2pim7fi9b8/MCG-Podcast-Pilote-Audio.mp3",
+      "duree": 2428
     },
     {
       "titre": "MCG Podcast - Épisode 9 - M&A et cybersécurité : pourquoi investir en cybersécurité est devenu indispensable -",
-      "date": "2025-09-29"
+      "date": "2025-09-29",
+      "audio": "https://mcdn.podbean.com/mf/web/nqt8jhtz374vf6jh/MCG-Podcast-MA.mp3",
+      "duree": 2412
     },
     {
       "titre": "MCG Podcast - Épisode 8 - Cybersécurité & automatisation IA : quels risques pour les entreprises ? - Eric Dela",
-      "date": "2025-07-14"
+      "date": "2025-07-14",
+      "audio": "https://mcdn.podbean.com/mf/web/392idruvpns4kyk8/MCG-Podcast-IA.mp3",
+      "duree": 2302
     },
     {
       "titre": "MCG Podcast - Épisode 7 - Penser la cybersécurité à l’échelle d’un territoire - Gilles Mahieu et Grégorio Mati",
-      "date": "2025-07-14"
+      "date": "2025-07-14",
+      "audio": "https://mcdn.podbean.com/mf/web/r3697fs4zpgku66v/MCG-Podcast-GouverneurBW.mp3",
+      "duree": 1926
     },
     {
       "titre": "MCG Podcast - Épisode 6 - La cybersécurité : NIS2 et la Responsabilité des Administrateurs - Grégorio Matias e",
-      "date": "2024-07-22"
+      "date": "2024-07-22",
+      "audio": "https://mcdn.podbean.com/mf/web/s9mem8kshqqnkmu5/MCG-Podcast-6-V1-Nis2-Administrateurs-v2.mp3",
+      "duree": 1810
     }
   ],
   "derniere_activite": "2026-10-19",

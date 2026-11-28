@@ -59,5 +59,31 @@
     }
   ],
   "derniere_activite": "2026-11-04",
-  "frequence_jours": 34
+  "frequence_jours": 34,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mostrecent",
+    "releve": "2026-11-28",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "No se falta",
+        "titre": "Super",
+        "texte": "Un super podcast ciné. Tous les animateurs parlent dans un très bon français (ça peut paraitre idiot mais si vois écoutez d’autres podcasts de ciné français, vous comprenez ce que je veux dire je pense).…"
+      },
+      {
+        "note": 5,
+        "auteur": "charles_thomas",
+        "titre": "Je recommande vivement",
+        "texte": "Podcast à recommander à tous les cinéphiles. Vous donner envie de découvrir ou redécouvrir des œuvres cinématographiques. La qualité des analyses n’a rien à envier au critiques journalistiques. Bravo!"
+      },
+      {
+        "note": 5,
+        "auteur": "Kamil67250",
+        "titre": "Excellent",
+        "texte": "Très bon podcast ! Les intervenants sont sympa les analyses pertinentes. Bravo"
+      }
+    ]
+  }
 }

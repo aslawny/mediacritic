@@ -32,26 +32,36 @@
   "updatedAt": "2026-11-17",
   "episodes_recents": [
     {
+      "titre": "Erotique's Evolution and Art",
+      "date": "2026-11-23",
+      "audio": "https://api.riverside.com/hosting-analytics/media/d92555fba4586beac8e583c27a951cb423df67dc0de0c7a045ed5254e5486026/eyJlcGlzb2RlSWQiOiIwMTBmZWJjNS0yZTdjLTRiZTItYWRkNS0yMGNiYWZmOTUyNjkiLCJwb2RjYXN0SWQiOiJjMjIyNWM0Mi1iODg3LTQ1ODEtYjM2Zi0yMTNiYWE2ZTE1ZDciLCJhY2NvdW50SWQiOiI2OGYwOTMyYTY4NTEyNzRlOWUxMzZjYjQiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmIwMjQ5MzMzNmZhNTZkMGMwYjJkNjhhL2JpbGx5cy1zdHVkaW8tTHVQb0UtMjAyNi0xMS0yM19fNC0zNC0zMy5tcDMifQ==.mp3",
+      "duree": 968
+    },
+    {
       "titre": "Two Tales and a Conversational Coddiwomple",
-      "date": "2026-11-16"
+      "date": "2026-11-16",
+      "audio": "https://api.riverside.com/hosting-analytics/media/85fd5dade6e1ce5594f5c2655a72a0f1a44ac5ad4a6ba45800b126c943619b09/eyJlcGlzb2RlSWQiOiJlZDg0OTQwMC03ZTJjLTQzMmUtOWZiZi1lNDZjMjJiZDU1YTAiLCJwb2RjYXN0SWQiOiJjMjIyNWM0Mi1iODg3LTQ1ODEtYjM2Zi0yMTNiYWE2ZTE1ZDciLCJhY2NvdW50SWQiOiI2OGYwOTMyYTY4NTEyNzRlOWUxMzZjYjQiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFmN2EwNTg1NTllYjc1MzY3NzY3YzM0L2JpbGx5cy1zdHVkaW8tTHVQb0UtMjAyNi0xMS0xNV9fMy0zMi0yNi5tcDMifQ==.mp3",
+      "duree": 1858
     },
     {
       "titre": "The Return of The Billy!",
-      "date": "2026-11-09"
+      "date": "2026-11-09",
+      "audio": "https://api.riverside.com/hosting-analytics/media/35a86a13b55ff836adf15ad119ce68c319a6a19730e12b74440ef51c996550ea/eyJlcGlzb2RlSWQiOiJhZTFmODExOS1mZWUzLTQ4NTItOGIzNC00NWNiZDRkMmFlZTciLCJwb2RjYXN0SWQiOiJjMjIyNWM0Mi1iODg3LTQ1ODEtYjM2Zi0yMTNiYWE2ZTE1ZDciLCJhY2NvdW50SWQiOiI2OGYwOTMyYTY4NTEyNzRlOWUxMzZjYjQiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFlZTdkM2U0ODBmNjRhYjRjZWRlZmFmL2JpbGx5cy1zdHVkaW8tTHVQb0UtMjAyNi0xMS03X18zLTI1LTMxLm1wMyJ9.mp3",
+      "duree": 1301
     },
     {
       "titre": "Hope, Reality, and Research",
-      "date": "2026-11-02"
+      "date": "2026-11-02",
+      "audio": "https://api.riverside.com/hosting-analytics/media/2cbf90084cf6a2c84a11f4775d3c924e0ebde17502d02db31da15db85140b980/eyJlcGlzb2RlSWQiOiJjN2E4OGI4Ny01MWY1LTQxMzMtYTJhZi01YWI0M2NkMDc4MmUiLCJwb2RjYXN0SWQiOiJjMjIyNWM0Mi1iODg3LTQ1ODEtYjM2Zi0yMTNiYWE2ZTE1ZDciLCJhY2NvdW50SWQiOiI2OGYwOTMyYTY4NTEyNzRlOWUxMzZjYjQiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFlNzVhZmQwMTU0YmEzMzZjMjUyNzZkL2JpbGx5cy1zdHVkaW8tTHVQb0UtMjAyNi0xMS0xX18xNS01OC00MC5tcDMifQ==.mp3",
+      "duree": 633
     },
     {
       "titre": "Post-Surgical Two Week Check-Up",
-      "date": "2026-10-26"
-    },
-    {
-      "titre": "Post Operation Notes",
-      "date": "2026-10-19"
+      "date": "2026-10-26",
+      "audio": "https://api.riverside.com/hosting-analytics/media/60db9eb422612c43c135b2ad79b707d3c61cdb0cf53285f6088def87ed0d1747/eyJlcGlzb2RlSWQiOiIzNmUwZjkyNS1kMWQzLTQ4YzEtOWE1Yy03MWVhNDRlNDJkZTUiLCJwb2RjYXN0SWQiOiJjMjIyNWM0Mi1iODg3LTQ1ODEtYjM2Zi0yMTNiYWE2ZTE1ZDciLCJhY2NvdW50SWQiOiI2OGYwOTMyYTY4NTEyNzRlOWUxMzZjYjQiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFkZTdmM2JhYjU4YTc4MWNlMzQ1NTZmL2JpbGx5cy1zdHVkaW8tTHVQb0UtMjAyNi0xMC0yNV9fMjItMzUtNDkubXAzIn0=.mp3",
+      "duree": 689
     }
   ],
-  "derniere_activite": "2026-11-16",
+  "derniere_activite": "2026-11-23",
   "frequence_jours": 7
 }

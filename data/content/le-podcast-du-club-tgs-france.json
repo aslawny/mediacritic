@@ -29,23 +29,33 @@
   "episodes_recents": [
     {
       "titre": "Stratégie et IA : vers une nouvelle ère du pilotage en entreprise",
-      "date": "2025-06-24"
+      "date": "2025-06-24",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1532253.mp3?origin=rss",
+      "duree": 1021
     },
     {
       "titre": "Data & IA : comment allier performance et sécurité ?",
-      "date": "2025-06-03"
+      "date": "2025-06-03",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1470850.mp3?origin=rss",
+      "duree": 971
     },
     {
       "titre": "Réinventer la communication avec l'IA : le défi d'Anne Kerdi",
-      "date": "2025-05-15"
+      "date": "2025-05-15",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1439879.mp3?origin=rss",
+      "duree": 1020
     },
     {
       "titre": "L'IA en entreprise : que dit la loi ?",
-      "date": "2025-04-14"
+      "date": "2025-04-14",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1357139.mp3?origin=rss",
+      "duree": 958
     },
     {
       "titre": "L'IA au service des RH : automatiser sans déshumaniser",
-      "date": "2025-03-25"
+      "date": "2025-03-25",
+      "audio": "https://api.octopus.saooti.com/podcast/download/1294767.mp3?origin=rss",
+      "duree": 964
     }
   ],
   "derniere_activite": "2025-06-24",

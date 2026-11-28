@@ -28,26 +28,36 @@
   "updatedAt": "2026-05-20",
   "episodes_recents": [
     {
+      "titre": "SQLite Is Just a File: Porting Litestream to Node.js",
+      "date": "2026-11-25",
+      "audio": "https://anchor.fm/s/10623bd40/podcast/play/129767068/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F437165967-44100-2-44154a19b2a4c8.mp3",
+      "duree": 1801
+    },
+    {
+      "titre": "One Agent Is Easy. Ten Is a Management Problem",
+      "date": "2026-11-18",
+      "audio": "https://anchor.fm/s/10623bd40/podcast/play/129575746/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-16%2F436908657-44100-2-68c0f28595a79.mp3",
+      "duree": 2867
+    },
+    {
       "titre": "Dependencies Are Not the Problem",
-      "date": "2026-11-11"
+      "date": "2026-11-11",
+      "audio": "https://anchor.fm/s/10623bd40/podcast/play/129204669/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-10%2F436416680-44100-2-0fbcf5c1e28218.mp3",
+      "duree": 1963
     },
     {
       "titre": "From OpenAPI to AI Agent: Building a Production MCP Server, End to End (with Roberto Bianchi)",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "audio": "https://anchor.fm/s/10623bd40/podcast/play/128706667/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-3%2F435785273-44100-2-1040c6b8f4f79.mp3",
+      "duree": 2113
     },
     {
       "titre": "What Deno Gave Node.js",
-      "date": "2026-10-28"
-    },
-    {
-      "titre": "No, we should not distribute TypeScript files",
-      "date": "2026-10-21"
-    },
-    {
-      "titre": "NodeConf EU Came Back. Nobody Mentioned AI.",
-      "date": "2026-10-14"
+      "date": "2026-10-28",
+      "audio": "https://anchor.fm/s/10623bd40/podcast/play/127902603/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2F434751469-44100-2-9291d483ba8c2.mp3",
+      "duree": 1652
     }
   ],
-  "derniere_activite": "2026-11-11",
+  "derniere_activite": "2026-11-25",
   "frequence_jours": 7
 }

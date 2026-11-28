@@ -61,25 +61,29 @@
   "derniere_activite": "2026-11-17",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-29",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-28",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "isarenard",
+        "titre": "Une pépite !",
+        "texte": "Le management semble si simple avec Elodie 🥰 Ces podcasts nous aident à comprendre et à passer à l’action grâce à des outils concrets qu’elle nous sert sur un plateau ! Et si vous cherchez une formation complète sur le management, c’est Manager 360 qu’il vous faut …"
+      },
+      {
+        "note": 5,
+        "auteur": "Chr!s73",
+        "titre": "Le podcast qui réconcilie avec le management",
+        "texte": "Dans son podcast Elodie promet pas de théorie mais du concret. La promesse est clairement tenue . Des idées, des actions faciles à mettte en place pour améliorer la relation avec ses équipes. Pour ceux qui souhaite aller plus loin je recommande sa formation en ligne M360.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Briguitt",
+        "titre": "Enfin du concret / pragmatique / sans blabla :)",
+        "texte": "Merci pour ces épisodes riches / constructifs et plein de ressources de conseils et outils, pour avancer, continuer d'apprendre en faisant, et de s'améliorer finalement un peu plus chaque jour dans la relation à l'autre / au groupe aussi plus largement, grâce à vos bonnes astuces…"
+      }
     ]
   }
 }

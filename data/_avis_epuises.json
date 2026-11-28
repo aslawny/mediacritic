@@ -1,6 +1,6 @@
 {
-  "maj": "2026-11-27",
-  "total": 1815,
+  "maj": "2026-11-28",
+  "total": 1843,
   "sources_essayees_par_fiche": 16,
   "fiches": [
     {
@@ -4460,6 +4460,12 @@
       "titre": "1h de rire avec",
       "notes_apple": 55,
       "fiche": "fiches/1h-de-rire-avec.html"
+    },
+    {
+      "slug": "faire-le-web",
+      "titre": "Faire le web",
+      "notes_apple": 55,
+      "fiche": "fiches/faire-le-web.html"
     },
     {
       "slug": "asiattitudes-identites-et-cultures-des-diasporas-asiatiques",
@@ -10892,6 +10898,168 @@
       "titre": "Histoire de la philosophie médiévale - Alain de Libera",
       "notes_apple": 12,
       "fiche": "fiches/histoire-de-la-philosophie-medievale-alain-de-libera.html"
+    },
+    {
+      "slug": "histoires-de-films",
+      "titre": "Histoires de films",
+      "notes_apple": 12,
+      "fiche": "fiches/histoires-de-films.html"
+    },
+    {
+      "slug": "humains",
+      "titre": "Humains",
+      "notes_apple": 12,
+      "fiche": "fiches/humains.html"
+    },
+    {
+      "slug": "human-coders-podcast",
+      "titre": "Human Coders Podcast",
+      "notes_apple": 12,
+      "fiche": "fiches/human-coders-podcast.html"
+    },
+    {
+      "slug": "incendiaires",
+      "titre": "Incendiaires",
+      "notes_apple": 12,
+      "fiche": "fiches/incendiaires.html"
+    },
+    {
+      "slug": "kto-radio-a-haute-voix",
+      "titre": "KTO Radio / A Haute Voix",
+      "notes_apple": 12,
+      "fiche": "fiches/kto-radio-a-haute-voix.html"
+    },
+    {
+      "slug": "ktsens",
+      "titre": "KTsens",
+      "notes_apple": 12,
+      "fiche": "fiches/ktsens.html"
+    },
+    {
+      "slug": "l-antre-l-emission-du-metal",
+      "titre": "L'Antre l'Emission du Metal",
+      "notes_apple": 12,
+      "fiche": "fiches/l-antre-l-emission-du-metal.html"
+    },
+    {
+      "slug": "la-caravane-du-jrpg",
+      "titre": "La caravane du JRPG",
+      "notes_apple": 12,
+      "fiche": "fiches/la-caravane-du-jrpg.html"
+    },
+    {
+      "slug": "la-chronique-de-metal-hurlant",
+      "titre": "La chronique de Métal Hurlant",
+      "notes_apple": 12,
+      "fiche": "fiches/la-chronique-de-metal-hurlant.html"
+    },
+    {
+      "slug": "la-guilde-francaise-des-scenaristes",
+      "titre": "La Guilde française des scénaristes",
+      "notes_apple": 12,
+      "fiche": "fiches/la-guilde-francaise-des-scenaristes.html"
+    },
+    {
+      "slug": "le-film-annuel-de-l-ih2ef",
+      "titre": "Le film annuel de l'IH2EF",
+      "notes_apple": 12,
+      "fiche": "fiches/le-film-annuel-de-l-ih2ef.html"
+    },
+    {
+      "slug": "le-journal-de-jvcom",
+      "titre": "le journal de JVCOM",
+      "notes_apple": 12,
+      "fiche": "fiches/le-journal-de-jvcom.html"
+    },
+    {
+      "slug": "le-livre-a-lire",
+      "titre": "Le livre à lire",
+      "notes_apple": 12,
+      "fiche": "fiches/le-livre-a-lire.html"
+    },
+    {
+      "slug": "le-pod-le-podcast-social-media-de-ouest-digital",
+      "titre": "Le pOD, le podcast social media de Ouest Digital",
+      "notes_apple": 12,
+      "fiche": "fiches/le-pod-le-podcast-social-media-de-ouest-digital.html"
+    },
+    {
+      "slug": "le-podcast-de-la-prod",
+      "titre": "Le Podcast de la Prod",
+      "notes_apple": 12,
+      "fiche": "fiches/le-podcast-de-la-prod.html"
+    },
+    {
+      "slug": "le-podken",
+      "titre": "Le Podken",
+      "notes_apple": 12,
+      "fiche": "fiches/le-podken.html"
+    },
+    {
+      "slug": "le-son-du-voyage",
+      "titre": "Le Son du Voyage",
+      "notes_apple": 12,
+      "fiche": "fiches/le-son-du-voyage.html"
+    },
+    {
+      "slug": "les-balades-gourmandes",
+      "titre": "Les balades gourmandes",
+      "notes_apple": 12,
+      "fiche": "fiches/les-balades-gourmandes.html"
+    },
+    {
+      "slug": "les-lyonnais-du-monde-reel",
+      "titre": "Les Lyonnais du monde réel",
+      "notes_apple": 12,
+      "fiche": "fiches/les-lyonnais-du-monde-reel.html"
+    },
+    {
+      "slug": "les-mixes-cultes-de-la-french-touch",
+      "titre": "Les mixes cultes de la French Touch",
+      "notes_apple": 12,
+      "fiche": "fiches/les-mixes-cultes-de-la-french-touch.html"
+    },
+    {
+      "slug": "les-passeurs-de-cles",
+      "titre": "LES PASSEURS DE CLÉS",
+      "notes_apple": 12,
+      "fiche": "fiches/les-passeurs-de-cles.html"
+    },
+    {
+      "slug": "letscatchup",
+      "titre": "LetsCatchup!",
+      "notes_apple": 12,
+      "fiche": "fiches/letscatchup.html"
+    },
+    {
+      "slug": "ludologies-le-podcast-du-jeu-sous-toutes-ses-formes",
+      "titre": "Ludologies, le podcast du jeu sous toutes ses formes",
+      "notes_apple": 12,
+      "fiche": "fiches/ludologies-le-podcast-du-jeu-sous-toutes-ses-formes.html"
+    },
+    {
+      "slug": "lumieres-du-quran-coran-et-traduction-francaise",
+      "titre": "Lumières du Quran – Coran et Traduction Française",
+      "notes_apple": 12,
+      "fiche": "fiches/lumieres-du-quran-coran-et-traduction-francaise.html"
+    },
+    {
+      "slug": "midi-news",
+      "titre": "Midi News",
+      "notes_apple": 12,
+      "fiche": "fiches/midi-news.html"
+    },
+    {
+      "slug": "mosaique",
+      "titre": "Mosaïque",
+      "notes_apple": 12,
+      "fiche": "fiches/mosaique.html"
+    },
+    {
+      "slug": "moustache-et-cabot-detectives-histoires-et-enquetes-pour-enfants",
+      "titre": "Moustache et Cabot, détectives — Histoires et enquêtes pour enfants",
+      "notes_apple": 12,
+      "fiche": "fiches/moustache-et-cabot-detectives-histoires-et-enquetes-pour-enfants.html"
     }
   ]
 }

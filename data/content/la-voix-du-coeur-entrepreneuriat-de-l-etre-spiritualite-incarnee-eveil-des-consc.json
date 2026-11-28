@@ -61,5 +61,31 @@
     }
   ],
   "derniere_activite": "2026-02-06",
-  "frequence_jours": 28
+  "frequence_jours": 28,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-28",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Laetidbrv",
+        "titre": "Écouterez-vous la voix de votre coeur ? 💗",
+        "texte": "J’ai eu le plaisir d’accompagner Cécile dans le lancement de son podcast La Voix du Coeur. Dans son podcast, elle nous guide avec douceur à nous reconnecter à nous-mêmes, à faire pause, à se sécuriser, à s’écouter (véritablement), à mieux se comprendre et à renouer avec la nature…"
+      },
+      {
+        "note": 5,
+        "auteur": "eklamanta",
+        "titre": "Un podcast précieux",
+        "texte": "Wha! Le podcast dont j'avais besoin est né 🤩 Merci Cécile pour ton partage sur la sécurité intérieure, c'est précieux, je vais le partager largement tant nous sommes plein à en avoir besoin 💜"
+      },
+      {
+        "note": 5,
+        "auteur": "pauline.extraordinairementmoi",
+        "titre": "🤍",
+        "texte": "Pfiou tellement merci d’avoir créé ce podcast qui rappelle et rassemble enfin les bases pures de ce chemin vers soi !"
+      }
+    ]
+  }
 }

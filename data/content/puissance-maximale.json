@@ -31,23 +31,33 @@
   "episodes_recents": [
     {
       "titre": "Puissance Nouvelles #2",
-      "date": "2021-04-21"
+      "date": "2021-04-21",
+      "audio": "https://baladoquebec.ca/media/puissance-maximale/puissance-nouvelles-2.mp3",
+      "duree": 5803
     },
     {
       "titre": "Puissance St-Patrick",
-      "date": "2021-03-17"
+      "date": "2021-03-17",
+      "audio": "https://baladoquebec.ca/media/puissance-maximale/puissance-st-patrick.mp3",
+      "duree": 4126
     },
     {
       "titre": "Puissance Valheim",
-      "date": "2021-02-24"
+      "date": "2021-02-24",
+      "audio": "https://baladoquebec.ca/media/puissance-maximale/puissance-valheim.mp3",
+      "duree": 6558
     },
     {
       "titre": "Puissance News",
-      "date": "2021-02-03"
+      "date": "2021-02-03",
+      "audio": "https://baladoquebec.ca/media/puissance-maximale/puissance-news.mp3",
+      "duree": 6263
     },
     {
       "titre": "2021-01-22 - Puissance Nano",
-      "date": "2021-01-24"
+      "date": "2021-01-24",
+      "audio": "https://baladoquebec.ca/media/puissance-maximale/2021-01-22-puissance-nano.mp3",
+      "duree": 7133
     }
   ],
   "derniere_activite": "2021-04-21",

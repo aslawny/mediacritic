@@ -25,5 +25,31 @@
     "education"
   ],
   "addedAt": "2026-07-30",
-  "updatedAt": "2026-11-27"
+  "updatedAt": "2026-11-27",
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "us",
+    "tri": "mosthelpful",
+    "releve": "2026-11-28",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "klmnhyn",
+        "titre": "Perfect Podcast for Intermediate Learners",
+        "texte": "I’ve listened to a lot of podcasts for intermediate Spanish speakers, but I just discovered this one—and it might be my favorite. Unlike others that speak too quickly or use overly specialized vocabulary, this podcast stands out for its clear, slow speech and accessible language.…"
+      },
+      {
+        "note": 5,
+        "auteur": "VeraB44",
+        "titre": "My favorite podcast to study Spanish",
+        "texte": "I’ve been listening to Hoy Hablamos Básico for about year, and now it’s my favorite podcast to help me study Spanish. The stories are clear, interesting & enjoyable, full of useful expressions & grammar, and they stick in my mind long after I listen. ¡Muchas gracias!"
+      },
+      {
+        "note": 5,
+        "auteur": "Simon Judit xxx",
+        "titre": "One of the best!",
+        "texte": "I started to listen to this to learn Spanish when I was going to go guatemala. I am back now, but I continue as the content is just as. Interesting and meaningful as the language teaching part! Highly recommend recommended to all!"
+      }
+    ]
+  }
 }

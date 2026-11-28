@@ -27,25 +27,29 @@
   "addedAt": "2026-10-29",
   "updatedAt": "2026-11-27",
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-29",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-28",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mia IDE",
+        "titre": "Super podcast, paroles d’infirmière",
+        "texte": "J’adore ce podcast que j’écoute tous les jours ! Étant infirmière, diplômé d’etat et travaillant aux urgences et en réanimation, je trouve que les informations partagées et les expériences vécues à écouter dans ce podcast sont très enrichissantes, nous apprennent beaucoup sur la…"
+      },
+      {
+        "note": 1,
+        "auteur": "potentille348",
+        "titre": "Que des rediff… La qualité du podcast s’est dégradé avec le temps",
+        "texte": "Les 1ers épisodes étaient super mais les derniers sont moins qualitatifs et il n’y a de plus en plus de rediffusions. Très décevant, le podcast est en perte de vitesse."
+      },
+      {
+        "note": 5,
+        "auteur": "LN0851",
+        "titre": "Addictif",
+        "texte": "Merci pour ces podcasts réalisés comme des enquêtes policières !! Je suis étudiante en médecine et je « dévore » vos podcasts en essayant de trouver le diagnostic …"
+      }
     ]
   },
   "episodes_recents": [

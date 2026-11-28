@@ -59,5 +59,31 @@
     }
   ],
   "derniere_activite": "2026-11-23",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "ca",
+    "tri": "mosthelpful",
+    "releve": "2026-11-28",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Mathieu Valotaire",
+        "titre": "Contenu sportif de haut niveau",
+        "texte": "Mais quel excellent podcast que j’aurais aimé connaître bien avant On touche à tout. Positionnement, matériaux de cadres, geekerie générale, attitude, marketing. J’en suis au dixième épisode et comme le nom l’indique, ce n’est jamais assez.…"
+      },
+      {
+        "note": 5,
+        "auteur": "Stephpid",
+        "titre": "Contenu de grande qualité",
+        "texte": "Podcast tellement intéressant sur tout ce qui touche au vélo, du cyclisme utilitaire à culture vélo très geek. Guillaume est un excellent animateur, sympathique et intelligent. J’en manque pas un 😁"
+      },
+      {
+        "note": 5,
+        "auteur": "Eve Blouin",
+        "titre": "Motivant, authentique, passionnant!",
+        "texte": "Excellent podcast d’un jeune entrepreneur passionné, Guillaume Coutu, fondateur de PhysioVélo, qui nous fait découvrir l’histoire de plusieurs invités tous reliés de près ou de loin à sa vision!"
+      }
+    ]
+  }
 }

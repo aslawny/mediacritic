@@ -26,26 +26,36 @@
   "updatedAt": "2026-05-03",
   "episodes_recents": [
     {
-      "titre": "L'info du nord du Lot du 14/11/26 à 12h30",
-      "date": "2026-11-14"
+      "titre": "L'info du nord du Lot du 27/11/26 à 19h00",
+      "date": "2026-11-27",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3137512.mp3?origin=rss",
+      "duree": 224
     },
     {
-      "titre": "L'info du nord du Lot du 14/11/26 à 12h00",
-      "date": "2026-11-14"
+      "titre": "L'info du nord du Lot du 27/11/26 à 18h00",
+      "date": "2026-11-27",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3136938.mp3?origin=rss",
+      "duree": 224
     },
     {
-      "titre": "L'info du nord du Lot du 14/11/26 à 08h30",
-      "date": "2026-11-14"
+      "titre": "L'info du nord du Lot du 27/11/26 à 12h30",
+      "date": "2026-11-27",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3134179.mp3?origin=rss",
+      "duree": 453
     },
     {
-      "titre": "L'info du nord du Lot du 14/11/26 à 07h59",
-      "date": "2026-11-14"
+      "titre": "L'info du nord du Lot du 27/11/26 à 12h00",
+      "date": "2026-11-27",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3133607.mp3?origin=rss",
+      "duree": 419
     },
     {
-      "titre": "L'info du nord du Lot du 14/11/26 à 07h30",
-      "date": "2026-11-14"
+      "titre": "L'info du nord du Lot du 27/11/26 à 08h29",
+      "date": "2026-11-27",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3131783.mp3?origin=rss",
+      "duree": 278
     }
   ],
-  "derniere_activite": "2026-11-14",
+  "derniere_activite": "2026-11-27",
   "frequence_jours": 0
 }

@@ -27,15 +27,21 @@
   "episodes_recents": [
     {
       "titre": "100 amis - Musique générique",
-      "date": "2017-05-24"
+      "date": "2017-05-24",
+      "audio": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/324333876-sexeetdrame-100-amis-musique-generique.mp3",
+      "duree": 123
     },
     {
       "titre": "Sexe et drame - Ep01 - Trump, Daft punk et explosion",
-      "date": "2016-10-13"
+      "date": "2016-10-13",
+      "audio": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/287498899-sexeetdrame-sexe-et-drame-ep01-trump-daft-punk-et-explosion.mp3",
+      "duree": 590
     },
     {
       "titre": "Sexe et drame - Épisode 0 : Cyprien, Portugal et Tour Eiffel",
-      "date": "2016-10-09"
+      "date": "2016-10-09",
+      "audio": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/286791428-sexeetdrame-sexe-et-drame-episode-0.mp3",
+      "duree": 829
     }
   ],
   "derniere_activite": "2017-05-24",

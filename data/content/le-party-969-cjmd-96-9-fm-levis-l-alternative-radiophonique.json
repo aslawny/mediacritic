@@ -26,26 +26,36 @@
   "updatedAt": "2026-05-03",
   "episodes_recents": [
     {
+      "titre": "Le Party 969 du 27 novembre 2026",
+      "date": "2026-11-27",
+      "audio": "https://sphinx.acast.com/p/open/s/632b3800c2b90900143950d5/e/6b09d72202fe9422bf9fe537/media.mp3",
+      "duree": 965
+    },
+    {
+      "titre": "Le Party 969 du 20 novembre 2026",
+      "date": "2026-11-20",
+      "audio": "https://sphinx.acast.com/p/open/s/632b3800c2b90900143950d5/e/6b009c9cd0e980d0cfddd776/media.mp3",
+      "duree": 961
+    },
+    {
       "titre": "Le Party 969 du 13 novembre 2026",
-      "date": "2026-11-13"
+      "date": "2026-11-13",
+      "audio": "https://sphinx.acast.com/p/open/s/632b3800c2b90900143950d5/e/6af7620f9dce4328090ce598/media.mp3",
+      "duree": 947
     },
     {
       "titre": "Le Party 969 du 6 novembre 2026",
-      "date": "2026-11-06"
+      "date": "2026-11-06",
+      "audio": "https://sphinx.acast.com/p/open/s/632b3800c2b90900143950d5/e/6aee279a2dd74bda336e5466/media.mp3",
+      "duree": 960
     },
     {
       "titre": "Le Party 969 du 30 octobre 2026",
-      "date": "2026-10-30"
-    },
-    {
-      "titre": "Le Party 969 du 23 octobre 2026",
-      "date": "2026-10-23"
-    },
-    {
-      "titre": "Le Party 969 - 11 septembre 2026",
-      "date": "2026-09-11"
+      "date": "2026-10-30",
+      "audio": "https://sphinx.acast.com/p/open/s/632b3800c2b90900143950d5/e/6ae4defec89efe586612bbca/media.mp3",
+      "duree": 946
     }
   ],
-  "derniere_activite": "2026-11-13",
-  "frequence_jours": 6
+  "derniere_activite": "2026-11-27",
+  "frequence_jours": 7
 }

@@ -63,25 +63,29 @@
   "derniere_activite": "2026-11-17",
   "frequence_jours": 14,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-29",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-28",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "AlexAmande",
+        "titre": "Merci beaucoup pour votre podcast",
+        "texte": "Merci beaucoup, Salomé, pour ce très chouette épisode avec Émilie Calame. Ça doit être incroyable vos discussions, lorsque vous êtes toutes les deux !!! C’est beau de vous entendre toutes les deux vous exprimer, tant sur la forme, que sur le fond !! Merci encore 🙏🙏🙏"
+      },
+      {
+        "note": 5,
+        "auteur": "m kra",
+        "titre": "Merci d’exister",
+        "texte": "Je me régale à chaque épisode que je découvre. Le sujet de la mère (im)parfaite me parle tellement… Les sujets sont traités avec beaucoup d’intelligence et une richesse de points de vue. Merci d’exister et j’espère encore pour longtemps."
+      },
+      {
+        "note": 5,
+        "auteur": "No_75018",
+        "titre": "Vivement les autres épisodes",
+        "texte": "J’ai adoré suivre cet échange. Passionnante Julia Kerninon. Merci pour cette discussion authentique et sincère qui fait du bien à écouter. Je vais partager l’épisode."
+      }
     ]
   }
 }

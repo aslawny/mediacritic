@@ -29,26 +29,36 @@
   "updatedAt": "2026-07-30",
   "episodes_recents": [
     {
+      "titre": "Voyage dans une mine de l’Outback, en Australie",
+      "date": "2026-11-24",
+      "audio": "https://media.transistor.fm/3c914a84/5dd4c6e5.mp3",
+      "duree": 199
+    },
+    {
+      "titre": "Musée de l'Acropole de Athènes",
+      "date": "2026-11-17",
+      "audio": "https://media.transistor.fm/2a094405/35e06ed6.mp3",
+      "duree": 207
+    },
+    {
       "titre": "Robben Island - La Cap",
-      "date": "2026-11-10"
+      "date": "2026-11-10",
+      "audio": "https://media.transistor.fm/bce223f0/b81770ae.mp3",
+      "duree": 217
     },
     {
       "titre": "Cité du Volcan - Île de La Réunion",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "audio": "https://media.transistor.fm/6133eb8f/dd4c4e14.mp3",
+      "duree": 184
     },
     {
       "titre": "Voyage au Musée d’Erawan à Bangkok",
-      "date": "2026-10-27"
-    },
-    {
-      "titre": "La Ferme de Duvugardar des îles Féroé",
-      "date": "2026-10-20"
-    },
-    {
-      "titre": "Rendez-vous au Musée d'Olduvai en Tanzanie",
-      "date": "2026-10-13"
+      "date": "2026-10-27",
+      "audio": "https://media.transistor.fm/21c2c5f9/cddd2cdf.mp3",
+      "duree": 209
     }
   ],
-  "derniere_activite": "2026-11-10",
+  "derniere_activite": "2026-11-24",
   "frequence_jours": 7
 }

@@ -29,26 +29,36 @@
   "updatedAt": "2026-06-15",
   "episodes_recents": [
     {
+      "titre": "800VDC Data Centers & The Omniverse",
+      "date": "2026-11-19",
+      "audio": "https://api.riverside.com/hosting-analytics/media/68cd09a56e20b90303e03a7afe0772f364cfa2d986d8f4981e1bbd1fca3d2046/eyJlcGlzb2RlSWQiOiIxYjFlODg0YS0xNDE0LTQ4ZDEtOGRiMC1mNzlkZTYyM2Q2NjQiLCJwb2RjYXN0SWQiOiIyZWI1OTZiMi04ZmZlLTQxNGMtOTUxNy1iYWZlODRmYzQzOGIiLCJhY2NvdW50SWQiOiI2OTBjN2M2ZTg4NDBjYjZjZTY0ZjlhMzkiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFmYzlkNmQwZTI1NDkxYWU2NDBhMDk0L2pvbmF0aGFuLWdhbGFib3ZzLXN0dWRpby0yMDI2LTExLTE3X18xOC0zMS05Lm1wMyJ9.mp3",
+      "duree": 2403
+    },
+    {
       "titre": "OCP Global Summit Takeaways: Part Three",
-      "date": "2026-11-10"
+      "date": "2026-11-10",
+      "audio": "https://api.riverside.com/hosting-analytics/media/b0773cd62927599ef94050a1293244e2746731e033269bfe66e069fbad709349/eyJlcGlzb2RlSWQiOiIwZmFlMTA0Zi1hNWNhLTRhMWUtOGEwZC02NTY5NDAyMGUxOTkiLCJwb2RjYXN0SWQiOiIyZWI1OTZiMi04ZmZlLTQxNGMtOTUxNy1iYWZlODRmYzQzOGIiLCJhY2NvdW50SWQiOiI2OTBjN2M2ZTg4NDBjYjZjZTY0ZjlhMzkiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFmMjEwMjJlMmRlMWFjNmNkOTU2YWJkL2pvbmF0aGFuLWdhbGFib3ZzLXN0dWRpby0yMDI2LTExLTlfXzE4LTI1LTM4Lm1wMyJ9.mp3",
+      "duree": 1427
     },
     {
       "titre": "OCP Global Summit Takeaways: PART TWO",
-      "date": "2026-11-03"
+      "date": "2026-11-03",
+      "audio": "https://api.riverside.com/hosting-analytics/media/3dc1c5cfa0775caf329bad2e313ff2a98542bedaac834b71ffdf938c2819e6a1/eyJlcGlzb2RlSWQiOiJkNjRkZDEyOC1kYTI4LTRiMTYtODgxYi1jN2ZmODZhM2M0ZmIiLCJwb2RjYXN0SWQiOiIyZWI1OTZiMi04ZmZlLTQxNGMtOTUxNy1iYWZlODRmYzQzOGIiLCJhY2NvdW50SWQiOiI2OTBjN2M2ZTg4NDBjYjZjZTY0ZjlhMzkiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFlOTI3NDNlYWY0YzllOTQzNzg0ODYwL2pvbmF0aGFuLWdhbGFib3ZzLXN0dWRpby0yMDI2LTExLTNfXzAtMTMtNTUubXAzIn0=.mp3",
+      "duree": 1401
     },
     {
       "titre": "OCP Global Summit Takeaways: PART ONE",
-      "date": "2026-10-27"
+      "date": "2026-10-27",
+      "audio": "https://api.riverside.com/hosting-analytics/media/877d13225b531f3b8dd8e2fb3a500c14ff3c76a39b07d67ab125327f4192240e/eyJlcGlzb2RlSWQiOiI0YjYxYjRjNC1lMWNjLTQ5NTItOGM4Ny01OTcwMGMyOTdiYjkiLCJwb2RjYXN0SWQiOiIyZWI1OTZiMi04ZmZlLTQxNGMtOTUxNy1iYWZlODRmYzQzOGIiLCJhY2NvdW50SWQiOiI2OTBjN2M2ZTg4NDBjYjZjZTY0ZjlhMzkiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFkZmM2ZTFjNzU0MTgwN2M3ZTNkOGFjL2pvbmF0aGFuLWdhbGFib3ZzLXN0dWRpby0yMDI2LTEwLTI2X18yMS0zMi0xNy5tcDMifQ==.mp3",
+      "duree": 1134
     },
     {
       "titre": "Is Europe ready to build gigawatts of AI capacity?",
-      "date": "2026-10-20"
-    },
-    {
-      "titre": "A Practitioners Guide to Liquid Cooling",
-      "date": "2026-09-29"
+      "date": "2026-10-20",
+      "audio": "https://api.riverside.com/hosting-analytics/media/864f35127b15e41ccfffd6ff7fe199735ad158e00733575fa6cc91f9098c58d9/eyJlcGlzb2RlSWQiOiIxZjJhODljOS0wM2JmLTQ2MjEtOGQ2YS01ZmJlMGRhZmFlN2MiLCJwb2RjYXN0SWQiOiIyZWI1OTZiMi04ZmZlLTQxNGMtOTUxNy1iYWZlODRmYzQzOGIiLCJhY2NvdW50SWQiOiI2OTBjN2M2ZTg4NDBjYjZjZTY0ZjlhMzkiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFkNzMxYWYzODMwOWM0NGVkOWM2NWE1L2pvbmF0aGFuLWdhbGFib3ZzLXN0dWRpby0yMDI2LTEwLTIwX185LTE3LTM1Lm1wMyJ9.mp3",
+      "duree": 1202
     }
   ],
-  "derniere_activite": "2026-11-10",
+  "derniere_activite": "2026-11-19",
   "frequence_jours": 7
 }

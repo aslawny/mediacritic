@@ -58,5 +58,25 @@
     }
   ],
   "derniere_activite": "2026-11-23",
-  "frequence_jours": 7
+  "frequence_jours": 7,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-28",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "MylèneCos",
+        "titre": "Un booster instantané !",
+        "texte": "Véritable coup de boost dès le lundi matin. Une envie renforcée pour oser juste après l’écoute. Le petit plus, durée de l’épisode : parfait pour un trajet entre deux clients. Hâte de découvrir la suite…"
+      },
+      {
+        "note": 5,
+        "auteur": "Manon Morales 05",
+        "titre": "Un vrai plaisir à écouter",
+        "texte": "Je prends plaisir à écouter les différentes interviews du podcast d’Alizée, un vrai plaisir. Merci encore !"
+      }
+    ]
+  }
 }

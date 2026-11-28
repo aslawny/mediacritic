@@ -25,5 +25,39 @@
     "business"
   ],
   "addedAt": "2026-10-29",
-  "updatedAt": "2026-11-27"
+  "updatedAt": "2026-11-27",
+  "episodes_recents": [
+    {
+      "titre": "Fatim, contrôleuse des Finances publiques",
+      "date": "2026-11-03",
+      "audio": "https://op3.dev/e,pg=36a37c39-0710-5fbe-adf8-883315d7ef99/www.vodio.fr/emissions/_ecole_financespubliquesfr_ZNpScDFlQkEMSsk4Hyun/podcast-eurekafip-ep12-fatim.mp3",
+      "duree": 1336
+    },
+    {
+      "titre": "Justine, inspectrice des Finances publiques",
+      "date": "2026-10-06",
+      "audio": "https://op3.dev/e,pg=36a37c39-0710-5fbe-adf8-883315d7ef99/www.vodio.fr/emissions/_ecole_financespubliquesfr_ZNpScDFlQkEMSsk4Hyun/podcast-eurekafip-ep11-justine.mp3",
+      "duree": 1033
+    },
+    {
+      "titre": "Alizé, inspectrice des Finances publiques",
+      "date": "2026-09-15",
+      "audio": "https://op3.dev/e,pg=36a37c39-0710-5fbe-adf8-883315d7ef99/www.vodio.fr/emissions/_ecole_financespubliquesfr_ZNpScDFlQkEMSsk4Hyun/podcast-eurekafip-ep10-alize.mp3",
+      "duree": 1572
+    },
+    {
+      "titre": "Nathalie, agente des Finances publiques",
+      "date": "2026-06-02",
+      "audio": "https://op3.dev/e,pg=36a37c39-0710-5fbe-adf8-883315d7ef99/www.vodio.fr/emissions/_ecole_financespubliquesfr_ZNpScDFlQkEMSsk4Hyun/podcast-eurekafip-ep09-nathalie-1.mp3",
+      "duree": 1371
+    },
+    {
+      "titre": "Lisa, agente des Finances publiques - partie 2",
+      "date": "2026-05-12",
+      "audio": "https://op3.dev/e,pg=36a37c39-0710-5fbe-adf8-883315d7ef99/www.vodio.fr/emissions/_ecole_financespubliquesfr_ZNpScDFlQkEMSsk4Hyun/podcast-eurekafip-ep08-lisa-2.mp3",
+      "duree": 903
+    }
+  ],
+  "derniere_activite": "2026-11-03",
+  "frequence_jours": 21
 }

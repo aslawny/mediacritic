@@ -63,25 +63,29 @@
   "derniere_activite": "2026-11-19",
   "frequence_jours": 27,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-29",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-28",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "indetermination",
+        "titre": "Miracle",
+        "texte": "Perso ... j’aime voir un binôme dynamique donner son point de vue avec autant d’humour et d’énergie. La parfumerie s’habille de secrets ce qui laisse à penser à certains que c’est un art qui serait inaccessible aux commentaires concrets et au partage de savoir.…"
+      },
+      {
+        "note": 2,
+        "auteur": "MehdiPSG92",
+        "titre": "Pas ouf !",
+        "texte": "Des « wesh wesh » qui ne font que critiquer et qui n’aiment pas grand chose. Le rythme des émissions donne envie de dormir. Y’a de la connaissance mais y’a surtout des efforts à faire pour rendre ce Podcast plus agréable…"
+      },
+      {
+        "note": 5,
+        "auteur": "Amazopoly",
+        "titre": "Indispensable!",
+        "texte": "Un podcast indispensable pour découvrir l'univers du parfum, avec des chroniques fouillées et sans concession. Je n'ai pas trouvé mieux sur le sujet."
+      }
     ]
   }
 }

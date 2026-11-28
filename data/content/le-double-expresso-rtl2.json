@@ -60,25 +60,29 @@
   "derniere_activite": "2026-11-22",
   "frequence_jours": 0,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-29",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-28",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "AndreaGRZ",
+        "titre": "Rtl2",
+        "texte": "C’est là meilleur radio du monde je l’écoute tout les jours 🤩🤩🤩🤩"
+      },
+      {
+        "note": 1,
+        "auteur": "laure11938374",
+        "titre": "Plus d’acces!",
+        "texte": "Bonjour, Je suis au Vietnam et je n’ai plus acces a ce podcast!!"
+      },
+      {
+        "note": 1,
+        "auteur": "fier efhfhgufxb",
+        "titre": "Un peu naze",
+        "texte": "Je trouve ça dommage que ce soit une radio avec plein de pub dans ma voiture"
+      }
     ]
   }
 }

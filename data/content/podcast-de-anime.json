@@ -30,11 +30,15 @@
   "episodes_recents": [
     {
       "titre": "Podcast de anime #01 [tonikaku kawaii]",
-      "date": "2020-11-24"
+      "date": "2020-11-24",
+      "audio": "https://anchor.fm/s/40efa96c/podcast/play/22844086/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-19%2F63609134-e2a8-d9b1-dbcb-cd9bdc8e75e4.mp3",
+      "duree": 2392
     },
     {
       "titre": "Podcast de anime #00 [Piloto]",
-      "date": "2020-11-19"
+      "date": "2020-11-19",
+      "audio": "https://anchor.fm/s/40efa96c/podcast/play/22839314/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-19%2F50f20b7d-07da-1223-a62f-a20b87095e91.mp3",
+      "duree": 26
     }
   ],
   "derniere_activite": "2020-11-24"

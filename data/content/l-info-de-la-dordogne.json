@@ -26,26 +26,36 @@
   "updatedAt": "2026-05-03",
   "episodes_recents": [
     {
-      "titre": "L'info de la Dordogne du 14/11/26 à 12h30",
-      "date": "2026-11-14"
+      "titre": "L'info de la Dordogne du 27/11/26 à 19h00",
+      "date": "2026-11-27",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3137742.mp3?origin=rss",
+      "duree": 224
     },
     {
-      "titre": "L'info de la Dordogne du 14/11/26 à 12h00",
-      "date": "2026-11-14"
+      "titre": "L'info de la Dordogne du 27/11/26 à 18h00",
+      "date": "2026-11-27",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3137126.mp3?origin=rss",
+      "duree": 224
     },
     {
-      "titre": "L'info de la Dordogne du 14/11/26 à 08h30",
-      "date": "2026-11-14"
+      "titre": "L'info de la Dordogne du 27/11/26 à 12h30",
+      "date": "2026-11-27",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3133801.mp3?origin=rss",
+      "duree": 453
     },
     {
-      "titre": "L'info de la Dordogne du 14/11/26 à 07h59",
-      "date": "2026-11-14"
+      "titre": "L'info de la Dordogne du 27/11/26 à 12h00",
+      "date": "2026-11-27",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3133802.mp3?origin=rss",
+      "duree": 419
     },
     {
-      "titre": "L'info de la Dordogne du 14/11/26 à 07h30",
-      "date": "2026-11-14"
+      "titre": "L'info de la Dordogne du 27/11/26 à 08h29",
+      "date": "2026-11-27",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3131399.mp3?origin=rss",
+      "duree": 278
     }
   ],
-  "derniere_activite": "2026-11-14",
+  "derniere_activite": "2026-11-27",
   "frequence_jours": 0
 }

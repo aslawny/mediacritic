@@ -28,27 +28,37 @@
   "updatedAt": "2026-11-27",
   "episodes_recents": [
     {
+      "titre": "Parler en son « Je » avec bell hooks",
+      "date": "2026-11-25",
+      "audio": "https://feeds.soundcloud.com/stream/2440622664-maison-de-la-poesie-parler-en-son-je-avec-bell.mp3",
+      "duree": 7920
+    },
+    {
+      "titre": "Mathias Enard, Hôtel Balkan, Mélancolie des confins II – Est",
+      "date": "2026-11-19",
+      "audio": "https://feeds.soundcloud.com/stream/2432063175-maison-de-la-poesie-mathias-enard-h-tel-balkan-m.mp3",
+      "duree": 3142
+    },
+    {
       "titre": "Olivier Rolin, La guerre éternelle",
-      "date": "2026-11-01"
+      "date": "2026-11-01",
+      "audio": "https://feeds.soundcloud.com/stream/2427512010-maison-de-la-poesie-olivier-rolin-la-guerre.mp3",
+      "duree": 5541
     },
     {
       "titre": "Boris Bergmann, Minotaure",
-      "date": "2026-10-31"
+      "date": "2026-10-31",
+      "audio": "https://feeds.soundcloud.com/stream/2427461694-maison-de-la-poesie-boris-bergmann-minotaure.mp3",
+      "duree": 3239
     },
     {
       "titre": "Esther Teillard, Fuck Circus",
-      "date": "2026-10-30"
-    },
-    {
-      "titre": "Anne Godard, Nous aussi",
-      "date": "2026-10-29"
-    },
-    {
-      "titre": "Laure Adler, Presque juive",
-      "date": "2026-10-28"
+      "date": "2026-10-30",
+      "audio": "https://feeds.soundcloud.com/stream/2427425853-maison-de-la-poesie-esther-teillard-fuck-circus.mp3",
+      "duree": 3903
     }
   ],
-  "derniere_activite": "2026-11-01",
+  "derniere_activite": "2026-11-25",
   "frequence_jours": 1,
   "avis_publics": {
     "epuise": true,

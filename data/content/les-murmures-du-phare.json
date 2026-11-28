@@ -25,5 +25,39 @@
     "culture"
   ],
   "addedAt": "2026-10-29",
-  "updatedAt": "2026-11-27"
+  "updatedAt": "2026-11-27",
+  "episodes_recents": [
+    {
+      "titre": "Nymphose",
+      "date": "2026-10-31",
+      "audio": "https://op3.dev/e,pg=f7186d9f-7e34-54f1-b0fa-04a1327f10a5/www.vodio.fr/emissions/_bricevincent_7zVWhJmbJ66BqgW12XIQ/ep2s02-v4-1.mp3",
+      "duree": 5139
+    },
+    {
+      "titre": "Dissociation",
+      "date": "2026-06-24",
+      "audio": "https://op3.dev/e,pg=f7186d9f-7e34-54f1-b0fa-04a1327f10a5/www.vodio.fr/emissions/_bricevincent_7zVWhJmbJ66BqgW12XIQ/ep3s02-v3.mp3",
+      "duree": 3657
+    },
+    {
+      "titre": "Paréidolie",
+      "date": "2026-05-15",
+      "audio": "https://op3.dev/e,pg=f7186d9f-7e34-54f1-b0fa-04a1327f10a5/www.vodio.fr/emissions/_bricevincent_7zVWhJmbJ66BqgW12XIQ/ep2s02-v4.mp3",
+      "duree": 3605
+    },
+    {
+      "titre": "La Croix de Mosaï",
+      "date": "2025-10-31",
+      "audio": "https://op3.dev/e,pg=f7186d9f-7e34-54f1-b0fa-04a1327f10a5/www.vodio.fr/emissions/_bricevincent_7zVWhJmbJ66BqgW12XIQ/ep1s01-v3.mp3",
+      "duree": 3199
+    },
+    {
+      "titre": "La Pièce manquante",
+      "date": "2024-12-12",
+      "audio": "https://op3.dev/e,pg=f7186d9f-7e34-54f1-b0fa-04a1327f10a5/www.vodio.fr/emissions/_bricevincent_7zVWhJmbJ66BqgW12XIQ/mastering-murmures-du-phare-ep7-1-v3.mp3",
+      "duree": 4394
+    }
+  ],
+  "derniere_activite": "2026-10-31",
+  "frequence_jours": 7
 }

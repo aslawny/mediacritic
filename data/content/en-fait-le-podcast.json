@@ -33,15 +33,21 @@
   "episodes_recents": [
     {
       "titre": "EPISODE 2 : LE CONGÉ MENSTRUEL",
-      "date": "2023-05-05"
+      "date": "2023-05-05",
+      "audio": "https://sphinx.acast.com/p/open/s/63ca76053630810010404d47/e/6454e39b9a120f0011268859/media.mp3",
+      "duree": 3201
     },
     {
       "titre": "EPISODE 1 : LES DATES POURRIS",
-      "date": "2023-02-20"
+      "date": "2023-02-20",
+      "audio": "https://sphinx.acast.com/p/open/s/63ca76053630810010404d47/e/63f35b238f39660011595f2f/media.mp3",
+      "duree": 3553
     },
     {
       "titre": "Episode 0 : Trouver un nom",
-      "date": "2023-02-04"
+      "date": "2023-02-04",
+      "audio": "https://sphinx.acast.com/p/open/s/63ca76053630810010404d47/e/63de91177e073900110dc67b/media.mp3",
+      "duree": 2591
     }
   ],
   "derniere_activite": "2023-05-05",

@@ -27,26 +27,36 @@
   "updatedAt": "2026-05-03",
   "episodes_recents": [
     {
-      "titre": "La matinale des Super Lève Tôt du 13/11",
-      "date": "2026-11-13"
+      "titre": "La matinale des Super Lève Tôt du 27/11",
+      "date": "2026-11-27",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3132869.mp3?origin=rss",
+      "duree": 11644
     },
     {
-      "titre": "La matinale des Super Lève Tôt du 12/11",
-      "date": "2026-11-12"
+      "titre": "La matinale des Super Lève Tôt du 26/11",
+      "date": "2026-11-26",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3132868.mp3?origin=rss",
+      "duree": 11797
     },
     {
-      "titre": "La matinale des Super Lève Tôt du 10/11",
-      "date": "2026-11-10"
+      "titre": "La matinale des Super Lève Tôt du 25/11",
+      "date": "2026-11-25",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3108875.mp3?origin=rss",
+      "duree": 11577
     },
     {
-      "titre": "La matinale des Super Lève Tôt du 09/11",
-      "date": "2026-11-09"
+      "titre": "La matinale des Super Lève Tôt du 24/11",
+      "date": "2026-11-24",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3097461.mp3?origin=rss",
+      "duree": 11830
     },
     {
-      "titre": "La matinale des Super Lève Tôt du 06/11",
-      "date": "2026-11-06"
+      "titre": "La matinale des Super Lève Tôt du 23/11",
+      "date": "2026-11-23",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3086351.mp3?origin=rss",
+      "duree": 12222
     }
   ],
-  "derniere_activite": "2026-11-13",
+  "derniere_activite": "2026-11-27",
   "frequence_jours": 1
 }

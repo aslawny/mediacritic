@@ -27,23 +27,33 @@
   "episodes_recents": [
     {
       "titre": "Podcast du 04/10/2026 - 12:03",
-      "date": "2026-10-04"
+      "date": "2026-10-04",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2796166.mp3?origin=rss",
+      "duree": 7200
     },
     {
       "titre": "Podcast du 27/09/2026 - 12:03",
-      "date": "2026-09-27"
+      "date": "2026-09-27",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2779851.mp3?origin=rss",
+      "duree": 7201
     },
     {
       "titre": "Podcast du 20/09/2026 - 12:03",
-      "date": "2026-09-20"
+      "date": "2026-09-20",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2764429.mp3?origin=rss",
+      "duree": 7200
     },
     {
       "titre": "Podcast du 13/09/2026 - 12:03",
-      "date": "2026-09-13"
+      "date": "2026-09-13",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2748186.mp3?origin=rss",
+      "duree": 7200
     },
     {
       "titre": "Podcast du 06/09/2026 - 12:03",
-      "date": "2026-09-06"
+      "date": "2026-09-06",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2733011.mp3?origin=rss",
+      "duree": 7200
     }
   ],
   "derniere_activite": "2026-10-04",

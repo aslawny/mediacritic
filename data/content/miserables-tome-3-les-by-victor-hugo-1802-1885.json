@@ -29,23 +29,33 @@
   "episodes_recents": [
     {
       "titre": "Livre 1 - Chapitre 01 - Parvulus",
-      "date": null
+      "date": null,
+      "audio": "https://www.archive.org/download/miserables_t3_1108_librivox/lesmiserables_t3_01_hugo_64kb.mp3",
+      "duree": 123
     },
     {
       "titre": "Livre 1 - Chapitre 02 - Quelques-uns de ses signes particuliers",
-      "date": null
+      "date": null,
+      "audio": "https://www.archive.org/download/miserables_t3_1108_librivox/lesmiserables_t3_02_hugo_64kb.mp3",
+      "duree": 200
     },
     {
       "titre": "Livre 1 - Chapitre 03 - Il est agréable",
-      "date": null
+      "date": null,
+      "audio": "https://www.archive.org/download/miserables_t3_1108_librivox/lesmiserables_t3_03_hugo_64kb.mp3",
+      "duree": 194
     },
     {
       "titre": "Livre 1 - Chapitre 04 - Il peut être utile",
-      "date": null
+      "date": null,
+      "audio": "https://www.archive.org/download/miserables_t3_1108_librivox/lesmiserables_t3_04_hugo_64kb.mp3",
+      "duree": 133
     },
     {
       "titre": "Livre 1 - Chapitre 05 - Ses frontières",
-      "date": null
+      "date": null,
+      "audio": "https://www.archive.org/download/miserables_t3_1108_librivox/lesmiserables_t3_05_hugo_64kb.mp3",
+      "duree": 358
     }
   ]
 }

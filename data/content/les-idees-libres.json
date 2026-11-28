@@ -57,5 +57,31 @@
     }
   ],
   "derniere_activite": "2024-12-31",
-  "frequence_jours": 181
+  "frequence_jours": 181,
+  "avis_publics": {
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-28",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "AlHurr75",
+        "titre": "A ne pas manquer !",
+        "texte": "Une analyse toujours fine, précise et à la fois pédagogique d’évènements complexes. Un podcast qui s’écoute tout seul et qui enrichie notre compréhension du monde. Une vision que l’on n’entend nulle part ailleurs et qui manque beaucoup aux médias !"
+      },
+      {
+        "note": 5,
+        "auteur": "YasmineSJL",
+        "titre": "Passionnant",
+        "texte": "Je suis ravie de ce podcast. Yasser décrypte l’actualité avec pertinence et nous donne à réfléchir. J’ai aimé aussi qu’il nous partage ses lectures. Le format est particulièrement plaisant à l’écoute, même avec des sujets sérieux."
+      },
+      {
+        "note": 5,
+        "auteur": "qatousse",
+        "titre": "Magistral!",
+        "texte": "L’animateur sort des sentiers battus et va vraiment au fond des choses. Chaque épisode est une mine d’informations et les analyses sont vraiment limpides. Dommage que podcast n’est pas assez médiatisé"
+      }
+    ]
+  }
 }

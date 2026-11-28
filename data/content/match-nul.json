@@ -29,23 +29,33 @@
   "episodes_recents": [
     {
       "titre": "Match Nul Ep110",
-      "date": "2024-09-01"
+      "date": "2024-09-01",
+      "audio": "https://public-api.wordpress.com/wpcom/v2/sites/155901574/podcast-play/3745.mp3",
+      "duree": 1720
     },
     {
       "titre": "Match Nul Ep109 – Éducatif Vol. 2",
-      "date": "2024-08-01"
+      "date": "2024-08-01",
+      "audio": "https://public-api.wordpress.com/wpcom/v2/sites/155901574/podcast-play/3586.mp3",
+      "duree": 3206
     },
     {
       "titre": "Match Nul Ep108",
-      "date": "2024-07-01"
+      "date": "2024-07-01",
+      "audio": "https://public-api.wordpress.com/wpcom/v2/sites/155901574/podcast-play/3548.mp3",
+      "duree": 1364
     },
     {
       "titre": "Match Nul Ep107",
-      "date": "2024-06-01"
+      "date": "2024-06-01",
+      "audio": "https://public-api.wordpress.com/wpcom/v2/sites/155901574/podcast-play/3512.mp3",
+      "duree": 1828
     },
     {
       "titre": "Les Mille et Une Vies des Coyotes",
-      "date": "2024-05-01"
+      "date": "2024-05-01",
+      "audio": "https://public-api.wordpress.com/wpcom/v2/sites/155901574/podcast-play/3484.mp3",
+      "duree": 3722
     }
   ],
   "derniere_activite": "2024-09-01",

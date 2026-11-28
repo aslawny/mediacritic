@@ -28,26 +28,36 @@
   "updatedAt": "2026-10-08",
   "episodes_recents": [
     {
+      "titre": "LES ANNEAUX DE POUVOIR - LA SÉRIE QUE PERSONNE NE REGARDE",
+      "date": "2026-11-27",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3132392.mp3?origin=rss",
+      "duree": 287
+    },
+    {
+      "titre": "ELDORADO - L'AFFAIRE DES AVIONS RENIFLEURS",
+      "date": "2026-11-24",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3099075.mp3?origin=rss",
+      "duree": 197
+    },
+    {
+      "titre": "LA COMTESSE DE MONTE-CRISTO - LA VERSION FÉMININE",
+      "date": "2026-11-20",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3046013.mp3?origin=rss",
+      "duree": 227
+    },
+    {
+      "titre": "HEARTLAND - UN THRILLER COUNTRY",
+      "date": "2026-11-17",
+      "audio": "https://api.octopus.saooti.com/podcast/download/3026247.mp3?origin=rss",
+      "duree": 163
+    },
+    {
       "titre": "IL FAUT BRÛLER MAMAN - UNE COMÉDIE POUSSIVE",
-      "date": "2026-11-13"
-    },
-    {
-      "titre": "CHRONIQUE ARCTIQUE 2 - LE RETOUR DE LA SÉRIE GLACÉE",
-      "date": "2026-11-10"
-    },
-    {
-      "titre": "GODZILLA MINUS ZERO - ENFIN DU VRAI CINÉMA",
-      "date": "2026-11-06"
-    },
-    {
-      "titre": "COLLISION - UN THRILLER ALTERNATIF",
-      "date": "2026-11-03"
-    },
-    {
-      "titre": "CARRIE - L'ADAPTATION MODERNE DE CARRIE AU BAL DU DIABLE",
-      "date": "2026-10-30"
+      "date": "2026-11-13",
+      "audio": "https://api.octopus.saooti.com/podcast/download/2990477.mp3?origin=rss",
+      "duree": 218
     }
   ],
-  "derniere_activite": "2026-11-13",
+  "derniere_activite": "2026-11-27",
   "frequence_jours": 3
 }

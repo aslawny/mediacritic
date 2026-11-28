@@ -29,23 +29,33 @@
   "episodes_recents": [
     {
       "titre": "Is It Easier to Write a Vulnerability Than to Find One?",
-      "date": "2026-09-23"
+      "date": "2026-09-23",
+      "audio": "https://anchor.fm/s/10c349b3c/podcast/play/126200947/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-23%2F432519919-44100-2-18a43563d0cbb.mp3",
+      "duree": 2305
     },
     {
       "titre": "Durable Execution for AI Agents in Kubernetes",
-      "date": "2026-09-09"
+      "date": "2026-09-09",
+      "audio": "https://anchor.fm/s/10c349b3c/podcast/play/125465415/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-9%2F431529929-44100-2-2e375bc086e3b.mp3",
+      "duree": 2656
     },
     {
       "titre": "Matt Barker (BoltMCP) on SPIFFE, AI Agent Identity, and Kubernetes",
-      "date": "2026-08-26"
+      "date": "2026-08-26",
+      "audio": "https://anchor.fm/s/10c349b3c/podcast/play/124762254/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-26%2F430578587-44100-2-524d1c19ad6dc.mp3",
+      "duree": 2804
     },
     {
       "titre": "Disaggregated Inference on Kubernetes",
-      "date": "2026-08-12"
+      "date": "2026-08-12",
+      "audio": "https://anchor.fm/s/10c349b3c/podcast/play/124129197/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-12%2F429713375-44100-2-83ff99ca2635a.mp3",
+      "duree": 3395
     },
     {
       "titre": "The State of Cloud Native AI and What’s Still Evolving",
-      "date": "2026-07-29"
+      "date": "2026-07-29",
+      "audio": "https://anchor.fm/s/10c349b3c/podcast/play/123457954/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-29%2F428802023-44100-2-077823ad2c227.mp3",
+      "duree": 2899
     }
   ],
   "derniere_activite": "2026-09-23",

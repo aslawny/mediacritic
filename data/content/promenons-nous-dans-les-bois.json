@@ -61,25 +61,29 @@
   "derniere_activite": "2025-06-24",
   "frequence_jours": 7,
   "avis_publics": {
-    "epuise": true,
-    "releve": "2026-10-29",
-    "sources_tentees": [
-      "apple:fr/mosthelpful",
-      "apple:fr/mostrecent",
-      "apple:be/mosthelpful",
-      "apple:be/mostrecent",
-      "apple:ch/mosthelpful",
-      "apple:ch/mostrecent",
-      "apple:ca/mosthelpful",
-      "apple:ca/mostrecent",
-      "apple:lu/mosthelpful",
-      "apple:lu/mostrecent",
-      "apple:gb/mosthelpful",
-      "apple:gb/mostrecent",
-      "apple:us/mosthelpful",
-      "apple:us/mostrecent",
-      "apple:mc/mosthelpful",
-      "apple:mc/mostrecent"
+    "source": "apple",
+    "boutique": "fr",
+    "tri": "mosthelpful",
+    "releve": "2026-11-28",
+    "extraits": [
+      {
+        "note": 5,
+        "auteur": "Tom Bezard",
+        "titre": "Pépite !",
+        "texte": "Super podcast, authentique et passionnant ! On a vraiment l’impression de discuter entre amies autour d’un café en écoutant des histoires criminelles parfois connues, parfois totalement inédites.…"
+      },
+      {
+        "note": 3,
+        "auteur": "Lina130491",
+        "titre": "Intéressent mais…",
+        "texte": "Je trouve les sujets abordés très intéressants et bien expliqués, par contre je trouve très dérangeant que vous rigoliez très souvent même faire des blagues alors que vous traitez des sujets très graves… ça me dérange vraiment pendant l’écoute …"
+      },
+      {
+        "note": 5,
+        "auteur": "unestella",
+        "titre": "Vive les név-rosés 💃",
+        "texte": "Entre les true crime suisses et canadiens vos accents ont les mêmes airs 🤪🥰😘 et plus je vous écoute plus je vous kiff 😁 merci pour ces chouettes moments passés avec vous 🥰 C’est comme si on était potes et que vous me racontiez une histoire 😎 Je me surprends parfois à parler avec…"
+      }
     ]
   }
 }

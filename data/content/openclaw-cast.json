@@ -28,26 +28,36 @@
   "updatedAt": "2026-05-28",
   "episodes_recents": [
     {
+      "titre": "Removed From Your OpenClaw Discord Allowlist, Still Let In: The Fix",
+      "date": "2026-11-27",
+      "audio": "https://anchor.fm/s/10f77d9e4/podcast/play/130238239/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-27%2F6990c02f-c3b3-d6a4-a928-68df089986d7.mp3",
+      "duree": 961
+    },
+    {
+      "titre": "An Interrupted OpenClaw Update Can Leave Its Package Missing: What the New Fix Protects",
+      "date": "2026-11-21",
+      "audio": "https://anchor.fm/s/10f77d9e4/podcast/play/129853672/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-21%2F1e5ea115-3def-4b07-b01c-09d5adbedbf3.mp3",
+      "duree": 988
+    },
+    {
       "titre": "OpenClaw Stops Calling a Silent Tool Failure a Success: How to Check Your Agent Really Finished",
-      "date": "2026-11-15"
+      "date": "2026-11-15",
+      "audio": "https://anchor.fm/s/10f77d9e4/podcast/play/129459634/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2Fabdff002-e016-ffad-eef7-012d4ac871a8.mp3",
+      "duree": 976
     },
     {
       "titre": "New Models Now Reach OpenClaw Without an Update: What Changes for Your Gateway",
-      "date": "2026-11-08"
+      "date": "2026-11-08",
+      "audio": "https://anchor.fm/s/10f77d9e4/podcast/play/129066426/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-8%2F080770bb-3579-5a4f-e0a7-f880644a2aeb.mp3",
+      "duree": 369
     },
     {
       "titre": "OpenClaw's Workspace Fix: Test the Tool Route You Use",
-      "date": "2026-10-30"
-    },
-    {
-      "titre": "OpenClaw's Update Can Refuse Your Node Version. Check This First",
-      "date": "2026-10-23"
-    },
-    {
-      "titre": "OpenClaw's New Release Has an Older Version Number",
-      "date": "2026-10-15"
+      "date": "2026-10-30",
+      "audio": "https://anchor.fm/s/10f77d9e4/podcast/play/128444790/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-30%2F34601e2e-1329-01fd-8934-a5df9be7e92a.mp3",
+      "duree": 489
     }
   ],
-  "derniere_activite": "2026-11-15",
+  "derniere_activite": "2026-11-27",
   "frequence_jours": 7
 }

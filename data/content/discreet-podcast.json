@@ -33,11 +33,15 @@
   "episodes_recents": [
     {
       "titre": "Episode 2: The DP Story",
-      "date": "2020-07-04"
+      "date": "2020-07-04",
+      "audio": "https://anchor.fm/s/28b37608/podcast/play/16111692/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-6-4%2F87574411-48000-2-d055f8ce50f9b.mp3",
+      "duree": 705
     },
     {
       "titre": "Episode 1: Introduction",
-      "date": "2020-06-27"
+      "date": "2020-06-27",
+      "audio": "https://anchor.fm/s/28b37608/podcast/play/15778027/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-07-04%2F439f6b20a23eea40511e03fb7e4ab3fa.m4a",
+      "duree": 211
     }
   ],
   "derniere_activite": "2020-07-04"

@@ -28,26 +28,36 @@
   "updatedAt": "2026-07-24",
   "episodes_recents": [
     {
+      "titre": "The four layers of a Databricks decision: data, compute, contract, and who gets paged",
+      "date": "2026-11-23",
+      "audio": "https://anchor.fm/s/110cfe0fc/podcast/play/128636892/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-2%2Fa545ad39-8e57-a828-7edb-487478aa22d5.mp3",
+      "duree": 648
+    },
+    {
       "titre": "Leave or stay? The 4 questions Databricks engineers keep asking (and the 10-minute test that answers them)",
-      "date": "2026-11-16"
+      "date": "2026-11-16",
+      "audio": "https://anchor.fm/s/110cfe0fc/podcast/play/128636827/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-2%2F3e5d5e91-b81e-19a9-52e2-4a719900b87f.mp3",
+      "duree": 701
     },
     {
       "titre": "Medallion architecture vs. reality - when your Databricks bronze, silver and gold are just folders",
-      "date": "2026-11-09"
+      "date": "2026-11-09",
+      "audio": "https://anchor.fm/s/110cfe0fc/podcast/play/128636775/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-2%2F2f44aecb-26e4-940b-db4c-2743b064f52e.mp3",
+      "duree": 736
     },
     {
       "titre": "How the always-sure Databricks engineer caps their own promotion (and never sees it)",
-      "date": "2026-11-02"
+      "date": "2026-11-02",
+      "audio": "https://anchor.fm/s/110cfe0fc/podcast/play/127706898/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-19%2Fcb6a380b-fbce-6cda-1f75-54ea71633b84.mp3",
+      "duree": 656
     },
     {
       "titre": "Two Databricks jobs, one Delta table, same moment: 3 endings (and the 1 that needs a human)",
-      "date": "2026-10-26"
-    },
-    {
-      "titre": "Unity Catalog Can't Manufacture Trust: Your Most-Read Databricks Table Might Be the Least Trusted",
-      "date": "2026-10-19"
+      "date": "2026-10-26",
+      "audio": "https://anchor.fm/s/110cfe0fc/podcast/play/126516150/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-29%2Fb6b794f3-5b33-ca8f-9240-82a8f99a247b.mp3",
+      "duree": 701
     }
   ],
-  "derniere_activite": "2026-11-16",
+  "derniere_activite": "2026-11-23",
   "frequence_jours": 7
 }

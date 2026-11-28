@@ -29,25 +29,107 @@
   "episodes_recents": [
     {
       "titre": "Formation HTML, CSS, JS (Bonus) - Blog & Articles",
-      "date": "2022-01-22"
+      "date": "2022-01-22",
+      "video": "bzkMXOR02m8"
     },
     {
       "titre": "Formation HTML, CSS, JS (Bonus) - Finitions, Formulaire & Mise en ligne",
-      "date": "2022-01-15"
+      "date": "2022-01-15",
+      "video": "f3oaLx5Jmns"
     },
     {
       "titre": "Apprendre le JAVASCRIPT - Créer son Portfolio 3 / 3 - Formation Débutant 2022",
-      "date": "2022-01-02"
+      "date": "2022-01-02",
+      "video": "govD3ZQ-lxc"
     },
     {
       "titre": "Apprendre le CSS - Créer son Portfolio 2 / 3 - Formation Débutant 2022",
-      "date": "2021-12-25"
+      "date": "2021-12-25",
+      "video": "vdpM-c-Wt1o"
     },
     {
       "titre": "Apprendre le HTML - Créer son Portfolio 1 / 3 - Formation Débutant 2022",
-      "date": "2021-12-18"
+      "date": "2021-12-18",
+      "video": "zH_kk8ZzeFo"
     }
   ],
   "derniere_activite": "2022-01-22",
-  "frequence_jours": 13
+  "frequence_jours": 13,
+  "videos": [
+    {
+      "titre": "Formation HTML, CSS, JS (Bonus) - Blog & Articles",
+      "date": "2022-01-22",
+      "video": "bzkMXOR02m8"
+    },
+    {
+      "titre": "Formation HTML, CSS, JS (Bonus) - Finitions, Formulaire & Mise en ligne",
+      "date": "2022-01-15",
+      "video": "f3oaLx5Jmns"
+    },
+    {
+      "titre": "Apprendre le JAVASCRIPT - Créer son Portfolio 3 / 3 - Formation Débutant 2022",
+      "date": "2022-01-02",
+      "video": "govD3ZQ-lxc"
+    },
+    {
+      "titre": "Apprendre le CSS - Créer son Portfolio 2 / 3 - Formation Débutant 2022",
+      "date": "2021-12-25",
+      "video": "vdpM-c-Wt1o"
+    },
+    {
+      "titre": "Apprendre le HTML - Créer son Portfolio 1 / 3 - Formation Débutant 2022",
+      "date": "2021-12-18",
+      "video": "zH_kk8ZzeFo"
+    },
+    {
+      "titre": "Tout Savoir sur le Shopify CLI, Création de Thèmes et Applications Shopify",
+      "date": "2021-12-02",
+      "video": "pMKI7nzvzHs"
+    },
+    {
+      "titre": "Comment Déployer une Application React sur Github Pages",
+      "date": "2021-11-30",
+      "video": "sCbRT9AGncQ"
+    },
+    {
+      "titre": "Tutoriel Système d'onglets - Tabs en Javascript",
+      "date": "2021-11-19",
+      "video": "06L0FxFPNMY"
+    },
+    {
+      "titre": "Comment Faire des Animations au Scroll en React avec GASP - GreenSock",
+      "date": "2021-11-02",
+      "video": "JIiCILS3u8M"
+    },
+    {
+      "titre": "Comment Intégrer des Vidéos en React avec React Player ?",
+      "date": "2021-10-15",
+      "video": "SMcztSqSQ18"
+    },
+    {
+      "titre": "Explication de la mise à jour Theme 2.0 de Shopify",
+      "date": "2021-09-10",
+      "video": "TcoEswkf3mk"
+    },
+    {
+      "titre": "Comment Lancer Visual Studio Code en Ligne de Commande avec le Terminal - Code .",
+      "date": "2021-06-21",
+      "video": "J-GnBygGfMQ"
+    },
+    {
+      "titre": "Système d'Accordéon en React JS - Tutoriel React pour Débutant - Version Hooks 2021",
+      "date": "2021-06-14",
+      "video": "xR_0DwE6DJw"
+    },
+    {
+      "titre": "Comment Gérer les Formats de Date en React JS avec Day.js",
+      "date": "2021-06-09",
+      "video": "ZIhJ0BaWLGk"
+    },
+    {
+      "titre": "Comment Créer des Graphiques en React.JS avec Chart.js",
+      "date": "2021-06-01",
+      "video": "2kf_sHvoRPI"
+    }
+  ]
 }

@@ -29,26 +29,36 @@
   "updatedAt": "2026-06-09",
   "episodes_recents": [
     {
-      "titre": "Terminal Prompt Suggestions and How to Disable Them in Claude Code",
-      "date": "2026-11-16"
+      "titre": "Claude Code 2.1.332: Fixing Compaction Failures and IDE Recovery",
+      "date": "2026-11-27",
+      "audio": "https://op3.dev/e,pg=1aa7f8e2-7619-4233-a132-1b78e0d23caa/media.jellypod.com/storage/v1/object/public/Podcasts/org_01KB11FNVFKQ28576CGFP6B05G/f37b1bb8-2d40-4633-87e3-9129f6b4adea/published/0e78b21b-7b69-4b6c-a547-d504234db611.mp3?v=0e78b21b-7b69-4b6c-a547-d504234db611",
+      "duree": 174
     },
     {
-      "titre": "Fixing Context Sizing and Model Pinning for Subagents in Claude Code 2.1.325",
-      "date": "2026-11-15"
+      "titre": "Claude Code 2.1.332: Enterprise Cloud Defaults & Alias Shifts",
+      "date": "2026-11-26",
+      "audio": "https://op3.dev/e,pg=1aa7f8e2-7619-4233-a132-1b78e0d23caa/media.jellypod.com/storage/v1/object/public/Podcasts/org_01KB11FNVFKQ28576CGFP6B05G/d9d931b1-d99e-4b54-8d1c-71a0e58c4f73/published/2bb6fcde-e02e-4cab-90ca-8c066a0d308f.mp3?v=2bb6fcde-e02e-4cab-90ca-8c066a0d308f",
+      "duree": 260
     },
     {
-      "titre": "Fixing Sandboxed Bash Permission Prompts in Claude Code 2.1.325",
-      "date": "2026-11-14"
+      "titre": "Claude Code 2.1.332: MCP Server Skills and PreSkillShellCommand",
+      "date": "2026-11-25",
+      "audio": "https://op3.dev/e,pg=1aa7f8e2-7619-4233-a132-1b78e0d23caa/media.jellypod.com/storage/v1/object/public/Podcasts/org_01KB11FNVFKQ28576CGFP6B05G/e5f3dd3c-ccde-4549-bbc0-fb0a655a19aa/published/90b8f8c8-3ebe-422e-be41-80b97d9a1a66.mp3?v=90b8f8c8-3ebe-422e-be41-80b97d9a1a66",
+      "duree": 220
     },
     {
-      "titre": "Claude Code 2.1.323: Code Mode and Context Window Traps",
-      "date": "2026-11-13"
+      "titre": "Claude Code 2.1.330: System Prompt Routing & Model Isolation",
+      "date": "2026-11-23",
+      "audio": "https://op3.dev/e,pg=1aa7f8e2-7619-4233-a132-1b78e0d23caa/media.jellypod.com/storage/v1/object/public/Podcasts/org_01KB11FNVFKQ28576CGFP6B05G/e4f0446f-f838-4d6b-b3e5-4dba3449ee0e/published/9ff65145-0fd0-40c7-a925-d098a7174804.mp3?v=9ff65145-0fd0-40c7-a925-d098a7174804",
+      "duree": 251
     },
     {
-      "titre": "Claude Code 2.1.321: Why Deny Rules Are Your New Safety Fence",
-      "date": "2026-11-12"
+      "titre": "Claude Code 2.1.330: Scoped Monorepo Runners with --start-dir",
+      "date": "2026-11-22",
+      "audio": "https://op3.dev/e,pg=1aa7f8e2-7619-4233-a132-1b78e0d23caa/media.jellypod.com/storage/v1/object/public/Podcasts/org_01KB11FNVFKQ28576CGFP6B05G/f6860dfb-8651-4afa-9229-82b845bb4f5a/published/c0a22f78-df87-4f0d-9f06-65238c890750.mp3?v=c0a22f78-df87-4f0d-9f06-65238c890750",
+      "duree": 291
     }
   ],
-  "derniere_activite": "2026-11-16",
-  "frequence_jours": 0
+  "derniere_activite": "2026-11-27",
+  "frequence_jours": 1
 }
